@@ -41,7 +41,7 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url)),
     },
   },
-  uild: {
+  build: {
     rollupOptions: {
       output: {
         manualChunks(id) {
