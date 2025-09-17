@@ -1,16 +1,27 @@
 <template>
   <v-app id="app">
-    <v-app-bar>
-      <v-app-bar-title>TCGTool for WS</v-app-bar-title>
+    <v-navigation-drawer v-model="drawer" temporary>
+      <v-list class="py-0">
+        <template v-for="item in navItems" :key="item.to">
+          <v-list-item :to="item.to" :title="item.text"></v-list-item>
+        </template>
+      </v-list>
+    </v-navigation-drawer>
+
+    <v-app-bar scroll-behavior="elevate" scroll-threshold="160" :color="appBarColor">
+      <template #prepend>
+        <v-app-bar-nav-icon class="d-md-none" @click="drawer = !drawer"></v-app-bar-nav-icon>
+      </template>
+
+      <v-app-bar-title class="font-weight-bold">TCGTool for WS</v-app-bar-title>
 
       <template #append>
-        <v-btn variant="text" to="/" text="首页"></v-btn>
-        <v-btn variant="text" to="/card-database" text="图鉴"></v-btn>
-        <v-btn variant="text" to="/deck-builder" text="组卡器"></v-btn>
-        <v-btn variant="text" to="/decks" text="我的卡组"></v-btn>
-
-        <v-divider class="mx-3 align-self-center" length="24" thickness="2" vertical></v-divider>
-
+        <div class="d-none d-md-block h-100">
+          <template v-for="item in navItems" :key="item.to">
+            <v-btn size="large" variant="text" :to="item.to" :text="item.text" class="h-100 rounded-0"></v-btn>
+          </template>
+        </div>
+        <v-divider class="mx-3 align-self-center d-none d-md-block" length="24" thickness="2" vertical></v-divider>
         <v-btn @click="toggleTheme" icon="mdi-brightness-6"></v-btn>
       </template>
     </v-app-bar>
@@ -26,12 +37,26 @@
 </template>
 
 <script setup>
-import { watchEffect } from 'vue'
+import { ref, watchEffect, computed } from 'vue'
 import { useTheme } from 'vuetify'
 import { useUIStore } from '@/stores/ui';
 
+const drawer = ref(false)
+const navItems = [
+  { text: '首页', to: '/home' },
+  { text: '图鉴', to: '/card-database' },
+  { text: '组卡器', to: '/deck-builder' },
+  { text: '我的卡组', to: '/decks' }
+]
+
 const vuetifyTheme = useTheme()
 const uiStore = useUIStore()
+
+const appBarColor = computed(() => {
+  return vuetifyTheme.global.name.value === 'light'
+    ? 'grey-lighten-3'
+    : 'grey-darken-2'
+})
 
 watchEffect(() => {
   vuetifyTheme.change(uiStore.theme)
