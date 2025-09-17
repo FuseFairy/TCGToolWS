@@ -6,7 +6,7 @@ export const useUIStore = defineStore(
   () => {
     const theme = ref('system')
 
-    function setTheme(newTheme) {
+    const setTheme = (newTheme) => {
       theme.value = newTheme
     }
 

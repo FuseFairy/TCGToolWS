@@ -4,7 +4,7 @@ const assetModules = import.meta.glob('/src/assets/**/*', {
   import: 'default',
 })
 
-export function getAssetsFile(path) {
+export const getAssetsFile = (path) => {
   const fullPathInSrc = `/src/assets/${path}`
   return assetModules[fullPathInSrc]
 }
