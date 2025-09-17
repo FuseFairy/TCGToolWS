@@ -5,9 +5,9 @@
 
       <template #append>
         <v-btn variant="text" to="/" text="首页"></v-btn>
-        <v-btn variant="text" to="/CardDatabase" text="图鉴"></v-btn>
-        <v-btn variant="text" to="/DeckBuilder" text="组卡器"></v-btn>
-        <v-btn variant="text" to="/Decks" text="我的卡组"></v-btn>
+        <v-btn variant="text" to="/card-database" text="图鉴"></v-btn>
+        <v-btn variant="text" to="/deck-builder" text="组卡器"></v-btn>
+        <v-btn variant="text" to="/decks" text="我的卡组"></v-btn>
 
         <v-divider class="mx-3 align-self-center" length="24" thickness="2" vertical></v-divider>
 
