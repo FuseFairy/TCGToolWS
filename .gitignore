@@ -29,3 +29,13 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+
+# Python build artifacts
+temp_build/
+__pycache__/
+*.pyc
+ws_crawler.spec
+
+# crawler data
+assets-source/
+

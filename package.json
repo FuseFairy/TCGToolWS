@@ -11,7 +11,10 @@
     "build": "vite build",
     "preview": "vite preview",
     "lint": "eslint . --fix",
-    "format": "prettier --write src/"
+    "format": "prettier --write src/",
+    "crawl:dev": "python scripts/python/ws_crawler.py",
+    "build:crawl": "powershell -ExecutionPolicy Bypass -File ./scripts/packaging/build_ws_crawler.ps1",
+    "crawl": "bin\\ws_crawler.exe"
   },
   "dependencies": {
     "pinia": "^3.0.3",
