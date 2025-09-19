@@ -2,8 +2,9 @@
   <v-tooltip :text="seriesName" location="top center">
     <template v-slot:activator="{ props }">
       <v-card v-bind="props" class="series-card d-flex flex-column" hover
-        :to="{ name: 'SeriesDetail', params: { seriesName: seriesData.id } }" variant="flat" color="surface">
-        <v-img :src="iconUrl" aspect-ratio="1" cover>
+        :to="{ name: 'SeriesDetail', params: { seriesName: seriesData.id } }" variant="flat" color="surface"
+        rounded="lg">
+        <v-img :src="iconUrl" aspect-ratio="1" cover rounded="lg" class="ma-3">
           <template v-slot:placeholder>
             <div class="d-flex align-center justify-center fill-height">
               <v-progress-circular color="grey-lighten-4" indeterminate></v-progress-circular>
@@ -49,7 +50,7 @@ const iconUrl = computed(() => {
 <style scoped>
 .series-card {
   transition: all 0.2s ease-in-out;
-  border-radius: 12px;
+  /* border-radius: 12px; */
   overflow: hidden;
   height: 100%;
 }
