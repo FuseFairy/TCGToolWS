@@ -3,7 +3,7 @@
     <v-navigation-drawer v-model="drawer" temporary>
       <v-list class="py-0">
         <template v-for="item in navItems" :key="item.to">
-          <v-list-item :to="item.to" :title="item.text"></v-list-item>
+          <v-list-item :to="{ name: item.name }" :title="item.text"></v-list-item>
         </template>
       </v-list>
     </v-navigation-drawer>
@@ -18,7 +18,8 @@
       <template #append>
         <div class="d-none d-md-block h-100">
           <template v-for="item in navItems" :key="item.to">
-            <v-btn size="large" variant="text" :to="item.to" :text="item.text" class="h-100 rounded-0"></v-btn>
+            <v-btn size="large" variant="text" :to="{ name: item.name }" :text="item.text"
+              class="h-100 rounded-0"></v-btn>
           </template>
         </div>
         <v-divider class="mx-3 align-self-center d-none d-md-block" length="24" thickness="2" vertical></v-divider>
@@ -43,10 +44,9 @@ import { useUIStore } from '@/stores/ui';
 
 const drawer = ref(false)
 const navItems = [
-  { text: '首页', to: '/home' },
-  { text: '图鉴', to: '/card-database' },
-  { text: '组卡器', to: '/deck-builder' },
-  { text: '我的卡组', to: '/decks' }
+  { text: '首页', name: 'Home' },
+  { text: '系列卡表', name: 'SeriesCardTable' },
+  { text: '我的卡组', name: 'Decks' }
 ]
 
 const vuetifyTheme = useTheme()

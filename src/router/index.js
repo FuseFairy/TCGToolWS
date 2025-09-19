@@ -3,22 +3,27 @@ import { createRouter, createWebHistory } from 'vue-router'
 const routes = [
   {
     path: '/',
-    redirect: '/home',
+    redirect: { name: 'Home' },
   },
   {
     path: '/home',
+    name: 'Home',
     component: () => import('@/views/HomeView.vue'),
   },
   {
-    path: '/card-database',
-    component: () => import('@/views/CardDatabaseView.vue'),
+    path: '/series-card-table',
+    name: 'SeriesCardTable',
+    component: () => import('@/views/SeriesCardTableView.vue'),
   },
   {
-    path: '/deck-builder',
-    component: () => import('@/views/DeckBuilderView.vue'),
+    path: '/series-card-table/:seriesName',
+    name: 'SeriesDetail',
+    component: () => import('@/views/SeriesDetailView.vue'),
+    props: true,
   },
   {
     path: '/decks',
+    name: 'Decks',
     component: () => import('@/views/DecksView.vue'),
   },
 ]
