@@ -8,7 +8,7 @@
       </v-list>
     </v-navigation-drawer>
 
-    <v-app-bar scroll-behavior="elevate" scroll-threshold="160" :color="appBarColor">
+    <v-app-bar scroll-behavior="elevate" scroll-threshold="160" :color="appBarColor" class="header">
       <template #prepend>
         <v-app-bar-nav-icon class="d-md-none" @click="drawer = !drawer"></v-app-bar-nav-icon>
       </template>
@@ -68,4 +68,27 @@ const toggleTheme = () => {
 }
 </script>
 
-<style scoped></style>
+<style scoped>
+.header {
+  position: relative;
+  overflow: hidden;
+}
+
+.header::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('@/assets/ws-icon.svg');
+  background-size: 165px;
+  background-position: 1% 70%;
+  background-repeat: no-repeat;
+  z-index: -1;
+}
+
+.v-theme--dark.header::before {
+  filter: brightness(0.5);
+}
+</style>
