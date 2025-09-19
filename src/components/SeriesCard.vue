@@ -50,14 +50,12 @@ const iconUrl = computed(() => {
 <style scoped>
 .series-card {
   transition: all 0.2s ease-in-out;
-  /* border-radius: 12px; */
   overflow: hidden;
   height: 100%;
 }
 
 .series-card:hover {
   transform: translateY(-6px);
-  /* box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); */
   box-shadow: none;
 }
 
