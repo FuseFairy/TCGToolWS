@@ -1,5 +1,5 @@
 <template>
-  <v-app id="app">
+  <v-app id="app" class="grid-background">
     <v-navigation-drawer v-model="drawer" temporary>
       <v-list class="py-0">
         <template v-for="item in navItems" :key="item.to">
@@ -40,7 +40,7 @@
 <script setup>
 import { ref, watchEffect, computed } from 'vue'
 import { useTheme } from 'vuetify'
-import { useUIStore } from '@/stores/ui';
+import { useUIStore } from '@/stores/ui'
 
 const drawer = ref(false)
 const navItems = [
