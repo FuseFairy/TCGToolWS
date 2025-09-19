@@ -25,14 +25,22 @@ BASE_URL = "https://ws-tcg.com"
 CARDLIST_URL = f"{BASE_URL}/cardlist/"
 ROOT_DIR = get_root_dir()
 ASSETS_SOURCE_DIR = ROOT_DIR / "assets-source"
+JSON_OUTPUT_DIR = ROOT_DIR / "src" / "assets" / "card" / "data"
+
 COLOR_MAP = {"yellow.gif": "黄色", "red.gif": "红色", "green.gif": "绿色", "blue.gif": "蓝色"}
 TYPE_MAP = {"キャラ": "角色卡", "クライマックス": "高潮卡", "イベント": "事件卡"}
 
 def setup_base_directories():
-    """Ensures the top-level source directories exist."""
+    """Ensures all necessary source and output directories exist."""
     print(f"准备源文件目录: {ASSETS_SOURCE_DIR}")
-    (ASSETS_SOURCE_DIR / "card-data").mkdir(parents=True, exist_ok=True)
+    print(f"准备JSON输出目录: {JSON_OUTPUT_DIR}")
+    
+    # Ensure asset source directories exist
     (ASSETS_SOURCE_DIR / "card-images").mkdir(parents=True, exist_ok=True)
+    
+    # --- New Directory Setup ---
+    # Ensure JSON output directory exists
+    JSON_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 def setup_product_image_directory(product_id: str) -> Path:
     """Creates a clean image directory for a specific product ID."""
@@ -254,7 +262,8 @@ def main(target_series_name: str, target_product_name: str):
 
     for product_id, data in products_data.items():
         json_filename = f"{product_id}.json"
-        json_output_path = ASSETS_SOURCE_DIR / "card-data" / json_filename
+        # --- Core Change: Use the new JSON_OUTPUT_DIR ---
+        json_output_path = JSON_OUTPUT_DIR / json_filename
         
         product_specific_data = {key: all_cards_combined[key] for key in data["cards"]}
         
