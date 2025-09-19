@@ -39,3 +39,6 @@ ws_crawler.spec
 # crawler data
 assets-source/
 
+# sprites
+temp_processed_images/
+
