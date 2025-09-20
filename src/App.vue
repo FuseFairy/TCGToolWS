@@ -27,12 +27,14 @@
       </template>
     </v-app-bar>
 
-    <v-main>
-      <router-view v-slot="{ Component }">
-        <v-fade-transition hide-on-leave>
-          <component :is="Component" />
-        </v-fade-transition>
-      </router-view>
+    <v-main :scrollable="true">
+      <OverlayScrollbarsComponent class="overlayscrollbars-vue" :options="dynamicScrollbarOptions" defer>
+        <router-view v-slot="{ Component }">
+          <v-fade-transition hide-on-leave>
+            <component :is="Component" />
+          </v-fade-transition>
+        </router-view>
+      </OverlayScrollbarsComponent>
     </v-main>
   </v-app>
 </template>
@@ -41,6 +43,8 @@
 import { ref, watchEffect, computed } from 'vue'
 import { useTheme } from 'vuetify'
 import { useUIStore } from '@/stores/ui'
+import { OverlayScrollbarsComponent } from "overlayscrollbars-vue";
+import { useDynamicScrollbarOptions } from '@/composables/useScrollbarOptions'
 
 const drawer = ref(false)
 const navItems = [
@@ -57,6 +61,8 @@ const appBarColor = computed(() => {
     ? 'grey-lighten-3'
     : 'grey-darken-2'
 })
+
+const dynamicScrollbarOptions = useDynamicScrollbarOptions()
 
 watchEffect(() => {
   vuetifyTheme.change(uiStore.theme)

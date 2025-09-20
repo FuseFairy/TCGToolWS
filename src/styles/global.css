@@ -2,6 +2,11 @@ html {
   overflow-y: auto !important;
 }
 
+.overlayscrollbars-vue {
+  height: 100%;
+  width: 100%;
+}
+
 .grid-background {
   background-color: #f7f7f8;
   background-image:

@@ -9,6 +9,7 @@ import piniaPluginPersistedstate from 'pinia-plugin-persistedstate'
 import '@/styles/global.css'
 import 'vuetify/styles'
 import 'unfonts.css'
+import 'overlayscrollbars/overlayscrollbars.css'
 
 const app = createApp(App)
 const pinia = createPinia()
