@@ -13,7 +13,7 @@
         <v-app-bar-nav-icon class="d-md-none" @click="drawer = !drawer"></v-app-bar-nav-icon>
       </template>
 
-      <v-app-bar-title class="font-weight-bold">TCGTool for WS</v-app-bar-title>
+      <v-app-bar-title class="font-weight-bold text-h5">TCGTool for WS</v-app-bar-title>
 
       <template #append>
         <div class="d-none d-md-block h-100">
