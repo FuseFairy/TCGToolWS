@@ -1,13 +1,15 @@
 <template>
-  <v-container fluid class="fill-height pa-0">
+  <v-container fluid class="pa-0 fill-height">
     <FloatingSearch @update:search-term="onSearch" />
     <v-virtual-scroll :items="chunkedSeries" class="h-100 themed-scrollbar">
       <template v-slot:default="{ item: rowItems }">
-        <v-row class="ma-0">
-          <v-col v-for="item in rowItems" :key="item.data.id" cols="6" sm="4" md="3" lg="2" class="d-flex">
-            <SeriesCard :series-name="item.name" :series-data="item.data" />
-          </v-col>
-        </v-row>
+        <v-container class="pa-0 fill-height">
+          <v-row class="ma-0">
+            <v-col v-for="item in rowItems" :key="item.data.id" cols="6" sm="4" md="3" lg="2" class="d-flex">
+              <SeriesCard :series-name="item.name" :series-data="item.data" />
+            </v-col>
+          </v-row>
+        </v-container>
       </template>
     </v-virtual-scroll>
   </v-container>

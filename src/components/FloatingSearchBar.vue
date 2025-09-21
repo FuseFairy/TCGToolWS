@@ -1,5 +1,5 @@
 <template>
-  <div class="Floating-search-container">
+  <div class="floating-search-container">
     <div :class="['search-wrapper', { 'is-expanded': isExpanded }]" v-click-outside="collapse">
       <v-text-field ref="inputRef" v-model="searchText" class="search-input" placeholder="查找系列..." variant="plain"
         density="compact" hide-details single-line @keydown.enter="performSearch" />
@@ -44,7 +44,7 @@ const performSearch = () => {
 </script>
 
 <style scoped>
-.morphing-search-container {
+.floating-search-container {
   position: fixed;
   top: 13%;
   left: 10px;
