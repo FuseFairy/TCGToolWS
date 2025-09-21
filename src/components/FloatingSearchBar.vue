@@ -60,7 +60,7 @@ const performSearch = () => {
   cursor: pointer;
   width: 56px;
   height: 56px;
-  border-radius: 50%;
+  border-radius: 28px;
   box-shadow:
     0 4px 12px rgba(0, 0, 0, 0.15),
     0 0 0 1px var(--search-btn-glow),
