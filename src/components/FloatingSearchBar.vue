@@ -1,5 +1,5 @@
 <template>
-  <div class="floating-search-container">
+  <div ref="draggableContainer" class="floating-search-container" :style="containerStyle" @mousedown="startDrag">
     <div :class="['search-wrapper', { 'is-expanded': isExpanded }]" v-click-outside="collapse">
       <v-text-field ref="inputRef" v-model="searchText" class="search-input" placeholder="查找系列..." variant="plain"
         density="compact" hide-details single-line @keydown.enter="performSearch" />
@@ -11,7 +11,7 @@
 </template>
 
 <script setup>
-import { ref, nextTick } from 'vue';
+import { ref, nextTick, computed, onMounted, onUnmounted } from 'vue';
 
 const emit = defineEmits(['update:searchTerm']);
 
@@ -19,7 +19,77 @@ const isExpanded = ref(false);
 const searchText = ref('');
 const inputRef = ref(null);
 
+const draggableContainer = ref(null);
+const position = ref({ x: 10, y: window.innerHeight * 0.13 });
+const dragging = ref(false);
+const dragOffset = ref({ x: 0, y: 0 });
+const movedDuringDrag = ref(false);
+
+const containerStyle = computed(() => ({
+  transform: `translate(${position.value.x}px, ${position.value.y}px)`,
+}));
+
+onMounted(() => {
+  if (draggableContainer.value) {
+    position.value = {
+      x: 10,
+      y: window.innerHeight * 0.13,
+    };
+  }
+});
+
+onUnmounted(() => {
+  window.removeEventListener('mousemove', drag);
+  window.removeEventListener('mouseup', stopDrag);
+});
+
+const startDrag = (event) => {
+  // Prevent dragging when clicking on the input field
+  if (inputRef.value && inputRef.value.$el.contains(event.target)) {
+    return;
+  }
+  movedDuringDrag.value = false;
+  dragging.value = true;
+  document.body.style.cursor = 'grabbing';
+  dragOffset.value = {
+    x: event.clientX - position.value.x,
+    y: event.clientY - position.value.y,
+  };
+  window.addEventListener('mousemove', drag);
+  window.addEventListener('mouseup', stopDrag);
+};
+
+const drag = (event) => {
+  if (dragging.value) {
+    movedDuringDrag.value = true;
+    const parentRect = draggableContainer.value.parentElement.getBoundingClientRect();
+    const newX = event.clientX - dragOffset.value.x;
+    const newY = event.clientY - dragOffset.value.y;
+
+    const elRect = draggableContainer.value.getBoundingClientRect();
+
+    position.value.x = Math.max(
+      0,
+      Math.min(newX, parentRect.width - elRect.width)
+    );
+    position.value.y = Math.max(
+      0,
+      Math.min(newY, parentRect.height - elRect.height)
+    );
+  }
+};
+
+const stopDrag = () => {
+  dragging.value = false;
+  document.body.style.cursor = 'default';
+  window.removeEventListener('mousemove', drag);
+  window.removeEventListener('mouseup', stopDrag);
+};
+
 const toggleExpand = async () => {
+  if (movedDuringDrag.value) {
+    return;
+  }
   if (isExpanded.value && !searchText.value) {
     isExpanded.value = false;
   }
@@ -45,10 +115,9 @@ const performSearch = () => {
 
 <style scoped>
 .floating-search-container {
-  position: fixed;
-  top: 13%;
-  left: 10px;
+  position: absolute;
   z-index: 1000;
+  cursor: grab;
 }
 
 .search-wrapper {
