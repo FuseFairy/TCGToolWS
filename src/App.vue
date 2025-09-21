@@ -28,13 +28,11 @@
     </v-app-bar>
 
     <v-main :scrollable="true">
-      <OverlayScrollbarsComponent class="overlayscrollbars-vue" :options="dynamicScrollbarOptions" defer>
-        <router-view v-slot="{ Component }">
-          <v-fade-transition hide-on-leave>
-            <component :is="Component" />
-          </v-fade-transition>
-        </router-view>
-      </OverlayScrollbarsComponent>
+      <router-view v-slot="{ Component }">
+        <v-fade-transition hide-on-leave>
+          <component :is="Component" />
+        </v-fade-transition>
+      </router-view>
     </v-main>
   </v-app>
 </template>
@@ -43,8 +41,6 @@
 import { ref, watchEffect, computed } from 'vue'
 import { useTheme } from 'vuetify'
 import { useUIStore } from '@/stores/ui'
-import { OverlayScrollbarsComponent } from "overlayscrollbars-vue";
-import { useDynamicScrollbarOptions } from '@/composables/useScrollbarOptions'
 
 const drawer = ref(false)
 const navItems = [
@@ -61,8 +57,6 @@ const appBarColor = computed(() => {
     ? 'grey-lighten-3'
     : 'grey-darken-2'
 })
-
-const dynamicScrollbarOptions = useDynamicScrollbarOptions()
 
 watchEffect(() => {
   vuetifyTheme.change(uiStore.theme)
@@ -87,7 +81,7 @@ const toggleTheme = () => {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url('@/assets/ws-icon.svg');
+  background-image: url('@/assets/ui/ws-icon.svg');
   background-size: 165px;
   background-position: 1% 70%;
   background-repeat: no-repeat;
