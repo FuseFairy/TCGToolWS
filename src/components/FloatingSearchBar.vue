@@ -61,6 +61,7 @@ const startDrag = (event) => {
 
 const drag = (event) => {
   if (dragging.value) {
+    document.body.style.pointerEvents = 'none';
     movedDuringDrag.value = true;
     const parentRect = draggableContainer.value.parentElement.getBoundingClientRect();
     const newX = event.clientX - dragOffset.value.x;
@@ -81,7 +82,8 @@ const drag = (event) => {
 
 const stopDrag = () => {
   dragging.value = false;
-  document.body.style.cursor = 'default';
+  document.body.style.cursor = 'auto';
+  document.body.style.pointerEvents = 'auto';
   window.removeEventListener('mousemove', drag);
   window.removeEventListener('mouseup', stopDrag);
 };
