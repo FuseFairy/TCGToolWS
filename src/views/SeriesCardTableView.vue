@@ -1,5 +1,6 @@
 <template>
   <v-container fluid class="fill-height pa-0">
+    <FloatingSearch @update:search-term="onSearch" />
     <v-virtual-scroll :items="chunkedSeries" class="h-100 themed-scrollbar">
       <template v-slot:default="{ item: rowItems }">
         <v-row class="ma-0">
@@ -13,18 +14,33 @@
 </template>
 
 <script setup>
-import { computed } from 'vue';
+import { ref, computed } from 'vue';
 import { useDisplay } from 'vuetify';
 import { seriesMap } from '@/maps/series-map.js';
 import SeriesCard from '@/components/SeriesCard.vue';
+import FloatingSearch from '@/components/FloatingSearchBar.vue';
 
 const { lgAndUp, mdAndUp, smAndUp } = useDisplay();
+const searchTerm = ref('');
+
+const onSearch = (newTerm) => {
+  searchTerm.value = newTerm;
+};
 
 const seriesArray = computed(() => {
   return Object.entries(seriesMap).map(([name, data]) => ({
     name,
     data,
   }));
+});
+
+const filteredSeries = computed(() => {
+  if (!searchTerm.value) {
+    return seriesArray.value;
+  }
+  return seriesArray.value.filter(item =>
+    item.name.toLowerCase().includes(searchTerm.value.toLowerCase())
+  );
 });
 
 const colsPerRow = computed(() => {
@@ -36,7 +52,7 @@ const colsPerRow = computed(() => {
 
 const chunkedSeries = computed(() => {
   const chunks = [];
-  const items = seriesArray.value;
+  const items = filteredSeries.value;
   const perRow = colsPerRow.value;
 
   for (let i = 0; i < items.length; i += perRow) {

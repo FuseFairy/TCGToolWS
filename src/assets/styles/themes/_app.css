@@ -6,6 +6,14 @@
   /* For grid-background */
   --grid-bg-color: #f7f7f8;
   --grid-line-color: #eae9ed;
+
+  /* For search button - 黑白灰配色 */
+  --search-btn-bg: rgba(45, 55, 72, 0.75);
+  --search-btn-bg-expanded: #ffffff;
+  --search-btn-icon: #ffffff;
+  --search-btn-icon-expanded: #4a5568;
+  --search-btn-glow: rgba(45, 55, 72, 0.3);
+  --search-btn-glow-expanded: rgba(160, 174, 192, 0.4);
 }
 
 .v-theme--dark {
@@ -16,4 +24,12 @@
   /* For grid-background */
   --grid-bg-color: #171a1d;
   --grid-line-color: #292e34;
+
+  /* For search button - 黑白灰配色 */
+  --search-btn-bg: rgba(255, 255, 255, 0.9);
+  --search-btn-bg-expanded: #1a202c;
+  --search-btn-icon: #2d3748;
+  --search-btn-icon-expanded: #e2e8f0;
+  --search-btn-glow: rgba(226, 232, 240, 0.4);
+  --search-btn-glow-expanded: rgba(226, 232, 240, 0.2);
 }
