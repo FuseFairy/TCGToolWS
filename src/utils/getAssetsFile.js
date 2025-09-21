@@ -1,4 +1,4 @@
-const assetModules = import.meta.glob('/src/assets/**/*', {
+const assetModules = import.meta.glob(['/src/assets/**/*.webp', '/src/assets/**/*.json'], {
   eager: true,
   query: '?url',
   import: 'default',
