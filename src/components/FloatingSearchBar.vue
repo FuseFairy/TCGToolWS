@@ -1,4 +1,3 @@
-<!-- src/components/MorphingSearch.vue -->
 <template>
   <div class="morphing-search-container">
     <div :class="['search-wrapper', { 'is-expanded': isExpanded }]" v-click-outside="collapse">
