@@ -6,10 +6,9 @@ import App from './App.vue'
 import router from './router'
 import piniaPluginPersistedstate from 'pinia-plugin-persistedstate'
 
-import '@/styles/global.css'
+import '@/assets/styles/main.css'
 import 'vuetify/styles'
 import 'unfonts.css'
-import 'overlayscrollbars/overlayscrollbars.css'
 
 const app = createApp(App)
 const pinia = createPinia()

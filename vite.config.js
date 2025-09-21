@@ -15,7 +15,7 @@ export default defineConfig({
     vueDevTools(),
     vuetify({
       styles: {
-        configFile: 'src/styles/settings.scss',
+        configFile: 'src/assets/styles/libs/_vuetify.scss',
       },
     }),
     ViteFonts({
