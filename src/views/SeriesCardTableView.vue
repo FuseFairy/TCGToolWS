@@ -1,13 +1,14 @@
 <template>
   <v-container fluid class="h-100 pa-0">
     <FloatingSearch @update:search-term="onSearch" />
-    <v-infinite-scroll :key="searchKey" @load="load" empty-text="" class="h-100 themed-scrollbar">
+    <v-infinite-scroll ref="infiniteScrollRef" @load="load" empty-text="" class="h-100 themed-scrollbar">
       <v-container class="pt-0">
         <v-row>
           <v-col v-for="item in displayedSeries" :key="item.data.id" cols="6" sm="4" md="3" lg="2" class="d-flex">
             <SeriesCard :series-name="item.name" :series-data="item.data" />
           </v-col>
         </v-row>
+
         <template v-slot:loading>
           <v-row justify="center" class="my-4">
             <v-progress-circular indeterminate />
@@ -33,7 +34,7 @@ const allSeries = ref(
 );
 const searchTerm = ref('');
 const displayedSeries = ref([]);
-const searchKey = ref(0);
+const infiniteScrollRef = ref(null);
 
 const filteredSeries = computed(() => {
   const term = searchTerm.value.trim().toLowerCase();
@@ -66,7 +67,9 @@ const load = async ({ done }) => {
 
 watch(searchTerm, () => {
   displayedSeries.value = [];
-  searchKey.value++;
+  if (infiniteScrollRef.value) {
+    infiniteScrollRef.value.reset();
+  }
 });
 
 const onSearch = (newTerm) => {
