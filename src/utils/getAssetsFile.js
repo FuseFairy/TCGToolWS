@@ -4,6 +4,8 @@ const assetModules = import.meta.glob(['/src/assets/**/*.webp', '/src/assets/**/
   import: 'default',
 })
 
+export { assetModules }
+
 export const getAssetsFile = (path) => {
   const fullPathInSrc = `/src/assets/${path}`
   return assetModules[fullPathInSrc]

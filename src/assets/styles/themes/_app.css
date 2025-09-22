@@ -14,6 +14,13 @@
   --search-btn-icon-expanded: #4a5568;
   --search-btn-glow: rgba(45, 55, 72, 0.3);
   --search-btn-glow-expanded: rgba(160, 174, 192, 0.4);
+
+  /* For chip */
+  --counter-chip-bg: rgba(0, 0, 0, 0.08);
+  --counter-chip-text: rgba(0, 0, 0, 0.87);
+
+  /* For sticky header */
+  --header-bg-color: rgba(255, 255, 255, 0.8);
 }
 
 .v-theme--dark {
@@ -32,4 +39,11 @@
   --search-btn-icon-expanded: #e2e8f0;
   --search-btn-glow: rgba(226, 232, 240, 0.4);
   --search-btn-glow-expanded: rgba(226, 232, 240, 0.2);
+
+  /* For chip */
+  --counter-chip-bg: rgba(255, 255, 255, 0.12);
+  --counter-chip-text: rgba(255, 255, 255, 0.87);
+
+  /* For sticky header */
+  --header-bg-color: rgba(83, 81, 81, 0.8);
 }

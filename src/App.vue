@@ -55,7 +55,7 @@ const uiStore = useUIStore()
 const appBarColor = computed(() => {
   return vuetifyTheme.global.name.value === 'light'
     ? 'grey-lighten-3'
-    : 'grey-darken-2'
+    : 'grey-darken-3'
 })
 
 watchEffect(() => {

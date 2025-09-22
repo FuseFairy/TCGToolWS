@@ -16,7 +16,7 @@ const routes = [
     component: () => import('@/views/SeriesCardTableView.vue'),
   },
   {
-    path: '/series-card-table/:seriesName',
+    path: '/series-card-table/:seriesId',
     name: 'SeriesDetail',
     component: () => import('@/views/SeriesDetailView.vue'),
     props: true,

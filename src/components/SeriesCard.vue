@@ -2,8 +2,7 @@
   <v-tooltip :text="seriesName" location="top center">
     <template v-slot:activator="{ props }">
       <v-card v-bind="props" class="series-card d-flex flex-column" hover
-        :to="{ name: 'SeriesDetail', params: { seriesName: seriesData.id } }" variant="flat" color="surface"
-        rounded="lg">
+        :to="{ name: 'SeriesDetail', params: { seriesId: seriesData.id } }" variant="flat" color="surface" rounded="lg">
         <v-img :src="iconUrl" aspect-ratio="1" cover rounded="lg" class="ma-3">
           <template v-slot:placeholder>
             <div class="d-flex align-center justify-center fill-height">

@@ -1,0 +1,5 @@
+.counter-chip {
+  background-color: var(--counter-chip-bg) !important;
+  color: var(--counter-chip-text) !important;
+  transition: background-color 0.2s ease-in-out;
+}
