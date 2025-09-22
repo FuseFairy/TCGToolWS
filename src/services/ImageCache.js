@@ -89,8 +89,13 @@ class HybridImageCache {
   }
 
   _generateCacheKey(sourceUrl, coords) {
+    const fileName = sourceUrl
+      .split('/')
+      .pop()
+      .replace(/\.[^/.]+$/, '')
+
     const coordsStr = `${coords.x}_${coords.y}_${coords.width}_${coords.height}`
-    return `img_${btoa(sourceUrl).slice(0, 20)}_${coordsStr}`
+    return `${fileName}_${coordsStr}`
   }
 
   // --- 記憶體快取管理 (完全內聚) ---
@@ -201,13 +206,13 @@ class HybridImageCache {
 
       // 檢查數量限制
       if (stats.count > CACHE_CONFIG.maxEntries) {
-        await this.cleanupByLRU(stats.count - CACHE_CONFIG.maxEntries)
+        await this._cleanupByLRU(stats.count - CACHE_CONFIG.maxEntries) // ✅ 修正
       }
 
       // 檢查大小限制
       if (stats.totalSizeMB > CACHE_CONFIG.maxSizeMB) {
         const targetSizeMB = CACHE_CONFIG.maxSizeMB * 0.8
-        await this.cleanupBySize(targetSizeMB)
+        await this._cleanupBySize(targetSizeMB) // ✅ 修正
       }
     } catch (error) {
       console.error('Cache cleanup failed:', error)
@@ -220,8 +225,8 @@ class HybridImageCache {
     const idsToDelete = oldestItems.map((item) => item.id)
     await db.images.bulkDelete(idsToDelete)
 
-    // 清理對應的記憶體快取
-    oldestItems.forEach((item) => this.removeMemoryCache(item.cacheKey))
+    // 清理對應的記憶體快取 ✅ 修正方法名
+    oldestItems.forEach((item) => this._removeMemoryCache(item.cacheKey))
 
     console.log(`Cleaned up ${count} oldest cache entries`)
   }
@@ -257,11 +262,11 @@ class HybridImageCache {
         console.log(`Background cleanup: removed ${deletedCount} expired items`)
       }
 
-      // 清理記憶體快取
-      this.cleanExpiredMemoryCache()
+      // 清理記憶體快取 ✅ 修正方法名
+      this._cleanExpiredMemoryCache()
 
-      // 強制執行快取限制
-      await this.enforceCacheLimits()
+      // 強制執行快取限制 ✅ 修正方法名
+      await this._enforceCacheLimits()
     } catch (error) {
       console.error('Background cleanup failed:', error)
     }
@@ -285,7 +290,7 @@ class HybridImageCache {
   }
 
   async clear() {
-    this.cleanupMemoryCache()
+    this._cleanupMemoryCacheOnUnload() // ✅ 修正方法名
     await db.images.clear()
     console.log('All caches cleared')
   }
