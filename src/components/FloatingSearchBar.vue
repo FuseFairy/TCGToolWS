@@ -1,9 +1,9 @@
 <template>
-  <div ref="draggableContainer" class="floating-search-container" :style="containerStyle" @mousedown="startDrag" @touchstart.prevent="startDrag">
+  <div ref="draggableContainer" class="floating-search-container" :style="containerStyle" @mousedown="startDrag" @touchstart="startDrag">
     <div :class="['search-wrapper', { 'is-expanded': isExpanded }]" v-click-outside="collapse">
       <v-text-field ref="inputRef" v-model="searchText" class="search-input" placeholder="查找系列..." variant="plain"
         density="compact" hide-details single-line @keydown.enter="performSearch" />
-      <v-btn class="search-button" icon variant="text" @click="toggleExpand">
+      <v-btn class="search-button" icon variant="text">
         <v-icon>mdi-magnify</v-icon>
       </v-btn>
     </div>
@@ -46,6 +46,9 @@ onUnmounted(() => {
 });
 
 const startDrag = (event) => {
+  if (event.type === 'touchstart') {
+    event.preventDefault();
+  }
   if (isExpanded.value) {
     return;
   }
@@ -72,6 +75,7 @@ const startDrag = (event) => {
 
 const drag = (event) => {
   if (dragging.value) {
+    event.preventDefault();
     document.body.style.pointerEvents = 'none';
     movedDuringDrag.value = true;
     const parentRect = draggableContainer.value.parentElement.getBoundingClientRect();
@@ -103,6 +107,10 @@ const stopDrag = () => {
   window.removeEventListener('mouseup', stopDrag);
   window.removeEventListener('touchmove', drag);
   window.removeEventListener('touchend', stopDrag);
+
+  if (!movedDuringDrag.value) {
+    toggleExpand();
+  }
 };
 
 const toggleExpand = async () => {
