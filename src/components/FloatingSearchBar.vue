@@ -3,7 +3,7 @@
     <div :class="['search-wrapper', { 'is-expanded': isExpanded }]" v-click-outside="collapse">
       <v-text-field ref="inputRef" v-model="searchText" class="search-input" placeholder="查找系列..." variant="plain"
         density="compact" hide-details single-line @keydown.enter="performSearch" />
-      <v-btn class="search-button" icon variant="text" @click="toggleExpand">
+      <v-btn class="search-button" icon variant="text" @touchend="handleButtonTap">
         <v-icon>mdi-magnify</v-icon>
       </v-btn>
     </div>
@@ -46,9 +46,6 @@ onUnmounted(() => {
 });
 
 const startDrag = (event) => {
-  if (event.type === 'touchstart') {
-    event.preventDefault();
-  }
   if (isExpanded.value) {
     return;
   }
@@ -107,6 +104,10 @@ const stopDrag = () => {
   window.removeEventListener('mouseup', stopDrag);
   window.removeEventListener('touchmove', drag, { passive: false });
   window.removeEventListener('touchend', stopDrag, { passive: false });
+
+  if (!movedDuringDrag.value) {
+    toggleExpand();
+  }
 };
 
 const toggleExpand = async () => {
@@ -133,6 +134,17 @@ const collapse = () => {
 const performSearch = () => {
   emit('update:searchTerm', searchText.value);
   collapse();
+};
+
+const handleButtonTap = () => {
+  if (movedDuringDrag.value) {
+    return;
+  }
+  if (isExpanded.value) {
+    performSearch();
+  } else {
+    toggleExpand(); // This will expand the search bar
+  }
 };
 </script>
 
