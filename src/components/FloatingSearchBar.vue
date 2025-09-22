@@ -1,5 +1,5 @@
 <template>
-  <div ref="draggableContainer" class="floating-search-container" :style="containerStyle" @mousedown="startDrag">
+  <div ref="draggableContainer" class="floating-search-container" :style="containerStyle" @mousedown="startDrag" @touchstart.prevent="startDrag">
     <div :class="['search-wrapper', { 'is-expanded': isExpanded }]" v-click-outside="collapse">
       <v-text-field ref="inputRef" v-model="searchText" class="search-input" placeholder="查找系列..." variant="plain"
         density="compact" hide-details single-line @keydown.enter="performSearch" />
@@ -41,9 +41,14 @@ onMounted(() => {
 onUnmounted(() => {
   window.removeEventListener('mousemove', drag);
   window.removeEventListener('mouseup', stopDrag);
+  window.removeEventListener('touchmove', drag);
+  window.removeEventListener('touchend', stopDrag);
 });
 
 const startDrag = (event) => {
+  if (isExpanded.value) {
+    return;
+  }
   // Prevent dragging when clicking on the input field
   if (inputRef.value && inputRef.value.$el.contains(event.target)) {
     return;
@@ -51,12 +56,18 @@ const startDrag = (event) => {
   movedDuringDrag.value = false;
   dragging.value = true;
   document.body.style.cursor = 'grabbing';
+
+  const clientX = event.type === 'touchstart' ? event.touches[0].clientX : event.clientX;
+  const clientY = event.type === 'touchstart' ? event.touches[0].clientY : event.clientY;
+
   dragOffset.value = {
-    x: event.clientX - position.value.x,
-    y: event.clientY - position.value.y,
+    x: clientX - position.value.x,
+    y: clientY - position.value.y,
   };
   window.addEventListener('mousemove', drag);
   window.addEventListener('mouseup', stopDrag);
+  window.addEventListener('touchmove', drag);
+  window.addEventListener('touchend', stopDrag);
 };
 
 const drag = (event) => {
@@ -64,8 +75,12 @@ const drag = (event) => {
     document.body.style.pointerEvents = 'none';
     movedDuringDrag.value = true;
     const parentRect = draggableContainer.value.parentElement.getBoundingClientRect();
-    const newX = event.clientX - dragOffset.value.x;
-    const newY = event.clientY - dragOffset.value.y;
+
+    const clientX = event.type === 'touchmove' ? event.touches[0].clientX : event.clientX;
+    const clientY = event.type === 'touchmove' ? event.touches[0].clientY : event.clientY;
+
+    const newX = clientX - dragOffset.value.x;
+    const newY = clientY - dragOffset.value.y;
 
     const elRect = draggableContainer.value.getBoundingClientRect();
 
@@ -86,6 +101,8 @@ const stopDrag = () => {
   document.body.style.pointerEvents = 'auto';
   window.removeEventListener('mousemove', drag);
   window.removeEventListener('mouseup', stopDrag);
+  window.removeEventListener('touchmove', drag);
+  window.removeEventListener('touchend', stopDrag);
 };
 
 const toggleExpand = async () => {
