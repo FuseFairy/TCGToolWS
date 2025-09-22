@@ -34,15 +34,6 @@ class ImageBitmapCache {
     console.log(`[Worker] Cached ImageBitmap: ${url} (${this.cache.size}/${this.maxSize})`)
   }
 
-  clear() {
-    // eslint-disable-next-line no-unused-vars
-    for (const [url, bitmap] of this.cache) {
-      bitmap.close()
-    }
-    this.cache.clear()
-    console.log('[Worker] Cleared all ImageBitmap cache')
-  }
-
   has(url) {
     return this.cache.has(url)
   }
