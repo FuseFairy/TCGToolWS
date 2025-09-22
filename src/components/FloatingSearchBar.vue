@@ -69,8 +69,8 @@ const startDrag = (event) => {
   };
   window.addEventListener('mousemove', drag);
   window.addEventListener('mouseup', stopDrag);
-  window.addEventListener('touchmove', drag);
-  window.addEventListener('touchend', stopDrag);
+  window.addEventListener('touchmove', drag, { passive: false });
+  window.addEventListener('touchend', stopDrag, { passive: false });
 };
 
 const drag = (event) => {
@@ -105,8 +105,8 @@ const stopDrag = () => {
   document.body.style.pointerEvents = 'auto';
   window.removeEventListener('mousemove', drag);
   window.removeEventListener('mouseup', stopDrag);
-  window.removeEventListener('touchmove', drag);
-  window.removeEventListener('touchend', stopDrag);
+  window.removeEventListener('touchmove', drag, { passive: false });
+  window.removeEventListener('touchend', stopDrag, { passive: false });
 
   if (!movedDuringDrag.value) {
     toggleExpand();
