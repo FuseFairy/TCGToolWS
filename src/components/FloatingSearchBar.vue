@@ -1,5 +1,6 @@
 <template>
-  <div ref="draggableContainer" class="floating-search-container" :style="containerStyle" @mousedown="startDrag" @touchstart="startDrag">
+  <div ref="draggableContainer" class="floating-search-container" :style="containerStyle" @mousedown="startDrag"
+    @touchstart="startDrag">
     <div :class="['search-wrapper', { 'is-expanded': isExpanded }]" v-click-outside="collapse">
       <v-text-field ref="inputRef" v-model="searchText" class="search-input" placeholder="查找系列..." variant="plain"
         density="compact" hide-details single-line @keydown.enter="performSearch" />
@@ -46,11 +47,8 @@ onUnmounted(() => {
 });
 
 const startDrag = (event) => {
-  if (isExpanded.value) {
-    return;
-  }
   // Prevent dragging when clicking on the input field
-  if (inputRef.value && inputRef.value.$el.contains(event.target)) {
+  if (isExpanded.value) {
     return;
   }
   movedDuringDrag.value = false;
