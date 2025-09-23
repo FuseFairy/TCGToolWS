@@ -1,35 +1,52 @@
 <template>
-  <v-card v-if="!isLoading && croppedImageUrl && cardInfo" class="detail-card d-flex flex-column w-100" variant="flat"
-    color="surface" rounded="lg" hover style="min-width: 0;">
-    <v-img :src="croppedImageUrl" :alt="card.id" :title="card.id" class="ma-3" rounded="lg">
-      <template #placeholder>
-        <v-skeleton-loader class="h-100"></v-skeleton-loader>
-      </template>
-      <template #error>
-        <v-alert type="error" density="compact" class="text-caption h-100" title="Image Error"></v-alert>
-      </template>
-    </v-img>
+  <v-card class="detail-card d-flex flex-column w-100" variant="flat" color="surface" rounded="lg" hover
+    style="min-width: 0;">
+
+    <div class="ma-3" style="aspect-ratio: 400/559;">
+      <v-skeleton-loader v-if="isLoadingCroppedImage || !croppedImageUrl" class="h-100"
+        rounded="lg"></v-skeleton-loader>
+      <v-img v-else :src="croppedImageUrl" :alt="card.id" :title="card.id" class="h-100" rounded="lg">
+        <template #error>
+          <v-alert type="error" density="compact" class="text-caption h-100" title="Image Error"></v-alert>
+        </template>
+      </v-img>
+    </div>
 
     <div class="card-content pa-3 pt-0">
       <div class="text-grey text-caption-2 mb-1 text-truncate">{{ card.id }}</div>
-      <h3 class="text-subtitle-1 font-weight-bold text-truncate">{{ cardInfo.name }}</h3>
+      <h3 class="text-subtitle-1 font-weight-bold text-truncate" style="min-height: 28px;">
+        <v-skeleton-loader v-if="isLoadingCardInfo" type="text" width="60%"></v-skeleton-loader>
+        <template v-else-if="cardInfo">{{ cardInfo.name }}</template>
+      </h3>
 
       <v-row dense class="mt-2" justify="center" align="center">
         <v-col cols="6" class="text-truncate text-center">
           <div class="text-grey text-body-1">类型</div>
-          <div class="text-subtitle-1 font-weight-medium">{{ cardInfo.type }}</div>
+          <div class="text-subtitle-1 font-weight-medium" style="min-height: 28px;">
+            <v-skeleton-loader v-if="isLoadingCardInfo" type="text" class="mx-auto" width="45px"></v-skeleton-loader>
+            <template v-else-if="cardInfo">{{ cardInfo.type }}</template>
+          </div>
         </v-col>
         <v-col cols="6" class="text-truncate text-center">
           <div class="text-grey text-body-1">颜色</div>
-          <div class="text-subtitle-1 font-weight-medium">{{ cardInfo.color }}</div>
+          <div class="text-subtitle-1 font-weight-medium" style="min-height: 28px;">
+            <v-skeleton-loader v-if="isLoadingCardInfo" type="text" class="mx-auto" width="45px"></v-skeleton-loader>
+            <template v-else-if="cardInfo">{{ cardInfo.color }}</template>
+          </div>
         </v-col>
         <v-col cols="6" class="text-truncate text-center">
           <div class="text-grey text-body-1">等级</div>
-          <div class="text-subtitle-1 font-weight-medium">{{ cardInfo.level }}</div>
+          <div class="text-subtitle-1 font-weight-medium" style="min-height: 28px;">
+            <v-skeleton-loader v-if="isLoadingCardInfo" type="text" class="mx-auto" width="45px"></v-skeleton-loader>
+            <template v-else-if="cardInfo">{{ cardInfo.level }}</template>
+          </div>
         </v-col>
         <v-col cols="6" class="text-truncate text-center">
           <div class="text-grey text-body-1">战力</div>
-          <div class="text-subtitle-1 font-weight-medium">{{ cardInfo.power }}</div>
+          <div class="text-subtitle-1 font-weight-medium" style="min-height: 28px;">
+            <v-skeleton-loader v-if="isLoadingCardInfo" type="text" class="mx-auto" width="45px"></v-skeleton-loader>
+            <template v-else-if="cardInfo">{{ cardInfo.power }}</template>
+          </div>
         </v-col>
       </v-row>
     </div>
@@ -55,11 +72,9 @@ const cardId = computed(() => props.card.id);
 const {
   imageUrl,
   metadata,
-  isLoading: isLoadingSpriteSheet,
 } = useSpriteSheet(spriteName);
 const { croppedImageUrl, isLoading: isLoadingCroppedImage } = useCroppedImage(imageUrl, metadata, cardId);
 const { cardInfo, isLoading: isLoadingCardInfo } = useCardInfo(spriteName, cardId);
-const isLoading = computed(() => isLoadingSpriteSheet.value && isLoadingCroppedImage.value && isLoadingCardInfo.value);
 </script>
 
 <style scoped>
