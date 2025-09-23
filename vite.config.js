@@ -10,6 +10,12 @@ import ViteFonts from 'unplugin-fonts/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
+  server: {
+    cors: true,
+  },
+  preview: {
+    cors: true,
+  },
   plugins: [
     vue(),
     vueDevTools(),
