@@ -22,18 +22,26 @@
         </div>
       </div>
 
-      <CardInfiniteScrollList :cards="cards" :header-offset-height="headerHeight" empty-text="" margin="300"
-        class="flex-grow-1 themed-scrollbar pl-4 pr-4" />
+      <div class="d-flex flex-row overflow-hidden">
+        <SidebarLayout :header-offset-height="headerOffsetHeight">
+          <v-select label="分類" :items="['A', 'B', 'C']" hide-details></v-select>
+          <v-text-field label="關鍵字" hide-details></v-text-field>
+          <v-checkbox label="僅顯示收藏" hide-details></v-checkbox>
+        </SidebarLayout>
+        <CardInfiniteScrollList :cards="cards" :header-offset-height="headerOffsetHeight" empty-text="" margin="300"
+          class="flex-grow-1 themed-scrollbar pl-4 pr-4" />
+      </div>
     </div>
   </v-container>
 </template>
 
 <script setup>
-import { ref, computed, watchEffect } from 'vue';
+import { ref, computed, watchEffect, onUnmounted } from 'vue';
 import { useDisplay } from 'vuetify';
 import { seriesMap } from '@/maps/series-map.js';
 import { useSeriesCards } from '@/composables/useSeriesCards.js';
 import CardInfiniteScrollList from '@/components/CardInfiniteScrollList.vue';
+import SidebarLayout from '@/components/SidebarLayout.vue';
 
 const props = defineProps({
   seriesId: {
@@ -49,25 +57,18 @@ const chipSize = computed(() => {
 
 const headerRef = ref(null);
 const rawHeaderHeight = ref(0);
+const headerOffsetHeight = computed(() => rawHeaderHeight.value);
 
-watchEffect((onCleanup) => {
-  const element = headerRef.value;
-  if (!element) return;
-
-  const observer = new ResizeObserver(([entry]) => {
-    rawHeaderHeight.value = entry.contentRect.height;
-  });
-
-  observer.observe(element);
-
-  onCleanup(() => {
-    observer.disconnect();
-  });
+const observer = new ResizeObserver(([entry]) => {
+  if (entry && entry.target) {
+    rawHeaderHeight.value = entry.target.offsetHeight;
+  }
 });
 
-const headerHeight = computed(() => {
-  if (rawHeaderHeight.value === 0) return 0;
-  return rawHeaderHeight.value - 10;
+watchEffect(() => {
+  if (headerRef.value) {
+    observer.observe(headerRef.value);
+  }
 });
 
 const seriesName = computed(() => {
@@ -77,4 +78,8 @@ const seriesName = computed(() => {
 const prefixes = computed(() => seriesMap[seriesName.value]?.prefixes ?? []);
 
 const { cards, isLoading } = useSeriesCards(prefixes);
+
+onUnmounted(() => {
+  observer.disconnect();
+});
 </script>
