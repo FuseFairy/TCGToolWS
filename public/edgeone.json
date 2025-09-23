@@ -1,13 +1,17 @@
 {
-  "routing": {
-    "rules": [
-      {
-        "path": "/*",
-        "serve": "/index.html",
-        "status": 200
-      }
-    ]
-  },
+  "redirects": [
+    {
+      "source": "/*",
+      "destination": "/index.html",
+      "status": 200
+    }
+  ],
+  "caches": [
+    {
+      "source": "/assets/*",
+      "cacheTtl": 86400
+    }
+  ],
   "headers": [
     {
       "source": "/assets/*",
