@@ -5,7 +5,7 @@
 @import './utilities/_scrollbar.css';
 @import './utilities/_grid-background.css';
 @import './utilities/_chip.css';
-@import './utilities/_sticky-header.css';
+@import './utilities/_overlay-header.css';
 
 /* 主題定義與變數覆蓋 */
 @import './themes/_app.css';
