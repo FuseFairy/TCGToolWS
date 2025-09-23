@@ -22,5 +22,5 @@ export const findSeriesDataFileName = (prefixes = []) => {
     }
   }
 
-  return result
+  return result.sort()
 }
