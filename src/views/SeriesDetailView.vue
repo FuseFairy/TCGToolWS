@@ -9,7 +9,7 @@
     </div>
 
     <div v-else class="d-flex flex-column h-100">
-      <div ref="headerRef" class="sticky-header pa-4 pb-0 pt-0">
+      <div ref="headerRef" class="overlay-header pa-4 pb-0 pt-0">
         <div class="d-flex align-center">
           <v-btn :size="chipSize" icon="mdi-arrow-left" variant="text" :to="{ name: 'SeriesCardTable' }"
             class="mr-2"></v-btn>
