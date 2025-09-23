@@ -22,26 +22,18 @@
         </div>
       </div>
 
-      <v-infinite-scroll @load="load" empty-text="" margin="300" class="flex-grow-1 themed-scrollbar pl-4 pr-4">
-
-        <v-responsive :height="headerHeight"></v-responsive>
-
-        <v-row class="ma-0">
-          <v-col v-for="card in displayedCards" :key="card.id" cols="6" sm="4" md="3" lg="2" class="d-flex">
-            <CardTemplate :card="card" />
-          </v-col>
-        </v-row>
-      </v-infinite-scroll>
+      <CardInfiniteScrollList :cards="cards" :header-offset-height="headerHeight" empty-text="" margin="300"
+        class="flex-grow-1 themed-scrollbar pl-4 pr-4" />
     </div>
   </v-container>
 </template>
 
 <script setup>
-import { ref, computed, watch, watchEffect } from 'vue';
+import { ref, computed, watchEffect } from 'vue';
 import { useDisplay } from 'vuetify';
 import { seriesMap } from '@/maps/series-map.js';
 import { useSeriesCards } from '@/composables/useSeriesCards.js';
-import CardTemplate from '@/components/CardTemplate.vue';
+import CardInfiniteScrollList from '@/components/CardInfiniteScrollList.vue';
 
 const props = defineProps({
   seriesId: {
@@ -49,10 +41,6 @@ const props = defineProps({
     required: true,
   },
 })
-
-const ITEMS_PER_LOAD = 24;
-
-const page = ref(1);
 
 const { smAndUp } = useDisplay();
 const chipSize = computed(() => {
@@ -82,7 +70,6 @@ const headerHeight = computed(() => {
   return rawHeaderHeight.value - 10;
 });
 
-
 const seriesName = computed(() => {
   const foundEntry = Object.entries(seriesMap).find(([, value]) => value.id === props.seriesId);
   return foundEntry ? foundEntry[0] : '未知系列';
@@ -90,19 +77,4 @@ const seriesName = computed(() => {
 const prefixes = computed(() => seriesMap[seriesName.value]?.prefixes ?? []);
 
 const { cards, isLoading } = useSeriesCards(prefixes);
-
-const displayedCards = computed(() => cards.value.slice(0, page.value * ITEMS_PER_LOAD));
-
-const load = async ({ done }) => {
-  if (displayedCards.value.length >= cards.value.length) {
-    return done('empty');
-  }
-  await new Promise(resolve => setTimeout(resolve, 150));
-  page.value++;
-  done('ok');
-};
-
-watch(seriesName, () => {
-  page.value = 1;
-});
 </script>
