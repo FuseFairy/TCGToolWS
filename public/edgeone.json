@@ -1,15 +1,14 @@
 {
   "redirects": [
     {
+      "source": "/index.html",
+      "destination": "/index.html",
+      "status": 200
+    },
+    {
       "source": "/*",
       "destination": "/index.html",
       "status": 200
-    }
-  ],
-  "caches": [
-    {
-      "source": "/assets/*",
-      "cacheTtl": 86400
     }
   ],
   "headers": [
