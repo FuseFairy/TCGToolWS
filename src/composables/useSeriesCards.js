@@ -32,7 +32,7 @@ export const useSeriesCards = (prefixesRef) => {
       const allFileContents = await Promise.all(
         dataFilePaths.map(async (path) => {
           const url = getAssetsFile(path)
-          const response = await fetch(url)
+          const response = await fetch(url, { priority: 'high' })
           if (!response.ok) throw new Error(`Failed to fetch ${path}`)
           return {
             content: await response.json(),

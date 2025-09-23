@@ -2,7 +2,7 @@ import { wrap } from 'comlink'
 import { cropSpriteImage as mainThreadProcessor } from './mainThreadImageProcessor.js'
 import { createConcurrencyLimiter } from './concurrencyLimiter.js'
 
-const limiter = createConcurrencyLimiter(20)
+const limiter = createConcurrencyLimiter(1)
 
 let underlyingProcessor
 

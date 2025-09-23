@@ -22,7 +22,7 @@
         </div>
       </div>
 
-      <v-infinite-scroll @load="load" empty-text="" class="flex-grow-1 themed-scrollbar pl-4 pr-4">
+      <v-infinite-scroll @load="load" empty-text="" margin="300" class="flex-grow-1 themed-scrollbar pl-4 pr-4">
 
         <v-responsive :height="headerHeight"></v-responsive>
 
