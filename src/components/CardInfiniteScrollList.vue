@@ -1,8 +1,6 @@
 <template>
   <v-infinite-scroll @load="load" :empty-text="emptyText" :margin="margin" :class="$attrs.class">
-    <v-responsive :height="headerOffsetHeight"></v-responsive>
-
-    <v-row class="ma-0">
+    <v-row class="ma-0" :style="{ paddingTop: `${headerOffsetHeight - 10}px` }">
       <v-col v-for="card in displayedCards" :key="card.id" cols="6" sm="4" md="3" lg="2" class="d-flex">
         <CardTemplate :card="card" />
       </v-col>
