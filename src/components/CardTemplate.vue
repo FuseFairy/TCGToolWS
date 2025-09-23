@@ -14,7 +14,8 @@
 
     <div class="card-content pa-3 pt-0">
       <div class="text-grey text-caption-2 mb-1 text-truncate">{{ card.id }}</div>
-      <h3 class="text-subtitle-1 font-weight-bold text-truncate" style="min-height: 28px;">
+      <h3 class="text-subtitle-1 font-weight-bold text-truncate" :class="{ 'd-flex align-center': isLoadingCardInfo }"
+        style="height: 28px; overflow: hidden;">
         <v-skeleton-loader v-if="isLoadingCardInfo" type="text" width="60%"></v-skeleton-loader>
         <template v-else-if="cardInfo">{{ cardInfo.name }}</template>
       </h3>
@@ -22,29 +23,37 @@
       <v-row dense class="mt-2" justify="center" align="center">
         <v-col cols="6" class="text-truncate text-center">
           <div class="text-grey text-body-1">类型</div>
-          <div class="text-subtitle-1 font-weight-medium" style="min-height: 28px;">
-            <v-skeleton-loader v-if="isLoadingCardInfo" type="text" class="mx-auto" width="45px"></v-skeleton-loader>
+          <div class="text-subtitle-1 font-weight-medium"
+            :class="{ 'd-flex justify-center align-center': isLoadingCardInfo }"
+            style="height: 28px; overflow: hidden;">
+            <v-skeleton-loader v-if="isLoadingCardInfo" type="text" width="45px"></v-skeleton-loader>
             <template v-else-if="cardInfo">{{ cardInfo.type }}</template>
           </div>
         </v-col>
         <v-col cols="6" class="text-truncate text-center">
           <div class="text-grey text-body-1">颜色</div>
-          <div class="text-subtitle-1 font-weight-medium" style="min-height: 28px;">
-            <v-skeleton-loader v-if="isLoadingCardInfo" type="text" class="mx-auto" width="45px"></v-skeleton-loader>
+          <div class="text-subtitle-1 font-weight-medium"
+            :class="{ 'd-flex justify-center align-center': isLoadingCardInfo }"
+            style="height: 28px; overflow: hidden;">
+            <v-skeleton-loader v-if="isLoadingCardInfo" type="text" width="45px"></v-skeleton-loader>
             <template v-else-if="cardInfo">{{ cardInfo.color }}</template>
           </div>
         </v-col>
         <v-col cols="6" class="text-truncate text-center">
           <div class="text-grey text-body-1">等级</div>
-          <div class="text-subtitle-1 font-weight-medium" style="min-height: 28px;">
-            <v-skeleton-loader v-if="isLoadingCardInfo" type="text" class="mx-auto" width="45px"></v-skeleton-loader>
+          <div class="text-subtitle-1 font-weight-medium"
+            :class="{ 'd-flex justify-center align-center': isLoadingCardInfo }"
+            style="height: 28px; overflow: hidden;">
+            <v-skeleton-loader v-if="isLoadingCardInfo" type="text" width="45px"></v-skeleton-loader>
             <template v-else-if="cardInfo">{{ cardInfo.level }}</template>
           </div>
         </v-col>
         <v-col cols="6" class="text-truncate text-center">
           <div class="text-grey text-body-1">战力</div>
-          <div class="text-subtitle-1 font-weight-medium" style="min-height: 28px;">
-            <v-skeleton-loader v-if="isLoadingCardInfo" type="text" class="mx-auto" width="45px"></v-skeleton-loader>
+          <div class="text-subtitle-1 font-weight-medium"
+            :class="{ 'd-flex justify-center align-center': isLoadingCardInfo }"
+            style="height: 28px; overflow: hidden;">
+            <v-skeleton-loader v-if="isLoadingCardInfo" type="text" width="45px"></v-skeleton-loader>
             <template v-else-if="cardInfo">{{ cardInfo.power }}</template>
           </div>
         </v-col>
