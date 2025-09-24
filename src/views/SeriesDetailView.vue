@@ -103,7 +103,7 @@ onUnmounted(() => {
 <style scoped>
 .sidebar-container {
   width: 0;
-  transition: width 0.3s ease;
+  transition: width 0.4s ease-in-out;
   overflow: hidden;
   flex-shrink: 0;
 }
