@@ -35,24 +35,13 @@
 
               <v-divider></v-divider>
 
-              <div>
-                <div class="text-subtitle-1 font-weight-bold">卡片類型</div>
-                <v-chip-group multiple v-model="selectedCardTypes">
-                  <v-chip filter value="角色卡">角色</v-chip>
-                  <v-chip filter value="事件卡">事件</v-chip>
-                  <v-chip filter value="高潮卡">高潮</v-chip>
-                </v-chip-group>
-              </div>
+              <v-select label="卡片類型"
+                :items="[{ title: '角色', value: '角色卡' }, { title: '事件', value: '事件卡' }, { title: '高潮', value: '高潮卡' }]"
+                hide-details multiple chips clearable v-model="selectedCardTypes"></v-select>
 
-              <div>
-                <div class="text-subtitle-1 font-weight-bold">颜色</div>
-                <v-chip-group multiple v-model="selectedColors">
-                  <v-chip filter value="黄色">黄</v-chip>
-                  <v-chip filter value="绿色">绿</v-chip>
-                  <v-chip filter value="红色">红</v-chip>
-                  <v-chip filter value="蓝色">蓝</v-chip>
-                </v-chip-group>
-              </div>
+              <v-select label="颜色"
+                :items="[{ title: '黄', value: '黄色' }, { title: '绿', value: '绿色' }, { title: '红', value: '红色' }, { title: '蓝', value: '蓝色' }]"
+                hide-details multiple chips clearable v-model="selectedColors"></v-select>
 
               <v-divider></v-divider>
 
@@ -64,27 +53,14 @@
 
               <v-divider></v-divider>
 
-              <div>
-                <div class="text-subtitle-1 font-weight-bold">等级</div>
-                <v-chip-group multiple v-model="selectedLevels">
-                  <v-chip filter value="0">0</v-chip>
-                  <v-chip filter value="1">1</v-chip>
-                  <v-chip filter value="2">2</v-chip>
-                  <v-chip filter value="3">3</v-chip>
-                </v-chip-group>
-              </div>
+              <v-select label="等级" :items="['0', '1', '2', '3']" hide-details multiple chips clearable
+                v-model="selectedLevels"></v-select>
 
-              <div>
-                <div class="text-subtitle-1 font-weight-bold">费用</div>
-                <v-range-slider hide-details thumb-label="always" :min="costRange.min" :max="costRange.max" step="1"
-                  v-model="selectedCostRange"></v-range-slider>
-              </div>
+              <v-range-slider label="费用" hide-details thumb-label="always" :min="costRange.min" :max="costRange.max"
+                step="1" v-model="selectedCostRange"></v-range-slider>
 
-              <div>
-                <div class="text-subtitle-1 font-weight-bold">攻击力</div>
-                <v-range-slider hide-details thumb-label="always" :min="powerRange.min" :max="powerRange.max" step="1"
-                  v-model="selectedPowerRange"></v-range-slider>
-              </div>
+              <v-range-slider label="攻击力" hide-details thumb-label="always" :min="powerRange.min" :max="powerRange.max"
+                step="1" v-model="selectedPowerRange"></v-range-slider>
             </div>
           </SidebarLayout>
         </div>
