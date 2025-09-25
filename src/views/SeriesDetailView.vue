@@ -56,11 +56,11 @@
               <v-select label="等级" :items="['0', '1', '2', '3']" hide-details multiple chips clearable
                 v-model="selectedLevels"></v-select>
 
-              <v-range-slider label="费用" hide-details thumb-label="always" :min="costRange.min" :max="costRange.max"
-                step="1" v-model="selectedCostRange"></v-range-slider>
+              <v-range-slider label="费用" class="mt-6" hide-details thumb-label="always" :min="costRange.min"
+                :max="costRange.max" step="1" v-model="selectedCostRange"></v-range-slider>
 
-              <v-range-slider label="攻击力" hide-details thumb-label="always" :min="powerRange.min" :max="powerRange.max"
-                step="1" v-model="selectedPowerRange"></v-range-slider>
+              <v-range-slider label="攻击力" class="mt-6" hide-details thumb-label="always" :min="powerRange.min"
+                :max="powerRange.max" step="1" v-model="selectedPowerRange"></v-range-slider>
             </div>
           </SidebarLayout>
         </div>
