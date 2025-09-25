@@ -71,7 +71,8 @@
         </div>
 
         <CardInfiniteScrollList ref="listRef" :cards="filteredCards" :header-offset-height="headerOffsetHeight"
-          empty-text="" margin="300" class="flex-grow-1 themed-scrollbar pl-4 pr-4" />
+          empty-text="" margin="300"
+          :class="['flex-grow-1', 'themed-scrollbar', 'pl-4', 'pr-4', { 'no-scroll': isScrollDisabled }]" />
 
         <div class="sidebar-container" :class="{ 'right-sidebar-open': isCardDeckOpen }">
           <SidebarLayout :class="['fill-height', smAndUp ? 'pr-4 pl-4 pb-4' : '']"
@@ -134,6 +135,22 @@ watchEffect(() => {
     observer.observe(headerRef.value);
   }
 });
+
+// --- Mobile specific logic ---
+const isScrollDisabled = computed(() => !smAndUp.value && (isFilterOpen.value || isCardDeckOpen.value));
+
+watch(isFilterOpen, (newValue) => {
+  if (newValue && !smAndUp.value) {
+    isCardDeckOpen.value = false;
+  }
+});
+
+watch(isCardDeckOpen, (newValue) => {
+  if (newValue && !smAndUp.value) {
+    isFilterOpen.value = false;
+  }
+});
+// --- End of mobile specific logic ---
 
 const seriesName = computed(() => {
   const foundEntry = Object.entries(seriesMap).find(([, value]) => value.id === props.seriesId);
@@ -239,6 +256,10 @@ onUnmounted(() => {
   transition: width 0.4s ease-in-out;
   overflow: hidden;
   flex-shrink: 0;
+}
+
+.no-scroll {
+  overflow-y: hidden;
 }
 
 @media (min-width: 600px) {
