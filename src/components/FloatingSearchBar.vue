@@ -111,6 +111,19 @@ const toggleExpand = async () => {
     isExpanded.value = false;
   }
   else if (!isExpanded.value) {
+    // Adjust position before expanding to prevent going off-screen
+    const expandedWidth = 350; // Corresponds to the CSS width
+    if (draggableContainer.value) {
+      const parentRect = draggableContainer.value.parentElement.getBoundingClientRect();
+      const viewportWidth = parentRect.width;
+
+      if (position.value.x + expandedWidth > viewportWidth) {
+        position.value.x = viewportWidth - expandedWidth;
+      }
+      // Ensure it doesn't go off the left edge either
+      position.value.x = Math.max(0, position.value.x);
+    }
+
     isExpanded.value = true;
     await nextTick();
     inputRef.value?.focus();
