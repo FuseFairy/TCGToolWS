@@ -1,5 +1,6 @@
 <template>
-  <v-infinite-scroll @load="load" :empty-text="emptyText" :margin="margin" :class="$attrs.class">
+  <v-infinite-scroll ref="infiniteScrollRef" @load="load" :empty-text="emptyText" :margin="margin"
+    :class="$attrs.class">
     <v-row class="ma-0" :style="{ paddingTop: `${headerOffsetHeight - 10}px` }">
       <v-col v-for="card in displayedCards" :key="card.id" cols="6" sm="4" md="3" lg="2" class="d-flex">
         <CardTemplate :card="card" />
@@ -13,7 +14,7 @@
 </template>
 
 <script setup>
-import { ref, computed, watch } from 'vue';
+import { ref, computed } from 'vue';
 import CardTemplate from '@/components/CardTemplate.vue';
 
 const props = defineProps({
@@ -40,6 +41,7 @@ const props = defineProps({
 });
 
 const page = ref(1);
+const infiniteScrollRef = ref(null);
 
 const displayedCards = computed(() => props.cards.slice(0, page.value * props.itemsPerLoad));
 
@@ -52,7 +54,14 @@ const load = async ({ done }) => {
   done('ok');
 };
 
-watch(() => props.cards, () => {
+const reset = () => {
   page.value = 1;
-}, { immediate: true });
+  if (infiniteScrollRef.value) {
+    infiniteScrollRef.value.reset();
+  }
+};
+
+defineExpose({
+  reset,
+});
 </script>
