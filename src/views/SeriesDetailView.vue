@@ -65,8 +65,8 @@
           </SidebarLayout>
         </div>
 
-        <CardInfiniteScrollList :cards="filteredCards" :header-offset-height="headerOffsetHeight" empty-text=""
-          margin="300" class="flex-grow-1 themed-scrollbar pl-4 pr-4" />
+        <CardInfiniteScrollList ref="listRef" :cards="filteredCards" :header-offset-height="headerOffsetHeight"
+          empty-text="" margin="300" class="flex-grow-1 themed-scrollbar pl-4 pr-4" />
 
         <div class="sidebar-container" :class="{ 'right-sidebar-open': isCardDeckOpen }">
           <SidebarLayout class="fill-height pr-4 pl-4 pb-4" :header-offset-height="headerOffsetHeight">
@@ -78,7 +78,7 @@
 </template>
 
 <script setup>
-import { ref, computed, watchEffect, onUnmounted } from 'vue';
+import { ref, computed, watchEffect, onUnmounted, watch } from 'vue';
 import { useDisplay } from 'vuetify';
 import { seriesMap } from '@/maps/series-map.js';
 import { useSeriesCards } from '@/composables/useSeriesCards.js';
@@ -103,6 +103,7 @@ const isCardDeckOpen = ref(false);
 const isFilterOpen = ref(false);
 const filterIcon = computed(() => isFilterOpen.value ? 'mdi-filter-off' : 'mdi-filter');
 const headerOffsetHeight = computed(() => rawHeaderHeight.value);
+const listRef = ref(null);
 
 const observer = new ResizeObserver(([entry]) => {
   if (entry && entry.target) {
@@ -201,6 +202,12 @@ const filteredCards = computed(() => {
   }
 
   return filtered;
+});
+
+watch(filteredCards, () => {
+  if (listRef.value) {
+    listRef.value.reset();
+  }
 });
 
 onUnmounted(() => {
