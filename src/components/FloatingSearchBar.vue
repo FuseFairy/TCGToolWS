@@ -1,10 +1,9 @@
 <template>
-  <div ref="draggableContainer" class="floating-search-container" :style="containerStyle" @mousedown="startDrag"
-    @touchstart="startDrag">
+  <div ref="draggableContainer" class="floating-search-container" :style="containerStyle" @touchstart="startDrag">
     <div :class="['search-wrapper', { 'is-expanded': isExpanded }]" v-click-outside="collapse">
       <v-text-field ref="inputRef" v-model="searchText" class="search-input" placeholder="查找系列..." variant="plain"
         density="compact" hide-details single-line @keydown.enter="performSearch" />
-      <v-btn class="search-button" icon variant="text" @touchend="handleButtonTap">
+      <v-btn class="search-button" icon variant="text" @mousedown="startDrag" @click="handleTap">
         <v-icon>mdi-magnify</v-icon>
       </v-btn>
     </div>
@@ -102,10 +101,6 @@ const stopDrag = () => {
   window.removeEventListener('mouseup', stopDrag);
   window.removeEventListener('touchmove', drag, { passive: false });
   window.removeEventListener('touchend', stopDrag, { passive: false });
-
-  if (!movedDuringDrag.value) {
-    toggleExpand();
-  }
 };
 
 const toggleExpand = async () => {
@@ -134,14 +129,15 @@ const performSearch = () => {
   collapse();
 };
 
-const handleButtonTap = () => {
+const handleTap = () => {
   if (movedDuringDrag.value) {
     return;
   }
-  if (isExpanded.value) {
-    performSearch();
+
+  if (!isExpanded.value) {
+    toggleExpand();
   } else {
-    toggleExpand(); // This will expand the search bar
+    performSearch();
   }
 };
 </script>
