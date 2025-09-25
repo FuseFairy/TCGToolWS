@@ -60,7 +60,7 @@
                 :max="costRange.max" step="1" v-model="selectedCostRange"></v-range-slider>
 
               <v-range-slider label="攻击力" class="mt-6" hide-details thumb-label="always" :min="powerRange.min"
-                :max="powerRange.max" step="1" v-model="selectedPowerRange"></v-range-slider>
+                :max="powerRange.max" step="500" v-model="selectedPowerRange"></v-range-slider>
             </div>
           </SidebarLayout>
         </div>
