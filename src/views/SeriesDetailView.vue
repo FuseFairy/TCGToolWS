@@ -4,8 +4,8 @@
       <v-progress-circular indeterminate color="primary" size="64"></v-progress-circular>
     </div>
 
-    <div v-else-if="cards.length === 0" class="text-center text-grey d-flex justify-center align-center h-100">
-      此系列中沒有找到任何卡片。
+    <div v-else-if="allCards.length === 0" class="text-center text-grey d-flex justify-center align-center h-100">
+      此系列中没有找到任何卡片。
     </div>
 
     <div v-else class="d-flex flex-column h-100">
@@ -19,7 +19,7 @@
             <v-btn :size="resize" icon="mdi-arrow-left" variant="text" :to="{ name: 'SeriesCardTable' }"></v-btn>
             <h1 class="text-h6 text-sm-h4 text-truncate text-center px-2">{{ seriesName }}</h1>
             <v-chip :size="resize" prepend-icon="mdi-cards-diamond-outline" class="counter-chip font-weight-bold">
-              {{ cards.length }}
+              {{ filteredCards.length }}
             </v-chip>
           </div>
 
@@ -29,15 +29,68 @@
 
       <div class="d-flex flex-row overflow-hidden">
         <div class="sidebar-container" :class="{ 'left-sidebar-open': isFilterOpen }">
-          <SidebarLayout class="fill-height pl-4 pb-4" :header-offset-height="headerOffsetHeight">
-            <v-select label="分類" :items="['A', 'B', 'C']" hide-details></v-select>
-            <v-text-field label="關鍵字" hide-details></v-text-field>
-            <v-checkbox label="僅顯示收藏" hide-details></v-checkbox>
+          <SidebarLayout class="fill-height pl-4 pb-4 themed-scrollbar" :header-offset-height="headerOffsetHeight">
+            <div class="d-flex flex-column ga-4">
+              <v-text-field label="關鍵字" hide-details clearable v-model="keyword"></v-text-field>
+
+              <v-divider></v-divider>
+
+              <div>
+                <div class="text-subtitle-1 font-weight-bold">卡片類型</div>
+                <v-chip-group multiple v-model="selectedCardTypes">
+                  <v-chip filter value="角色卡">角色</v-chip>
+                  <v-chip filter value="事件卡">事件</v-chip>
+                  <v-chip filter value="高潮卡">高潮</v-chip>
+                </v-chip-group>
+              </div>
+
+              <div>
+                <div class="text-subtitle-1 font-weight-bold">颜色</div>
+                <v-chip-group multiple v-model="selectedColors">
+                  <v-chip filter value="黄色">黄</v-chip>
+                  <v-chip filter value="绿色">绿</v-chip>
+                  <v-chip filter value="红色">红</v-chip>
+                  <v-chip filter value="蓝色">蓝</v-chip>
+                </v-chip-group>
+              </div>
+
+              <v-divider></v-divider>
+
+              <v-select label="产品名称" :items="productNames" hide-details clearable
+                v-model="selectedProductName"></v-select>
+
+              <v-select label="特徵" :items="traits" hide-details multiple chips clearable
+                v-model="selectedTraits"></v-select>
+
+              <v-divider></v-divider>
+
+              <div>
+                <div class="text-subtitle-1 font-weight-bold">等级</div>
+                <v-chip-group multiple v-model="selectedLevels">
+                  <v-chip filter value="0">0</v-chip>
+                  <v-chip filter value="1">1</v-chip>
+                  <v-chip filter value="2">2</v-chip>
+                  <v-chip filter value="3">3</v-chip>
+                </v-chip-group>
+              </div>
+
+              <div>
+                <div class="text-subtitle-1 font-weight-bold">费用</div>
+                <v-range-slider hide-details thumb-label="always" :min="costRange.min" :max="costRange.max" step="1"
+                  v-model="selectedCostRange"></v-range-slider>
+              </div>
+
+              <div>
+                <div class="text-subtitle-1 font-weight-bold">攻击力</div>
+                <v-range-slider hide-details thumb-label="always" :min="powerRange.min" :max="powerRange.max" step="1"
+                  v-model="selectedPowerRange"></v-range-slider>
+              </div>
+            </div>
           </SidebarLayout>
         </div>
 
-        <CardInfiniteScrollList :cards="cards" :header-offset-height="headerOffsetHeight" empty-text="" margin="300"
-          class="flex-grow-1 themed-scrollbar pl-4 pr-4" />
+        <CardInfiniteScrollList :cards="filteredCards" :header-offset-height="headerOffsetHeight" empty-text=""
+          margin="300" class="flex-grow-1 themed-scrollbar pl-4 pr-4" />
 
         <div class="sidebar-container" :class="{ 'right-sidebar-open': isCardDeckOpen }">
           <SidebarLayout class="fill-height pr-4 pl-4 pb-4" :header-offset-height="headerOffsetHeight">
@@ -93,7 +146,86 @@ const seriesName = computed(() => {
 });
 const prefixes = computed(() => seriesMap[seriesName.value]?.prefixes ?? []);
 
-const { cards, isLoading } = useSeriesCards(prefixes);
+const { cards: allCards, isLoading, productNames, traits, costRange, powerRange } = useSeriesCards(prefixes);
+
+// Filter states
+const keyword = ref('');
+const selectedCardTypes = ref([]);
+const selectedColors = ref([]);
+const selectedProductName = ref(null);
+const selectedTraits = ref([]);
+const selectedLevels = ref([]);
+const selectedCostRange = ref([0, 0]);
+const selectedPowerRange = ref([0, 0]);
+
+// Initialize range sliders with actual min/max values
+watchEffect(() => {
+  if (costRange.value.min !== 0 || costRange.value.max !== 0) {
+    selectedCostRange.value = [costRange.value.min, costRange.value.max];
+  }
+  if (powerRange.value.min !== 0 || powerRange.value.max !== 0) {
+    selectedPowerRange.value = [powerRange.value.min, powerRange.value.max];
+  }
+});
+
+const filteredCards = computed(() => {
+  let filtered = allCards.value;
+
+  // Keyword search
+  if (keyword.value) {
+    const lowerCaseKeyword = keyword.value.toLowerCase();
+    filtered = filtered.filter(card =>
+      card.baseId.toLowerCase().includes(lowerCaseKeyword) ||
+      card.id.toLowerCase().includes(lowerCaseKeyword) ||
+      (card.effect && card.effect.toLowerCase().includes(lowerCaseKeyword)) ||
+      card.name.toLowerCase().includes(lowerCaseKeyword)
+    );
+  }
+
+  // Card Type filter
+  if (selectedCardTypes.value.length > 0) {
+    filtered = filtered.filter(card => selectedCardTypes.value.includes(card.type));
+  }
+
+  // Color filter
+  if (selectedColors.value.length > 0) {
+    filtered = filtered.filter(card => selectedColors.value.includes(card.color));
+  }
+
+  // Product Name filter
+  if (selectedProductName.value) {
+    filtered = filtered.filter(card => card.product_name === selectedProductName.value);
+  }
+
+  // Traits filter (AND condition)
+  if (selectedTraits.value.length > 0) {
+    filtered = filtered.filter(card =>
+      selectedTraits.value.every(trait => card.trait && card.trait.includes(trait))
+    );
+  }
+
+  // Level filter
+  if (selectedLevels.value.length > 0) {
+    const mappedLevels = selectedLevels.value.map(level => parseInt(level));
+    filtered = filtered.filter(card => mappedLevels.includes(card.level));
+  }
+
+  // Cost filter
+  if (selectedCostRange.value && (selectedCostRange.value[0] !== costRange.value.min || selectedCostRange.value[1] !== costRange.value.max)) {
+    filtered = filtered.filter(card =>
+      card.cost >= selectedCostRange.value[0] && card.cost <= selectedCostRange.value[1]
+    );
+  }
+
+  // Power filter
+  if (selectedPowerRange.value && (selectedPowerRange.value[0] !== powerRange.value.min || selectedPowerRange.value[1] !== powerRange.value.max)) {
+    filtered = filtered.filter(card =>
+      card.power >= selectedPowerRange.value[0] && card.power <= selectedPowerRange.value[1]
+    );
+  }
+
+  return filtered;
+});
 
 onUnmounted(() => {
   observer.disconnect();
