@@ -13,7 +13,9 @@
       <div ref="headerRef" class="overlay-header pa-4 pb-0 pt-0">
         <div class="d-flex align-center justify-space-between w-100">
 
-          <v-btn :size="resize" :icon="filterIcon" variant="text" @click="isFilterOpen = !isFilterOpen"></v-btn>
+          <v-btn v-if="smAndUp" :size="resize" :icon="filterIcon" variant="text"
+            @click="isFilterOpen = !isFilterOpen"></v-btn>
+          <div v-else style="width: 48px;"></div> <!-- Placeholder for spacing -->
 
           <div class="d-flex align-center">
             <v-btn :size="resize" icon="mdi-arrow-left" variant="text" :to="{ name: 'SeriesCardTable' }"></v-btn>
@@ -23,13 +25,16 @@
             </v-chip>
           </div>
 
-          <v-btn :size="resize" icon="mdi-cards" variant="text" @click="isCardDeckOpen = !isCardDeckOpen"></v-btn>
+          <v-btn v-if="smAndUp" :size="resize" icon="mdi-cards" variant="text"
+            @click="isCardDeckOpen = !isCardDeckOpen"></v-btn>
+          <div v-else style="width: 48px;"></div> <!-- Placeholder for spacing -->
         </div>
       </div>
 
-      <div class="d-flex flex-row overflow-hidden">
+      <div class="d-flex flex-row overflow-hidden" style="position: relative;">
         <div class="sidebar-container" :class="{ 'left-sidebar-open': isFilterOpen }">
-          <SidebarLayout class="fill-height pl-4 pb-4 themed-scrollbar" :header-offset-height="headerOffsetHeight">
+          <SidebarLayout :class="['fill-height', 'themed-scrollbar', smAndUp ? 'pl-4 pb-4' : '']"
+            :header-offset-height="headerOffsetHeight">
             <div class="d-flex flex-column ga-4">
               <v-text-field label="關鍵字" hide-details clearable v-model="keyword"></v-text-field>
 
@@ -69,10 +74,23 @@
           empty-text="" margin="300" class="flex-grow-1 themed-scrollbar pl-4 pr-4" />
 
         <div class="sidebar-container" :class="{ 'right-sidebar-open': isCardDeckOpen }">
-          <SidebarLayout class="fill-height pr-4 pl-4 pb-4" :header-offset-height="headerOffsetHeight">
+          <SidebarLayout :class="['fill-height', smAndUp ? 'pr-4 pl-4 pb-4' : '']"
+            :header-offset-height="headerOffsetHeight">
           </SidebarLayout>
         </div>
       </div>
+
+      <v-bottom-navigation v-if="!smAndUp" :elevation="4">
+        <v-btn @click="isFilterOpen = !isFilterOpen">
+          <v-icon :icon="filterIcon"></v-icon>
+          <span>筛选</span>
+        </v-btn>
+
+        <v-btn @click="isCardDeckOpen = !isCardDeckOpen">
+          <v-icon>mdi-cards</v-icon>
+          <span>卡组</span>
+        </v-btn>
+      </v-bottom-navigation>
     </div>
   </v-container>
 </template>
@@ -223,11 +241,34 @@ onUnmounted(() => {
   flex-shrink: 0;
 }
 
-.sidebar-container.left-sidebar-open {
-  width: 15%;
+@media (min-width: 600px) {
+  .sidebar-container.left-sidebar-open {
+    width: 15%;
+  }
+
+  .sidebar-container.right-sidebar-open {
+    width: 25%;
+  }
 }
 
-.sidebar-container.right-sidebar-open {
-  width: 25%;
+@media (max-width: 599.98px) {
+
+  .sidebar-container.left-sidebar-open,
+  .sidebar-container.right-sidebar-open {
+    width: 100%;
+    position: absolute;
+    z-index: 10;
+    background: rgb(var(--v-theme-surface));
+    height: 100%;
+    top: 0;
+  }
+
+  .sidebar-container.left-sidebar-open {
+    left: 0;
+  }
+
+  .sidebar-container.right-sidebar-open {
+    right: 0;
+  }
 }
 </style>
