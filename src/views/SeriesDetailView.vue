@@ -67,7 +67,7 @@
         </div>
 
         <CardInfiniteScrollList ref="listRef" :cards="filteredCards" :header-offset-height="headerOffsetHeight"
-          margin="300"
+          :series-id="seriesId" margin=" 300"
           :class="['flex-grow-1', 'themed-scrollbar', 'pl-4', 'pr-4', { 'no-scroll': isScrollDisabled }]" />
 
         <div class="sidebar-container" :class="{ 'right-sidebar-open': isCardDeckOpen }">

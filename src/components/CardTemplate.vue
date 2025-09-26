@@ -3,10 +3,9 @@
     style="min-width: 0;">
 
     <div class="ma-3">
-      <v-skeleton-loader v-if="isLoadingCroppedImage || !croppedImageUrl" class="h-100" rounded="lg"
-        style="aspect-ratio: 400/559;"></v-skeleton-loader>
-      <v-img v-else :key="croppedImageUrl" :src="croppedImageUrl" :alt="card.id" :title="card.id"
-        :aspect-ratio="400 / 559" cover rounded="lg">
+      <v-skeleton-loader v-if="!imageUrl" class="h-100" rounded="lg" style="aspect-ratio: 400/559;"></v-skeleton-loader>
+      <v-img v-else :key="card.id" :src="imageUrl" :alt="card.id" :title="card.id" :aspect-ratio="400 / 559" cover
+        rounded="lg">
         <template #error>
           <v-alert type="error" density="compact" class="text-caption h-100" title="Image Error"></v-alert>
         </template>
@@ -65,25 +64,28 @@
 
 <script setup>
 import { computed } from 'vue';
-import { useSpriteSheet } from '@/composables/useSpriteSheet.js';
-import { useCroppedImage } from '@/composables/useCroppedImage.js';
 import { useCardInfo } from '@/composables/useCardInfo.js';
+import { useCardImage } from '@/composables/useCardImage.js';
 
 const props = defineProps({
   card: {
     type: Object,
     required: true,
   },
+  seriesId: {
+    type: String,
+    required: true,
+  },
 });
 
 const spriteName = computed(() => props.card.spriteName);
 const cardId = computed(() => props.card.id);
+const seriesId = computed(() => props.seriesId);
 
-const {
-  imageUrl,
-  metadata,
-} = useSpriteSheet(spriteName);
-const { croppedImageUrl, isLoading: isLoadingCroppedImage } = useCroppedImage(imageUrl, metadata, cardId);
+// 核心邏輯只剩這一行
+const { imageUrl } = useCardImage(seriesId, cardId);
+
+
 const { cardInfo, isLoading: isLoadingCardInfo } = useCardInfo(spriteName, cardId);
 </script>
 
