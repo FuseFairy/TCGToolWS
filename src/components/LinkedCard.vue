@@ -5,8 +5,7 @@
         <v-img src="/placehold.webp" :aspect-ratio="400 / 559" cover />
       </template>
     </v-img>
-
-    <div class="pa-2">
+    <div class="pa-2" style="width: 100%;">
       <div class="text-caption text-grey text-truncate">{{ props.card.id }}</div>
       <div class="text-subtitle-2 font-weight-bold text-truncate" style="height: 24px;">
         <span>{{ props.card.name }}</span>
@@ -25,7 +24,6 @@ const props = defineProps({
 
 const emit = defineEmits(['show-details']);
 
-// cardId 現在是一個 ref，指向 props.card.id
 const cardId = toRefs(props.card).id;
 
 const imageUrl = useCardImage(cardId);

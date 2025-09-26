@@ -12,14 +12,16 @@
     </v-row>
   </v-infinite-scroll>
 
-  <v-dialog v-if="selectedCardData" v-model="isModalVisible" max-width="1000px">
-    <CardDetailModal :card="selectedCardData.card" :img-url="selectedCardData.imageUrl" :all-cards="allCards"
-      @close="isModalVisible = false" @show-new-card="onShowNewCard" />
+  <v-dialog v-if="selectedCardData" v-model="isModalVisible" :max-width="smAndDown ? '100%' : '60%'"
+    :max-height="smAndDown ? '80%' : '60%'">
+    <CardDetailModal :card="selectedCardData.card" :img-url="selectedCardData.imageUrl"
+      :linked-cards="selectedLinkedCards" @close="isModalVisible = false" @show-new-card="onShowNewCard" />
   </v-dialog>
 </template>
 
 <script setup>
 import { ref, computed } from 'vue';
+import { useDisplay } from 'vuetify';
 import CardTemplate from '@/components/CardTemplate.vue';
 import CardDetailModal from '@/components/CardDetailModal.vue';
 
@@ -50,8 +52,17 @@ const props = defineProps({
   }
 });
 
+const { smAndDown } = useDisplay();
 const isModalVisible = ref(false);
 const selectedCardData = ref(null);
+
+const allCardsMap = computed(() => new Map(props.allCards.map(c => [c.id, c])));
+const selectedLinkedCards = computed(() => {
+  if (!selectedCardData.value?.card?.link) return [];
+  const linkIds = selectedCardData.value.card.link ?? [];
+  return linkIds.map(linkId => allCardsMap.value.get(linkId)).filter(Boolean);
+});
+
 const onShowDetails = (payload) => {
   selectedCardData.value = payload;
   isModalVisible.value = true;
