@@ -23,11 +23,11 @@ function formatCardIdToPath(cardId) {
   return `${transformedPrefix}/${suffix}`
 }
 
-export const useCardImage = (seriesId, cardId) => {
+export const useCardImage = (cardId) => {
   const imageUrl = computed(() => {
     const imagePath = formatCardIdToPath(cardId.value)
 
-    return `${imageBaseUrl}/${seriesId.value}/${imagePath}.webp`
+    return `${imageBaseUrl}/${imagePath}.webp`
   })
 
   return imageUrl

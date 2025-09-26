@@ -46,7 +46,7 @@ export const useSeriesCards = (prefixesRef) => {
           if (!response.ok) throw new Error(`Failed to fetch ${path}`)
           return {
             content: await response.json(),
-            spriteName: path.split('/').pop().replace('.json', ''),
+            cardIdPrefix: path.split('/').pop().replace('.json', ''),
           }
         }),
       )
@@ -67,7 +67,7 @@ export const useSeriesCards = (prefixesRef) => {
             productNamesSet.add(cardData.product_name)
           }
           if (cardData.trait && Array.isArray(cardData.trait)) {
-            cardData.trait.forEach(t => traitsSet.add(t))
+            cardData.trait.forEach((t) => traitsSet.add(t))
           }
           if (typeof cardData.cost === 'number') {
             minCost = Math.min(minCost, cardData.cost)
@@ -86,7 +86,7 @@ export const useSeriesCards = (prefixesRef) => {
               ...cardData,
               id: fullCardId,
               baseId: baseId,
-              spriteName: file.spriteName,
+              cardIdPrefix: file.cardIdPrefix,
             })
           })
         }
@@ -95,8 +95,14 @@ export const useSeriesCards = (prefixesRef) => {
       cards.value = allCards
       productNames.value = [...productNamesSet]
       traits.value = [...traitsSet]
-      costRange.value = { min: minCost === Infinity ? 0 : minCost, max: maxCost === -Infinity ? 0 : maxCost }
-      powerRange.value = { min: minPower === Infinity ? 0 : minPower, max: maxPower === -Infinity ? 0 : maxPower }
+      costRange.value = {
+        min: minCost === Infinity ? 0 : minCost,
+        max: maxCost === -Infinity ? 0 : maxCost,
+      }
+      powerRange.value = {
+        min: minPower === Infinity ? 0 : minPower,
+        max: maxPower === -Infinity ? 0 : maxPower,
+      }
 
       cache.set(cacheKey, {
         allCards,

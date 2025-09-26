@@ -7,23 +7,24 @@
   <v-infinite-scroll v-else ref="infiniteScrollRef" @load="load" empty-text="" :margin="margin" :class="$attrs.class">
     <v-row class="ma-0 flex-grow-0" :style="{ paddingTop: `${headerOffsetHeight - 10}px` }">
       <v-col v-for="card in displayedCards" :key="card.id" cols="6" sm="4" md="3" lg="2" class="d-flex">
-        <CardTemplate :card="card" :series-id="seriesId" />
+        <CardTemplate :card="card" @show-details="onShowDetails" />
       </v-col>
     </v-row>
   </v-infinite-scroll>
+
+  <v-dialog v-if="selectedCardData" v-model="isModalVisible" max-width="900px">
+    <CardDetailModal :card="selectedCardData.card" :img-url="selectedCardData.imageUrl" :series-id="seriesId" />
+  </v-dialog>
 </template>
 
 <script setup>
 import { ref, computed } from 'vue';
 import CardTemplate from '@/components/CardTemplate.vue';
+import CardDetailModal from '@/components/CardDetailModal.vue';
 
 const props = defineProps({
   cards: {
     type: Array,
-    required: true,
-  },
-  seriesId: {
-    type: String,
     required: true,
   },
   itemsPerLoad: {
@@ -43,6 +44,17 @@ const props = defineProps({
     default: 0
   }
 });
+
+// 1. 狀態：Modal 是否可見
+const isModalVisible = ref(false);
+// 2. 狀態：當前選中的卡片詳細資料和圖片 URL
+const selectedCardData = ref(null);
+
+// 3. 事件處理器：當 CardTemplate 發出事件時執行
+const onShowDetails = (payload) => {
+  selectedCardData.value = payload; // 儲存從子元件傳來的資料
+  isModalVisible.value = true;      // 打開 Modal
+};
 
 const page = ref(1);
 const infiniteScrollRef = ref(null);

@@ -1,6 +1,6 @@
 <template>
   <v-card class="detail-card d-flex flex-column w-100" variant="flat" color="surface" rounded="lg" hover
-    style="min-width: 0;">
+    style="min-width: 0; " @click="handleCardClick">
 
     <div class="ma-3">
       <v-skeleton-loader v-if="!imageUrl" class="h-100" rounded="lg" style="aspect-ratio: 400/559;"></v-skeleton-loader>
@@ -73,19 +73,24 @@ const props = defineProps({
     type: Object,
     required: true,
   },
-  seriesId: {
-    type: String,
-    required: true,
-  },
 });
 
-const spriteName = computed(() => props.card.spriteName);
+const emit = defineEmits(['show-details']);
+const cardIdPrefix = computed(() => props.card.cardIdPrefix);
 const cardId = computed(() => props.card.id);
-const seriesId = computed(() => props.seriesId);
 
-const imageUrl = useCardImage(seriesId, cardId);
+const imageUrl = useCardImage(cardId);
 
-const { cardInfo, isLoading: isLoadingCardInfo } = useCardInfo(spriteName, cardId);
+const { cardInfo, isLoading: isLoadingCardInfo } = useCardInfo(cardIdPrefix, cardId);
+
+const handleCardClick = () => {
+  if (isLoadingCardInfo.value || !cardInfo.value) return;
+
+  emit('show-details', {
+    card: cardInfo.value,
+    imageUrl: imageUrl.value,
+  });
+};
 </script>
 
 <style scoped>
