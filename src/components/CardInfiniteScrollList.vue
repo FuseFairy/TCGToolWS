@@ -13,8 +13,8 @@
   </v-infinite-scroll>
 
   <v-dialog v-if="selectedCardData" v-model="isModalVisible" max-width="1000px">
-    <CardDetailModal :card="selectedCardData.card" :img-url="selectedCardData.imageUrl" :series-id="seriesId"
-      @close="isModalVisible = false" />
+    <CardDetailModal :card="selectedCardData.card" :img-url="selectedCardData.imageUrl" :all-cards="allCards"
+      @close="isModalVisible = false" @show-new-card="onShowNewCard" />
   </v-dialog>
 </template>
 
@@ -25,6 +25,10 @@ import CardDetailModal from '@/components/CardDetailModal.vue';
 
 const props = defineProps({
   cards: {
+    type: Array,
+    required: true,
+  },
+  allCards: {
     type: Array,
     required: true,
   },
@@ -46,15 +50,15 @@ const props = defineProps({
   }
 });
 
-// 1. 狀態：Modal 是否可見
 const isModalVisible = ref(false);
-// 2. 狀態：當前選中的卡片詳細資料和圖片 URL
 const selectedCardData = ref(null);
-
-// 3. 事件處理器：當 CardTemplate 發出事件時執行
 const onShowDetails = (payload) => {
-  selectedCardData.value = payload; // 儲存從子元件傳來的資料
-  isModalVisible.value = true;      // 打開 Modal
+  selectedCardData.value = payload;
+  isModalVisible.value = true;
+};
+
+const onShowNewCard = (payload) => {
+  selectedCardData.value = payload;
 };
 
 const page = ref(1);

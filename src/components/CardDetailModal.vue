@@ -1,5 +1,5 @@
 <template>
-  <v-card class="d-flex flex-column" style="position: relative;">
+  <v-card class="d-flex flex-column h-50" style="position: relative;">
     <v-btn icon="mdi-close" variant="text" class="close-button" @click="emit('close')"></v-btn>
     <v-card-text class="overflow-y-auto themed-scrollbar">
       <v-row class="fill-height">
@@ -50,10 +50,13 @@
           </div>
 
           <div v-if="card.link && card.link.length > 0" class="mt-4">
-            <div class="text-h6 font-weight-bold mb-2">关联卡片</div>
-            <v-chip v-for="linkId in card.link" :key="linkId" class="mr-2 mb-2" label size="small">
-              {{ linkId }}
-            </v-chip>
+            <div class="text-h6 font-weight-bold mb-2">關聯卡片</div>
+            <!-- 使用 v-row 和 v-col 來建立一個網格佈局 -->
+            <v-row dense>
+              <v-col v-for="linkId in card.link" :key="linkId" cols="6" sm="4">
+                <LinkedCard :card="cardIdMap.get(linkId)" @show-details="handleShowNewCard" />
+              </v-col>
+            </v-row>
           </div>
         </v-col>
       </v-row>
@@ -63,16 +66,24 @@
 
 <script setup>
 import { computed } from 'vue';
+import LinkedCard from './LinkedCard.vue';
 
-const emit = defineEmits(['close']);
+const emit = defineEmits(['close', 'show-new-card']);
 
 const props = defineProps({
   card: { type: Object, required: true },
-  seriesId: { type: String, required: true },
   imgUrl: { type: String, required: true },
+  allCards: { type: Array, required: false },
 });
 
 const formattedEffect = computed(() => props.card.effect || '无');
+const cardIdMap = computed(() => {
+  return new Map(props.allCards.map(c => [c.id, c]));
+});
+
+const handleShowNewCard = (payload) => {
+  emit('show-new-card', payload);
+};
 </script>
 
 <style scoped>
