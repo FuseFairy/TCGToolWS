@@ -2,10 +2,11 @@
   <v-card class="detail-card d-flex flex-column w-100" variant="flat" color="surface" rounded="lg" hover
     style="min-width: 0;">
 
-    <div class="ma-3" style="aspect-ratio: 400/559;">
-      <v-skeleton-loader v-if="isLoadingCroppedImage || !croppedImageUrl" class="h-100"
-        rounded="lg"></v-skeleton-loader>
-      <v-img v-else :src="croppedImageUrl" :alt="card.id" :title="card.id" class="h-100" rounded="lg">
+    <div class="ma-3">
+      <v-skeleton-loader v-if="isLoadingCroppedImage || !croppedImageUrl" class="h-100" rounded="lg"
+        style="aspect-ratio: 400/559;"></v-skeleton-loader>
+      <v-img v-else :key="croppedImageUrl" :src="croppedImageUrl" :alt="card.id" :title="card.id"
+        :aspect-ratio="400 / 559" cover rounded="lg">
         <template #error>
           <v-alert type="error" density="compact" class="text-caption h-100" title="Image Error"></v-alert>
         </template>
