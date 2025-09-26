@@ -7,7 +7,8 @@
       <v-img v-else :key="card.id" :src="imageUrl" :alt="card.id" :title="card.id" :aspect-ratio="400 / 559" cover
         rounded="lg">
         <template #error>
-          <v-alert type="error" density="compact" class="text-caption h-100" title="Image Error"></v-alert>
+          <v-img :key="card.id" src="/placehold.webp" alt="card.id" :title="card.id" :aspect-ratio="400 / 559" cover
+            rounded="lg" />
         </template>
       </v-img>
     </div>
@@ -82,9 +83,7 @@ const spriteName = computed(() => props.card.spriteName);
 const cardId = computed(() => props.card.id);
 const seriesId = computed(() => props.seriesId);
 
-// 核心邏輯只剩這一行
-const { imageUrl } = useCardImage(seriesId, cardId);
-
+const imageUrl = useCardImage(seriesId, cardId);
 
 const { cardInfo, isLoading: isLoadingCardInfo } = useCardInfo(spriteName, cardId);
 </script>
