@@ -1,15 +1,15 @@
 <template>
-  <v-infinite-scroll ref="infiniteScrollRef" @load="load" :empty-text="emptyText" :margin="margin"
-    :class="$attrs.class">
-    <v-row class="ma-0" :style="{ paddingTop: `${headerOffsetHeight - 10}px` }">
+  <div v-if="cards.length === 0" class="text-center text-grey mt-4"
+    :style="{ paddingTop: `${headerOffsetHeight - 10}px` }">
+    {{ emptyText }}
+  </div>
+
+  <v-infinite-scroll v-else ref="infiniteScrollRef" @load="load" empty-text="" :margin="margin" :class="$attrs.class">
+    <v-row class="ma-0 flex-grow-0" :style="{ paddingTop: `${headerOffsetHeight - 10}px` }">
       <v-col v-for="card in displayedCards" :key="card.id" cols="6" sm="4" md="3" lg="2" class="d-flex">
         <CardTemplate :card="card" />
       </v-col>
     </v-row>
-
-    <template v-if="displayedCards.length === 0 && emptyText" #empty>
-      <div class="text-center text-grey mt-4">{{ emptyText }}</div>
-    </template>
   </v-infinite-scroll>
 </template>
 
@@ -28,7 +28,7 @@ const props = defineProps({
   },
   emptyText: {
     type: String,
-    default: '~没有找到更多项目~',
+    default: '~没有更多卡片~',
   },
   margin: {
     type: [String, Number],

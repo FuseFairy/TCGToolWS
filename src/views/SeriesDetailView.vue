@@ -4,10 +4,6 @@
       <v-progress-circular indeterminate color="primary" size="64"></v-progress-circular>
     </div>
 
-    <div v-else-if="allCards.length === 0" class="text-center text-grey d-flex justify-center align-center h-100">
-      此系列中没有找到任何卡片。
-    </div>
-
     <div v-else class="d-flex flex-column h-100">
 
       <div ref="headerRef" class="overlay-header pa-4 pb-0 pt-0">
@@ -31,7 +27,7 @@
         </div>
       </div>
 
-      <div class="d-flex flex-row overflow-hidden" style="position: relative;">
+      <div class="d-flex flex-row overflow-hidden fill-height" style="position: relative;">
         <div class="sidebar-container" :class="{ 'left-sidebar-open': isFilterOpen }">
           <SidebarLayout :class="['fill-height', 'themed-scrollbar', smAndUp ? 'pl-4 pb-4' : '']"
             :header-offset-height="headerOffsetHeight">
@@ -41,7 +37,7 @@
               <v-divider></v-divider>
 
               <v-select label="卡片類型"
-                :items="[{ title: '角色', value: '角色卡' }, { title: '事件', value: '事件卡' }, { title: '高潮', value: '高潮卡' }]"
+                :items="[{ title: '角色', value: '角色卡' }, { title: '事件', value: '事件卡' }, { title: '潮卡', value: '高潮卡' }]"
                 hide-details multiple chips clearable v-model="selectedCardTypes"></v-select>
 
               <v-select label="颜色"
@@ -71,7 +67,7 @@
         </div>
 
         <CardInfiniteScrollList ref="listRef" :cards="filteredCards" :header-offset-height="headerOffsetHeight"
-          empty-text="" margin="300"
+          margin="300"
           :class="['flex-grow-1', 'themed-scrollbar', 'pl-4', 'pr-4', { 'no-scroll': isScrollDisabled }]" />
 
         <div class="sidebar-container" :class="{ 'right-sidebar-open': isCardDeckOpen }">
@@ -217,9 +213,10 @@ const filteredCards = computed(() => {
   }
 
   // Level filter
+  const toLevel = level => (level === '-' ? 0 : +level);
   if (selectedLevels.value.length > 0) {
-    const mappedLevels = selectedLevels.value.map(level => parseInt(level));
-    filtered = filtered.filter(card => mappedLevels.includes(card.level));
+    const mappedLevels = new Set(selectedLevels.value.map(toLevel));
+    filtered = filtered.filter(card => mappedLevels.has(toLevel(card.level)));
   }
 
   // Cost filter
