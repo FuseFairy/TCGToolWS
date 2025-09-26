@@ -12,8 +12,9 @@
     </v-row>
   </v-infinite-scroll>
 
-  <v-dialog v-if="selectedCardData" v-model="isModalVisible" max-width="900px">
-    <CardDetailModal :card="selectedCardData.card" :img-url="selectedCardData.imageUrl" :series-id="seriesId" />
+  <v-dialog v-if="selectedCardData" v-model="isModalVisible" max-width="1000px">
+    <CardDetailModal :card="selectedCardData.card" :img-url="selectedCardData.imageUrl" :series-id="seriesId"
+      @close="isModalVisible = false" />
   </v-dialog>
 </template>
 
