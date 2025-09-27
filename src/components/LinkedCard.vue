@@ -25,8 +25,9 @@ const props = defineProps({
 const emit = defineEmits(['show-details']);
 
 const cardId = toRefs(props.card).id;
+const cardIdPrefix = toRefs(props.card).cardIdPrefix;
 
-const imageUrl = useCardImage(cardId);
+const imageUrl = useCardImage(cardIdPrefix, cardId);
 
 const handleCardClick = () => {
   emit('show-details', {

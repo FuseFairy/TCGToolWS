@@ -74,8 +74,9 @@ const props = defineProps({
 const emit = defineEmits(['show-details']);
 const cardInfo = computed(() => props.card);
 const cardId = computed(() => props.card.id);
+const cardIdPrefix = computed(() => props.card.cardIdPrefix);
 
-const imageUrl = useCardImage(cardId);
+const imageUrl = useCardImage(cardIdPrefix, cardId);
 
 const handleCardClick = () => {
   if (!cardInfo.value) return;
