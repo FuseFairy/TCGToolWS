@@ -6,7 +6,7 @@
     <v-card-text class="flex-grow-1 pa-0 d-flex flex-column flex-md-row"
       :style="{ overflow: $vuetify.display.mdAndUp ? 'hidden' : 'visible' }">
       <div class="flex-shrink-0 d-flex justify-center align-center pa-4" :style="{
-        width: $vuetify.display.mdAndUp ? '41.6666%' : '100%',
+        width: $vuetify.display.mdAndUp ? '40%' : '100%',
         maxWidth: '400px',
         alignSelf: $vuetify.display.mdAndUp ? 'stretch' : 'center'
       }">
