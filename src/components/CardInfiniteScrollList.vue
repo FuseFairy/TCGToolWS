@@ -1,8 +1,7 @@
 <template>
-  <div v-if="cards.length === 0" class="text-center text-grey mt-4"
-    :style="{ paddingTop: `${headerOffsetHeight - 10}px` }">
+  <v-container v-if="cards.length === 0" class="d-flex align-center justify-center text-grey h-100 w-100">
     {{ emptyText }}
-  </div>
+  </v-container>
 
   <v-infinite-scroll v-else ref="infiniteScrollRef" @load="load" empty-text="" :margin="margin" :class="$attrs.class">
     <v-row class="ma-0 flex-grow-0" :style="{ paddingTop: `${headerOffsetHeight - 10}px` }">
