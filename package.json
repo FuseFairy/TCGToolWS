@@ -10,6 +10,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
+    "setup-img": "node scripts/setup-images.js",
     "lint": "eslint . --fix",
     "format": "prettier --write src/",
     "format:card": "prettier --write src/assets/card/"

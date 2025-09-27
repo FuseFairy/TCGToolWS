@@ -45,6 +45,7 @@ temp_processed_images/
 
 ws_tcg_icons/
 ws-image-data/
+temp-images/
 icon_crawler.py
 
 .gemini/

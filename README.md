@@ -2,34 +2,54 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+## 🚀 快速开始
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
+### 安装依赖
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### 设置图片资源
+
+本项目使用独立的图片仓库，本地开发需要手動设置图片资源：
+
+```sh
+# 手动设置图片资源
+npm run setup-img
+```
+
+### 开发
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+## 推荐的 IDE 设置
+
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (并禁用 Vetur)。
+
+## 项目设置
+
+```sh
+npm install
+```
+
+### 编译并热重载用于开发
+
+```sh
+npm run dev
+```
+
+### 编译并压缩用于生产
 
 ```sh
 npm run build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+## 🔧 开发说明
 
-```sh
-npm run lint
-```
+### 图片资源
+
+- **本地开发**: 图片存放在 `public/ws-image-data/`，通过脚本从独立仓库拉取
+- **生产部署**: 使用云端 CDN，不需要本地图片文件
