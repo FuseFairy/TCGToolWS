@@ -1,9 +1,9 @@
 <template>
-  <v-container v-if="cards.length === 0" class="d-flex align-center justify-center text-grey h-100 w-100">
+  <v-container v-if="cards.length === 0" class="d-flex align-center justify-center text-grey h-100 w-100" :="$attrs">
     {{ emptyText }}
   </v-container>
 
-  <v-infinite-scroll v-else ref="infiniteScrollRef" @load="load" empty-text="" :margin="margin" :class="$attrs.class">
+  <v-infinite-scroll v-else ref="infiniteScrollRef" @load="load" empty-text="" :margin="margin" :="$attrs">
     <v-row class="ma-0 flex-grow-0" :style="{ paddingTop: `${headerOffsetHeight - 10}px` }">
       <v-col v-for="card in displayedCards" :key="card.id" cols="6" sm="4" md="3" lg="2" class="d-flex">
         <CardTemplate :card="card" @show-details="onShowDetails" />
