@@ -18,48 +18,50 @@
         </v-img>
       </div>
 
-      <div class="flex-grow-1 d-flex flex-column" :class="$vuetify.display.mdAndUp ? 'pt-4 pb-4 pl-4' : 'pa-4'"
+      <div class="flex-grow-1 d-flex flex-column" :class="$vuetify.display.mdAndUp ? 'pl-4' : 'pa-4'"
         style="min-width: 0;">
-        <div class="flex-grow-1 pr-2" :class="{ 'overflow-y-auto themed-scrollbar': $vuetify.display.mdAndUp }">
-          <v-card-subtitle class="pb-1 text-body-1 pa-0">
-            {{ props.card.product_name }}
-          </v-card-subtitle>
-          <v-card-title class="pt-0 text-h4 text-wrap pa-0 mb-4">{{ props.card.name }}</v-card-title>
+        <div class="flex-grow-1" :class="{ 'overflow-y-auto themed-scrollbar': $vuetify.display.mdAndUp }">
+          <div :class="{ 'pt-4 pb-4 pr-4': $vuetify.display.mdAndUp }">
+            <v-card-subtitle class="pb-1 text-body-1 pa-0">
+              {{ props.card.product_name }}
+            </v-card-subtitle>
+            <v-card-title class="pt-0 text-h4 text-wrap pa-0 mb-4">{{ props.card.name }}</v-card-title>
 
-          <v-row dense class="my-4 text-center">
-            <v-col>
-              <div class="text-body-2 text-grey">等级</div>
-              <div class="font-weight-bold text-h5">{{ props.card.level }}</div>
-            </v-col>
-            <v-col>
-              <div class="text-body-2 text-grey">费用</div>
-              <div class="font-weight-bold text-h5">{{ props.card.cost }}</div>
-            </v-col>
-            <v-col>
-              <div class="text-body-2 text-grey">战斗力</div>
-              <div class="font-weight-bold text-h5">{{ props.card.power }}</div>
-            </v-col>
-            <v-col>
-              <div class="text-body-2 text-grey">灵魂值</div>
-              <div class="font-weight-bold text-h5">{{ props.card.soul }}</div>
-            </v-col>
-          </v-row>
-          <v-divider class="mb-4"></v-divider>
-          <div>
-            <div class="text-h6 font-weight-bold mb-2">效果</div>
-            <div class="text-body-1" v-html="formattedEffect"></div>
-          </div>
-          <div v-if="card.trait && card.trait.length > 0 && card.trait[0] !== '-'" class="mt-4">
-            <div class="text-h6 font-weight-bold mb-2">特征</div>
-            <v-chip v-for="r in card.trait" :key="r" class="mr-2 mb-2" label>{{ r }}</v-chip>
-          </div>
-          <div v-if="card.link && card.link.length > 0" class="mt-4">
-            <div class="text-h6 font-weight-bold mb-2">關聯卡片</div>
-            <v-row dense>
-              <v-col v-for="card in linkedCards" :key="card.id" style="flex: 0 0 150px; max-width: 150px;">
-                <LinkedCard :card="card" @show-details="handleShowNewCard" />
+            <v-row dense class="my-4 text-center">
+              <v-col>
+                <div class="text-body-2 text-grey">等级</div>
+                <div class="font-weight-bold text-h5">{{ props.card.level }}</div>
+              </v-col>
+              <v-col>
+                <div class="text-body-2 text-grey">费用</div>
+                <div class="font-weight-bold text-h5">{{ props.card.cost }}</div>
+              </v-col>
+              <v-col>
+                <div class="text-body-2 text-grey">战斗力</div>
+                <div class="font-weight-bold text-h5">{{ props.card.power }}</div>
+              </v-col>
+              <v-col>
+                <div class="text-body-2 text-grey">灵魂值</div>
+                <div class="font-weight-bold text-h5">{{ props.card.soul }}</div>
               </v-col>
             </v-row>
+            <v-divider class="mb-4"></v-divider>
+            <div>
+              <div class="text-h6 font-weight-bold mb-2">效果</div>
+              <div class="text-body-1" v-html="formattedEffect"></div>
+            </div>
+            <div v-if="card.trait && card.trait.length > 0 && card.trait[0] !== '-'" class="mt-4">
+              <div class="text-h6 font-weight-bold mb-2">特征</div>
+              <v-chip v-for="r in card.trait" :key="r" class="mr-2 mb-2" label>{{ r }}</v-chip>
+            </div>
+            <div v-if="card.link && card.link.length > 0" class="mt-4">
+              <div class="text-h6 font-weight-bold mb-2">關聯卡片</div>
+              <v-row dense>
+                <v-col v-for="card in linkedCards" :key="card.id" style="flex: 0 0 150px; max-width: 150px;">
+                  <LinkedCard :card="card" @show-details="handleShowNewCard" />
+                </v-col>
+              </v-row>
+            </div>
           </div>
         </div>
       </div>
