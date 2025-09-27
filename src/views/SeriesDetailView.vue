@@ -71,7 +71,7 @@
           :class="['flex-grow-1', 'themed-scrollbar', 'pl-4', 'pr-4', { 'no-scroll': isScrollDisabled }]" />
 
         <div class="sidebar-container" :class="{ 'right-sidebar-open': isCardDeckOpen }">
-          <SidebarLayout :class="['fill-height', smAndUp ? 'pr-4 pl-4 pb-4' : '']"
+          <SidebarLayout :class="['fill-height', smAndUp ? 'pr-4 pb-4' : '']"
             :header-offset-height="headerOffsetHeight">
           </SidebarLayout>
         </div>
