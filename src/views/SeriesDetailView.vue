@@ -107,7 +107,7 @@ const props = defineProps({
   },
 })
 
-const { smAndUp } = useDisplay();
+const { smAndUp, lgAndUp } = useDisplay();
 const resize = computed(() => {
   return smAndUp.value ? 'x-large' : 'small';
 });
@@ -132,21 +132,21 @@ watchEffect(() => {
   }
 });
 
-// --- Mobile specific logic ---
+// --- Mobile & Tablet specific logic ---
 const isScrollDisabled = computed(() => !smAndUp.value && (isFilterOpen.value || isCardDeckOpen.value));
 
 watch(isFilterOpen, (newValue) => {
-  if (newValue && !smAndUp.value) {
+  if (newValue && !lgAndUp.value) {
     isCardDeckOpen.value = false;
   }
 });
 
 watch(isCardDeckOpen, (newValue) => {
-  if (newValue && !smAndUp.value) {
+  if (newValue && !lgAndUp.value) {
     isFilterOpen.value = false;
   }
 });
-// --- End of mobile specific logic ---
+// --- End of mobile & Tablet specific logic ---
 
 const seriesName = computed(() => {
   const foundEntry = Object.entries(seriesMap).find(([, value]) => value.id === props.seriesId);
@@ -259,7 +259,17 @@ onUnmounted(() => {
   overflow-y: hidden;
 }
 
-@media (min-width: 600px) {
+/* Tablet (sm, md) */
+@media (min-width: 600px) and (max-width: 1279.98px) {
+
+  .sidebar-container.left-sidebar-open,
+  .sidebar-container.right-sidebar-open {
+    width: 35%;
+  }
+}
+
+/* Desktop (lg, xl) */
+@media (min-width: 1280px) {
   .sidebar-container.left-sidebar-open {
     width: 15%;
   }
