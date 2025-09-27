@@ -1,7 +1,7 @@
 <template>
   <v-card class="d-flex flex-column w-100" style="position: relative;"
     :class="{ 'overflow-y-auto themed-scrollbar': !$vuetify.display.mdAndUp }">
-    <v-btn icon="mdi-close" variant="text" class="close-button" @click="emit('close')"></v-btn>
+    <v-btn icon="mdi-close" variant="tonal" size="small" class="close-button" @click="emit('close')"></v-btn>
 
     <v-card-text class="flex-grow-1 pa-0 d-flex flex-column flex-md-row"
       :style="{ overflow: $vuetify.display.mdAndUp ? 'hidden' : 'visible' }">
@@ -18,7 +18,8 @@
         </v-img>
       </div>
 
-      <div class="flex-grow-1 d-flex flex-column pa-4" style="min-width: 0;">
+      <div class="flex-grow-1 d-flex flex-column" :class="$vuetify.display.mdAndUp ? 'pt-4 pb-4 pl-4' : 'pa-4'"
+        style="min-width: 0;">
         <div class="flex-grow-1 pr-2" :class="{ 'overflow-y-auto themed-scrollbar': $vuetify.display.mdAndUp }">
           <v-card-subtitle class="pb-1 text-body-1 pa-0">
             {{ props.card.product_name }}
@@ -91,9 +92,11 @@ const handleShowNewCard = (payload) => {
 }
 
 .close-button {
-  position: absolute;
-  top: 8px;
-  right: 8px;
-  z-index: 10;
+  position: fixed;
+  top: 12px;
+  right: 12px;
+  z-index: 15;
+  background-color: rgba(0, 0, 0, 0.6) !important;
+  color: white !important;
 }
 </style>
