@@ -146,6 +146,13 @@ watch(isCardDeckOpen, (newValue) => {
     isFilterOpen.value = false;
   }
 });
+
+// Close one sidebar if resizing from desktop to a smaller screen with both sidebars open
+watch(lgAndUp, (isDesktop) => {
+  if (!isDesktop && isFilterOpen.value && isCardDeckOpen.value) {
+    isCardDeckOpen.value = false;
+  }
+});
 // --- End of mobile & Tablet specific logic ---
 
 const seriesName = computed(() => {
