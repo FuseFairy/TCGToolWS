@@ -10,9 +10,10 @@
         maxWidth: '400px',
         alignSelf: $vuetify.display.mdAndUp ? 'stretch' : 'center'
       }">
-        <v-img :src="props.imgUrl" :alt="props.card.name" rounded="lg" cover :aspect-ratio="400 / 559" :max-width="400">
+        <v-img :src="props.imgUrl" :alt="props.card.name" rounded="5md" cover :aspect-ratio="400 / 559"
+          :max-width="400">
           <template #error>
-            <v-img src="/placehold.webp" :aspect-ratio="400 / 559" cover rounded="lg" :max-width="400" />
+            <v-img src="/placehold.webp" :aspect-ratio="400 / 559" rounded="5md" cover :max-width="400" />
           </template>
         </v-img>
       </div>

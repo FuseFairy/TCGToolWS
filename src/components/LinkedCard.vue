@@ -1,6 +1,6 @@
 <template>
-  <v-card variant="tonal" class="linked-card" @click="handleCardClick">
-    <v-img :src="imageUrl" :aspect-ratio="400 / 559" cover>
+  <v-card variant="tonal" class="linked-card" rounded="lg" @click="handleCardClick">
+    <v-img :src="imageUrl" :aspect-ratio="400 / 559" rounded="lg" cover>
       <template #error>
         <v-img src="/placehold.webp" :aspect-ratio="400 / 559" cover />
       </template>

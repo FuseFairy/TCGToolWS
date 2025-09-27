@@ -1,14 +1,15 @@
 <template>
-  <v-card class="detail-card d-flex flex-column w-100" variant="flat" color="surface" rounded="lg" hover
+  <v-card class="detail-card d-flex flex-column w-100" variant="flat" color="surface" rounded="3md" hover
     style="min-width: 0; " @click="handleCardClick">
 
     <div class="ma-3">
-      <v-skeleton-loader v-if="!imageUrl" class="h-100" rounded="lg" style="aspect-ratio: 400/559;"></v-skeleton-loader>
+      <v-skeleton-loader v-if="!imageUrl" class="h-100" rounded="3md"
+        style="aspect-ratio: 400/559;"></v-skeleton-loader>
       <v-img v-else :key="card.id" :src="imageUrl" :alt="card.id" :title="card.id" :aspect-ratio="400 / 559" cover
-        rounded="lg">
+        rounded="3md">
         <template #error>
           <v-img :key="card.id" src="/placehold.webp" alt="card.id" :title="card.id" :aspect-ratio="400 / 559" cover
-            rounded="lg" />
+            rounded="3md" />
         </template>
       </v-img>
     </div>

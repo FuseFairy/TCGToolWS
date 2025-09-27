@@ -1,7 +1,15 @@
+// Vuetify 的預設 border-radius-root 是 4px
+$border-radius-root: 4px;
+
 @use 'vuetify/settings' with (
   $body-font-family: (
     'LXGW WenKai Mono TC',
     sans-serif,
   ),
-  $border-radius-root: 6px
+  $rounded: (
+    'md': $border-radius-root,
+    '3sm': $border-radius-root / 2 * 3, // 6px
+    '3md': $border-radius-root * 3,     // 12px
+    '5md': $border-radius-root * 5,     // 20px
+  )
 );
