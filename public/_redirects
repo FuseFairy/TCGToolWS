@@ -1,13 +1,1 @@
-/assets/* /assets/:splat 200
-/index-*.js /index-:splat.js 200
-/index-*.css /index-:splat.css 200
-/*.js /:splat 200
-/*.css /:splat 200
-/*.map /:splat 200
-
-/*.png /:splat 200
-/*.jpg /:splat 200  
-/*.svg /:splat 200
-/*.ico /:splat 200
-
-/* /index.html 200
+/index.html  /index.html 200
