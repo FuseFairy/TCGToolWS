@@ -19,14 +19,12 @@
       </div>
 
       <div class="flex-grow-1" :style="{ position: $vuetify.display.mdAndUp ? 'relative' : 'static', minWidth: 0 }">
-        <div class="themed-scrollbar" :style="{
-          position: $vuetify.display.mdAndUp ? 'absolute' : 'static',
-          top: $vuetify.display.mdAndUp ? 0 : null,
-          left: $vuetify.display.mdAndUp ? 0 : null,
-          right: $vuetify.display.mdAndUp ? 0 : null,
-          bottom: $vuetify.display.mdAndUp ? 0 : null,
-          overflowY: $vuetify.display.mdAndUp ? 'auto' : 'visible',
-        }">
+        <div class="themed-scrollbar" :class="{
+          'position-absolute': $vuetify.display.mdAndUp,
+          'overflow-y-auto': $vuetify.display.mdAndUp,
+          'fill-height fill-width': $vuetify.display.mdAndUp,
+        }"
+          :style="{ overflowY: $vuetify.display.mdAndUp ? undefined : 'visible', }">
           <div class="pa-4">
             <v-card-subtitle class="pb-1 text-body-1 pa-0">
               {{ props.card.product_name }}
