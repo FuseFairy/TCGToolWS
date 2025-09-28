@@ -1,0 +1,13 @@
+
+name = "tcgtoolws-dev-worker"
+main = "worker/index.js"
+compatibility_date = "2025-09-24"
+
+[site]
+bucket = "./dist"
+spa = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "ws-account-db"
+database_id = "8368900c-fb02-483c-8f71-43882ec6ab6b"
