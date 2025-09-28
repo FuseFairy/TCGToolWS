@@ -22,7 +22,10 @@ npm run setup-img
 ### 开发
 
 ```sh
-npm run dev
+npm run build     # 先编译/打包代码，生成 Worker 可用文件
+npm run db:init   # 初始化数据库结构
+npm run db:run    # 启动数据库
+npm run dev       # 启动开发服务器，本地测试
 ```
 
 ## 推荐的 IDE 设置
