@@ -2,7 +2,6 @@ import { fileURLToPath, URL } from 'node:url'
 
 import { defineConfig } from 'vite'
 import { visualizer } from 'rollup-plugin-visualizer'
-import { cloudflare } from '@cloudflare/vite-plugin'
 import vue from '@vitejs/plugin-vue'
 import legacy from '@vitejs/plugin-legacy'
 import vuetify from 'vite-plugin-vuetify'
@@ -13,6 +12,12 @@ import ViteFonts from 'unplugin-fonts/vite'
 export default defineConfig({
   server: {
     cors: true,
+    proxy: {
+      '/api': {
+        target: 'http://localhost:8788',
+        changeOrigin: true,
+      },
+    },
   },
   preview: {
     cors: true,
@@ -42,7 +47,6 @@ export default defineConfig({
     legacy({
       targets: ['defaults'],
     }),
-    cloudflare(),
   ],
   resolve: {
     alias: {

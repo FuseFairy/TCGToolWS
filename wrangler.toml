@@ -1,11 +1,10 @@
 
-name = "tcgtoolws-dev-worker"
-main = "worker/index.js"
+name = "tcgtoolws-worker"
 compatibility_date = "2025-09-24"
 pages_build_output_dir = "dist"
 
-[assets]
-not_found_handling = "single-page-application"
+[dev]
+port = 8788
 
 [[d1_databases]]
 binding = "DB"

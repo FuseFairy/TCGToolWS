@@ -14,7 +14,8 @@
     "lint": "eslint . --fix",
     "format": "prettier --write src/",
     "format:card": "prettier --write src/assets/card/",
-    "db:init": "wrangler d1 execute ws-account-db --local --file=./schema.sql"
+    "db:init": "wrangler d1 execute ws-account-db --local --file=./schema.sql",
+    "db:run": "wrangler pages dev"
   },
   "dependencies": {
     "hono": "^4.9.9",
@@ -25,7 +26,6 @@
     "vuetify": "^3.10.2"
   },
   "devDependencies": {
-    "@cloudflare/vite-plugin": "^1.13.7",
     "@eslint/js": "^9.31.0",
     "@vitejs/plugin-legacy": "^7.2.1",
     "@vitejs/plugin-vue": "^6.0.1",
