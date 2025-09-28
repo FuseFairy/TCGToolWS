@@ -4,9 +4,8 @@ main = "worker/index.js"
 compatibility_date = "2025-09-24"
 pages_build_output_dir = "dist"
 
-[site]
-bucket = "./dist"
-spa = true
+[assets]
+not_found_handling = "single-page-application"
 
 [[d1_databases]]
 binding = "DB"
