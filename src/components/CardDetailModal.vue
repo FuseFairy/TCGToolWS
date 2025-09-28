@@ -3,12 +3,12 @@
     :class="{ 'overflow-y-auto themed-scrollbar': !$vuetify.display.mdAndUp }">
     <v-btn icon="mdi-close" variant="tonal" size="small" class="close-button" @click="emit('close')"></v-btn>
 
-    <v-card-text class="flex-grow-1 pa-0 d-flex flex-column flex-md-row"
+    <v-card-text class="pa-0 d-flex flex-column flex-md-row"
       :style="{ overflow: $vuetify.display.mdAndUp ? 'hidden' : 'visible' }">
       <div class="flex-shrink-0 d-flex justify-center align-center pa-4" :style="{
         width: $vuetify.display.mdAndUp ? '40%' : '100%',
         maxWidth: '400px',
-        alignSelf: $vuetify.display.mdAndUp ? 'stretch' : 'center'
+        alignSelf: 'center'
       }">
         <v-img :src="props.imgUrl" :alt="props.card.name" rounded="5md" cover :aspect-ratio="400 / 559"
           :max-width="400">
@@ -18,10 +18,16 @@
         </v-img>
       </div>
 
-      <div class="flex-grow-1 d-flex flex-column" :class="$vuetify.display.mdAndUp ? 'pl-4' : 'pa-4'"
-        style="min-width: 0;">
-        <div class="flex-grow-1" :class="{ 'overflow-y-auto themed-scrollbar': $vuetify.display.mdAndUp }">
-          <div :class="{ 'pt-4 pb-4 pr-4': $vuetify.display.mdAndUp }">
+      <div class="flex-grow-1" :style="{ position: $vuetify.display.mdAndUp ? 'relative' : 'static', minWidth: 0 }">
+        <div class="themed-scrollbar" :style="{
+          position: $vuetify.display.mdAndUp ? 'absolute' : 'static',
+          top: $vuetify.display.mdAndUp ? 0 : null,
+          left: $vuetify.display.mdAndUp ? 0 : null,
+          right: $vuetify.display.mdAndUp ? 0 : null,
+          bottom: $vuetify.display.mdAndUp ? 0 : null,
+          overflowY: $vuetify.display.mdAndUp ? 'auto' : 'visible',
+        }">
+          <div class="pa-4">
             <v-card-subtitle class="pb-1 text-body-1 pa-0">
               {{ props.card.product_name }}
             </v-card-subtitle>
