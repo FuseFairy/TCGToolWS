@@ -50,3 +50,5 @@ icon_crawler.py
 
 .gemini/
 .env
+
+.wrangler/

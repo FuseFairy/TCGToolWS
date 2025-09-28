@@ -18,12 +18,15 @@
       <template #append>
         <div class="d-none d-md-block h-100">
           <template v-for="item in navItems" :key="item.to">
-            <v-btn size="large" variant="text" :to="{ name: item.name }" :text="item.text"
-              class="h-100 rounded-0"></v-btn>
+            <v-btn v-if="!item.requiresAuth || authStore.isAuthenticated" size="large" variant="text"
+              :to="{ name: item.name }" :text="item.text" class="h-100 rounded-0"></v-btn>
           </template>
         </div>
         <v-divider class="mx-3 align-self-center d-none d-md-block" length="24" thickness="2" vertical></v-divider>
         <v-btn @click="toggleTheme" icon="mdi-brightness-6"></v-btn>
+
+        <v-btn v-if="authStore.isAuthenticated" @click="handleLogout" icon="mdi-logout" title="登出"></v-btn>
+        <v-btn v-else @click="handleLogin" icon="mdi-login" title="登入/註冊"></v-btn>
       </template>
     </v-app-bar>
 
@@ -34,6 +37,8 @@
         </v-fade-transition>
       </router-view>
     </v-main>
+
+    <AuthDialog ref="authDialog" />
   </v-app>
 </template>
 
@@ -41,12 +46,25 @@
 import { ref, watchEffect, computed } from 'vue'
 import { useTheme } from 'vuetify'
 import { useUIStore } from '@/stores/ui'
+import { useAuthStore } from '@/stores/auth'
+import AuthDialog from '@/components/AuthDialog.vue'
+
+const authStore = useAuthStore()
+const authDialog = ref(null)
+
+const handleLogin = () => {
+  authDialog.value?.open()
+}
+
+const handleLogout = () => {
+  authStore.logout()
+}
 
 const drawer = ref(false)
 const navItems = [
-  { text: '首页', name: 'Home' },
-  { text: '系列卡表', name: 'SeriesCardTable' },
-  { text: '我的卡组', name: 'Decks' }
+  { text: '首页', name: 'Home', requiresAuth: false },
+  { text: '系列卡表', name: 'SeriesCardTable', requiresAuth: false },
+  { text: '我的卡组', name: 'Decks', requiresAuth: true }
 ]
 
 const vuetifyTheme = useTheme()
