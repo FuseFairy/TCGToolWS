@@ -2,6 +2,7 @@
 name = "tcgtoolws-dev-worker"
 main = "worker/index.js"
 compatibility_date = "2025-09-24"
+pages_build_output_dir = "dist"
 
 [site]
 bucket = "./dist"
