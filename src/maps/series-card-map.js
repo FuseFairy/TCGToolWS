@@ -1,7 +1,7 @@
 import { assetModules } from '@/utils/getAssetsFile.js'
 
 const allSeriesCardPaths = Object.keys(assetModules)
-  .filter((fullPath) => fullPath.startsWith('/src/assets/card/data/'))
+  .filter((fullPath) => fullPath.startsWith('/src/assets/card-data/'))
   .map((fullPath) => fullPath.substring('/src/assets/'.length))
 
 export const findSeriesDataFileName = (prefixes = []) => {

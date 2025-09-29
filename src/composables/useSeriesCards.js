@@ -48,7 +48,7 @@ export const useSeriesCards = (prefixesRef) => {
             content: await response.json(),
             cardIdPrefix: path.split('/').pop().replace('.json', ''),
           }
-        }),
+        })
       )
 
       const allCards = []
@@ -59,11 +59,13 @@ export const useSeriesCards = (prefixesRef) => {
       let minPower = Infinity
       let maxPower = -Infinity
 
-      // --- 第一遍處理 (First Pass): 解析原始資料，生成唯一的 card id ---
+      // --- 第一遍處理 (First Pass): 解析新結構的資料 ---
       for (const file of allFileContents) {
         for (const baseId in file.content) {
+          // 取得包含共同屬性的基礎卡片物件
           const cardData = file.content[baseId]
 
+          // 提取篩選器所需資訊 (這部分邏輯不變)
           if (cardData.product_name) productNamesSet.add(cardData.product_name)
           if (cardData.trait && Array.isArray(cardData.trait))
             cardData.trait.forEach((t) => traitsSet.add(t))
@@ -76,29 +78,33 @@ export const useSeriesCards = (prefixesRef) => {
             maxPower = Math.max(maxPower, cardData.power)
           }
 
-          cardData.rarity.forEach((rarity) => {
-            const suffix = rarity.includes('-') ? rarity.split('-')[1] : rarity
-            const fullCardId = `${baseId}${suffix}`
-            allCards.push({
-              ...cardData,
-              id: fullCardId,
-              baseId: baseId,
-              cardIdPrefix: file.cardIdPrefix,
+          // =================== KEY CHANGE START ===================
+          // 從 cardData 中解構出 all_cards 陣列和其餘的基礎屬性
+          const { all_cards, ...baseCardData } = cardData
+
+          // 遍歷 all_cards 陣列，將基礎屬性與每個版本特定屬性合併
+          if (all_cards && Array.isArray(all_cards)) {
+            all_cards.forEach((cardVersion) => {
+              allCards.push({
+                ...baseCardData, // 包含 name, effect, level, power, link 等
+                ...cardVersion, // 包含 id, rarity
+                baseId: baseId, // 將原始 key (baseId) 加入，供後續處理使用
+                cardIdPrefix: file.cardIdPrefix,
+              })
             })
-          })
+          }
+          // =================== KEY CHANGE END =====================
         }
       }
 
-      // --- 第二遍處理 (Second Pass): 修正內部 link 引用 ---
+      // --- 第二遍處理 (Second Pass): 修正內部 link 引用 (此段邏輯無需修改) ---
 
       // 1. 建立一個 "一對多" 的 Map: <baseId, string[]>
       const baseIdToFullIdsMap = new Map()
       for (const card of allCards) {
         if (!baseIdToFullIdsMap.has(card.baseId)) {
-          // 如果 Map 中沒有這個 baseId，就用一個空陣列初始化它
           baseIdToFullIdsMap.set(card.baseId, [])
         }
-        // 將當前的完整 id推進對應 baseId 的陣列中
         baseIdToFullIdsMap.get(card.baseId).push(card.id)
       }
 
@@ -108,14 +114,14 @@ export const useSeriesCards = (prefixesRef) => {
           card.link = card.link.flatMap((linkBaseId) => {
             const fullIds = baseIdToFullIdsMap.get(linkBaseId)
             if (fullIds && fullIds.length > 0) {
-              return fullIds // flatMap 會自動將這個陣列攤平到結果中
+              return fullIds
             }
             if (import.meta.env.DEV) {
               console.warn(
-                `Could not find any full IDs for linked baseId "${linkBaseId}" in card "${card.id}".`,
+                `Could not find any full IDs for linked baseId "${linkBaseId}" in card "${card.id}".`
               )
             }
-            return [] // 如果找不到，返回一個空陣列， effectively 移除這個無效的 link
+            return []
           })
         }
       }
