@@ -7,3 +7,13 @@ CREATE TABLE users (
     salt TEXT NOT NULL,
     last_login_time INTEGER
 );
+
+DROP TABLE IF EXISTS pending_registrations;
+
+CREATE TABLE pending_registrations (
+    email TEXT PRIMARY KEY,
+    hashed_password TEXT NOT NULL,
+    salt TEXT NOT NULL,
+    verification_code TEXT NOT NULL,
+    expires_at INTEGER NOT NULL
+);

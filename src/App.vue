@@ -25,7 +25,7 @@
         <v-divider class="mx-3 align-self-center d-none d-md-block" length="24" thickness="2" vertical></v-divider>
         <v-btn @click="toggleTheme" icon="mdi-brightness-6"></v-btn>
 
-        <v-btn v-if="authStore.isAuthenticated" @click="handleLogout" icon="mdi-logout" title="登出"></v-btn>
+        <v-btn v-if="authStore.isAuthenticated" @click="handleLogoutClick" icon="mdi-logout" title="登出"></v-btn>
         <v-btn v-else @click="handleLogin" icon="mdi-login" title="登入/註冊"></v-btn>
       </template>
     </v-app-bar>
@@ -38,7 +38,21 @@
       </router-view>
     </v-main>
 
+    <v-snackbar v-model="show" :color="color" timeout="3000" location="top">
+      {{ text }}
+    </v-snackbar>
+
     <AuthDialog ref="authDialog" />
+
+    <v-dialog v-model="isLogoutDialogVisible" max-width="320" persistent>
+      <v-card title="确认登出" text="您确定要登出目前的帐号吗？">
+        <v-card-actions>
+          <v-spacer></v-spacer>
+          <v-btn text="取消" @click="isLogoutDialogVisible = false"></v-btn>
+          <v-btn color="primary" variant="flat" text="确认" @click="confirmLogout"></v-btn>
+        </v-card-actions>
+      </v-card>
+    </v-dialog>
   </v-app>
 </template>
 
@@ -47,17 +61,26 @@ import { ref, watchEffect, computed } from 'vue'
 import { useTheme } from 'vuetify'
 import { useUIStore } from '@/stores/ui'
 import { useAuthStore } from '@/stores/auth'
+import { useSnackbar } from '@/composables/useSnackbar';
 import AuthDialog from '@/components/AuthDialog.vue'
 
 const authStore = useAuthStore()
 const authDialog = ref(null)
+const { show, text, color, triggerSnackbar } = useSnackbar();
 
 const handleLogin = () => {
   authDialog.value?.open()
 }
 
-const handleLogout = () => {
+const isLogoutDialogVisible = ref(false)
+const handleLogoutClick = () => {
+  isLogoutDialogVisible.value = true
+}
+
+const confirmLogout = () => {
   authStore.logout()
+  triggerSnackbar('您已成功登出。')
+  isLogoutDialogVisible.value = false
 }
 
 const drawer = ref(false)
