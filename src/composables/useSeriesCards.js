@@ -59,13 +59,10 @@ export const useSeriesCards = (prefixesRef) => {
       let minPower = Infinity
       let maxPower = -Infinity
 
-      // --- 第一遍處理 (First Pass): 解析新結構的資料 ---
       for (const file of allFileContents) {
         for (const baseId in file.content) {
-          // 取得包含共同屬性的基礎卡片物件
           const cardData = file.content[baseId]
 
-          // 提取篩選器所需資訊 (這部分邏輯不變)
           if (cardData.product_name) productNamesSet.add(cardData.product_name)
           if (cardData.trait && Array.isArray(cardData.trait))
             cardData.trait.forEach((t) => traitsSet.add(t))
@@ -78,28 +75,21 @@ export const useSeriesCards = (prefixesRef) => {
             maxPower = Math.max(maxPower, cardData.power)
           }
 
-          // =================== KEY CHANGE START ===================
-          // 從 cardData 中解構出 all_cards 陣列和其餘的基礎屬性
           const { all_cards, ...baseCardData } = cardData
 
-          // 遍歷 all_cards 陣列，將基礎屬性與每個版本特定屬性合併
           if (all_cards && Array.isArray(all_cards)) {
             all_cards.forEach((cardVersion) => {
               allCards.push({
-                ...baseCardData, // 包含 name, effect, level, power, link 等
-                ...cardVersion, // 包含 id, rarity
-                baseId: baseId, // 將原始 key (baseId) 加入，供後續處理使用
+                ...baseCardData,
+                ...cardVersion,
+                baseId: baseId,
                 cardIdPrefix: file.cardIdPrefix,
               })
             })
           }
-          // =================== KEY CHANGE END =====================
         }
       }
 
-      // --- 第二遍處理 (Second Pass): 修正內部 link 引用 (此段邏輯無需修改) ---
-
-      // 1. 建立一個 "一對多" 的 Map: <baseId, string[]>
       const baseIdToFullIdsMap = new Map()
       for (const card of allCards) {
         if (!baseIdToFullIdsMap.has(card.baseId)) {
@@ -108,7 +98,6 @@ export const useSeriesCards = (prefixesRef) => {
         baseIdToFullIdsMap.get(card.baseId).push(card.id)
       }
 
-      // 2. 使用 flatMap 遍歷並擴展 link 陣列
       for (const card of allCards) {
         if (card.link && Array.isArray(card.link) && card.link.length > 0) {
           card.link = card.link.flatMap((linkBaseId) => {
@@ -126,7 +115,6 @@ export const useSeriesCards = (prefixesRef) => {
         }
       }
 
-      // --- 更新狀態與快取 ---
       cards.value = allCards
       productNames.value = [...productNamesSet]
       traits.value = [...traitsSet]
