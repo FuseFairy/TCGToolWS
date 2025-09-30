@@ -33,12 +33,14 @@ const routes = [
     path: '/forgot-password',
     name: 'ForgotPassword',
     component: () => import('@/views/ForgotPasswordView.vue'),
+    meta: { requiresGuest: true },
   },
   {
     path: '/reset-password',
     name: 'ResetPassword',
     component: () => import('@/views/ResetPasswordView.vue'),
     props: (route) => ({ token: route.query.token }),
+    meta: { requiresGuest: true },
   },
 ]
 
@@ -69,8 +71,12 @@ router.beforeEach(async (to, from, next) => {
     }
   }
 
+  const isAuthenticated = authStore.isAuthenticated
   const requiresAuth = to.matched.some((record) => record.meta.requiresAuth)
-  if (requiresAuth && !authStore.isAuthenticated) {
+  const requiresGuest = to.matched.some((record) => record.meta.requiresGuest)
+  if (requiresAuth && !isAuthenticated) {
+    next({ name: 'Home' })
+  } else if (requiresGuest && isAuthenticated) {
     next({ name: 'Home' })
   } else {
     next()
