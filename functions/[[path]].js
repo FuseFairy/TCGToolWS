@@ -1,6 +1,5 @@
 import { Hono } from 'hono'
 import { handle } from 'hono/cloudflare-pages'
-
 import {
   handleSendVerificationCode,
   handleVerifyAndRegister,
@@ -8,7 +7,7 @@ import {
   handleRefreshSession,
   handleForgotPasswordRequest,
   handleResetPassword,
-} from '../../lib/auth.js'
+} from './lib/auth.js'
 
 const app = new Hono()
 
