@@ -14,7 +14,8 @@
             <v-form @submit.prevent="handleSubmit">
               <v-text-field v-model="email" label="邮箱" prepend-inner-icon="mdi-email" type="email" variant="outlined"
                 :readonly="loading"></v-text-field>
-              <v-btn type="submit" block color="primary" size="large" :loading="loading">发送重置链接</v-btn>
+              <v-btn type="submit" block color="primary" size="large" :loading="loading"
+                :disabled="isCoolingDown">发送重置链接 {{ cooldownText }}</v-btn>
             </v-form>
           </v-card-text>
           <v-card-actions>
@@ -30,6 +31,9 @@
 <script setup>
 import { ref } from 'vue';
 import { useAuthStore } from '@/stores/auth';
+import { useCooldown } from '@/composables/useCooldown';
+
+const { isCoolingDown, cooldownText, startCooldown } = useCooldown();
 
 const email = ref('');
 const loading = ref(false);
@@ -44,6 +48,8 @@ const handleSubmit = async () => {
   try {
     const response = await authStore.forgotPassword(email.value);
     message.value = response.message;
+
+    startCooldown();
   } catch (e) {
     message.value = e.message;
     error.value = true;

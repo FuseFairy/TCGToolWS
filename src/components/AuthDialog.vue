@@ -25,8 +25,8 @@
 
               <v-text-field v-if="!isLoginMode" v-model="passwordConfirm" label="确认密码" type="password"
                 variant="outlined" :readonly="loading"></v-text-field>
-              <v-btn type="submit" block color="primary" size="large" :loading="loading">
-                {{ isLoginMode ? '登录' : '发送验证码' }}
+              <v-btn type="submit" block color="primary" size="large" :loading="loading" :disabled="isCoolingDown">
+                {{ isLoginMode ? '登录' : `发送验证码 ${cooldownText}` }}
               </v-btn>
             </v-form>
           </v-card-text>
@@ -66,9 +66,11 @@
 import { ref, computed } from 'vue'
 import { useAuthStore } from '@/stores/auth'
 import { useSnackbar } from '@/composables/useSnackbar';
+import { useCooldown } from '@/composables/useCooldown';
 
 const authStore = useAuthStore()
 const { triggerSnackbar } = useSnackbar();
+const { isCoolingDown, cooldownText, startCooldown } = useCooldown();
 
 // --- 狀態定義 ---
 const dialog = ref(false)
@@ -108,6 +110,8 @@ const handleCredentialSubmit = async () => {
       const result = await authStore.sendVerificationCode(email.value, password.value)
       successMessage.value = result.message
       step.value = 'verification' // 切換到下一步
+
+      startCooldown();
     }
   } catch (e) {
     error.value = e.message
