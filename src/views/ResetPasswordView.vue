@@ -23,7 +23,7 @@
           </v-card-text>
           <v-card-actions>
             <v-spacer></v-spacer>
-            <v-btn text @click="goToLogin" color="primary">返回登录</v-btn>
+            <v-btn text @click="goToLogin" color="primary">返回首页</v-btn>
           </v-card-actions>
         </v-card>
       </v-col>
@@ -34,7 +34,7 @@
 <script setup>
 import { ref, onMounted } from 'vue';
 import { useAuthStore } from '@/stores/auth';
-import { useRouter } from 'vue-router'; // 用于跳转
+import { useRouter } from 'vue-router';
 import { useSnackbar } from '@/composables/useSnackbar';
 
 const props = defineProps({
