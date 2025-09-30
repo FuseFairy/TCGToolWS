@@ -70,6 +70,30 @@ export const useAuthStore = defineStore('auth', () => {
     sessionStorage.removeItem('auth')
   }
 
+  const refreshSession = async () => {
+    if (!token.value) return
+
+    try {
+      const response = await fetch('/api/session/refresh', {
+        method: 'POST',
+        headers: {
+          Authorization: `Bearer ${token.value}`,
+        },
+      })
+      const data = await response.json()
+      if (response.ok && data.token) {
+        token.value = data.token
+        saveToStorage()
+        console.log('Session refreshed successfully.')
+      } else {
+        logout()
+      }
+    } catch (error) {
+      console.error('Failed to refresh session:', error)
+      logout()
+    }
+  }
+
   return {
     token,
     isAuthenticated,
@@ -78,5 +102,6 @@ export const useAuthStore = defineStore('auth', () => {
     verifyAndRegister,
     login,
     logout,
+    refreshSession,
   }
 })
