@@ -16,8 +16,12 @@
               <v-text-field v-model="password" label="密码" type="password" variant="outlined" :readonly="loading"
                 autocomplete="true"></v-text-field>
 
-              <v-checkbox v-if="isLoginMode" v-model="authStore.rememberMe" label="保持登入状态" hide-details
-                class="mb-4"></v-checkbox>
+              <div v-if="isLoginMode" class="d-flex justify-space-between align-center mb-4">
+                <v-checkbox v-model="authStore.rememberMe" label="保持登录" hide-details></v-checkbox>
+                <v-btn variant="text" size="small" :to="{ name: 'ForgotPassword' }" @click="dialog = false">
+                  忘记密码?
+                </v-btn>
+              </div>
 
               <v-text-field v-if="!isLoginMode" v-model="passwordConfirm" label="确认密码" type="password"
                 variant="outlined" :readonly="loading"></v-text-field>

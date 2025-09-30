@@ -94,6 +94,32 @@ export const useAuthStore = defineStore('auth', () => {
     }
   }
 
+  const forgotPassword = async (email) => {
+    const response = await fetch('/api/password/forgot', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ email }),
+    })
+    const data = await response.json()
+    if (!response.ok) {
+      throw new Error(data.message || '请求失败，请稍后重试。')
+    }
+    return data
+  }
+
+  const resetPassword = async (token, password) => {
+    const response = await fetch('/api/password/reset', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ token, password }),
+    })
+    const data = await response.json()
+    if (!response.ok) {
+      throw new Error(data.message || '密码重置失败。')
+    }
+    return data
+  }
+
   return {
     token,
     isAuthenticated,
@@ -103,5 +129,7 @@ export const useAuthStore = defineStore('auth', () => {
     login,
     logout,
     refreshSession,
+    forgotPassword,
+    resetPassword,
   }
 })

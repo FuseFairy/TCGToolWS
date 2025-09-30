@@ -29,6 +29,17 @@ const routes = [
     component: () => import('@/views/DecksView.vue'),
     meta: { requiresAuth: true },
   },
+  {
+    path: '/forgot-password',
+    name: 'ForgotPassword',
+    component: () => import('@/views/ForgotPasswordView.vue'),
+  },
+  {
+    path: '/reset-password',
+    name: 'ResetPassword',
+    component: () => import('@/views/ResetPasswordView.vue'),
+    props: (route) => ({ token: route.query.token }),
+  },
 ]
 
 const router = createRouter({
