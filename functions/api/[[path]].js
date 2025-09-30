@@ -1,4 +1,6 @@
 import { Hono } from 'hono'
+import { handle } from 'hono/cloudflare-pages'
+
 import {
   handleSendVerificationCode,
   handleVerifyAndRegister,
@@ -17,4 +19,4 @@ app.post('/api/session/refresh', handleRefreshSession)
 app.post('/api/password/forgot', handleForgotPasswordRequest)
 app.post('/api/password/reset', handleResetPassword)
 
-export const onRequest = (context) => app.fetch(context.request, context.env, context)
+export const onRequest = handle(app)
