@@ -16,17 +16,21 @@
       <v-app-bar-title class="font-weight-bold text-h5">TCGTool for WS</v-app-bar-title>
 
       <template #append>
-        <div class="d-none d-md-block h-100">
-          <template v-for="item in navItems" :key="item.to">
-            <v-btn v-if="!item.requiresAuth || authStore.isAuthenticated" size="large" variant="text"
-              :to="{ name: item.name }" :text="item.text" class="h-100 rounded-0"></v-btn>
-          </template>
-        </div>
-        <v-divider class="mx-3 align-self-center d-none d-md-block" length="24" thickness="2" vertical></v-divider>
+        <template v-if="!isInSpecialFlow">
+          <div class="d-none d-md-block h-100">
+            <template v-for="item in navItems" :key="item.to">
+              <v-btn v-if="!item.requiresAuth || authStore.isAuthenticated" size="large" variant="text"
+                :to="{ name: item.name }" :text="item.text" class="h-100 rounded-0"></v-btn>
+            </template>
+          </div>
+          <v-divider class="mx-3 align-self-center d-none d-md-block" length="24" thickness="2" vertical></v-divider>
+        </template>
+
         <v-btn @click="toggleTheme" icon="mdi-brightness-6"></v-btn>
 
-        <v-btn v-if="authStore.isAuthenticated" @click="handleLogoutClick" icon="mdi-logout" title="登出"></v-btn>
-        <v-btn v-else @click="handleLogin" icon="mdi-login" title="登入/註冊"></v-btn>
+        <template v-if="!isInSpecialFlow">
+          <v-btn v-if="authStore.isAuthenticated" @click="handleLogoutClick" icon="mdi-logout" title="登出"></v-btn>
+          <v-btn v-else @click="handleLogin" icon="mdi-login" title="登入/註冊"></v-btn></template>
       </template>
     </v-app-bar>
 
@@ -59,14 +63,21 @@
 <script setup>
 import { ref, watchEffect, computed } from 'vue'
 import { useTheme } from 'vuetify'
+import { useRoute } from 'vue-router'
 import { useUIStore } from '@/stores/ui'
 import { useAuthStore } from '@/stores/auth'
 import { useSnackbar } from '@/composables/useSnackbar';
 import AuthDialog from '@/components/AuthDialog.vue'
 
+
 const authStore = useAuthStore()
 const authDialog = ref(null)
 const { show, text, color, triggerSnackbar } = useSnackbar();
+const route = useRoute()
+
+const isInSpecialFlow = computed(() => {
+  return !!route.meta.isSpecialFlow;
+})
 
 const handleLogin = () => {
   authDialog.value?.open()

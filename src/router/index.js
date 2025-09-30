@@ -33,14 +33,14 @@ const routes = [
     path: '/forgot-password',
     name: 'ForgotPassword',
     component: () => import('@/views/ForgotPasswordView.vue'),
-    meta: { requiresGuest: true },
+    meta: { requiresGuest: true, isSpecialFlow: true },
   },
   {
     path: '/reset-password',
     name: 'ResetPassword',
     component: () => import('@/views/ResetPasswordView.vue'),
     props: (route) => ({ token: route.query.token }),
-    meta: { requiresGuest: true },
+    meta: { requiresGuest: true, isSpecialFlow: true },
   },
 ]
 
