@@ -7,7 +7,7 @@ import {
   handleRefreshSession,
   handleForgotPasswordRequest,
   handleResetPassword,
-} from './lib/auth.js'
+} from '../../lib/auth.js'
 
 const app = new Hono()
 
