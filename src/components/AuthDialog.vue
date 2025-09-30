@@ -13,19 +13,22 @@
             <v-form @submit.prevent="handleCredentialSubmit">
               <v-text-field v-model="email" label="邮箱" type="email" variant="outlined"
                 :readonly="loading"></v-text-field>
-              <v-text-field v-model="password" label="密码" type="password" variant="outlined"
-                :readonly="loading"></v-text-field>
+              <v-text-field v-model="password" label="密码" type="password" variant="outlined" :readonly="loading"
+                autocomplete="true"></v-text-field>
+
+              <v-checkbox v-if="isLoginMode" v-model="authStore.rememberMe" label="保持登入状态" hide-details
+                class="mb-4"></v-checkbox>
 
               <v-text-field v-if="!isLoginMode" v-model="passwordConfirm" label="确认密码" type="password"
                 variant="outlined" :readonly="loading"></v-text-field>
               <v-btn type="submit" block color="primary" size="large" :loading="loading">
-                {{ isLoginMode ? '登入' : '發送驗證碼' }}
+                {{ isLoginMode ? '登录' : '发送验证码' }}
               </v-btn>
             </v-form>
           </v-card-text>
           <v-card-actions class="justify-center">
             <v-btn variant="text" @click="toggleMode" :disabled="loading">
-              {{ isLoginMode ? '還沒有帳號？點此註冊' : '已有帳號？點此登入' }}
+              {{ isLoginMode ? '还没有帐号？点此注册' : '已有帐号？点此登入' }}
             </v-btn>
           </v-card-actions>
         </v-card>
@@ -33,17 +36,17 @@
 
       <!-- 視圖 2: 驗證碼輸入表單 -->
       <template v-if="step === 'verification'">
-        <v-card title="輸入驗證碼">
+        <v-card title="输入验证码">
           <template #append>
             <v-btn icon="mdi-close" variant="text" @click="dialog = false"></v-btn>
           </template>
           <v-card-text>
             <v-alert v-if="error" type="error" density="compact" class="mb-4">{{ error }}</v-alert>
             <v-alert v-if="successMessage" type="success" density="compact" class="mb-4">{{ successMessage }}</v-alert>
-            <p class="text-body-2 mb-4">我們已將 6 位數驗證碼發送到 <strong>{{ email }}</strong></p>
+            <p class="text-body-2 mb-4">我们已将 6 位数验证码发送到 <strong>{{ email }}</strong></p>
             <v-form @submit.prevent="handleVerificationSubmit">
               <v-otp-input v-model="verificationCode" :length="6"></v-otp-input>
-              <v-btn type="submit" block color="primary" size="large" :loading="loading">驗證並註冊</v-btn>
+              <v-btn type="submit" block color="primary" size="large" :loading="loading">验证并注册</v-btn>
             </v-form>
           </v-card-text>
           <v-card-actions class="justify-center">
@@ -51,7 +54,6 @@
           </v-card-actions>
         </v-card>
       </template>
-
     </v-card>
   </v-dialog>
 </template>
