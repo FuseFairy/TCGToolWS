@@ -2,14 +2,11 @@
   "name": "tcgtoolws",
   "compatibility_date": "2025-09-24",
   "main": "./functions/index.js",
+  "workers_dev": false,
   "assets": {
     "directory": "./dist/client/",
     "not_found_handling": "single-page-application"
   },
-  "routes": [
-    { "pattern": "uclimax.cn/*", "zone_name": "uclimax.cn" },
-    { "pattern": "www.uclimax.cn/*", "zone_name": "uclimax.cn" }
-  ],
   "d1_databases": [
     {
       "binding": "DB",
