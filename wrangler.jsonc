@@ -6,6 +6,10 @@
     "directory": "./dist/client/",
     "not_found_handling": "single-page-application"
   },
+  "routes": [
+    { "pattern": "uclimax.cn/*", "zone_name": "uclimax.cn" },
+    { "pattern": "www.uclimax.cn/*", "zone_name": "uclimax.cn" }
+  ],
   "d1_databases": [
     {
       "binding": "DB",
