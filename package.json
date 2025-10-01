@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && node scripts/minify-json.js",
     "preview": "vite preview",
     "setup-img": "node scripts/setup-images.js",
     "lint": "eslint . --fix",
@@ -34,6 +34,7 @@
     "eslint": "^9.31.0",
     "eslint-plugin-vue": "~10.3.0",
     "globals": "^16.3.0",
+    "jsonminify": "^0.4.2",
     "prettier": "3.6.2",
     "rollup-plugin-visualizer": "^6.0.3",
     "sass-embedded": "^1.92.1",
