@@ -14,8 +14,7 @@
     "lint": "eslint . --fix",
     "format": "prettier --write src/",
     "format:card": "prettier --write src/assets/card/",
-    "db:init": "wrangler d1 execute ws-account-db --local --file=./schema.sql",
-    "db:run": "wrangler pages dev"
+    "db:init": "wrangler d1 execute ws-account-db --local --file=./schema.sql"
   },
   "dependencies": {
     "hono": "^4.9.9",
