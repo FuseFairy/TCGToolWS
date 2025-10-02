@@ -12,10 +12,10 @@
 
           <v-fade-transition>
             <div v-if="isHovering && !isTouch" class="d-flex flex-column"
-              style="position: absolute; top: 30%; right: 4px; transform: translateY(-50%); opacity: 0.9; gap: 6px;">
-              <v-btn icon="mdi-plus" size="small" variant="flat" color="grey-darken-3"
+              style="position: absolute; top: 60%; right: 4px; transform: translateY(-50%); opacity: 0.9; gap: 6px;">
+              <v-btn icon="mdi-plus" :size="buttonSize" variant="flat" color="grey-darken-3"
                 @click.stop="deckStore.addCard(card)"></v-btn>
-              <v-btn icon="mdi-minus" size="small" variant="flat" color="grey-lighten-2"
+              <v-btn icon="mdi-minus" :size="buttonSize" variant="flat" color="grey-lighten-2"
                 :style="{ visibility: cardCount > 0 ? 'visible' : 'hidden' }"
                 @click.stop="deckStore.removeCard(card)"></v-btn>
             </div>
@@ -69,6 +69,7 @@
 
 <script setup>
 import { computed } from 'vue';
+import { useDisplay } from 'vuetify';
 import { useCardImage } from '@/composables/useCardImage.js';
 import { useDeckStore } from '@/stores/deck';
 import { useDevice } from '@/composables/useDevice';
@@ -81,9 +82,11 @@ const emit = defineEmits(['show-details']);
 
 const deckStore = useDeckStore();
 const { isTouch } = useDevice();
+const { smAndDown } = useDisplay();
 
 const imageUrl = useCardImage(computed(() => props.card.cardIdPrefix), computed(() => props.card.id));
 const cardCount = computed(() => deckStore.getCardCount(props.card.id));
+const buttonSize = computed(() => smAndDown.value ? 'x-small' : 'small');
 
 const handleCardClick = () => {
   if (!props.card) return;
