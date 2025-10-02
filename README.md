@@ -25,8 +25,16 @@ npm run setup-img
 
 ## 项目设置
 
+### 安装依赖
+
 ```sh
 npm install
+```
+
+### 初始化数据库
+
+```sh
+npm run db:init
 ```
 
 ### 编译并热重载用于开发
