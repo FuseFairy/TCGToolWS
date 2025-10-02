@@ -23,8 +23,7 @@
           'position-absolute': $vuetify.display.mdAndUp,
           'overflow-y-auto': $vuetify.display.mdAndUp,
           'fill-height fill-width': $vuetify.display.mdAndUp,
-        }"
-          :style="{ overflowY: $vuetify.display.mdAndUp ? undefined : 'visible', }">
+        }" :style="{ overflowY: $vuetify.display.mdAndUp ? undefined : 'visible', }">
           <div class="pa-4">
             <v-card-subtitle class="pb-1 text-body-1 pa-0">
               {{ props.card.product_name }}
@@ -41,7 +40,7 @@
                 <div class="font-weight-bold text-h5">{{ props.card.cost }}</div>
               </v-col>
               <v-col>
-                <div class="text-body-2 text-grey">战斗力</div>
+                <div class="text-body-2 text-grey">攻击力</div>
                 <div class="font-weight-bold text-h5">{{ props.card.power }}</div>
               </v-col>
               <v-col>
@@ -59,7 +58,7 @@
               <v-chip v-for="r in card.trait" :key="r" class="mr-2 mb-2" label>{{ r }}</v-chip>
             </div>
             <div v-if="card.link && card.link.length > 0" class="mt-4">
-              <div class="text-h6 font-weight-bold mb-2">關聯卡片</div>
+              <div class="text-h6 font-weight-bold mb-2">关联卡片</div>
               <v-row dense>
                 <v-col v-for="card in linkedCards" :key="card.id" style="flex: 0 0 150px; max-width: 150px;">
                   <LinkedCard :card="card" @show-details="handleShowNewCard" />
