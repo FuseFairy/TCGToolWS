@@ -21,9 +21,12 @@
             </v-chip>
           </div>
 
-          <v-btn v-if="smAndUp" :size="resize" icon="mdi-cards" variant="text"
-            @click="isCardDeckOpen = !isCardDeckOpen"></v-btn>
-          <div v-else style="width: 48px;"></div> <!-- Placeholder for spacing -->
+          <v-badge :content="deckStore.totalCardCount" :model-value="deckStore.totalCardCount > 0" color="primary"
+            offset-x="-2" offset-y="6" location="right center">
+            <v-btn v-if="smAndUp" :size="resize" icon="mdi-cards" variant="text"
+              @click="isCardDeckOpen = !isCardDeckOpen"></v-btn>
+          </v-badge>
+          <div v-if="!smAndUp" style="width: 48px;"></div> <!-- Placeholder for spacing -->
         </div>
       </div>
 
@@ -83,8 +86,11 @@
           <span>筛选</span>
         </v-btn>
 
-        <v-btn @click="isCardDeckOpen = !isCardDeckOpen">
-          <v-icon>mdi-cards</v-icon>
+        <v-btn @click="isCardDeckOpen = !isCardDeckOpen" stacked>
+          <v-badge :content="deckStore.totalCardCount" :model-value="deckStore.totalCardCount > 0" color="primary"
+            offset-x="-2" offset-y="10">
+            <v-icon icon="mdi-cards"></v-icon>
+          </v-badge>
           <span>卡组</span>
         </v-btn>
       </v-bottom-navigation>
@@ -96,6 +102,7 @@
 import { ref, computed, watchEffect, onUnmounted, watch } from 'vue';
 import { useDisplay } from 'vuetify';
 import { seriesMap } from '@/maps/series-map.js';
+import { useDeckStore } from '@/stores/deck';
 import { useSeriesCards } from '@/composables/useSeriesCards.js';
 import CardInfiniteScrollList from '@/components/CardInfiniteScrollList.vue';
 import SidebarLayout from '@/components/SidebarLayout.vue';
@@ -112,6 +119,7 @@ const resize = computed(() => {
   return smAndUp.value ? 'x-large' : 'small';
 });
 
+const deckStore = useDeckStore();
 const headerRef = ref(null);
 const rawHeaderHeight = ref(0);
 const isCardDeckOpen = ref(false);

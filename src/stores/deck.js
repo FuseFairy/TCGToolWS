@@ -11,7 +11,11 @@ export const useDeckStore = defineStore(
       return (cardId) => cardsInDeck.value.get(cardId)?.quantity || 0
     })
 
-    function addCard(card) {
+    const totalCardCount = computed(() => {
+      return Array.from(cardsInDeck.value.values()).reduce((sum, card) => sum + card.quantity, 0)
+    })
+
+    const addCard = (card) => {
       if (!card || !card.id) return
 
       if (cardsInDeck.value.has(card.id)) {
@@ -25,7 +29,7 @@ export const useDeckStore = defineStore(
       }
     }
 
-    function removeCard(card) {
+    const removeCard = (card) => {
       if (!card || !card.id || !cardsInDeck.value.has(card.id)) return
 
       const cardInDeck = cardsInDeck.value.get(card.id)
@@ -36,7 +40,7 @@ export const useDeckStore = defineStore(
       }
     }
 
-    return { cardsInDeck, getCardCount, addCard, removeCard }
+    return { cardsInDeck, getCardCount, totalCardCount, addCard, removeCard }
   },
   {
     persist: {
