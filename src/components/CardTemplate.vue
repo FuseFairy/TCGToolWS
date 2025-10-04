@@ -14,7 +14,7 @@
             <div v-if="isHovering && !isTouch" class="d-flex flex-column"
               style="position: absolute; top: 60%; right: 4px; transform: translateY(-50%); opacity: 0.9; gap: 6px;">
               <v-btn icon="mdi-plus" :size="buttonSize" variant="flat" color="grey-darken-3"
-                @click.stop="deckStore.addCard(card)"></v-btn>
+                :disabled="deckStore.isDeckFull" @click.stop="deckStore.addCard(card)"></v-btn>
               <v-btn icon="mdi-minus" :size="buttonSize" variant="flat" color="grey-lighten-2"
                 :style="{ visibility: cardCount > 0 ? 'visible' : 'hidden' }"
                 @click.stop="deckStore.removeCard(card)"></v-btn>
@@ -53,7 +53,7 @@
       </v-row>
       <v-row v-if="isTouch" dense class="mt-2 text-center">
         <v-col cols="6">
-          <v-btn variant="flat" size="x-small" icon="mdi-plus" color="grey-darken-3"
+          <v-btn variant="flat" size="x-small" icon="mdi-plus" color="grey-darken-3" :disabled="deckStore.isDeckFull"
             @click.stop="deckStore.addCard(card)">
           </v-btn>
         </v-col>

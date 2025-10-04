@@ -3,7 +3,6 @@
     <v-sheet :rounded="smAndUp ? '3md' : false"
       class="pa-4 ga-4 d-flex flex-column flex-grow-1 overflow-y-auto themed-scrollbar">
       <slot></slot>
-      <v-spacer class="fill-height"></v-spacer>
     </v-sheet>
   </aside>
 </template>

@@ -32,7 +32,7 @@
 
       <div class="d-flex flex-row overflow-hidden fill-height" style="position: relative;">
         <div class="sidebar-container" :class="{ 'left-sidebar-open': isFilterOpen }">
-          <SidebarLayout :class="['fill-height', 'themed-scrollbar', smAndUp ? 'pl-4 pb-4' : '']"
+          <SidebarLayout :class="['fill-height', smAndUp ? 'pl-4 pb-4' : '']"
             :header-offset-height="headerOffsetHeight">
             <div class="d-flex flex-column ga-4">
               <v-text-field label="關鍵字" hide-details clearable v-model="keyword"></v-text-field>
@@ -74,9 +74,8 @@
           :class="['flex-grow-1', 'themed-scrollbar', 'pl-4', 'pr-4', { 'no-scroll': isScrollDisabled }]" />
 
         <div class="sidebar-container" :class="{ 'right-sidebar-open': isCardDeckOpen }">
-          <SidebarLayout :class="['fill-height', smAndUp ? 'pr-4 pb-4' : '']"
-            :header-offset-height="headerOffsetHeight">
-          </SidebarLayout>
+          <DeckSidebar :class="['fill-height', smAndUp ? 'pr-4 pb-4' : '']"
+            :header-offset-height="headerOffsetHeight" />
         </div>
       </div>
 
@@ -106,6 +105,7 @@ import { useDeckStore } from '@/stores/deck';
 import { useSeriesCards } from '@/composables/useSeriesCards.js';
 import CardInfiniteScrollList from '@/components/CardInfiniteScrollList.vue';
 import SidebarLayout from '@/components/SidebarLayout.vue';
+import DeckSidebar from '@/components/DeckSidebar.vue';
 
 const props = defineProps({
   seriesId: {
