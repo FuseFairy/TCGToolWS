@@ -36,7 +36,7 @@
           <v-col v-for="[cardId, item] in deckStore.cardsInDeck" :key="cardId" cols="6" sm="4">
             <div class="card-container" @click="handleCardClick(item)">
               <div class="image-container">
-                <v-img :src="useCardImage(item.card.cardIdPrefix, item.card.id).value" aspect-ratio="0.718" cover
+                <v-img :src="useCardImage(item.card.cardIdPrefix, item.card.id).value" :aspect-ratio="400 / 559" cover
                   class="rounded"></v-img>
                 <div class="quantity-badge">{{ item.quantity }}</div>
               </div>
