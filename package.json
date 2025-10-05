@@ -17,6 +17,7 @@
     "db:init": "wrangler d1 execute ws-account-db --local --file=./schema.sql"
   },
   "dependencies": {
+    "dompurify": "^3.2.7",
     "hono": "^4.9.9",
     "jwt-decode": "^4.0.0",
     "pinia": "^3.0.3",

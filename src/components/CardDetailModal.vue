@@ -75,6 +75,7 @@
 <script setup>
 import { computed } from 'vue';
 import LinkedCard from './LinkedCard.vue';
+import DOMPurify from 'dompurify';
 
 const emit = defineEmits(['close', 'show-new-card']);
 
@@ -84,7 +85,10 @@ const props = defineProps({
   linkedCards: { type: Array, required: false, default: () => [] },
 });
 
-const formattedEffect = computed(() => props.card.effect || '无');
+const formattedEffect = computed(() => {
+  const effect = props.card.effect || '无';
+  return DOMPurify.sanitize(effect);
+});
 
 const handleShowNewCard = (payload) => {
   emit('show-new-card', payload);
