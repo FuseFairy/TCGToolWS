@@ -28,7 +28,7 @@ export const useDeckStore = defineStore(
       } else {
         cardsInDeck.value[cardId] = {
           id: cardId,
-          prefix: prefix,
+          cardIdPrefix: prefix,
           quantity: 1,
         }
       }
