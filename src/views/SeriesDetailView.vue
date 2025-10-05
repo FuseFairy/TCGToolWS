@@ -69,6 +69,7 @@ import { useDisplay } from 'vuetify';
 import { seriesMap } from '@/maps/series-map.js';
 import { useDeckStore } from '@/stores/deck';
 import { useFilterStore } from '@/stores/filter';
+import { useUIStore } from '@/stores/ui';
 import CardInfiniteScrollList from '@/components/CardInfiniteScrollList.vue';
 import FilterSidebar from '@/components/FilterSidebar.vue';
 import DeckSidebar from '@/components/DeckSidebar.vue';
@@ -87,10 +88,17 @@ const resize = computed(() => {
 
 const deckStore = useDeckStore();
 const filterStore = useFilterStore();
+const uiStore = useUIStore();
 const headerRef = ref(null);
 const rawHeaderHeight = ref(0);
-const isCardDeckOpen = ref(false);
-const isFilterOpen = ref(false);
+const isCardDeckOpen = computed({
+  get: () => uiStore.isCardDeckOpen,
+  set: (value) => uiStore.isCardDeckOpen = value
+});
+const isFilterOpen = computed({
+  get: () => uiStore.isFilterOpen,
+  set: (value) => uiStore.isFilterOpen = value
+});
 const filterIcon = computed(() => isFilterOpen.value ? 'mdi-filter-off' : 'mdi-filter');
 const headerOffsetHeight = computed(() => rawHeaderHeight.value);
 const listRef = ref(null);

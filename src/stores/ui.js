@@ -5,12 +5,14 @@ export const useUIStore = defineStore(
   'ui',
   () => {
     const theme = ref('system')
+    const isFilterOpen = ref(false)
+    const isCardDeckOpen = ref(false)
 
     const setTheme = (newTheme) => {
       theme.value = newTheme
     }
 
-    return { theme, setTheme }
+    return { theme, setTheme, isFilterOpen, isCardDeckOpen }
   },
   {
     persist: {

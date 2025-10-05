@@ -22,7 +22,8 @@
           </v-fade-transition>
 
           <div style="position: absolute; top: 8px; right: 8px;">
-            <v-avatar v-if="cardCount > 0" :size="buttonSize" color="primary" class="counter-avatar">{{ cardCount }}</v-avatar>
+            <v-avatar v-if="cardCount > 0" :size="buttonSize" color="primary" class="counter-avatar">{{ cardCount
+              }}</v-avatar>
           </div>
         </v-img>
       </div>
@@ -70,6 +71,7 @@ import { computed } from 'vue';
 import { useDisplay } from 'vuetify';
 import { useCardImage } from '@/composables/useCardImage.js';
 import { useDeckStore } from '@/stores/deck';
+import { useUIStore } from '@/stores/ui';
 import { useDevice } from '@/composables/useDevice';
 
 const props = defineProps({
@@ -79,12 +81,13 @@ const props = defineProps({
 const emit = defineEmits(['show-details']);
 
 const deckStore = useDeckStore();
+const uiStore = useUIStore();
 const { isTouch } = useDevice();
 const { smAndDown } = useDisplay();
 
 const imageUrl = useCardImage(computed(() => props.card.cardIdPrefix), computed(() => props.card.id));
 const cardCount = computed(() => deckStore.getCardCount(props.card.id));
-const buttonSize = computed(() => smAndDown.value ? 'x-small' : 'small');
+const buttonSize = computed(() => (uiStore.isFilterOpen && uiStore.isCardDeckOpen) || smAndDown.value ? 'x-small' : 'small');
 
 const handleCardClick = () => {
   if (!props.card) return;
