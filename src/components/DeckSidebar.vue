@@ -26,7 +26,7 @@
 
       <v-divider></v-divider>
 
-      <div class="fill-height overflow-y-auto themed-scrollbar pl-4 pr-4" :class="`mode-${activeMode}`">
+      <div class="fill-height overflow-y-auto themed-scrollbar pl-4 pr-4">
         <div v-if="deckStore.cardsInDeck.size === 0" class="text-center text-disabled mt-8">
           <v-icon size="48" icon="mdi-cards-outline"></v-icon>
           <p class="mt-2">尚未加入卡片</p>
@@ -86,14 +86,6 @@ const handleCardClick = (item) => {
 .card-container {
   position: relative;
   cursor: pointer;
-}
-
-.mode-add .card-container {
-  cursor: crosshair;
-}
-
-.mode-remove .card-container {
-  cursor: not-allowed;
 }
 
 .image-container {
