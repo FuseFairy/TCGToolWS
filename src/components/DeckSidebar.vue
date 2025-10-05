@@ -27,13 +27,13 @@
       <v-divider></v-divider>
 
       <div class="fill-height overflow-y-auto themed-scrollbar pl-4 pr-4">
-        <div v-if="deckStore.cardsInDeck.size === 0" class="text-center text-disabled mt-8">
+        <div v-if="Object.keys(deckStore.cardsInDeck).length === 0" class="text-center text-disabled mt-8">
           <v-icon size="48" icon="mdi-cards-outline"></v-icon>
           <p class="mt-2">尚未加入卡片</p>
         </div>
 
         <v-row v-else dense>
-          <v-col v-for="[cardId, item] in deckStore.cardsInDeck" :key="cardId" cols="6" sm="4">
+          <v-col v-for="item in deckStore.cardsInDeck" :key="item.card.id" cols="6" sm="4">
             <div class="card-container" @click="handleCardClick(item)">
               <div class="image-container">
                 <v-img :src="useCardImage(item.card.cardIdPrefix, item.card.id).value" :aspect-ratio="400 / 559" cover

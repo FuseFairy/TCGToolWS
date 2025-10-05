@@ -4,15 +4,15 @@ import { ref, computed } from 'vue'
 export const useDeckStore = defineStore(
   'deck',
   () => {
-    const cardsInDeck = ref(new Map())
+    const cardsInDeck = ref({})
     const maxDeckSize = 50
 
     const getCardCount = computed(() => {
-      return (cardId) => cardsInDeck.value.get(cardId)?.quantity || 0
+      return (cardId) => cardsInDeck.value[cardId]?.quantity || 0
     })
 
     const totalCardCount = computed(() => {
-      return Array.from(cardsInDeck.value.values()).reduce((sum, item) => sum + item.quantity, 0)
+      return Object.values(cardsInDeck.value).reduce((sum, item) => sum + item.quantity, 0)
     })
 
     const isDeckFull = computed(() => totalCardCount.value >= maxDeckSize)
@@ -24,30 +24,30 @@ export const useDeckStore = defineStore(
         return false
       }
 
-      if (cardsInDeck.value.has(card.id)) {
-        cardsInDeck.value.get(card.id).quantity++
+      if (cardsInDeck.value[card.id]) {
+        cardsInDeck.value[card.id].quantity++
       } else {
-        cardsInDeck.value.set(card.id, {
+        cardsInDeck.value[card.id] = {
           card: card,
           quantity: 1,
-        })
+        }
       }
       return true
     }
 
     const removeCard = (card) => {
-      if (!card || !card.id || !cardsInDeck.value.has(card.id)) return
+      if (!card || !card.id || !cardsInDeck.value[card.id]) return
 
-      const cardInDeck = cardsInDeck.value.get(card.id)
+      const cardInDeck = cardsInDeck.value[card.id]
       cardInDeck.quantity--
 
       if (cardInDeck.quantity <= 0) {
-        cardsInDeck.value.delete(card.id)
+        delete cardsInDeck.value[card.id]
       }
     }
 
     const clearDeck = () => {
-      cardsInDeck.value.clear()
+      cardsInDeck.value = {}
     }
 
     return {
@@ -62,14 +62,7 @@ export const useDeckStore = defineStore(
   },
   {
     persist: {
-      serializer: {
-        serialize: (value) => {
-          return JSON.stringify(Array.from(value.entries()))
-        },
-        deserialize: (value) => {
-          return new Map(JSON.parse(value))
-        },
-      },
+      storage: localStorage,
     },
   }
 )
