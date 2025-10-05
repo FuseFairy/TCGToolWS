@@ -19,7 +19,7 @@
       </div>
 
       <div class="flex-grow-1" :style="{ position: $vuetify.display.mdAndUp ? 'relative' : 'static', minWidth: 0 }">
-        <div class="themed-scrollbar" :class="{
+        <div class="themed-scrollbar flex-grow-1 w-100" :class="{
           'position-absolute': $vuetify.display.mdAndUp,
           'overflow-y-auto': $vuetify.display.mdAndUp,
           'fill-height fill-width': $vuetify.display.mdAndUp,
