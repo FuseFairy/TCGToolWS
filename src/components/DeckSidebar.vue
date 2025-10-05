@@ -34,7 +34,7 @@
         </div>
 
         <v-row v-else dense>
-          <v-col v-for="item in deckStore.cardsInDeck" :key="item.id" cols="6" sm="4">
+          <v-col v-for="item in deckStore.cardsInDeck" :key="item.id" cols="4" lg="3">
             <div class="card-container" @click="handleCardClick(item)">
               <div class="image-container">
                 <v-img :src="useCardImage(item.cardIdPrefix, item.id).value" :aspect-ratio="400 / 559" cover
