@@ -60,7 +60,7 @@
             <div v-if="card.link && card.link.length > 0" class="mt-4">
               <div class="text-h6 font-weight-bold mb-2">关联卡片</div>
               <v-row dense>
-                <v-col v-for="card in linkedCards" :key="card.id" style="flex: 0 0 150px; max-width: 150px;">
+                <v-col v-for="card in linkedCards" :key="card.id" cols="6" sm="4" md="3" lg="2">
                   <LinkedCard :card="card" @show-details="handleShowNewCard" />
                 </v-col>
               </v-row>
