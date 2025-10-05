@@ -58,7 +58,7 @@
 import { ref, computed } from 'vue';
 import { useDeckStore } from '@/stores/deck';
 import { useCardImage } from '@/composables/useCardImage';
-import { fetchCardByIdAndPrefix, fetchCardsByBaseIdAndPrefix } from '@/composables/useSeriesCards';
+import { fetchCardByIdAndPrefix, fetchCardsByBaseIdAndPrefix } from '@/composables/card-api';
 import CardDetailModal from '@/components/CardDetailModal.vue';
 import { useDisplay } from 'vuetify';
 
