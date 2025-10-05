@@ -33,10 +33,10 @@
         </div>
 
         <v-row v-else dense>
-          <v-col v-for="item in deckStore.cardsInDeck" :key="item.card.id" cols="6" sm="4">
+          <v-col v-for="item in deckStore.cardsInDeck" :key="item.id" cols="6" sm="4">
             <div class="card-container" @click="handleCardClick(item)">
               <div class="image-container">
-                <v-img :src="useCardImage(item.card.cardIdPrefix, item.card.id).value" :aspect-ratio="400 / 559" cover
+                <v-img :src="useCardImage(item.prefix, item.id).value" :aspect-ratio="400 / 559" cover
                   class="rounded"></v-img>
                 <div class="quantity-badge">{{ item.quantity }}</div>
               </div>
@@ -66,14 +66,12 @@ const deckStore = useDeckStore();
 const activeMode = ref('none'); // 'add', 'remove', 'none'
 
 const handleCardClick = (item) => {
-  if (!item) return;
-
   switch (activeMode.value) {
     case 'add':
-      deckStore.addCard(item.card);
+      deckStore.addCard(item.id, item.prefix);
       break;
     case 'remove':
-      deckStore.removeCard(item.card);
+      deckStore.removeCard(item.id);
       break;
     default:
       // TODO
