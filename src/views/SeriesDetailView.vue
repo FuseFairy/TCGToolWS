@@ -21,10 +21,9 @@
             </v-chip>
           </div>
 
-          <v-badge :content="deckStore.totalCardCount" :model-value="deckStore.totalCardCount > 0" color="primary"
-            offset-x="-2" offset-y="6" location="right center">
-            <v-btn v-if="smAndUp" :size="resize" icon="mdi-cards" variant="text"
-              @click="isCardDeckOpen = !isCardDeckOpen"></v-btn>
+          <v-badge v-if="smAndUp" :content="deckStore.totalCardCount" :model-value="deckStore.totalCardCount > 0"
+            color="primary" offset-x="-2" offset-y="6" location="right center">
+            <v-btn :size="resize" icon="mdi-cards" variant="text" @click="isCardDeckOpen = !isCardDeckOpen"></v-btn>
           </v-badge>
           <div v-if="!smAndUp" style="width: 48px;"></div> <!-- Placeholder for spacing -->
         </div>
