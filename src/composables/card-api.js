@@ -1,8 +1,6 @@
 import { getAssetsFile } from '@/utils/getAssetsFile.js'
 import { findSeriesDataFileName } from '@/maps/series-card-map.js'
 
-const cache = new Map()
-
 export const fetchCardByIdAndPrefix = async (id, prefix) => {
   try {
     const dataFilePaths = findSeriesDataFileName([prefix])
@@ -70,29 +68,29 @@ export const fetchCardByIdAndPrefix = async (id, prefix) => {
 
 export const fetchCardsByBaseIdAndPrefix = async (baseId, prefix) => {
   try {
-    const dataFilePaths = findSeriesDataFileName([prefix]);
+    const dataFilePaths = findSeriesDataFileName([prefix])
     if (dataFilePaths.length === 0) {
-      console.warn(`No data file found for prefix: ${prefix}`);
-      return [];
+      console.warn(`No data file found for prefix: ${prefix}`)
+      return []
     }
 
-    const path = dataFilePaths[0];
-    const url = getAssetsFile(path);
-    const response = await fetch(url, { priority: 'high' });
-    if (!response.ok) throw new Error(`Failed to fetch ${path}`);
+    const path = dataFilePaths[0]
+    const url = getAssetsFile(path)
+    const response = await fetch(url, { priority: 'high' })
+    if (!response.ok) throw new Error(`Failed to fetch ${path}`)
 
-    const fileContent = await response.json();
-    const cardData = fileContent[baseId];
+    const fileContent = await response.json()
+    const cardData = fileContent[baseId]
 
     if (!cardData) {
-      console.warn(`Base card with ID "${baseId}" not found in prefix "${prefix}"`);
-      return [];
+      console.warn(`Base card with ID "${baseId}" not found in prefix "${prefix}"`)
+      return []
     }
 
-    const cardIdPrefix = path.split('/').pop().replace('.json', '');
-    const { all_cards, ...baseCardData } = cardData;
+    const cardIdPrefix = path.split('/').pop().replace('.json', '')
+    const { all_cards, ...baseCardData } = cardData
 
-    const allVersions = [];
+    const allVersions = []
     if (all_cards && Array.isArray(all_cards)) {
       all_cards.forEach((cardVersion) => {
         allVersions.push({
@@ -100,19 +98,19 @@ export const fetchCardsByBaseIdAndPrefix = async (baseId, prefix) => {
           ...cardVersion,
           baseId: baseId,
           cardIdPrefix: cardIdPrefix,
-        });
-      });
+        })
+      })
     } else {
       // If no all_cards array, return the base card itself as the only version
       allVersions.push({
         ...baseCardData,
         baseId: baseId,
         cardIdPrefix: cardIdPrefix,
-      });
+      })
     }
-    return allVersions;
+    return allVersions
   } catch (e) {
-    console.error(`Failed to load cards for baseId ${baseId} with prefix ${prefix}:`, e);
-    return [];
+    console.error(`Failed to load cards for baseId ${baseId} with prefix ${prefix}:`, e)
+    return []
   }
-};
+}
