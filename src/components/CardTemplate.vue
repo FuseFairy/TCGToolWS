@@ -11,8 +11,8 @@
           </template>
 
           <v-fade-transition>
-            <div v-if="isHovering && !isTouch" class="d-flex flex-column"
-              style="position: absolute; top: 60%; right: 4px; transform: translateY(-50%); opacity: 0.9; gap: 6px;">
+            <div v-if="isHovering && !isTouch" class="d-flex flex-row-reverse"
+              style="position: absolute; bottom: 8px; right: 8px; opacity: 0.9; gap: 6px;">
               <v-btn icon="mdi-plus" :size="buttonSize" variant="flat" color="grey-darken-3"
                 :disabled="deckStore.isDeckFull" @click.stop="deckStore.addCard(card.id, card.cardIdPrefix)"></v-btn>
               <v-btn icon="mdi-minus" :size="buttonSize" variant="flat" color="grey-lighten-2"
@@ -21,11 +21,9 @@
             </div>
           </v-fade-transition>
 
-          <v-fade-transition>
-            <div v-if="cardCount > 0" style="position: absolute; top: 8px; right: 8px;">
-              <v-chip color="red" label class="font-weight-bold">{{ cardCount }}</v-chip>
-            </div>
-          </v-fade-transition>
+          <div style="position: absolute; top: 8px; right: 8px;">
+            <v-avatar v-if="cardCount > 0" :size="buttonSize" color="primary" class="counter-avatar">{{ cardCount }}</v-avatar>
+          </div>
         </v-img>
       </div>
     </v-hover>
@@ -111,5 +109,9 @@ const handleCardClick = () => {
   flex-grow: 1;
   display: flex;
   flex-direction: column;
+}
+
+.counter-avatar {
+  border: 2px solid white;
 }
 </style>
