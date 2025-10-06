@@ -11,7 +11,7 @@
           </template>
 
           <v-fade-transition>
-            <div v-if="isHovering && !smAndDown" class="d-flex flex-row-reverse"
+            <div v-if="isHovering && !smAndDown && !isTouch" class="d-flex flex-row-reverse"
               style="position: absolute; bottom: 8px; right: 8px; opacity: 0.9; gap: 6px;">
               <v-btn icon="mdi-plus" :size="buttonSize" variant="flat" color="grey-darken-3"
                 :disabled="deckStore.isDeckFull" @click.stop="deckStore.addCard(card.id, card.cardIdPrefix)"></v-btn>
@@ -23,7 +23,7 @@
 
           <div style="position: absolute; top: 8px; right: 8px;">
             <v-avatar v-if="cardCount > 0" :size="buttonSize" color="primary" class="counter-avatar">{{ cardCount
-            }}</v-avatar>
+              }}</v-avatar>
           </div>
         </v-img>
       </div>
@@ -50,7 +50,7 @@
           <div class="text-body-2">{{ card.power }}</div>
         </v-col>
       </v-row>
-      <v-row dense class="mt-2 text-center d-md-none">
+      <v-row v-if="isTouch || smAndDown" dense class="mt-2 text-center">
         <v-col cols="6">
           <v-btn variant="flat" size="x-small" icon="mdi-plus" color="grey-darken-3" :disabled="deckStore.isDeckFull"
             @click.stop="deckStore.addCard(card.id, card.cardIdPrefix)">
@@ -72,6 +72,7 @@ import { useDisplay } from 'vuetify';
 import { useCardImage } from '@/composables/useCardImage.js';
 import { useDeckStore } from '@/stores/deck';
 import { useUIStore } from '@/stores/ui';
+import { useDevice } from '@/composables/useDevice';
 
 const props = defineProps({
   card: { type: Object, required: true },
@@ -82,6 +83,7 @@ const emit = defineEmits(['show-details']);
 const deckStore = useDeckStore();
 const uiStore = useUIStore();
 const { smAndDown } = useDisplay();
+const { isTouch } = useDevice();
 
 const imageUrl = useCardImage(computed(() => props.card.cardIdPrefix), computed(() => props.card.id));
 const cardCount = computed(() => deckStore.getCardCount(props.card.id));
