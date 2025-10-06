@@ -18,5 +18,5 @@ export const useUIStore = defineStore(
     persist: {
       storage: localStorage,
     },
-  },
+  }
 )

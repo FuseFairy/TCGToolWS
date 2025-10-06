@@ -10,8 +10,11 @@ $border-radius-root: 4px;
   ),
   $rounded: (
     'md': $border-radius-root,
-    '3sm': math.div($border-radius-root, 2) * 3, // 6px
-    '3md': $border-radius-root * 3,              // 12px
-    '5md': $border-radius-root * 5,              // 20px
+    '3sm': math.div($border-radius-root, 2) * 3,
+    // 6px
+    '3md': $border-radius-root * 3,
+    // 12px
+    '5md': $border-radius-root * 5,
+    // 20px
   )
 );

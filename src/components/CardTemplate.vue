@@ -2,9 +2,9 @@
   <v-card class="detail-card d-flex flex-column w-100" variant="flat" color="surface" rounded="3md"
     @click="handleCardClick">
     <v-hover v-slot="{ isHovering, props: hoverProps }">
-      <div class="ma-3" style="position: relative;" v-bind="hoverProps">
+      <div class="ma-3" style="position: relative" v-bind="hoverProps">
         <v-skeleton-loader v-if="!imageUrl" class="w-100" rounded="3md"
-          style="aspect-ratio: 400/559;"></v-skeleton-loader>
+          style="aspect-ratio: 400/559"></v-skeleton-loader>
         <v-img v-else :key="card.id" :src="imageUrl" :alt="card.id" :aspect-ratio="400 / 559" cover rounded="3md">
           <template #error>
             <v-img src="/placehold.webp" :alt="card.id" :aspect-ratio="400 / 559" cover rounded="3md" />
@@ -12,7 +12,7 @@
 
           <v-fade-transition>
             <div v-if="isHovering && !smAndDown && !isTouch" class="d-flex flex-row-reverse"
-              style="position: absolute; bottom: 8px; right: 8px; opacity: 0.9; gap: 6px;">
+              style="position: absolute; bottom: 8px; right: 8px; opacity: 0.9; gap: 6px">
               <v-btn icon="mdi-plus" :size="buttonSize" variant="flat" color="grey-darken-3"
                 :disabled="deckStore.isDeckFull" @click.stop="deckStore.addCard(card.id, card.cardIdPrefix)"></v-btn>
               <v-btn icon="mdi-minus" :size="buttonSize" variant="flat" color="grey-lighten-2"
@@ -21,9 +21,9 @@
             </div>
           </v-fade-transition>
 
-          <div style="position: absolute; top: 8px; right: 8px;">
+          <div style="position: absolute; top: 8px; right: 8px">
             <v-avatar v-if="cardCount > 0" :size="buttonSize" color="primary" class="counter-avatar">{{ cardCount
-              }}</v-avatar>
+            }}</v-avatar>
           </div>
         </v-img>
       </div>
@@ -67,35 +67,40 @@
 </template>
 
 <script setup>
-import { computed } from 'vue';
-import { useDisplay } from 'vuetify';
-import { useCardImage } from '@/composables/useCardImage.js';
-import { useDeckStore } from '@/stores/deck';
-import { useUIStore } from '@/stores/ui';
-import { useDevice } from '@/composables/useDevice';
+import { computed } from 'vue'
+import { useDisplay } from 'vuetify'
+import { useCardImage } from '@/composables/useCardImage.js'
+import { useDeckStore } from '@/stores/deck'
+import { useUIStore } from '@/stores/ui'
+import { useDevice } from '@/composables/useDevice'
 
 const props = defineProps({
   card: { type: Object, required: true },
-});
+})
 
-const emit = defineEmits(['show-details']);
+const emit = defineEmits(['show-details'])
 
-const deckStore = useDeckStore();
-const uiStore = useUIStore();
-const { smAndDown } = useDisplay();
-const { isTouch } = useDevice();
+const deckStore = useDeckStore()
+const uiStore = useUIStore()
+const { smAndDown } = useDisplay()
+const { isTouch } = useDevice()
 
-const imageUrl = useCardImage(computed(() => props.card.cardIdPrefix), computed(() => props.card.id));
-const cardCount = computed(() => deckStore.getCardCount(props.card.id));
-const buttonSize = computed(() => (uiStore.isFilterOpen && uiStore.isCardDeckOpen) || smAndDown.value ? 'x-small' : 'small');
+const imageUrl = useCardImage(
+  computed(() => props.card.cardIdPrefix),
+  computed(() => props.card.id)
+)
+const cardCount = computed(() => deckStore.getCardCount(props.card.id))
+const buttonSize = computed(() =>
+  (uiStore.isFilterOpen && uiStore.isCardDeckOpen) || smAndDown.value ? 'x-small' : 'small'
+)
 
 const handleCardClick = () => {
-  if (!props.card) return;
+  if (!props.card) return
   emit('show-details', {
     card: props.card,
     imageUrl: imageUrl.value,
-  });
-};
+  })
+}
 </script>
 
 <style scoped>
