@@ -1,5 +1,6 @@
 import { defineStore } from 'pinia'
-import { ref, computed } from 'vue'
+import { ref, computed, watch } from 'vue'
+import router from '@/router'
 
 export const useAuthStore = defineStore('auth', () => {
   // 初始化:從 storage 讀取
@@ -119,6 +120,15 @@ export const useAuthStore = defineStore('auth', () => {
     }
     return data
   }
+
+  watch(isAuthenticated, (isAuth, wasAuth) => {
+    if (wasAuth && !isAuth) {
+      const currentRoute = router.currentRoute.value
+      if (currentRoute.meta.requiresAuth) {
+        router.push({ name: 'Home' })
+      }
+    }
+  })
 
   return {
     token,
