@@ -40,7 +40,7 @@
                 <div class="font-weight-bold text-body-1">{{ props.card.cost }}</div>
               </v-col>
               <v-col>
-                <div class="text-body-2 text-grey">攻击力</div>
+                <div class="text-body-2 text-grey">战斗力</div>
                 <div class="font-weight-bold text-body-1">{{ props.card.power }}</div>
               </v-col>
               <v-col>

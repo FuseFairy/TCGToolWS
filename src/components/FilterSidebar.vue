@@ -8,7 +8,7 @@
 
         <v-divider></v-divider>
 
-        <v-select label="卡片类型"
+        <v-select label="卡片种类"
           :items="[{ title: '角色', value: '角色卡' }, { title: '事件', value: '事件卡' }, { title: '高潮卡', value: '高潮卡' }]"
           hide-details multiple chips clearable v-model="filterStore.selectedCardTypes"></v-select>
 
@@ -32,7 +32,7 @@
         <v-range-slider label="费用" class="mt-6" hide-details thumb-label="always" :min="filterStore.costRange.min"
           :max="filterStore.costRange.max" step="1" v-model="filterStore.selectedCostRange"></v-range-slider>
 
-        <v-range-slider label="攻击力" class="mt-6" hide-details thumb-label="always" :min="filterStore.powerRange.min"
+        <v-range-slider label="战斗力" class="mt-6" hide-details thumb-label="always" :min="filterStore.powerRange.min"
           :max="filterStore.powerRange.max" step="500" v-model="filterStore.selectedPowerRange"></v-range-slider>
       </div>
     </v-sheet>
