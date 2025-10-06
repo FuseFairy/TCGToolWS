@@ -22,7 +22,7 @@
           </div>
 
           <v-badge v-if="smAndUp" :content="deckStore.totalCardCount" :model-value="deckStore.totalCardCount > 0"
-            color="primary" offset-x="-2" offset-y="6" location="right center">
+            color="primary" offset-x="6" offset-y="12">
             <v-btn :size="resize" icon="mdi-cards" variant="text" @click="isCardDeckOpen = !isCardDeckOpen"></v-btn>
           </v-badge>
           <div v-if="!smAndUp" style="width: 48px;"></div> <!-- Placeholder for spacing -->
