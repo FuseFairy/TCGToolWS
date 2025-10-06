@@ -28,7 +28,10 @@
             <v-card-subtitle class="pb-1 text-body-2 pa-0">
               {{ props.card.product_name }}
             </v-card-subtitle>
-            <v-card-title class="pt-0 text-h5 text-wrap pa-0 mb-4">{{ props.card.name }}</v-card-title>
+            <v-card-title class="pt-0 text-h5 text-wrap pa-0">{{ props.card.name }}</v-card-title>
+            <v-card-subtitle class="pt-0 text-body-2 pa-0 mb-4">
+              {{ props.card.id }}
+            </v-card-subtitle>
 
             <v-row dense class="my-4 text-center">
               <v-col>
