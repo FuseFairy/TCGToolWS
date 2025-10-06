@@ -1,15 +1,8 @@
 import { getAssetsFile } from '@/utils/getAssetsFile.js'
-import { findSeriesDataFileName } from '@/maps/series-card-map.js'
 
 export const fetchCardByIdAndPrefix = async (id, prefix) => {
   try {
-    const dataFilePaths = findSeriesDataFileName([prefix])
-    if (dataFilePaths.length === 0) {
-      console.warn(`No data file found for prefix: ${prefix}`)
-      return null
-    }
-
-    const path = dataFilePaths[0]
+    const path = `card-data/${prefix}.json`
     const url = getAssetsFile(path)
     const response = await fetch(url, { priority: 'high' })
     if (!response.ok) throw new Error(`Failed to fetch ${path}`)
@@ -68,13 +61,7 @@ export const fetchCardByIdAndPrefix = async (id, prefix) => {
 
 export const fetchCardsByBaseIdAndPrefix = async (baseId, prefix) => {
   try {
-    const dataFilePaths = findSeriesDataFileName([prefix])
-    if (dataFilePaths.length === 0) {
-      console.warn(`No data file found for prefix: ${prefix}`)
-      return []
-    }
-
-    const path = dataFilePaths[0]
+    const path = `card-data/${prefix}.json`
     const url = getAssetsFile(path)
     const response = await fetch(url, { priority: 'high' })
     if (!response.ok) throw new Error(`Failed to fetch ${path}`)
