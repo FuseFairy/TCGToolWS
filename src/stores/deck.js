@@ -17,18 +17,24 @@ export const useDeckStore = defineStore(
 
     const isDeckFull = computed(() => totalCardCount.value >= maxDeckSize)
 
-    const addCard = (cardId, prefix) => {
+    const addCard = (card) => {
       if (isDeckFull.value) {
         console.warn('Deck is full. Cannot add more cards.')
         return false
       }
 
+      const cardId = card.id
       if (cardsInDeck.value[cardId]) {
         cardsInDeck.value[cardId].quantity++
       } else {
         cardsInDeck.value[cardId] = {
           id: cardId,
-          cardIdPrefix: prefix,
+          cardIdPrefix: card.cardIdPrefix,
+          product_name: card.product_name,
+          level: card.level,
+          color: card.color,
+          cost: card.cost,
+          type: card.type,
           quantity: 1,
         }
       }
