@@ -59,7 +59,10 @@
             </div>
             <div v-if="card.link && card.link.length > 0" class="mt-4">
               <div class="text-body-2 mb-2 text-grey">关联卡片</div>
-              <v-row dense>
+              <div v-if="isLoadingLinks" class="d-flex justify-center align-center pa-4">
+                <v-progress-circular indeterminate color="primary"></v-progress-circular>
+              </div>
+              <v-row v-else dense>
                 <v-col v-for="card in linkedCards" :key="card.id" cols="6" sm="4" md="3" lg="2">
                   <LinkedCard :card="card" @show-details="handleShowNewCard" />
                 </v-col>
@@ -82,7 +85,8 @@ const emit = defineEmits(['close', 'show-new-card']);
 const props = defineProps({
   card: { type: Object, required: true },
   imgUrl: { type: String, required: true },
-  linkedCards: { type: Array, required: false, default: () => [] },
+  linkedCards: { type: Array, default: () => [] },
+  isLoadingLinks: { type: Boolean, default: false },
 });
 
 const formattedEffect = computed(() => {
