@@ -103,8 +103,10 @@ const handleShowNewCard = async (cardPayload) => {
     }
 
     if (card.link && Array.isArray(card.link) && card.link.length > 0) {
+      // Sanitize and deduplicate link IDs to prevent redundant fetches.
+      const baseIds = [...new Set(card.link.map(linkId => linkId.replace(/[a-zA-Z]+$/, '')))];
       const fetchedLinks = await Promise.all(
-        card.link.map(linkBaseId => fetchCardsByBaseIdAndPrefix(linkBaseId, cardToDisplay.cardIdPrefix))
+        baseIds.map(baseId => fetchCardsByBaseIdAndPrefix(baseId, cardToDisplay.cardIdPrefix))
       );
       linkedCardsDetails.value = fetchedLinks.flat().filter(Boolean);
     } else {

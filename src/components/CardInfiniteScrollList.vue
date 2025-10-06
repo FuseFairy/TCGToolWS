@@ -63,9 +63,13 @@ const fetchLinkedCards = async (card) => {
 
   try {
     isLoadingLinks.value = true;
-    const linkRequests = card.link.map(baseId =>
+
+    // sanitize all link IDs to get clean base IDs.
+    const baseIds = [...new Set(card.link.map(linkId => linkId.replace(/[a-zA-Z]+$/, '')))]
+    const linkRequests = baseIds.map(baseId =>
       fetchCardsByBaseIdAndPrefix(baseId, card.cardIdPrefix)
     );
+
     const linkedCardsData = await Promise.all(linkRequests);
     selectedLinkedCards.value = linkedCardsData.flat().filter(Boolean);
   } catch (error) {
