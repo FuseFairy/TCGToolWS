@@ -4,6 +4,7 @@ import { defineStore } from 'pinia'
 export const useUIStore = defineStore(
   'ui',
   () => {
+    const version = ref(1)
     const theme = ref('system')
     const isFilterOpen = ref(false)
     const isCardDeckOpen = ref(false)
@@ -12,7 +13,7 @@ export const useUIStore = defineStore(
       theme.value = newTheme
     }
 
-    return { theme, setTheme, isFilterOpen, isCardDeckOpen }
+    return { version, theme, setTheme, isFilterOpen, isCardDeckOpen }
   },
   {
     persist: {

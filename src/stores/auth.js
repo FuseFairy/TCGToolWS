@@ -3,15 +3,28 @@ import { ref, computed, watch } from 'vue'
 import router from '@/router'
 
 export const useAuthStore = defineStore('auth', () => {
+  const codeVersion = 1
+
   // 初始化:從 storage 讀取
   const initState = () => {
     const local = localStorage.getItem('auth')
     const session = sessionStorage.getItem('auth')
     const stored = local || session
     if (stored) {
-      const parsed = JSON.parse(stored)
-      return { token: parsed.token, rememberMe: parsed.rememberMe ?? true }
+      try {
+        const parsed = JSON.parse(stored)
+        // Version check
+        if (parsed.version === codeVersion) {
+          return { token: parsed.token, rememberMe: parsed.rememberMe ?? true }
+        }
+        // eslint-disable-next-line no-unused-vars
+      } catch (e) {
+        // Corrupted data, treat as invalid
+        localStorage.removeItem('auth')
+        sessionStorage.removeItem('auth')
+      }
     }
+    // If no stored value or version mismatch, return default
     return { token: null, rememberMe: true }
   }
 
@@ -26,7 +39,10 @@ export const useAuthStore = defineStore('auth', () => {
     sessionStorage.removeItem('auth')
     if (token.value) {
       const storage = rememberMe.value ? localStorage : sessionStorage
-      storage.setItem('auth', JSON.stringify({ token: token.value, rememberMe: rememberMe.value }))
+      storage.setItem(
+        'auth',
+        JSON.stringify({ token: token.value, rememberMe: rememberMe.value, version: codeVersion })
+      )
     }
   }
 

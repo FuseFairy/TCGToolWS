@@ -4,6 +4,7 @@ import { ref, computed } from 'vue'
 export const useDeckStore = defineStore(
   'deck',
   () => {
+    const version = ref(1)
     const cardsInDeck = ref({})
     const maxDeckSize = 50
 
@@ -57,6 +58,7 @@ export const useDeckStore = defineStore(
     }
 
     return {
+      version,
       cardsInDeck,
       getCardCount,
       totalCardCount,

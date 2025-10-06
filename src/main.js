@@ -5,6 +5,7 @@ import { createPinia } from 'pinia'
 import App from './App.vue'
 import router from './router'
 import piniaPluginPersistedstate from 'pinia-plugin-persistedstate'
+import { piniaVersioningPlugin } from '@/plugins/pinia-versioning.js'
 
 import '@/assets/styles/main.css'
 import 'vuetify/styles'
@@ -18,6 +19,7 @@ const vuetify = createVuetify({
   },
 })
 
+pinia.use(piniaVersioningPlugin)
 pinia.use(piniaPluginPersistedstate)
 app.use(pinia)
 app.use(router)
