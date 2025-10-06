@@ -28,13 +28,13 @@
 
         <div>
           <div class="text-caption text-disabled">费用</div>
-          <v-range-slider hide-details thumb-label="true" :min="filterStore.costRange.min"
+          <v-range-slider hide-details :thumb-label="true" :min="filterStore.costRange.min"
             :max="filterStore.costRange.max" step="1" v-model="filterStore.selectedCostRange"></v-range-slider>
         </div>
 
         <div>
           <div class="text-caption text-disabled">战斗力</div>
-          <v-range-slider hide-details thumb-label="true" :min="filterStore.powerRange.min"
+          <v-range-slider hide-details :thumb-label="true" :min="filterStore.powerRange.min"
             :max="filterStore.powerRange.max" step="500" v-model="filterStore.selectedPowerRange"></v-range-slider>
         </div>
       </div>
