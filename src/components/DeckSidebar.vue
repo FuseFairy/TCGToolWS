@@ -2,33 +2,41 @@
   <aside v-bind="$attrs" class="d-flex flex-column flex-shrink-0"
     :style="{ paddingTop: `${smAndUp ? headerOffsetHeight + 18 : 0}px` }">
     <v-sheet :rounded="smAndUp ? '3md' : false" class="pa-4 ga-4 d-flex flex-column fill-height overflow-hidde">
-      <div class="d-flex justify-space-between align-center mb-2">
-        <h2 class="text-h6">当前卡组</h2>
+      <div class="d-flex justify-space-between align-center">
+        <div class="d-flex align-center ga-2">
+          <v-btn icon="mdi-delete-sweep-outline" variant="text" color="error" density="compact"
+            :disabled="deckStore.totalCardCount === 0" @click="deckStore.clearDeck">
+          </v-btn>
+          <h2 class="text-h6">当前卡组</h2>
+        </div>
         <v-chip pill>
           <v-icon start icon="mdi-cards-diamond-outline"></v-icon>
           {{ deckStore.totalCardCount }} / 50
         </v-chip>
       </div>
-      <v-btn block color="error" variant="tonal" :disabled="deckStore.totalCardCount === 0" @click="deckStore.clearDeck"
-        class="mb-2">
-        清空牌组
-      </v-btn>
-      <v-btn-toggle v-model="activeMode" color="primary" variant="tonal" divided mandatory>
-        <v-btn value="remove" class="flex-grow-1">
-          <v-icon icon="mdi-minus"></v-icon>
-        </v-btn>
-        <v-btn value="none" class="flex-grow-1">
-          <v-icon icon="mdi-cursor-default-click-outline"></v-icon>
-        </v-btn>
-        <v-btn value="add" class="flex-grow-1">
-          <v-icon icon="mdi-plus"></v-icon>
-        </v-btn>
-      </v-btn-toggle>
 
-      <v-select v-model="groupBy" :items="groupByOptions" label="分类" density="compact" variant="outlined" hide-details
-        class="mt-4"></v-select>
+      <v-row dense>
+        <v-col cols="7" sm="8" class="pa-0">
+          <v-btn-toggle v-model="activeMode" density="compact" color="primary" variant="tonal" divided mandatory
+            class="w-100 h-100">
+            <v-btn value="remove" class="flex-grow-1">
+              <v-icon icon="mdi-minus"></v-icon>
+            </v-btn>
+            <v-btn value="none" class="flex-grow-1">
+              <v-icon icon="mdi-cursor-default-click-outline"></v-icon>
+            </v-btn>
+            <v-btn value="add" class="flex-grow-1">
+              <v-icon icon="mdi-plus"></v-icon>
+            </v-btn>
+          </v-btn-toggle>
+        </v-col>
+        <v-col cols="5" sm="4" class="pa-0 pl-2">
+          <v-select v-model="groupBy" :items="groupByOptions" label="分类" density="compact" variant="outlined"
+            hide-details></v-select>
+        </v-col>
+      </v-row>
 
-      <v-divider class="mt-2"></v-divider>
+      <v-divider></v-divider>
 
       <div class="fill-height overflow-y-auto themed-scrollbar pl-4 pr-4">
         <div v-if="Object.keys(deckStore.cardsInDeck).length === 0" class="text-center text-disabled mt-8">
@@ -37,8 +45,12 @@
         </div>
 
         <div v-else>
-          <div v-for="[groupName, group] in groupedCards" :key="groupName">
-            <p class="text-subtitle-2 text-disabled mt-3 mb-1">{{ getGroupName(groupName) }}</p>
+          <div v-for="([groupName, group], index) in groupedCards" :key="groupName">
+            <div class="d-flex justify-space-between align-center text-subtitle-2 text-disabled mb-1"
+              :class="{ 'mt-3': index > 0 }">
+              <span>{{ getGroupName(groupName) }}</span>
+              <v-chip size="small" variant="tonal" color="secondary" label>{{ group.length }}</v-chip>
+            </div>
             <v-row dense>
               <v-col v-for="item in group" :key="item.id" cols="4" lg="3">
                 <div class="card-container" @click="handleCardClick(item)">
@@ -87,7 +99,7 @@ const groupByOptions = [
   { title: '等级', value: 'level' },
   { title: '颜色', value: 'color' },
   { title: '种类', value: 'type' },
-  { title: '系列', value: 'product_name' },
+  { title: '产品', value: 'product_name' },
   { title: '费用', value: 'cost' },
 ];
 
