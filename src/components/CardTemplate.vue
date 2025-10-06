@@ -11,7 +11,7 @@
           </template>
 
           <v-fade-transition>
-            <div v-if="isHovering && !isTouch" class="d-flex flex-row-reverse"
+            <div v-if="isHovering && !smAndDown" class="d-flex flex-row-reverse"
               style="position: absolute; bottom: 8px; right: 8px; opacity: 0.9; gap: 6px;">
               <v-btn icon="mdi-plus" :size="buttonSize" variant="flat" color="grey-darken-3"
                 :disabled="deckStore.isDeckFull" @click.stop="deckStore.addCard(card.id, card.cardIdPrefix)"></v-btn>
@@ -23,34 +23,34 @@
 
           <div style="position: absolute; top: 8px; right: 8px;">
             <v-avatar v-if="cardCount > 0" :size="buttonSize" color="primary" class="counter-avatar">{{ cardCount
-              }}</v-avatar>
+            }}</v-avatar>
           </div>
         </v-img>
       </div>
     </v-hover>
 
     <div class="card-content pa-3 pt-0">
-      <div class="text-grey text-caption-2 mb-1 text-truncate">{{ card.id }}</div>
-      <h3 class="text-subtitle-1 font-weight-bold text-truncate">{{ card.name }}</h3>
-      <v-row dense :class="isTouch ? 'mt-1' : 'mt-2'" class="text-center">
-        <v-col cols="6">
-          <div :class="isTouch ? 'text-caption' : 'text-body-2'" class="text-grey">类型</div>
-          <div :class="isTouch ? 'text-body-2' : 'text-subtitle-1'" class="font-weight-medium">{{ card.type }}</div>
+      <div class="text-grey text-caption text-md-body-2 mb-1 text-truncate">{{ card.id }}</div>
+      <h3 class="text-subtitle-2 text-md-subtitle-1 text-truncate">{{ card.name }}</h3>
+      <v-row dense class="mt-2 text-center">
+        <v-col cols="6" class="pa-0">
+          <div class="text-caption text-grey">种类</div>
+          <div class="text-body-2">{{ card.type }}</div>
         </v-col>
-        <v-col cols="6">
-          <div :class="isTouch ? 'text-caption' : 'text-body-2'" class="text-grey">颜色</div>
-          <div :class="isTouch ? 'text-body-2' : 'text-subtitle-1'" class="font-weight-medium">{{ card.color }}</div>
+        <v-col cols="6" class="pa-0">
+          <div class="text-caption text-grey">灵魂值</div>
+          <div class="text-body-2">{{ card.soul }}</div>
         </v-col>
-        <v-col cols="6">
-          <div :class="isTouch ? 'text-caption' : 'text-body-2'" class="text-grey">等级</div>
-          <div :class="isTouch ? 'text-body-2' : 'text-subtitle-1'" class="font-weight-medium">{{ card.level }}</div>
+        <v-col cols="6" class="pa-0 pt-1">
+          <div class="text-caption text-grey">等级</div>
+          <div class="text-body-2">{{ card.level }}</div>
         </v-col>
-        <v-col cols="6">
-          <div :class="isTouch ? 'text-caption' : 'text-body-2'" class="text-grey">战力</div>
-          <div :class="isTouch ? 'text-body-2' : 'text-subtitle-1'" class="font-weight-medium">{{ card.power }}</div>
+        <v-col cols="6" class="pa-0 pt-1">
+          <div class="text-caption text-grey">战斗力</div>
+          <div class="text-body-2">{{ card.power }}</div>
         </v-col>
       </v-row>
-      <v-row v-if="isTouch" dense class="mt-2 text-center">
+      <v-row dense class="mt-2 text-center d-md-none">
         <v-col cols="6">
           <v-btn variant="flat" size="x-small" icon="mdi-plus" color="grey-darken-3" :disabled="deckStore.isDeckFull"
             @click.stop="deckStore.addCard(card.id, card.cardIdPrefix)">
@@ -72,7 +72,6 @@ import { useDisplay } from 'vuetify';
 import { useCardImage } from '@/composables/useCardImage.js';
 import { useDeckStore } from '@/stores/deck';
 import { useUIStore } from '@/stores/ui';
-import { useDevice } from '@/composables/useDevice';
 
 const props = defineProps({
   card: { type: Object, required: true },
@@ -82,7 +81,6 @@ const emit = defineEmits(['show-details']);
 
 const deckStore = useDeckStore();
 const uiStore = useUIStore();
-const { isTouch } = useDevice();
 const { smAndDown } = useDisplay();
 
 const imageUrl = useCardImage(computed(() => props.card.cardIdPrefix), computed(() => props.card.id));
