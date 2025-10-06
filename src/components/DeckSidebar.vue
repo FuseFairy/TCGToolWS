@@ -25,7 +25,10 @@
         </v-btn>
       </v-btn-toggle>
 
-      <v-divider></v-divider>
+      <v-select v-model="groupBy" :items="groupByOptions" label="分类" density="compact" variant="outlined" hide-details
+        class="mt-4"></v-select>
+
+      <v-divider class="mt-2"></v-divider>
 
       <div class="fill-height overflow-y-auto themed-scrollbar pl-4 pr-4">
         <div v-if="Object.keys(deckStore.cardsInDeck).length === 0" class="text-center text-disabled mt-8">
@@ -33,17 +36,22 @@
           <p class="mt-2">尚未加入卡片</p>
         </div>
 
-        <v-row v-else dense>
-          <v-col v-for="item in deckStore.cardsInDeck" :key="item.id" cols="4" lg="3">
-            <div class="card-container" @click="handleCardClick(item)">
-              <div class="image-container">
-                <v-img :src="useCardImage(item.cardIdPrefix, item.id).value" :aspect-ratio="400 / 559" cover
-                  class="rounded"></v-img>
-                <div class="quantity-badge">{{ item.quantity }}</div>
-              </div>
-            </div>
-          </v-col>
-        </v-row>
+        <div v-else>
+          <div v-for="[groupName, group] in groupedCards" :key="groupName">
+            <p class="text-subtitle-2 text-disabled mt-3 mb-1">{{ getGroupName(groupName) }}</p>
+            <v-row dense>
+              <v-col v-for="item in group" :key="item.id" cols="4" lg="3">
+                <div class="card-container" @click="handleCardClick(item)">
+                  <div class="image-container">
+                    <v-img :src="useCardImage(item.cardIdPrefix, item.id).value" :aspect-ratio="400 / 559" cover
+                      class="rounded"></v-img>
+                    <div class="quantity-badge">{{ item.quantity }}</div>
+                  </div>
+                </div>
+              </v-col>
+            </v-row>
+          </div>
+        </div>
       </div>
     </v-sheet>
   </aside>
@@ -62,6 +70,8 @@ import { fetchCardByIdAndPrefix, fetchCardsByBaseIdAndPrefix } from '@/composabl
 import CardDetailModal from '@/components/CardDetailModal.vue';
 import { useDisplay } from 'vuetify';
 
+import { useDeckGrouping } from '@/composables/useDeckGrouping';
+
 defineProps({
   headerOffsetHeight: {
     type: Number,
@@ -71,6 +81,38 @@ defineProps({
 
 const { smAndUp, smAndDown } = useDisplay();
 const deckStore = useDeckStore();
+
+const groupBy = ref('level');
+const groupByOptions = [
+  { title: '等级', value: 'level' },
+  { title: '颜色', value: 'color' },
+  { title: '种类', value: 'type' },
+  { title: '系列', value: 'product_name' },
+  { title: '费用', value: 'cost' },
+];
+
+const deckCards = computed(() => Object.values(deckStore.cardsInDeck));
+const { groupedCards } = useDeckGrouping(deckCards, groupBy);
+
+const colorMap = {
+  red: '红色',
+  blue: '蓝色',
+  yellow: '黄色',
+  green: '绿色',
+};
+
+const getGroupName = (groupName) => {
+  switch (groupBy.value) {
+    case 'level':
+      return groupName === 'CX' ? '高潮卡' : `等级 ${groupName}`;
+    case 'color':
+      return colorMap[groupName.toLowerCase()] || groupName;
+    case 'cost':
+      return `费用 ${groupName}`;
+    default:
+      return groupName;
+  }
+};
 
 // UI State
 const activeMode = ref('none'); // 'add', 'remove', 'none'
@@ -128,7 +170,7 @@ const handleShowNewCard = async (cardPayload) => {
 const handleCardClick = async (item) => {
   switch (activeMode.value) {
     case 'add':
-      deckStore.addCard(item.id, item.cardIdPrefix);
+      deckStore.addCard(item);
       break;
     case 'remove':
       deckStore.removeCard(item.id);
