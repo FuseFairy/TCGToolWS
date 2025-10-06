@@ -15,7 +15,7 @@
 
           <div class="d-flex align-center">
             <v-btn :size="resize" icon="mdi-arrow-left" variant="text" :to="{ name: 'SeriesCardTable' }"></v-btn>
-            <h1 class="text-h6 text-sm-h4 text-truncate text-center px-2">{{ seriesName }}</h1>
+            <h1 class="text-h6 text-sm-h5 text-truncate text-center px-2">{{ seriesName }}</h1>
             <v-chip :size="resize" prepend-icon="mdi-cards-diamond-outline" class="counter-chip font-weight-bold">
               {{ filterStore.filteredCards.length }}
             </v-chip>
@@ -83,7 +83,7 @@ const props = defineProps({
 
 const { smAndUp, lgAndUp } = useDisplay();
 const resize = computed(() => {
-  return smAndUp.value ? 'x-large' : 'small';
+  return smAndUp.value ? 'default' : 'x-small';
 });
 
 const deckStore = useDeckStore();
