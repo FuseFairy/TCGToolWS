@@ -52,11 +52,9 @@ export default defineConfig({
   build: {
     rollupOptions: {
       output: {
-        manualChunks(id) {
-          const extensions = ['.js', '.ts', '.mjs']
-          if (id.includes('node_modules') && extensions.some((ext) => id.endsWith(ext))) {
-            return 'packages'
-          }
+        manualChunks: {
+          vendor: ['vue', 'vue-router'],
+          ui: ['vuetify'],
         },
       },
     },
