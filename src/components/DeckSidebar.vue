@@ -78,6 +78,19 @@
       :showActions="true" @close="isModalVisible = false" @show-new-card="handleShowNewCard" />
   </v-dialog>
 
+  <!-- Auth Alert Dialog -->
+  <v-dialog v-model="isAuthAlertOpen" max-width="400px">
+    <v-card>
+      <v-card-title> 需要登入</v-card-title>
+      <v-card-text>
+        储存卡组功能需要登入后才能使用。
+      </v-card-text>
+      <v-card-actions>
+        <v-btn color="primary" text @click="isAuthAlertOpen = false">确定</v-btn>
+      </v-card-actions>
+    </v-card>
+  </v-dialog>
+
   <!-- Save Deck Dialog -->
   <v-dialog v-model="isSaveDialogOpen" max-width="500px" @update:model-value="closeSaveDialog">
     <v-card>
@@ -118,6 +131,7 @@ import { useDisplay } from 'vuetify';
 import { useDeckGrouping } from '@/composables/useDeckGrouping';
 import { useDeckEncoder } from '@/composables/useDeckEncoder';
 import { useSnackbar } from '@/composables/useSnackbar';
+import { useAuthStore } from '@/stores/auth';
 
 defineProps({
   headerOffsetHeight: {
@@ -130,6 +144,10 @@ const { smAndUp, smAndDown } = useDisplay();
 const deckStore = useDeckStore();
 const { encodeDeck } = useDeckEncoder();
 const { triggerSnackbar } = useSnackbar();
+const authStore = useAuthStore();
+
+// Auth Alert Dialog State
+const isAuthAlertOpen = ref(false);
 
 // Save Deck Dialog State
 const isSaveDialogOpen = ref(false);
@@ -137,11 +155,13 @@ const deckName = ref('');
 const selectedCoverCardId = ref(null);
 
 const openSaveDialog = () => {
-  // Pre-select the first card as a default cover if available
-  if (deckCards.value.length > 0) {
-    selectedCoverCardId.value = deckCards.value[0].id;
+  if (!authStore.isAuthenticated) {
+    isAuthAlertOpen.value = true;
   }
-  isSaveDialogOpen.value = true;
+  else if (deckCards.value.length > 0) {
+    selectedCoverCardId.value = deckCards.value[0].id;
+    isSaveDialogOpen.value = true;
+  }
 };
 
 const closeSaveDialog = (value) => {
