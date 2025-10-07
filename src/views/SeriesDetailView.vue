@@ -144,10 +144,10 @@ const seriesName = computed(() => {
 });
 const prefixes = computed(() => seriesMap[seriesName.value]?.prefixes ?? []);
 
-watch(prefixes, (newPrefixes) => {
-  filterStore.initialize(newPrefixes);
-}, { immediate: true });
-
+watchEffect(() => {
+  filterStore.initialize(prefixes.value);
+  deckStore.setSeriesId(props.seriesId);
+});
 
 watch(() => filterStore.filteredCards, () => {
   if (listRef.value) {

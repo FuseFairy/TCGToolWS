@@ -6,6 +6,7 @@ export const useDeckStore = defineStore(
   () => {
     const version = ref(1)
     const cardsInDeck = ref({})
+    const seriesId = ref('')
     const maxDeckSize = 50
 
     const getCardCount = computed(() => {
@@ -57,15 +58,21 @@ export const useDeckStore = defineStore(
       cardsInDeck.value = {}
     }
 
+    const setSeriesId = (id) => {
+      seriesId.value = id
+    }
+
     return {
       version,
       cardsInDeck,
       getCardCount,
       totalCardCount,
+      seriesId,
       addCard,
       removeCard,
       clearDeck,
       isDeckFull,
+      setSeriesId,
     }
   },
   {
