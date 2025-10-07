@@ -75,7 +75,7 @@
   <v-dialog v-if="selectedCardData" v-model="isModalVisible" :max-width="smAndDown ? '100%' : '60%'"
     :max-height="smAndDown ? '80%' : '95%'" :min-height="smAndDown ? null : '60%'">
     <CardDetailModal :card="selectedCardData" :imgUrl="modalCardImageUrl" :linkedCards="linkedCardsDetails"
-      @close="isModalVisible = false" @show-new-card="handleShowNewCard" />
+      :showActions="true" @close="isModalVisible = false" @show-new-card="handleShowNewCard" />
   </v-dialog>
 
   <!-- Save Deck Dialog -->

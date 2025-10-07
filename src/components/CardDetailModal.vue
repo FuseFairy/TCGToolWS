@@ -5,7 +5,7 @@
 
     <v-card-text class="pa-0 d-flex flex-column flex-md-row"
       :style="{ overflow: $vuetify.display.mdAndUp ? 'hidden' : 'visible' }">
-      <div class="flex-shrink-0 d-flex justify-center align-center pa-4" :style="{
+      <div class="flex-shrink-0 d-flex flex-column justify-center pa-4" :style="{
         width: $vuetify.display.mdAndUp ? '40%' : '100%',
         maxWidth: '400px',
         alignSelf: 'center'
@@ -16,6 +16,16 @@
             <v-img src="/placehold.webp" :aspect-ratio="400 / 559" rounded="5md" cover :max-width="400" />
           </template>
         </v-img>
+        <div>
+          <v-card-actions v-if="props.showActions" class="d-flex justify-center align-center pa-0 pt-4">
+            <v-btn icon="mdi-minus" size="small" variant="tonal" color="primary" @click="deckStore.removeCard(card.id)"
+              :disabled="cardCount === 0"></v-btn>
+            <div class="mx-4 text-h6 font-weight-bold" style="min-width: 20px; text-align: center;">{{ cardCount }}
+            </div>
+            <v-btn icon="mdi-plus" size="small" variant="tonal" color="primary" @click="deckStore.addCard(card)"
+              :disabled="deckStore.isDeckFull"></v-btn>
+          </v-card-actions>
+        </div>
       </div>
 
       <div class="flex-grow-1" :style="{ position: $vuetify.display.mdAndUp ? 'relative' : 'static', minWidth: 0 }">
@@ -82,6 +92,7 @@
 import { computed } from 'vue';
 import LinkedCard from './LinkedCard.vue';
 import DOMPurify from 'dompurify';
+import { useDeckStore } from '@/stores/deck';
 
 const emit = defineEmits(['close', 'show-new-card']);
 
@@ -90,6 +101,13 @@ const props = defineProps({
   imgUrl: { type: String, required: true },
   linkedCards: { type: Array, default: () => [] },
   isLoadingLinks: { type: Boolean, default: false },
+  showActions: { type: Boolean, default: false },
+});
+
+const deckStore = useDeckStore();
+
+const cardCount = computed(() => {
+  return props.card ? deckStore.getCardCount(props.card.id) : 0;
 });
 
 const formattedEffect = computed(() => {

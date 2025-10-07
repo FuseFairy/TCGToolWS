@@ -14,8 +14,8 @@
   <v-dialog v-if="selectedCardData" v-model="isModalVisible" :max-width="smAndDown ? '100%' : '60%'"
     :max-height="smAndDown ? '80%' : '95%'" :min-height="smAndDown ? null : '60%'">
     <CardDetailModal :card="selectedCardData.card" :img-url="selectedCardData.imageUrl"
-      :linked-cards="selectedLinkedCards" :is-loading-links="isLoadingLinks" @close="isModalVisible = false"
-      @show-new-card="onShowNewCard" />
+      :linked-cards="selectedLinkedCards" :is-loading-links="isLoadingLinks" :showActions="true" @close="
+        isModalVisible = false" @show-new-card="onShowNewCard" />
   </v-dialog>
 </template>
 
