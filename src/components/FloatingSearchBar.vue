@@ -1,8 +1,22 @@
 <template>
-  <div ref="draggableContainer" class="floating-search-container" :style="containerStyle" @touchstart="startDrag">
+  <div
+    ref="draggableContainer"
+    class="floating-search-container"
+    :style="containerStyle"
+    @touchstart="startDrag"
+  >
     <div :class="['search-wrapper', { 'is-expanded': isExpanded }]" v-click-outside="collapse">
-      <v-text-field ref="inputRef" v-model="searchText" class="search-input" placeholder="查找系列..." variant="plain"
-        density="compact" hide-details single-line @keydown.enter="performSearch" />
+      <v-text-field
+        ref="inputRef"
+        v-model="searchText"
+        class="search-input"
+        placeholder="查找系列..."
+        variant="plain"
+        density="compact"
+        hide-details
+        single-line
+        @keydown.enter="performSearch"
+      />
       <v-btn class="search-button" icon variant="text" @mousedown="startDrag" @click="handleTap">
         <v-icon>mdi-magnify</v-icon>
       </v-btn>
@@ -11,148 +25,140 @@
 </template>
 
 <script setup>
-import { ref, nextTick, computed, onMounted, onUnmounted } from 'vue';
+import { ref, nextTick, computed, onMounted, onUnmounted } from 'vue'
 
-const emit = defineEmits(['update:searchTerm']);
+const emit = defineEmits(['update:searchTerm'])
 
-const isExpanded = ref(false);
-const searchText = ref('');
-const inputRef = ref(null);
+const isExpanded = ref(false)
+const searchText = ref('')
+const inputRef = ref(null)
 
-const draggableContainer = ref(null);
-const position = ref({ x: 10, y: window.innerHeight * 0.13 });
-const dragging = ref(false);
-const dragOffset = ref({ x: 0, y: 0 });
-const movedDuringDrag = ref(false);
+const draggableContainer = ref(null)
+const position = ref({ x: 10, y: window.innerHeight * 0.13 })
+const dragging = ref(false)
+const dragOffset = ref({ x: 0, y: 0 })
+const movedDuringDrag = ref(false)
 
 const containerStyle = computed(() => ({
   transform: `translate(${position.value.x}px, ${position.value.y}px)`,
-}));
+}))
 
 onMounted(() => {
   if (draggableContainer.value) {
     position.value = {
       x: 10,
       y: window.innerHeight * 0.13,
-    };
+    }
   }
-});
+})
 
 onUnmounted(() => {
-  window.removeEventListener('mousemove', drag);
-  window.removeEventListener('mouseup', stopDrag);
-  window.removeEventListener('touchmove', drag);
-  window.removeEventListener('touchend', stopDrag);
-});
+  window.removeEventListener('mousemove', drag)
+  window.removeEventListener('mouseup', stopDrag)
+  window.removeEventListener('touchmove', drag)
+  window.removeEventListener('touchend', stopDrag)
+})
 
 const startDrag = (event) => {
   // Prevent dragging when clicking on the input field
   if (isExpanded.value) {
-    return;
+    return
   }
-  movedDuringDrag.value = false;
-  dragging.value = true;
-  document.body.style.cursor = 'grabbing';
+  movedDuringDrag.value = false
+  dragging.value = true
+  document.body.style.cursor = 'grabbing'
 
-  const clientX = event.type === 'touchstart' ? event.touches[0].clientX : event.clientX;
-  const clientY = event.type === 'touchstart' ? event.touches[0].clientY : event.clientY;
+  const clientX = event.type === 'touchstart' ? event.touches[0].clientX : event.clientX
+  const clientY = event.type === 'touchstart' ? event.touches[0].clientY : event.clientY
 
   dragOffset.value = {
     x: clientX - position.value.x,
     y: clientY - position.value.y,
-  };
-  window.addEventListener('mousemove', drag);
-  window.addEventListener('mouseup', stopDrag);
-  window.addEventListener('touchmove', drag, { passive: false });
-  window.addEventListener('touchend', stopDrag, { passive: false });
-};
+  }
+  window.addEventListener('mousemove', drag)
+  window.addEventListener('mouseup', stopDrag)
+  window.addEventListener('touchmove', drag, { passive: false })
+  window.addEventListener('touchend', stopDrag, { passive: false })
+}
 
 const drag = (event) => {
   if (dragging.value) {
-    event.preventDefault();
-    document.body.style.pointerEvents = 'none';
-    movedDuringDrag.value = true;
-    const parentRect = draggableContainer.value.parentElement.getBoundingClientRect();
+    event.preventDefault()
+    document.body.style.pointerEvents = 'none'
+    movedDuringDrag.value = true
+    const parentRect = draggableContainer.value.parentElement.getBoundingClientRect()
 
-    const clientX = event.type === 'touchmove' ? event.touches[0].clientX : event.clientX;
-    const clientY = event.type === 'touchmove' ? event.touches[0].clientY : event.clientY;
+    const clientX = event.type === 'touchmove' ? event.touches[0].clientX : event.clientX
+    const clientY = event.type === 'touchmove' ? event.touches[0].clientY : event.clientY
 
-    const newX = clientX - dragOffset.value.x;
-    const newY = clientY - dragOffset.value.y;
+    const newX = clientX - dragOffset.value.x
+    const newY = clientY - dragOffset.value.y
 
-    const elRect = draggableContainer.value.getBoundingClientRect();
+    const elRect = draggableContainer.value.getBoundingClientRect()
 
-    position.value.x = Math.max(
-      0,
-      Math.min(newX, parentRect.width - elRect.width)
-    );
-    position.value.y = Math.max(
-      0,
-      Math.min(newY, parentRect.height - elRect.height)
-    );
+    position.value.x = Math.max(0, Math.min(newX, parentRect.width - elRect.width))
+    position.value.y = Math.max(0, Math.min(newY, parentRect.height - elRect.height))
   }
-};
+}
 
 const stopDrag = () => {
-  dragging.value = false;
-  document.body.style.cursor = 'auto';
-  document.body.style.pointerEvents = 'auto';
-  window.removeEventListener('mousemove', drag);
-  window.removeEventListener('mouseup', stopDrag);
-  window.removeEventListener('touchmove', drag, { passive: false });
-  window.removeEventListener('touchend', stopDrag, { passive: false });
-};
+  dragging.value = false
+  document.body.style.cursor = 'auto'
+  document.body.style.pointerEvents = 'auto'
+  window.removeEventListener('mousemove', drag)
+  window.removeEventListener('mouseup', stopDrag)
+  window.removeEventListener('touchmove', drag, { passive: false })
+  window.removeEventListener('touchend', stopDrag, { passive: false })
+}
 
 const toggleExpand = async () => {
   if (movedDuringDrag.value) {
-    return;
+    return
   }
   if (isExpanded.value && !searchText.value) {
-    isExpanded.value = false;
-  }
-  else if (!isExpanded.value) {
+    isExpanded.value = false
+  } else if (!isExpanded.value) {
     // Adjust position before expanding to prevent going off-screen
-    const expandedWidth = 350; // Corresponds to the CSS width
+    const expandedWidth = 350 // Corresponds to the CSS width
     if (draggableContainer.value) {
-      const parentRect = draggableContainer.value.parentElement.getBoundingClientRect();
-      const viewportWidth = parentRect.width;
+      const parentRect = draggableContainer.value.parentElement.getBoundingClientRect()
+      const viewportWidth = parentRect.width
 
       if (position.value.x + expandedWidth > viewportWidth) {
-        position.value.x = viewportWidth - expandedWidth;
+        position.value.x = viewportWidth - expandedWidth
       }
       // Ensure it doesn't go off the left edge either
-      position.value.x = Math.max(0, position.value.x);
+      position.value.x = Math.max(0, position.value.x)
     }
 
-    isExpanded.value = true;
-    await nextTick();
-    inputRef.value?.focus();
+    isExpanded.value = true
+    await nextTick()
+    inputRef.value?.focus()
+  } else {
+    performSearch()
   }
-  else {
-    performSearch();
-  }
-};
+}
 
 const collapse = () => {
-  isExpanded.value = false;
-};
+  isExpanded.value = false
+}
 
 const performSearch = () => {
-  emit('update:searchTerm', searchText.value);
-  collapse();
-};
+  emit('update:searchTerm', searchText.value)
+  collapse()
+}
 
 const handleTap = () => {
   if (movedDuringDrag.value) {
-    return;
+    return
   }
 
   if (!isExpanded.value) {
-    toggleExpand();
+    toggleExpand()
   } else {
-    performSearch();
+    performSearch()
   }
-};
+}
 </script>
 
 <style scoped>

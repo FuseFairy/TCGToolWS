@@ -19,6 +19,3 @@ yarn.lock
 *.svg
 *.png
 *.jpg
-
-# 忽略 Vue 組件（由 Volar 處理）
-src/**/*.vue

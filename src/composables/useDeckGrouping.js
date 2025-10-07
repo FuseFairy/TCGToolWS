@@ -42,12 +42,12 @@ export function useDeckGrouping(cards, groupBy) {
     })
 
     // Sort cards within each group
-    sortedKeys.forEach(key => {
+    sortedKeys.forEach((key) => {
       groups[key].sort((a, b) => String(a.id).localeCompare(String(b.id)))
     })
 
     // Return a new Map to preserve the sorted order
-    return new Map(sortedKeys.map(key => [key, groups[key]]))
+    return new Map(sortedKeys.map((key) => [key, groups[key]]))
   })
 
   return { groupedCards }

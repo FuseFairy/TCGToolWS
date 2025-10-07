@@ -1,29 +1,71 @@
 <template>
-  <v-card class="detail-card d-flex flex-column w-100" variant="flat" color="surface" rounded="3md"
-    @click="handleCardClick">
+  <v-card
+    class="detail-card d-flex flex-column w-100"
+    variant="flat"
+    color="surface"
+    rounded="3md"
+    @click="handleCardClick"
+  >
     <v-hover v-slot="{ isHovering, props: hoverProps }">
       <div class="ma-3" style="position: relative" v-bind="hoverProps">
-        <v-skeleton-loader v-if="!imageUrl" class="w-100" rounded="3md"
-          style="aspect-ratio: 400/559"></v-skeleton-loader>
-        <v-img v-else :key="card.id" :src="imageUrl" :alt="card.id" :aspect-ratio="400 / 559" cover rounded="3md">
+        <v-skeleton-loader
+          v-if="!imageUrl"
+          class="w-100"
+          rounded="3md"
+          style="aspect-ratio: 400/559"
+        ></v-skeleton-loader>
+        <v-img
+          v-else
+          :key="card.id"
+          :src="imageUrl"
+          :alt="card.id"
+          :aspect-ratio="400 / 559"
+          cover
+          rounded="3md"
+        >
           <template #error>
-            <v-img src="/placehold.webp" :alt="card.id" :aspect-ratio="400 / 559" cover rounded="3md" />
+            <v-img
+              src="/placehold.webp"
+              :alt="card.id"
+              :aspect-ratio="400 / 559"
+              cover
+              rounded="3md"
+            />
           </template>
 
           <v-fade-transition>
-            <div v-if="isHovering && !smAndDown && !isTouch" class="d-flex flex-row-reverse"
-              style="position: absolute; bottom: 8px; right: 8px; opacity: 0.9; gap: 6px">
-              <v-btn icon="mdi-plus" :size="buttonSize" variant="flat" color="grey-darken-3"
-                :disabled="deckStore.isDeckFull" @click.stop="deckStore.addCard(card)"></v-btn>
-              <v-btn icon="mdi-minus" :size="buttonSize" variant="flat" color="grey-lighten-2"
+            <div
+              v-if="isHovering && !smAndDown && !isTouch"
+              class="d-flex flex-row-reverse"
+              style="position: absolute; bottom: 8px; right: 8px; opacity: 0.9; gap: 6px"
+            >
+              <v-btn
+                icon="mdi-plus"
+                :size="buttonSize"
+                variant="flat"
+                color="grey-darken-3"
+                :disabled="deckStore.isDeckFull"
+                @click.stop="deckStore.addCard(card)"
+              ></v-btn>
+              <v-btn
+                icon="mdi-minus"
+                :size="buttonSize"
+                variant="flat"
+                color="grey-lighten-2"
                 :style="{ visibility: cardCount > 0 ? 'visible' : 'hidden' }"
-                @click.stop="deckStore.removeCard(card.id)"></v-btn>
+                @click.stop="deckStore.removeCard(card.id)"
+              ></v-btn>
             </div>
           </v-fade-transition>
 
           <div style="position: absolute; top: 8px; right: 8px">
-            <v-avatar v-if="cardCount > 0" :size="buttonSize" color="primary" class="counter-avatar">{{ cardCount
-              }}</v-avatar>
+            <v-avatar
+              v-if="cardCount > 0"
+              :size="buttonSize"
+              color="primary"
+              class="counter-avatar"
+              >{{ cardCount }}</v-avatar
+            >
           </div>
         </v-img>
       </div>
@@ -52,13 +94,25 @@
       </v-row>
       <v-row v-if="isTouch || smAndDown" dense class="mt-2 text-center">
         <v-col cols="6">
-          <v-btn variant="flat" size="x-small" icon="mdi-plus" color="grey-darken-3" :disabled="deckStore.isDeckFull"
-            @click.stop="deckStore.addCard(card)">
+          <v-btn
+            variant="flat"
+            size="x-small"
+            icon="mdi-plus"
+            color="grey-darken-3"
+            :disabled="deckStore.isDeckFull"
+            @click.stop="deckStore.addCard(card)"
+          >
           </v-btn>
         </v-col>
         <v-col cols="6">
-          <v-btn variant="flat" size="x-small" icon="mdi-minus" color="grey-lighten-2" :disabled="cardCount === 0"
-            @click.stop="cardCount > 0 && deckStore.removeCard(card.id)">
+          <v-btn
+            variant="flat"
+            size="x-small"
+            icon="mdi-minus"
+            color="grey-lighten-2"
+            :disabled="cardCount === 0"
+            @click.stop="cardCount > 0 && deckStore.removeCard(card.id)"
+          >
           </v-btn>
         </v-col>
       </v-row>

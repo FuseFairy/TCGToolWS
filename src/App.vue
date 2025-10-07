@@ -5,33 +5,52 @@
         <v-app-bar-nav-icon class="d-md-none" @click="drawer = !drawer"></v-app-bar-nav-icon>
       </template>
 
-
       <v-app-bar-title class="font-weight-bold text-h6 text-sm-h5">TCGTool for WS</v-app-bar-title>
 
       <template #append>
         <template v-if="!isInSpecialFlow">
           <div class="d-none d-md-block h-100">
             <template v-for="item in navItems" :key="item.to">
-              <v-btn v-if="!item.requiresAuth || authStore.isAuthenticated" size="large" variant="text"
-                :to="{ name: item.name }" :text="item.text" class="h-100 rounded-0"></v-btn>
+              <v-btn
+                v-if="!item.requiresAuth || authStore.isAuthenticated"
+                size="large"
+                variant="text"
+                :to="{ name: item.name }"
+                :text="item.text"
+                class="h-100 rounded-0"
+              ></v-btn>
             </template>
           </div>
-          <v-divider class="mx-3 align-self-center d-none d-md-block" length="24" thickness="2" vertical></v-divider>
+          <v-divider
+            class="mx-3 align-self-center d-none d-md-block"
+            length="24"
+            thickness="2"
+            vertical
+          ></v-divider>
         </template>
 
         <v-btn @click="toggleTheme" icon="mdi-brightness-6"></v-btn>
 
         <template v-if="!isInSpecialFlow">
-          <v-btn v-if="authStore.isAuthenticated" @click="handleLogoutClick" icon="mdi-logout" title="登出"></v-btn>
-          <v-btn v-else @click="handleLogin" icon="mdi-login" title="登入/註冊"></v-btn></template>
+          <v-btn
+            v-if="authStore.isAuthenticated"
+            @click="handleLogoutClick"
+            icon="mdi-logout"
+            title="登出"
+          ></v-btn>
+          <v-btn v-else @click="handleLogin" icon="mdi-login" title="登入/註冊"></v-btn
+        ></template>
       </template>
     </v-app-bar>
 
     <v-navigation-drawer v-model="drawer" temporary>
       <v-list class="py-0">
         <template v-for="item in navItems" :key="item.to">
-          <v-list-item v-if="!item.requiresAuth || authStore.isAuthenticated" :to="{ name: item.name }"
-            :title="item.text"></v-list-item>
+          <v-list-item
+            v-if="!item.requiresAuth || authStore.isAuthenticated"
+            :to="{ name: item.name }"
+            :title="item.text"
+          ></v-list-item>
         </template>
       </v-list>
     </v-navigation-drawer>
@@ -68,17 +87,16 @@ import { useTheme } from 'vuetify'
 import { useRoute } from 'vue-router'
 import { useUIStore } from '@/stores/ui'
 import { useAuthStore } from '@/stores/auth'
-import { useSnackbar } from '@/composables/useSnackbar';
+import { useSnackbar } from '@/composables/useSnackbar'
 import AuthDialog from '@/components/AuthDialog.vue'
-
 
 const authStore = useAuthStore()
 const authDialog = ref(null)
-const { show, text, color, triggerSnackbar } = useSnackbar();
+const { show, text, color, triggerSnackbar } = useSnackbar()
 const route = useRoute()
 
 const isInSpecialFlow = computed(() => {
-  return !!route.meta.isSpecialFlow;
+  return !!route.meta.isSpecialFlow
 })
 
 const handleLogin = () => {
@@ -100,16 +118,14 @@ const drawer = ref(false)
 const navItems = [
   { text: '首页', name: 'Home', requiresAuth: false },
   { text: '系列卡表', name: 'SeriesCardTable', requiresAuth: false },
-  { text: '我的卡组', name: 'Decks', requiresAuth: true }
+  { text: '我的卡组', name: 'Decks', requiresAuth: true },
 ]
 
 const vuetifyTheme = useTheme()
 const uiStore = useUIStore()
 
 const appBarColor = computed(() => {
-  return vuetifyTheme.global.name.value === 'light'
-    ? 'grey-lighten-3'
-    : 'grey-darken-3'
+  return vuetifyTheme.global.name.value === 'light' ? 'grey-lighten-3' : 'grey-darken-3'
 })
 
 watchEffect(() => {

@@ -5,9 +5,9 @@
         <v-img src="/placehold.webp" :aspect-ratio="400 / 559" cover />
       </template>
     </v-img>
-    <div class="pa-2" style="width: 100%;">
+    <div class="pa-2" style="width: 100%">
       <div class="text-caption text-grey text-truncate">{{ props.card.id }}</div>
-      <div class="text-subtitle-2 font-weight-bold text-truncate" style="height: 24px;">
+      <div class="text-subtitle-2 font-weight-bold text-truncate" style="height: 24px">
         <span>{{ props.card.name }}</span>
       </div>
     </div>
@@ -15,26 +15,26 @@
 </template>
 
 <script setup>
-import { toRefs } from 'vue';
-import { useCardImage } from '@/composables/useCardImage.js';
+import { toRefs } from 'vue'
+import { useCardImage } from '@/composables/useCardImage.js'
 
 const props = defineProps({
   card: { type: Object, required: true },
-});
+})
 
-const emit = defineEmits(['show-details']);
+const emit = defineEmits(['show-details'])
 
-const cardId = toRefs(props.card).id;
-const cardIdPrefix = toRefs(props.card).cardIdPrefix;
+const cardId = toRefs(props.card).id
+const cardIdPrefix = toRefs(props.card).cardIdPrefix
 
-const imageUrl = useCardImage(cardIdPrefix, cardId);
+const imageUrl = useCardImage(cardIdPrefix, cardId)
 
 const handleCardClick = () => {
   emit('show-details', {
     card: props.card,
     imageUrl: imageUrl.value,
-  });
-};
+  })
+}
 </script>
 
 <style scoped>

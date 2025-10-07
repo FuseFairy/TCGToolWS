@@ -1,9 +1,15 @@
 <template>
   <v-tooltip :text="seriesName" location="top center">
     <template v-slot:activator="{ props }">
-      <v-card v-bind="props" class="series-card d-flex flex-column" hover
-        :to="{ name: 'SeriesDetail', params: { seriesId: seriesData.id } }" variant="flat" color="surface"
-        rounded="3md">
+      <v-card
+        v-bind="props"
+        class="series-card d-flex flex-column"
+        hover
+        :to="{ name: 'SeriesDetail', params: { seriesId: seriesData.id } }"
+        variant="flat"
+        color="surface"
+        rounded="3md"
+      >
         <v-img :src="iconUrl" aspect-ratio="1" cover rounded="3md" class="ma-3">
           <template v-slot:placeholder>
             <div class="d-flex align-center justify-center fill-height">
@@ -28,8 +34,8 @@
 </template>
 
 <script setup>
-import { computed } from 'vue';
-import { getAssetsFile } from '@/utils/getAssetsFile.js';
+import { computed } from 'vue'
+import { getAssetsFile } from '@/utils/getAssetsFile.js'
 
 const props = defineProps({
   seriesName: {
@@ -40,11 +46,11 @@ const props = defineProps({
     type: Object,
     required: true,
   },
-});
+})
 
 const iconUrl = computed(() => {
-  return getAssetsFile(`series-icons/${props.seriesData.icon}`);
-});
+  return getAssetsFile(`series-icons/${props.seriesData.icon}`)
+})
 </script>
 
 <style scoped>
