@@ -44,7 +44,7 @@
       </router-view>
     </v-main>
 
-    <v-snackbar v-model="show" :color="color" timeout="3000" location="top">
+    <v-snackbar v-model="show" :color="color" timeout="2000" location="top" opacity="0.8" eager>
       {{ text }}
     </v-snackbar>
 
