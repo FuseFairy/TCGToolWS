@@ -1,17 +1,10 @@
 <template>
   <v-app id="app" class="grid-background">
-    <v-navigation-drawer v-model="drawer" temporary>
-      <v-list class="py-0">
-        <template v-for="item in navItems" :key="item.to">
-          <v-list-item :to="{ name: item.name }" :title="item.text"></v-list-item>
-        </template>
-      </v-list>
-    </v-navigation-drawer>
-
     <v-app-bar scroll-behavior="elevate" scroll-threshold="160" :color="appBarColor" class="header">
       <template #prepend>
         <v-app-bar-nav-icon class="d-md-none" @click="drawer = !drawer"></v-app-bar-nav-icon>
       </template>
+
 
       <v-app-bar-title class="font-weight-bold text-h6 text-sm-h5">TCGTool for WS</v-app-bar-title>
 
@@ -33,6 +26,15 @@
           <v-btn v-else @click="handleLogin" icon="mdi-login" title="登入/註冊"></v-btn></template>
       </template>
     </v-app-bar>
+
+    <v-navigation-drawer v-model="drawer" temporary>
+      <v-list class="py-0">
+        <template v-for="item in navItems" :key="item.to">
+          <v-list-item v-if="!item.requiresAuth || authStore.isAuthenticated" :to="{ name: item.name }"
+            :title="item.text"></v-list-item>
+        </template>
+      </v-list>
+    </v-navigation-drawer>
 
     <v-main :scrollable="true">
       <router-view v-slot="{ Component }">
