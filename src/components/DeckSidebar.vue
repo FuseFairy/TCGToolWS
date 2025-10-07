@@ -8,11 +8,14 @@
             :disabled="deckStore.totalCardCount === 0" @click="deckStore.clearDeck">
           </v-btn>
           <h2 class="text-h6">当前卡组</h2>
+          <v-chip pill size="small">
+            <v-icon start icon="mdi-cards-diamond-outline"></v-icon>
+            {{ deckStore.totalCardCount }} / 50
+          </v-chip>
         </div>
-        <v-chip pill>
-          <v-icon start icon="mdi-cards-diamond-outline"></v-icon>
-          {{ deckStore.totalCardCount }} / 50
-        </v-chip>
+        <v-btn icon="mdi-content-save-outline" variant="text" color="primary" density="compact"
+          :disabled="deckStore.totalCardCount === 0" @click="openSaveDialog">
+        </v-btn>
       </div>
 
       <v-row dense>
@@ -67,10 +70,41 @@
       </div>
     </v-sheet>
   </aside>
+
+  <!-- Card Detail Modal -->
   <v-dialog v-if="selectedCardData" v-model="isModalVisible" :max-width="smAndDown ? '100%' : '60%'"
     :max-height="smAndDown ? '80%' : '95%'" :min-height="smAndDown ? null : '60%'">
     <CardDetailModal :card="selectedCardData" :imgUrl="modalCardImageUrl" :linkedCards="linkedCardsDetails"
       @close="isModalVisible = false" @show-new-card="handleShowNewCard" />
+  </v-dialog>
+
+  <!-- Save Deck Dialog -->
+  <v-dialog v-model="isSaveDialogOpen" max-width="500px" @update:model-value="closeSaveDialog">
+    <v-card>
+      <v-card-title>储存卡组</v-card-title>
+      <v-card-text>
+        <v-text-field v-model="deckName" label="卡组名称" :counter="10" maxlength="10" variant="outlined" density="compact"
+          hide-details="auto" class="mb-4"></v-text-field>
+        <p class="text-subtitle-1 mb-2">选择封面</p>
+        <v-sheet class="overflow-y-auto pa-2 rounded themed-scrollbar" max-height="300px"
+          :color="$vuetify.theme.current.dark ? 'grey-darken-3' : 'grey-lighten-3'">
+          <v-row dense>
+            <v-col v-for="card in deckCards" :key="card.id" cols="4" lg="3">
+              <div class="cover-card-container" @click="selectedCoverCardId = card.id">
+                <v-img :src="useCardImage(card.cardIdPrefix, card.id).value" :aspect-ratio="400 / 559" cover
+                  class="rounded"
+                  :class="{ 'selected-cover': selectedCoverCardId === card.id, 'clickable': true }"></v-img>
+              </div>
+            </v-col>
+          </v-row>
+        </v-sheet>
+      </v-card-text>
+      <v-card-actions>
+        <v-btn text @click="isSaveDialogOpen = false">取消</v-btn>
+        <v-btn color="primary" variant="tonal" @click="handleSaveDeck"
+          :disabled="!deckName.trim() || !selectedCoverCardId">确认</v-btn>
+      </v-card-actions>
+    </v-card>
   </v-dialog>
 </template>
 
@@ -81,8 +115,9 @@ import { useCardImage } from '@/composables/useCardImage';
 import { fetchCardByIdAndPrefix, fetchCardsByBaseIdAndPrefix } from '@/composables/card-api';
 import CardDetailModal from '@/components/CardDetailModal.vue';
 import { useDisplay } from 'vuetify';
-
 import { useDeckGrouping } from '@/composables/useDeckGrouping';
+import { useDeckEncoder } from '@/composables/useDeckEncoder';
+import { useSnackbar } from '@/composables/useSnackbar';
 
 defineProps({
   headerOffsetHeight: {
@@ -93,6 +128,46 @@ defineProps({
 
 const { smAndUp, smAndDown } = useDisplay();
 const deckStore = useDeckStore();
+const { encodeDeck } = useDeckEncoder();
+const { triggerSnackbar } = useSnackbar();
+
+// Save Deck Dialog State
+const isSaveDialogOpen = ref(false);
+const deckName = ref('');
+const selectedCoverCardId = ref(null);
+
+const openSaveDialog = () => {
+  // Pre-select the first card as a default cover if available
+  if (deckCards.value.length > 0) {
+    selectedCoverCardId.value = deckCards.value[0].id;
+  }
+  isSaveDialogOpen.value = true;
+};
+
+const closeSaveDialog = (value) => {
+  if (!value) {
+    // Reset state when dialog is closed
+    isSaveDialogOpen.value = false;
+    deckName.value = '';
+    selectedCoverCardId.value = null;
+  }
+};
+
+const handleSaveDeck = () => {
+  if (!deckName.value.trim() || !selectedCoverCardId.value) return;
+
+  const deckData = {
+    name: deckName.value,
+    version: deckStore.version,
+    cards: deckStore.cardsInDeck,
+    seriesId: deckStore.seriesId,
+    coverCardId: selectedCoverCardId.value,
+  };
+
+  encodeDeck(deckData);
+  triggerSnackbar('保存成功');
+  isSaveDialogOpen.value = false;
+};
 
 const groupBy = ref('level');
 const groupByOptions = [
@@ -225,5 +300,16 @@ const handleCardClick = async (item) => {
   align-items: center;
   justify-content: center;
   line-height: 1;
+}
+
+.cover-card-container .clickable {
+  cursor: pointer;
+  border: 2px solid transparent;
+  transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.cover-card-container .selected-cover {
+  border-color: rgb(216, 102, 102);
+  box-shadow: 0 0 10px 3px rgba(223, 137, 137, 0.6);
 }
 </style>

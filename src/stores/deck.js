@@ -7,6 +7,7 @@ export const useDeckStore = defineStore(
     const version = ref(1)
     const cardsInDeck = ref({})
     const seriesId = ref('')
+    const savedDecks = ref({})
     const maxDeckSize = 50
 
     const getCardCount = computed(() => {
@@ -62,6 +63,11 @@ export const useDeckStore = defineStore(
       seriesId.value = id
     }
 
+    const saveEncodedDeck = (key, compressedData) => {
+      savedDecks.value[key] = compressedData
+      cardsInDeck.value = {}
+    }
+
     return {
       version,
       cardsInDeck,
@@ -73,6 +79,8 @@ export const useDeckStore = defineStore(
       clearDeck,
       isDeckFull,
       setSeriesId,
+      savedDecks,
+      saveEncodedDeck,
     }
   },
   {
