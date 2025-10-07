@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import { useAuthStore } from '@/stores/auth'
+import { useUIStore } from '@/stores/ui'
 import { jwtDecode } from 'jwt-decode'
 
 const routes = [
@@ -81,6 +82,12 @@ router.beforeEach(async (to, from, next) => {
   } else {
     next()
   }
+})
+
+router.afterEach(() => {
+  const uiStore = useUIStore()
+  uiStore.isFilterOpen = false
+  uiStore.isCardDeckOpen = false
 })
 
 export default router
