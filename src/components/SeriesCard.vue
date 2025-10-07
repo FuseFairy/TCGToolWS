@@ -12,14 +12,14 @@
           </template>
         </v-img>
 
-        <div class="card-content pa-3">
-          <div class="d-flex align-center text-caption text-grey-lighten-1 mb-2 text-truncate-container">
+        <div class="card-content pa-3 pt-1">
+          <div class="d-flex align-center text-caption text-grey-lighten-1 mb-2 text-truncate">
             <v-icon start size="small">mdi-layers-outline</v-icon>
-            <span class="text-truncate">{{ seriesData.prefixes.join(', ') }}</span>
+            {{ seriesData.prefixes.join(', ') }}
           </div>
 
-          <p class="text-h6 font-weight-bold text-truncate-container">
-            <span class="text-truncate">{{ seriesName }}</span>
+          <p class="text-subtitle-2 text-sm-subtitle-1 text-truncate">
+            {{ seriesName }}
           </p>
         </div>
       </v-card>
@@ -62,17 +62,5 @@ const iconUrl = computed(() => {
   flex-grow: 1;
   display: flex;
   flex-direction: column;
-}
-
-.text-truncate-container {
-  overflow: hidden;
-  min-width: 0;
-}
-
-.text-truncate {
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  display: block;
 }
 </style>
