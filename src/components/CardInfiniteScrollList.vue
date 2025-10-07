@@ -24,7 +24,7 @@ import { ref, computed } from 'vue';
 import { useDisplay } from 'vuetify';
 import CardTemplate from '@/components/CardTemplate.vue';
 import CardDetailModal from '@/components/CardDetailModal.vue';
-import { fetchCardsByBaseIdAndPrefix } from '@/composables/card-api';
+import { fetchCardsByBaseIdAndPrefix } from '@/utils/card';
 
 const props = defineProps({
   cards: {

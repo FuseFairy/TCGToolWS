@@ -1,4 +1,4 @@
-import { getAssetsFile } from '@/utils/getAssetsFile.js'
+import { getAssetsFile } from './getAssetsFile.js'
 
 export const fetchCardByIdAndPrefix = async (id, prefix) => {
   try {
