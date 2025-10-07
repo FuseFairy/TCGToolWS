@@ -9,7 +9,7 @@
           </v-toolbar>
           <v-card-text>
             <v-alert v-if="message" :type="error ? 'error' : 'success'" density="compact" class="mb-4">{{ message
-              }}</v-alert>
+            }}</v-alert>
             <v-form @submit.prevent="handleSubmit">
               <p v-if="!token || invalidToken" class="text-error">无效的重置链接，请返回首页重新申请。</p>
               <template v-else-if="!success">
@@ -23,7 +23,7 @@
           </v-card-text>
           <v-card-actions>
             <v-spacer></v-spacer>
-            <v-btn text @click="goToLogin" color="primary">返回首页</v-btn>
+            <v-btn text @click="goToHome" color="primary">返回首页</v-btn>
           </v-card-actions>
         </v-card>
       </v-col>
@@ -84,8 +84,7 @@ const handleSubmit = async () => {
   }
 };
 
-const goToLogin = () => {
-  // 我们可以直接跳转到首页，App.vue 中的登录按钮会处理打开对话框
+const goToHome = () => {
   router.push({ name: 'Home' });
 };
 
