@@ -65,7 +65,7 @@
                 color="primary"
                 size="large"
                 :loading="loading"
-                :disabled="isRegisterCoolingDown"
+                :disabled="isLoginMode ? loading : isRegisterCoolingDown"
               >
                 {{ isLoginMode ? '登录' : `发送验证码 ${registerCooldownText}` }}
               </v-btn>
