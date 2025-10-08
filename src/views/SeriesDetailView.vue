@@ -5,7 +5,7 @@
     </div>
 
     <div v-else class="d-flex flex-column h-100">
-      <div ref="headerRef" class="overlay-header pa-4 pb-0 pt-0">
+      <div ref="headerRef" class="overlay-header pl-4 pr-4 pa-1 pb-1">
         <div class="d-flex align-center justify-space-between w-100">
           <v-btn
             v-if="smAndUp"
