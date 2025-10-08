@@ -185,8 +185,8 @@
           variant="tonal"
           @click="handleSaveDeck"
           :disabled="!deckName.trim() || !selectedCoverCardId"
-          >确认</v-btn
-        >
+          >确认
+        </v-btn>
       </v-card-actions>
     </v-card>
   </v-dialog>
@@ -203,6 +203,7 @@ import { useDeckGrouping } from '@/composables/useDeckGrouping'
 import { useDeckEncoder } from '@/composables/useDeckEncoder'
 import { useSnackbar } from '@/composables/useSnackbar'
 import { useAuthStore } from '@/stores/auth'
+import { useUIStore } from '@/stores/ui'
 
 defineProps({
   headerOffsetHeight: {
@@ -216,6 +217,7 @@ const deckStore = useDeckStore()
 const { encodeDeck } = useDeckEncoder()
 const { triggerSnackbar } = useSnackbar()
 const authStore = useAuthStore()
+const uiStore = useUIStore()
 
 // Auth Alert Dialog State
 const isAuthAlertOpen = ref(false)
@@ -243,20 +245,27 @@ const closeSaveDialog = (value) => {
   }
 }
 
-const handleSaveDeck = () => {
+const handleSaveDeck = async () => {
   if (!deckName.value.trim() || !selectedCoverCardId.value) return
 
-  const deckData = {
-    name: deckName.value,
-    version: deckStore.version,
-    cards: deckStore.cardsInDeck,
-    seriesId: deckStore.seriesId,
-    coverCardId: selectedCoverCardId.value,
-  }
+  uiStore.setLoading(true)
+  try {
+    const deckData = {
+      name: deckName.value,
+      version: deckStore.version,
+      cards: deckStore.cardsInDeck,
+      seriesId: deckStore.seriesId,
+      coverCardId: selectedCoverCardId.value,
+    }
 
-  encodeDeck(deckData)
-  triggerSnackbar('保存成功')
-  isSaveDialogOpen.value = false
+    const success = await encodeDeck(deckData)
+    if (success) {
+      triggerSnackbar('保存成功')
+      isSaveDialogOpen.value = false
+    }
+  } finally {
+    uiStore.setLoading(false)
+  }
 }
 
 const groupBy = ref('level')

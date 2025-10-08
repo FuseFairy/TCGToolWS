@@ -1,5 +1,7 @@
 import { defineStore } from 'pinia'
 import { ref, computed } from 'vue'
+import { useAuthStore } from './auth'
+import { useSnackbar } from '@/composables/useSnackbar'
 
 export const useDeckStore = defineStore(
   'deck',
@@ -9,6 +11,9 @@ export const useDeckStore = defineStore(
     const seriesId = ref('')
     const savedDecks = ref({})
     const maxDeckSize = 50
+
+    const authStore = useAuthStore()
+    const { triggerSnackbar } = useSnackbar()
 
     const getCardCount = computed(() => {
       return (cardId) => cardsInDeck.value[cardId]?.quantity || 0
@@ -63,9 +68,78 @@ export const useDeckStore = defineStore(
       seriesId.value = id
     }
 
-    const saveEncodedDeck = (key, compressedData) => {
-      savedDecks.value[key] = compressedData
-      cardsInDeck.value = {}
+    const saveEncodedDeck = async (key, compressedData) => {
+      if (!authStore.token) {
+        triggerSnackbar('请先登入', 'error')
+        return false
+      }
+      try {
+        const response = await fetch('/api/decks', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            Authorization: `Bearer ${authStore.token}`,
+          },
+          body: JSON.stringify({
+            key,
+            deckData: compressedData,
+          }),
+        })
+
+        if (!response.ok) {
+          const errorData = await response.json()
+          throw new Error(errorData.error || '上传卡组失败')
+        }
+
+        savedDecks.value[key] = compressedData
+        cardsInDeck.value = {}
+        return true
+      } catch (error) {
+        console.error('Error saving deck:', error)
+        triggerSnackbar(error.message, 'error')
+        return false
+      }
+    }
+
+    const fetchDecks = async () => {
+      if (!authStore.token) return
+      try {
+        const response = await fetch('/api/decks', {
+          headers: {
+            Authorization: `Bearer ${authStore.token}`,
+          },
+        })
+        if (!response.ok) {
+          throw new Error('Failed to fetch decks')
+        }
+        const decks = await response.json()
+        savedDecks.value = decks.reduce((acc, deck) => {
+          acc[deck.key] = deck.deck_data
+          return acc
+        }, {})
+      } catch (error) {
+        console.error('Error fetching decks:', error)
+        triggerSnackbar(error.message, 'error')
+      }
+    }
+
+    const fetchDeckByKey = async (key) => {
+      if (!authStore.token) return null
+      try {
+        const response = await fetch(`/api/decks/${key}`, {
+          headers: {
+            Authorization: `Bearer ${authStore.token}`,
+          },
+        })
+        if (!response.ok) {
+          throw new Error('Failed to fetch deck')
+        }
+        return await response.json()
+      } catch (error) {
+        console.error(`Error fetching deck with key ${key}:`, error)
+        triggerSnackbar(error.message, 'error')
+        return null
+      }
     }
 
     return {
@@ -81,6 +155,8 @@ export const useDeckStore = defineStore(
       setSeriesId,
       savedDecks,
       saveEncodedDeck,
+      fetchDecks,
+      fetchDeckByKey,
     }
   },
   {

@@ -6,15 +6,30 @@ import {
   handleRefreshSession,
   handleForgotPasswordRequest,
   handleResetPassword,
+  authMiddleware,
 } from '../lib/auth.js'
+import { handleCreateDeck, handleGetDecks, handleGetDeckByKey } from '../lib/decks.js'
 
 const app = new Hono().basePath('/api')
 
-app.post('/register/send-code', handleSendVerificationCode)
-app.post('/register/verify', handleVerifyAndRegister)
-app.post('/login', handleLogin)
-app.post('/session/refresh', handleRefreshSession)
-app.post('/password/forgot', handleForgotPasswordRequest)
-app.post('/password/reset', handleResetPassword)
+// === 公開的 Auth 路由 ===
+const authRoutes = new Hono()
+authRoutes.post('/register/send-code', handleSendVerificationCode)
+authRoutes.post('/register/verify', handleVerifyAndRegister)
+authRoutes.post('/login', handleLogin)
+authRoutes.post('/session/refresh', handleRefreshSession)
+authRoutes.post('/password/forgot', handleForgotPasswordRequest)
+authRoutes.post('/password/reset', handleResetPassword)
+
+// === 受保護的 Deck 路由 ===
+const deckRoutes = new Hono()
+deckRoutes.use('/*', authMiddleware)
+deckRoutes.post('/', handleCreateDeck)
+deckRoutes.get('/', handleGetDecks)
+deckRoutes.get('/:key', handleGetDeckByKey)
+
+// === 組合所有路由 ===
+app.route('/', authRoutes)
+app.route('/decks', deckRoutes)
 
 export default app

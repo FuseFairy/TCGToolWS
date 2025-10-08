@@ -23,3 +23,12 @@ CREATE TABLE password_resets (
     expires_at INTEGER NOT NULL,
     FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE
 );
+
+DROP TABLE IF EXISTS decks;
+CREATE TABLE decks (
+    key TEXT PRIMARY KEY,
+    user_id TEXT NOT NULL,
+    deck_data BLOB NOT NULL,
+    FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE
+);
+CREATE INDEX idx_decks_user_id ON decks(user_id);

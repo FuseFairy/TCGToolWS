@@ -11,17 +11,19 @@ export const useDeckEncoder = () => {
   /**
    * Compresses and saves the deck data.
    * @param {object} deckData - The deck data object { name, version, cards, seriesId }.
-   * @returns {string} The unique key for the saved deck.
+   * @returns {Promise<boolean>} True if the deck was saved successfully, false otherwise.
    */
-  const encodeDeck = (deckData) => {
+  const encodeDeck = async (deckData) => {
     const jsonString = JSON.stringify(deckData)
     const crushed = JSONCrush.crush(jsonString)
     const compressedUint8 = pako.gzip(crushed)
 
     const key = nanoid()
-    deckStore.saveEncodedDeck(key, compressedUint8)
-    console.log(`Deck saved with key: ${key}`, deckStore.savedDecks)
-    return key
+    const success = await deckStore.saveEncodedDeck(key, compressedUint8)
+    if (success) {
+      console.log(`Deck saved with key: ${key}`)
+    }
+    return success
   }
 
   /**

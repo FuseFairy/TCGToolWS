@@ -8,12 +8,17 @@ export const useUIStore = defineStore(
     const theme = ref('system')
     const isFilterOpen = ref(false)
     const isCardDeckOpen = ref(false)
+    const isLoading = ref(false)
 
     const setTheme = (newTheme) => {
       theme.value = newTheme
     }
 
-    return { version, theme, setTheme, isFilterOpen, isCardDeckOpen }
+    const setLoading = (status) => {
+      isLoading.value = status
+    }
+
+    return { version, theme, setTheme, isFilterOpen, isCardDeckOpen, isLoading, setLoading }
   },
   {
     persist: {
