@@ -1,25 +1,12 @@
+import { customAlphabet } from 'nanoid'
 import JSONCrush from 'jsoncrush'
-import LZString from 'lz-string'
+import pako from 'pako'
 import { useDeckStore } from '@/stores/deck'
 
 export const useDeckEncoder = () => {
   const deckStore = useDeckStore()
-
-  /**
-   * Generates a 5-character random alphanumeric string and ensures it's unique within the savedDecks map.
-   * @returns {string} A unique 5-character key.
-   */
-  const generateUniqueKey = () => {
-    const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789'
-    let key
-    do {
-      key = ''
-      for (let i = 0; i < 5; i++) {
-        key += chars.charAt(Math.floor(Math.random() * chars.length))
-      }
-    } while (deckStore.savedDecks[key])
-    return key
-  }
+  const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789'
+  const nanoid = customAlphabet(alphabet, 6)
 
   /**
    * Compresses and saves the deck data.
@@ -29,11 +16,12 @@ export const useDeckEncoder = () => {
   const encodeDeck = (deckData) => {
     const jsonString = JSON.stringify(deckData)
     const crushed = JSONCrush.crush(jsonString)
-    const compressed = LZString.compressToUTF16(crushed)
+    const compressedUint8 = pako.gzip(crushed)
 
-    const key = generateUniqueKey()
-    deckStore.saveEncodedDeck(key, compressed)
+    const key = nanoid()
+    deckStore.saveEncodedDeck(key, compressedUint8)
     console.log(`Deck saved with key: ${key}`, deckStore.savedDecks)
+    return key
   }
 
   /**
@@ -46,7 +34,8 @@ export const useDeckEncoder = () => {
     if (!compressed) {
       return null
     }
-    const crushed = LZString.decompressFromUTF16(compressed)
+
+    const crushed = pako.ungzip(compressed, { to: 'string' })
     const jsonString = JSONCrush.uncrush(crushed)
     return JSON.parse(jsonString)
   }
