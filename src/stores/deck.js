@@ -142,6 +142,33 @@ export const useDeckStore = defineStore(
       }
     }
 
+    const deleteDeck = async (key) => {
+      if (!authStore.token) {
+        triggerSnackbar('请先登入', 'error')
+        return false
+      }
+      try {
+        const response = await fetch(`/api/decks/${key}`, {
+          method: 'DELETE',
+          headers: {
+            Authorization: `Bearer ${authStore.token}`,
+          },
+        })
+
+        if (!response.ok) {
+          const errorData = await response.json()
+          throw new Error(errorData.error || '删除卡组失败')
+        }
+
+        delete savedDecks.value[key]
+        triggerSnackbar('卡组删除成功', 'success')
+        return true
+      } catch (error) {
+        console.error('Error deleting deck:', error)
+        triggerSnackbar(error.message, 'error')
+        return false
+      }
+    }
     return {
       version,
       cardsInDeck,
@@ -157,6 +184,7 @@ export const useDeckStore = defineStore(
       saveEncodedDeck,
       fetchDecks,
       fetchDeckByKey,
+      deleteDeck,
     }
   },
   {

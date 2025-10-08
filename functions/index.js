@@ -8,7 +8,12 @@ import {
   handleResetPassword,
   authMiddleware,
 } from '../lib/auth.js'
-import { handleCreateDeck, handleGetDecks, handleGetDeckByKey } from '../lib/decks.js'
+import {
+  handleCreateDeck,
+  handleGetDecks,
+  handleGetDeckByKey,
+  handleDeleteDeck,
+} from '../lib/decks.js'
 
 const app = new Hono().basePath('/api')
 
@@ -27,6 +32,7 @@ deckRoutes.use('/*', authMiddleware)
 deckRoutes.post('/', handleCreateDeck)
 deckRoutes.get('/', handleGetDecks)
 deckRoutes.get('/:key', handleGetDeckByKey)
+deckRoutes.delete('/:key', handleDeleteDeck)
 
 // === 組合所有路由 ===
 app.route('/', authRoutes)
