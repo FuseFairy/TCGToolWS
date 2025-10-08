@@ -39,12 +39,23 @@
           ></v-btn>
         </div>
       </v-scale-transition>
+
+      <v-dialog v-model="isDeleteDialogOpen" max-width="400">
+        <v-card title="删除卡组">
+          <v-card-text>确定要删除卡组 "{{ deck.name }}" 吗？此操作无法撤销。</v-card-text>
+          <v-card-actions>
+            <v-spacer></v-spacer>
+            <v-btn text="取消" @click="isDeleteDialogOpen = false"></v-btn>
+            <v-btn color="pink-accent-3" variant="flat" text="删除" @click="confirmDeleteDeck"></v-btn>
+          </v-card-actions>
+        </v-card>
+      </v-dialog>
     </div>
   </v-hover>
 </template>
 
 <script setup>
-import { computed } from 'vue'
+import { computed, ref } from 'vue'
 import { useCardImage } from '@/composables/useCardImage'
 import { useDeckStore } from '@/stores/deck'
 import { useDevice } from '@/composables/useDevice'
@@ -63,6 +74,8 @@ const props = defineProps({
 const deckStore = useDeckStore()
 const { isTouch } = useDevice()
 
+const isDeleteDialogOpen = ref(false)
+
 const coverCard = computed(() => {
   const cards = props.deck?.cards || {}
   const cardsArray = Object.values(cards)
@@ -74,10 +87,13 @@ const imageUrl = useCardImage(
   computed(() => coverCard.value.id)
 )
 
-async function handleDeleteDeck() {
-  if (window.confirm(`确定要删除卡组 "${props.deck.name}" 吗？`)) {
-    await deckStore.deleteDeck(props.deckKey)
-  }
+function handleDeleteDeck() {
+  isDeleteDialogOpen.value = true
+}
+
+async function confirmDeleteDeck() {
+  await deckStore.deleteDeck(props.deckKey)
+  isDeleteDialogOpen.value = false
 }
 </script>
 
