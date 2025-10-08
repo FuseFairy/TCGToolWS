@@ -1,7 +1,7 @@
 <template>
   <div class="fill-height d-flex overflow-y-auto themed-scrollbar">
     <v-container class="h-100 pa-0">
-      <v-row class="ma-0">
+      <v-row class="ma-0 pt-3">
         <v-col v-for="(deck, key) in decodedDecks" :key="key" cols="6" sm="4" md="3">
           <DeckCard :deck="deck" :deckKey="key" />
         </v-col>
