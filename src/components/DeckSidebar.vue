@@ -170,7 +170,7 @@
                   :src="useCardImage(card.cardIdPrefix, card.id).value"
                   :aspect-ratio="400 / 559"
                   cover
-                  class="rounded"
+                  class="rounded-lg"
                   :class="{ 'selected-cover': selectedCoverCardId === card.id, clickable: true }"
                 ></v-img>
               </div>
