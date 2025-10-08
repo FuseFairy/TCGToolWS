@@ -17,9 +17,6 @@ export default defineConfig({
   preview: {
     cors: true,
   },
-  optimizeDeps: {
-    exclude: ['vuetify'],
-  },
   plugins: [
     vue(),
     vueDevTools(),
