@@ -1,6 +1,7 @@
 import { defineStore } from 'pinia'
 import { ref, computed } from 'vue'
 import { useAuthStore } from './auth'
+import { useUIStore } from './ui'
 import { useSnackbar } from '@/composables/useSnackbar'
 
 export const useDeckStore = defineStore(
@@ -13,6 +14,7 @@ export const useDeckStore = defineStore(
     const maxDeckSize = 50
 
     const authStore = useAuthStore()
+    const uiStore = useUIStore()
     const { triggerSnackbar } = useSnackbar()
 
     const getCardCount = computed(() => {
@@ -73,6 +75,7 @@ export const useDeckStore = defineStore(
         triggerSnackbar('请先登入', 'error')
         return false
       }
+      uiStore.setLoading(true)
       try {
         const response = await fetch('/api/decks', {
           method: 'POST',
@@ -98,11 +101,14 @@ export const useDeckStore = defineStore(
         console.error('Error saving deck:', error)
         triggerSnackbar(error.message, 'error')
         return false
+      } finally {
+        uiStore.setLoading(false)
       }
     }
 
     const fetchDecks = async () => {
       if (!authStore.token) return
+      uiStore.setLoading(true)
       try {
         const response = await fetch('/api/decks', {
           headers: {
@@ -120,6 +126,8 @@ export const useDeckStore = defineStore(
       } catch (error) {
         console.error('Error fetching decks:', error)
         triggerSnackbar(error.message, 'error')
+      } finally {
+        uiStore.setLoading(false)
       }
     }
 

@@ -31,6 +31,13 @@ const routes = [
     meta: { requiresAuth: true },
   },
   {
+    path: '/decks/:key',
+    name: 'DeckDetail',
+    component: () => import('@/views/DeckDetailView.vue'),
+    props: true,
+    meta: { requiresAuth: true },
+  },
+  {
     path: '/forgot-password',
     name: 'ForgotPassword',
     component: () => import('@/views/ForgotPasswordView.vue'),
