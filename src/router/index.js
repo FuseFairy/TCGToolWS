@@ -38,6 +38,12 @@ const routes = [
     meta: { requiresAuth: true },
   },
   {
+    path: '/share-decks/:key',
+    name: 'ShareDeckDetail',
+    component: () => import('@/views/ShareDeckDetailView.vue'),
+    props: true,
+  },
+  {
     path: '/forgot-password',
     name: 'ForgotPassword',
     component: () => import('@/views/ForgotPasswordView.vue'),

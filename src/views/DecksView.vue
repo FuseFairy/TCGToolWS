@@ -11,7 +11,7 @@
 </template>
 
 <script setup>
-import { computed, onMounted } from 'vue'
+import { ref, onMounted, watch } from 'vue'
 import { useDeckStore } from '@/stores/deck'
 import { useDeckEncoder } from '@/composables/useDeckEncoder'
 import DeckCard from '@/components/DeckCard.vue'
@@ -19,20 +19,31 @@ import DeckCard from '@/components/DeckCard.vue'
 const deckStore = useDeckStore()
 const { decodeDeck } = useDeckEncoder()
 
-const decodedDecks = computed(() => {
+const decodedDecks = ref({})
+
+const loadDecodedDecks = async () => {
   const decks = {}
   for (const key in deckStore.savedDecks) {
-    const decoded = decodeDeck(key)
+    const decoded = await decodeDeck(key)
     if (decoded) {
       decks[key] = decoded
     }
   }
-  return decks
+  decodedDecks.value = decks
+}
+
+onMounted(async () => {
+  await deckStore.fetchDecks()
+  await loadDecodedDecks()
 })
 
-onMounted(() => {
-  deckStore.fetchDecks()
-})
+watch(
+  () => deckStore.savedDecks,
+  async () => {
+    await loadDecodedDecks()
+  },
+  { deep: true }
+)
 </script>
 
 <style scoped></style>

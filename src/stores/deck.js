@@ -70,7 +70,7 @@ export const useDeckStore = defineStore(
       seriesId.value = id
     }
 
-    const saveEncodedDeck = async (key, compressedData) => {
+    const saveEncodedDeck = async (key, compressedData, isSharedDeck = false) => {
       if (!authStore.token) {
         triggerSnackbar('请先登入', 'error')
         return false
@@ -95,7 +95,10 @@ export const useDeckStore = defineStore(
         }
 
         savedDecks.value[key] = compressedData
-        cardsInDeck.value = {}
+        if (!isSharedDeck) {
+          cardsInDeck.value = {}
+        }
+        triggerSnackbar('保存成功')
         return true
       } catch (error) {
         console.error('Error saving deck:', error)
@@ -132,13 +135,9 @@ export const useDeckStore = defineStore(
     }
 
     const fetchDeckByKey = async (key) => {
-      if (!authStore.token) return null
+      uiStore.setLoading(true)
       try {
-        const response = await fetch(`/api/decks/${key}`, {
-          headers: {
-            Authorization: `Bearer ${authStore.token}`,
-          },
-        })
+        const response = await fetch(`/api/shared-decks/${key}`)
         if (!response.ok) {
           throw new Error('Failed to fetch deck')
         }
@@ -147,6 +146,8 @@ export const useDeckStore = defineStore(
         console.error(`Error fetching deck with key ${key}:`, error)
         triggerSnackbar(error.message, 'error')
         return null
+      } finally {
+        uiStore.setLoading(false)
       }
     }
 

@@ -201,8 +201,8 @@ import CardDetailModal from '@/components/CardDetailModal.vue'
 import { useDisplay } from 'vuetify'
 import { useDeckGrouping } from '@/composables/useDeckGrouping'
 import { useDeckEncoder } from '@/composables/useDeckEncoder'
-import { useSnackbar } from '@/composables/useSnackbar'
 import { useAuthStore } from '@/stores/auth'
+import { useRouter } from 'vue-router'
 
 defineProps({
   headerOffsetHeight: {
@@ -211,10 +211,10 @@ defineProps({
   },
 })
 
+const router = useRouter()
 const { smAndUp, smAndDown } = useDisplay()
 const deckStore = useDeckStore()
 const { encodeDeck } = useDeckEncoder()
-const { triggerSnackbar } = useSnackbar()
 const authStore = useAuthStore()
 
 // Auth Alert Dialog State
@@ -253,10 +253,10 @@ const handleSaveDeck = async () => {
     coverCardId: selectedCoverCardId.value,
   }
 
-  const success = await encodeDeck(deckData)
+  const { success, key } = await encodeDeck(deckData)
   if (success) {
-    triggerSnackbar('保存成功')
     isSaveDialogOpen.value = false
+    router.push(`/decks/${key}`)
   }
 }
 

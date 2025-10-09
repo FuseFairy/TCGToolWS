@@ -23,7 +23,7 @@ export const useDeckEncoder = () => {
     if (success) {
       console.log(`Deck saved with key: ${key}`)
     }
-    return success
+    return { success, key }
   }
 
   /**
@@ -31,13 +31,28 @@ export const useDeckEncoder = () => {
    * @param {string} key - The key for the deck to retrieve.
    * @returns {object|null} The decompressed deck data or null if not found.
    */
-  const decodeDeck = (key) => {
-    const compressed = deckStore.savedDecks[key]
+  const decodeDeck = async (key, isSharedDeck = false) => {
+    let compressed
+    if (isSharedDeck) {
+      const fetchedDeck = await deckStore.fetchDeckByKey(key)
+      if (!fetchedDeck) {
+        return null
+      }
+      compressed = fetchedDeck.deck_data
+    } else {
+      compressed = deckStore.savedDecks[key]
+    }
+
     if (!compressed) {
       return null
     }
 
-    const crushed = pako.ungzip(compressed, { to: 'string' })
+    // compressed 可能是 Uint8Array 或 ArrayBuffer，需要確保 pako 能處理
+    // 如果是 ArrayBuffer，需要轉換為 Uint8Array
+    const compressedUint8 =
+      compressed instanceof ArrayBuffer ? new Uint8Array(compressed) : compressed
+
+    const crushed = pako.ungzip(compressedUint8, { to: 'string' })
     const jsonString = JSONCrush.uncrush(crushed)
     return JSON.parse(jsonString)
   }

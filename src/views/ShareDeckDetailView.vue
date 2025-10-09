@@ -2,25 +2,19 @@
   <div class="h-100">
     <v-container fluid class="h-100 pa-0">
       <div class="d-flex flex-column h-100 overflow-hidden">
-        <div ref="headerRef" class="overlay-header pa-3 pt-1 pb-1">
+        <div ref="headerRef" class="overlay-header pa-3">
           <div class="d-flex align-center justify-center w-100 position-relative">
             <!-- 左側 -->
             <v-btn
               :size="resize"
-              icon="mdi-share-variant"
+              icon="mdi-content-save-outline"
               variant="text"
-              @click="handleShareCard"
+              @click="openSaveDialog"
               class="position-absolute left-0"
             ></v-btn>
 
             <!-- 中間 -->
             <div class="d-flex align-center">
-              <v-btn
-                :size="resize"
-                icon="mdi-arrow-left"
-                variant="text"
-                @click="$router.back()"
-              ></v-btn>
               <h1 v-if="deck" class="text-h6 text-sm-h5 text-truncate">
                 {{ deck.name }}
               </h1>
@@ -42,7 +36,6 @@
               </template>
               <template v-else>
                 <v-btn
-                  :size="resize"
                   icon="mdi-format-list-bulleted-type"
                   variant="text"
                   @click="showBottomSheet = true"
@@ -117,19 +110,79 @@
         </v-list-item>
       </v-list>
     </v-bottom-sheet>
+
+    <!-- Auth Alert Dialog -->
+    <v-dialog v-model="isAuthAlertOpen" max-width="400px">
+      <v-card>
+        <v-card-title> 需要登入</v-card-title>
+        <v-card-text> 储存卡组功能需要登入后才能使用。 </v-card-text>
+        <v-card-actions>
+          <v-btn color="primary" text @click="isAuthAlertOpen = false">确定</v-btn>
+        </v-card-actions>
+      </v-card>
+    </v-dialog>
+
+    <!-- Save Deck Dialog -->
+    <v-dialog v-model="isSaveDialogOpen" max-width="500px" @update:model-value="closeSaveDialog">
+      <v-card>
+        <v-card-title>储存卡组</v-card-title>
+        <v-card-text>
+          <v-text-field
+            v-model="deckName"
+            label="卡组名称"
+            :counter="10"
+            maxlength="10"
+            variant="outlined"
+            density="compact"
+            hide-details="auto"
+            class="mb-4"
+          ></v-text-field>
+          <p class="text-subtitle-1 mb-2">选择封面</p>
+          <v-sheet
+            class="overflow-y-auto pa-2 rounded themed-scrollbar"
+            max-height="300px"
+            :color="$vuetify.theme.current.dark ? 'grey-darken-3' : 'grey-lighten-3'"
+          >
+            <v-row dense>
+              <v-col v-for="card in Object.values(cards)" :key="card.id" cols="4" lg="3">
+                <div class="cover-card-container" @click="selectedCoverCardId = card.id">
+                  <v-img
+                    :src="useCardImage(card.cardIdPrefix, card.id).value"
+                    :aspect-ratio="400 / 559"
+                    cover
+                    class="rounded-lg"
+                    :class="{ 'selected-cover': selectedCoverCardId === card.id, clickable: true }"
+                  ></v-img>
+                </div>
+              </v-col>
+            </v-row>
+          </v-sheet>
+        </v-card-text>
+        <v-card-actions>
+          <v-btn text @click="isSaveDialogOpen = false">取消</v-btn>
+          <v-btn
+            color="primary"
+            variant="tonal"
+            @click="handleSaveDeck"
+            :disabled="!deckName.trim() || !selectedCoverCardId"
+            >确认
+          </v-btn>
+        </v-card-actions>
+      </v-card>
+    </v-dialog>
   </div>
 </template>
 
 <script setup>
 import { computed, ref, onUnmounted, onMounted } from 'vue'
-import { useRoute } from 'vue-router'
+import { useRoute, useRouter } from 'vue-router'
 import { useCardImage } from '@/composables/useCardImage.js'
 import { useDeckEncoder } from '@/composables/useDeckEncoder'
 import { useDisplay } from 'vuetify'
 import { useDeckGrouping } from '@/composables/useDeckGrouping'
 import { fetchCardByIdAndPrefix, fetchCardsByBaseIdAndPrefix } from '@/utils/card'
 import CardDetailModal from '@/components/CardDetailModal.vue'
-import { useSnackbar } from '@/composables/useSnackbar'
+import { useAuthStore } from '@/stores/auth'
 
 const { smAndUp, smAndDown } = useDisplay()
 const resize = computed(() => {
@@ -137,31 +190,62 @@ const resize = computed(() => {
 })
 
 const route = useRoute()
-const { decodeDeck } = useDeckEncoder()
-const { triggerSnackbar } = useSnackbar()
+const router = useRouter()
+const { decodeDeck, encodeDeck } = useDeckEncoder()
+const authStore = useAuthStore()
 
 const deckKey = route.params.key
 const deck = ref(null)
 const cards = ref({})
 
-const handleShareCard = async () => {
-  if (!deckKey) {
-    triggerSnackbar('无法生成分享链接', 'error')
-    return
+// Auth Alert Dialog State
+const isAuthAlertOpen = ref(false)
+
+// Save Deck Dialog State
+const isSaveDialogOpen = ref(false)
+const deckName = ref('')
+const selectedCoverCardId = ref(null)
+
+const openSaveDialog = () => {
+  if (!authStore.isAuthenticated) {
+    isAuthAlertOpen.value = true
+  } else if (deck.value) {
+    deckName.value = deck.value.name || ''
+    selectedCoverCardId.value = deck.value.coverCardId || Object.values(cards.value)[0]?.id
+    isSaveDialogOpen.value = true
   }
-  const shareUrl = `${window.location.origin}/share-decks/${deckKey}`
-  try {
-    await navigator.clipboard.writeText(shareUrl)
-    triggerSnackbar('分享链接已复制到剪贴板', 'success')
-  } catch (err) {
-    console.error('Failed to copy: ', err)
-    triggerSnackbar('复制失败', 'error')
+}
+
+const closeSaveDialog = (value) => {
+  if (!value) {
+    // Reset state when dialog is closed
+    isSaveDialogOpen.value = false
+    deckName.value = ''
+    selectedCoverCardId.value = null
+  }
+}
+
+const handleSaveDeck = async () => {
+  if (!deckName.value.trim() || !selectedCoverCardId.value) return
+
+  const deckData = {
+    name: deckName.value,
+    version: deck.value.version,
+    cards: cards.value,
+    seriesId: deck.value.seriesId,
+    coverCardId: selectedCoverCardId.value,
+  }
+
+  const { success, key } = await encodeDeck(deckData)
+  if (success) {
+    isSaveDialogOpen.value = false
+    router.push(`/decks/${key}`)
   }
 }
 
 onMounted(async () => {
   try {
-    const decoded = await decodeDeck(deckKey)
+    const decoded = await decodeDeck(deckKey, true) // Assuming ShareDeckDetailView is for shared decks
     if (decoded) {
       deck.value = decoded
       cards.value = decoded.cards
@@ -305,5 +389,18 @@ const selectGroupBy = (value) => {
   align-items: center;
   justify-content: center;
   line-height: 1;
+}
+
+.cover-card-container .clickable {
+  cursor: pointer;
+  border: 2px solid transparent;
+  transition:
+    border-color 0.2s ease-in-out,
+    box-shadow 0.2s ease-in-out;
+}
+
+.cover-card-container .selected-cover {
+  border-color: rgb(216, 102, 102);
+  box-shadow: 0 0 10px 3px rgba(223, 137, 137, 0.6);
 }
 </style>

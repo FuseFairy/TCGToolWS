@@ -31,11 +31,15 @@ const deckRoutes = new Hono()
 deckRoutes.use('/*', authMiddleware)
 deckRoutes.post('/', handleCreateDeck)
 deckRoutes.get('/', handleGetDecks)
-deckRoutes.get('/:key', handleGetDeckByKey)
 deckRoutes.delete('/:key', handleDeleteDeck)
+
+// === 公開的 Deck 路由 ===
+const publicDeckRoutes = new Hono()
+publicDeckRoutes.get('/:key', handleGetDeckByKey)
 
 // === 組合所有路由 ===
 app.route('/', authRoutes)
 app.route('/decks', deckRoutes)
+app.route('/shared-decks', publicDeckRoutes)
 
 export default app
