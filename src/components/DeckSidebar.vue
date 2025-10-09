@@ -88,9 +88,9 @@
               :class="{ 'mt-3': index > 0 }"
             >
               <span>{{ getGroupName(groupName) }}</span>
-              <v-chip size="small" variant="tonal" color="secondary" label>{{
-                group.length
-              }}</v-chip>
+              <v-chip size="small" variant="tonal" color="secondary" label>
+                {{ group.reduce((sum, item) => sum + item.quantity, 0) }}
+              </v-chip>
             </div>
             <v-row dense>
               <v-col v-for="item in group" :key="item.id" cols="4" lg="3">
