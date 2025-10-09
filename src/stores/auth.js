@@ -53,7 +53,7 @@ export const useAuthStore = defineStore('auth', () => {
       body: JSON.stringify({ email, password }),
     })
     const data = await response.json()
-    if (!response.ok) throw new Error(data.message || '發送驗證碼失敗。')
+    if (!response.ok) throw new Error(data.error || '發送驗證碼失敗。')
     return data
   }
 
@@ -64,7 +64,7 @@ export const useAuthStore = defineStore('auth', () => {
       body: JSON.stringify({ email, code }),
     })
     const data = await response.json()
-    if (!response.ok) throw new Error(data.message || '驗證失敗。')
+    if (!response.ok) throw new Error(data.error || '驗證失敗。')
     return data
   }
 
@@ -75,7 +75,7 @@ export const useAuthStore = defineStore('auth', () => {
       body: JSON.stringify({ email, password }),
     })
     const data = await response.json()
-    if (!response.ok) throw new Error(data.message || 'Login failed.')
+    if (!response.ok) throw new Error(data.error || 'Login failed.')
     token.value = data.token
     saveToStorage()
     return data
@@ -102,6 +102,9 @@ export const useAuthStore = defineStore('auth', () => {
         token.value = data.token
         saveToStorage()
         console.log('Session refreshed successfully.')
+      } else if (data.error) {
+        console.error('Failed to refresh session:', data.error)
+        logout()
       } else {
         logout()
       }
@@ -118,8 +121,8 @@ export const useAuthStore = defineStore('auth', () => {
       body: JSON.stringify({ email }),
     })
     const data = await response.json()
-    if (!response.ok) {
-      throw new Error(data.message || '请求失败，请稍后重试。')
+    if (!response.ok && data.error) {
+      throw new Error(data.error || '请求失败，请稍后重试。')
     }
     return data
   }
@@ -132,7 +135,7 @@ export const useAuthStore = defineStore('auth', () => {
     })
     const data = await response.json()
     if (!response.ok) {
-      throw new Error(data.message || '密码重置失败。')
+      throw new Error(data.error || '密码重置失败。')
     }
     return data
   }

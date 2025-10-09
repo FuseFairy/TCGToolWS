@@ -26,6 +26,7 @@
                   type="password"
                   variant="outlined"
                   :readonly="loading"
+                  autocomplete="new-password"
                 ></v-text-field>
                 <v-text-field
                   v-model="passwordConfirm"
@@ -33,6 +34,7 @@
                   type="password"
                   variant="outlined"
                   :readonly="loading"
+                  autocomplete="new-password"
                 ></v-text-field>
                 <v-btn type="submit" block color="primary" size="large" :loading="loading"
                   >确认重置</v-btn

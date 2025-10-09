@@ -117,8 +117,8 @@
     <!-- Auth Alert Dialog -->
     <v-dialog v-model="isAuthAlertOpen" max-width="400px">
       <v-card>
-        <v-card-title> 需要登入</v-card-title>
-        <v-card-text> 储存卡组功能需要登入后才能使用。 </v-card-text>
+        <v-card-title> 需要登录</v-card-title>
+        <v-card-text> 储存卡组功能需要登录后才能使用。 </v-card-text>
         <v-card-actions>
           <v-btn color="primary" text @click="isAuthAlertOpen = false">确定</v-btn>
         </v-card-actions>

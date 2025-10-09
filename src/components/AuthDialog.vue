@@ -32,6 +32,7 @@
                 type="password"
                 variant="outlined"
                 :readonly="loading"
+                :autocomplete="isLoginMode ? 'on' : 'off'"
               ></v-text-field>
 
               <div v-if="isLoginMode" class="d-flex justify-space-between align-center mb-4">
@@ -57,6 +58,7 @@
                 type="password"
                 variant="outlined"
                 :readonly="loading"
+                autocomplete="off"
               ></v-text-field>
 
               <v-btn
@@ -84,9 +86,9 @@
                 color="primary"
                 size="large"
                 :loading="loading"
-                :disabled="email.trim() && password.length > 8 ? false : true"
+                :disabled="email.trim() && password.length >= 8 ? false : true"
               >
-                登入
+                登录
               </v-btn>
             </v-form>
           </v-card-text>
@@ -223,6 +225,7 @@ const handleCredentialSubmit = async () => {
       successMessage.value = result.message
       step.value = 'verification'
       startRegisterCooldown()
+      startResendCooldown()
     }
   } catch (e) {
     error.value = e.message

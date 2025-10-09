@@ -38,7 +38,7 @@
             icon="mdi-logout"
             title="登出"
           ></v-btn>
-          <v-btn v-else @click="handleLogin" icon="mdi-login" title=" 登入/注册"></v-btn
+          <v-btn v-else @click="handleLogin" icon="mdi-login" title=" 登录/注册"></v-btn
         ></template>
       </template>
     </v-app-bar>
