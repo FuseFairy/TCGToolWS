@@ -17,13 +17,16 @@ export const useDeckEncoder = () => {
     const jsonString = JSON.stringify(deckData)
     const crushed = JSONCrush.crush(jsonString)
     const compressedUint8 = pako.gzip(crushed)
-
     const key = nanoid()
-    const success = await deckStore.saveEncodedDeck(key, compressedUint8)
-    if (success) {
+
+    try {
+      await deckStore.saveEncodedDeck(key, compressedUint8)
       console.log(`Deck saved with key: ${key}`)
+      return { key }
+    } catch (error) {
+      console.error('Failed to save deck via encodeDeck:', error.message)
+      throw error
     }
-    return { success, key }
   }
 
   /**
@@ -33,26 +36,27 @@ export const useDeckEncoder = () => {
    */
   const decodeDeck = async (key, isSharedDeck = false) => {
     let compressed
-    if (isSharedDeck) {
-      const fetchedDeck = await deckStore.fetchDeckByKey(key)
-      if (!fetchedDeck) {
-        return null
+
+    try {
+      if (isSharedDeck) {
+        const fetchedDeck = await deckStore.fetchDeckByKey(key)
+        if (!fetchedDeck) {
+          return null
+        }
+        compressed = fetchedDeck.deck_data
+      } else {
+        compressed = deckStore.savedDecks[key]
+
+        if (!compressed) {
+          throw new Error('卡组不存在或已删除')
+        }
       }
-      compressed = fetchedDeck.deck_data
-    } else {
-      compressed = deckStore.savedDecks[key]
+    } catch (error) {
+      console.error('Failed to fetch deck via decodeDeck:', error.message)
+      throw error
     }
 
-    if (!compressed) {
-      return null
-    }
-
-    // compressed 可能是 Uint8Array 或 ArrayBuffer，需要確保 pako 能處理
-    // 如果是 ArrayBuffer，需要轉換為 Uint8Array
-    const compressedUint8 =
-      compressed instanceof ArrayBuffer ? new Uint8Array(compressed) : compressed
-
-    const crushed = pako.ungzip(compressedUint8, { to: 'string' })
+    const crushed = pako.ungzip(compressed, { to: 'string' })
     const jsonString = JSONCrush.uncrush(crushed)
     return JSON.parse(jsonString)
   }

@@ -46,7 +46,12 @@
           <v-card-actions>
             <v-spacer></v-spacer>
             <v-btn text="取消" @click="isDeleteDialogOpen = false"></v-btn>
-            <v-btn color="pink-accent-3" variant="flat" text="删除" @click="confirmDeleteDeck"></v-btn>
+            <v-btn
+              color="pink-accent-3"
+              variant="flat"
+              text="删除"
+              @click="confirmDeleteDeck"
+            ></v-btn>
           </v-card-actions>
         </v-card>
       </v-dialog>
@@ -59,6 +64,8 @@ import { computed, ref } from 'vue'
 import { useCardImage } from '@/composables/useCardImage'
 import { useDeckStore } from '@/stores/deck'
 import { useDevice } from '@/composables/useDevice'
+import { useUIStore } from '@/stores/ui'
+import { useSnackbar } from '@/composables/useSnackbar'
 
 const props = defineProps({
   deck: {
@@ -73,6 +80,8 @@ const props = defineProps({
 
 const deckStore = useDeckStore()
 const { isTouch } = useDevice()
+const uiStore = useUIStore()
+const { triggerSnackbar } = useSnackbar()
 
 const isDeleteDialogOpen = ref(false)
 
@@ -92,8 +101,16 @@ function handleDeleteDeck() {
 }
 
 async function confirmDeleteDeck() {
-  await deckStore.deleteDeck(props.deckKey)
-  isDeleteDialogOpen.value = false
+  uiStore.setLoading(true)
+
+  try {
+    await deckStore.deleteDeck(props.deckKey)
+    isDeleteDialogOpen.value = false
+  } catch (error) {
+    triggerSnackbar(error.message, 'error')
+  } finally {
+    uiStore.setLoading(false)
+  }
 }
 </script>
 

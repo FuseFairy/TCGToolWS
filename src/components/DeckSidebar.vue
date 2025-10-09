@@ -203,6 +203,8 @@ import { useDeckGrouping } from '@/composables/useDeckGrouping'
 import { useDeckEncoder } from '@/composables/useDeckEncoder'
 import { useAuthStore } from '@/stores/auth'
 import { useRouter } from 'vue-router'
+import { useSnackbar } from '@/composables/useSnackbar'
+import { useUIStore } from '@/stores/ui'
 
 defineProps({
   headerOffsetHeight: {
@@ -215,6 +217,10 @@ const router = useRouter()
 const { smAndUp, smAndDown } = useDisplay()
 const deckStore = useDeckStore()
 const { encodeDeck } = useDeckEncoder()
+const { triggerSnackbar } = useSnackbar()
+const uiStore = useUIStore()
+
+// Loading State
 const authStore = useAuthStore()
 
 // Auth Alert Dialog State
@@ -244,19 +250,26 @@ const closeSaveDialog = (value) => {
 }
 
 const handleSaveDeck = async () => {
-  if (!deckName.value.trim() || !selectedCoverCardId.value) return
-  const deckData = {
-    name: deckName.value,
-    version: deckStore.version,
-    cards: deckStore.cardsInDeck,
-    seriesId: deckStore.seriesId,
-    coverCardId: selectedCoverCardId.value,
-  }
+  uiStore.setLoading(true)
 
-  const { success, key } = await encodeDeck(deckData)
-  if (success) {
+  try {
+    const deckData = {
+      name: deckName.value,
+      version: deckStore.version,
+      cards: deckStore.cardsInDeck,
+      seriesId: deckStore.seriesId,
+      coverCardId: selectedCoverCardId.value,
+    }
+
+    const { key } = await encodeDeck(deckData)
+
     isSaveDialogOpen.value = false
+    triggerSnackbar('卡组保存成功！', 'success')
     router.push(`/decks/${key}`)
+  } catch (error) {
+    triggerSnackbar(error.message, 'error')
+  } finally {
+    uiStore.setLoading(false)
   }
 }
 

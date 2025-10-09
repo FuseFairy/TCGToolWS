@@ -11,6 +11,7 @@
               variant="text"
               @click="openSaveDialog"
               class="position-absolute left-0"
+              :disabled="!deck"
             ></v-btn>
 
             <!-- 中間 -->
@@ -32,6 +33,7 @@
                   variant="outlined"
                   hide-details
                   style="width: 120px"
+                  :disabled="!deck"
                 ></v-select>
               </template>
               <template v-else>
@@ -39,6 +41,7 @@
                   icon="mdi-format-list-bulleted-type"
                   variant="text"
                   @click="showBottomSheet = true"
+                  :disabled="!deck"
                 ></v-btn>
               </template>
             </div>
@@ -183,6 +186,8 @@ import { useDeckGrouping } from '@/composables/useDeckGrouping'
 import { fetchCardByIdAndPrefix, fetchCardsByBaseIdAndPrefix } from '@/utils/card'
 import CardDetailModal from '@/components/CardDetailModal.vue'
 import { useAuthStore } from '@/stores/auth'
+import { useUIStore } from '@/stores/ui'
+import { useSnackbar } from '@/composables/useSnackbar'
 
 const { smAndUp, smAndDown } = useDisplay()
 const resize = computed(() => {
@@ -193,6 +198,8 @@ const route = useRoute()
 const router = useRouter()
 const { decodeDeck, encodeDeck } = useDeckEncoder()
 const authStore = useAuthStore()
+const uiStore = useUIStore()
+const { triggerSnackbar } = useSnackbar()
 
 const deckKey = route.params.key
 const deck = ref(null)
@@ -226,34 +233,39 @@ const closeSaveDialog = (value) => {
 }
 
 const handleSaveDeck = async () => {
-  if (!deckName.value.trim() || !selectedCoverCardId.value) return
+  uiStore.setLoading(true)
 
-  const deckData = {
-    name: deckName.value,
-    version: deck.value.version,
-    cards: cards.value,
-    seriesId: deck.value.seriesId,
-    coverCardId: selectedCoverCardId.value,
-  }
+  try {
+    const deckData = {
+      name: deckName.value,
+      version: deck.value.version,
+      cards: cards.value,
+      seriesId: deck.value.seriesId,
+      coverCardId: selectedCoverCardId.value,
+    }
 
-  const { success, key } = await encodeDeck(deckData)
-  if (success) {
+    const { key } = await encodeDeck(deckData)
+    triggerSnackbar('卡组保存成功！', 'success')
     isSaveDialogOpen.value = false
     router.push(`/decks/${key}`)
+  } catch (error) {
+    triggerSnackbar(error.message, 'error')
+  } finally {
+    uiStore.setLoading(false)
   }
 }
 
 onMounted(async () => {
+  uiStore.setLoading(true)
+
   try {
-    const decoded = await decodeDeck(deckKey, true) // Assuming ShareDeckDetailView is for shared decks
-    if (decoded) {
-      deck.value = decoded
-      cards.value = decoded.cards
-    } else {
-      console.error('Failed to decode deck')
-    }
+    const decoded = await decodeDeck(deckKey, true)
+    deck.value = decoded
+    cards.value = decoded.cards
   } catch (error) {
-    console.error('Error loading deck details:', error)
+    triggerSnackbar(error.message, 'error')
+  } finally {
+    uiStore.setLoading(false)
   }
 })
 

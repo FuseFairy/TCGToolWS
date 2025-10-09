@@ -1,12 +1,14 @@
 import { defineStore } from 'pinia'
 import { ref, computed } from 'vue'
 import { useAuthStore } from './auth'
-import { useUIStore } from './ui'
-import { useSnackbar } from '@/composables/useSnackbar'
+
+// 移除了 useUIStore 和 useSnackbar 的依賴
+// Store 不再關心 UI 的呈現
 
 export const useDeckStore = defineStore(
   'deck',
   () => {
+    // --- 狀態 (State) ---
     const version = ref(1)
     const cardsInDeck = ref({})
     const seriesId = ref('')
@@ -14,9 +16,8 @@ export const useDeckStore = defineStore(
     const maxDeckSize = 50
 
     const authStore = useAuthStore()
-    const uiStore = useUIStore()
-    const { triggerSnackbar } = useSnackbar()
 
+    // --- 計算屬性 (Getters / Computed) ---
     const getCardCount = computed(() => {
       return (cardId) => cardsInDeck.value[cardId]?.quantity || 0
     })
@@ -27,9 +28,10 @@ export const useDeckStore = defineStore(
 
     const isDeckFull = computed(() => totalCardCount.value >= maxDeckSize)
 
+    // --- 同步操作 (Actions) ---
     const addCard = (card) => {
       if (isDeckFull.value) {
-        console.warn('Deck is full. Cannot add more cards.')
+        console.warn('卡组已满，无法添加更多卡片。')
         return false
       }
 
@@ -70,114 +72,98 @@ export const useDeckStore = defineStore(
       seriesId.value = id
     }
 
+    // --- 非同步操作 (Async Actions) ---
+
+    /**
+     * 保存卡组。如果API调用失败，将抛出一个错误。
+     */
     const saveEncodedDeck = async (key, compressedData, isSharedDeck = false) => {
       if (!authStore.token) {
-        triggerSnackbar('请先登入', 'error')
-        return false
+        throw new Error('请先登入')
       }
-      uiStore.setLoading(true)
-      try {
-        const response = await fetch('/api/decks', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-            Authorization: `Bearer ${authStore.token}`,
-          },
-          body: JSON.stringify({
-            key,
-            deckData: compressedData,
-          }),
-        })
 
-        if (!response.ok) {
-          const errorData = await response.json()
-          throw new Error(errorData.error || '上传卡组失败')
-        }
+      const response = await fetch('/api/decks', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Authorization: `Bearer ${authStore.token}`,
+        },
+        body: JSON.stringify({ key, deckData: compressedData }),
+      })
 
-        savedDecks.value[key] = compressedData
-        if (!isSharedDeck) {
-          cardsInDeck.value = {}
-        }
-        triggerSnackbar('保存成功')
-        return true
-      } catch (error) {
-        console.error('Error saving deck:', error)
-        triggerSnackbar(error.message, 'error')
-        return false
-      } finally {
-        uiStore.setLoading(false)
+      if (!response.ok) {
+        const errorData = await response.json().catch(() => ({}))
+        throw new Error(errorData.error || '保存卡组失败')
+      }
+
+      savedDecks.value[key] = compressedData
+      if (!isSharedDeck) {
+        cardsInDeck.value = {}
       }
     }
 
+    /**
+     * 获取用户的所有卡组。
+     */
     const fetchDecks = async () => {
-      if (!authStore.token) return
-      uiStore.setLoading(true)
-      try {
-        const response = await fetch('/api/decks', {
-          headers: {
-            Authorization: `Bearer ${authStore.token}`,
-          },
-        })
-        if (!response.ok) {
-          throw new Error('Failed to fetch decks')
-        }
-        const decks = await response.json()
-        savedDecks.value = decks.reduce((acc, deck) => {
-          acc[deck.key] = deck.deck_data
-          return acc
-        }, {})
-      } catch (error) {
-        console.error('Error fetching decks:', error)
-        triggerSnackbar(error.message, 'error')
-      } finally {
-        uiStore.setLoading(false)
+      if (!authStore.token) {
+        throw new Error('请先登入')
       }
+
+      const response = await fetch('/api/decks', {
+        headers: {
+          Authorization: `Bearer ${authStore.token}`,
+        },
+      })
+
+      if (!response.ok) {
+        const errorData = await response.json().catch(() => ({}))
+        throw new Error(errorData.error || '获取卡组列表失败')
+      }
+
+      const decks = await response.json()
+      savedDecks.value = decks.reduce((acc, deck) => {
+        acc[deck.key] = deck.deck_data
+        return acc
+      }, {})
     }
 
+    /**
+     * 获取一个公开分享的卡组。
+     */
     const fetchDeckByKey = async (key) => {
-      uiStore.setLoading(true)
-      try {
-        const response = await fetch(`/api/shared-decks/${key}`)
-        if (!response.ok) {
-          throw new Error('Failed to fetch deck')
-        }
-        return await response.json()
-      } catch (error) {
-        console.error(`Error fetching deck with key ${key}:`, error)
-        triggerSnackbar(error.message, 'error')
-        return null
-      } finally {
-        uiStore.setLoading(false)
+      const response = await fetch(`/api/shared-decks/${key}`)
+      if (!response.ok) {
+        const errorData = await response.json().catch(() => ({}))
+        throw new Error(errorData.error || '获取卡组失败')
       }
+
+      return await response.json()
     }
 
+    /**
+     * 删除一个卡组。
+     */
     const deleteDeck = async (key) => {
       if (!authStore.token) {
-        triggerSnackbar('请先登入', 'error')
-        return false
+        throw new Error('请先登入')
       }
-      try {
-        const response = await fetch(`/api/decks/${key}`, {
-          method: 'DELETE',
-          headers: {
-            Authorization: `Bearer ${authStore.token}`,
-          },
-        })
 
-        if (!response.ok) {
-          const errorData = await response.json()
-          throw new Error(errorData.error || '删除卡组失败')
-        }
+      const response = await fetch(`/api/decks/${key}`, {
+        method: 'DELETE',
+        headers: {
+          Authorization: `Bearer ${authStore.token}`,
+        },
+      })
 
-        delete savedDecks.value[key]
-        triggerSnackbar('卡组删除成功', 'success')
-        return true
-      } catch (error) {
-        console.error('Error deleting deck:', error)
-        triggerSnackbar(error.message, 'error')
-        return false
+      if (!response.ok) {
+        const errorData = await response.json().catch(() => ({}))
+        throw new Error(errorData.error || '删除卡组失败')
       }
+
+      delete savedDecks.value[key]
     }
+
     return {
       version,
       cardsInDeck,

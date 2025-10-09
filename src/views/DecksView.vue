@@ -15,9 +15,13 @@ import { ref, onMounted, watch } from 'vue'
 import { useDeckStore } from '@/stores/deck'
 import { useDeckEncoder } from '@/composables/useDeckEncoder'
 import DeckCard from '@/components/DeckCard.vue'
+import { useUIStore } from '@/stores/ui'
+import { useSnackbar } from '@/composables/useSnackbar'
 
 const deckStore = useDeckStore()
 const { decodeDeck } = useDeckEncoder()
+const uiStore = useUIStore()
+const { triggerSnackbar } = useSnackbar()
 
 const decodedDecks = ref({})
 
@@ -33,8 +37,16 @@ const loadDecodedDecks = async () => {
 }
 
 onMounted(async () => {
-  await deckStore.fetchDecks()
-  await loadDecodedDecks()
+  uiStore.setLoading(true)
+
+  try {
+    await deckStore.fetchDecks()
+    await loadDecodedDecks()
+  } catch (error) {
+    triggerSnackbar(error.message, 'error')
+  } finally {
+    uiStore.setLoading(false)
+  }
 })
 
 watch(

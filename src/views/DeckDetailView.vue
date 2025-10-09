@@ -130,6 +130,7 @@ import { useDeckGrouping } from '@/composables/useDeckGrouping'
 import { fetchCardByIdAndPrefix, fetchCardsByBaseIdAndPrefix } from '@/utils/card'
 import CardDetailModal from '@/components/CardDetailModal.vue'
 import { useSnackbar } from '@/composables/useSnackbar'
+import { useUIStore } from '@/stores/ui'
 
 const { smAndUp, smAndDown } = useDisplay()
 const resize = computed(() => {
@@ -139,6 +140,7 @@ const resize = computed(() => {
 const route = useRoute()
 const { decodeDeck } = useDeckEncoder()
 const { triggerSnackbar } = useSnackbar()
+const uiStore = useUIStore()
 
 const deckKey = route.params.key
 const deck = ref(null)
@@ -160,16 +162,16 @@ const handleShareCard = async () => {
 }
 
 onMounted(async () => {
+  uiStore.setLoading(true)
+
   try {
     const decoded = await decodeDeck(deckKey)
-    if (decoded) {
-      deck.value = decoded
-      cards.value = decoded.cards
-    } else {
-      console.error('Failed to decode deck')
-    }
+    deck.value = decoded
+    cards.value = decoded.cards
   } catch (error) {
-    console.error('Error loading deck details:', error)
+    triggerSnackbar(error.message, 'error')
+  } finally {
+    uiStore.setLoading(false)
   }
 })
 
