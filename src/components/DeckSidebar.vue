@@ -265,7 +265,7 @@ const handleSaveDeck = async () => {
 
     isSaveDialogOpen.value = false
     triggerSnackbar('卡组保存成功！', 'success')
-    router.push(`/decks/${key}`)
+    await router.push(`/decks/${key}`)
   } catch (error) {
     triggerSnackbar(error.message, 'error')
   } finally {

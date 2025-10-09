@@ -31,7 +31,7 @@
                 color="primary"
                 size="large"
                 :loading="loading"
-                :disabled="isCoolingDown"
+                :disabled="isCoolingDown || !email.trim()"
                 >发送重置链接 {{ cooldownText }}</v-btn
               >
             </v-form>

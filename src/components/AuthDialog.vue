@@ -60,14 +60,33 @@
               ></v-text-field>
 
               <v-btn
+                v-if="!isLoginMode"
                 type="submit"
                 block
                 color="primary"
                 size="large"
                 :loading="loading"
-                :disabled="isLoginMode ? loading : isRegisterCoolingDown"
+                :disabled="
+                  isRegisterCoolingDown ||
+                  password.length < 8 ||
+                  passwordConfirm.length < 8 ||
+                  !email.trim()
+                    ? true
+                    : false
+                "
               >
-                {{ isLoginMode ? '登录' : `发送验证码 ${registerCooldownText}` }}
+                {{ `发送验证码 ${registerCooldownText}` }}
+              </v-btn>
+              <v-btn
+                v-else
+                type="submit"
+                block
+                color="primary"
+                size="large"
+                :loading="loading"
+                :disabled="email.trim() && password.length > 8 ? false : true"
+              >
+                登入
               </v-btn>
             </v-form>
           </v-card-text>
@@ -144,7 +163,7 @@ import { useCooldown } from '@/composables/useCooldown'
 const authStore = useAuthStore()
 const { triggerSnackbar } = useSnackbar()
 
-// 为不同按钮的冷却逻辑创建独立的实例，并重命名以区分
+// 为不同按钮的冷却逻辑创建独立的实例
 const {
   isCoolingDown: isRegisterCoolingDown,
   cooldownText: registerCooldownText,
@@ -189,7 +208,7 @@ const resendButtonText = computed(() => {
 const handleCredentialSubmit = async () => {
   error.value = null
   if (!isLoginMode.value && password.value !== passwordConfirm.value) {
-    error.value = '两次输入的密码不一致。'
+    error.value = '两次输入的密码不一致'
     return
   }
 
@@ -220,7 +239,7 @@ const handleVerificationSubmit = async () => {
     successMessage.value = null
     mode.value = 'login'
     step.value = 'credentials'
-    triggerSnackbar(`${result.message} 请使用新帐号登录。`)
+    triggerSnackbar(`${result.message} 请使用新帐号登录`)
     verificationCode.value = ''
   } catch (e) {
     error.value = e.message
