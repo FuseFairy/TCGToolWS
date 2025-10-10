@@ -75,7 +75,20 @@
                       :src="useCardImage(item.cardIdPrefix, item.id).value"
                       :aspect-ratio="400 / 559"
                       cover
-                    />
+                      lazy-src="/empty-placehold.webp"
+                    >
+                      <template #placeholder>
+                        <div class="d-flex align-center justify-center fill-height">
+                          <v-progress-circular
+                            color="grey-lighten-4"
+                            indeterminate
+                          ></v-progress-circular>
+                        </div>
+                      </template>
+                      <template #error>
+                        <v-img src="/placehold.webp" :aspect-ratio="400 / 559" cover />
+                      </template>
+                    </v-img>
                     <div class="quantity-badge">{{ item.quantity }}</div>
                   </div>
                 </v-col>

@@ -31,7 +31,13 @@
           cover
           :aspect-ratio="400 / 559"
           :max-width="400"
+          lazy-src="/empty-placehold.webp"
         >
+          <template #placeholder>
+            <div class="d-flex align-center justify-center fill-height">
+              <v-progress-circular color="grey-lighten-4" indeterminate></v-progress-circular>
+            </div>
+          </template>
           <template #error>
             <v-img
               src="/placehold.webp"

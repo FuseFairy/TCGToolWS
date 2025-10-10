@@ -10,11 +10,21 @@
         color="surface"
         rounded="3md"
       >
-        <v-img :src="iconUrl" aspect-ratio="1" cover rounded="3md" class="ma-3">
-          <template v-slot:placeholder>
+        <v-img
+          :src="iconUrl"
+          aspect-ratio="1"
+          cover
+          rounded="3md"
+          class="ma-3"
+          lazy-src="/empty-placehold.webp"
+        >
+          <template #placeholder>
             <div class="d-flex align-center justify-center fill-height">
               <v-progress-circular color="grey-lighten-4" indeterminate></v-progress-circular>
             </div>
+          </template>
+          <template #error>
+            <v-img src="/placehold.webp" aspect-ratio="1" cover rounded="3md" />
           </template>
         </v-img>
 

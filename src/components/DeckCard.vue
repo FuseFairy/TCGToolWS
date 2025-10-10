@@ -8,11 +8,6 @@
         class="deck-card"
         :class="{ 'is-lifted': isHovering && !isTouch }"
       >
-        <v-skeleton-loader
-          v-if="!imageUrl"
-          class="w-100"
-          style="aspect-ratio: 1"
-        ></v-skeleton-loader>
         <v-img
           :src="imageUrl"
           class="align-end"
@@ -20,7 +15,16 @@
           aspect-ratio="1"
           cover
           position="top"
+          lazy-src="/empty-placehold.webp"
         >
+          <template #placeholder>
+            <div class="d-flex align-center justify-center fill-height">
+              <v-progress-circular color="grey-lighten-4" indeterminate></v-progress-circular>
+            </div>
+          </template>
+          <template #error>
+            <v-img src="/placehold.webp" aspect-ratio="1" cover />
+          </template>
           <div class="title-background"></div>
           <v-card-text class="text-h6 position-relative text-white" style="z-index: 1">
             {{ deck.name }}

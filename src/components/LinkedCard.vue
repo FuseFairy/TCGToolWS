@@ -1,8 +1,19 @@
 <template>
   <v-card variant="tonal" class="linked-card" rounded="lg" @click="handleCardClick">
-    <v-img :src="imageUrl" :aspect-ratio="400 / 559" rounded="lg" cover>
+    <v-img
+      :src="imageUrl"
+      :aspect-ratio="400 / 559"
+      rounded="lg"
+      lazy-src="/empty-placehold.webp"
+      cover
+    >
+      <template #placeholder>
+        <div class="d-flex align-center justify-center fill-height">
+          <v-progress-circular color="grey-lighten-4" indeterminate></v-progress-circular>
+        </div>
+      </template>
       <template #error>
-        <v-img src="/placehold.webp" :aspect-ratio="400 / 559" cover />
+        <v-img src="/placehold.webp" rounded="lg" :aspect-ratio="400 / 559" cover />
       </template>
     </v-img>
     <div class="pa-2" style="width: 100%">

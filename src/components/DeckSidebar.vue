@@ -101,7 +101,25 @@
                       :aspect-ratio="400 / 559"
                       cover
                       class="rounded"
-                    ></v-img>
+                      lazy-src="/empty-placehold.webp"
+                    >
+                      <template #placeholder>
+                        <div class="d-flex align-center justify-center fill-height">
+                          <v-progress-circular
+                            color="grey-lighten-4"
+                            indeterminate
+                          ></v-progress-circular>
+                        </div>
+                      </template>
+                      <template #error>
+                        <v-img
+                          src="/placehold.webp"
+                          :aspect-ratio="400 / 559"
+                          cover
+                          class="rounded"
+                        />
+                      </template>
+                    </v-img>
                     <div class="quantity-badge">{{ item.quantity }}</div>
                   </div>
                 </div>
@@ -171,8 +189,26 @@
                   :aspect-ratio="400 / 559"
                   cover
                   class="rounded-lg"
+                  lazy-src="/empty-placehold.webp"
                   :class="{ 'selected-cover': selectedCoverCardId === card.id, clickable: true }"
-                ></v-img>
+                >
+                  <template #placeholder>
+                    <div class="d-flex align-center justify-center fill-height">
+                      <v-progress-circular
+                        color="grey-lighten-4"
+                        indeterminate
+                      ></v-progress-circular>
+                    </div>
+                  </template>
+                  <template #error>
+                    <v-img
+                      src="/placehold.webp"
+                      :aspect-ratio="400 / 559"
+                      cover
+                      class="rounded-lg"
+                    />
+                  </template>
+                </v-img>
               </div>
             </v-col>
           </v-row>

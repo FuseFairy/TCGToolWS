@@ -8,29 +8,22 @@
   >
     <v-hover v-slot="{ isHovering, props: hoverProps }">
       <div class="ma-3" style="position: relative" v-bind="hoverProps">
-        <v-skeleton-loader
-          v-if="!imageUrl"
-          class="w-100"
-          rounded="3md"
-          style="aspect-ratio: 400/559"
-        ></v-skeleton-loader>
         <v-img
-          v-else
           :key="card.id"
           :src="imageUrl"
           :alt="card.id"
           :aspect-ratio="400 / 559"
           cover
           rounded="3md"
+          lazy-src="/empty-placehold.webp"
         >
+          <template #placeholder>
+            <div class="d-flex align-center justify-center fill-height">
+              <v-progress-circular color="grey-lighten-4" indeterminate></v-progress-circular>
+            </div>
+          </template>
           <template #error>
-            <v-img
-              src="/placehold.webp"
-              :alt="card.id"
-              :aspect-ratio="400 / 559"
-              cover
-              rounded="3md"
-            />
+            <v-img src="/placehold.webp" :aspect-ratio="400 / 559" cover rounded="3md" />
           </template>
 
           <v-fade-transition>
