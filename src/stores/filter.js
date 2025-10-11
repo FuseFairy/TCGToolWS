@@ -104,7 +104,47 @@ export const useFilterStore = defineStore('filter', () => {
         }
       }
 
-      // Link cards
+      // 匹配關聯卡片
+      fetchedCards.forEach((card) => (card.link = []))
+
+      const nameToCardBaseIds = new Map()
+      const baseIdToCardsMap = new Map()
+
+      for (const card of fetchedCards) {
+        if (!nameToCardBaseIds.has(card.name)) {
+          nameToCardBaseIds.set(card.name, new Set())
+        }
+        nameToCardBaseIds.get(card.name).add(card.baseId)
+
+        if (!baseIdToCardsMap.has(card.baseId)) {
+          baseIdToCardsMap.set(card.baseId, [])
+        }
+        baseIdToCardsMap.get(card.baseId).push(card)
+      }
+
+      for (const targetCard of fetchedCards) {
+        const effectText = targetCard.effect || ''
+        if (!effectText) continue
+
+        for (const [sourceName, sourceBaseIds] of nameToCardBaseIds.entries()) {
+          if (effectText.includes(sourceName)) {
+            for (const sourceBaseId of sourceBaseIds) {
+              if (!targetCard.link.includes(sourceBaseId)) {
+                targetCard.link.push(sourceBaseId)
+              }
+              const sourceCardsToUpdate = baseIdToCardsMap.get(sourceBaseId)
+              if (sourceCardsToUpdate) {
+                for (const sourceCard of sourceCardsToUpdate) {
+                  if (!sourceCard.link.includes(targetCard.baseId)) {
+                    sourceCard.link.push(targetCard.baseId)
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+
       const baseIdToFullIdsMap = new Map()
       for (const card of fetchedCards) {
         if (!baseIdToFullIdsMap.has(card.baseId)) {
