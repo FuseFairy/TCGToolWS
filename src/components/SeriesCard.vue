@@ -3,7 +3,7 @@
     <template v-slot:activator="{ props }">
       <v-card
         v-bind="props"
-        class="series-card d-flex flex-column"
+        class="series-card d-flex flex-column flex-grow-1"
         hover
         :to="{ name: 'SeriesDetail', params: { seriesId: seriesData.id } }"
         variant="flat"
