@@ -50,4 +50,9 @@ export const seriesMap = {
     prefixes: ['P3', 'P4', 'PQ', 'P5'],
     icon: 'persona.webp',
   },
+  '莉可丽丝': {
+    id: 'lrc',
+    prefixes: ['LRC'],
+    icon: 'lrc.webp',
+  },
 }
