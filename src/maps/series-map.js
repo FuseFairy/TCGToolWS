@@ -1,10 +1,10 @@
 export const seriesMap = {
-  'Re：从零开始的异世界生活 ': {
+  'Re：从零开始的异世界生活': {
     id: 're0',
     prefixes: ['RZ'],
     icon: 're0.webp',
   },
-  富士见Fantasia文库: {
+  '富士见Fantasia文库': {
     id: 'fantasia',
     prefixes: [
       'F35',
@@ -45,18 +45,9 @@ export const seriesMap = {
     ],
     icon: 'fantasia.webp',
   },
+  '女神异闻录': {
+    id: 'persona',
+    prefixes: ['P3', 'P4', 'PQ', 'P5'],
+    icon: 'persona.webp',
+  },
 }
-
-// const isDevelopment = import.meta.env.DEV
-
-// if (isDevelopment) {
-//   for (let i = 1; i <= 100; i++) {
-//     const key = `Angel Beats!／クドわふたー${i}`
-
-//     seriesMap[key] = {
-//       id: `angel-beats-${i}`,
-//       prefixes: ['AB', 'KW', 'Kab', 'Hab'],
-//       icon: 'angelbeats.webp',
-//     }
-//   }
-// }
