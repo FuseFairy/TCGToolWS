@@ -29,7 +29,7 @@
         </v-img>
 
         <div class="card-content pa-3 pt-1">
-          <div class="d-flex align-center text-caption text-grey-lighten-1 mb-2 text-truncate">
+          <div class="align-center text-caption text-grey-lighten-1 mb-2 text-truncate">
             <v-icon start size="small">mdi-layers-outline</v-icon>
             {{ seriesData.prefixes.join(', ') }}
           </div>
