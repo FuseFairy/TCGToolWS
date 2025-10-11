@@ -13,9 +13,8 @@
             v-for="item in displayedSeries"
             :key="item.data.id"
             cols="6"
-            sm="4"
-            md="3"
-            lg="2"
+            sm="3"
+            md="2"
             class="d-flex"
           >
             <SeriesCard :series-name="item.name" :series-data="item.data" />
