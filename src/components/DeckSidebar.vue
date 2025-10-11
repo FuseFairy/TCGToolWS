@@ -190,7 +190,7 @@
                   cover
                   class="rounded-lg"
                   lazy-src="/empty-placehold.webp"
-                  :class="{ 'selected-cover': selectedCoverCardId === card.id, clickable: true }"
+                  :class="{ 'selected-cover': selectedCoverCardId === card.id, 'clickable': true }"
                 >
                   <template #placeholder>
                     <div class="d-flex align-center justify-center fill-height">

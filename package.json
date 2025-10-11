@@ -13,7 +13,7 @@
     "setup-img": "node scripts/setup-images.js",
     "lint": "eslint . --fix",
     "format": "prettier --write src/",
-    "format:card": "prettier --write src/assets/card/",
+    "format:card": "prettier --write src/assets/card-data/",
     "db:init": "wrangler d1 execute ws-account-db --local --file=./schema.sql"
   },
   "dependencies": {
