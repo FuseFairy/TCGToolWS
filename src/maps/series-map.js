@@ -55,4 +55,9 @@ export const seriesMap = {
     prefixes: ['LRC'],
     icon: 'lrc.webp',
   },
+  '少女乐队的呐喊': {
+    id: 'gbc',
+    prefixes: ['GCR'],
+    icon: 'gbc.webp',
+  },
 }
