@@ -11,16 +11,23 @@ export const useDeckEncoder = () => {
   /**
    * Compresses and saves the deck data.
    * @param {object} deckData - The deck data object { name, version, cards, seriesId }.
-   * @returns {Promise<boolean>} True if the deck was saved successfully, false otherwise.
+   * @param {object} [options] - Optional parameters.
+   * @param {string|null} [options.existingKey=null] - The existing key if the deck is being updated.
+   * @param {boolean} [options.isSharedDeck=false] - Whether the deck is a shared deck.
+   * @returns {Promise<{key: string}>} An object containing the key of the saved deck.
    */
-  const encodeDeck = async (deckData, isSharedDeck = false) => {
+  const encodeDeck = async (deckData, { existingKey = null, isSharedDeck = false } = {}) => {
     const jsonString = JSON.stringify(deckData)
     const crushed = JSONCrush.crush(jsonString)
     const compressedUint8 = pako.gzip(crushed)
-    const key = nanoid()
+    const key = existingKey || nanoid()
 
     try {
-      await deckStore.saveEncodedDeck(key, compressedUint8, isSharedDeck)
+      if (existingKey) {
+        await deckStore.updateEncodedDeck(key, compressedUint8)
+      } else {
+        await deckStore.saveEncodedDeck(key, compressedUint8, isSharedDeck)
+      }
       console.log(`Deck saved with key: ${key}`)
       return { key }
     } catch (error) {

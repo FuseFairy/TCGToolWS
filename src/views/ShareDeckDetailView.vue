@@ -275,7 +275,7 @@ const handleSaveDeck = async () => {
       coverCardId: selectedCoverCardId.value,
     }
 
-    const { key } = await encodeDeck(deckData, true)
+    const { key } = await encodeDeck(deckData, { isSharedDeck: true })
     triggerSnackbar('卡组保存成功！', 'success')
     isSaveDialogOpen.value = false
     await router.push(`/decks/${key}`)

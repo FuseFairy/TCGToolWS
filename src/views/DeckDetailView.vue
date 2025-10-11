@@ -5,13 +5,20 @@
         <div ref="headerRef" class="overlay-header pa-3 pt-1 pb-1">
           <div class="d-flex align-center justify-center w-100 position-relative">
             <!-- 左側 -->
-            <v-btn
-              :size="resize"
-              icon="mdi-share-variant"
-              variant="text"
-              @click="handleShareCard"
-              class="position-absolute left-0"
-            ></v-btn>
+            <div class="position-absolute left-0">
+              <v-btn
+                :size="resize"
+                icon="mdi-share-variant"
+                variant="text"
+                @click="handleShareCard"
+              ></v-btn>
+              <v-btn
+                :size="resize"
+                icon="mdi-pencil"
+                variant="text"
+                @click="handleEditDeck"
+              ></v-btn>
+            </div>
 
             <!-- 中間 -->
             <div class="d-flex align-center">
@@ -135,7 +142,7 @@
 
 <script setup>
 import { computed, ref, onUnmounted, onMounted } from 'vue'
-import { useRoute } from 'vue-router'
+import { useRoute, useRouter } from 'vue-router'
 import { useCardImage } from '@/composables/useCardImage.js'
 import { useDeckEncoder } from '@/composables/useDeckEncoder'
 import { useDisplay } from 'vuetify'
@@ -144,6 +151,7 @@ import { fetchCardByIdAndPrefix, fetchCardsByBaseIdAndPrefix } from '@/utils/car
 import CardDetailModal from '@/components/CardDetailModal.vue'
 import { useSnackbar } from '@/composables/useSnackbar'
 import { useUIStore } from '@/stores/ui'
+import { useDeckStore } from '@/stores/deck'
 
 const { smAndUp, smAndDown } = useDisplay()
 const resize = computed(() => {
@@ -151,9 +159,11 @@ const resize = computed(() => {
 })
 
 const route = useRoute()
+const router = useRouter()
 const { decodeDeck } = useDeckEncoder()
 const { triggerSnackbar } = useSnackbar()
 const uiStore = useUIStore()
+const deckStore = useDeckStore()
 
 const deckKey = route.params.key
 const deck = ref(null)
@@ -172,6 +182,15 @@ const handleShareCard = async () => {
     console.error('Failed to copy: ', err)
     triggerSnackbar('复制失败', 'error')
   }
+}
+
+const handleEditDeck = () => {
+  if (!deck.value) {
+    triggerSnackbar('无法编辑卡组', 'error')
+    return
+  }
+  deckStore.loadDeckForEditing(deck.value, deckKey)
+  router.push({ name: 'SeriesDetail', params: { seriesId: deck.value.seriesId } })
 }
 
 onMounted(async () => {

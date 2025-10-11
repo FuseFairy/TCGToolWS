@@ -13,6 +13,7 @@ import {
   handleGetDecks,
   handleGetDeckByKey,
   handleDeleteDeck,
+  handleUpdateDeck,
 } from '../lib/decks.js'
 
 const app = new Hono().basePath('/api')
@@ -30,6 +31,7 @@ authRoutes.post('/password/reset', handleResetPassword)
 const deckRoutes = new Hono()
 deckRoutes.use('/*', authMiddleware)
 deckRoutes.post('/', handleCreateDeck)
+deckRoutes.put('/:key', handleUpdateDeck)
 deckRoutes.get('/', handleGetDecks)
 deckRoutes.delete('/:key', handleDeleteDeck)
 

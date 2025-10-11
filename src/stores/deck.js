@@ -2,9 +2,6 @@ import { defineStore } from 'pinia'
 import { ref, computed } from 'vue'
 import { useAuthStore } from './auth'
 
-// 移除了 useUIStore 和 useSnackbar 的依賴
-// Store 不再關心 UI 的呈現
-
 export const useDeckStore = defineStore(
   'deck',
   () => {
@@ -12,6 +9,9 @@ export const useDeckStore = defineStore(
     const version = ref(1)
     const cardsInDeck = ref({})
     const seriesId = ref('')
+    const deckName = ref('')
+    const coverCardId = ref('')
+    const storeKey = ref('')
     const savedDecks = ref({})
     const maxDeckSize = 50
 
@@ -72,6 +72,20 @@ export const useDeckStore = defineStore(
       seriesId.value = id
     }
 
+    const loadDeckForEditing = (deck, key) => {
+      cardsInDeck.value = deck.cards
+      seriesId.value = deck.seriesId
+      deckName.value = deck.name
+      coverCardId.value = deck.coverCardId
+      storeKey.value = key
+    }
+
+    const clearEditingInfo = () => {
+      deckName.value = ''
+      coverCardId.value = ''
+      storeKey.value = ''
+    }
+
     // --- 非同步操作 (Async Actions) ---
 
     /**
@@ -100,6 +114,31 @@ export const useDeckStore = defineStore(
       if (!isSharedDeck) {
         cardsInDeck.value = {}
       }
+    }
+
+    /**
+     * 更新现有卡组。
+     */
+    const updateEncodedDeck = async (key, compressedData) => {
+      if (!authStore.token) {
+        throw new Error('请先登入')
+      }
+
+      const response = await fetch(`/api/decks/${key}`, {
+        method: 'PUT',
+        headers: {
+          'Content-Type': 'application/json',
+          Authorization: `Bearer ${authStore.token}`,
+        },
+        body: JSON.stringify({ deckData: compressedData }),
+      })
+
+      if (!response.ok) {
+        const errorData = await response.json().catch(() => ({}))
+        throw new Error(errorData.error || '更新卡组失败')
+      }
+
+      savedDecks.value[key] = compressedData
     }
 
     /**
@@ -170,13 +209,19 @@ export const useDeckStore = defineStore(
       getCardCount,
       totalCardCount,
       seriesId,
+      deckName,
+      coverCardId,
+      storeKey,
       addCard,
       removeCard,
       clearDeck,
       isDeckFull,
       setSeriesId,
+      loadDeckForEditing,
+      clearEditingInfo,
       savedDecks,
       saveEncodedDeck,
+      updateEncodedDeck,
       fetchDecks,
       fetchDeckByKey,
       deleteDeck,

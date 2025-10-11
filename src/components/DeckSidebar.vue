@@ -163,7 +163,7 @@
   <!-- Save Deck Dialog -->
   <v-dialog v-model="isSaveDialogOpen" max-width="500px" @update:model-value="closeSaveDialog">
     <v-card>
-      <v-card-title>储存卡组</v-card-title>
+      <v-card-title>{{ deckStore.storeKey ? '更新卡组' : '储存卡组' }}</v-card-title>
       <v-card-text>
         <v-text-field
           v-model="deckName"
@@ -216,12 +216,21 @@
       </v-card-text>
       <v-card-actions>
         <v-btn text @click="isSaveDialogOpen = false">取消</v-btn>
+        <v-spacer></v-spacer>
         <v-btn
           color="primary"
           variant="tonal"
-          @click="handleSaveDeck"
+          @click="handleCreateDeck"
           :disabled="!deckName.trim() || !selectedCoverCardId"
-          >确认
+          >建立新卡组
+        </v-btn>
+        <v-btn
+          v-if="deckStore.storeKey"
+          color="secondary"
+          variant="tonal"
+          @click="handleUpdateDeck"
+          :disabled="!deckName.trim() || !selectedCoverCardId"
+          >更新卡组
         </v-btn>
       </v-card-actions>
     </v-card>
@@ -271,7 +280,12 @@ const openSaveDialog = () => {
   if (!authStore.isAuthenticated) {
     isAuthAlertOpen.value = true
   } else if (deckCards.value.length > 0) {
-    selectedCoverCardId.value = deckCards.value[0].id
+    if (deckStore.storeKey) {
+      deckName.value = deckStore.deckName
+      selectedCoverCardId.value = deckStore.coverCardId
+    } else {
+      selectedCoverCardId.value = deckCards.value[0].id
+    }
     isSaveDialogOpen.value = true
   }
 }
@@ -280,14 +294,15 @@ const closeSaveDialog = (value) => {
   if (!value) {
     // Reset state when dialog is closed
     isSaveDialogOpen.value = false
-    deckName.value = ''
-    selectedCoverCardId.value = null
+    if (!deckStore.storeKey) {
+      deckName.value = ''
+      selectedCoverCardId.value = null
+    }
   }
 }
 
-const handleSaveDeck = async () => {
+const handleCreateDeck = async () => {
   uiStore.setLoading(true)
-
   try {
     const deckData = {
       name: deckName.value,
@@ -297,11 +312,42 @@ const handleSaveDeck = async () => {
       coverCardId: selectedCoverCardId.value,
     }
 
-    const { key } = await encodeDeck(deckData)
+    const { key } = await encodeDeck(deckData, { isSharedDeck: false })
 
     isSaveDialogOpen.value = false
-    triggerSnackbar('卡组保存成功！', 'success')
+    triggerSnackbar('新卡组已成功创建！', 'success')
     await router.push(`/decks/${key}`)
+    deckStore.clearEditingInfo()
+    deckStore.clearDeck()
+  } catch (error) {
+    triggerSnackbar(error.message, 'error')
+  } finally {
+    uiStore.setLoading(false)
+  }
+}
+
+const handleUpdateDeck = async () => {
+  if (!deckStore.storeKey) {
+    triggerSnackbar('缺少卡组标识，无法更新', 'error')
+    return
+  }
+  uiStore.setLoading(true)
+  try {
+    const deckData = {
+      name: deckName.value,
+      version: deckStore.version,
+      cards: deckStore.cardsInDeck,
+      seriesId: deckStore.seriesId,
+      coverCardId: selectedCoverCardId.value,
+    }
+
+    const { key } = await encodeDeck(deckData, { existingKey: deckStore.storeKey })
+
+    isSaveDialogOpen.value = false
+    triggerSnackbar('卡组已成功更新！', 'success')
+    await router.push(`/decks/${key}`)
+    deckStore.clearEditingInfo()
+    deckStore.clearDeck()
   } catch (error) {
     triggerSnackbar(error.message, 'error')
   } finally {
