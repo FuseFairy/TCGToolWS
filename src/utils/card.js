@@ -1,58 +1,31 @@
-import { getAssetsFile } from './getAssetsFile.js'
+import { useFilterStore } from '@/stores/filter.js'
+import { seriesMap } from '@/maps/series-map.js'
+
+const findPrefixesByCardPrefix = (prefix) => {
+  const keyPart = prefix.split('-')[0].toLowerCase()
+  for (const series in seriesMap) {
+    const found = seriesMap[series].prefixes.find((p) => p.toLowerCase() === keyPart)
+    if (found) {
+      return seriesMap[series].prefixes
+    }
+  }
+  return [prefix]
+}
 
 export const fetchCardByIdAndPrefix = async (id, prefix) => {
   try {
-    const path = `card-data/${prefix}.json`
-    const url = getAssetsFile(path)
-    const response = await fetch(url, { priority: 'high' })
-    if (!response.ok) throw new Error(`Failed to fetch ${path}`)
+    const filterStore = useFilterStore()
+    const seriesPrefixes = findPrefixesByCardPrefix(prefix)
+    const { allCards } = await filterStore.fetchAndProcessCards(seriesPrefixes)
 
-    const fileContent = await response.json()
+    const card = allCards.find((c) => (c.id === id || c.baseId === id) && c.cardIdPrefix === prefix)
 
-    let baseId = null
-    let cardData = null
-
-    for (const key in fileContent) {
-      if (key === id) {
-        baseId = key
-        cardData = fileContent[key]
-        break
-      }
-      if (fileContent[key].all_cards && Array.isArray(fileContent[key].all_cards)) {
-        if (fileContent[key].all_cards.some((cardVersion) => cardVersion.id === id)) {
-          baseId = key
-          cardData = fileContent[key]
-          break
-        }
-      }
-    }
-
-    if (!cardData) {
+    if (!card) {
       console.warn(`Card with ID "${id}" not found in prefix "${prefix}"`)
       return null
     }
 
-    const cardIdPrefix = path.split('/').pop().replace('.json', '')
-    const { all_cards, ...baseCardData } = cardData
-
-    if (all_cards && Array.isArray(all_cards)) {
-      const foundCardVersion = all_cards.find((cardVersion) => cardVersion.id === id)
-      if (foundCardVersion) {
-        return {
-          ...baseCardData,
-          ...foundCardVersion,
-          baseId: baseId,
-          cardIdPrefix: cardIdPrefix,
-        }
-      }
-    }
-
-    // If the requested ID is a base ID or no specific version found, return the base card data merged with itself
-    return {
-      ...baseCardData,
-      baseId: baseId,
-      cardIdPrefix: cardIdPrefix,
-    }
+    return card
   } catch (e) {
     console.error(`Failed to load card ${id} with prefix ${prefix}:`, e)
     return null
@@ -61,41 +34,17 @@ export const fetchCardByIdAndPrefix = async (id, prefix) => {
 
 export const fetchCardsByBaseIdAndPrefix = async (baseId, prefix) => {
   try {
-    const path = `card-data/${prefix}.json`
-    const url = getAssetsFile(path)
-    const response = await fetch(url, { priority: 'high' })
-    if (!response.ok) throw new Error(`Failed to fetch ${path}`)
+    const filterStore = useFilterStore()
+    const seriesPrefixes = findPrefixesByCardPrefix(prefix)
+    const { allCards } = await filterStore.fetchAndProcessCards(seriesPrefixes)
 
-    const fileContent = await response.json()
-    const cardData = fileContent[baseId]
+    const cards = allCards.filter((c) => c.baseId === baseId && c.cardIdPrefix === prefix)
 
-    if (!cardData) {
+    if (cards.length === 0) {
       console.warn(`Base card with ID "${baseId}" not found in prefix "${prefix}"`)
-      return []
     }
 
-    const cardIdPrefix = path.split('/').pop().replace('.json', '')
-    const { all_cards, ...baseCardData } = cardData
-
-    const allVersions = []
-    if (all_cards && Array.isArray(all_cards)) {
-      all_cards.forEach((cardVersion) => {
-        allVersions.push({
-          ...baseCardData,
-          ...cardVersion,
-          baseId: baseId,
-          cardIdPrefix: cardIdPrefix,
-        })
-      })
-    } else {
-      // If no all_cards array, return the base card itself as the only version
-      allVersions.push({
-        ...baseCardData,
-        baseId: baseId,
-        cardIdPrefix: cardIdPrefix,
-      })
-    }
-    return allVersions
+    return cards
   } catch (e) {
     console.error(`Failed to load cards for baseId ${baseId} with prefix ${prefix}:`, e)
     return []

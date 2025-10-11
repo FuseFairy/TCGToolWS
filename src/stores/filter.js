@@ -31,25 +31,22 @@ export const useFilterStore = defineStore('filter', () => {
 
   // --- Actions ---
 
-  const initialize = async (prefixes) => {
+  const fetchAndProcessCards = async (prefixes) => {
     if (!prefixes || prefixes.length === 0) {
-      reset()
-      return
+      return {
+        allCards: [],
+        productNames: [],
+        traits: [],
+        costRange: { min: 0, max: 0 },
+        powerRange: { min: 0, max: 0 },
+      }
     }
 
     const cacheKey = prefixes.join(',')
     if (cache.has(cacheKey)) {
-      const cachedData = cache.get(cacheKey)
-      allCards.value = cachedData.allCards
-      productNames.value = cachedData.productNames
-      traits.value = cachedData.traits
-      costRange.value = cachedData.costRange
-      powerRange.value = cachedData.powerRange
-      resetFilters()
-      return
+      return cache.get(cacheKey)
     }
 
-    isLoading.value = true
     error.value = null
 
     try {
@@ -158,29 +155,55 @@ export const useFilterStore = defineStore('filter', () => {
         }
       }
 
-      allCards.value = fetchedCards
-      productNames.value = [...productNamesSet]
-      traits.value = [...traitsSet]
-      costRange.value = {
-        min: minCost === Infinity ? 0 : minCost,
-        max: maxCost === -Infinity ? 0 : maxCost,
-      }
-      powerRange.value = {
-        min: minPower === Infinity ? 0 : minPower,
-        max: maxPower === -Infinity ? 0 : maxPower,
+      const result = {
+        allCards: fetchedCards,
+        productNames: [...productNamesSet],
+        traits: [...traitsSet],
+        costRange: {
+          min: minCost === Infinity ? 0 : minCost,
+          max: maxCost === -Infinity ? 0 : maxCost,
+        },
+        powerRange: {
+          min: minPower === Infinity ? 0 : minPower,
+          max: maxPower === -Infinity ? 0 : maxPower,
+        },
       }
 
-      cache.set(cacheKey, {
-        allCards: allCards.value,
-        productNames: productNames.value,
-        traits: traits.value,
-        costRange: costRange.value,
-        powerRange: powerRange.value,
-      })
-
-      resetFilters()
+      cache.set(cacheKey, result)
+      return result
     } catch (e) {
       console.error('Failed to load series cards in filter store:', e)
+      error.value = e
+      return {
+        allCards: [],
+        productNames: [],
+        traits: [],
+        costRange: { min: 0, max: 0 },
+        powerRange: { min: 0, max: 0 },
+      }
+    }
+  }
+
+  const initialize = async (prefixes) => {
+    isLoading.value = true
+    error.value = null
+    try {
+      const {
+        allCards: fetchedCards,
+        productNames: fetchedProductNames,
+        traits: fetchedTraits,
+        costRange: fetchedCostRange,
+        powerRange: fetchedPowerRange,
+      } = await fetchAndProcessCards(prefixes)
+
+      allCards.value = fetchedCards
+      productNames.value = fetchedProductNames
+      traits.value = fetchedTraits
+      costRange.value = fetchedCostRange
+      powerRange.value = fetchedPowerRange
+      resetFilters()
+    } catch (e) {
+      console.error('Failed to initialize filter store:', e)
       error.value = e
     } finally {
       isLoading.value = false
@@ -292,6 +315,7 @@ export const useFilterStore = defineStore('filter', () => {
     filteredCards,
     // Actions
     initialize,
+    fetchAndProcessCards,
     resetFilters,
     reset,
   }
