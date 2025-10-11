@@ -9,7 +9,6 @@ import { piniaVersioningPlugin } from '@/plugins/pinia-versioning.js'
 
 import '@/assets/styles/main.css'
 import 'vuetify/styles'
-import 'unfonts.css'
 
 const app = createApp(App)
 const pinia = createPinia()

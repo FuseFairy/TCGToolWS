@@ -9,3 +9,6 @@
 
 /* 主題定義與變數覆蓋 */
 @import './themes/_app.css';
+
+/* 字體樣式 */
+@import './fonts/LXGWWenKaiLite/fonts.css';
