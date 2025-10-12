@@ -77,27 +77,31 @@
               </div>
               <v-row dense class="ma-0">
                 <v-col v-for="item in group" :key="item.id" cols="4" sm="3" md="2" lg="1">
-                  <div class="card-container" @click="handleCardClick(item)">
-                    <v-img
-                      :src="useCardImage(item.cardIdPrefix, item.id).value"
-                      :aspect-ratio="400 / 559"
-                      cover
-                      lazy-src="/empty-placehold.webp"
-                    >
-                      <template #placeholder>
-                        <div class="d-flex align-center justify-center fill-height">
-                          <v-progress-circular
-                            color="grey-lighten-4"
-                            indeterminate
-                          ></v-progress-circular>
-                        </div>
-                      </template>
-                      <template #error>
-                        <v-img src="/placehold.webp" :aspect-ratio="400 / 559" cover />
-                      </template>
-                    </v-img>
-                    <div class="quantity-badge">{{ item.quantity }}</div>
-                  </div>
+                  <v-tooltip :text="item.id" location="top center">
+                    <template v-slot:activator="{ props }">
+                      <div v-bind="props" class="card-container" @click="handleCardClick(item)">
+                        <v-img
+                          :src="useCardImage(item.cardIdPrefix, item.id).value"
+                          :aspect-ratio="400 / 559"
+                          cover
+                          lazy-src="/empty-placehold.webp"
+                        >
+                          <template #placeholder>
+                            <div class="d-flex align-center justify-center fill-height">
+                              <v-progress-circular
+                                color="grey-lighten-4"
+                                indeterminate
+                              ></v-progress-circular>
+                            </div>
+                          </template>
+                          <template #error>
+                            <v-img src="/placehold.webp" :aspect-ratio="400 / 559" cover />
+                          </template>
+                        </v-img>
+                        <div class="quantity-badge">{{ item.quantity }}</div>
+                      </div>
+                    </template>
+                  </v-tooltip>
                 </v-col>
               </v-row>
             </div>
