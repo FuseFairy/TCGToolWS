@@ -16,5 +16,39 @@
       "database_name": "ws-account-db",
       "database_id": "8368900c-fb02-483c-8f71-43882ec6ab6b"
     }
+  ],
+  "ratelimits": [
+    {
+      "name": "AUTH_CODE_LIMITER",
+      "namespace_id": "1001",
+      "simple": {
+        "limit": 5,
+        "period": 60
+      }
+    },
+    {
+      "name": "AUTH_ACTION_LIMITER",
+      "namespace_id": "1002",
+      "simple": {
+        "limit": 10,
+        "period": 60
+      }
+    },
+    {
+      "name": "API_USER_LIMITER",
+      "namespace_id": "1003",
+      "simple": {
+        "limit": 50,
+        "period": 60
+      }
+    },
+    {
+      "name": "PUBLIC_READ_LIMITER",
+      "namespace_id": "1004",
+      "simple": {
+        "limit": 200,
+        "period": 60
+      }
+    }
   ]
 }
