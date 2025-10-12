@@ -60,4 +60,9 @@ export const seriesMap = {
     prefixes: ['GCR'],
     icon: 'gbc.webp',
   },
+  '足球小将': {
+    id: 'ctb',
+    prefixes: ['CTB'],
+    icon: 'ctb.webp',
+  },
 }
