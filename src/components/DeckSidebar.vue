@@ -421,7 +421,9 @@ const handleShowNewCard = async (cardPayload) => {
       // Sanitize and deduplicate link IDs to prevent redundant fetches.
       const baseIds = [...new Set(card.link.map((linkId) => linkId.replace(/[a-zA-Z]+$/, '')))]
       const fetchedLinks = await Promise.all(
-        baseIds.map((baseId) => fetchCardsByBaseIdAndPrefix(baseId, cardToDisplay.cardIdPrefix))
+        baseIds.map(
+          async (baseId) => await fetchCardsByBaseIdAndPrefix(baseId, cardToDisplay.cardIdPrefix)
+        )
       )
       linkedCardsDetails.value = fetchedLinks.flat().filter(Boolean)
     } else {

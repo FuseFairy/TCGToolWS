@@ -96,8 +96,8 @@ const fetchLinkedCards = async (card) => {
 
     // sanitize all link IDs to get clean base IDs.
     const baseIds = [...new Set(card.link.map((linkId) => linkId.replace(/[a-zA-Z]+$/, '')))]
-    const linkRequests = baseIds.map((baseId) =>
-      fetchCardsByBaseIdAndPrefix(baseId, card.cardIdPrefix)
+    const linkRequests = baseIds.map(
+      async (baseId) => await fetchCardsByBaseIdAndPrefix(baseId, card.cardIdPrefix)
     )
 
     const linkedCardsData = await Promise.all(linkRequests)

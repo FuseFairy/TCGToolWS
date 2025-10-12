@@ -38,7 +38,7 @@ export const fetchCardsByBaseIdAndPrefix = async (baseId, prefix) => {
     const seriesPrefixes = findPrefixesByCardPrefix(prefix)
     const { allCards } = await filterStore.fetchAndProcessCards(seriesPrefixes)
 
-    const cards = allCards.filter((c) => c.baseId === baseId && c.cardIdPrefix === prefix)
+    const cards = allCards.filter((c) => c.baseId === baseId)
 
     if (cards.length === 0) {
       console.warn(`Base card with ID "${baseId}" not found in prefix "${prefix}"`)
