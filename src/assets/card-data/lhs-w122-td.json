@@ -1,0 +1,460 @@
+{
+  "LHS/W122-T01": {
+    "name": "アイデンティティ 大沢 瑠璃乃",
+    "product_name": "[TD]ラブライブ！蓮ノ空女学院スクールアイドルクラブ feat. Link！Like！ラブライブ！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["音楽", "みらくらぱーく！"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你其他全部「アイデンティティ 大沢 瑠璃乃」，战斗力+1500，获得「【自】再演 [手牌的1张角色放置到休息室]」。<br/> 【自】绊／「アイデンティティ 藤島 慈」 [1张手牌放置到休息室] ",
+    "all_cards": [
+      {
+        "id": "LHS/W122-T01",
+        "rarity": "TD"
+      },
+      {
+        "id": "LHS/W122-T01R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "LHS/W122-T02": {
+    "name": "レインボーシフォン 安養寺 姫芽",
+    "product_name": "[TD]ラブライブ！蓮ノ空女学院スクールアイドルクラブ feat. Link！Like！ラブライブ！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["音楽", "みらくらぱーく！"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你其他所有《音楽》角色，战斗力+500。<br/>【自】[这张卡放置到休息室] 你其他的《音楽》角色从舞台放置到休息室时，这张卡位于后列的话，你可以支付Cost。那样的话，将那个角色横置放置到原来的位置。",
+    "all_cards": [
+      {
+        "id": "LHS/W122-T02",
+        "rarity": "TD"
+      },
+      {
+        "id": "LHS/W122-T02R",
+        "rarity": "RRR"
+      },
+      {
+        "id": "LHS/W122-T02SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "LHS/W122-T03": {
+    "name": "レインボーシフォン 乙宗 梢",
+    "product_name": "[TD]ラブライブ！蓮ノ空女学院スクールアイドルクラブ feat. Link！Like！ラブライブ！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["音楽", "スリーズブーケ"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你的角色全部是《音楽》角色的话，这张卡的战斗力+1500，获得以下能力。「【自】这张卡的战斗对手倒置时，你选自己休息室1张《音楽》角色加入手牌，选自己1张手牌放置到休息室。」",
+    "all_cards": [
+      {
+        "id": "LHS/W122-T03",
+        "rarity": "TD"
+      },
+      {
+        "id": "LHS/W122-T03R",
+        "rarity": "RRR"
+      },
+      {
+        "id": "LHS/W122-T03SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "LHS/W122-T04": {
+    "name": "レインボーシフォン 大沢 瑠璃乃",
+    "product_name": "[TD]ラブライブ！蓮ノ空女学院スクールアイドルクラブ feat. Link！Like！ラブライブ！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 4000,
+    "cost": 0,
+    "trait": ["音楽", "みらくらぱーく！"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】对方全部角色，获得「【自】再演 [(2)]」。",
+    "all_cards": [
+      {
+        "id": "LHS/W122-T04",
+        "rarity": "TD"
+      },
+      {
+        "id": "LHS/W122-T04R",
+        "rarity": "RRR"
+      },
+      {
+        "id": "LHS/W122-T04SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "LHS/W122-T05": {
+    "name": "レインボーシフォン 日野下 花帆",
+    "product_name": "[TD]ラブライブ！蓮ノ空女学院スクールアイドルクラブ feat. Link！Like！ラブライブ！",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["音楽", "スリーズブーケ"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，你其他的《音楽》角色在2个以上的话，那个回合中，这张卡的战斗力+2000。<br/>【自】CxCombo 这张卡攻击时，CX区有「フォーチュンムービー」，你有其他的《音楽》角色的话，你将自己卡组顶2张卡放置到休息室，选自己休息室最多1张等级X以下的《音楽》角色返回手牌。X等于因此效果放置到休息室的卡的合计等级。",
+    "all_cards": [
+      {
+        "id": "LHS/W122-T05",
+        "rarity": "TD"
+      },
+      {
+        "id": "LHS/W122-T05R",
+        "rarity": "RRR"
+      },
+      {
+        "id": "LHS/W122-T05S",
+        "rarity": "SR"
+      },
+      {
+        "id": "LHS/W122-T05SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "LHS/W122-T06": {
+    "name": "アイデンティティ 藤島 慈",
+    "product_name": "[TD]ラブライブ！蓮ノ空女学院スクールアイドルクラブ feat. Link！Like！ラブライブ！",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 0,
+    "trait": ["音楽", "みらくらぱーく！"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "-",
+    "all_cards": [
+      {
+        "id": "LHS/W122-T06",
+        "rarity": "TD"
+      },
+      {
+        "id": "LHS/W122-T06R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "LHS/W122-T07": {
+    "name": "レインボーシフォン 藤島 慈",
+    "product_name": "[TD]ラブライブ！蓮ノ空女学院スクールアイドルクラブ feat. Link！Like！ラブライブ！",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10500,
+    "cost": 2,
+    "trait": ["音楽", "みらくらぱーく！"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "【永】这张卡的战斗中，你不会受到对方角色的【自】效果造成的伤害。<br/>【自】这张卡从手牌放置到舞台时，你可以将自己时计区1张《音楽》角色放置到卡组底。",
+    "all_cards": [
+      {
+        "id": "LHS/W122-T07",
+        "rarity": "TD"
+      },
+      {
+        "id": "LHS/W122-T07R",
+        "rarity": "RRR"
+      },
+      {
+        "id": "LHS/W122-T07SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "LHS/W122-T08": {
+    "name": "レインボーシフォン 百生 吟子",
+    "product_name": "[TD]ラブライブ！蓮ノ空女学院スクールアイドルクラブ feat. Link！Like！ラブライブ！",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10500,
+    "cost": 2,
+    "trait": ["音楽", "スリーズブーケ"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "【自】这张卡从手牌放置到舞台时，你其他的《音楽》角色在4个以上的话，你可以选自己休息室1张《音楽》角色放置到费用区。<br/>【自】[(1)] 这张卡从手牌放置到舞台时，你可以支付Cost。那样的话，你选自己休息室1张CX返回手牌。",
+    "all_cards": [
+      {
+        "id": "LHS/W122-T08",
+        "rarity": "TD"
+      },
+      {
+        "id": "LHS/W122-T08R",
+        "rarity": "RRR"
+      },
+      {
+        "id": "LHS/W122-T08SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "LHS/W122-T09": {
+    "name": "私立蓮ノ空女学院",
+    "product_name": "[TD]ラブライブ！蓮ノ空女学院スクールアイドルクラブ feat. Link！Like！ラブライブ！",
+    "type": "事件卡",
+    "level": 1,
+    "power": "-",
+    "cost": 1,
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "你从自己的卡组中选择最多1张CX加入手牌，卡组洗切。",
+    "all_cards": [
+      {
+        "id": "LHS/W122-T09",
+        "rarity": "TD"
+      },
+      {
+        "id": "LHS/W122-T09R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "LHS/W122-T10": {
+    "name": "フォーチュンムービー",
+    "product_name": "[TD]ラブライブ！蓮ノ空女学院スクールアイドルクラブ feat. Link！Like！ラブライブ！",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】 你所有的角色卡，攻击力+1000，灵魂值+1 <br/>（<img src=\"/effect-icons/choice.webp\"/>：这张卡触发时，你可以选择1张自己休息室带有<img src=\"/effect-icons/soul.webp\"/>标记的角色卡，返回手牌或放置到费用区",
+    "all_cards": [
+      {
+        "id": "LHS/W122-T10",
+        "rarity": "TD"
+      },
+      {
+        "id": "LHS/W122-T10R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "LHS/W122-T11": {
+    "name": "Reflection in the mirror 日野下 花帆",
+    "product_name": "[TD]ラブライブ！蓮ノ空女学院スクールアイドルクラブ feat. Link！Like！ラブライブ！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["音楽", "スリーズブーケ"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【起】[(1) 竖置的这张卡放置到休息室] 你的等级在2级以上的话，你选自己休息室1张等级2以上的角色返回手牌。<br/>【起】集中 [(1) 这张卡横置] 你将自己卡组顶5张卡翻开放置到休息室。那些卡中每有1张CX，你抽最多1张卡。",
+    "all_cards": [
+      {
+        "id": "LHS/W122-T11",
+        "rarity": "TD"
+      },
+      {
+        "id": "LHS/W122-T11R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "LHS/W122-T12": {
+    "name": "レインボーシフォン 夕霧 綴理",
+    "product_name": "[TD]ラブライブ！蓮ノ空女学院スクールアイドルクラブ feat. Link！Like！ラブライブ！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["音楽", "DOLLCHESTRA"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时或攻击时，你选自己1个《音楽》角色，那个回合中，战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "LHS/W122-T12",
+        "rarity": "TD"
+      },
+      {
+        "id": "LHS/W122-T12R",
+        "rarity": "RRR"
+      },
+      {
+        "id": "LHS/W122-T12SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "LHS/W122-T13": {
+    "name": "Sparkly Spot 村野 さやか",
+    "product_name": "[TD]ラブライブ！蓮ノ空女学院スクールアイドルクラブ feat. Link！Like！ラブライブ！",
+    "type": "角色卡",
+    "level": 1,
+    "power": 1000,
+    "cost": 1,
+    "trait": ["音楽", "DOLLCHESTRA"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀2500 等级1 [(1) 手牌的这张卡放置到休息室]  ",
+    "all_cards": [
+      {
+        "id": "LHS/W122-T13",
+        "rarity": "TD"
+      },
+      {
+        "id": "LHS/W122-T13R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "LHS/W122-T14": {
+    "name": "レインボーシフォン 徒町 小鈴",
+    "product_name": "[TD]ラブライブ！蓮ノ空女学院スクールアイドルクラブ feat. Link！Like！ラブライブ！",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 1,
+    "trait": ["音楽", "DOLLCHESTRA"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你其他的《音楽》角色在2个以上的话，这张卡的战斗力+2000。<br/>【自】再演 [休息室的1张《音楽》角色放置到时计区底] ",
+    "all_cards": [
+      {
+        "id": "LHS/W122-T14",
+        "rarity": "TD"
+      },
+      {
+        "id": "LHS/W122-T14R",
+        "rarity": "RRR"
+      },
+      {
+        "id": "LHS/W122-T14SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "LHS/W122-T15": {
+    "name": "Reflection in the mirror 乙宗 梢",
+    "product_name": "[TD]ラブライブ！蓮ノ空女学院スクールアイドルクラブ feat. Link！Like！ラブライブ！",
+    "type": "角色卡",
+    "level": 2,
+    "power": 3500,
+    "cost": 1,
+    "trait": ["音楽", "スリーズブーケ"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+X。X等于那个角色的等级×500。<br/>【起】[这张卡横置] 你选自己1个角色，那个回合中，战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "LHS/W122-T15",
+        "rarity": "TD"
+      },
+      {
+        "id": "LHS/W122-T15R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "LHS/W122-T16": {
+    "name": "Sparkly Spot 夕霧 綴理",
+    "product_name": "[TD]ラブライブ！蓮ノ空女学院スクールアイドルクラブ feat. Link！Like！ラブライブ！",
+    "type": "角色卡",
+    "level": 2,
+    "power": 6000,
+    "cost": 1,
+    "trait": ["音楽", "DOLLCHESTRA"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【永】你的回合中，你其他的《音楽》角色每有1张，这张卡的战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "LHS/W122-T16",
+        "rarity": "TD"
+      },
+      {
+        "id": "LHS/W122-T16R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "LHS/W122-T17": {
+    "name": "レインボーシフォン 村野 さやか",
+    "product_name": "[TD]ラブライブ！蓮ノ空女学院スクールアイドルクラブ feat. Link！Like！ラブライブ！",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["音楽", "DOLLCHESTRA"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【自】这张卡从手牌放置到舞台时，你可以将自己时计区顶1张卡放置到休息室。<br/>【自】CxCombo [(1) 1张手牌放置到休息室] 这张卡攻击时，CX区有「ツキマカセ」，你其他的《音楽》角色在3个以上的话，你可以支付Cost。那样的话，给与对方3点伤害，那个回合中，这张卡获得以下能力。「【自】[(2) CX区的1张CX放置到休息室] 这张卡的攻击结束时，你可以支付Cost。那样的话，给予对方1点伤害。」 ",
+    "all_cards": [
+      {
+        "id": "LHS/W122-T17",
+        "rarity": "TD"
+      },
+      {
+        "id": "LHS/W122-T17R",
+        "rarity": "RRR"
+      },
+      {
+        "id": "LHS/W122-T17SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "LHS/W122-T18": {
+    "name": "ツキマカセ",
+    "product_name": "[TD]ラブライブ！蓮ノ空女学院スクールアイドルクラブ feat. Link！Like！ラブライブ！",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你所有的角色卡，攻击力+1000，灵魂值+1<br/>（<img src=\"/effect-icons/gate.webp\"/>：这张卡触发时，你可以选择1张自己休息室的cx返回手牌。",
+    "all_cards": [
+      {
+        "id": "LHS/W122-T18",
+        "rarity": "TD"
+      },
+      {
+        "id": "LHS/W122-T18R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "LHS/W122-T19": {
+    "name": "Link to the FUTURE",
+    "product_name": "[TD]ラブライブ！蓮ノ空女学院スクールアイドルクラブ feat. Link！Like！ラブライブ！",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】 你所有的角色卡，灵魂值+2",
+    "all_cards": [
+      {
+        "id": "LHS/W122-T19",
+        "rarity": "TD"
+      },
+      {
+        "id": "LHS/W122-T19R",
+        "rarity": "RRR"
+      }
+    ]
+  }
+}

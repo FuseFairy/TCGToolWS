@@ -100,4 +100,9 @@ export const seriesMap = {
     prefixes: ['AOH'],
     icon: 'aoh.webp',
   },
+  'Love Live! 莲之空女学院学园偶像俱乐部': {
+    id: 'lhs',
+    prefixes: ['LHS'],
+    icon: 'lhs.webp',
+  },
 }
