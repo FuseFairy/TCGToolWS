@@ -9,3 +9,30 @@
   -webkit-backdrop-filter: blur(9px);
   transition: background-color 0.2s ease-in-out;
 }
+
+.overlay-header-content {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  width: 100%;
+  gap: 8px;
+}
+
+.header-left {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.header-center {
+  grid-column: 2;
+  min-width: 0;
+  overflow: hidden;
+}
+
+.header-right {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  grid-column: 3;
+}

@@ -2,10 +2,10 @@
   <div class="h-100">
     <v-container fluid class="h-100 pa-0">
       <div class="d-flex flex-column h-100 overflow-hidden">
-        <div ref="headerRef" class="overlay-header pa-3 pt-1 pb-1">
-          <div class="d-flex align-center justify-center w-100 position-relative">
+        <div ref="headerRef" class="overlay-header pl-4 pr-4 pa-1">
+          <div class="overlay-header-content">
             <!-- 左側 -->
-            <div class="position-absolute left-0">
+            <div class="header-left">
               <v-btn
                 :size="resize"
                 icon="mdi-share-variant"
@@ -21,7 +21,7 @@
             </div>
 
             <!-- 中間 -->
-            <div class="d-flex align-center">
+            <div class="header-center d-flex align-center">
               <v-btn
                 :size="resize"
                 icon="mdi-arrow-left"
@@ -35,17 +35,18 @@
             </div>
 
             <!-- 右側 -->
-            <div class="position-absolute right-0">
+            <div class="header-right">
               <template v-if="smAndUp">
-                <v-select
-                  v-model="groupBy"
-                  :items="groupByOptions"
-                  label="分类"
-                  density="compact"
-                  variant="outlined"
-                  hide-details
-                  style="width: 120px"
-                ></v-select>
+                <div style="width: 120px">
+                  <v-select
+                    v-model="groupBy"
+                    :items="groupByOptions"
+                    label="分类"
+                    density="compact"
+                    variant="outlined"
+                    hide-details
+                  ></v-select>
+                </div>
               </template>
               <template v-else>
                 <v-btn

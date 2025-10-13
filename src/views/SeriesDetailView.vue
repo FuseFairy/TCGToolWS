@@ -5,52 +5,58 @@
     </div>
 
     <div v-else class="d-flex flex-column h-100">
-      <div ref="headerRef" class="overlay-header pl-4 pr-4 pa-1 pb-1">
-        <div class="d-flex align-center justify-space-between w-100">
-          <v-btn
-            v-if="smAndUp"
-            :size="resize"
-            :icon="filterIcon"
-            variant="text"
-            @click="isFilterOpen = !isFilterOpen"
-          ></v-btn>
-          <div v-else style="width: 48px"></div>
-          <!-- Placeholder for spacing -->
+      <div ref="headerRef" class="overlay-header pl-4 pr-4 pa-1">
+        <div class="overlay-header-content">
+          <div class="header-left">
+            <v-btn
+              v-if="smAndUp"
+              :size="resize"
+              :icon="filterIcon"
+              variant="text"
+              @click="isFilterOpen = !isFilterOpen"
+            ></v-btn>
+          </div>
 
-          <div class="d-flex align-center">
+          <div class="header-center d-flex align-center">
             <v-btn
               :size="resize"
               icon="mdi-arrow-left"
               variant="text"
               :to="{ name: 'SeriesCardTable' }"
+              class="flex-shrink-0"
             ></v-btn>
-            <h1 class="text-h6 text-sm-h5 text-truncate text-center px-2">{{ seriesName }}</h1>
+            <h1
+              class="text-h6 text-sm-h5 text-truncate text-center px-2 flex-grow-1"
+              style="min-width: 0"
+            >
+              {{ seriesName }}
+            </h1>
             <v-chip
               :size="resize"
               prepend-icon="mdi-cards-diamond-outline"
-              class="counter-chip font-weight-bold"
+              class="counter-chip font-weight-bold flex-shrink-0"
             >
               {{ filterStore.filteredCards.length }}
             </v-chip>
           </div>
 
-          <v-badge
-            v-if="smAndUp"
-            :content="deckStore.totalCardCount"
-            :model-value="deckStore.totalCardCount > 0"
-            color="primary"
-            offset-x="6"
-            offset-y="12"
-          >
-            <v-btn
-              :size="resize"
-              icon="mdi-cards"
-              variant="text"
-              @click="isCardDeckOpen = !isCardDeckOpen"
-            ></v-btn>
-          </v-badge>
-          <div v-if="!smAndUp" style="width: 48px"></div>
-          <!-- Placeholder for spacing -->
+          <div class="header-right">
+            <v-badge
+              v-if="smAndUp"
+              :content="deckStore.totalCardCount"
+              :model-value="deckStore.totalCardCount > 0"
+              color="primary"
+              offset-x="6"
+              offset-y="12"
+            >
+              <v-btn
+                :size="resize"
+                icon="mdi-cards"
+                variant="text"
+                @click="isCardDeckOpen = !isCardDeckOpen"
+              ></v-btn>
+            </v-badge>
+          </div>
         </div>
       </div>
 
