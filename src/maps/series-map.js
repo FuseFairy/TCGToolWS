@@ -85,4 +85,9 @@ export const seriesMap = {
     prefixes: ['BD'],
     icon: 'bd.webp',
   },
+  '缘结甘神家': {
+    id: 'amg',
+    prefixes: ['AMG'],
+    icon: 'amg.webp',
+  },
 }
