@@ -70,4 +70,14 @@ export const seriesMap = {
     prefixes: ['CS'],
     icon: 'cs.webp',
   },
+  '摇曳露营': {
+    id: 'yrc',
+    prefixes: ['YRC'],
+    icon: 'yrc.webp',
+  },
+  '里世界郊游': {
+    id: 'rsk',
+    prefixes: ['RSK'],
+    icon: 'rsk.webp',
+  },
 }
