@@ -80,4 +80,9 @@ export const seriesMap = {
     prefixes: ['RSK'],
     icon: 'rsk.webp',
   },
+  'BanG Dream!': {
+    id: 'bd',
+    prefixes: ['BD'],
+    icon: 'bd.webp',
+  },
 }

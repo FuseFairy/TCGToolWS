@@ -1,0 +1,1566 @@
+{
+  "BD/WE49-01": {
+    "name": "“リミットレスハピネス”北沢はぐみ",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "ハロー、ハッピーワールド！"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】 这张卡从手牌放置到舞台时，你看自己卡组顶最多2张卡，按喜欢的顺序放置到卡组顶。<br/>【自】［(1) 手牌中的1张CX卡放置到休息室］ 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张CX卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-01",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-01BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-01SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-02": {
+    "name": "“世界を笑顔にする日々”奥沢美咲",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "ハロー、ハッピーワールド！"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】 这张卡从手牌放置到舞台时，你公开自己卡组顶1张卡。那张卡是《Anniversary》或《ハロー、ハッピーワールド！》的角色卡的话，你选择自己的1个角色，那个回合中，战斗力＋2000。（公开的卡放回原处）<br/>【自】［(1) 手牌中的1张卡放置到休息室］ 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己卡组选择最多1张《Anniversary》或《ハロー、ハッピーワールド！》的角色卡展示给对手后加入手牌，卡组洗切。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-02",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-02BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-02SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-03": {
+    "name": "“大自然の緞帳”瀬田薫",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 1,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "ハロー、ハッピーワールド！"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】 给予你所有领域的触发标记是<img src=\"/effect-icons/choice.webp\"/>的CX卡<img src=\"/effect-icons/soul.webp\"/>触发标记。<br/>【自】 你的触发标记是<img src=\"/effect-icons/soul.webp\"/>的卡触发时，你选择自己的1个角色，那个回合中，战斗力＋1500。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-03",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-03BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-03SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-04": {
+    "name": "“花びらを集めて”桐ヶ谷透子",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4000,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "Morfonica"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】 你每有1个其他的《Anniversary》或《Morfonica》的角色，这张卡的战斗力＋500。<br/>【自】【CX联动】 你的「あたしたちって最高！」放置到CX区时，这张卡在前列，你其他《Anniversary》或《Morfonica》的角色有2个以上的话，你从自己的卡组选择最多2张《Anniversary》或《Morfonica》的角色卡展示给对手。那之后，对手从那些角色卡中选择1张放置到休息室，其余的卡加入你的手牌，卡组洗切。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-04",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-04BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-04SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-05": {
+    "name": "“夢と現実を飛び越える”峰月律",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "夢限大みゅーたいぷ"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】 你的角色全部是《Anniversary》或《夢限大みゅーたいぷ》的角色的话，这张卡的战斗力＋1000。<br/>【自】【CX联动】 这张卡攻击时，CX区有「スタートライン」，你其他《Anniversary》或《夢限大みゅーたいぷ》的角色有2个以上的话，你看自己卡组顶最多4张卡，选择最多1张《Anniversary》或《夢限大みゅーたいぷ》的角色卡展示给对手后加入手牌，其余的卡放置到休息室，选择对手的1个角色，直到下个对手的回合结束为止，给予以下能力。『【永】 这张卡不能移动到其他位置。』",
+    "all_cards": [
+      {
+        "id": "BD/WE49-05",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-05BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-05SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-06": {
+    "name": "“あたしたち崖っぷち”氷川日菜",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 1,
+    "trait": ["Anniversary", "音楽", "Pastel＊Palettes"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】 你其他《Anniversary》或《Pastel＊Palettes》的角色有2个以上的话，这张卡的战斗力＋1500，这张卡获得『【自】 再演 ［手牌中的1张角色卡放置到休息室］』<br/>【自】［(1)］ 这张卡攻击时，你可以支付费用。支付了的话，那次攻击中，你在触发步骤中执行2次触发判定。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-06",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-06BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-06SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-07": {
+    "name": "“友達だから”広町七深",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 2,
+    "power": 5500,
+    "cost": 1,
+    "trait": ["Anniversary", "音楽", "Morfonica"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】 应援 你这张卡前的全部等级3以上的角色，战斗力＋2000。<br/>【自】 你触发到CX卡时，你看自己卡组顶最多2张卡，按喜欢的顺序放置到卡组顶，你选择自己的1个角色，那个回合中，灵魂值＋1。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-07",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-07BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-07SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-08": {
+    "name": "“理由と目的”松原花音",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 3,
+    "power": 9000,
+    "cost": 2,
+    "trait": ["Anniversary", "音楽", "ハロー、ハッピーワールド！"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "【永】 你的《Anniversary》或《ハロー、ハッピーワールド！》的角色有4个以上的话，你手牌中的这张卡的等级－1。<br/>【自】 这张卡从手牌放置到舞台时，直到下个对手的回合结束为止，这张卡的战斗力＋4500，这张卡获得以下能力。『【永】 这张卡的战斗中，所有玩家不能从手牌中使用『助太刀』。』<br/>【自】 这张卡的战斗对手有等级2以上的角色【倒置】时，你从自己的休息室选择1张角色卡返回手牌，选择自己的1张手牌放置到休息室。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-08",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-08BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-08SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-09": {
+    "name": "“幼馴染は留学生”弦巻こころ",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["Anniversary", "音楽", "ハロー、ハッピーワールド！"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "【自】 这张卡从手牌放置到舞台时，你可以将自己时计区顶1张卡放置到休息室<br/>【自】【CX联动】［1张手牌放置到休息室］ 这张卡攻击时，CX区有「伝え合う心」，你其他角色有3个以上的话，你可以支付费用。支付了的话，那个回合中，这张卡获得以下能力。『【自】【回合1】 这张卡造成的伤害被取消时，你从对手的休息室选择最多X张卡，返回卡组，对手将卡组洗切，你给对手造成X点伤害。X是你其他《Anniversary》或《ハロー、ハッピーワールド！》的角色的数量。』（发生伤害取消）",
+    "all_cards": [
+      {
+        "id": "BD/WE49-09",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-09BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-09SP",
+        "rarity": "SP"
+      },
+      {
+        "id": "BD/WE49-09SSP",
+        "rarity": "SSP"
+      }
+    ]
+  },
+  "BD/WE49-10": {
+    "name": "“夢と現実を飛び越える”仲町あられ",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["Anniversary", "音楽", "夢限大みゅーたいぷ"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "【自】 这张卡从手牌放置到舞台时，你可以将自己时计区顶1张卡放置到休息室。<br/>【自】［(3) 2张手牌放置到休息室］ 这张卡攻击时，你可以支付费用。支付了的话，给对手造成2点伤害，你选对方休息室最多1张卡，放置到对手卡组顶。（发生伤害取消）",
+    "all_cards": [
+      {
+        "id": "BD/WE49-10",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-10BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-10SP",
+        "rarity": "SP"
+      },
+      {
+        "id": "BD/WE49-10SSP",
+        "rarity": "SSP"
+      }
+    ]
+  },
+  "BD/WE49-11": {
+    "name": "あたしたちって最高！",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】 你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/choice.webp\"/>：这张卡被触发时，你可以从自己的休息室选择1张触发标记有<img src=\"/effect-icons/soul.webp\"/>的角色卡返回手牌或放置到费用区）",
+    "all_cards": [
+      {
+        "id": "BD/WE49-11",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-11BDR",
+        "rarity": "BDR"
+      }
+    ]
+  },
+  "BD/WE49-12": {
+    "name": "スタートライン",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】 你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/choice.webp\"/>：这张卡被触发时，你可以从自己的休息室选择1张触发标记有<img src=\"/effect-icons/soul.webp\"/>的角色卡返回手牌或放置到费用区）",
+    "all_cards": [
+      {
+        "id": "BD/WE49-12",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-12BDR",
+        "rarity": "BDR"
+      }
+    ]
+  },
+  "BD/WE49-13": {
+    "name": "伝え合う心",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】 你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/choice.webp\"/>：这张卡被触发时，你可以从自己的休息室选择1张触发标记有<img src=\"/effect-icons/soul.webp\"/>的角色卡返回手牌或放置到费用区）",
+    "all_cards": [
+      {
+        "id": "BD/WE49-13",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-13BDR",
+        "rarity": "BDR"
+      }
+    ]
+  },
+  "BD/WE49-14": {
+    "name": "“雲外茜天”上原ひまり",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "Afterglow"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】［你费用区顶1张卡放置到时计区］ 这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你从自己的卡组选择最多1张等级1以下的角色卡展示给对手后加入手牌，卡组洗切。<br/>【自】【时计区】 警铃 这张卡在时计区最上面的话，你的高潮阶段开始时，你选择自己的1个角色，那个回合中，给予以下能力。『【自】 这张卡的战斗对手【倒置】时，你可以将对手时计区顶1张卡放置到休息室。这样做的话，你将那个角色放置到时计区。』",
+    "all_cards": [
+      {
+        "id": "BD/WE49-14",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-14BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-14SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-15": {
+    "name": "“夕焼けを探すために”宇田川巴",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "Afterglow"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】 你的角色全部是《Anniversary》或《Afterglow》的话，这张卡的战斗力＋1500，这张卡获得以下能力。『【自】 这张卡的战斗对手【倒置】时，你从自己的休息室选择1张《Anniversary》或《Afterglow》的角色卡返回手牌，选择自己的1张手牌放置到休息室。』<br/>【自】 这张卡的战斗中，你受到的伤害没有取消时，那个回合中，这张卡的战斗力＋1500。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-15",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-15BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-15SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-16": {
+    "name": "“そこが地獄でも”マスキング",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "RAISE A SUILEN"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】 你全部其他《Anniversary》か《RAISE A SUILEN》的角色，战斗力＋500。<br/>【起】［这张卡【横置】］ 你选择自己的1个角色，那个回合中，给予以下能力。『【自】 这张卡的战斗对手【倒置】时，你可以将对手时计区顶1张卡放置到休息室。这样做的话，你将那个角色放置到时计区。』",
+    "all_cards": [
+      {
+        "id": "BD/WE49-16",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-16BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-16SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-17": {
+    "name": "“背中を押す夕陽”羽沢つぐみ",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "Afterglow"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】 这张卡从手牌放置到舞台时，你可以选择自己的1张手牌放置到费用区。<br/>【自】［(1) 手牌中的1张CX卡放置到休息室］ 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张CX卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-17",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-17BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-17SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-18": {
+    "name": "“麗しい人形たち”モーティス",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "Ave Mujica"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】［(1) 1张手牌放置到休息室］ 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张《Anniversary》或《Ave Mujica》的角色卡返回手牌，选择自己其他1个《Anniversary》或《Ave Mujica》的角色，那个回合中，战斗力＋1000。<br/>【自】 对手的CX卡放置到CX区时，你可以将这张卡放置到费用区。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-18",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-18BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-18SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-19": {
+    "name": "“守りたいからこそ”白鷺千聖",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "Pastel＊Palettes"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】［你舞台的其他1个角色放置到休息室］ 这张卡从手牌放置到舞台时，你可以支付费用。那样的话，你选自己卡组最多1张高潮卡公开，选自己手牌的最多1张CX卡公开，将那些CX卡替换，卡组洗切。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-19",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-19BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-19SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-20": {
+    "name": "“Emersion”レイヤ",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4000,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "RAISE A SUILEN"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】 你其他《Anniversary》或《RAISE A SUILEN》的角色有2个以上的话，这张卡的战斗力＋2000。<br/>【自】 加速 ［(1) 你休息室1张《Anniversary》或《RAISE A SUILEN》的角色卡放置到时计区底］ 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的卡组选择最多1张《Anniversary》或《RAISE A SUILEN》的角色卡展示给对手后加入手牌，卡组洗切。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-20",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-20BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-20SP",
+        "rarity": "SP"
+      },
+      {
+        "id": "BD/WE49-20SSP",
+        "rarity": "SSP"
+      }
+    ]
+  },
+  "BD/WE49-21": {
+    "name": "“感謝を携えて”美竹蘭",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "Afterglow"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】 你的CX卡放置到CX区时，你选择自己的1个角色，那个回合中，战斗力＋1000。<br/>【自】【CX联动】 你的「在りし日の憧れ」放置到CX区时，你其他《Anniversary》或《Afterglow》的角色有2个以上的话，你选择自己的1个角色，那个回合中，给予以下能力。『【自】 这张卡的战斗对手【倒置】时，你从自己的卡组选择最多1张《Anniversary》或 《Afterglow》的角色卡展示给对手后加入手牌，卡组洗切。』",
+    "all_cards": [
+      {
+        "id": "BD/WE49-21",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-21BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-21SP",
+        "rarity": "SP"
+      },
+      {
+        "id": "BD/WE49-21SSP",
+        "rarity": "SSP"
+      }
+    ]
+  },
+  "BD/WE49-22": {
+    "name": "“何色の夕焼けでも”青葉モカ",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2500,
+    "cost": 1,
+    "trait": ["Anniversary", "音楽", "Afterglow"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】［(1) 1张手牌放置到休息室，你舞台的1个角色放置到休息室］ 你使用这张卡的『助太刀』时，你可以支付费用。支付了的话，你可以将对手时计区顶1张卡放置到休息室。这样做的话，你选择对手1个等级比对手高的角色放置到时计区。<br/>【起】【反击】 助太刀2500 等级2 ［(1) 手牌中的这张卡放置到休息室］ （你选择自己1个被正面攻击的角色，那个回合中，战斗力＋2500）",
+    "all_cards": [
+      {
+        "id": "BD/WE49-22",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-22BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-22SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-23": {
+    "name": "“麗しい人形たち”オブリビオニス",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 2,
+    "power": 6500,
+    "cost": 1,
+    "trait": ["Anniversary", "音楽", "Ave Mujica"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】 你的回合中，每有1个其他的《Anniversary》或《Ave Mujica》的角色，这张卡的战斗力＋1500。<br/>【自】 这张卡的战斗对手【倒置】的话，你可以将那个角色思出。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-23",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-23BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-23SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-24": {
+    "name": "“私の向き合い方”ロック",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 3,
+    "power": 9000,
+    "cost": 2,
+    "trait": ["Anniversary", "音楽", "RAISE A SUILEN"],
+    "color": "绿色",
+    "soul": 2,
+    "effect": "【永】 对手有等级3以上的角色的话，你手牌中的这张卡的等级－1。<br/>【自】 这张卡从手牌放置到舞台时，你看自己卡组顶最多3张卡，按喜欢的顺序放置到卡组顶，选择最多1个对手的角色返回手牌。<br/>【自】 这张卡从手牌放置到舞台时，你有其他的《Anniversary》或《RAISE A SUILEN》的角色的话，直到下个对手的回合结束为止，这张卡的战斗力＋2000。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-24",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-24BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-24SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-25": {
+    "name": "在りし日の憧れ",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】 你的所有角色战斗力＋1000，灵魂值＋1。<br/>（<img src=\"/effect-icons/treasure.webp\"/>：这张卡被触发时，你将这张卡返回手牌。你可以将自己卡组顶1张卡放置到库存区）",
+    "all_cards": [
+      {
+        "id": "BD/WE49-25",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-25BDR",
+        "rarity": "BDR"
+      }
+    ]
+  },
+  "BD/WE49-26": {
+    "name": "“注文、いつもの”千早愛音",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "MyGO!!!!!"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【起】［1张手牌放置到休息室，这张卡放置到休息室］ 你从自己的休息室选择1张《Anniversary》或《MyGO!!!!!》的角色卡返回手牌。<br/>【起】 集中 ［(1)］ 你将自己卡组顶4张卡放置到休息室。那些卡中每有1张CX卡，你从自己的卡组选择最多1张《Anniversary》か《MyGO!!!!!》的角色卡展示给对手后加入手牌，选择1张自己的手牌，放置到休息室。』",
+    "all_cards": [
+      {
+        "id": "BD/WE49-26",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-26BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-26SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-27": {
+    "name": "“麗しい人形たち”ドロリス",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "Ave Mujica"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】 你的角色全部是《Anniversary》或《Ave Mujica》的话，这张卡的战斗力＋2000。<br/>【自】 对手的攻击阶段开始时，你可以将这张卡移动到前列的没有角色且正面有对手角色的位置。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-27",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-27BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-27SP",
+        "rarity": "SP"
+      },
+      {
+        "id": "BD/WE49-27SSP",
+        "rarity": "SSP"
+      }
+    ]
+  },
+  "BD/WE49-28": {
+    "name": "“夢と現実を飛び越える”藤都子",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "夢限大みゅーたいぷ"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】 这张卡从手牌放置到舞台时，你看自己卡组顶1张卡，放置到卡组顶或控制室。。<br/>【起】 集中 ［(1) 这张卡【横置】］ 你将自己卡组顶4张卡放置到休息室。那些卡中每有1张CX卡，你从自己的休息室选择最多1张角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-28",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-28BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-28SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-29": {
+    "name": "“夢と現実を飛び越える”千石ユノ",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "夢限大みゅーたいぷ"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】 这张卡的战斗对手【倒置】时，你选择自己其他1个《Anniversary》或《夢限大みゅーたいぷ》的角色，【横置】移动到后列不存在角色的位置。<br/>【自】 这张卡【倒置】时，这张卡的战斗对手的等级是0以下的话，你可以将那个角色【倒置】。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-29",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-29BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-29SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-30": {
+    "name": "“一緒に描く物語”丸山彩",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "Pastel＊Palettes"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】【CX联动】 你的「ドキドキ・エゴサーチ」放置到CX区时，你选择自己其他1个《Anniversary》或《Pastel＊Palettes》的角色，那个回合中，给予以下能力。『【自】 这张卡攻击时，你看自己卡组顶1张卡，选择最多1张《Anniversary》或《Pastel＊Palettes》的角色展示给对手后加入手牌，其余的卡放置到休息室。』<br/>【自】［这张卡返回手牌］ 你的CX卡放置到CX区时，你可以支付费用。支付了的话，你选择最多2个自己的角色，那个回合中，战斗力＋1000。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-30",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-30BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-30SP",
+        "rarity": "SP"
+      },
+      {
+        "id": "BD/WE49-30SSP",
+        "rarity": "SSP"
+      }
+    ]
+  },
+  "BD/WE49-31": {
+    "name": "“麗しい人形たち”ティモリス",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "Ave Mujica"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】【CX联动】 你的「Adventus」放置到CX区时，你有其他《Anniversary》或《Ave Mujica》的角色的话，直到下一个对手的回合结束为止，这张卡获得以下2个能力。『【自】［(1)］ 这张卡攻击时，你可以支付费用。支付了的话，那次攻击中，你在触发步骤中执行2次触发判定。』『【自】 这张卡被正面攻击时，你可以将这张卡返回手牌。』<br/>【自】 这张卡攻击时，那个回合中，这张卡的战斗力＋Ｘ。Ｘ是你其他《Anniversary》或《Ave Mujica》的角色的数量×500。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-31",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-31BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-31SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-32": {
+    "name": "“グッモーーニン☆”戸山香澄",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 2,
+    "power": 6000,
+    "cost": 1,
+    "trait": ["Anniversary", "音楽", "Poppin'Party"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】 你每有1个其他的《Anniversary》か《Poppin'Party》的角色，这张卡的战斗力＋1000。<br/>【自】【CX联动】 你的「私たちの新しい未来へ」放置到CX区时，这张卡在前列，你其他《Anniversary》或《Poppin'Party》的角色有4个以上的话，你从自己的休息室选择最多1张角色卡返回手牌，从自己的休息室选择最多1张《Anniversary》或《Poppin'Party》的角色卡放置到库存区。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-32",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-32BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-32SP",
+        "rarity": "SP"
+      },
+      {
+        "id": "BD/WE49-32SSP",
+        "rarity": "SSP"
+      }
+    ]
+  },
+  "BD/WE49-33": {
+    "name": "“調停者は心静かに”長崎そよ",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 2,
+    "power": 6000,
+    "cost": 1,
+    "trait": ["Anniversary", "音楽", "MyGO!!!!!"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】 你每有1个其他的《Anniversary》或《MyGO!!!!!》的角色，这张卡的战斗力＋1000。<br/>【自】【CX联动】 这张卡攻击时，CX区有「終わらせてあげる」，你其他的角色有3个以上的话，你看自己卡组顶最多4张卡，选择最多1张《Anniversary》或《MyGO!!!!!》的角色卡展示给对手后加入手牌，其余的卡放置到休息室，那次攻击中，你在触发步骤中执行2次触发判定。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-33",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-33BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-33SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-34": {
+    "name": "“夢と現実を飛び越える”宮永ののか",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7000,
+    "cost": 1,
+    "trait": ["Anniversary", "音楽", "夢限大みゅーたいぷ"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】 这张卡攻击时，这张卡正面的角色的等级是3以上的话，那个回合中，这张卡的战斗力＋6000。<br/>【自】 这张卡的等级2以上的战斗对手【倒置】时，你公开自己卡组顶1张卡。那张卡是《Anniversary》或《夢限大みゅーたいぷ》的角色卡的话，你从自己的休息室选择1张《Anniversary》或《夢限大みゅーたいぷ》的角色卡返回手牌。（公开的卡放回原处）",
+    "all_cards": [
+      {
+        "id": "BD/WE49-34",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-34BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-34SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-35": {
+    "name": "“未来の鼓動を感じて”山吹沙綾",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 3,
+    "power": 8500,
+    "cost": 2,
+    "trait": ["Anniversary", "音楽", "Poppin'Party"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【永】 你的《Anniversary》或《Poppin'Party》的角色有4个以上的话，你手牌中的这张卡的等级－1。<br/>【永】 你的回合中，你有其他《Anniversary》或《Poppin'Party》的角色的话，这张卡的战斗力＋2500，这张卡获得以下能力。『【自】 这张卡的战斗对手【倒置】时，你可以将那个角色思出。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-35",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-35BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-35SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-36": {
+    "name": "“麗しい人形たち”アモーリス",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 3,
+    "power": 9000,
+    "cost": 2,
+    "trait": ["Anniversary", "音楽", "Ave Mujica"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【永】 你休息室的CX卡在2张以下的话，你手牌中的这张卡的等级－1。<br/>【永】 你的回合中，这张卡的战斗力＋2000。<br/>【自】 这张卡从手牌放置到舞台的回合中，这张卡的战斗对手【倒置】时，你其他的角色有2个以上的话，你从自己的休息室选择最多2张《Anniversary》或《Ave Mujica》的角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-36",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-36BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-36SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-37": {
+    "name": "“いつもと違う教室で”牛込りみ",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10500,
+    "cost": 2,
+    "trait": ["Anniversary", "音楽", "Poppin'Party"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【自】［(2) 2张手牌放置到休息室］ 这张卡攻击时，你可以支付费用。支付了的话，你将自己的库存区的卡全部放置到休息室，给对手造成4点伤害。（发生伤害取消）<br/>【自】【回合1】 这张卡从手牌放置到舞台的回合中，这张卡给对方造成的伤害被取消时，你给对手造成1点伤害。（发生伤害取消）",
+    "all_cards": [
+      {
+        "id": "BD/WE49-37",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-37BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-37SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-38": {
+    "name": "ドキドキ・エゴサーチ",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【自】 这张卡从手牌放置到CX区时，执行<img src=\"/effect-icons/standby.webp\"/>的效果。<br/>（<img src=\"/effect-icons/standby.webp\"/>：这张卡被触发时，你可以从自己的休息室选择1张等级在自己等级＋1以下的角色卡，【横置】放置到舞台的任意位置）",
+    "all_cards": [
+      {
+        "id": "BD/WE49-38",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-38BDR",
+        "rarity": "BDR"
+      }
+    ]
+  },
+  "BD/WE49-39": {
+    "name": "Adventus",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】 你的所有角色战斗力＋1000，灵魂值＋1。<br/>（<img src=\"/effect-icons/salvage.webp\"/>：这张卡被触发时，你可以从自己的休息室选择1张角色卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "BD/WE49-39",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-39BDR",
+        "rarity": "BDR"
+      }
+    ]
+  },
+  "BD/WE49-40": {
+    "name": "私たちの新しい未来へ",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】 你的所有角色战斗力＋1000，灵魂值＋1。<br/>（<img src=\"/effect-icons/salvage.webp\"/>：这张卡被触发时，你可以从自己的休息室选择1张角色卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "BD/WE49-40",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-40A",
+        "rarity": "AGR"
+      },
+      {
+        "id": "BD/WE49-40BDR",
+        "rarity": "BDR"
+      }
+    ]
+  },
+  "BD/WE49-41": {
+    "name": "終わらせてあげる",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】 你的所有角色战斗力＋1000，灵魂值＋1。<br/>（<img src=\"/effect-icons/salvage.webp\"/>：这张卡被触发时，你可以从自己的休息室选择1张角色卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "BD/WE49-41",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-41BDR",
+        "rarity": "BDR"
+      }
+    ]
+  },
+  "BD/WE49-42": {
+    "name": "“運命の一枚”高松燈",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "MyGO!!!!!"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】［1张手牌放置到休息室］ 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你公开自己卡组顶1张卡，从自己的休息室选择1张等级Ｘ以下的角色卡返回手牌。Ｘ是公开的卡的等级。（CX卡视为0级。公开的卡放回原处）<br/>【自】【时计区】 切换 等级0 （你的主要阶段开始时，你可以从自己的手牌中选择1张蓝色的卡与时计区的这张卡替换）",
+    "all_cards": [
+      {
+        "id": "BD/WE49-42",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-42BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-42SP",
+        "rarity": "SP"
+      },
+      {
+        "id": "BD/WE49-42SSP",
+        "rarity": "SSP"
+      }
+    ]
+  },
+  "BD/WE49-43": {
+    "name": "“楽屋へGO！”市ヶ谷有咲",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "Poppin'Party"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】 这张卡从手牌放置到舞台时，你有其他《Anniversary》或《Poppin'Party》的角色的话，那个回合中，这张卡的战斗力＋2000。<br/>【自】［1张手牌放置到休息室］ 这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你看自己卡组顶最多4张卡，选择最多1张等级1以上的卡展示给对手后加入手牌，其余的卡放置到休息室。（CX卡视为0级）",
+    "all_cards": [
+      {
+        "id": "BD/WE49-43",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-43BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-43SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-44": {
+    "name": "“隣で咲う陽だまりへ”湊友希那",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "Roselia"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】 这张卡从手牌放置到舞台时，那个回合中，这张卡的战斗力＋1500。<br/>【自】［1张手牌放置到休息室］ 这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你看自己卡组顶最多4张卡，选择最多1张《Anniversary》或《Roselia》的角色卡展示给对手后加入手牌，其余的卡放置到休息室。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-44",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-44BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-44SP",
+        "rarity": "SP"
+      },
+      {
+        "id": "BD/WE49-44SSP",
+        "rarity": "SSP"
+      }
+    ]
+  },
+  "BD/WE49-45": {
+    "name": "“その身にまとうのは”白金燐子",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "Roselia"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】 应援 你的回合中，你这张卡前全部等级1以上的角色，战斗力＋500。<br/>【起】 集中 ［(1) 这张卡【横置】］ 你将自己卡组顶4张卡放置到休息室。那些卡中每有1张CX卡，你从自己的休息室选择最多1张角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-45",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-45BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-45SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-46": {
+    "name": "“こだわりトッピング”倉田ましろ",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "Morfonica"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】 这张卡从手牌放置到舞台时，你公开自己卡组顶1张卡。那张卡是《Anniversary》或《Morfonica》的角色卡或「外国語の訳し方」的话，那个回合中，这张卡的战斗力＋2000。（公开的卡放回原处）<br/>【自】［(1) 你卡组顶1张卡放置到时计区］ 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的卡组选择最多1张等级1以下的角色卡展示给对手后加入手牌，卡组洗切。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-46",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-46BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-46SP",
+        "rarity": "SP"
+      },
+      {
+        "id": "BD/WE49-46SSP",
+        "rarity": "SSP"
+      }
+    ]
+  },
+  "BD/WE49-47": {
+    "name": "“いざ！渋谷を冒険”二葉つくし",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "Morfonica"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】［手牌中的1张CX卡放置到休息室］ 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张《Anniversary》或《Morfonica》的角色卡返回手牌。<br/>【自】［这张卡返回手牌］ 你的CX卡放置到CX区时，你可以支付费用。支付了的话，你选择自己的1个角色，直到下一个对手的回合结束为止，战斗力＋1000。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-47",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-47BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-47SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-48": {
+    "name": "“茨道を往く覚悟”氷川紗夜",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "Roselia"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】 你的回合中，你其他《Anniversary》或《Roselia》的角色有2个以上的话，这张卡的攻击力＋2000。<br/>【自】【CX联动】［1张手牌放置到休息室］ 这张卡攻击时，CX区有「青天のハイウェイ」的话，你可以支付费用。支付了的话，你执行以下行动2次。『你看自己卡组顶最多3张卡，选择最多1张《Anniversary》或《Roselia》的角色卡展示给对手后加入手牌，其余的卡放置到休息室。』",
+    "all_cards": [
+      {
+        "id": "BD/WE49-48",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-48BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-48SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-49": {
+    "name": "“新世界への飛翔”宇田川あこ",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "Roselia"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】［1张手牌放置到休息室］ 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你选择对手1个等级1以上的角色，对手从自己的休息室选择1张等级Ｘ以下的角色卡替换。Ｘ是你选择的角色的等级－1。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-49",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-49BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-49SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-50": {
+    "name": "“愛の分だけ温かく”チュチュ",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "RAISE A SUILEN"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】 你的后列每有1个其他的《Anniversary》或《RAISE A SUILEN》的角色，这张卡的攻击力＋500。<br/>【自】【CX联动】 这张卡攻击时，CX区有「Invasion」，你其他《Anniversary》或《RAISE A SUILEN》的角色有2个以上的话，你将自己卡组顶2张卡放置到休息室，选择最多1张自己休息室的等级Ｘ以下的《Anniversary》或《RAISE A SUILEN》的角色卡返回手牌。所选择的角色是等级3以上的话，你可以选择对手的1个角色返回手牌。Ｘ是通过这个效果放置到休息室的卡的合计等级。（CX卡视为0级）",
+    "all_cards": [
+      {
+        "id": "BD/WE49-50",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-50BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-50SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-51": {
+    "name": "“コインパーキングの猫”要楽奈",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["Anniversary", "音楽", "MyGO!!!!!"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】 这张卡从手牌放置到舞台时，你有其他《Anniversary》或《MyGO!!!!!》的角色的话，那个回合中，这张卡的战斗力＋2000。<br/>【自】 这张卡攻击时，CX区有CX卡的话，你公开自己卡组顶1张卡，那张卡是等级1以上的卡的话放置到库存区。（CX卡视为0级。否则放回原处）",
+    "all_cards": [
+      {
+        "id": "BD/WE49-51",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-51BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-51SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-52": {
+    "name": "“くるっとまわって♪”若宮イヴ",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 2,
+    "power": 500,
+    "cost": 1,
+    "trait": ["Anniversary", "音楽", "Pastel＊Palettes"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】［2张手牌放置到休息室］ 你使用这张卡的『助太刀』时，你可以支付费用。支付了的话，你选择对手1个等级比对手高的角色，放置到卡组底。<br/>【起】【反击】 助太刀2500 等级2 ［(1) 手牌中的这张卡放置到休息室］ （你选择自己1个被正面攻击的角色，那个回合中，战斗力＋2500）",
+    "all_cards": [
+      {
+        "id": "BD/WE49-52",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-52BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-52SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-53": {
+    "name": "“君の夢が輝くなら”花園たえ",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2500,
+    "cost": 1,
+    "trait": ["Anniversary", "音楽", "Poppin'Party"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】［(2)］ 你使用这张卡的『助太刀』时，你可以支付费用。支付了的话，你将自己休息室的卡全部返回卡组，卡组洗切。<br/>【起】【反击】 助太刀2500 等级2 ［(1) 手牌中的这张卡放置到休息室］ （你选择自己1个被正面攻击的角色，那个回合中，战斗力＋2500）",
+    "all_cards": [
+      {
+        "id": "BD/WE49-53",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-53BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-53SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-54": {
+    "name": "“あの日の答え”八潮瑠唯",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2500,
+    "cost": 1,
+    "trait": ["Anniversary", "音楽", "Morfonica"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】［(2)］ 你使用这张卡的『助太刀』时，你的《Anniversary》或《Morfonica》的角色有4个以上的话，你可以支付费用。支付了的话，你选择对手1个等级比对手高的角色，放置到休息室。<br/>【起】【反击】 助太刀2500 等级2 ［(1) 手牌中的这张卡放置到休息室］ （你选择自己1个被正面攻击的角色，那个回合中，战斗力＋2000）",
+    "all_cards": [
+      {
+        "id": "BD/WE49-54",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-54BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-54SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-55": {
+    "name": "“きみの隣で花を編む”今井リサ",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 3,
+    "power": 8500,
+    "cost": 2,
+    "trait": ["Anniversary", "音楽", "Roselia"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【永】 你的休息室的CX卡有2张以下的话，你手牌中的这张卡的等级－1。<br/>【自】 这张卡从手牌放置到舞台时，你有其他《Anniversary》或《Roselia》的角色的话，直到下一个对手的回合结束为止，这张卡的战斗力＋2000。<br/>【自】 这张卡从手牌放置到舞台时，你从以下2个效果中选择1个执行。『你看自己卡组顶最多3张卡，选择最多1张卡加入手牌，其余的卡放置到休息室。』『你可以将自己时计区顶1张卡放置到休息室。』",
+    "all_cards": [
+      {
+        "id": "BD/WE49-55",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-55BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-55SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-56": {
+    "name": "“お待たせいたしました”椎名立希",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 3,
+    "power": 9500,
+    "cost": 2,
+    "trait": ["Anniversary", "音楽", "MyGO!!!!!"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【永】 你的《Anniversary》或《MyGO!!!!!》的角色有4个以上的话，你手牌中的这张卡的等级－1。<br/>【自】 这张卡从手牌放置到舞台时，你公开自己卡组顶1张卡。那张卡是《Anniversary》或《MyGO!!!!!》的话，你可以选择对方前列的等级3以下的角色，放置到卡组底。（公开的卡放回原处）",
+    "all_cards": [
+      {
+        "id": "BD/WE49-56",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-56BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-56SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-57": {
+    "name": "“あなたみたいに”大和麻弥",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["Anniversary", "音楽", "Pastel＊Palettes"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【自】 这张卡从手牌放置到舞台时，你抽最多2张卡，选择张手牌放置到休息室，将自己卡组顶最多1张卡放置到库存区。<br/>【自】［(3)］ 这张卡攻击时，你可以支付费用。支付了的话，对方将自己的库存区的卡全部放置到休息室，从自己卡组顶将相同张数的卡放置到库存区。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-57",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-57BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-57SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-58": {
+    "name": "“遠のいてゆくきみ”パレオ",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10500,
+    "cost": 2,
+    "trait": ["Anniversary", "音楽", "RAISE A SUILEN"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【自】【回合1】［(2) 1张手牌放置到休息室，你舞台的其他1个角色放置到休息室］ 这张卡从手牌放置到舞台的回合中，这张卡的攻击结束时，你其他《Anniversary》或《RAISE A SUILEN》的角色有4个以上的话，你可以支付费用。支付了的话，这张卡【竖置】。",
+    "all_cards": [
+      {
+        "id": "BD/WE49-58",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-58BDR",
+        "rarity": "BDR"
+      },
+      {
+        "id": "BD/WE49-58SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE49-59": {
+    "name": "青天のハイウェイ",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】 你的所有角色战斗力＋1000，灵魂值＋1。<br/>（<img src=\"/effect-icons/gate.webp\"/>：这张卡被触发时，你可以从自己的休息室选择1张CX卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "BD/WE49-59",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-59BDR",
+        "rarity": "BDR"
+      }
+    ]
+  },
+  "BD/WE49-60": {
+    "name": "Invasion",
+    "product_name": "プレミアムブースター BanG Dream! 10th Anniversary！",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】 你的所有角色战斗力＋1000，灵魂值＋1。<br/>（<img src=\"/effect-icons/gate.webp\"/>：这张卡被触发时，你可以从自己的休息室选择1张CX卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "BD/WE49-60",
+        "rarity": "N"
+      },
+      {
+        "id": "BD/WE49-60BDR",
+        "rarity": "BDR"
+      }
+    ]
+  }
+}
