@@ -65,4 +65,9 @@ export const seriesMap = {
     prefixes: ['CTB'],
     icon: 'ctb.webp',
   },
+  '蜡笔小新': {
+    id: 'cs',
+    prefixes: ['CS'],
+    icon: 'cs.webp',
+  },
 }
