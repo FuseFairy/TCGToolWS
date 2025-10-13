@@ -90,4 +90,9 @@ export const seriesMap = {
     prefixes: ['AMG'],
     icon: 'amg.webp',
   },
+  '世界计划 彩色舞台 feat.初音未来': {
+    id: 'pjs',
+    prefixes: ['PJS'],
+    icon: 'pjs.webp',
+  },
 }
