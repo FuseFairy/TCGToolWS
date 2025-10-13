@@ -95,4 +95,9 @@ export const seriesMap = {
     prefixes: ['PJS'],
     icon: 'pjs.webp',
   },
+  '青桐高校': {
+    id: 'aoh',
+    prefixes: ['AOH'],
+    icon: 'aoh.webp',
+  },
 }
