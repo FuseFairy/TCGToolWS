@@ -2111,7 +2111,7 @@
     "trait": ["魔法", "メイド"],
     "color": "蓝色",
     "soul": 1,
-    "effect": "-",
+    "effect": "",
     "all_cards": [
       {
         "id": "RZ/S116-094",

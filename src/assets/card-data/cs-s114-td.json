@@ -75,7 +75,7 @@
     "trait": ["MOVIE", "家族", "宝石"],
     "color": "红色",
     "soul": 1,
-    "effect": "-",
+    "effect": "",
     "all_cards": [
       {
         "id": "CS/S114-T04",

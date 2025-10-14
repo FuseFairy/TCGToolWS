@@ -1283,7 +1283,7 @@
     "trait": ["ゆるキャン△", "料理"],
     "color": "红色",
     "soul": 1,
-    "effect": "-",
+    "effect": "",
     "all_cards": [
       {
         "id": "YRC/W116-056",
@@ -2119,7 +2119,7 @@
     "trait": ["ゆるキャン△", "マイペース"],
     "color": "蓝色",
     "soul": 1,
-    "effect": "-",
+    "effect": "",
     "all_cards": [
       {
         "id": "YRC/W116-092",
