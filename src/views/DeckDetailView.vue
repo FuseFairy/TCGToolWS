@@ -289,7 +289,10 @@ const handleShowNewCard = async (cardPayload) => {
           async (baseId) => await fetchCardsByBaseIdAndPrefix(baseId, cardToDisplay.cardIdPrefix)
         )
       )
-      linkedCardsDetails.value = fetchedLinks.flat().filter(Boolean)
+      linkedCardsDetails.value = fetchedLinks
+        .flat()
+        .filter(Boolean)
+        .sort((a, b) => a.name.localeCompare(b.name, 'zh-Hans'))
     } else {
       linkedCardsDetails.value = []
     }

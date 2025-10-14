@@ -101,7 +101,10 @@ const fetchLinkedCards = async (card) => {
     )
 
     const linkedCardsData = await Promise.all(linkRequests)
-    selectedLinkedCards.value = linkedCardsData.flat().filter(Boolean)
+    selectedLinkedCards.value = linkedCardsData
+      .flat()
+      .filter(Boolean)
+      .sort((a, b) => a.name.localeCompare(b.name, 'zh-Hans'))
   } catch (error) {
     console.error('Failed to fetch linked cards:', error)
     selectedLinkedCards.value = []
