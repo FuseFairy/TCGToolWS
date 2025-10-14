@@ -105,4 +105,9 @@ export const seriesMap = {
     prefixes: ['LHS'],
     icon: 'lhs.webp',
   },
+  '偶像大师 灰姑娘女孩': {
+    id: 'imc',
+    prefixes: ['IMC'],
+    icon: 'imc.webp',
+  },
 }
