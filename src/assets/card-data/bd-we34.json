@@ -1,0 +1,982 @@
+{
+  "BD/WE34-01": {
+    "name": "“Astral Harmony”広町七深",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["音楽", "Morfonica"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你其他的《音楽》角色有2个以上的话，这张卡的攻击力+1000。<br>【自】【CX联动】[手牌中1张《音楽》的角色卡放置到休息室] 这张卡攻击时，高潮区有「私達の音楽」，你有其他《音楽》角色的话，你可以支付费用。支付了的话，你看自己卡组顶至多5张卡，选择至多2张《音楽》的角色卡展示给对手后加入手牌，其余的卡放置到休息室。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-01",
+        "rarity": "RR"
+      },
+      {
+        "id": "BD/WE34-01SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE34-02": {
+    "name": "“Summerly Tone♪”桐ヶ谷透子",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["音楽", "Morfonica"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你看自己卡组顶至多2张卡，按喜欢的顺序放回卡组顶。<br>【自】对手的抽卡阶段开始时，你公开自己卡组顶1张卡。那张卡的等级是1级以上的话，你可以将这张卡放置到费用区。（高潮卡的等级视为0级。公开的卡放回原处）",
+    "all_cards": [
+      {
+        "id": "BD/WE34-02",
+        "rarity": "R"
+      },
+      {
+        "id": "BD/WE34-02OFR",
+        "rarity": "OFR"
+      }
+    ]
+  },
+  "BD/WE34-03": {
+    "name": "“Astral Harmony”桐ヶ谷透子",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7500,
+    "cost": 1,
+    "trait": ["音楽", "Morfonica"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】[1张手牌放置到休息室] 这张卡从手牌放置到舞台时，你其他的《Morfonica》角色有4个以上的话，你可以支付费用。支付了的话，对手从自己的休息室选择1张高潮卡，将那张卡以外的休息室的卡全部返回卡组，卡组洗切。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-03",
+        "rarity": "R"
+      },
+      {
+        "id": "BD/WE34-03SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE34-04": {
+    "name": "“Summerly Tone♪”広町七深",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["音楽", "Morfonica"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "【自】这张卡从手牌放置到舞台时，你选择自己手牌中至多1张等级是自己等级以下的角色卡放置到舞台任意位置，那个回合中，那个角色的灵魂值+1。<br>【自】[(4)] 这张卡攻击时，你可以支付费用。支付了的话，你选择自己的1个角色，那个回合中，给予以下能力。『【自】 这个能力1回合发动1次。这张卡造成的伤害取消时，你可以给对手造成相同的伤害。』（发生伤害取消）",
+    "all_cards": [
+      {
+        "id": "BD/WE34-04",
+        "rarity": "R"
+      },
+      {
+        "id": "BD/WE34-04OFR",
+        "rarity": "OFR"
+      }
+    ]
+  },
+  "BD/WE34-05": {
+    "name": "“Daylight”広町七深",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["音楽", "Morfonica"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你其他的角色只有1个以下的话，这张卡的攻击力+1500。<br>【自】对手的攻击阶段开始时，你可以将这张卡移动到前列左侧没有角色的位置上。（只能移动到最左边的位置）",
+    "all_cards": [
+      {
+        "id": "BD/WE34-05",
+        "rarity": "U"
+      }
+    ]
+  },
+  "BD/WE34-06": {
+    "name": "“Morfonica”桐ヶ谷透子",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 1,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽", "Morfonica"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】其他你的《音楽》角色全部攻击力+500。<br>【自】变身 [这张卡放置到休息室] 你的高潮阶段开始时，你可以支付费用。支付了的话，你从自己的休息室选择1张「“Daylight”桐ヶ谷透子」，放置到这张卡原来的位置。（高潮阶段开始时如果没有这张卡就不会发动）<br>【起】[(1) 你的2张角色卡横置] 你将自己卡组顶2张卡放置到休息室，从自己的休息室选择1张等级X以下的《音楽》的角色卡返回手牌。X是那些卡的等级合计。（高潮卡视为0级）",
+    "all_cards": [
+      {
+        "id": "BD/WE34-06",
+        "rarity": "U"
+      }
+    ]
+  },
+  "BD/WE34-07": {
+    "name": "“Daylight”桐ヶ谷透子",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["音楽", "Morfonica"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，你选择自己1个其他的《音楽》角色，那个回合中，攻击力+X。X是其他你的《音楽》角色的张数×500。<br>【自】变身 [这张卡放置到休息室] 你的高潮阶段开始时，你可以支付费用。支付了的话，你从自己的休息室选择1张「“Morfonica”桐ヶ谷透子」，放置到这张卡原来的位置。（高潮阶段开始时如果没有这张卡就不会发动）",
+    "all_cards": [
+      {
+        "id": "BD/WE34-07",
+        "rarity": "U"
+      }
+    ]
+  },
+  "BD/WE34-08": {
+    "name": "“ギター担当”桐ヶ谷透子",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["音楽", "Morfonica"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】其他你前列中间位置的角色攻击力+500。<br>【自】你的其他角色的战斗对手倒置时，你选择自己的1个角色，那个回合中，攻击力+1000。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-08",
+        "rarity": "C"
+      }
+    ]
+  },
+  "BD/WE34-09": {
+    "name": "“Morfonica”広町七深",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 2,
+    "power": 9000,
+    "cost": 2,
+    "trait": ["音楽", "Morfonica"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "【永】舞台的这张卡的等级-2。<br>【永】你其他的《音楽》角色有2个以上的话，这张卡的攻击力+1500，这张卡正面的角色，给予以下能力。『【永】这张卡不能侧面攻击。』<br>【自】这张卡从手牌放置到舞台时，你其他的《音楽》角色有4个以上的话，你可以从自己的休息室选择1张《音楽》的角色卡放置到费用区。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-09",
+        "rarity": "C"
+      }
+    ]
+  },
+  "BD/WE34-10": {
+    "name": "私達の音楽",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的角色卡全部攻击力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/choice.webp\">：这张卡触发时，你可以从自己的休息室选择1张触发标记有<img src=\"/effect-icons/soul.webp\">的角色卡，返回手牌或放置到费用区）",
+    "all_cards": [
+      {
+        "id": "BD/WE34-10",
+        "rarity": "C"
+      }
+    ]
+  },
+  "BD/WE34-11": {
+    "name": "“Rausch und/and Craziness Ⅱ”レイヤ",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 3,
+    "power": 9500,
+    "cost": 2,
+    "trait": ["音楽", "RAISE A SUILEN"],
+    "color": "绿色",
+    "soul": 2,
+    "effect": "【永】这张卡的战斗中，对手不能从手牌中使用事件。<br>【自】这张卡从手牌放置到舞台时，你从自己的卡组找至多1张《音楽》的角色卡展示给对手后加入手牌，卡组洗切。<br>【自】【CX联动】[2张手牌放置到休息室] 这张卡攻击时，你的高潮区有「Beautiful Birthday」的话，你可以支付费用。支付了的话，给对手造成2点伤害，你看对手卡组顶1张卡，放置到卡组顶或卡组底。（发生伤害取消）",
+    "all_cards": [
+      {
+        "id": "BD/WE34-11",
+        "rarity": "RR"
+      },
+      {
+        "id": "BD/WE34-11SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE34-12": {
+    "name": "“Rausch und/and Craziness Ⅱ”ロック",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["音楽", "RAISE A SUILEN"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】[1张手牌放置到休息室] 这张卡攻击时，你可以支付费用。支付了的话，那次攻击中，你在触发步骤执行2次触发。<br>【自】这张卡造成的伤害被取消时，你可以将这张卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-12",
+        "rarity": "R"
+      },
+      {
+        "id": "BD/WE34-12SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE34-13": {
+    "name": "“Rausch und/and Craziness Ⅱ”マスキング",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["音楽", "RAISE A SUILEN"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，那个回合中，这张卡的攻击力+1500。<br>【自】【CX联动】这张卡攻击时，你的高潮区有「夢のひと押し」的话，你选择自己的1个《音楽》角色，那个回合中，给予以下能力。『【自】这张卡的战斗对手倒置时，你可以从自己的休息室选择1张《音楽》的角色卡返回手牌。』",
+    "all_cards": [
+      {
+        "id": "BD/WE34-13",
+        "rarity": "R"
+      },
+      {
+        "id": "BD/WE34-13SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE34-14": {
+    "name": "“THE DEPTHS”ロック",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 1,
+    "trait": ["音楽", "RAISE A SUILEN"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】应援 这张卡前的你的全部《音楽》角色攻击力+X。X是那张角色卡的等级×500。<br>【自】[这张卡横置] 你使用『加速』时，这张卡是竖置状态的话，你可以支付费用。支付了的话，你可以从自己的休息室选择1张《音楽》的角色卡放置到费用区。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-14",
+        "rarity": "R"
+      },
+      {
+        "id": "BD/WE34-14OFR",
+        "rarity": "OFR"
+      }
+    ]
+  },
+  "BD/WE34-15": {
+    "name": "“THE DEPTHS”レイヤ",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7500,
+    "cost": 1,
+    "trait": ["音楽", "RAISE A SUILEN"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】[(2)] 这张卡从手牌放置到舞台时，其他你的《RAISE A SUILEN》角色有4个以上的话，你可以支付费用。支付了的话，对手将自己的费用全部放置到休息室，从自己的卡组顶放置相同张数的卡到费用区。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-15",
+        "rarity": "R"
+      },
+      {
+        "id": "BD/WE34-15OFR",
+        "rarity": "OFR"
+      }
+    ]
+  },
+  "BD/WE34-16": {
+    "name": "“THE DEPTHS”マスキング",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 3,
+    "power": 9500,
+    "cost": 2,
+    "trait": ["音楽", "RAISE A SUILEN"],
+    "color": "绿色",
+    "soul": 2,
+    "effect": "【自】这张卡从手牌放置到舞台的那个回合中，再演步骤开始时，你可以将自己时计区顶至多1张卡放置到休息室。<br>【自】加速 [将你休息室1张《音楽》的角色卡放置到时计区底] 你的高潮阶段开始时，你可以支付费用。支付了的话，你选择自己休息室的1张卡，那张卡以外的休息室的卡全部返回卡组，卡组洗切。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-16",
+        "rarity": "R"
+      },
+      {
+        "id": "BD/WE34-16OFR",
+        "rarity": "OFR"
+      }
+    ]
+  },
+  "BD/WE34-17": {
+    "name": "MV撮影 ロック",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["音楽", "RAISE A SUILEN"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你其他0级以下的角色，在那个回合中，给予以下能力。『【自】这张卡攻击时，你看自己卡组顶1张卡，放置到卡组顶或休息室。』<br>【自】[(1) 1张手牌放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你看自己卡组顶至多X张卡，选择至多1张卡加入手牌，其余的卡放置到休息室。X是你其他《音楽》角色的数量。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-17",
+        "rarity": "U"
+      }
+    ]
+  },
+  "BD/WE34-18": {
+    "name": "“音は嘘つかねえ”マスキング",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["音楽", "RAISE A SUILEN"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】[手牌中1张高潮卡放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张《音楽》的角色卡返回手牌。<br>【自】这张卡攻击时，你的全部角色在那个回合中，给予以下能力。『【自】 这张卡的触发步骤触发到触发标记是<img src=\"/effect-icons/treasure.webp\">的高潮卡时，你可以抽1张牌。这样做的话，你选择自己的1张手牌放置到休息室。』",
+    "all_cards": [
+      {
+        "id": "BD/WE34-18",
+        "rarity": "U"
+      }
+    ]
+  },
+  "BD/WE34-19": {
+    "name": "“夢を撃ち抜く瞬間に！”レイヤ",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 1,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽", "RAISE A SUILEN"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你选择对手的1个角色，直到下一个对手的回合结束为止，给予以下能力。『【永】这张卡不能移动到其他位置。』<br>【自】这张卡倒置时，这张卡的战斗对手的费用是0以下的话，你可以将对手时计区顶1张卡放置到休息室。这样做的话，你将那张角色卡放置到时计区。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-19",
+        "rarity": "U"
+      }
+    ]
+  },
+  "BD/WE34-20": {
+    "name": "夢を追いかけて ロック",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["音楽", "RAISE A SUILEN"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，你公开自己卡组顶1张卡。那张卡是《Poppin\\'Party》或《RAISE A SUILEN》的角色卡或事件的话，你选择自己其他1个《Poppin\\'Party》或《RAISE A SUILEN》的角色，在那个回合中，攻击力+3000。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-20",
+        "rarity": "U"
+      }
+    ]
+  },
+  "BD/WE34-21": {
+    "name": "決勝のステージ マスキング",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7500,
+    "cost": 1,
+    "trait": ["音楽", "RAISE A SUILEN"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】这张卡的战斗中，所有玩家不能从手牌中使用『助太刀』。<br>【自】这张卡从手牌放置到舞台时，那个回合中，这张卡的攻击力+X。X是你的《音楽》角色的数量×1000。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-21",
+        "rarity": "U"
+      }
+    ]
+  },
+  "BD/WE34-22": {
+    "name": "最高のライブ レイヤ",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3500,
+    "cost": 0,
+    "trait": ["音楽", "RAISE A SUILEN"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】对手的全部角色给予『【自】再演 [(2)] 』。<br>【自】这张卡的触发步骤触发到触发标记是<img src=\"/effect-icons/treasure.webp\">的高潮卡时，你可以从自己的休息室选择1张角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-22",
+        "rarity": "C"
+      }
+    ]
+  },
+  "BD/WE34-23": {
+    "name": "新しいステージへ ロック",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 2,
+    "power": 5500,
+    "cost": 1,
+    "trait": ["音楽", "RAISE A SUILEN"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】对手的后列每有1个角色，这张卡的攻击力+2500。<br>【自】再演 [(1) 你舞台的1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，将这张卡横置放回原位）",
+    "all_cards": [
+      {
+        "id": "BD/WE34-23",
+        "rarity": "C"
+      }
+    ]
+  },
+  "BD/WE34-24": {
+    "name": "Beautiful Birthday",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】你的角色卡全部攻击力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/treasure.webp\">：这张卡触发时，你将这张卡返回手牌。你可以将自己卡组顶1张卡放置到费用区）",
+    "all_cards": [
+      {
+        "id": "BD/WE34-24",
+        "rarity": "C"
+      }
+    ]
+  },
+  "BD/WE34-25": {
+    "name": "夢のひと押し",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】你的角色卡全部攻击力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/treasure.webp\">：这张卡触发时，你将这张卡返回手牌。你可以将自己卡组顶1张卡放置到费用区）",
+    "all_cards": [
+      {
+        "id": "BD/WE34-25",
+        "rarity": "C"
+      }
+    ]
+  },
+  "BD/WE34-26": {
+    "name": "“Astral Harmony”二葉つくし",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["音楽", "Morfonica"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【起】[2张手牌放置到休息室、这张卡放置到休息室] 你从自己的休息室选择1张等级是自己等级以下的《音楽》的角色卡，放置到这张卡的位置。<br>【起】集中 [(1) 这张卡横置] 你将自己卡组顶4张卡放置到休息室。那些卡中每有1张高潮卡，你从自己的卡组找至多1张《音楽》的角色卡展示给对手后加入手牌，重洗卡组。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-26",
+        "rarity": "RR"
+      },
+      {
+        "id": "BD/WE34-26SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE34-27": {
+    "name": "“Rausch und/and Craziness Ⅱ”パレオ",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["音楽", "RAISE A SUILEN"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你公开自己卡组顶1张卡。那张卡是《音楽》的角色卡的话，那个回合中，这张卡的等级+1，攻击力+1500。（公开的卡放回原处）<br>【自】这张卡的战斗对手倒置时，你选择自己其他1个《音楽》角色，将其横置，移动到后列没有角色的位置。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-27",
+        "rarity": "RR"
+      },
+      {
+        "id": "BD/WE34-27SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE34-28": {
+    "name": "“Astral Harmony”倉田ましろ",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 3,
+    "power": 8500,
+    "cost": 2,
+    "trait": ["音楽", "Morfonica"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【永】你其他的《音楽》角色卡每有1个，这张卡的攻击力+500。<br>【自】这张卡从手牌放置到舞台时，你可以将自己时计区顶1张卡放置到休息室。<br>【自】【CX联动】[(2) 这张卡思出] 这张卡造成的伤害被取消时，你的高潮区有「Daylight」，你其他的《音楽》角色有4个以上的话，你可以支付费用。支付了的话，你选择自己休息室的1张角色卡，放置到这张卡原来的位置。（不会发生战斗）",
+    "all_cards": [
+      {
+        "id": "BD/WE34-28",
+        "rarity": "RR"
+      },
+      {
+        "id": "BD/WE34-28SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE34-29": {
+    "name": "“Rausch und/and Craziness Ⅱ”チュチュ",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 3,
+    "power": 9000,
+    "cost": 2,
+    "trait": ["音楽", "RAISE A SUILEN"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【永】你的休息室的高潮卡在2张以下的话，你手牌中的这张卡的等级-1。<br>【永】你其他后列的《音楽》角色每有1个，这张卡的攻击力+1000。<br>【自】这张卡从手牌放置到舞台的回合中，再演步骤开始时，你可以将自己时计区顶1张卡放置到休息室。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-29",
+        "rarity": "RR"
+      },
+      {
+        "id": "BD/WE34-29SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE34-30": {
+    "name": "“Summerly Tone♪”倉田ましろ",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["音楽", "Morfonica"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，你选择自己的1个《Morfonica》角色，在那个回合中，攻击力+1500。<br>【自】[你卡组顶1张卡放置到时计区] 对手的攻击阶段开始时，你可以支付费用。支付了的话，你将这张卡移动到后列没有角色的位置。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-30",
+        "rarity": "R"
+      },
+      {
+        "id": "BD/WE34-30OFR",
+        "rarity": "OFR"
+      }
+    ]
+  },
+  "BD/WE34-31": {
+    "name": "“THE DEPTHS”パレオ",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["音楽", "RAISE A SUILEN"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】战斗中这张卡倒置时，这张卡的战斗对手的等级是0级以下的话，你可以将那张角色卡放置到卡组底。<br>【起】集中 [(1) 这张卡横置] 你将自己卡组顶4张卡放置到休息室。那些卡中每有1张高潮卡，你从自己的休息室选择至多1张《RAISE A SUILEN》的角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-31",
+        "rarity": "R"
+      },
+      {
+        "id": "BD/WE34-31OFR",
+        "rarity": "OFR"
+      }
+    ]
+  },
+  "BD/WE34-32": {
+    "name": "“THE DEPTHS”チュチュ",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["音楽", "RAISE A SUILEN"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你的费用在2张以下的话，这张卡的等级+1，攻击力+1000。<br>【自】对手的攻击阶段开始时，你可以选择对手前列的1个角色，移动到前列其他没有角色的位置。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-32",
+        "rarity": "R"
+      },
+      {
+        "id": "BD/WE34-32OFR",
+        "rarity": "OFR"
+      }
+    ]
+  },
+  "BD/WE34-33": {
+    "name": "“Astral Harmony”八潮瑠唯",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["音楽", "Morfonica"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你将自己卡组顶2张卡放置到休息室。那些卡中有0级以下的角色卡的话，那个回合中，这张卡即使侧面攻击灵魂值也不会减少。<br>【自】[(1) 手牌中1张高潮卡放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张高潮卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-33",
+        "rarity": "R"
+      },
+      {
+        "id": "BD/WE34-33SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "BD/WE34-34": {
+    "name": "“Summerly Tone♪”八潮瑠唯",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 2,
+    "power": 6500,
+    "cost": 1,
+    "trait": ["音楽", "Morfonica"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】应援 这张卡前的你的全部《Morfonica》角色攻击力+1500。<br>【自】变身 [这张卡放置到休息室] 你的高潮阶段开始时，你可以支付费用。支付了的话，你从自己的休息室选择1张「“Daylight”八潮瑠唯」，放置到这张卡原来的位置。（高潮阶段开始时如果没有这张卡就不会发动）",
+    "all_cards": [
+      {
+        "id": "BD/WE34-34",
+        "rarity": "R"
+      },
+      {
+        "id": "BD/WE34-34OFR",
+        "rarity": "OFR"
+      }
+    ]
+  },
+  "BD/WE34-35": {
+    "name": "“Summerly Tone♪”二葉つくし",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["音楽", "Morfonica"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【永】你休息室的高潮卡在2张以下的话，你手牌中这张卡的等级-1。<br>【自】这张卡从手牌放置到舞台时，那个回合中，这张卡的攻击力+1500。<br>【自】这张卡从舞台放置到休息室时，你可以将这张卡返回手牌。这样做的话，你从自己的休息室选择至多1张《音楽》的角色卡放置到费用区。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-35",
+        "rarity": "R"
+      },
+      {
+        "id": "BD/WE34-35OFR",
+        "rarity": "OFR"
+      }
+    ]
+  },
+  "BD/WE34-36": {
+    "name": "“ヴァイオリン担当”八潮瑠唯",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["音楽", "Morfonica"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你其他的《音楽》角色有2个以上的话，你可以抽1张牌。这样做的话，你选择自己的1张手牌放置到休息室。<br>【起】[(1) 这张卡放置到休息室] 你从自己的手牌中选择至多1张等级是自己等级以下的《音楽》的角色卡放置到这张卡原来的位置。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-36",
+        "rarity": "U"
+      }
+    ]
+  },
+  "BD/WE34-37": {
+    "name": "メンバー紹介 チュチュ",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["音楽", "RAISE A SUILEN"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】[(1) 1张手牌放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的卡组找至多1张《音楽》的角色卡展示给对手后加入手牌，重洗卡组。<br>【自】这张卡的战斗中，你受到的伤害取消时，你可以将这张卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-37",
+        "rarity": "U"
+      }
+    ]
+  },
+  "BD/WE34-38": {
+    "name": "“Daylight”倉田ましろ",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 1,
+    "power": 3500,
+    "cost": 1,
+    "trait": ["音楽", "Morfonica"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你看自己卡组顶1张卡，放置到卡组顶或卡组底。<br>【自】这张卡倒置时，这张卡的战斗对手的等级比对手等级高的话，你可以将那张角色卡放置到卡组底。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-38",
+        "rarity": "U"
+      }
+    ]
+  },
+  "BD/WE34-39": {
+    "name": "“Daylight”二葉つくし",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 2,
+    "power": 1500,
+    "cost": 1,
+    "trait": ["音楽", "Morfonica"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】[手牌中2张《音楽》的角色卡放置到休息室] 你使用这张卡的『助太刀』时，你可以支付费用。支付了的话，你选择对手1张等级比对手等级高的角色卡，放置到卡组底。<br>【起】【反击】助太刀2500 等级2 [(1) 手牌中这张卡放置到休息室] （你选择自己被正面攻击的一张角色卡，那个回合中攻击力+2500）",
+    "all_cards": [
+      {
+        "id": "BD/WE34-39",
+        "rarity": "U"
+      }
+    ]
+  },
+  "BD/WE34-40": {
+    "name": "驚きの速さ パレオ",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 2,
+    "power": 5000,
+    "cost": 1,
+    "trait": ["音楽", "RAISE A SUILEN"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你的前列有其他「“Rausch und/and Craziness Ⅱ”チュチュ」的话，这张卡的攻击力+5500，这张卡给予『【自】再演［手牌中1张《音楽》的角色卡放置到休息室］』。<br>【永】你其他的「“Rausch und/and Craziness Ⅱ”チュチュ」全部攻击力+2000，给予以下3个能力。『【永】这张卡不会被对手的效果选择。』『【永】这张卡不会因为对手角色的【自】效果倒置。』『【自】[(1)] 这张卡攻击时，你可以支付费用。支付了的话，那次攻击中，你在触发步骤进行2次触发。』",
+    "all_cards": [
+      {
+        "id": "BD/WE34-40",
+        "rarity": "U"
+      }
+    ]
+  },
+  "BD/WE34-41": {
+    "name": "“Daylight”八潮瑠唯",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7000,
+    "cost": 1,
+    "trait": ["音楽", "Morfonica"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，这张卡正面的角色的等级是3级以上的话，那个回合中，这张卡的攻击力+6000。<br>【自】变身 [这张卡放置到休息室] 你的高潮阶段开始时，你可以支付费用。支付了的话，你从自己的休息室选择1张「“Summerly Tone♪”八潮瑠唯」，放置到这张卡原来的位置。（高潮阶段开始时如果没有这张卡就不会发动）",
+    "all_cards": [
+      {
+        "id": "BD/WE34-41",
+        "rarity": "U"
+      }
+    ]
+  },
+  "BD/WE34-42": {
+    "name": "“Morfonica”二葉つくし",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["音楽", "Morfonica"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你看自己卡组顶至多1张卡，放置到卡组顶或卡组底。<br>【自】这张卡从手牌放置到舞台时，对手宣言0或1或2或3。你公开自己卡组顶1张卡，那张卡是对手宣言等级的角色卡的话，放置到舞台任意位置。（不是的话放回原处）",
+    "all_cards": [
+      {
+        "id": "BD/WE34-42",
+        "rarity": "C"
+      }
+    ]
+  },
+  "BD/WE34-43": {
+    "name": "“ドラム担当”二葉つくし",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 1,
+    "power": 3500,
+    "cost": 0,
+    "trait": ["音楽", "Morfonica"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你其他的《音楽》角色每有1个，这张卡的攻击力+500。<br>【自】这张卡攻击时，这张卡正面的角色的等级是2级以上的话，那个回合中，这张卡的攻击力+6000。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-43",
+        "rarity": "C"
+      }
+    ]
+  },
+  "BD/WE34-44": {
+    "name": "押しかけ勧誘 パレオ",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["音楽", "RAISE A SUILEN"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你前列其他的「押しかけ勧誘 チュチュ」每有1张，这张卡的攻击力+2000。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-44",
+        "rarity": "C"
+      }
+    ]
+  },
+  "BD/WE34-45": {
+    "name": "押しかけ勧誘 チュチュ",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["音楽", "RAISE A SUILEN"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你前列其他的「押しかけ勧誘 パレオ」每有1张，这张卡的攻击力+2000。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-45",
+        "rarity": "C"
+      }
+    ]
+  },
+  "BD/WE34-46": {
+    "name": "“Morfonica”八潮瑠唯",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6000,
+    "cost": 0,
+    "trait": ["音楽", "Morfonica"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】这张卡正面的角色的等级比这张卡的等级高的话，这张卡不能正面攻击。<br>【永】你其他的《音楽》角色有2个以上的话，这张卡的攻击力+1000。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-46",
+        "rarity": "C"
+      }
+    ]
+  },
+  "BD/WE34-47": {
+    "name": "メンバー紹介 パレオ",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 1,
+    "power": 1000,
+    "cost": 1,
+    "trait": ["音楽", "RAISE A SUILEN"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】你使用这张卡的『助太刀』时，你的角色全部是《音楽》的话，你可以将自己卡组顶1张卡放置到费用区。<br>【起】【反击】助太刀2000 等级1 [(1) 手牌中这张卡放置到休息室] （你选择自己被正面攻击的一张角色卡，那个回合中攻击力+2000）",
+    "all_cards": [
+      {
+        "id": "BD/WE34-47",
+        "rarity": "C"
+      }
+    ]
+  },
+  "BD/WE34-48": {
+    "name": "“Morfonica”倉田ましろ",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 2,
+    "power": 3500,
+    "cost": 1,
+    "trait": ["音楽", "Morfonica"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，你选择自己的1个角色，在那个回合中，攻击力+5000。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-48",
+        "rarity": "C"
+      }
+    ]
+  },
+  "BD/WE34-49": {
+    "name": "決戦は武道館 チュチュ",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "角色卡",
+    "level": 2,
+    "power": 4500,
+    "cost": 1,
+    "trait": ["音楽", "RAISE A SUILEN"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】应援 这张卡前的你的全部角色攻击力+X。X是那个角色的等级×500。<br>【起】[这张卡横置] 你选择自己其他的1张角色卡放置到费用区。",
+    "all_cards": [
+      {
+        "id": "BD/WE34-49",
+        "rarity": "C"
+      }
+    ]
+  },
+  "BD/WE34-50": {
+    "name": "Daylight",
+    "product_name": "Morfonica×RAISE A SUILEN",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/gate.webp\">：这张卡被触发时，你可以从自己的休息室选择1张高潮卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "BD/WE34-50",
+        "rarity": "C"
+      }
+    ]
+  }
+}
