@@ -1,0 +1,182 @@
+{
+  "AB/W11-101": {
+    "name": "“天使”と呼ばれる少女 かなで",
+    "product_name": "2010年度トライアルデッキ【W】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["死", "生徒会"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】记忆 你的回合中，你的思出区有卡的话，这张卡的战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "AB/W11-101",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "AB/W11-103": {
+    "name": "運命に立ち向かう少女",
+    "product_name": "2010年度トライアルデッキ【W】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 7000,
+    "cost": 1,
+    "trait": ["死", "生徒会"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "AB/W11-103",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "AB/W11-104": {
+    "name": "ガルデモの大ファン ユイ",
+    "product_name": "2010年度トライアルデッキ【W】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["死", "音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你的回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "AB/W11-104",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "AB/W11-T01": {
+    "name": "カリスマボーカル 岩沢",
+    "product_name": "2010年度トライアルデッキ【W】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["死", "音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】[(1)] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你选择对手1个等级0以下的角色返回手牌，回合结束时，这张卡思出。",
+    "all_cards": [
+      {
+        "id": "AB/W11-T01",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "AB/W11-T02": {
+    "name": "姉御肌 ひさ子",
+    "product_name": "2010年度トライアルデッキ【W】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["死", "音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "AB/W11-T02",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "AB/W11-T03": {
+    "name": "岩沢の後継者 ユイ",
+    "product_name": "2010年度トライアルデッキ【W】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 0,
+    "trait": ["死", "音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "AB/W11-T03",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "AB/W11-T04": {
+    "name": "戦線の敵 天使",
+    "product_name": "2010年度トライアルデッキ【W】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 2000,
+    "cost": 1,
+    "trait": ["死", "生徒会"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀2000 等级1 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+2000）",
+    "all_cards": [
+      {
+        "id": "AB/W11-T04",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "AB/W11-T05": {
+    "name": "ガルデモのリーダー 岩沢",
+    "product_name": "2010年度トライアルデッキ【W】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 5500,
+    "cost": 1,
+    "trait": ["死", "音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前全部等级2以上的角色，战斗力+1000。<br>【永】记忆 你的思出区有3张以上的话，这张卡获得『【永】应援 你这张卡前的全部角色，战斗力+500。』。",
+    "all_cards": [
+      {
+        "id": "AB/W11-T05",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "AB/W11-T06": {
+    "name": "生前の記憶のない音無",
+    "product_name": "2010年度トライアルデッキ【W】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8500,
+    "cost": 1,
+    "trait": ["死"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "AB/W11-T06",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "AB/W11-T07": {
+    "name": "女の最高の幸せ",
+    "product_name": "2010年度トライアルデッキ【W】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/bounce.webp\">：这张卡被触发时，你可以选择对手的1个角色，使其返回手牌）",
+    "all_cards": [
+      {
+        "id": "AB/W11-T07",
+        "rarity": "TD"
+      }
+    ]
+  }
+}

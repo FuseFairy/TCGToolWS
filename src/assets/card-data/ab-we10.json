@@ -1,0 +1,650 @@
+{
+  "AB/WE10-01": {
+    "name": "お色気担当？ ユイ",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3500,
+    "cost": 0,
+    "trait": ["死", "音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，你公开自己卡组顶1张卡。那张卡是高潮卡的话，那个回合中，这张卡的战斗力-3000。（公开的卡放回原处）",
+    "all_cards": [
+      {
+        "id": "AB/WE10-01",
+        "rarity": "R"
+      }
+    ]
+  },
+  "AB/WE10-02": {
+    "name": "よき理解者 岩沢＆ひさ子",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["死", "音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】记忆 你的思出区有卡的话，这张卡的战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "AB/WE10-02",
+        "rarity": "R"
+      }
+    ]
+  },
+  "AB/WE10-03": {
+    "name": "対立の終わり かなで",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["死", "生徒会"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你的回合中，这张卡的战斗力+1000。<br>【起】集中 [(1)] 你将自己卡组顶4张卡放置到休息室。那些卡中每有1张高潮卡，你选择自己1个《死》的角色，那个回合中，战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "AB/WE10-03",
+        "rarity": "R"
+      }
+    ]
+  },
+  "AB/WE10-04": {
+    "name": "“神の使い”天使",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 7500,
+    "cost": 1,
+    "trait": ["死", "生徒会"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你公开自己卡组顶1张卡。那张卡不是《死》的角色卡的话，你的再演步骤开始时，这张卡放置到休息室。（公开的卡放回原处）",
+    "all_cards": [
+      {
+        "id": "AB/WE10-04",
+        "rarity": "R"
+      }
+    ]
+  },
+  "AB/WE10-05": {
+    "name": "“マラドーナ”ユイ",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["死", "音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】记忆 你思出区的《死》的角色卡有2张以上的话，这张卡的战斗力+500，这张卡获得以下能力。『【永】你的回合中，这张卡的战斗力+1000。』",
+    "all_cards": [
+      {
+        "id": "AB/WE10-05",
+        "rarity": "R"
+      }
+    ]
+  },
+  "AB/WE10-06": {
+    "name": "別れの言葉 かなで",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["死", "生徒会"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "【自】这张卡从手牌或通过『变身』放置到舞台时，你可以将自己时计区顶1张卡放置到休息室。<br>【自】[(1)] 你的「いつかどこかで」放置到高潮区时，前列有这张卡的话，你可以支付费用。支付了的话，你选择对手1个等级2以下的角色放置到费用区。",
+    "all_cards": [
+      {
+        "id": "AB/WE10-06",
+        "rarity": "R"
+      }
+    ]
+  },
+  "AB/WE10-07": {
+    "name": "情熱少女 ユイ",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["死", "音楽"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "【永】这张卡不会被对手的效果选择。<br>【自】这张卡从手牌放置到舞台时，你选择自己其他至多2个角色，那个回合中，战斗力+1000，灵魂值+1。<br>【自】[(1) 1张手牌放置到休息室] 这张卡攻击时，你可以支付费用。支付了的话，你选择对手前列的1个角色返回手牌，那个回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "AB/WE10-07",
+        "rarity": "R"
+      }
+    ]
+  },
+  "AB/WE10-08": {
+    "name": "仲良しコンビ 関根＆入江",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["死", "音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。<br>【自】[(1)] 战斗中这张卡倒置时，你可以支付费用。支付了的话，这张卡思出。",
+    "all_cards": [
+      {
+        "id": "AB/WE10-08",
+        "rarity": "C"
+      }
+    ]
+  },
+  "AB/WE10-09": {
+    "name": "鼓動の記憶 音無",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["死"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】绊／「“神の使い”天使」 [(1)] （这张卡被使用放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张「“神の使い”天使」返回手牌）",
+    "all_cards": [
+      {
+        "id": "AB/WE10-09",
+        "rarity": "C"
+      }
+    ]
+  },
+  "AB/WE10-10": {
+    "name": "水着のかなで",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["死", "生徒会"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你的回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "AB/WE10-10",
+        "rarity": "C"
+      }
+    ]
+  },
+  "AB/WE10-11": {
+    "name": "ミーハーで努力家 ユイ",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["死", "音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】[(1)] 这张卡攻击时，你可以支付费用。支付了的话，你选择自己的1个角色，那个回合中，战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "AB/WE10-11",
+        "rarity": "C"
+      }
+    ]
+  },
+  "AB/WE10-12": {
+    "name": "かつての強敵 かなで",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["死", "生徒会"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "AB/WE10-12",
+        "rarity": "C"
+      }
+    ]
+  },
+  "AB/WE10-13": {
+    "name": "ギターパフォーマー 岩沢",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["死", "音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】[(2) 这张卡思出] 战斗中这张卡倒置时，你可以支付费用。支付了的话，你从自己的卡组找至多1张《死》的角色卡展示给对手后加入手牌。卡组洗切。",
+    "all_cards": [
+      {
+        "id": "AB/WE10-13",
+        "rarity": "C"
+      }
+    ]
+  },
+  "AB/WE10-14": {
+    "name": "いつでも元気 ユイ",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["死", "音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你每有1个其他的《音楽》的角色，这张卡的战斗力+500。",
+    "all_cards": [
+      {
+        "id": "AB/WE10-14",
+        "rarity": "C"
+      }
+    ]
+  },
+  "AB/WE10-15": {
+    "name": "似た者夫婦 ユイ＆日向",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["死", "音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，那个回合中，这张卡的战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "AB/WE10-15",
+        "rarity": "C"
+      }
+    ]
+  },
+  "AB/WE10-16": {
+    "name": "2代目ボーカリスト ユイ",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6500,
+    "cost": 1,
+    "trait": ["死", "音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】[你卡组顶1张卡放置到时计区] 这张卡攻击时，高潮区有「オペレーション・トルネード feat. ユイ」的话，你可以支付费用。支付了的话，那个回合中，这张卡的战斗力+4000，对手不能使用『【自】再演』。（规则的『【自】再演 [(3)] 』也不能使用）",
+    "all_cards": [
+      {
+        "id": "AB/WE10-16",
+        "rarity": "C"
+      }
+    ]
+  },
+  "AB/WE10-17": {
+    "name": "勝気なギタリスト ひさ子",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2500,
+    "cost": 1,
+    "trait": ["死", "音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀3000 等级2 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+3000）",
+    "all_cards": [
+      {
+        "id": "AB/WE10-17",
+        "rarity": "C"
+      }
+    ]
+  },
+  "AB/WE10-18": {
+    "name": "普通の女の子 かなで",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7500,
+    "cost": 1,
+    "trait": ["死", "生徒会"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】变身 [(1) 1张手牌放置到休息室，这张卡思出] 你的再演步骤开始时，这张卡是横置状态的话，你可以支付费用。支付了的话，你从自己的休息室选择1张「別れの言葉 かなで」，放置到这张卡原来的位置。",
+    "all_cards": [
+      {
+        "id": "AB/WE10-18",
+        "rarity": "C"
+      }
+    ]
+  },
+  "AB/WE10-19": {
+    "name": "二つの顔 直井",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8500,
+    "cost": 2,
+    "trait": ["死", "生徒会"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "【自】[1张手牌放置到休息室] 这张卡从手牌放置到舞台时，你有其他《死》的角色的话，你可以支付费用。支付了的话，你选择对手1个等级0以下的角色放置到费用区。",
+    "all_cards": [
+      {
+        "id": "AB/WE10-19",
+        "rarity": "C"
+      }
+    ]
+  },
+  "AB/WE10-20": {
+    "name": "いつかどこかで",
+    "product_name": "Angel Beats!",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/bounce.webp\">：这张卡被触发时，你可以选择对手的1个角色，使其返回手牌）",
+    "all_cards": [
+      {
+        "id": "AB/WE10-20",
+        "rarity": "C"
+      }
+    ]
+  },
+  "AB/WE10-21": {
+    "name": "オペレーション・トルネード feat. ユイ",
+    "product_name": "Angel Beats!",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你将自己卡组顶1张卡放置到费用区，自己的全部角色，那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "AB/WE10-21",
+        "rarity": "C"
+      }
+    ]
+  },
+  "AB/WE10-22": {
+    "name": "解けた葛藤 ゆり",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["死", "武器"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你其他全部《死》的角色，战斗力+500。<br>【自】你其他战斗中的《死》的角色倒置时，你选择自己的1个角色，那个回合中，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "AB/WE10-22",
+        "rarity": "R"
+      }
+    ]
+  },
+  "AB/WE10-23": {
+    "name": "有能な通信士 遊佐",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["死"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡的战斗对手倒置时，你其他的角色在1个以下的话，你可以从自己的休息室选择1张角色卡返回手牌。这样做的话，你选择自己的1张手牌放置到休息室。",
+    "all_cards": [
+      {
+        "id": "AB/WE10-23",
+        "rarity": "R"
+      }
+    ]
+  },
+  "AB/WE10-24": {
+    "name": "旅立ちの時 ゆり",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6000,
+    "cost": 1,
+    "trait": ["死", "武器"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你其他的角色在2个以下的话，这张卡的战斗力+1000。<br>【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "AB/WE10-24",
+        "rarity": "R"
+      }
+    ]
+  },
+  "AB/WE10-25": {
+    "name": "世界にまぎれたイレギュラー 音無",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["死"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【起】[(1) 你思出区1张《死》的角色卡放置到休息室] 你从自己的休息室选择1张角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "AB/WE10-25",
+        "rarity": "R"
+      }
+    ]
+  },
+  "AB/WE10-26": {
+    "name": "“ゴッドファーザー”ゆり",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8500,
+    "cost": 2,
+    "trait": ["死", "武器"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【自】你其他《死》的角色攻击时，那个回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "AB/WE10-26",
+        "rarity": "R"
+      }
+    ]
+  },
+  "AB/WE10-27": {
+    "name": "仲間想いな日向",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["死", "スポーツ"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "AB/WE10-27",
+        "rarity": "C"
+      }
+    ]
+  },
+  "AB/WE10-28": {
+    "name": "野球少年 日向",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["死", "スポーツ"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】[(1)] 战斗中这张卡倒置时，你可以支付费用。支付了的话，这张卡思出。",
+    "all_cards": [
+      {
+        "id": "AB/WE10-28",
+        "rarity": "C"
+      }
+    ]
+  },
+  "AB/WE10-29": {
+    "name": "ハンドルネーム・竹山",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["死", "メガネ"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】舞台有这张卡的话，这张卡的卡名也视为「クライスト」。",
+    "all_cards": [
+      {
+        "id": "AB/WE10-29",
+        "rarity": "C"
+      }
+    ]
+  },
+  "AB/WE10-30": {
+    "name": "まるで悪役 ゆり",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["死", "武器"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】你升级时，这张卡放置到休息室。<br>【起】[(1)] 你选择对手前列1个等级0以下的角色放置到休息室。",
+    "all_cards": [
+      {
+        "id": "AB/WE10-30",
+        "rarity": "C"
+      }
+    ]
+  },
+  "AB/WE10-31": {
+    "name": "かなでの友達 ゆり",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["死", "武器"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】这张卡位于前列中央的话，这张卡的战斗力+500，这张卡获得『【自】再演 [手牌中1张角色卡放置到休息室]』的能力。",
+    "all_cards": [
+      {
+        "id": "AB/WE10-31",
+        "rarity": "C"
+      }
+    ]
+  },
+  "AB/WE10-32": {
+    "name": "孤高のくノ一 椎名",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 0,
+    "trait": ["死", "武器"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "AB/WE10-32",
+        "rarity": "C"
+      }
+    ]
+  },
+  "AB/WE10-33": {
+    "name": "自己を解き放つ高松",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 2000,
+    "cost": 1,
+    "trait": ["死", "筋肉"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀2000 等级1 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+2000）",
+    "all_cards": [
+      {
+        "id": "AB/WE10-33",
+        "rarity": "C"
+      }
+    ]
+  },
+  "AB/WE10-34": {
+    "name": "神を許せないゆり",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["死", "武器"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，高潮区有「影との戦い」的话，你可以从自己的休息室选择1张角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "AB/WE10-34",
+        "rarity": "C"
+      }
+    ]
+  },
+  "AB/WE10-35": {
+    "name": "陽気なダンサー TK",
+    "product_name": "Angel Beats!",
+    "type": "角色卡",
+    "level": 2,
+    "power": 9000,
+    "cost": 2,
+    "trait": ["死"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "AB/WE10-35",
+        "rarity": "C"
+      }
+    ]
+  },
+  "AB/WE10-36": {
+    "name": "影との戦い",
+    "product_name": "Angel Beats!",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "AB/WE10-36",
+        "rarity": "C"
+      }
+    ]
+  }
+}

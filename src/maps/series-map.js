@@ -110,4 +110,9 @@ export const seriesMap = {
     prefixes: ['IMC'],
     icon: 'imc.webp',
   },
+  'Angel Beats!／Kud Wafter': {
+    id: 'ab',
+    prefixes: ['AB', 'KW', 'Kab', 'Hab'],
+    icon: 'ab.webp',
+  },
 }

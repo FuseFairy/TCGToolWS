@@ -1,0 +1,24 @@
+{
+  "Kab/W102-P01": {
+    "name": "Key 15th Fes, かなで＆シオナ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7000,
+    "cost": 1,
+    "trait": ["Anniversary", "死", "音楽"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】战斗中这张卡倒置时，这张卡思出。<br>【自】这张卡倒置时，这张卡的战斗对手的等级比对手等级高的话，你可以将那个角色思出。",
+    "all_cards": [
+      {
+        "id": "Kab/W102-P01",
+        "rarity": "PR"
+      },
+      {
+        "id": "Kab/W102-P01S",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
