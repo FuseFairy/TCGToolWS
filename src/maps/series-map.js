@@ -215,4 +215,9 @@ export const seriesMap = {
     prefixes: ['MF', 'MDE'],
     icon: 'mde.webp',
   },
+  'Lost Decade': {
+    id: 'lod',
+    prefixes: ['LOD'],
+    icon: 'lod.webp',
+  },
 }
