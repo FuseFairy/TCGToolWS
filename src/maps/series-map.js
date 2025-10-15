@@ -230,4 +230,9 @@ export const seriesMap = {
     prefixes: ['LSS', 'LSF', 'SIS'],
     icon: 'lls.webp',
   },
+  'Love Live! 虹咲学园学园偶像同好会': {
+    id: 'lnj',
+    prefixes: ['LNJ', 'LSF', 'SIN'],
+    icon: 'lnj.webp',
+  },
 }
