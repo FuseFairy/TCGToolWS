@@ -185,4 +185,9 @@ export const seriesMap = {
     prefixes: ['APO'],
     icon: 'apo.webp',
   },
+  'Fate/Grand Order': {
+    id: 'fgo',
+    prefixes: ['FGO'],
+    icon: 'fgo.webp',
+  },
 }
