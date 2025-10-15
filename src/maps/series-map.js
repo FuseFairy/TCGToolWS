@@ -235,4 +235,9 @@ export const seriesMap = {
     prefixes: ['LNJ', 'LSF', 'SIN'],
     icon: 'lnj.webp',
   },
+  'Love Live! SuperStar!!': {
+    id: 'lsp',
+    prefixes: ['LSP', 'LSF', 'SIP'],
+    icon: 'lsp.webp',
+  },
 }
