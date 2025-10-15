@@ -160,4 +160,9 @@ export const seriesMap = {
     prefixes: ['DD'],
     icon: 'dd.webp',
   },
+  'D_CIDE TRAUMEREI': {
+    id: 'dct',
+    prefixes: ['DCT'],
+    icon: 'dct.webp',
+  },
 }
