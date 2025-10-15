@@ -47,10 +47,31 @@
       @show-new-card="onShowNewCard"
     />
   </v-dialog>
+
+  <v-btn
+    v-show="isFabVisible"
+    position="fixed"
+    location="bottom right"
+    icon
+    size="large"
+    class="ma-4"
+    @click="scrollToTop"
+  >
+    <img
+      src="@/assets/ui/ws-icon.svg"
+      alt="Back to top"
+      :style="{
+        width: '28px',
+        height: '28px',
+        filter: iconFilterStyle,
+      }"
+    />
+  </v-btn>
 </template>
 
 <script setup>
-import { ref, computed } from 'vue'
+import { ref, computed, onMounted, onUnmounted } from 'vue'
+import { useTheme } from 'vuetify'
 import { useDisplay } from 'vuetify'
 import CardTemplate from '@/components/CardTemplate.vue'
 import CardDetailModal from '@/components/CardDetailModal.vue'
@@ -80,6 +101,11 @@ const props = defineProps({
 })
 
 const { smAndDown } = useDisplay()
+const theme = useTheme()
+
+const iconFilterStyle = computed(() => {
+  return theme.global.name.value === 'light' ? 'invert(1)' : 'none'
+})
 const isModalVisible = ref(false)
 const selectedCardData = ref(null)
 const selectedLinkedCards = ref([])
@@ -147,5 +173,42 @@ const reset = () => {
 
 defineExpose({
   reset,
+})
+
+const isFabVisible = ref(false)
+const scrollContainer = ref(null)
+
+const onScroll = () => {
+  if (!scrollContainer.value) return
+
+  const scrollTop = scrollContainer.value.scrollTop
+  isFabVisible.value = scrollTop > 300
+}
+
+const scrollToTop = () => {
+  if (scrollContainer.value) {
+    scrollContainer.value.scrollTo({ top: 0, behavior: 'smooth' })
+  }
+}
+
+onMounted(() => {
+  // Use the v-infinite-scroll element as the scroll container
+  scrollContainer.value = infiniteScrollRef.value?.$el
+
+  if (scrollContainer.value) {
+    scrollContainer.value.addEventListener('scroll', onScroll)
+  } else {
+    // Fallback if the ref isn't available for some reason
+    scrollContainer.value = document.documentElement
+    document.addEventListener('scroll', onScroll)
+  }
+})
+
+onUnmounted(() => {
+  if (scrollContainer.value) {
+    scrollContainer.value.removeEventListener('scroll', onScroll)
+  } else {
+    document.removeEventListener('scroll', onScroll)
+  }
 })
 </script>
