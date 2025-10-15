@@ -190,4 +190,9 @@ export const seriesMap = {
     prefixes: ['FGO'],
     icon: 'fgo.webp',
   },
+  'Hololive': {
+    id: 'hol',
+    prefixes: ['HOL'],
+    icon: 'hol.webp',
+  },
 }

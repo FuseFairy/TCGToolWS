@@ -1,0 +1,792 @@
+{
+  "HOL/W91-P02": {
+    "name": "友人A",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["ホロライブ"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你的费用在2张以下的话，这张卡的战斗力+1500。<br>【永】你的回合中，你其他全部《ホロライブ》的角色，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "HOL/W91-P02",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-P03": {
+    "name": "ゆびゆび～ 戌神ころね",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 3500,
+    "cost": 0,
+    "trait": ["ホロライブ", "ゲーマーズ"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你的角色全部是《ホロライブ》的角色的话，这张卡的战斗力+3000。<br>【永】这张卡的下方有指示物的话，这张卡的战斗力+2000。<br>【自】这张卡从手牌放置到舞台时，你可以选择自己的1张手牌正面朝上放置到这张卡的下方作为指示物。",
+    "all_cards": [
+      {
+        "id": "HOL/W91-P03",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-P04": {
+    "name": "#花咲くホロライブ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/gate.webp\">：这张卡被触发时，你可以从自己的休息室选择1张高潮卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-P04",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-P05": {
+    "name": "一緒にファイト♪ ときのそら&獅白ぼたん",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 3500,
+    "cost": 1,
+    "trait": ["ホロライブ"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你的回合中，这张卡的战斗力+10000。",
+    "all_cards": [
+      {
+        "id": "HOL/W91-P05",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-P06": {
+    "name": "こんばんみぉーん！ 大神ミオ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["ホロライブ", "ゲーマーズ"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，那个回合中，这张卡的战斗力+X。X是你《ホロライブ》的角色的数量×1000。",
+    "all_cards": [
+      {
+        "id": "HOL/W91-P06",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-P07": {
+    "name": "一緒にファイト♪ 潤羽るしあ&兎田ぺこら&宝鐘マリン",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["ホロライブ", "3期生"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】[(1) 手牌中1张《ホロライブ》的角色卡放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你看自己卡组顶至多4张卡，选择至多1张卡加入手牌，其余的卡放置到休息室。",
+    "all_cards": [
+      {
+        "id": "HOL/W91-P07",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-145": {
+    "name": "ひと夏の恋",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/choice.webp\">：这张卡被触发时，你可以从自己的休息室选择1张触发标记有<img src=\"/effect-icons/soul.webp\">的角色卡返回手牌或放置到费用区）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-145",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-145S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-146": {
+    "name": "Summer memory",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/choice.webp\">：这张卡被触发时，你可以从自己的休息室选择1张触发标记有<img src=\"/effect-icons/soul.webp\">的角色卡返回手牌或放置到费用区）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-146",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-146S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-147": {
+    "name": "おうちデート",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/choice.webp\">：这张卡被触发时，你可以从自己的休息室选择1张触发标记有<img src=\"/effect-icons/soul.webp\">的角色卡返回手牌或放置到费用区）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-147",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-147S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-148": {
+    "name": "雪の降る街で",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/choice.webp\">：这张卡被触发时，你可以从自己的休息室选择1张触发标记有<img src=\"/effect-icons/soul.webp\">的角色卡返回手牌或放置到费用区）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-148",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-148S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-149": {
+    "name": "桐生会へようこそ",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/choice.webp\">：这张卡被触发时，你可以从自己的休息室选择1张触发标记有<img src=\"/effect-icons/soul.webp\">的角色卡返回手牌或放置到费用区）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-149",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-149S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-150": {
+    "name": "幸せのフルーツタルト",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/choice.webp\">：这张卡被触发时，你可以从自己的休息室选择1张触发标记有<img src=\"/effect-icons/soul.webp\">的角色卡返回手牌或放置到费用区）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-150",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-150S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-151": {
+    "name": "青空のシンフォニー",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/treasure.webp\">：这张卡被触发时，你将这张卡返回手牌。你可以将自己卡组顶1张卡放置到费用区）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-151",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-151S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-152": {
+    "name": "オンステージ!",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/treasure.webp\">：这张卡被触发时，你将这张卡返回手牌。你可以将自己卡组顶1张卡放置到费用区）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-152",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-152S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-153": {
+    "name": "可能性のキツネ",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/treasure.webp\">：这张卡被触发时，你将这张卡返回手牌。你可以将自己卡组顶1张卡放置到费用区）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-153",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-153S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-154": {
+    "name": "私だけを見て",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/treasure.webp\">：这张卡被触发时，你将这张卡返回手牌。你可以将自己卡组顶1张卡放置到费用区）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-154",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-154S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-155": {
+    "name": "流星の空",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/treasure.webp\">：这张卡被触发时，你将这张卡返回手牌。你可以将自己卡组顶1张卡放置到费用区）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-155",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-155S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-156": {
+    "name": "僕の秘密のお腹を触ってみますか？",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/treasure.webp\">：这张卡被触发时，你将这张卡返回手牌。你可以将自己卡组顶1张卡放置到费用区）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-156",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-156S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-157": {
+    "name": "今日だけはこのまま…",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你从自己的休息室选择至多1张等级1以下的角色卡放置到费用区，自己的全部角色，那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "HOL/W91-157",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-157S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-158": {
+    "name": "小悪魔な瞳",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/treasure.webp\">：这张卡被触发时，你将这张卡返回手牌。你可以将自己卡组顶1张卡放置到费用区）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-158",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-158S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-159": {
+    "name": "あま～いお菓子のお姫様",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你从自己的休息室选择至多1张等级1以下的角色卡放置到费用区，自己的全部角色，那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "HOL/W91-159",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-159S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-160": {
+    "name": "自然との共生",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/salvage.webp\">：这张卡被触发时，你可以从自己的休息室选择1张角色卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-160",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-160S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-161": {
+    "name": "35Pとの待ち合わせ",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，执行<img src=\"/effect-icons/standby.webp\">的效果。<br>（<img src=\"/effect-icons/standby.webp\">：这张卡被触发时，你可以从自己的休息室选择1张等级在自己等级+1以下的角色卡，横置放置到舞台任意位置）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-161",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-161S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-162": {
+    "name": "先輩へ愛をこめて",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/salvage.webp\">：这张卡被触发时，你可以从自己的休息室选择1张角色卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-162",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-162S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-163": {
+    "name": "一緒にお祝い",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/salvage.webp\">：这张卡被触发时，你可以从自己的休息室选择1张角色卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-163",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-163S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-164": {
+    "name": "悪魔サンタのプレゼント",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，执行<img src=\"/effect-icons/standby.webp\">的效果。<br>（<img src=\"/effect-icons/standby.webp\">：这张卡被触发时，你可以从自己的休息室选择1张等级在自己等级+1以下的角色卡，横置放置到舞台任意位置）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-164",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-164S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-165": {
+    "name": "魅惑の視線",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/salvage.webp\">：这张卡被触发时，你可以从自己的休息室选择1张角色卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-165",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-165S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-166": {
+    "name": "いざ夢のステージへ",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，执行<img src=\"/effect-icons/standby.webp\">的效果。<br>（<img src=\"/effect-icons/standby.webp\">：这张卡被触发时，你可以从自己的休息室选择1张等级在自己等级+1以下的角色卡，横置放置到舞台任意位置）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-166",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-166S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-167": {
+    "name": "降り注ぐ日差し",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/salvage.webp\">：这张卡被触发时，你可以从自己的休息室选择1张角色卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-167",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-167S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-168": {
+    "name": "休日ゲーム",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/gate.webp\">：这张卡被触发时，你可以从自己的休息室选择1张高潮卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-168",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-168S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-169": {
+    "name": "シオンの誕生日",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/gate.webp\">：这张卡被触发时，你可以从自己的休息室选择1张高潮卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-169",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-169S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-170": {
+    "name": "向日葵の君に",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/gate.webp\">：这张卡被触发时，你可以从自己的休息室选择1张高潮卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-170",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-170S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-171": {
+    "name": "団長と一緒",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/gate.webp\">：这张卡被触发时，你可以从自己的休息室选择1张高潮卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-171",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-171S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-172": {
+    "name": "みんなと一緒の時間",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/gate.webp\">：这张卡被触发时，你可以从自己的休息室选择1张高潮卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-172",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-172S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-173": {
+    "name": "どんな時でも一緒",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/gate.webp\">：这张卡被触发时，你可以从自己的休息室选择1张高潮卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-173",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-173S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-174": {
+    "name": "添い寝デート",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/gate.webp\">：这张卡被触发时，你可以从自己的休息室选择1张高潮卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-174",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-174S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "HOL/W91-175": {
+    "name": "束の間の安らぎ",
+    "product_name": "ホロライブプロダクション",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/gate.webp\">：这张卡被触发时，你可以从自己的休息室选择1张高潮卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "HOL/W91-175",
+        "rarity": "PR"
+      },
+      {
+        "id": "HOL/W91-175S",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
