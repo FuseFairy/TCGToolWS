@@ -200,4 +200,9 @@ export const seriesMap = {
     prefixes: ['JJ'],
     icon: 'jj.webp',
   },
+  'Key': {
+    id: 'key',
+    prefixes: ['Kab', 'Kai', 'Kch', 'Kcl', 'Kdb', 'Key', 'Khb', 'Kka', 'Klb', 'Krw', 'Ksm'],
+    icon: 'key.webp',
+  },
 }

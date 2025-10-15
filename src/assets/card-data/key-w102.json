@@ -1,0 +1,108 @@
+{
+  "Key/W102-045": {
+    "name": "地球に憧れる月面AI LUNAR-Q",
+    "product_name": "Key all-star",
+    "type": "角色卡",
+    "level": 1,
+    "power": 8500,
+    "cost": 2,
+    "trait": ["Anniversary", "VR"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "Key/W102-045",
+        "rarity": "C"
+      },
+      {
+        "id": "Key/W102-045S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "Key/W102-046": {
+    "name": "ルーパーズ ミア",
+    "product_name": "Key all-star",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7000,
+    "cost": 0,
+    "trait": ["Anniversary", "ルーパーズ"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "Key/W102-046",
+        "rarity": "C"
+      },
+      {
+        "id": "Key/W102-046S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "Key/W102-047": {
+    "name": "想いを歌に乗せる少女 シオナ",
+    "product_name": "Key all-star",
+    "type": "角色卡",
+    "level": 2,
+    "power": 10000,
+    "cost": 3,
+    "trait": ["Anniversary", "音楽"],
+    "color": "绿色",
+    "soul": 2,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "Key/W102-047",
+        "rarity": "C"
+      },
+      {
+        "id": "Key/W102-047S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "Key/W102-075": {
+    "name": "星の語り手 ゆめみ",
+    "product_name": "Key all-star",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["Anniversary", "星"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】你的主要阶段开始时，你看自己卡组顶1张卡，查看自己的全部费用。（查看的卡按原顺序放回）<br>【自】你的高潮卡放置到高潮区时，你选择自己的1个角色，那个回合中，战斗力+2000。<br>【自】[手牌中1张高潮卡放置到休息室] 你的角色在触发步骤触发到高潮卡时，你可以支付费用。支付了的话，你抽1张卡。",
+    "all_cards": [
+      {
+        "id": "Key/W102-075",
+        "rarity": "RR"
+      },
+      {
+        "id": "Key/W102-075SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "Key/W102-090": {
+    "name": "次の公演 屑屋",
+    "product_name": "Key all-star",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 1,
+    "trait": ["Anniversary", "星"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】你其他《Anniversary》或《星》的角色攻击时，那个回合中，这张卡的战斗力+1500。<br>【自】这张卡的战斗对手倒置时，你的高潮区有高潮卡的话，你可以将自己卡组顶1张卡放置到费用区。",
+    "all_cards": [
+      {
+        "id": "Key/W102-090",
+        "rarity": "U"
+      }
+    ]
+  }
+}
