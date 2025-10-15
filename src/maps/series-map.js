@@ -165,4 +165,9 @@ export const seriesMap = {
     prefixes: ['DCT'],
     icon: 'dct.webp',
   },
+  'Disney': {
+    id: 'dds',
+    prefixes: ['Dds', 'MRd'],
+    icon: 'dds.webp',
+  },
 }

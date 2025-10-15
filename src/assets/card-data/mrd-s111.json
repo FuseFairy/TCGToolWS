@@ -1,0 +1,1696 @@
+{
+  "MRd/S111-001": {
+    "name": "“Explorer Mage”ベル",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】你的高潮阶段开始时，你选择自己1个《Mirrorverse》或《Disney》的角色，那个回合中，战斗力+X。X是那个角色的等级×500。<br>【起】集中 [(1) 这张卡横置] 你将自己卡组顶4张卡放置到休息室。那些卡中每有1张高潮卡，你从自己的休息室选择至多1张角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-001",
+        "rarity": "RR"
+      },
+      {
+        "id": "MRd/S111-001MSP",
+        "rarity": "MSP"
+      }
+    ]
+  },
+  "MRd/S111-002": {
+    "name": "“Illuminated Warrior”ラプンツェル",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 3,
+    "power": 7500,
+    "cost": 2,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "【永】你休息室的高潮卡在2张以下或6张以上的话，你手牌中这张卡的等级-1。<br>【永】你其他《Mirrorverse》或《Disney》的角色有2个以上的话，这张卡的战斗力+3000。<br>【自】这张卡从手牌或卡组放置到舞台时，你从以下2个效果中选择1个执行。『你可以将自己时计区顶1张卡放置到休息室。』『你可以将自己休息室的卡全部返回卡组。这样做的话，卡组洗切，那个回合中，这张卡的战斗力+2000。』",
+    "all_cards": [
+      {
+        "id": "MRd/S111-002",
+        "rarity": "RR"
+      },
+      {
+        "id": "MRd/S111-002MSP",
+        "rarity": "MSP"
+      }
+    ]
+  },
+  "MRd/S111-003": {
+    "name": "“Stellar Sorcerer”ミッキーマウス",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "【永】你的时计区有「“Stellar Sorcerer”ミッキーマウス」的话，你手牌中这张卡的等级-1。<br>【自】【CX联动】这张卡从手牌或卡组放置到舞台时，你从自己的休息室选择至多1张「Cosmic Command」返回手牌，那个回合中，这张卡的战斗力+1000。<br>【自】【CX联动】[(1)] 你的攻击阶段开始时，高潮区有「Cosmic Command」，前列有这张卡的话，你可以支付费用。支付了的话，你从自己的卡组找至多1张《Mirrorverse》的角色卡，放置到舞台任意位置，卡组洗切，那个回合中，那个角色和这张卡的灵魂值-1。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-003",
+        "rarity": "RR"
+      },
+      {
+        "id": "MRd/S111-003MSP",
+        "rarity": "MSP"
+      }
+    ]
+  },
+  "MRd/S111-004": {
+    "name": "“Cantankerous Iron-Clad Sailor”ドナルドダック",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】【CX联动】[你高潮区的1张「Aggressive Passion」放置到休息室] 你的再演步骤开始时，你其他的角色有2个以上的话，你可以支付费用。支付了的话，你执行以下行动2次。『你可以将自己卡组顶1张卡放置到休息室。那张卡是《Mirrorverse》或《Disney》的角色卡的话返回手牌。』<br>【起】[这张卡横置] 你其他《Mirrorverse》或《Disney》的角色有4个以上的话，你抽1张卡，选择自己的1张手牌放置到休息室。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-004",
+        "rarity": "R"
+      },
+      {
+        "id": "MRd/S111-004SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "MRd/S111-005": {
+    "name": "“Heart's Fire Fighter”ミニーマウス",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 1,
+    "power": 3500,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】[你休息室的2张角色卡返回卡组，卡组洗切] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你选择自己的1个角色，那个回合中，战斗力+1000。<br>【自】[这张卡返回手牌] 你的高潮卡放置到高潮区时，你可以支付费用。支付了的话，你选择自己的1个角色，那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-005",
+        "rarity": "R"
+      },
+      {
+        "id": "MRd/S111-005SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "MRd/S111-006": {
+    "name": "“Shadowy Manipulator”スカー",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌或思出区放置到舞台时，那个回合中，这张卡的战斗力+1500。<br>【自】这张卡的战斗对手倒置时，你可以将这张卡思出。这样做的话，下一个你的抽卡阶段开始时，你从自己的思出区选择1张「“Shadowy Manipulator”スカー」，放置到舞台任意位置。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-006",
+        "rarity": "R"
+      },
+      {
+        "id": "MRd/S111-006SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "MRd/S111-007": {
+    "name": "“Stellar-Powered Walking Disaster”グーフィー",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 3,
+    "power": 6500,
+    "cost": 2,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "【永】你其他全部的「“Stellar Sorcerer”ミッキーマウス」，给予以下能力。『【自】[(1) 1张手牌放置到休息室] 这张卡攻击时，你可以支付费用。支付了的话，你看对手卡组顶至多2张卡，选择至多1张卡放置到卡组底，其余的卡按喜欢的顺序放回卡组顶。』<br>【永】你其他全部《Mirrorverse》或《Disney》的角色，战斗力+1500。<br>【自】[1张手牌放置到休息室] 这张卡从手牌或卡组放置到舞台时，你可以支付费用。支付了的话，你将自己时计区顶1张卡放置到费用区。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-007",
+        "rarity": "R"
+      },
+      {
+        "id": "MRd/S111-007SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "MRd/S111-009": {
+    "name": "スクルージ・マクダック",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你可以从自己的时计区选择1张卡返回手牌。这样做的话，你选择自己的1张手牌放置到时计区。<br>【自】这张卡攻击时，你选择自己其他1个《Mirrorverse》或《Disney》的角色，那个回合中，战斗力+X。X是你其他《Mirrorverse》或《Disney》的角色的数量×500。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-009",
+        "rarity": "U"
+      },
+      {
+        "id": "MRd/S111-009S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-010": {
+    "name": "“ミラー・ウォリアーズ”ラプンツェル",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】[1张手牌放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你公开自己卡组顶1张卡，从自己的休息室选择1张等级X以下的角色卡返回手牌。X是公开的卡的等级。（高潮卡视为0级。公开的卡放回原处）",
+    "all_cards": [
+      {
+        "id": "MRd/S111-010",
+        "rarity": "U"
+      },
+      {
+        "id": "MRd/S111-010S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-011": {
+    "name": "“Peaceful Radiant Protector”シンバ",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，你选择自己其他1个《Mirrorverse》或《Disney》的角色，直到下一个对手的回合结束为止，给予以下能力。『【永】对手的回合中，这张卡的战斗力+2000。』",
+    "all_cards": [
+      {
+        "id": "MRd/S111-011",
+        "rarity": "U"
+      },
+      {
+        "id": "MRd/S111-011S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-013": {
+    "name": "“Wings of Olympus”ヘラクレス",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 2,
+    "power": 1500,
+    "cost": 1,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你的回合中，这张卡的战斗力+10000。<br>【自】你的回合中，这张卡的战斗对手倒置时，你的高潮区没有高潮卡的话，你从自己的休息室选择至多1张《Mirrorverse》或《Disney》的角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-013",
+        "rarity": "U"
+      },
+      {
+        "id": "MRd/S111-013S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-014": {
+    "name": "“ミラー・ウォリアーズ”アリス",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2500,
+    "cost": 1,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】[(2) 你舞台的1个角色放置到休息室] 你使用这张卡的『助太刀』时，你可以支付费用。支付了的话，你选择对手1个等级比对手等级高的角色放置到休息室。<br>【起】【反击】助太刀2500 等级2 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+2500）",
+    "all_cards": [
+      {
+        "id": "MRd/S111-014",
+        "rarity": "U"
+      },
+      {
+        "id": "MRd/S111-014S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-016": {
+    "name": "“ミラー・ウォリアーズ”スカー",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你的费用在3张以下的话，这张卡的战斗力+2000。<br>【自】这张卡从手牌放置到舞台时，你可以将自己卡组顶3张卡放置到休息室。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-016",
+        "rarity": "C"
+      },
+      {
+        "id": "MRd/S111-016S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-017": {
+    "name": "“ミラー・ウォリアーズ”シンバ",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 1,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你的回合中，这张卡的战斗力+4000。<br>【自】[这张卡放置到休息室] 你其他《Mirrorverse》或《Disney》的角色被正面攻击时，你可以支付费用。支付了的话，你选择自己战斗中的1个角色，那个回合中，战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-017",
+        "rarity": "C"
+      },
+      {
+        "id": "MRd/S111-017S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-018": {
+    "name": "“ミラー・ウォリアーズ”ティガー",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4000,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，那个回合中，这张卡的战斗力+3000。<br>【自】这张卡的战斗中，你受到的伤害取消时，你可以将这张卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-018",
+        "rarity": "C"
+      },
+      {
+        "id": "MRd/S111-018S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-019": {
+    "name": "“Adventure Venture Investor”スクルージ・マクダック",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 2,
+    "power": 5000,
+    "cost": 1,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你其他全部的「“Stellar Sorcerer”ミッキーマウス」，给予『【自】再演 [(2)]』的能力。<br>【永】应援 你的回合中，你这张卡前的全部角色，战斗力+X。X是那个角色的等级×1000。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-019",
+        "rarity": "C"
+      },
+      {
+        "id": "MRd/S111-019S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-020": {
+    "name": "Cosmic Command",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/choice.webp\">：这张卡被触发时，你可以从自己的休息室选择1张触发标记有<img src=\"/effect-icons/soul.webp\">的角色卡返回手牌或放置到费用区）",
+    "all_cards": [
+      {
+        "id": "MRd/S111-020",
+        "rarity": "CR"
+      },
+      {
+        "id": "MRd/S111-020MKS",
+        "rarity": "MKS"
+      }
+    ]
+  },
+  "MRd/S111-021": {
+    "name": "Aggressive Passion",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/choice.webp\">：这张卡被触发时，你可以从自己的休息室选择1张触发标记有<img src=\"/effect-icons/soul.webp\">的角色卡返回手牌或放置到费用区）",
+    "all_cards": [
+      {
+        "id": "MRd/S111-021",
+        "rarity": "CR"
+      },
+      {
+        "id": "MRd/S111-021R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "MRd/S111-022": {
+    "name": "“Stalwart Friend of the Forest”白雪姫",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡倒置时，你看自己卡组顶至多3张卡，选择至多1张高潮卡展示给对手后加入手牌，其余的卡放置到休息室。加入了手牌的话，你选择自己的1张手牌放置到休息室。<br>【自】这张卡倒置时，这张卡的战斗对手的等级是0级以下的话，你可以将对手时计区顶1张卡放置到休息室。这样做的话，你将那个角色放置到时计区。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-022",
+        "rarity": "RR"
+      },
+      {
+        "id": "MRd/S111-022MSP",
+        "rarity": "MSP"
+      }
+    ]
+  },
+  "MRd/S111-024": {
+    "name": "“Cutting Desert Diamond”アラジン",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 3,
+    "power": 11000,
+    "cost": 2,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "绿色",
+    "soul": 2,
+    "effect": "【自】这张卡从手牌放置到舞台时，你可以将自己时计区顶1张卡放置到休息室。<br>【自】【CX联动】这张卡攻击时，高潮区有「Shrouded Sword」，你其他的角色有2个以上的话，你从以下2个效果中选择1个执行。『给对手造成1点伤害。』『[(1) 1张手牌放置到休息室] 你可以支付费用。支付了的话，你看对手卡组顶至多4张卡，选择至多4张卡放置到休息室，其余的卡返回卡组，对手将卡组洗切。』（发生伤害取消）",
+    "all_cards": [
+      {
+        "id": "MRd/S111-024",
+        "rarity": "RR"
+      },
+      {
+        "id": "MRd/S111-024MSP",
+        "rarity": "MSP"
+      }
+    ]
+  },
+  "MRd/S111-027": {
+    "name": "“Ascended Cosmic Comic”ジーニー",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 1,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】[(1)] 你的高潮卡放置到高潮区时，你可以支付费用。支付了的话，你看自己卡组顶至多4张卡，选择至多1张《Mirrorverse》或《Disney》的角色卡展示给对手后加入手牌，其余的卡放置到休息室。<br>【起】[这张卡横置] 你选择自己的1个角色，那个回合中，战斗力+1000。<br>【起】[2张手牌放置到休息室，这张卡放置到休息室] 你从自己的休息室选择1张等级在自己等级以下的角色卡，放置到这张卡原来的位置。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-027",
+        "rarity": "R"
+      },
+      {
+        "id": "MRd/S111-027SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "MRd/S111-029": {
+    "name": "“Intermolecular Galactic Force”スティッチ",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6000,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】这张卡正面的角色的等级比这张卡的等级高的话，这张卡不能正面攻击。<br>【自】[手牌中1张《Mirrorverse》或《Disney》的角色卡放置到休息室，这张卡放置到休息室] 你其他《Mirrorverse》或《Disney》的角色被正面攻击时，你可以支付费用。支付了的话，你选择自己战斗中的1个角色，那个回合中，战斗力+3500。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-029",
+        "rarity": "R"
+      },
+      {
+        "id": "MRd/S111-029SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "MRd/S111-030": {
+    "name": "“Natural Navigator”フランク",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10500,
+    "cost": 2,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "绿色",
+    "soul": 2,
+    "effect": "【自】这张卡从手牌或卡组放置到舞台时，你从自己的手牌中选择至多1张自己等级以下的角色卡，放置到舞台任意位置，那个回合中，这张卡的战斗力+2000。<br>【自】[(2) 2张手牌放置到休息室] 这张卡的战斗对手倒置时，你可以支付费用。支付了的话，给对手造成4点伤害。（发生伤害取消）",
+    "all_cards": [
+      {
+        "id": "MRd/S111-030",
+        "rarity": "R"
+      },
+      {
+        "id": "MRd/S111-030SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "MRd/S111-031": {
+    "name": "“The Fastest Fuzz”ジュディ",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】[(1) 1张手牌放置到休息室] 这张卡从手牌放置到舞台或从舞台放置到休息室时，你可以支付费用。支付了的话，你从自己的卡组找至多1张《Mirrorverse》或《Disney》的角色卡展示给对手后加入手牌，卡组洗切。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-031",
+        "rarity": "U"
+      },
+      {
+        "id": "MRd/S111-031S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-033": {
+    "name": "“Bold Pilot Fighter”バルー",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 1,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你前列的其他角色在1个以下的话，这张卡的战斗力+7000。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-033",
+        "rarity": "U"
+      },
+      {
+        "id": "MRd/S111-033S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-034": {
+    "name": "“Fiery Pixie Avatar”ティンカー・ベル",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 1,
+    "power": 1000,
+    "cost": 1,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】【时计区】警铃 [1张手牌放置到休息室] 这张卡在时计区最上面的话，你的高潮阶段开始时，你可以支付费用。支付了的话，你选择对手1个等级1以上的角色，对手从自己的休息室选择1张等级X以下的角色卡替换。X是你选择的角色的等级-1。<br>【起】【反击】助太刀2000 等级1 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+2000）",
+    "all_cards": [
+      {
+        "id": "MRd/S111-034",
+        "rarity": "U"
+      },
+      {
+        "id": "MRd/S111-034S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-036": {
+    "name": "“One Woman Army”ムーラン",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 2,
+    "power": 6000,
+    "cost": 1,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，那个回合中，这张卡的战斗力+X。X是对手角色的数量×1000。<br>【自】这张卡等级2以上的战斗对手倒置时，你的高潮区有高潮卡的话，您可以从自己的时计区选择1张《Mirrorverse》或《Disney》的角色卡放置到卡组底。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-036",
+        "rarity": "U"
+      },
+      {
+        "id": "MRd/S111-036S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-037": {
+    "name": "“True-Sighted Symbol of the People”ジャスミン",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7000,
+    "cost": 1,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你的高潮区有触发标记是<img src=\"/effect-icons/treasure.webp\">的高潮卡的话，所有区域的这张卡获得触发标记<img src=\"/effect-icons/treasure.webp\">。<br>【自】你的高潮卡放置到高潮区时，你选择自己至多2个等级1以上的角色，那个回合中，战斗力+3000。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-037",
+        "rarity": "U"
+      },
+      {
+        "id": "MRd/S111-037S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-038": {
+    "name": "“Vainglorious Vengeful Swordsman”フック船長",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 3,
+    "power": 9500,
+    "cost": 2,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "绿色",
+    "soul": 2,
+    "effect": "【永】对手有等级3以上的角色的话，你手牌中这张卡的等级-1。<br>【自】这张卡从手牌或卡组放置到舞台时，直到下一个对手的回合结束为止，这张卡的战斗力+4500，这张卡获得以下能力。『【永】这张卡的战斗中，所有玩家不能从手牌中使用『助太刀』。』<br>【自】这张卡等级2以上的战斗对手倒置时，你可以将自己卡组顶1张卡放置到费用区。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-038",
+        "rarity": "U"
+      },
+      {
+        "id": "MRd/S111-038S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-039": {
+    "name": "“ミラー・ウォリアーズ”フランク",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】这张卡位于前列中央的话，这张卡的战斗力+3000。<br>【自】[手牌中1张高潮卡放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张等级1以上的角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-039",
+        "rarity": "C"
+      },
+      {
+        "id": "MRd/S111-039S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-040": {
+    "name": "“ミラー・ウォリアーズ”ティンカー・ベル",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，那个回合中，这张卡的战斗力+1500。<br>【自】[(1) 1张手牌放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你看自己卡组顶至多3张卡，选择至多1张卡加入手牌，其余的卡放置到休息室。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-040",
+        "rarity": "C"
+      },
+      {
+        "id": "MRd/S111-040S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-041": {
+    "name": "“ミラー・ウォリアーズ”バルー",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你其他位于前列中央的《Mirrorverse》或《Disney》的角色，战斗力+1500。<br>【起】[(1) 这张卡放置到休息室] 你将自己卡组顶2张卡放置到休息室，从自己的休息室选择1张等级X以下的《Mirrorverse》或《Disney》的角色卡返回手牌。X是那些卡的等级合计。（高潮卡视为0级）",
+    "all_cards": [
+      {
+        "id": "MRd/S111-041",
+        "rarity": "C"
+      },
+      {
+        "id": "MRd/S111-041S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-042": {
+    "name": "“ミラー・ウォリアーズ”ムーラン",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】这张卡不能侧面攻击。<br>【自】[这张卡放置到时计区] 这张卡倒置时，你可以支付费用。支付了的话，你公开自己卡组顶1张卡。那张卡是《Mirrorverse》或《Disney》的角色卡的话加入手牌。（否则放回原处）",
+    "all_cards": [
+      {
+        "id": "MRd/S111-042",
+        "rarity": "C"
+      },
+      {
+        "id": "MRd/S111-042S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-043": {
+    "name": "“ミラー・ウォリアーズ”ジュディ",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 1,
+    "power": 3500,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你看自己卡组顶至多2张卡，按喜欢的顺序放回卡组顶。<br>【自】你的高潮卡放置到高潮区时，那个回合中，这张卡的战斗力+3000。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-043",
+        "rarity": "C"
+      },
+      {
+        "id": "MRd/S111-043S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-045": {
+    "name": "“ミラー・ウォリアーズ”白雪姫",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 2,
+    "power": 1500,
+    "cost": 1,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】你使用这张卡的『助太刀』时，你将自己卡组顶3张卡放置到休息室。<br>【起】【反击】助太刀3000 等级2 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+3000）",
+    "all_cards": [
+      {
+        "id": "MRd/S111-045",
+        "rarity": "C"
+      },
+      {
+        "id": "MRd/S111-045S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-046": {
+    "name": "“ミラー・ウォリアーズ”フック船長",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2000,
+    "cost": 1,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你前列的其他角色在1个以下的话，这张卡的战斗力+8000，这张卡正面的角色灵魂值-1。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-046",
+        "rarity": "C"
+      },
+      {
+        "id": "MRd/S111-046S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-047": {
+    "name": "“ミラー・ウォリアーズ”スティッチ",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 2,
+    "power": 6000,
+    "cost": 1,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你《Mirrorverse》或《Disney》的角色有4个以上的话，你手牌中这张卡的等级-1。<br>【自】这张卡攻击时，那个回合中，这张卡的战斗力+X。X是对手角色的数量×1000。<br>【自】【CX联动】[你高潮区的1张「Superheated Stitch」放置到休息室] 这张卡的战斗对手倒置时，你可以支付费用。支付了的话，你看自己卡组顶至多2张卡，选择至多2张《Mirrorverse》或《Disney》的角色卡展示给对手后加入手牌，其余的卡按喜欢的顺序放置到卡组顶，直到下一个对手的回合结束为止，这张卡的战斗力+6000。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-047",
+        "rarity": "C"
+      },
+      {
+        "id": "MRd/S111-047S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-051": {
+    "name": "Shrouded Sword",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/treasure.webp\">：这张卡被触发时，你将这张卡返回手牌。你可以将自己卡组顶1张卡放置到费用区）",
+    "all_cards": [
+      {
+        "id": "MRd/S111-051",
+        "rarity": "CR"
+      },
+      {
+        "id": "MRd/S111-051R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "MRd/S111-052": {
+    "name": "Superheated Stitch",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/treasure.webp\">：这张卡被触发时，你将这张卡返回手牌。你可以将自己卡组顶1张卡放置到费用区）",
+    "all_cards": [
+      {
+        "id": "MRd/S111-052",
+        "rarity": "CR"
+      },
+      {
+        "id": "MRd/S111-052R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "MRd/S111-053": {
+    "name": "“Curse Collector”ジャック・スパロウ",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你的角色全部是《Mirrorverse》或《Disney》的角色的话，这张卡的战斗力+3000。<br>【自】[(1) 你休息室1张《Mirrorverse》或《Disney》的角色卡放置到时计区底] 这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你看自己卡组顶至多4张卡，选择至多1张等级1以上的卡展示给对手后加入手牌，其余的卡放置到休息室，抽1张卡，选择自己的1张手牌放置到休息室。（高潮卡视为0级）",
+    "all_cards": [
+      {
+        "id": "MRd/S111-053",
+        "rarity": "RR"
+      },
+      {
+        "id": "MRd/S111-053MSP",
+        "rarity": "MSP"
+      }
+    ]
+  },
+  "MRd/S111-057": {
+    "name": "“Personal Battle Companion”ベイマックス",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 1,
+    "power": 3500,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你的前列有其他「“Genius Matter Programmer”ヒロ」的话，这张卡的战斗力+4000。<br>【自】绊／「“Genius Matter Programmer”ヒロ」 [1张手牌放置到休息室] （这张卡被使用放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张「“Genius Matter Programmer”ヒロ」返回手牌）",
+    "all_cards": [
+      {
+        "id": "MRd/S111-057",
+        "rarity": "R"
+      },
+      {
+        "id": "MRd/S111-057SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "MRd/S111-058": {
+    "name": "“Genius Matter Programmer”ヒロ",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 1,
+    "power": 3500,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你的回合中，你的前列有其他「“Personal Battle Companion”ベイマックス」的话，这张卡的战斗力+2500。<br>【自】对手的回合中，这张卡倒置时，你的前列有其他「“Personal Battle Companion”ベイマックス」，这张卡的战斗对手的等级是1级以下的话，你可以将那个战斗对手倒置。<br>【自】绊／「“Personal Battle Companion”ベイマックス」 [1张手牌放置到休息室] （这张卡被使用放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张「“Personal Battle Companion”ベイマックス」返回手牌）",
+    "all_cards": [
+      {
+        "id": "MRd/S111-058",
+        "rarity": "R"
+      },
+      {
+        "id": "MRd/S111-058SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "MRd/S111-059": {
+    "name": "“Inventor of Holiday Spirit”ジャック・スケリントン",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【永】前列有这张卡的话，你其他全部《Mirrorverse》或《Disney》的角色，战斗力+1000，给予以下能力。『【永】这张卡不会被对手的效果选择。』<br>【自】[(2)] 这张卡的战斗对手倒置时，你可以支付费用。支付了的话，给对手造成1点伤害。（发生伤害取消）",
+    "all_cards": [
+      {
+        "id": "MRd/S111-059",
+        "rarity": "R"
+      },
+      {
+        "id": "MRd/S111-059SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "MRd/S111-061": {
+    "name": "“ミラー・ウォリアーズ”ジャック・スケリントン",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你有其他《Mirrorverse》或《Disney》的角色的话，那个回合中，这张卡的战斗力+2000。<br>【自】【CX联动】这张卡攻击时，高潮区有「Flight Of The Living Thread」，你其他《Mirrorverse》或《Disney》的角色有2个以上的话，你公开自己卡组顶1张卡。那张卡是《Mirrorverse》或《Disney》的角色卡的话加入手牌，你从对手的休息室选择至多1张卡放置到卡组底。（否则放回原处）",
+    "all_cards": [
+      {
+        "id": "MRd/S111-061",
+        "rarity": "U"
+      },
+      {
+        "id": "MRd/S111-061S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-062": {
+    "name": "“World Network Enforcer”トロン",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 1,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你其他《Mirrorverse》或《Disney》的角色有2个以上的话，这张卡的战斗力+2000。<br>【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "MRd/S111-062",
+        "rarity": "U"
+      },
+      {
+        "id": "MRd/S111-062S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-063": {
+    "name": "“ミラー・ウォリアーズ”ジャック・スパロウ",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 2,
+    "power": 4000,
+    "cost": 1,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你的角色全部是《Mirrorverse》或《Disney》的角色的话，这张卡的战斗力+7000，这张卡获得以下能力。『【自】[(1)] 这张卡攻击时，你可以支付费用。支付了的话，那次攻击中，你在触发步骤执行2次触发判定。』<br>【自】【CX联动】[你高潮区的1张「Broadside」放置到休息室] 你的攻击阶段开始时，前列有这张卡，你其他的角色有2个以上的话，你可以支付费用。支付了的话，这张卡竖置，直到下一个对手的回合结束为止，这张卡获得『【自】再演 [手牌中1张角色卡放置到休息室]』的能力。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-063",
+        "rarity": "U"
+      },
+      {
+        "id": "MRd/S111-063S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-064": {
+    "name": "“ミラー・ウォリアーズ”ヒロ",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，你看自己卡组顶1张卡，放置到卡组顶或卡组底或休息室。<br>【自】这张卡倒置时，这张卡的战斗对手的等级是0级以下的话，你可以将那个角色倒置。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-064",
+        "rarity": "C"
+      },
+      {
+        "id": "MRd/S111-064S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-065": {
+    "name": "“ミラー・ウォリアーズ”ベイマックス",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 2,
+    "power": 5000,
+    "cost": 1,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+X。X是那个角色的等级×500。<br>【起】[(4) 这张卡横置] 你从自己的时计区选择至多2张《Mirrorverse》或《Disney》的角色卡返回卡组，卡组洗切。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-065",
+        "rarity": "C"
+      },
+      {
+        "id": "MRd/S111-065S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-067": {
+    "name": "“ミラー・ウォリアーズ”トロン",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 2,
+    "power": 6500,
+    "cost": 2,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【永】你的前列每有1个其他的《Mirrorverse》或《Disney》的角色，这张卡的战斗力+2000。<br>【自】[(1)] 再演步骤开始时，你的前列没有其他横置的角色的话，你可以支付费用。支付了的话，这张卡横置。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-067",
+        "rarity": "C"
+      },
+      {
+        "id": "MRd/S111-067S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-069": {
+    "name": "Flight Of The Living Thread",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/salvage.webp\">：这张卡被触发时，你可以从自己的休息室选择1张角色卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "MRd/S111-069",
+        "rarity": "CR"
+      },
+      {
+        "id": "MRd/S111-069R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "MRd/S111-070": {
+    "name": "Broadside",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，执行<img src=\"/effect-icons/standby.webp\">的效果。<br>（<img src=\"/effect-icons/standby.webp\">：这张卡被触发时，你可以从自己的休息室选择1张等级在自己等级+1以下的角色卡，横置放置到舞台任意位置）",
+    "all_cards": [
+      {
+        "id": "MRd/S111-070",
+        "rarity": "CR"
+      },
+      {
+        "id": "MRd/S111-070R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "MRd/S111-071": {
+    "name": "“Commander of the Underworld”ハデス",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你看自己卡组顶至多2张卡，选择至多2张卡，按喜欢的顺序放置到卡组顶，其余的卡放置到休息室。<br>【自】[(1) 1张手牌放置到休息室] 这张卡从手牌放置到舞台或从舞台放置到休息室时，你可以支付费用。支付了的话，你从自己的休息室选择1张角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-071",
+        "rarity": "RR"
+      },
+      {
+        "id": "MRd/S111-071MSP",
+        "rarity": "MSP"
+      }
+    ]
+  },
+  "MRd/S111-072": {
+    "name": "“Draconic Mage”マレフィセント",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10500,
+    "cost": 2,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【自】【CX联动】[(1) 你舞台的2个角色放置到休息室] 休息室有这张卡，你的「Electroclasm」放置到高潮区时，你的等级在2级以上的话，你可以支付费用。支付了的话，你将这张卡放置到舞台任意位置，那个回合中，这张卡的战斗力+1000。<br>【自】这张卡攻击时，你可以将自己卡组顶1张卡放置到休息室。那张卡是《Mirrorverse》或《Disney》的角色卡的话，给对手造成X点伤害。X是那张卡的等级。（发生伤害取消）",
+    "all_cards": [
+      {
+        "id": "MRd/S111-072",
+        "rarity": "RR"
+      },
+      {
+        "id": "MRd/S111-072MSP",
+        "rarity": "MSP"
+      }
+    ]
+  },
+  "MRd/S111-073": {
+    "name": "“Poison Hearted Monarch”女王",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】[1张手牌放置到休息室] 你触发到触发标记是<img src=\"/effect-icons/gate.webp\">的高潮卡时，你可以支付费用。支付了的话，你抽1张卡。<br>【自】【CX联动】[你舞台其他1个《Mirrorverse》或《Disney》的角色放置到休息室，你高潮区的1张「Heartsbane Harvest」放置到休息室] 你的再演步骤开始时，你可以支付费用。支付了的话，你从自己的卡组找至多2张《Mirrorverse》或《Disney》的角色卡展示给对手后，选择1张加入手牌，其余的卡放置到费用区，卡组洗切。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-073",
+        "rarity": "R"
+      },
+      {
+        "id": "MRd/S111-073SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "MRd/S111-074": {
+    "name": "“Sorcerous Seeker”ジャファー",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4000,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】[你舞台其他1个《Mirrorverse》或《Disney》的角色放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你选择对手后列1个角色，移动到对手舞台其他没有角色的位置。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-074",
+        "rarity": "R"
+      },
+      {
+        "id": "MRd/S111-074SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "MRd/S111-076": {
+    "name": "“Ice Storm Elemental”エルサ",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 2,
+    "power": 6000,
+    "cost": 1,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你每有1个其他的《Mirrorverse》或《Disney》的角色，这张卡的战斗力+1000。<br>【自】【CX联动】[你高潮区的1张「Frostbite」放置到休息室] 这张卡的战斗对手倒置时，你可以支付费用。支付了的话，你看自己卡组顶至多4张卡，选择至多4张《Mirrorverse》或《Disney》的角色卡展示给对手后加入手牌，其余的卡放置到休息室。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-076",
+        "rarity": "R"
+      },
+      {
+        "id": "MRd/S111-076SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "MRd/S111-077": {
+    "name": "“Dicey Heavy Hitter”ウギー・ブギー",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 3,
+    "power": 9000,
+    "cost": 2,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【永】你《Mirrorverse》或《Disney》的角色有4个以上的话，你手牌中这张卡的等级-1。<br>【永】你其他《Mirrorverse》或《Disney》的角色有2个以上的话，这张卡的战斗力+1000。<br>【自】这张卡从手牌或卡组放置到舞台时，你可以将自己时计区顶1张卡放置到休息室。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-077",
+        "rarity": "R"
+      },
+      {
+        "id": "MRd/S111-077SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "MRd/S111-078": {
+    "name": "“Royal Champion of Atlantica”アリエル",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【永】对手有等级3以上的角色的话，你手牌中这张卡的等级-1。<br>【自】这张卡从手牌或卡组放置到舞台的回合中，这张卡攻击时，你的全部角色在那个回合中，战斗力+1000，给予以下能力。『【自】这张卡的战斗对手倒置时，你可以将那个角色放置到卡组底。』",
+    "all_cards": [
+      {
+        "id": "MRd/S111-078",
+        "rarity": "R"
+      },
+      {
+        "id": "MRd/S111-078SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "MRd/S111-079": {
+    "name": "“ミラー・ウォリアーズ”ハデス",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你可以从自己的休息室选择1张《Mirrorverse》或《Disney》的角色卡，反面朝上放置到这张卡的下方作为指示物。<br>【自】你的回合中，这张卡的下方有指示物，竖置的这张卡从舞台放置到休息室时，你可以将这张卡横置放置到原来的位置。<br>【起】集中 [(1) 这张卡横置] 你将自己卡组顶4张卡放置到休息室。那些卡中每有1张高潮卡，你从自己的休息室选择至多1张角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-079",
+        "rarity": "U"
+      },
+      {
+        "id": "MRd/S111-079S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-080": {
+    "name": "“Reinforced Resilience”アナ",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】[3张手牌放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择至多2张角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-080",
+        "rarity": "U"
+      },
+      {
+        "id": "MRd/S111-080S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-081": {
+    "name": "“Ward of Arendelle”アナ",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 1,
+    "power": 3500,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你的角色全部是《Mirrorverse》或《Disney》的角色的话，这张卡的战斗力+2500，这张卡获得『【自】再演 [你休息室1张《Mirrorverse》或《Disney》的角色卡放置到时计区底]』的能力。<br>【自】[1张手牌放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择至多1张「“Ice Storm Elemental”エルサ」返回手牌。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-081",
+        "rarity": "U"
+      },
+      {
+        "id": "MRd/S111-081S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-082": {
+    "name": "“ミラー・ウォリアーズ”ウギー・ブギー",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 1,
+    "power": 3500,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】[2张手牌放置到休息室] 这张卡从手牌放置到舞台时，你其他《Mirrorverse》或《Disney》的角色有2个以上的话，你可以支付费用。支付了的话，你抽至多2张卡。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-082",
+        "rarity": "U"
+      },
+      {
+        "id": "MRd/S111-082S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-083": {
+    "name": "“Luminous Alchemist”ティアナ",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4000,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】你其他《Mirrorverse》或《Disney》的角色攻击时，那个回合中，这张卡的战斗力+1500。<br>【自】加速 [你卡组顶1张卡放置到时计区] 你的高潮阶段开始时，你可以支付费用。支付了的话，那个回合中，这张卡的战斗力+1000，这张卡获得以下能力。『【自】这张卡的战斗对手倒置时，你看自己卡组顶至多4张卡，选择至多1张等级1以上的卡展示给对手后加入手牌，其余的卡放置到休息室。』（高潮卡视为0级）",
+    "all_cards": [
+      {
+        "id": "MRd/S111-083",
+        "rarity": "U"
+      },
+      {
+        "id": "MRd/S111-083S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-084": {
+    "name": "“Merciless Beast Hunter”ガストン",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你的回合中，你有其他《Mirrorverse》或《Disney》的角色的话，这张卡的战斗力+1500。<br>【自】[(1) 你舞台其他1个《Mirrorverse》或《Disney》的角色放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的卡组找至多1张《Mirrorverse》或《Disney》的角色卡展示给对手后加入手牌，卡组洗切。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-084",
+        "rarity": "U"
+      },
+      {
+        "id": "MRd/S111-084S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-085": {
+    "name": "“Living Legend”マウイ",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6000,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡倒置时，你将自己卡组顶1张卡放置到时计区，这张卡横置。<br>【起】[1张手牌放置到休息室，这张卡放置到休息室] 你从自己的卡组找至多1张《Mirrorverse》或《Disney》的角色卡展示给对手后加入手牌，卡组洗切。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-085",
+        "rarity": "U"
+      },
+      {
+        "id": "MRd/S111-085S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-086": {
+    "name": "“Mistress of the Darkest Depths”アースラ",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 2,
+    "power": 4500,
+    "cost": 1,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+X。X是那个角色的等级×500。<br>【自】[(1)] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择至多2张等级0以下的角色卡，横置放置到舞台不同位置。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-086",
+        "rarity": "U"
+      },
+      {
+        "id": "MRd/S111-086S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-087": {
+    "name": "“Devilish Queen of Crime”クルエラ",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7000,
+    "cost": 1,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】[你舞台的其他1个角色放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你选择对手1个等级0以下的角色放置到休息室。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-087",
+        "rarity": "U"
+      },
+      {
+        "id": "MRd/S111-087S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-088": {
+    "name": "“ミラー・ウォリアーズ”ジャファー",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】[1张手牌放置到休息室，你舞台的其他1个角色放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你看自己卡组顶至多3张卡，选择至多1张卡加入手牌，其余的卡放置到休息室。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-088",
+        "rarity": "C"
+      },
+      {
+        "id": "MRd/S111-088S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-089": {
+    "name": "“ミラー・ウォリアーズ”クルエラ",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你选择对手前列的1个角色，那个回合中，战斗力-1000。<br>【自】这张卡从舞台放置到休息室时，你可以公开自己卡组顶至多3张卡。公开1张以上的话，你从那些卡中选择至多1张触发标记含有<img src=\"/effect-icons/soul.webp\">的卡加入手牌，其余的卡放置到休息室，选择自己的1张手牌放置到休息室。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-089",
+        "rarity": "C"
+      },
+      {
+        "id": "MRd/S111-089S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-090": {
+    "name": "“ミラー・ウォリアーズ”アースラ",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你选择对手的1个角色和那个角色的1个特征，那个回合中，那个角色失去全部那个特征。<br>【起】[这张卡横置] 你选择对手的1个角色，直到下一个对手的回合结束为止，战斗力+500，给予以下能力。『【永】这张卡的战斗中，你不能从手牌中使用事件卡和『助太刀』。』",
+    "all_cards": [
+      {
+        "id": "MRd/S111-090",
+        "rarity": "C"
+      },
+      {
+        "id": "MRd/S111-090S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-093": {
+    "name": "闇の勢力「虚像」",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 1,
+    "power": 3500,
+    "cost": 0,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，那个回合中，这张卡的战斗力+5000，这张卡获得以下能力。『【自】回合结束时，这张卡放置到休息室。』",
+    "all_cards": [
+      {
+        "id": "MRd/S111-093",
+        "rarity": "C"
+      },
+      {
+        "id": "MRd/S111-093S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-095": {
+    "name": "“ミラー・ウォリアーズ”ガストン",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 2,
+    "power": 4000,
+    "cost": 1,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】对手每有1个角色，这张卡的战斗力+1000。<br>【自】[你舞台其他1个《Mirrorverse》或《Disney》的角色放置到休息室] 对手的攻击阶段开始时，你可以支付费用。支付了的话，你将这张卡移动到没有角色的位置，那个回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-095",
+        "rarity": "C"
+      },
+      {
+        "id": "MRd/S111-095S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-096": {
+    "name": "“Wayfinding Warrior”モアナ",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "角色卡",
+    "level": 2,
+    "power": 4500,
+    "cost": 1,
+    "trait": ["Mirrorverse", "Disney"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【自】这张卡从手牌放置到舞台时，你其他《Mirrorverse》或《Disney》的角色有4个以上的话，直到下一个对手的回合结束为止，这张卡获得以下能力。『【永】这张卡不会倒置。』",
+    "all_cards": [
+      {
+        "id": "MRd/S111-096",
+        "rarity": "C"
+      },
+      {
+        "id": "MRd/S111-096S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-097": {
+    "name": "マレフィセントの虚像",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "事件卡",
+    "level": 1,
+    "power": "-",
+    "cost": 0,
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "你从自己的休息室选择1张与自己或对手舞台有的《Mirrorverse》的角色卡名相同的《Mirrorverse》的角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "MRd/S111-097",
+        "rarity": "U"
+      },
+      {
+        "id": "MRd/S111-097S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MRd/S111-098": {
+    "name": "Electroclasm",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/gate.webp\">：这张卡被触发时，你可以从自己的休息室选择1张高潮卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "MRd/S111-098",
+        "rarity": "CR"
+      },
+      {
+        "id": "MRd/S111-098R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "MRd/S111-099": {
+    "name": "Heartsbane Harvest",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/gate.webp\">：这张卡被触发时，你可以从自己的休息室选择1张高潮卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "MRd/S111-099",
+        "rarity": "CR"
+      },
+      {
+        "id": "MRd/S111-099R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "MRd/S111-100": {
+    "name": "Frostbite",
+    "product_name": "Disney ミラー・ウォリアーズ",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/gate.webp\">：这张卡被触发时，你可以从自己的休息室选择1张高潮卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "MRd/S111-100",
+        "rarity": "CR"
+      },
+      {
+        "id": "MRd/S111-100R",
+        "rarity": "RRR"
+      }
+    ]
+  }
+}
