@@ -1,0 +1,182 @@
+{
+  "DC/W23-106": {
+    "name": "アルティメットバトル！",
+    "product_name": "PRカード【Wサイド】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "DC/W23-106",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DC/W23-107": {
+    "name": "きっと、変わらない",
+    "product_name": "PRカード【Wサイド】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你抽1张卡，选择自己的1个角色，那个回合中，灵魂值+3。",
+    "all_cards": [
+      {
+        "id": "DC/W23-107",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DC/W23-109": {
+    "name": "答えを出したいか？",
+    "product_name": "PRカード【Wサイド】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "DC/W23-109",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DC/W23-P01": {
+    "name": "満開の下 音夢＆美春＆アリス",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["風紀委員", "人形"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你每有1个其他的「満開の下 音夢＆美春＆アリス」，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "DC/W23-P01",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DC/W23-P02": {
+    "name": "行く年来る年 音姫＆由夢",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["魔法", "生徒会"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】你的高潮卡放置到高潮区时，那个回合中，这张卡的战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "DC/W23-P02",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DC/W23-P03": {
+    "name": "夢のような日々 葵＆サラ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["ウェイトレス", "スポーツ"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你的手牌在5张以上的话，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "DC/W23-P03",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DC/W23-P04": {
+    "name": "キミと一緒に 立夏",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8500,
+    "cost": 2,
+    "trait": ["新聞", "生徒会"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【永】这张卡位于前列中央的话，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "DC/W23-P04",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DC/W23-P05": {
+    "name": "ベストフレンド ななか＆小恋",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽", "魔法"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【起】[你1个《音楽》的角色横置] 那个回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "DC/W23-P05",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DC/W23-P07": {
+    "name": "本物の笑顔 ことり",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["魔法", "音楽"],
+    "color": "绿色",
+    "soul": 2,
+    "effect": "【自】这个能力1回合至多发动2次。你的角色卡从手牌放置到时计区时，那个回合中，这张卡的战斗力+3000。<br />【自】这张卡被正面攻击时，你看自己卡组顶1张卡，放置到卡组顶或休息室。<br />【起】[你1个《音楽》的角色横置] 那个回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "DC/W23-P07",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DC/W23-P08": {
+    "name": "大切な約束 音姫",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3500,
+    "cost": 0,
+    "trait": ["魔法", "生徒会"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】这张卡正面的角色灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "DC/W23-P08",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

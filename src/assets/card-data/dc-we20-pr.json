@@ -1,0 +1,38 @@
+{
+  "DC/WE20-P01": {
+    "name": "この日を忘れない",
+    "product_name": "PRカード【Wサイド】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "DC/WE20-P01",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DC/WE20-P02": {
+    "name": "体験実習！音姫&エリカ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6500,
+    "cost": 1,
+    "trait": ["生徒会", "王族"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】你的高潮卡放置到高潮区时，那个回合中，这张卡的战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "DC/WE20-P02",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

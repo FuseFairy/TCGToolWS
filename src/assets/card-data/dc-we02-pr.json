@@ -1,0 +1,200 @@
+{
+  "DC/WE02-019": {
+    "name": "物憂げなさくら",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["魔法"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【起】[这张卡思出] 你从自己的卡组找至多1张卡名含有「桜」的角色卡展示给对手后加入手牌。 卡组洗切。",
+    "all_cards": [
+      {
+        "id": "DC/WE02-019",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DC/WE02-027": {
+    "name": "制服のキリエ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8500,
+    "cost": 2,
+    "trait": ["武器", "ヴァルキリー"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "【起】[你2个《神》的角色横置] 那个回合中，这张卡的灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "DC/WE02-027",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DC/WE02-028": {
+    "name": "制服のカイレイン",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6000,
+    "cost": 1,
+    "trait": ["武器", "王族"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "DC/WE02-028",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DC/WE02-029": {
+    "name": "くつろぐカイレイン",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["武器", "お菓子"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你其他《ヴァルキリー》的角色有2个以上的话，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "DC/WE02-029",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DC/WE02-030": {
+    "name": "制服のミコト",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["魔法", "パン"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【起】[你1个《武器》的角色横置] 那个回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "DC/WE02-030",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DC/WE02-031": {
+    "name": "制服のエリス",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["魔法", "神"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。<br />【起】[这张卡横置] 你选择自己1个卡名含有「レオ」的角色，那个回合中，给予『【自】再演[手牌中1张角色卡放置到休息室]』的能力。",
+    "all_cards": [
+      {
+        "id": "DC/WE02-031",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DC/WE02-032": {
+    "name": "小さな幼なじみ 小恋",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。<br />【起】[这张卡横置]你选择自己1个等级1的角色，那个回合中，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "DC/WE02-032",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DC/WE02-033": {
+    "name": "佇むアイシア",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 3,
+    "power": 9500,
+    "cost": 2,
+    "trait": ["魔法"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "【永】大活躍 （对手攻击时，没有倒置的这张卡位于前列中央的话，对手会对这张卡进行正面攻击）<br />【起】[(6)] 你选择对手前列的全部角色返回手牌。",
+    "all_cards": [
+      {
+        "id": "DC/WE02-033",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DC/WE02-034": {
+    "name": "D.C.toVC RADIO",
+    "product_name": "PRカード【Wサイド】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你将自己卡组顶1张卡放置到费用区，自己的全部角色，那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "DC/WE02-034",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DC/WE02-035": {
+    "name": "おこたでみかん",
+    "product_name": "PRカード【Wサイド】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "DC/WE02-035",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DC/WE02-036": {
+    "name": "駆け巡る思い出…",
+    "product_name": "PRカード【Wサイド】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "DC/WE02-036",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

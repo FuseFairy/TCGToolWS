@@ -1,0 +1,56 @@
+{
+  "DC4/W81-P06": {
+    "name": "“Fortunate Departures”恋する少女",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["Anniversary", "魔法"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你选择自己1个《Anniversary》或《魔法》的角色，那个回合中，战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "DC4/W81-P06",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DC4/W81-P07": {
+    "name": "天空に浮かぶ桜",
+    "product_name": "PRカード【Wサイド】",
+    "type": "事件卡",
+    "level": 3,
+    "power": "-",
+    "cost": 7,
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【反击】对手的全部角色，那个回合中，灵魂值+5，给予以下能力。『【永】这张卡不能侧面攻击。』",
+    "all_cards": [
+      {
+        "id": "DC4/W81-P07",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DC4/W81-P05": {
+    "name": "とろける笑顔 有里栖",
+    "product_name": "サーカス 20th Anniversary",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["Anniversary", "魔法", "令嬢"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】这张卡不能侧面攻击。<br>【自】这张卡从手牌放置到舞台时，那个回合中，这张卡的战斗力+X。X是你《Anniversary》或《魔法》的角色的数量×1000。",
+    "all_cards": [
+      {
+        "id": "DC4/W81-P05",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "DS/W46-P02": {
+    "name": "無防備な姿 ひまり",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["風南島", "帽子"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你将自己卡组顶1张卡放置到休息室。那张卡是《風南島》的角色卡的话，那个回合中，这张卡的灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "DS/W46-P02",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DS/W46-P03": {
+    "name": "ホログラムの天",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["風南島", "科学"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】你的高潮卡放置到高潮区时，那个回合中，这张卡的战斗力+X。X是你《風南島》的角色的数量×500。",
+    "all_cards": [
+      {
+        "id": "DS/W46-P03",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DS/W46-111": {
+    "name": "ちびひまり",
+    "product_name": "「D.S. -Dal Segno-」＆「D.C.Ⅲ With You ～ダ・カーポⅢ～ ウィズユー」",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["風南島", "帽子"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你没有其他角色的话，这张卡的等级+1，战斗力+1500。<br>【自】这个能力1回合至多发动1次。战斗中这张卡倒置时，你公开自己卡组顶1张卡。那张卡是等级2以上的卡的话，你可以将这张卡横置。（高潮卡视为0级。公开的卡放回原处）",
+    "all_cards": [
+      {
+        "id": "DS/W46-111",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DS/W46-112": {
+    "name": "ちび遥月",
+    "product_name": "「D.S. -Dal Segno-」＆「D.C.Ⅲ With You ～ダ・カーポⅢ～ ウィズユー」",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2500,
+    "cost": 1,
+    "trait": ["風南島", "生徒会"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀3000 等级2 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+3000）",
+    "all_cards": [
+      {
+        "id": "DS/W46-112",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DS/W46-113": {
+    "name": "ちび乃絵里",
+    "product_name": "「D.S. -Dal Segno-」＆「D.C.Ⅲ With You ～ダ・カーポⅢ～ ウィズユー」",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6000,
+    "cost": 0,
+    "trait": ["風南島", "家族"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【永】这张卡正面的角色灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "DS/W46-113",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DS/W46-114": {
+    "name": "ちび依愛",
+    "product_name": "「D.S. -Dal Segno-」＆「D.C.Ⅲ With You ～ダ・カーポⅢ～ ウィズユー」",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7500,
+    "cost": 1,
+    "trait": ["風南島", "中二病"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你的《風南島》的角色有4个以上的话，你手牌中这张卡的等级-1。",
+    "all_cards": [
+      {
+        "id": "DS/W46-114",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DS/W46-115": {
+    "name": "ちび天",
+    "product_name": "「D.S. -Dal Segno-」＆「D.C.Ⅲ With You ～ダ・カーポⅢ～ ウィズユー」",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["風南島", "科学"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，你公开自己卡组顶1张卡。那张卡是《風南島》的角色卡的话加入手牌，你选择自己的1张手牌放置到休息室。（否则放回原处）",
+    "all_cards": [
+      {
+        "id": "DS/W46-115",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DS/W46-116": {
+    "name": "小川で遊ぼう！",
+    "product_name": "「D.S. -Dal Segno-」＆「D.C.Ⅲ With You ～ダ・カーポⅢ～ ウィズユー」",
+    "type": "事件卡",
+    "level": 1,
+    "power": "-",
+    "cost": 0,
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "你抽至多2张卡，选择自己的2张手牌放置到卡组顶。",
+    "all_cards": [
+      {
+        "id": "DS/W46-116",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DS/W46-117": {
+    "name": "ホラーは苦手",
+    "product_name": "「D.S. -Dal Segno-」＆「D.C.Ⅲ With You ～ダ・カーポⅢ～ ウィズユー」",
+    "type": "事件卡",
+    "level": 2,
+    "power": "-",
+    "cost": 3,
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【反击】你选择1个战斗中的角色，那个回合中，给予以下能力。『【永】这张卡不能对玩家造成伤害。』",
+    "all_cards": [
+      {
+        "id": "DS/W46-117",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

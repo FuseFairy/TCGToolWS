@@ -1,0 +1,38 @@
+{
+  "DC5/WPR-P01": {
+    "name": "舞い散る桜と共に 瑞花",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["魔法"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】 他のあなたの《魔法》のキャラすべてに、パワーを＋500。<br/>【起】【CXコンボ】［(3)］ あなたは自分の控え室の「少年は、運命に出会う」を1枚選び、クライマックス置場に置く。",
+    "all_cards": [
+      {
+        "id": "DC5/WPR-P01",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DC5/WPR-P02": {
+    "name": "少年は、運命に出会う",
+    "product_name": "PRカード【Sサイド】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+    "all_cards": [
+      {
+        "id": "DC5/WPR-P02",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

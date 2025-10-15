@@ -135,4 +135,9 @@ export const seriesMap = {
     prefixes: ['CHA', 'Kch'],
     icon: 'cha.webp',
   },
+  '初音岛': {
+    id: 'dc',
+    prefixes: ['DC', 'DC3', 'DC4', 'DS', 'DC5'],
+    icon: 'dc.webp',
+  },
 }
