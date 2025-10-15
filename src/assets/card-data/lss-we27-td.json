@@ -1,0 +1,398 @@
+{
+  "LSS/WE27-A01": {
+    "name": "“さあどこへ行こうかな”黒澤 ルビィ",
+    "product_name": "[その他]ラブライブ！サンシャイン!!  ラバーマット＆ヴァイスシュヴァルツおためしデッキセット",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】绊／「“さあどこへ行こうかな”黒澤 ダイヤ」 [(1)] （这张卡被使用放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张「“さあどこへ行こうかな”黒澤 ダイヤ」返回手牌）",
+    "all_cards": [
+      {
+        "id": "LSS/WE27-A01",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "LSS/WE27-A02": {
+    "name": "“HAPPY PARTY TRAIN”小原 鞠莉",
+    "product_name": "[その他]ラブライブ！サンシャイン!!  ラバーマット＆ヴァイスシュヴァルツおためしデッキセット",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。<br>",
+    "all_cards": [
+      {
+        "id": "LSS/WE27-A02",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "LSS/WE27-A03": {
+    "name": "“HAPPY PARTY TRAIN”高海 千歌",
+    "product_name": "[その他]ラブライブ！サンシャイン!!  ラバーマット＆ヴァイスシュヴァルツおためしデッキセット",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【起】集中 [(1) 这张卡横置] 你将自己卡组顶4张卡放置到休息室。那些卡中每有1张高潮卡，你抽至多1张卡。",
+    "all_cards": [
+      {
+        "id": "LSS/WE27-A03",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "LSS/WE27-A04": {
+    "name": "“HAPPY PARTY TRAIN”渡辺 曜",
+    "product_name": "[その他]ラブライブ！サンシャイン!!  ラバーマット＆ヴァイスシュヴァルツおためしデッキセット",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，你选择自己其他1个角色，那个回合中，战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "LSS/WE27-A04",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "LSS/WE27-A05": {
+    "name": "“さあどこへ行こうかな”高海 千歌",
+    "product_name": "[その他]ラブライブ！サンシャイン!!  ラバーマット＆ヴァイスシュヴァルツおためしデッキセット",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "LSS/WE27-A05",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "LSS/WE27-A06": {
+    "name": "“HAPPY PARTY TRAIN”黒澤 ダイヤ",
+    "product_name": "[その他]ラブライブ！サンシャイン!!  ラバーマット＆ヴァイスシュヴァルツおためしデッキセット",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "LSS/WE27-A06",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "LSS/WE27-A07": {
+    "name": "“さあどこへ行こうかな”渡辺 曜",
+    "product_name": "[その他]ラブライブ！サンシャイン!!  ラバーマット＆ヴァイスシュヴァルツおためしデッキセット",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["音楽", "水着"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "LSS/WE27-A07",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "LSS/WE27-A08": {
+    "name": "“さあどこへ行こうかな”津島 善子",
+    "product_name": "[その他]ラブライブ！サンシャイン!!  ラバーマット＆ヴァイスシュヴァルツおためしデッキセット",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "LSS/WE27-A08",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "LSS/WE27-A09": {
+    "name": "“さあどこへ行こうかな”黒澤 ダイヤ",
+    "product_name": "[その他]ラブライブ！サンシャイン!!  ラバーマット＆ヴァイスシュヴァルツおためしデッキセット",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 0,
+    "trait": ["音楽", "生徒会"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "LSS/WE27-A09",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "LSS/WE27-A10": {
+    "name": "“さあどこへ行こうかな”小原 鞠莉",
+    "product_name": "[その他]ラブライブ！サンシャイン!!  ラバーマット＆ヴァイスシュヴァルツおためしデッキセット",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "LSS/WE27-A10",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "LSS/WE27-A11": {
+    "name": "“HAPPY PARTY TRAIN”松浦 果南",
+    "product_name": "[その他]ラブライブ！サンシャイン!!  ラバーマット＆ヴァイスシュヴァルツおためしデッキセット",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6000,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】【CX联动】这张卡攻击时，高潮区有「HAPPY PARTY TRAIN」的话，你可以抽1张卡。",
+    "all_cards": [
+      {
+        "id": "LSS/WE27-A11",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "LSS/WE27-A12": {
+    "name": "“さあどこへ行こうかな”桜内 梨子",
+    "product_name": "[その他]ラブライブ！サンシャイン!!  ラバーマット＆ヴァイスシュヴァルツおためしデッキセット",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2500,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀3000 等级2 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+3000）",
+    "all_cards": [
+      {
+        "id": "LSS/WE27-A12",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "LSS/WE27-A13": {
+    "name": "“HAPPY PARTY TRAIN”国木田 花丸",
+    "product_name": "[その他]ラブライブ！サンシャイン!!  ラバーマット＆ヴァイスシュヴァルツおためしデッキセット",
+    "type": "角色卡",
+    "level": 2,
+    "power": 5500,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "LSS/WE27-A13",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "LSS/WE27-A14": {
+    "name": "“HAPPY PARTY TRAIN”津島 善子",
+    "product_name": "[その他]ラブライブ！サンシャイン!!  ラバーマット＆ヴァイスシュヴァルツおためしデッキセット",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8500,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "LSS/WE27-A14",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "LSS/WE27-A15": {
+    "name": "“HAPPY PARTY TRAIN”黒澤 ルビィ",
+    "product_name": "[その他]ラブライブ！サンシャイン!!  ラバーマット＆ヴァイスシュヴァルツおためしデッキセット",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8500,
+    "cost": 2,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【自】再演 [你卡组顶1张卡放置到时计区] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "LSS/WE27-A15",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "LSS/WE27-A16": {
+    "name": "“HAPPY PARTY TRAIN”桜内 梨子",
+    "product_name": "[その他]ラブライブ！サンシャイン!!  ラバーマット＆ヴァイスシュヴァルツおためしデッキセット",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【自】这张卡从手牌放置到舞台时，你可以将自己时计区顶1张卡放置到休息室。",
+    "all_cards": [
+      {
+        "id": "LSS/WE27-A16",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "LSS/WE27-A17": {
+    "name": "“さあどこへ行こうかな”松浦 果南",
+    "product_name": "[その他]ラブライブ！サンシャイン!!  ラバーマット＆ヴァイスシュヴァルツおためしデッキセット",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["音楽", "傘"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【自】这张卡从手牌放置到舞台时，你抽至多2张卡，选择自己的1张手牌放置到休息室。",
+    "all_cards": [
+      {
+        "id": "LSS/WE27-A17",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "LSS/WE27-A18": {
+    "name": "“さあどこへ行こうかな”国木田 花丸",
+    "product_name": "[その他]ラブライブ！サンシャイン!!  ラバーマット＆ヴァイスシュヴァルツおためしデッキセット",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["音楽", "芋"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【自】这张卡攻击时，你选择自己的1个角色，那个回合中，战斗力+2000，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "LSS/WE27-A18",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "LSS/WE27-A19": {
+    "name": "TRAIN to go!",
+    "product_name": "[その他]ラブライブ！サンシャイン!!  ラバーマット＆ヴァイスシュヴァルツおためしデッキセット",
+    "type": "事件卡",
+    "level": 1,
+    "power": "-",
+    "cost": 1,
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "你从自己的休息室选择1张《音楽》的角色卡返回手牌。你选择自己的1个角色，那个回合中，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "LSS/WE27-A19",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "LSS/WE27-A20": {
+    "name": "HAPPY PARTY TRAIN",
+    "product_name": "[その他]ラブライブ！サンシャイン!!  ラバーマット＆ヴァイスシュヴァルツおためしデッキセット",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/draw.webp\">：这张卡被触发时，你可以抽1张卡）",
+    "all_cards": [
+      {
+        "id": "LSS/WE27-A20",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "LSS/WE27-A21": {
+    "name": "旅の終わりに",
+    "product_name": "[その他]ラブライブ！サンシャイン!!  ラバーマット＆ヴァイスシュヴァルツおためしデッキセット",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/gate.webp\">：这张卡被触发时，你可以从自己的休息室选择1张高潮卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "LSS/WE27-A21",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "LSS/WE27-A22": {
+    "name": "Aqours's dollhouse",
+    "product_name": "[その他]ラブライブ！サンシャイン!!  ラバーマット＆ヴァイスシュヴァルツおためしデッキセット",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "LSS/WE27-A22",
+        "rarity": "TD"
+      }
+    ]
+  }
+}

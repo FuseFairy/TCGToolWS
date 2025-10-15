@@ -225,4 +225,9 @@ export const seriesMap = {
     prefixes: ['LL', 'LSF', 'SIL'],
     icon: 'll.webp',
   },
+  'Love Live! Sunshine!!': {
+    id: 'lls',
+    prefixes: ['LSS', 'LSF', 'SIS'],
+    icon: 'lls.webp',
+  },
 }
