@@ -240,4 +240,9 @@ export const seriesMap = {
     prefixes: ['LSP', 'LSF', 'SIP'],
     icon: 'lsp.webp',
   },
+  'Love Live! 学园偶像祭2': {
+    id: 'sif',
+    prefixes: ['SIL', 'SIS', 'SIN', 'SIP', 'LSF'],
+    icon: 'sif.webp',
+  },
 }
