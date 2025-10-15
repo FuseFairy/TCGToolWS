@@ -170,4 +170,9 @@ export const seriesMap = {
     prefixes: ['Dds', 'MRd'],
     icon: 'dds.webp',
   },
+  'Disney100': {
+    id: 'dds100',
+    prefixes: ['Dmv', 'Dsw', 'Dpx', 'Dds'],
+    icon: 'dds100.webp',
+  },
 }
