@@ -180,4 +180,9 @@ export const seriesMap = {
     prefixes: ['FS', 'FU', 'FH', 'FZ'],
     icon: 'fate.webp',
   },
+  'Fate/Apocrypha': {
+    id: 'apo',
+    prefixes: ['APO'],
+    icon: 'apo.webp',
+  },
 }
