@@ -115,4 +115,9 @@ export const seriesMap = {
     prefixes: ['AB', 'KW', 'Kab', 'Hab'],
     icon: 'ab.webp',
   },
+  'CANAAN': {
+    id: 'cn',
+    prefixes: ['CN'],
+    icon: 'cn.webp',
+  },
 }
