@@ -205,4 +205,9 @@ export const seriesMap = {
     prefixes: ['Kab', 'Kai', 'Kch', 'Kcl', 'Kdb', 'Key', 'Khb', 'Kka', 'Klb', 'Krw', 'Ksm'],
     icon: 'key.webp',
   },
+  'Little Busters!': {
+    id: 'lb',
+    prefixes: ['LB', 'KW', 'Klb'],
+    icon: 'lb.webp',
+  },
 }
