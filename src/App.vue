@@ -5,7 +5,7 @@
         <v-app-bar-nav-icon class="d-md-none" @click="drawer = !drawer"></v-app-bar-nav-icon>
       </template>
 
-      <v-app-bar-title class="font-weight-bold text-h6 text-sm-h5">TCGTool for WS</v-app-bar-title>
+      <v-app-bar-title class="font-weight-bold text-h6 text-sm-h5">Uclimax for ws</v-app-bar-title>
 
       <template #append>
         <template v-if="!isInSpecialFlow">
