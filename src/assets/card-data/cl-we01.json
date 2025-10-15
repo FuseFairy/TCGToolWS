@@ -1,0 +1,488 @@
+{
+  "CL/WE01-01": {
+    "name": "演劇部部長 渚",
+    "product_name": "CLANNAD Vol.01",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 2,
+    "trait": ["演劇", "だんご"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "【永】你有其他「岡崎 朋也」的话，这张卡的战斗力+1000。<br>【自】这张卡攻击时，高潮区有「この学園は、好きですか……？」的话，你从自己的卡组找至多1张《双子》或《本》的角色卡展示给对手后加入手牌。卡组洗切。",
+    "all_cards": [
+      {
+        "id": "CL/WE01-01",
+        "rarity": "R"
+      }
+    ]
+  },
+  "CL/WE01-02": {
+    "name": "岡崎 朋也",
+    "product_name": "CLANNAD Vol.01",
+    "type": "角色卡",
+    "level": 2,
+    "power": 5500,
+    "cost": 1,
+    "trait": ["不良", "スポーツ"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】对手的攻击阶段开始时，你可以选择自己的1个角色和这张卡各自竖置替换。",
+    "all_cards": [
+      {
+        "id": "CL/WE01-02",
+        "rarity": "R"
+      }
+    ]
+  },
+  "CL/WE01-03": {
+    "name": "佇む少女 渚",
+    "product_name": "CLANNAD Vol.01",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4000,
+    "cost": 1,
+    "trait": ["演劇", "だんご"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你其他卡名含有「古河」的角色有4个以上的话，你的全部角色在那个回合中，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "CL/WE01-03",
+        "rarity": "R"
+      }
+    ]
+  },
+  "CL/WE01-04": {
+    "name": "古河 渚",
+    "product_name": "CLANNAD Vol.01",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["演劇", "だんご"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你其他全部的「岡崎 朋也」，战斗力+1000。<br>【自】绊／「岡崎 朋也」 [(1)] （这张卡被使用放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张「岡崎 朋也」返回手牌）",
+    "all_cards": [
+      {
+        "id": "CL/WE01-04",
+        "rarity": "C"
+      }
+    ]
+  },
+  "CL/WE01-05": {
+    "name": "世話焼き渚",
+    "product_name": "CLANNAD Vol.01",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["演劇", "だんご"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你的回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "CL/WE01-05",
+        "rarity": "C"
+      }
+    ]
+  },
+  "CL/WE01-06": {
+    "name": "春原 陽平",
+    "product_name": "CLANNAD Vol.01",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["不良", "スポーツ"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【起】[这张卡横置] 你选择至多2个角色，那个回合中，给予《スポーツ》。<br>【起】[这张卡放置到休息室] 你选择自己1个卡名含有「智代」的角色，那个回合中，战斗力+2500。",
+    "all_cards": [
+      {
+        "id": "CL/WE01-06",
+        "rarity": "C"
+      }
+    ]
+  },
+  "CL/WE01-07": {
+    "name": "この学園は、好きですか……？",
+    "product_name": "CLANNAD Vol.01",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "CL/WE01-07",
+        "rarity": "C"
+      }
+    ]
+  },
+  "CL/WE01-08": {
+    "name": "伝説のヒトデ使い風子",
+    "product_name": "CLANNAD Vol.01",
+    "type": "角色卡",
+    "level": 1,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["ヒトデ"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】你使用这张卡的『助太刀』时，战斗中的全部角色在那个回合中，给予以下能力。『【自】这张卡从舞台放置到休息室时，你可以将这张卡横置放置到原来的位置。』<br>【起】【反击】助太刀0 等级1 [手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+0）",
+    "all_cards": [
+      {
+        "id": "CL/WE01-08",
+        "rarity": "R"
+      }
+    ]
+  },
+  "CL/WE01-09": {
+    "name": "家庭的な智代",
+    "product_name": "CLANNAD Vol.01",
+    "type": "角色卡",
+    "level": 1,
+    "power": 3500,
+    "cost": 0,
+    "trait": ["生徒会", "スポーツ"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你可以选择自己后列1个等级1以下的角色竖置。",
+    "all_cards": [
+      {
+        "id": "CL/WE01-09",
+        "rarity": "R"
+      }
+    ]
+  },
+  "CL/WE01-10": {
+    "name": "スポーツ万能 智代",
+    "product_name": "CLANNAD Vol.01",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["生徒会", "スポーツ"],
+    "color": "绿色",
+    "soul": 2,
+    "effect": "【自】[(5)] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你选择对手前列1个等级3以下的《スポーツ》或《不良》的角色放置到时计区。<br>【自】这张卡从手牌放置到舞台时，你可以将自己时计区顶1张卡放置到休息室。",
+    "all_cards": [
+      {
+        "id": "CL/WE01-10",
+        "rarity": "C"
+      }
+    ]
+  },
+  "CL/WE01-11": {
+    "name": "幽霊少女 風子",
+    "product_name": "CLANNAD Vol.01",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7500,
+    "cost": 2,
+    "trait": ["ヒトデ"],
+    "color": "绿色",
+    "soul": 2,
+    "effect": "【自】这张卡攻击时，高潮区有「夢の最後まで」的话，你将自己卡组顶1张卡放置到费用区，自己全部《ヒトデ》的角色在那个回合中，战斗力+2000。<br>【自】再演 [(2)] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "CL/WE01-11",
+        "rarity": "C"
+      }
+    ]
+  },
+  "CL/WE01-12": {
+    "name": "伝説の少女 智代",
+    "product_name": "CLANNAD Vol.01",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["生徒会", "スポーツ"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你可以选择自己后列1个卡名含有「陽平」的角色放置到费用区。<br>【起】[(1) 这张卡横置] 你选择自己的1个角色，那个回合中，等级+1，战斗力+3000。",
+    "all_cards": [
+      {
+        "id": "CL/WE01-12",
+        "rarity": "C"
+      }
+    ]
+  },
+  "CL/WE01-13": {
+    "name": "風子＆公子",
+    "product_name": "CLANNAD Vol.01",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["ヒトデ", "先生"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【起】[(1)] 你选择自己的1个角色，那个回合中，给予《ヒトデ》，给予以下能力。『【起】[这张卡横置] 你选择自己1个《先生》的角色，那个回合中，战斗力+2000。』",
+    "all_cards": [
+      {
+        "id": "CL/WE01-13",
+        "rarity": "C"
+      }
+    ]
+  },
+  "CL/WE01-14": {
+    "name": "夢の最後まで",
+    "product_name": "CLANNAD Vol.01",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你将自己卡组顶1张卡放置到费用区，自己的全部角色，那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "CL/WE01-14",
+        "rarity": "C"
+      }
+    ]
+  },
+  "CL/WE01-15": {
+    "name": "世話好きな 杏",
+    "product_name": "CLANNAD Vol.01",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["双子", "委員長"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你其他全部《スポーツ》的角色，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "CL/WE01-15",
+        "rarity": "R"
+      }
+    ]
+  },
+  "CL/WE01-16": {
+    "name": "パン屋さん 渚＆杏",
+    "product_name": "CLANNAD Vol.01",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["演劇", "委員長"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你其他全部《不良》的角色，等级+1。  <br>【永】你其他全部《委員長》的角色，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "CL/WE01-16",
+        "rarity": "C"
+      }
+    ]
+  },
+  "CL/WE01-17": {
+    "name": "妹思い杏",
+    "product_name": "CLANNAD Vol.01",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2000,
+    "cost": 1,
+    "trait": ["双子", "委員長"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你其他全部卡名含有「椋」的角色，战斗力+500。<br>【起】【反击】助太刀3000 等级2 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+3000）",
+    "all_cards": [
+      {
+        "id": "CL/WE01-17",
+        "rarity": "C"
+      }
+    ]
+  },
+  "CL/WE01-18": {
+    "name": "暴走娘 杏",
+    "product_name": "CLANNAD Vol.01",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["双子", "委員長"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】[(1) 你1个《本》的角色放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你选择对手前列1个等级1以下的角色放置到休息室。",
+    "all_cards": [
+      {
+        "id": "CL/WE01-18",
+        "rarity": "C"
+      }
+    ]
+  },
+  "CL/WE01-19": {
+    "name": "古河 早苗",
+    "product_name": "CLANNAD Vol.01",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 1,
+    "trait": ["パン", "先生"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你有其他《演劇》的角色的话，这张卡的战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "CL/WE01-19",
+        "rarity": "C"
+      }
+    ]
+  },
+  "CL/WE01-20": {
+    "name": "古河 秋生",
+    "product_name": "CLANNAD Vol.01",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["パン", "演劇"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你其他全部《パン》或《だんご》的角色，战斗力+500。<br>【起】[(1) 这张卡放置到休息室] 你从自己的休息室选择1张「古河 早苗」返回手牌。",
+    "all_cards": [
+      {
+        "id": "CL/WE01-20",
+        "rarity": "C"
+      }
+    ]
+  },
+  "CL/WE01-21": {
+    "name": "渚＆ことみ",
+    "product_name": "CLANNAD Vol.01",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 2,
+    "trait": ["演劇", "本"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【永】对手的回合中，你有其他黄色和绿色的角色的话，这张卡的战斗力+1500，这张卡获得『【自】再演 [手牌中1张角色卡放置到休息室] 』的能力。",
+    "all_cards": [
+      {
+        "id": "CL/WE01-21",
+        "rarity": "R"
+      }
+    ]
+  },
+  "CL/WE01-22": {
+    "name": "名誉図書委員ことみ",
+    "product_name": "CLANNAD Vol.01",
+    "type": "角色卡",
+    "level": 1,
+    "power": 3500,
+    "cost": 1,
+    "trait": ["本", "音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前全部等级2以上的角色，战斗力+1000。<br>【起】[(2) 这张卡横置] 你从自己的卡组找至多1张《本》的角色卡展示给对手后加入手牌。卡组洗切。",
+    "all_cards": [
+      {
+        "id": "CL/WE01-22",
+        "rarity": "R"
+      }
+    ]
+  },
+  "CL/WE01-23": {
+    "name": "旋律の破壊神ことみ",
+    "product_name": "CLANNAD Vol.01",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["本", "音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】[(7)] 这张卡攻击时，高潮区有「娘への贈り物」的话，你可以支付费用。支付了的话，你将除这张卡以外的所有玩家前列的全部角色返回卡组。洗切那些卡组。",
+    "all_cards": [
+      {
+        "id": "CL/WE01-23",
+        "rarity": "C"
+      }
+    ]
+  },
+  "CL/WE01-24": {
+    "name": "幻想世界の少女",
+    "product_name": "CLANNAD Vol.01",
+    "type": "角色卡",
+    "level": 1,
+    "power": 1000,
+    "cost": 1,
+    "trait": ["人形"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】警铃 这张卡在时计区最上面，你的角色只有1个的话，你的全部角色，给予以下能力。『【自】这张卡攻击时，你从自己的卡组找至多1张角色卡展示给对手后加入手牌。卡组洗切。』",
+    "all_cards": [
+      {
+        "id": "CL/WE01-24",
+        "rarity": "C"
+      }
+    ]
+  },
+  "CL/WE01-25": {
+    "name": "一ノ瀬 ことみ",
+    "product_name": "CLANNAD Vol.01",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["本", "音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你抽1张卡，选择自己的1张手牌放置到休息室。",
+    "all_cards": [
+      {
+        "id": "CL/WE01-25",
+        "rarity": "C"
+      }
+    ]
+  },
+  "CL/WE01-26": {
+    "name": "杏＆椋",
+    "product_name": "CLANNAD Vol.01",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["双子", "委員長"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "CL/WE01-26",
+        "rarity": "C"
+      }
+    ]
+  },
+  "CL/WE01-27": {
+    "name": "娘への贈り物",
+    "product_name": "CLANNAD Vol.01",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/draw.webp\">：这张卡被触发时，你可以抽1张卡）",
+    "all_cards": [
+      {
+        "id": "CL/WE01-27",
+        "rarity": "C"
+      }
+    ]
+  }
+}

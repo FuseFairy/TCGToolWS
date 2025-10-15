@@ -120,4 +120,14 @@ export const seriesMap = {
     prefixes: ['CN'],
     icon: 'cn.webp',
   },
+  'CLANNAD': {
+    id: 'cl',
+    prefixes: ['CL', 'Kcl'],
+    icon: 'cl.webp',
+  },
+  'PIXAR': {
+    id: 'pxr',
+    prefixes: ['PXR', 'Dpx', 'MRp'],
+    icon: 'pxr.webp',
+  },
 }

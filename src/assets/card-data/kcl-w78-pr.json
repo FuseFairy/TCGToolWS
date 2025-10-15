@@ -1,0 +1,42 @@
+{
+  "Kcl/W78-P02": {
+    "name": "好きな事には饒舌に 渚",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4000,
+    "cost": 0,
+    "trait": ["Anniversary", "演劇", "だんご"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你公开自己卡组顶1张卡。那张卡是《Anniversary》或《だんご》的角色卡的话，那个回合中，这张卡的灵魂值+1。（公开的卡放回原处）<br>【自】这张卡从手牌放置到舞台时，你选择自己1个《Anniversary》或《だんご》的角色，那个回合中，战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "Kcl/W78-P02",
+        "rarity": "PR"
+      },
+      {
+        "id": "Kcl/W78-P02S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "Kcl/W78-123": {
+    "name": "快晴の下 杏",
+    "product_name": "Key 20th Anniversary",
+    "type": "角色卡",
+    "level": 2,
+    "power": 4500,
+    "cost": 1,
+    "trait": ["Anniversary", "双子", "委員長"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+X。X是那个角色的等级×500。<br>【起】[(1) 这张卡横置] 你选择自己的1个角色，那个回合中，战斗力+2500。",
+    "all_cards": [
+      {
+        "id": "Kcl/W78-123",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
