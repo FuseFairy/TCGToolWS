@@ -195,4 +195,9 @@ export const seriesMap = {
     prefixes: ['HOL'],
     icon: 'hol.webp',
   },
+  'JOJO的奇妙冒险': {
+    id: 'jj',
+    prefixes: ['JJ'],
+    icon: 'jj.webp',
+  },
 }
