@@ -1,0 +1,56 @@
+{
+  "DJ/SPR-001": {
+    "name": "Happy Around!",
+    "product_name": "PRカード【Sサイド】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "DJ/SPR-001",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DJ/SPR-002": {
+    "name": "Peaky P-key",
+    "product_name": "PRカード【Sサイド】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "DJ/SPR-002",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DJ/SPR-003": {
+    "name": "リリカルなリリック",
+    "product_name": "PRカード【Sサイド】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "DJ/SPR-003",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

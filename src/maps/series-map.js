@@ -140,4 +140,19 @@ export const seriesMap = {
     prefixes: ['DC', 'DC3', 'DC4', 'DS', 'DC5'],
     icon: 'dc.webp',
   },
+  'D4DJ': {
+    id: 'dj',
+    prefixes: ['DJ'],
+    icon: 'dj.webp',
+  },
+  'DARLING in the FRANXX': {
+    id: 'fxx',
+    prefixes: ['FXX'],
+    icon: 'fxx.webp',
+  },
+  '约会大作战': {
+    id: 'dal',
+    prefixes: ['DAL', 'Fdl'],
+    icon: 'dal.webp',
+  },
 }
