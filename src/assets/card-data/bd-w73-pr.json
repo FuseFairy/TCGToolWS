@@ -213,7 +213,7 @@
     "trait": "-",
     "color": "红色",
     "soul": "-",
-    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、<img src=\"/effect-icons/standby.webp\"/>の効果を行う。<br/>（<img src=\"/effect-icons/standby.webp\"/>：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）",
+    "effect": "【自】 这张卡从手牌放置到高潮区时，执行<img src=\"/effect-icons/standby.webp\"/>的效果。<br/>（<img src=\"/effect-icons/standby.webp\"/>：这张卡被触发时，你可以从自己的休息室选择1张等级在自己等级+1以下的角色卡，【横置】放置到舞台任意位置）",
     "all_cards": [
       {
         "id": "BD/W73-P11a",
@@ -251,7 +251,7 @@
     "trait": "-",
     "color": "蓝色",
     "soul": "-",
-    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。<br/>（<img src=\"/effect-icons/gate.webp\"/>：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+    "effect": "【永】 你所有的角色，力量＋1000，魂＋1。<br/>（<img src=\"/effect-icons/gate.webp\"/>：这张卡触发时，你可以选择自己休息室的一张高潮卡，返回手牌）",
     "all_cards": [
       {
         "id": "BD/W73-P12a",
@@ -289,7 +289,7 @@
     "trait": "-",
     "color": "绿色",
     "soul": "-",
-    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。<br/>（<img src=\"/effect-icons/treasure.webp\"/>：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+    "effect": "【永】 你所有的角色，力量＋1000，魂＋1。<br/>（<img src=\"/effect-icons/treasure.webp\"/>：这张卡触发时，你将这张卡返回手牌。你可以将卡组顶一张卡，放置到库存区。）",
     "all_cards": [
       {
         "id": "BD/W73-P13a",
@@ -327,7 +327,7 @@
     "trait": "-",
     "color": "红色",
     "soul": "-",
-    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。<br/>（<img src=\"/effect-icons/salvage.webp\"/>：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+    "effect": "【永】 你所有的角色，力量＋1000，魂＋1。<br/>（<img src=\"/effect-icons/salvage.webp\"/>：这张卡触发时，你可以选择自己休息室的一张角色卡，返回手牌）",
     "all_cards": [
       {
         "id": "BD/W73-P14a",
@@ -365,7 +365,7 @@
     "trait": "-",
     "color": "绿色",
     "soul": "-",
-    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。<br/>（<img src=\"/effect-icons/treasure.webp\"/>：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+    "effect": "【永】 你所有的角色，力量＋1000，魂＋1。<br/>（<img src=\"/effect-icons/treasure.webp\"/>：这张卡触发时，你将这张卡返回手牌。你可以将卡组顶一张卡，放置到库存区。）",
     "all_cards": [
       {
         "id": "BD/W73-P15a",
@@ -403,7 +403,7 @@
     "trait": "-",
     "color": "黄色",
     "soul": "-",
-    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。<br/>（<img src=\"/effect-icons/choice.webp\"/>：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンに<img src=\"/effect-icons/soul.webp\"/>があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）",
+    "effect": "【永】 你所有的角色，力量 +1000，魂＋1。<br/>（<img src=\"/effect-icons/choice.webp\"/>：这张卡被触发时，你可以从自己的休息室选择1张触发标记有<img src=\\\"/wordpress/wp-content/images/cardlist/_partimages/soul.gif\\\"/>的角色卡返回手牌或放置到费用区）",
     "all_cards": [
       {
         "id": "BD/W73-P16a",
