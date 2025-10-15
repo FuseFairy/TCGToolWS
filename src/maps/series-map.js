@@ -130,4 +130,9 @@ export const seriesMap = {
     prefixes: ['PXR', 'Dpx', 'MRp'],
     icon: 'pxr.webp',
   },
+  'Charlotte': {
+    id: 'cha',
+    prefixes: ['CHA', 'Kch'],
+    icon: 'cha.webp',
+  },
 }
