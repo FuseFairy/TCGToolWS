@@ -175,4 +175,9 @@ export const seriesMap = {
     prefixes: ['Dmv', 'Dsw', 'Dpx', 'Dds'],
     icon: 'dds100.webp',
   },
+  'Fate': {
+    id: 'fate',
+    prefixes: ['FS', 'FU', 'FH', 'FZ'],
+    icon: 'fate.webp',
+  },
 }
