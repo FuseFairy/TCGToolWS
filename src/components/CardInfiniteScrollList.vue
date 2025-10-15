@@ -55,6 +55,7 @@
     icon
     size="large"
     class="ma-4"
+    :class="{ 'mb-18': smAndDown }"
     @click="scrollToTop"
   >
     <img
@@ -71,8 +72,7 @@
 
 <script setup>
 import { ref, computed, onMounted, onUnmounted } from 'vue'
-import { useTheme } from 'vuetify'
-import { useDisplay } from 'vuetify'
+import { useTheme, useDisplay } from 'vuetify'
 import CardTemplate from '@/components/CardTemplate.vue'
 import CardDetailModal from '@/components/CardDetailModal.vue'
 import { fetchCardsByBaseIdAndPrefix } from '@/utils/card'
