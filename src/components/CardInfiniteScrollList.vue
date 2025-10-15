@@ -58,14 +58,13 @@
     :class="{ 'mb-18': smAndDown }"
     @click="scrollToTop"
   >
-    <img
-      src="@/assets/ui/ws-icon.svg"
+    <v-img
+      :src="WsIcon"
       alt="Back to top"
-      :style="{
-        width: '28px',
-        height: '28px',
-        filter: iconFilterStyle,
-      }"
+      width="28"
+      height="28"
+      draggable="false"
+      :style="{ filter: iconFilterStyle }"
     />
   </v-btn>
 </template>
@@ -76,6 +75,7 @@ import { useTheme, useDisplay } from 'vuetify'
 import CardTemplate from '@/components/CardTemplate.vue'
 import CardDetailModal from '@/components/CardDetailModal.vue'
 import { fetchCardsByBaseIdAndPrefix } from '@/utils/card'
+import WsIcon from '@/assets/ui/ws-icon.svg'
 
 const props = defineProps({
   cards: {
