@@ -14,8 +14,10 @@ export const findSeriesDataFileName = (prefixes = []) => {
 
   for (const path of allSeriesCardPaths) {
     const fileName = path.split('/').pop().toLowerCase()
+    const fileNamePart = fileName.split('-')[0]
+
     for (const prefix of lowerCasePrefixes) {
-      if (fileName.startsWith(prefix)) {
+      if (fileNamePart === prefix) {
         result.push(path)
         break
       }
