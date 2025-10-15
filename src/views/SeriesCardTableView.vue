@@ -36,6 +36,7 @@ import { ref, computed, watch } from 'vue'
 import { seriesMap } from '@/maps/series-map.js'
 import SeriesCard from '@/components/SeriesCard.vue'
 import FloatingSearch from '@/components/FloatingSearchBar.vue'
+import collator from '@/utils/collator.js'
 
 const itemsPerLoad = 24
 const allSeries = ref(
@@ -50,10 +51,11 @@ const infiniteScrollRef = ref(null)
 
 const filteredSeries = computed(() => {
   const term = searchTerm.value.trim().toLowerCase()
-  if (!term) {
-    return allSeries.value
-  }
-  return allSeries.value.filter((item) => item.name.toLowerCase().includes(term))
+  const list = term
+    ? allSeries.value.filter((item) => item.name.toLowerCase().includes(term))
+    : allSeries.value.slice()
+
+  return list.sort((a, b) => collator.compare(a.name, b.name))
 })
 
 const load = async ({ done }) => {

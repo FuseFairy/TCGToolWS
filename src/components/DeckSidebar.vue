@@ -250,6 +250,7 @@ import { useAuthStore } from '@/stores/auth'
 import { useRouter } from 'vue-router'
 import { useSnackbar } from '@/composables/useSnackbar'
 import { useUIStore } from '@/stores/ui'
+import collator from '@/utils/collator.js'
 
 defineProps({
   headerOffsetHeight: {
@@ -428,7 +429,7 @@ const handleShowNewCard = async (cardPayload) => {
       linkedCardsDetails.value = fetchedLinks
         .flat()
         .filter(Boolean)
-        .sort((a, b) => a.name.localeCompare(b.name, 'zh-Hans'))
+        .sort((a, b) => collator.compare(a.name, b.name))
     } else {
       linkedCardsDetails.value = []
     }

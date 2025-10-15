@@ -78,6 +78,7 @@ import CardTemplate from '@/components/CardTemplate.vue'
 import CardDetailModal from '@/components/CardDetailModal.vue'
 import { fetchCardsByBaseIdAndPrefix } from '@/utils/card'
 import WsIcon from '@/assets/ui/ws-icon.svg'
+import collator from '@/utils/collator.js'
 
 const props = defineProps({
   cards: {
@@ -132,7 +133,7 @@ const fetchLinkedCards = async (card) => {
     selectedLinkedCards.value = linkedCardsData
       .flat()
       .filter(Boolean)
-      .sort((a, b) => a.name.localeCompare(b.name, 'zh-Hans'))
+      .sort((a, b) => collator.compare(a.name, b.name))
   } catch (error) {
     console.error('Failed to fetch linked cards:', error)
     selectedLinkedCards.value = []
