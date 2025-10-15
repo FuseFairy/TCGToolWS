@@ -1,0 +1,398 @@
+{
+  "LL/W24-P01": {
+    "name": "輝くステージ！ μ's",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "LL/W24-P01",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W24-P02": {
+    "name": "活動開始！ μ's",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "LL/W24-P02",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W24-P03": {
+    "name": "クリスマスの準備 ことり＆穂乃果＆海未",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6500,
+    "cost": 1,
+    "trait": ["音楽", "お菓子"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】这张卡不会因为对手角色的【自】效果倒置。",
+    "all_cards": [
+      {
+        "id": "LL/W24-P03",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W24-P04": {
+    "name": "μ'sのリーダー 穂乃果",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你的回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "LL/W24-P04",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W24-P05": {
+    "name": "ネイルのお手入れ にこ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽", "オタク"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【起】[你的2个角色横置] 那个回合中，这张卡的战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "LL/W24-P05",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W24-P06": {
+    "name": "メイド服の海未",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽", "メイド"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】你其他《音楽》的角色攻击时，那个回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "LL/W24-P06",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W24-P07": {
+    "name": "水着のことり",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8500,
+    "cost": 2,
+    "trait": ["音楽", "水着"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【起】[你1个《音楽》的角色横置] 那个回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "LL/W24-P07",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W24-P08": {
+    "name": "“秘密の顔”真姫",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["音楽", "令嬢"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】对手的回合中，你其他全部《音楽》的角色，战斗力+500。<br />【自】[(2)] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你抽1张卡。",
+    "all_cards": [
+      {
+        "id": "LL/W24-P08",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W24-P09": {
+    "name": "最初の一歩 穂乃果",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["音楽", "お菓子"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。<br />【起】[这张卡横置] 你选择自己1个《お菓子》的角色，那个回合中，等级+1。",
+    "all_cards": [
+      {
+        "id": "LL/W24-P09",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W24-P10": {
+    "name": "学校のこと 絵里",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["音楽", "生徒会"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，那个回合中，这张卡的战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "LL/W24-P10",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W24-P11": {
+    "name": "おやつの時間 希＆にこ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["音楽", "お菓子"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【起】集中 [(1)] 你将自己卡组顶4张卡放置到休息室。那些卡中每有1张高潮卡，你选择自己的1个角色，那个回合中，战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "LL/W24-P11",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W24-P12": {
+    "name": "ティータイム ことり＆花陽",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4000,
+    "cost": 0,
+    "trait": ["音楽", "お菓子"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】[(1) 1张手牌放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的卡组找至多1张《音楽》的角色卡展示给对手后加入手牌，卡组洗切。",
+    "all_cards": [
+      {
+        "id": "LL/W24-P12",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W24-P13": {
+    "name": "収録中！ 凛＆花陽",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，你选择自己至多2个《音楽》的角色，那个回合中，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "LL/W24-P13",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W24-113": {
+    "name": "ちび穂乃果",
+    "product_name": "ラブライブ！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "LL/W24-113",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W24-114": {
+    "name": "ちび絵里",
+    "product_name": "ラブライブ！",
+    "type": "角色卡",
+    "level": 1,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀1500 等级1 [手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+1500）",
+    "all_cards": [
+      {
+        "id": "LL/W24-114",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W24-115": {
+    "name": "ちびことり",
+    "product_name": "ラブライブ！",
+    "type": "角色卡",
+    "level": 2,
+    "power": 9000,
+    "cost": 2,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "LL/W24-115",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W24-116": {
+    "name": "ちび海未",
+    "product_name": "ラブライブ！",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2500,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀3000 等级2 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+3000）",
+    "all_cards": [
+      {
+        "id": "LL/W24-116",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W24-117": {
+    "name": "ちび凛",
+    "product_name": "ラブライブ！",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "LL/W24-117",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W24-118": {
+    "name": "ちび真姫",
+    "product_name": "ラブライブ！",
+    "type": "角色卡",
+    "level": 2,
+    "power": 9000,
+    "cost": 2,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "LL/W24-118",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W24-119": {
+    "name": "ちび希",
+    "product_name": "ラブライブ！",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "LL/W24-119",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W24-120": {
+    "name": "ちび花陽",
+    "product_name": "ラブライブ！",
+    "type": "角色卡",
+    "level": 1,
+    "power": 7000,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "LL/W24-120",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W24-121": {
+    "name": "ちびにこ",
+    "product_name": "ラブライブ！",
+    "type": "角色卡",
+    "level": 1,
+    "power": 7500,
+    "cost": 2,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "LL/W24-121",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

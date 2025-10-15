@@ -1,0 +1,236 @@
+{
+  "LL/W34-P01": {
+    "name": "身体測定中 希＆にこ＆ことり",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["保健室", "音楽"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。<br />【起】[(1) 这张卡放置到休息室] 你从自己的时计区选择1张卡返回手牌。你选择自己的1张手牌放置到时计区。",
+    "all_cards": [
+      {
+        "id": "LL/W34-P01",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W34-P02": {
+    "name": "皆で勉強会 海未＆穂乃果＆真姫",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你的手牌在5张以上的话，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "LL/W34-P02",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W34-P03": {
+    "name": "“Happy maker!”",
+    "product_name": "PRカード【Wサイド】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br />（<img src=\"/effect-icons/stock.webp\">：这张卡被触发时，你可以将自己卡组顶1张卡放置到费用区）",
+    "all_cards": [
+      {
+        "id": "LL/W34-P03",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W34-P04": {
+    "name": "“叶え！みんなの夢―。”μ's",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，你选择自己其他1个《音楽》的角色，那个回合中，战斗力+1000。<br>【自】[(1)] 这张卡造成的伤害被取消时，你可以支付费用。支付了的话，你抽1张卡。",
+    "all_cards": [
+      {
+        "id": "LL/W34-P04",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W34-101": {
+    "name": "“Dancing stars on me!”絢瀬 絵里",
+    "product_name": "ラブライブ！Vol.2",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【起】[你2个《音楽》的角色横置] 你选择自己的1个角色，那个回合中，战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "LL/W34-101",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W34-102": {
+    "name": "“Dancing stars on me!”東條 希",
+    "product_name": "ラブライブ！Vol.2",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6500,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "LL/W34-102",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W34-103": {
+    "name": "“Dancing stars on me!”矢澤 にこ",
+    "product_name": "ラブライブ！Vol.2",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，那个回合中，这张卡的战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "LL/W34-103",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W34-104": {
+    "name": "“Dancing stars on me!”高坂 穂乃果",
+    "product_name": "ラブライブ！Vol.2",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【起】[你的2个角色横置] 那个回合中，这张卡的等级+1，战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "LL/W34-104",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W34-105": {
+    "name": "“Dancing stars on me!”南 ことり",
+    "product_name": "ラブライブ！Vol.2",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】你其他战斗中的角色倒置时，你选择自己1个卡名含有「ことり」的角色，那个回合中，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "LL/W34-105",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W34-106": {
+    "name": "“Dancing stars on me!”園田 海未",
+    "product_name": "ラブライブ！Vol.2",
+    "type": "角色卡",
+    "level": 1,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀1500 等级1 [手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+1500）",
+    "all_cards": [
+      {
+        "id": "LL/W34-106",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W34-107": {
+    "name": "“Dancing stars on me!”星空 凛",
+    "product_name": "ラブライブ！Vol.2",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你其他卡名含有「凛」的角色有2个以上的话，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "LL/W34-107",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W34-108": {
+    "name": "“Dancing stars on me!”西木野 真姫",
+    "product_name": "ラブライブ！Vol.2",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7000,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）<br />【起】[你1个《音楽》的角色横置] 那个回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "LL/W34-108",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "LL/W34-109": {
+    "name": "“Dancing stars on me!”小泉 花陽",
+    "product_name": "ラブライブ！Vol.2",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6500,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】对手的回合中，你其他《音楽》的角色有2个以上的话，这张卡的战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "LL/W34-109",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
