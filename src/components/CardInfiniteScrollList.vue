@@ -54,7 +54,7 @@
     location="bottom right"
     icon
     size="large"
-    class="ma-4"
+    class="ma-4 opacity-80"
     :class="{ 'mb-18': smAndDown }"
     @click="scrollToTop"
   >
