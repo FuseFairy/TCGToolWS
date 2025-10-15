@@ -1,0 +1,24 @@
+{
+  "MRp/S111-P01": {
+    "name": "“Sheriff's Roundup”ウッディ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["Mirrorverse", "PIXAR"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时或攻击时，你选择自己1个《Mirrorverse》或《PIXAR》的角色，那个回合中，战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "MRp/S111-P01",
+        "rarity": "PR"
+      },
+      {
+        "id": "MRp/S111-P01S",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

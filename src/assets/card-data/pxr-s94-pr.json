@@ -1,0 +1,204 @@
+{
+  "PXR/S94-P01": {
+    "name": "PIXAR ルクソーJr.",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["PIXAR"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你的角色全部是《PIXAR》的角色的话，这张卡的等级+2，战斗力+1000。<br>【自】对手的攻击阶段开始时，这张卡的正面有对手的角色的话，你可以将这张卡移动到前列没有角色的位置。",
+    "all_cards": [
+      {
+        "id": "PXR/S94-P01",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PXR/S94-P02": {
+    "name": "モンスターズ・インク サリー＆マイク",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["PIXAR"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】[(1) 1张手牌放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你看自己卡组顶至多X张卡，选择至多1张卡加入手牌，其余的卡放置到休息室。X是你其他《PIXAR》的角色的数量。<br>【自】[(2)] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你将自己休息室的卡全部返回卡组，卡组洗切。",
+    "all_cards": [
+      {
+        "id": "PXR/S94-P02",
+        "rarity": "PR"
+      },
+      {
+        "id": "PXR/S94-P02PIR",
+        "rarity": "PIR"
+      }
+    ]
+  },
+  "PXR/S94-101": {
+    "name": "新たな旅立ち ウッディ・プライド",
+    "product_name": "PIXAR CHARACTERS",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["PIXAR"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前全部等级0以下的角色，战斗力+1000。<br>【自】战斗中这张卡倒置时，你的思出区在2张以下的话，你可以将这张卡思出。",
+    "all_cards": [
+      {
+        "id": "PXR/S94-101",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PXR/S94-102": {
+    "name": "未知なる宇宙へ WALL・E",
+    "product_name": "PIXAR CHARACTERS",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["PIXAR"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你其他的角色在1个以下的话，这张卡的战斗力+1500。<br>【永】你其他的角色在1个以下的话，你其他全部角色，战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "PXR/S94-102",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PXR/S94-103": {
+    "name": "新たな旅立ち バズ・ライトイヤー",
+    "product_name": "PIXAR CHARACTERS",
+    "type": "角色卡",
+    "level": 1,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["PIXAR"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你看自己卡组顶1张卡，放置到卡组顶或休息室。<br>【自】这张卡倒置时，这张卡的战斗对手的费用是0以下的话，你可以将对手时计区顶1张卡放置到休息室。这样做的话，你将那个角色放置到时计区。",
+    "all_cards": [
+      {
+        "id": "PXR/S94-103",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PXR/S94-104": {
+    "name": "モンスターズ・ユニバーシティ マイク",
+    "product_name": "PIXAR CHARACTERS",
+    "type": "角色卡",
+    "level": 2,
+    "power": 6000,
+    "cost": 1,
+    "trait": ["PIXAR"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】[手牌中1张高潮卡放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张《PIXAR》的角色卡返回手牌。<br>【自】这张卡倒置时，这张卡的战斗对手的等级比对手等级高的话，你可以将对手时计区顶1张卡放置到休息室。这样做的话，你将那个角色放置到时计区。",
+    "all_cards": [
+      {
+        "id": "PXR/S94-104",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PXR/S94-105": {
+    "name": "クロスロード マックィーン＆クルーズ",
+    "product_name": "PIXAR CHARACTERS",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["PIXAR"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，那个回合中，这张卡的战斗力+1500。<br>【自】[1张手牌放置到休息室] 这张卡攻击时，你可以支付费用。支付了的话，你选择自己其他1个《PIXAR》的角色返回手牌。",
+    "all_cards": [
+      {
+        "id": "PXR/S94-105",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PXR/S94-106": {
+    "name": "想像を超えた冒険 Mr. インクレディブル",
+    "product_name": "PIXAR CHARACTERS",
+    "type": "角色卡",
+    "level": 3,
+    "power": 9500,
+    "cost": 2,
+    "trait": ["PIXAR"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【永】你其他《PIXAR》的角色有2个以上的话，这张卡的战斗力+2000。<br>【自】这张卡从手牌放置到舞台时，你可以从自己的休息室选择1张《PIXAR》的角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "PXR/S94-106",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PXR/S94-107": {
+    "name": "感動の冒険 ドリー",
+    "product_name": "PIXAR CHARACTERS",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["PIXAR"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你每有1个其他的《PIXAR》的角色，这张卡的战斗力+1000。<br>【起】[(1) 你思出区1张《PIXAR》的角色卡放置到休息室] 那个回合中，这张卡的战斗力+4000。",
+    "all_cards": [
+      {
+        "id": "PXR/S94-107",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PXR/S94-108": {
+    "name": "友情の始まり サリー＆マイク",
+    "product_name": "PIXAR CHARACTERS",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["PIXAR"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你可以选择对手前列1个等级0以下的角色返回手牌。<br>【自】你其他《PIXAR》的角色攻击时，那个回合中，这张卡的战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "PXR/S94-108",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PXR/S94-109": {
+    "name": "奇跡の冒険 マーリン＆ドリー",
+    "product_name": "PIXAR CHARACTERS",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["PIXAR"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你将自己卡组顶2张卡放置到休息室。那些卡中有0级以下的角色卡的话，那个回合中，这张卡即使侧面攻击灵魂值也不会减少。<br>【自】对手的抽卡阶段开始时，你公开自己卡组顶1张卡。那张卡是等级1以上的卡的话，你可以将这张卡返回手牌。（高潮卡视为0级。公开的卡放回原处）",
+    "all_cards": [
+      {
+        "id": "PXR/S94-109",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
