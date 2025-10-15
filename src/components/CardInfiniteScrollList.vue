@@ -48,25 +48,27 @@
     />
   </v-dialog>
 
-  <v-btn
-    v-show="isFabVisible"
-    position="fixed"
-    location="bottom right"
-    icon
-    size="large"
-    class="ma-4 opacity-80"
-    :class="{ 'mb-18': smAndDown }"
-    @click="scrollToTop"
-  >
-    <v-img
-      :src="WsIcon"
-      alt="Back to top"
-      width="28"
-      height="28"
-      draggable="false"
-      :style="{ filter: iconFilterStyle }"
-    />
-  </v-btn>
+  <v-fade-transition>
+    <v-btn
+      v-show="isFabVisible"
+      position="fixed"
+      location="bottom right"
+      icon
+      size="large"
+      class="ma-4 back-to-top-btn"
+      :class="{ 'mb-18': smAndDown }"
+      @click="scrollToTop"
+    >
+      <v-img
+        :src="WsIcon"
+        alt="Back to top"
+        width="28"
+        height="28"
+        draggable="false"
+        :style="{ filter: iconFilterStyle }"
+      />
+    </v-btn>
+  </v-fade-transition>
 </template>
 
 <script setup>
@@ -212,3 +214,9 @@ onUnmounted(() => {
   }
 })
 </script>
+
+<style scoped>
+.back-to-top-btn {
+  opacity: 0.8;
+}
+</style>
