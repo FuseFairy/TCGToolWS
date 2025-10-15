@@ -155,4 +155,9 @@ export const seriesMap = {
     prefixes: ['DAL', 'Fdl'],
     icon: 'dal.webp',
   },
+  'DOG DAYS': {
+    id: 'dd',
+    prefixes: ['DD'],
+    icon: 'dd.webp',
+  },
 }
