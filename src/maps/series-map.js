@@ -210,4 +210,9 @@ export const seriesMap = {
     prefixes: ['LB', 'KW', 'Klb'],
     icon: 'lb.webp',
   },
+  '超时空要塞': {
+    id: 'mde',
+    prefixes: ['MF', 'MDE'],
+    icon: 'mde.webp',
+  },
 }

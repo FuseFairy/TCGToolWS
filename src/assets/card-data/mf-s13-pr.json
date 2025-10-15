@@ -1,0 +1,218 @@
+{
+  "MF/S13-106": {
+    "name": "ちびクラン",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["パイロット", "巫女"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "MF/S13-106",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MF/S13-107": {
+    "name": "ユニバーサル・ランカ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["音楽", "愛"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【起】[这张卡横置] 你选择自己的1个角色，那个回合中，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "MF/S13-107",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MF/S13-108": {
+    "name": "ユニバーサル・シェリル",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 2000,
+    "cost": 1,
+    "trait": ["音楽", "愛"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀2000 等级1 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+2000）",
+    "all_cards": [
+      {
+        "id": "MF/S13-108",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MF/S13-109": {
+    "name": "ちびアルト",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["パイロット"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "MF/S13-109",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MF/S13-110": {
+    "name": "ダイナム超合金 ランカ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2500,
+    "cost": 1,
+    "trait": ["音楽", "メカ"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀3000 等级2 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+3000）",
+    "all_cards": [
+      {
+        "id": "MF/S13-110",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MF/S13-111": {
+    "name": "エルボックス シェリル",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 9000,
+    "cost": 2,
+    "trait": ["音楽", "愛"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "MF/S13-111",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MF/S13-112": {
+    "name": "エルボックス ランカ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8500,
+    "cost": 1,
+    "trait": ["音楽", "愛"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "MF/S13-112",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MF/S13-113": {
+    "name": "デビューショット シェリル",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["音楽", "水着"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你的回合中，你其他全部角色，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "MF/S13-113",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MF/S13-114": {
+    "name": "射手座 シェリル",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["音楽", "愛"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【起】[(3)]你的全部角色在那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "MF/S13-114",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MF/S13-115": {
+    "name": "ハートマーク ランカ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["音楽", "愛"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【起】[(1)]你选择自己的1个角色，那个回合中，战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "MF/S13-115",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MF/S13-116": {
+    "name": "思い出の歌 ランカ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽", "愛"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】你其他角色的战斗对手倒置时，那个回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "MF/S13-116",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MF/S13-117": {
+    "name": "巫女装束のシェリル",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["音楽", "巫女"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你每有1个其他的《音楽》的角色，这张卡的战斗力+500。",
+    "all_cards": [
+      {
+        "id": "MF/S13-117",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
