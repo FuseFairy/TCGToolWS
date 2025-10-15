@@ -45,7 +45,6 @@
 
 <script setup>
 import { computed } from 'vue'
-import { getAssetsFile } from '@/utils/getAssetsFile.js'
 
 const props = defineProps({
   seriesName: {
@@ -59,7 +58,7 @@ const props = defineProps({
 })
 
 const iconUrl = computed(() => {
-  return getAssetsFile(`series-icons/${props.seriesData.icon}`)
+  return `series-icons/${props.seriesData.icon}`
 })
 </script>
 
