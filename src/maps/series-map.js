@@ -270,4 +270,9 @@ export const seriesMap = {
     prefixes: ['RW', 'Krw'],
     icon: 'rw.webp',
   },
+  'SPY×FAMILY': {
+    id: 'spy',
+    prefixes: ['SPY'],
+    icon: 'spy.webp',
+  },
 }
