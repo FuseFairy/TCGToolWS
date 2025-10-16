@@ -1,0 +1,76 @@
+import { onMounted, onUnmounted, nextTick, watch } from 'vue'
+import { onBeforeRouteLeave } from 'vue-router'
+
+/**
+ * A composable to preserve and restore the state of an infinite scroll list across navigations.
+ * @param {object} options - The configuration options.
+ * @param {import('vue').Ref<string>} options.storageKey - The key for sessionStorage.
+ * @param {import('vue').Ref<any>} options.scrollRef - The ref to the scrollable element or component.
+ * @param {() => any} options.onSave - A function that returns the state object to save.
+ * @param {(state: any) => void} options.onRestore - A function that restores the state.
+ * @param {import('vue').Ref<boolean>} [options.loadingRef] - An optional ref to a loading flag.
+ * @param {boolean} [options.handleFreshNavigation=false] - Whether to handle the 'fresh' state from router history.
+ */
+export function useInfiniteScrollState({ 
+  storageKey, 
+  scrollRef, 
+  onSave, 
+  onRestore, 
+  loadingRef, 
+  handleFreshNavigation = false 
+}) {
+  let watcher = null
+
+  onMounted(() => {
+    const key = storageKey.value
+
+    if (handleFreshNavigation && history.state.fresh) {
+      sessionStorage.removeItem(key)
+      history.replaceState({ ...history.state, fresh: false }, '')
+    }
+
+    const tryRestore = () => {
+      const savedStateJSON = sessionStorage.getItem(key)
+      if (savedStateJSON) {
+        const savedState = JSON.parse(savedStateJSON)
+        nextTick(() => {
+          if (scrollRef.value && savedState) {
+            onRestore(savedState)
+          }
+        })
+      }
+    }
+
+    if (loadingRef) {
+      watcher = watch(
+        loadingRef,
+        (loading) => {
+          if (!loading) {
+            tryRestore()
+            if (watcher) {
+              watcher()
+            }
+          }
+        },
+        { immediate: true }
+      )
+    } else {
+      tryRestore()
+    }
+  })
+
+  onBeforeRouteLeave((to, from) => {
+    if (scrollRef.value) {
+      const stateToSave = onSave()
+      if (stateToSave) {
+        sessionStorage.setItem(storageKey.value, JSON.stringify(stateToSave))
+      }
+    }
+  })
+
+  onUnmounted(() => {
+    if (watcher) {
+      watcher()
+    }
+  })
+}

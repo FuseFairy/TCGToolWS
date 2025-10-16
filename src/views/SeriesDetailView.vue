@@ -114,13 +114,13 @@
 </template>
 
 <script setup>
-import { ref, computed, watchEffect, onUnmounted, watch, onMounted, nextTick } from 'vue'
-import { onBeforeRouteLeave } from 'vue-router'
+import { ref, computed, watchEffect, onUnmounted, watch } from 'vue'
 import { useDisplay } from 'vuetify'
 import { seriesMap } from '@/maps/series-map.js'
 import { useDeckStore } from '@/stores/deck'
 import { useFilterStore } from '@/stores/filter'
 import { useUIStore } from '@/stores/ui'
+import { useInfiniteScrollState } from '@/composables/useInfiniteScrollState.js'
 import CardInfiniteScrollList from '@/components/CardInfiniteScrollList.vue'
 import FilterSidebar from '@/components/FilterSidebar.vue'
 import DeckSidebar from '@/components/DeckSidebar.vue'
@@ -216,40 +216,17 @@ onUnmounted(() => {
   filterStore.reset()
 })
 
-onMounted(() => {
-  const storageKey = `seriesDetailViewState_${props.seriesId}`
+const storageKey = computed(() => `seriesDetailViewState_${props.seriesId}`)
 
-  if (history.state.fresh) {
-    sessionStorage.removeItem(storageKey)
-    history.replaceState({ ...history.state, fresh: false }, '')
-  }
-
-  const unwatch = watch(
-    () => filterStore.isLoading,
-    (loading) => {
-      if (!loading) {
-        const savedStateJSON = sessionStorage.getItem(storageKey)
-        if (savedStateJSON) {
-          const savedState = JSON.parse(savedStateJSON)
-          nextTick(() => {
-            if (listRef.value && savedState) {
-              listRef.value.restoreScrollState(savedState)
-            }
-          })
-        }
-        unwatch()
-      }
-    },
-    { immediate: true }
-  )
-})
-
-onBeforeRouteLeave((to, from) => {
-  if (listRef.value) {
-    const state = listRef.value.getScrollState()
-    const storageKey = `seriesDetailViewState_${from.params.seriesId}`
-    sessionStorage.setItem(storageKey, JSON.stringify(state))
-  }
+useInfiniteScrollState({
+  storageKey,
+  scrollRef: listRef,
+  onSave: () => listRef.value?.getScrollState(),
+  onRestore: (savedState) => {
+    listRef.value?.restoreScrollState(savedState)
+  },
+  loadingRef: computed(() => filterStore.isLoading),
+  handleFreshNavigation: true,
 })
 </script>
 

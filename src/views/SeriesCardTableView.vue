@@ -32,8 +32,8 @@
 </template>
 
 <script setup>
-import { ref, computed, watch, onMounted, nextTick } from 'vue'
-import { onBeforeRouteLeave } from 'vue-router'
+import { ref, computed, watch, nextTick } from 'vue'
+import { useInfiniteScrollState } from '@/composables/useInfiniteScrollState.js'
 import { seriesMap } from '@/maps/series-map.js'
 import SeriesCard from '@/components/SeriesCard.vue'
 import FloatingSearch from '@/components/FloatingSearchBar.vue'
@@ -86,29 +86,31 @@ const onSearch = (newTerm) => {
   searchTerm.value = newTerm
 }
 
-onMounted(() => {
-  const savedState = sessionStorage.getItem('seriesCardTableViewState')
-  if (savedState) {
-    const { series, scrollPosition } = JSON.parse(savedState)
-    displayedSeries.value = series
+const storageKey = computed(() => 'seriesCardTableViewState')
+
+useInfiniteScrollState({
+  storageKey,
+  scrollRef: infiniteScrollRef,
+  onSave: () => {
+    const scrollableElement = infiniteScrollRef.value?.$el
+    if (scrollableElement) {
+      return {
+        itemCount: displayedSeries.value.length,
+        scrollPosition: scrollableElement.scrollTop,
+      }
+    }
+    return null
+  },
+  onRestore: (savedState) => {
+    if (savedState.itemCount > 0) {
+      displayedSeries.value = filteredSeries.value.slice(0, savedState.itemCount)
+    }
     nextTick(() => {
-      if (infiniteScrollRef.value) {
-        const scrollableElement = infiniteScrollRef.value.$el
-        scrollableElement.scrollTop = scrollPosition
+      const scrollableElement = infiniteScrollRef.value?.$el
+      if (scrollableElement) {
+        scrollableElement.scrollTop = savedState.scrollPosition
       }
     })
-  }
-})
-
-onBeforeRouteLeave((to, from, next) => {
-  if (infiniteScrollRef.value) {
-    const scrollableElement = infiniteScrollRef.value.$el
-    const savedState = {
-      series: displayedSeries.value,
-      scrollPosition: scrollableElement.scrollTop,
-    }
-    sessionStorage.setItem('seriesCardTableViewState', JSON.stringify(savedState))
-  }
-  next()
+  },
 })
 </script>
