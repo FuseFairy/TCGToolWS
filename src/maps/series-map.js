@@ -243,4 +243,8 @@ export const seriesMap = {
     id: 'sk',
     prefixes: ['SK', 'MH'],
   },
+  '凉宫春日的忧郁': {
+    id: 'sy',
+    prefixes: ['SY', 'Ssy'],
+  },
 }

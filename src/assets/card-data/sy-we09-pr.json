@@ -1,0 +1,92 @@
+{
+  "SY/WE09-28": {
+    "name": "文芸部の有希",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["メガネ", "本"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】对手的回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "SY/WE09-28",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SY/WE09-29": {
+    "name": "唯我独尊 ハルヒ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["団長", "SOS団"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，那个回合中，你全部角色每有2个不同的特征，这张卡的战斗力+500。",
+    "all_cards": [
+      {
+        "id": "SY/WE09-29",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SY/WE09-30": {
+    "name": "夏祭りの夜 ハルヒ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["団長", "和服"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【起】[(2) 这张卡横置] 你从自己的休息室选择1张角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "SY/WE09-30",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SY/WE09-31": {
+    "name": "負けず嫌い ハルヒ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["団長", "SOS団"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这个能力1回合至多发动1次。你使用事件卡时，那个回合中，这张卡的战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "SY/WE09-31",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SY/WE09-32": {
+    "name": "体育祭のハルヒ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6500,
+    "cost": 1,
+    "trait": ["団長", "SOS団"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】[(2)] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张《SOS団》的角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "SY/WE09-32",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
