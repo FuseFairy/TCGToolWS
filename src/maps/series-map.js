@@ -245,4 +245,9 @@ export const seriesMap = {
     prefixes: ['SIL', 'SIS', 'SIN', 'SIP', 'LSF'],
     icon: 'sif.webp',
   },
+  'MARVEL': {
+    id: 'mar',
+    prefixes: ['MAR', 'Dmv'],
+    icon: 'mar.webp',
+  },
 }
