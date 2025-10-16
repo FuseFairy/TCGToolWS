@@ -226,7 +226,6 @@ useInfiniteScrollState({
     listRef.value?.restoreScrollState(savedState)
   },
   loadingRef: computed(() => filterStore.isLoading),
-  handleFreshNavigation: true,
 })
 </script>
 

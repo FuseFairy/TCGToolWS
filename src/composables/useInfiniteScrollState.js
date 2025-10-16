@@ -16,18 +16,12 @@ export function useInfiniteScrollState({
   scrollRef, 
   onSave, 
   onRestore, 
-  loadingRef, 
-  handleFreshNavigation = false 
+  loadingRef 
 }) {
   let watcher = null
 
   onMounted(() => {
     const key = storageKey.value
-
-    if (handleFreshNavigation && history.state.fresh) {
-      sessionStorage.removeItem(key)
-      history.replaceState({ ...history.state, fresh: false }, '')
-    }
 
     const tryRestore = () => {
       const savedStateJSON = sessionStorage.getItem(key)
