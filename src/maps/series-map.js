@@ -279,4 +279,8 @@ export const seriesMap = {
     id: 'gt',
     prefixes: ['GT'],
   },
+  '伪恋': {
+    id: 'nk',
+    prefixes: ['NK'],
+  },
 }
