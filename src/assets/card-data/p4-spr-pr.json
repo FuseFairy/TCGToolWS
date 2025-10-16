@@ -1,0 +1,20 @@
+{
+  "P4/SPR-001": {
+    "name": "主人公＆イザナギ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6000,
+    "cost": 1,
+    "trait": ["神"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "P4/SPR-001",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
