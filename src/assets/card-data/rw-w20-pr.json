@@ -1,0 +1,218 @@
+{
+  "RW/W20-P01": {
+    "name": "“美しい友情”ルチア",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["委員長", "オカルト"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你其他全部的「“美しい友情”静流」，战斗力+500，给予『【自】再演 [手牌中1张角色卡放置到休息室]』的能力。",
+    "all_cards": [
+      {
+        "id": "RW/W20-P01",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W20-P02": {
+    "name": "“美しい友情”静流",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["風紀委員", "オカルト"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你其他全部的「“美しい友情”ルチア」，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "RW/W20-P02",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W20-P03": {
+    "name": "“没落お嬢様”朱音",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["魔法", "オカルト"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "RW/W20-P03",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W20-P04": {
+    "name": "“大人の階段”ちはや",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["お菓子", "オカルト"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "RW/W20-P04",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W20-P05": {
+    "name": "“朝の挨拶”小鳥",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["植物", "オカルト"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】对手的回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "RW/W20-P05",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W20-P06": {
+    "name": "“おしゃれ泥棒”篝",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["時間", "鍵"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀1500 等级1 [手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+1500）",
+    "all_cards": [
+      {
+        "id": "RW/W20-P06",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W20-P07": {
+    "name": "いつも一緒に 朱音＆ちはや",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["魔法", "お菓子"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】[(1)] 你其他战斗中的角色倒置时，你可以支付费用。支付了的话，那个回合中，这张卡的战斗力+3000。",
+    "all_cards": [
+      {
+        "id": "RW/W20-P07",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W20-P08": {
+    "name": "交わった心 篝＆小鳥",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["鍵", "植物"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "RW/W20-P08",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W20-081": {
+    "name": "収穫を祝うちびもす",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["動物", "使い魔"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "RW/W20-081",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W20-082": {
+    "name": "どきどき☆宣戦布告",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你抽1张卡，自己的全部角色，那个回合中，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "RW/W20-082",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W20-083": {
+    "name": "真・暗黒狼竜フェンリルドラグーンと愉快な魔物たち",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 7500,
+    "cost": 2,
+    "trait": ["特徴なし"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "RW/W20-083",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W20-084": {
+    "name": "“レッツミキシ～ン♪”小鳥",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["植物", "オカルト"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】你的攻击阶段开始时，你可以选择自己1个横置的《植物》的角色竖置。",
+    "all_cards": [
+      {
+        "id": "RW/W20-084",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

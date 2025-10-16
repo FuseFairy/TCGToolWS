@@ -1,0 +1,416 @@
+{
+  "RW/W15-111": {
+    "name": "ちび篝",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["鍵", "時間"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】对手的回合中，你其他全部角色，战斗力+500。<br />【自】这张卡从手牌放置到舞台时，你看自己卡组顶1张卡，放置到卡组顶或卡组底。",
+    "all_cards": [
+      {
+        "id": "RW/W15-111",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W15-112": {
+    "name": "“自分の存在意義”ルチア",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["武器"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【起】[(1) 这张卡横置] 你从自己的时计区选择1张卡返回手牌。你选择自己的1张手牌放置到时计区。",
+    "all_cards": [
+      {
+        "id": "RW/W15-112",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W15-113": {
+    "name": "“お気に入りの場所”静流",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["風紀委員", "オカルト"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】对手的回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "RW/W15-113",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W15-114": {
+    "name": "“深遠なる魔術”朱音",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 1,
+    "trait": ["魔法", "オカルト"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【起】[(1)]那个回合中，这张卡的灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "RW/W15-114",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W15-115": {
+    "name": "“明るい笑顔”ちはや",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["お菓子", "オカルト"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你的回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "RW/W15-115",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W15-116": {
+    "name": "“楽しい気分”小鳥",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["植物", "オカルト"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，你的全部角色在那个回合中，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "RW/W15-116",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W15-117": {
+    "name": "“星の化身”篝",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["鍵", "時間"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你休息室的高潮卡有4张以上的话，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "RW/W15-117",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W15-118": {
+    "name": "“午後の陽光”朱音",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["魔法", "オカルト"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "RW/W15-118",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W15-119": {
+    "name": "ネコミミ 静流",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["風紀委員", "オカルト"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你前列的其他角色在1个以下的话，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "RW/W15-119",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W15-120": {
+    "name": "“命の回廊”篝",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["鍵", "時間"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】[1张手牌放置到休息室] 这个能力1回合至多使用1次。你使用事件卡时，你可以支付费用。支付了的话，那个回合中，这张卡获得以下能力。『【自】再演步骤开始时，你可以抽1张卡。』",
+    "all_cards": [
+      {
+        "id": "RW/W15-120",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W15-121": {
+    "name": "懐かしい感じ 小鳥",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["植物", "音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "RW/W15-121",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W15-122": {
+    "name": "春の訪れ 瑚太朗＆小鳥",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["植物", "オカルト"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你的回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "RW/W15-122",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W15-123": {
+    "name": "“風祭学院高校”小鳥",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7500,
+    "cost": 1,
+    "trait": ["植物", "オカルト"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，这张卡正面的角色的等级是3级以上的话，那个回合中，这张卡的战斗力+6000。",
+    "all_cards": [
+      {
+        "id": "RW/W15-123",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W15-124": {
+    "name": "“風祭学院高校”ちはや",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["お菓子", "オカルト"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你有其他卡名含有「咲夜」的角色的话，那个回合中，这张卡的战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "RW/W15-124",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W15-125": {
+    "name": "“風祭学院高校”ルチア",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["委員長", "オカルト"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你看自己卡组顶至多2张卡，选择至多1张卡加入手牌，其余的卡放置到休息室，选择自己的1张手牌放置到休息室。",
+    "all_cards": [
+      {
+        "id": "RW/W15-125",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W15-126": {
+    "name": "“風祭学院高校”朱音",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["魔法", "オカルト"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【起】[你的2个角色横置] 你选择自己的1个角色，那个回合中，战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "RW/W15-126",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W15-127": {
+    "name": "“風祭学院高校”静流",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["風紀委員", "オカルト"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你可以将自己卡组顶3张卡放置到休息室。",
+    "all_cards": [
+      {
+        "id": "RW/W15-127",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W15-128": {
+    "name": "“謎の少女” 篝",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 4000,
+    "cost": 1,
+    "trait": ["鍵", "時間"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+1000。<br>【自】你的高潮卡放置到高潮区时，你看自己卡组顶1张卡，放置到卡组顶或卡组底，选择自己的1个角色，那个回合中，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "RW/W15-128",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W15-106": {
+    "name": "ちびルチア",
+    "product_name": "Rewrite",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["委員長", "オカルト"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【起】[(1)] 你抽1张卡，选择自己的1张手牌放置到休息室。",
+    "all_cards": [
+      {
+        "id": "RW/W15-106",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W15-107": {
+    "name": "ちび静流",
+    "product_name": "Rewrite",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["風紀委員", "オカルト"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "RW/W15-107",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W15-108": {
+    "name": "ちび朱音",
+    "product_name": "Rewrite",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["魔法", "オカルト"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你的回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "RW/W15-108",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W15-109": {
+    "name": "ちびちはや",
+    "product_name": "Rewrite",
+    "type": "角色卡",
+    "level": 1,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["お菓子", "オカルト"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀1500 等级1 [手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+1500）",
+    "all_cards": [
+      {
+        "id": "RW/W15-109",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "RW/W15-110": {
+    "name": "ちび小鳥",
+    "product_name": "Rewrite",
+    "type": "角色卡",
+    "level": 1,
+    "power": 2000,
+    "cost": 1,
+    "trait": ["植物", "オカルト"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀2000 等级1 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+2000）",
+    "all_cards": [
+      {
+        "id": "RW/W15-110",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

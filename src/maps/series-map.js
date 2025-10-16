@@ -265,4 +265,9 @@ export const seriesMap = {
     prefixes: ['PT'],
     icon: 'pt.webp',
   },
+  'Rewrite': {
+    id: 'rw',
+    prefixes: ['RW', 'Krw'],
+    icon: 'rw.webp',
+  },
 }

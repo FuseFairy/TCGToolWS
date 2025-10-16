@@ -1,0 +1,1542 @@
+{
+  "RW/W20-001": {
+    "name": "“親愛なる探求者”小鳥",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 3,
+    "power": 9500,
+    "cost": 2,
+    "trait": ["植物", "オカルト"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "【永】你其他《植物》的角色有2个以上的话，这张卡的战斗力+1000，灵魂值+1。<br />【自】这张卡从手牌或通过『变身』放置到舞台时，你抽至多2张卡，选择自己的1张手牌放置到休息室。",
+    "all_cards": [
+      {
+        "id": "RW/W20-001",
+        "rarity": "RR"
+      },
+      {
+        "id": "RW/W20-001S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "RW/W20-002": {
+    "name": "“いたずらなキス”ちはや",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["お菓子", "オカルト"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "【自】[(1) 1张手牌放置到休息室] 这张卡攻击时，你可以支付费用。支付了的话，你的全部角色在那个回合中，战斗力+500，灵魂值+1。<br />【自】这个能力1回合至多发动1次。这张卡从手牌放置到舞台的回合中，这张卡造成的伤害被取消时，你可以给对手造成1点伤害。（发生伤害取消）",
+    "all_cards": [
+      {
+        "id": "RW/W20-002",
+        "rarity": "RR"
+      },
+      {
+        "id": "RW/W20-002S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "RW/W20-003": {
+    "name": "“公認カップル”ちはや",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["お菓子", "オカルト"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】[(1)] 这张卡攻击时，高潮区有「みんなで水遊び」的话，你可以支付费用。支付了的话，你选择对手的1个角色返回手牌。",
+    "all_cards": [
+      {
+        "id": "RW/W20-003",
+        "rarity": "R"
+      }
+    ]
+  },
+  "RW/W20-004": {
+    "name": "“カリスマ魔女様”朱音",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 2,
+    "power": 3500,
+    "cost": 1,
+    "trait": ["魔法", "オカルト"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+1000。<br />【自】你或对手的时计区的卡，通过自己的卡片效果放置到休息室时，那个玩家可以将自己费用区顶2张卡放置到休息室。不这样做的话，那个玩家将自己卡组顶1张卡放置到时计区。",
+    "all_cards": [
+      {
+        "id": "RW/W20-004",
+        "rarity": "R"
+      },
+      {
+        "id": "RW/W20-004SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "RW/W20-005": {
+    "name": "“最高の祝福”小鳥",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7000,
+    "cost": 1,
+    "trait": ["植物"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，高潮区有「交わった気持ち」的话，你看自己卡组顶至多5张卡，选择至多1张《植物》或《オカルト》的角色卡展示给对手后加入手牌，其余的卡放置到休息室，那个回合中，这张卡的战斗力+2000。<br />【自】变身 [(2) 这张卡放置到休息室] 你的再演步骤开始时，这张卡是横置状态的话，你可以支付费用。支付了的话，你从自己的休息室选择1张「“親愛なる探求者”小鳥」，放置到这张卡原来的位置。",
+    "all_cards": [
+      {
+        "id": "RW/W20-005",
+        "rarity": "R"
+      }
+    ]
+  },
+  "RW/W20-006": {
+    "name": "“目覚めの一杯”咲夜",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["執事", "メガネ"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这个能力1回合至多发动1次。你使用『助太刀』时，你选择自己战斗中的1个角色，那个回合中，战斗力+500。<br />【自】绊／「“みんなとお揃い”ちはや」 [(1)] （这张卡被使用放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张「“みんなとお揃い”ちはや」返回手牌）",
+    "all_cards": [
+      {
+        "id": "RW/W20-006",
+        "rarity": "U"
+      }
+    ]
+  },
+  "RW/W20-007": {
+    "name": "水着の井上",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["新聞", "カメラ"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你的回合中，你其他位于前列中央的角色，战斗力+1000。<br />【起】集中 [(1)] 你将自己卡组顶4张卡放置到休息室。那些卡中每有1张高潮卡，你选择自己的1个角色，那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "RW/W20-007",
+        "rarity": "U"
+      }
+    ]
+  },
+  "RW/W20-008": {
+    "name": "“敏腕高校生記者”イノウェイ",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["新聞", "カメラ"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】[(2)] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你的全部角色在那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "RW/W20-008",
+        "rarity": "U"
+      }
+    ]
+  },
+  "RW/W20-009": {
+    "name": "“正直な気持ち”小鳥",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["植物"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你的回合中，你其他的角色在2个以下的话，你其他全部角色，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "RW/W20-009",
+        "rarity": "U"
+      }
+    ]
+  },
+  "RW/W20-010": {
+    "name": "“バカンス気分！”小鳥",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3500,
+    "cost": 0,
+    "trait": ["植物", "オカルト"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你在自己的高潮阶段，不能从手牌中使用高潮卡。",
+    "all_cards": [
+      {
+        "id": "RW/W20-010",
+        "rarity": "U"
+      }
+    ]
+  },
+  "RW/W20-011": {
+    "name": "“ニートのこころ”朱音",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6500,
+    "cost": 1,
+    "trait": ["魔法", "オカルト"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【起】[(1) 这张卡放置到休息室]你选择自己的1个角色返回手牌。",
+    "all_cards": [
+      {
+        "id": "RW/W20-011",
+        "rarity": "U"
+      }
+    ]
+  },
+  "RW/W20-012": {
+    "name": "“ヨッシーノの理想”スーパー吉野",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7500,
+    "cost": 1,
+    "trait": ["不良", "覚醒"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你手牌中的事件卡「マッハナックル・コンマゼロ」给予【反击】。<br />【自】这个能力1回合至多发动1次。你使用事件卡时，那个回合中，这张卡的战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "RW/W20-012",
+        "rarity": "U"
+      }
+    ]
+  },
+  "RW/W20-013": {
+    "name": "“まさかの不覚”ちはや＆咲夜",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 2,
+    "trait": ["お菓子", "執事"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "【永】你的费用在5张以下的话，这张卡的战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "RW/W20-013",
+        "rarity": "U"
+      }
+    ]
+  },
+  "RW/W20-014": {
+    "name": "“二人の未来”瑚太朗",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["超能力", "オカルト"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "RW/W20-014",
+        "rarity": "C"
+      }
+    ]
+  },
+  "RW/W20-015": {
+    "name": "“二人の未来”ちはや",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["お菓子", "オカルト"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你其他全部《お菓子》的角色，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "RW/W20-015",
+        "rarity": "C"
+      }
+    ]
+  },
+  "RW/W20-016": {
+    "name": "水着の小鳥",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["植物", "オカルト"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "RW/W20-016",
+        "rarity": "C"
+      }
+    ]
+  },
+  "RW/W20-017": {
+    "name": "水着の朱音",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["魔法", "オカルト"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，你选择自己其他1个角色，那个回合中，战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "RW/W20-017",
+        "rarity": "C"
+      }
+    ]
+  },
+  "RW/W20-018": {
+    "name": "“小さなしやわせ”小鳥",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 0,
+    "trait": ["植物", "オカルト"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "RW/W20-018",
+        "rarity": "C"
+      }
+    ]
+  },
+  "RW/W20-019": {
+    "name": "“みんなとお揃い”ちはや",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 2000,
+    "cost": 1,
+    "trait": ["お菓子", "オカルト"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀2000 等级1 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+2000）",
+    "all_cards": [
+      {
+        "id": "RW/W20-019",
+        "rarity": "C"
+      }
+    ]
+  },
+  "RW/W20-020": {
+    "name": "“一番の理由”小鳥",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6500,
+    "cost": 1,
+    "trait": ["植物"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你的费用在5张以上的话，这张卡的等级+1，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "RW/W20-020",
+        "rarity": "C"
+      }
+    ]
+  },
+  "RW/W20-021": {
+    "name": "“人為的な奇跡”瑚太朗",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8500,
+    "cost": 1,
+    "trait": ["オカルト"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "RW/W20-021",
+        "rarity": "C"
+      }
+    ]
+  },
+  "RW/W20-022": {
+    "name": "魚人ヨッシーノ捕獲！",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "事件卡",
+    "level": 1,
+    "power": "-",
+    "cost": 1,
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "你《オカルト》或《不良》的角色在1个以下的话，这张卡不能从手牌中使用。<br />你的全部角色在那个回合中，战斗力+2000，灵魂值+1。<br />这张卡放置到时计区。",
+    "all_cards": [
+      {
+        "id": "RW/W20-022",
+        "rarity": "U"
+      }
+    ]
+  },
+  "RW/W20-023": {
+    "name": "この良き日に、真心こめて。",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "事件卡",
+    "level": 2,
+    "power": "-",
+    "cost": 1,
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【反击】你的黄角色在1个以下的话，这张卡不能从手牌中使用。<br />你选择自己的1个角色，那个回合中，战斗力+4000。",
+    "all_cards": [
+      {
+        "id": "RW/W20-023",
+        "rarity": "C"
+      }
+    ]
+  },
+  "RW/W20-024": {
+    "name": "みんなで水遊び",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "RW/W20-024",
+        "rarity": "CR"
+      }
+    ]
+  },
+  "RW/W20-025": {
+    "name": "交わった気持ち",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你将自己卡组顶1张卡放置到费用区，自己的全部角色，那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "RW/W20-025",
+        "rarity": "CC"
+      },
+      {
+        "id": "RW/W20-025R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "RW/W20-026": {
+    "name": "“親愛なる探求者”静流",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["風紀委員", "オカルト"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你其他全部角色，战斗力+500。<br />【起】[(1) 这张卡横置] 你从自己的时计区选择1张卡返回手牌。你选择自己的1张手牌放置到时计区。",
+    "all_cards": [
+      {
+        "id": "RW/W20-026",
+        "rarity": "RR"
+      },
+      {
+        "id": "RW/W20-026S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "RW/W20-027": {
+    "name": "“親愛なる探求者”ルチア",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7000,
+    "cost": 1,
+    "trait": ["委員長", "オカルト"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】这张卡下每有1张指示物，这张卡的战斗力+1500。<br />【自】这张卡的战斗对手倒置时，你可以从自己的休息室选择1张《オカルト》的角色卡，反面朝上放置到这张卡的下方作为指示物。",
+    "all_cards": [
+      {
+        "id": "RW/W20-027",
+        "rarity": "RR"
+      },
+      {
+        "id": "RW/W20-027S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "RW/W20-028": {
+    "name": "“旅立ちの日”ルチア",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["クローン"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】[(1) 你卡组顶1张卡放置到时计区] 这张卡攻击时，高潮区有「アカリの決意」的话，你可以支付费用。支付了的话，你的全部角色在那个回合中，战斗力+3500，回合结束时，这张卡思出。",
+    "all_cards": [
+      {
+        "id": "RW/W20-028",
+        "rarity": "R"
+      },
+      {
+        "id": "RW/W20-028S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "RW/W20-029": {
+    "name": "“最強の座”静流",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["風紀委員", "オカルト"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，高潮区有「守られた約束」的话，那个回合中，这张卡的战斗力+3500，这张卡获得以下能力。『【自】这张卡的战斗对手倒置时，你可以将自己卡组顶1张卡放置到费用区。』",
+    "all_cards": [
+      {
+        "id": "RW/W20-029",
+        "rarity": "R"
+      }
+    ]
+  },
+  "RW/W20-030": {
+    "name": "“神速攻撃！”静流",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["風紀委員", "オカルト"],
+    "color": "绿色",
+    "soul": 2,
+    "effect": "【永】你休息室的高潮卡有6张以上的话，你手牌中这张卡的等级-1。<br />【自】这张卡从手牌放置到舞台时，你选择自己的1个角色，直到下一个对手的回合结束为止，战斗力+3000。",
+    "all_cards": [
+      {
+        "id": "RW/W20-030",
+        "rarity": "R"
+      },
+      {
+        "id": "RW/W20-030SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "RW/W20-031": {
+    "name": "“けんてきひっさつ”静流",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6000,
+    "cost": 0,
+    "trait": ["風紀委員", "オカルト"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你其他全部角色，给予以下能力。『【永】这张卡不能侧面攻击。』",
+    "all_cards": [
+      {
+        "id": "RW/W20-031",
+        "rarity": "U"
+      }
+    ]
+  },
+  "RW/W20-032": {
+    "name": "水着のルチア",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 7000,
+    "cost": 1,
+    "trait": ["委員長", "オカルト"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "RW/W20-032",
+        "rarity": "U"
+      }
+    ]
+  },
+  "RW/W20-033": {
+    "name": "“ルチアの代弁者”瑚太朗",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 2,
+    "trait": ["超能力", "オカルト"],
+    "color": "绿色",
+    "soul": 2,
+    "effect": "【自】加速 [你卡组顶1张卡放置到时计区]你的高潮阶段开始时，你可以支付费用。支付了的话，直到下一个对手的回合结束为止，这张卡的战斗力+3000。",
+    "all_cards": [
+      {
+        "id": "RW/W20-033",
+        "rarity": "U"
+      }
+    ]
+  },
+  "RW/W20-034": {
+    "name": "“もう一人のルチア”アカリ",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["クローン"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "RW/W20-034",
+        "rarity": "C"
+      }
+    ]
+  },
+  "RW/W20-035": {
+    "name": "手を引く静流",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["風紀委員", "オカルト"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，你选择自己的1个角色，那个回合中，战斗力+500。<br />【自】变身 [这张卡放置到时计区] 你的再演步骤开始时，这张卡是横置状态的话，你可以支付费用。支付了的话，你从自己的休息室选择1张「“けんてきひっさつ”静流」，放置到这张卡原来的位置。",
+    "all_cards": [
+      {
+        "id": "RW/W20-035",
+        "rarity": "C"
+      }
+    ]
+  },
+  "RW/W20-036": {
+    "name": "“過去を絶ち未来へ”西九条",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["武器", "先生"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你其他的角色在1个以下的话，这张卡的等级+1，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "RW/W20-036",
+        "rarity": "C"
+      }
+    ]
+  },
+  "RW/W20-037": {
+    "name": "水着の静流",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["風紀委員", "オカルト"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "RW/W20-037",
+        "rarity": "C"
+      }
+    ]
+  },
+  "RW/W20-038": {
+    "name": "奇跡と温もりの中で",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "事件卡",
+    "level": 1,
+    "power": "-",
+    "cost": 1,
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "你选择自己的1个角色，那个回合中，战斗力+6000。这张卡思出。<br />【永】记忆 思出区有这张卡的话，你全部卡名含有「瑚太朗」的角色的卡名也视为「“ルチアの毒に打ち克つ力”瑚太朗」。",
+    "all_cards": [
+      {
+        "id": "RW/W20-038",
+        "rarity": "U"
+      }
+    ]
+  },
+  "RW/W20-039": {
+    "name": "守られた約束",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br />（<img src=\"/effect-icons/treasure.webp\">：这张卡被触发时，你将这张卡返回手牌。你可以将自己卡组顶1张卡放置到费用区）",
+    "all_cards": [
+      {
+        "id": "RW/W20-039",
+        "rarity": "CR"
+      },
+      {
+        "id": "RW/W20-039R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "RW/W20-040": {
+    "name": "アカリの決意",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "RW/W20-040",
+        "rarity": "CC"
+      },
+      {
+        "id": "RW/W20-040R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "RW/W20-041": {
+    "name": "お風呂上りの朱音",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["魔法", "オカルト"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】你其他战斗中的角色倒置时，你选择自己的1个角色，那个回合中，战斗力+1000。<br />【起】集中 [(1)] 你将自己卡组顶4张卡放置到休息室。那些卡中每有1张高潮卡，执行以下行动。『你从自己的休息室选择1张角色卡返回手牌，选择自己的1张手牌放置到休息室。』",
+    "all_cards": [
+      {
+        "id": "RW/W20-041",
+        "rarity": "RR"
+      },
+      {
+        "id": "RW/W20-041S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "RW/W20-042": {
+    "name": "“親愛なる探求者”ちはや",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["お菓子", "オカルト"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】[(1) 你卡组顶1张卡放置到时计区] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张等级2以上的角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "RW/W20-042",
+        "rarity": "RR"
+      },
+      {
+        "id": "RW/W20-042S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "RW/W20-043": {
+    "name": "“せいいっぱいの力”朱音",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7500,
+    "cost": 1,
+    "trait": ["魔法", "オカルト"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】[(1)] 这张卡攻击时，高潮区有「竜神の祭壇」的话，你可以支付费用。支付了的话，给对手造成1点伤害。（发生伤害取消）<br />【起】[你的2个角色横置] 那个回合中，这张卡的战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "RW/W20-043",
+        "rarity": "R"
+      }
+    ]
+  },
+  "RW/W20-044": {
+    "name": "“一緒に歩く道”ちはや",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 2,
+    "power": 9500,
+    "cost": 2,
+    "trait": ["お菓子", "オカルト"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【自】这张卡从手牌放置到舞台时，你将自己卡组顶1张卡放置到时计区。<br />【自】这张卡攻击时，高潮区有「守るべき人」的话，你可以从自己的休息室选择1张角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "RW/W20-044",
+        "rarity": "R"
+      },
+      {
+        "id": "RW/W20-044SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "RW/W20-045": {
+    "name": "“親愛なる探求者”朱音",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["魔法", "オカルト"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【自】[(1)] 你的回合中，这张卡的战斗对手倒置时，你可以支付费用。支付了的话，你从对手的前列选择1个等级2以下的角色放置到卡组顶。<br />【自】[你1个竖置的角色横置] 你其他的角色从手牌放置到舞台时，你可以支付费用。支付了的话，那个回合中，这张卡的战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "RW/W20-045",
+        "rarity": "R"
+      },
+      {
+        "id": "RW/W20-045S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "RW/W20-046": {
+    "name": "“紅く染まる夜に”朱音",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["魔法", "オカルト"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。<br />【自】这张卡从手牌放置到舞台时，你看自己卡组顶1张卡，放置到卡组顶或休息室。",
+    "all_cards": [
+      {
+        "id": "RW/W20-046",
+        "rarity": "U"
+      }
+    ]
+  },
+  "RW/W20-047": {
+    "name": "“輝く青空の下で”ちはや",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6000,
+    "cost": 1,
+    "trait": ["お菓子", "オカルト"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】变身 [(1) 这张卡放置到时计区] 你的再演步骤开始时，这张卡是横置状态的话，你可以支付费用。支付了的话，你从自己的休息室选择1张「“一緒に歩く道”ちはや」，放置到这张卡原来的位置。",
+    "all_cards": [
+      {
+        "id": "RW/W20-047",
+        "rarity": "U"
+      }
+    ]
+  },
+  "RW/W20-048": {
+    "name": "“花弁の騎士”咲夜",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6500,
+    "cost": 1,
+    "trait": ["超能力", "使い魔"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "RW/W20-048",
+        "rarity": "U"
+      }
+    ]
+  },
+  "RW/W20-049": {
+    "name": "“興味津々”しまこ",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["特徴なし"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】对手的攻击阶段开始时，你可以将这张卡移动到前列中央没有角色的位置。",
+    "all_cards": [
+      {
+        "id": "RW/W20-049",
+        "rarity": "C"
+      }
+    ]
+  },
+  "RW/W20-050": {
+    "name": "“立ち向かう勇気”朱音",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["魔法", "オカルト"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "RW/W20-050",
+        "rarity": "C"
+      }
+    ]
+  },
+  "RW/W20-051": {
+    "name": "“■■■？”ちはや",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 0,
+    "trait": ["お菓子", "オカルト"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "RW/W20-051",
+        "rarity": "C"
+      }
+    ]
+  },
+  "RW/W20-052": {
+    "name": "“生徒会長”スージィ・ミドウ",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 2000,
+    "cost": 1,
+    "trait": ["生徒会", "炎"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀2000 等级1 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+2000）",
+    "all_cards": [
+      {
+        "id": "RW/W20-052",
+        "rarity": "C"
+      }
+    ]
+  },
+  "RW/W20-053": {
+    "name": "プラチナチケット",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "事件卡",
+    "level": 2,
+    "power": "-",
+    "cost": 1,
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【反击】集中 你没有卡名含有「朱音」的角色的话，这张卡不能从手牌中使用。<br />你选择自己的1个角色，那个回合中，战斗力+2000。<br />你将自己卡组顶3张卡放置到休息室。那些卡中有高潮卡的话，你选择自己的1个角色，那个回合中，战斗力+3000。",
+    "all_cards": [
+      {
+        "id": "RW/W20-053",
+        "rarity": "U"
+      }
+    ]
+  },
+  "RW/W20-054": {
+    "name": "守るべき人",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br />（<img src=\"/effect-icons/salvage.webp\">：这张卡被触发时，你可以从自己的休息室选择1张角色卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "RW/W20-054",
+        "rarity": "CR"
+      },
+      {
+        "id": "RW/W20-054R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "RW/W20-055": {
+    "name": "竜神の祭壇",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你抽1张卡，选择自己的1个角色，那个回合中，战斗力+2000，灵魂值+1",
+    "all_cards": [
+      {
+        "id": "RW/W20-055",
+        "rarity": "CC"
+      },
+      {
+        "id": "RW/W20-055R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "RW/W20-056": {
+    "name": "“魔法の第三惑精”クリーミィ☆かがりん",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["時間", "鍵"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你公开自己卡组顶1张卡。那张卡是高潮卡的话，这张卡横置。（公开的卡放回原处）<br />【自】加速 [你卡组顶1张卡放置到时计区] 你的高潮阶段开始时，你可以支付费用。支付了的话，你的全部角色，直到下一个对手的回合结束为止，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "RW/W20-056",
+        "rarity": "RR"
+      },
+      {
+        "id": "RW/W20-056SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "RW/W20-057": {
+    "name": "“最良の記憶”篝",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["時間", "鍵"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【自】这张卡从手牌或通过『变身』放置到舞台时，你可以将自己时计区顶1张卡放置到休息室。<br />【自】这张卡攻击时，高潮区有「残された可能性」的话，直到下一个对手的回合结束为止，这张卡获得以下能力。『【自】你其他战斗中的角色倒置时，你可以将那个角色思出。这样做的话，下一个你的抽卡阶段开始时，你从自己的思出区将那些角色，放置到舞台任意位置。』",
+    "all_cards": [
+      {
+        "id": "RW/W20-057",
+        "rarity": "RR"
+      },
+      {
+        "id": "RW/W20-057SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "RW/W20-058": {
+    "name": "“親愛なる探求者”篝",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["時間", "鍵"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【起】[(1)] 你抽1张卡，选择自己的1张手牌放置到休息室。<br />【起】[这张卡横置] 你选择自己的1个角色，直到下一个对手的回合结束为止，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "RW/W20-058",
+        "rarity": "R"
+      },
+      {
+        "id": "RW/W20-058S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "RW/W20-059": {
+    "name": "“祝福の花冠”小鳥",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["植物", "オカルト"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】[(1) 1张手牌放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的卡组找至多1张《植物》的角色卡展示给对手后加入手牌。卡组洗切。",
+    "all_cards": [
+      {
+        "id": "RW/W20-059",
+        "rarity": "R"
+      },
+      {
+        "id": "RW/W20-059SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "RW/W20-060": {
+    "name": "“書き換わる運命”篝",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 1500,
+    "cost": 1,
+    "trait": ["時間", "鍵"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+X。X是你拥有『应援』能力的角色的数量×500。<br />【起】[1张手牌放置到休息室] 你选择自己的1个角色，直到下一个对手的回合结束为止，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "RW/W20-060",
+        "rarity": "R"
+      },
+      {
+        "id": "RW/W20-060S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "RW/W20-061": {
+    "name": "“激辛仲直り”ルチア",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6000,
+    "cost": 1,
+    "trait": ["委員長"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你的手牌在5张以上的话，这张卡的战斗力+1000。<br />【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "RW/W20-061",
+        "rarity": "R"
+      }
+    ]
+  },
+  "RW/W20-062": {
+    "name": "“レッツクエスト！”静流",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6500,
+    "cost": 1,
+    "trait": ["風紀委員", "オカルト"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】[(1)] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你选择自己的1个角色，那个回合中，给予以下能力。『【自】这张卡的战斗对手倒置时，你可以抽1张卡。』",
+    "all_cards": [
+      {
+        "id": "RW/W20-062",
+        "rarity": "R"
+      },
+      {
+        "id": "RW/W20-062S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "RW/W20-063": {
+    "name": "“書き換える運命”小鳥",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 2,
+    "power": 4500,
+    "cost": 1,
+    "trait": ["植物", "オカルト"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+X。X是那个角色的等级×500。<br />【起】[(1) 这张卡横置] 你选择自己的1个角色，那个回合中，给予以下能力。『【自】这张卡的战斗对手倒置时，你可以将那个角色放置到卡组底。』",
+    "all_cards": [
+      {
+        "id": "RW/W20-063",
+        "rarity": "R"
+      },
+      {
+        "id": "RW/W20-063S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "RW/W20-064": {
+    "name": "“ひとつの目標”ルチア",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["委員長", "オカルト"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【永】这张卡正面的角色灵魂值-1。<br />【永】前列没有倒置的这张卡的话，你其他位于前列中央的角色，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "RW/W20-064",
+        "rarity": "R"
+      },
+      {
+        "id": "RW/W20-064SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "RW/W20-065": {
+    "name": "未来来 篝",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["時間", "鍵"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。<br />【起】[你的2个角色横置] 你选择自己的1个角色，那个回合中，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "RW/W20-065",
+        "rarity": "U"
+      }
+    ]
+  },
+  "RW/W20-066": {
+    "name": "“バカンス気分！”静流",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["風紀委員", "オカルト"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】对手的回合中，你其他全部角色，战斗力+500。<br />【自】[(2)] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你抽1张卡。",
+    "all_cards": [
+      {
+        "id": "RW/W20-066",
+        "rarity": "U"
+      }
+    ]
+  },
+  "RW/W20-067": {
+    "name": "“違いがわかる生徒”篝",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["時間", "鍵"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你没有其他角色的话，这张卡的战斗力+1500，这张卡获得『【自】再演 [手牌中1张角色卡放置到休息室]』的能力。",
+    "all_cards": [
+      {
+        "id": "RW/W20-067",
+        "rarity": "U"
+      }
+    ]
+  },
+  "RW/W20-068": {
+    "name": "“いつかどこか”の篝",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["時間", "鍵"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】[(1)] 这张卡攻击时，高潮区有「いっときの夢」的话，你可以支付费用。支付了的话，直到下一个对手的回合结束为止，这张卡的战斗力+3000。",
+    "all_cards": [
+      {
+        "id": "RW/W20-068",
+        "rarity": "U"
+      }
+    ]
+  },
+  "RW/W20-069": {
+    "name": "“感情の発露”篝",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["時間", "鍵"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】对手的回合中，这张卡位于前列中央的话，这张卡的战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "RW/W20-069",
+        "rarity": "U"
+      }
+    ]
+  },
+  "RW/W20-070": {
+    "name": "“良い記憶を求めて”篝",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7000,
+    "cost": 2,
+    "trait": ["時間", "鍵"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【自】[你2个竖置的角色横置] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你选择自己1个《鍵》的角色，那个回合中，给予以下能力。『【永】这张卡即使侧面攻击灵魂值也不会减少。』 <br />【自】变身 [(1) 这张卡放置到休息室] 你的再演步骤开始时，这张卡是横置状态的话，你可以支付费用。支付了的话，你从自己的休息室选择1张「“最良の记忆”篝」，放置到这张卡原来的位置。",
+    "all_cards": [
+      {
+        "id": "RW/W20-070",
+        "rarity": "U"
+      }
+    ]
+  },
+  "RW/W20-071": {
+    "name": "“オカ研集合！”ルチア",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["委員長", "オカルト"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】绊／「“レッツクエスト！”静流」 [(1)] （这张卡被使用放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张「“レッツクエスト！”静流」返回手牌）",
+    "all_cards": [
+      {
+        "id": "RW/W20-071",
+        "rarity": "C"
+      }
+    ]
+  },
+  "RW/W20-072": {
+    "name": "“白銀の世界の中で”ルチア",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["委員長", "オカルト"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【起】[你的2个角色横置] 直到下一个对手的回合结束为止，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "RW/W20-072",
+        "rarity": "C"
+      }
+    ]
+  },
+  "RW/W20-073": {
+    "name": "“ミラクルガール”篝",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["時間", "鍵"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "RW/W20-073",
+        "rarity": "C"
+      }
+    ]
+  },
+  "RW/W20-074": {
+    "name": "“平穏な時間”ルチア",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 0,
+    "trait": ["委員長", "オカルト"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "RW/W20-074",
+        "rarity": "C"
+      }
+    ]
+  },
+  "RW/W20-075": {
+    "name": "“世界の希望”篝",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2500,
+    "cost": 1,
+    "trait": ["時間", "鍵"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀3000 等级2 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+3000）",
+    "all_cards": [
+      {
+        "id": "RW/W20-075",
+        "rarity": "C"
+      }
+    ]
+  },
+  "RW/W20-076": {
+    "name": "“げんなじーのめんらー”静流",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "角色卡",
+    "level": 2,
+    "power": 9000,
+    "cost": 2,
+    "trait": ["風紀委員", "ラーメン"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "RW/W20-076",
+        "rarity": "C"
+      }
+    ]
+  },
+  "RW/W20-077": {
+    "name": "可能性の系統樹",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "事件卡",
+    "level": 2,
+    "power": "-",
+    "cost": 1,
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "你选择自己的1个角色，直到下一个对手的回合结束为止，战斗力+4000。这张卡思出。",
+    "all_cards": [
+      {
+        "id": "RW/W20-077",
+        "rarity": "U"
+      }
+    ]
+  },
+  "RW/W20-078": {
+    "name": "篝火を掲げし者",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "事件卡",
+    "level": 1,
+    "power": "-",
+    "cost": 1,
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "你从自己的卡组找至多1张高潮卡展示给对手后加入手牌。卡组洗切。",
+    "all_cards": [
+      {
+        "id": "RW/W20-078",
+        "rarity": "C"
+      }
+    ]
+  },
+  "RW/W20-079": {
+    "name": "いっときの夢",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "RW/W20-079",
+        "rarity": "CR"
+      },
+      {
+        "id": "RW/W20-079R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "RW/W20-080": {
+    "name": "残された可能性",
+    "product_name": "Rewrite Harvest festa!",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你抽1张卡，选择自己的1个角色，那个回合中，战斗力+2000，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "RW/W20-080",
+        "rarity": "CC"
+      }
+    ]
+  }
+}

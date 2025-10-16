@@ -1,0 +1,20 @@
+{
+  "RW/WPR-001": {
+    "name": "幼なじみ 小鳥",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["植物", "オカルト"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "RW/WPR-001",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
