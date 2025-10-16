@@ -271,4 +271,8 @@ export const seriesMap = {
     id: 'sg',
     prefixes: ['SG'],
   },
+  'Vividred Operation': {
+    id: 'vr',
+    prefixes: ['VR'],
+  },
 }
