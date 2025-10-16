@@ -251,4 +251,8 @@ export const seriesMap = {
     id: 'gid',
     prefixes: ['ID', 'RG', 'Gid'],
   },
+  '灼眼的夏娜': {
+    id: 'ss',
+    prefixes: ['SS', 'Gss'],
+  },
 }

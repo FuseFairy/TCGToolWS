@@ -1,0 +1,56 @@
+{
+  "SS/WE15-P01": {
+    "name": "屈せぬ心 シャナ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["炎", "武器"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】你其他战斗中的角色倒置时，那个回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "SS/WE15-P01",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SS/WE15-P02": {
+    "name": "水着のシャナ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 0,
+    "trait": ["炎", "メロンパン"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "SS/WE15-P02",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SS/WE15-P03": {
+    "name": "チャイナドレスのシャナ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["炎", "メロンパン"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】再演  [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "SS/WE15-P03",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

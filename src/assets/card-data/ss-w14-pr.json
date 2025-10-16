@@ -1,0 +1,146 @@
+{
+  "SS/W14-106": {
+    "name": "灼眼のシャナたん",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["炎", "メロンパン"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "SS/W14-106",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SS/W14-107": {
+    "name": "“偉大なる者”シャナ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["炎", "武器"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "SS/W14-107",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SS/W14-108": {
+    "name": "エカテリーナと遊ぶシャナたん",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["炎", "武器"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "SS/W14-108",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SS/W14-109": {
+    "name": "頂のヘカテーたん",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["炎", "巫女"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "SS/W14-109",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SS/W14-110": {
+    "name": "無類のメロンパン好き シャナ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["炎", "メロンパン"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】你其他战斗中的角色倒置时，那个回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "SS/W14-110",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SS/W14-111": {
+    "name": "メイド服のシャナ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["炎", "メイド"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【起】[(1)]你选择自己１个《炎》的角色，那个回合中，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "SS/W14-111",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SS/W14-112": {
+    "name": "おめかし シャナ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["炎", "武器"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你的回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "SS/W14-112",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SS/W14-113": {
+    "name": "夏服のシャナ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["炎", "メロンパン"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你的回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "SS/W14-113",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
