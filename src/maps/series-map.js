@@ -283,4 +283,8 @@ export const seriesMap = {
     id: 'nk',
     prefixes: ['NK'],
   },
+  '临时女友': {
+    id: 'gf',
+    prefixes: ['GF'],
+  },
 }
