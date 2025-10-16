@@ -260,4 +260,9 @@ export const seriesMap = {
     prefixes: ['OVL'],
     icon: 'ovl.webp',
   },
+  'Phantom -Requiem for the Phantom-': {
+    id: 'pt',
+    prefixes: ['PT'],
+    icon: 'pt.webp',
+  },
 }
