@@ -255,4 +255,8 @@ export const seriesMap = {
     id: 'ss',
     prefixes: ['SS', 'Gss'],
   },
+  '机器人笔记': {
+    id: 'rn',
+    prefixes: ['RN'],
+  },
 }
