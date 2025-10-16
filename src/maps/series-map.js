@@ -235,4 +235,8 @@ export const seriesMap = {
     id: 'nr',
     prefixes: ['NS', 'N1', 'NV', 'NA', 'N2', 'NR', 'ND', 'NTA'],
   },
+  '幸运☆星': {
+    id: 'ls',
+    prefixes: ['LS'],
+  },
 }
