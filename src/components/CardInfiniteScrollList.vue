@@ -72,7 +72,7 @@
 </template>
 
 <script setup>
-import { ref, computed, onMounted, onUnmounted } from 'vue'
+import { ref, computed, onMounted, onUnmounted, nextTick } from 'vue'
 import { useTheme, useDisplay } from 'vuetify'
 import CardTemplate from '@/components/CardTemplate.vue'
 import CardDetailModal from '@/components/CardDetailModal.vue'
@@ -174,8 +174,28 @@ const reset = () => {
   }
 }
 
+const getScrollState = () => {
+  return {
+    page: page.value,
+    scrollTop: infiniteScrollRef.value?.$el.scrollTop ?? 0,
+  }
+}
+
+const restoreScrollState = (state) => {
+  if (state) {
+    page.value = state.page
+    nextTick(() => {
+      if (infiniteScrollRef.value?.$el) {
+        infiniteScrollRef.value.$el.scrollTop = state.scrollTop
+      }
+    })
+  }
+}
+
 defineExpose({
   reset,
+  getScrollState,
+  restoreScrollState,
 })
 
 const isFabVisible = ref(false)

@@ -5,7 +5,7 @@
         v-bind="props"
         class="series-card d-flex flex-column flex-grow-1"
         hover
-        :to="{ name: 'SeriesDetail', params: { seriesId: seriesData.id } }"
+        @click="navigateToDetail"
         variant="flat"
         color="surface"
         rounded="3md"
@@ -45,6 +45,9 @@
 
 <script setup>
 import { computed } from 'vue'
+import { useRouter } from 'vue-router'
+
+const router = useRouter()
 
 const props = defineProps({
   seriesName: {
@@ -60,6 +63,14 @@ const props = defineProps({
 const iconUrl = computed(() => {
   return `series-icons/${props.seriesData.id}.webp`
 })
+
+const navigateToDetail = () => {
+  router.push({
+    name: 'SeriesDetail',
+    params: { seriesId: props.seriesData.id },
+    state: { fresh: true },
+  })
+}
 </script>
 
 <style scoped>

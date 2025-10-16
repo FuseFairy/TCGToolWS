@@ -114,7 +114,8 @@
 </template>
 
 <script setup>
-import { ref, computed, watchEffect, onUnmounted, watch } from 'vue'
+import { ref, computed, watchEffect, onUnmounted, watch, onMounted, nextTick } from 'vue'
+import { onBeforeRouteLeave } from 'vue-router'
 import { useDisplay } from 'vuetify'
 import { seriesMap } from '@/maps/series-map.js'
 import { useDeckStore } from '@/stores/deck'
@@ -213,6 +214,42 @@ watch(
 onUnmounted(() => {
   observer.disconnect()
   filterStore.reset()
+})
+
+onMounted(() => {
+  const storageKey = `seriesDetailViewState_${props.seriesId}`
+
+  if (history.state.fresh) {
+    sessionStorage.removeItem(storageKey)
+    history.replaceState({ ...history.state, fresh: false }, '')
+  }
+
+  const unwatch = watch(
+    () => filterStore.isLoading,
+    (loading) => {
+      if (!loading) {
+        const savedStateJSON = sessionStorage.getItem(storageKey)
+        if (savedStateJSON) {
+          const savedState = JSON.parse(savedStateJSON)
+          nextTick(() => {
+            if (listRef.value && savedState) {
+              listRef.value.restoreScrollState(savedState)
+            }
+          })
+        }
+        unwatch()
+      }
+    },
+    { immediate: true }
+  )
+})
+
+onBeforeRouteLeave((to, from) => {
+  if (listRef.value) {
+    const state = listRef.value.getScrollState()
+    const storageKey = `seriesDetailViewState_${from.params.seriesId}`
+    sessionStorage.setItem(storageKey, JSON.stringify(state))
+  }
 })
 </script>
 
