@@ -287,4 +287,8 @@ export const seriesMap = {
     id: 'gf',
     prefixes: ['GF'],
   },
+  'To LOVE': {
+    id: 'tl',
+    prefixes: ['TL'],
+  },
 }
