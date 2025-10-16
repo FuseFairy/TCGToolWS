@@ -227,4 +227,8 @@ export const seriesMap = {
     id: 'spy',
     prefixes: ['SPY'],
   },
+  '零之使魔': {
+    id: 'zm',
+    prefixes: ['ZM'],
+  },
 }

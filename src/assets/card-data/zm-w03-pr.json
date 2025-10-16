@@ -1,0 +1,168 @@
+{
+  "ZM/W03-101": {
+    "name": "鳶色の瞳のルイズ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["魔法", "虚無"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "ZM/W03-101",
+        "rarity": "PR"
+      },
+      {
+        "id": "ZM/W03-101P",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "ZM/W03-102": {
+    "name": "負けず嫌いなルイズ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4000,
+    "cost": 1,
+    "trait": ["魔法", "虚無"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡倒置时，这张卡的战斗对手的等级在1级以下的话，你可以将那个角色倒置。",
+    "all_cards": [
+      {
+        "id": "ZM/W03-102",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "ZM/W03-103": {
+    "name": "虚無の担い手たち",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4000,
+    "cost": 1,
+    "trait": ["魔法", "虚無"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前拥有「【自】再演[手牌中1张角色卡放置到休息室]」的全部角色，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "ZM/W03-103",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "ZM/W03-104": {
+    "name": "負けず嫌いなルイズ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4000,
+    "cost": 1,
+    "trait": ["魔法", "虚無"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡倒置时，这张卡的战斗对手的等级在1级以下的话，你可以将那个角色倒置。",
+    "all_cards": [
+      {
+        "id": "ZM/W03-104",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "ZM/W03-105": {
+    "name": "幼い頃の約束",
+    "product_name": "PRカード【Wサイド】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br />（这张卡被触发时，你可以抽1张卡）",
+    "all_cards": [
+      {
+        "id": "ZM/W03-105",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "ZM/W03-106": {
+    "name": "意地っ張りなルイズ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 1,
+    "trait": ["魔法", "虚無"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【起】[你2个《使い魔》的角色横置] 你选择自己的1个角色，那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "ZM/W03-106",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "ZM/W03-107": {
+    "name": "高飛車ルイズ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["魔法", "虚無"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】这张卡是竖置状态的话，这张卡的等级+1，战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "ZM/W03-107",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "ZM/W03-108": {
+    "name": "ミス・ヴァリエール",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["魔法", "虚無"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "ZM/W03-108",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "ZM/W03-109": {
+    "name": "お姫様 ティファニア＆アンリエッタ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["魔法", "水着"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你的费用在5张以上的话，你其他全部角色，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "ZM/W03-109",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
