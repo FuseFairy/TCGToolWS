@@ -25,14 +25,20 @@ export function useInfiniteScrollState({
 
     const tryRestore = () => {
       const savedStateJSON = sessionStorage.getItem(key)
+      let stateToRestore = null
+
       if (savedStateJSON) {
-        const savedState = JSON.parse(savedStateJSON)
-        nextTick(() => {
-          if (scrollRef.value && savedState) {
-            onRestore(savedState)
-          }
-        })
+        stateToRestore = JSON.parse(savedStateJSON)
+      } else {
+        // If no state is saved, create a default state to ensure scroll position is explicitly set to 0.
+        stateToRestore = { scrollTop: 0, page: 1, itemCount: 0 }
       }
+
+      nextTick(() => {
+        if (scrollRef.value && stateToRestore) {
+          onRestore(stateToRestore)
+        }
+      })
     }
 
     if (loadingRef) {
