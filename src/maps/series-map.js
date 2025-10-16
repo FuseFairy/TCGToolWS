@@ -267,4 +267,8 @@ export const seriesMap = {
     id: 'mr',
     prefixes: ['MM', 'MR'],
   },
+  '战姬绝唱Symphogear': {
+    id: 'sg',
+    prefixes: ['SG'],
+  },
 }

@@ -1,0 +1,110 @@
+{
+  "SG/W19-P01": {
+    "name": "二人の歌姫 奏＆翼",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["音楽", "武器"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀1500 等级1 [手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+1500）",
+    "all_cards": [
+      {
+        "id": "SG/W19-P01",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SG/W19-P02": {
+    "name": "“一番あったかいところ”響＆未来",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，你的全部角色在那个回合中，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "SG/W19-P02",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SG/W19-106": {
+    "name": "FIRST LOVE SONG",
+    "product_name": "戦姫絶唱シンフォギア",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "SG/W19-106",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SG/W19-107": {
+    "name": "BILLION MAIDEN",
+    "product_name": "戦姫絶唱シンフォギア",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你将自己卡组顶1张卡放置到费用区，自己的全部角色，那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "SG/W19-107",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SG/W19-108": {
+    "name": "LAST∞METEOR",
+    "product_name": "戦姫絶唱シンフォギア",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你将自己卡组顶1张卡放置到费用区，自己的全部角色，那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "SG/W19-108",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SG/W19-109": {
+    "name": "影縫い",
+    "product_name": "戦姫絶唱シンフォギア",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "SG/W19-109",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

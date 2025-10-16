@@ -1,0 +1,110 @@
+{
+  "SG/W72-124": {
+    "name": "“アンリミ”響",
+    "product_name": "戦姫絶唱シンフォギアXD UNLIMITED EXTEND",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你选择自己其他1个《音楽》的角色，那个回合中，战斗力+X。X是你其他《音楽》的角色的数量×500。",
+    "all_cards": [
+      {
+        "id": "SG/W72-124",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SG/W72-125": {
+    "name": "“アンリミ”翼",
+    "product_name": "戦姫絶唱シンフォギアXD UNLIMITED EXTEND",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7500,
+    "cost": 1,
+    "trait": ["音楽", "武器"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你每有1个其他的《音楽》的角色，这张卡的战斗力+500。",
+    "all_cards": [
+      {
+        "id": "SG/W72-125",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SG/W72-126": {
+    "name": "“アンリミ”クリス",
+    "product_name": "戦姫絶唱シンフォギアXD UNLIMITED EXTEND",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 1,
+    "trait": ["音楽", "武器"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】这张卡正面的角色的费用是0以下的话，这张卡不会倒置。",
+    "all_cards": [
+      {
+        "id": "SG/W72-126",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SG/W72-127": {
+    "name": "“アンリミ”マリア",
+    "product_name": "戦姫絶唱シンフォギアXD UNLIMITED EXTEND",
+    "type": "角色卡",
+    "level": 1,
+    "power": 3500,
+    "cost": 0,
+    "trait": ["音楽", "武器"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡倒置时，这张卡的战斗对手的等级是1级以下的话，你可以将那个角色倒置。",
+    "all_cards": [
+      {
+        "id": "SG/W72-127",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SG/W72-128": {
+    "name": "“アンリミ”調",
+    "product_name": "戦姫絶唱シンフォギアXD UNLIMITED EXTEND",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽", "武器"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你有其他「“アンリミ”切歌」的话，你其他全部《音楽》的角色，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "SG/W72-128",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SG/W72-129": {
+    "name": "“アンリミ”切歌",
+    "product_name": "戦姫絶唱シンフォギアXD UNLIMITED EXTEND",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["音楽", "武器"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你有其他「“アンリミ”調」的话，这张卡的战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "SG/W72-129",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
