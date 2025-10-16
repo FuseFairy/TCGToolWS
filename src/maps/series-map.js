@@ -291,4 +291,8 @@ export const seriesMap = {
     id: 'tl',
     prefixes: ['TL'],
   },
+  '请问您今天要来点兔子吗？？': {
+    id: 'gu',
+    prefixes: ['GU'],
+  },
 }

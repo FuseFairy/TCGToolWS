@@ -1,0 +1,46 @@
+{
+  "GU/WE46-P01": {
+    "name": "ときめきポポロン♪ チマメ隊",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["ラビットハウス", "BLOOM"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】对手的回合中，你的手牌在5张以上的话，这张卡的等级+1，战斗力+1500。<br>【自】对手的攻击阶段开始时，你可以将这张卡移动到前列没有角色，正面有对手角色的位置。",
+    "all_cards": [
+      {
+        "id": "GU/WE46-P01",
+        "rarity": "PR"
+      },
+      {
+        "id": "GU/WE46-P01S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "GU/WE46-P02": {
+    "name": "ラビットハウス BLOOM",
+    "product_name": "PRカード【Wサイド】",
+    "type": "事件卡",
+    "level": 1,
+    "power": "-",
+    "cost": 1,
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "你从自己的卡组找至多1张高潮卡展示给对手后加入手牌，卡组洗切。",
+    "all_cards": [
+      {
+        "id": "GU/WE46-P02EX",
+        "rarity": "PR+"
+      },
+      {
+        "id": "GU/WE46-P02S",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
