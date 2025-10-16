@@ -32,7 +32,8 @@
 </template>
 
 <script setup>
-import { ref, computed, watch } from 'vue'
+import { ref, computed, watch, onMounted, nextTick } from 'vue'
+import { onBeforeRouteLeave } from 'vue-router'
 import { seriesMap } from '@/maps/series-map.js'
 import SeriesCard from '@/components/SeriesCard.vue'
 import FloatingSearch from '@/components/FloatingSearchBar.vue'
@@ -84,4 +85,30 @@ watch(searchTerm, () => {
 const onSearch = (newTerm) => {
   searchTerm.value = newTerm
 }
+
+onMounted(() => {
+  const savedState = sessionStorage.getItem('seriesCardTableViewState')
+  if (savedState) {
+    const { series, scrollPosition } = JSON.parse(savedState)
+    displayedSeries.value = series
+    nextTick(() => {
+      if (infiniteScrollRef.value) {
+        const scrollableElement = infiniteScrollRef.value.$el
+        scrollableElement.scrollTop = scrollPosition
+      }
+    })
+  }
+})
+
+onBeforeRouteLeave((to, from, next) => {
+  if (infiniteScrollRef.value) {
+    const scrollableElement = infiniteScrollRef.value.$el
+    const savedState = {
+      series: displayedSeries.value,
+      scrollPosition: scrollableElement.scrollTop,
+    }
+    sessionStorage.setItem('seriesCardTableViewState', JSON.stringify(savedState))
+  }
+  next()
+})
 </script>
