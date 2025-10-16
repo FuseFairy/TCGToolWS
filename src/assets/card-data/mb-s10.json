@@ -1,0 +1,1866 @@
+{
+  "MB/S10-001": {
+    "name": "雪原の妖精 白レン",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6500,
+    "cost": 1,
+    "trait": ["使い魔", "動物"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】经验 你的等级区的卡的等级合计在2级以上的话，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "MB/S10-001",
+        "rarity": "RR"
+      },
+      {
+        "id": "MB/S10-001S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MB/S10-002": {
+    "name": "真祖の王族 アルクェイド",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7500,
+    "cost": 2,
+    "trait": ["王族", "血"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "【自】[(2)] 这张卡攻击时，高潮区有「空想具現化」的话，你可以支付费用。支付了的话，你选择对手1个等级1以下的角色放置到费用区，那个回合中，这张卡的战斗力+3000。<br />【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "MB/S10-002",
+        "rarity": "RR"
+      },
+      {
+        "id": "MB/S10-002R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "MB/S10-003": {
+    "name": "とある日のレン",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["使い魔", "動物"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。<br />【自】[(1) 1张手牌放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的卡组找至多1张卡名含有｢志貴｣的角色卡展示给对手后加入手牌。卡组洗切。",
+    "all_cards": [
+      {
+        "id": "MB/S10-003",
+        "rarity": "R"
+      }
+    ]
+  },
+  "MB/S10-004": {
+    "name": "暴君 アルクェイド",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["王族", "血"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【起】[这张卡横置] 你选择自己的１个角色，那个回合中，战斗力+1000。<br />【起】集中 [(1)] 你将自己卡组顶4张卡放置到休息室。那些卡中每有1张高潮卡，你选择自己的1个角色，那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "MB/S10-004",
+        "rarity": "R"
+      },
+      {
+        "id": "MB/S10-004SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "MB/S10-005": {
+    "name": "堕ちた真祖 暴走アルクェイド",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["王族", "血"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【起】[(1)] 那个回合中，这张卡的灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "MB/S10-005",
+        "rarity": "R"
+      }
+    ]
+  },
+  "MB/S10-006": {
+    "name": "“直死の魔眼”志貴",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["メガネ", "武器"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】[(1)] 这张卡攻击时，高潮区有「十七分割」的话，你可以支付费用。支付了的话，那个回合中，这张卡的战斗力+3000，对手不能使用『【自】再演』。（规则的『【自】再演 [(3)]』也不能使用）",
+    "all_cards": [
+      {
+        "id": "MB/S10-006",
+        "rarity": "R"
+      }
+    ]
+  },
+  "MB/S10-007": {
+    "name": "遠野家の養子 志貴",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7500,
+    "cost": 1,
+    "trait": ["死", "武器"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你其他前列の《血》的角色有2个以上的话，这张卡的战斗力+1500。<br />【永】经验 你的等级区的卡的等级合计在3级以上的话，这张卡的灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "MB/S10-007",
+        "rarity": "R"
+      }
+    ]
+  },
+  "MB/S10-008": {
+    "name": "白レン",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["使い魔", "動物"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀1000 等级0 [ 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+1000）",
+    "all_cards": [
+      {
+        "id": "MB/S10-008",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-009": {
+    "name": "吸血衝動 アルクェイド",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["王族", "血"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】变身 [这张卡放置到休息室] 你的高潮阶段开始时，你可以支付费用。支付了的话，你从自己的休息室选择1张「暴走アルクェイド」，放置到这张卡原来的位置。",
+    "all_cards": [
+      {
+        "id": "MB/S10-009",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-010": {
+    "name": "アルクェイド・ブリュンスタッド",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7500,
+    "cost": 1,
+    "trait": ["王族", "血"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你每有1个其他横置的角色，这张卡的战斗力+500。",
+    "all_cards": [
+      {
+        "id": "MB/S10-010",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-011": {
+    "name": "夢魔 レン",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["使い魔", "動物"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】[(1)] 这张卡攻击时，高潮区有「ホウマツノユメ」的话，你可以支付费用。支付了的话，你选择对手的1个角色返回手牌，那个回合中，这张卡的灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "MB/S10-011",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-012": {
+    "name": "真祖の姫 アルクェイド",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["王族", "血"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "【永】经验 你的等级区的卡的等级合计在4级以上的话，这张卡的战斗力+500，这张卡获得以下能力。『【自】　这张卡的战斗对手倒置时，你可以将那个角色放置到费用区。』<br />【自】这张卡从手牌放置到舞台时，你可以将自己时计区顶1张卡放置到休息室。",
+    "all_cards": [
+      {
+        "id": "MB/S10-012",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-013": {
+    "name": "お節介な志貴",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["メガネ", "武器"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】绊／「真祖殺しの真祖 アルクェイド」 [(1)] （这张卡被使用放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张「真祖殺しの真祖 アルクェイド」返回手牌）",
+    "all_cards": [
+      {
+        "id": "MB/S10-013",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-014": {
+    "name": "黒猫 レン",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["使い魔", "動物"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡在触发步骤触发到高潮卡时，那个回合中，这张卡的战斗力+4000，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "MB/S10-014",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-015": {
+    "name": "吸血鬼 アルクェイド",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["王族", "血"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "MB/S10-015",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-016": {
+    "name": "遠野 志貴",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["メガネ", "武器"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你的回合中，这张卡的战斗力+1000。<br />【永】前列有这张卡的话，这张卡在你的准备阶段不会竖置。",
+    "all_cards": [
+      {
+        "id": "MB/S10-016",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-017": {
+    "name": "レン",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 0,
+    "trait": ["使い魔", "動物"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "MB/S10-017",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-018": {
+    "name": "真祖殺しの真祖 アルクェイド",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 1,
+    "trait": ["王族", "血"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你前列有其他卡名含有「志貴」的角色的话，这张卡的战斗力+1000。<br />【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "MB/S10-018",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-019": {
+    "name": "暴走アルクェイド",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 1,
+    "power": 8500,
+    "cost": 1,
+    "trait": ["王族", "血"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】你的再演步骤开始时，这张卡放置到休息室。",
+    "all_cards": [
+      {
+        "id": "MB/S10-019",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-020": {
+    "name": "七夜 志貴",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 2,
+    "power": 9000,
+    "cost": 2,
+    "trait": ["武器", "マスター"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "MB/S10-020",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-021": {
+    "name": "宇宙のネコ",
+    "product_name": "MELTY BLOOD",
+    "type": "事件卡",
+    "level": 1,
+    "power": "-",
+    "cost": 1,
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "你的全部角色在那个回合中，战斗力+1000，灵魂值+1。<br />回合结束时，你选择自己的1个角色思出。",
+    "all_cards": [
+      {
+        "id": "MB/S10-021",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-022": {
+    "name": "七夜としての誇り",
+    "product_name": "MELTY BLOOD",
+    "type": "事件卡",
+    "level": 2,
+    "power": "-",
+    "cost": 1,
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "你黄色的角色在2个以下的话，这张卡不能从手牌中使用。<br />你选择对手1个费用1以下的角色放置到费用区。",
+    "all_cards": [
+      {
+        "id": "MB/S10-022",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-023": {
+    "name": "空想具現化",
+    "product_name": "MELTY BLOOD",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br />（<img src=\"/effect-icons/bounce.webp\">：这张卡被触发时，你可以选择对手的1个角色，使其返回手牌）",
+    "all_cards": [
+      {
+        "id": "MB/S10-023",
+        "rarity": "CR"
+      }
+    ]
+  },
+  "MB/S10-024": {
+    "name": "十七分割",
+    "product_name": "MELTY BLOOD",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你抽1张卡，选择自己的1个角色，那个回合中，战斗力+2000，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "MB/S10-024",
+        "rarity": "CC"
+      }
+    ]
+  },
+  "MB/S10-025": {
+    "name": "ホウマツノユメ",
+    "product_name": "MELTY BLOOD",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br />（<img src=\"/effect-icons/shot.webp\">：这个回合中，触发这张卡的角色下次造成的伤害被取消时，给对手造成1点伤害）",
+    "all_cards": [
+      {
+        "id": "MB/S10-025",
+        "rarity": "CC"
+      },
+      {
+        "id": "MB/S10-025S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MB/S10-026": {
+    "name": "“分割思考”シオン",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7000,
+    "cost": 1,
+    "trait": ["錬金術", "武器"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】变身 [这张卡放置到休息室] 你的高潮阶段开始时，你可以支付费用。支付了的话，你从自己的休息室选择1张「タタリの後継 吸血鬼シオン」或「オシリスの砂」，放置到这张卡原来的位置。<br />【自】变身 [(2) 1张手牌放置到休息室，这张卡放置到休息室] 你的高潮阶段开始时，你可以支付费用。支付了的话，你从自己的休息室选择1张「霊子ハッカー シオン」，放置到这张卡原来的位置。",
+    "all_cards": [
+      {
+        "id": "MB/S10-026",
+        "rarity": "RR"
+      }
+    ]
+  },
+  "MB/S10-027": {
+    "name": "聖堂騎士 リーズバイフェ",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7500,
+    "cost": 2,
+    "trait": ["盾", "武器"],
+    "color": "绿色",
+    "soul": 2,
+    "effect": "【自】这张卡攻击时，高潮区有「正式外典ガマリエル」的话，你可以从自己的时计区选择1张卡返回手牌。这样做的话，你选择自己的1张手牌放置到时计区，那个回合中，这张卡的战斗力+4000。<br />【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "MB/S10-027",
+        "rarity": "RR"
+      }
+    ]
+  },
+  "MB/S10-028": {
+    "name": "シオン・エルトナム・アトラシア",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["錬金術", "武器"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你其他的角色在1个以下的话，这张卡的战斗力+1000，这张卡获得『【自】再演 [手牌中1张角色卡放置到休息室]』的能力。",
+    "all_cards": [
+      {
+        "id": "MB/S10-028",
+        "rarity": "R"
+      },
+      {
+        "id": "MB/S10-028SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "MB/S10-029": {
+    "name": "聖盾の乙女 リーズバイフェ",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["盾", "武器"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡的战斗对手倒置时，你选择自己1个《武器》的角色，那个回合中，战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "MB/S10-029",
+        "rarity": "R"
+      }
+    ]
+  },
+  "MB/S10-030": {
+    "name": "“路地裏同盟”シオン",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["錬金術", "武器"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，高潮区有「バレルレプリカ」的话，那个回合中，这张卡的战斗力+X。X是你《武器》的角色的数量×1000。",
+    "all_cards": [
+      {
+        "id": "MB/S10-030",
+        "rarity": "R"
+      }
+    ]
+  },
+  "MB/S10-031": {
+    "name": "有間家の長女 都古",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["特徴なし"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【起】集中 [(1)] 你将自己卡组顶4张卡放置到休息室。那些卡中每有1张高潮卡，那个回合中，这张卡的战斗力+3000。",
+    "all_cards": [
+      {
+        "id": "MB/S10-031",
+        "rarity": "R"
+      },
+      {
+        "id": "MB/S10-031S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MB/S10-032": {
+    "name": "霊子ハッカー シオン",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["錬金術", "武器"],
+    "color": "绿色",
+    "soul": 2,
+    "effect": "【自】这张卡从手牌或通过『变身』放置到舞台时，你可以将自己时计区顶1张卡放置到休息室。<br />【自】[你的费用全部放置到休息室] 这张卡攻击时，高潮区有「友達のために」，你的费用在3张以上的话，你可以支付费用。支付了的话，你选择对手至多2个角色，那个回合中，战斗力-X。X是通过这个能力的费用放置到休息室的费用数量×1000。",
+    "all_cards": [
+      {
+        "id": "MB/S10-032",
+        "rarity": "R"
+      },
+      {
+        "id": "MB/S10-032R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "MB/S10-033": {
+    "name": "メカヒスイ",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["メカ", "メイド"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【起】[(1) 你舞台1个「ネコアルク」放置到休息室] 你选择对手前列的1个角色，那个回合中，战斗力-3000。",
+    "all_cards": [
+      {
+        "id": "MB/S10-033",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-034": {
+    "name": "ネコアルク",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["動物"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】[(1)] 这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你从自己的等级区和休息室各选择1张卡替换。",
+    "all_cards": [
+      {
+        "id": "MB/S10-034",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-035": {
+    "name": "ワラキアの夜",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["血"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】经验 你的等级区的卡的等级合计在2级以上的话，这张卡获得以下能力。『【自】这张卡等级1以上的战斗对手倒置时，你可以将自己卡组顶1张卡放置到费用区。』",
+    "all_cards": [
+      {
+        "id": "MB/S10-035",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-036": {
+    "name": "八極拳士 都古",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 2,
+    "power": 1000,
+    "cost": 1,
+    "trait": ["特徴なし"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】对手有《動物》的角色的话，这张卡的战斗力+6000。<br />【起】【反击】助太刀3000 等级2 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+3000）",
+    "all_cards": [
+      {
+        "id": "MB/S10-036",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-037": {
+    "name": "タタリの後継 吸血鬼シオン",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8500,
+    "cost": 2,
+    "trait": ["錬金術", "血"],
+    "color": "绿色",
+    "soul": 2,
+    "effect": "【永】经验 你的等级区的卡的等级合计在3级以上的话，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "MB/S10-037",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-038": {
+    "name": "リーズバイフェの友人 シオン",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["錬金術", "武器"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你其他全部的「シオンの友人 リーズバイフェ」，战斗力+1000。<br />【自】绊／「シオンの友人 リーズバイフェ」 [(1)] （这张卡被使用放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张「シオンの友人 リーズバイフェ」返回手牌）",
+    "all_cards": [
+      {
+        "id": "MB/S10-038",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-039": {
+    "name": "“二十七祖”ワラキアの夜",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["血"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】[(2)] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的卡组找至多1张《血》的角色卡展示给对手后加入手牌る。卡组洗切。",
+    "all_cards": [
+      {
+        "id": "MB/S10-039",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-040": {
+    "name": "有間 都古",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["特徴なし"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【起】[(1)] 那个回合中，这张卡的战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "MB/S10-040",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-041": {
+    "name": "リーズバイフェ・ストリンドヴァリ",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["盾", "武器"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "MB/S10-041",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-042": {
+    "name": "アトラス院所属 シオン",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 1,
+    "trait": ["錬金術", "武器"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】经验 你的等级区的卡的等级合计在2级以上的话，这张卡的战斗力+1000。<br />【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "MB/S10-042",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-043": {
+    "name": "シオンの友人 リーズバイフェ",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 1,
+    "trait": ["盾", "武器"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你前列有其他卡名含有「シオン」的角色的话，这张卡的战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "MB/S10-043",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-044": {
+    "name": "吸血鬼シオン",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 1,
+    "power": 7000,
+    "cost": 1,
+    "trait": ["錬金術", "血"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "MB/S10-044",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-045": {
+    "name": "オシリスの砂",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8500,
+    "cost": 2,
+    "trait": ["錬金術", "メカ"],
+    "color": "绿色",
+    "soul": 2,
+    "effect": "【自】这张卡等级2以上的战斗对手倒置时，你可以将自己卡组顶1张卡放置到费用区。",
+    "all_cards": [
+      {
+        "id": "MB/S10-045",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-046": {
+    "name": "“新しい”タタリ",
+    "product_name": "MELTY BLOOD",
+    "type": "事件卡",
+    "level": 1,
+    "power": "-",
+    "cost": 1,
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【反击】你选择自己的1个角色，那个回合中，战斗力+4500。这张卡放置到时计区。",
+    "all_cards": [
+      {
+        "id": "MB/S10-046",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-047": {
+    "name": "あなたの手で…",
+    "product_name": "MELTY BLOOD",
+    "type": "事件卡",
+    "level": 2,
+    "power": "-",
+    "cost": 2,
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "你选择对手的1个角色，那个回合中，战斗力-4000。",
+    "all_cards": [
+      {
+        "id": "MB/S10-047",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-048": {
+    "name": "正式外典ガマリエル",
+    "product_name": "MELTY BLOOD",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br />（<img src=\"/effect-icons/stock.webp\">：这张卡被触发时，你可以将自己卡组顶1张卡放置到费用区）",
+    "all_cards": [
+      {
+        "id": "MB/S10-048",
+        "rarity": "CR"
+      },
+      {
+        "id": "MB/S10-048S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MB/S10-049": {
+    "name": "バレルレプリカ",
+    "product_name": "MELTY BLOOD",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br />（<img src=\"/effect-icons/treasure.webp\">：这张卡被触发时，你将这张卡返回手牌。你可以将自己卡组顶1张卡放置到费用区）",
+    "all_cards": [
+      {
+        "id": "MB/S10-049",
+        "rarity": "CC"
+      }
+    ]
+  },
+  "MB/S10-050": {
+    "name": "友達のために",
+    "product_name": "MELTY BLOOD",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你将自己卡组顶1张卡放置到费用区，自己的全部角色，那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "MB/S10-050",
+        "rarity": "CC"
+      }
+    ]
+  },
+  "MB/S10-051": {
+    "name": "遠野 秋葉",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 2,
+    "trait": ["血"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【永】你其他《血》的角色有2个以上的话，这张卡的战斗力+1000。<br />【自】[(1)] 这张卡攻击时，高潮区有「赤主・檻髪」的话，你可以支付费用。支付了的话，你从自己的休息室选择1张角色卡返回手牌，那个回合中，这张卡的战斗力+3000。",
+    "all_cards": [
+      {
+        "id": "MB/S10-051",
+        "rarity": "RR"
+      }
+    ]
+  },
+  "MB/S10-052": {
+    "name": "きれい好きなメイドさん 翡翠",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 1,
+    "trait": ["双子", "メイド"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】经验 你的等级区的卡的等级合计在2级以上的话，这张卡的战斗力+500，这张卡获得『【自】再演 [手牌中1张角色卡放置到休息室]』的能力。<br />【自】你的「姉妹の绊」放置到高潮区时，那个回合中，这张卡的战斗力+1000，这张卡获得以下能力。『【自】这张卡的战斗对手倒置时，你可以将那个角色放置到卡组顶。』",
+    "all_cards": [
+      {
+        "id": "MB/S10-052",
+        "rarity": "RR"
+      }
+    ]
+  },
+  "MB/S10-053": {
+    "name": "割烹着の悪魔 琥珀",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["双子", "和服"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。<br />【起】[你的2个角色横置] 你选择自己1个《双子》的角色，那个回合中，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "MB/S10-053",
+        "rarity": "R"
+      }
+    ]
+  },
+  "MB/S10-054": {
+    "name": "“混血”秋葉",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["血"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡倒置时，这张卡的战斗对手的等级是0级以下的话，你可以将那个角色倒置。<br />【自】经验 [(1)] 这张卡从手牌放置到舞台时，你的等级区的卡的等级合计在3级以上的话，你可以支付费用。支付了的话，你从自己的休息室选择1张角色卡返回手牌，选择自己的1张手牌放置到休息室。",
+    "all_cards": [
+      {
+        "id": "MB/S10-054",
+        "rarity": "R"
+      },
+      {
+        "id": "MB/S10-054R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "MB/S10-055": {
+    "name": "ほがらか家政婦さん 琥珀",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["双子", "和服"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】[(1)] 这张卡攻击时，高潮区有「姉妹の绊」的话，你可以支付费用。支付了的话，你从自己的休息室选择1张角色卡返回手牌。<br />【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "MB/S10-055",
+        "rarity": "R"
+      }
+    ]
+  },
+  "MB/S10-056": {
+    "name": "浅上女学院の生徒 秋葉",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 1,
+    "power": 3000,
+    "cost": 1,
+    "trait": ["血"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前全部等级2以上的角色，战斗力+1000。<br />【起】[你2个《血》的角色横置] 你从对手的休息室选择1张卡放置到卡组顶。",
+    "all_cards": [
+      {
+        "id": "MB/S10-056",
+        "rarity": "R"
+      },
+      {
+        "id": "MB/S10-056SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "MB/S10-057": {
+    "name": "遠野家の使用人 翡翠",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 2,
+    "trait": ["双子", "メイド"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【永】经验 你的等级区的卡的等级合计在3级以上的话，这张卡的战斗力+1000。<br />【自】[(1) 1张手牌放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的卡组找至多1张「遠野家の使用人 琥珀」展示给对手后加入手牌。卡组洗切。",
+    "all_cards": [
+      {
+        "id": "MB/S10-057",
+        "rarity": "R"
+      },
+      {
+        "id": "MB/S10-057S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MB/S10-058": {
+    "name": "遠野家の当主 秋葉",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["血"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，等级+1。<br />【自】变身 [1张手牌放置到休息室，这张卡放置到休息室] 你的高潮阶段开始时，你可以支付费用。支付了的话，你从自己的休息室选择1张「“紅赤朱”秋葉」，放置到这张卡原来的位置。",
+    "all_cards": [
+      {
+        "id": "MB/S10-058",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-059": {
+    "name": "姉想い 翡翠",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["双子", "メイド"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你其他《双子》的角色有2个以上的话，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "MB/S10-059",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-060": {
+    "name": "“ドクターアンバー”琥珀",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 1,
+    "power": 500,
+    "cost": 1,
+    "trait": ["双子", "和服"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【起】[(3) 你舞台1个等级2以上的卡名含有「秋葉」的角色放置到休息室，这张卡横置] 你从自己的休息室选择1张「Ｇ秋葉」放置到舞台任意位置。<br />【起】【反击】助太刀2000 等级1 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+2000）",
+    "all_cards": [
+      {
+        "id": "MB/S10-060",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-061": {
+    "name": "遠野家の使用人 琥珀",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7000,
+    "cost": 1,
+    "trait": ["双子", "和服"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你有其他「遠野家の使用人 翡翠」的话，这张卡的战斗力+1500。<br />【永】你其他全部的「遠野家の使用人 翡翠」，战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "MB/S10-061",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-062": {
+    "name": "Ｇ秋葉",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["血", "科学"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【自】[(1)] 这张卡从手牌放置到舞台时或通过角色的【起】效果放置到舞台时，你可以支付费用。支付了的话，你选择对手前列1个等级2以下的角色放置到休息室。<br />【起】[(1) 1张手牌放置到休息室] 那个回合中，这张卡的战斗力+5500。",
+    "all_cards": [
+      {
+        "id": "MB/S10-062",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-063": {
+    "name": "翡翠",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["双子", "メイド"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】绊／「ほがらか家政婦さん 琥珀」 [(1)] （这张卡被使用放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张「ほがらか家政婦さん 琥珀」返回手牌）<br />【起】[这张卡横置] 你选择自己1个卡名含有「琥珀」的角色，那个回合中，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "MB/S10-063",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-064": {
+    "name": "チャイナ服の琥珀＆翡翠",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["双子", "メイド"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】[你1个竖置的角色横置] 你其他角色从手牌放置到舞台时，你可以支付费用。支付了的话，那个回合中，这张卡的战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "MB/S10-064",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-065": {
+    "name": "仲良し姉妹 翡翠＆琥珀",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["双子", "和服"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】[(1)] 这张卡攻击时，你可以支付费用。支付了的话，你选择自己至多2个角色，那个回合中，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "MB/S10-065",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-066": {
+    "name": "パジャマの秋葉",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["血", "パジャマ"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "MB/S10-066",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-067": {
+    "name": "志貴の付き人 翡翠",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 0,
+    "trait": ["双子", "メイド"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "MB/S10-067",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-068": {
+    "name": "“紅赤朱”秋葉",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6500,
+    "cost": 0,
+    "trait": ["血"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】你的抽卡阶段开始时，你选择自己前列其他1个等级1以下的角色放置到休息室。",
+    "all_cards": [
+      {
+        "id": "MB/S10-068",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-069": {
+    "name": "制服の秋葉",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7500,
+    "cost": 1,
+    "trait": ["血"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】[(2)] 这张卡攻击时，高潮区有「赤主遍生・緋の火槌」的话，你可以支付费用。支付了的话，给对手造成1点伤害，那个回合中，这张卡的战斗力+3000。（发生伤害取消）",
+    "all_cards": [
+      {
+        "id": "MB/S10-069",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-070": {
+    "name": "軋間 紅摩",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 2,
+    "power": 9000,
+    "cost": 2,
+    "trait": ["血"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "MB/S10-070",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-071": {
+    "name": "全人類ご主人さま計画",
+    "product_name": "MELTY BLOOD",
+    "type": "事件卡",
+    "level": 1,
+    "power": "-",
+    "cost": 4,
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "你从自己的卡组找至多3张费用0以下的《メイド》的角色卡放置到舞台不同位置。卡组洗切。",
+    "all_cards": [
+      {
+        "id": "MB/S10-071",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-072": {
+    "name": "夢の終り",
+    "product_name": "MELTY BLOOD",
+    "type": "事件卡",
+    "level": 2,
+    "power": "-",
+    "cost": 1,
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【反击】你选择自己的1个角色，那个回合中，战斗力+2000，给予以下能力。『【自】这张卡的战斗对手倒置时，你可以将那个角色放置到卡组顶。』回合结束时，思出那个角色。",
+    "all_cards": [
+      {
+        "id": "MB/S10-072",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-073": {
+    "name": "赤主・檻髪",
+    "product_name": "MELTY BLOOD",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br />（<img src=\"/effect-icons/salvage.webp\">：这张卡被触发时，你可以从自己的休息室选择1张角色卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "MB/S10-073",
+        "rarity": "CR"
+      },
+      {
+        "id": "MB/S10-073S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MB/S10-074": {
+    "name": "赤主遍生・緋の火槌",
+    "product_name": "MELTY BLOOD",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你抽1张卡，选择自己的1个角色，那个回合中，战斗力+2000，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "MB/S10-074",
+        "rarity": "CC"
+      }
+    ]
+  },
+  "MB/S10-075": {
+    "name": "姉妹の絆",
+    "product_name": "MELTY BLOOD",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你将自己卡组顶1张卡放置到费用区，自己的全部角色，那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "MB/S10-075",
+        "rarity": "CC"
+      }
+    ]
+  },
+  "MB/S10-076": {
+    "name": "黒鍵の使い手 シエル",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 1,
+    "trait": ["カレー", "武器"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】经验 对手的回合中，你的等级区的卡的等级合计在1级以上的话，这张卡的战斗力+1500。<br />【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "MB/S10-076",
+        "rarity": "RR"
+      },
+      {
+        "id": "MB/S10-076SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "MB/S10-077": {
+    "name": "正義の吸血鬼 さつき",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["血"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】你的「固有結界・枯渇庭園」放置到高潮区时，前列有这张卡的话，你可以从自己的休息室选择1张等级1以下的《血》的角色卡，放置到前列没有角色的位置。",
+    "all_cards": [
+      {
+        "id": "MB/S10-077",
+        "rarity": "RR"
+      }
+    ]
+  },
+  "MB/S10-078": {
+    "name": "埋葬機関第七位 シエル",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["カレー", "武器"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你其他《武器》的角色有2个以上的话，那个回合中，这张卡的战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "MB/S10-078",
+        "rarity": "R"
+      }
+    ]
+  },
+  "MB/S10-079": {
+    "name": "第五魔法の継承者 青子",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["魔法"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，你可以将自己卡组顶1张卡放置到休息室。那张卡是高潮卡的话，你抽1张卡，选择自己的1张手牌放置到休息室。",
+    "all_cards": [
+      {
+        "id": "MB/S10-079",
+        "rarity": "R"
+      },
+      {
+        "id": "MB/S10-079S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MB/S10-080": {
+    "name": "“混沌”ネロ・カオス",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["血", "動物"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【起】[(3)] 你从自己的卡组找至多1张等级1以下的《動物》的角色卡，放置到舞台任意位置。卡组洗切。",
+    "all_cards": [
+      {
+        "id": "MB/S10-080",
+        "rarity": "R"
+      }
+    ]
+  },
+  "MB/S10-081": {
+    "name": "代行者 シエル",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7500,
+    "cost": 2,
+    "trait": ["カレー", "武器"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【自】[(1)] 这张卡攻击时，高潮区有「死徒の根絶」的话，你可以支付费用。支付了的话，你抽1张卡，那个回合中，这张卡的战斗力+3000。<br />【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "MB/S10-081",
+        "rarity": "R"
+      }
+    ]
+  },
+  "MB/S10-082": {
+    "name": "シエル",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["カレー", "武器"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【自】经验 [(4)] 这张卡从手牌放置到舞台时，你的等级区的卡的等级合计在6级以上的话，你可以支付费用。支付了的话，那个回合中，这张卡获得以下能力。『【自】这个能力1回合至多发动1次。这张卡攻击时，你可以将这张卡竖置。』",
+    "all_cards": [
+      {
+        "id": "MB/S10-082",
+        "rarity": "R"
+      },
+      {
+        "id": "MB/S10-082R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "MB/S10-083": {
+    "name": "志貴の先輩 シエル",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["カレー", "武器"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】绊／「“直死の魔眼”志貴」 [(1)] （这张卡被使用放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张「“直死の魔眼”志貴」返回手牌）<br />【起】[(3)] 你选择对手的1个角色。那个角色在下一个对手的准备阶段不会竖置。",
+    "all_cards": [
+      {
+        "id": "MB/S10-083",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-084": {
+    "name": "弓塚 さつき",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["血"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】警铃 这张卡在时计区最上面的话，你的高潮阶段开始时，你可以从自己的等级区和休息室各选择1张卡替换。",
+    "all_cards": [
+      {
+        "id": "MB/S10-084",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-085": {
+    "name": "“路地裏同盟”さつき",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 1,
+    "trait": ["血"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】变身 [(1) 1张手牌放置到休息室，这张卡放置到休息室] 你的高潮阶段开始时，你可以支付费用。支付了的话，你从自己的休息室选择1张「正義の吸血鬼 さつき」，放置到这张卡原来的位置。",
+    "all_cards": [
+      {
+        "id": "MB/S10-085",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-086": {
+    "name": "無類のカレー好き シエル",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 2,
+    "power": 3500,
+    "cost": 1,
+    "trait": ["カレー", "武器"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+X。X是那个角色的等级×500。<br />【自】这张卡从手牌放置到舞台时，你抽1张卡，选择自己的1张手牌放置到休息室。",
+    "all_cards": [
+      {
+        "id": "MB/S10-086",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-087": {
+    "name": "破壊特化の魔術師 青子",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7500,
+    "cost": 2,
+    "trait": ["魔法"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）<br />【起】[(2)] 那个回合中，这张卡的战斗力+5000。",
+    "all_cards": [
+      {
+        "id": "MB/S10-087",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-088": {
+    "name": "新米薄幸吸血鬼 さつき",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["血"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。<br />【永】经验 你的等级区的卡的等级合计在3级以上的话，这张卡获得以下能力。『【永】应援 对手的回合中，你这张卡前的全部角色，战斗力+500。』",
+    "all_cards": [
+      {
+        "id": "MB/S10-088",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-089": {
+    "name": "“異端狩り”シエル",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["カレー", "武器"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "MB/S10-089",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-090": {
+    "name": "魔法使い 青子",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3500,
+    "cost": 0,
+    "trait": ["魔法"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】你的高潮阶段开始时，对手看自己卡组顶1张卡，放置到卡组顶或卡组底。",
+    "all_cards": [
+      {
+        "id": "MB/S10-090",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-091": {
+    "name": "聖典所持者 シエル",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["カレー", "武器"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】[(2)] 这张卡攻击时，高潮区有「第七聖典」的话，你可以支付费用。支付了的话，你从自己的卡组找至多1张《武器》的角色卡展示给对手后加入手牌。之后，卡组洗切，那个回合中，这张卡的战斗力+3000。",
+    "all_cards": [
+      {
+        "id": "MB/S10-091",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-092": {
+    "name": "ミハイル・ロア・バルダムヨォン",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["血"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】战斗中这张卡倒置时，你可以将这张卡返回卡组。这样做的话，卡组洗切。",
+    "all_cards": [
+      {
+        "id": "MB/S10-092",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-093": {
+    "name": "ネコアルク・カオス",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 1,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["動物", "タバコ"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀1500 等级1 [手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+1500）",
+    "all_cards": [
+      {
+        "id": "MB/S10-093",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-094": {
+    "name": "“ミス・ブルー”青子",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 1,
+    "power": 7000,
+    "cost": 1,
+    "trait": ["魔法"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "MB/S10-094",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-095": {
+    "name": "ネロ・カオス",
+    "product_name": "MELTY BLOOD",
+    "type": "角色卡",
+    "level": 2,
+    "power": 9000,
+    "cost": 2,
+    "trait": ["血", "動物"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "MB/S10-095",
+        "rarity": "C"
+      }
+    ]
+  },
+  "MB/S10-096": {
+    "name": "タタリ再演",
+    "product_name": "MELTY BLOOD",
+    "type": "事件卡",
+    "level": 1,
+    "power": "-",
+    "cost": 1,
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "你蓝色的角色在2个以下的话，这张卡不能从手牌中使用。<br />你抽至多2张卡，选择自己的1张手牌放置到休息室。",
+    "all_cards": [
+      {
+        "id": "MB/S10-096",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-097": {
+    "name": "666の獣",
+    "product_name": "MELTY BLOOD",
+    "type": "事件卡",
+    "level": 2,
+    "power": "-",
+    "cost": 6,
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "你从自己的卡组找至多2张等级2以下的《動物》的角色卡放置到舞台不同位置。卡组洗切。",
+    "all_cards": [
+      {
+        "id": "MB/S10-097",
+        "rarity": "U"
+      }
+    ]
+  },
+  "MB/S10-098": {
+    "name": "固有結界・枯渇庭園",
+    "product_name": "MELTY BLOOD",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "MB/S10-098",
+        "rarity": "CR"
+      },
+      {
+        "id": "MB/S10-098S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "MB/S10-099": {
+    "name": "第七聖典",
+    "product_name": "MELTY BLOOD",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你将自己卡组顶1张卡放置到费用区，自己的全部角色，那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "MB/S10-099",
+        "rarity": "CC"
+      }
+    ]
+  },
+  "MB/S10-100": {
+    "name": "死徒の根絶",
+    "product_name": "MELTY BLOOD",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br />（<img src=\"/effect-icons/draw.webp\">：这张卡被触发时，你可以抽1张卡）",
+    "all_cards": [
+      {
+        "id": "MB/S10-100",
+        "rarity": "CC"
+      }
+    ]
+  }
+}

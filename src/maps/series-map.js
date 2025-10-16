@@ -250,4 +250,9 @@ export const seriesMap = {
     prefixes: ['MAR', 'Dmv'],
     icon: 'mar.webp',
   },
+  'MELTY BLOOD／空之境界': {
+    id: 'mb',
+    prefixes: ['MB', 'KK'],
+    icon: 'mb.webp',
+  },
 }
