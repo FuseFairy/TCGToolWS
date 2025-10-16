@@ -275,4 +275,8 @@ export const seriesMap = {
     id: 'vr',
     prefixes: ['VR'],
   },
+  '穿透幻影的太阳': {
+    id: 'gt',
+    prefixes: ['GT'],
+  },
 }
