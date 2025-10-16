@@ -1,0 +1,164 @@
+{
+  "NS/W04-103": {
+    "name": "八神家の一員",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 1,
+    "trait": ["魔法", "本"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你其他全部《本》的角色，パワー+500。",
+    "all_cards": [
+      {
+        "id": "NS/W04-103",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "NS/W04-104": {
+    "name": "空を舞うなのは＆フェイト",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2500,
+    "cost": 1,
+    "trait": ["魔法"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀3000 等级2 [(1)手牌中这张卡放置到休息室]（你选择自己1个被正面攻击的角色，那个回合中，战斗力+3000）",
+    "all_cards": [
+      {
+        "id": "NS/W04-104",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "NS/W04-105": {
+    "name": "高町一等空尉",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["魔法", "ドレス"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "NS/W04-105",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "NS/W04-106": {
+    "name": "フェイト・T・ハラオウン執務官",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["魔法", "ドレス"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【起】[(2)] 你选择自己的1个角色，那个回合中，战斗力+2000，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "NS/W04-106",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "NS/W04-107": {
+    "name": "八神機動六課部隊長",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["魔法", "ドレス"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】[(2)] 这张卡从手牌放置到舞台时，你可以支付费用。 这样做的话，你将自己时计区顶1张卡放置到休息室。",
+    "all_cards": [
+      {
+        "id": "NS/W04-107",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "NS/W04-108": {
+    "name": "空戦魔導師 高町なのは25歳",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["魔法", "武器"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你有其他「フェイト＆アルフ」和「八神 はやて」的话，这张卡的战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "NS/W04-108",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "NS/W04-109": {
+    "name": "高町一等空尉",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["魔法", "ドレス"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "NS/W04-109",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "NS/W04-110": {
+    "name": "フェイト・T・ハラオウン執務官",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["魔法", "ドレス"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【起】[(2)] 你选择自己的1个角色，那个回合中，战斗力+2000，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "NS/W04-110",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "NS/W04-111": {
+    "name": "八神機動六課部隊長",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["魔法", "ドレス"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】[(2)] 这张卡从手牌放置到舞台时，你可以支付费用。 这样做的话，你将自己时计区顶1张卡放置到休息室。",
+    "all_cards": [
+      {
+        "id": "NS/W04-111",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

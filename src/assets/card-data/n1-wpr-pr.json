@@ -1,0 +1,38 @@
+{
+  "N1/WPR-001": {
+    "name": "魔法少女 なのは＆フェイト",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["魔法", "武器"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【起】[(1)] 你选择对手前列1个等级0以下的角色放置到休息室。",
+    "all_cards": [
+      {
+        "id": "N1/WPR-001",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "N1/WPR-002": {
+    "name": "譲れない想い なのは＆フェイト",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["魔法", "武器"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【起】[(1) 这张卡横置] 你从对手的休息室选择1张卡放置到卡组顶。",
+    "all_cards": [
+      {
+        "id": "N1/WPR-002",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

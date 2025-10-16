@@ -231,4 +231,8 @@ export const seriesMap = {
     id: 'zm',
     prefixes: ['ZM'],
   },
+  '魔法少女奈叶': {
+    id: 'nr',
+    prefixes: ['NS', 'N1', 'NV', 'NA', 'N2', 'NR', 'ND', 'NTA'],
+  },
 }
