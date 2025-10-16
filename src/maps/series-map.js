@@ -263,4 +263,8 @@ export const seriesMap = {
     id: 'nj',
     prefixes: ['NJ'],
   },
+  '魔法少女小圆': {
+    id: 'mr',
+    prefixes: ['MM', 'MR'],
+  },
 }
