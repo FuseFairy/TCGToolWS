@@ -101,7 +101,6 @@ export const useFilterStore = defineStore('filter', () => {
         }
       }
 
-      // 匹配關聯卡片
       fetchedCards.forEach((card) => (card.link = []))
 
       const nameToCardBaseIds = new Map()
@@ -119,13 +118,25 @@ export const useFilterStore = defineStore('filter', () => {
         baseIdToCardsMap.get(card.baseId).push(card)
       }
 
+      const escapeRegex = (str) => {
+        return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+      }
+
+      const allNamesPattern = [...nameToCardBaseIds.keys()].map(escapeRegex).join('|')
+
+      const nameMatcherRegex = new RegExp(`「(${allNamesPattern})」`, 'g')
+
       for (const targetCard of fetchedCards) {
         const effectText = targetCard.effect || ''
         if (!effectText) continue
 
-        for (const [sourceName, sourceBaseIds] of nameToCardBaseIds.entries()) {
-          const quotedSourceName = `「${sourceName}」`
-          if (effectText.includes(quotedSourceName)) {
+        const matches = effectText.matchAll(nameMatcherRegex)
+
+        for (const match of matches) {
+          const foundName = match[1]
+          const sourceBaseIds = nameToCardBaseIds.get(foundName)
+
+          if (sourceBaseIds) {
             for (const sourceBaseId of sourceBaseIds) {
               if (!targetCard.link.includes(sourceBaseId)) {
                 targetCard.link.push(sourceBaseId)
