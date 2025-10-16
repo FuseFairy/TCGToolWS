@@ -2,7 +2,6 @@ export const seriesMap = {
   'Re：从零开始的异世界生活': {
     id: 're0',
     prefixes: ['RZ'],
-    icon: 're0.webp',
   },
   '富士见Fantasia文库': {
     id: 'fantasia',
@@ -43,236 +42,189 @@ export const seriesMap = {
       'Ftt',
       'Fvd',
     ],
-    icon: 'fantasia.webp',
   },
   '女神异闻录': {
     id: 'persona',
     prefixes: ['P3', 'P4', 'PQ', 'P5'],
-    icon: 'persona.webp',
   },
   '莉可丽丝': {
     id: 'lrc',
     prefixes: ['LRC'],
-    icon: 'lrc.webp',
   },
   '少女乐队的呐喊': {
     id: 'gbc',
     prefixes: ['GCR'],
-    icon: 'gbc.webp',
   },
   '足球小将': {
     id: 'ctb',
     prefixes: ['CTB'],
-    icon: 'ctb.webp',
   },
   '蜡笔小新': {
     id: 'cs',
     prefixes: ['CS'],
-    icon: 'cs.webp',
   },
   '摇曳露营': {
     id: 'yrc',
     prefixes: ['YRC'],
-    icon: 'yrc.webp',
   },
   '里世界郊游': {
     id: 'rsk',
     prefixes: ['RSK'],
-    icon: 'rsk.webp',
   },
   'BanG Dream!': {
     id: 'bd',
     prefixes: ['BD'],
-    icon: 'bd.webp',
   },
   '缘结甘神家': {
     id: 'amg',
     prefixes: ['AMG'],
-    icon: 'amg.webp',
   },
   '世界计划 彩色舞台 feat.初音未来': {
     id: 'pjs',
     prefixes: ['PJS'],
-    icon: 'pjs.webp',
   },
   '青桐高校': {
     id: 'aoh',
     prefixes: ['AOH'],
-    icon: 'aoh.webp',
   },
   'Love Live! 莲之空女学院学园偶像俱乐部': {
     id: 'lhs',
     prefixes: ['LHS'],
-    icon: 'lhs.webp',
   },
   '偶像大师 灰姑娘女孩': {
     id: 'imc',
     prefixes: ['IMC'],
-    icon: 'imc.webp',
   },
   'Angel Beats!／Kud Wafter': {
     id: 'ab',
     prefixes: ['AB', 'KW', 'Kab', 'Hab'],
-    icon: 'ab.webp',
   },
   'CANAAN': {
     id: 'cn',
     prefixes: ['CN'],
-    icon: 'cn.webp',
   },
   'CLANNAD': {
     id: 'cl',
     prefixes: ['CL', 'Kcl'],
-    icon: 'cl.webp',
   },
   'PIXAR': {
     id: 'pxr',
     prefixes: ['PXR', 'Dpx', 'MRp'],
-    icon: 'pxr.webp',
   },
   'Charlotte': {
     id: 'cha',
     prefixes: ['CHA', 'Kch'],
-    icon: 'cha.webp',
   },
   '初音岛': {
     id: 'dc',
     prefixes: ['DC', 'DC3', 'DC4', 'DS', 'DC5'],
-    icon: 'dc.webp',
   },
   'D4DJ': {
     id: 'dj',
     prefixes: ['DJ'],
-    icon: 'dj.webp',
   },
   'DARLING in the FRANXX': {
     id: 'fxx',
     prefixes: ['FXX'],
-    icon: 'fxx.webp',
   },
   '约会大作战': {
     id: 'dal',
     prefixes: ['DAL', 'Fdl'],
-    icon: 'dal.webp',
   },
   'DOG DAYS': {
     id: 'dd',
     prefixes: ['DD'],
-    icon: 'dd.webp',
   },
   'D_CIDE TRAUMEREI': {
     id: 'dct',
     prefixes: ['DCT'],
-    icon: 'dct.webp',
   },
   'Disney': {
     id: 'dds',
     prefixes: ['Dds', 'MRd'],
-    icon: 'dds.webp',
   },
   'Disney100': {
     id: 'dds100',
     prefixes: ['Dmv', 'Dsw', 'Dpx', 'Dds'],
-    icon: 'dds100.webp',
   },
   'Fate': {
     id: 'fate',
     prefixes: ['FS', 'FU', 'FH', 'FZ'],
-    icon: 'fate.webp',
   },
   'Fate/Apocrypha': {
     id: 'apo',
     prefixes: ['APO'],
-    icon: 'apo.webp',
   },
   'Fate/Grand Order': {
     id: 'fgo',
     prefixes: ['FGO'],
-    icon: 'fgo.webp',
   },
   'Hololive': {
     id: 'hol',
     prefixes: ['HOL'],
-    icon: 'hol.webp',
   },
   'JOJO的奇妙冒险': {
     id: 'jj',
     prefixes: ['JJ'],
-    icon: 'jj.webp',
   },
   'Key': {
     id: 'key',
     prefixes: ['Kab', 'Kai', 'Kch', 'Kcl', 'Kdb', 'Key', 'Khb', 'Kka', 'Klb', 'Krw', 'Ksm'],
-    icon: 'key.webp',
   },
   'Little Busters!': {
     id: 'lb',
     prefixes: ['LB', 'KW', 'Klb'],
-    icon: 'lb.webp',
   },
   '超时空要塞': {
     id: 'mde',
     prefixes: ['MF', 'MDE'],
-    icon: 'mde.webp',
   },
   'Lost Decade': {
     id: 'lod',
     prefixes: ['LOD'],
-    icon: 'lod.webp',
   },
   'Love Live!': {
     id: 'll',
     prefixes: ['LL', 'LSF', 'SIL'],
-    icon: 'll.webp',
   },
   'Love Live! Sunshine!!': {
     id: 'lls',
     prefixes: ['LSS', 'LSF', 'SIS'],
-    icon: 'lls.webp',
   },
   'Love Live! 虹咲学园学园偶像同好会': {
     id: 'lnj',
     prefixes: ['LNJ', 'LSF', 'SIN'],
-    icon: 'lnj.webp',
   },
   'Love Live! SuperStar!!': {
     id: 'lsp',
     prefixes: ['LSP', 'LSF', 'SIP'],
-    icon: 'lsp.webp',
   },
   'Love Live! 学园偶像祭2': {
     id: 'sif',
     prefixes: ['SIL', 'SIS', 'SIN', 'SIP', 'LSF'],
-    icon: 'sif.webp',
   },
   'MARVEL': {
     id: 'mar',
     prefixes: ['MAR', 'Dmv'],
-    icon: 'mar.webp',
   },
   'MELTY BLOOD／空之境界': {
     id: 'mb',
     prefixes: ['MB', 'KK'],
-    icon: 'mb.webp',
   },
   'Overlord': {
     id: 'ovl',
     prefixes: ['OVL'],
-    icon: 'ovl.webp',
   },
   'Phantom -Requiem for the Phantom-': {
     id: 'pt',
     prefixes: ['PT'],
-    icon: 'pt.webp',
   },
   'Rewrite': {
     id: 'rw',
     prefixes: ['RW', 'Krw'],
-    icon: 'rw.webp',
   },
   'SPY×FAMILY': {
     id: 'spy',
     prefixes: ['SPY'],
-    icon: 'spy.webp',
   },
 }

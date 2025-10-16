@@ -58,7 +58,7 @@ const props = defineProps({
 })
 
 const iconUrl = computed(() => {
-  return `series-icons/${props.seriesData.icon}`
+  return `series-icons/${props.seriesData.id}.webp`
 })
 </script>
 
