@@ -1,0 +1,38 @@
+{
+  "ID/W10-108": {
+    "name": "背負った宿命 インデックス",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["魔法", "本"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你有其他卡名含有「当麻」的角色的话，这张卡的战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "ID/W10-108",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "ID/W10-116": {
+    "name": "インデックス＆美琴",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 7000,
+    "cost": 1,
+    "trait": ["魔法", "超能力"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "ID/W10-116",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

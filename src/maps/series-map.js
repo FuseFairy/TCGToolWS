@@ -247,4 +247,8 @@ export const seriesMap = {
     id: 'sy',
     prefixes: ['SY', 'Ssy'],
   },
+  '魔法禁书目录／某科学的超电磁炮': {
+    id: 'gid',
+    prefixes: ['ID', 'RG', 'Gid'],
+  },
 }
