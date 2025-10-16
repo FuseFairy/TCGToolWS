@@ -239,4 +239,8 @@ export const seriesMap = {
     id: 'ls',
     prefixes: ['LS'],
   },
+  '穿越宇宙的少女／舞-HiME＆舞-乙HiME': {
+    id: 'sk',
+    prefixes: ['SK', 'MH'],
+  },
 }
