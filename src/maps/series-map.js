@@ -255,4 +255,9 @@ export const seriesMap = {
     prefixes: ['MB', 'KK'],
     icon: 'mb.webp',
   },
+  'Overlord': {
+    id: 'ovl',
+    prefixes: ['OVL'],
+    icon: 'ovl.webp',
+  },
 }
