@@ -124,7 +124,8 @@ export const useFilterStore = defineStore('filter', () => {
         if (!effectText) continue
 
         for (const [sourceName, sourceBaseIds] of nameToCardBaseIds.entries()) {
-          if (effectText.includes(sourceName)) {
+          const quotedSourceName = `「${sourceName}」`
+          if (effectText.includes(quotedSourceName)) {
             for (const sourceBaseId of sourceBaseIds) {
               if (!targetCard.link.includes(sourceBaseId)) {
                 targetCard.link.push(sourceBaseId)
