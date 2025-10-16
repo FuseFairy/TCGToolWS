@@ -259,4 +259,8 @@ export const seriesMap = {
     id: 'rn',
     prefixes: ['RN'],
   },
+  '日常': {
+    id: 'nj',
+    prefixes: ['NJ'],
+  },
 }

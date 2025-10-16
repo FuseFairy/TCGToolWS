@@ -1,0 +1,38 @@
+{
+  "NJ/WE11-37": {
+    "name": "おやすみ なの&はかせ",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["お菓子", "メカ"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀1500 等级1 [手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+1500）",
+    "all_cards": [
+      {
+        "id": "NJ/WE11-37",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "NJ/WE11-38": {
+    "name": "ゆっこ＆みお＆麻衣",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["漫画", "仏像"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "NJ/WE11-38",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
