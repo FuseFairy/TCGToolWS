@@ -83,6 +83,7 @@ import CardTemplate from '@/components/CardTemplate.vue'
 import CardDetailModal from '@/components/CardDetailModal.vue'
 import { fetchCardsByBaseIdAndPrefix } from '@/utils/card'
 import { useCardImage } from '@/composables/useCardImage.js'
+import { useCardNavigation } from '@/composables/useCardNavigation.js'
 import WsIcon from '@/assets/ui/ws-icon.svg'
 import collator from '@/utils/collator.js'
 
@@ -120,22 +121,31 @@ const selectedCardData = ref(null)
 const selectedLinkedCards = ref([])
 const isLoadingLinks = ref(false)
 
-const selectedCardIndex = computed(() => {
-  if (!selectedCardData.value) return -1
-  return displayedCards.value.findIndex((c) => c.id === selectedCardData.value.card.id)
-})
+const displayedCards = computed(() => props.cards.slice(0, page.value * props.itemsPerLoad))
+const selectedCard = computed(() => selectedCardData.value?.card)
+
+const { selectedCardIndex, getPrevCard, getNextCard } = useCardNavigation(
+  displayedCards,
+  selectedCard
+)
 
 const onPrevCard = () => {
-  if (selectedCardIndex.value > 0) {
-    const prevCard = displayedCards.value[selectedCardIndex.value - 1]
-    onShowDetails({ card: prevCard, imageUrl: useCardImage(prevCard.cardIdPrefix, prevCard.id).value })
+  const prevCard = getPrevCard()
+  if (prevCard) {
+    onShowDetails({
+      card: prevCard,
+      imageUrl: useCardImage(prevCard.cardIdPrefix, prevCard.id).value,
+    })
   }
 }
 
 const onNextCard = () => {
-  if (selectedCardIndex.value < displayedCards.value.length - 1) {
-    const nextCard = displayedCards.value[selectedCardIndex.value + 1]
-    onShowDetails({ card: nextCard, imageUrl: useCardImage(nextCard.cardIdPrefix, nextCard.id).value })
+  const nextCard = getNextCard()
+  if (nextCard) {
+    onShowDetails({
+      card: nextCard,
+      imageUrl: useCardImage(nextCard.cardIdPrefix, nextCard.id).value,
+    })
   }
 }
 
@@ -180,8 +190,6 @@ const onShowNewCard = async (payload) => {
 
 const page = ref(1)
 const infiniteScrollRef = ref(null)
-
-const displayedCards = computed(() => props.cards.slice(0, page.value * props.itemsPerLoad))
 
 const load = async ({ done }) => {
   if (displayedCards.value.length >= props.cards.length) {

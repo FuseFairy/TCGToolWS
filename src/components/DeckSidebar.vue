@@ -254,6 +254,7 @@ import { useAuthStore } from '@/stores/auth'
 import { useRouter } from 'vue-router'
 import { useSnackbar } from '@/composables/useSnackbar'
 import { useUIStore } from '@/stores/ui'
+import { useCardNavigation } from '@/composables/useCardNavigation.js'
 import collator from '@/utils/collator.js'
 
 defineProps({
@@ -400,21 +401,21 @@ const isModalVisible = ref(false)
 const selectedCardData = ref(null)
 const linkedCardsDetails = ref([])
 
-const selectedCardIndex = computed(() => {
-  if (!selectedCardData.value) return -1
-  return deckCards.value.findIndex((c) => c.id === selectedCardData.value.id)
-})
+const { selectedCardIndex, getPrevCard, getNextCard } = useCardNavigation(
+  deckCards,
+  selectedCardData
+)
 
 const onPrevCard = () => {
-  if (selectedCardIndex.value > 0) {
-    const prevCard = deckCards.value[selectedCardIndex.value - 1]
+  const prevCard = getPrevCard()
+  if (prevCard) {
     handleShowNewCard({ card: prevCard })
   }
 }
 
 const onNextCard = () => {
-  if (selectedCardIndex.value < deckCards.value.length - 1) {
-    const nextCard = deckCards.value[selectedCardIndex.value + 1]
+  const nextCard = getNextCard()
+  if (nextCard) {
     handleShowNewCard({ card: nextCard })
   }
 }
