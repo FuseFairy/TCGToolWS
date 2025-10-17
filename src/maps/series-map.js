@@ -303,4 +303,8 @@ export const seriesMap = {
     id: 'ks',
     prefixes: ['KS', 'Sks'],
   },
+  'ViVid Strike!': {
+    id: 'vs',
+    prefixes: ['VS'],
+  },
 }
