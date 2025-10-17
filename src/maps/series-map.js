@@ -397,4 +397,8 @@ export const seriesMap = {
     id: 'kmd',
     prefixes: ['KMD'],
   },
+  '绯染天空': {
+    id: 'hbr',
+    prefixes: ['HBR', 'Khb', 'Hab'],
+  },
 }
