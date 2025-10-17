@@ -476,4 +476,8 @@ export const seriesMap = {
     id: 'ayt',
     prefixes: ['AYT'],
   },
+  '碧蓝档案': {
+    id: 'bav',
+    prefixes: ['BAV'],
+  },
 }
