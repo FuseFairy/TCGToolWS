@@ -48,6 +48,7 @@
       @close="isModalVisible = false"
       @show-new-card="onShowNewCard"
       @prev-card="onPrevCard"
+      @load-more="load({ done: () => {} })"
       @next-card="onNextCard"
     />
   </v-dialog>

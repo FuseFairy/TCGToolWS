@@ -17,59 +17,60 @@
       :style="{ overflow: $vuetify.display.mdAndUp ? 'hidden' : 'visible' }"
     >
       <div
-        class="flex-shrink-0 d-flex flex-column justify-center pa-4"
+        class="image-container flex-shrink-0 d-flex flex-column justify-center pa-4"
         :style="{
           width: $vuetify.display.mdAndUp ? '40%' : '100%',
           maxWidth: '400px',
           alignSelf: 'center',
+          position: 'relative',
         }"
       >
-        <v-window v-model="cardIndex" class="w-100" :show-arrows="!$vuetify.display.mdAndUp">
-          <template #prev="{ props: prevProps }">
-            <v-btn
-              variant="tonal"
-              icon="mdi-chevron-left"
-              v-bind="prevProps"
-              @click="emit('prev-card')"
-              :disabled="cardIndex === 0"
-            ></v-btn>
+        <v-img
+          :src="props.imgUrl"
+          :alt="props.card.name"
+          rounded="5md"
+          cover
+          :aspect-ratio="400 / 559"
+          :max-width="400"
+          lazy-src="/empty-placehold.webp"
+        >
+          <template #placeholder>
+            <div class="d-flex align-center justify-center fill-height">
+              <v-progress-circular color="grey-lighten-4" indeterminate></v-progress-circular>
+            </div>
           </template>
-          <template #next="{ props: nextProps }">
-            <v-btn
-              variant="tonal"
-              icon="mdi-chevron-right"
-              v-bind="nextProps"
-              @click="emit('next-card')"
-              :disabled="cardIndex === totalCards - 1"
-            ></v-btn>
-          </template>
-          <v-window-item v-for="n in totalCards" :key="n">
+          <template #error>
             <v-img
-              :src="props.imgUrl"
-              :alt="props.card.name"
+              src="/placehold.webp"
+              :aspect-ratio="400 / 559"
               rounded="5md"
               cover
-              :aspect-ratio="400 / 559"
               :max-width="400"
-              lazy-src="/empty-placehold.webp"
-            >
-              <template #placeholder>
-                <div class="d-flex align-center justify-center fill-height">
-                  <v-progress-circular color="grey-lighten-4" indeterminate></v-progress-circular>
-                </div>
-              </template>
-              <template #error>
-                <v-img
-                  src="/placehold.webp"
-                  :aspect-ratio="400 / 559"
-                  rounded="5md"
-                  cover
-                  :max-width="400"
-                />
-              </template>
-            </v-img>
-          </v-window-item>
-        </v-window>
+            />
+          </template>
+        </v-img>
+        <div
+          v-if="!$vuetify.display.mdAndUp"
+          class="d-flex justify-space-between align-center"
+          style="position: absolute; width: 100%; top: 50%; transform: translateY(-50%); padding: 0 20px; pointer-events: none;"
+        >
+          <v-btn
+            icon="mdi-chevron-left"
+            variant="tonal"
+            class="nav-button-sm"
+            @click="emit('prev-card')"
+            :disabled="cardIndex === 0"
+            style="pointer-events: auto;"
+          ></v-btn>
+          <v-btn
+            icon="mdi-chevron-right"
+            variant="tonal"
+            class="nav-button-sm"
+            @click="handleNextCard"
+            :disabled="cardIndex === totalCards - 1"
+            style="pointer-events: auto;"
+          ></v-btn>
+        </div>
         <div>
           <v-card-actions
             v-if="props.showActions"
@@ -182,12 +183,12 @@
 </template>
 
 <script setup>
-import { computed, ref, watch } from 'vue'
+import { computed } from 'vue'
 import LinkedCard from './LinkedCard.vue'
 import DOMPurify from 'dompurify'
 import { useDeckStore } from '@/stores/deck'
 
-const emit = defineEmits(['close', 'show-new-card', 'update:cardIndex', 'prev-card', 'next-card'])
+const emit = defineEmits(['close', 'show-new-card', 'prev-card', 'next-card', 'load-more'])
 
 const props = defineProps({
   card: { type: Object, required: true },
@@ -214,16 +215,12 @@ const handleShowNewCard = (payload) => {
   emit('show-new-card', payload)
 }
 
-const cardIndex = ref(props.cardIndex)
-watch(
-  () => props.cardIndex,
-  (newVal) => {
-    cardIndex.value = newVal
+const handleNextCard = () => {
+  if (props.cardIndex >= props.totalCards - 5) {
+    emit('load-more')
   }
-)
-watch(cardIndex, (newVal) => {
-  emit('update:cardIndex', newVal)
-})
+  emit('next-card')
+}
 </script>
 
 <style scoped>
@@ -255,5 +252,10 @@ watch(cardIndex, (newVal) => {
 
 .nav-button-right {
   right: -60px;
+}
+
+.nav-button-sm {
+  background-color: rgba(0, 0, 0, 0.6) !important;
+  color: white !important;
 }
 </style>
