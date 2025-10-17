@@ -319,4 +319,8 @@ export const seriesMap = {
     id: 'shs',
     prefixes: ['SHS', 'Fsh'],
   },
+  'Summer Pockets': {
+    id: 'smp',
+    prefixes: ['SMP', 'Ksm'],
+  },
 }
