@@ -468,4 +468,8 @@ export const seriesMap = {
     id: 'yhn',
     prefixes: ['YHN'],
   },
+  '机甲爱丽丝': {
+    id: 'ags',
+    prefixes: ['AGS'],
+  },
 }
