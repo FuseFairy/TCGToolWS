@@ -20,8 +20,19 @@ export function useInfiniteScrollState({
 }) {
   let watcher = null
 
+  const saveState = () => {
+    if (scrollRef.value) {
+      const stateToSave = onSave()
+      if (stateToSave) {
+        sessionStorage.setItem(storageKey.value, JSON.stringify(stateToSave))
+      }
+    }
+  }
+
   onMounted(() => {
     const key = storageKey.value
+
+    window.addEventListener('beforeunload', saveState)
 
     const tryRestore = () => {
       const savedStateJSON = sessionStorage.getItem(key)
@@ -57,15 +68,14 @@ export function useInfiniteScrollState({
     } else {
       tryRestore()
     }
+
+    onUnmounted(() => {
+      window.removeEventListener('beforeunload', saveState)
+    })
   })
 
-  onBeforeRouteLeave((to, from) => {
-    if (scrollRef.value) {
-      const stateToSave = onSave()
-      if (stateToSave) {
-        sessionStorage.setItem(storageKey.value, JSON.stringify(stateToSave))
-      }
-    }
+  onBeforeRouteLeave(() => {
+    saveState()
   })
 
   onUnmounted(() => {
