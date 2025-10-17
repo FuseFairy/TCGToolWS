@@ -311,4 +311,8 @@ export const seriesMap = {
     id: 'kmn',
     prefixes: ['KMN'],
   },
+  '雏逻辑～from Luck & Logic～': {
+    id: 'hll',
+    prefixes: ['HLL'],
+  },
 }
