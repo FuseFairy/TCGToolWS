@@ -464,4 +464,8 @@ export const seriesMap = {
       'Gyf',
     ],
   },
+  '幻日夜羽 -镜中晖光-': {
+    id: 'yhn',
+    prefixes: ['YHN'],
+  },
 }
