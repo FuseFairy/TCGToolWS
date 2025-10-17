@@ -1,0 +1,56 @@
+{
+  "DG/SE17-P01": {
+    "name": "ディスガイア Ｄ２",
+    "product_name": "PRカード【Sサイド】",
+    "type": "事件卡",
+    "level": 3,
+    "power": "-",
+    "cost": 3,
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "你选择自己的2个角色横置。横置2个的话，给对手造成X点伤害。X是那些角色的等级合计。（发生伤害取消）",
+    "all_cards": [
+      {
+        "id": "DG/SE17-P01",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DG/SE17-P02": {
+    "name": "強大な魔力の持ち主 エトナ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["悪魔", "武器"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你的角色全部是《プリニー》或卡名含有「エトナ」的角色的话，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "DG/SE17-P02",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DG/SE17-P03": {
+    "name": "魔王と愉快な仲間達",
+    "product_name": "PRカード【Sサイド】",
+    "type": "事件卡",
+    "level": 3,
+    "power": "-",
+    "cost": 4,
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "你可以选择自己的2张手牌放置到休息室。这样做的话，你执行以下行动2次。『给对手造成2点伤害。』（发生伤害取消）",
+    "all_cards": [
+      {
+        "id": "DG/SE17-P03",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

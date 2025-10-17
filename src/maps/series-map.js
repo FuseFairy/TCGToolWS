@@ -492,4 +492,8 @@ export const seriesMap = {
     id: 'va',
     prefixes: ['VA'],
   },
+  '魔界战记': {
+    id: 'dg',
+    prefixes: ['DG'],
+  },
 }

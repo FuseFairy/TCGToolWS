@@ -1,0 +1,146 @@
+{
+  "DG/SE08-46": {
+    "name": "地獄の反逆者",
+    "product_name": "PRカード【Sサイド】",
+    "type": "事件卡",
+    "level": 3,
+    "power": "-",
+    "cost": 3,
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "给对手造成5点伤害。（发生伤害取消）",
+    "all_cards": [
+      {
+        "id": "DG/SE08-46",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DG/SE08-47": {
+    "name": "プレネールさん",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["人形"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你没有其他角色的话，这张卡的战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "DG/SE08-47",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DG/SE08-48": {
+    "name": "史上最弱の主人公 プリニー",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4000,
+    "cost": 0,
+    "trait": ["プリニー", "武器"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】[(2)] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的卡组找至多1张《プリニー》的角色卡展示给对手后加入手牌。卡组洗切。",
+    "all_cards": [
+      {
+        "id": "DG/SE08-48",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DG/SE08-49": {
+    "name": "パーソナリティ フーカ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8500,
+    "cost": 1,
+    "trait": ["プリニー", "死"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "DG/SE08-49",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DG/SE08-50": {
+    "name": "“スッポンパワー”フーカ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["プリニー", "死"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "DG/SE08-50",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DG/SE08-51": {
+    "name": "仙丹で回復中 フーカ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["プリニー", "死"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，你的全部角色在那个回合中，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "DG/SE08-51",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DG/SE08-52": {
+    "name": "夢の中でも奮闘中 フーカ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["プリニー", "死"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你其他《プリニー》的角色有2个以上的话，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "DG/SE08-52",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "DG/SE08-53": {
+    "name": "魔界戦記ディスガイア４×日本一RADIO",
+    "product_name": "PRカード【Sサイド】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "DG/SE08-53",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
