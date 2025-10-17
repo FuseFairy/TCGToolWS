@@ -373,4 +373,8 @@ export const seriesMap = {
     id: 'ccs',
     prefixes: ['CCS'],
   },
+  '五等分的新娘': {
+    id: '5hy',
+    prefixes: ['5HY'],
+  },
 }
