@@ -405,4 +405,8 @@ export const seriesMap = {
     id: 'uma',
     prefixes: ['UMA'],
   },
+  '孤独摇滚': {
+    id: 'btr',
+    prefixes: ['BTR'],
+  },
 }
