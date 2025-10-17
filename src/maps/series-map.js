@@ -377,4 +377,8 @@ export const seriesMap = {
     id: '5hy',
     prefixes: ['5HY'],
   },
+  '租借女友': {
+    id: 'knk',
+    prefixes: ['KNK'],
+  },
 }
