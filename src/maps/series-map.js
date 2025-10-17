@@ -480,4 +480,8 @@ export const seriesMap = {
     id: 'bav',
     prefixes: ['BAV'],
   },
+  '学园偶像大师': {
+    id: 'gim',
+    prefixes: ['GIM'],
+  },
 }
