@@ -2,7 +2,7 @@
   <v-card
     class="d-flex flex-column w-100"
     style="position: relative"
-    :class="{ 'overflow-y-auto themed-scrollbar': !$vuetify.display.mdAndUp }"
+    :class="{ 'overflow-y-auto themed-scrollbar': !$vuetify.display.mdAndUp, 'overflow-visible': $vuetify.display.mdAndUp }"
   >
     <v-btn
       icon="mdi-close"
@@ -12,10 +12,7 @@
       @click="emit('close')"
     ></v-btn>
 
-    <v-card-text
-      class="pa-0 d-flex flex-column flex-md-row"
-      :style="{ overflow: $vuetify.display.mdAndUp ? 'hidden' : 'visible' }"
-    >
+    <v-card-text class="pa-0 d-flex flex-column flex-md-row">
       <div
         class="image-container flex-shrink-0 d-flex flex-column justify-center pa-4"
         :style="{
