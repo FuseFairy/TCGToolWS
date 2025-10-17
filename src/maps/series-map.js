@@ -385,4 +385,8 @@ export const seriesMap = {
     id: 'prd',
     prefixes: ['PRD'],
   },
+  '成神之日': {
+    id: 'dbg',
+    prefixes: ['DBG', 'Kdb'],
+  },
 }
