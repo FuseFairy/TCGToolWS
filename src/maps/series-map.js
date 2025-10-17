@@ -369,4 +369,8 @@ export const seriesMap = {
     id: 'sby',
     prefixes: ['SBY', 'Gby'],
   },
+  '魔卡少女樱': {
+    id: 'ccs',
+    prefixes: ['CCS'],
+  },
 }
