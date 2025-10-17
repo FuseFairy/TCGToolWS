@@ -1,0 +1,20 @@
+{
+  "Gaw/WS02-P15": {
+    "name": "《黒の王》",
+    "product_name": "PRカード【Sサイド】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/bounce.webp\">：这张卡被触发时，你可以选择对手的1个角色，使其返回手牌）",
+    "all_cards": [
+      {
+        "id": "Gaw/WS02-P15",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

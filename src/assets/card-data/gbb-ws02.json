@@ -1,0 +1,24 @@
+{
+  "Gbb/WS02-090": {
+    "name": "天童民間警備会社",
+    "product_name": "電撃文庫",
+    "type": "角色卡",
+    "level": 0,
+    "power": 4000,
+    "cost": 0,
+    "trait": ["電撃文庫", "民間警備会社", "武器"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你不能从手牌中使用事件卡或『助太刀』。",
+    "all_cards": [
+      {
+        "id": "Gbb/WS02-090",
+        "rarity": "U"
+      },
+      {
+        "id": "Gbb/WS02-090S",
+        "rarity": "SR"
+      }
+    ]
+  }
+}

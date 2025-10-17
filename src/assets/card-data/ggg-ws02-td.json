@@ -1,0 +1,24 @@
+{
+  "Ggg/WS02-T23": {
+    "name": "Anniversary レン",
+    "product_name": "[TD]電撃文庫 シュヴァルツサイド",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["電撃文庫", "アバター", "武器"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你的回合中，这张卡的战斗力+1000。<br/>【自】这张卡造成的伤害没有被取消时，那个回合中，这张卡的战斗力+6000。",
+    "all_cards": [
+      {
+        "id": "Ggg/WS02-T23",
+        "rarity": "TD"
+      },
+      {
+        "id": "Ggg/WS02-T23R",
+        "rarity": "RRR"
+      }
+    ]
+  }
+}

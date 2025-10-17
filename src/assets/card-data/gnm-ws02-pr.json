@@ -1,0 +1,20 @@
+{
+  "Gnm/WS02-P09": {
+    "name": "電撃文庫30周年記念 ナナオ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 4000,
+    "cost": 0,
+    "trait": ["電撃文庫", "魔法", "武器"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你不能从手牌中使用事件卡或『助太刀』。",
+    "all_cards": [
+      {
+        "id": "Gnm/WS02-P09",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
