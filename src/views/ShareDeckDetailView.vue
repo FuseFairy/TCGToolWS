@@ -260,6 +260,11 @@ const isSaveDialogOpen = ref(false)
 const deckName = ref('')
 const selectedCoverCardId = ref(null)
 
+const flattenedDisplayCards = computed(() => {
+  const cardGroups = Array.from(groupedCards.value.values())
+  return cardGroups.flat()
+})
+
 const openSaveDialog = () => {
   if (!authStore.isAuthenticated) {
     isAuthAlertOpen.value = true
@@ -374,7 +379,7 @@ const selectedCardData = ref(null)
 const linkedCardsDetails = ref([])
 
 const { selectedCardIndex, getPrevCard, getNextCard } = useCardNavigation(
-  deckCards,
+  flattenedDisplayCards,
   selectedCardData
 )
 

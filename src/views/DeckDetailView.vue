@@ -230,6 +230,11 @@ const groupByOptions = [
 const deckCards = computed(() => Object.values(cards.value))
 const { groupedCards } = useDeckGrouping(deckCards, groupBy)
 
+const flattenedDisplayCards = computed(() => {
+  const cardGroups = Array.from(groupedCards.value.values())
+  return cardGroups.flat()
+})
+
 const colorMap = {
   red: '红色',
   blue: '蓝色',
@@ -276,7 +281,7 @@ const selectedCardData = ref(null)
 const linkedCardsDetails = ref([])
 
 const { selectedCardIndex, getPrevCard, getNextCard } = useCardNavigation(
-  deckCards,
+  flattenedDisplayCards,
   selectedCardData
 )
 
