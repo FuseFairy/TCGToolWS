@@ -381,4 +381,8 @@ export const seriesMap = {
     id: 'knk',
     prefixes: ['KNK'],
   },
+  '公主连结！Re:Dive': {
+    id: 'prd',
+    prefixes: ['PRD'],
+  },
 }
