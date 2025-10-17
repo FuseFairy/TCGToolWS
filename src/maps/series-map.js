@@ -389,4 +389,8 @@ export const seriesMap = {
     id: 'dbg',
     prefixes: ['DBG', 'Kdb'],
   },
+  '佐贺偶像是传奇 卷土重来': {
+    id: 'zls',
+    prefixes: ['ZLS'],
+  },
 }
