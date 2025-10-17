@@ -323,4 +323,8 @@ export const seriesMap = {
     id: 'smp',
     prefixes: ['SMP', 'Ksm'],
   },
+  '摇曳庄的幽奈小姐': {
+    id: 'yys',
+    prefixes: ['YYS'],
+  },
 }
