@@ -484,4 +484,8 @@ export const seriesMap = {
     id: 'gim',
     prefixes: ['GIM'],
   },
+  '败犬女主太多了！': {
+    id: 'mki',
+    prefixes: ['MKI'],
+  },
 }
