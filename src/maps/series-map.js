@@ -496,4 +496,8 @@ export const seriesMap = {
     id: 'dg',
     prefixes: ['DG'],
   },
+  '光明之响': {
+    id: 'sr',
+    prefixes: ['SE', 'SF', 'SR'],
+  },
 }

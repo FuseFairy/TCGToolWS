@@ -1,0 +1,74 @@
+{
+  "SE/S04-104": {
+    "name": "シリル＆アミタリリ＆ファークリン",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4000,
+    "cost": 1,
+    "trait": ["魔法"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你其他全部《武器》的角色，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "SE/S04-104",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SE/S04-106": {
+    "name": "そっけないシリル",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["魔法", "本"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "SE/S04-106",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SE/S04-107": {
+    "name": "本好きの少女シリル",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["魔法", "本"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你每有1个其他的《本》的角色，这张卡的战斗力+500。",
+    "all_cards": [
+      {
+        "id": "SE/S04-107",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SE/S04-108": {
+    "name": "“呼び合う心”トウマ＆シリル",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 1,
+    "trait": ["武器", "本"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【起】[(1)] 那个回合中，这张卡的灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "SE/S04-108",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
