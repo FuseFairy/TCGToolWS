@@ -401,4 +401,8 @@ export const seriesMap = {
     id: 'hbr',
     prefixes: ['HBR', 'Khb', 'Hab'],
   },
+  '赛马娘 Pretty Derby': {
+    id: 'uma',
+    prefixes: ['UMA'],
+  },
 }
