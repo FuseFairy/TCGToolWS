@@ -472,4 +472,8 @@ export const seriesMap = {
     id: 'ags',
     prefixes: ['AGS'],
   },
+  '妖幻三重奏': {
+    id: 'ayt',
+    prefixes: ['AYT'],
+  },
 }
