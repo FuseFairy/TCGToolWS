@@ -315,4 +315,8 @@ export const seriesMap = {
     id: 'hll',
     prefixes: ['HLL'],
   },
+  '路人女主的养成方法': {
+    id: 'shs',
+    prefixes: ['SHS', 'Fsh'],
+  },
 }
