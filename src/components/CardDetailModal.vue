@@ -49,28 +49,6 @@
             />
           </template>
         </v-img>
-        <div
-          v-if="!$vuetify.display.mdAndUp"
-          class="d-flex justify-space-between align-center"
-          style="position: absolute; width: 100%; top: 50%; transform: translateY(-50%); padding: 0 20px; pointer-events: none;"
-        >
-          <v-btn
-            icon="mdi-chevron-left"
-            variant="tonal"
-            class="nav-button-sm"
-            @click="emit('prev-card')"
-            :disabled="cardIndex === 0"
-            style="pointer-events: auto;"
-          ></v-btn>
-          <v-btn
-            icon="mdi-chevron-right"
-            variant="tonal"
-            class="nav-button-sm"
-            @click="handleNextCard"
-            :disabled="cardIndex === totalCards - 1"
-            style="pointer-events: auto;"
-          ></v-btn>
-        </div>
         <div>
           <v-card-actions
             v-if="props.showActions"
@@ -164,7 +142,6 @@
       </div>
     </v-card-text>
     <v-btn
-      v-if="$vuetify.display.mdAndUp"
       icon="mdi-chevron-left"
       variant="tonal"
       class="nav-button-left"
@@ -172,11 +149,10 @@
       :disabled="cardIndex === 0"
     ></v-btn>
     <v-btn
-      v-if="$vuetify.display.mdAndUp"
       icon="mdi-chevron-right"
       variant="tonal"
       class="nav-button-right"
-      @click="emit('next-card')"
+      @click="handleNextCard"
       :disabled="cardIndex === totalCards - 1"
     ></v-btn>
   </v-card>
@@ -247,11 +223,21 @@ const handleNextCard = () => {
 }
 
 .nav-button-left {
-  left: -60px;
+  left: 12px;
 }
 
 .nav-button-right {
-  right: -60px;
+  right: 12px;
+}
+
+@media (min-width: 960px) {
+  .nav-button-left {
+    left: -60px;
+  }
+
+  .nav-button-right {
+    right: -60px;
+  }
 }
 
 .nav-button-sm {
