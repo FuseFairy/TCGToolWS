@@ -1,0 +1,20 @@
+{
+  "VA/WE30-55": {
+    "name": "鬼召集！",
+    "product_name": "ダ・カーポ vs リトルバスターズ！",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "-",
+    "soul": "-",
+    "effect": "SECRET",
+    "all_cards": [
+      {
+        "id": "VA/WE30-55",
+        "rarity": "SEC"
+      }
+    ]
+  }
+}

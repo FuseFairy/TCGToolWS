@@ -488,4 +488,8 @@ export const seriesMap = {
     id: 'mki',
     prefixes: ['MKI'],
   },
+  'Visual Arts': {
+    id: 'va',
+    prefixes: ['VA'],
+  },
 }
