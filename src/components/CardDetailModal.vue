@@ -24,30 +24,52 @@
           alignSelf: 'center',
         }"
       >
-        <v-img
-          :src="props.imgUrl"
-          :alt="props.card.name"
-          rounded="5md"
-          cover
-          :aspect-ratio="400 / 559"
-          :max-width="400"
-          lazy-src="/empty-placehold.webp"
-        >
-          <template #placeholder>
-            <div class="d-flex align-center justify-center fill-height">
-              <v-progress-circular color="grey-lighten-4" indeterminate></v-progress-circular>
-            </div>
+        <v-window v-model="cardIndex" class="w-100" :show-arrows="!$vuetify.display.mdAndUp">
+          <template #prev="{ props: prevProps }">
+            <v-btn
+              variant="tonal"
+              icon="mdi-chevron-left"
+              v-bind="prevProps"
+              @click="emit('prev-card')"
+              :disabled="cardIndex === 0"
+            ></v-btn>
           </template>
-          <template #error>
+          <template #next="{ props: nextProps }">
+            <v-btn
+              variant="tonal"
+              icon="mdi-chevron-right"
+              v-bind="nextProps"
+              @click="emit('next-card')"
+              :disabled="cardIndex === totalCards - 1"
+            ></v-btn>
+          </template>
+          <v-window-item v-for="n in totalCards" :key="n">
             <v-img
-              src="/placehold.webp"
-              :aspect-ratio="400 / 559"
+              :src="props.imgUrl"
+              :alt="props.card.name"
               rounded="5md"
               cover
+              :aspect-ratio="400 / 559"
               :max-width="400"
-            />
-          </template>
-        </v-img>
+              lazy-src="/empty-placehold.webp"
+            >
+              <template #placeholder>
+                <div class="d-flex align-center justify-center fill-height">
+                  <v-progress-circular color="grey-lighten-4" indeterminate></v-progress-circular>
+                </div>
+              </template>
+              <template #error>
+                <v-img
+                  src="/placehold.webp"
+                  :aspect-ratio="400 / 559"
+                  rounded="5md"
+                  cover
+                  :max-width="400"
+                />
+              </template>
+            </v-img>
+          </v-window-item>
+        </v-window>
         <div>
           <v-card-actions
             v-if="props.showActions"
@@ -140,16 +162,32 @@
         </div>
       </div>
     </v-card-text>
+    <v-btn
+      v-if="$vuetify.display.mdAndUp"
+      icon="mdi-chevron-left"
+      variant="tonal"
+      class="nav-button-left"
+      @click="emit('prev-card')"
+      :disabled="cardIndex === 0"
+    ></v-btn>
+    <v-btn
+      v-if="$vuetify.display.mdAndUp"
+      icon="mdi-chevron-right"
+      variant="tonal"
+      class="nav-button-right"
+      @click="emit('next-card')"
+      :disabled="cardIndex === totalCards - 1"
+    ></v-btn>
   </v-card>
 </template>
 
 <script setup>
-import { computed } from 'vue'
+import { computed, ref, watch } from 'vue'
 import LinkedCard from './LinkedCard.vue'
 import DOMPurify from 'dompurify'
 import { useDeckStore } from '@/stores/deck'
 
-const emit = defineEmits(['close', 'show-new-card'])
+const emit = defineEmits(['close', 'show-new-card', 'update:cardIndex', 'prev-card', 'next-card'])
 
 const props = defineProps({
   card: { type: Object, required: true },
@@ -157,6 +195,8 @@ const props = defineProps({
   linkedCards: { type: Array, default: () => [] },
   isLoadingLinks: { type: Boolean, default: false },
   showActions: { type: Boolean, default: false },
+  cardIndex: { type: Number, default: 0 },
+  totalCards: { type: Number, default: 1 },
 })
 
 const deckStore = useDeckStore()
@@ -173,6 +213,17 @@ const formattedEffect = computed(() => {
 const handleShowNewCard = (payload) => {
   emit('show-new-card', payload)
 }
+
+const cardIndex = ref(props.cardIndex)
+watch(
+  () => props.cardIndex,
+  (newVal) => {
+    cardIndex.value = newVal
+  }
+)
+watch(cardIndex, (newVal) => {
+  emit('update:cardIndex', newVal)
+})
 </script>
 
 <style scoped>
@@ -187,5 +238,22 @@ const handleShowNewCard = (payload) => {
   z-index: 15;
   background-color: rgba(0, 0, 0, 0.6) !important;
   color: white !important;
+}
+
+.nav-button-left,
+.nav-button-right {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.6) !important;
+  color: white !important;
+}
+
+.nav-button-left {
+  left: -60px;
+}
+
+.nav-button-right {
+  right: -60px;
 }
 </style>

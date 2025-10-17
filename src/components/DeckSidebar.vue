@@ -144,8 +144,12 @@
       :imgUrl="modalCardImageUrl"
       :linkedCards="linkedCardsDetails"
       :showActions="true"
+      :card-index="selectedCardIndex"
+      :total-cards="deckCards.length"
       @close="isModalVisible = false"
       @show-new-card="handleShowNewCard"
+      @prev-card="onPrevCard"
+      @next-card="onNextCard"
     />
   </v-dialog>
 
@@ -395,6 +399,25 @@ const isModalVisible = ref(false)
 // Card Data for Modal
 const selectedCardData = ref(null)
 const linkedCardsDetails = ref([])
+
+const selectedCardIndex = computed(() => {
+  if (!selectedCardData.value) return -1
+  return deckCards.value.findIndex((c) => c.id === selectedCardData.value.id)
+})
+
+const onPrevCard = () => {
+  if (selectedCardIndex.value > 0) {
+    const prevCard = deckCards.value[selectedCardIndex.value - 1]
+    handleShowNewCard({ card: prevCard })
+  }
+}
+
+const onNextCard = () => {
+  if (selectedCardIndex.value < deckCards.value.length - 1) {
+    const nextCard = deckCards.value[selectedCardIndex.value + 1]
+    handleShowNewCard({ card: nextCard })
+  }
+}
 
 const modalCardImageUrl = computed(() => {
   if (selectedCardData.value) {

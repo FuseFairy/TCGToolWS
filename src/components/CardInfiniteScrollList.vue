@@ -43,8 +43,12 @@
       :linked-cards="selectedLinkedCards"
       :is-loading-links="isLoadingLinks"
       :showActions="true"
+      :card-index="selectedCardIndex"
+      :total-cards="displayedCards.length"
       @close="isModalVisible = false"
       @show-new-card="onShowNewCard"
+      @prev-card="onPrevCard"
+      @next-card="onNextCard"
     />
   </v-dialog>
 
@@ -77,6 +81,7 @@ import { useTheme, useDisplay } from 'vuetify'
 import CardTemplate from '@/components/CardTemplate.vue'
 import CardDetailModal from '@/components/CardDetailModal.vue'
 import { fetchCardsByBaseIdAndPrefix } from '@/utils/card'
+import { useCardImage } from '@/composables/useCardImage.js'
 import WsIcon from '@/assets/ui/ws-icon.svg'
 import collator from '@/utils/collator.js'
 
@@ -113,6 +118,25 @@ const isModalVisible = ref(false)
 const selectedCardData = ref(null)
 const selectedLinkedCards = ref([])
 const isLoadingLinks = ref(false)
+
+const selectedCardIndex = computed(() => {
+  if (!selectedCardData.value) return -1
+  return displayedCards.value.findIndex((c) => c.id === selectedCardData.value.card.id)
+})
+
+const onPrevCard = () => {
+  if (selectedCardIndex.value > 0) {
+    const prevCard = displayedCards.value[selectedCardIndex.value - 1]
+    onShowDetails({ card: prevCard, imageUrl: useCardImage(prevCard.cardIdPrefix, prevCard.id).value })
+  }
+}
+
+const onNextCard = () => {
+  if (selectedCardIndex.value < displayedCards.value.length - 1) {
+    const nextCard = displayedCards.value[selectedCardIndex.value + 1]
+    onShowDetails({ card: nextCard, imageUrl: useCardImage(nextCard.cardIdPrefix, nextCard.id).value })
+  }
+}
 
 const fetchLinkedCards = async (card) => {
   if (!card?.link || card.link.length === 0) {
