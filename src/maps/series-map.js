@@ -295,4 +295,8 @@ export const seriesMap = {
     id: 'gu',
     prefixes: ['GU'],
   },
+  '卡牌游戏西柚子': {
+    id: 'cgs',
+    prefixes: ['CGS', 'SI'],
+  },
 }

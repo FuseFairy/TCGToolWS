@@ -1,0 +1,744 @@
+{
+  "CGS/WS01-P01": {
+    "name": "気になるタイトル続々参戦！",
+    "product_name": "PRカード【WSサイド】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你将自己的卡组和休息室的卡全部从游戏中除外，将与那个卡组系列不同的新卡组放置到卡组区，游戏继续进行。那个回合中，旧卡组的卡放置到休息室时，将其除外。<br/><font color=\"crimson\">※这张卡在官方、公认比赛中不能使用。</font>",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P01",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P02": {
+    "name": "しろくろフェス2016 しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["カードゲーム", "和服"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你没有其他前列的角色的话，这张卡的战斗力+1500。<br>【自】对手的攻击阶段开始时，你可以将这张卡移动到前列中央没有角色的位置。",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P02",
+        "rarity": "PR"
+      },
+      {
+        "id": "CGS/WS01-P02aSP",
+        "rarity": "PR"
+      },
+      {
+        "id": "CGS/WS01-P02bSP",
+        "rarity": "PR"
+      },
+      {
+        "id": "CGS/WS01-P02cSP",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P03": {
+    "name": "酉年 しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 3,
+    "power": 9500,
+    "cost": 2,
+    "trait": ["カードゲーム", "和服"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【永】你有其他《カードゲーム》的角色的话，这张卡的战斗力+1500。<br>【自】这张卡从手牌放置到舞台时，你公开自己卡组顶1张卡。那张卡是《カードゲーム》的角色卡的话，你可以给对手造成1点伤害。（发生伤害取消。公开的卡放回原处）<br>【自】[(1)] 这张卡等级2以上的战斗对手倒置时，你可以支付费用。支付了的话，你从自己的休息室选择1张角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P03",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P04": {
+    "name": "しろくろフェス2017 しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 0,
+    "trait": ["カードゲーム", "巫女"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这个能力1回合至多发动1次。你使用【起】效果时，那个回合中，这张卡的战斗力+1500。<br>【自】战斗中这张卡倒置时，你将这张卡放置到卡组底。",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P04",
+        "rarity": "PR"
+      },
+      {
+        "id": "CGS/WS01-P04a",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P05": {
+    "name": "“阿形”狛犬 しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["カードゲーム", "動物"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】对手的回合中，后列右侧有这张卡，你有其他「“吽形”狛犬 しよ子」的话，你其他全部角色，战斗力+500。<br>【起】集中 [(1) 这张卡横置] 你将自己卡组顶4张卡放置到休息室。那些卡中每有1张高潮卡，你从自己的卡组找至多1张《カードゲーム》的角色卡展示给对手后加入手牌，卡组洗切。",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P05",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P06": {
+    "name": "“吽形”狛犬 しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["カードゲーム", "動物"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你的回合中，后列左侧有这张卡，你有其他「“阿形”狛犬 しよ子」的话，你其他全部角色，战斗力+500。<br>【起】[这张卡横置] 你选择自己1个《カードゲーム》的角色，那个回合中，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P06",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P07": {
+    "name": "御祈願 しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 0,
+    "trait": ["カードゲーム", "和服"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你可以念你的愿望。这样做的话，你每天努力实现那个愿望。<br><font color=\"crimson\">※这张卡在官方、公认比赛中不能使用。</font>",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P07",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P08": {
+    "name": "鳥居 しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8500,
+    "cost": 1,
+    "trait": ["カードゲーム", "門"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】 这扇门被破坏时，你将自己卡组顶1张卡放置到费用区。你被破坏的门有4扇以上的话，你从自己的休息室选择1个等级3以下的成员，不付费用出击。<br><font color=\"crimson\">※这张卡在官方、公认比赛中不能使用。</font>",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P08",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P09": {
+    "name": "賽銭 しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["カードゲーム", "銭"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【起】[在店里买1包补充包] 你买的补充包中有SP罕贵的卡的话，你获得《幸運》。<br><font color=\"crimson\">※这张卡在官方、公认比赛中不能使用。</font>",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P09",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P10": {
+    "name": "御神木 しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["カードゲーム", "和服"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，对手有「御神木 しよ子」，所有玩家都同意的话，互相公布自己的名字。你或对手的名字含有「木」的话，所有玩家将自己卡组顶1张卡放置到费用区。（如果公布的信息是假的，那个玩家会被蜜蜂蛰）<br><font color=\"crimson\">※这张卡在官方、公认比赛中不能使用。</font>",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P10",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P11": {
+    "name": "しろくろフェス2018 しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["カードゲーム", "冒険者"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【自】这张卡攻击时，那个回合中，这张卡的战斗力+X。X是你其他《カードゲーム》的角色的数量×500。<br>【自】[(3) 1张手牌放置到休息室] 这个能力1回合至多发动1次。这张卡从手牌放置到舞台的回合中，这张卡的战斗对手倒置时，你可以支付费用。支付了的话，这张卡竖置。",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P11a",
+        "rarity": "PR"
+      },
+      {
+        "id": "CGS/WS01-P11b",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P12": {
+    "name": "戌年 しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["カードゲーム", "和服"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【永】你有「柴犬 しよ子」和「プードル犬 しよ子」的话，你手牌中这张卡的等级-1。<br>【自】这张卡从手牌放置到舞台时，你可以从自己的休息室选择1张《カードゲーム》的角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P12",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P13": {
+    "name": "柴犬 しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["カードゲーム", "動物"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】对手的回合中，你其他全部角色，战斗力+500。<br>【自】[(1)] 你的高潮卡放置到高潮区时，你可以支付费用。支付了的话，你看自己卡组顶至多4张卡，选择至多1张《カードゲーム》的角色卡展示给对手后加入手牌，其余的卡放置到休息室。",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P13",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P14": {
+    "name": "プードル犬 しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["カードゲーム", "動物"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你其他位于前列中央的角色，战斗力+500。<br>【起】集中 [(1) 你的2个角色横置] 你将自己卡组顶4张卡放置到休息室。那些卡中每有1张高潮卡，你从自己的休息室选择至多1张角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P14",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P15": {
+    "name": "ハスキー犬 しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["カードゲーム", "動物"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你有其他「柴犬 しよ子」和「プードル犬 しよ子」的话，这张卡的战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P15",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P16": {
+    "name": "パグ犬 しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6500,
+    "cost": 1,
+    "trait": ["カードゲーム", "動物"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你有其他「柴犬 しよ子」和「プードル犬 しよ子」的话，这张卡的战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P16",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P17": {
+    "name": "交流会しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2500,
+    "cost": 1,
+    "trait": ["カードゲーム", "肉"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】[2张手牌放置到休息室] 你使用这张卡的『助太刀』时，你可以支付费用。支付了的话，你选择对手1个等级比对手等级高的角色放置到休息室。<br>【起】【反击】助太刀2500 等级2 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+2500）",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P17",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P18": {
+    "name": "しろくろフェス2019 しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["カードゲーム", "メガネ"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，你选择自己其他1个《カードゲーム》的角色，那个回合中，战斗力+X。X是你其他《カードゲーム》的角色的数量×500。",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P18",
+        "rarity": "PR"
+      },
+      {
+        "id": "CGS/WS01-P18S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P19": {
+    "name": "しろくろフェス2020 しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["カードゲーム", "軍隊"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】[手牌中1张高潮卡放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张《カードゲーム》的角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P19",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P20": {
+    "name": "ファンアート大賞 しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["カードゲーム", "アート"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】战斗中这张卡倒置时，这张卡的战斗对手的等级是0级以下的话，你可以将那个角色放置到卡组底。",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P20",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P21": {
+    "name": "交流会しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2500,
+    "cost": 1,
+    "trait": ["カードゲーム", "お菓子"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】[2张手牌放置到休息室] 你使用这张卡的『助太刀』时，你可以支付费用。支付了的话，你选择对手1个等级比对手等级高的角色放置到休息室。<br>【起】【反击】助太刀2500 等级2 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+2500）",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P21",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P22": {
+    "name": "しろくろフェス2021 しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["カードゲーム"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】你使用这张卡的『助太刀』时，你有《カードゲーム》的角色的话，你选择自己战斗中的1个角色，那个回合中，战斗力+1000。<br>【起】【反击】助太刀1000 等级1 [手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+1000）",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P22",
+        "rarity": "PR"
+      },
+      {
+        "id": "CGS/WS01-P22S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P23": {
+    "name": "ファンアート大賞2021 しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["カードゲーム", "アート"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P23",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P24": {
+    "name": "congratulations! しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["カードゲーム", "WINNER"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P24a",
+        "rarity": "PR"
+      },
+      {
+        "id": "CGS/WS01-P24b",
+        "rarity": "PR"
+      },
+      {
+        "id": "CGS/WS01-P24c",
+        "rarity": "PR"
+      },
+      {
+        "id": "CGS/WS01-P24d",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P25": {
+    "name": "謹賀新春 2022壬寅",
+    "product_name": "PRカード【WSサイド】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P25",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P26": {
+    "name": "しろくろフェス2022 しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["カードゲーム"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你抽1张卡，选择自己的1张手牌放置到休息室，那个回合中，你其他全部结束，给予《元気》。",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P26",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P27": {
+    "name": "Pop-Up Store in Shanghai しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["カードゲーム"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P27",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P28": {
+    "name": "マスコットガールしよ子ちゃん",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1973,
+    "cost": 0,
+    "trait": ["カードゲーム", "テレビまんが"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【起】[这张卡横置] 对手的全部角色，那个回合中，战斗力-50。",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P28",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P29": {
+    "name": "Shiyoko the Card Gamer",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1933,
+    "cost": 0,
+    "trait": ["カードゲーム", "カートゥーン"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】舞台有这张卡的话，这张卡失去全部颜色，获得不了颜色。<br>【自】这张卡攻击时，你的全部角色在那个回合中，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P29",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P30": {
+    "name": "15周年記念ライブ しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["カードゲーム"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】 前列の中央の枠にこのカードがいるなら、このカードのソウルを＋1。<br/>【自】［① 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P30",
+        "rarity": "PR"
+      },
+      {
+        "id": "CGS/WS01-P30S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P31": {
+    "name": "WORLD GRAND PRIX 2023",
+    "product_name": "PRカード【WSサイド】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br>（<img src=\"/effect-icons/salvage.webp\">：这张卡被触发时，你可以从自己的休息室选择1张角色卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P31",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P34": {
+    "name": "三週年慶祝",
+    "product_name": "PRカード【WSサイド】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P34",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P35": {
+    "name": "しろくろフェス2024 しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 1500,
+    "cost": 1,
+    "trait": ["カードゲーム"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《カードゲーム》のキャラを2枚まで選び、手札に戻す。",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P35",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P36": {
+    "name": "BUSHIROAD CARD FIGHT 2024",
+    "product_name": "PRカード【WSサイド】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。<br/>（<img src=\"/effect-icons/salvage.webp\"/>：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P36",
+        "rarity": "PR"
+      },
+      {
+        "id": "CGS/WS01-P36Sa",
+        "rarity": "PR"
+      },
+      {
+        "id": "CGS/WS01-P36Sb",
+        "rarity": "PR"
+      },
+      {
+        "id": "CGS/WS01-P36Sc",
+        "rarity": "PR"
+      },
+      {
+        "id": "CGS/WS01-P36Sd",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P37": {
+    "name": "謹賀新春 2025乙巳 しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 0,
+    "trait": ["カードゲーム", "蛇"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P37",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "CGS/WS01-P38": {
+    "name": "WORLD GRAND PRIX 2024",
+    "product_name": "PRカード【WSサイド】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。<br/>（<img src=\"/effect-icons/salvage.webp\"/>：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P38EXa",
+        "rarity": "PR+"
+      },
+      {
+        "id": "CGS/WS01-P38EXb",
+        "rarity": "PR+"
+      },
+      {
+        "id": "CGS/WS01-P38EXc",
+        "rarity": "PR+"
+      },
+      {
+        "id": "CGS/WS01-P38EXd",
+        "rarity": "PR+"
+      }
+    ]
+  },
+  "CGS/WS01-P39": {
+    "name": "お月見しよ子",
+    "product_name": "PRカード【WSサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["カードゲーム", "和服"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "CGS/WS01-P39",
+        "rarity": "PR"
+      },
+      {
+        "id": "CGS/WS01-P39S",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

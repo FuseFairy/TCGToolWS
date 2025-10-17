@@ -1,0 +1,164 @@
+{
+  "SI/WPR-001": {
+    "name": "カードゲーム大好き！ しよ子",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["カードゲーム"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "SI/WPR-001",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SI/WPR-002": {
+    "name": "応援しよ子",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["カードゲーム", "鉢巻"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。<br />【起】[这张卡横置] 你选择自己的1个角色，那个回合中，给予《元気》る。",
+    "all_cards": [
+      {
+        "id": "SI/WPR-002",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SI/WPR-003": {
+    "name": "放課後のしよ子",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8500,
+    "cost": 1,
+    "trait": ["カードゲーム"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】このカードの正面のキャラに，给予《カードゲーム》る。",
+    "all_cards": [
+      {
+        "id": "SI/WPR-003",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SI/WPR-004": {
+    "name": "しろくろフェス しよ子",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4000,
+    "cost": 0,
+    "trait": ["カードゲーム", "音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你其他全部《カードゲーム》的角色，战斗力+500。<br />【自】再演 [你卡组顶1张卡放置到时计区] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "SI/WPR-004",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SI/WPR-005": {
+    "name": "しろくろフェス しよ子 2014",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["カードゲーム", "音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】对手的回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "SI/WPR-005",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SI/WPR-006": {
+    "name": "しろくろフェス しよ子 2015",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["カードゲーム", "和服"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你每有1个其他的「しろくろフェス しよ子 2015」，这张卡的等级+1，战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "SI/WPR-006",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SI/WPR-007": {
+    "name": "カードゲーム大好きマンの娘 しよ子",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["カードゲーム", "漫画"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】[(2)] 这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你从自己的休息室选择1张《カードゲーム》的角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "SI/WPR-007",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SI/WPR-008": {
+    "name": "熊狩りしよ子",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7500,
+    "cost": 2,
+    "trait": ["カードゲーム", "漫画"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【自】このカードがフロントアタックした時，你有其他《カードゲーム》的角色的话，那个回合中，这张卡的战斗力+X。Xはこのカードのソウル×1000に等しい。<br/>【自】再演 [手牌中1张角色卡放置到休息室]",
+    "all_cards": [
+      {
+        "id": "SI/WPR-008",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SI/WPR-009": {
+    "name": "謹賀新春 2023癸卯",
+    "product_name": "PRカード【Wサイド】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "SI/WPR-009",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
