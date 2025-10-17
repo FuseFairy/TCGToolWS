@@ -393,4 +393,8 @@ export const seriesMap = {
     id: 'zls',
     prefixes: ['ZLS'],
   },
+  '小林家的龙女仆': {
+    id: 'kmd',
+    prefixes: ['KMD'],
+  },
 }
