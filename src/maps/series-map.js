@@ -307,4 +307,8 @@ export const seriesMap = {
     id: 'vs',
     prefixes: ['VS'],
   },
+  '兽娘动物园': {
+    id: 'kmn',
+    prefixes: ['KMN'],
+  },
 }
