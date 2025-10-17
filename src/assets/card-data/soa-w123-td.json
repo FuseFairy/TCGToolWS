@@ -1,0 +1,24 @@
+{
+  "Soa/W123-T16": {
+    "name": "35th Anniversary 愛理沙",
+    "product_name": "[TD]角川スニーカー文庫 Vol.2",
+    "type": "事件卡",
+    "level": 3,
+    "power": "-",
+    "cost": 2,
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【反击】你没有《スニーカー文庫》的角色的话，这张卡不能从手牌中使用。<br>你选择对手至多2个角色，那个回合中，灵魂值+4，给予以下能力。『【永】这张卡不能侧面攻击。』",
+    "all_cards": [
+      {
+        "id": "Soa/W123-T16",
+        "rarity": "TD"
+      },
+      {
+        "id": "Soa/W123-T16R",
+        "rarity": "RRR"
+      }
+    ]
+  }
+}

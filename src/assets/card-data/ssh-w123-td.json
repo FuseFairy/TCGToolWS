@@ -1,0 +1,24 @@
+{
+  "Ssh/W123-T04": {
+    "name": "35th Anniversary アリス",
+    "product_name": "[TD]角川スニーカー文庫 Vol.2",
+    "type": "角色卡",
+    "level": 1,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["スニーカー文庫", "秘密結社キサラギ", "アンドロイド"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】你其他《スニーカー文庫》的角色攻击时，那个回合中，这张卡的战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "Ssh/W123-T04",
+        "rarity": "TD"
+      },
+      {
+        "id": "Ssh/W123-T04R",
+        "rarity": "RRR"
+      }
+    ]
+  }
+}

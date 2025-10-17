@@ -1,0 +1,24 @@
+{
+  "Ssn/W123-T05": {
+    "name": "35th Anniversary リット",
+    "product_name": "[TD]角川スニーカー文庫 Vol.2",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 1,
+    "trait": ["スニーカー文庫", "加護"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前全部《スニーカー文庫》的角色，战斗力+X。X是那个角色的等级×500。<br>【自】你触发到触发标记含有<img src=\"/effect-icons/soul.webp\">的卡时，你选择自己1个《スニーカー文庫》的角色，那个回合中，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "Ssn/W123-T05",
+        "rarity": "TD"
+      },
+      {
+        "id": "Ssn/W123-T05R",
+        "rarity": "RRR"
+      }
+    ]
+  }
+}

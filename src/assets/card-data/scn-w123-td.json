@@ -1,0 +1,24 @@
+{
+  "Scn/W123-T14": {
+    "name": "35th Anniversary 海",
+    "product_name": "[TD]角川スニーカー文庫 Vol.2",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2500,
+    "cost": 1,
+    "trait": ["スニーカー文庫", "青春"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀3500 等级2 [(1) 手牌中这张卡公开放置到卡组底] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+3500）",
+    "all_cards": [
+      {
+        "id": "Scn/W123-T14",
+        "rarity": "TD"
+      },
+      {
+        "id": "Scn/W123-T14R",
+        "rarity": "RRR"
+      }
+    ]
+  }
+}
