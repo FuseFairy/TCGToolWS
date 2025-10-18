@@ -572,4 +572,8 @@ export const seriesMap = {
     id: 'woo',
     prefixes: ['Woo'],
   },
+  '斩服少女': {
+    id: 'klk',
+    prefixes: ['KLK'],
+  },
 }
