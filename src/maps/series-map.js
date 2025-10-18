@@ -532,4 +532,8 @@ export const seriesMap = {
     id: 'kg',
     prefixes: ['KG'],
   },
+  '物语系列': {
+    id: 'bm',
+    prefixes: ['BM', 'NM', 'MG'],
+  },
 }
