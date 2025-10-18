@@ -556,4 +556,8 @@ export const seriesMap = {
     id: 'pp',
     prefixes: ['PP'],
   },
+  '翠星之加尔刚蒂亚': {
+    id: 'gg',
+    prefixes: ['GG'],
+  },
 }
