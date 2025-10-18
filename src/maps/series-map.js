@@ -560,4 +560,8 @@ export const seriesMap = {
     id: 'gg',
     prefixes: ['GG'],
   },
+  'TV动画「恶魔幸存者2」': {
+    id: 'ds2',
+    prefixes: ['DS2'],
+  },
 }
