@@ -500,4 +500,8 @@ export const seriesMap = {
     id: 'sr',
     prefixes: ['SE', 'SF', 'SR'],
   },
+  'THE KING OF FIGHTERS': {
+    id: 'kf',
+    prefixes: ['KF'],
+  },
 }

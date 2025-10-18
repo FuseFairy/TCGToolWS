@@ -1,0 +1,110 @@
+{
+  "KF/S05-103": {
+    "name": "アッシュ・クリムゾン",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6000,
+    "cost": 1,
+    "trait": ["炎", "主人公"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "KF/S05-103",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "KF/S05-104": {
+    "name": "永遠のサイキックアイドル アテナ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 1,
+    "trait": ["超能力", "音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【起】[你1个《超能力》的角色横置] 那个回合中，这张卡的战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "KF/S05-104",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "KF/S05-105": {
+    "name": "最強の称号 KOF",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8500,
+    "cost": 1,
+    "trait": ["オロチ", "神器"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "KF/S05-105",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "KF/S05-106": {
+    "name": "ムエタイマジック キング",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["男装", "薔薇"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】[(1)] 这张卡攻击时，你可以支付费用。 这样做的话，你选择对手后列1个等级0以下的角色返回手牌。",
+    "all_cards": [
+      {
+        "id": "KF/S05-106",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "KF/S05-107": {
+    "name": "サイコソルジャー アテナ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["超能力", "音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】再演[(2)] （这张卡从舞台放置到休息室时，你可以支付费用。 这样做的话，这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "KF/S05-107",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "KF/S05-108": {
+    "name": "極限小町 ユリ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["スポーツ", "委員長"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你其他全部卡名含有「サカザキ」的角色，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "KF/S05-108",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
