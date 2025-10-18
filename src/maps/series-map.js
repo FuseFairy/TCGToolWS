@@ -576,4 +576,8 @@ export const seriesMap = {
     id: 'klk',
     prefixes: ['KLK'],
   },
+  '记录的地平线': {
+    id: 'lh',
+    prefixes: ['LH'],
+  },
 }
