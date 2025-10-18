@@ -1,0 +1,326 @@
+{
+  "MK/SE11-37": {
+    "name": "夕焼け空と小衣",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 3500,
+    "cost": 0,
+    "trait": ["警察", "仮面"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你有其他卡名含有「平乃」的角色的话，这张卡的战斗力+1000。<br/>【永】你有其他卡名含有「咲」的角色的话，这张卡的战斗力+1000。<br/>【永】你有其他卡名含有「次子」的角色的话，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "MK/SE11-37",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MK/SE11-38": {
+    "name": "“夏のハプニング”コーデリア",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["探偵", "スポーツ"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】[(2)] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你抽1张卡。",
+    "all_cards": [
+      {
+        "id": "MK/SE11-38",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MK/SE11-39": {
+    "name": "夢への一歩 シャロ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["探偵", "カメラ"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】你的高潮卡放置到高潮区时，那个回合中，这张卡的战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "MK/SE11-39",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MK/SE11-40": {
+    "name": "“第2幕”アンリエット＆ミルキィホームズ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["探偵", "生徒会"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】舞台有这张卡的话，这张卡获得《怪盗》。<br/>【自】这张卡从手牌放置到舞台时，你选择自己其他1个《探偵》的角色，那个回合中，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "MK/SE11-40",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MK/SE11-41": {
+    "name": "いつでも前向き 三森すずこ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["音楽", "探偵"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "MK/SE11-41",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MK/SE11-42": {
+    "name": "豆まきシャロ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8500,
+    "cost": 2,
+    "trait": ["探偵", "カメラ"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【永】你其他拥有『应援』的角色有2个以上的话，这张卡获得『【自】再演 [手牌中1张角色卡放置到休息室]』的能力。",
+    "all_cards": [
+      {
+        "id": "MK/SE11-42",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MK/SE11-43": {
+    "name": "トラブルメーカー ミルキィホームズ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["探偵"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【起】[你的2个角色横置] 那个回合中，这张卡的战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "MK/SE11-43",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MK/SE11-44": {
+    "name": "探偵見習 シャロ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6500,
+    "cost": 1,
+    "trait": ["探偵", "カメラ"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【起】[这张卡放置到休息室] 你选择对手前列1个费用0以下的角色放置到卡组顶。",
+    "all_cards": [
+      {
+        "id": "MK/SE11-44",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MK/SE11-45": {
+    "name": "探偵見習 エリー",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["探偵", "本"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你选择自己其他1个《探偵》的角色，那个回合中，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "MK/SE11-45",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MK/SE11-46": {
+    "name": "探偵見習 ネロ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 2,
+    "trait": ["探偵", "お菓子"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "MK/SE11-46",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MK/SE11-47": {
+    "name": "探偵見習 コーデリア",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 0,
+    "trait": ["探偵", "スポーツ"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "MK/SE11-47",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MK/SE11-48": {
+    "name": "ヨコハマを去ったアルセーヌ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8500,
+    "cost": 1,
+    "trait": ["怪盗", "仮面"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "MK/SE11-48",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MK/SE11-49": {
+    "name": "目指せ学院再建 ミルキィホームズ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["探偵"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】[(2)] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张卡名含有「アルセーヌ」或「アンリエット」的角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "MK/SE11-49",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MK/SE11-50": {
+    "name": "探偵チーム ミルキィホームズ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["探偵", "声優"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "MK/SE11-50",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MK/SE11-51": {
+    "name": "徳井青空",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["探偵", "声優"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "MK/SE11-51",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MK/SE11-52": {
+    "name": "佐々木未来",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["探偵", "声優"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "MK/SE11-52",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MK/SE11-53": {
+    "name": "三森すずこ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["探偵", "声優"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "MK/SE11-53",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "MK/SE11-54": {
+    "name": "橘田いずみ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["探偵", "声優"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "MK/SE11-54",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

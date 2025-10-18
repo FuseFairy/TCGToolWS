@@ -516,4 +516,8 @@ export const seriesMap = {
     id: 'ft',
     prefixes: ['FT'],
   },
+  '侦探歌剧 少女福尔摩斯': {
+    id: 'mk',
+    prefixes: ['MK', 'MK2'],
+  },
 }
