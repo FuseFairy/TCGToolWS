@@ -544,4 +544,8 @@ export const seriesMap = {
     id: 'aw',
     prefixes: ['AW', 'Gaw'],
   },
+  '刀剑神域': {
+    id: 'sao',
+    prefixes: ['SAO', 'Gso'],
+  },
 }

@@ -1,0 +1,146 @@
+{
+  "SAO/S26-P01": {
+    "name": "ハロウィン衣装 アスナ＆ユイ＆キリト",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["アバター", "武器"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】对手的回合中，你其他全部角色，战斗力+500。<br/>【自】[(2)] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你抽1张卡。",
+    "all_cards": [
+      {
+        "id": "SAO/S26-P01",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SAO/S26-P02": {
+    "name": "木漏れ日の中 アスナ＆キリト",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["アバター", "武器"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，那个回合中，这张卡的战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "SAO/S26-P02",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SAO/S26-081": {
+    "name": "《スター・スプラッシュ》",
+    "product_name": "ソードアート・オンライン Vol.2",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/shot.webp\">：这个回合中，触发这张卡的角色下次造成的伤害被取消时，给对手造成1点伤害）",
+    "all_cards": [
+      {
+        "id": "SAO/S26-081",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SAO/S26-082": {
+    "name": "スペル詠唱",
+    "product_name": "ソードアート・オンライン Vol.2",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/stock.webp\">：这张卡被触发时，你可以将自己卡组顶1张卡放置到费用区）",
+    "all_cards": [
+      {
+        "id": "SAO/S26-082",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SAO/S26-083": {
+    "name": "気づいた本当の気持ち",
+    "product_name": "ソードアート・オンライン Vol.2",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/salvage.webp\">：这张卡被触发时，你可以从自己的休息室选择1张角色卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "SAO/S26-083",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SAO/S26-084": {
+    "name": "初めての冒険",
+    "product_name": "ソードアート・オンライン Vol.2",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你从自己的休息室选择至多1张红色的卡放置到费用区，自己的全部角色，那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "SAO/S26-084",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SAO/S26-085": {
+    "name": "突然の別れ",
+    "product_name": "ソードアート・オンライン Vol.2",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/draw.webp\">：这张卡被触发时，你可以抽1张卡）",
+    "all_cards": [
+      {
+        "id": "SAO/S26-085",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SAO/S26-086": {
+    "name": "《二刀流》の使い手",
+    "product_name": "ソードアート・オンライン Vol.2",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你从自己的休息室选择至多1张蓝色的卡放置到费用区，自己的全部角色，那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "SAO/S26-086",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
