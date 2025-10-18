@@ -536,4 +536,8 @@ export const seriesMap = {
     id: 'bm',
     prefixes: ['BM', 'NM', 'MG'],
   },
+  '罪恶王冠': {
+    id: 'gc',
+    prefixes: ['GC'],
+  },
 }
