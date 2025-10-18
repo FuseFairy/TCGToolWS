@@ -227,6 +227,12 @@ const handleNextCard = () => {
   right: 12px;
 }
 
+.nav-button-left.v-btn--disabled,
+.nav-button-right.v-btn--disabled {
+  pointer-events: auto;
+  cursor: default;
+}
+
 @media (min-width: 960px) {
   .nav-button-left {
     left: -60px;
