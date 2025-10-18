@@ -528,4 +528,8 @@ export const seriesMap = {
     id: 'br',
     prefixes: ['BR'],
   },
+  '刀语': {
+    id: 'kg',
+    prefixes: ['KG'],
+  },
 }
