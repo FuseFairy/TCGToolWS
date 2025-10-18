@@ -504,4 +504,8 @@ export const seriesMap = {
     id: 'kf',
     prefixes: ['KF'],
   },
+  '战国BASARA': {
+    id: 'sb',
+    prefixes: ['SB'],
+  },
 }
