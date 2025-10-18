@@ -568,4 +568,8 @@ export const seriesMap = {
     id: 'pi',
     prefixes: ['PI'],
   },
+  'T宝的悲惨日常': {
+    id: 'woo',
+    prefixes: ['Woo'],
+  },
 }
