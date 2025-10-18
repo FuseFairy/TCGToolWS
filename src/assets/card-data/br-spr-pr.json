@@ -1,0 +1,38 @@
+{
+  "BR/SPR-001": {
+    "name": "ブラック★ロックシューター",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["武器"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "BR/SPR-001",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "BR/SPR-002": {
+    "name": "デッドマスター",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 1,
+    "trait": ["武器"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】再演 [你卡组顶1张卡放置到时计区] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "BR/SPR-002",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

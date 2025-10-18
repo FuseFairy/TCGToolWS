@@ -1,0 +1,38 @@
+{
+  "BR/SE06-37": {
+    "name": "Xmasパーティ マト",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["スポーツ"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你其他的角色在1个以下的话，你其他全部角色，战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "BR/SE06-37",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "BR/SE06-38": {
+    "name": "意思を秘めた瞳 ブラック★ロックシューター",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["武器"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】对手的回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "BR/SE06-38",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

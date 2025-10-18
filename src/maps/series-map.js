@@ -524,4 +524,8 @@ export const seriesMap = {
     id: 'ev',
     prefixes: ['EV'],
   },
+  '黑岩射手': {
+    id: 'br',
+    prefixes: ['BR'],
+  },
 }
