@@ -512,4 +512,8 @@ export const seriesMap = {
     id: 'im',
     prefixes: ['IM', 'IAS'],
   },
+  '妖精的尾巴': {
+    id: 'ft',
+    prefixes: ['FT'],
+  },
 }
