@@ -1,0 +1,56 @@
+{
+  "PP/SE14-P01": {
+    "name": "新人監視官 朱",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["公安", "武器"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "PP/SE14-P01",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PP/SE14-P02": {
+    "name": "執行官の流儀 狡噛",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8500,
+    "cost": 1,
+    "trait": ["サイコパス", "公安"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "PP/SE14-P02",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PP/SE14-P03": {
+    "name": "精神的な調律 槙島",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["サイコパス", "本"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】对手的回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "PP/SE14-P03",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

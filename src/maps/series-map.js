@@ -552,4 +552,8 @@ export const seriesMap = {
     id: 'pd',
     prefixes: ['PD'],
   },
+  '心理测量者': {
+    id: 'pp',
+    prefixes: ['PP'],
+  },
 }
