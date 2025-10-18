@@ -548,4 +548,8 @@ export const seriesMap = {
     id: 'sao',
     prefixes: ['SAO', 'Gso'],
   },
+  '初音未来 -Project DIVA-': {
+    id: 'pd',
+    prefixes: ['PD'],
+  },
 }

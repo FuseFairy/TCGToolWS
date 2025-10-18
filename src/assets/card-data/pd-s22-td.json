@@ -1,0 +1,348 @@
+{
+  "PD/S22-101": {
+    "name": "“キミの隣に”初音ミク",
+    "product_name": "2013年度トライアルデッキ【S】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。<br/>【起】[这张卡横置] 你选择自己1个《音楽》的角色，那个回合中，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-101",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "PD/S22-102": {
+    "name": "“最高のステージへ”初音ミク",
+    "product_name": "2013年度トライアルデッキ【S】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你其他《音楽》的角色有2个以上的话，那个回合中，这张卡的战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-102",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "PD/S22-103": {
+    "name": "“ブラック★ロックシューター”初音ミク",
+    "product_name": "2013年度トライアルデッキ【S】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，高潮区有「ブラック★ロックシューター」的话，那个回合中，这张卡的战斗力+3000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-103",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "PD/S22-104": {
+    "name": "初音ミク“ハートビート”",
+    "product_name": "2013年度トライアルデッキ【S】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8500,
+    "cost": 2,
+    "trait": ["音楽", "ネット"],
+    "color": "绿色",
+    "soul": 2,
+    "effect": "【自】这张卡攻击时，高潮区有「ODDS＆ENDS」的话，你的全部角色在那个回合中，战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-104a",
+        "rarity": "TD"
+      },
+      {
+        "id": "PD/S22-104b",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "PD/S22-105": {
+    "name": "初音ミク“オリジナル”",
+    "product_name": "2013年度トライアルデッキ【S】",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["音楽"],
+    "color": "绿色",
+    "soul": 2,
+    "effect": "【自】这张卡从手牌放置到舞台时，你的全部角色在那个回合中，战斗力+2000。<br/>【起】[(1)] 你选择自己1个《音楽》的角色，那个回合中，战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-105",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "PD/S22-106": {
+    "name": "ブラック★ロックシューター",
+    "product_name": "2013年度トライアルデッキ【S】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "PD/S22-106",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "PD/S22-107": {
+    "name": "ODDS＆ENDS",
+    "product_name": "2013年度トライアルデッキ【S】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/stock.webp\">：这张卡被触发时，你可以将自己卡组顶1张卡放置到费用区）",
+    "all_cards": [
+      {
+        "id": "PD/S22-107",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "PD/S22-T01": {
+    "name": "鏡音レン“アペンド”",
+    "product_name": "2013年度トライアルデッキ【S】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你的回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-T01",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "PD/S22-T02": {
+    "name": "鏡音レン“トリッカー”",
+    "product_name": "2013年度トライアルデッキ【S】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，那个回合中，这张卡的战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "PD/S22-T02",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "PD/S22-T03": {
+    "name": "鏡音リン“Future Style”",
+    "product_name": "2013年度トライアルデッキ【S】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "PD/S22-T03",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "PD/S22-T04": {
+    "name": "“夢の続き”鏡音リン",
+    "product_name": "2013年度トライアルデッキ【S】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 7000,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "PD/S22-T04",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "PD/S22-T05": {
+    "name": "“夢の続き”鏡音レン",
+    "product_name": "2013年度トライアルデッキ【S】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8500,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "PD/S22-T05",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "PD/S22-T06": {
+    "name": "メランコリック",
+    "product_name": "2013年度トライアルデッキ【S】",
+    "type": "事件卡",
+    "level": 1,
+    "power": "-",
+    "cost": 1,
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "你从自己的卡组找至多1张《音楽》的角色卡展示给对手后加入手牌。卡组洗切。",
+    "all_cards": [
+      {
+        "id": "PD/S22-T06",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "PD/S22-T07": {
+    "name": "天樂",
+    "product_name": "2013年度トライアルデッキ【S】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你抽1张卡，选择自己的1个角色，那个回合中，战斗力+2000，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "PD/S22-T07",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "PD/S22-T08": {
+    "name": "初音ミク“パンジー”",
+    "product_name": "2013年度トライアルデッキ【S】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["音楽", "植物"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。<br/>【起】[(1)] 你选择自己1个《音楽》的角色，那个回合中，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "PD/S22-T08",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "PD/S22-T09": {
+    "name": "初音ミク“ディープスカイ”",
+    "product_name": "2013年度トライアルデッキ【S】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["音楽", "メガネ"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "PD/S22-T09",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "PD/S22-T10": {
+    "name": "初音ミク“ハニーウィップ”",
+    "product_name": "2013年度トライアルデッキ【S】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "PD/S22-T10",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "PD/S22-T11": {
+    "name": "初音ミク“フォニュエールスタイル”",
+    "product_name": "2013年度トライアルデッキ【S】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6500,
+    "cost": 1,
+    "trait": ["音楽", "ネトゲ"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "PD/S22-T11",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "PD/S22-T12": {
+    "name": "“フルパワーでみっくみく”初音ミク",
+    "product_name": "2013年度トライアルデッキ【S】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2500,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀3000 等级2 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+3000）",
+    "all_cards": [
+      {
+        "id": "PD/S22-T12",
+        "rarity": "TD"
+      }
+    ]
+  }
+}

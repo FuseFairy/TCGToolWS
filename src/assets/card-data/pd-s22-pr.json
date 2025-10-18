@@ -1,0 +1,2380 @@
+{
+  "PD/S22-P01": {
+    "name": "“はじめまして”初音ミク",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "PD/S22-P01",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PD/S22-P02": {
+    "name": "“ぐらふぃコレクション”初音ミク",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】再演  [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "PD/S22-P02",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PD/S22-P03": {
+    "name": "“Weekender Girl”初音ミク",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["音楽", "植物"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】[(2)] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的卡组找至多1张《音楽》的角色卡展示给对手后加入手牌。卡组洗切。",
+    "all_cards": [
+      {
+        "id": "PD/S22-P03",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PD/S22-P04": {
+    "name": "“ODDS＆ENDS”初音ミク",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["音楽", "ネット"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，高潮区有「ODDS＆ENDS」的话，你可以将自己卡组顶1张卡放置到费用区。",
+    "all_cards": [
+      {
+        "id": "PD/S22-P04",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PD/S22-P05": {
+    "name": "“タイムマシン”初音ミク",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["音楽", "時間"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】你的再演步骤开始时，高潮区有「タイムマシン」的话，你可以将这张卡思出。这样做的话，下一个你的抽卡阶段开始时，你从自己的思出区选择1张「“タイムマシン”初音ミク」，放置到舞台任意位置，那个回合中，那个角色的战斗力+3500。",
+    "all_cards": [
+      {
+        "id": "PD/S22-P05",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PD/S22-001": {
+    "name": "鏡音リン“シザーズ”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 2,
+    "power": 5000,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+X。X是那个角色的等级×500。<br/>【自】[(1) 你舞台1个《音楽》的角色放置到休息室] 你的「東京テディベア」放置到高潮区时，你可以支付费用。支付了的话，你从自己的休息室选择1张等级在自己等级以下的《音楽》的角色卡放置到舞台任意位置。",
+    "all_cards": [
+      {
+        "id": "PD/S22-001",
+        "rarity": "RR"
+      },
+      {
+        "id": "PD/S22-001S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "PD/S22-002": {
+    "name": "鏡音レン“オリジナル”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "【永】你的卡组在5张以下的话，你手牌中这张卡的等级-1。<br/>【自】这张卡从手牌放置到舞台时，你的全部角色在那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "PD/S22-002",
+        "rarity": "RR"
+      },
+      {
+        "id": "PD/S22-002R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "PD/S22-003": {
+    "name": "鏡音リン“弐ノ桜・胡蝶”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 1,
+    "power": 1500,
+    "cost": 1,
+    "trait": ["音楽", "和服"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】你使用这张卡的『助太刀』时，你公开自己卡组顶1张卡。那张卡是《音楽》的角色卡的话，你选择自己的1个角色，那个回合中，战斗力+1000。（公开的卡放回原处）<br/>【起】【反击】助太刀1500 等级1 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+1500）",
+    "all_cards": [
+      {
+        "id": "PD/S22-003",
+        "rarity": "R"
+      },
+      {
+        "id": "PD/S22-003S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "PD/S22-004": {
+    "name": "鏡音リン“SW しましまビキニ”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["音楽", "水着"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你每有1个其他卡名含有「リン」或「レン」的角色，这张卡的战斗力+500。",
+    "all_cards": [
+      {
+        "id": "PD/S22-004",
+        "rarity": "R"
+      },
+      {
+        "id": "PD/S22-004S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "PD/S22-005": {
+    "name": "鏡音レン“スターマイン”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7500,
+    "cost": 1,
+    "trait": ["音楽", "ヘッドフォン"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】这张卡位于前列中央的话，这张卡获得『【自】再演 [手牌中1张角色卡放置到休息室]』的能力。<br/>【自】[(1)] 这张卡攻击时，高潮区有「Fire◎Flower」的话，你可以支付费用。支付了的话，你选择自己其他1个角色，那个回合中，战斗力+4500，这张卡的战斗力+4500。",
+    "all_cards": [
+      {
+        "id": "PD/S22-005",
+        "rarity": "R"
+      },
+      {
+        "id": "PD/S22-005S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "PD/S22-006": {
+    "name": "鏡音リン“桜月”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7500,
+    "cost": 2,
+    "trait": ["音楽", "和服"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "【永】你其他《音楽》的角色有3个以上的话，这张卡的战斗力+1000，这张卡获得『【自】再演 [手牌中1张角色卡放置到休息室]』的能力。<br/>【自】[(1) 你2个竖置的《音楽》的角色横置] 这张卡攻击时，高潮区有「天樂」的话，你可以支付费用。支付了的话，你选择对手1个费用1以下的角色放置到费用区。",
+    "all_cards": [
+      {
+        "id": "PD/S22-006",
+        "rarity": "R"
+      },
+      {
+        "id": "PD/S22-006S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "PD/S22-007": {
+    "name": "鏡音リン“オリジナル”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 2,
+    "effect": "【永】你的费用在4张以下的话，这张卡的战斗力+2000。<br/>【自】这张卡从手牌或通过『变身』放置到舞台时，你可以将自己时计区顶1张卡放置到休息室。<br/>【自】这张卡的战斗对手倒置时，你将那个角色放置到费用区。",
+    "all_cards": [
+      {
+        "id": "PD/S22-007",
+        "rarity": "R"
+      },
+      {
+        "id": "PD/S22-007R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "PD/S22-008": {
+    "name": "鏡音リン“メランコリー”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["音楽", "ヘッドフォン"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。<br/>【自】[你卡组顶1张卡放置到时计区] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你选择自己1个《音楽》的角色，那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "PD/S22-008",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-009": {
+    "name": "鏡音レン“SW ボクサー”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["音楽", "水着"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你其他全部卡名含有「リン」或「レン」的角色，战斗力+500。<br/>【起】[这张卡横置] 你选择自己1个卡名含有「リン」或「レン」的角色，那个回合中，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "PD/S22-009",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-010": {
+    "name": "鏡音レン“弐ノ桜・扇舞”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["音楽", "和服"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【起】集中 [(1)] 你将自己卡组顶4张卡放置到休息室。那些卡中每有1张高潮卡，你选择自己的1个角色，那个回合中，战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-010",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-011": {
+    "name": "鏡音レン“レシーバー”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["音楽", "メカ"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡直接攻击时，高潮区有「リモコン」的话，你看自己卡组顶1张卡，放置到卡组顶或休息室，那个回合中，这张卡获得以下能力。『【自】这个能力1回合至多发动1次。这张卡造成的伤害被取消时，你可以给对手造成1点伤害。』（发生伤害取消）",
+    "all_cards": [
+      {
+        "id": "PD/S22-011",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-012": {
+    "name": "鏡音リン“トランスミッター”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["音楽", "メカ"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】[(1)] 这张卡攻击时，高潮区有「リモコン」的话，你可以支付费用。支付了的话，你选择对手的1个角色返回手牌。",
+    "all_cards": [
+      {
+        "id": "PD/S22-012",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-013": {
+    "name": "亞北ネル“オリジナル”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["音楽", "ネット"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【起】[(1)] 那个回合中，这张卡的灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "PD/S22-013",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-014": {
+    "name": "鏡音リン“アペンド”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】变身 [(2) 这张卡放置到时计区] 你的高潮阶段开始时，你可以支付费用。支付了的话，你从自己的休息室选择1张「鏡音リン“オリジナル”」，放置到这张卡原来的位置。",
+    "all_cards": [
+      {
+        "id": "PD/S22-014",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-015": {
+    "name": "鏡音レン“鶴”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["音楽", "和服"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】绊／「鏡音リン“桜月”」 [(1)] （这张卡被使用放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张「鏡音リン“桜月”」返回手牌）",
+    "all_cards": [
+      {
+        "id": "PD/S22-015",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-016": {
+    "name": "鏡音レン“アペンド”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你的回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-016",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-017": {
+    "name": "鏡音レン“トリッカー”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，那个回合中，这张卡的战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "PD/S22-017",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-018": {
+    "name": "鏡音リン“Future Style”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "PD/S22-018",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-019": {
+    "name": "“夢の続き”鏡音リン",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 1,
+    "power": 7000,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "PD/S22-019",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-020": {
+    "name": "“夢の続き”鏡音レン",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8500,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "PD/S22-020",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-021": {
+    "name": "メランコリック",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "事件卡",
+    "level": 1,
+    "power": "-",
+    "cost": 1,
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "你从自己的卡组找至多1张《音楽》的角色卡展示给对手后加入手牌。卡组洗切。",
+    "all_cards": [
+      {
+        "id": "PD/S22-021",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-022": {
+    "name": "天樂",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你抽1张卡，选择自己的1个角色，那个回合中，战斗力+2000，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "PD/S22-022",
+        "rarity": "CR"
+      },
+      {
+        "id": "PD/S22-022R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "PD/S22-023": {
+    "name": "Fire◎Flower",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/bounce.webp\">：这张卡被触发时，你可以选择对手的1个角色，使其返回手牌）",
+    "all_cards": [
+      {
+        "id": "PD/S22-023",
+        "rarity": "CR"
+      },
+      {
+        "id": "PD/S22-023R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "PD/S22-024": {
+    "name": "東京テディベア",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/shot.webp\">：这个回合中，触发这张卡的角色下次造成的伤害被取消时，给对手造成1点伤害）",
+    "all_cards": [
+      {
+        "id": "PD/S22-024",
+        "rarity": "CC"
+      },
+      {
+        "id": "PD/S22-024S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "PD/S22-025": {
+    "name": "リモコン",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "PD/S22-025",
+        "rarity": "CC"
+      },
+      {
+        "id": "PD/S22-025S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "PD/S22-026": {
+    "name": "“電子の歌姫”初音ミク",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 3,
+    "power": 9500,
+    "cost": 2,
+    "trait": ["音楽"],
+    "color": "绿色",
+    "soul": 2,
+    "effect": "【永】你每有1个其他的《音楽》的角色，这张卡的战斗力+500。<br/>【自】这张卡从手牌或通过『变身』放置到舞台时，你可以将自己时计区顶1张卡放置到休息室。",
+    "all_cards": [
+      {
+        "id": "PD/S22-026",
+        "rarity": "RR"
+      },
+      {
+        "id": "PD/S22-026X",
+        "rarity": "XR"
+      }
+    ]
+  },
+  "PD/S22-027": {
+    "name": "初音ミク“わがまま工場長”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["音楽", "工場"],
+    "color": "绿色",
+    "soul": 2,
+    "effect": "【自】这张卡从手牌放置到舞台时，你抽至多2张卡，选择自己的1张手牌放置到休息室。<br/>【自】这张卡的战斗对手倒置时，你的高潮区有「Sadistic.Music∞Factory」的话，你可以将那个角色放置到时计区。",
+    "all_cards": [
+      {
+        "id": "PD/S22-027",
+        "rarity": "RR"
+      },
+      {
+        "id": "PD/S22-027R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "PD/S22-028": {
+    "name": "初音ミク“リンケージ”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这个能力1回合至多发动2次。你其他《音楽》的角色从手牌放置到舞台时，那个回合中，这张卡的战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "PD/S22-028",
+        "rarity": "R"
+      },
+      {
+        "id": "PD/S22-028S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "PD/S22-029": {
+    "name": "初音ミク“サマーメモリー”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】[你卡组顶1张卡放置到时计区] 这张卡攻击时，高潮区有「タイムマシン」的话，你可以支付费用。支付了的话，那个回合中，这张卡的战斗力+5500。",
+    "all_cards": [
+      {
+        "id": "PD/S22-029",
+        "rarity": "R"
+      },
+      {
+        "id": "PD/S22-029S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "PD/S22-030": {
+    "name": "初音ミク“壱ノ桜・桜花”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["音楽", "和服"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】[(1)] 这张卡攻击时，高潮区有「千本桜」的话，你可以支付费用。支付了的话，那个回合中，这张卡的战斗力+X。X是这张卡正面的角色的等级×3000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-030",
+        "rarity": "R"
+      },
+      {
+        "id": "PD/S22-030R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "PD/S22-031": {
+    "name": "“キミとふたりで”初音ミク",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 2,
+    "power": 3500,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+1000。<br/>【起】[这张卡横置] 你其他全部《音楽》的角色，那个回合中，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "PD/S22-031",
+        "rarity": "R"
+      },
+      {
+        "id": "PD/S22-031X",
+        "rarity": "XR"
+      }
+    ]
+  },
+  "PD/S22-032": {
+    "name": "“歌声をキミに”初音ミク",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】你其他《音楽》的角色攻击时，那个回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-032",
+        "rarity": "R"
+      },
+      {
+        "id": "PD/S22-032X",
+        "rarity": "XR"
+      }
+    ]
+  },
+  "PD/S22-033": {
+    "name": "初音ミク“ホーリーゴッデス”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["音楽", "神"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【起】[你2个《音楽》的角色横置] 你选择自己的1个角色，那个回合中，战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-033",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-034": {
+    "name": "初音ミク“ピエレッタ”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽", "動物"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你其他《音楽》的角色有2个以上的话，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-034",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-035": {
+    "name": "初音ミク“ねこねこケープ”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["音楽", "動物"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】这张卡位于前列中央的话，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-035",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-036": {
+    "name": "“夢の続き”初音ミク",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 1,
+    "power": 3500,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你其他全部卡名含有「夢の続き」的角色，战斗力+1000。<br/>【自】[(1)] 你的「夢の続き」放置到高潮区时，你可以支付费用。支付了的话，你的全部角色在那个回合中，战斗力+X。X是你卡名含有「夢の続き」的角色的数量×1000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-036",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-037": {
+    "name": "初音ミク“フォニュエールスタイル”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6500,
+    "cost": 1,
+    "trait": ["音楽", "ネトゲ"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "PD/S22-037",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-038": {
+    "name": "初音ミク“アペンド”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】变身 [(2) 1张手牌放置到休息室，这张卡放置到休息室] 你的高潮阶段开始时，你可以支付费用。支付了的话，你从自己的休息室选择1张「“電子の歌姫”初音ミク」，放置到这张卡原来的位置。",
+    "all_cards": [
+      {
+        "id": "PD/S22-038",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-039": {
+    "name": "“39ゲット！”初音ミク",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你其他全部卡名含有「ミク」的角色，战斗力+500。<br/>【起】[这张卡横置] 你选择自己1个卡名含有「ミク」的角色，那个回合中，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "PD/S22-039",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-040": {
+    "name": "初音ミク“パンジー”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["音楽", "植物"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。<br/>【起】[(1)] 你选择自己1个《音楽》的角色，那个回合中，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "PD/S22-040",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-041": {
+    "name": "初音ミク“ディープスカイ”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["音楽", "メガネ"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "PD/S22-041",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-042": {
+    "name": "初音ミク“SW スクール競泳”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["音楽", "水着"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【起】[(1)] 那个回合中，这张卡的战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-042",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-043": {
+    "name": "初音ミク“ハニーウィップ”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "PD/S22-043",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-044": {
+    "name": "“フルパワーでみっくみく”初音ミク",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2500,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀3000 等级2 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+3000）",
+    "all_cards": [
+      {
+        "id": "PD/S22-044",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-045": {
+    "name": "初音ミク“Hello, Good night.”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 2,
+    "trait": ["音楽", "パジャマ"],
+    "color": "绿色",
+    "soul": 2,
+    "effect": "【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "PD/S22-045",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-046": {
+    "name": "Weekender Girl",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "事件卡",
+    "level": 2,
+    "power": "-",
+    "cost": 2,
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "你没有《音楽》的角色的话，这张卡不能从手牌中使用。<br/>你从自己的卡组找至多2张《音楽》的角色卡展示给对手后加入手牌。卡组洗切。",
+    "all_cards": [
+      {
+        "id": "PD/S22-046",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-047": {
+    "name": "千本桜",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "PD/S22-047a",
+        "rarity": "CR"
+      },
+      {
+        "id": "PD/S22-047b",
+        "rarity": "CR"
+      },
+      {
+        "id": "PD/S22-047c",
+        "rarity": "CR"
+      },
+      {
+        "id": "PD/S22-047R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "PD/S22-048": {
+    "name": "Sadistic.Music∞Factory",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/treasure.webp\">：这张卡被触发时，你将这张卡返回手牌。你可以将自己卡组顶1张卡放置到费用区）",
+    "all_cards": [
+      {
+        "id": "PD/S22-048",
+        "rarity": "CR"
+      },
+      {
+        "id": "PD/S22-048R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "PD/S22-049": {
+    "name": "タイムマシン",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你抽1张卡，选择自己的1个角色，那个回合中，战斗力+2000，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "PD/S22-049",
+        "rarity": "CC"
+      },
+      {
+        "id": "PD/S22-049S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "PD/S22-050": {
+    "name": "夢の続き",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你将自己卡组顶1张卡放置到费用区，自己的全部角色，那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "PD/S22-050",
+        "rarity": "CC"
+      },
+      {
+        "id": "PD/S22-050S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "PD/S22-051": {
+    "name": "初音ミク“翠玉”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8500,
+    "cost": 2,
+    "trait": ["音楽", "ドレス"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【自】这张卡攻击时，高潮区有「ワールズエンド・ダンスホール」的话，你可以从自己的休息室选择1张角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "PD/S22-051",
+        "rarity": "RR"
+      },
+      {
+        "id": "PD/S22-051R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "PD/S22-052": {
+    "name": "巡音ルカ“紅玉”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["音楽", "ドレス"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】[(1)] 这张卡攻击时，高潮区有「ワールズエンド・ダンスホール」的话，你可以支付费用。支付了的话，给对手造成1点伤害。（发生伤害取消）",
+    "all_cards": [
+      {
+        "id": "PD/S22-052",
+        "rarity": "RR"
+      },
+      {
+        "id": "PD/S22-052R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "PD/S22-053": {
+    "name": "巡音ルカ“SW リゾートビキニ”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["音楽", "水着"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，你选择自己至多2个《音楽》的角色，那个回合中，战斗力+500。<br/>【自】这张卡倒置时，这张卡的战斗对手的等级是0级以下的话，你可以将那个角色倒置。",
+    "all_cards": [
+      {
+        "id": "PD/S22-053",
+        "rarity": "R"
+      },
+      {
+        "id": "PD/S22-053S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "PD/S22-054": {
+    "name": "巡音ルカ“エターナルホワイト”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，高潮区有「DYE」的话，那个回合中，这张卡获得以下の能力のうちあなたが選んだ1つ。『【永】这张卡的战斗力+2000。』『【永】这张卡的灵魂值+1。』",
+    "all_cards": [
+      {
+        "id": "PD/S22-054",
+        "rarity": "R"
+      },
+      {
+        "id": "PD/S22-054S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "PD/S22-055": {
+    "name": "ＭＥＩＫＯ“SW ロングパレオ”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽", "水着"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】[(1) 1张手牌放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张《音楽》的角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "PD/S22-055",
+        "rarity": "R"
+      },
+      {
+        "id": "PD/S22-055S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "PD/S22-056": {
+    "name": "ＭＥＩＫＯ“ブルークリスタル”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["音楽", "ドレス"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】[(1)] 这张卡攻击时，高潮区有「Nostalogic」的话，你可以支付费用。支付了的话，你选择对手前列至多1个等级1以下的角色放置到休息室，那个回合中，这张卡的战斗力+X。X是你休息室的「ＭＥＩＫＯ“ブルークリスタル”」的数量×2000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-056",
+        "rarity": "R"
+      },
+      {
+        "id": "PD/S22-056S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "PD/S22-057": {
+    "name": "巡音ルカ“オリジナル”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["音楽"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【永】你其他《音楽》的角色有3个以上的话，这张卡的战斗力+1000。<br/>【永】这张卡正面的角色灵魂值-1。<br/>【自】[(1)] 这张卡的战斗对手倒置时，你可以支付费用。支付了的话，你从对手的休息室选择1张卡放置到卡组顶。",
+    "all_cards": [
+      {
+        "id": "PD/S22-057",
+        "rarity": "R"
+      },
+      {
+        "id": "PD/S22-057R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "PD/S22-058": {
+    "name": "初音ミク“リンちゃん愛し隊1号”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["音楽", "愛"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你其他全部《音楽》的角色，战斗力+500。<br/>【自】[你卡组顶1张卡放置到时计区，你1个竖置的角色横置] 你的「リンちゃんなう！」放置到高潮区时，你可以支付费用。支付了的话，你其他全部卡名含有「リン」的角色，那个回合中，战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-058",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-059": {
+    "name": "巡音ルカ“リンちゃん愛し隊2号”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["音楽", "愛"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。<br/>【自】[(1) 你1个竖置的角色横置] 你的「リンちゃんなう！」放置到高潮区时，你可以支付费用。支付了的话，你其他全部卡名含有「リン」的角色，那个回合中，给予以下能力。『【自】这张卡的战斗对手倒置时，你可以将那个角色放置到卡组顶。』",
+    "all_cards": [
+      {
+        "id": "PD/S22-059",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-060": {
+    "name": "巡音ルカ“SW 競泳タイプ”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["音楽", "水着"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你其他《音楽》的角色有2个以上的话，那个回合中，这张卡的战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-060",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-061": {
+    "name": "重音テト“オリジナル”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 0,
+    "trait": ["音楽", "ネット"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你公开自己卡组顶1张卡。那张卡不是《音楽》的角色卡的话，这张卡横置。（公开的卡放回原处）<br/>【起】[(1)] 你选择自己1个《音楽》的角色，那个回合中，战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "PD/S22-061",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-062": {
+    "name": "ＭＥＩＫＯ“ノエル・ルージュ”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 1,
+    "power": 2500,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+X。X是你拥有『应援』能力的角色的数量×500。<br/>【起】[这张卡横置] 你选择自己1个《音楽》的角色，那个回合中，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-062",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-063": {
+    "name": "巡音ルカ“ゆるふわコーデ”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 1,
+    "power": 7000,
+    "cost": 1,
+    "trait": ["音楽", "メガネ"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你公开自己卡组顶1张卡。那张卡不是《音楽》的角色卡的话，这张卡横置。（公开的卡放回原处）<br/>【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "PD/S22-063",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-064": {
+    "name": "巡音ルカ“アムール”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["音楽", "愛"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，那个回合中，这张卡的战斗力+X。X是你《音楽》的角色的数量×500。",
+    "all_cards": [
+      {
+        "id": "PD/S22-064",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-065": {
+    "name": "ＭＥＩＫＯ“SW ウォータポロ”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽", "水着"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【起】[你1个《音楽》的角色横置] 那个回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-065",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-066": {
+    "name": "“夢の続き”巡音ルカ",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "PD/S22-066",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-067": {
+    "name": "初音ミク“堕悪天使”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 1,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["音楽", "警察"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀1500 等级1 [手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+1500）",
+    "all_cards": [
+      {
+        "id": "PD/S22-067",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-068": {
+    "name": "初音ミク“理系少女”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 1,
+    "power": 7000,
+    "cost": 1,
+    "trait": ["音楽", "科学"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "PD/S22-068",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-069": {
+    "name": "巡音ルカ“参ノ桜・楓香”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2500,
+    "cost": 1,
+    "trait": ["音楽", "和服"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀3000 等级2 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+3000）",
+    "all_cards": [
+      {
+        "id": "PD/S22-069",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-070": {
+    "name": "ＭＥＩＫＯ“零ノ桜・紅椿”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7500,
+    "cost": 2,
+    "trait": ["音楽", "和服"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【永】你有其他拥有『应援』的角色的话，这张卡的战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-070",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-071": {
+    "name": "MEGANE",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "事件卡",
+    "level": 2,
+    "power": "-",
+    "cost": 2,
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "你从自己的休息室选择至多2张角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "PD/S22-071",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-072": {
+    "name": "DYE",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你抽1张卡，选择自己的1个角色，那个回合中，战斗力+2000，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "PD/S22-072",
+        "rarity": "CR"
+      },
+      {
+        "id": "PD/S22-072R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "PD/S22-073": {
+    "name": "Nostalogic",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "PD/S22-073",
+        "rarity": "CR"
+      },
+      {
+        "id": "PD/S22-073R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "PD/S22-074": {
+    "name": "ワールズエンド・ダンスホール",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/salvage.webp\">：这张卡被触发时，你可以从自己的休息室选择1张角色卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "PD/S22-074a",
+        "rarity": "CC"
+      },
+      {
+        "id": "PD/S22-074b",
+        "rarity": "CC"
+      },
+      {
+        "id": "PD/S22-074S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "PD/S22-075": {
+    "name": "リンちゃんなう！",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你将自己卡组顶1张卡放置到费用区，自己的全部角色，那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "PD/S22-075a",
+        "rarity": "CC"
+      },
+      {
+        "id": "PD/S22-075b",
+        "rarity": "CC"
+      },
+      {
+        "id": "PD/S22-075S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "PD/S22-076": {
+    "name": "鏡音リン“雨”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8500,
+    "cost": 2,
+    "trait": ["音楽", "和服"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【自】这张卡攻击时，高潮区有「鏡音八八花合戦」的话，你将自己卡组顶1张卡放置到休息室。那张卡是等级1以上的卡的话，你抽2张卡。（高潮卡视为0级）",
+    "all_cards": [
+      {
+        "id": "PD/S22-076",
+        "rarity": "RR"
+      },
+      {
+        "id": "PD/S22-076S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "PD/S22-077": {
+    "name": "ＫＡＩＴＯ＆ＭＥＩＫＯ“オリジナル”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 3,
+    "power": 9500,
+    "cost": 2,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【永】对手的回合中，这张卡的战斗力+2000。<br/>【自】这张卡攻击时，你公开自己卡组顶1张卡。那张卡是《音楽》的角色卡的话加入手牌。（否则放回原处）",
+    "all_cards": [
+      {
+        "id": "PD/S22-077",
+        "rarity": "RR"
+      },
+      {
+        "id": "PD/S22-077R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "PD/S22-078": {
+    "name": "ＫＡＩＴＯ“ジェネラル”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["音楽", "ヘッドフォン"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。<br/>【自】这张卡从手牌放置到舞台或通过「初音ミク“アジテーション”」的【自】效果放置到舞台时，你选择自己的1个角色，那个回合中，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "PD/S22-078",
+        "rarity": "R"
+      },
+      {
+        "id": "PD/S22-078S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "PD/S22-079": {
+    "name": "“終わらない歌声”初音ミク",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【起】[(1)] 你抽1张卡，选择自己的1张手牌放置到休息室。<br/>【起】集中 [(1) 这张卡横置] 你将自己卡组顶4张卡放置到休息室。那些卡中每有1张高潮卡，你抽至多1张卡。",
+    "all_cards": [
+      {
+        "id": "PD/S22-079",
+        "rarity": "R"
+      },
+      {
+        "id": "PD/S22-079X",
+        "rarity": "XR"
+      }
+    ]
+  },
+  "PD/S22-080": {
+    "name": "初音ミク“アジテーション”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽", "ヘッドフォン"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】[(1) 1张手牌放置到休息室] 你的「アンハッピーリフレイン」放置到高潮区时，前列有这张卡的话，你可以支付费用。支付了的话，你从自己的卡组找至多1张「ＫＡＩＴＯ“ジェネラル”」和至多1张「鏡音レン“バッドボーイ”」，放置到舞台不同位置。之后，卡组洗切，那个回合中，这张卡的战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "PD/S22-080",
+        "rarity": "R"
+      },
+      {
+        "id": "PD/S22-080S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "PD/S22-081": {
+    "name": "鏡音レン“鳳月”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽", "和服"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】你的「鏡音八八花合戦」放置到高潮区时，你看自己卡组顶1张卡，放置到卡组顶或卡组底，选择自己1个《音楽》的角色，那个回合中，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-081",
+        "rarity": "R"
+      },
+      {
+        "id": "PD/S22-081S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "PD/S22-082": {
+    "name": "初音ミク“SW みずたまビキニ”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 1,
+    "power": 2000,
+    "cost": 1,
+    "trait": ["音楽", "水着"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+X。X是你拥有『应援』能力的角色的数量×500。<br/>【起】[(1)] 你选择自己1个《音楽》的角色，直到下一个对手的回合结束为止，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-082",
+        "rarity": "R"
+      },
+      {
+        "id": "PD/S22-082S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "PD/S22-083": {
+    "name": "初音ミク“メモリア”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】[(1) 你2个竖置的《音楽》的角色横置] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你抽1张卡。",
+    "all_cards": [
+      {
+        "id": "PD/S22-083",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-084": {
+    "name": "鏡音レン“バッドボーイ”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["音楽", "ヘッドフォン"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】对手的回合中，你其他全部《音楽》的角色，战斗力+500。<br/>【自】[这张卡放置到休息室] 你其他角色从舞台放置到休息室时，后列有这张卡的话，你可以支付费用。支付了的话，将那个角色横置放置到原来的位置。",
+    "all_cards": [
+      {
+        "id": "PD/S22-084a",
+        "rarity": "U"
+      },
+      {
+        "id": "PD/S22-084b",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-085": {
+    "name": "弱音ハク“オリジナル”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4000,
+    "cost": 0,
+    "trait": ["音楽", "ネット"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你有其他拥有『应援』的角色的话，这张卡的战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-085",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-086": {
+    "name": "ＫＡＩＴＯ“ギルティ”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】[(1)] 这张卡攻击时，高潮区有「ACUTE」的话，你可以支付费用。支付了的话，你从自己的卡组找至多1张「初音ミク“イノセント”」或「巡音ルカ“アムール”」展示给对手后加入手牌。之后，卡组洗切，那个回合中，这张卡的战斗力+2500。",
+    "all_cards": [
+      {
+        "id": "PD/S22-086",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-087": {
+    "name": "鏡音リン“SW スクール”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6500,
+    "cost": 1,
+    "trait": ["音楽", "水着"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你其他《音楽》的角色有2个以上的话，直到下一个对手的回合结束为止，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-087",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-088": {
+    "name": "初音ミク“スターヴォイス”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，高潮区有「FREELY TOMORROW」的话，你全部《音楽》的角色，那个回合中，战斗力+1500，给予以下能力。『【自】这张卡的战斗对手倒置时，你抽1张卡，选择自己的1张手牌放置到休息室。』",
+    "all_cards": [
+      {
+        "id": "PD/S22-088",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-089": {
+    "name": "初音ミク“イノセント”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 2,
+    "power": 10000,
+    "cost": 1,
+    "trait": ["音楽", "愛"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】你的再演步骤开始时，你选择自己的1个角色放置到休息室。",
+    "all_cards": [
+      {
+        "id": "PD/S22-089",
+        "rarity": "U"
+      }
+    ]
+  },
+  "PD/S22-090": {
+    "name": "初音ミク“ソリチュード”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你没有其他前列的角色的话，这张卡的等级+1，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-090",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-091": {
+    "name": "ＫＡＩＴＯ“レクイエム”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "PD/S22-091",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-092": {
+    "name": "ＫＡＩＴＯ“SW ハーフスパッツ”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 0,
+    "trait": ["音楽", "水着"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "PD/S22-092",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-093": {
+    "name": "ＫＡＩＴＯ“零ノ桜・蒼雪”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7500,
+    "cost": 1,
+    "trait": ["音楽", "和服"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "PD/S22-093",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-094": {
+    "name": "初音ミク“紫揚羽”",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "角色卡",
+    "level": 2,
+    "power": 9000,
+    "cost": 2,
+    "trait": ["音楽", "植物"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "PD/S22-094",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-095": {
+    "name": "残念ながらSAFEでした",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "事件卡",
+    "level": 2,
+    "power": "-",
+    "cost": 1,
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "集中 你将自己卡组顶3张卡放置到休息室。那些卡中有高潮卡的话，你抽1张卡。如果不是的话，你抽2张卡。",
+    "all_cards": [
+      {
+        "id": "PD/S22-095",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-096": {
+    "name": "ハイハハイニ",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "事件卡",
+    "level": 2,
+    "power": "-",
+    "cost": 1,
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【反击】你没有《音楽》的角色的话，这张卡不能从手牌中使用。你选择自己的1个角色，那个回合中，战斗力+4000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-096",
+        "rarity": "C"
+      }
+    ]
+  },
+  "PD/S22-097": {
+    "name": "FREELY TOMORROW",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "PD/S22-097",
+        "rarity": "CR"
+      },
+      {
+        "id": "PD/S22-097R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "PD/S22-098": {
+    "name": "ACUTE",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你抽1张卡，选择自己的1个角色，那个回合中，战斗力+2000，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "PD/S22-098a",
+        "rarity": "CR"
+      },
+      {
+        "id": "PD/S22-098b",
+        "rarity": "CR"
+      },
+      {
+        "id": "PD/S22-098R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "PD/S22-099": {
+    "name": "鏡音八八花合戦",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/draw.webp\">：这张卡被触发时，你可以抽1张卡）",
+    "all_cards": [
+      {
+        "id": "PD/S22-099",
+        "rarity": "CC"
+      },
+      {
+        "id": "PD/S22-099S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "PD/S22-100": {
+    "name": "アンハッピーリフレイン",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你将自己卡组顶1张卡放置到费用区，自己的全部角色，那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "PD/S22-100",
+        "rarity": "CC"
+      },
+      {
+        "id": "PD/S22-100S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "PD/S22-108": {
+    "name": "サマーアイドル",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/bounce.webp\">：这张卡被触发时，你可以选择对手的1个角色，使其返回手牌）",
+    "all_cards": [
+      {
+        "id": "PD/S22-108",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PD/S22-109": {
+    "name": "ネトゲ廃人シュプレヒコール",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "PD/S22-109",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PD/S22-110": {
+    "name": "秘密警察",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你抽1张卡，选择自己的1个角色，那个回合中，灵魂值+3。",
+    "all_cards": [
+      {
+        "id": "PD/S22-110",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PD/S22-111": {
+    "name": "トリノコシティ",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你抽1张卡，选择自己的1个角色，那个回合中，战斗力+2000，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "PD/S22-111",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PD/S22-112": {
+    "name": "キャットフード",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你抽1张卡，选择自己的1个角色，那个回合中，灵魂值+3。",
+    "all_cards": [
+      {
+        "id": "PD/S22-112",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PD/S22-113": {
+    "name": "どういうことなの！？",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你抽1张卡，选择自己的1个角色，那个回合中，战斗力+2000，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "PD/S22-113",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PD/S22-114": {
+    "name": "え？ああ、そう。",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你抽1张卡，选择自己的1个角色，那个回合中，灵魂值+3。",
+    "all_cards": [
+      {
+        "id": "PD/S22-114",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PD/S22-115": {
+    "name": "ネガポジ＊コンティニューズ",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你抽1张卡，选择自己的1个角色，那个回合中，战斗力+2000，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "PD/S22-115",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PD/S22-116": {
+    "name": "Nyanyanyanyanyanyanya!",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你抽1张卡，自己的全部角色，那个回合中，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-116",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PD/S22-117": {
+    "name": "WORLD'S END UMBRELLA",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你抽1张卡，自己的全部角色，那个回合中，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-117",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PD/S22-118": {
+    "name": "神曲",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你将自己卡组顶1张卡放置到费用区，自己的全部角色，那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "PD/S22-118",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PD/S22-119": {
+    "name": "モノクロ∞ブルースカイ",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你抽1张卡，自己的全部角色，那个回合中，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-119",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PD/S22-120": {
+    "name": "Stay with me",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你抽1张卡，自己的全部角色，那个回合中，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "PD/S22-120",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PD/S22-121": {
+    "name": "Sweet Devil",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/stock.webp\">：这张卡被触发时，你可以将自己卡组顶1张卡放置到费用区）",
+    "all_cards": [
+      {
+        "id": "PD/S22-121",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PD/S22-122": {
+    "name": "Tell Your World",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/treasure.webp\">：这张卡被触发时，你将这张卡返回手牌。你可以将自己卡组顶1张卡放置到费用区）",
+    "all_cards": [
+      {
+        "id": "PD/S22-122",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "PD/S22-123": {
+    "name": "夢喰い白黒バク",
+    "product_name": "初音ミク -Project DIVA- f",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，你将自己卡组顶1张卡放置到费用区，自己的全部角色，那个回合中，灵魂值+1。",
+    "all_cards": [
+      {
+        "id": "PD/S22-123",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
