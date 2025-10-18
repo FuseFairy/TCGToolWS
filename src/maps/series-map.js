@@ -508,4 +508,8 @@ export const seriesMap = {
     id: 'sb',
     prefixes: ['SB'],
   },
+  '偶像大师': {
+    id: 'im',
+    prefixes: ['IM', 'IAS'],
+  },
 }

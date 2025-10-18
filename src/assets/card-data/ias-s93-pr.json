@@ -1,0 +1,114 @@
+{
+  "IAS/S93-P07": {
+    "name": "スターリー・フューチャーズ 天海春香",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 6000,
+    "cost": 2,
+    "trait": ["音楽", "お菓子"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【永】你的前列每有1个其他的《音楽》的角色，这张卡的战斗力+2000。<br/>【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "IAS/S93-P07",
+        "rarity": "PR"
+      },
+      {
+        "id": "IAS/S93-P07S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IAS/S93-P02": {
+    "name": "文舞両道！　春香＆千早＆美希",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你选择自己1个《音楽》的角色，那个回合中战斗力+1500。<br/>【自】[手牌中1张《音楽》的角色卡放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你抽1张卡。",
+    "all_cards": [
+      {
+        "id": "IAS/S93-P02",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IAS/S93-125": {
+    "name": "Deep, Deep Blue",
+    "product_name": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/choice.webp\">：这张卡被触发时，你可以从自己的休息室选择1张触发标记有<img src=\"/effect-icons/soul.webp\">的角色卡返回手牌或放置到费用区）",
+    "all_cards": [
+      {
+        "id": "IAS/S93-125",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IAS/S93-134": {
+    "name": "LEADER!!",
+    "product_name": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，执行<img src=\"/effect-icons/standby.webp\">的效果。<br/>（<img src=\"/effect-icons/standby.webp\">：这张卡被触发时，你可以从自己的休息室选择1张等级在自己等级+1以下的角色卡，横置放置到舞台任意位置）",
+    "all_cards": [
+      {
+        "id": "IAS/S93-134",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IAS/S93-135": {
+    "name": "ラビットファー",
+    "product_name": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/salvage.webp\">：这张卡被触发时，你可以从自己的休息室选择1张角色卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "IAS/S93-135",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IAS/S93-142": {
+    "name": "瞳の中のシリウス",
+    "product_name": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/gate.webp\">：这张卡被触发时，你可以从自己的休息室选择1张高潮卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "IAS/S93-142",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
