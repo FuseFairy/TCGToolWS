@@ -520,4 +520,8 @@ export const seriesMap = {
     id: 'mk',
     prefixes: ['MK', 'MK2'],
   },
+  '新世纪福音战士新剧场版': {
+    id: 'ev',
+    prefixes: ['EV'],
+  },
 }

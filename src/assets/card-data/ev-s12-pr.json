@@ -1,0 +1,92 @@
+{
+  "EV/S12-106": {
+    "name": "出撃する綾波",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["パイロット"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "EV/S12-106",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "EV/S12-107": {
+    "name": "旧型プラグスーツのマリ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["パイロット", "メガネ"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "EV/S12-107",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "EV/S12-108": {
+    "name": "隔離待機室のアスカ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["パイロット", "軍隊"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，你选择自己其他1个《パイロット》的角色，那个回合中，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "EV/S12-108",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "EV/S12-109": {
+    "name": "ヒミツの綾波",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2500,
+    "cost": 1,
+    "trait": ["パイロット"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀3000 等级2 [(1) 手牌中这张卡放置到休息室]（你选择自己1个被正面攻击的角色，那个回合中，战斗力+3000）",
+    "all_cards": [
+      {
+        "id": "EV/S12-109",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "EV/S12-110": {
+    "name": "ゼロ距離射撃のマリ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["パイロット", "メガネ"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你选择自己其他1个《メカ》的角色，那个回合中，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "EV/S12-110",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
