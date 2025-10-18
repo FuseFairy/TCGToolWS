@@ -564,4 +564,8 @@ export const seriesMap = {
     id: 'ds2',
     prefixes: ['DS2'],
   },
+  '魔法少女伊莉雅': {
+    id: 'pi',
+    prefixes: ['PI'],
+  },
 }
