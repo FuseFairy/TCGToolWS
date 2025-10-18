@@ -540,4 +540,8 @@ export const seriesMap = {
     id: 'gc',
     prefixes: ['GC'],
   },
+  '加速世界': {
+    id: 'aw',
+    prefixes: ['AW', 'Gaw'],
+  },
 }
