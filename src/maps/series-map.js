@@ -732,4 +732,8 @@ export const seriesMap = {
     id: 'rkn',
     prefixes: ['RKN'],
   },
+  '胜利女神：妮姬': {
+    id: 'nik',
+    prefixes: ['NIK'],
+  },
 }
