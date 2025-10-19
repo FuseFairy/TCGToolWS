@@ -716,4 +716,8 @@ export const seriesMap = {
     id: 'pad',
     prefixes: ['PAD'],
   },
+  '我推的孩子': {
+    id: 'osk',
+    prefixes: ['OSK'],
+  },
 }
