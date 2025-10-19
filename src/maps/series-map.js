@@ -684,4 +684,8 @@ export const seriesMap = {
     id: 'isc',
     prefixes: ['ISC'],
   },
+  '无职转生 ~到了异世界就拿出真本事~': {
+    id: 'mti',
+    prefixes: ['MTI'],
+  },
 }
