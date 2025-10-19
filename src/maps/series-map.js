@@ -720,4 +720,8 @@ export const seriesMap = {
     id: 'osk',
     prefixes: ['OSK'],
   },
+  '葬送的芙莉莲': {
+    id: 'sfn',
+    prefixes: ['SFN'],
+  },
 }
