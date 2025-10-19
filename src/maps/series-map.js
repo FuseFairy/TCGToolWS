@@ -724,4 +724,8 @@ export const seriesMap = {
     id: 'sfn',
     prefixes: ['SFN'],
   },
+  'Disney 镜之守卫者': {
+    id: 'mrp',
+    prefixes: ['MRd', 'MRp'],
+  },
 }
