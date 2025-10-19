@@ -640,4 +640,8 @@ export const seriesMap = {
     id: 'rsl',
     prefixes: ['RSL'],
   },
+  '游戏人生': {
+    id: 'ngl',
+    prefixes: ['NGL'],
+  },
 }
