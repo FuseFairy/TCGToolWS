@@ -692,4 +692,8 @@ export const seriesMap = {
     id: 'wtr',
     prefixes: ['WTR'],
   },
+  '在地下城寻求邂逅是否搞错了什么': {
+    id: 'ddm',
+    prefixes: ['DDM'],
+  },
 }
