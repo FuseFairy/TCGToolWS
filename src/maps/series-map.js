@@ -608,4 +608,8 @@ export const seriesMap = {
     id: 'oms',
     prefixes: ['OMS'],
   },
+  '境界之轮回': {
+    id: 'kr',
+    prefixes: ['KR'],
+  },
 }

@@ -1,0 +1,164 @@
+{
+  "KR/SE30-P01": {
+    "name": "“黒猫族”六文",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["契約黒猫"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你可以将自己卡组顶3张卡放置到休息室。",
+    "all_cards": [
+      {
+        "id": "KR/SE30-P01",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "KR/SE30-51": {
+    "name": "六道 りんね",
+    "product_name": "境界のRINNE",
+    "type": "角色卡",
+    "level": 1,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["死神"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀1500 等级1 [手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+1500）",
+    "all_cards": [
+      {
+        "id": "KR/SE30-51",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "KR/SE30-52": {
+    "name": "“遊園地デート”桜",
+    "product_name": "境界のRINNE",
+    "type": "角色卡",
+    "level": 1,
+    "power": 7000,
+    "cost": 1,
+    "trait": ["特徴なし"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】这张卡不能侧面攻击。<br/>【自】再演 [你卡组顶1张卡放置到时计区] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "KR/SE30-52",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "KR/SE30-53": {
+    "name": "“浄霊＜デート”翼",
+    "product_name": "境界のRINNE",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3500,
+    "cost": 0,
+    "trait": ["本"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】这张卡不能侧面攻击。",
+    "all_cards": [
+      {
+        "id": "KR/SE30-53",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "KR/SE30-54": {
+    "name": "“サポート役”六文",
+    "product_name": "境界のRINNE",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["契約黒猫"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】[手牌中1张高潮卡放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张红色或《死神》的角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "KR/SE30-54",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "KR/SE30-55": {
+    "name": "“だまされやすい性格”鳳",
+    "product_name": "境界のRINNE",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["死神", "令嬢"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【起】[你2个红色或《死神》的角色横置] 你选择自己的1个角色，那个回合中，战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "KR/SE30-55",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "KR/SE30-56": {
+    "name": "怒りの架印",
+    "product_name": "境界のRINNE",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 1,
+    "trait": ["死神"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你其他红色或《死神》的角色有4个以上的话，你可以将自己卡组顶1张卡放置到费用区。",
+    "all_cards": [
+      {
+        "id": "KR/SE30-56",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "KR/SE30-57": {
+    "name": "トイレの花子さん",
+    "product_name": "境界のRINNE",
+    "type": "角色卡",
+    "level": 2,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["霊"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【自】战斗中这张卡倒置时，你将自己卡组顶1张卡放置到时计区，这张卡横置。",
+    "all_cards": [
+      {
+        "id": "KR/SE30-57",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "KR/SE30-58": {
+    "name": "“霊体クラッカー”だまし神",
+    "product_name": "境界のRINNE",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2500,
+    "cost": 1,
+    "trait": ["死神"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀3000 等级2 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+3000）",
+    "all_cards": [
+      {
+        "id": "KR/SE30-58",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
