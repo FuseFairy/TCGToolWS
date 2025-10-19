@@ -17,13 +17,15 @@
 
           <v-card-text>
             <v-alert v-if="error" type="error" density="compact" class="mb-4">{{ error }}</v-alert>
-            <v-form @submit.prevent="handleCredentialSubmit">
+            <v-form ref="credentialsForm" v-model="isFormValid" @submit.prevent="handleCredentialSubmit">
               <v-text-field
                 v-model="email"
                 label="邮箱"
                 type="email"
                 variant="outlined"
                 :readonly="loading"
+                :rules="emailRules"
+                class="mb-2"
               ></v-text-field>
 
               <v-text-field
@@ -33,6 +35,8 @@
                 variant="outlined"
                 :readonly="loading"
                 :autocomplete="isLoginMode ? 'on' : 'off'"
+                :rules="isLoginMode ? [] : passwordRules"
+                class="mb-2"
               ></v-text-field>
 
               <div v-if="isLoginMode" class="d-flex justify-space-between align-center mb-4">
@@ -59,6 +63,8 @@
                 variant="outlined"
                 :readonly="loading"
                 autocomplete="off"
+                :rules="passwordConfirmRules"
+                class="mb-2"
               ></v-text-field>
 
               <v-btn
@@ -68,14 +74,7 @@
                 color="primary"
                 size="large"
                 :loading="loading"
-                :disabled="
-                  isRegisterCoolingDown ||
-                  password.length < 8 ||
-                  passwordConfirm.length < 8 ||
-                  !email.trim()
-                    ? true
-                    : false
-                "
+                :disabled="!isFormValid || isRegisterCoolingDown"
               >
                 {{ `发送验证码 ${registerCooldownText}` }}
               </v-btn>
@@ -188,6 +187,26 @@ const email = ref('')
 const password = ref('')
 const passwordConfirm = ref('')
 const verificationCode = ref('')
+const credentialsForm = ref(null)
+const isFormValid = ref(false)
+
+// Validation Rules
+const emailRules = [
+  (v) => !!v || '请输入邮箱',
+  (v) => {
+    const pattern =
+      /^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/
+    return pattern.test(v) || '无效的邮箱格式'
+  },
+]
+const passwordRules = [
+  (v) => !!v || '请输入密码',
+  (v) => (v && v.length >= 8) || '密码长度至少为 8 个字符',
+]
+const passwordConfirmRules = [
+  (v) => !!v || '请再次输入密码',
+  (v) => v === password.value || '两次输入的密码不一致',
+]
 
 // --- UI Feedback State ---
 const loading = ref(false) // 主要提交按钮的 loading
@@ -209,9 +228,10 @@ const resendButtonText = computed(() => {
 // --- Core Logic Handlers ---
 const handleCredentialSubmit = async () => {
   error.value = null
-  if (!isLoginMode.value && password.value !== passwordConfirm.value) {
-    error.value = '两次输入的密码不一致'
-    return
+
+  if (!isLoginMode.value) {
+    const { valid } = await credentialsForm.value.validate()
+    if (!valid) return
   }
 
   loading.value = true
