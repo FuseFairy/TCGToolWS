@@ -740,4 +740,8 @@ export const seriesMap = {
     id: 'ddd',
     prefixes: ['DDD'],
   },
+  '怪兽8号': {
+    id: 'kj8',
+    prefixes: ['KJ8'],
+  },
 }
