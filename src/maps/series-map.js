@@ -704,4 +704,8 @@ export const seriesMap = {
     id: 'azl',
     prefixes: ['AZL'],
   },
+  '电锯人': {
+    id: 'csm',
+    prefixes: ['CSM'],
+  },
 }
