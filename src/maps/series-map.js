@@ -624,4 +624,8 @@ export const seriesMap = {
     id: 'sw',
     prefixes: ['SW', 'Dsw'],
   },
+  '天元突破红莲螺岩': {
+    id: 'gl',
+    prefixes: ['GL'],
+  },
 }
