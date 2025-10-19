@@ -241,8 +241,16 @@ useInfiniteScrollState({
   overflow-y: hidden;
 }
 
-/* Tablet (sm, md) */
-@media (min-width: 600px) and (max-width: 1279.98px) {
+/* Small tablet (sm) */
+@media (min-width: 600px) and (max-width: 959.98px) {
+  .sidebar-container.left-sidebar-open,
+  .sidebar-container.right-sidebar-open {
+    width: 46%;
+  }
+}
+
+/* Medium tablet (md) */
+@media (min-width: 960px) and (max-width: 1279.98px) {
   .sidebar-container.left-sidebar-open,
   .sidebar-container.right-sidebar-open {
     width: 35%;
