@@ -688,4 +688,8 @@ export const seriesMap = {
     id: 'mti',
     prefixes: ['MTI'],
   },
+  '境界触发者': {
+    id: 'wtr',
+    prefixes: ['WTR'],
+  },
 }
