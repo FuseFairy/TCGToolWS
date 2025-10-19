@@ -660,4 +660,8 @@ export const seriesMap = {
     id: 'tsk',
     prefixes: ['TSK'],
   },
+  '灰色的果实': {
+    id: 'gri',
+    prefixes: ['GRI'],
+  },
 }
