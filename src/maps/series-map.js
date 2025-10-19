@@ -648,4 +648,8 @@ export const seriesMap = {
     id: 'ims',
     prefixes: ['IMS', 'IAS'],
   },
+  'STEINS;GATE': {
+    id: 'stg',
+    prefixes: ['STG'],
+  },
 }
