@@ -656,4 +656,8 @@ export const seriesMap = {
     id: 'gbs',
     prefixes: ['GBS'],
   },
+  '关于我转生变成史莱姆这档事': {
+    id: 'tsk',
+    prefixes: ['TSK'],
+  },
 }
