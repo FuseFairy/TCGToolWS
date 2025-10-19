@@ -79,7 +79,7 @@ export const seriesMap = {
     id: 'amg',
     prefixes: ['AMG'],
   },
-  '世界计划 彩色舞台 feat.初音未来': {
+  '世界计划多彩舞台 feat. 初音未来': {
     id: 'pjs',
     prefixes: ['PJS'],
   },
