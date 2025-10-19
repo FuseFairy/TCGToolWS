@@ -652,4 +652,8 @@ export const seriesMap = {
     id: 'stg',
     prefixes: ['STG'],
   },
+  '哥布林杀手': {
+    id: 'gbs',
+    prefixes: ['GBS'],
+  },
 }
