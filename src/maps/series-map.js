@@ -712,4 +712,8 @@ export const seriesMap = {
     id: 'ari',
     prefixes: ['ARI'],
   },
+  '智龙迷城': {
+    id: 'pad',
+    prefixes: ['PAD'],
+  },
 }
