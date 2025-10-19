@@ -9,20 +9,14 @@ export const findSeriesDataFileName = (prefixes = []) => {
     return []
   }
 
-  const lowerCasePrefixes = prefixes.map((p) => p.toLowerCase())
-  const result = []
+  const prefixesSet = new Set(prefixes.map((p) => p.toLowerCase()))
 
-  for (const path of allSeriesCardPaths) {
+  const result = allSeriesCardPaths.filter((path) => {
     const fileName = path.split('/').pop().toLowerCase()
     const fileNamePart = fileName.split('-')[0]
 
-    for (const prefix of lowerCasePrefixes) {
-      if (fileNamePart === prefix) {
-        result.push(path)
-        break
-      }
-    }
-  }
+    return prefixesSet.has(fileNamePart)
+  })
 
-  return result.sort()
+  return result
 }
