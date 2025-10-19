@@ -596,4 +596,8 @@ export const seriesMap = {
     id: 'aot',
     prefixes: ['AOT'],
   },
+  'SchoolGirl Strikers': {
+    id: 'sgs',
+    prefixes: ['SGS'],
+  },
 }
