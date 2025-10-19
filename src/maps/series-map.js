@@ -628,4 +628,8 @@ export const seriesMap = {
     id: 'gl',
     prefixes: ['GL'],
   },
+  '动画电影『GODZILLA』': {
+    id: 'gzl',
+    prefixes: ['GZL'],
+  },
 }
