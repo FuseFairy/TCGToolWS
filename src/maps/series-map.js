@@ -696,4 +696,8 @@ export const seriesMap = {
     id: 'ddm',
     prefixes: ['DDM'],
   },
+  '东京复仇者': {
+    id: 'trv',
+    prefixes: ['TRV'],
+  },
 }
