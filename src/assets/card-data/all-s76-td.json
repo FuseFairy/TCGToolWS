@@ -1,0 +1,882 @@
+{
+  "ALL/S76-T01": {
+    "name": "郭 神琳",
+    "product_name": "[TD+]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你其他全部的「王 雨嘉」，战斗力+500，给予『【自】再演 [手牌中1张角色卡放置到休息室]』的能力。<br/>【自】绊／「王 雨嘉」 [你卡组顶1张卡放置到时计区] （这张卡被使用放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张「王 雨嘉」返回手牌）",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T01",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "ALL/S76-T02": {
+    "name": "物静かなリリィ 雨嘉",
+    "product_name": "[TD+]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你将自己卡组顶2张卡放置到休息室。那些卡中有高潮卡的话，你选择对手的1个角色，那个回合中，战斗力-500。<br/>【自】这张卡攻击时，你看自己卡组顶至多2张卡选择1张卡，放置到卡组顶，其余的卡放置到休息室。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T02",
+        "rarity": "TD"
+      },
+      {
+        "id": "ALL/S76-T02R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "ALL/S76-T03": {
+    "name": "安藤 鶴紗",
+    "product_name": "[TD+]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 0,
+    "power": 4000,
+    "cost": 0,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】对手的全部角色，给予『【自】再演 [(2)]』的能力。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T03",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "ALL/S76-T04": {
+    "name": "強い正義感 神琳",
+    "product_name": "[TD+]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】[你其他1个竖置的《リリィ》的角色横置] 这张卡从手牌放置到舞台的回合中，这张卡的战斗对手倒置时，你可以支付费用。支付了的话，你将自己卡组顶1张卡放置到费用区。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T04",
+        "rarity": "TD"
+      },
+      {
+        "id": "ALL/S76-T04R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "ALL/S76-T05": {
+    "name": "王 雨嘉",
+    "product_name": "[TD+]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 1,
+    "power": 7000,
+    "cost": 1,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T05",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "ALL/S76-T06": {
+    "name": "強化リリィ 鶴紗",
+    "product_name": "[TD+]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7000,
+    "cost": 1,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，那个回合中，这张卡的战斗力+X。X是你其他《リリィ》的角色的数量×1000。<br/>【自】这张卡的战斗对手倒置时，你选择自己1个《リリィ》的角色，那个回合中，战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T06",
+        "rarity": "TD"
+      },
+      {
+        "id": "ALL/S76-T06R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "ALL/S76-T07": {
+    "name": "二川 二水",
+    "product_name": "[TD+]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。<br/>【自】你的主要阶段开始时，你看自己卡组顶1张卡，放置到卡组顶或休息室。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T07",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "ALL/S76-T08": {
+    "name": "聡明なお嬢様 楓",
+    "product_name": "[TD+]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【起】[(1)] 你抽1张卡，选择自己的1张手牌放置到休息室。<br/>【起】集中 [(1) 这张卡横置] 你将自己卡组顶4张卡放置到休息室。那些卡中每有1张高潮卡，你抽至多1张卡。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T08",
+        "rarity": "TD"
+      },
+      {
+        "id": "ALL/S76-T08R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "ALL/S76-T09": {
+    "name": "楓・J・ヌーベル",
+    "product_name": "[TD+]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4000,
+    "cost": 0,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】你其他《リリィ》的角色攻击时，那个回合中，这张卡的战斗力+1500。<br/>【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T09",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "ALL/S76-T10": {
+    "name": "一柳 梨璃",
+    "product_name": "[TD+]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你其他《リリィ》的角色有2个以上的话，这张卡的战斗力+1000。<br/>【自】【CX联动】这张卡的战斗对手倒置时，你的高潮区有「チャームとの契約」的话，你可以从自己的休息室选择1张角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T10",
+        "rarity": "TD"
+      },
+      {
+        "id": "ALL/S76-T10S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "ALL/S76-T11": {
+    "name": "リリィオタク 二水",
+    "product_name": "[TD+]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 2,
+    "power": 5000,
+    "cost": 1,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+X。X是那个角色的等级×500。<br/>【自】你的高潮卡放置到高潮区时，你看自己卡组顶1张卡，放置到卡组顶或休息室，选择自己1个《リリィ》的角色，那个回合中，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T11",
+        "rarity": "TD"
+      },
+      {
+        "id": "ALL/S76-T11R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "ALL/S76-T12": {
+    "name": "元気いっぱい！ 梨璃",
+    "product_name": "[TD+]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【自】这张卡从手牌放置到舞台时，你看自己卡组顶至多X张卡，选择至多1张卡加入手牌，其余的卡放置到休息室。X是你《リリィ》的角色的数量。<br/>【自】[(2) 1张手牌放置到休息室] 这张卡攻击时，你可以支付费用。支付了的话，给对手造成1点伤害。（发生伤害取消）",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T12",
+        "rarity": "TD"
+      },
+      {
+        "id": "ALL/S76-T12SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "ALL/S76-T13": {
+    "name": "入学式の朝",
+    "product_name": "[TD+]アサルトリリィ BOUQUET",
+    "type": "事件卡",
+    "level": 1,
+    "power": "-",
+    "cost": 0,
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "你看自己卡组顶至多4张卡，选择至多1张《リリィ》的角色卡展示给对手后加入手牌，其余的卡放置到休息室。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T13",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "ALL/S76-T14": {
+    "name": "チャームとの契約",
+    "product_name": "[TD+]アサルトリリィ BOUQUET",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/salvage.webp\">：这张卡被触发时，你可以从自己的休息室选择1张角色卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T14",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "ALL/S76-T15": {
+    "name": "夢結様…！",
+    "product_name": "[TD+]アサルトリリィ BOUQUET",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T15",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "ALL/S76-T16": {
+    "name": "孤高のリリィ 夢結",
+    "product_name": "[TD+]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你其他《リリィ》的角色有2个以上的话，这张卡的等级+1，战斗力+500。<br/>【自】这张卡的战斗对手倒置时，你选择自己其他1个《リリィ》的角色，将其横置，移动到后列没有角色的位置。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T16",
+        "rarity": "TD"
+      },
+      {
+        "id": "ALL/S76-T16SP",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "ALL/S76-T17": {
+    "name": "ムードメーカー 梅",
+    "product_name": "[TD+]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你选择自己1个《リリィ》的角色，那个回合中，战斗力+X。X是你《リリィ》的角色的数量×500。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T17",
+        "rarity": "TD"
+      },
+      {
+        "id": "ALL/S76-T17R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "ALL/S76-T18": {
+    "name": "おしゃべり大好き ミリアム",
+    "product_name": "[TD+]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】[(1) 1张手牌放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的卡组找至多1张《リリィ》的角色卡展示给对手后加入手牌，卡组洗切。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T18",
+        "rarity": "TD"
+      },
+      {
+        "id": "ALL/S76-T18R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "ALL/S76-T19": {
+    "name": "ミリアム・ヒルデガルド・v・グロピウス",
+    "product_name": "[TD+]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 1,
+    "power": 1000,
+    "cost": 1,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀2500 等级1 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+2500）",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T19",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "ALL/S76-T20": {
+    "name": "吉村・Thi・梅",
+    "product_name": "[TD+]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7000,
+    "cost": 2,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【永】你每有1个其他的《リリィ》的角色，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T20",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "ALL/S76-T21": {
+    "name": "白井 夢結",
+    "product_name": "[TD+]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 3,
+    "power": 9500,
+    "cost": 2,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【永】你每有1个其他的《リリィ》的角色，这张卡的战斗力+500。<br/>【自】这张卡从手牌放置到舞台时，你可以将自己时计区顶1张卡放置到休息室。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T21",
+        "rarity": "TD"
+      },
+      {
+        "id": "ALL/S76-T21S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "ALL/S76-T22": {
+    "name": "ヒュージ強襲",
+    "product_name": "[TD+]アサルトリリィ BOUQUET",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/gate.webp\">：这张卡被触发时，你可以从自己的休息室选择1张高潮卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T22",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "ALL/S76-T23": {
+    "name": "物静かなリリィ 雨嘉",
+    "product_name": "[TDR]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你将自己卡组顶2张卡放置到休息室。那些卡中有高潮卡的话，你选择对手的1个角色，那个回合中，战斗力-500。<br/>【自】这张卡攻击时，你看自己卡组顶至多2张卡，选择1张卡，放置到卡组顶，其余的卡放置到休息室。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T23",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "ALL/S76-T24": {
+    "name": "とある提案 神琳",
+    "product_name": "[TDR]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你将自己卡组顶2张卡放置到休息室，那个回合中，这张卡的战斗力+X。X是那些卡中《リリィ》的角色卡的数量×1000。<br/>【自】这张卡的战斗对手倒置时，你选择自己的1个角色，那个回合中，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T24",
+        "rarity": "TD"
+      },
+      {
+        "id": "ALL/S76-T24R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "ALL/S76-T25": {
+    "name": "話が気になる雨嘉",
+    "product_name": "[TDR]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4000,
+    "cost": 0,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你其他《リリィ》的角色有2个以上的话，这张卡的战斗力+2000。<br/>【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T25",
+        "rarity": "TD"
+      },
+      {
+        "id": "ALL/S76-T25R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "ALL/S76-T26": {
+    "name": "強い正義感 神琳",
+    "product_name": "[TDR]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】[你其他1个竖置的《リリィ》的角色横置] 这张卡从手牌放置到舞台的回合中，这张卡的战斗对手倒置时，你可以支付费用。支付了的话，你将自己卡组顶1张卡放置到费用区。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T26",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "ALL/S76-T27": {
+    "name": "意外な一面 鶴紗",
+    "product_name": "[TDR]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2000,
+    "cost": 1,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】你使用这张卡的『助太刀』时，你有《リリィ》的角色的话，你选择自己战斗中的1个角色，那个回合中，战斗力+1000。<br/>【起】【反击】助太刀2500 等级2 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+2500）",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T27",
+        "rarity": "TD"
+      },
+      {
+        "id": "ALL/S76-T27R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "ALL/S76-T28": {
+    "name": "強化リリィ 鶴紗",
+    "product_name": "[TDR]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7000,
+    "cost": 1,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，那个回合中，这张卡的战斗力+X。X是你其他《リリィ》的角色的数量×1000。<br/>【自】这张卡的战斗对手倒置时，你选择自己1个《リリィ》的角色，那个回合中，战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T28",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "ALL/S76-T29": {
+    "name": "“守護天使の契り” 夢結&梨璃",
+    "product_name": "[TDR]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】[手牌中1张高潮卡放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的休息室选择1张《リリィ》的角色卡返回手牌。<br/>【自】这个能力1回合至多发动2次。你其他《リリィ》的角色从手牌放置到舞台时，那个回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T29",
+        "rarity": "TD"
+      },
+      {
+        "id": "ALL/S76-T29SPa",
+        "rarity": "SP"
+      },
+      {
+        "id": "ALL/S76-T29SPb",
+        "rarity": "SP"
+      }
+    ]
+  },
+  "ALL/S76-T30": {
+    "name": "聡明なお嬢様 楓",
+    "product_name": "[TDR]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【起】[(1)] 你抽1张卡，选择自己的1张手牌放置到休息室。<br/>【起】集中 [(1) 这张卡横置] 你将自己卡组顶4张卡放置到休息室。那些卡中每有1张高潮卡，你抽至多1张卡。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T30",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "ALL/S76-T31": {
+    "name": "世界一の自信 楓",
+    "product_name": "[TDR]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 1,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，你选择自己的1个角色，那个回合中，战斗力+2500。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T31",
+        "rarity": "TD"
+      },
+      {
+        "id": "ALL/S76-T31R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "ALL/S76-T32": {
+    "name": "瞳を輝かせる二水",
+    "product_name": "[TDR]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 1,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你其他《リリィ》的角色有2个以上的话，这张卡的战斗力+1500，这张卡获得『【自】再演 [手牌中1张角色卡放置到休息室]』的能力。<br/>【自】这张卡攻击时，你有其他《リリィ》的角色的话，那个回合中，这张卡的战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T32",
+        "rarity": "TD"
+      },
+      {
+        "id": "ALL/S76-T32R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "ALL/S76-T33": {
+    "name": "リリィオタク 二水",
+    "product_name": "[TDR]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 2,
+    "power": 5000,
+    "cost": 1,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+X。X是那个角色的等级×500。<br/>【自】你的高潮卡放置到高潮区时，你看自己卡组顶1张卡，放置到卡组顶或休息室，选择自己1个《リリィ》的角色，那个回合中，战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T33",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "ALL/S76-T34": {
+    "name": "元気いっぱい！ 梨璃",
+    "product_name": "[TDR]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【自】这张卡从手牌放置到舞台时，你看自己卡组顶至多X张卡，选择至多1张卡加入手牌，其余的卡放置到休息室。X是你《リリィ》的角色的数量。<br/>【自】[(2) 1张手牌放置到休息室] 这张卡攻击时，你可以支付费用。支付了的话，给对手造成1点伤害。（发生伤害取消）",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T34",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "ALL/S76-T35": {
+    "name": "入学式の朝",
+    "product_name": "[TDR]アサルトリリィ BOUQUET",
+    "type": "事件卡",
+    "level": 1,
+    "power": "-",
+    "cost": 0,
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "你看自己卡组顶至多4张卡，选择至多1张《リリィ》的角色卡展示给对手后加入手牌，其余的卡放置到休息室。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T35",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "ALL/S76-T36": {
+    "name": "チャームとの契約",
+    "product_name": "[TDR]アサルトリリィ BOUQUET",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/salvage.webp\">：这张卡被触发时，你可以从自己的休息室选择1张角色卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T36",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "ALL/S76-T37": {
+    "name": "夢結様…！",
+    "product_name": "[TDR]アサルトリリィ BOUQUET",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T37",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "ALL/S76-T38": {
+    "name": "鋭い観察眼 梅",
+    "product_name": "[TDR]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 0,
+    "power": 500,
+    "cost": 0,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】应援 你这张卡前的全部角色，战斗力+500。<br/>【自】你的高潮阶段开始时，你选择自己的1个角色，那个回合中，战斗力+500。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T38",
+        "rarity": "TD"
+      },
+      {
+        "id": "ALL/S76-T38R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "ALL/S76-T39": {
+    "name": "孤高のリリィ 夢結",
+    "product_name": "[TDR]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你其他《リリィ》的角色有2个以上的话，这张卡的等级+1，战斗力+500。<br/>【自】这张卡的战斗对手倒置时，你选择自己其他1个《リリィ》的角色，将其横置，移动到后列没有角色的位置。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T39",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "ALL/S76-T40": {
+    "name": "ムードメーカー 梅",
+    "product_name": "[TDR]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你选择自己1个《リリィ》的角色，那个回合中，战斗力+X。X是你《リリィ》的角色的数量×500。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T40",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "ALL/S76-T41": {
+    "name": "おしゃべり大好き ミリアム",
+    "product_name": "[TDR]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】[(1) 1张手牌放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的卡组找至多1张《リリィ》的角色卡展示给对手后加入手牌，卡组洗切。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T41",
+        "rarity": "TD"
+      }
+    ]
+  },
+  "ALL/S76-T42": {
+    "name": "CHARMの鑑定 ミリアム",
+    "product_name": "[TDR]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 2,
+    "power": 6500,
+    "cost": 2,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【永】你每有1个其他的《リリィ》的角色，这张卡的战斗力+1000。<br/>【自】[(1)] 再演步骤开始时，你的前列没有其他横置的角色的话，你可以支付费用。支付了的话，这张卡横置。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T42",
+        "rarity": "TD"
+      },
+      {
+        "id": "ALL/S76-T42R",
+        "rarity": "RRR"
+      }
+    ]
+  },
+  "ALL/S76-T43": {
+    "name": "夢結&梨璃",
+    "product_name": "[TDR]アサルトリリィ BOUQUET",
+    "type": "角色卡",
+    "level": 3,
+    "power": 10000,
+    "cost": 2,
+    "trait": ["リリィ", "一柳隊"],
+    "color": "蓝色",
+    "soul": 2,
+    "effect": "【自】这张卡从手牌放置到舞台时，你可以将自己时计区顶1张卡放置到休息室。<br/>【自】【CX联动】这张卡攻击时，高潮区有「ヒュージ強襲」的话，你看对手卡组顶至多2张卡，选择至多2张卡，以喜欢的顺序放置到卡组顶，其余的卡放置到休息室，那个回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T43",
+        "rarity": "TD"
+      },
+      {
+        "id": "ALL/S76-T43S",
+        "rarity": "SR"
+      }
+    ]
+  },
+  "ALL/S76-T44": {
+    "name": "ヒュージ強襲",
+    "product_name": "[TDR]アサルトリリィ BOUQUET",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/gate.webp\">：这张卡被触发时，你可以从自己的休息室选择1张高潮卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "ALL/S76-T44",
+        "rarity": "TD"
+      },
+      {
+        "id": "ALL/S76-T44S",
+        "rarity": "SR"
+      }
+    ]
+  }
+}

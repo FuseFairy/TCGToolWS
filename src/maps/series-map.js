@@ -664,4 +664,8 @@ export const seriesMap = {
     id: 'gri',
     prefixes: ['GRI'],
   },
+  '突击莉莉': {
+    id: 'all',
+    prefixes: ['ALL'],
+  },
 }
