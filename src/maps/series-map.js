@@ -668,4 +668,8 @@ export const seriesMap = {
     id: 'all',
     prefixes: ['ALL'],
   },
+  '新樱花大战': {
+    id: 'skr',
+    prefixes: ['SKR'],
+  },
 }
