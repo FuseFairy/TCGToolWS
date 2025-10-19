@@ -1,0 +1,422 @@
+{
+  "IMS/S93-P08": {
+    "name": "スターリー・フューチャーズ 春日未来",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2000,
+    "cost": 0,
+    "trait": ["音楽", "髪留め"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，对手前列的角色在1个以下的话，你可以选择对手前列1个费用0以下的角色放置到休息室。<br/>【自】[(2)] 这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你从自己的休息室选择1张《音楽》的角色卡返回手牌。",
+    "all_cards": [
+      {
+        "id": "IMS/S93-P08",
+        "rarity": "PR"
+      },
+      {
+        "id": "IMS/S93-P08S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IMS/S93-P01": {
+    "name": "文舞両道！ 未来＆静香＆翼",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["音楽"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你看自己卡组顶至多2张卡，按喜欢的顺序放回卡组顶。<br/>【自】这张卡攻击时，你选择自己其他1个《音楽》的角色，那个回合中，战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "IMS/S93-P01",
+        "rarity": "PR"
+      },
+      {
+        "id": "IMS/S93-P01S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IMS/S93-P03": {
+    "name": "私たちのR@inbow!",
+    "product_name": "PRカード【Sサイド】",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/gate.webp\">：这张卡被触发时，你可以从自己的休息室选择1张高潮卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "IMS/S93-P03",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IMS/S93-P04": {
+    "name": "MILLION LIVE CLOSET! 伊吹 翼",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽", "オシャレ"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】这张卡从舞台放置到休息室时，你看自己卡组顶至多4张卡，选择至多1张黄色的高潮卡展示给对手后加入手牌，其余的卡放置到休息室。加入了手牌的话，你选择自己的1张手牌放置到休息室。",
+    "all_cards": [
+      {
+        "id": "IMS/S93-P04",
+        "rarity": "PR"
+      },
+      {
+        "id": "IMS/S93-P04S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IMS/S93-P05": {
+    "name": "MILLION LIVE CLOSET! 最上静香",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1000,
+    "cost": 0,
+    "trait": ["音楽", "ピアノ"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你的回合中，你其他全部的「水滴のプリズム 最上静香」，战斗力+1500，给予以下能力。『【永】这张卡不会被对手的效果选择。』<br/>【自】[手牌中1张《音楽》的角色卡放置到休息室] 这张卡从手牌放置到舞台时，你可以支付费用。支付了的话，你从自己的卡组找至多1张「水滴のプリズム 最上静香」或「迎春プレイヤー ジュリア」展示给对手后加入手牌，卡组洗切。",
+    "all_cards": [
+      {
+        "id": "IMS/S93-P05",
+        "rarity": "PR"
+      },
+      {
+        "id": "IMS/S93-P05S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IMS/S93-P06": {
+    "name": "MILLION LIVE CLOSET! 春日未来",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["音楽", "髪留め"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】【CX联动】休息室有这张卡的话，这张卡的卡名也视为「Starry Melody」。<br/>【自】这张卡从手牌放置到舞台时，你选择自己1个《音楽》的角色，那个回合中，战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "IMS/S93-P06",
+        "rarity": "PR"
+      },
+      {
+        "id": "IMS/S93-P06S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IMS/S93-P09": {
+    "name": "Celebr@tion! 春日未来",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 6500,
+    "cost": 1,
+    "trait": ["音楽", "髪留め"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】 あなたのターン中、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1500。<br/>【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。",
+    "all_cards": [
+      {
+        "id": "IMS/S93-P09",
+        "rarity": "PR"
+      },
+      {
+        "id": "IMS/S93-P09S",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IMS/S93-124": {
+    "name": "サンリズム・オーケストラ♪",
+    "product_name": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/choice.webp\">：这张卡被触发时，你可以从自己的休息室选择1张触发标记有<img src=\"/effect-icons/soul.webp\">的角色卡返回手牌或放置到费用区）",
+    "all_cards": [
+      {
+        "id": "IMS/S93-124",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IMS/S93-126": {
+    "name": "Reach 4 the Dre@m!",
+    "product_name": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/choice.webp\">：这张卡被触发时，你可以从自己的休息室选择1张触发标记有<img src=\"/effect-icons/soul.webp\">的角色卡返回手牌或放置到费用区）",
+    "all_cards": [
+      {
+        "id": "IMS/S93-126",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IMS/S93-127": {
+    "name": "成長Chu→LOVER!!",
+    "product_name": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/choice.webp\">：这张卡被触发时，你可以从自己的休息室选择1张触发标记有<img src=\"/effect-icons/soul.webp\">的角色卡返回手牌或放置到费用区）",
+    "all_cards": [
+      {
+        "id": "IMS/S93-127",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IMS/S93-128": {
+    "name": "Arrive You ～それが運命でも～",
+    "product_name": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/bounce.webp\">：这张卡被触发时，你可以选择对手的1个角色，使其返回手牌）",
+    "all_cards": [
+      {
+        "id": "IMS/S93-128",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IMS/S93-129": {
+    "name": "White Vows",
+    "product_name": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/choice.webp\">：这张卡被触发时，你可以从自己的休息室选择1张触发标记有<img src=\"/effect-icons/soul.webp\">的角色卡返回手牌或放置到费用区）",
+    "all_cards": [
+      {
+        "id": "IMS/S93-129",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IMS/S93-130": {
+    "name": "ハルマチ女子",
+    "product_name": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "黄色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/bounce.webp\">：这张卡被触发时，你可以选择对手的1个角色，使其返回手牌）",
+    "all_cards": [
+      {
+        "id": "IMS/S93-130",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IMS/S93-131": {
+    "name": "Starry Melody",
+    "product_name": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/salvage.webp\">：这张卡被触发时，你可以从自己的休息室选择1张角色卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "IMS/S93-131",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IMS/S93-132": {
+    "name": "BORN ON DREAM!",
+    "product_name": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/salvage.webp\">：这张卡被触发时，你可以从自己的休息室选择1张角色卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "IMS/S93-132",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IMS/S93-133": {
+    "name": "ビッグバンズバリボー!!!!!",
+    "product_name": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【自】这张卡从手牌放置到高潮区时，执行<img src=\"/effect-icons/standby.webp\">的效果。<br/>（<img src=\"/effect-icons/standby.webp\">：这张卡被触发时，你可以从自己的休息室选择1张等级在自己等级+1以下的角色卡，横置放置到舞台任意位置）",
+    "all_cards": [
+      {
+        "id": "IMS/S93-133",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IMS/S93-136": {
+    "name": "百花は月下に散りぬるを",
+    "product_name": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "【永】你的全部角色，灵魂值+2。",
+    "all_cards": [
+      {
+        "id": "IMS/S93-136",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IMS/S93-137": {
+    "name": "ラスト・アクトレス",
+    "product_name": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/gate.webp\">：这张卡被触发时，你可以从自己的休息室选择1张高潮卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "IMS/S93-137",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IMS/S93-138": {
+    "name": "ハーモニクス",
+    "product_name": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/gate.webp\">：这张卡被触发时，你可以从自己的休息室选择1张高潮卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "IMS/S93-138",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IMS/S93-139": {
+    "name": "月曜日のクリームソーダ",
+    "product_name": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/draw.webp\">：这张卡被触发时，你可以抽1张卡）",
+    "all_cards": [
+      {
+        "id": "IMS/S93-139",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IMS/S93-140": {
+    "name": "brave HARMONY",
+    "product_name": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/draw.webp\">：这张卡被触发时，你可以抽1张卡）",
+    "all_cards": [
+      {
+        "id": "IMS/S93-140",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "IMS/S93-141": {
+    "name": "Parade d’amour",
+    "product_name": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+    "type": "高潮卡",
+    "level": "-",
+    "power": "-",
+    "cost": "-",
+    "trait": "-",
+    "color": "蓝色",
+    "soul": "-",
+    "effect": "【永】你的全部角色战斗力+1000，灵魂值+1。<br/>（<img src=\"/effect-icons/gate.webp\">：这张卡被触发时，你可以从自己的休息室选择1张高潮卡返回手牌）",
+    "all_cards": [
+      {
+        "id": "IMS/S93-141",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

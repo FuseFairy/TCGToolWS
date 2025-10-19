@@ -644,4 +644,8 @@ export const seriesMap = {
     id: 'ngl',
     prefixes: ['NGL'],
   },
+  '偶像大师 MILLION LIVE!': {
+    id: 'ims',
+    prefixes: ['IMS', 'IAS'],
+  },
 }
