@@ -47,13 +47,13 @@
             mandatory
             class="w-100 h-100"
           >
-            <v-btn value="remove" class="flex-grow-1">
+            <v-btn value="remove" class="flex-1-1" style="min-width: 0">
               <v-icon icon="mdi-minus"></v-icon>
             </v-btn>
-            <v-btn value="none" class="flex-grow-1">
+            <v-btn value="none" class="flex-1-1" style="min-width: 0">
               <v-icon icon="mdi-cursor-default-click-outline"></v-icon>
             </v-btn>
-            <v-btn value="add" class="flex-grow-1">
+            <v-btn value="add" class="flex-1-1" style="min-width: 0">
               <v-icon icon="mdi-plus"></v-icon>
             </v-btn>
           </v-btn-toggle>
