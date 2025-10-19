@@ -580,4 +580,8 @@ export const seriesMap = {
     id: 'lh',
     prefixes: ['LH'],
   },
+  '舰队Collection': {
+    id: 'kc',
+    prefixes: ['KC'],
+  },
 }
