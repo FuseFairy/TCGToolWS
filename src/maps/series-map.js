@@ -584,4 +584,8 @@ export const seriesMap = {
     id: 'kc',
     prefixes: ['KC'],
   },
+  '超爆裂异次元卡片大战 Gigant Shooter 司': {
+    id: 'gst',
+    prefixes: ['GST'],
+  },
 }

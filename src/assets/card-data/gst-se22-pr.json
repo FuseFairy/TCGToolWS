@@ -1,0 +1,56 @@
+{
+  "GST/SE22-P01": {
+    "name": "ギガントシューター つかさ",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["ギガント", "主人公"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】这张卡正面的角色，给予《ギガント》。",
+    "all_cards": [
+      {
+        "id": "GST/SE22-P01",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "GST/SE22-P02": {
+    "name": "華麗な戦い ミル子",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8500,
+    "cost": 2,
+    "trait": ["ギガント", "メロメロ"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【起】[你1个《ギガント》的角色横置] 那个回合中，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "GST/SE22-P02",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "GST/SE22-P03": {
+    "name": "謎めいた男 キリト",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4000,
+    "cost": 0,
+    "trait": ["謎", "ギガント"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】[(1)] 对手的攻击阶段开始时，你可以支付费用。支付了的话，你将这张卡移动到后列没有角色的位置。",
+    "all_cards": [
+      {
+        "id": "GST/SE22-P03",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
