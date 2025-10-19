@@ -600,4 +600,8 @@ export const seriesMap = {
     id: 'sgs',
     prefixes: ['SGS'],
   },
+  '噗哟噗哟': {
+    id: 'py',
+    prefixes: ['PY'],
+  },
 }
