@@ -708,4 +708,8 @@ export const seriesMap = {
     id: 'csm',
     prefixes: ['CSM'],
   },
+  '平凡职业造就世界最强': {
+    id: 'ari',
+    prefixes: ['ARI'],
+  },
 }
