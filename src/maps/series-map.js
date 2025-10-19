@@ -700,4 +700,8 @@ export const seriesMap = {
     id: 'trv',
     prefixes: ['TRV'],
   },
+  '碧蓝航线': {
+    id: 'azl',
+    prefixes: ['AZL'],
+  },
 }
