@@ -620,4 +620,8 @@ export const seriesMap = {
     id: 'cc',
     prefixes: ['CC'],
   },
+  'STAR WARS': {
+    id: 'sw',
+    prefixes: ['SW', 'Dsw'],
+  },
 }

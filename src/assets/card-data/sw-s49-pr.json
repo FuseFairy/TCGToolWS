@@ -1,0 +1,200 @@
+{
+  "SW/S49-P01": {
+    "name": "“運命の出会い”レイ＆BB‐8",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 4500,
+    "cost": 0,
+    "trait": ["フォースの覚醒"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这个能力1回合至多发动1次。你使用事件卡时，那个回合中，这张卡的战斗力+2000。<br/>【自】这张卡攻击时，你其他《フォースの覚醒》的角色有2个以上的话，那个回合中，这张卡的战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "SW/S49-P01",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SW/S49-121": {
+    "name": "“STAR WARS”チューバッカ",
+    "product_name": "STAR WARS",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2500,
+    "cost": 1,
+    "trait": ["フォースの覚醒"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀3000 等级2 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+3000）",
+    "all_cards": [
+      {
+        "id": "SW/S49-121",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SW/S49-122": {
+    "name": "“STAR WARS”カイロ・レン",
+    "product_name": "STAR WARS",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["フォースの覚醒"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你将自己卡组顶2张卡放置到休息室。那些卡中有高潮卡的话，那个回合中，这张卡的战斗力+3000。",
+    "all_cards": [
+      {
+        "id": "SW/S49-122",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SW/S49-123": {
+    "name": "“STAR WARS”ストームトルーパー",
+    "product_name": "STAR WARS",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["フォースの覚醒"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，你选择自己其他1个红色的角色，那个回合中，战斗力+X。X是你其他红色的角色的数量×500。",
+    "all_cards": [
+      {
+        "id": "SW/S49-123",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SW/S49-124": {
+    "name": "“STAR WARS”レイ",
+    "product_name": "STAR WARS",
+    "type": "角色卡",
+    "level": 1,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["フォースの覚醒"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀1500 等级1 [手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+1500）",
+    "all_cards": [
+      {
+        "id": "SW/S49-124",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SW/S49-125": {
+    "name": "“STAR WARS”C-3PO＆BB‐8＆R2‐D2",
+    "product_name": "STAR WARS",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["フォースの覚醒"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，那个回合中，这张卡的战斗力+X。X是你蓝色的角色的数量×500。",
+    "all_cards": [
+      {
+        "id": "SW/S49-125",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SW/S49-121_": {
+    "name": "“STAR WARS”チューバッカ",
+    "product_name": "[CB] STAR WARS",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2500,
+    "cost": 1,
+    "trait": ["フォースの覚醒"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀3000 等级2 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+3000）",
+    "all_cards": [
+      {
+        "id": "SW/S49-121_",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SW/S49-122_": {
+    "name": "“STAR WARS”カイロ・レン",
+    "product_name": "[CB] STAR WARS",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["フォースの覚醒"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你将自己卡组顶2张卡放置到休息室。那些卡中有高潮卡的话，那个回合中，这张卡的战斗力+3000。",
+    "all_cards": [
+      {
+        "id": "SW/S49-122_",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SW/S49-123_": {
+    "name": "“STAR WARS”ストームトルーパー",
+    "product_name": "[CB] STAR WARS",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["フォースの覚醒"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】这张卡攻击时，你选择自己其他1个红色的角色，那个回合中，战斗力+X。X是你其他红色的角色的数量×500。",
+    "all_cards": [
+      {
+        "id": "SW/S49-123_",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SW/S49-124_": {
+    "name": "“STAR WARS”レイ",
+    "product_name": "[CB] STAR WARS",
+    "type": "角色卡",
+    "level": 1,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["フォースの覚醒"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀1500 等级1 [手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+1500）",
+    "all_cards": [
+      {
+        "id": "SW/S49-124_",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "SW/S49-125_": {
+    "name": "“STAR WARS”C-3PO＆BB‐8＆R2‐D2",
+    "product_name": "[CB] STAR WARS",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["フォースの覚醒"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，那个回合中，这张卡的战斗力+X。X是你蓝色的角色的数量×500。",
+    "all_cards": [
+      {
+        "id": "SW/S49-125_",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
