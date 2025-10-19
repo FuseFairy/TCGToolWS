@@ -680,4 +680,8 @@ export const seriesMap = {
     id: 'kgl',
     prefixes: ['KGL'],
   },
+  '偶像大师 闪耀色彩': {
+    id: 'isc',
+    prefixes: ['ISC'],
+  },
 }
