@@ -632,4 +632,8 @@ export const seriesMap = {
     id: 'gzl',
     prefixes: ['GZL'],
   },
+  '刀剑神域外传 Gun Gale Online': {
+    id: 'ggo',
+    prefixes: ['GGO', 'Ggg'],
+  },
 }
