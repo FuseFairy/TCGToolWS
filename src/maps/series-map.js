@@ -588,4 +588,8 @@ export const seriesMap = {
     id: 'gst',
     prefixes: ['GST'],
   },
+  '火星异种': {
+    id: 'tf',
+    prefixes: ['TF'],
+  },
 }
