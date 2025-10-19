@@ -728,4 +728,8 @@ export const seriesMap = {
     id: 'mrp',
     prefixes: ['MRd', 'MRp'],
   },
+  '浪客剑心 -明治剑客浪漫谭-': {
+    id: 'rkn',
+    prefixes: ['RKN'],
+  },
 }
