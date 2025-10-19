@@ -612,4 +612,8 @@ export const seriesMap = {
     id: 'kr',
     prefixes: ['KR'],
   },
+  '羁绊者': {
+    id: 'ki',
+    prefixes: ['KI'],
+  },
 }
