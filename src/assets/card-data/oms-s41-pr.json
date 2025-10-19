@@ -1,0 +1,290 @@
+{
+  "OMS/S41-P01": {
+    "name": "“愛すべきニート達”おそ松",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["６つ子", "ギャンブル"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "OMS/S41-P01",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "OMS/S41-P02": {
+    "name": "“愛すべきニート達”カラ松",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["６つ子", "まゆげ"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "OMS/S41-P02",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "OMS/S41-P03": {
+    "name": "“愛すべきニート達”チョロ松",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["６つ子", "オタク"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "OMS/S41-P03",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "OMS/S41-P04": {
+    "name": "“愛すべきニート達”一松",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["６つ子", "動物"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "OMS/S41-P04",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "OMS/S41-P05": {
+    "name": "“愛すべきニート達”十四松",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["６つ子", "スポーツ"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "OMS/S41-P05",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "OMS/S41-P06": {
+    "name": "“愛すべきニート達”トド松",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["６つ子", "スマホ"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "OMS/S41-P06",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "OMS/S41-P09": {
+    "name": "“ナース”トト子",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 7500,
+    "cost": 1,
+    "trait": ["音楽", "魚"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你每有1个其他黄色的角色，这张卡的战斗力+500。",
+    "all_cards": [
+      {
+        "id": "OMS/S41-P09",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "OMS/S41-P10": {
+    "name": "弱井 トト子",
+    "product_name": "PRカード【Sサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6000,
+    "cost": 1,
+    "trait": ["音楽", "魚"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【永】你其他黄色的角色有3个以上的话，这张卡的战斗力+1500，这张卡不会因为对手角色的【自】效果倒置。",
+    "all_cards": [
+      {
+        "id": "OMS/S41-P10",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "OMS/S41-101": {
+    "name": "SDおそ松",
+    "product_name": "おそ松さん",
+    "type": "角色卡",
+    "level": 1,
+    "power": 6000,
+    "cost": 1,
+    "trait": ["６つ子", "ギャンブル"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【永】你有其他卡名含有「松」的角色的话，这张卡的战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "OMS/S41-101",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "OMS/S41-102": {
+    "name": "SDカラ松",
+    "product_name": "おそ松さん",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["６つ子", "まゆげ"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【自】这张卡从手牌放置到舞台时，你有其他卡名含有「松」的角色的话，那个回合中，这张卡的战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "OMS/S41-102",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "OMS/S41-103": {
+    "name": "SDチョロ松",
+    "product_name": "おそ松さん",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2500,
+    "cost": 1,
+    "trait": ["６つ子", "オタク"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀3000 等级2 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+3000）",
+    "all_cards": [
+      {
+        "id": "OMS/S41-103",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "OMS/S41-104": {
+    "name": "SD一松",
+    "product_name": "おそ松さん",
+    "type": "角色卡",
+    "level": 1,
+    "power": 1500,
+    "cost": 0,
+    "trait": ["６つ子", "動物"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀1500 等级1 [手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+1500）",
+    "all_cards": [
+      {
+        "id": "OMS/S41-104",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "OMS/S41-105": {
+    "name": "SD十四松",
+    "product_name": "おそ松さん",
+    "type": "角色卡",
+    "level": 2,
+    "power": 8000,
+    "cost": 2,
+    "trait": ["６つ子", "スポーツ"],
+    "color": "红色",
+    "soul": 2,
+    "effect": "【永】你的角色全部是卡名含有「松」的角色的话，这张卡的战斗力+2000。",
+    "all_cards": [
+      {
+        "id": "OMS/S41-105",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "OMS/S41-106": {
+    "name": "SDトド松",
+    "product_name": "おそ松さん",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["６つ子", "スマホ"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】你其他的角色在1个以下的话，这张卡的战斗力+1000，这张卡获得『【自】再演 [手牌中1张角色卡放置到休息室]』的能力。",
+    "all_cards": [
+      {
+        "id": "OMS/S41-106",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "OMS/S41-107": {
+    "name": "SDイヤミ",
+    "product_name": "おそ松さん",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3500,
+    "cost": 0,
+    "trait": ["出っ歯"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "【自】对手升级时，这张卡放置到休息室。",
+    "all_cards": [
+      {
+        "id": "OMS/S41-107",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "OMS/S41-108": {
+    "name": "おそ松落とし",
+    "product_name": "おそ松さん",
+    "type": "事件卡",
+    "level": 3,
+    "power": "-",
+    "cost": 6,
+    "trait": "-",
+    "color": "绿色",
+    "soul": "-",
+    "effect": "【永】这张卡和与这张卡卡名相同的卡在卡组中至多可以投入1张。你公开自己的手牌。那些卡中有「“スイーツ男子”おそ松」和「“スイーツ男子”カラ松」和「“スイーツ男子”チョロ松」和「“スイーツ男子”一松」和「“スイーツ男子”十四松」和「“スイーツ男子”トド松」的话，你获得游戏的胜利。<br/><font color=\"crimson\">※这张卡在官方、公认比赛中不能使用。</font>",
+    "all_cards": [
+      {
+        "id": "OMS/S41-108",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

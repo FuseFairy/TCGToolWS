@@ -604,4 +604,8 @@ export const seriesMap = {
     id: 'py',
     prefixes: ['PY'],
   },
+  '阿松': {
+    id: 'oms',
+    prefixes: ['OMS'],
+  },
 }
