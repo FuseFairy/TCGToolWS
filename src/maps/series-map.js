@@ -592,4 +592,8 @@ export const seriesMap = {
     id: 'tf',
     prefixes: ['TF'],
   },
+  '进击的巨人': {
+    id: 'aot',
+    prefixes: ['AOT'],
+  },
 }
