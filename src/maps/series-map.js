@@ -616,4 +616,8 @@ export const seriesMap = {
     id: 'ki',
     prefixes: ['KI'],
   },
+  '锁链战记 ～赫克瑟塔斯之光～': {
+    id: 'cc',
+    prefixes: ['CC'],
+  },
 }
