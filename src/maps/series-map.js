@@ -736,4 +736,8 @@ export const seriesMap = {
     id: 'nik',
     prefixes: ['NIK'],
   },
+  '当哒当': {
+    id: 'ddd',
+    prefixes: ['DDD'],
+  },
 }
