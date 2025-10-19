@@ -636,4 +636,8 @@ export const seriesMap = {
     id: 'ggo',
     prefixes: ['GGO', 'Ggg'],
   },
+  '少女☆歌剧 Revue Starlight': {
+    id: 'rsl',
+    prefixes: ['RSL'],
+  },
 }
