@@ -672,4 +672,8 @@ export const seriesMap = {
     id: 'skr',
     prefixes: ['SKR'],
   },
+  '因为太怕痛就全点防御力了': {
+    id: 'bfr',
+    prefixes: ['BFR'],
+  },
 }
