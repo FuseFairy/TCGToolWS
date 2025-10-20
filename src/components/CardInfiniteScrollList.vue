@@ -58,27 +58,7 @@
     />
   </v-dialog>
 
-  <v-fade-transition>
-    <v-btn
-      v-show="isFabVisible"
-      position="fixed"
-      location="bottom right"
-      icon
-      size="large"
-      class="ma-4 back-to-top-btn"
-      :class="{ 'mb-18': xs }"
-      @click="scrollToTop"
-    >
-      <v-img
-        :src="WsIcon"
-        alt="Back to top"
-        width="28"
-        height="28"
-        draggable="false"
-        :style="{ filter: iconFilterStyle }"
-      />
-    </v-btn>
-  </v-fade-transition>
+  <BackToTopButton :scroll-container="scrollContainer" :extra-class="{ 'mb-18': xs }" />
 </template>
 
 <script setup>
@@ -86,11 +66,11 @@ import { ref, computed, onMounted, onUnmounted, nextTick, watch } from 'vue'
 import { useTheme, useDisplay } from 'vuetify'
 import CardTemplate from '@/components/CardTemplate.vue'
 import CardDetailModal from '@/components/CardDetailModal.vue'
+import BackToTopButton from '@/components/BackToTopButton.vue'
 import { fetchCardsByBaseIdAndPrefix } from '@/utils/card'
 import { useCardImage } from '@/composables/useCardImage.js'
 import { useCardNavigation } from '@/composables/useCardNavigation.js'
 import { useUIStore } from '@/stores/ui'
-import WsIcon from '@/assets/ui/ws-icon.svg'
 import collator from '@/utils/collator.js'
 
 const props = defineProps({
@@ -120,9 +100,6 @@ const { smAndDown, xs } = useDisplay()
 const theme = useTheme()
 const uiStore = useUIStore()
 
-const iconFilterStyle = computed(() => {
-  return theme.global.name.value === 'light' ? 'invert(1)' : 'none'
-})
 const isModalVisible = ref(false)
 const selectedCardData = ref(null)
 const selectedLinkedCards = ref([])
@@ -238,21 +215,7 @@ defineExpose({
   restoreScrollState,
 })
 
-const isFabVisible = ref(false)
 const scrollContainer = ref(null)
-
-const onScroll = () => {
-  if (!scrollContainer.value) return
-
-  const scrollTop = scrollContainer.value.scrollTop
-  isFabVisible.value = scrollTop > 300
-}
-
-const scrollToTop = () => {
-  if (scrollContainer.value) {
-    scrollContainer.value.scrollTo({ top: 0, behavior: 'smooth' })
-  }
-}
 
 // Layout freeze logic for smooth sidebar transitions
 const isLayoutFrozen = ref(false)
@@ -296,12 +259,9 @@ onMounted(() => {
   // Use the v-infinite-scroll element as the scroll container
   scrollContainer.value = infiniteScrollRef.value?.$el
 
-  if (scrollContainer.value) {
-    scrollContainer.value.addEventListener('scroll', onScroll)
-  } else {
+  if (!scrollContainer.value) {
     // Fallback if the ref isn't available for some reason
     scrollContainer.value = document.documentElement
-    document.addEventListener('scroll', onScroll)
   }
   
   // Get reference to grid element
@@ -311,12 +271,6 @@ onMounted(() => {
 })
 
 onUnmounted(() => {
-  if (scrollContainer.value) {
-    scrollContainer.value.removeEventListener('scroll', onScroll)
-  } else {
-    document.removeEventListener('scroll', onScroll)
-  }
-  
   if (freezeTimeout) {
     clearTimeout(freezeTimeout)
   }
@@ -324,10 +278,6 @@ onUnmounted(() => {
 </script>
 
 <style scoped>
-.back-to-top-btn {
-  opacity: 0.8;
-}
-
 .card-grid-container {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));

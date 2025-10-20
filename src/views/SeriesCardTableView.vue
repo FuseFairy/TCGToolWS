@@ -29,38 +29,18 @@
       </v-container>
     </v-infinite-scroll>
 
-    <v-fade-transition>
-      <v-btn
-        v-show="isFabVisible"
-        position="fixed"
-        location="bottom right"
-        icon
-        size="large"
-        class="ma-4 back-to-top-btn"
-        @click="scrollToTop"
-      >
-        <v-img
-          :src="WsIcon"
-          alt="Back to top"
-          width="28"
-          height="28"
-          draggable="false"
-          :style="{ filter: iconFilterStyle }"
-        />
-      </v-btn>
-    </v-fade-transition>
+    <BackToTopButton :scroll-container="scrollContainer" />
   </v-container>
 </template>
 
 <script setup>
-import { ref, computed, watch, nextTick, onMounted, onUnmounted } from 'vue'
-import { useTheme } from 'vuetify'
+import { ref, computed, watch, nextTick, onMounted } from 'vue'
 import { useInfiniteScrollState } from '@/composables/useInfiniteScrollState.js'
 import { seriesMap } from '@/maps/series-map.js'
 import SeriesCard from '@/components/SeriesCard.vue'
 import FloatingSearch from '@/components/FloatingSearchBar.vue'
+import BackToTopButton from '@/components/BackToTopButton.vue'
 import collator from '@/utils/collator.js'
-import WsIcon from '@/assets/ui/ws-icon.svg'
 
 const itemsPerLoad = 24
 const allSeries = ref(
@@ -137,44 +117,8 @@ useInfiniteScrollState({
   },
 })
 
-const theme = useTheme()
-
-const iconFilterStyle = computed(() => {
-  return theme.global.name.value === 'light' ? 'invert(1)' : 'none'
-})
-
-const isFabVisible = ref(false)
 const scrollContainer = ref(null)
-
-const onScroll = () => {
-  if (!scrollContainer.value) return
-
-  const scrollTop = scrollContainer.value.scrollTop
-  isFabVisible.value = scrollTop > 300
-}
-
-const scrollToTop = () => {
-  if (scrollContainer.value) {
-    scrollContainer.value.scrollTo({ top: 0, behavior: 'smooth' })
-  }
-}
-
 onMounted(() => {
   scrollContainer.value = infiniteScrollRef.value?.$el
-  if (scrollContainer.value) {
-    scrollContainer.value.addEventListener('scroll', onScroll)
-  }
-})
-
-onUnmounted(() => {
-  if (scrollContainer.value) {
-    scrollContainer.value.removeEventListener('scroll', onScroll)
-  }
 })
 </script>
-
-<style scoped>
-.back-to-top-btn {
-  opacity: 0.8;
-}
-</style>
