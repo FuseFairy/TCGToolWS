@@ -15,11 +15,23 @@
     :margin="margin"
     :="$attrs"
   >
-    <v-row class="card-grid ma-0" :style="{ paddingTop: `${headerOffsetHeight - 10}px` }">
-      <div v-for="card in displayedCards" :key="card.id" class="d-flex justify-center">
+    <transition-group 
+      tag="div" 
+      class="card-grid-container"
+      :class="{ 'freeze-layout': isLayoutFrozen }"
+      :style="{ 
+        paddingTop: `${headerOffsetHeight - 10}px`,
+        gridTemplateColumns: frozenColumns 
+      }"
+    >
+      <div
+        v-for="card in displayedCards"
+        :key="card.id"
+        class="card-item d-flex justify-center"
+      >
         <CardTemplate :card="card" @show-details="onShowDetails" />
       </div>
-    </v-row>
+    </transition-group>
   </v-infinite-scroll>
 
   <v-dialog
@@ -69,13 +81,14 @@
 </template>
 
 <script setup>
-import { ref, computed, onMounted, onUnmounted, nextTick } from 'vue'
+import { ref, computed, onMounted, onUnmounted, nextTick, watch } from 'vue'
 import { useTheme, useDisplay } from 'vuetify'
 import CardTemplate from '@/components/CardTemplate.vue'
 import CardDetailModal from '@/components/CardDetailModal.vue'
 import { fetchCardsByBaseIdAndPrefix } from '@/utils/card'
 import { useCardImage } from '@/composables/useCardImage.js'
 import { useCardNavigation } from '@/composables/useCardNavigation.js'
+import { useUIStore } from '@/stores/ui'
 import WsIcon from '@/assets/ui/ws-icon.svg'
 import collator from '@/utils/collator.js'
 
@@ -104,6 +117,7 @@ const props = defineProps({
 
 const { smAndDown } = useDisplay()
 const theme = useTheme()
+const uiStore = useUIStore()
 
 const iconFilterStyle = computed(() => {
   return theme.global.name.value === 'light' ? 'invert(1)' : 'none'
@@ -239,6 +253,44 @@ const scrollToTop = () => {
   }
 }
 
+// Layout freeze logic for smooth sidebar transitions
+const isLayoutFrozen = ref(false)
+const frozenColumns = ref(null)
+const gridElement = ref(null)
+let freezeTimeout = null
+
+const captureCurrentColumns = () => {
+  if (!gridElement.value) return null
+  
+  const computedStyle = window.getComputedStyle(gridElement.value)
+  return computedStyle.gridTemplateColumns
+}
+
+const freezeLayout = () => {
+  // Capture current column layout before sidebar animation
+  frozenColumns.value = captureCurrentColumns()
+  isLayoutFrozen.value = true
+  
+  // Clear any existing timeout
+  if (freezeTimeout) {
+    clearTimeout(freezeTimeout)
+  }
+  
+  // Unfreeze after sidebar animation completes (0.4s) + small buffer
+  freezeTimeout = setTimeout(() => {
+    isLayoutFrozen.value = false
+    // Wait one more frame before clearing frozen columns to allow smooth transition
+    requestAnimationFrame(() => {
+      frozenColumns.value = null
+    })
+  }, 450)
+}
+
+// Watch sidebar states from UI store
+watch([() => uiStore.isFilterOpen, () => uiStore.isCardDeckOpen], () => {
+  freezeLayout()
+})
+
 onMounted(() => {
   // Use the v-infinite-scroll element as the scroll container
   scrollContainer.value = infiniteScrollRef.value?.$el
@@ -250,6 +302,11 @@ onMounted(() => {
     scrollContainer.value = document.documentElement
     document.addEventListener('scroll', onScroll)
   }
+  
+  // Get reference to grid element
+  nextTick(() => {
+    gridElement.value = infiniteScrollRef.value?.$el?.querySelector('.card-grid-container')
+  })
 })
 
 onUnmounted(() => {
@@ -258,6 +315,10 @@ onUnmounted(() => {
   } else {
     document.removeEventListener('scroll', onScroll)
   }
+  
+  if (freezeTimeout) {
+    clearTimeout(freezeTimeout)
+  }
 })
 </script>
 
@@ -265,14 +326,27 @@ onUnmounted(() => {
 .back-to-top-btn {
   opacity: 0.8;
 }
-.card-grid {
+
+.card-grid-container {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
   gap: 16px;
+  width: 100%;
 }
+
+/* When layout is frozen, use the captured column layout */
+.card-grid-container.freeze-layout {
+  transition: none;
+}
+
+.card-item {
+  /* Smooth position changes when grid reflows */
+  transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
 /* 740 is a mysterious number, a chosen number woven from human effort, blood, and tears. */
 @media (max-width: 740px) {
-  .card-grid {
+  .card-grid-container {
     grid-template-columns: repeat(auto-fill, minmax(46%, 1fr));
   }
 }
