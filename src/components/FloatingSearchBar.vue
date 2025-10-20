@@ -13,7 +13,7 @@
         ref="inputRef"
         v-model="searchText"
         class="search-input"
-        placeholder="查找系列..."
+        placeholder="系列名称、番号"
         variant="plain"
         density="compact"
         hide-details

@@ -56,7 +56,11 @@ const infiniteScrollRef = ref(null)
 const filteredSeries = computed(() => {
   const term = searchTerm.value.trim().toLowerCase()
   const list = term
-    ? allSeries.value.filter((item) => item.name.toLowerCase().includes(term))
+    ? allSeries.value.filter(
+        (item) =>
+          item.name.toLowerCase().includes(term) ||
+          item.data.prefixes.some((prefix) => prefix.toLowerCase().includes(term))
+      )
     : allSeries.value.slice()
 
   return list.sort((a, b) => collator.compare(a.name, b.name))
