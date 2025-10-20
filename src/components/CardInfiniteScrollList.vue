@@ -66,7 +66,7 @@
       icon
       size="large"
       class="ma-4 back-to-top-btn"
-      :class="{ 'mb-18': smAndDown }"
+      :class="{ 'mb-18': xs }"
       @click="scrollToTop"
     >
       <v-img
@@ -116,7 +116,7 @@ const props = defineProps({
   },
 })
 
-const { smAndDown } = useDisplay()
+const { smAndDown, xs } = useDisplay()
 const theme = useTheme()
 const uiStore = useUIStore()
 
