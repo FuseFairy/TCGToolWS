@@ -269,22 +269,18 @@ useInfiniteScrollState({
 }
 
 @media (max-width: 599.98px) {
-  .sidebar-container.left-sidebar-open,
-  .sidebar-container.right-sidebar-open {
-    width: 100%;
+  .sidebar-container {
     position: absolute;
     z-index: 10;
     background: rgb(var(--v-theme-surface));
     height: 100%;
     top: 0;
-  }
-
-  .sidebar-container.left-sidebar-open {
-    left: 0;
-  }
-
-  .sidebar-container.right-sidebar-open {
     right: 0;
+  }
+
+  .sidebar-container.left-sidebar-open,
+  .sidebar-container.right-sidebar-open {
+    width: 100%;
   }
 }
 </style>
