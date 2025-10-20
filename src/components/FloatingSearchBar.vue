@@ -1,4 +1,7 @@
 <template>
+  <v-fade-transition>
+    <div v-if="isExpanded" class="overlay" @click="collapse"></div>
+  </v-fade-transition>
   <div
     ref="draggableContainer"
     class="floating-search-container"
@@ -162,6 +165,16 @@ const handleTap = () => {
 </script>
 
 <style scoped>
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.4);
+  z-index: 999;
+}
+
 .floating-search-container {
   position: absolute;
   z-index: 1000;
