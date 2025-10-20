@@ -15,18 +15,10 @@
     :margin="margin"
     :="$attrs"
   >
-    <v-row class="ma-0 flex-grow-0" :style="{ paddingTop: `${headerOffsetHeight - 10}px` }">
-      <v-col
-        v-for="card in displayedCards"
-        :key="card.id"
-        cols="6"
-        sm="4"
-        md="3"
-        lg="2"
-        class="d-flex"
-      >
+    <v-row class="card-grid ma-0" :style="{ paddingTop: `${headerOffsetHeight - 10}px` }">
+      <div v-for="card in displayedCards" :key="card.id" class="d-flex justify-center">
         <CardTemplate :card="card" @show-details="onShowDetails" />
-      </v-col>
+      </div>
     </v-row>
   </v-infinite-scroll>
 
@@ -272,5 +264,16 @@ onUnmounted(() => {
 <style scoped>
 .back-to-top-btn {
   opacity: 0.8;
+}
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 16px;
+}
+/* 740 is a mysterious number, a chosen number woven from human effort, blood, and tears. */
+@media (max-width: 740px) {
+  .card-grid {
+    grid-template-columns: repeat(auto-fill, minmax(46%, 1fr));
+  }
 }
 </style>
