@@ -17,7 +17,11 @@
 
           <v-card-text>
             <v-alert v-if="error" type="error" density="compact" class="mb-4">{{ error }}</v-alert>
-            <v-form ref="credentialsForm" v-model="isFormValid" @submit.prevent="handleCredentialSubmit">
+            <v-form
+              ref="credentialsForm"
+              v-model="isFormValid"
+              @submit.prevent="handleCredentialSubmit"
+            >
               <v-text-field
                 v-model="email"
                 label="邮箱"
@@ -29,14 +33,16 @@
               ></v-text-field>
 
               <v-text-field
+                :append-inner-icon="password_visible ? 'mdi-eye-off' : 'mdi-eye'"
+                :type="password_visible ? 'text' : 'password'"
                 v-model="password"
                 label="密码"
-                type="password"
                 variant="outlined"
                 :readonly="loading"
                 :autocomplete="isLoginMode ? 'on' : 'off'"
                 :rules="isLoginMode ? [] : passwordRules"
                 class="mb-2"
+                @click:append-inner="password_visible = !password_visible"
               ></v-text-field>
 
               <div v-if="isLoginMode" class="d-flex justify-space-between align-center mb-4">
@@ -163,6 +169,7 @@ import { useCooldown } from '@/composables/useCooldown'
 
 const authStore = useAuthStore()
 const { triggerSnackbar } = useSnackbar()
+const password_visible = ref(false)
 
 // 为不同按钮的冷却逻辑创建独立的实例
 const {
