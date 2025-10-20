@@ -15,18 +15,22 @@
               class="mb-4"
               >{{ message }}</v-alert
             >
-            <v-form @submit.prevent="handleSubmit">
+            <v-form ref="form" v-model="isFormValid" @submit.prevent="handleSubmit">
               <p v-if="!token || invalidToken" class="text-error">
                 无效的重置链接，请返回首页重新申请。
               </p>
               <template v-else-if="!success">
                 <v-text-field
+                  :append-inner-icon="password_visible ? 'mdi-eye-off' : 'mdi-eye'"
+                  :type="password_visible ? 'text' : 'password'"
                   v-model="password"
                   label="新密码"
-                  type="password"
                   variant="outlined"
                   :readonly="loading"
                   autocomplete="new-password"
+                  :rules="passwordRules"
+                  @click:append-inner="password_visible = !password_visible"
+                  class="mb-2"
                 ></v-text-field>
                 <v-text-field
                   v-model="passwordConfirm"
@@ -35,8 +39,16 @@
                   variant="outlined"
                   :readonly="loading"
                   autocomplete="new-password"
+                  :rules="passwordConfirmRules"
+                  class="mb-2"
                 ></v-text-field>
-                <v-btn type="submit" block color="primary" size="large" :loading="loading"
+                <v-btn
+                  type="submit"
+                  block
+                  color="primary"
+                  size="large"
+                  :loading="loading"
+                  :disabled="!isFormValid"
                   >确认重置</v-btn
                 >
               </template>
@@ -72,6 +84,18 @@ const message = ref('')
 const error = ref(false)
 const success = ref(false)
 const invalidToken = ref(false)
+const form = ref(null)
+const isFormValid = ref(false)
+const password_visible = ref(false)
+
+const passwordRules = [
+  (v) => !!v || '请输入密码',
+  (v) => (v && v.length >= 8) || '密码长度至少为 8 个字符',
+]
+const passwordConfirmRules = [
+  (v) => !!v || '请再次输入密码',
+  (v) => v === password.value || '两次输入的密码不一致',
+]
 
 const authStore = useAuthStore()
 const router = useRouter()
@@ -84,11 +108,9 @@ onMounted(() => {
 })
 
 const handleSubmit = async () => {
-  if (password.value !== passwordConfirm.value) {
-    error.value = true
-    message.value = '两次输入的密码不一致。'
-    return
-  }
+  const { valid } = await form.value.validate()
+  if (!valid) return
+
   loading.value = true
   message.value = ''
   error.value = false

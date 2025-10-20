@@ -16,7 +16,7 @@
               class="mb-4"
               >{{ message }}</v-alert
             >
-            <v-form @submit.prevent="handleSubmit">
+            <v-form ref="form" v-model="isFormValid" @submit.prevent="handleSubmit">
               <v-text-field
                 v-model="email"
                 label="邮箱"
@@ -24,6 +24,8 @@
                 type="email"
                 variant="outlined"
                 :readonly="loading"
+                :rules="emailRules"
+                class="mb-2"
               ></v-text-field>
               <v-btn
                 type="submit"
@@ -31,7 +33,7 @@
                 color="primary"
                 size="large"
                 :loading="loading"
-                :disabled="isCoolingDown || !email.trim()"
+                :disabled="!isFormValid || isCoolingDown"
                 >发送重置链接 {{ cooldownText }}</v-btn
               >
             </v-form>
@@ -58,8 +60,22 @@ const loading = ref(false)
 const message = ref('')
 const error = ref(false)
 const authStore = useAuthStore()
+const form = ref(null)
+const isFormValid = ref(false)
+
+const emailRules = [
+  (v) => !!v || '请输入邮箱',
+  (v) => {
+    const pattern =
+      /^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/
+    return pattern.test(v) || '无效的邮箱格式'
+  },
+]
 
 const handleSubmit = async () => {
+  const { valid } = await form.value.validate()
+  if (!valid) return
+
   loading.value = true
   message.value = ''
   error.value = false

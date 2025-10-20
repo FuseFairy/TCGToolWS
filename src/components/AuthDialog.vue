@@ -169,7 +169,6 @@ import { useCooldown } from '@/composables/useCooldown'
 
 const authStore = useAuthStore()
 const { triggerSnackbar } = useSnackbar()
-const password_visible = ref(false)
 
 // 为不同按钮的冷却逻辑创建独立的实例
 const {
@@ -196,6 +195,7 @@ const passwordConfirm = ref('')
 const verificationCode = ref('')
 const credentialsForm = ref(null)
 const isFormValid = ref(false)
+const password_visible = ref(false)
 
 // Validation Rules
 const emailRules = [
