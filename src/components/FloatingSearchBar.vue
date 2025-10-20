@@ -251,4 +251,8 @@ const handleTap = () => {
 .search-wrapper.is-expanded .search-button {
   color: var(--search-btn-icon-expanded) !important;
 }
+
+.search-input :deep(.v-field__input) {
+  padding-top: 0 !important;
+}
 </style>
