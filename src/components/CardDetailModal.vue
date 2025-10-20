@@ -212,11 +212,12 @@ const handleNextCard = () => {
 
 .nav-button-left,
 .nav-button-right {
-  position: absolute;
+  position: fixed;
   top: 50%;
   transform: translateY(-50%);
   background-color: rgba(0, 0, 0, 0.6) !important;
   color: white !important;
+  z-index: 15;
 }
 
 .nav-button-left {
@@ -234,6 +235,11 @@ const handleNextCard = () => {
 }
 
 @media (min-width: 960px) {
+  .nav-button-left,
+  .nav-button-right {
+    position: absolute;
+  }
+
   .nav-button-left {
     left: -60px;
   }
