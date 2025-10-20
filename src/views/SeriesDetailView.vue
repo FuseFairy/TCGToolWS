@@ -90,7 +90,7 @@
         </div>
       </div>
 
-      <v-bottom-navigation v-if="!smAndUp" :elevation="4">
+      <v-bottom-navigation v-if="!smAndUp" :elevation="4" grow>
         <v-btn @click="isFilterOpen = !isFilterOpen">
           <v-icon :icon="filterIcon"></v-icon>
           <span>筛选</span>
