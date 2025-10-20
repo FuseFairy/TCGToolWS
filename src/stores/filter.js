@@ -16,6 +16,7 @@ export const useFilterStore = defineStore('filter', () => {
   // Filter options derived from raw data
   const productNames = ref([])
   const traits = ref([])
+  const rarities = ref([])
   const costRange = ref({ min: 0, max: 0 })
   const powerRange = ref({ min: 0, max: 0 })
 
@@ -26,6 +27,8 @@ export const useFilterStore = defineStore('filter', () => {
   const selectedProductName = ref(null)
   const selectedTraits = ref([])
   const selectedLevels = ref([])
+  const selectedRarities = ref([])
+  const showUniqueCards = ref(false)
   const selectedCostRange = ref([0, 0])
   const selectedPowerRange = ref([0, 0])
 
@@ -66,6 +69,7 @@ export const useFilterStore = defineStore('filter', () => {
       const fetchedCards = []
       const productNamesSet = new Set()
       const traitsSet = new Set()
+      const raritiesSet = new Set()
       let minCost = Infinity,
         maxCost = -Infinity,
         minPower = Infinity,
@@ -90,6 +94,7 @@ export const useFilterStore = defineStore('filter', () => {
           const { all_cards, ...baseCardData } = cardData
           if (all_cards && Array.isArray(all_cards)) {
             all_cards.forEach((cardVersion) => {
+              if (cardVersion.rarity) raritiesSet.add(cardVersion.rarity)
               fetchedCards.push({
                 ...baseCardData,
                 ...cardVersion,
@@ -171,6 +176,7 @@ export const useFilterStore = defineStore('filter', () => {
         allCards: fetchedCards,
         productNames: [...productNamesSet],
         traits: [...traitsSet],
+        rarities: [...raritiesSet].sort(),
         costRange: {
           min: minCost === Infinity ? 0 : minCost,
           max: maxCost === -Infinity ? 0 : maxCost,
@@ -204,6 +210,7 @@ export const useFilterStore = defineStore('filter', () => {
         allCards: fetchedCards,
         productNames: fetchedProductNames,
         traits: fetchedTraits,
+        rarities: fetchedRarities,
         costRange: fetchedCostRange,
         powerRange: fetchedPowerRange,
       } = await fetchAndProcessCards(prefixes)
@@ -211,6 +218,7 @@ export const useFilterStore = defineStore('filter', () => {
       allCards.value = fetchedCards
       productNames.value = fetchedProductNames
       traits.value = fetchedTraits
+      rarities.value = fetchedRarities
       costRange.value = fetchedCostRange
       powerRange.value = fetchedPowerRange
       resetFilters()
@@ -229,6 +237,8 @@ export const useFilterStore = defineStore('filter', () => {
     selectedProductName.value = null
     selectedTraits.value = []
     selectedLevels.value = []
+    selectedRarities.value = []
+    showUniqueCards.value = false
     selectedCostRange.value = [costRange.value.min, costRange.value.max]
     selectedPowerRange.value = [powerRange.value.min, powerRange.value.max]
   }
@@ -237,6 +247,7 @@ export const useFilterStore = defineStore('filter', () => {
     allCards.value = []
     productNames.value = []
     traits.value = []
+    rarities.value = []
     costRange.value = { min: 0, max: 0 }
     powerRange.value = { min: 0, max: 0 }
     resetFilters()
@@ -303,6 +314,21 @@ export const useFilterStore = defineStore('filter', () => {
       )
     }
 
+    if (selectedRarities.value.length > 0) {
+      filtered = filtered.filter((card) => selectedRarities.value.includes(card.rarity))
+    }
+
+    if (showUniqueCards.value) {
+      const seenBaseIds = new Set()
+      filtered = filtered.filter((card) => {
+        if (seenBaseIds.has(card.baseId)) {
+          return false
+        }
+        seenBaseIds.add(card.baseId)
+        return true
+      })
+    }
+
     return filtered
   })
 
@@ -313,6 +339,7 @@ export const useFilterStore = defineStore('filter', () => {
     error,
     productNames,
     traits,
+    rarities,
     costRange,
     powerRange,
     keyword,
@@ -321,6 +348,8 @@ export const useFilterStore = defineStore('filter', () => {
     selectedProductName,
     selectedTraits,
     selectedLevels,
+    selectedRarities,
+    showUniqueCards,
     selectedCostRange,
     selectedPowerRange,
     // Getters

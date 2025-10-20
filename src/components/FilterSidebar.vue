@@ -18,6 +18,13 @@
           variant="underlined"
         ></v-text-field>
 
+        <v-switch
+          label="高罕过滤"
+          hide-details
+          v-model="filterStore.showUniqueCards"
+          color="primary"
+        ></v-switch>
+
         <v-divider></v-divider>
 
         <v-select
@@ -57,6 +64,17 @@
           hide-details
           clearable
           v-model="filterStore.selectedProductName"
+          variant="outlined"
+        ></v-select>
+
+        <v-select
+          label="稀有度"
+          :items="filterStore.rarities"
+          hide-details
+          multiple
+          chips
+          clearable
+          v-model="filterStore.selectedRarities"
           variant="outlined"
         ></v-select>
 
