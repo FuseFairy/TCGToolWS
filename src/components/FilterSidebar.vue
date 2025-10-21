@@ -6,7 +6,7 @@
   >
     <v-sheet
       :rounded="smAndUp ? '3md' : false"
-      class="pa-4 ga-4 d-flex flex-column fill-height overflow-y-auto themed-scrollbar"
+      class="pa-4 ga-4 d-flex flex-column fill-height overflow-y-auto overflow-x-hidden themed-scrollbar"
     >
       <div class="d-flex flex-column ga-4">
         <v-text-field
