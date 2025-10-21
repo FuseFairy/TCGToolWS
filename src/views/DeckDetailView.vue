@@ -117,7 +117,7 @@
       </div>
     </v-container>
 
-    <DeckShareImage v-if="deck" :deck-cards="cards" />
+    <DeckShareImage ref="deckShareImageRef" v-if="deck" :deck-cards="cards" />
 
     <v-dialog
       v-if="selectedCardData"
@@ -349,6 +349,8 @@ const handleCardClick = async (item) => {
   await handleShowNewCard({ card: item })
 }
 
+const deckShareImageRef = ref(null)
+
 const handleDownloadDeckImage = async () => {
   if (!deck.value) {
     triggerSnackbar('无法生成图片，牌组数据缺失。', 'error')
@@ -357,6 +359,11 @@ const handleDownloadDeckImage = async () => {
 
   uiStore.setLoading(true)
   try {
+    if (deckShareImageRef.value) {
+      await deckShareImageRef.value.areAllImagesLoaded()
+      // Add a small delay to allow the browser to finish painting
+      await new Promise(resolve => setTimeout(resolve, 300)); // 300ms delay
+    }
     await convertElementToPng('deck-share-image-content', isTouch.value, deck.value.name.trim())
   } catch (error) {
     console.error('生成圖片失敗:', error)
