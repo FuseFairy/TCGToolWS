@@ -1,11 +1,10 @@
 <template>
   <div id="deck-share-image-content" class="share-content-for-screenshot">
-    <v-row v-if="sortedAndFlatCardList.length > 0" class="ma-0 pa-4" dense>
-      <v-col
+    <div v-if="sortedAndFlatCardList.length > 0" class="card-grid">
+      <div
         v-for="item in sortedAndFlatCardList"
         :key="`${item.id}-${item.cardIdPrefix}`"
-        cols="2"
-        class="pa-2 pl-6 pr-6"
+        class="card-item"
       >
         <div class="card-container">
           <v-img
@@ -20,8 +19,8 @@
           </v-img>
           <div class="quantity-badge">{{ item.quantity }}</div>
         </div>
-      </v-col>
-    </v-row>
+      </div>
+    </div>
     <div v-else class="text-center d-flex align-center justify-center fill-height">N/A</div>
   </div>
 </template>
@@ -90,6 +89,17 @@ const sortedAndFlatCardList = computed(() => {
   overflow: visible;
   box-sizing: border-box;
   background-color: rgb(255, 255, 255);
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  gap: 24px 12px;
+  padding: 16px;
+}
+
+.card-item {
+  width: 100%;
 }
 
 .card-container {
