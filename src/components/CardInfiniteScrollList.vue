@@ -15,14 +15,14 @@
     :margin="margin"
     :="$attrs"
   >
-    <v-scale-transition
-      group
-      tag="div" 
+    <TransitionGroup
+      name="card-transition"
+      tag="div"
       class="card-grid-container"
       :class="{ 'freeze-layout': isLayoutFrozen }"
-      :style="{ 
+      :style="{
         paddingTop: `${headerOffsetHeight - 10}px`,
-        gridTemplateColumns: frozenColumns 
+        gridTemplateColumns: frozenColumns,
       }"
     >
       <div
@@ -32,7 +32,7 @@
       >
         <CardTemplate :card="card" @show-details="onShowDetails" />
       </div>
-    </v-scale-transition>
+    </TransitionGroup>
   </v-infinite-scroll>
 
   <v-dialog
@@ -293,6 +293,46 @@ onUnmounted(() => {
 /* When layout is frozen, use the captured column layout */
 .card-grid-container.freeze-layout {
   transition: none;
+}
+
+/*
+ * Enter Animation: Pop-up effect for new cards.
+ * When a new card is added to the DOM, it scales up from a transparent,
+ * smaller state.
+ */
+.card-transition-enter-from {
+  opacity: 0;
+  transform: scale(0);
+}
+.card-transition-enter-active {
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+.card-transition-enter-to {
+  opacity: 1;
+  transform: scale(1);
+}
+
+/*
+ * Leave Animation: Its main purpose is to allow time for the move animation
+ * and to hide rendering artifacts. `position: absolute` takes the element out
+ * of the document flow, so the move animation can play. `opacity: 0` hides
+ * potential visual glitches where the element might "jump" before being removed.
+ */
+.card-transition-leave-active {
+  transition: opacity 0.3s ease;
+  position: absolute;
+}
+
+.card-transition-leave-to {
+  opacity: 0;
+}
+
+/*
+ * Move Animation: Allows remaining cards to move smoothly to their new
+ * positions after filtering. This is triggered by the FLIP mechanism.
+ */
+.card-transition-move {
+  transition: transform 0.5s ease;
 }
 
 /* 740 is a mysterious number, a chosen number woven from human effort, blood, and tears. */
