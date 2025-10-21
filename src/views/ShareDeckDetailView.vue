@@ -56,7 +56,7 @@
           :style="{ paddingTop: `${headerOffsetHeight}px` }"
           style="position: relative"
         >
-          <div class="px-4 pb-4 w-100 h-100">
+          <div class="px-4 pb-4 w-100 h-100 centered-content">
             <div v-for="([groupName, group], index) in groupedCards" :key="groupName">
               <div
                 class="d-flex align-center text-subtitle-2 text-disabled mb-1"
@@ -68,7 +68,7 @@
                 </v-chip>
               </div>
               <v-row dense class="ma-0">
-                <v-col v-for="item in group" :key="item.id" cols="4" sm="3" md="2" lg="1">
+                <v-col v-for="item in group" :key="item.id" cols="4" sm="3" md="2">
                   <v-tooltip :text="item.id" location="top center">
                     <template v-slot:activator="{ props }">
                       <div v-bind="props" class="card-container" @click="handleCardClick(item)">
@@ -490,5 +490,16 @@ const selectGroupBy = (value) => {
 .cover-card-container .selected-cover {
   border-color: rgb(216, 102, 102);
   box-shadow: 0 0 10px 3px rgba(223, 137, 137, 0.6);
+}
+
+.centered-content {
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+@media (max-width: 1200px) {
+  .centered-content {
+    max-width: 100%;
+  }
 }
 </style>
