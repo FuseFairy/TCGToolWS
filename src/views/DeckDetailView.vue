@@ -6,18 +6,31 @@
           <div class="overlay-header-content">
             <!-- 左側 -->
             <div class="header-left-variant">
-              <v-btn
-                :size="resize"
-                icon="mdi-download"
-                variant="text"
-                @click="handleDownloadDeckImage"
-              ></v-btn>
-              <v-btn
-                :size="resize"
-                icon="mdi-share-variant"
-                variant="text"
-                @click="handleShareCard"
-              ></v-btn>
+              <v-menu location="bottom">
+                <template v-slot:activator="{ props }">
+                  <v-btn
+                    :size="resize"
+                    icon="mdi-share-variant"
+                    variant="text"
+                    v-bind="props"
+                  ></v-btn>
+                </template>
+
+                <v-list density="compact" nav>
+                  <v-list-item @click="handleShareCard">
+                    <template v-slot:prepend>
+                      <v-icon icon="mdi-link"></v-icon>
+                    </template>
+                    <v-list-item-title>Link</v-list-item-title>
+                  </v-list-item>
+                  <v-list-item @click="handleDownloadDeckImage">
+                    <template v-slot:prepend>
+                      <v-icon icon="mdi-image"></v-icon>
+                    </template>
+                    <v-list-item-title>Image</v-list-item-title>
+                  </v-list-item>
+                </v-list>
+              </v-menu>
               <v-btn
                 :size="resize"
                 icon="mdi-pencil"
