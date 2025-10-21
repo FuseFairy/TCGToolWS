@@ -238,7 +238,7 @@ import collator from '@/utils/collator.js'
 
 const { smAndUp, smAndDown } = useDisplay()
 const resize = computed(() => {
-  return smAndUp.value ? 'default' : 'x-small'
+  return smAndUp.value ? 'default' : 'small'
 })
 
 const route = useRoute()
