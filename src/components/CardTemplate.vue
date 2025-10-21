@@ -90,10 +90,10 @@
           <v-btn
             variant="flat"
             size="x-small"
-            icon="mdi-plus"
-            color="grey-darken-3"
-            :disabled="deckStore.isDeckFull"
-            @click.stop="deckStore.addCard(card)"
+            icon="mdi-minus"
+            color="grey-lighten-2"
+            :disabled="cardCount === 0"
+            @click.stop="cardCount > 0 && deckStore.removeCard(card.id)"
           >
           </v-btn>
         </v-col>
@@ -101,10 +101,10 @@
           <v-btn
             variant="flat"
             size="x-small"
-            icon="mdi-minus"
-            color="grey-lighten-2"
-            :disabled="cardCount === 0"
-            @click.stop="cardCount > 0 && deckStore.removeCard(card.id)"
+            icon="mdi-plus"
+            color="grey-darken-3"
+            :disabled="deckStore.isDeckFull"
+            @click.stop="deckStore.addCard(card)"
           >
           </v-btn>
         </v-col>
