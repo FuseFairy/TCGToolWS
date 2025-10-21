@@ -10,6 +10,7 @@
   <v-infinite-scroll
     v-else
     ref="infiniteScrollRef"
+    class="overflow-x-hidden"
     @load="load"
     empty-text=""
     :margin="margin"
