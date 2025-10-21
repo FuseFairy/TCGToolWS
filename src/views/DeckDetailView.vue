@@ -5,7 +5,13 @@
         <div ref="headerRef" class="overlay-header pl-4 pr-4 pa-1">
           <div class="overlay-header-content">
             <!-- 左側 -->
-            <div class="header-left">
+            <div class="header-left-variant">
+              <v-btn
+                :size="resize"
+                icon="mdi-download"
+                variant="text"
+                @click="handleDownloadDeckImage"
+              ></v-btn>
               <v-btn
                 :size="resize"
                 icon="mdi-share-variant"
@@ -111,6 +117,8 @@
       </div>
     </v-container>
 
+    <DeckShareImage v-if="deck" :deck-cards="cards" />
+
     <v-dialog
       v-if="selectedCardData"
       v-model="isModalVisible"
@@ -163,6 +171,9 @@ import { useUIStore } from '@/stores/ui'
 import { useDeckStore } from '@/stores/deck'
 import { useCardNavigation } from '@/composables/useCardNavigation.js'
 import collator from '@/utils/collator.js'
+import { convertElementToPng } from '@/utils/domToImage.js'
+import DeckShareImage from '@/components/DeckShareImage.vue'
+import { useDevice } from '@/composables/useDevice'
 
 const { smAndUp, smAndDown } = useDisplay()
 const resize = computed(() => {
@@ -179,6 +190,7 @@ const deckStore = useDeckStore()
 const deckKey = route.params.key
 const deck = ref(null)
 const cards = ref({})
+const { isTouch } = useDevice()
 
 const handleShareCard = async () => {
   if (!deckKey) {
@@ -335,6 +347,23 @@ const handleShowNewCard = async (cardPayload) => {
 
 const handleCardClick = async (item) => {
   await handleShowNewCard({ card: item })
+}
+
+const handleDownloadDeckImage = async () => {
+  if (!deck.value) {
+    triggerSnackbar('无法生成图片，牌组数据缺失。', 'error')
+    return
+  }
+
+  uiStore.setLoading(true)
+  try {
+    await convertElementToPng('deck-share-image-content', isTouch.value, deck.value.name.trim())
+  } catch (error) {
+    console.error('生成圖片失敗:', error)
+    triggerSnackbar('生成圖片失敗，請稍後再試。', 'error')
+  } finally {
+    uiStore.setLoading(false)
+  }
 }
 
 const showBottomSheet = ref(false)

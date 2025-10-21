@@ -17,11 +17,11 @@
     "db:init": "wrangler d1 execute ws-account-db --local --file=./schema.sql"
   },
   "dependencies": {
+    "@zumer/snapdom": "^1.9.14",
     "dompurify": "^3.2.7",
     "hono": "^4.9.9",
     "jsoncrush": "^1.1.8",
     "jwt-decode": "^4.0.0",
-    "lz-string": "^1.5.0",
     "nanoid": "^5.1.6",
     "pako": "^2.1.0",
     "pinia": "^3.0.3",
@@ -44,7 +44,7 @@
     "rollup-plugin-visualizer": "^6.0.3",
     "sass-embedded": "^1.92.1",
     "terser": "^5.44.0",
-    "vite": "^7.0.6",
+    "vite": "^7.1.11",
     "vite-plugin-vue-devtools": "^8.0.0",
     "vite-plugin-vuetify": "^2.1.2",
     "wrangler": "^4.40.2"
