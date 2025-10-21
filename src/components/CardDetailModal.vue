@@ -2,7 +2,10 @@
   <v-card
     class="d-flex flex-column w-100"
     style="position: relative"
-    :class="{ 'overflow-y-auto themed-scrollbar': !$vuetify.display.mdAndUp, 'overflow-visible': $vuetify.display.mdAndUp }"
+    :class="{
+      'overflow-y-auto themed-scrollbar': !$vuetify.display.mdAndUp,
+      'overflow-visible': $vuetify.display.mdAndUp,
+    }"
   >
     <v-btn
       icon="mdi-close"

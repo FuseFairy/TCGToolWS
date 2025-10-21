@@ -25,11 +25,7 @@
         gridTemplateColumns: frozenColumns,
       }"
     >
-      <div
-        v-for="card in displayedCards"
-        :key="card.id"
-        class="d-flex justify-center"
-      >
+      <div v-for="card in displayedCards" :key="card.id" class="d-flex justify-center">
         <CardTemplate :card="card" @show-details="onShowDetails" />
       </div>
     </TransitionGroup>
@@ -230,7 +226,7 @@ let freezeTimeout = null
 
 const captureCurrentColumns = () => {
   if (!gridElement.value) return null
-  
+
   const computedStyle = window.getComputedStyle(gridElement.value)
   return computedStyle.gridTemplateColumns
 }
@@ -239,12 +235,12 @@ const freezeLayout = () => {
   // Capture current column layout before sidebar animation
   frozenColumns.value = captureCurrentColumns()
   isLayoutFrozen.value = true
-  
+
   // Clear any existing timeout
   if (freezeTimeout) {
     clearTimeout(freezeTimeout)
   }
-  
+
   // Unfreeze after sidebar animation completes (0.4s) + small buffer
   freezeTimeout = setTimeout(() => {
     isLayoutFrozen.value = false
@@ -268,7 +264,7 @@ onMounted(() => {
     // Fallback if the ref isn't available for some reason
     scrollContainer.value = document.documentElement
   }
-  
+
   // Get reference to grid element
   nextTick(() => {
     gridElement.value = infiniteScrollRef.value?.$el?.querySelector('.card-grid-container')
@@ -305,7 +301,9 @@ onUnmounted(() => {
   transform: scale(0);
 }
 .card-transition-enter-active {
-  transition: opacity 0.3s ease, transform 0.3s ease;
+  transition:
+    opacity 0.3s ease,
+    transform 0.3s ease;
 }
 .card-transition-enter-to {
   opacity: 1;

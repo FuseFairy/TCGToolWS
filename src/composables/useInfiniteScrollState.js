@@ -11,13 +11,7 @@ import { onBeforeRouteLeave } from 'vue-router'
  * @param {import('vue').Ref<boolean>} [options.loadingRef] - An optional ref to a loading flag.
  * @param {boolean} [options.handleFreshNavigation=false] - Whether to handle the 'fresh' state from router history.
  */
-export function useInfiniteScrollState({ 
-  storageKey, 
-  scrollRef, 
-  onSave, 
-  onRestore, 
-  loadingRef 
-}) {
+export function useInfiniteScrollState({ storageKey, scrollRef, onSave, onRestore, loadingRef }) {
   let watcher = null
 
   const saveState = () => {
