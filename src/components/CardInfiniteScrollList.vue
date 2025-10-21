@@ -188,6 +188,11 @@ const reset = () => {
   page.value = 1
   if (infiniteScrollRef.value) {
     infiniteScrollRef.value.reset()
+    nextTick(() => {
+      if (infiniteScrollRef.value?.$el) {
+        infiniteScrollRef.value.$el.scrollTop = 0
+      }
+    })
   }
 }
 
