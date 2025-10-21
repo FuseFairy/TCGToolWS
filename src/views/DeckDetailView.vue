@@ -361,8 +361,6 @@ const handleDownloadDeckImage = async () => {
   try {
     if (deckShareImageRef.value) {
       await deckShareImageRef.value.areAllImagesLoaded()
-      // Add a small delay to allow the browser to finish painting
-      await new Promise(resolve => setTimeout(resolve, 300)); // 300ms delay
     }
     await convertElementToPng('deck-share-image-content', isTouch.value, deck.value.name.trim())
   } catch (error) {

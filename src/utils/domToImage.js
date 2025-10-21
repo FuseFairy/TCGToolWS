@@ -16,20 +16,6 @@ export async function convertElementToPng(elementId, isTouch, name) {
     }
     const result = await snapdom(element, options)
 
-    // WORKAROUND: Force-clear snapdom's cache before the actual capture.
-    // A single call with `cache: 'disabled'` was not reliable. This two-step process ensures
-    // that all stale assets are flushed by the first call, guaranteeing the second
-    // call captures the latest DOM state accurately.
-
-    // 1. Sacrificial call to clear caches. The result is intentionally ignored.
-    // eslint-disable-next-line no-unused-vars
-    const _ = await snapdom.toPng(element, {
-      width: 1,
-      height: 1,
-      dpr: 1,
-      cache: 'disabled',
-    })
-
     // 2. The actual capture, now running with a clean cache.
     // eslint-disable-next-line no-unused-vars
     const img = await result.toPng()

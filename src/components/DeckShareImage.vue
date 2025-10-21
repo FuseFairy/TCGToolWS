@@ -12,10 +12,12 @@
             :aspect-ratio="400 / 559"
             cover
             eager
+            transition="false"
             @load="onImageLoad"
+            @error="onImageLoad"
           >
             <template #error>
-              <v-img src="/placehold.webp" :aspect-ratio="400 / 559" cover @load="onImageLoad" />
+              <v-img src="/placehold.webp" :aspect-ratio="400 / 559" cover />
             </template>
           </v-img>
           <div class="quantity-badge">{{ item.quantity }}</div>
