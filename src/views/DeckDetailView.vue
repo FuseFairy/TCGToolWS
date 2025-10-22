@@ -5,7 +5,7 @@
         <div ref="headerRef" class="overlay-header pl-4 pr-4 pa-1">
           <div class="overlay-header-content">
             <!-- 左側 -->
-            <div class="header-left-variant">
+            <div class="header-left">
               <template v-if="smAndUp">
                 <v-btn
                   :size="resize"
