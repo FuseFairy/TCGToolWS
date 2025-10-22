@@ -5,7 +5,7 @@ export const useUIStore = defineStore(
   'ui',
   () => {
     const version = ref(1)
-    const theme = ref('system')
+    const theme = ref('light')
     const isFilterOpen = ref(false)
     const isCardDeckOpen = ref(false)
     const isLoading = ref(false)
