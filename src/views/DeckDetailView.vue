@@ -6,37 +6,35 @@
           <div class="overlay-header-content">
             <!-- 左側 -->
             <div class="header-left-variant">
-              <v-menu location="bottom">
-                <template v-slot:activator="{ props }">
-                  <v-btn
-                    :size="resize"
-                    icon="mdi-share-variant"
-                    variant="text"
-                    v-bind="props"
-                  ></v-btn>
-                </template>
-
-                <v-list density="compact" nav>
-                  <v-list-item @click="handleShareCard">
-                    <template v-slot:prepend>
-                      <v-icon icon="mdi-link"></v-icon>
-                    </template>
-                    <v-list-item-title>Link</v-list-item-title>
-                  </v-list-item>
-                  <v-list-item @click="handleDownloadDeckImage">
-                    <template v-slot:prepend>
-                      <v-icon icon="mdi-image"></v-icon>
-                    </template>
-                    <v-list-item-title>Image</v-list-item-title>
-                  </v-list-item>
-                </v-list>
-              </v-menu>
-              <v-btn
-                :size="resize"
-                icon="mdi-pencil"
-                variant="text"
-                @click="handleEditDeck"
-              ></v-btn>
+              <template v-if="smAndUp">
+                <v-btn
+                  :size="resize"
+                  icon="mdi-download"
+                  variant="text"
+                  @click="handleDownloadDeckImage"
+                ></v-btn>
+                <v-btn
+                  :size="resize"
+                  icon="mdi-share-variant"
+                  variant="text"
+                  @click="handleShareCard"
+                ></v-btn>
+                <v-btn
+                  :size="resize"
+                  icon="mdi-pencil"
+                  variant="text"
+                  @click="handleEditDeck"
+                ></v-btn>
+              </template>
+              <template v-if="!smAndUp">
+                <v-btn
+                  :size="resize"
+                  icon="mdi-dots-vertical"
+                  variant="text"
+                  @click="showMoreActionsBottomSheet = true"
+                ></v-btn>
+              </template>
+              
             </div>
 
             <!-- 中間 -->
@@ -167,6 +165,30 @@
         </v-list-item>
       </v-list>
     </v-bottom-sheet>
+
+    <v-bottom-sheet v-model="showMoreActionsBottomSheet">
+      <v-list>
+        <v-list-subheader>更多操作</v-list-subheader>
+        <v-list-item @click="handleEditDeck">
+          <template #prepend>
+            <v-icon>mdi-pencil</v-icon>
+          </template>
+          <v-list-item-title>编辑牌组</v-list-item-title>
+        </v-list-item>
+        <v-list-item @click="handleShareClick">
+          <template #prepend>
+            <v-icon>mdi-share-variant</v-icon>
+          </template>
+          <v-list-item-title>分享牌组</v-list-item-title>
+        </v-list-item>
+        <v-list-item @click="handleDownloadClick">
+          <template #prepend>
+            <v-icon>mdi-download</v-icon>
+          </template>
+          <v-list-item-title>下载图片</v-list-item-title>
+        </v-list-item>
+      </v-list>
+    </v-bottom-sheet>
   </div>
 </template>
 
@@ -188,7 +210,7 @@ import { convertElementToPng } from '@/utils/domToImage.js'
 import DeckShareImage from '@/components/DeckShareImage.vue'
 import { useDevice } from '@/composables/useDevice'
 
-const { smAndUp, smAndDown } = useDisplay()
+const { smAndUp, smAndDown, mdAndUp } = useDisplay()
 const resize = computed(() => {
   return smAndUp.value ? 'default' : 'small'
 })
@@ -388,6 +410,16 @@ const showBottomSheet = ref(false)
 const selectGroupBy = (value) => {
   groupBy.value = value
   showBottomSheet.value = false
+}
+
+const showMoreActionsBottomSheet = ref(false)
+const handleDownloadClick = () => {
+  handleDownloadDeckImage()
+  showMoreActionsBottomSheet.value = false
+}
+const handleShareClick = () => {
+  handleShareCard()
+  showMoreActionsBottomSheet.value = false
 }
 </script>
 
