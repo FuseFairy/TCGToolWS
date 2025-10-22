@@ -1,12 +1,15 @@
 const assetModules = import.meta.glob(['/src/assets/**/*.webp', '/src/assets/**/*.json'], {
-  eager: true,
   query: '?url',
   import: 'default',
 })
 
 export { assetModules }
 
-export const getAssetsFile = (path) => {
+export const getAssetsFile = async (path) => {
   const fullPathInSrc = `/src/assets/${path}`
-  return assetModules[fullPathInSrc]
+  if (assetModules[fullPathInSrc]) {
+    const module = await assetModules[fullPathInSrc]()
+    return module
+  }
+  return undefined
 }

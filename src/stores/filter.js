@@ -56,7 +56,7 @@ export const useFilterStore = defineStore('filter', () => {
       const dataFilePaths = findSeriesDataFileName(prefixes)
       const allFileContents = await Promise.all(
         dataFilePaths.map(async (path) => {
-          const url = getAssetsFile(path)
+          const url = await getAssetsFile(path)
           const response = await fetch(url, { priority: 'high' })
           if (!response.ok) throw new Error(`Failed to fetch ${path}`)
           return {
