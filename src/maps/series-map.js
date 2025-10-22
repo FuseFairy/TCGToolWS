@@ -397,7 +397,7 @@ export const seriesMap = {
     id: 'kmd',
     prefixes: ['KMD'],
   },
-  '绯染天空': {
+  '炽焰天穹': {
     id: 'hbr',
     prefixes: ['HBR', 'Khb', 'Hab'],
   },
@@ -736,12 +736,16 @@ export const seriesMap = {
     id: 'nik',
     prefixes: ['NIK'],
   },
-  '当哒当': {
+  '胆大党': {
     id: 'ddd',
     prefixes: ['DDD'],
   },
   '怪兽8号': {
     id: 'kj8',
     prefixes: ['KJ8'],
+  },
+  '其他': {
+    id: 'ws',
+    prefixes: ['WS'],
   },
 }

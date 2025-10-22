@@ -1,0 +1,182 @@
+{
+  "WS/WPR-P01": {
+    "name": "笑顔満開 えみつん",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽", "声優"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【自】再演 [手牌中1张角色卡放置到休息室] （这张卡从舞台放置到休息室时，你可以支付费用。支付了的话，你将这张卡横置放置到原来的位置）",
+    "all_cards": [
+      {
+        "id": "WS/WPR-P01",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "WS/WPR-P02": {
+    "name": "えみゅーじっく♪",
+    "product_name": "PRカード【Wサイド】",
+    "type": "事件卡",
+    "level": 1,
+    "power": "-",
+    "cost": 1,
+    "trait": "-",
+    "color": "红色",
+    "soul": "-",
+    "effect": "你的全部角色在那个回合中，战斗力+2000。这张卡思出。",
+    "all_cards": [
+      {
+        "id": "WS/WPR-P02",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "WS/WPR-P03": {
+    "name": "“ぷよと一緒”凛",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 2500,
+    "cost": 0,
+    "trait": ["音楽", "ぷよ"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你其他的角色在1个以下的话，这张卡的战斗力+1500。",
+    "all_cards": [
+      {
+        "id": "WS/WPR-P03",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "WS/WPR-P04": {
+    "name": "つなぐメロディー 新田恵海",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5000,
+    "cost": 0,
+    "trait": ["音楽", "声優"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【永】这张卡位于前列中央的话，这张卡的战斗力+1000。",
+    "all_cards": [
+      {
+        "id": "WS/WPR-P04",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "WS/WPR-P05": {
+    "name": "ちょこたん",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["声優", "カードゲーム"],
+    "color": "蓝色",
+    "soul": 1,
+    "effect": "【永】你可以在句尾加上喵。",
+    "all_cards": [
+      {
+        "id": "WS/WPR-P05",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "WS/WPR-P06": {
+    "name": "一緒に頑張ろう！！ 尾崎由香",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["声優"],
+    "color": "黄色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "WS/WPR-P06",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "WS/WPR-P07": {
+    "name": "一緒に頑張ろう！！ 愛美",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 2,
+    "power": 2500,
+    "cost": 1,
+    "trait": ["声優"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "【起】【反击】助太刀3000 等级2 [(1) 手牌中这张卡放置到休息室] （你选择自己1个被正面攻击的角色，那个回合中，战斗力+3000）",
+    "all_cards": [
+      {
+        "id": "WS/WPR-P07",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "WS/WPR-P08": {
+    "name": "2020年も頑張ろう！ 愛美",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 1,
+    "power": 5500,
+    "cost": 0,
+    "trait": ["声優"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "WS/WPR-P08",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "WS/WPR-P09": {
+    "name": "レッツ！ヴァイスシュヴァルツ!! 渡瀬結月",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["声優", "カードゲーム"],
+    "color": "绿色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "WS/WPR-P09",
+        "rarity": "PR"
+      }
+    ]
+  },
+  "WS/WPR-P10": {
+    "name": "レッツ！ヴァイスシュヴァルツ!! 立石凛",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["声優", "カードゲーム"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "WS/WPR-P10",
+        "rarity": "PR"
+      }
+    ]
+  }
+}

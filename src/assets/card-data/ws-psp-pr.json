@@ -1,0 +1,20 @@
+{
+  "WS/PSP-P01": {
+    "name": "ほんわか全開幼なじみ 涼花",
+    "product_name": "PRカード【Wサイド】",
+    "type": "角色卡",
+    "level": 0,
+    "power": 3000,
+    "cost": 0,
+    "trait": ["カードゲーム", "水着"],
+    "color": "红色",
+    "soul": 1,
+    "effect": "",
+    "all_cards": [
+      {
+        "id": "WS/PSP-P01",
+        "rarity": "PR"
+      }
+    ]
+  }
+}
