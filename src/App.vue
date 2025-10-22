@@ -1,5 +1,5 @@
 <template>
-  <v-app id="app" class="grid-background">
+  <v-app id="app" class="grid-background" :style="appStyle">
     <v-app-bar scroll-behavior="elevate" scroll-threshold="160" :color="appBarColor" class="header">
       <template #prepend>
         <v-app-bar-nav-icon class="d-md-none" @click="drawer = !drawer"></v-app-bar-nav-icon>
@@ -29,16 +29,23 @@
           ></v-divider>
         </template>
 
-        <v-btn @click="toggleTheme" icon="mdi-brightness-6"></v-btn>
+        <v-btn @click="isSettingsModalOpen = true" icon="mdi-cog"></v-btn>
 
         <template v-if="!isInSpecialFlow">
           <v-btn
             v-if="authStore.isAuthenticated"
             @click="handleLogoutClick"
             icon="mdi-logout"
+            color="red-lighten-1"
             title="登出"
           ></v-btn>
-          <v-btn v-else @click="handleLogin" icon="mdi-login" title=" 登录/注册"></v-btn
+          <v-btn
+            v-else
+            @click="handleLogin"
+            icon="mdi-login"
+            color="teal-lighten-1"
+            title=" 登录/注册"
+          ></v-btn
         ></template>
       </template>
     </v-app-bar>
@@ -68,6 +75,7 @@
     </v-snackbar>
 
     <AuthDialog ref="authDialog" />
+    <SettingsModal v-model="isSettingsModalOpen" />
 
     <v-dialog v-model="isLogoutDialogVisible" max-width="320" persistent>
       <v-card title="确认登出" text="您确定要登出目前的帐号吗？">
@@ -87,18 +95,20 @@
 </template>
 
 <script setup>
-import { ref, watchEffect, computed } from 'vue'
+import { ref, watch, computed } from 'vue'
 import { useTheme } from 'vuetify'
 import { useRoute } from 'vue-router'
 import { useUIStore } from '@/stores/ui'
 import { useAuthStore } from '@/stores/auth'
 import { useSnackbar } from '@/composables/useSnackbar'
 import AuthDialog from '@/components/AuthDialog.vue'
+import SettingsModal from '@/components/SettingsModal.vue'
 
 const authStore = useAuthStore()
 const authDialog = ref(null)
 const { show, text, color, triggerSnackbar } = useSnackbar()
 const route = useRoute()
+const isSettingsModalOpen = ref(false)
 
 const isInSpecialFlow = computed(() => {
   return !!route.meta.isSpecialFlow
@@ -133,15 +143,53 @@ const appBarColor = computed(() => {
   return vuetifyTheme.global.name.value === 'light' ? 'grey-lighten-3' : 'grey-darken-3'
 })
 
-watchEffect(() => {
-  vuetifyTheme.change(uiStore.theme)
+const appStyle = computed(() => {
+  const bg = uiStore.backgroundImage
+  if (bg && bg.src) {
+    return {
+      '--bg-image': `url(${bg.src})`,
+      '--bg-size': bg.size || 'cover',
+      '--bg-blur': `${bg.blur || 0}px`,
+      '--bg-mask-color': `rgba(0, 0, 0, ${bg.maskOpacity ?? 0})`,
+    }
+  }
+  return {
+    '--bg-image': 'none',
+  }
 })
 
-const toggleTheme = () => {
-  const newTheme = vuetifyTheme.global.current.value.dark ? 'light' : 'dark'
-  uiStore.setTheme(newTheme)
-}
+watch(
+  () => uiStore.theme,
+  (newTheme) => {
+    vuetifyTheme.change(newTheme)
+  },
+  { immediate: true }
+)
 </script>
+
+<style>
+#app {
+  position: relative;
+  isolation: isolate;
+}
+
+#app::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background-image: linear-gradient(var(--bg-mask-color), var(--bg-mask-color)), var(--bg-image);
+  background-size: var(--bg-size);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  filter: blur(var(--bg-blur));
+  transition: filter 0.3s ease;
+}
+</style>
 
 <style scoped>
 .header {
