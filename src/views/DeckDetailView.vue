@@ -173,13 +173,13 @@
           <template #prepend>
             <v-icon>mdi-pencil</v-icon>
           </template>
-          <v-list-item-title>编辑牌组</v-list-item-title>
+          <v-list-item-title>编辑卡组</v-list-item-title>
         </v-list-item>
         <v-list-item @click="handleShareClick">
           <template #prepend>
             <v-icon>mdi-share-variant</v-icon>
           </template>
-          <v-list-item-title>分享牌组</v-list-item-title>
+          <v-list-item-title>分享卡组</v-list-item-title>
         </v-list-item>
         <v-list-item @click="handleDownloadClick">
           <template #prepend>
@@ -388,7 +388,7 @@ const deckShareImageRef = ref(null)
 
 const handleDownloadDeckImage = async () => {
   if (!deck.value) {
-    triggerSnackbar('无法生成图片，牌组数据缺失。', 'error')
+    triggerSnackbar('无法生成图片，卡组数据缺失。', 'error')
     return
   }
 
