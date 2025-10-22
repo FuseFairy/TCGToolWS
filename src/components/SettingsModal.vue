@@ -73,7 +73,7 @@
               <div class="text-subtitle-1 mb-2">背景设定</div>
               <v-slider
                 :model-value="uiStore.backgroundImage.maskOpacity"
-                @update:model-value="uiStore.setBackgroundMaskOpacity($event)"
+                @update:model-value="uiStore.updateBackgroundImage({ maskOpacity: $event })"
                 @start="isDraggingSlider = true"
                 @end="isDraggingSlider = false"
                 label="遮罩浓度"
@@ -85,7 +85,7 @@
               ></v-slider>
               <v-slider
                 :model-value="uiStore.backgroundImage.blur"
-                @update:model-value="uiStore.setBackgroundBlur($event)"
+                @update:model-value="uiStore.updateBackgroundImage({ blur: $event })"
                 @start="isDraggingSlider = true"
                 @end="isDraggingSlider = false"
                 label="模糊半径"
@@ -97,7 +97,7 @@
               ></v-slider>
               <v-select
                 :model-value="uiStore.backgroundImage.size"
-                @update:model-value="uiStore.setBackgroundSize($event)"
+                @update:model-value="uiStore.updateBackgroundImage({ size: $event })"
                 label="填满样式"
                 :items="[
                   { title: '等比例填满', value: 'cover' },
