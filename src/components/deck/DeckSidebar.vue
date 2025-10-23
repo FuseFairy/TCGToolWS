@@ -2,7 +2,10 @@
   <aside
     v-bind="$attrs"
     class="d-flex flex-column flex-shrink-0"
-    :style="{ paddingTop: `${smAndUp ? headerOffsetHeight + 18 : 0}px` }"
+    :style="{
+      paddingTop: `${smAndUp ? headerOffsetHeight + 18 : 0}px`,
+      height: containerHeight ? `${containerHeight}px` : 'auto',
+    }"
   >
     <v-sheet
       :rounded="smAndUp ? '3md' : false"
@@ -261,6 +264,10 @@ defineProps({
   headerOffsetHeight: {
     type: Number,
     required: true,
+  },
+  containerHeight: {
+    type: Number,
+    default: null,
   },
 })
 

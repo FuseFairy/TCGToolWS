@@ -140,15 +140,22 @@
           <v-divider></v-divider>
           <v-card-text
             class="pa-0"
-            :class="{ 'overflow-hidden': sheetContent === 'deck' }"
-            :style="{ 'height': sheetHeight + 'px', 'overflow-y': 'auto' }"
+            :style="{
+              'height': sheetHeight + 'px',
+              'overflow-y': sheetContent === 'deck' ? 'hidden' : 'auto',
+            }"
           >
             <FilterSidebar
               v-if="sheetContent === 'filter'"
               :header-offset-height="0"
               class="px-4"
             />
-            <DeckSidebar v-if="sheetContent === 'deck'" :header-offset-height="0" class="px-4" />
+            <DeckSidebar
+              v-if="sheetContent === 'deck'"
+              :header-offset-height="0"
+              :container-height="sheetHeight"
+              class="px-4"
+            />
           </v-card-text>
         </v-card>
       </v-bottom-sheet>
