@@ -75,20 +75,20 @@
           />
         </div>
 
-                  <CardInfiniteScrollList
-                    ref="listRef"
-                    :cards="filterStore.filteredCards"
-                    :header-offset-height="headerOffsetHeight"
-                    :is-table-mode-active="isTableModeActive"
-                    margin=" 300"
-                    :class="[
-                      'flex-grow-1',
-                      'themed-scrollbar',
-                      'pl-4',
-                      'pr-4',
-                      { 'no-scroll': isScrollDisabled },
-                    ]"
-                  />
+        <CardInfiniteScrollList
+          ref="listRef"
+          :cards="filterStore.filteredCards"
+          :header-offset-height="headerOffsetHeight"
+          :is-table-mode-active="isTableModeActive"
+          margin=" 300"
+          :class="[
+            'flex-grow-1',
+            'themed-scrollbar',
+            'pl-4',
+            'pr-4',
+            { 'no-scroll': isScrollDisabled },
+          ]"
+        />
         <div class="sidebar-container" :class="{ 'right-sidebar-open': isCardDeckOpen }">
           <DeckSidebar
             :class="['fill-height', smAndUp ? 'pr-4 pb-4' : '']"

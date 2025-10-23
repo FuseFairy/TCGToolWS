@@ -16,17 +16,22 @@
     :margin="margin"
     :="$attrs"
   >
-          <TransitionGroup
-          name="card-transition"
-          tag="div"
-          class="card-grid-container"
-          :class="{ 'freeze-layout': isLayoutFrozen, 'table-mode-grid': isTableModeActive }"
-          :style="{
-            paddingTop: `${headerOffsetHeight - 10}px`,
-            gridTemplateColumns: frozenColumns,
-          }"
-        >      <div v-for="card in displayedCards" :key="card.id" class="d-flex justify-center">
-        <CardTemplate :card="card" :is-table-mode-active="isTableModeActive" @show-details="onShowDetails" />
+    <TransitionGroup
+      name="card-transition"
+      tag="div"
+      class="card-grid-container"
+      :class="{ 'freeze-layout': isLayoutFrozen, 'table-mode-grid': isTableModeActive }"
+      :style="{
+        paddingTop: `${headerOffsetHeight - 10}px`,
+        gridTemplateColumns: frozenColumns,
+      }"
+    >
+      <div v-for="card in displayedCards" :key="card.id" class="d-flex justify-center">
+        <CardTemplate
+          :card="card"
+          :is-table-mode-active="isTableModeActive"
+          @show-details="onShowDetails"
+        />
       </div>
     </TransitionGroup>
   </v-infinite-scroll>

@@ -7,7 +7,11 @@
     @click="handleCardClick"
   >
     <v-hover v-slot="{ isHovering, props: hoverProps }">
-      <div :class="isTableModeActive? 'ma-1': 'ma-3'" style="position: relative" v-bind="hoverProps">
+      <div
+        :class="isTableModeActive ? 'ma-1' : 'ma-3'"
+        style="position: relative"
+        v-bind="hoverProps"
+      >
         <v-img
           :key="card.id"
           :src="imageUrl"
@@ -64,7 +68,11 @@
       </div>
     </v-hover>
 
-    <div v-show="!isTableModeActive || lgAndUp" :class="isTableModeActive? 'pa-2': 'pa-3'" class="card-content pt-0">
+    <div
+      v-show="!isTableModeActive || lgAndUp"
+      :class="isTableModeActive ? 'pa-2' : 'pa-3'"
+      class="card-content pt-0"
+    >
       <div class="text-grey text-caption text-md-body-2 mb-1 text-truncate">{{ card.id }}</div>
       <h3 class="text-subtitle-2 text-md-subtitle-1 text-truncate">{{ card.name }}</h3>
       <v-row v-show="!isTableModeActive && lgAndUp" dense class="mt-2 text-center">
