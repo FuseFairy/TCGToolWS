@@ -64,7 +64,7 @@
       </div>
     </v-hover>
 
-    <div class="card-content pa-3 pt-0">
+    <div v-if="!isTableModeActive" class="card-content pa-3 pt-0">
       <div class="text-grey text-caption text-md-body-2 mb-1 text-truncate">{{ card.id }}</div>
       <h3 class="text-subtitle-2 text-md-subtitle-1 text-truncate">{{ card.name }}</h3>
       <v-row dense class="mt-2 text-center">
@@ -123,6 +123,7 @@ import { useDevice } from '@/composables/useDevice'
 
 const props = defineProps({
   card: { type: Object, required: true },
+  isTableModeActive: { type: Boolean, default: false },
 })
 
 const emit = defineEmits(['show-details'])

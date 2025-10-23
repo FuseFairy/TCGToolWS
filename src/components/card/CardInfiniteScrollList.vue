@@ -16,18 +16,17 @@
     :margin="margin"
     :="$attrs"
   >
-    <TransitionGroup
-      name="card-transition"
-      tag="div"
-      class="card-grid-container"
-      :class="{ 'freeze-layout': isLayoutFrozen }"
-      :style="{
-        paddingTop: `${headerOffsetHeight - 10}px`,
-        gridTemplateColumns: frozenColumns,
-      }"
-    >
-      <div v-for="card in displayedCards" :key="card.id" class="d-flex justify-center">
-        <CardTemplate :card="card" @show-details="onShowDetails" />
+          <TransitionGroup
+          name="card-transition"
+          tag="div"
+          class="card-grid-container"
+          :class="{ 'freeze-layout': isLayoutFrozen, 'table-mode-grid': isTableModeActive }"
+          :style="{
+            paddingTop: `${headerOffsetHeight - 10}px`,
+            gridTemplateColumns: frozenColumns,
+          }"
+        >      <div v-for="card in displayedCards" :key="card.id" class="d-flex justify-center">
+        <CardTemplate :card="card" :is-table-mode-active="isTableModeActive" @show-details="onShowDetails" />
       </div>
     </TransitionGroup>
   </v-infinite-scroll>
@@ -90,6 +89,10 @@ const props = defineProps({
   headerOffsetHeight: {
     type: Number,
     default: 0,
+  },
+  isTableModeActive: {
+    type: Boolean,
+    default: false,
   },
 })
 
@@ -337,6 +340,16 @@ onUnmounted(() => {
 @media (max-width: 740px) {
   .card-grid-container {
     grid-template-columns: repeat(auto-fill, minmax(46%, 1fr));
+  }
+}
+
+.card-grid-container.table-mode-grid {
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); /* Smaller default for table mode */
+}
+
+@media (max-width: 740px) {
+  .card-grid-container.table-mode-grid {
+    grid-template-columns: repeat(auto-fill, minmax(30%, 1fr)); /* 3 cards in xs for table mode */
   }
 }
 </style>
