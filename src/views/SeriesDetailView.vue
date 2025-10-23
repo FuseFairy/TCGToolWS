@@ -93,7 +93,7 @@
       </div>
 
       <!-- Mobile FABs for Bottom Sheet -->
-      <div v-if="!smAndUp" style="height: 0px;">
+      <div v-if="!smAndUp" style="height: 0px; overflow-y: hidden;">
         <v-btn
           icon="mdi-filter"
           size="large"
