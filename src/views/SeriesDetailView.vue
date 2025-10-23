@@ -125,8 +125,8 @@
       <!-- Bottom Sheet for Mobile -->
       <v-bottom-sheet v-model="isSheetOpen" :scrim="false" inset persistent>
         <v-card class="rounded-t-xl d-flex flex-column" style="height: 100%">
-          <div class="sheet-header" @mousedown="startDrag" @touchstart.prevent="startDrag">
-            <div class="resize-handle"></div>
+          <div class="sheet-header">
+            <div class="resize-handle" @mousedown="startDrag" @touchstart.prevent="startDrag"></div>
             <div class="sheet-title">
               <span class="text-h6">{{ sheetTitle }}</span>
             </div>
@@ -375,7 +375,6 @@ useInfiniteScrollState({
   align-items: center;
   justify-content: space-between;
   padding: 4px 8px;
-  cursor: ns-resize;
   position: relative;
 }
 
@@ -387,6 +386,7 @@ useInfiniteScrollState({
   position: absolute;
   top: 8px;
   left: 50%;
+  cursor: ns-resize;
   transform: translateX(-50%);
 }
 
