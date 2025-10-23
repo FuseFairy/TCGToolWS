@@ -29,7 +29,7 @@
           <v-divider />
 
           <v-list-item>
-            <v-list-item-title>背景图片</v-list-item-title>
+            <v-list-item-title class="mt-4 pb-1">背景图片</v-list-item-title>
             <v-img
               v-if="uiStore.backgroundImage"
               :src="uiStore.backgroundImage.src"
