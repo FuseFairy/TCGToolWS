@@ -152,7 +152,7 @@
     </v-dialog>
 
     <v-bottom-sheet v-model="showBottomSheet">
-      <v-list :class="{ 'glass-sheet': hasBackgroundImage }" rounded="xl">
+      <v-list :class="{ 'glass-sheet': hasBackgroundImage }" rounded="t-xl">
         <v-list-subheader>分类</v-list-subheader>
         <v-list-item
           v-for="option in groupByOptions"
@@ -167,7 +167,7 @@
     </v-bottom-sheet>
 
     <v-bottom-sheet v-model="showMoreActionsBottomSheet">
-      <v-list :class="{ 'glass-sheet': hasBackgroundImage }" rounded="xl">
+      <v-list :class="{ 'glass-sheet': hasBackgroundImage }" rounded="t-xl">
         <v-list-subheader>更多操作</v-list-subheader>
         <v-list-item @click="handleEditDeck">
           <template #prepend>
