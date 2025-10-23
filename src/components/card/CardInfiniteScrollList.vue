@@ -27,11 +27,7 @@
       }"
     >
       <div v-for="card in displayedCards" :key="card.id" class="d-flex justify-center">
-        <CardTemplate
-          :card="card"
-          :is-table-mode="isTableMode"
-          @show-details="onShowDetails"
-        />
+        <CardTemplate :card="card" :is-table-mode="isTableMode" @show-details="onShowDetails" />
       </div>
     </TransitionGroup>
   </v-infinite-scroll>
