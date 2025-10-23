@@ -138,7 +138,11 @@
             ></v-btn>
           </div>
           <v-divider></v-divider>
-          <v-card-text class="pa-0" :style="{ 'height': sheetHeight + 'px', 'overflow-y': 'auto' }">
+          <v-card-text
+            class="pa-0"
+            :class="{ 'overflow-hidden': sheetContent === 'deck' }"
+            :style="{ 'height': sheetHeight + 'px', 'overflow-y': 'auto' }"
+          >
             <FilterSidebar
               v-if="sheetContent === 'filter'"
               :header-offset-height="0"
