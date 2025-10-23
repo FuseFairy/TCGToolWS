@@ -102,6 +102,7 @@
                           :aspect-ratio="400 / 559"
                           cover
                           lazy-src="/empty-placehold.webp"
+                          rounded="3md"
                         >
                           <template #placeholder>
                             <div class="d-flex align-center justify-center fill-height">
