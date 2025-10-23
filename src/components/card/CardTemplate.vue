@@ -3,11 +3,11 @@
     class="detail-card d-flex flex-column w-100"
     :class="{ 'glass-card': hasBackgroundImage }"
     variant="flat"
-    rounded="3md"
+    :rounded="isTableMode ? '2lg' : '5md'"
     @click="handleCardClick"
   >
     <v-hover v-slot="{ isHovering, props: hoverProps }">
-      <div :class="isTableMode ? 'ma-1' : 'ma-3'" style="position: relative" v-bind="hoverProps">
+      <div :class="isTableMode ? 'ma-1' : 'ma-2'" style="position: relative" v-bind="hoverProps">
         <v-img
           :key="card.id"
           :src="imageUrl"
