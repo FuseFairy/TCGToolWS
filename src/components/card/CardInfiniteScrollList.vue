@@ -22,7 +22,7 @@
       class="card-grid-container"
       :class="{ 'freeze-layout': isLayoutFrozen, 'table-mode-grid': isTableMode }"
       :style="{
-        paddingTop: `${headerOffsetHeight - 10}px`,
+        paddingTop: `${headerOffsetHeight + 1}px`,
         gridTemplateColumns: frozenColumns,
       }"
     >
