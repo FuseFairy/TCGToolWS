@@ -319,14 +319,11 @@ watchEffect(() => {
   deckStore.setSeriesId(props.seriesId)
 })
 
-watch(
-  () => filterStore.filteredCards,
-  () => {
-    if (listRef.value) {
-      listRef.value.reset()
-    }
+watch([() => filterStore.filteredCards, isTableModeActive], () => {
+  if (listRef.value) {
+    listRef.value.reset()
   }
-)
+})
 
 onUnmounted(() => {
   observer.disconnect()
