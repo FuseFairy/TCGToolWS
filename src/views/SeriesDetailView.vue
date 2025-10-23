@@ -68,12 +68,14 @@
       </div>
 
       <div class="d-flex flex-row overflow-hidden fill-height" style="position: relative">
-        <div class="sidebar-container" :class="{ 'left-sidebar-open': isFilterOpen }">
-          <FilterSidebar
-            :class="['fill-height', smAndUp ? 'pl-4 pb-4' : '']"
-            :header-offset-height="headerOffsetHeight"
-          />
-        </div>
+        <template v-if="smAndUp">
+          <div class="sidebar-container" :class="{ 'left-sidebar-open': isFilterOpen }">
+            <FilterSidebar
+              class="fill-height pl-4 pb-4"
+              :header-offset-height="headerOffsetHeight"
+            />
+          </div>
+        </template>
 
         <CardInfiniteScrollList
           ref="listRef"
@@ -81,41 +83,67 @@
           :header-offset-height="headerOffsetHeight"
           :is-table-mode-active="isTableModeActive"
           margin=" 300"
-          :class="[
-            'flex-grow-1',
-            'themed-scrollbar',
-            'pl-4',
-            'pr-4',
-            { 'no-scroll': isScrollDisabled },
-          ]"
+          class="flex-grow-1 themed-scrollbar pl-4 pr-4"
         />
-        <div class="sidebar-container" :class="{ 'right-sidebar-open': isCardDeckOpen }">
-          <DeckSidebar
-            :class="['fill-height', smAndUp ? 'pr-4 pb-4' : '']"
-            :header-offset-height="headerOffsetHeight"
-          />
-        </div>
+        <template v-if="smAndUp">
+          <div class="sidebar-container" :class="{ 'right-sidebar-open': isCardDeckOpen }">
+            <DeckSidebar class="fill-height pr-4 pb-4" :header-offset-height="headerOffsetHeight" />
+          </div>
+        </template>
       </div>
 
-      <v-bottom-navigation v-if="!smAndUp" :elevation="4" grow>
-        <v-btn @click="isFilterOpen = !isFilterOpen">
-          <v-icon :icon="filterIcon"></v-icon>
-          <span>筛选</span>
-        </v-btn>
-
-        <v-btn @click="isCardDeckOpen = !isCardDeckOpen" stacked>
-          <v-badge
-            :content="deckStore.totalCardCount"
-            :model-value="deckStore.totalCardCount > 0"
+      <!-- Mobile FABs for Bottom Sheet -->
+      <div v-if="!smAndUp">
+        <v-btn
+          icon="mdi-filter"
+          size="large"
+          color="primary"
+          class="fab-bottom-left"
+          @click="sheetContent = 'filter'"
+        ></v-btn>
+        <v-badge
+          :content="deckStore.totalCardCount"
+          :model-value="deckStore.totalCardCount > 0"
+          color="primary"
+          offset-x="10"
+          offset-y="10"
+        >
+          <v-btn
+            icon="mdi-cards"
+            size="large"
             color="primary"
-            offset-x="-2"
-            offset-y="10"
-          >
-            <v-icon icon="mdi-cards"></v-icon>
-          </v-badge>
-          <span>卡组</span>
-        </v-btn>
-      </v-bottom-navigation>
+            class="fab-bottom-right"
+            @click="sheetContent = 'deck'"
+          ></v-btn>
+        </v-badge>
+      </div>
+
+      <!-- Bottom Sheet for Mobile -->
+      <v-bottom-sheet v-model="isSheetOpen" inset persistent>
+        <v-card class="rounded-t-xl d-flex flex-column" style="height: 100%">
+          <div class="sheet-header" @mousedown="startDrag" @touchstart.prevent="startDrag">
+            <div class="resize-handle"></div>
+            <div class="sheet-title">
+              <span class="text-h6">{{ sheetTitle }}</span>
+            </div>
+            <v-btn
+              icon="mdi-close"
+              variant="text"
+              @click="isSheetOpen = false"
+              class="close-btn"
+            ></v-btn>
+          </div>
+          <v-divider></v-divider>
+          <v-card-text class="pa-0" :style="{ 'height': sheetHeight + 'px', 'overflow-y': 'auto' }">
+            <FilterSidebar
+              v-if="sheetContent === 'filter'"
+              :header-offset-height="0"
+              class="px-4"
+            />
+            <DeckSidebar v-if="sheetContent === 'deck'" :header-offset-height="0" class="px-4" />
+          </v-card-text>
+        </v-card>
+      </v-bottom-sheet>
     </div>
   </v-container>
 </template>
@@ -175,9 +203,61 @@ watchEffect(() => {
 })
 
 // --- Mobile & Tablet specific logic ---
-const isScrollDisabled = computed(
-  () => !smAndUp.value && (isFilterOpen.value || isCardDeckOpen.value)
-)
+const sheetContent = ref(null) // Can be 'filter' or 'deck'
+const isSheetOpen = computed({
+  get: () => sheetContent.value !== null,
+  set: (value) => {
+    if (!value) {
+      sheetContent.value = null
+    }
+  },
+})
+
+const sheetTitle = computed(() => {
+  if (sheetContent.value === 'filter') return '筛选'
+  if (sheetContent.value === 'deck') return '卡组'
+  return ''
+})
+
+const sheetHeight = ref(window.innerHeight * 0.4)
+const isDragging = ref(false)
+let startY = 0
+let initialHeight = 0
+
+const startDrag = (event) => {
+  isDragging.value = true
+  const touch = event.touches ? event.touches[0] : event
+  startY = touch.clientY
+  initialHeight = sheetHeight.value
+  window.addEventListener('mousemove', onDrag)
+  window.addEventListener('touchmove', onDrag)
+  window.addEventListener('mouseup', stopDrag)
+  window.addEventListener('touchend', stopDrag)
+}
+
+const onDrag = (event) => {
+  if (!isDragging.value) return
+  const touch = event.touches ? event.touches[0] : event
+  const deltaY = startY - touch.clientY
+  const newHeight = initialHeight + deltaY
+  const maxHeight = window.innerHeight * 0.9
+  const minHeight = window.innerHeight * 0.2
+  sheetHeight.value = Math.max(minHeight, Math.min(newHeight, maxHeight))
+}
+
+const stopDrag = () => {
+  isDragging.value = false
+  window.removeEventListener('mousemove', onDrag)
+  window.removeEventListener('touchmove', onDrag)
+  window.removeEventListener('mouseup', stopDrag)
+  window.removeEventListener('touchend', stopDrag)
+}
+
+watch(isSheetOpen, (isOpen) => {
+  if (isOpen) {
+    sheetHeight.value = window.innerHeight * 0.4
+  }
+})
 
 watch(isFilterOpen, (newValue) => {
   if (newValue && !lgAndUp.value) {
@@ -245,10 +325,6 @@ useInfiniteScrollState({
   flex-shrink: 0;
 }
 
-.no-scroll {
-  overflow-y: hidden;
-}
-
 /* Small tablet (sm) */
 @media (min-width: 600px) and (max-width: 959.98px) {
   .sidebar-container.left-sidebar-open,
@@ -274,6 +350,55 @@ useInfiniteScrollState({
   .sidebar-container.right-sidebar-open {
     width: 25%;
   }
+}
+
+.fab-bottom-left {
+  position: fixed;
+  bottom: 16px;
+  left: 16px;
+  z-index: 10;
+}
+
+.fab-bottom-right {
+  position: fixed;
+  bottom: 16px;
+  right: 16px;
+  z-index: 10;
+}
+
+.sheet-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 4px 8px;
+  cursor: ns-resize;
+  position: relative;
+}
+
+.resize-handle {
+  width: 40px;
+  height: 4px;
+  background-color: grey;
+  border-radius: 2px;
+  position: absolute;
+  top: 8px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.sheet-title {
+  flex-grow: 1;
+  text-align: center;
+  padding-top: 16px;
+  padding-bottom: 8px;
+}
+
+.close-btn {
+  position: absolute;
+  top: 50%;
+  right: 8px;
+  transform: translateY(-50%);
+  margin-top: 8px; /* Adjust to center with title */
 }
 
 @media (max-width: 599.98px) {
