@@ -25,7 +25,7 @@
 <script setup>
 import { ref, computed, onMounted, onUnmounted, watch } from 'vue'
 import { useTheme } from 'vuetify'
-import WsIcon from '@/assets/ui/ws-icon.svg'
+import WsIcon from '@/assets/ui/ws-icon.svg?url'
 
 const props = defineProps({
   scrollContainer: {

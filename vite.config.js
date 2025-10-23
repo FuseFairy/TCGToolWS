@@ -7,6 +7,7 @@ import vue from '@vitejs/plugin-vue'
 import legacy from '@vitejs/plugin-legacy'
 import vuetify from 'vite-plugin-vuetify'
 import vueDevTools from 'vite-plugin-vue-devtools'
+import svgLoader from 'vite-svg-loader'
 
 // https://vite.dev/config/
 export default defineConfig({
@@ -19,6 +20,11 @@ export default defineConfig({
   plugins: [
     vue(),
     vueDevTools(),
+    svgLoader({
+      svgoConfig: {
+        multipass: true,
+      },
+    }),
     vuetify({
       styles: {
         configFile: 'src/assets/styles/libs/_vuetify.scss',

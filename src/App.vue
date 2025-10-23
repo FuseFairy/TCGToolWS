@@ -1,11 +1,28 @@
 <template>
   <v-app id="app" class="grid-background" :style="appStyle">
-    <v-app-bar scroll-behavior="elevate" scroll-threshold="160" :color="appBarColor" class="header">
+    <v-app-bar
+      scroll-behavior="elevate"
+      scroll-threshold="160"
+      height="50"
+      :color="appBarColor"
+      :elevation="5"
+    >
       <template #prepend>
         <v-app-bar-nav-icon class="d-md-none" @click="drawer = !drawer"></v-app-bar-nav-icon>
       </template>
 
-      <v-app-bar-title class="font-weight-bold text-h6 text-sm-h5">UClimax for ws</v-app-bar-title>
+      <v-app-bar-title>
+        <v-img
+          :src="titleImg"
+          alt="UClimax for ws"
+          class="ma-16"
+          :class="{ 'ma-auto': smAndDown }"
+          contain
+          eager
+          :style="titleImgStyle"
+          @click="goToHome"
+        ></v-img>
+      </v-app-bar-title>
 
       <template #append>
         <template v-if="!isInSpecialFlow">
@@ -18,7 +35,12 @@
                 :to="{ name: item.name }"
                 :text="item.text"
                 class="h-100 rounded-0"
-              ></v-btn>
+                :prepend-icon="navIcons[item.icon]"
+              >
+                <template #prepend>
+                  <v-icon :icon="navIcons[item.icon]" size="24"></v-icon>
+                </template>
+              </v-btn>
             </template>
           </div>
           <v-divider
@@ -57,7 +79,11 @@
             v-if="!item.requiresAuth || authStore.isAuthenticated"
             :to="{ name: item.name }"
             :title="item.text"
-          ></v-list-item>
+          >
+            <template #prepend>
+              <v-icon :icon="navIcons[item.icon]" size="24"></v-icon>
+            </template>
+          </v-list-item>
         </template>
       </v-list>
     </v-navigation-drawer>
@@ -96,19 +122,29 @@
 
 <script setup>
 import { ref, watch, computed } from 'vue'
-import { useTheme } from 'vuetify'
-import { useRoute } from 'vue-router'
+import { useTheme, useDisplay } from 'vuetify'
+import { useRoute, useRouter } from 'vue-router'
 import { useUIStore } from '@/stores/ui'
 import { useAuthStore } from '@/stores/auth'
 import { useSnackbar } from '@/composables/useSnackbar'
 import AuthDialog from '@/components/ui/AuthDialog.vue'
 import SettingsModal from '@/components/ui/SettingsModal.vue'
 
+import titleDarkImg from '@/assets/ui/title-dark.webp'
+import titleLightImg from '@/assets/ui/title-light.webp'
+import HomeIcon from '@/assets/ui/home.svg'
+import SeriesCardTableIcon from '@/assets/ui/series-card-table.svg'
+import DeckIcon from '@/assets/ui/deck.svg'
+
 const authStore = useAuthStore()
 const authDialog = ref(null)
 const { show, text, color, triggerSnackbar } = useSnackbar()
 const route = useRoute()
 const isSettingsModalOpen = ref(false)
+const titleImg = computed(() => {
+  const isLightTheme = vuetifyTheme.global.name.value === 'light'
+  return isLightTheme ? titleLightImg : titleDarkImg
+})
 
 const isInSpecialFlow = computed(() => {
   return !!route.meta.isSpecialFlow
@@ -130,17 +166,40 @@ const confirmLogout = () => {
 }
 
 const drawer = ref(false)
+
+const navIcons = {
+  'home.svg': HomeIcon,
+  'series-card-table.svg': SeriesCardTableIcon,
+  'deck.svg': DeckIcon,
+}
+
 const navItems = [
-  { text: '首页', name: 'Home', requiresAuth: false },
-  { text: '系列卡表', name: 'SeriesCardTable', requiresAuth: false },
-  { text: '我的卡组', name: 'Decks', requiresAuth: true },
+  { text: '首页', name: 'Home', requiresAuth: false, icon: 'home.svg' },
+  { text: '系列卡表', name: 'SeriesCardTable', requiresAuth: false, icon: 'series-card-table.svg' },
+  { text: '我的卡组', name: 'Decks', requiresAuth: true, icon: 'deck.svg' },
 ]
 
 const vuetifyTheme = useTheme()
 const uiStore = useUIStore()
 
+const { mdAndDown, smAndDown } = useDisplay()
+
+const titleImgStyle = computed(() => {
+  return {
+    maxWidth: mdAndDown.value ? '140px' : '170px',
+  }
+})
+
 const appBarColor = computed(() => {
-  return vuetifyTheme.global.name.value === 'light' ? 'grey-lighten-3' : 'grey-darken-3'
+  const hasBackgroundImage = !!uiStore.backgroundImage
+  const isLightTheme = vuetifyTheme.global.name.value === 'light'
+
+  if (hasBackgroundImage) {
+    // 如果有背景圖，就使用帶透明度的版本
+    return isLightTheme ? '#E0E0E0CC' : '#424242CC'
+  } else {
+    return isLightTheme ? 'grey-lighten-3' : 'grey-darken-3'
+  }
 })
 
 const appStyle = computed(() => {
@@ -157,6 +216,11 @@ const appStyle = computed(() => {
     '--bg-image': 'none',
   }
 })
+
+const router = useRouter()
+const goToHome = () => {
+  router.push({ name: 'Home' })
+}
 
 watch(
   () => uiStore.theme,
@@ -188,30 +252,5 @@ watch(
   background-attachment: fixed;
   filter: blur(var(--bg-blur));
   transition: filter 0.3s ease;
-}
-</style>
-
-<style scoped>
-.header {
-  position: relative;
-  overflow: hidden;
-}
-
-.header::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-image: url('@/assets/ui/ws-icon.svg');
-  background-size: 165px;
-  background-position: 1% 70%;
-  background-repeat: no-repeat;
-  z-index: -1;
-}
-
-.v-theme--dark.header::before {
-  filter: brightness(0.5);
 }
 </style>
