@@ -119,7 +119,7 @@
       </div>
 
       <!-- Bottom Sheet for Mobile -->
-      <v-bottom-sheet v-model="isSheetOpen" inset persistent>
+      <v-bottom-sheet v-model="isSheetOpen" :scrim="false" inset persistent>
         <v-card class="rounded-t-xl d-flex flex-column" style="height: 100%">
           <div class="sheet-header" @mousedown="startDrag" @touchstart.prevent="startDrag">
             <div class="resize-handle"></div>
