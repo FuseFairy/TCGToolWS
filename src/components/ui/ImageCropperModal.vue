@@ -1,25 +1,27 @@
 <template>
-  <v-dialog
-    :model-value="modelValue"
-    @update:model-value="$emit('update:modelValue', $event)"
-    max-width="90vw"
-    max-height="90vh"
-    persistent
-  >
-    <v-card class="d-flex flex-column">
-      <v-card-title>图片裁剪</v-card-title>
-      <v-card-text class="flex-grow-1 overflow-hidden">
-        <div ref="containerRef" class="cropper-container" :style="{ height: containerHeight }">
-          <cropper ref="cropperRef" :src="src" :auto-zoom="true" />
-        </div>
-      </v-card-text>
-      <v-card-actions>
-        <v-spacer />
-        <v-btn text @click="onCancel">取消</v-btn>
-        <v-btn color="primary" variant="flat" @click="onConfirm">确认</v-btn>
-      </v-card-actions>
-    </v-card>
-  </v-dialog>
+  <div>
+    <v-dialog
+      :model-value="modelValue"
+      @update:model-value="$emit('update:modelValue', $event)"
+      max-width="90vw"
+      max-height="90vh"
+      persistent
+    >
+      <v-card class="d-flex flex-column">
+        <v-card-title>图片裁剪</v-card-title>
+        <v-card-text class="flex-grow-1 overflow-hidden">
+          <div ref="containerRef" class="cropper-container" :style="{ height: containerHeight }">
+            <cropper ref="cropperRef" :src="src" :auto-zoom="true" />
+          </div>
+        </v-card-text>
+        <v-card-actions>
+          <v-spacer />
+          <v-btn text @click="onCancel">取消</v-btn>
+          <v-btn color="primary" variant="flat" @click="onConfirm">确认</v-btn>
+        </v-card-actions>
+      </v-card>
+    </v-dialog>
+  </div>
 </template>
 
 <script setup>
