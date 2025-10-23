@@ -94,28 +94,29 @@
 
       <!-- Mobile FABs for Bottom Sheet -->
       <div v-if="!smAndUp" style="height: 0px; overflow-y: hidden">
-        <v-btn
-          icon="mdi-filter"
-          size="large"
-          color="primary"
-          class="fab-bottom-left"
-          @click="sheetContent = 'filter'"
-        ></v-btn>
-        <v-badge
-          :content="deckStore.totalCardCount"
-          :model-value="deckStore.totalCardCount > 0"
-          color="primary"
-          offset-x="10"
-          offset-y="10"
-        >
+        <div class="fab-bottom-left-container d-flex ga-3">
           <v-btn
-            icon="mdi-cards"
+            icon="mdi-filter"
             size="large"
             color="primary"
-            class="fab-bottom-right"
-            @click="sheetContent = 'deck'"
+            @click="sheetContent = 'filter'"
           ></v-btn>
-        </v-badge>
+
+          <v-badge
+            :content="deckStore.totalCardCount"
+            :model-value="deckStore.totalCardCount > 0"
+            color="primary"
+            offset-x="10"
+            offset-y="10"
+          >
+            <v-btn
+              icon="mdi-cards"
+              size="large"
+              color="primary"
+              @click="sheetContent = 'deck'"
+            ></v-btn>
+          </v-badge>
+        </div>
       </div>
 
       <!-- Bottom Sheet for Mobile -->
@@ -359,17 +360,10 @@ useInfiniteScrollState({
   }
 }
 
-.fab-bottom-left {
+.fab-bottom-left-container {
   position: fixed;
   bottom: 16px;
   left: 16px;
-  z-index: 10;
-}
-
-.fab-bottom-right {
-  position: fixed;
-  bottom: 16px;
-  right: 16px;
   z-index: 10;
 }
 
