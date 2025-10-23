@@ -126,16 +126,16 @@
       <v-bottom-sheet v-model="isSheetOpen" :scrim="false" inset persistent>
         <v-card class="rounded-t-xl d-flex flex-column" style="height: 100%">
           <div class="sheet-header">
-            <div class="resize-handle" @mousedown="startDrag" @touchstart.prevent="startDrag"></div>
-            <div class="sheet-title">
-              <span class="text-h6">{{ sheetTitle }}</span>
+            <div class="header-spacer-left"></div>
+            <div class="header-drag-area" @mousedown="startDrag" @touchstart.prevent="startDrag">
+              <div class="resize-handle"></div>
+              <div class="pt-2">
+                <span class="text-h6">{{ sheetTitle }}</span>
+              </div>
             </div>
-            <v-btn
-              icon="mdi-close"
-              variant="text"
-              @click="isSheetOpen = false"
-              class="close-btn"
-            ></v-btn>
+            <div class="header-close-area">
+              <v-btn icon="mdi-close" variant="text" @click="isSheetOpen = false"></v-btn>
+            </div>
           </div>
           <v-divider></v-divider>
           <v-card-text
@@ -384,36 +384,41 @@ useInfiniteScrollState({
 .sheet-header {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  padding: 4px 8px;
+  width: 100%;
+}
+
+.header-spacer-left {
+  width: 56px; /* Balance the close button area */
+}
+
+.header-drag-area {
+  flex-grow: 1;
   position: relative;
+  cursor: grab;
+  padding: 12px 0;
+  text-align: center;
+}
+
+.header-drag-area:active {
+  cursor: grabbing;
+}
+
+.header-close-area {
+  width: 56px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .resize-handle {
-  width: 40px;
+  width: 80px;
   height: 4px;
   background-color: grey;
   border-radius: 2px;
   position: absolute;
   top: 8px;
   left: 50%;
-  cursor: ns-resize;
   transform: translateX(-50%);
-}
-
-.sheet-title {
-  flex-grow: 1;
-  text-align: center;
-  padding-top: 16px;
-  padding-bottom: 8px;
-}
-
-.close-btn {
-  position: absolute;
-  top: 50%;
-  right: 8px;
-  transform: translateY(-50%);
-  margin-top: 8px; /* Adjust to center with title */
 }
 
 @media (max-width: 599.98px) {
