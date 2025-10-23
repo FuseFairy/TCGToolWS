@@ -37,9 +37,9 @@
 import { ref, computed, watch, nextTick, onMounted } from 'vue'
 import { useInfiniteScrollState } from '@/composables/useInfiniteScrollState.js'
 import { seriesMap } from '@/maps/series-map.js'
-import SeriesCard from '@/components/SeriesCard.vue'
-import FloatingSearch from '@/components/FloatingSearchBar.vue'
-import BackToTopButton from '@/components/BackToTopButton.vue'
+import SeriesCard from '@/components/card/SeriesCard.vue'
+import FloatingSearch from '@/components/ui/FloatingSearchBar.vue'
+import BackToTopButton from '@/components/ui/BackToTopButton.vue'
 import collator from '@/utils/collator.js'
 
 const itemsPerLoad = 24

@@ -199,14 +199,14 @@ import { useDeckEncoder } from '@/composables/useDeckEncoder'
 import { useDisplay } from 'vuetify'
 import { useDeckGrouping } from '@/composables/useDeckGrouping'
 import { fetchCardByIdAndPrefix, fetchCardsByBaseIdAndPrefix } from '@/utils/card'
-import CardDetailModal from '@/components/CardDetailModal.vue'
+import CardDetailModal from '@/components/card/CardDetailModal.vue'
 import { useSnackbar } from '@/composables/useSnackbar'
 import { useUIStore } from '@/stores/ui'
 import { useDeckStore } from '@/stores/deck'
 import { useCardNavigation } from '@/composables/useCardNavigation.js'
 import collator from '@/utils/collator.js'
 import { convertElementToPng } from '@/utils/domToImage.js'
-import DeckShareImage from '@/components/DeckShareImage.vue'
+import DeckShareImage from '@/components/deck/DeckShareImage.vue'
 
 const { smAndUp, smAndDown } = useDisplay()
 const resize = computed(() => {

@@ -60,10 +60,10 @@
 
 <script setup>
 import { ref, computed, onMounted, onUnmounted, nextTick, watch } from 'vue'
-import { useTheme, useDisplay } from 'vuetify'
-import CardTemplate from '@/components/CardTemplate.vue'
-import CardDetailModal from '@/components/CardDetailModal.vue'
-import BackToTopButton from '@/components/BackToTopButton.vue'
+import { useDisplay } from 'vuetify'
+import CardTemplate from '@/components/card/CardTemplate.vue'
+import CardDetailModal from '@/components/card/CardDetailModal.vue'
+import BackToTopButton from '@/components/ui/BackToTopButton.vue'
 import { fetchCardsByBaseIdAndPrefix } from '@/utils/card'
 import { useCardImage } from '@/composables/useCardImage.js'
 import { useCardNavigation } from '@/composables/useCardNavigation.js'
@@ -94,7 +94,6 @@ const props = defineProps({
 })
 
 const { smAndDown, xs } = useDisplay()
-const theme = useTheme()
 const uiStore = useUIStore()
 
 const isModalVisible = ref(false)

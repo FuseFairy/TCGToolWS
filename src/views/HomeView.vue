@@ -1,6 +1,6 @@
 <template>
   <div class="d-flex justify-center align-center fill-height">
-    <h1 class="rainbow-text">Ciallo~ (∠・ω <) ⌒ ☆</h1>
+    <h1 class="rainbow-text">Ciallo~ (∠・ω &lt;) ⌒ ☆</h1>
   </div>
 </template>
 

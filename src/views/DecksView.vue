@@ -14,7 +14,7 @@
 import { ref, onMounted, watch } from 'vue'
 import { useDeckStore } from '@/stores/deck'
 import { useDeckEncoder } from '@/composables/useDeckEncoder'
-import DeckCard from '@/components/DeckCard.vue'
+import DeckCard from '@/components/deck/DeckCard.vue'
 import { useUIStore } from '@/stores/ui'
 import { useSnackbar } from '@/composables/useSnackbar'
 

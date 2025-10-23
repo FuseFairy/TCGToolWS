@@ -101,8 +101,8 @@ import { useRoute } from 'vue-router'
 import { useUIStore } from '@/stores/ui'
 import { useAuthStore } from '@/stores/auth'
 import { useSnackbar } from '@/composables/useSnackbar'
-import AuthDialog from '@/components/AuthDialog.vue'
-import SettingsModal from '@/components/SettingsModal.vue'
+import AuthDialog from '@/components/ui/AuthDialog.vue'
+import SettingsModal from '@/components/ui/SettingsModal.vue'
 
 const authStore = useAuthStore()
 const authDialog = ref(null)

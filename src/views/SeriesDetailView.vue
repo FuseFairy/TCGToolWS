@@ -121,9 +121,9 @@ import { useDeckStore } from '@/stores/deck'
 import { useFilterStore } from '@/stores/filter'
 import { useUIStore } from '@/stores/ui'
 import { useInfiniteScrollState } from '@/composables/useInfiniteScrollState.js'
-import CardInfiniteScrollList from '@/components/CardInfiniteScrollList.vue'
-import FilterSidebar from '@/components/FilterSidebar.vue'
-import DeckSidebar from '@/components/DeckSidebar.vue'
+import CardInfiniteScrollList from '@/components/card/CardInfiniteScrollList.vue'
+import FilterSidebar from '@/components/ui/FilterSidebar.vue'
+import DeckSidebar from '@/components/deck/DeckSidebar.vue'
 
 const props = defineProps({
   seriesId: {
