@@ -4,12 +4,15 @@ const waitForImagesToLoad = (element) => {
   const images = Array.from(element.querySelectorAll('img'))
   const promises = images.map((img) => {
     if (img.src && !img.src.startsWith('data:')) {
-      return new Promise((resolve) => {
+      return new Promise((resolve, reject) => {
         if (img.complete) {
+          if (img.naturalWidth === 0) {
+            return reject(new Error(`Image could not be loaded: ${img.src}`))
+          }
           return resolve()
         }
         img.onload = resolve
-        img.onerror = resolve
+        img.onerror = reject
       })
     }
     return Promise.resolve()
@@ -18,20 +21,10 @@ const waitForImagesToLoad = (element) => {
   return Promise.all(promises)
 }
 
-export const convertElementToPng = async (elementId, name) => {
-  const originalElement = document.getElementById(elementId)
-  if (!originalElement) {
-    console.error(`Element with ID "${elementId}" not found.`)
-    return
-  }
-
-  const elementToCapture = originalElement.cloneNode(true)
-  elementToCapture.style.position = 'absolute'
-  elementToCapture.style.left = '-9999px'
-  document.body.appendChild(elementToCapture)
-
-  try {
-    const images = elementToCapture.querySelectorAll('img')
+const attemptCapture = async (element, options, name, useCacheBust) => {
+  if (useCacheBust) {
+    console.log('Attempting capture with cache busting...')
+    const images = element.querySelectorAll('img')
     images.forEach((img) => {
       if (!img.src) return
       try {
@@ -43,27 +36,39 @@ export const convertElementToPng = async (elementId, name) => {
         console.warn(`Could not bust cache for a non-URL src: ${img.src}`)
       }
     })
+  }
 
-    await waitForImagesToLoad(elementToCapture)
+  await waitForImagesToLoad(element)
 
-    const rect = originalElement.getBoundingClientRect()
-    const options = {
-      width: rect.width,
-      height: rect.height,
-      dpr: window.devicePixelRatio,
-      scale: 2,
-      type: 'png',
-      cache: 'disabled',
-    }
-    const result = await snapdom(elementToCapture, options)
+  const result = await snapdom(element, options)
+  await result.download({ format: 'png', filename: name })
+}
 
-    // eslint-disable-next-line no-unused-vars
-    const img = await result.toBlob()
-    await result.download({ format: 'png', filename: name })
+export const convertElementToPng = async (elementId, name) => {
+  const element = document.getElementById(elementId)
+  if (!element) {
+    console.error(`Element with ID "${elementId}" not found.`)
+    return
+  }
+
+  const rect = element.getBoundingClientRect()
+  const options = {
+    width: rect.width,
+    height: rect.height,
+    dpr: window.devicePixelRatio,
+    scale: 2,
+    type: 'png',
+  }
+
+  try {
+    await attemptCapture(element, options, name, false)
   } catch (error) {
-    console.error('Error during PNG conversion:', error)
-    throw error
-  } finally {
-    document.body.removeChild(elementToCapture)
+    console.warn('Initial conversion failed. Retrying with cache busting.', error)
+    try {
+      await attemptCapture(element, options, name, true)
+    } catch (retryError) {
+      console.error('Error during PNG conversion even after retry:', retryError)
+      throw retryError
+    }
   }
 }
