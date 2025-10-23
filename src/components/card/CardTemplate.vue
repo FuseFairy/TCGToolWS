@@ -8,7 +8,7 @@
   >
     <v-hover v-slot="{ isHovering, props: hoverProps }">
       <div
-        :class="isTableModeActive ? 'ma-1' : 'ma-3'"
+        :class="isTableMode ? 'ma-1' : 'ma-3'"
         style="position: relative"
         v-bind="hoverProps"
       >
@@ -69,13 +69,13 @@
     </v-hover>
 
     <div
-      v-show="!isTableModeActive || lgAndUp"
-      :class="isTableModeActive ? 'pa-2' : 'pa-3'"
+      v-show="!isTableMode || lgAndUp"
+      :class="isTableMode ? 'pa-2' : 'pa-3'"
       class="card-content pt-0"
     >
       <div class="text-grey text-caption text-md-body-2 mb-1 text-truncate">{{ card.id }}</div>
       <h3 class="text-subtitle-2 text-md-subtitle-1 text-truncate">{{ card.name }}</h3>
-      <v-row v-show="!isTableModeActive" dense class="mt-2 text-center">
+      <v-row v-show="!isTableMode" dense class="mt-2 text-center">
         <v-col cols="6" class="pa-0">
           <div class="text-caption text-grey">种类</div>
           <div class="text-body-2">{{ card.type }}</div>
@@ -131,7 +131,7 @@ import { useDevice } from '@/composables/useDevice'
 
 const props = defineProps({
   card: { type: Object, required: true },
-  isTableModeActive: { type: Boolean, default: false },
+  isTableMode: { type: Boolean, default: false },
 })
 
 const emit = defineEmits(['show-details'])

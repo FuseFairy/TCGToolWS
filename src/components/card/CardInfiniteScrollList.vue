@@ -20,7 +20,7 @@
       name="card-transition"
       tag="div"
       class="card-grid-container"
-      :class="{ 'freeze-layout': isLayoutFrozen, 'table-mode-grid': isTableModeActive }"
+      :class="{ 'freeze-layout': isLayoutFrozen, 'table-mode-grid': isTableMode }"
       :style="{
         paddingTop: `${headerOffsetHeight - 10}px`,
         gridTemplateColumns: frozenColumns,
@@ -29,7 +29,7 @@
       <div v-for="card in displayedCards" :key="card.id" class="d-flex justify-center">
         <CardTemplate
           :card="card"
-          :is-table-mode-active="isTableModeActive"
+          :is-table-mode="isTableMode"
           @show-details="onShowDetails"
         />
       </div>
@@ -101,7 +101,7 @@ const props = defineProps({
   },
 })
 
-const { smAndDown, xs } = useDisplay()
+const { smAndDown, smAndUp, xs } = useDisplay()
 const uiStore = useUIStore()
 
 const isModalVisible = ref(false)
@@ -116,6 +116,8 @@ const { selectedCardIndex, getPrevCard, getNextCard } = useCardNavigation(
   displayedCards,
   selectedCard
 )
+
+const isTableMode = computed(() => props.isTableModeActive || !smAndUp.value)
 
 const onPrevCard = () => {
   const prevCard = getPrevCard()
