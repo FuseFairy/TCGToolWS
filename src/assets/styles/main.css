@@ -6,6 +6,8 @@
 @import './utilities/_grid-background.css';
 @import './utilities/_chip.css';
 @import './utilities/_overlay-header.css';
+@import './utilities/_glass-card.css';
+@import './utilities/_glass-sheet.css';
 
 /* 主題定義與變數覆蓋 */
 @import './themes/_app.css';

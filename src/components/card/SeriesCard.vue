@@ -4,10 +4,10 @@
       <v-card
         v-bind="props"
         class="series-card d-flex flex-column flex-grow-1"
+        :class="{ 'glass-card': hasBackgroundImage }"
         hover
         :to="{ name: 'SeriesDetail', params: { seriesId: seriesData.id } }"
         variant="flat"
-        color="surface"
         rounded="3md"
       >
         <v-img
@@ -29,7 +29,13 @@
         </v-img>
 
         <div class="card-content pa-3 pt-1">
-          <div class="align-center text-caption text-grey-lighten-1 mb-2 text-truncate">
+          <div
+            class="align-center text-caption mb-2 text-truncate"
+            :class="{
+              'text-grey-lighten-2': isLightWithBg,
+              'text-grey-lighten-1': !isLightWithBg,
+            }"
+          >
             <v-icon start size="small">mdi-layers-outline</v-icon>
             {{ seriesData.prefixes.join(', ') }}
           </div>
@@ -45,6 +51,8 @@
 
 <script setup>
 import { computed } from 'vue'
+import { useUIStore } from '@/stores/ui'
+import { useTheme } from 'vuetify'
 
 const props = defineProps({
   seriesName: {
@@ -55,6 +63,14 @@ const props = defineProps({
     type: Object,
     required: true,
   },
+})
+
+const uiStore = useUIStore()
+const theme = useTheme()
+const hasBackgroundImage = !!uiStore.backgroundImage
+
+const isLightWithBg = computed(() => {
+  return hasBackgroundImage && theme.global.name.value === 'light'
 })
 
 const iconUrl = computed(() => {

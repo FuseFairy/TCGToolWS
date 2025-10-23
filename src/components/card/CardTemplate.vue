@@ -1,8 +1,8 @@
 <template>
   <v-card
     class="detail-card d-flex flex-column w-100"
+    :class="{ 'glass-card': hasBackgroundImage }"
     variant="flat"
-    color="surface"
     rounded="3md"
     @click="handleCardClick"
   >
@@ -69,23 +69,38 @@
       :class="isTableMode ? 'pa-2' : 'pa-3'"
       class="card-content pt-0"
     >
-      <div class="text-grey text-caption text-md-body-2 mb-1 text-truncate">{{ card.id }}</div>
+      <div
+        :class="[
+          isLightWithBg ? 'text-grey-lighten-2' : 'text-grey',
+          'text-caption text-md-body-2 mb-1 text-truncate',
+        ]"
+      >
+        {{ card.id }}
+      </div>
       <h3 class="text-subtitle-2 text-md-subtitle-1 text-truncate">{{ card.name }}</h3>
       <v-row v-show="!isTableMode" dense class="mt-2 text-center">
         <v-col cols="6" class="pa-0">
-          <div class="text-caption text-grey">种类</div>
+          <div :class="[isLightWithBg ? 'text-grey-lighten-2' : 'text-grey', 'text-caption']">
+            种类
+          </div>
           <div class="text-body-2">{{ card.type }}</div>
         </v-col>
         <v-col cols="6" class="pa-0">
-          <div class="text-caption text-grey">灵魂值</div>
+          <div :class="[isLightWithBg ? 'text-grey-lighten-2' : 'text-grey', 'text-caption']">
+            灵魂值
+          </div>
           <div class="text-body-2">{{ card.soul }}</div>
         </v-col>
         <v-col cols="6" class="pa-0 pt-1">
-          <div class="text-caption text-grey">等级</div>
+          <div :class="[isLightWithBg ? 'text-grey-lighten-2' : 'text-grey', 'text-caption']">
+            等级
+          </div>
           <div class="text-body-2">{{ card.level }}</div>
         </v-col>
         <v-col cols="6" class="pa-0 pt-1">
-          <div class="text-caption text-grey">战斗力</div>
+          <div :class="[isLightWithBg ? 'text-grey-lighten-2' : 'text-grey', 'text-caption']">
+            战斗力
+          </div>
           <div class="text-body-2">{{ card.power }}</div>
         </v-col>
       </v-row>
@@ -119,7 +134,7 @@
 
 <script setup>
 import { computed } from 'vue'
-import { useDisplay } from 'vuetify'
+import { useDisplay, useTheme } from 'vuetify'
 import { useCardImage } from '@/composables/useCardImage.js'
 import { useDeckStore } from '@/stores/deck'
 import { useUIStore } from '@/stores/ui'
@@ -136,6 +151,12 @@ const deckStore = useDeckStore()
 const uiStore = useUIStore()
 const { smAndDown, lgAndUp } = useDisplay()
 const { isTouch } = useDevice()
+const theme = useTheme()
+const hasBackgroundImage = !!uiStore.backgroundImage
+
+const isLightWithBg = computed(() => {
+  return hasBackgroundImage && theme.global.name.value === 'light'
+})
 
 const imageUrl = useCardImage(
   computed(() => props.card.cardIdPrefix),

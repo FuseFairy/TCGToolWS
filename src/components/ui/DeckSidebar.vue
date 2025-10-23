@@ -10,6 +10,8 @@
     <v-sheet
       :rounded="smAndUp ? '3md' : false"
       class="pa-4 ga-4 d-flex flex-column fill-height overflow-hidden"
+      :class="{ 'glass-sheet': hasBackgroundImage && !transparent }"
+      :color="transparent ? 'transparent' : undefined"
     >
       <div class="d-flex justify-space-between align-center">
         <div class="d-flex align-center ga-2">
@@ -269,6 +271,10 @@ defineProps({
     type: Number,
     default: null,
   },
+  transparent: {
+    type: Boolean,
+    default: false,
+  },
 })
 
 const router = useRouter()
@@ -277,6 +283,7 @@ const deckStore = useDeckStore()
 const { encodeDeck } = useDeckEncoder()
 const { triggerSnackbar } = useSnackbar()
 const uiStore = useUIStore()
+const hasBackgroundImage = !!uiStore.backgroundImage
 
 // Loading State
 const authStore = useAuthStore()

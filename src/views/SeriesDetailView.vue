@@ -124,7 +124,11 @@
 
       <!-- Bottom Sheet for Mobile -->
       <v-bottom-sheet v-model="isSheetOpen" :scrim="false" inset persistent>
-        <v-card class="rounded-t-xl d-flex flex-column" style="height: 100%">
+        <v-card
+          class="rounded-t-xl d-flex flex-column"
+          :class="{ 'glass-sheet': hasBackgroundImage }"
+          style="height: 100%"
+        >
           <div class="sheet-header">
             <div class="header-spacer-left"></div>
             <div class="header-drag-area" @mousedown="startDrag" @touchstart.prevent="startDrag">
@@ -149,12 +153,14 @@
               v-if="sheetContent === 'filter'"
               :header-offset-height="0"
               class="px-4"
+              transparent
             />
             <DeckSidebar
               v-if="sheetContent === 'deck'"
               :header-offset-height="0"
               :container-height="sheetHeight"
               class="px-4"
+              transparent
             />
           </v-card-text>
         </v-card>
@@ -173,7 +179,7 @@ import { useUIStore } from '@/stores/ui'
 import { useInfiniteScrollState } from '@/composables/useInfiniteScrollState.js'
 import CardInfiniteScrollList from '@/components/card/CardInfiniteScrollList.vue'
 import FilterSidebar from '@/components/ui/FilterSidebar.vue'
-import DeckSidebar from '@/components/deck/DeckSidebar.vue'
+import DeckSidebar from '@/components/ui/DeckSidebar.vue'
 
 const props = defineProps({
   seriesId: {
@@ -204,6 +210,7 @@ const filterIcon = computed(() => (isFilterOpen.value ? 'mdi-filter-off' : 'mdi-
 const headerOffsetHeight = computed(() => rawHeaderHeight.value)
 const listRef = ref(null)
 const isTableModeActive = ref(false)
+const hasBackgroundImage = !!uiStore.backgroundImage
 
 const observer = new ResizeObserver(([entry]) => {
   if (entry && entry.target) {

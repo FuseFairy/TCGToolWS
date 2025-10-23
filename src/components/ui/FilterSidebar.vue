@@ -7,6 +7,8 @@
     <v-sheet
       :rounded="smAndUp ? '3md' : false"
       class="pa-4 ga-4 d-flex flex-column fill-height overflow-y-auto overflow-x-hidden themed-scrollbar"
+      :class="{ 'glass-sheet': hasBackgroundImage && !transparent }"
+      :color="transparent ? 'transparent' : undefined"
     >
       <div class="d-flex flex-column ga-4">
         <v-text-field
@@ -131,16 +133,23 @@
 <script setup>
 import { useDisplay } from 'vuetify'
 import { useFilterStore } from '@/stores/filter'
+import { useUIStore } from '@/stores/ui'
 
 defineProps({
   headerOffsetHeight: {
     type: Number,
     required: true,
   },
+  transparent: {
+    type: Boolean,
+    default: false,
+  },
 })
 
 const { smAndUp } = useDisplay()
 const filterStore = useFilterStore()
+const uiStore = useUIStore()
+const hasBackgroundImage = !!uiStore.backgroundImage
 </script>
 
 <style scoped></style>
