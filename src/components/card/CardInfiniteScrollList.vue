@@ -60,7 +60,7 @@
     />
   </v-dialog>
 
-  <BackToTopButton :scroll-container="scrollContainer" :extra-class="{ 'mb-18': xs }" />
+  <BackToTopButton :scroll-container="scrollContainer" />
 </template>
 
 <script setup>
@@ -102,7 +102,7 @@ const props = defineProps({
   },
 })
 
-const { smAndDown, smAndUp, xs } = useDisplay()
+const { smAndDown, smAndUp } = useDisplay()
 const uiStore = useUIStore()
 
 const isModalVisible = ref(false)
