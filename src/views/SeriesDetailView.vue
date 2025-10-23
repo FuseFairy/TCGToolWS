@@ -328,6 +328,15 @@ watch(
   }
 )
 
+watch(
+  isTableModeActive,
+  () => {
+    if (listRef.value) {
+      listRef.value.reset()
+    }
+  }
+)
+
 onUnmounted(() => {
   observer.disconnect()
   filterStore.reset()

@@ -267,60 +267,6 @@ watch([() => uiStore.isFilterOpen, () => uiStore.isCardDeckOpen], () => {
   freezeLayout()
 })
 
-// Maintain scroll position when toggling table mode
-const anchorCardId = ref(null)
-const anchorOffsetFromTop = ref(0)
-
-const captureScrollAnchor = () => {
-  if (!infiniteScrollRef.value?.$el) return
-
-  const cardElements = infiniteScrollRef.value.$el.querySelectorAll('[data-card-id]')
-  const containerRect = infiniteScrollRef.value.$el.getBoundingClientRect()
-
-  for (const element of cardElements) {
-    const rect = element.getBoundingClientRect()
-
-    // Find first card that's visible (top is within viewport)
-    if (rect.top >= containerRect.top && rect.top <= containerRect.bottom) {
-      anchorCardId.value = element.getAttribute('data-card-id')
-      // Record how far from the top of container this card is
-      anchorOffsetFromTop.value = rect.top - containerRect.top
-      return
-    }
-  }
-}
-
-const restoreScrollAnchor = () => {
-  if (!anchorCardId.value || !infiniteScrollRef.value?.$el) return
-
-  // Use requestAnimationFrame to ensure DOM has updated
-  requestAnimationFrame(() => {
-    const element = infiniteScrollRef.value.$el.querySelector(
-      `[data-card-id="${anchorCardId.value}"]`
-    )
-    if (element) {
-      const containerRect = infiniteScrollRef.value.$el.getBoundingClientRect()
-      const elementRect = element.getBoundingClientRect()
-      const currentOffset = elementRect.top - containerRect.top
-
-      // Adjust scroll to maintain the same visual offset
-      const scrollAdjustment = currentOffset - anchorOffsetFromTop.value
-      infiniteScrollRef.value.$el.scrollTop += scrollAdjustment
-    }
-  })
-}
-
-// Watch table mode changes and maintain scroll position
-watch(isTableMode, () => {
-  // Capture anchor before layout changes
-  captureScrollAnchor()
-
-  // Restore position after layout updates
-  nextTick(() => {
-    restoreScrollAnchor()
-  })
-})
-
 onMounted(() => {
   // Use the v-infinite-scroll element as the scroll container
   scrollContainer.value = infiniteScrollRef.value?.$el
