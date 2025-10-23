@@ -34,7 +34,6 @@
                   @click="showMoreActionsBottomSheet = true"
                 ></v-btn>
               </template>
-              
             </div>
 
             <!-- 中間 -->
@@ -208,9 +207,8 @@ import { useCardNavigation } from '@/composables/useCardNavigation.js'
 import collator from '@/utils/collator.js'
 import { convertElementToPng } from '@/utils/domToImage.js'
 import DeckShareImage from '@/components/DeckShareImage.vue'
-import { useDevice } from '@/composables/useDevice'
 
-const { smAndUp, smAndDown, mdAndUp } = useDisplay()
+const { smAndUp, smAndDown } = useDisplay()
 const resize = computed(() => {
   return smAndUp.value ? 'default' : 'small'
 })
@@ -225,7 +223,6 @@ const deckStore = useDeckStore()
 const deckKey = route.params.key
 const deck = ref(null)
 const cards = ref({})
-const { isTouch } = useDevice()
 
 const handleShareCard = async () => {
   if (!deckKey) {
@@ -397,7 +394,7 @@ const handleDownloadDeckImage = async () => {
     if (deckShareImageRef.value) {
       await deckShareImageRef.value.areAllImagesLoaded()
     }
-    await convertElementToPng('deck-share-image-content', isTouch.value, deck.value.name.trim())
+    await convertElementToPng('deck-share-image-content', deck.value.name.trim())
   } catch (error) {
     console.error('生成圖片失敗:', error)
     triggerSnackbar('生成圖片失敗，請稍後再試。', 'error')
