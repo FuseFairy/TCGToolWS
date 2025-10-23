@@ -6,7 +6,7 @@
   >
     <v-sheet
       :rounded="smAndUp ? '3md' : false"
-      class="pa-4 ga-4 d-flex flex-column fill-height overflow-hidde"
+      class="pa-4 ga-4 d-flex flex-column fill-height overflow-hidden"
     >
       <div class="d-flex justify-space-between align-center">
         <div class="d-flex align-center ga-2">
