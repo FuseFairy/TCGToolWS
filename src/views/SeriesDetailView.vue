@@ -99,20 +99,23 @@
             icon="mdi-filter"
             size="large"
             color="primary"
+            class="opacity-90"
             @click="sheetContent = 'filter'"
           ></v-btn>
 
           <v-badge
             :content="deckStore.totalCardCount"
             :model-value="deckStore.totalCardCount > 0"
-            color="primary"
-            offset-x="10"
-            offset-y="10"
+            color="on-background"
+            offset-x="8"
+            offset-y="8"
+            class="opacity-90"
           >
             <v-btn
               icon="mdi-cards"
               size="large"
               color="primary"
+              class="opacity-90"
               @click="sheetContent = 'deck'"
             ></v-btn>
           </v-badge>
