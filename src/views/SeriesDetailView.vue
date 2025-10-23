@@ -93,7 +93,7 @@
       </div>
 
       <!-- Mobile FABs for Bottom Sheet -->
-      <div v-if="!smAndUp" style="height: 0px; overflow-y: hidden;">
+      <div v-if="!smAndUp" style="height: 0px; overflow-y: hidden">
         <v-btn
           icon="mdi-filter"
           size="large"
@@ -275,6 +275,13 @@ watch(isCardDeckOpen, (newValue) => {
 watch(lgAndUp, (isDesktop) => {
   if (!isDesktop && isFilterOpen.value && isCardDeckOpen.value) {
     isCardDeckOpen.value = false
+  }
+})
+
+// Close bottom sheet when resizing to desktop
+watch(smAndUp, (isDesktop) => {
+  if (isDesktop && isSheetOpen.value) {
+    isSheetOpen.value = false
   }
 })
 // --- End of mobile & Tablet specific logic ---
