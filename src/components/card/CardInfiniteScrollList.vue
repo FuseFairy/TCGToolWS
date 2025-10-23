@@ -289,6 +289,10 @@ onUnmounted(() => {
   width: 100%;
 }
 
+.card-grid-container.table-mode-grid {
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+}
+
 /* When layout is frozen, use the captured column layout */
 .card-grid-container.freeze-layout {
   transition: none;
@@ -339,15 +343,10 @@ onUnmounted(() => {
 /* 740 is a mysterious number, a chosen number woven from human effort, blood, and tears. */
 @media (max-width: 740px) {
   .card-grid-container {
+    gap: 8px;
     grid-template-columns: repeat(auto-fill, minmax(46%, 1fr));
   }
-}
 
-.card-grid-container.table-mode-grid {
-  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); /* Smaller default for table mode */
-}
-
-@media (max-width: 740px) {
   .card-grid-container.table-mode-grid {
     grid-template-columns: repeat(auto-fill, minmax(30%, 1fr)); /* 3 cards in xs for table mode */
   }
