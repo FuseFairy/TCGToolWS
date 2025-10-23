@@ -64,10 +64,10 @@
       </div>
     </v-hover>
 
-    <div v-if="!isTableModeActive" class="card-content pa-3 pt-0">
+    <div v-if="!isTableModeActive || lgAndUp" :class="isTableModeActive? 'pa-2': 'pa-3'" class="card-content pt-0">
       <div class="text-grey text-caption text-md-body-2 mb-1 text-truncate">{{ card.id }}</div>
       <h3 class="text-subtitle-2 text-md-subtitle-1 text-truncate">{{ card.name }}</h3>
-      <v-row dense class="mt-2 text-center">
+      <v-row v-if="!isTableModeActive && lgAndUp" dense class="mt-2 text-center">
         <v-col cols="6" class="pa-0">
           <div class="text-caption text-grey">种类</div>
           <div class="text-body-2">{{ card.type }}</div>
@@ -130,7 +130,7 @@ const emit = defineEmits(['show-details'])
 
 const deckStore = useDeckStore()
 const uiStore = useUIStore()
-const { smAndDown } = useDisplay()
+const { smAndDown, lgAndUp } = useDisplay()
 const { isTouch } = useDevice()
 
 const imageUrl = useCardImage(
