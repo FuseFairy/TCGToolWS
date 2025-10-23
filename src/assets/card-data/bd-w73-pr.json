@@ -403,7 +403,7 @@
     "trait": "-",
     "color": "黄色",
     "soul": "-",
-    "effect": "【永】 你所有的角色，力量 +1000，魂＋1。<br/>（<img src=\"/effect-icons/choice.webp\"/>：这张卡被触发时，你可以从自己的休息室选择1张触发标记有<img src=\\\"/wordpress/wp-content/images/cardlist/_partimages/soul.gif\\\"/>的角色卡返回手牌或放置到费用区）",
+    "effect": "【永】 你所有的角色，力量 +1000，魂＋1。<br/>（<img src=\"/effect-icons/choice.webp\"/>：这张卡被触发时，你可以从自己的休息室选择1张触发标记有<img src=\"/wordpress/wp-content/images/cardlist/_partimages/soul.gif\"/>的角色卡返回手牌或放置到费用区）",
     "all_cards": [
       {
         "id": "BD/W73-P16a",
