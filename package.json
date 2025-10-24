@@ -8,7 +8,8 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "npm run build:index && vite build",
+    "build:index": "node scripts/build-card-index.js",
     "preview": "vite preview",
     "setup-img": "node scripts/setup-images.js",
     "lint": "eslint . --fix",

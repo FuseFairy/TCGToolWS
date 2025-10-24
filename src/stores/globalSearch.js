@@ -1,16 +1,14 @@
 import { defineStore } from 'pinia'
-import { ref, toRaw } from 'vue'
-import * as FlexSearch from 'flexsearch'
-import { getCardDataFile, getAllCardDataPaths } from '@/utils/getCardDataFiles.js'
+import { ref } from 'vue'
 
 export const useGlobalSearchStore = defineStore('globalSearch', () => {
-  // --- Index State ---
-  const index = ref(null) // FlexSearch instance
-  const isReady = ref(false) // Is the index loaded/built
-  const isLoading = ref(false) // Is the index currently being built (for the first time)
+  // --- State ---
+  const allCards = ref([]) // 所有卡片資料
+  const isReady = ref(false)
+  const isLoading = ref(false)
   const error = ref(null)
 
-  // --- Filter Options (from index) ---
+  // --- Filter Options ---
   const productNames = ref([])
   const traits = ref([])
   const rarities = ref([])
@@ -32,7 +30,6 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
   // --- Search Results ---
   const searchResults = ref([])
 
-  // --- Actions ---
   function resetFilters() {
     keyword.value = ''
     selectedCardTypes.value = []
@@ -50,262 +47,143 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     const CURRENT_VERSION = 'v1.0.0'
     const storedVersion = localStorage.getItem('global_search_index_version')
 
-    // 因為沒有 IndexedDB 持久化，每次都要重建索引
     if (storedVersion !== CURRENT_VERSION) {
       console.log('Global search index not found or outdated. Building...')
-      await buildIndex()
-      resetFilters()
+      await loadData()
     } else {
-      console.log('Building global search index...')
-      await buildIndex()
-      resetFilters()
+      console.log('Loading global search data...')
+      await loadData()
     }
+
     isReady.value = true
   }
 
-  async function search() {
-    if (!isReady.value || !index.value) return
-
-    const { deburr } = await import('lodash-es')
-    const query = deburr(keyword.value.toLowerCase())
-
-    const tagQuery = []
-    if (selectedCardTypes.value.length > 0)
-      tagQuery.push({ field: 'type', query: selectedCardTypes.value })
-    if (selectedColors.value.length > 0)
-      tagQuery.push({ field: 'color', query: selectedColors.value })
-    if (selectedProductName.value)
-      tagQuery.push({ field: 'product_name', query: selectedProductName.value })
-    if (selectedTraits.value.length > 0)
-      tagQuery.push({ field: 'trait', query: selectedTraits.value, bool: 'and' })
-    if (selectedLevels.value.length > 0)
-      tagQuery.push({ field: 'level', query: selectedLevels.value })
-    if (selectedRarities.value.length > 0)
-      tagQuery.push({ field: 'rarity', query: selectedRarities.value })
-
-    const results = await index.value.searchAsync({
-      query,
-      index: ['name', 'effect', 'id', 'baseId'],
-      tag: tagQuery,
-      store: true,
-      limit: 5000,
-    })
-
-    const uniqueIds = new Set()
-    let flatResults = []
-    for (const fieldResult of results) {
-      for (const doc of fieldResult.result) {
-        if (!uniqueIds.has(doc.id)) {
-          uniqueIds.add(doc.id)
-          flatResults.push(doc.doc)
-        }
-      }
-    }
-
-    const [minCost, maxCost] = selectedCostRange.value
-    const [minPower, maxPower] = selectedPowerRange.value
-
-    if (minCost !== costRange.value.min || maxCost !== costRange.value.max) {
-      flatResults = flatResults.filter((c) => c.cost >= minCost && c.cost <= maxCost)
-    }
-    if (minPower !== powerRange.value.min || maxPower !== powerRange.value.max) {
-      flatResults = flatResults.filter((c) => c.power >= minPower && c.power <= maxPower)
-    }
-
-    if (showUniqueCards.value) {
-      const seenBaseIds = new Set()
-      flatResults = flatResults.filter((card) => {
-        if (seenBaseIds.has(card.baseId)) return false
-        seenBaseIds.add(card.baseId)
-        return true
-      })
-    }
-
-    searchResults.value = flatResults
-  }
-
-  async function buildIndex() {
+  async function loadData() {
     isLoading.value = true
     error.value = null
 
     try {
-      index.value = new FlexSearch.Document({
-        charset: 'utf-8',
-        tokenize: 'forward',
-        store: true,
-        document: {
-          id: 'id',
-          index: ['name', 'effect', 'id', 'baseId'],
-          tag: ['type', 'color', 'product_name', 'trait', 'level', 'rarity', 'cost', 'power'],
-        },
-      })
+      console.log('📥 載入卡片資料庫...')
 
-      const allSeriesCardPaths = getAllCardDataPaths()
-
-      const allFileContents = await Promise.all(
-        allSeriesCardPaths.map(async (path) => {
-          const content = await getCardDataFile(path)
-          return {
-            content: content,
-            cardIdPrefix: path.split('/').pop().replace('.json', ''),
-          }
-        })
-      )
-
-      const fetchedCards = []
-      const productNamesSet = new Set()
-      const traitsSet = new Set()
-      const raritiesSet = new Set()
-      let minCost = Infinity,
-        maxCost = -Infinity,
-        minPower = Infinity,
-        maxPower = -Infinity
-
-      for (const file of allFileContents) {
-        for (const baseId in file.content) {
-          const cardData = file.content[baseId]
-
-          if (cardData.product_name) productNamesSet.add(cardData.product_name)
-          if (cardData.trait && Array.isArray(cardData.trait))
-            cardData.trait.forEach((t) => traitsSet.add(t))
-          if (typeof cardData.cost === 'number') {
-            minCost = Math.min(minCost, cardData.cost)
-            maxCost = Math.max(maxCost, cardData.cost)
-          }
-          if (typeof cardData.power === 'number') {
-            minPower = Math.min(minPower, cardData.power)
-            maxPower = Math.max(maxPower, cardData.power)
-          }
-
-          const { all_cards, ...baseCardData } = cardData
-          if (all_cards && Array.isArray(all_cards)) {
-            all_cards.forEach((cardVersion) => {
-              if (cardVersion.rarity) raritiesSet.add(cardVersion.rarity)
-              fetchedCards.push({
-                ...baseCardData,
-                ...cardVersion,
-                baseId,
-                cardIdPrefix: file.cardIdPrefix,
-              })
-            })
-          }
-        }
+      const response = await fetch('/all_cards_db.json')
+      if (!response.ok) {
+        throw new Error(`Failed to fetch card database: ${response.statusText}`)
       }
 
-      fetchedCards.forEach((card) => (card.link = []))
+      const data = await response.json()
+      allCards.value = data.cards
 
-      const nameToCardBaseIds = new Map()
-      const baseIdToCardsMap = new Map()
+      console.log(`✅ 載入 ${allCards.value.length} 張卡片`)
 
-      for (const card of fetchedCards) {
-        if (!nameToCardBaseIds.has(card.name)) {
-          nameToCardBaseIds.set(card.name, new Set())
-        }
-        nameToCardBaseIds.get(card.name).add(card.baseId)
+      // 設定篩選選項
+      productNames.value = data.filterOptions.productNames
+      traits.value = data.filterOptions.traits
+      rarities.value = data.filterOptions.rarities
+      costRange.value = data.filterOptions.costRange
+      powerRange.value = data.filterOptions.powerRange
+      resetFilters()
 
-        if (!baseIdToCardsMap.has(card.baseId)) {
-          baseIdToCardsMap.set(card.baseId, [])
-        }
-        baseIdToCardsMap.get(card.baseId).push(card)
-      }
-
-      const escapeRegex = (str) => {
-        return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
-      }
-
-      const allNamesPattern = [...nameToCardBaseIds.keys()].map(escapeRegex).join('|')
-
-      const nameMatcherRegex = new RegExp(`「(${allNamesPattern})」`, 'g')
-
-      for (const targetCard of fetchedCards) {
-        const effectText = targetCard.effect || ''
-        if (!effectText) continue
-
-        const matches = effectText.matchAll(nameMatcherRegex)
-
-        for (const match of matches) {
-          const foundName = match[1]
-          const sourceBaseIds = nameToCardBaseIds.get(foundName)
-
-          if (sourceBaseIds) {
-            for (const sourceBaseId of sourceBaseIds) {
-              if (!targetCard.link.includes(sourceBaseId)) {
-                targetCard.link.push(sourceBaseId)
-              }
-              const sourceCardsToUpdate = baseIdToCardsMap.get(sourceBaseId)
-              if (sourceCardsToUpdate) {
-                for (const sourceCard of sourceCardsToUpdate) {
-                  if (!sourceCard.link.includes(targetCard.baseId)) {
-                    sourceCard.link.push(targetCard.baseId)
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-
-      const baseIdToFullIdsMap = new Map()
-      for (const card of fetchedCards) {
-        if (!baseIdToFullIdsMap.has(card.baseId)) {
-          baseIdToFullIdsMap.set(card.baseId, [])
-        }
-        baseIdToFullIdsMap.get(card.baseId).push(card.id)
-      }
-      for (const card of fetchedCards) {
-        if (card.link && Array.isArray(card.link) && card.link.length > 0) {
-          card.link = card.link.flatMap((linkBaseId) => baseIdToFullIdsMap.get(linkBaseId) || [])
-        }
-      }
-
-      for (const card of fetchedCards) {
-        // const cleanCard = JSON.parse(JSON.stringify(card))
-
-        // 調試：檢查是否還有 Proxy
-        console.log('Is Proxy?', card.constructor.name)
-        console.log('Card keys:', Object.keys(card))
-
-        await index.value.addAsync(card)
-      }
-
-      const finalCostRange = {
-        min: minCost === Infinity ? 0 : minCost,
-        max: maxCost === -Infinity ? 0 : maxCost,
-      }
-      const finalPowerRange = {
-        min: minPower === Infinity ? 0 : minPower,
-        max: maxPower === -Infinity ? 0 : maxPower,
-      }
-
-      productNames.value = [...productNamesSet]
-      traits.value = [...traitsSet]
-      rarities.value = [...raritiesSet].sort()
-      costRange.value = finalCostRange
-      powerRange.value = finalPowerRange
-
-      const filterOptions = {
-        productNames: productNames.value,
-        traits: traits.value,
-        rarities: rarities.value,
-        costRange: finalCostRange,
-        powerRange: finalPowerRange,
-      }
-      localStorage.setItem('global_search_filter_options', JSON.stringify(filterOptions))
-      localStorage.setItem('global_search_index_version', 'v1.0.0')
+      localStorage.setItem('global_search_index_version', data.version)
+      console.log('✨ 資料載入完成！')
     } catch (e) {
-      console.error('Error building global search index:', e)
+      console.error('Error loading card data:', e)
       error.value = e
     } finally {
       isLoading.value = false
     }
   }
 
-  async function search() { /* ... */ }
-  function resetFilters() { /* ... */ }
+  async function search() {
+    if (!isReady.value || allCards.value.length === 0) return
+
+    try {
+      const { deburr } = await import('lodash-es')
+
+      // 準備搜尋關鍵字
+      const query = keyword.value ? deburr(keyword.value.toLowerCase()) : ''
+
+      // 篩選卡片
+      let results = allCards.value
+
+      // 關鍵字搜尋（使用簡單的 includes）
+      if (query) {
+        results = results.filter((card) => {
+          const searchableText = deburr(
+            `${card.name} ${card.effect || ''} ${card.id} ${card.baseId}`.toLowerCase()
+          )
+          return searchableText.includes(query)
+        })
+      }
+
+      // 類型篩選
+      if (selectedCardTypes.value.length > 0) {
+        results = results.filter((c) => selectedCardTypes.value.includes(c.type))
+      }
+
+      // 顏色篩選
+      if (selectedColors.value.length > 0) {
+        results = results.filter((c) => selectedColors.value.includes(c.color))
+      }
+
+      // 產品篩選
+      if (selectedProductName.value) {
+        results = results.filter((c) => c.product_name === selectedProductName.value)
+      }
+
+      // 特性篩選（AND 邏輯）
+      if (selectedTraits.value.length > 0) {
+        results = results.filter((c) => {
+          if (!Array.isArray(c.trait)) return false
+          return selectedTraits.value.every((t) => c.trait.includes(t))
+        })
+      }
+
+      // 等級篩選
+      if (selectedLevels.value.length > 0) {
+        results = results.filter((c) => selectedLevels.value.includes(c.level))
+      }
+
+      // 稀有度篩選
+      if (selectedRarities.value.length > 0) {
+        results = results.filter((c) => selectedRarities.value.includes(c.rarity))
+      }
+
+      // 費用範圍篩選
+      const [minCost, maxCost] = selectedCostRange.value
+      if (minCost !== costRange.value.min || maxCost !== costRange.value.max) {
+        results = results.filter((c) => c.cost >= minCost && c.cost <= maxCost)
+      }
+
+      // 戰力範圍篩選
+      const [minPower, maxPower] = selectedPowerRange.value
+      if (minPower !== powerRange.value.min || maxPower !== powerRange.value.max) {
+        results = results.filter((c) => c.power >= minPower && c.power <= maxPower)
+      }
+
+      // 唯一卡片篩選
+      if (showUniqueCards.value) {
+        const seenBaseIds = new Set()
+        results = results.filter((card) => {
+          if (seenBaseIds.has(card.baseId)) return false
+          seenBaseIds.add(card.baseId)
+          return true
+        })
+      }
+
+      // 限制結果數量以提升效能
+      searchResults.value = results.slice(0, 1000)
+
+      if (results.length > 1000) {
+        console.warn(`搜尋結果過多 (${results.length})，只顯示前 1000 筆`)
+      }
+    } catch (e) {
+      console.error('Search error:', e)
+      error.value = e
+    }
+  }
 
   return {
     // State
-    index,
     isReady,
     isLoading,
     error,
@@ -330,7 +208,6 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     searchResults,
     // Actions
     initialize,
-    buildIndex,
     search,
     resetFilters,
   }
