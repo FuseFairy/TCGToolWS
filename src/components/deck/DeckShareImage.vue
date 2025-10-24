@@ -13,6 +13,7 @@
             cover
             eager
             transition="false"
+            @load="onImageLoad"
           >
             <template #error>
               <v-img src="/placehold.webp" :aspect-ratio="400 / 559" cover />
@@ -28,7 +29,7 @@
 
 <script setup>
 import { useCardImage } from '@/composables/useCardImage.js'
-import { computed } from 'vue'
+import { computed, ref, watch } from 'vue'
 
 const props = defineProps({
   deckCards: {
@@ -77,6 +78,48 @@ const sortedAndFlatCardList = computed(() => {
 
     return a.id.localeCompare(b.id)
   })
+})
+
+const loadedImagesCount = ref(0)
+
+const totalImages = computed(() => sortedAndFlatCardList.value.length)
+
+const onImageLoad = () => {
+  if (loadedImagesCount.value < totalImages.value) {
+    loadedImagesCount.value++
+
+    console.log('loadedImagesCount:', loadedImagesCount.value)
+  }
+}
+
+watch(
+  () => props.deckCards,
+
+  () => {
+    loadedImagesCount.value = 0
+  },
+
+  { deep: true }
+)
+
+const areAllImagesLoaded = () => {
+  return new Promise((resolve) => {
+    if (totalImages.value === 0 || loadedImagesCount.value === totalImages.value) {
+      return resolve()
+    }
+
+    const unwatch = watch(loadedImagesCount, (newValue) => {
+      if (newValue === totalImages.value) {
+        unwatch()
+
+        resolve()
+      }
+    })
+  })
+}
+
+defineExpose({
+  areAllImagesLoaded,
 })
 </script>
 
