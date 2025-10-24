@@ -44,7 +44,7 @@
             <v-btn
               v-if="smAndUp"
               :size="resize"
-              :icon="isTableModeActive ? 'mdi-view-list' : 'mdi-view-grid'"
+              :icon="isTableModeActive ? 'mdi-grid' : 'mdi-grid-large'"
               variant="text"
               @click="isTableModeActive = !isTableModeActive"
             ></v-btn>
