@@ -105,7 +105,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
       // 篩選卡片
       let results = allCards.value
 
-      // 關鍵字搜尋（使用簡單的 includes）
+      // 關鍵字搜尋
       if (query) {
         results = results.filter((card) => {
           const searchableText = deburr(
@@ -140,7 +140,9 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
 
       // 等級篩選
       if (selectedLevels.value.length > 0) {
-        results = results.filter((c) => selectedLevels.value.includes(c.level))
+        const toLevel = (level) => (level === '-' ? 0 : +level)
+        const mappedLevels = new Set(selectedLevels.value.map(toLevel))
+        results = results.filter((card) => mappedLevels.has(toLevel(card.level)))
       }
 
       // 稀有度篩選
