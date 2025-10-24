@@ -282,7 +282,7 @@ watch(
 }
 
 .slide-y-in-leave-to {
-  transform: translateY(20px);
+  transform: translateY(-20px);
   opacity: 0;
 }
 </style>
