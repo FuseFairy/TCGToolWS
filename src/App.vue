@@ -90,9 +90,9 @@
 
     <v-main :scrollable="true">
       <router-view v-slot="{ Component }">
-        <v-fade-transition hide-on-leave>
+        <transition name="slide-y-in" mode="out-in">
           <component :is="Component" />
-        </v-fade-transition>
+        </transition>
       </router-view>
     </v-main>
 
@@ -253,5 +253,23 @@ watch(
   background-attachment: fixed;
   filter: blur(var(--bg-blur));
   transition: filter 0.3s ease;
+}
+
+.slide-y-in-enter-active {
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.slide-y-in-enter-from {
+  transform: translateY(-20px);
+  /* opacity: 0; */
+}
+
+.slide-y-in-leave-active {
+  transition: all 0.2s cubic-bezier(0.4, 0, 1, 1);
+}
+
+.slide-y-in-leave-to {
+  transform: translateY(20px);
+  opacity: 0;
 }
 </style>
