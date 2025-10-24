@@ -56,6 +56,11 @@ const routes = [
     props: (route) => ({ token: route.query.token }),
     meta: { requiresGuest: true, isSpecialFlow: true },
   },
+  {
+    path: '/search',
+    name: 'GlobalSearch',
+    component: () => import('@/views/GlobalSearch.vue'),
+  },
 ]
 
 const router = createRouter({
