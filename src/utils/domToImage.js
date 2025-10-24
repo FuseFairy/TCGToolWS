@@ -69,17 +69,36 @@ export const convertElementToPng = async (elementId, name) => {
     })
 
     await Promise.all(imageProcessingPromises)
+
+    // Wait for the next animation frame to ensure DOM updates are processed
     await new Promise((resolve) => requestAnimationFrame(resolve))
 
     const rect = element.getBoundingClientRect()
-    const options = {
+
+    // --- 1. The Warm-up Call ---
+    // This forces the browser to render everything into a bitmap.
+    // We use minimal settings for performance and don't need the result.
+    console.log('Performing warm-up render...')
+    const warmUpOptions = {
+      width: rect.width,
+      height: rect.height,
+      dpr: 1,
+      scale: 0.1,
+    }
+    await snapdom(element, warmUpOptions)
+
+    // --- 2. The Final, High-Quality Call ---
+    // Now that the browser has everything rendered and ready,
+    // we take the final, high-resolution snapshot.
+    console.log('Performing final high-quality capture...')
+    const finalOptions = {
       width: rect.width,
       height: rect.height,
       dpr: window.devicePixelRatio,
       scale: 2,
       type: 'png',
     }
-    const result = await snapdom(element, options)
+    const result = await snapdom(element, finalOptions)
     await result.download({ format: 'png', filename: name })
   } catch (error) {
     console.error('Error during PNG conversion:', error)
