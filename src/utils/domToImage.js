@@ -69,6 +69,7 @@ export const convertElementToPng = async (elementId, name) => {
     })
 
     await Promise.all(imageProcessingPromises)
+    await new Promise((resolve) => requestAnimationFrame(resolve))
 
     const rect = element.getBoundingClientRect()
     const options = {
