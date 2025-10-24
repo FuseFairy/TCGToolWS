@@ -172,6 +172,7 @@
 <script setup>
 import { ref, computed, watchEffect, onUnmounted, watch } from 'vue'
 import { useDisplay } from 'vuetify'
+import { storeToRefs } from 'pinia'
 import { seriesMap } from '@/maps/series-map.js'
 import { useDeckStore } from '@/stores/deck'
 import { useFilterStore } from '@/stores/filter'
@@ -197,19 +198,8 @@ const deckStore = useDeckStore()
 const filterStore = useFilterStore()
 const uiStore = useUIStore()
 const headerRef = ref(null)
+const { isCardDeckOpen, isFilterOpen, isTableModeActive } = storeToRefs(uiStore)
 const rawHeaderHeight = ref(0)
-const isCardDeckOpen = computed({
-  get: () => uiStore.isCardDeckOpen,
-  set: (value) => (uiStore.isCardDeckOpen = value),
-})
-const isFilterOpen = computed({
-  get: () => uiStore.isFilterOpen,
-  set: (value) => (uiStore.isFilterOpen = value),
-})
-const isTableModeActive = computed({
-  get: () => uiStore.isTableModeActive,
-  set: (value) => (uiStore.isTableModeActive = value),
-})
 const filterIcon = computed(() => (isFilterOpen.value ? 'mdi-filter-off' : 'mdi-filter'))
 const headerOffsetHeight = computed(() => rawHeaderHeight.value)
 const listRef = ref(null)
