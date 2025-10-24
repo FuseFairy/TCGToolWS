@@ -1,7 +1,10 @@
 <template>
   <v-layout>
     <v-main>
-      <div v-if="store.isLoading" class="d-flex flex-column align-center justify-center fill-height">
+      <div
+        v-if="store.isLoading"
+        class="d-flex flex-column align-center justify-center fill-height"
+      >
         <v-progress-circular indeterminate size="64"></v-progress-circular>
         <div class="mt-4">正在建立或載入全域索引，請稍候...</div>
       </div>
