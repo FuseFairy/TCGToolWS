@@ -1,7 +1,7 @@
 import { defineStore } from 'pinia'
 import { ref, toRaw } from 'vue'
 import * as FlexSearch from 'flexsearch'
-import { assetModules, getAssetsFile } from '@/utils/getAssetsFile.js'
+import { getCardDataFile, getAllCardDataPaths } from '@/utils/getCardDataFiles.js'
 
 export const useGlobalSearchStore = defineStore('globalSearch', () => {
   // --- Index State ---
@@ -49,40 +49,16 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
   async function initialize() {
     const CURRENT_VERSION = 'v1.0.0'
     const storedVersion = localStorage.getItem('global_search_index_version')
-    const storedFilterOptions = localStorage.getItem('global_search_filter_options')
 
-    if (storedVersion !== CURRENT_VERSION || !storedFilterOptions) {
+    // 因為沒有 IndexedDB 持久化，每次都要重建索引
+    if (storedVersion !== CURRENT_VERSION) {
       console.log('Global search index not found or outdated. Building...')
       await buildIndex()
       resetFilters()
     } else {
-      console.log('Loading global search index from IndexedDB...')
-      isLoading.value = true
-      const options = JSON.parse(storedFilterOptions)
-
-      productNames.value = options.productNames
-      traits.value = options.traits
-      rarities.value = options.rarities
-      costRange.value = options.costRange
-      powerRange.value = options.powerRange
+      console.log('Building global search index...')
+      await buildIndex()
       resetFilters()
-
-      const db = new FlexSearch.IndexedDB('GlobalCardIndex')
-      index.value = new FlexSearch.Document({
-        name: 'GlobalCardIndex',
-        charset: 'utf-8',
-        tokenize: 'forward',
-        store: true,
-        document: {
-          id: 'id',
-          index: ['name', 'effect', 'id', 'baseId'],
-          tag: ['type', 'color', 'product_name', 'trait', 'level', 'rarity', 'cost', 'power'],
-        },
-      })
-      await index.value.mount(db)
-      await index.value.info()
-      isLoading.value = false
-      console.log('Global search index loaded.')
     }
     isReady.value = true
   }
@@ -153,9 +129,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     error.value = null
 
     try {
-      const db = new FlexSearch.IndexedDB('GlobalCardIndex')
       index.value = new FlexSearch.Document({
-        name: 'GlobalCardIndex',
         charset: 'utf-8',
         tokenize: 'forward',
         store: true,
@@ -165,20 +139,14 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
           tag: ['type', 'color', 'product_name', 'trait', 'level', 'rarity', 'cost', 'power'],
         },
       })
-      await index.value.mount(db)
-      index.value.clear()
 
-      const allSeriesCardPaths = Object.keys(assetModules)
-        .filter((fullPath) => fullPath.startsWith('/src/assets/card-data/'))
-        .map((fullPath) => fullPath.substring('/src/assets/'.length))
+      const allSeriesCardPaths = getAllCardDataPaths()
 
       const allFileContents = await Promise.all(
         allSeriesCardPaths.map(async (path) => {
-          const url = await getAssetsFile(path)
-          const response = await fetch(url, { priority: 'high' })
-          if (!response.ok) throw new Error(`Failed to fetch ${path}`)
+          const content = await getCardDataFile(path)
           return {
-            content: await response.json(),
+            content: content,
             cardIdPrefix: path.split('/').pop().replace('.json', ''),
           }
         })
@@ -230,7 +198,6 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
       const baseIdToCardsMap = new Map()
 
       for (const card of fetchedCards) {
-        await index.value.addAsync(toRaw(card))
         if (!nameToCardBaseIds.has(card.name)) {
           nameToCardBaseIds.set(card.name, new Set())
         }
@@ -292,6 +259,12 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
       }
 
       for (const card of fetchedCards) {
+        // const cleanCard = JSON.parse(JSON.stringify(card))
+
+        // 調試：檢查是否還有 Proxy
+        console.log('Is Proxy?', card.constructor.name)
+        console.log('Card keys:', Object.keys(card))
+
         await index.value.addAsync(card)
       }
 
