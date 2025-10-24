@@ -136,6 +136,7 @@ import titleLightImg from '@/assets/ui/title-light.webp'
 import HomeIcon from '@/assets/ui/home.svg'
 import SeriesCardTableIcon from '@/assets/ui/series-card-table.svg'
 import DeckIcon from '@/assets/ui/deck.svg'
+import SearchIcon from '@/assets/ui/search.svg'
 
 const authStore = useAuthStore()
 const authDialog = ref(null)
@@ -172,10 +173,12 @@ const navIcons = {
   'home.svg': HomeIcon,
   'series-card-table.svg': SeriesCardTableIcon,
   'deck.svg': DeckIcon,
+  'search.svg': SearchIcon,
 }
 
 const navItems = [
   { text: '首页', name: 'Home', requiresAuth: false, icon: 'home.svg' },
+  { text: '卡片搜索', name: 'GlobalSearch', requiresAuth: false, icon: 'search.svg' },
   { text: '系列卡表', name: 'SeriesCardTable', requiresAuth: false, icon: 'series-card-table.svg' },
   { text: '我的卡组', name: 'Decks', requiresAuth: true, icon: 'deck.svg' },
 ]
