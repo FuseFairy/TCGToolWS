@@ -16,6 +16,7 @@ export const useUIStore = defineStore(
     const isFilterOpen = ref(false)
     const isCardDeckOpen = ref(false)
     const isLoading = ref(false)
+    const isTableModeActive = ref(false)
 
     const backgroundImage = ref(null)
 
@@ -63,6 +64,7 @@ export const useUIStore = defineStore(
       isCardDeckOpen,
       isLoading,
       setLoading,
+      isTableModeActive,
       backgroundImage,
       setBackgroundImage,
       updateBackgroundImage,

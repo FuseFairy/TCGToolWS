@@ -206,10 +206,13 @@ const isFilterOpen = computed({
   get: () => uiStore.isFilterOpen,
   set: (value) => (uiStore.isFilterOpen = value),
 })
+const isTableModeActive = computed({
+  get: () => uiStore.isTableModeActive,
+  set: (value) => (uiStore.isTableModeActive = value),
+})
 const filterIcon = computed(() => (isFilterOpen.value ? 'mdi-filter-off' : 'mdi-filter'))
 const headerOffsetHeight = computed(() => rawHeaderHeight.value)
 const listRef = ref(null)
-const isTableModeActive = ref(false)
 const hasBackgroundImage = !!uiStore.backgroundImage
 
 const observer = new ResizeObserver(([entry]) => {
