@@ -1,21 +1,32 @@
 import { snapdom } from '@zumer/snapdom'
 
-const waitForImagesToLoad = (element) => {
+const waitForImagesToLoad = async (element) => {
   const images = Array.from(element.querySelectorAll('img'))
-  const promises = images.map((img) => {
+  const blobUrls = []
+  const promises = images.map(async (img) => {
     if (img.src && !img.src.startsWith('data:')) {
-      return new Promise((resolve) => {
-        if (img.complete) {
-          return resolve()
+      try {
+        const response = await fetch(img.src, { cache: 'reload' })
+        if (!response.ok) {
+          throw new Error(`Failed to fetch image: ${response.statusText}`)
         }
-        img.onload = resolve
-        img.onerror = resolve
-      })
+        const imageBlob = await response.blob()
+        const blobUrl = URL.createObjectURL(imageBlob)
+        blobUrls.push(blobUrl)
+        img.src = blobUrl
+        await new Promise((resolve, reject) => {
+          img.onload = resolve
+          img.onerror = reject
+        })
+      } catch (error) {
+        console.error(`Could not reload image ${img.src}:`, error)
+        throw error
+      }
     }
-    return Promise.resolve()
   })
 
-  return Promise.all(promises)
+  await Promise.all(promises)
+  return blobUrls
 }
 
 export const convertElementToPng = async (elementId, name) => {
@@ -25,21 +36,10 @@ export const convertElementToPng = async (elementId, name) => {
     return
   }
 
-  try {
-    const images = element.querySelectorAll('img')
-    images.forEach((img) => {
-      if (!img.src) return
-      try {
-        const url = new URL(img.src)
-        url.searchParams.set('cache_bust', new Date().getTime())
-        img.src = url.toString()
-        // eslint-disable-next-line no-unused-vars
-      } catch (e) {
-        console.warn(`Could not bust cache for a non-URL src: ${img.src}`)
-      }
-    })
+  let tempBlobUrls = []
 
-    await waitForImagesToLoad(element)
+  try {
+    tempBlobUrls = await waitForImagesToLoad(element)
 
     const rect = element.getBoundingClientRect()
     const options = {
@@ -48,12 +48,14 @@ export const convertElementToPng = async (elementId, name) => {
       dpr: window.devicePixelRatio,
       scale: 2,
       type: 'png',
-      cache: 'disabled',
     }
     const result = await snapdom(element, options)
     await result.download({ format: 'png', filename: name })
   } catch (error) {
     console.error('Error during PNG conversion:', error)
     throw error
+  } finally {
+    console.log('Cleaning up temporary blob URLs...')
+    tempBlobUrls.forEach((url) => URL.revokeObjectURL(url))
   }
 }
