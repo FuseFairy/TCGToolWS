@@ -255,6 +255,17 @@ watch(
   transition: filter 0.3s ease;
 }
 
+/* Image fade-in animation on route enter */
+.slide-y-in-enter-active .v-img {
+  transition:
+    transform 0.35s cubic-bezier(0.4, 0, 0.2, 1) 0.1s,
+    opacity 0.35s cubic-bezier(0.4, 0, 0.2, 1) 0.1s !important;
+}
+.slide-y-in-enter-from .v-img {
+  transform: scale(0.95);
+  opacity: 0;
+}
+
 .slide-y-in-enter-active {
   transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
 }
