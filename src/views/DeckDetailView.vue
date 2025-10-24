@@ -96,7 +96,7 @@
                 <v-col v-for="item in group" :key="item.id" cols="4" sm="3" md="2">
                   <v-tooltip :text="item.id" location="top center">
                     <template v-slot:activator="{ props }">
-                      <div v-bind="props" class="card-container" @click="handleCardClick(item)">
+                      <div v-bind="props" class="card-container deck-detail-card" @click="handleCardClick(item)">
                         <v-img
                           :src="useCardImage(item.cardIdPrefix, item.id).value"
                           :aspect-ratio="400 / 559"
