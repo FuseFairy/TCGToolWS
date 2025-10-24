@@ -11,6 +11,13 @@ import '@/assets/styles/main.css'
 import 'vuetify/styles'
 
 const bootstrap = async () => {
+  // 避免 Safari 的 bfcache 導致無法獲取最新的 index.html
+  window.addEventListener('pageshow', function (event) {
+    if (event.persisted) {
+      window.location.reload()
+    }
+  })
+
   const app = createApp(App)
   const pinia = createPinia()
   const vuetify = createVuetify({
