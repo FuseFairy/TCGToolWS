@@ -19,6 +19,7 @@
   "dependencies": {
     "@zumer/snapdom": "^1.9.14",
     "dompurify": "^3.2.7",
+    "epic-spinners": "^2.0.0",
     "hono": "^4.9.9",
     "jsoncrush": "^1.1.8",
     "jwt-decode": "^4.0.0",

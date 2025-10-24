@@ -115,7 +115,7 @@
 
     <!-- Global Loading Overlay -->
     <v-overlay v-model="uiStore.isLoading" class="d-flex align-center justify-center" persistent>
-      <v-progress-circular color="primary" indeterminate size="64"></v-progress-circular>
+      <scaling-squares-spinner :animation-duration="1250" :size="65" color="#ff1d5e" />
     </v-overlay>
   </v-app>
 </template>
@@ -129,6 +129,7 @@ import { useAuthStore } from '@/stores/auth'
 import { useSnackbar } from '@/composables/useSnackbar'
 import AuthDialog from '@/components/ui/AuthDialog.vue'
 import SettingsModal from '@/components/ui/SettingsModal.vue'
+import { ScalingSquaresSpinner } from 'epic-spinners'
 
 import titleDarkImg from '@/assets/ui/title-dark.webp'
 import titleLightImg from '@/assets/ui/title-light.webp'
