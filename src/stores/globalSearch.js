@@ -1,6 +1,6 @@
 import { defineStore } from 'pinia'
-import { ref } from 'vue'
-import { Document } from 'flexsearch'
+import { ref, toRaw } from 'vue'
+import * as FlexSearch from 'flexsearch'
 import { assetModules, getAssetsFile } from '@/utils/getAssetsFile.js'
 
 export const useGlobalSearchStore = defineStore('globalSearch', () => {
@@ -67,8 +67,8 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
       powerRange.value = options.powerRange
       resetFilters()
 
-      index.value = new Document({
-        db: 'indexeddb',
+      const db = new FlexSearch.IndexedDB('GlobalCardIndex')
+      index.value = new FlexSearch.Document({
         name: 'GlobalCardIndex',
         charset: 'utf-8',
         tokenize: 'forward',
@@ -79,7 +79,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
           tag: ['type', 'color', 'product_name', 'trait', 'level', 'rarity', 'cost', 'power'],
         },
       })
-
+      await index.value.mount(db)
       await index.value.info()
       isLoading.value = false
       console.log('Global search index loaded.')
@@ -153,8 +153,8 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     error.value = null
 
     try {
-      index.value = new Document({
-        db: 'indexeddb',
+      const db = new FlexSearch.IndexedDB('GlobalCardIndex')
+      index.value = new FlexSearch.Document({
         name: 'GlobalCardIndex',
         charset: 'utf-8',
         tokenize: 'forward',
@@ -165,8 +165,8 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
           tag: ['type', 'color', 'product_name', 'trait', 'level', 'rarity', 'cost', 'power'],
         },
       })
-
-      await index.value.clearAsync()
+      await index.value.mount(db)
+      index.value.clear()
 
       const allSeriesCardPaths = Object.keys(assetModules)
         .filter((fullPath) => fullPath.startsWith('/src/assets/card-data/'))
@@ -230,6 +230,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
       const baseIdToCardsMap = new Map()
 
       for (const card of fetchedCards) {
+        await index.value.addAsync(toRaw(card))
         if (!nameToCardBaseIds.has(card.name)) {
           nameToCardBaseIds.set(card.name, new Set())
         }
@@ -242,7 +243,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
       }
 
       const escapeRegex = (str) => {
-        return str.replace(/[.*+?^${}()|[\\]\\]/g, '\\$&')
+        return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
       }
 
       const allNamesPattern = [...nameToCardBaseIds.keys()].map(escapeRegex).join('|')
