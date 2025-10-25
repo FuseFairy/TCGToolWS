@@ -1,5 +1,6 @@
 import { defineStore } from 'pinia'
 import { ref } from 'vue'
+import { inflate } from 'pako'
 
 export const useGlobalSearchStore = defineStore('globalSearch', () => {
   // --- State ---
@@ -78,7 +79,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
       error.value = e
       // 嘗試使用預設檔名作為後備方案
       try {
-        await loadData('all_cards_db.json', null)
+        await loadData('all_cards_db.json.gz', null)
         isReady.value = true
       } catch (fallbackError) {
         console.error('❌ 後備載入失敗:', fallbackError)
@@ -98,7 +99,9 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
         throw new Error(`Failed to fetch card database: ${response.statusText}`)
       }
 
-      const data = await response.json()
+      const compressedBuffer = await response.arrayBuffer()
+      const decompressed = inflate(new Uint8Array(compressedBuffer), { to: 'string' })
+      const data = JSON.parse(decompressed)
       allCards.value = data.cards
 
       console.log(`✅ 載入 ${allCards.value.length} 張卡片`)

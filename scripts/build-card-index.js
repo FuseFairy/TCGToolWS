@@ -2,6 +2,7 @@ import fs from 'fs'
 import path from 'path'
 import crypto from 'crypto'
 import { fileURLToPath } from 'url'
+import zlib from 'zlib'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
@@ -67,10 +68,10 @@ files.forEach((filename) => {
   }
 })
 
-console.log(`Processed a total of ${cardCount} cards.`)
+console.log(`     - Processed a total of ${cardCount} cards.`)
 
 // 處理卡片連結（效果文字中提到的其他卡片）
-console.log('Processing card links...')
+console.log('     - Processing card links...')
 
 allCards.forEach((card) => (card.link = []))
 
@@ -170,20 +171,28 @@ output.version = version
 console.log(`🔐 Content Hash: ${hash}`)
 
 // 檢測內容變化，並判斷是否需要重新產生檔案
-const nowManifest = JSON.parse(fs.readFileSync(MANIFEST_FILE, 'utf-8'))
-const currentVersion = nowManifest.version
-if (version == currentVersion) { 
-  console.log('⏭️ The content has not changed, skip the remaining steps...')
-  process.exit(0)
+try {
+  const nowManifest = JSON.parse(fs.readFileSync(MANIFEST_FILE, 'utf-8'))
+  const currentVersion = nowManifest.version
+  if (version == currentVersion) {
+    console.log('⏭️ The content has not changed, skip the remaining steps...')
+    process.exit(0)
+  }
+} catch (error) {
+  if (error.code === 'ENOENT') {
+    console.log('⚒️ Manifest file not found, start creating files...')
+  } else {
+    throw error
+  }
 }
 
-
 // 使用帶 hash 的檔名
-const outputFileName = `all_cards_db.${hash}.json`
+const outputFileName = `all_cards_db.${hash}.json.gz`
 const outputFilePath = path.join(OUTPUT_DIR, outputFileName)
 
-// 寫入卡片資料檔案
-fs.writeFileSync(outputFilePath, JSON.stringify(output))
+// 寫入卡片資料檔案 (gzip 壓縮)
+const gzippedContent = zlib.gzipSync(content)
+fs.writeFileSync(outputFilePath, gzippedContent)
 const fileSize = (fs.statSync(outputFilePath).size / 1024 / 1024).toFixed(2)
 
 console.log(`💾 Index file created: ${outputFilePath}`)
@@ -211,7 +220,7 @@ console.log(`     - Manifest file created: ${MANIFEST_FILE}`)
 // 清理舊的帶 hash 的檔案
 const oldFiles = fs
   .readdirSync(OUTPUT_DIR)
-  .filter((f) => f.startsWith('all_cards_db.') && f.endsWith('.json') && f !== outputFileName)
+  .filter((f) => f.startsWith('all_cards_db.') && f.endsWith('.json.gz') && f !== outputFileName)
 
 oldFiles.forEach((oldFile) => {
   const oldFilePath = path.join(OUTPUT_DIR, oldFile)
