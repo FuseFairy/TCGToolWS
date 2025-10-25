@@ -76,14 +76,6 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
       isReady.value = true
     } catch (e) {
       console.error('❌ 初始化失敗:', e)
-      error.value = e
-      // 嘗試使用預設檔名作為後備方案
-      try {
-        await loadData('all_cards_db.json.bin', null)
-        isReady.value = true
-      } catch (fallbackError) {
-        console.error('❌ 後備載入失敗:', fallbackError)
-      }
     }
   }
 
