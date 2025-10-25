@@ -42,7 +42,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
   const storeName = 'cardStore'
   const dbKey = 'card-data'
 
-  function openDB() {
+  const openDB = () => {
     return new Promise((resolve, reject) => {
       const request = indexedDB.open(dbName, 1)
       request.onerror = () => reject(new Error('❌ Failed to open IndexedDB'))
@@ -56,7 +56,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     })
   }
 
-  function saveDataToDB(db, data) {
+  const saveDataToDB = (db, data) => {
     return new Promise((resolve, reject) => {
       const transaction = db.transaction([storeName], 'readwrite')
       const store = transaction.objectStore(storeName)
@@ -66,7 +66,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     })
   }
 
-  function loadDataFromDB(db) {
+  const loadDataFromDB = (db) => {
     return new Promise((resolve, reject) => {
       const transaction = db.transaction([storeName], 'readonly')
       const store = transaction.objectStore(storeName)
@@ -78,7 +78,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
 
   // --- Data Loading Logic ---
 
-  function setCardData(data, source) {
+  const setCardData = (data, source) => {
     allCards.value = data.cards
     productNames.value = data.filterOptions.productNames
     traits.value = data.filterOptions.traits
@@ -89,7 +89,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     console.log(`✅ Successfully loaded ${allCards.value.length} cards from ${source}`)
   }
 
-  async function fetchAndStoreData(fileName, version) {
+  const fetchAndStoreData = async (fileName, version) => {
     isLoading.value = true
     error.value = null
     let db
@@ -122,7 +122,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     }
   }
 
-  async function loadDataFromLocal() {
+  const loadDataFromLocal = async () => {
     isLoading.value = true
     let db
     try {
@@ -142,7 +142,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     }
   }
 
-  async function initialize() {
+  const initialize = async () => {
     console.log('🔍 Checking card database version...')
     isLoading.value = true
     error.value = null
@@ -163,6 +163,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
         console.log('✅ Versions match, trying to load from local database...')
         try {
           await loadDataFromLocal()
+          // eslint-disable-next-line no-unused-vars
         } catch (e) {
           console.log('↪️ Local load failed, fetching from remote...')
           await fetchAndStoreData(fileName, currentVersion)
@@ -185,7 +186,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     }
   }
 
-  async function search() {
+  const search = async () => {
     hasActiveFilters.value = true
     if (!isReady.value || allCards.value.length === 0) return
 

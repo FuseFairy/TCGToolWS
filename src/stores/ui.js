@@ -75,7 +75,7 @@ export const useUIStore = defineStore(
   {
     persist: {
       storage: localStorage,
-      paths: ['theme'],
+      paths: ['theme', 'isFilterOpen', 'isCardDeckOpen'],
     },
   }
 )

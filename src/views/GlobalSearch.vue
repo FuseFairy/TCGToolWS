@@ -1,6 +1,6 @@
 <template>
   <v-container fluid class="h-100 pa-0">
-    <div v-if="store.isLoading" class="d-flex justify-center align-center h-100">
+    <div v-if="globalSearchStore.isLoading" class="d-flex justify-center align-center h-100">
       <v-progress-circular indeterminate color="primary" size="64"></v-progress-circular>
     </div>
 
@@ -22,14 +22,14 @@
               class="text-h6 text-sm-h5 text-truncate text-center px-2 flex-grow-1"
               style="min-width: 0"
             >
-              全域搜寻
+              搜索结果
             </h1>
             <v-chip
               :size="resize"
               prepend-icon="mdi-cards-diamond-outline"
               class="counter-chip font-weight-bold flex-shrink-0"
             >
-              {{ store.searchResults.length }}
+              {{ globalSearchStore.searchResults.length }}
             </v-chip>
           </div>
 
@@ -41,6 +41,21 @@
               variant="text"
               @click="isTableModeActive = !isTableModeActive"
             ></v-btn>
+            <v-badge
+              v-if="smAndUp"
+              :content="deckStore.totalCardCount"
+              :model-value="deckStore.totalCardCount > 0"
+              color="primary"
+              offset-x="6"
+              offset-y="12"
+            >
+              <v-btn
+                :size="resize"
+                icon="mdi-cards"
+                variant="text"
+                @click="isCardDeckOpen = !isCardDeckOpen"
+              ></v-btn>
+            </v-badge>
           </div>
         </div>
       </div>
@@ -51,7 +66,7 @@
             <BaseFilterSidebar
               class="fill-height pl-4 pb-4"
               :header-offset-height="headerOffsetHeight"
-              :filterStore="store"
+              :global-filter="true"
             />
           </div>
         </template>
@@ -66,7 +81,7 @@
         <CardInfiniteScrollList
           v-else
           ref="cardListRef"
-          :cards="store.searchResults"
+          :cards="globalSearchStore.searchResults"
           :header-offset-height="headerOffsetHeight"
           :is-table-mode-active="isTableModeActive"
           :empty-text="currentEmptyText"
@@ -74,6 +89,11 @@
           margin=" 300"
           class="flex-grow-1 themed-scrollbar pl-4 pr-4"
         />
+        <template v-if="smAndUp">
+          <div class="sidebar-container" :class="{ 'right-sidebar-open': isCardDeckOpen }">
+            <DeckSidebar class="fill-height pr-4 pb-4" :header-offset-height="headerOffsetHeight" />
+          </div>
+        </template>
       </div>
 
       <!-- Mobile FABs for Bottom Sheet -->
@@ -86,6 +106,22 @@
             class="opacity-90"
             @click="sheetContent = 'filter'"
           ></v-btn>
+          <v-badge
+            :content="deckStore.totalCardCount"
+            :model-value="deckStore.totalCardCount > 0"
+            color="on-background"
+            offset-x="8"
+            offset-y="8"
+            class="opacity-90"
+          >
+            <v-btn
+              icon="mdi-cards"
+              size="large"
+              color="primary"
+              class="opacity-90"
+              @click="sheetContent = 'deck'"
+            ></v-btn>
+          </v-badge>
         </div>
       </div>
 
@@ -113,7 +149,7 @@
             class="pa-0"
             :style="{
               'height': sheetHeight + 'px',
-              'overflow-y': 'auto',
+              'overflow-y': sheetContent === 'deck' ? 'hidden' : 'auto',
             }"
           >
             <BaseFilterSidebar
@@ -121,7 +157,14 @@
               :header-offset-height="0"
               class="px-4"
               transparent
-              :filterStore="store"
+              :global-filter="true"
+            />
+            <DeckSidebar
+              v-if="sheetContent === 'deck'"
+              :header-offset-height="0"
+              :container-height="sheetHeight"
+              class="px-4"
+              transparent
             />
           </v-card-text>
         </v-card>
@@ -132,24 +175,30 @@
 
 <script setup>
 import { onMounted, ref, watch, computed, watchEffect, onUnmounted } from 'vue'
+import { useDisplay } from 'vuetify'
 import { storeToRefs } from 'pinia'
+import { seriesMap } from '@/maps/series-map.js'
 import { useGlobalSearchStore } from '@/stores/globalSearch'
 import { useUIStore } from '@/stores/ui'
+import { useDeckStore } from '@/stores/deck'
 import { useInfiniteScrollState } from '@/composables/useInfiniteScrollState.js'
 import CardInfiniteScrollList from '@/components/card/CardInfiniteScrollList.vue'
 import BaseFilterSidebar from '@/components/base/BaseFilterSidebar.vue'
+import DeckSidebar from '@/components/ui/DeckSidebar.vue'
 import { useBottomSheet } from '@/composables/useBottomSheet.js'
 
-const store = useGlobalSearchStore()
+const globalSearchStore = useGlobalSearchStore()
 const uiStore = useUIStore()
+const deckStore = useDeckStore()
 const cardListRef = ref(null)
 const headerRef = ref(null)
-const { isFilterOpen, isTableModeActive } = storeToRefs(uiStore)
-const { hasActiveFilters } = storeToRefs(store)
+const { isFilterOpen, isTableModeActive, isCardDeckOpen } = storeToRefs(uiStore)
+const { hasActiveFilters } = storeToRefs(globalSearchStore)
 const rawHeaderHeight = ref(0)
 const hasBackgroundImage = !!uiStore.backgroundImage
 
 const { sheetContent, isSheetOpen, sheetHeight, startDrag, smAndUp } = useBottomSheet()
+const { lgAndUp } = useDisplay()
 
 const resize = computed(() => {
   return smAndUp.value ? 'default' : 'x-small'
@@ -180,10 +229,39 @@ watch(isTableModeActive, () => {
 
 const sheetTitle = computed(() => {
   if (sheetContent.value === 'filter') return '搜寻'
+  if (sheetContent.value === 'deck') return '卡组'
   return ''
 })
 
-const displayEmptySearchMessage = computed(() => !hasActiveFilters.value && !store.isLoading)
+watch(isFilterOpen, (newValue) => {
+  if (newValue && !lgAndUp.value) {
+    isCardDeckOpen.value = false
+  }
+})
+
+watch(isCardDeckOpen, (newValue) => {
+  if (newValue && !lgAndUp.value) {
+    isFilterOpen.value = false
+  }
+})
+
+// Close one sidebar if resizing from desktop to a smaller screen with both sidebars open
+watch(lgAndUp, (isDesktop) => {
+  if (!isDesktop && isFilterOpen.value && isCardDeckOpen.value) {
+    isCardDeckOpen.value = false
+  }
+})
+
+// Close bottom sheet when resizing to desktop
+watch(smAndUp, (isDesktop) => {
+  if (isDesktop && isSheetOpen.value) {
+    isSheetOpen.value = false
+  }
+})
+
+const displayEmptySearchMessage = computed(
+  () => !hasActiveFilters.value && !globalSearchStore.isLoading
+)
 const currentEmptyText = computed(() =>
   displayEmptySearchMessage.value
     ? '请输入关键字或选择筛选条件以开始搜寻'
@@ -191,21 +269,52 @@ const currentEmptyText = computed(() =>
 )
 
 onMounted(() => {
-  store.initialize()
+  globalSearchStore.initialize()
 })
 
 watch(
+  () => deckStore.cardsInDeck,
+  (newCardsInDeck) => {
+    if (Object.keys(newCardsInDeck).length === 0) {
+      deckStore.setSeriesId(null)
+      return
+    }
+    const prefixCounts = Object.keys(newCardsInDeck).reduce((acc, cardId) => {
+      const prefix = cardId.split('/')[0]
+      acc[prefix] = (acc[prefix] || 0) + newCardsInDeck[cardId].quantity
+      return acc
+    }, {})
+
+    if (Object.keys(prefixCounts).length === 0) {
+      deckStore.setSeriesId(null)
+      return
+    }
+
+    const mostFrequentPrefix = Object.entries(prefixCounts).reduce((a, b) =>
+      a[1] > b[1] ? a : b
+    )[0]
+
+    const seriesEntry = Object.values(seriesMap).find((series) =>
+      series.prefixes.includes(mostFrequentPrefix)
+    )
+
+    deckStore.setSeriesId(seriesEntry ? seriesEntry.id : null)
+  },
+  { deep: true }
+)
+
+watch(
   [
-    () => store.keyword,
-    () => store.selectedCardTypes,
-    () => store.selectedColors,
-    () => store.selectedProductName,
-    () => store.selectedTraits,
-    () => store.selectedLevels,
-    () => store.selectedRarities,
-    () => store.showUniqueCards,
-    () => store.selectedCostRange,
-    () => store.selectedPowerRange,
+    () => globalSearchStore.keyword,
+    () => globalSearchStore.selectedCardTypes,
+    () => globalSearchStore.selectedColors,
+    () => globalSearchStore.selectedProductName,
+    () => globalSearchStore.selectedTraits,
+    () => globalSearchStore.selectedLevels,
+    () => globalSearchStore.selectedRarities,
+    () => globalSearchStore.showUniqueCards,
+    () => globalSearchStore.selectedCostRange,
+    () => globalSearchStore.selectedPowerRange,
   ],
   async ([
     newKeyword,
@@ -229,17 +338,19 @@ watch(
       newLevels.length > 0,
       newRarities.length > 0,
       newShowUniqueCards === true,
-      newCostRange[0] !== store.costRange.min || newCostRange[1] !== store.costRange.max,
-      newPowerRange[0] !== store.powerRange.min || newPowerRange[1] !== store.powerRange.max,
+      newCostRange[0] !== globalSearchStore.costRange.min ||
+        newCostRange[1] !== globalSearchStore.costRange.max,
+      newPowerRange[0] !== globalSearchStore.powerRange.min ||
+        newPowerRange[1] !== globalSearchStore.powerRange.max,
     ].some(Boolean)
 
-    if (store.isReady && hasAnyActiveFilters) {
-      await store.search()
+    if (globalSearchStore.isReady && hasAnyActiveFilters) {
+      await globalSearchStore.search()
       cardListRef.value?.reset()
     } else if (!hasAnyActiveFilters) {
       // 如果沒有任何篩選條件，清空搜尋結果並重置 hasActiveFilters
-      store.searchResults = []
-      store.hasActiveFilters = false
+      globalSearchStore.searchResults = []
+      globalSearchStore.hasActiveFilters = false
       cardListRef.value?.reset()
     }
   },
@@ -259,7 +370,7 @@ useInfiniteScrollState({
   onRestore: (savedState) => {
     cardListRef.value?.restoreScrollState(savedState)
   },
-  loadingRef: computed(() => store.isLoading),
+  loadingRef: computed(() => globalSearchStore.isLoading),
 })
 </script>
 
@@ -273,14 +384,16 @@ useInfiniteScrollState({
 
 /* Small tablet (sm) */
 @media (min-width: 600px) and (max-width: 959.98px) {
-  .sidebar-container.left-sidebar-open {
+  .sidebar-container.left-sidebar-open,
+  .sidebar-container.right-sidebar-open {
     width: 46%;
   }
 }
 
 /* Medium tablet (md) */
 @media (min-width: 960px) and (max-width: 1279.98px) {
-  .sidebar-container.left-sidebar-open {
+  .sidebar-container.left-sidebar-open,
+  .sidebar-container.right-sidebar-open {
     width: 35%;
   }
 }
@@ -289,6 +402,10 @@ useInfiniteScrollState({
 @media (min-width: 1280px) {
   .sidebar-container.left-sidebar-open {
     width: 15%;
+  }
+
+  .sidebar-container.right-sidebar-open {
+    width: 25%;
   }
 }
 
@@ -349,7 +466,8 @@ useInfiniteScrollState({
     right: 0;
   }
 
-  .sidebar-container.left-sidebar-open {
+  .sidebar-container.left-sidebar-open,
+  .sidebar-container.right-sidebar-open {
     width: 100%;
   }
 }
