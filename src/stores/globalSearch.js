@@ -37,48 +37,64 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
   const searchResults = ref([])
   const hasActiveFilters = ref(false)
 
-  async function initialize() {
-    console.log('🔍 檢查卡片資料庫版本...')
+  // --- IndexedDB Helpers ---
+  const dbName = 'CardDataDB'
+  const storeName = 'cardStore'
+  const dbKey = 'card-data'
 
-    try {
-      // 載入 manifest 檔案以取得當前版本
-      const manifestResponse = await fetch('/card-db-manifest.json')
-      if (!manifestResponse.ok) {
-        throw new Error('無法載入 manifest 檔案')
+  function openDB() {
+    return new Promise((resolve, reject) => {
+      const request = indexedDB.open(dbName, 1)
+      request.onerror = () => reject(new Error('❌ Failed to open IndexedDB'))
+      request.onsuccess = () => resolve(request.result)
+      request.onupgradeneeded = (event) => {
+        const db = event.target.result
+        if (!db.objectStoreNames.contains(storeName)) {
+          db.createObjectStore(storeName, { keyPath: 'key' })
+        }
       }
-
-      const manifest = await manifestResponse.json()
-      const currentVersion = manifest.version
-      const fileName = manifest.fileName
-
-      console.log(`📌 當前版本: ${currentVersion}`)
-
-      // 檢查本地儲存的版本
-      const storedVersion = localStorage.getItem('global_search_index_version')
-
-      if (storedVersion !== currentVersion) {
-        console.log(
-          `🔄 版本不同 (本地: ${storedVersion || '無'}, 遠端: ${currentVersion})，重新載入資料...`
-        )
-        await loadData(fileName, currentVersion)
-      } else {
-        console.log('✅ 版本相同，載入資料...')
-        await loadData(fileName, currentVersion)
-      }
-
-      isReady.value = true
-    } catch (e) {
-      console.error('❌ 初始化失敗:', e)
-    }
+    })
   }
 
-  async function loadData(fileName, version) {
+  function saveDataToDB(db, data) {
+    return new Promise((resolve, reject) => {
+      const transaction = db.transaction([storeName], 'readwrite')
+      const store = transaction.objectStore(storeName)
+      const request = store.put({ key: dbKey, data })
+      request.onerror = () => reject(new Error('❌ Failed to save data to IndexedDB'))
+      request.onsuccess = () => resolve(request.result)
+    })
+  }
+
+  function loadDataFromDB(db) {
+    return new Promise((resolve, reject) => {
+      const transaction = db.transaction([storeName], 'readonly')
+      const store = transaction.objectStore(storeName)
+      const request = store.get(dbKey)
+      request.onerror = () => reject(new Error('❌ Failed to load data from IndexedDB'))
+      request.onsuccess = () => resolve(request.result?.data)
+    })
+  }
+
+  // --- Data Loading Logic ---
+
+  function setCardData(data, source) {
+    allCards.value = data.cards
+    productNames.value = data.filterOptions.productNames
+    traits.value = data.filterOptions.traits
+    rarities.value = data.filterOptions.rarities
+    costRange.value = data.filterOptions.costRange
+    powerRange.value = data.filterOptions.powerRange
+    resetFilters()
+    console.log(`✅ Successfully loaded ${allCards.value.length} cards from ${source}`)
+  }
+
+  async function fetchAndStoreData(fileName, version) {
     isLoading.value = true
     error.value = null
-
+    let db
     try {
-      console.log(`📥 載入卡片資料庫: ${fileName}`)
-
+      console.log(`📥 Fetching card database from remote: ${fileName}`)
       const response = await fetch(`/${fileName}`)
       if (!response.ok) {
         throw new Error(`Failed to fetch card database: ${response.statusText}`)
@@ -87,31 +103,83 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
       const compressedBuffer = await response.arrayBuffer()
       const decompressed = inflate(new Uint8Array(compressedBuffer), { to: 'string' })
       const data = JSON.parse(decompressed)
-      allCards.value = data.cards
 
-      console.log(`✅ 載入 ${allCards.value.length} 張卡片`)
+      db = await openDB()
+      await saveDataToDB(db, data)
+      console.log('💾 Card data has been stored in the local database (IndexedDB)')
 
-      // 設定篩選選項
-      productNames.value = data.filterOptions.productNames
-      traits.value = data.filterOptions.traits
-      rarities.value = data.filterOptions.rarities
-      costRange.value = data.filterOptions.costRange
-      powerRange.value = data.filterOptions.powerRange
-      resetFilters()
+      setCardData(data, 'remote server')
 
-      // 更新本地儲存的版本號
-      if (version) {
-        localStorage.setItem('global_search_index_version', version)
-        console.log(`💾 版本已更新: ${version}`)
-      } else if (data.version) {
-        localStorage.setItem('global_search_index_version', data.version)
-        console.log(`💾 版本已更新: ${data.version}`)
+      localStorage.setItem('global_search_index_version', version)
+      console.log(`📌 Version updated: ${version}`)
+    } catch (e) {
+      console.error('❌ Error loading or saving card data:', e)
+      error.value = e
+      throw e // Re-throw to be caught by initialize
+    } finally {
+      if (db) db.close()
+      isLoading.value = false
+    }
+  }
+
+  async function loadDataFromLocal() {
+    isLoading.value = true
+    let db
+    try {
+      db = await openDB()
+      const cachedData = await loadDataFromDB(db)
+      if (!cachedData) {
+        console.warn('⚠️ Local cache is empty or invalid.')
+        throw new Error('Local cache is empty.') // Trigger fallback
+      }
+      setCardData(cachedData, 'local database (IndexedDB)')
+    } catch (e) {
+      console.error('❌ Failed to load from local database:', e)
+      throw e // Re-throw to be caught by initialize for fallback
+    } finally {
+      if (db) db.close()
+      isLoading.value = false
+    }
+  }
+
+  async function initialize() {
+    console.log('🔍 Checking card database version...')
+    isLoading.value = true
+    error.value = null
+
+    try {
+      const manifestResponse = await fetch('/card-db-manifest.json')
+      if (!manifestResponse.ok) throw new Error('Failed to load manifest file')
+
+      const manifest = await manifestResponse.json()
+      const currentVersion = manifest.version
+      const fileName = manifest.fileName
+      console.log(`📌 Current version: ${currentVersion}`)
+
+      const storedVersion = localStorage.getItem('global_search_index_version')
+      console.log(`📌 Local version: ${storedVersion || 'None'}`)
+
+      if (storedVersion === currentVersion) {
+        console.log('✅ Versions match, trying to load from local database...')
+        try {
+          await loadDataFromLocal()
+        } catch (e) {
+          console.log('↪️ Local load failed, fetching from remote...')
+          await fetchAndStoreData(fileName, currentVersion)
+        }
+      } else {
+        console.log(
+          `🔄 Version mismatch (Local: ${storedVersion || 'None'}, Remote: ${currentVersion}), fetching new data...`
+        )
+        await fetchAndStoreData(fileName, currentVersion)
       }
 
-      console.log('✨ 資料載入完成！')
+      isReady.value = true
+      console.log('✨ Data is ready!')
     } catch (e) {
-      console.error('Error loading card data:', e)
+      console.error('❌ Initialization failed:', e)
       error.value = e
+      isReady.value = false
     } finally {
       isLoading.value = false
     }
@@ -125,7 +193,9 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
       searchResults.value = filteredCards.value.slice(0, 1000)
 
       if (filteredCards.value.length > 1000) {
-        console.warn(`搜尋結果過多 (${filteredCards.value.length})，只顯示前 1000 筆`)
+        console.warn(
+          `Search results are too large (${filteredCards.value.length}), showing only the first 1000`
+        )
       }
     } catch (e) {
       console.error('Search error:', e)
