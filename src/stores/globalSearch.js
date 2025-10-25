@@ -32,7 +32,9 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     resetFilters,
     filteredCards,
     applyFilters, // Extract applyFilters
-  } = useCardFiltering(allCards, productNames, traits, rarities, costRange, powerRange)
+    initializeWorker,
+    terminateWorker,
+  } = useCardFiltering(productNames, traits, rarities, costRange, powerRange)
 
   // --- Search Results ---
   const searchResults = ref([])
@@ -79,7 +81,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
 
   // --- Data Loading Logic ---
 
-  const setCardData = (data, source) => {
+  const setCardData = async (data, source) => {
     allCards.value = data.cards
     productNames.value = data.filterOptions.productNames
     traits.value = data.filterOptions.traits
@@ -87,6 +89,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     costRange.value = data.filterOptions.costRange
     powerRange.value = data.filterOptions.powerRange
     resetFilters()
+    await initializeWorker(data.cards)
     console.log(`✅ Successfully loaded ${allCards.value.length} cards from ${source}`)
   }
 
@@ -109,7 +112,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
       await saveDataToDB(db, data)
       console.log('💾 Card data has been stored in the local database (IndexedDB)')
 
-      setCardData(data, 'remote server')
+      await setCardData(data, 'remote server')
 
       localStorage.setItem('global_search_index_version', version)
       console.log(`📌 Version updated: ${version}`)
@@ -133,7 +136,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
         console.warn('⚠️ Local cache is empty or invalid.')
         throw new Error('Local cache is empty.') // Trigger fallback
       }
-      setCardData(cachedData, 'local database (IndexedDB)')
+      await setCardData(cachedData, 'local database (IndexedDB)')
     } catch (e) {
       console.error('❌ Failed to load from local database:', e)
       throw e // Re-throw to be caught by initialize for fallback
@@ -206,6 +209,15 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     }
   }
 
+  const terminate = () => {
+    terminateWorker()
+    allCards.value = []
+    isReady.value = false
+    searchResults.value = []
+    hasActiveFilters.value = false
+    resetFilters()
+  }
+
   return {
     // State
     isReady,
@@ -235,5 +247,6 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     initialize,
     search,
     resetFilters,
+    terminate,
   }
 })

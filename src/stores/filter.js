@@ -36,7 +36,8 @@ export const useFilterStore = defineStore('filter', () => {
     resetFilters,
     filteredCards,
     terminateWorker, // Extract terminateWorker
-  } = useCardFiltering(allCards, productNames, traits, rarities, costRange, powerRange)
+    initializeWorker,
+  } = useCardFiltering(productNames, traits, rarities, costRange, powerRange)
 
   // --- Actions ---
 
@@ -228,6 +229,7 @@ export const useFilterStore = defineStore('filter', () => {
       costRange.value = fetchedCostRange
       powerRange.value = fetchedPowerRange
       resetFilters()
+      await initializeWorker(fetchedCards)
     } catch (e) {
       console.error('Failed to initialize filter store:', e)
       error.value = e

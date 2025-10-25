@@ -1,9 +1,8 @@
-import { ref, computed, watch, shallowRef, toRaw } from 'vue'
+import { ref, computed, watch, shallowRef, toRaw, onUnmounted } from 'vue'
 import * as Comlink from 'comlink'
 import FilterWorker from '@/workers/filter.worker.js?worker'
 
 export const useCardFiltering = (
-  allCardsRef,
   productNamesRef,
   traitsRef,
   raritiesRef,
@@ -26,6 +25,22 @@ export const useCardFiltering = (
   const filteredCards = computed(() => workerResults.value)
   let workerInstance = null
   let workerApiInstance = null
+
+  const initializeWorker = async (cards) => {
+    // Terminate existing worker if any, to ensure a clean state
+    terminateWorker()
+
+    if (cards && cards.length > 0) {
+      console.log('正在建立並初始化新的 Worker...')
+      workerInstance = new FilterWorker()
+      workerApiInstance = Comlink.wrap(workerInstance)
+      await workerApiInstance.init(toRaw(cards))
+      await applyFilters() // Apply filters immediately after worker is initialized
+    } else {
+      // If no cards, ensure results are empty
+      workerResults.value = []
+    }
+  }
 
   const applyFilters = async () => {
     if (!workerApiInstance) {
@@ -59,34 +74,6 @@ export const useCardFiltering = (
   }
 
   watch(
-    allCardsRef,
-    async (newCards) => {
-      workerResults.value = [] // Explicitly clear results at the start of re-initialization
-
-      // Terminate existing worker if any
-      if (workerInstance) {
-        console.log('正在終止舊 Worker (因 allCardsRef 變更)。')
-        workerInstance.terminate()
-        workerInstance = null
-        workerApiInstance = null
-      }
-
-      if (newCards && newCards.length > 0) {
-        console.log('正在建立並初始化新的 Worker...')
-        workerInstance = new FilterWorker()
-        workerApiInstance = Comlink.wrap(workerInstance)
-        await workerApiInstance.init(toRaw(newCards))
-        await applyFilters() // Apply filters immediately after worker is initialized
-      } else {
-        // If no cards, ensure worker is terminated and results are empty
-        terminateWorker()
-        workerResults.value = []
-      }
-    },
-    { immediate: true }
-  )
-
-  watch(
     [
       keyword,
       selectedCardTypes,
@@ -100,8 +87,8 @@ export const useCardFiltering = (
       selectedPowerRange,
     ],
     async () => {
-      // Only re-filter if allCardsRef has been processed and worker is initialized
-      if (allCardsRef.value && allCardsRef.value.length > 0 && workerApiInstance) {
+      // Only re-filter if worker is initialized
+      if (workerApiInstance) {
         await applyFilters()
       }
     },
@@ -120,6 +107,12 @@ export const useCardFiltering = (
     selectedPowerRange.value = [powerRangeRef.value.min, powerRangeRef.value.max]
   }
 
+  // Automatically terminate the worker when the component using this composable is unmounted.
+  // Note: This will only work if the composable is used within a component's setup context.
+  // It has no effect when used directly inside a Pinia store's setup function,
+  // but it's a good practice for safety and future refactoring.
+  onUnmounted(terminateWorker)
+
   return {
     // State
     keyword,
@@ -137,6 +130,7 @@ export const useCardFiltering = (
     // Actions
     resetFilters,
     terminateWorker,
+    initializeWorker, // Expose initializeWorker
     applyFilters, // Expose applyFilters
   }
 }
