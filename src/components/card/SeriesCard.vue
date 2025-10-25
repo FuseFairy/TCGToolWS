@@ -31,10 +31,7 @@
         <div class="card-content pa-3 pt-1">
           <div
             class="align-center text-caption mb-2 text-truncate"
-            :class="{
-              'text-grey-lighten-2': isLightWithBg,
-              'text-grey-lighten-1': !isLightWithBg,
-            }"
+            :class="isLightWithBg ? 'text-grey-lighten-2' : 'text-grey'"
           >
             <v-icon start size="small">mdi-layers-outline</v-icon>
             {{ seriesData.prefixes.join(', ') }}
