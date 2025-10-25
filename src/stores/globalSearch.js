@@ -1,6 +1,7 @@
 import { defineStore } from 'pinia'
 import { ref } from 'vue'
 import { inflate } from 'pako'
+import { useCardFiltering } from '@/composables/useCardFiltering.js'
 
 export const useGlobalSearchStore = defineStore('globalSearch', () => {
   // --- State ---
@@ -16,35 +17,12 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
   const costRange = ref({ min: 0, max: 0 })
   const powerRange = ref({ min: 0, max: 0 })
 
-  // --- User-selected filter values ---
-  const keyword = ref('')
-  const selectedCardTypes = ref([])
-  const selectedColors = ref([])
-  const selectedProductName = ref(null)
-  const selectedTraits = ref([])
-  const selectedLevels = ref([])
-  const selectedRarities = ref([])
-  const showUniqueCards = ref(false)
-  const selectedCostRange = ref([0, 0])
-  const selectedPowerRange = ref([0, 0])
+  // Use the composable for filtering logic
+  const { keyword, selectedCardTypes, selectedColors, selectedProductName, selectedTraits, selectedLevels, selectedRarities, showUniqueCards, selectedCostRange, selectedPowerRange, resetFilters, filteredCards } = useCardFiltering(allCards, productNames, traits, rarities, costRange, powerRange)
 
   // --- Search Results ---
   const searchResults = ref([])
   const hasActiveFilters = ref(false)
-
-  function resetFilters() {
-    keyword.value = ''
-    selectedCardTypes.value = []
-    selectedColors.value = []
-    selectedProductName.value = null
-    selectedTraits.value = []
-    selectedLevels.value = []
-    selectedRarities.value = []
-    showUniqueCards.value = false
-    selectedCostRange.value = [costRange.value.min, costRange.value.max]
-    selectedPowerRange.value = [powerRange.value.min, powerRange.value.max]
-    hasActiveFilters.value = false
-  }
 
   async function initialize() {
     console.log('🔍 檢查卡片資料庫版本...')
@@ -131,82 +109,10 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     if (!isReady.value || allCards.value.length === 0) return
 
     try {
-      // 準備搜尋關鍵字
-      const query = keyword.value ? keyword.value.toLowerCase() : ''
+      searchResults.value = filteredCards.value.slice(0, 1000)
 
-      // 篩選卡片
-      let results = allCards.value
-
-      // 關鍵字搜尋
-      if (query) {
-        results = results.filter((card) => {
-          const searchableText = `${card.name} ${card.effect || ''} ${card.id} ${card.baseId}`.toLowerCase()
-          return searchableText.includes(query)
-        })
-      }
-
-      // 類型篩選
-      if (selectedCardTypes.value.length > 0) {
-        results = results.filter((c) => selectedCardTypes.value.includes(c.type))
-      }
-
-      // 顏色篩選
-      if (selectedColors.value.length > 0) {
-        results = results.filter((c) => selectedColors.value.includes(c.color))
-      }
-
-      // 產品篩選
-      if (selectedProductName.value) {
-        results = results.filter((c) => c.product_name === selectedProductName.value)
-      }
-
-      // 特性篩選（AND 邏輯）
-      if (selectedTraits.value.length > 0) {
-        results = results.filter((c) => {
-          if (!Array.isArray(c.trait)) return false
-          return selectedTraits.value.every((t) => c.trait.includes(t))
-        })
-      }
-
-      // 等級篩選
-      if (selectedLevels.value.length > 0) {
-        const toLevel = (level) => (level === '-' ? 0 : +level)
-        const mappedLevels = new Set(selectedLevels.value.map(toLevel))
-        results = results.filter((card) => mappedLevels.has(toLevel(card.level)))
-      }
-
-      // 稀有度篩選
-      if (selectedRarities.value.length > 0) {
-        results = results.filter((c) => selectedRarities.value.includes(c.rarity))
-      }
-
-      // 費用範圍篩選
-      const [minCost, maxCost] = selectedCostRange.value
-      if (minCost !== costRange.value.min || maxCost !== costRange.value.max) {
-        results = results.filter((c) => c.cost >= minCost && c.cost <= maxCost)
-      }
-
-      // 戰力範圍篩選
-      const [minPower, maxPower] = selectedPowerRange.value
-      if (minPower !== powerRange.value.min || maxPower !== powerRange.value.max) {
-        results = results.filter((c) => c.power >= minPower && c.power <= maxPower)
-      }
-
-      // 唯一卡片篩選
-      if (showUniqueCards.value) {
-        const seenBaseIds = new Set()
-        results = results.filter((card) => {
-          if (seenBaseIds.has(card.baseId)) return false
-          seenBaseIds.add(card.baseId)
-          return true
-        })
-      }
-
-      // 限制結果數量以提升效能
-      searchResults.value = results.slice(0, 1000)
-
-      if (results.length > 1000) {
-        console.warn(`搜尋結果過多 (${results.length})，只顯示前 1000 筆`)
+      if (filteredCards.value.length > 1000) {
+        console.warn(`搜尋結果過多 (${filteredCards.value.length})，只顯示前 1000 筆`)
       }
     } catch (e) {
       console.error('Search error:', e)
