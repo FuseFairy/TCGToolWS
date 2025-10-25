@@ -31,6 +31,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     selectedPowerRange,
     resetFilters,
     filteredCards,
+    applyFilters, // Extract applyFilters
   } = useCardFiltering(allCards, productNames, traits, rarities, costRange, powerRange)
 
   // --- Search Results ---
@@ -191,6 +192,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     if (!isReady.value || allCards.value.length === 0) return
 
     try {
+      await applyFilters() // Call applyFilters to ensure filteredCards is up-to-date
       searchResults.value = filteredCards.value.slice(0, 1000)
 
       if (filteredCards.value.length > 1000) {
