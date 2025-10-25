@@ -1,4 +1,7 @@
-import { ref, computed } from 'vue'
+// useCardFiltering.js
+import { ref, computed, watch, onUnmounted, shallowRef, toRaw } from 'vue' // 1. 導入 toRaw
+import * as Comlink from 'comlink'
+import FilterWorker from '@/workers/filter.worker.js?worker'
 
 export const useCardFiltering = (
   allCardsRef,
@@ -8,7 +11,7 @@ export const useCardFiltering = (
   costRangeRef,
   powerRangeRef
 ) => {
-  // User-selected filter values
+  // --- 所有 ref 的定義保持不變 ---
   const keyword = ref('')
   const selectedCardTypes = ref([])
   const selectedColors = ref([])
@@ -19,6 +22,58 @@ export const useCardFiltering = (
   const showUniqueCards = ref(false)
   const selectedCostRange = ref([0, 0])
   const selectedPowerRange = ref([0, 0])
+
+  const workerResults = shallowRef([])
+  const worker = new FilterWorker()
+  const workerApi = Comlink.wrap(worker)
+
+  watch(
+    allCardsRef,
+    (newCards) => {
+      if (newCards && newCards.length > 0) {
+        console.log('正在用新的卡片資料初始化 Worker...')
+        workerApi.init(toRaw(newCards)).then(() => {
+          workerResults.value = newCards
+        })
+      }
+    },
+    { immediate: true }
+  )
+
+  watch(
+    [
+      keyword,
+      selectedCardTypes,
+      selectedColors,
+      selectedProductName,
+      selectedTraits,
+      selectedLevels,
+      selectedRarities,
+      showUniqueCards,
+      selectedCostRange,
+      selectedPowerRange,
+    ],
+    async (values) => {
+      const plainFilters = {
+        keyword: toRaw(values[0]),
+        selectedCardTypes: toRaw(values[1]),
+        selectedColors: toRaw(values[2]),
+        selectedProductName: toRaw(values[3]),
+        selectedTraits: toRaw(values[4]),
+        selectedLevels: toRaw(values[5]),
+        selectedRarities: toRaw(values[6]),
+        showUniqueCards: toRaw(values[7]),
+        selectedCostRange: toRaw(values[8]),
+        selectedPowerRange: toRaw(values[9]),
+      }
+
+      const results = await workerApi.filter(plainFilters)
+      workerResults.value = results
+    },
+    { deep: true }
+  )
+
+  const filteredCards = computed(() => workerResults.value)
 
   const resetFilters = () => {
     keyword.value = ''
@@ -33,81 +88,9 @@ export const useCardFiltering = (
     selectedPowerRange.value = [powerRangeRef.value.min, powerRangeRef.value.max]
   }
 
-  const filteredCards = computed(() => {
-    let filtered = allCardsRef.value
-
-    if (keyword.value) {
-      const lowerCaseKeyword = keyword.value.toLowerCase()
-      filtered = filtered.filter(
-        (card) =>
-          card.baseId.toLowerCase().includes(lowerCaseKeyword) ||
-          card.id.toLowerCase().includes(lowerCaseKeyword) ||
-          (card.effect && card.effect.toLowerCase().includes(lowerCaseKeyword)) ||
-          card.name.toLowerCase().includes(lowerCaseKeyword)
-      )
-    }
-
-    if (selectedCardTypes.value.length > 0) {
-      filtered = filtered.filter((card) => selectedCardTypes.value.includes(card.type))
-    }
-
-    if (selectedColors.value.length > 0) {
-      filtered = filtered.filter((card) => selectedColors.value.includes(card.color))
-    }
-
-    if (selectedProductName.value) {
-      filtered = filtered.filter((card) => card.product_name === selectedProductName.value)
-    }
-
-    if (selectedTraits.value.length > 0) {
-      filtered = filtered.filter((card) =>
-        selectedTraits.value.every((trait) => card.trait && card.trait.includes(trait))
-      )
-    }
-
-    const toLevel = (level) => (level === '-' ? 0 : +level)
-    if (selectedLevels.value.length > 0) {
-      const mappedLevels = new Set(selectedLevels.value.map(toLevel))
-      filtered = filtered.filter((card) => mappedLevels.has(toLevel(card.level)))
-    }
-
-    if (
-      selectedCostRange.value &&
-      (selectedCostRange.value[0] !== costRangeRef.value.min ||
-        selectedCostRange.value[1] !== costRangeRef.value.max)
-    ) {
-      filtered = filtered.filter(
-        (card) => card.cost >= selectedCostRange.value[0] && card.cost <= selectedCostRange.value[1]
-      )
-    }
-
-    if (
-      selectedPowerRange.value &&
-      (selectedPowerRange.value[0] !== powerRangeRef.value.min ||
-        selectedPowerRange.value[1] !== powerRangeRef.value.max)
-    ) {
-      filtered = filtered.filter(
-        (card) =>
-          card.power >= selectedPowerRange.value[0] && card.power <= selectedPowerRange.value[1]
-      )
-    }
-
-    if (selectedRarities.value.length > 0) {
-      filtered = filtered.filter((card) => selectedRarities.value.includes(card.rarity))
-    }
-
-    if (showUniqueCards.value) {
-      const seenBaseIds = new Set()
-      filtered = filtered.filter((card) => {
-        if (seenBaseIds.has(card.baseId)) {
-          return false
-        }
-        seenBaseIds.add(card.baseId)
-        return true
-      })
-    }
-
-    return filtered
+  onUnmounted(() => {
+    console.log('正在終止 Worker。')
+    worker.terminate()
   })
 
   return {
