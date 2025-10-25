@@ -15,6 +15,7 @@ export const convertElementToPng = async (elementId, name) => {
       scale: 2,
       type: 'png',
     }
+
     const result = await snapdom(element, options)
     await result.download({ format: 'png', filename: name })
   } catch (error) {

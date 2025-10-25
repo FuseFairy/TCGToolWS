@@ -1,12 +1,29 @@
 <template>
-  <div id="deck-share-image-content" class="share-content-for-screenshot">
+  <div id="deck-share-image-content" class="share-content-for-screenshot pa-4">
+    <div class="header-section">
+      <div class="left-section">
+        <div class="logo-container">
+          <v-img :src="logoUrl" alt="Logo" width="200" eager transition="false"></v-img>
+        </div>
+
+        <div class="pl-0">
+          <div class="d-flex align-center ga-6">
+            <span class="info-label">卡组名称</span>
+            <span class="info-value">{{ deckName }}</span>
+            <span class="info-label ml-4">卡组代码</span>
+            <span class="info-value">{{ deckKey }}</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="qr-container">
+        <QR :content="shareUrl" :pad="0" class="qr-code" />
+      </div>
+    </div>
+
     <div v-if="sortedAndFlatCardList.length > 0" class="card-grid">
-      <div
-        v-for="item in sortedAndFlatCardList"
-        :key="`${item.id}-${item.cardIdPrefix}`"
-        class="card-item"
-      >
-        <div class="card-container">
+      <div v-for="item in sortedAndFlatCardList" :key="`${item.id}-${item.cardIdPrefix}`">
+        <div class="position-relative">
           <v-img
             :src="useCardImage(item.cardIdPrefix, item.id).value"
             :aspect-ratio="400 / 559"
@@ -29,17 +46,30 @@
 
 <script setup>
 import { useCardImage } from '@/composables/useCardImage.js'
-import { computed, ref, watch } from 'vue'
+import { computed, ref, watch, readonly } from 'vue'
+import { QR } from '@/components/common/QR.js'
+
+import logoUrl from '@/assets/ui/logo.webp'
 
 const props = defineProps({
   deckCards: {
     type: Object,
     required: true,
   },
+  deckKey: {
+    type: String,
+    required: true,
+  },
+  deckName: {
+    type: String,
+    required: true,
+  },
 })
 
+const shareUrl = `${window.location.origin}/share-decks/${props.deckKey}`
+
 const sortedAndFlatCardList = computed(() => {
-  if (!props.deckCards || props.deckCards.size === 0) {
+  if (!props.deckCards || Object.keys(props.deckCards).length === 0) {
     return []
   }
 
@@ -61,7 +91,6 @@ const sortedAndFlatCardList = computed(() => {
     if (card.level === '-') return 0
     return parseInt(card.level, 10) || 0
   }
-
   return cardList.sort((a, b) => {
     const typeOrderA = getTypeOrder(a)
     const typeOrderB = getTypeOrder(b)
@@ -83,6 +112,12 @@ const sortedAndFlatCardList = computed(() => {
 const loadedImagesCount = ref(0)
 
 const totalImages = computed(() => sortedAndFlatCardList.value.length)
+const allImagesLoaded = computed(() => {
+  if (totalImages.value === 0) {
+    return true
+  }
+  return loadedImagesCount.value === totalImages.value
+})
 
 const onImageLoad = () => {
   if (loadedImagesCount.value < totalImages.value) {
@@ -94,32 +129,14 @@ const onImageLoad = () => {
 
 watch(
   () => props.deckCards,
-
   () => {
     loadedImagesCount.value = 0
   },
-
-  { deep: true }
+  { deep: true, immediate: true }
 )
 
-const areAllImagesLoaded = () => {
-  return new Promise((resolve) => {
-    if (totalImages.value === 0 || loadedImagesCount.value === totalImages.value) {
-      return resolve()
-    }
-
-    const unwatch = watch(loadedImagesCount, (newValue) => {
-      if (newValue === totalImages.value) {
-        unwatch()
-
-        resolve()
-      }
-    })
-  })
-}
-
 defineExpose({
-  areAllImagesLoaded,
+  allImagesLoaded: readonly(allImagesLoaded),
 })
 </script>
 
@@ -133,21 +150,57 @@ defineExpose({
   overflow: visible;
   box-sizing: border-box;
   background-color: rgb(255, 255, 255);
+  font-family:
+    'Microsoft JhengHei', 'PingFang TC', 'Heiti TC', 'Noto Sans TC', 'Noto Sans CJK TC', sans-serif;
+  font-weight: 400;
+  color: #000;
+}
+
+.header-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.left-section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.logo-container {
+  flex: 0 0 auto;
+}
+
+.info-label {
+  font-weight: bold;
+  color: #000;
+  font-size: 16px;
+}
+
+.info-value {
+  color: #000;
+  font-size: 16px;
+}
+
+.qr-container {
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.qr-code {
+  width: 80px;
+  aspect-ratio: 1;
 }
 
 .card-grid {
   display: grid;
   grid-template-columns: repeat(8, 1fr);
   gap: 24px 12px;
-  padding: 16px;
-}
-
-.card-item {
-  width: 100%;
-}
-
-.card-container {
-  position: relative;
+  padding-top: 10px;
 }
 
 .quantity-badge {

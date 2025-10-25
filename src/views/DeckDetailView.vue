@@ -96,7 +96,11 @@
                 <v-col v-for="item in group" :key="item.id" cols="4" sm="3" md="2">
                   <v-tooltip :text="item.id" location="top center">
                     <template v-slot:activator="{ props }">
-                      <div v-bind="props" class="card-container deck-detail-card" @click="handleCardClick(item)">
+                      <div
+                        v-bind="props"
+                        class="card-container deck-detail-card"
+                        @click="handleCardClick(item)"
+                      >
                         <v-img
                           :src="useCardImage(item.cardIdPrefix, item.id).value"
                           :aspect-ratio="400 / 559"
@@ -128,7 +132,13 @@
       </div>
     </v-container>
 
-    <DeckShareImage ref="deckShareImageRef" v-if="deck" :deck-cards="cards" />
+    <DeckShareImage
+      ref="deckShareImageRef"
+      v-if="deck"
+      :deck-cards="cards"
+      :deck-key="deckKey"
+      :deck-name="deck.name"
+    />
 
     <v-dialog
       v-if="selectedCardData"
@@ -193,7 +203,7 @@
 </template>
 
 <script setup>
-import { computed, ref, onUnmounted, onMounted } from 'vue'
+import { computed, ref, onUnmounted, onMounted, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { useCardImage } from '@/composables/useCardImage.js'
 import { useDeckEncoder } from '@/composables/useDeckEncoder'
@@ -384,28 +394,42 @@ const handleCardClick = async (item) => {
 }
 
 const deckShareImageRef = ref(null)
+const isGenerationTriggered = ref(false)
 
-const handleDownloadDeckImage = async () => {
+const handleDownloadDeckImage = () => {
   if (!deck.value) {
     triggerSnackbar('无法生成图片，卡组数据缺失。', 'error')
     return
   }
-
+  // 立即启动加载状态，给用户即时反馈
   uiStore.setLoading(true)
-  try {
-    if (deckShareImageRef.value) {
-      await deckShareImageRef.value.areAllImagesLoaded()
-      // Add a small delay to allow the browser to finish painting
-      await new Promise((resolve) => setTimeout(resolve, 300))
-    }
-    await convertElementToPng('deck-share-image-content', deck.value.name.trim())
-  } catch (error) {
-    console.error('生成圖片失敗:', error)
-    triggerSnackbar('生成圖片失敗，請稍後再試。', 'error')
-  } finally {
-    uiStore.setLoading(false)
-  }
+  isGenerationTriggered.value = true
 }
+
+watch(
+  [isGenerationTriggered, () => deckShareImageRef.value?.allImagesLoaded],
+  async ([triggered, loaded]) => {
+    if (triggered && loaded) {
+      try {
+        isGenerationTriggered.value = false
+
+        await new Promise((resolve) => setTimeout(resolve, 300))
+
+        await convertElementToPng('deck-share-image-content', deck.value.name.trim())
+      } catch (error) {
+        console.error('生成圖片失敗:', error)
+        triggerSnackbar('生成图片失败，请稍后再试。', 'error')
+      } finally {
+        uiStore.setLoading(false)
+      }
+    } else if (triggered && !loaded) {
+      console.log('Waiting for images to load...')
+    }
+  },
+  {
+    immediate: false,
+  }
+)
 
 const showBottomSheet = ref(false)
 const selectGroupBy = (value) => {
