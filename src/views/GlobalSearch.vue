@@ -33,7 +33,15 @@
             </v-chip>
           </div>
 
-          <div class="header-right"></div>
+          <div class="header-right">
+            <v-btn
+              v-if="smAndUp"
+              :size="resize"
+              :icon="isTableModeActive ? 'mdi-grid' : 'mdi-grid-large'"
+              variant="text"
+              @click="isTableModeActive = !isTableModeActive"
+            ></v-btn>
+          </div>
         </div>
       </div>
 
@@ -60,6 +68,7 @@
           ref="cardListRef"
           :cards="store.searchResults"
           :header-offset-height="headerOffsetHeight"
+          :is-table-mode-active="isTableModeActive"
           :empty-text="currentEmptyText"
           key="global-search-list"
           margin=" 300"
@@ -135,7 +144,7 @@ const store = useGlobalSearchStore()
 const uiStore = useUIStore()
 const cardListRef = ref(null)
 const headerRef = ref(null)
-const { isFilterOpen } = storeToRefs(uiStore)
+const { isFilterOpen, isTableModeActive } = storeToRefs(uiStore)
 const { hasActiveFilters } = storeToRefs(store)
 const rawHeaderHeight = ref(0)
 const hasBackgroundImage = !!uiStore.backgroundImage
@@ -160,6 +169,12 @@ const observer = new ResizeObserver(([entry]) => {
 watchEffect(() => {
   if (headerRef.value) {
     observer.observe(headerRef.value)
+  }
+})
+
+watch(isTableModeActive, () => {
+  if (cardListRef.value) {
+    cardListRef.value.reset()
   }
 })
 
