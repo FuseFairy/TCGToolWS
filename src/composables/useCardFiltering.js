@@ -1,6 +1,13 @@
 import { ref, computed } from 'vue'
 
-export function useCardFiltering(allCardsRef, productNamesRef, traitsRef, raritiesRef, costRangeRef, powerRangeRef) {
+export function useCardFiltering(
+  allCardsRef,
+  productNamesRef,
+  traitsRef,
+  raritiesRef,
+  costRangeRef,
+  powerRangeRef
+) {
   // User-selected filter values
   const keyword = ref('')
   const selectedCardTypes = ref([])
