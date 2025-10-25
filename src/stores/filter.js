@@ -1,7 +1,8 @@
 import { defineStore } from 'pinia'
-import { ref, computed } from 'vue'
+import { ref } from 'vue'
 import { findSeriesDataFileName } from '@/maps/series-card-map.js'
 import { getAssetsFile } from '@/utils/getAssetsFile.js'
+import { useCardFiltering } from '@/composables/useCardFiltering.js'
 
 const cache = new Map()
 
@@ -20,17 +21,8 @@ export const useFilterStore = defineStore('filter', () => {
   const costRange = ref({ min: 0, max: 0 })
   const powerRange = ref({ min: 0, max: 0 })
 
-  // User-selected filter values
-  const keyword = ref('')
-  const selectedCardTypes = ref([])
-  const selectedColors = ref([])
-  const selectedProductName = ref(null)
-  const selectedTraits = ref([])
-  const selectedLevels = ref([])
-  const selectedRarities = ref([])
-  const showUniqueCards = ref(false)
-  const selectedCostRange = ref([0, 0])
-  const selectedPowerRange = ref([0, 0])
+  // Use the composable for filtering logic
+  const { keyword, selectedCardTypes, selectedColors, selectedProductName, selectedTraits, selectedLevels, selectedRarities, showUniqueCards, selectedCostRange, selectedPowerRange, resetFilters, filteredCards } = useCardFiltering(allCards, productNames, traits, rarities, costRange, powerRange)
 
   // --- Actions ---
 
@@ -230,19 +222,6 @@ export const useFilterStore = defineStore('filter', () => {
     }
   }
 
-  const resetFilters = () => {
-    keyword.value = ''
-    selectedCardTypes.value = []
-    selectedColors.value = []
-    selectedProductName.value = null
-    selectedTraits.value = []
-    selectedLevels.value = []
-    selectedRarities.value = []
-    showUniqueCards.value = false
-    selectedCostRange.value = [costRange.value.min, costRange.value.max]
-    selectedPowerRange.value = [powerRange.value.min, powerRange.value.max]
-  }
-
   const reset = () => {
     allCards.value = []
     productNames.value = []
@@ -252,85 +231,6 @@ export const useFilterStore = defineStore('filter', () => {
     powerRange.value = { min: 0, max: 0 }
     resetFilters()
   }
-
-  // --- Getters ---
-
-  const filteredCards = computed(() => {
-    let filtered = allCards.value
-
-    if (keyword.value) {
-      const lowerCaseKeyword = keyword.value.toLowerCase()
-      filtered = filtered.filter(
-        (card) =>
-          card.baseId.toLowerCase().includes(lowerCaseKeyword) ||
-          card.id.toLowerCase().includes(lowerCaseKeyword) ||
-          (card.effect && card.effect.toLowerCase().includes(lowerCaseKeyword)) ||
-          card.name.toLowerCase().includes(lowerCaseKeyword)
-      )
-    }
-
-    if (selectedCardTypes.value.length > 0) {
-      filtered = filtered.filter((card) => selectedCardTypes.value.includes(card.type))
-    }
-
-    if (selectedColors.value.length > 0) {
-      filtered = filtered.filter((card) => selectedColors.value.includes(card.color))
-    }
-
-    if (selectedProductName.value) {
-      filtered = filtered.filter((card) => card.product_name === selectedProductName.value)
-    }
-
-    if (selectedTraits.value.length > 0) {
-      filtered = filtered.filter((card) =>
-        selectedTraits.value.every((trait) => card.trait && card.trait.includes(trait))
-      )
-    }
-
-    const toLevel = (level) => (level === '-' ? 0 : +level)
-    if (selectedLevels.value.length > 0) {
-      const mappedLevels = new Set(selectedLevels.value.map(toLevel))
-      filtered = filtered.filter((card) => mappedLevels.has(toLevel(card.level)))
-    }
-
-    if (
-      selectedCostRange.value &&
-      (selectedCostRange.value[0] !== costRange.value.min ||
-        selectedCostRange.value[1] !== costRange.value.max)
-    ) {
-      filtered = filtered.filter(
-        (card) => card.cost >= selectedCostRange.value[0] && card.cost <= selectedCostRange.value[1]
-      )
-    }
-
-    if (
-      selectedPowerRange.value &&
-      (selectedPowerRange.value[0] !== powerRange.value.min ||
-        selectedPowerRange.value[1] !== powerRange.value.max)
-    ) {
-      filtered = filtered.filter(
-        (card) =>
-          card.power >= selectedPowerRange.value[0] && card.power <= selectedPowerRange.value[1]
-      )
-    }
-
-    if (selectedRarities.value.length > 0) {
-      filtered = filtered.filter((card) => selectedRarities.value.includes(card.rarity))
-    }
-
-    if (showUniqueCards.value) {
-      const seenBaseIds = new Set()
-      filtered = filtered.filter((card) => {
-        if (seenBaseIds.has(card.baseId)) {
-          return false
-        }
-        seenBaseIds.add(card.baseId)
-        return true
-      })
-    }
-
-    return filtered
-  })
 
   return {
     // State
