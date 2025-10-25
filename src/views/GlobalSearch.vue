@@ -11,7 +11,7 @@
             <v-btn
               v-if="smAndUp"
               :size="resize"
-              :icon="filterIcon"
+              :icon="searchIcon"
               variant="text"
               @click="isFilterOpen = !isFilterOpen"
             ></v-btn>
@@ -22,7 +22,7 @@
               class="text-h6 text-sm-h5 text-truncate text-center px-2 flex-grow-1"
               style="min-width: 0"
             >
-              全域搜尋
+              全域搜寻
             </h1>
             <v-chip
               :size="resize"
@@ -145,6 +145,7 @@ const resize = computed(() => {
 })
 
 const filterIcon = computed(() => (isFilterOpen.value ? 'mdi-filter-off' : 'mdi-filter'))
+const searchIcon = computed(() => (isFilterOpen.value ? 'mdi-layers-search-outline' : 'mdi-layers-search'))
 const headerOffsetHeight = computed(() => rawHeaderHeight.value)
 
 const observer = new ResizeObserver(([entry]) => {
