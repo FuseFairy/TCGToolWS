@@ -275,11 +275,15 @@ onMounted(() => {
     // Fallback if the ref isn't available for some reason
     scrollContainer.value = document.documentElement
   }
+})
 
-  // Get reference to grid element
-  nextTick(() => {
-    gridElement.value = infiniteScrollRef.value?.$el?.querySelector('.card-grid-container')
-  })
+// Watch infiniteScrollRef to ensure gridElement is set when the component becomes available
+watch(infiniteScrollRef, (newValue) => {
+  if (newValue) {
+    nextTick(() => {
+      gridElement.value = newValue.$el?.querySelector('.card-grid-container')
+    })
+  }
 })
 
 onUnmounted(() => {
