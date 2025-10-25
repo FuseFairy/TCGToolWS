@@ -132,7 +132,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
 
     try {
       // 準備搜尋關鍵字
-      const query = keyword.value ? deburr(keyword.value.toLowerCase()) : ''
+      const query = keyword.value ? keyword.value.toLowerCase() : ''
 
       // 篩選卡片
       let results = allCards.value
@@ -140,9 +140,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
       // 關鍵字搜尋
       if (query) {
         results = results.filter((card) => {
-          const searchableText = deburr(
-            `${card.name} ${card.effect || ''} ${card.id} ${card.baseId}`.toLowerCase()
-          )
+          const searchableText = `${card.name} ${card.effect || ''} ${card.id} ${card.baseId}`.toLowerCase()
           return searchableText.includes(query)
         })
       }
