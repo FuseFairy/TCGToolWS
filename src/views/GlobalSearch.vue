@@ -359,6 +359,7 @@ watch(
 
 onUnmounted(() => {
   observer.disconnect()
+  globalSearchStore.terminate()
 })
 
 const storageKey = computed(() => `globalSearchViewState`)
