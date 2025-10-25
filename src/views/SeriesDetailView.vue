@@ -70,9 +70,10 @@
       <div class="d-flex flex-row overflow-hidden fill-height" style="position: relative">
         <template v-if="smAndUp">
           <div class="sidebar-container" :class="{ 'left-sidebar-open': isFilterOpen }">
-            <FilterSidebar
+            <BaseFilterSidebar
               class="fill-height pl-4 pb-4"
               :header-offset-height="headerOffsetHeight"
+              :filterStore="filterStore"
             />
           </div>
         </template>
@@ -149,11 +150,12 @@
               'overflow-y': sheetContent === 'deck' ? 'hidden' : 'auto',
             }"
           >
-            <FilterSidebar
+            <BaseFilterSidebar
               v-if="sheetContent === 'filter'"
               :header-offset-height="0"
               class="px-4"
               transparent
+              :filterStore="filterStore"
             />
             <DeckSidebar
               v-if="sheetContent === 'deck'"
@@ -179,8 +181,9 @@ import { useFilterStore } from '@/stores/filter'
 import { useUIStore } from '@/stores/ui'
 import { useInfiniteScrollState } from '@/composables/useInfiniteScrollState.js'
 import CardInfiniteScrollList from '@/components/card/CardInfiniteScrollList.vue'
-import FilterSidebar from '@/components/ui/FilterSidebar.vue'
+import BaseFilterSidebar from '@/components/base/BaseFilterSidebar.vue'
 import DeckSidebar from '@/components/ui/DeckSidebar.vue'
+import { useBottomSheet } from '@/composables/useBottomSheet.js'
 
 const props = defineProps({
   seriesId: {
@@ -205,6 +208,8 @@ const headerOffsetHeight = computed(() => rawHeaderHeight.value)
 const listRef = ref(null)
 const hasBackgroundImage = !!uiStore.backgroundImage
 
+const { sheetContent, isSheetOpen, sheetHeight, startDrag } = useBottomSheet()
+
 const observer = new ResizeObserver(([entry]) => {
   if (entry && entry.target) {
     rawHeaderHeight.value = entry.target.offsetHeight
@@ -217,61 +222,10 @@ watchEffect(() => {
   }
 })
 
-// --- Mobile & Tablet specific logic ---
-const sheetContent = ref(null) // Can be 'filter' or 'deck'
-const isSheetOpen = computed({
-  get: () => sheetContent.value !== null,
-  set: (value) => {
-    if (!value) {
-      sheetContent.value = null
-    }
-  },
-})
-
 const sheetTitle = computed(() => {
   if (sheetContent.value === 'filter') return '筛选'
   if (sheetContent.value === 'deck') return '卡组'
   return ''
-})
-
-const sheetHeight = ref(window.innerHeight * 0.4)
-const isDragging = ref(false)
-let startY = 0
-let initialHeight = 0
-
-const startDrag = (event) => {
-  isDragging.value = true
-  const touch = event.touches ? event.touches[0] : event
-  startY = touch.clientY
-  initialHeight = sheetHeight.value
-  window.addEventListener('mousemove', onDrag)
-  window.addEventListener('touchmove', onDrag)
-  window.addEventListener('mouseup', stopDrag)
-  window.addEventListener('touchend', stopDrag)
-}
-
-const onDrag = (event) => {
-  if (!isDragging.value) return
-  const touch = event.touches ? event.touches[0] : event
-  const deltaY = startY - touch.clientY
-  const newHeight = initialHeight + deltaY
-  const maxHeight = window.innerHeight * 0.9
-  const minHeight = window.innerHeight * 0.2
-  sheetHeight.value = Math.max(minHeight, Math.min(newHeight, maxHeight))
-}
-
-const stopDrag = () => {
-  isDragging.value = false
-  window.removeEventListener('mousemove', onDrag)
-  window.removeEventListener('touchmove', onDrag)
-  window.removeEventListener('mouseup', stopDrag)
-  window.removeEventListener('touchend', stopDrag)
-}
-
-watch(isSheetOpen, (isOpen) => {
-  if (isOpen) {
-    sheetHeight.value = window.innerHeight * 0.4
-  }
 })
 
 watch(isFilterOpen, (newValue) => {
