@@ -97,8 +97,6 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     if (!isReady.value || allCards.value.length === 0) return
 
     try {
-      const { deburr } = await import('lodash-es')
-
       // 準備搜尋關鍵字
       const query = keyword.value ? deburr(keyword.value.toLowerCase()) : ''
 

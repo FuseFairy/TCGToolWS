@@ -120,7 +120,7 @@ import { useUIStore } from '@/stores/ui'
 import { useInfiniteScrollState } from '@/composables/useInfiniteScrollState.js'
 import GlobalFilterSidebar from '@/components/search/GlobalFilterSidebar.vue'
 import CardInfiniteScrollList from '@/components/card/CardInfiniteScrollList.vue'
-import { debounce } from 'lodash-es'
+
 
 const store = useGlobalSearchStore()
 const uiStore = useUIStore()
@@ -218,13 +218,6 @@ onMounted(() => {
   store.initialize()
 })
 
-const debouncedSearch = debounce(async () => {
-  if (store.isReady) {
-    await store.search()
-    cardListRef.value?.reset()
-  }
-}, 300)
-
 watch(
   [
     () => store.keyword,
@@ -238,7 +231,12 @@ watch(
     () => store.selectedCostRange,
     () => store.selectedPowerRange,
   ],
-  debouncedSearch,
+  async () => {
+    if (store.isReady) {
+      await store.search()
+      cardListRef.value?.reset()
+    }
+  },
   { deep: true }
 )
 
