@@ -47,11 +47,19 @@
           </div>
         </template>
 
+        <v-container
+          v-if="displayEmptySearchMessage"
+          class="d-flex align-center justify-center text-grey h-100 w-100"
+        >
+          {{ currentEmptyText }}
+        </v-container>
+
         <CardInfiniteScrollList
+          v-else
           ref="cardListRef"
           :cards="store.searchResults"
           :header-offset-height="headerOffsetHeight"
-          empty-text="~沒有找到符合條件的卡片~"
+          :empty-text="currentEmptyText"
           key="global-search-list"
           margin=" 300"
           class="flex-grow-1 themed-scrollbar pl-4 pr-4"
@@ -128,6 +136,7 @@ const cardListRef = ref(null)
 const headerRef = ref(null)
 const { smAndUp, lgAndUp } = useDisplay()
 const { isFilterOpen } = storeToRefs(uiStore)
+const { hasActiveFilters } = storeToRefs(store)
 const rawHeaderHeight = ref(0)
 const hasBackgroundImage = !!uiStore.backgroundImage
 
@@ -170,6 +179,11 @@ const sheetHeight = ref(window.innerHeight * 0.4)
 const isDragging = ref(false)
 let startY = 0
 let initialHeight = 0
+
+const displayEmptySearchMessage = computed(() => !hasActiveFilters.value && !store.isLoading)
+const currentEmptyText = computed(() =>
+  displayEmptySearchMessage.value ? '请输入关键字或选择筛选条件以开始搜寻' : '~没有找到符合条件的卡片~'
+)
 
 const startDrag = (event) => {
   isDragging.value = true
@@ -231,9 +245,31 @@ watch(
     () => store.selectedCostRange,
     () => store.selectedPowerRange,
   ],
-  async () => {
-    if (store.isReady) {
+  async (
+    [newKeyword, newCardTypes, newColors, newProductName, newTraits, newLevels, newRarities, newShowUniqueCards, newCostRange, newPowerRange],
+    [oldKeyword, oldCardTypes, oldColors, oldProductName, oldTraits, oldLevels, oldRarities, oldShowUniqueCards, oldCostRange, oldPowerRange]
+  ) => {
+    // 檢查是否有任何篩選條件被設定或關鍵字不為空
+    const hasAnyActiveFilters = [
+      newKeyword !== '',
+      newCardTypes.length > 0,
+      newColors.length > 0,
+      newProductName !== null,
+      newTraits.length > 0,
+      newLevels.length > 0,
+      newRarities.length > 0,
+      newShowUniqueCards === true,
+      newCostRange[0] !== store.costRange.min || newCostRange[1] !== store.costRange.max,
+      newPowerRange[0] !== store.powerRange.min || newPowerRange[1] !== store.powerRange.max,
+    ].some(Boolean)
+
+    if (store.isReady && hasAnyActiveFilters) {
       await store.search()
+      cardListRef.value?.reset()
+    } else if (!hasAnyActiveFilters) {
+      // 如果沒有任何篩選條件，清空搜尋結果並重置 hasActiveFilters
+      store.searchResults = []
+      store.hasActiveFilters = false
       cardListRef.value?.reset()
     }
   },

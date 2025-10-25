@@ -30,6 +30,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
 
   // --- Search Results ---
   const searchResults = ref([])
+  const hasActiveFilters = ref(false)
 
   function resetFilters() {
     keyword.value = ''
@@ -42,6 +43,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     showUniqueCards.value = false
     selectedCostRange.value = [costRange.value.min, costRange.value.max]
     selectedPowerRange.value = [powerRange.value.min, powerRange.value.max]
+    hasActiveFilters.value = false
   }
 
   async function initialize() {
@@ -125,6 +127,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
   }
 
   async function search() {
+    hasActiveFilters.value = true
     if (!isReady.value || allCards.value.length === 0) return
 
     try {
@@ -237,6 +240,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     selectedPowerRange,
     // Results
     searchResults,
+    hasActiveFilters,
     // Actions
     initialize,
     search,
