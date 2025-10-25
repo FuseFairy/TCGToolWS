@@ -245,10 +245,7 @@ watch(
     () => store.selectedCostRange,
     () => store.selectedPowerRange,
   ],
-  async (
-    [newKeyword, newCardTypes, newColors, newProductName, newTraits, newLevels, newRarities, newShowUniqueCards, newCostRange, newPowerRange],
-    [oldKeyword, oldCardTypes, oldColors, oldProductName, oldTraits, oldLevels, oldRarities, oldShowUniqueCards, oldCostRange, oldPowerRange]
-  ) => {
+  async ([newKeyword, newCardTypes, newColors, newProductName, newTraits, newLevels, newRarities, newShowUniqueCards, newCostRange, newPowerRange]) => {
     // 檢查是否有任何篩選條件被設定或關鍵字不為空
     const hasAnyActiveFilters = [
       newKeyword !== '',
