@@ -187,7 +187,7 @@ try {
 }
 
 // 使用帶 hash 的檔名
-const outputFileName = `all_cards_db.${hash}.json.gz`
+const outputFileName = `all_cards_db.${hash}.bin`
 const outputFilePath = path.join(OUTPUT_DIR, outputFileName)
 
 // 寫入卡片資料檔案 (gzip 壓縮)
@@ -220,7 +220,7 @@ console.log(`     - Manifest file created: ${MANIFEST_FILE}`)
 // 清理舊的帶 hash 的檔案
 const oldFiles = fs
   .readdirSync(OUTPUT_DIR)
-  .filter((f) => f.startsWith('all_cards_db.') && f.endsWith('.json.gz') && f !== outputFileName)
+  .filter((f) => f.startsWith('all_cards_db.') && f.endsWith('.bin') && f !== outputFileName)
 
 oldFiles.forEach((oldFile) => {
   const oldFilePath = path.join(OUTPUT_DIR, oldFile)
