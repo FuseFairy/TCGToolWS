@@ -53,4 +53,5 @@ icon_crawler.py
 
 .wrangler/
 
-public/all_cards_db.json
+public/all_cards_db.*.json
+public/card-db-manifest.json

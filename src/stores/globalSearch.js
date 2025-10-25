@@ -44,28 +44,56 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
   }
 
   async function initialize() {
-    const CURRENT_VERSION = 'v1.0.0'
-    const storedVersion = localStorage.getItem('global_search_index_version')
+    console.log('🔍 檢查卡片資料庫版本...')
 
-    if (storedVersion !== CURRENT_VERSION) {
-      console.log('Global search index not found or outdated. Building...')
-      await loadData()
-    } else {
-      console.log('Loading global search data...')
-      await loadData()
+    try {
+      // 載入 manifest 檔案以取得當前版本
+      const manifestResponse = await fetch('/card-db-manifest.json')
+      if (!manifestResponse.ok) {
+        throw new Error('無法載入 manifest 檔案')
+      }
+
+      const manifest = await manifestResponse.json()
+      const currentVersion = manifest.version
+      const fileName = manifest.fileName
+
+      console.log(`📌 當前版本: ${currentVersion}`)
+
+      // 檢查本地儲存的版本
+      const storedVersion = localStorage.getItem('global_search_index_version')
+
+      if (storedVersion !== currentVersion) {
+        console.log(
+          `🔄 版本不同 (本地: ${storedVersion || '無'}, 遠端: ${currentVersion})，重新載入資料...`
+        )
+        await loadData(fileName, currentVersion)
+      } else {
+        console.log('✅ 版本相同，載入資料...')
+        await loadData(fileName, currentVersion)
+      }
+
+      isReady.value = true
+    } catch (e) {
+      console.error('❌ 初始化失敗:', e)
+      error.value = e
+      // 嘗試使用預設檔名作為後備方案
+      try {
+        await loadData('all_cards_db.json', null)
+        isReady.value = true
+      } catch (fallbackError) {
+        console.error('❌ 後備載入失敗:', fallbackError)
+      }
     }
-
-    isReady.value = true
   }
 
-  async function loadData() {
+  async function loadData(fileName, version) {
     isLoading.value = true
     error.value = null
 
     try {
-      console.log('📥 載入卡片資料庫...')
+      console.log(`📥 載入卡片資料庫: ${fileName}`)
 
-      const response = await fetch('/all_cards_db.json')
+      const response = await fetch(`/${fileName}`)
       if (!response.ok) {
         throw new Error(`Failed to fetch card database: ${response.statusText}`)
       }
@@ -83,7 +111,15 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
       powerRange.value = data.filterOptions.powerRange
       resetFilters()
 
-      localStorage.setItem('global_search_index_version', data.version)
+      // 更新本地儲存的版本號
+      if (version) {
+        localStorage.setItem('global_search_index_version', version)
+        console.log(`💾 版本已更新: ${version}`)
+      } else if (data.version) {
+        localStorage.setItem('global_search_index_version', data.version)
+        console.log(`💾 版本已更新: ${data.version}`)
+      }
+
       console.log('✨ 資料載入完成！')
     } catch (e) {
       console.error('Error loading card data:', e)
