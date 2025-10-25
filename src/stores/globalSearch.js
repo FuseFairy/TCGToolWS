@@ -18,7 +18,20 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
   const powerRange = ref({ min: 0, max: 0 })
 
   // Use the composable for filtering logic
-  const { keyword, selectedCardTypes, selectedColors, selectedProductName, selectedTraits, selectedLevels, selectedRarities, showUniqueCards, selectedCostRange, selectedPowerRange, resetFilters, filteredCards } = useCardFiltering(allCards, productNames, traits, rarities, costRange, powerRange)
+  const {
+    keyword,
+    selectedCardTypes,
+    selectedColors,
+    selectedProductName,
+    selectedTraits,
+    selectedLevels,
+    selectedRarities,
+    showUniqueCards,
+    selectedCostRange,
+    selectedPowerRange,
+    resetFilters,
+    filteredCards,
+  } = useCardFiltering(allCards, productNames, traits, rarities, costRange, powerRange)
 
   // --- Search Results ---
   const searchResults = ref([])

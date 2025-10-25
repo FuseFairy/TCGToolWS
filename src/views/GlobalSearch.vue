@@ -129,7 +129,6 @@ import { useInfiniteScrollState } from '@/composables/useInfiniteScrollState.js'
 import GlobalFilterSidebar from '@/components/search/GlobalFilterSidebar.vue'
 import CardInfiniteScrollList from '@/components/card/CardInfiniteScrollList.vue'
 
-
 const store = useGlobalSearchStore()
 const uiStore = useUIStore()
 const cardListRef = ref(null)
@@ -144,7 +143,9 @@ const resize = computed(() => {
   return smAndUp.value ? 'default' : 'x-small'
 })
 
-const searchIcon = computed(() => (isFilterOpen.value ? 'mdi-layers-search-outline' : 'mdi-layers-search'))
+const searchIcon = computed(() =>
+  isFilterOpen.value ? 'mdi-layers-search-outline' : 'mdi-layers-search'
+)
 const headerOffsetHeight = computed(() => rawHeaderHeight.value)
 
 const observer = new ResizeObserver(([entry]) => {
@@ -182,7 +183,9 @@ let initialHeight = 0
 
 const displayEmptySearchMessage = computed(() => !hasActiveFilters.value && !store.isLoading)
 const currentEmptyText = computed(() =>
-  displayEmptySearchMessage.value ? '请输入关键字或选择筛选条件以开始搜寻' : '~没有找到符合条件的卡片~'
+  displayEmptySearchMessage.value
+    ? '请输入关键字或选择筛选条件以开始搜寻'
+    : '~没有找到符合条件的卡片~'
 )
 
 const startDrag = (event) => {
@@ -245,7 +248,18 @@ watch(
     () => store.selectedCostRange,
     () => store.selectedPowerRange,
   ],
-  async ([newKeyword, newCardTypes, newColors, newProductName, newTraits, newLevels, newRarities, newShowUniqueCards, newCostRange, newPowerRange]) => {
+  async ([
+    newKeyword,
+    newCardTypes,
+    newColors,
+    newProductName,
+    newTraits,
+    newLevels,
+    newRarities,
+    newShowUniqueCards,
+    newCostRange,
+    newPowerRange,
+  ]) => {
     // 檢查是否有任何篩選條件被設定或關鍵字不為空
     const hasAnyActiveFilters = [
       newKeyword !== '',
