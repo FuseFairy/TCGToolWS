@@ -70,7 +70,7 @@
       <div v-if="!smAndUp" style="height: 0px; overflow-y: hidden">
         <div class="fab-bottom-left-container d-flex ga-3">
           <v-btn
-            icon="mdi-filter"
+            icon="mdi-layers-search"
             size="large"
             color="primary"
             class="opacity-90"
@@ -144,7 +144,6 @@ const resize = computed(() => {
   return smAndUp.value ? 'default' : 'x-small'
 })
 
-const filterIcon = computed(() => (isFilterOpen.value ? 'mdi-filter-off' : 'mdi-filter'))
 const searchIcon = computed(() => (isFilterOpen.value ? 'mdi-layers-search-outline' : 'mdi-layers-search'))
 const headerOffsetHeight = computed(() => rawHeaderHeight.value)
 
@@ -172,7 +171,7 @@ const isSheetOpen = computed({
 })
 
 const sheetTitle = computed(() => {
-  if (sheetContent.value === 'filter') return '筛选'
+  if (sheetContent.value === 'filter') return '搜寻'
   return ''
 })
 
