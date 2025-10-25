@@ -1,12 +1,14 @@
 import fs from 'fs'
 import path from 'path'
+import crypto from 'crypto'
 import { fileURLToPath } from 'url'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
 const CARD_DATA_DIR = path.join(__dirname, '../src/assets/card-data')
-const OUTPUT_FILE = path.join(__dirname, '../public/all_cards_db.json')
+const OUTPUT_DIR = path.join(__dirname, '../public')
+const MANIFEST_FILE = path.join(OUTPUT_DIR, 'card-db-manifest.json')
 
 console.log('🔍 開始建立卡片索引...')
 
@@ -152,28 +154,69 @@ const filterOptions = {
 }
 
 // 建立最終輸出
+const timestamp = new Date().toISOString()
 const output = {
-  version: 'v1.0.0',
-  timestamp: new Date().toISOString(),
+  timestamp,
   filterOptions,
   cards: allCards,
 }
 
+// 計算內容 hash
+const content = JSON.stringify(output)
+const hash = crypto.createHash('sha256').update(content).digest('hex').substring(0, 8)
+const version = `v${hash}`
+
+// 加入版本號到輸出
+output.version = version
+
+console.log(`🔐 內容 Hash: ${hash}`)
+console.log(`📌 版本號: ${version}`)
+
 // 確保 public 資料夾存在
-const publicDir = path.dirname(OUTPUT_FILE)
-if (!fs.existsSync(publicDir)) {
-  fs.mkdirSync(publicDir, { recursive: true })
+if (!fs.existsSync(OUTPUT_DIR)) {
+  fs.mkdirSync(OUTPUT_DIR, { recursive: true })
 }
 
-// 寫入檔案
-fs.writeFileSync(OUTPUT_FILE, JSON.stringify(output))
-const fileSize = (fs.statSync(OUTPUT_FILE).size / 1024 / 1024).toFixed(2)
-console.log(`💾 索引檔案已建立: ${OUTPUT_FILE}`)
+// 使用帶 hash 的檔名
+const outputFileName = `all_cards_db.${hash}.json`
+const outputFilePath = path.join(OUTPUT_DIR, outputFileName)
+
+// 寫入卡片資料檔案
+fs.writeFileSync(outputFilePath, JSON.stringify(output))
+const fileSize = (fs.statSync(outputFilePath).size / 1024 / 1024).toFixed(2)
+
+console.log(`💾 索引檔案已建立: ${outputFilePath}`)
 console.log(`📊 檔案大小: ${fileSize} MB`)
-console.log(`📋 篩選選項:`)
-console.log(`   - 產品: ${filterOptions.productNames.length} 個`)
-console.log(`   - 特性: ${filterOptions.traits.length} 個`)
-console.log(`   - 稀有度: ${filterOptions.rarities.length} 個`)
-console.log(`   - 費用範圍: ${filterOptions.costRange.min} - ${filterOptions.costRange.max}`)
-console.log(`   - 戰力範圍: ${filterOptions.powerRange.min} - ${filterOptions.powerRange.max}`)
+
+// 建立 manifest 檔案
+const manifest = {
+  version,
+  hash,
+  timestamp,
+  fileName: outputFileName,
+  fileSize: `${fileSize} MB`,
+  cardCount,
+  filterOptions: {
+    productCount: filterOptions.productNames.length,
+    traitCount: filterOptions.traits.length,
+    rarityCount: filterOptions.rarities.length,
+    costRange: filterOptions.costRange,
+    powerRange: filterOptions.powerRange,
+  },
+}
+
+fs.writeFileSync(MANIFEST_FILE, JSON.stringify(manifest, null, 2))
+console.log(`📝 Manifest 檔案已建立: ${MANIFEST_FILE}`)
+
+// 清理舊的帶 hash 的檔案
+const oldFiles = fs
+  .readdirSync(OUTPUT_DIR)
+  .filter((f) => f.startsWith('all_cards_db.') && f.endsWith('.json') && f !== outputFileName)
+
+oldFiles.forEach((oldFile) => {
+  const oldFilePath = path.join(OUTPUT_DIR, oldFile)
+  fs.unlinkSync(oldFilePath)
+  console.log(`🗑️  已刪除舊檔案: ${oldFile}`)
+})
+
 console.log('✨ 完成！')
