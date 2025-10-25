@@ -201,6 +201,10 @@ export const useDeckStore = defineStore(
       }
 
       delete savedDecks.value[key]
+
+      if (storeKey.value === key) {
+        clearEditingInfo()
+      }
     }
 
     return {

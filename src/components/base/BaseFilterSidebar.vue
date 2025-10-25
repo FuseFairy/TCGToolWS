@@ -60,16 +60,16 @@
           variant="outlined"
         ></v-select>
 
-        <v-select
+        <v-autocomplete
           label="产品"
           :items="filterStore.productNames"
           hide-details
           clearable
           v-model="filterStore.selectedProductName"
           variant="outlined"
-        ></v-select>
+        ></v-autocomplete>
 
-        <v-select
+        <v-autocomplete
           label="稀有度"
           :items="filterStore.rarities"
           hide-details
@@ -78,9 +78,9 @@
           clearable
           v-model="filterStore.selectedRarities"
           variant="outlined"
-        ></v-select>
+        ></v-autocomplete>
 
-        <v-select
+        <v-autocomplete
           label="特征"
           :items="filterStore.traits"
           hide-details
@@ -89,7 +89,7 @@
           clearable
           v-model="filterStore.selectedTraits"
           variant="outlined"
-        ></v-select>
+        ></v-autocomplete>
 
         <v-select
           label="等级"
@@ -133,6 +133,8 @@
 <script setup>
 import { useDisplay } from 'vuetify'
 import { useUIStore } from '@/stores/ui'
+import { useFilterStore } from '@/stores/filter'
+import { useGlobalSearchStore } from '@/stores/globalSearch'
 
 const props = defineProps({
   headerOffsetHeight: {
@@ -143,15 +145,16 @@ const props = defineProps({
     type: Boolean,
     default: false,
   },
-  filterStore: {
-    type: Object,
-    required: true,
+  globalFilter: {
+    type: Boolean,
+    default: false,
   },
 })
 
 const { smAndUp } = useDisplay()
 const uiStore = useUIStore()
 const hasBackgroundImage = !!uiStore.backgroundImage
+const filterStore = props.globalFilter ? useGlobalSearchStore() : useFilterStore()
 </script>
 
 <style scoped></style>

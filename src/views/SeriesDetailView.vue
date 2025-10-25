@@ -73,7 +73,6 @@
             <BaseFilterSidebar
               class="fill-height pl-4 pb-4"
               :header-offset-height="headerOffsetHeight"
-              :filterStore="filterStore"
             />
           </div>
         </template>
@@ -155,7 +154,6 @@
               :header-offset-height="0"
               class="px-4"
               transparent
-              :filterStore="filterStore"
             />
             <DeckSidebar
               v-if="sheetContent === 'deck'"
