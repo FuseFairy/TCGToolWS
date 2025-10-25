@@ -35,6 +35,7 @@ export const useFilterStore = defineStore('filter', () => {
     selectedPowerRange,
     resetFilters,
     filteredCards,
+    terminateWorker, // Extract terminateWorker
   } = useCardFiltering(allCards, productNames, traits, rarities, costRange, powerRange)
 
   // --- Actions ---
@@ -236,6 +237,7 @@ export const useFilterStore = defineStore('filter', () => {
   }
 
   const reset = () => {
+    terminateWorker() // Terminate worker when store is reset
     allCards.value = []
     productNames.value = []
     traits.value = []

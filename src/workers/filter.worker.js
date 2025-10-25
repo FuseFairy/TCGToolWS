@@ -34,10 +34,8 @@ const CardFilterService = {
     let results = this.allCards
 
     // 使用 Fuse.js 進行高效能的關鍵字搜索
-    if (filters.keyword && filters.keyword.length >= 2 && this.fuse) {
+    if (filters.keyword && this.fuse) {
       results = this.fuse.search(filters.keyword).map((result) => result.item)
-    } else if (filters.keyword) {
-      return []
     }
 
     // 在縮小範圍後的結果上，執行合併迴圈的精確篩選
