@@ -10,11 +10,11 @@ const CARD_DATA_DIR = path.join(__dirname, '../src/assets/card-data')
 const OUTPUT_DIR = path.join(__dirname, '../public')
 const MANIFEST_FILE = path.join(OUTPUT_DIR, 'card-db-manifest.json')
 
-console.log('🔍 開始建立卡片索引...')
+console.log('🔍 Starting to build card index...')
 
 // 讀取所有 JSON 檔案
 const files = fs.readdirSync(CARD_DATA_DIR).filter((f) => f.endsWith('.json'))
-console.log(`📁 找到 ${files.length} 個卡片資料檔案`)
+console.log(`📁 Found ${files.length} card data files.`)
 
 const allCards = []
 let cardCount = 0
@@ -67,10 +67,10 @@ files.forEach((filename) => {
   }
 })
 
-console.log(`✅ 共處理 ${cardCount} 張卡片`)
+console.log(`Processed a total of ${cardCount} cards.`)
 
 // 處理卡片連結（效果文字中提到的其他卡片）
-console.log('🔗 處理卡片連結...')
+console.log('Processing card links...')
 
 allCards.forEach((card) => (card.link = []))
 
@@ -154,9 +154,7 @@ const filterOptions = {
 }
 
 // 建立最終輸出
-const timestamp = new Date().toISOString()
 const output = {
-  timestamp,
   filterOptions,
   cards: allCards,
 }
@@ -169,13 +167,16 @@ const version = `v${hash}`
 // 加入版本號到輸出
 output.version = version
 
-console.log(`🔐 內容 Hash: ${hash}`)
-console.log(`📌 版本號: ${version}`)
+console.log(`🔐 Content Hash: ${hash}`)
 
-// 確保 public 資料夾存在
-if (!fs.existsSync(OUTPUT_DIR)) {
-  fs.mkdirSync(OUTPUT_DIR, { recursive: true })
+// 檢測內容變化，並判斷是否需要重新產生檔案
+const nowManifest = JSON.parse(fs.readFileSync(MANIFEST_FILE, 'utf-8'))
+const currentVersion = nowManifest.version
+if (version == currentVersion) { 
+  console.log('⏭️ The content has not changed, skip the remaining steps...')
+  process.exit(0)
 }
+
 
 // 使用帶 hash 的檔名
 const outputFileName = `all_cards_db.${hash}.json`
@@ -185,14 +186,13 @@ const outputFilePath = path.join(OUTPUT_DIR, outputFileName)
 fs.writeFileSync(outputFilePath, JSON.stringify(output))
 const fileSize = (fs.statSync(outputFilePath).size / 1024 / 1024).toFixed(2)
 
-console.log(`💾 索引檔案已建立: ${outputFilePath}`)
-console.log(`📊 檔案大小: ${fileSize} MB`)
+console.log(`💾 Index file created: ${outputFilePath}`)
+console.log(`     - File size: ${fileSize} MB`)
 
 // 建立 manifest 檔案
 const manifest = {
   version,
   hash,
-  timestamp,
   fileName: outputFileName,
   fileSize: `${fileSize} MB`,
   cardCount,
@@ -206,7 +206,7 @@ const manifest = {
 }
 
 fs.writeFileSync(MANIFEST_FILE, JSON.stringify(manifest, null, 2))
-console.log(`📝 Manifest 檔案已建立: ${MANIFEST_FILE}`)
+console.log(`     - Manifest file created: ${MANIFEST_FILE}`)
 
 // 清理舊的帶 hash 的檔案
 const oldFiles = fs
@@ -216,7 +216,7 @@ const oldFiles = fs
 oldFiles.forEach((oldFile) => {
   const oldFilePath = path.join(OUTPUT_DIR, oldFile)
   fs.unlinkSync(oldFilePath)
-  console.log(`🗑️  已刪除舊檔案: ${oldFile}`)
+  console.log(`     - Deleted old file: ${oldFile}`)
 })
 
-console.log('✨ 完成！')
+console.log('✨ Done!')
