@@ -333,7 +333,7 @@ watch(
       newKeyword !== '',
       newCardTypes.length > 0,
       newColors.length > 0,
-      newProductName !== null,
+      newProductName,
       newTraits.length > 0,
       newLevels.length > 0,
       newRarities.length > 0,

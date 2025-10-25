@@ -41,8 +41,17 @@ const CardFilterService = {
     // 在縮小範圍後的結果上，執行合併迴圈的精確篩選
     const mappedLevels =
       filters.selectedLevels.length > 0 ? new Set(filters.selectedLevels.map(toLevel)) : null
+    const seenBaseIds = filters.showUniqueCards ? new Set() : null
 
-    let filtered = results.filter((card) => {
+    return results.filter((card) => {
+      // 唯一卡片邏輯
+      if (seenBaseIds) {
+        if (seenBaseIds.has(card.baseId)) {
+          return false
+        }
+        seenBaseIds.add(card.baseId)
+      }
+
       if (filters.selectedCardTypes.length > 0 && !filters.selectedCardTypes.includes(card.type))
         return false
       if (filters.selectedColors.length > 0 && !filters.selectedColors.includes(card.color))
@@ -63,20 +72,6 @@ const CardFilterService = {
         return false
       return true
     })
-
-    // 處理唯一卡片邏輯
-    if (filters.showUniqueCards) {
-      const seenBaseIds = new Set()
-      return filtered.filter((card) => {
-        if (seenBaseIds.has(card.baseId)) {
-          return false
-        }
-        seenBaseIds.add(card.baseId)
-        return true
-      })
-    }
-
-    return filtered
   },
 }
 
