@@ -1,24 +1,35 @@
+// filter.worker.js
+
 import Fuse from 'fuse.js'
 import { expose } from 'comlink'
 
 const toLevel = (level) => (level === '-' ? 0 : +level)
 
-const CardFilterService = {
-  fuse: null,
-  allCards: [],
+let fuse = null
+let allCards = []
+const CARD_ID_REGEX = /^[A-Z]{2,3}\/[A-Z0-9-]{1,}/i
 
+const CardFilterService = {
   /**
    * 初始化服務，接收全部卡片資料並建立 Fuse 索引
    * @param {Array} cards - 所有的卡片資料
    */
-  init(cards) {
-    this.allCards = cards
+  init: (cards) => {
+    allCards = cards
     const options = {
-      keys: ['baseId', 'id', 'effect', 'name'],
-      threshold: 0.4,
+      threshold: 0.3,
+      keys: [
+        { name: 'name', weight: 2 },
+        { name: 'id', weight: 2 },
+        { name: 'effect', weight: 0.5 },
+      ],
+      ignoreLocation: true,
+      ignoreDiacritics: true,
       minMatchCharLength: 2,
+      fieldNormWeight: 0.5,
     }
-    this.fuse = new Fuse(this.allCards, options)
+    fuse = new Fuse(allCards, options)
+    console.log(`Fuse.js index created for ${allCards.length} cards.`)
   },
 
   /**
@@ -26,32 +37,58 @@ const CardFilterService = {
    * @param {object} filters - 包含所有篩選條件的物件
    * @returns {Array} - 篩選後的卡片陣列
    */
-  filter(filters) {
-    if (!this.allCards || this.allCards.length === 0) {
+  filter: (filters) => {
+    if (!allCards || allCards.length === 0) {
       return []
     }
 
-    let results = this.allCards
+    const keyword = filters.keyword
 
-    // 使用 Fuse.js 進行高效能的關鍵字搜索
-    if (filters.keyword && this.fuse) {
-      results = this.fuse.search(filters.keyword).map((result) => result.item)
+    // 判斷是否為卡號搜尋
+    if (keyword && CARD_ID_REGEX.test(keyword)) {
+      console.log('Card ID pattern detected. Bypassing Fuse.js for exact match...')
+      console.time('Exact ID search time')
+
+      const results = allCards.filter((card) => card.id.toLowerCase() === keyword.toLowerCase())
+
+      console.timeEnd('Exact ID search time')
+      console.log(`Found ${results.length} exact matches.`)
+      return results
     }
 
-    // 在縮小範圍後的結果上，執行合併迴圈的精確篩選
+    let results = allCards
+
+    // 使用 Fuse.js 進行高效能的關鍵字搜索
+    if (filters.keyword && filters.keyword.length >= 2 && fuse) {
+      console.log(`Searching for "${filters.keyword}" in ${results.length} items...`)
+
+      console.time('Fuse.js search time')
+      const searchResults = fuse.search(filters.keyword)
+      console.timeEnd('Fuse.js search time')
+
+      console.log(`Fuse.js found ${searchResults.length} potential matches.`)
+
+      results = searchResults.map((result) => result.item)
+    } else if (filters.keyword) {
+      return []
+    }
+
     const mappedLevels =
       filters.selectedLevels.length > 0 ? new Set(filters.selectedLevels.map(toLevel)) : null
-    const seenBaseIds = filters.showUniqueCards ? new Set() : null
+
+    if (filters.showUniqueCards) {
+      const seenBaseIds = new Set()
+      const uniqueResults = []
+      for (const card of results) {
+        if (!seenBaseIds.has(card.baseId)) {
+          seenBaseIds.add(card.baseId)
+          uniqueResults.push(card)
+        }
+      }
+      results = uniqueResults
+    }
 
     return results.filter((card) => {
-      // 唯一卡片邏輯
-      if (seenBaseIds) {
-        if (seenBaseIds.has(card.baseId)) {
-          return false
-        }
-        seenBaseIds.add(card.baseId)
-      }
-
       if (filters.selectedCardTypes.length > 0 && !filters.selectedCardTypes.includes(card.type))
         return false
       if (filters.selectedColors.length > 0 && !filters.selectedColors.includes(card.color))
