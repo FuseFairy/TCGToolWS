@@ -25,6 +25,7 @@
           hide-details
           v-model="filterStore.showUniqueCards"
           color="primary"
+          :disabled="!filterStore.hasActiveFilters && globalFilter"
         ></v-switch>
 
         <v-divider></v-divider>
