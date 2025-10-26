@@ -186,7 +186,6 @@
 import { onMounted, ref, watch, computed, watchEffect, onUnmounted } from 'vue'
 import { useDisplay } from 'vuetify'
 import { storeToRefs } from 'pinia'
-import { debounce } from 'es-toolkit/function'
 import { seriesMap } from '@/maps/series-map.js'
 import { useGlobalSearchStore } from '@/stores/globalSearch'
 import { useUIStore } from '@/stores/ui'
@@ -203,7 +202,7 @@ const deckStore = useDeckStore()
 const cardListRef = ref(null)
 const headerRef = ref(null)
 const { isFilterOpen, isTableModeActive, isCardDeckOpen } = storeToRefs(uiStore)
-const { searchCountDetails, hasActiveFilters } = storeToRefs(globalSearchStore)
+const { searchCountDetails, hasActiveFilters, searchResults } = storeToRefs(globalSearchStore)
 const rawHeaderHeight = ref(0)
 const hasBackgroundImage = !!uiStore.backgroundImage
 
@@ -325,58 +324,10 @@ watch(
 )
 
 watch(
-  [
-    () => globalSearchStore.keyword,
-    () => globalSearchStore.selectedCardTypes,
-    () => globalSearchStore.selectedColors,
-    () => globalSearchStore.selectedProductName,
-    () => globalSearchStore.selectedTraits,
-    () => globalSearchStore.selectedLevels,
-    () => globalSearchStore.selectedRarities,
-    () => globalSearchStore.showUniqueCards,
-    () => globalSearchStore.selectedCostRange,
-    () => globalSearchStore.selectedPowerRange,
-  ],
-  debounce(
-    async ([
-      newKeyword,
-      newCardTypes,
-      newColors,
-      newProductName,
-      newTraits,
-      newLevels,
-      newRarities,
-      newShowUniqueCards, // 僅有高罕單獨開啟時不進行搜尋，但依然要監聽狀態
-      newCostRange,
-      newPowerRange,
-    ]) => {
-      // 檢查是否有任何篩選條件被設定或關鍵字不為空
-      const hasAnyActiveFilters = [
-        newKeyword !== '' && newKeyword !== null,
-        newCardTypes.length > 0,
-        newColors.length > 0,
-        newProductName,
-        newTraits.length > 0,
-        newLevels.length > 0,
-        newRarities.length > 0,
-        newCostRange[0] !== globalSearchStore.costRange.min ||
-          newCostRange[1] !== globalSearchStore.costRange.max,
-        newPowerRange[0] !== globalSearchStore.powerRange.min ||
-          newPowerRange[1] !== globalSearchStore.powerRange.max,
-      ].some(Boolean)
-
-      if (globalSearchStore.isReady && hasAnyActiveFilters) {
-        await globalSearchStore.search()
-        cardListRef.value?.reset()
-      } else if (!hasAnyActiveFilters) {
-        // 如果沒有任何篩選條件，清空搜尋結果並重置 hasActiveFilters
-        globalSearchStore.searchResults = []
-        globalSearchStore.hasActiveFilters = false
-        cardListRef.value?.reset()
-      }
-    },
-    10
-  ), // Debounce with 10ms delay
+  searchResults,
+  () => {
+    cardListRef.value?.reset()
+  },
   { deep: true }
 )
 

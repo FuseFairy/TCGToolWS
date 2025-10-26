@@ -16,7 +16,7 @@
           placeholder="卡号、卡名、效果"
           hide-details
           clearable
-          v-model="keyword"
+          v-model="keywordInput"
           variant="underlined"
         ></v-text-field>
 
@@ -134,7 +134,7 @@
 <script setup>
 import { ref, watch } from 'vue'
 import { useDisplay } from 'vuetify'
-import { debounce } from 'es-toolkit/function'
+import { debounce } from 'es-toolkit'
 import { useUIStore } from '@/stores/ui'
 import { useFilterStore } from '@/stores/filter'
 import { useGlobalSearchStore } from '@/stores/globalSearch'
@@ -159,24 +159,15 @@ const uiStore = useUIStore()
 const hasBackgroundImage = !!uiStore.backgroundImage
 const filterStore = props.globalFilter ? useGlobalSearchStore() : useFilterStore()
 
-const keyword = ref(filterStore.keyword)
+const keywordInput = ref(filterStore.keyword)
 
-const debouncedUpdate = debounce((value) => {
-  filterStore.keyword = value
+const updateKeyword = debounce((val) => {
+  filterStore.keyword = val
 }, 300)
 
-watch(keyword, (newValue) => {
-  debouncedUpdate(newValue)
+watch(keywordInput, (val) => {
+  updateKeyword(val)
 })
-
-watch(
-  () => filterStore.keyword,
-  (newValue) => {
-    if (keyword.value !== newValue) {
-      keyword.value = newValue
-    }
-  }
-)
 </script>
 
 <style scoped></style>

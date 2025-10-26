@@ -131,6 +131,5 @@ export const useCardFiltering = (
     resetFilters,
     terminateWorker,
     initializeWorker, // Expose initializeWorker
-    applyFilters, // Expose applyFilters
   }
 }

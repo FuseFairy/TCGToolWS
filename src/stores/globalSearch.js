@@ -1,5 +1,5 @@
 import { defineStore } from 'pinia'
-import { ref } from 'vue'
+import { ref, watch } from 'vue'
 import { inflate } from 'pako'
 import { useCardFiltering } from '@/composables/useCardFiltering.js'
 
@@ -31,7 +31,6 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     selectedPowerRange,
     resetFilters,
     filteredCards,
-    applyFilters, // Extract applyFilters
     initializeWorker,
     terminateWorker,
   } = useCardFiltering(productNames, traits, rarities, costRange, powerRange)
@@ -43,6 +42,30 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     actualResultCount: 0,
   })
   const hasActiveFilters = ref(false)
+
+  // Watch for changes in filteredCards from the composable and update the store's state
+  watch(filteredCards, (newResult) => {
+    searchCountDetails.value.actualResultCount = newResult.length
+    searchCountDetails.value.isCountOverThreshold = newResult.length > 1000
+    searchResults.value = newResult.slice(0, 1000)
+
+    // Update hasActiveFilters based on whether there are any active filter criteria
+    const hasAnyActiveFilters = [
+      keyword.value !== '' && keyword.value !== null,
+      selectedCardTypes.value.length > 0,
+      selectedColors.value.length > 0,
+      selectedProductName.value,
+      selectedTraits.value.length > 0,
+      selectedLevels.value.length > 0,
+      selectedRarities.value.length > 0,
+      selectedCostRange.value[0] !== costRange.value.min ||
+        selectedCostRange.value[1] !== costRange.value.max,
+      selectedPowerRange.value[0] !== powerRange.value.min ||
+        selectedPowerRange.value[1] !== powerRange.value.max,
+    ].some(Boolean)
+
+    hasActiveFilters.value = hasAnyActiveFilters
+  })
 
   // --- IndexedDB Helpers ---
   const dbName = 'CardDataDB'
@@ -194,21 +217,6 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     }
   }
 
-  const search = async () => {
-    hasActiveFilters.value = true
-    if (!isReady.value || allCards.value.length === 0) return
-
-    try {
-      await applyFilters() // Call applyFilters to ensure filteredCards is up-to-date
-      searchCountDetails.value.actualResultCount = filteredCards.value.length
-      searchCountDetails.value.isCountOverThreshold = filteredCards.value.length > 1000
-      searchResults.value = filteredCards.value.slice(0, 1000)
-    } catch (e) {
-      console.error('Search error:', e)
-      error.value = e
-    }
-  }
-
   const terminate = () => {
     terminateWorker()
     allCards.value = []
@@ -246,7 +254,6 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     hasActiveFilters,
     // Actions
     initialize,
-    search,
     resetFilters,
     terminate,
   }
