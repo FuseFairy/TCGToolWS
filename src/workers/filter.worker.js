@@ -1,37 +1,20 @@
-// filter.worker.js
-
-import Fuse from 'fuse.js'
+import fuzzysort from 'fuzzysort'
 import { expose } from 'comlink'
 
 const toLevel = (level) => (level === '-' ? 0 : +level)
 
-let fuse = null
 let allCards = []
-
 let keywordResultsCache = null
 
 const CardFilterService = {
   /**
-   * 初始化服務，接收全部卡片資料並建立 Fuse 索引
+   * 初始化服務，接收全部卡片資料
    * @param {Array} cards - 所有的卡片資料
    */
   init: (cards) => {
     allCards = cards
-    keywordResultsCache = null // Reset cache on new data
-    const options = {
-      threshold: 0.3,
-      keys: [
-        { name: 'name', weight: 2 },
-        { name: 'effect', weight: 2 },
-        { name: 'is', weight: 1 },
-      ],
-      ignoreLocation: true,
-      ignoreDiacritics: true,
-      minMatchCharLength: 2,
-      fieldNormWeight: 0.5,
-    }
-    fuse = new Fuse(allCards, options)
-    console.log(`Fuse.js index created for ${allCards.length} cards.`)
+    keywordResultsCache = null
+    console.log(`fuzzysort is ready for ${allCards.length} cards.`)
   },
 
   /**
@@ -44,15 +27,21 @@ const CardFilterService = {
       return
     }
 
-    if (keyword.length >= 2 && fuse) {
-      console.log(`Searching for "${keyword}" in ${allCards.length} items...`)
+    if (keyword.length >= 2) {
+      console.log(`Searching for "${keyword}" with fuzzysort in ${allCards.length} items...`)
 
-      console.time('Fuse.js search time')
-      const searchResults = fuse.search(keyword)
-      console.timeEnd('Fuse.js search time')
+      // fuzzysort 的選項
+      const options = {
+        keys: ['name', 'effect', 'id'],
+        threshold: -10000,
+      }
 
-      console.log(`Fuse.js found ${searchResults.length} potential matches.`)
-      keywordResultsCache = searchResults.map((result) => result.item)
+      console.time('fuzzysort search time')
+      const searchResults = fuzzysort.go(keyword, allCards, options)
+      console.timeEnd('fuzzysort search time')
+
+      console.log(`fuzzysort found ${searchResults.length} potential matches.`)
+      keywordResultsCache = searchResults.map((result) => result.obj)
     } else {
       keywordResultsCache = []
     }
