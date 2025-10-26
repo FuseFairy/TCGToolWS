@@ -35,21 +35,19 @@ export const useCardFiltering = (
       workerInstance = new FilterWorker()
       workerApiInstance = Comlink.wrap(workerInstance)
       await workerApiInstance.init(toRaw(cards))
-      await applyFilters() // Apply filters immediately after worker is initialized
+      await applyKeywordSearchAndFilter() // Trigger initial filtering after worker is ready
     } else {
       // If no cards, ensure results are empty
       workerResults.value = []
     }
   }
 
-  const applyFilters = async () => {
+  const applyAttributeFilters = async () => {
     if (!workerApiInstance) {
-      console.warn('Worker API not initialized, cannot apply filters.')
-      workerResults.value = []
+      console.warn('Worker API not initialized, cannot apply attribute filters.')
       return
     }
-    const plainFilters = {
-      keyword: toRaw(keyword.value),
+    const attributeFilters = {
       selectedCardTypes: toRaw(selectedCardTypes.value),
       selectedColors: toRaw(selectedColors.value),
       selectedProductName: toRaw(selectedProductName.value),
@@ -60,8 +58,17 @@ export const useCardFiltering = (
       selectedCostRange: toRaw(selectedCostRange.value),
       selectedPowerRange: toRaw(selectedPowerRange.value),
     }
-    const results = await workerApiInstance.filter(plainFilters)
+    const results = await workerApiInstance.filterByAttributes(attributeFilters)
     workerResults.value = results
+  }
+
+  const applyKeywordSearchAndFilter = async () => {
+    if (!workerApiInstance) {
+      console.warn('Worker API not initialized, cannot apply keyword search.')
+      return
+    }
+    await workerApiInstance.searchByKeyword(toRaw(keyword.value))
+    await applyAttributeFilters()
   }
 
   const terminateWorker = () => {
@@ -73,9 +80,12 @@ export const useCardFiltering = (
     }
   }
 
+  // Watch for keyword changes to perform a new search
+  watch(keyword, applyKeywordSearchAndFilter)
+
+  // Watch for other filter changes to refine the current search results
   watch(
     [
-      keyword,
       selectedCardTypes,
       selectedColors,
       selectedProductName,
@@ -86,14 +96,10 @@ export const useCardFiltering = (
       selectedCostRange,
       selectedPowerRange,
     ],
-    async () => {
-      // Only re-filter if worker is initialized
-      if (workerApiInstance) {
-        await applyFilters()
-      }
-    },
+    applyAttributeFilters,
     { deep: true }
   )
+
   const resetFilters = () => {
     keyword.value = ''
     selectedCardTypes.value = []
