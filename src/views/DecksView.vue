@@ -16,7 +16,7 @@
         </v-col>
       </v-row>
       <v-row class="ma-0 pt-3">
-        <v-col v-if="localDeck" cols="6" sm="4" md="3">
+        <v-col v-if="localDeck && !uiStore.isLoading" cols="6" sm="4" md="3">
           <DeckCard :deck="localDeck" deckKey="local" />
         </v-col>
         <v-col v-for="(deck, key) in decodedDecks" :key="key" cols="6" sm="4" md="3">
