@@ -434,7 +434,7 @@ watch(
         isGenerationTriggered.value = false
 
         if (imageRef) {
-          imageRef.toggleQrCode(false)
+          imageRef.toggleQrCode(!isLocalDeck.value)
           await nextTick()
         }
 
@@ -446,7 +446,7 @@ watch(
         triggerSnackbar('生成图片失败，请稍后再试。', 'error')
       } finally {
         if (imageRef) {
-          imageRef.toggleQrCode(true)
+          imageRef.toggleQrCode(!isLocalDeck.value)
         }
         uiStore.setLoading(false)
       }
