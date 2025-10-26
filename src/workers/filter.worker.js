@@ -7,7 +7,6 @@ const toLevel = (level) => (level === '-' ? 0 : +level)
 
 let fuse = null
 let allCards = []
-const CARD_ID_REGEX = /^[A-Z]{2,3}\/[A-Z0-9-]{1,}/i
 
 let keywordResultsCache = null
 
@@ -45,16 +44,7 @@ const CardFilterService = {
       return
     }
 
-    // 判斷是否為卡號搜尋
-    if (CARD_ID_REGEX.test(keyword)) {
-      console.log('Card ID pattern detected. Bypassing Fuse.js for exact match...')
-      console.time('Exact ID search time')
-      keywordResultsCache = allCards.filter(
-        (card) => card.id.toLowerCase() === keyword.toLowerCase()
-      )
-      console.timeEnd('Exact ID search time')
-      console.log(`Found ${keywordResultsCache.length} exact matches.`)
-    } else if (keyword.length >= 2 && fuse) {
+    if (keyword.length >= 2 && fuse) {
       console.log(`Searching for "${keyword}" in ${allCards.length} items...`)
 
       console.time('Fuse.js search time')
