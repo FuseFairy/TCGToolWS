@@ -108,7 +108,11 @@ async function confirmDeleteDeck() {
   uiStore.setLoading(true)
 
   try {
-    await deckStore.deleteDeck(props.deckKey)
+    if (props.deckKey === 'local') {
+      deckStore.clearDeck()
+    } else {
+      await deckStore.deleteDeck(props.deckKey)
+    }
     isDeleteDialogOpen.value = false
   } catch (error) {
     triggerSnackbar(error.message, 'error')
