@@ -10,7 +10,7 @@
       >
         <v-img
           :src="imageUrl"
-          class="align-end"
+          :class="isLocalDeck ? 'd-flex align-center justify-center' : 'align-end'"
           style="transform: scale(1.1)"
           aspect-ratio="1"
           cover
@@ -25,8 +25,14 @@
           <template #error>
             <v-img src="/placehold.webp" aspect-ratio="1" cover />
           </template>
-          <div class="title-background"></div>
-          <v-card-text class="text-h6 position-relative text-white" style="z-index: 1">
+          <div :class="{ 'title-background': !isLocalDeck, 'full-mask': isLocalDeck }"></div>
+          <v-card-text
+            :class="[
+              'position-relative text-white',
+              isLocalDeck ? 'text-h5 text-center' : 'text-h6',
+            ]"
+            style="z-index: 1"
+          >
             {{ deck.name }}
           </v-card-text>
         </v-img>
@@ -104,6 +110,8 @@ const imageUrl = useCardImage(
   computed(() => coverCard.value.id)
 )
 
+const isLocalDeck = computed(() => props.deckKey === 'local')
+
 function handleDeleteDeck() {
   isDeleteDialogOpen.value = true
 }
@@ -112,7 +120,7 @@ async function confirmDeleteDeck() {
   uiStore.setLoading(true)
 
   try {
-    if (props.deckKey === 'local') {
+    if (isLocalDeck.value) {
       deckStore.clearDeck()
     } else {
       await deckStore.deleteDeck(props.deckKey)
@@ -150,6 +158,16 @@ async function confirmDeleteDeck() {
   right: 0;
   height: 50%;
   background: linear-gradient(to top, rgba(0, 0, 0, 0.7) 20%, transparent 100%);
+  pointer-events: none;
+}
+
+.full-mask {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
   pointer-events: none;
 }
 </style>
