@@ -324,7 +324,7 @@ watch(
     newTraits,
     newLevels,
     newRarities,
-    newShowUniqueCards,   // 僅有高罕單獨開啟時不進行搜尋，但依然要監聽狀態
+    newShowUniqueCards, // 僅有高罕單獨開啟時不進行搜尋，但依然要監聽狀態
     newCostRange,
     newPowerRange,
   ]) => {
