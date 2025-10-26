@@ -16,7 +16,7 @@
         </v-col>
       </v-row>
       <v-row class="ma-0 pt-3">
-        <v-col v-if="localDeck && !uiStore.isLoading" cols="6" sm="4" md="3">
+        <v-col v-if="localDeck && initialLoadingComplete" cols="6" sm="4" md="3">
           <DeckCard :deck="localDeck" deckKey="local" />
         </v-col>
         <v-col v-for="(deck, key) in decodedDecks" :key="key" cols="6" sm="4" md="3">
@@ -44,6 +44,7 @@ const { triggerSnackbar } = useSnackbar()
 
 const deckCode = ref('')
 const decodedDecks = ref({})
+const initialLoadingComplete = ref(false)
 
 const navigateToSharedDeck = () => {
   const code = deckCode.value.trim()
@@ -89,6 +90,7 @@ onMounted(async () => {
     triggerSnackbar(error.message, 'error')
   } finally {
     uiStore.setLoading(false)
+    initialLoadingComplete.value = true
   }
 })
 
