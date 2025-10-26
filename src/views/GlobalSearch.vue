@@ -344,7 +344,7 @@ watch(
   ]) => {
     // 檢查是否有任何篩選條件被設定或關鍵字不為空
     const hasAnyActiveFilters = [
-      newKeyword !== '',
+      newKeyword !== '' && newKeyword !== null,
       newCardTypes.length > 0,
       newColors.length > 0,
       newProductName,
