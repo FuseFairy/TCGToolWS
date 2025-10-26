@@ -21,7 +21,6 @@
     "@zumer/snapdom": "^1.9.14",
     "comlink": "^4.4.2",
     "dompurify": "^3.2.7",
-    "epic-spinners": "^2.0.0",
     "es-toolkit": "^1.41.0",
     "fuzzysort": "^3.1.0",
     "hono": "^4.9.9",
