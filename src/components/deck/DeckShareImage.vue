@@ -127,8 +127,6 @@ const allImagesLoaded = computed(() => {
 const onImageLoad = () => {
   if (loadedImagesCount.value < totalImages.value) {
     loadedImagesCount.value++
-
-    console.log('loadedImagesCount:', loadedImagesCount.value)
   }
 }
 
