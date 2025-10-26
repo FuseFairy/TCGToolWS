@@ -179,7 +179,7 @@ import { useFilterStore } from '@/stores/filter'
 import { useUIStore } from '@/stores/ui'
 import { useInfiniteScrollState } from '@/composables/useInfiniteScrollState.js'
 import CardInfiniteScrollList from '@/components/card/CardInfiniteScrollList.vue'
-import BaseFilterSidebar from '@/components/base/BaseFilterSidebar.vue'
+import BaseFilterSidebar from '@/components/ui/FilterSidebar.vue'
 import DeckSidebar from '@/components/ui/DeckSidebar.vue'
 import { useBottomSheet } from '@/composables/useBottomSheet.js'
 

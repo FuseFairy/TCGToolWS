@@ -59,7 +59,7 @@ const routes = [
   {
     path: '/search',
     name: 'GlobalSearch',
-    component: () => import('@/views/GlobalSearch.vue'),
+    component: () => import('@/views/GlobalSearchView.vue'),
   },
 ]
 
