@@ -324,7 +324,7 @@ watch(
     newTraits,
     newLevels,
     newRarities,
-    newShowUniqueCards,
+    newShowUniqueCards,   // 僅有高罕單獨開啟時不進行搜尋，但依然要監聽狀態
     newCostRange,
     newPowerRange,
   ]) => {
@@ -337,7 +337,6 @@ watch(
       newTraits.length > 0,
       newLevels.length > 0,
       newRarities.length > 0,
-      newShowUniqueCards === true,
       newCostRange[0] !== globalSearchStore.costRange.min ||
         newCostRange[1] !== globalSearchStore.costRange.max,
       newPowerRange[0] !== globalSearchStore.powerRange.min ||
