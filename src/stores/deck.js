@@ -104,8 +104,6 @@ export const useDeckStore = defineStore(
         a[1] > b[1] ? a : b
       )[0]
 
-      console.log('seriesMap:', seriesMap, 'mostFrequentPrefix:', mostFrequentPrefix)
-
       const seriesEntry = Object.values(seriesMap).find((series) =>
         series.prefixes.includes(mostFrequentPrefix)
       )
