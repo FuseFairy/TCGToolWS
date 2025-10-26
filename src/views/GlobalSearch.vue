@@ -82,7 +82,9 @@
           v-if="displayEmptySearchMessage"
           class="d-flex align-center justify-center text-grey h-100 w-100"
         >
-          {{ currentEmptyText }}
+          <div class="rwd-text-wapper">
+            <h1 class="rwd-text">{{ currentEmptyText }}</h1>
+          </div>
         </v-container>
 
         <CardInfiniteScrollList

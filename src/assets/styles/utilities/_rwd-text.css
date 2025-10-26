@@ -1,0 +1,24 @@
+.rwd-text-wapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.rwd-text {
+  font-size: clamp(1.5rem, 4vw, 2.5rem);
+  font-weight: bold;
+}
+
+@media (max-width: 599.98px) {
+  .rwd-text {
+    white-space: nowrap;
+    font-size: clamp(0.8rem, 4vw, 2rem);
+  }
+}
+
+@media (max-width: 399.98px) {
+  .rwd-text {
+    font-size: clamp(1rem, 3vw, 3rem);
+  }
+}
