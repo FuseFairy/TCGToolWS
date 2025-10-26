@@ -120,7 +120,7 @@
           <v-range-slider
             hide-details
             :thumb-label="true"
-            :min="filterStore.powerRange.min"
+            :min="Math.floor(filterStore.powerRange.min / 500) * 500"
             :max="filterStore.powerRange.max"
             step="500"
             v-model="filterStore.selectedPowerRange"
