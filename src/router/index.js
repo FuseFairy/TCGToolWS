@@ -104,10 +104,13 @@ router.beforeEach(async (to, from, next) => {
 
 // eslint-disable-next-line no-unused-vars
 router.afterEach((to, from) => {
-  if (to.name != 'SeriesDetail') return
-
   const uiStore = useUIStore()
-  uiStore.isFilterOpen = false
+  if (to.name == 'GlobalSearch') {
+    uiStore.isFilterOpen = true
+  } else {
+    uiStore.isFilterOpen = false
+  }
+
   uiStore.isCardDeckOpen = false
 })
 
