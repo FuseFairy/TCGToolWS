@@ -292,8 +292,6 @@ onMounted(() => {
   globalSearchStore.initialize()
 })
 
-
-
 watch(
   searchResults,
   () => {

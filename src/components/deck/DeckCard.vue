@@ -92,7 +92,11 @@ const isDeleteDialogOpen = ref(false)
 const coverCard = computed(() => {
   const cards = props.deck?.cards || {}
   const cardsArray = Object.values(cards)
-  return cardsArray.find((card) => card.id === props.deck?.coverCardId) || cardsArray.slice().sort((a, b) => a.id - b.id)[0] || null
+  return (
+    cardsArray.find((card) => card.id === props.deck?.coverCardId) ||
+    cardsArray.slice().sort((a, b) => a.id - b.id)[0] ||
+    null
+  )
 })
 
 const imageUrl = useCardImage(
