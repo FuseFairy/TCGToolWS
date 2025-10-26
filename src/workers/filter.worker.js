@@ -33,7 +33,7 @@ const CardFilterService = {
       // fuzzysort 的選項
       const options = {
         keys: ['name', 'effect', 'id'],
-        threshold: -10000,
+        threshold: 0.5,
       }
 
       console.time('fuzzysort search time')
