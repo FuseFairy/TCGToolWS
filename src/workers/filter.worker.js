@@ -9,6 +9,8 @@ let fuse = null
 let allCards = []
 const CARD_ID_REGEX = /^[A-Z]{2,3}\/[A-Z0-9-]{1,}/i
 
+let keywordResultsCache = null
+
 const CardFilterService = {
   /**
    * 初始化服務，接收全部卡片資料並建立 Fuse 索引
@@ -16,6 +18,7 @@ const CardFilterService = {
    */
   init: (cards) => {
     allCards = cards
+    keywordResultsCache = null // Reset cache on new data
     const options = {
       threshold: 0.3,
       keys: [
@@ -33,43 +36,46 @@ const CardFilterService = {
   },
 
   /**
-   * 根據傳入的篩選條件執行篩選
-   * @param {object} filters - 包含所有篩選條件的物件
-   * @returns {Array} - 篩選後的卡片陣列
+   * 根據關鍵字搜尋卡片，並將結果暫存起來
+   * @param {string} keyword - 用於搜尋的關鍵字
    */
-  filter: (filters) => {
-    if (!allCards || allCards.length === 0) {
-      return []
+  searchByKeyword: (keyword) => {
+    if (!keyword) {
+      keywordResultsCache = allCards
+      return
     }
-
-    const keyword = filters.keyword
-    let results = allCards
 
     // 判斷是否為卡號搜尋
-    if (keyword && CARD_ID_REGEX.test(keyword)) {
+    if (CARD_ID_REGEX.test(keyword)) {
       console.log('Card ID pattern detected. Bypassing Fuse.js for exact match...')
       console.time('Exact ID search time')
-
-      results = allCards.filter((card) => card.id.toLowerCase() === keyword.toLowerCase())
-
+      keywordResultsCache = allCards.filter(
+        (card) => card.id.toLowerCase() === keyword.toLowerCase()
+      )
       console.timeEnd('Exact ID search time')
-      console.log(`Found ${results.length} exact matches.`)
+      console.log(`Found ${keywordResultsCache.length} exact matches.`)
+    } else if (keyword.length >= 2 && fuse) {
+      console.log(`Searching for "${keyword}" in ${allCards.length} items...`)
+
+      console.time('Fuse.js search time')
+      const searchResults = fuse.search(keyword)
+      console.timeEnd('Fuse.js search time')
+
+      console.log(`Fuse.js found ${searchResults.length} potential matches.`)
+      keywordResultsCache = searchResults.map((result) => result.item)
     } else {
-      // 使用 Fuse.js 進行高效能的關鍵字搜索
-      if (filters.keyword && filters.keyword.length >= 2 && fuse) {
-        console.log(`Searching for "${filters.keyword}" in ${results.length} items...`)
-
-        console.time('Fuse.js search time')
-        const searchResults = fuse.search(filters.keyword)
-        console.timeEnd('Fuse.js search time')
-
-        console.log(`Fuse.js found ${searchResults.length} potential matches.`)
-
-        results = searchResults.map((result) => result.item)
-      } else if (filters.keyword) {
-        return []
-      }
+      keywordResultsCache = []
     }
+  },
+
+  /**
+   * 根據屬性篩選已透過關鍵字搜尋的結果
+   * @param {object} filters - 篩選條件物件
+   * @returns {Array} 篩選後的卡片陣列
+   */
+  filterByAttributes: (filters) => {
+    let results = keywordResultsCache
+    if (!results) results = allCards // Keyword search results cache is empty. Filtering all cards.
 
     const mappedLevels =
       filters.selectedLevels.length > 0 ? new Set(filters.selectedLevels.map(toLevel)) : null
