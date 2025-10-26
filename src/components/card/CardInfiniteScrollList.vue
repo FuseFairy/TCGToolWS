@@ -4,7 +4,9 @@
     class="d-flex align-center justify-center text-grey h-100 w-100"
     :="$attrs"
   >
-    {{ emptyText }}
+    <div class="rwd-text-wapper">
+      <h1 class="rwd-text">{{ emptyText }}</h1>
+    </div>
   </v-container>
 
   <v-infinite-scroll
