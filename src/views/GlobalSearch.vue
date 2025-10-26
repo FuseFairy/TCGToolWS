@@ -292,36 +292,7 @@ onMounted(() => {
   globalSearchStore.initialize()
 })
 
-watch(
-  () => deckStore.cardsInDeck,
-  (newCardsInDeck) => {
-    if (Object.keys(newCardsInDeck).length === 0) {
-      deckStore.setSeriesId(null)
-      return
-    }
-    const prefixCounts = Object.keys(newCardsInDeck).reduce((acc, cardId) => {
-      const prefix = cardId.split('/')[0]
-      acc[prefix] = (acc[prefix] || 0) + newCardsInDeck[cardId].quantity
-      return acc
-    }, {})
 
-    if (Object.keys(prefixCounts).length === 0) {
-      deckStore.setSeriesId(null)
-      return
-    }
-
-    const mostFrequentPrefix = Object.entries(prefixCounts).reduce((a, b) =>
-      a[1] > b[1] ? a : b
-    )[0]
-
-    const seriesEntry = Object.values(seriesMap).find((series) =>
-      series.prefixes.includes(mostFrequentPrefix)
-    )
-
-    deckStore.setSeriesId(seriesEntry ? seriesEntry.id : null)
-  },
-  { deep: true }
-)
 
 watch(
   searchResults,

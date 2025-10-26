@@ -327,6 +327,7 @@ const closeSaveDialog = (value) => {
 }
 
 const handleCreateDeck = async () => {
+  deckStore.updateDominantSeriesId()
   uiStore.setLoading(true)
   try {
     const deckData = {
@@ -356,6 +357,7 @@ const handleUpdateDeck = async () => {
     triggerSnackbar('缺少卡组标识，无法更新', 'error')
     return
   }
+  deckStore.updateDominantSeriesId()
   uiStore.setLoading(true)
   try {
     const deckData = {

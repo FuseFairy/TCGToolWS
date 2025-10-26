@@ -261,7 +261,6 @@ const prefixes = computed(() => seriesMap[seriesName.value]?.prefixes ?? [])
 
 watchEffect(() => {
   filterStore.initialize(prefixes.value)
-  deckStore.setSeriesId(props.seriesId)
 })
 
 watch([() => filterStore.filteredCards, isTableModeActive], () => {

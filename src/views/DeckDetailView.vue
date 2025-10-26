@@ -260,7 +260,7 @@ const handleEditDeck = () => {
   }
   const keyForEditing = isLocalDeck.value ? null : deckKey
   deckStore.loadDeckForEditing(deck.value, keyForEditing)
-  router.push({ name: 'SeriesDetail', params: { seriesId: deck.value.seriesId } })
+  router.push({ name: 'SeriesDetail', params: { seriesId: deckStore.seriesId } })
 }
 
 onMounted(async () => {
