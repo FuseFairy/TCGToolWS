@@ -28,8 +28,15 @@
               :size="resize"
               prepend-icon="mdi-cards-diamond-outline"
               class="counter-chip font-weight-bold flex-shrink-0"
+              :color="searchCountDetails.isCountOverThreshold ? 'warning' : undefined"
+              :style="{ cursor: searchCountDetails.isCountOverThreshold ? 'help' : undefined }"
             >
-              {{ globalSearchStore.searchResults.length }}
+              <template v-if="globalSearchStore.searchCountDetails.isCountOverThreshold">
+                <v-tooltip activator="parent" location="bottom">
+                  结果超过阈值，请尝试增加条件
+                </v-tooltip>
+              </template>
+              {{ chipContent }}
             </v-chip>
           </div>
 
@@ -193,7 +200,7 @@ const deckStore = useDeckStore()
 const cardListRef = ref(null)
 const headerRef = ref(null)
 const { isFilterOpen, isTableModeActive, isCardDeckOpen } = storeToRefs(uiStore)
-const { hasActiveFilters } = storeToRefs(globalSearchStore)
+const { searchCountDetails, hasActiveFilters } = storeToRefs(globalSearchStore)
 const rawHeaderHeight = ref(0)
 const hasBackgroundImage = !!uiStore.backgroundImage
 
@@ -267,6 +274,13 @@ const currentEmptyText = computed(() =>
     ? '请输入关键字或选择筛选条件以开始搜寻'
     : '~没有找到符合条件的卡片~'
 )
+
+const chipContent = computed(() => {
+  if (searchCountDetails.value.isCountOverThreshold) {
+    return `${globalSearchStore.searchResults.length} / ${globalSearchStore.searchCountDetails.actualResultCount}`
+  }
+  return globalSearchStore.searchResults.length
+})
 
 onMounted(() => {
   globalSearchStore.initialize()
@@ -349,6 +363,7 @@ watch(
     } else if (!hasAnyActiveFilters) {
       // 如果沒有任何篩選條件，清空搜尋結果並重置 hasActiveFilters
       globalSearchStore.searchResults = []
+      globalSearchStore.searchCountDetails.isCountOverThreshold = false
       globalSearchStore.hasActiveFilters = false
       cardListRef.value?.reset()
     }
