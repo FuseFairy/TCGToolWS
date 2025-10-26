@@ -51,7 +51,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
 
     // Update hasActiveFilters based on whether there are any active filter criteria
     const hasAnyActiveFilters = [
-      keyword.value !== '' && keyword.value !== null,
+      keyword.value && keyword.value.length >= 2,
       selectedCardTypes.value.length > 0,
       selectedColors.value.length > 0,
       selectedProductName.value,

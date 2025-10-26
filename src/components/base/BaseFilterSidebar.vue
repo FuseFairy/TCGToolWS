@@ -14,10 +14,10 @@
         <v-text-field
           label="关键字"
           placeholder="卡号、卡名、效果"
-          hide-details
           clearable
           v-model="keywordInput"
           variant="underlined"
+          :rules="[(v) => !v || v.length >= 2 || '关键字至少输入2个字符']"
         ></v-text-field>
 
         <v-switch
