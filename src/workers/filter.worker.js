@@ -20,8 +20,8 @@ const CardFilterService = {
       threshold: 0.3,
       keys: [
         { name: 'name', weight: 2 },
-        { name: 'id', weight: 2 },
-        { name: 'effect', weight: 0.5 },
+        { name: 'effect', weight: 2 },
+        { name: 'is', weight: 1 },
       ],
       ignoreLocation: true,
       ignoreDiacritics: true,
@@ -43,34 +43,32 @@ const CardFilterService = {
     }
 
     const keyword = filters.keyword
+    let results = allCards
 
     // 判斷是否為卡號搜尋
     if (keyword && CARD_ID_REGEX.test(keyword)) {
       console.log('Card ID pattern detected. Bypassing Fuse.js for exact match...')
       console.time('Exact ID search time')
 
-      const results = allCards.filter((card) => card.id.toLowerCase() === keyword.toLowerCase())
+      results = allCards.filter((card) => card.id.toLowerCase() === keyword.toLowerCase())
 
       console.timeEnd('Exact ID search time')
       console.log(`Found ${results.length} exact matches.`)
-      return results
-    }
+    } else {
+      // 使用 Fuse.js 進行高效能的關鍵字搜索
+      if (filters.keyword && filters.keyword.length >= 2 && fuse) {
+        console.log(`Searching for "${filters.keyword}" in ${results.length} items...`)
 
-    let results = allCards
+        console.time('Fuse.js search time')
+        const searchResults = fuse.search(filters.keyword)
+        console.timeEnd('Fuse.js search time')
 
-    // 使用 Fuse.js 進行高效能的關鍵字搜索
-    if (filters.keyword && filters.keyword.length >= 2 && fuse) {
-      console.log(`Searching for "${filters.keyword}" in ${results.length} items...`)
+        console.log(`Fuse.js found ${searchResults.length} potential matches.`)
 
-      console.time('Fuse.js search time')
-      const searchResults = fuse.search(filters.keyword)
-      console.timeEnd('Fuse.js search time')
-
-      console.log(`Fuse.js found ${searchResults.length} potential matches.`)
-
-      results = searchResults.map((result) => result.item)
-    } else if (filters.keyword) {
-      return []
+        results = searchResults.map((result) => result.item)
+      } else if (filters.keyword) {
+        return []
+      }
     }
 
     const mappedLevels =
