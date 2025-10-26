@@ -1,7 +1,7 @@
 <svg width="24" height="24" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M24.4142 24.4142C25.1952 23.6332 26.4615 23.6332 27.2426 24.4142L29.2052 26.3768L26.3768 29.2052L24.4142 27.2426C23.6331 26.4616 23.6331 25.1953 24.4142 24.4142V24.4142Z" fill="white"/>
-<circle cx="14" cy="14" r="12.75" stroke="white" stroke-width="2.5"/>
-<line x1="11" y1="26" x2="11" y2="8" stroke="white" stroke-width="2"/>
-<line x1="11" y1="9" x2="26" y2="9" stroke="white" stroke-width="2"/>
-<circle cx="15.5" cy="13.5" r="1.5" fill="white"/>
+  <path d="M24.4142 24.4142C25.1952 23.6332 26.4615 23.6332 27.2426 24.4142L29.2052 26.3768L26.3768 29.2052L24.4142 27.2426C23.6331 26.4616 23.6331 25.1953 24.4142 24.4142V24.4142Z" fill="currentColor"/>
+  <circle cx="14" cy="14" r="12.75" stroke="currentColor" stroke-width="2.5"/>
+  <line x1="11" y1="26" x2="11" y2="8" stroke="currentColor" stroke-width="2"/>
+  <line x1="11" y1="9" x2="26" y2="9" stroke="currentColor" stroke-width="2"/>
+  <circle cx="15.5" cy="13.5" r="1.5" fill="currentColor"/>
 </svg>
