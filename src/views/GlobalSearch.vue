@@ -285,7 +285,7 @@ const chipContent = computed(() => {
   if (isChipShowWarning.value) {
     return `${globalSearchStore.searchResults.length} / ${globalSearchStore.searchCountDetails.actualResultCount}`
   }
-  return globalSearchStore.searchResults.length
+  return hasActiveFilters.value ? globalSearchStore.searchResults.length : 0
 })
 
 onMounted(() => {
