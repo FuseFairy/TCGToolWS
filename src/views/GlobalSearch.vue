@@ -28,10 +28,10 @@
               :size="resize"
               prepend-icon="mdi-cards-diamond-outline"
               class="counter-chip font-weight-bold flex-shrink-0"
-              :color="searchCountDetails.isCountOverThreshold ? 'warning' : undefined"
-              :style="{ cursor: searchCountDetails.isCountOverThreshold ? 'help' : undefined }"
+              :color="isChipShowWarning ? 'warning' : undefined"
+              :style="{ cursor: isChipShowWarning ? 'help' : undefined }"
             >
-              <template v-if="globalSearchStore.searchCountDetails.isCountOverThreshold">
+              <template v-if="isChipShowWarning">
                 <v-tooltip activator="parent" location="bottom">
                   结果超过阈值，请尝试增加条件
                 </v-tooltip>
@@ -186,6 +186,7 @@
 import { onMounted, ref, watch, computed, watchEffect, onUnmounted } from 'vue'
 import { useDisplay } from 'vuetify'
 import { storeToRefs } from 'pinia'
+import { debounce } from 'es-toolkit/function'
 import { seriesMap } from '@/maps/series-map.js'
 import { useGlobalSearchStore } from '@/stores/globalSearch'
 import { useUIStore } from '@/stores/ui'
@@ -277,8 +278,12 @@ const currentEmptyText = computed(() =>
     : '~没有找到符合条件的卡片~'
 )
 
+const isChipShowWarning = computed(() => {
+  return searchCountDetails.value.isCountOverThreshold && hasActiveFilters.value
+})
+
 const chipContent = computed(() => {
-  if (searchCountDetails.value.isCountOverThreshold) {
+  if (isChipShowWarning.value) {
     return `${globalSearchStore.searchResults.length} / ${globalSearchStore.searchCountDetails.actualResultCount}`
   }
   return globalSearchStore.searchResults.length
@@ -332,44 +337,46 @@ watch(
     () => globalSearchStore.selectedCostRange,
     () => globalSearchStore.selectedPowerRange,
   ],
-  async ([
-    newKeyword,
-    newCardTypes,
-    newColors,
-    newProductName,
-    newTraits,
-    newLevels,
-    newRarities,
-    newShowUniqueCards, // 僅有高罕單獨開啟時不進行搜尋，但依然要監聽狀態
-    newCostRange,
-    newPowerRange,
-  ]) => {
-    // 檢查是否有任何篩選條件被設定或關鍵字不為空
-    const hasAnyActiveFilters = [
-      newKeyword !== '' && newKeyword !== null,
-      newCardTypes.length > 0,
-      newColors.length > 0,
+  debounce(
+    async ([
+      newKeyword,
+      newCardTypes,
+      newColors,
       newProductName,
-      newTraits.length > 0,
-      newLevels.length > 0,
-      newRarities.length > 0,
-      newCostRange[0] !== globalSearchStore.costRange.min ||
-        newCostRange[1] !== globalSearchStore.costRange.max,
-      newPowerRange[0] !== globalSearchStore.powerRange.min ||
-        newPowerRange[1] !== globalSearchStore.powerRange.max,
-    ].some(Boolean)
+      newTraits,
+      newLevels,
+      newRarities,
+      newShowUniqueCards, // 僅有高罕單獨開啟時不進行搜尋，但依然要監聽狀態
+      newCostRange,
+      newPowerRange,
+    ]) => {
+      // 檢查是否有任何篩選條件被設定或關鍵字不為空
+      const hasAnyActiveFilters = [
+        newKeyword !== '' && newKeyword !== null,
+        newCardTypes.length > 0,
+        newColors.length > 0,
+        newProductName,
+        newTraits.length > 0,
+        newLevels.length > 0,
+        newRarities.length > 0,
+        newCostRange[0] !== globalSearchStore.costRange.min ||
+          newCostRange[1] !== globalSearchStore.costRange.max,
+        newPowerRange[0] !== globalSearchStore.powerRange.min ||
+          newPowerRange[1] !== globalSearchStore.powerRange.max,
+      ].some(Boolean)
 
-    if (globalSearchStore.isReady && hasAnyActiveFilters) {
-      await globalSearchStore.search()
-      cardListRef.value?.reset()
-    } else if (!hasAnyActiveFilters) {
-      // 如果沒有任何篩選條件，清空搜尋結果並重置 hasActiveFilters
-      globalSearchStore.searchResults = []
-      globalSearchStore.searchCountDetails.isCountOverThreshold = false
-      globalSearchStore.hasActiveFilters = false
-      cardListRef.value?.reset()
-    }
-  },
+      if (globalSearchStore.isReady && hasAnyActiveFilters) {
+        await globalSearchStore.search()
+        cardListRef.value?.reset()
+      } else if (!hasAnyActiveFilters) {
+        // 如果沒有任何篩選條件，清空搜尋結果並重置 hasActiveFilters
+        globalSearchStore.searchResults = []
+        globalSearchStore.hasActiveFilters = false
+        cardListRef.value?.reset()
+      }
+    },
+    10
+  ), // Debounce with 10ms delay
   { deep: true }
 )
 
