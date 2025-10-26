@@ -17,6 +17,7 @@
                   :size="resize"
                   icon="mdi-share-variant"
                   variant="text"
+                  :disabled="isLocalDeck"
                   @click="handleShareCard"
                 ></v-btn>
                 <v-btn
@@ -232,12 +233,13 @@ const uiStore = useUIStore()
 const deckStore = useDeckStore()
 
 const deckKey = route.params.key
+const isLocalDeck = computed(() => deckKey === 'local')
 const deck = ref(null)
 const cards = ref({})
 const hasBackgroundImage = !!uiStore.backgroundImage
 
 const handleShareCard = async () => {
-  if (!deckKey) {
+  if (!deckKey || isLocalDeck.value) {
     triggerSnackbar('无法生成分享链接', 'error')
     return
   }
@@ -264,9 +266,25 @@ onMounted(async () => {
   uiStore.setLoading(true)
 
   try {
-    const decoded = await decodeDeck(deckKey)
-    deck.value = decoded
-    cards.value = decoded.cards
+    if (isLocalDeck.value) {
+      if (deckStore.totalCardCount > 0) {
+        const localCards = Object.values(deckStore.cardsInDeck)
+        deck.value = {
+          name: '当前卡组',
+          cards: deckStore.cardsInDeck,
+          coverCardId: deckStore.coverCardId || (localCards.length > 0 ? localCards[0].id : null),
+          seriesId: deckStore.seriesId,
+        }
+        cards.value = deckStore.cardsInDeck
+      } else {
+        triggerSnackbar('当前卡组是空的', 'error')
+        return
+      }
+    } else {
+      const decoded = await decodeDeck(deckKey)
+      deck.value = decoded
+      cards.value = decoded.cards
+    }
   } catch (error) {
     triggerSnackbar(error.message, 'error')
   } finally {
