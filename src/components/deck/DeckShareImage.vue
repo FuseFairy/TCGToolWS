@@ -16,7 +16,7 @@
         </div>
       </div>
 
-      <div class="qr-container">
+      <div v-if="showQr" class="qr-container">
         <QR :content="shareUrl" :pad="0" class="qr-code" />
       </div>
     </div>
@@ -65,6 +65,11 @@ const props = defineProps({
     required: true,
   },
 })
+
+const showQr = ref(true)
+const toggleQrCode = (state) => {
+  showQr.value = state
+}
 
 const shareUrl = `${window.location.origin}/share-decks/${props.deckKey}`
 
@@ -137,6 +142,7 @@ watch(
 
 defineExpose({
   allImagesLoaded: readonly(allImagesLoaded),
+  toggleQrCode,
 })
 </script>
 

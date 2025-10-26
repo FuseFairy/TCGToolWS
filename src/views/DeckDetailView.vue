@@ -204,7 +204,7 @@
 </template>
 
 <script setup>
-import { computed, ref, onUnmounted, onMounted, watch } from 'vue'
+import { computed, ref, onUnmounted, onMounted, watch, nextTick } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { useCardImage } from '@/composables/useCardImage.js'
 import { useDeckEncoder } from '@/composables/useDeckEncoder'
@@ -429,8 +429,14 @@ watch(
   [isGenerationTriggered, () => deckShareImageRef.value?.allImagesLoaded],
   async ([triggered, loaded]) => {
     if (triggered && loaded) {
+      const imageRef = deckShareImageRef.value
       try {
         isGenerationTriggered.value = false
+
+        if (imageRef) {
+          imageRef.toggleQrCode(false)
+          await nextTick()
+        }
 
         await new Promise((resolve) => setTimeout(resolve, 300))
 
@@ -439,6 +445,9 @@ watch(
         console.error('生成圖片失敗:', error)
         triggerSnackbar('生成图片失败，请稍后再试。', 'error')
       } finally {
+        if (imageRef) {
+          imageRef.toggleQrCode(true)
+        }
         uiStore.setLoading(false)
       }
     } else if (triggered && !loaded) {
