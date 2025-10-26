@@ -186,7 +186,7 @@
           </template>
           <v-list-item-title>编辑卡组</v-list-item-title>
         </v-list-item>
-        <v-list-item @click="handleShareClick">
+        <v-list-item v-if="!isLocalDeck" @click="handleShareClick">
           <template #prepend>
             <v-icon>mdi-share-variant</v-icon>
           </template>
@@ -258,7 +258,8 @@ const handleEditDeck = () => {
     triggerSnackbar('无法编辑卡组', 'error')
     return
   }
-  deckStore.loadDeckForEditing(deck.value, deckKey)
+  const keyForEditing = isLocalDeck.value ? null : deckKey
+  deckStore.loadDeckForEditing(deck.value, keyForEditing)
   router.push({ name: 'SeriesDetail', params: { seriesId: deck.value.seriesId } })
 }
 
