@@ -38,6 +38,10 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
 
   // --- Search Results ---
   const searchResults = ref([])
+  const searchCountDetails = ref({
+    isCountOverThreshold: false,
+    actualResultCount: 0,
+  })
   const hasActiveFilters = ref(false)
 
   // --- IndexedDB Helpers ---
@@ -196,13 +200,9 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
 
     try {
       await applyFilters() // Call applyFilters to ensure filteredCards is up-to-date
+      searchCountDetails.value.actualResultCount = filteredCards.value.length
+      searchCountDetails.value.isCountOverThreshold = filteredCards.value.length > 1000
       searchResults.value = filteredCards.value.slice(0, 1000)
-
-      if (filteredCards.value.length > 1000) {
-        console.warn(
-          `Search results are too large (${filteredCards.value.length}), showing only the first 1000`
-        )
-      }
     } catch (e) {
       console.error('Search error:', e)
       error.value = e
@@ -242,6 +242,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     selectedPowerRange,
     // Results
     searchResults,
+    searchCountDetails,
     hasActiveFilters,
     // Actions
     initialize,
