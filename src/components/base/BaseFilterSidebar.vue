@@ -14,6 +14,7 @@
         <v-text-field
           label="关键字"
           placeholder="卡号、卡名、效果"
+          hide-details="auto"
           clearable
           v-model="keywordInput"
           variant="underlined"
