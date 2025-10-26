@@ -149,7 +149,7 @@ const filterOptions = {
     max: maxCost === -Infinity ? 0 : maxCost,
   },
   powerRange: {
-    min: minPower === Infinity ? 0 : minPower,
+    min: minPower === Infinity ? 0 : Math.floor(minPower / 500) * 500,
     max: maxPower === -Infinity ? 0 : maxPower,
   },
 }
