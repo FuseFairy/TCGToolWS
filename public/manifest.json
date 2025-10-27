@@ -1,0 +1,23 @@
+{
+  "short_name": "UClimax",
+  "name": "UClimax",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+
+  "start_url": "/home",
+  "scope": "/",
+
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#171a1d"
+}
