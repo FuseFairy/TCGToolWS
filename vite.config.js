@@ -12,6 +12,8 @@ import svgLoader from 'vite-svg-loader'
 // https://vite.dev/config/
 export default defineConfig({
   server: {
+    host: true,
+    allowedHosts: true,
     cors: true,
   },
   preview: {
