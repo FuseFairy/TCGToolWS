@@ -1,6 +1,7 @@
 import { fileURLToPath, URL } from 'node:url'
 
 import { defineConfig } from 'vite'
+import { VitePWA } from 'vite-plugin-pwa'
 import { visualizer } from 'rollup-plugin-visualizer'
 import { cloudflare } from '@cloudflare/vite-plugin'
 import vue from '@vitejs/plugin-vue'
@@ -40,6 +41,24 @@ export default defineConfig({
       targets: ['defaults'],
     }),
     cloudflare(),
+    VitePWA({
+      workbox: {
+        globPatterns: [],
+        navigateFallback: null,
+        skipWaiting: true,
+        clientsClaim: true,
+        runtimeCaching: [
+          {
+            urlPattern: /.*/,
+            handler: 'NetworkOnly',
+          },
+        ],
+      },
+      devOptions: {
+        enabled: true,
+        type: 'module',
+      },
+    }),
   ],
   resolve: {
     alias: {
