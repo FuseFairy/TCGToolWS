@@ -236,7 +236,7 @@ watch(isTableModeActive, () => {
 })
 
 const sheetTitle = computed(() => {
-  if (sheetContent.value === 'filter') return '搜寻'
+  if (sheetContent.value === 'filter') return '搜索'
   if (sheetContent.value === 'deck') return '卡组'
   return ''
 })
