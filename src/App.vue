@@ -199,10 +199,10 @@ const titleImgStyle = computed(() => {
 })
 
 const appBarColor = computed(() => {
-  const hasBackgroundImage = !!uiStore.backgroundImage
+  const hasBackgroundImage = computed(() => !!uiStore.backgroundImage)
   const isLightTheme = vuetifyTheme.global.name.value === 'light'
 
-  if (hasBackgroundImage) {
+  if (hasBackgroundImage.value) {
     // 如果有背景圖，就使用帶透明度的版本
     return isLightTheme ? '#E0E0E0CC' : '#424242CC'
   } else {

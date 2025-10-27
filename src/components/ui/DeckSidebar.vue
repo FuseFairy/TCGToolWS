@@ -283,7 +283,7 @@ const deckStore = useDeckStore()
 const { encodeDeck } = useDeckEncoder()
 const { triggerSnackbar } = useSnackbar()
 const uiStore = useUIStore()
-const hasBackgroundImage = !!uiStore.backgroundImage
+const hasBackgroundImage = computed(() => !!uiStore.backgroundImage)
 
 // Loading State
 const authStore = useAuthStore()

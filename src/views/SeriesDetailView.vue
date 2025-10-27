@@ -204,7 +204,7 @@ const rawHeaderHeight = ref(0)
 const filterIcon = computed(() => (isFilterOpen.value ? 'mdi-filter-off' : 'mdi-filter'))
 const headerOffsetHeight = computed(() => rawHeaderHeight.value)
 const listRef = ref(null)
-const hasBackgroundImage = !!uiStore.backgroundImage
+const hasBackgroundImage = computed(() => !!uiStore.backgroundImage)
 
 const { sheetContent, isSheetOpen, sheetHeight, startDrag } = useBottomSheet()
 

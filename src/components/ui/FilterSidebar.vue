@@ -133,7 +133,7 @@
 </template>
 
 <script setup>
-import { ref, watch } from 'vue'
+import { ref, watch, computed } from 'vue'
 import { useDisplay } from 'vuetify'
 import { debounce } from 'es-toolkit'
 import { useUIStore } from '@/stores/ui'
@@ -157,7 +157,7 @@ const props = defineProps({
 
 const { smAndUp } = useDisplay()
 const uiStore = useUIStore()
-const hasBackgroundImage = !!uiStore.backgroundImage
+const hasBackgroundImage = computed(() => !!uiStore.backgroundImage)
 const filterStore = props.globalFilter ? useGlobalSearchStore() : useFilterStore()
 
 const keywordInput = ref(filterStore.keyword)

@@ -154,10 +154,10 @@ const uiStore = useUIStore()
 const { smAndDown, lgAndUp } = useDisplay()
 const { isTouch } = useDevice()
 const theme = useTheme()
-const hasBackgroundImage = !!uiStore.backgroundImage
+const hasBackgroundImage = computed(() => !!uiStore.backgroundImage)
 
 const isLightWithBg = computed(() => {
-  return hasBackgroundImage && theme.global.name.value === 'light'
+  return hasBackgroundImage.value && theme.global.name.value === 'light'
 })
 
 const imageUrl = useCardImage(

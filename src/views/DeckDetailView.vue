@@ -249,7 +249,7 @@ const deckKey = route.params.key
 const isLocalDeck = computed(() => deckKey === 'local')
 const deck = ref(null)
 const cards = ref({})
-const hasBackgroundImage = !!uiStore.backgroundImage
+const hasBackgroundImage = computed(() => !!uiStore.backgroundImage)
 
 const handleShareCard = async () => {
   if (!deckKey || isLocalDeck.value) {

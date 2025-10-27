@@ -64,10 +64,10 @@ const props = defineProps({
 
 const uiStore = useUIStore()
 const theme = useTheme()
-const hasBackgroundImage = !!uiStore.backgroundImage
+const hasBackgroundImage = computed(() => !!uiStore.backgroundImage)
 
 const isLightWithBg = computed(() => {
-  return hasBackgroundImage && theme.global.name.value === 'light'
+  return hasBackgroundImage.value && theme.global.name.value === 'light'
 })
 
 const iconUrl = computed(() => {

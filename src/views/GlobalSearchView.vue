@@ -203,7 +203,7 @@ const headerRef = ref(null)
 const { isFilterOpen, isTableModeActive, isCardDeckOpen } = storeToRefs(uiStore)
 const { searchCountDetails, hasActiveFilters, searchResults } = storeToRefs(globalSearchStore)
 const rawHeaderHeight = ref(0)
-const hasBackgroundImage = !!uiStore.backgroundImage
+const hasBackgroundImage = computed(() => !!uiStore.backgroundImage)
 
 const { sheetContent, isSheetOpen, sheetHeight, startDrag, smAndUp } = useBottomSheet()
 const { lgAndUp } = useDisplay()
