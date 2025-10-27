@@ -22,6 +22,13 @@
                 ></v-btn>
                 <v-btn
                   :size="resize"
+                  icon="mdi-link-variant"
+                  variant="text"
+                  :disabled="isLocalDeck"
+                  @click="handleCopyDeckKey"
+                ></v-btn>
+                <v-btn
+                  :size="resize"
                   icon="mdi-pencil"
                   variant="text"
                   @click="handleEditDeck"
@@ -192,6 +199,12 @@
           </template>
           <v-list-item-title>分享卡组</v-list-item-title>
         </v-list-item>
+        <v-list-item v-if="!isLocalDeck" @click="handleCopyClick">
+          <template #prepend>
+            <v-icon>mdi-link-variant</v-icon>
+          </template>
+          <v-list-item-title>复制卡组代码</v-list-item-title>
+        </v-list-item>
         <v-list-item @click="handleDownloadClick">
           <template #prepend>
             <v-icon>mdi-download</v-icon>
@@ -247,6 +260,20 @@ const handleShareCard = async () => {
   try {
     await navigator.clipboard.writeText(shareUrl)
     triggerSnackbar('分享链接已复制到剪贴板', 'success')
+  } catch (err) {
+    console.error('Failed to copy: ', err)
+    triggerSnackbar('复制失败', 'error')
+  }
+}
+
+const handleCopyDeckKey = async () => {
+  if (!deckKey || isLocalDeck.value) {
+    triggerSnackbar('无法复制卡组代码', 'error')
+    return
+  }
+  try {
+    await navigator.clipboard.writeText(deckKey)
+    triggerSnackbar('卡组代码已复制到剪贴板', 'success')
   } catch (err) {
     console.error('Failed to copy: ', err)
     triggerSnackbar('复制失败', 'error')
@@ -473,6 +500,10 @@ const handleDownloadClick = () => {
 }
 const handleShareClick = () => {
   handleShareCard()
+  showMoreActionsBottomSheet.value = false
+}
+const handleCopyClick = () => {
+  handleCopyDeckKey()
   showMoreActionsBottomSheet.value = false
 }
 </script>
