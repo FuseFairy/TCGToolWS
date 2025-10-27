@@ -2,6 +2,10 @@ import { createRouter, createWebHistory } from 'vue-router'
 import { useAuthStore } from '@/stores/auth'
 import { useUIStore } from '@/stores/ui'
 import { jwtDecode } from 'jwt-decode'
+import NProgress from 'nprogress'
+import 'nprogress/nprogress.css'
+
+NProgress.configure({ showSpinner: false })
 
 const routes = [
   {
@@ -69,6 +73,8 @@ const router = createRouter({
 })
 
 router.beforeEach(async (to, from, next) => {
+  NProgress.start()
+
   const authStore = useAuthStore()
   const token = authStore.token
 
@@ -112,6 +118,7 @@ router.afterEach((to, from) => {
   }
 
   uiStore.isCardDeckOpen = false
+  NProgress.done()
 })
 
 export default router

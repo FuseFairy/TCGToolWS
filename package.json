@@ -29,6 +29,7 @@
     "lean-qr": "^2.6.0",
     "localforage": "^1.10.0",
     "nanoid": "^5.1.6",
+    "nprogress": "^0.2.0",
     "pako": "^2.1.0",
     "pinia": "^3.0.3",
     "pinia-plugin-persistedstate": "^4.5.0",
