@@ -13,6 +13,7 @@
     v-else
     ref="infiniteScrollRef"
     class="overflow-x-hidden"
+    :class="{ 'hide-loader': shouldHideLoader }"
     @load="load"
     empty-text=""
     :margin="margin"
@@ -104,8 +105,12 @@ const props = defineProps({
   },
 })
 
-const { smAndDown, smAndUp } = useDisplay()
+const { smAndDown, smAndUp, xs } = useDisplay()
 const uiStore = useUIStore()
+
+// Handle edge case: In xs layout, when the infinite scroll content is less than or equal to one row,
+// the load function won't be triggered automatically. Therefore, v-progress-circular must be manually hidden.
+const shouldHideLoader = computed(() => xs.value && props.cards.length <= 3)
 
 const isModalVisible = ref(false)
 const selectedCardData = ref(null)
@@ -364,5 +369,9 @@ onUnmounted(() => {
   .card-grid-container.table-mode-grid {
     grid-template-columns: repeat(auto-fill, minmax(30%, 1fr)); /* 3 cards in xs for table mode */
   }
+}
+
+.v-infinite-scroll.hide-loader :deep(.v-infinite-scroll__side .v-progress-circular) {
+  display: none;
 }
 </style>
