@@ -70,6 +70,28 @@ files.forEach((filename) => {
 
 console.log(`     - Processed a total of ${cardCount} cards.`)
 
+// 計算基礎卡片資料的 hash，這步不包含 link
+const cardDataContent = JSON.stringify(allCards)
+const hash = crypto.createHash('sha256').update(cardDataContent).digest('hex').substring(0, 8)
+const version = `v${hash}`
+
+console.log(`     - Data Hash: ${hash}`)
+
+// 檢測內容變化，並判斷是否需要重新產生檔案
+try {
+  const nowManifest = JSON.parse(fs.readFileSync(MANIFEST_FILE, 'utf-8'))
+  if (version === nowManifest.version) {
+    console.log('⏭️ The content has not changed, skip the remaining steps...')
+    process.exit(0)
+  }
+} catch (error) {
+  if (error.code === 'ENOENT') {
+    console.log('⚒️ Manifest file not found, start creating files...')
+  } else {
+    throw error
+  }
+}
+
 // 處理卡片連結（效果文字中提到的其他卡片）
 console.log('     - Processing card links...')
 
@@ -160,31 +182,11 @@ const output = {
   cards: allCards,
 }
 
-// 計算內容 hash
-const content = JSON.stringify(output)
-const hash = crypto.createHash('sha256').update(content).digest('hex').substring(0, 8)
-const version = `v${hash}`
-
 // 加入版本號到輸出
 output.version = version
 
-console.log(`🔐 Content Hash: ${hash}`)
-
-// 檢測內容變化，並判斷是否需要重新產生檔案
-try {
-  const nowManifest = JSON.parse(fs.readFileSync(MANIFEST_FILE, 'utf-8'))
-  const currentVersion = nowManifest.version
-  if (version == currentVersion) {
-    console.log('⏭️ The content has not changed, skip the remaining steps...')
-    process.exit(0)
-  }
-} catch (error) {
-  if (error.code === 'ENOENT') {
-    console.log('⚒️ Manifest file not found, start creating files...')
-  } else {
-    throw error
-  }
-}
+// 將最終 output 物件轉換為 JSON 字串以供壓縮
+const content = JSON.stringify(output)
 
 // 使用帶 hash 的檔名
 const outputFileName = `all_cards_db.${hash}.bin`
