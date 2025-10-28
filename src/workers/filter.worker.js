@@ -106,15 +106,18 @@ const CardFilterService = {
   /**
    * 根據關鍵字搜尋卡片，並將結果暫存起來
    * @param {string} keyword - 用於搜尋的關鍵字
+   * @param {string} searchMode - 搜尋模式 ('fuzzy' 或 'precise')
    */
-  searchByKeyword: (keyword) => {
+  searchByKeyword: (keyword, searchMode = 'precise') => {
     if (!keyword) {
       keywordResultsCache = allCards
       return
     }
 
     if (keyword.length >= 2) {
-      console.log(`Searching for "${keyword}" with FlexSearch in ${allCards.length} items...`)
+      console.log(
+        `Searching for "${keyword}" with mode "${searchMode}" in ${allCards.length} items...`
+      )
       console.time('search time')
 
       // FlexSearch 搜索
@@ -131,20 +134,21 @@ const CardFilterService = {
       // 取出卡片物件
       let results = Array.from(matchedIndices).map((idx) => allCards[idx])
 
-      // 用 includes 過濾
-      const lowerKeyword = keyword.toLowerCase()
-
-      results = results.filter(
-        (card) =>
-          (card.name && card.name.toLowerCase().includes(lowerKeyword)) ||
-          (card.id && card.id.toLowerCase().includes(lowerKeyword)) ||
-          (card.effect && card.effect.toLowerCase().includes(lowerKeyword))
-      )
+      // precise 模式下用 includes 過濾
+      if (searchMode === 'precise') {
+        const lowerKeyword = keyword.toLowerCase()
+        results = results.filter(
+          (card) =>
+            (card.name && card.name.toLowerCase().includes(lowerKeyword)) ||
+            (card.id && card.id.toLowerCase().includes(lowerKeyword)) ||
+            (card.effect && card.effect.toLowerCase().includes(lowerKeyword))
+        )
+      }
 
       // 精確匹配排前面
       results.sort((a, b) => {
-        const aExact = a.name === keyword || a.id === keyword || a.effect === keyword
-        const bExact = b.name === keyword || b.id === keyword || b.effect === keyword
+        const aExact = a.name === keyword || a.id === keyword || a.effect.includes(keyword)
+        const bExact = b.name === keyword || b.id === keyword || b.effect.includes(keyword)
         if (aExact && !bExact) return -1
         if (!aExact && bExact) return 1
         return 0

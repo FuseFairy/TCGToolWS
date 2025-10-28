@@ -11,15 +11,43 @@
       :color="transparent ? 'transparent' : undefined"
     >
       <div class="d-flex flex-column ga-4">
-        <v-text-field
-          label="关键字"
-          placeholder="卡号、卡名、效果"
-          hide-details="auto"
-          clearable
-          v-model="keywordInput"
-          variant="underlined"
-          :rules="[(v) => !v || v.length >= 2 || '关键字至少输入2个字符']"
-        ></v-text-field>
+        <div class="d-flex ga-2 align-center">
+          <v-text-field
+            class="flex-grow-1"
+            label="关键字"
+            placeholder="卡号、卡名、效果"
+            hide-details="auto"
+            v-model="keywordInput"
+            variant="underlined"
+            :rules="[(v) => !v || v.length >= 2 || '关键字至少输入2个字符']"
+          >
+            <template v-slot:append-inner>
+              <v-tooltip location="bottom">
+                <template v-slot:activator="{ props }">
+                  <v-btn
+                    icon
+                    v-bind="props"
+                    size="x-small"
+                    variant="text"
+                    class="mr-2"
+                    @click="toggleSearchMode"
+                    :color="
+                      filterStore.searchMode === 'fuzzy'
+                        ? 'orange-lighten-2'
+                        : 'light-blue-lighten-2'
+                    "
+                  >
+                    <v-icon
+                      :icon="filterStore.searchMode === 'fuzzy' ? fuzzyIcon : preciseIcon"
+                      size="17"
+                    ></v-icon>
+                  </v-btn>
+                </template>
+                <span>{{ filterStore.searchMode === 'fuzzy' ? '模糊搜索' : '精准搜索' }}</span>
+              </v-tooltip>
+            </template>
+          </v-text-field>
+        </div>
 
         <v-switch
           label="高罕过滤"
@@ -140,6 +168,9 @@ import { useUIStore } from '@/stores/ui'
 import { useFilterStore } from '@/stores/filter'
 import { useGlobalSearchStore } from '@/stores/globalSearch'
 
+import preciseIcon from '@/assets/ui/precise.svg'
+import fuzzyIcon from '@/assets/ui/fuzzy.svg'
+
 const props = defineProps({
   headerOffsetHeight: {
     type: Number,
@@ -169,6 +200,10 @@ const updateKeyword = debounce((val) => {
 watch(keywordInput, (val) => {
   updateKeyword(val)
 })
+
+const toggleSearchMode = () => {
+  filterStore.searchMode = filterStore.searchMode === 'fuzzy' ? 'precise' : 'fuzzy'
+}
 </script>
 
 <style scoped></style>

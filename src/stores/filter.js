@@ -24,6 +24,7 @@ export const useFilterStore = defineStore('filter', () => {
   // Use the composable for filtering logic
   const {
     keyword,
+    searchMode,
     selectedCardTypes,
     selectedColors,
     selectedProductName,
@@ -260,6 +261,7 @@ export const useFilterStore = defineStore('filter', () => {
     costRange,
     powerRange,
     keyword,
+    searchMode,
     selectedCardTypes,
     selectedColors,
     selectedProductName,

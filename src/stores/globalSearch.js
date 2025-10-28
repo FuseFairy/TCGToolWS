@@ -25,6 +25,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
   // Use the composable for filtering logic
   const {
     keyword,
+    searchMode,
     selectedCardTypes,
     selectedColors,
     selectedProductName,
@@ -206,6 +207,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     powerRange,
     // Selected Filters
     keyword,
+    searchMode,
     selectedCardTypes,
     selectedColors,
     selectedProductName,

@@ -11,6 +11,7 @@ export const useCardFiltering = (
 ) => {
   // User-selected filter values
   const keyword = ref('')
+  const searchMode = ref('precise') // precise or fuzzy
   const selectedCardTypes = ref([])
   const selectedColors = ref([])
   const selectedProductName = ref(null)
@@ -67,7 +68,7 @@ export const useCardFiltering = (
       console.warn('Worker API not initialized, cannot apply keyword search.')
       return
     }
-    await workerApiInstance.searchByKeyword(toRaw(keyword.value))
+    await workerApiInstance.searchByKeyword(toRaw(keyword.value), toRaw(searchMode.value))
     await applyAttributeFilters()
   }
 
@@ -81,7 +82,7 @@ export const useCardFiltering = (
   }
 
   // Watch for keyword changes to perform a new search
-  watch(keyword, applyKeywordSearchAndFilter)
+  watch([keyword, searchMode], applyKeywordSearchAndFilter)
 
   // Watch for other filter changes to refine the current search results
   watch(
@@ -102,6 +103,7 @@ export const useCardFiltering = (
 
   const resetFilters = () => {
     keyword.value = ''
+    searchMode.value = 'precise'
     selectedCardTypes.value = []
     selectedColors.value = []
     selectedProductName.value = null
@@ -122,6 +124,7 @@ export const useCardFiltering = (
   return {
     // State
     keyword,
+    searchMode,
     selectedCardTypes,
     selectedColors,
     selectedProductName,
