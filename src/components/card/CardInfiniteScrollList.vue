@@ -274,7 +274,6 @@ const freezeLayout = () => {
 }
 
 const shouldBePerformanceMode = computed(() => {
-  console.log(displayedCards.value.length, displayedCards.value.length > props.performanceThreshold)
   return displayedCards.value.length > props.performanceThreshold
 })
 
