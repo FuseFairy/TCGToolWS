@@ -55,5 +55,3 @@ icon_crawler.py
 
 public/all_cards_db.*.bin
 public/card-db-manifest.json
-
-dev-dist/
