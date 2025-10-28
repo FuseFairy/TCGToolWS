@@ -1,10 +1,11 @@
-import fuzzysort from 'fuzzysort'
+import { Document, Charset } from 'flexsearch'
 import { expose } from 'comlink'
 
 const toLevel = (level) => (level === '-' ? 0 : +level)
 
 let allCards = []
 let keywordResultsCache = null
+let searchIndex = null
 
 const CardFilterService = {
   /**
@@ -14,7 +15,28 @@ const CardFilterService = {
   init: (cards) => {
     allCards = cards
     keywordResultsCache = null
-    console.log(`fuzzysort is ready for ${allCards.length} cards.`)
+
+    // 建立 FlexSearch Document 索引
+    searchIndex = new Document({
+      tokenize: 'forward',
+      encoder: Charset.CJK,
+      document: {
+        id: 'index',
+        index: ['name', 'effect', 'id'],
+      },
+    })
+
+    // 將所有卡片加入索引
+    allCards.forEach((card, idx) => {
+      searchIndex.add({
+        index: idx, // 使用陣列索引作為 ID
+        name: card.name || '',
+        effect: card.effect || '',
+        id: card.id || '',
+      })
+    })
+
+    console.log(`FlexSearch is ready for ${allCards.length} cards.`)
   },
 
   /**
@@ -28,20 +50,42 @@ const CardFilterService = {
     }
 
     if (keyword.length >= 2) {
-      console.log(`Searching for "${keyword}" with fuzzysort in ${allCards.length} items...`)
+      console.log(`Searching for "${keyword}" with FlexSearch in ${allCards.length} items...`)
+      console.time('search time')
 
-      // fuzzysort 的選項
-      const options = {
-        keys: ['name', 'effect', 'id'],
-        threshold: 0.2,
-      }
+      // FlexSearch 搜索
+      const searchResults = searchIndex.search(keyword, { limit: Infinity })
 
-      console.time('fuzzysort search time')
-      const searchResults = fuzzysort.go(keyword, allCards, options)
-      console.timeEnd('fuzzysort search time')
+      // 收集所有匹配索引
+      const matchedIndices = new Set()
+      searchResults.forEach((fieldResult) => {
+        if (fieldResult && fieldResult.result) {
+          fieldResult.result.forEach((idx) => matchedIndices.add(idx))
+        }
+      })
 
-      console.log(`fuzzysort found ${searchResults.length} potential matches.`)
-      keywordResultsCache = searchResults.map((result) => result.obj)
+      // 取出卡片物件
+      let results = Array.from(matchedIndices).map((idx) => allCards[idx])
+
+      // 用 includes 過濾
+      results = results.filter(
+        (card) =>
+          card.name.includes(keyword) || card.id.includes(keyword) || card.effect.includes(keyword)
+      )
+
+      // 精確匹配排前面
+      results.sort((a, b) => {
+        const aExact = a.name === keyword || a.id === keyword || a.effect === keyword
+        const bExact = b.name === keyword || b.id === keyword || b.effect === keyword
+        if (aExact && !bExact) return -1
+        if (!aExact && bExact) return 1
+        return 0
+      })
+
+      console.timeEnd('search time')
+      console.log(`Search found ${matchedIndices.size} potential matches.`)
+
+      keywordResultsCache = results
     } else {
       keywordResultsCache = []
     }
