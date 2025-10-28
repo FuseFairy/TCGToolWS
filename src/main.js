@@ -6,6 +6,7 @@ import router from './router'
 import piniaPluginPersistedstate from 'pinia-plugin-persistedstate'
 import { piniaVersioningPlugin } from '@/plugins/pinia-versioning.js'
 import { useUIStore } from './stores/ui'
+import { registerSW } from 'virtual:pwa-register'
 
 import '@/assets/styles/main.css'
 import 'vuetify/styles'
@@ -18,19 +19,13 @@ const bootstrap = async () => {
     }
   })
 
-  // 註冊 Service Worker
-  if ('serviceWorker' in navigator) {
-    window.addEventListener('load', () => {
-      navigator.serviceWorker
-        .register('/sw.js')
-        .then(() => {
-          console.log('Service Worker registration successful!')
-        })
-        .catch((registrationError) => {
-          console.log('Service Worker registration failed:', registrationError)
-        })
-    })
-  }
+  registerSW({
+    immediate: true,
+    onNeedRefresh() {
+      console.log('New content available, reloading...')
+      window.location.reload()
+    },
+  })
 
   const app = createApp(App)
   const pinia = createPinia()
