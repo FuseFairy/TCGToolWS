@@ -26,7 +26,7 @@ export const useCardFiltering = (
   let workerInstance = null
   let workerApiInstance = null
 
-  const initializeWorker = async (cards) => {
+  const initializeWorker = async (cards, options) => {
     // Terminate existing worker if any, to ensure a clean state
     terminateWorker()
 
@@ -34,7 +34,7 @@ export const useCardFiltering = (
       console.log('正在建立並初始化新的 Worker...')
       workerInstance = new FilterWorker()
       workerApiInstance = Comlink.wrap(workerInstance)
-      await workerApiInstance.init(toRaw(cards))
+      await workerApiInstance.init(toRaw(cards), toRaw(options))
       await applyKeywordSearchAndFilter() // Trigger initial filtering after worker is ready
     } else {
       // If no cards, ensure results are empty

@@ -2,6 +2,11 @@ import { defineStore } from 'pinia'
 import { ref, watch } from 'vue'
 import { inflate } from 'pako'
 import { useCardFiltering } from '@/composables/useCardFiltering.js'
+import { openDB, saveData, loadData } from '@/utils/db.js'
+
+const dbName = 'CardDataDB'
+const storeName = 'cardStore'
+const dbKey = 'card-data'
 
 export const useGlobalSearchStore = defineStore('globalSearch', () => {
   // --- State ---
@@ -67,48 +72,9 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     hasActiveFilters.value = hasAnyActiveFilters
   })
 
-  // --- IndexedDB Helpers ---
-  const dbName = 'CardDataDB'
-  const storeName = 'cardStore'
-  const dbKey = 'card-data'
-
-  const openDB = () => {
-    return new Promise((resolve, reject) => {
-      const request = indexedDB.open(dbName, 1)
-      request.onerror = () => reject(new Error('❌ Failed to open IndexedDB'))
-      request.onsuccess = () => resolve(request.result)
-      request.onupgradeneeded = (event) => {
-        const db = event.target.result
-        if (!db.objectStoreNames.contains(storeName)) {
-          db.createObjectStore(storeName, { keyPath: 'key' })
-        }
-      }
-    })
-  }
-
-  const saveDataToDB = (db, data) => {
-    return new Promise((resolve, reject) => {
-      const transaction = db.transaction([storeName], 'readwrite')
-      const store = transaction.objectStore(storeName)
-      const request = store.put({ key: dbKey, data })
-      request.onerror = () => reject(new Error('❌ Failed to save data to IndexedDB'))
-      request.onsuccess = () => resolve(request.result)
-    })
-  }
-
-  const loadDataFromDB = (db) => {
-    return new Promise((resolve, reject) => {
-      const transaction = db.transaction([storeName], 'readonly')
-      const store = transaction.objectStore(storeName)
-      const request = store.get(dbKey)
-      request.onerror = () => reject(new Error('❌ Failed to load data from IndexedDB'))
-      request.onsuccess = () => resolve(request.result?.data)
-    })
-  }
-
   // --- Data Loading Logic ---
 
-  const setCardData = async (data, source) => {
+  const setCardData = async (data, source, version) => {
     allCards.value = data.cards
     productNames.value = data.filterOptions.productNames
     traits.value = data.filterOptions.traits
@@ -116,7 +82,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     costRange.value = data.filterOptions.costRange
     powerRange.value = data.filterOptions.powerRange
     resetFilters()
-    await initializeWorker(data.cards)
+    await initializeWorker(data.cards, { cacheKey: 'global-search-index', version })
     console.log(`✅ Successfully loaded ${allCards.value.length} cards from ${source}`)
   }
 
@@ -135,11 +101,11 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
       const decompressed = inflate(new Uint8Array(compressedBuffer), { to: 'string' })
       const data = JSON.parse(decompressed)
 
-      db = await openDB()
-      await saveDataToDB(db, data)
+      db = await openDB(dbName, storeName, 'key')
+      await saveData(db, storeName, { key: dbKey, data })
       console.log('💾 Card data has been stored in the local database (IndexedDB)')
 
-      await setCardData(data, 'remote server')
+      await setCardData(data, 'remote server', version)
 
       localStorage.setItem('global_search_index_version', version)
       console.log(`📌 Version updated: ${version}`)
@@ -153,17 +119,18 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
     }
   }
 
-  const loadDataFromLocal = async () => {
+  const loadDataFromLocal = async (version) => {
     isLoading.value = true
     let db
     try {
-      db = await openDB()
-      const cachedData = await loadDataFromDB(db)
+      db = await openDB(dbName, storeName, 'key')
+      const result = await loadData(db, storeName, dbKey)
+      const cachedData = result?.data
       if (!cachedData) {
         console.warn('⚠️ Local cache is empty or invalid.')
         throw new Error('Local cache is empty.') // Trigger fallback
       }
-      await setCardData(cachedData, 'local database (IndexedDB)')
+      await setCardData(cachedData, 'local database (IndexedDB)', version)
     } catch (e) {
       console.error('❌ Failed to load from local database:', e)
       throw e // Re-throw to be caught by initialize for fallback
@@ -193,7 +160,7 @@ export const useGlobalSearchStore = defineStore('globalSearch', () => {
       if (storedVersion === currentVersion) {
         console.log('✅ Versions match, trying to load from local database...')
         try {
-          await loadDataFromLocal()
+          await loadDataFromLocal(currentVersion)
           // eslint-disable-next-line no-unused-vars
         } catch (e) {
           console.log('↪️ Local load failed, fetching from remote...')

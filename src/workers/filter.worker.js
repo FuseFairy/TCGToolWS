@@ -1,5 +1,9 @@
 import { Document, Charset } from 'flexsearch'
 import { expose } from 'comlink'
+import { openDB, saveData, loadData } from '@/utils/db.js'
+
+const dbName = 'FlexSearchCacheDB'
+const storeName = 'flexsearch-indexes'
 
 const toLevel = (level) => (level === '-' ? 0 : +level)
 
@@ -7,36 +11,96 @@ let allCards = []
 let keywordResultsCache = null
 let searchIndex = null
 
+const createNewIndex = () => {
+  return new Document({
+    tokenize: 'forward',
+    encoder: Charset.CJK,
+    document: {
+      id: 'index',
+      index: ['name', 'effect', 'id'],
+    },
+  })
+}
+
+const addAllToIndex = (cards, index) => {
+  // 將卡片加入索引
+  cards.forEach((card, idx) => {
+    index.add({
+      index: idx, // 使用陣列索引作為 ID
+      name: card.name || '',
+      effect: card.effect || '',
+      id: card.id || '',
+    })
+  })
+}
+
 const CardFilterService = {
   /**
    * 初始化服務，接收全部卡片資料
    * @param {Array} cards - 所有的卡片資料
+   * @param {object} options - 初始化選項
+   * @param {string} options.version - 版本號
+   * @param {string} options.cacheKey - 索引緩存鍵
    */
-  init: (cards) => {
+  init: async (cards, options = {}) => {
+    const { version, cacheKey } = options
     allCards = cards
     keywordResultsCache = null
 
-    // 建立 FlexSearch Document 索引
-    searchIndex = new Document({
-      tokenize: 'forward',
-      encoder: Charset.CJK,
-      document: {
-        id: 'index',
-        index: ['name', 'effect', 'id'],
-      },
-    })
+    if (!cacheKey) {
+      console.log('Cache key not provided, creating temporary index.')
+      searchIndex = createNewIndex()
+      addAllToIndex(allCards, searchIndex)
+      console.log(`FlexSearch is ready for ${allCards.length} cards.`)
+      return
+    }
 
-    // 將所有卡片加入索引
-    allCards.forEach((card, idx) => {
-      searchIndex.add({
-        index: idx, // 使用陣列索引作為 ID
-        name: card.name || '',
-        effect: card.effect || '',
-        id: card.id || '',
-      })
-    })
+    console.log(`Initializing with cacheKey: ${cacheKey}, version: ${version}`)
+    console.time('Index Initialization')
 
-    console.log(`FlexSearch is ready for ${allCards.length} cards.`)
+    let db
+    try {
+      db = await openDB(dbName, storeName, 'cacheKey')
+      const stored = await loadData(db, storeName, cacheKey)
+
+      if (stored && stored.version === version) {
+        console.log('Found valid cached index. Importing...')
+        console.time('Index Import')
+        searchIndex = createNewIndex()
+        // FlexSearch's import is synchronous in this context
+        for (const key in stored.indexParts) {
+          searchIndex.import(key, stored.indexParts[key])
+        }
+        console.timeEnd('Index Import')
+      } else {
+        console.log('No valid cached index found or version mismatch. Creating new index...')
+        console.time('Index Creation')
+        searchIndex = createNewIndex()
+        addAllToIndex(allCards, searchIndex)
+        console.timeEnd('Index Creation')
+
+        console.log('Exporting and caching new index...')
+        console.time('Index Export & Cache')
+        const indexParts = {}
+        // FlexSearch's export is synchronous and uses a callback
+        searchIndex.export((key, data) => {
+          indexParts[key] = data
+        })
+        await saveData(db, storeName, { cacheKey, version, indexParts })
+        console.timeEnd('Index Export & Cache')
+      }
+    } catch (e) {
+      console.error(
+        'Error during index initialization with cache, falling back to temporary index:',
+        e
+      )
+      searchIndex = createNewIndex()
+      addAllToIndex(allCards, searchIndex)
+    } finally {
+      if (db) db.close()
+      console.timeEnd('Index Initialization')
+      console.log(`FlexSearch is ready for ${allCards.length} cards.`)
+    }
   },
 
   /**
