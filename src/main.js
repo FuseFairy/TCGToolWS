@@ -41,6 +41,8 @@ const bootstrap = async () => {
   app.use(pinia)
 
   const uiStore = useUIStore()
+
+  uiStore.setLoading(false)
   await uiStore.restoreBackgroundImage()
 
   app.use(router)
