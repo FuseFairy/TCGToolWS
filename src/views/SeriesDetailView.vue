@@ -204,7 +204,7 @@ const deckStore = useDeckStore()
 const filterStore = useFilterStore()
 const uiStore = useUIStore()
 const headerRef = ref(null)
-const { isCardDeckOpen, isFilterOpen, isTableModeActive } = storeToRefs(uiStore)
+const { isCardDeckOpen, isFilterOpen, isTableModeActive, isPerformanceMode } = storeToRefs(uiStore)
 const rawHeaderHeight = ref(0)
 const filterIcon = computed(() => (isFilterOpen.value ? 'mdi-filter-off' : 'mdi-filter'))
 const headerOffsetHeight = computed(() => rawHeaderHeight.value)
@@ -212,12 +212,6 @@ const listRef = ref(null)
 const hasBackgroundImage = computed(() => !!uiStore.backgroundImage)
 
 const performanceThreshold = 1000
-const isPerformanceMode = computed(
-  () => {
-    // console.log(filterStore.filteredCards.length)
-    return filterStore.filteredCards.length > performanceThreshold
-  }
-)
 
 const { sheetContent, isSheetOpen, sheetHeight, startDrag } = useBottomSheet()
 

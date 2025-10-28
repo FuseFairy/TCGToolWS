@@ -112,9 +112,6 @@ const props = defineProps({
 const { smAndDown, smAndUp, xs } = useDisplay()
 const uiStore = useUIStore()
 
-const isPerformanceMode = computed(() => props.cards.length > props.performanceThreshold)
-const showPerformanceOverlay = ref(false)
-
 // Handle edge case: In xs layout, when the infinite scroll content is less than or equal to one row,
 // the load function won't be triggered automatically. Therefore, v-progress-circular must be manually hidden.
 const shouldHideLoader = computed(() => xs.value && props.cards.length <= 3)
@@ -276,23 +273,20 @@ const freezeLayout = () => {
   }, 450)
 }
 
+const shouldBePerformanceMode = computed(() => {
+  console.log(displayedCards.value.length, displayedCards.value.length > props.performanceThreshold)
+  return displayedCards.value.length > props.performanceThreshold
+})
+
+watch(shouldBePerformanceMode, (isPerformanceMode) => {
+  if (uiStore.isPerformanceMode !== isPerformanceMode) {
+    uiStore.setPerformanceMode(isPerformanceMode)
+  }
+})
+
 // Watch sidebar states from UI store
 watch([() => uiStore.isFilterOpen, () => uiStore.isCardDeckOpen], () => {
-  if (isPerformanceMode.value) {
-    // For large DOM, freezing layout is still janky.
-    // Show an overlay to hide the reflow instead.
-    showPerformanceOverlay.value = true
-
-    if (freezeTimeout) {
-      clearTimeout(freezeTimeout)
-    }
-
-    freezeTimeout = setTimeout(() => {
-      showPerformanceOverlay.value = false
-    }, 450) // Sync with sidebar animation duration
-  } else {
-    freezeLayout()
-  }
+  if (!shouldBePerformanceMode.value) freezeLayout()
 })
 
 onMounted(() => {
@@ -318,6 +312,8 @@ onUnmounted(() => {
   if (freezeTimeout) {
     clearTimeout(freezeTimeout)
   }
+  // Reset performance mode when leaving the view
+  uiStore.setPerformanceMode(false)
 })
 </script>
 

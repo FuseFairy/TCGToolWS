@@ -17,6 +17,7 @@ export const useUIStore = defineStore(
     const isCardDeckOpen = ref(false)
     const isLoading = ref(false)
     const isTableModeActive = ref(false)
+    const isPerformanceMode = ref(false)
 
     const backgroundImage = ref(null)
 
@@ -29,6 +30,10 @@ export const useUIStore = defineStore(
 
     const setLoading = (status) => {
       isLoading.value = status
+    }
+
+    const setPerformanceMode = (status) => {
+      isPerformanceMode.value = status
     }
 
     const setBackgroundImage = ({ canvas }) => {
@@ -65,6 +70,8 @@ export const useUIStore = defineStore(
       isLoading,
       setLoading,
       isTableModeActive,
+      isPerformanceMode,
+      setPerformanceMode,
       backgroundImage,
       setBackgroundImage,
       updateBackgroundImage,
