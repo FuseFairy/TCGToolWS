@@ -67,7 +67,11 @@
         </div>
       </div>
 
-      <div class="d-flex flex-row overflow-hidden fill-height" style="position: relative">
+      <div
+        class="d-flex flex-row overflow-hidden fill-height"
+        style="position: relative"
+        :class="{ 'performance-mode': isPerformanceMode }"
+      >
         <template v-if="smAndUp">
           <div class="sidebar-container" :class="{ 'left-sidebar-open': isFilterOpen }">
             <BaseFilterSidebar
@@ -82,6 +86,7 @@
           :cards="filterStore.filteredCards"
           :header-offset-height="headerOffsetHeight"
           :is-table-mode-active="isTableModeActive"
+          :performance-threshold="performanceThreshold"
           margin=" 300"
           class="flex-grow-1 themed-scrollbar pl-4 pr-4"
         />
@@ -206,6 +211,14 @@ const headerOffsetHeight = computed(() => rawHeaderHeight.value)
 const listRef = ref(null)
 const hasBackgroundImage = computed(() => !!uiStore.backgroundImage)
 
+const performanceThreshold = 1000
+const isPerformanceMode = computed(
+  () => {
+    // console.log(filterStore.filteredCards.length)
+    return filterStore.filteredCards.length > performanceThreshold
+  }
+)
+
 const { sheetContent, isSheetOpen, sheetHeight, startDrag } = useBottomSheet()
 
 const observer = new ResizeObserver(([entry]) => {
@@ -289,10 +302,33 @@ useInfiniteScrollState({
 
 <style scoped>
 .sidebar-container {
-  width: 0;
-  transition: width 0.4s ease-in-out;
   overflow: hidden;
   flex-shrink: 0;
+  width: 0;
+  transition: width 0.4s ease-in-out;
+}
+
+.performance-mode > .sidebar-container {
+  opacity: 0;
+  pointer-events: none;
+  /*
+    On CLOSE: Animate opacity over 0.2s.
+    Delay the width change until after the opacity animation is finished.
+  */
+  transition:
+    opacity 0.2s ease-in-out,
+    width 0s ease-in-out 0.2s;
+}
+
+.performance-mode > .sidebar-container.left-sidebar-open,
+.performance-mode > .sidebar-container.right-sidebar-open {
+  opacity: 1;
+  pointer-events: auto;
+  /*
+    ON OPEN: Animate opacity over 0.2s.
+    Make the width change instant by removing the delay.
+  */
+  transition: opacity 0.2s ease-in-out;
 }
 
 /* Small tablet (sm) */
