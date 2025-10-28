@@ -68,9 +68,13 @@ const CardFilterService = {
       let results = Array.from(matchedIndices).map((idx) => allCards[idx])
 
       // 用 includes 過濾
+      const lowerKeyword = keyword.toLowerCase()
+
       results = results.filter(
         (card) =>
-          card.name.includes(keyword) || card.id.includes(keyword) || card.effect.includes(keyword)
+          (card.name && card.name.toLowerCase().includes(lowerKeyword)) ||
+          (card.id && card.id.toLowerCase().includes(lowerKeyword)) ||
+          (card.effect && card.effect.toLowerCase().includes(lowerKeyword))
       )
 
       // 精確匹配排前面
