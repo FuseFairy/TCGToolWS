@@ -44,7 +44,6 @@ export default defineConfig({
     VitePWA({
       workbox: {
         globPatterns: [],
-        navigateFallback: null,
         skipWaiting: true,
         clientsClaim: true,
         runtimeCaching: [
@@ -55,7 +54,7 @@ export default defineConfig({
         ],
       },
       devOptions: {
-        enabled: true,
+        enabled: false,
         type: 'module',
       },
     }),

@@ -25,9 +25,6 @@ const bootstrap = async () => {
       console.log('New content available, reloading...')
       window.location.reload()
     },
-    onOfflineReady() {
-      console.log('App is ready to work offline.')
-    },
   })
 
   const app = createApp(App)
