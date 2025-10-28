@@ -37,6 +37,7 @@
                 :size="buttonSize"
                 variant="flat"
                 color="grey-darken-3"
+                class="disabled-button"
                 :disabled="deckStore.isDeckFull"
                 @click.stop="deckStore.addCard(card)"
               ></v-btn>
@@ -45,11 +46,39 @@
                 :size="buttonSize"
                 variant="flat"
                 color="grey-lighten-2"
+                class="disabled-button"
                 :style="{ visibility: cardCount > 0 ? 'visible' : 'hidden' }"
                 @click.stop="deckStore.removeCard(card.id)"
               ></v-btn>
             </div>
           </v-fade-transition>
+
+          <div
+            v-if="(isTouch || smAndDown) && !isTableMode"
+            class="d-flex justify-center ga-10"
+            style="position: absolute; bottom: 8px; left: 8px; right: 8px; opacity: 0.95"
+          >
+            <v-btn
+              variant="flat"
+              size="x-small"
+              icon="mdi-minus"
+              color="grey-lighten-2"
+              class="disabled-button"
+              :disabled="cardCount === 0"
+              @click.stop="cardCount > 0 && deckStore.removeCard(card.id)"
+            >
+            </v-btn>
+            <v-btn
+              variant="flat"
+              size="x-small"
+              icon="mdi-plus"
+              color="grey-darken-3"
+              class="disabled-button"
+              :disabled="deckStore.isDeckFull"
+              @click.stop="deckStore.addCard(card)"
+            >
+            </v-btn>
+          </div>
 
           <div style="position: absolute; top: 8px; right: 8px">
             <v-avatar
@@ -106,30 +135,6 @@
           </v-col>
         </v-row>
       </v-expand-transition>
-      <v-row v-if="isTouch || smAndDown" dense class="mt-2 text-center">
-        <v-col cols="6">
-          <v-btn
-            variant="flat"
-            size="x-small"
-            icon="mdi-minus"
-            color="grey-lighten-2"
-            :disabled="cardCount === 0"
-            @click.stop="cardCount > 0 && deckStore.removeCard(card.id)"
-          >
-          </v-btn>
-        </v-col>
-        <v-col cols="6">
-          <v-btn
-            variant="flat"
-            size="x-small"
-            icon="mdi-plus"
-            color="grey-darken-3"
-            :disabled="deckStore.isDeckFull"
-            @click.stop="deckStore.addCard(card)"
-          >
-          </v-btn>
-        </v-col>
-      </v-row>
     </div>
   </v-card>
 </template>
@@ -196,5 +201,10 @@ const handleCardClick = () => {
 
 .counter-avatar {
   border: 2px solid white;
+}
+
+.disabled-button.v-btn--disabled {
+  pointer-events: auto;
+  cursor: default;
 }
 </style>
