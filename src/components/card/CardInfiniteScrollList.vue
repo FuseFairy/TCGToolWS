@@ -20,7 +20,7 @@
     :="$attrs"
   >
     <TransitionGroup
-      name="card-transition"
+      :name="isTransitionDisabled ? '' : 'card-transition'"
       tag="div"
       class="card-grid-container"
       :class="{ 'freeze-layout': isLayoutFrozen, 'table-mode-grid': isTableMode }"
@@ -120,6 +120,7 @@ const isModalVisible = ref(false)
 const selectedCardData = ref(null)
 const selectedLinkedCards = ref([])
 const isLoadingLinks = ref(false)
+const isTransitionDisabled = ref(false)
 
 const displayedCards = computed(() => props.cards.slice(0, page.value * props.itemsPerLoad))
 const selectedCard = computed(() => selectedCardData.value?.card)
@@ -203,12 +204,19 @@ const load = async ({ done }) => {
 }
 
 const reset = () => {
+  if (shouldBePerformanceMode.value) {
+    isTransitionDisabled.value = true
+  }
   page.value = 1
   if (infiniteScrollRef.value) {
     infiniteScrollRef.value.reset()
     nextTick(() => {
       if (infiniteScrollRef.value?.$el) {
         infiniteScrollRef.value.$el.scrollTop = 0
+      }
+      if (shouldBePerformanceMode.value) {
+        // Re-enable transitions after the DOM has been updated
+        isTransitionDisabled.value = false
       }
     })
   }
