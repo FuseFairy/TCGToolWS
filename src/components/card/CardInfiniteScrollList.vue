@@ -220,10 +220,13 @@ const reset = async () => {
   if (infiniteScrollRef.value) {
     // Wait for the list to be re-mounted and visible
     await nextTick()
-    infiniteScrollRef.value.reset()
-    await nextTick()
-    if (infiniteScrollRef.value?.$el) {
-      infiniteScrollRef.value.$el.scrollTop = 0
+    // Check the ref's existence after awaiting, as it may have become null.
+    if (infiniteScrollRef.value) {
+      infiniteScrollRef.value.reset()
+      await nextTick()
+      if (infiniteScrollRef.value?.$el) {
+        infiniteScrollRef.value.$el.scrollTop = 0
+      }
     }
   }
 }
