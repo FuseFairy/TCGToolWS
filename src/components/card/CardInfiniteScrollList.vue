@@ -210,8 +210,8 @@ const reset = async () => {
   if (shouldBePerformanceMode.value && page.value > 1) {
     isListVisible.value = false // Unmount the list container
     await nextTick() // Wait for the DOM to be updated (container removed)
-    page.value = 1  // Now that the DOM is clean, reset the page. This won't trigger a large DOM operation because the v-for is not in the DOM.
-    isListVisible.value = true  // Re-mount the container. It will now render only the first page.
+    page.value = 1 // Now that the DOM is clean, reset the page. This won't trigger a large DOM operation because the v-for is not in the DOM.
+    isListVisible.value = true // Re-mount the container. It will now render only the first page.
   } else {
     page.value = 1 // For normal mode or if already on page 1, just reset the page.
   }
@@ -309,6 +309,16 @@ onMounted(() => {
   if (!scrollContainer.value) {
     // Fallback if the ref isn't available for some reason
     scrollContainer.value = document.documentElement
+  }
+})
+
+watch(isListVisible, (isVisible) => {
+  if (isVisible) {
+    nextTick(() => {
+      if (infiniteScrollRef.value?.$el) {
+        gridElement.value = infiniteScrollRef.value.$el.querySelector('.card-grid-container')
+      }
+    })
   }
 })
 
