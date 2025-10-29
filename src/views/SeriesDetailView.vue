@@ -70,7 +70,7 @@
       <div
         class="d-flex flex-row overflow-hidden fill-height"
         style="position: relative"
-        :class="{ 'performance-mode': isPerformanceMode }"
+        :class="{ 'performance-mode': isPerformanceMode.sideBarAnimSimp }"
       >
         <template v-if="smAndUp">
           <div class="sidebar-container" :class="{ 'left-sidebar-open': isFilterOpen }">

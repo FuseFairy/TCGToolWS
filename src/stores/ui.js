@@ -17,7 +17,10 @@ export const useUIStore = defineStore(
     const isCardDeckOpen = ref(false)
     const isLoading = ref(false)
     const isTableModeActive = ref(false)
-    const isPerformanceMode = ref(false)
+    const isPerformanceMode = ref({
+      sideBarAnimSimp: false,
+      infScrollResetOpti: false,
+    })
 
     const backgroundImage = ref(null)
 
@@ -32,8 +35,19 @@ export const useUIStore = defineStore(
       isLoading.value = status
     }
 
-    const setPerformanceMode = (status) => {
-      isPerformanceMode.value = status
+    const setPerformanceMode = (updates) => {
+      if (typeof updates === 'object' && updates !== null) {
+        isPerformanceMode.value = { ...isPerformanceMode.value, ...updates }
+      } else {
+        console.warn('setPerformanceMode expects an object with performance flags.')
+      }
+    }
+
+    const resetPerformanceMode = () => {
+      isPerformanceMode.value = {
+        sideBarAnimSimp: false,
+        infScrollResetOpti: false,
+      }
     }
 
     const setBackgroundImage = ({ canvas }) => {
@@ -72,6 +86,7 @@ export const useUIStore = defineStore(
       isTableModeActive,
       isPerformanceMode,
       setPerformanceMode,
+      resetPerformanceMode,
       backgroundImage,
       setBackgroundImage,
       updateBackgroundImage,

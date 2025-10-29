@@ -67,7 +67,11 @@
         </div>
       </div>
 
-      <div class="d-flex flex-row overflow-hidden fill-height" style="position: relative">
+      <div
+        class="d-flex flex-row overflow-hidden fill-height"
+        style="position: relative"
+        :class="{ 'performance-mode': isPerformanceMode.sideBarAnimSimp }"
+      >
         <template v-if="smAndUp">
           <div class="sidebar-container" :class="{ 'left-sidebar-open': isFilterOpen }">
             <BaseFilterSidebar
@@ -200,7 +204,7 @@ const uiStore = useUIStore()
 const deckStore = useDeckStore()
 const cardListRef = ref(null)
 const headerRef = ref(null)
-const { isFilterOpen, isTableModeActive, isCardDeckOpen } = storeToRefs(uiStore)
+const { isFilterOpen, isTableModeActive, isCardDeckOpen, isPerformanceMode } = storeToRefs(uiStore)
 const { searchCountDetails, hasActiveFilters, searchResults } = storeToRefs(globalSearchStore)
 const rawHeaderHeight = ref(0)
 const hasBackgroundImage = computed(() => !!uiStore.backgroundImage)
@@ -323,6 +327,29 @@ useInfiniteScrollState({
   transition: width 0.4s ease-in-out;
   overflow: hidden;
   flex-shrink: 0;
+}
+
+.performance-mode > .sidebar-container {
+  opacity: 0;
+  pointer-events: none;
+  /*
+    On CLOSE: Animate opacity over 0.2s.
+    Delay the width change until after the opacity animation is finished.
+  */
+  transition:
+    opacity 0.2s ease-in-out,
+    width 0s ease-in-out 0.2s;
+}
+
+.performance-mode > .sidebar-container.left-sidebar-open,
+.performance-mode > .sidebar-container.right-sidebar-open {
+  opacity: 1;
+  pointer-events: auto;
+  /*
+    ON OPEN: Animate opacity over 0.2s.
+    Make the width change instant by removing the delay.
+  */
+  transition: opacity 0.2s ease-in-out;
 }
 
 /* Small tablet (sm) */

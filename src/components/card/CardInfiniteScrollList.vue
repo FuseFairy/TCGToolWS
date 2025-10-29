@@ -207,7 +207,7 @@ const load = async ({ done }) => {
 }
 
 const reset = async () => {
-  if (shouldBePerformanceMode.value && page.value > 1) {
+  if (shouldBePerformanceMode.value.infScrollResetOpti && page.value > 1) {
     isListVisible.value = false // Unmount the list container
     await nextTick() // Wait for the DOM to be updated (container removed)
     page.value = 1 // Now that the DOM is clean, reset the page. This won't trigger a large DOM operation because the v-for is not in the DOM.
@@ -288,18 +288,30 @@ const freezeLayout = () => {
 }
 
 const shouldBePerformanceMode = computed(() => {
-  return displayedCards.value.length > props.performanceThreshold
+  console.log(
+    displayedCards.value.length,
+    props.performanceThreshold,
+    parseInt(props.performanceThreshold / 3)
+  )
+  return {
+    sideBarAnimSimp: displayedCards.value.length > props.performanceThreshold,
+    infScrollResetOpti: displayedCards.value.length > parseInt(props.performanceThreshold / 3),
+  }
 })
 
 watch(shouldBePerformanceMode, (isPerformanceMode) => {
-  if (uiStore.isPerformanceMode !== isPerformanceMode) {
+  const currentMode = uiStore.isPerformanceMode
+  if (
+    currentMode.sideBarAnimSimp !== isPerformanceMode.sideBarAnimSimp ||
+    currentMode.infScrollResetOpti !== isPerformanceMode.infScrollResetOpti
+  ) {
     uiStore.setPerformanceMode(isPerformanceMode)
   }
 })
 
 // Watch sidebar states from UI store
 watch([() => uiStore.isFilterOpen, () => uiStore.isCardDeckOpen], () => {
-  if (!shouldBePerformanceMode.value) freezeLayout()
+  if (!shouldBePerformanceMode.value.sideBarAnimSimp) freezeLayout()
 })
 
 onMounted(() => {
@@ -336,7 +348,7 @@ onUnmounted(() => {
     clearTimeout(freezeTimeout)
   }
   // Reset performance mode when leaving the view
-  uiStore.setPerformanceMode(false)
+  uiStore.resetPerformanceMode()
 })
 </script>
 
