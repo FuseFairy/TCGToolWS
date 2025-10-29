@@ -19,25 +19,27 @@
     :margin="margin"
     :="$attrs"
   >
-    <TransitionGroup
-      :name="isTransitionDisabled ? '' : 'card-transition'"
-      tag="div"
-      class="card-grid-container"
-      :class="{ 'freeze-layout': isLayoutFrozen, 'table-mode-grid': isTableMode }"
-      :style="{
-        paddingTop: `${headerOffsetHeight + 1}px`,
-        gridTemplateColumns: frozenColumns,
-      }"
-    >
-      <div
-        v-for="card in displayedCards"
-        :key="card.id"
-        class="d-flex justify-center"
-        :data-card-id="card.id"
+    <div v-if="isListVisible">
+      <TransitionGroup
+        :name="isTransitionDisabled ? '' : 'card-transition'"
+        tag="div"
+        class="card-grid-container"
+        :class="{ 'freeze-layout': isLayoutFrozen, 'table-mode-grid': isTableMode }"
+        :style="{
+          paddingTop: `${headerOffsetHeight + 1}px`,
+          gridTemplateColumns: frozenColumns,
+        }"
       >
-        <CardTemplate :card="card" :is-table-mode="isTableMode" @show-details="onShowDetails" />
-      </div>
-    </TransitionGroup>
+        <div
+          v-for="card in displayedCards"
+          :key="card.id"
+          class="d-flex justify-center"
+          :data-card-id="card.id"
+        >
+          <CardTemplate :card="card" :is-table-mode="isTableMode" @show-details="onShowDetails" />
+        </div>
+      </TransitionGroup>
+    </div>
   </v-infinite-scroll>
 
   <v-dialog
@@ -121,6 +123,7 @@ const selectedCardData = ref(null)
 const selectedLinkedCards = ref([])
 const isLoadingLinks = ref(false)
 const isTransitionDisabled = ref(false)
+const isListVisible = ref(true)
 
 const displayedCards = computed(() => props.cards.slice(0, page.value * props.itemsPerLoad))
 const selectedCard = computed(() => selectedCardData.value?.card)
@@ -203,22 +206,25 @@ const load = async ({ done }) => {
   done('ok')
 }
 
-const reset = () => {
-  if (shouldBePerformanceMode.value) {
-    isTransitionDisabled.value = true
+const reset = async () => {
+  if (shouldBePerformanceMode.value && page.value > 1) {
+    isListVisible.value = false // Unmount the list container
+    await nextTick() // Wait for the DOM to be updated (container removed)
+    page.value = 1  // Now that the DOM is clean, reset the page. This won't trigger a large DOM operation because the v-for is not in the DOM.
+    isListVisible.value = true  // Re-mount the container. It will now render only the first page.
+  } else {
+    page.value = 1 // For normal mode or if already on page 1, just reset the page.
   }
-  page.value = 1
+
+  // Finally, reset the infinite scroller component itself.
   if (infiniteScrollRef.value) {
+    // Wait for the list to be re-mounted and visible
+    await nextTick()
     infiniteScrollRef.value.reset()
-    nextTick(() => {
-      if (infiniteScrollRef.value?.$el) {
-        infiniteScrollRef.value.$el.scrollTop = 0
-      }
-      if (shouldBePerformanceMode.value) {
-        // Re-enable transitions after the DOM has been updated
-        isTransitionDisabled.value = false
-      }
-    })
+    await nextTick()
+    if (infiniteScrollRef.value?.$el) {
+      infiniteScrollRef.value.$el.scrollTop = 0
+    }
   }
 }
 
