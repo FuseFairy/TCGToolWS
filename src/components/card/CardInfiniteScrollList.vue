@@ -288,11 +288,6 @@ const freezeLayout = () => {
 }
 
 const shouldBePerformanceMode = computed(() => {
-  console.log(
-    displayedCards.value.length,
-    props.performanceThreshold,
-    parseInt(props.performanceThreshold / 3)
-  )
   return {
     sideBarAnimSimp: displayedCards.value.length > props.performanceThreshold,
     infScrollResetOpti: displayedCards.value.length > parseInt(props.performanceThreshold / 3),
