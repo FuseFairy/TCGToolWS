@@ -5,6 +5,7 @@
     variant="flat"
     :rounded="isTableMode ? '2lg' : '5md'"
     @click="handleCardClick"
+    :ripple="isTouch ? false : true"
   >
     <v-hover v-slot="{ isHovering, props: hoverProps }">
       <div :class="isTableMode ? 'ma-1' : 'ma-2'" style="position: relative" v-bind="hoverProps">
