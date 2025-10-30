@@ -5,7 +5,6 @@
     variant="flat"
     :rounded="isTableMode ? '2lg' : '5md'"
     @click="handleCardClick"
-    :ripple="isTouch ? false : true"
   >
     <v-hover v-slot="{ isHovering, props: hoverProps }">
       <div :class="isTableMode ? 'ma-1' : 'ma-2'" style="position: relative" v-bind="hoverProps">
@@ -67,6 +66,8 @@
               class="disabled-button"
               :disabled="cardCount === 0"
               @click.stop="cardCount > 0 && deckStore.removeCard(card.id)"
+              @mousedown.stop
+              @touchstart.stop
             >
             </v-btn>
             <v-btn
@@ -77,6 +78,8 @@
               class="disabled-button"
               :disabled="deckStore.isDeckFull"
               @click.stop="deckStore.addCard(card)"
+              @mousedown.stop
+              @touchstart.stop
             >
             </v-btn>
           </div>
