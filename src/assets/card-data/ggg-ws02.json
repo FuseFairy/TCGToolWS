@@ -19,7 +19,8 @@
         "id": "Ggg/WS02-081SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ggg/WS02-096": {
     "name": "“裏切り者” レン＆ピトフーイ",
@@ -41,7 +42,8 @@
         "id": "Ggg/WS02-096SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ggg/WS02-104": {
     "name": "《LF》 フカ次郎＆レン",
@@ -63,6 +65,7 @@
         "id": "Ggg/WS02-104S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

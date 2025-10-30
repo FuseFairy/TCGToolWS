@@ -23,7 +23,8 @@
         "id": "LSP/WE38-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSP/WE38-007": {
     "name": "素敵な旅へご案内♪ 若菜 四季",
@@ -49,7 +50,8 @@
         "id": "LSP/WE38-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSP/WE38-008": {
     "name": "素敵な旅へご案内♪ 米女 メイ",
@@ -75,7 +77,8 @@
         "id": "LSP/WE38-008SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSP/WE38-011": {
     "name": "素敵な旅へご案内♪ 桜小路 きな子",
@@ -101,7 +104,8 @@
         "id": "LSP/WE38-011SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSP/WE38-020": {
     "name": "素敵な旅へご案内♪ 嵐 千砂都",
@@ -127,7 +131,8 @@
         "id": "LSP/WE38-020SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSP/WE38-021": {
     "name": "素敵な旅へご案内♪ 平安名 すみれ",
@@ -153,7 +158,8 @@
         "id": "LSP/WE38-021SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSP/WE38-027": {
     "name": "素敵な旅へご案内♪ 澁谷 かのん",
@@ -179,7 +185,8 @@
         "id": "LSP/WE38-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSP/WE38-032": {
     "name": "素敵な旅へご案内♪ 唐 可可",
@@ -205,7 +212,8 @@
         "id": "LSP/WE38-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSP/WE38-035": {
     "name": "素敵な旅へご案内♪ 葉月 恋",
@@ -231,6 +239,7 @@
         "id": "LSP/WE38-035SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

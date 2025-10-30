@@ -19,7 +19,8 @@
         "id": "MK/SJ01-001JSP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-002": {
     "name": "“う”るさい怪盗 ラット",
@@ -37,7 +38,8 @@
         "id": "MK/SJ01-002J",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-003": {
     "name": "“ち”ょっと変態？ ストーンリバー",
@@ -55,7 +57,8 @@
         "id": "MK/SJ01-003J",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-004": {
     "name": "“へ”んそうマニア トゥエンティ",
@@ -73,7 +76,8 @@
         "id": "MK/SJ01-004J",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-005": {
     "name": "“む”しょうの愛を！ ネロ",
@@ -91,7 +95,8 @@
         "id": "MK/SJ01-005J",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SJ01-006": {
     "name": "“あ”はははは シャロ",
@@ -109,7 +114,8 @@
         "id": "MK/SJ01-006J",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SJ01-007": {
     "name": "“て”んしょんＭＡＸ ネロ",
@@ -127,7 +133,8 @@
         "id": "MK/SJ01-007J",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-008": {
     "name": "“つ”いつい呼んじゃう シャロ",
@@ -145,7 +152,8 @@
         "id": "MK/SJ01-008J",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-009": {
     "name": "“ゆ”うしゅう（？）な探偵 ネロ",
@@ -163,7 +171,8 @@
         "id": "MK/SJ01-009J",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-010": {
     "name": "“す”きな人のため ジャネット",
@@ -181,7 +190,8 @@
         "id": "MK/SJ01-010J",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-011": {
     "name": "“ね”ぼけまなこのネロ",
@@ -199,7 +209,8 @@
         "id": "MK/SJ01-011J",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-012": {
     "name": "“や”くそくされたウィークエンド、シャロもくる？",
@@ -217,7 +228,8 @@
         "id": "MK/SJ01-012J",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-013": {
     "name": "大興奮！",
@@ -235,7 +247,8 @@
         "id": "MK/SJ01-013J",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-014": {
     "name": "おやつタイム",
@@ -253,7 +266,8 @@
         "id": "MK/SJ01-014J",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK/SJ01-015": {
     "name": "“と”しあけに祈るカズミ",
@@ -271,7 +285,8 @@
         "id": "MK/SJ01-015J",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-016": {
     "name": "“け”んじゃの贈り物 エリー",
@@ -293,7 +308,8 @@
         "id": "MK/SJ01-016JSP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SJ01-017": {
     "name": "“び”せいを披露 コーデリア",
@@ -311,7 +327,8 @@
         "id": "MK/SJ01-017J",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SJ01-018": {
     "name": "“ソ”ックス一枚 エリー",
@@ -329,7 +346,8 @@
         "id": "MK/SJ01-018J",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK/SJ01-019": {
     "name": "“い”としい人のため ケン",
@@ -347,7 +365,8 @@
         "id": "MK/SJ01-019J",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-020": {
     "name": "“エ”ヌシステムいいね 咲",
@@ -365,7 +384,8 @@
         "id": "MK/SJ01-020J",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-021": {
     "name": "“も”のがたる アリス",
@@ -383,7 +403,8 @@
         "id": "MK/SJ01-021J",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-022": {
     "name": "“リ”スキーな発言 次子",
@@ -401,7 +422,8 @@
         "id": "MK/SJ01-022J",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-023": {
     "name": "“わ”たしの志集 エリー",
@@ -419,7 +441,8 @@
         "id": "MK/SJ01-023J",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-024": {
     "name": "“ま”じめな警察官 平乃",
@@ -437,7 +460,8 @@
         "id": "MK/SJ01-024J",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SJ01-025": {
     "name": "“み”どりの樽",
@@ -455,7 +479,8 @@
         "id": "MK/SJ01-025J",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-026": {
     "name": "AED！！！",
@@ -473,7 +498,8 @@
         "id": "MK/SJ01-026J",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK/SJ01-027": {
     "name": "ケンとジャネット！",
@@ -491,7 +517,8 @@
         "id": "MK/SJ01-027J",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK/SJ01-028": {
     "name": "“た”げいたさい シャロ",
@@ -513,7 +540,8 @@
         "id": "MK/SJ01-028JSP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SJ01-029": {
     "name": "“ヨ”コハマの大警察 小衣",
@@ -535,7 +563,8 @@
         "id": "MK/SJ01-029JSP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SJ01-030": {
     "name": "“を”い！ 小衣",
@@ -553,7 +582,8 @@
         "id": "MK/SJ01-030J",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-031": {
     "name": "“こ”んかいのIQ 小衣",
@@ -571,7 +601,8 @@
         "id": "MK/SJ01-031J",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-032": {
     "name": "“ル“ンルン気分 シャロ",
@@ -589,7 +620,8 @@
         "id": "MK/SJ01-032J",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-033": {
     "name": "“ボ”コボコにされて アイリーンパパ",
@@ -607,7 +639,8 @@
         "id": "MK/SJ01-033J",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-034": {
     "name": "“れ”いせいな小学生 アイリーン",
@@ -625,7 +658,8 @@
         "id": "MK/SJ01-034J",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-035": {
     "name": "“に”げまわるガチョウ",
@@ -643,7 +677,8 @@
         "id": "MK/SJ01-035J",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-036": {
     "name": "“ノ”リノリな小衣",
@@ -661,7 +696,8 @@
         "id": "MK/SJ01-036J",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-037": {
     "name": "“か”るたしよっ！",
@@ -679,7 +715,8 @@
         "id": "MK/SJ01-037J",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-038": {
     "name": "巨人の罰!!",
@@ -697,7 +734,8 @@
         "id": "MK/SJ01-038J",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-039": {
     "name": "クライ！",
@@ -715,7 +753,8 @@
         "id": "MK/SJ01-039J",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK/SJ01-040": {
     "name": "マックス！",
@@ -733,7 +772,8 @@
         "id": "MK/SJ01-040J",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-041": {
     "name": "“ラ”イバル関係 アルセーヌ",
@@ -755,7 +795,8 @@
         "id": "MK/SJ01-041JSP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SJ01-042": {
     "name": "“お”花畑のコーデリア",
@@ -777,7 +818,8 @@
         "id": "MK/SJ01-042JSP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SJ01-043": {
     "name": "“ぬ”すみの美学 アルセーヌ",
@@ -795,7 +837,8 @@
         "id": "MK/SJ01-043J",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-044": {
     "name": "“は”かない美しさ エリー",
@@ -813,7 +856,8 @@
         "id": "MK/SJ01-044J",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-045": {
     "name": "“セ”クシーサンタ アンリエット",
@@ -831,7 +875,8 @@
         "id": "MK/SJ01-045J",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SJ01-046": {
     "name": "“ぎ”ょうざを求めて コーデリア",
@@ -849,7 +894,8 @@
         "id": "MK/SJ01-046J",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-047": {
     "name": "“な”やめるエリー",
@@ -867,7 +913,8 @@
         "id": "MK/SJ01-047J",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-048": {
     "name": "“ロ”ックスター コーデリア",
@@ -885,7 +932,8 @@
         "id": "MK/SJ01-048J",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-049": {
     "name": "“め”がみの誤算 アルセーヌ",
@@ -903,7 +951,8 @@
         "id": "MK/SJ01-049J",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SJ01-050": {
     "name": "“サ”プライズパーティー アンリエット",
@@ -921,7 +970,8 @@
         "id": "MK/SJ01-050J",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-051": {
     "name": "“し”ょう撃シーン コーデリア",
@@ -939,7 +989,8 @@
         "id": "MK/SJ01-051J",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-052": {
     "name": "“ん”？？？ アンリエット",
@@ -957,7 +1008,8 @@
         "id": "MK/SJ01-052J",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SJ01-053": {
     "name": "“ふ”そくの事態",
@@ -975,7 +1027,8 @@
         "id": "MK/SJ01-053J",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-054": {
     "name": "ヨコハマいちの名探偵",
@@ -993,7 +1046,8 @@
         "id": "MK/SJ01-054J",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK/SJ01-055": {
     "name": "“雨上がりのミライ”ネロ",
@@ -1019,7 +1073,8 @@
         "id": "MK/SJ01-055SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SJ01-056": {
     "name": "“雨上がりのミライ”エリー",
@@ -1045,7 +1100,8 @@
         "id": "MK/SJ01-056SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-057": {
     "name": "“雨上がりのミライ”シャロ",
@@ -1071,7 +1127,8 @@
         "id": "MK/SJ01-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-058": {
     "name": "“もしものミライ”小衣",
@@ -1097,7 +1154,8 @@
         "id": "MK/SJ01-058SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-059": {
     "name": "“もしものミライ”アルセーヌ",
@@ -1123,7 +1181,8 @@
         "id": "MK/SJ01-059SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-060": {
     "name": "“雨上がりのミライ”コーデリア",
@@ -1149,6 +1208,7 @@
         "id": "MK/SJ01-060SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

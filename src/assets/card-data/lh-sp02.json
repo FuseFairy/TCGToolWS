@@ -19,7 +19,8 @@
         "id": "LH/SP02-01S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SP02-02": {
     "name": "美少女アイドル？てとら",
@@ -41,7 +42,8 @@
         "id": "LH/SP02-02S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SP02-03": {
     "name": "＜影遁＞アカツキ",
@@ -63,7 +65,8 @@
         "id": "LH/SP02-03S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SP02-04": {
     "name": "シロエの弟子 ミノリ",
@@ -85,7 +88,8 @@
         "id": "LH/SP02-04S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SP02-05": {
     "name": "“２刀流”にゃん太",
@@ -107,7 +111,8 @@
         "id": "LH/SP02-05S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SP02-06": {
     "name": "ウィリアム＝マサチューセッツ",
@@ -129,7 +134,8 @@
         "id": "LH/SP02-06S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SP02-07": {
     "name": "“フルレイド”シロエ",
@@ -151,7 +157,8 @@
         "id": "LH/SP02-07S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SP02-08": {
     "name": "ゲーマーの意地",
@@ -173,6 +180,7 @@
         "id": "LH/SP02-08S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

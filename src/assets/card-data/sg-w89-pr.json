@@ -15,7 +15,8 @@
         "id": "SG/W89-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-P02": {
     "name": "海辺の輝き クリス＆翼",
@@ -33,7 +34,8 @@
         "id": "SG/W89-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-P03": {
     "name": "握りしめた拳 響",
@@ -51,7 +53,8 @@
         "id": "SG/W89-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-P04": {
     "name": "プールサイドの一幕 クリス",
@@ -69,7 +72,8 @@
         "id": "SG/W89-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-P05": {
     "name": "覚悟の表情 翼",
@@ -87,7 +91,8 @@
         "id": "SG/W89-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-108": {
     "name": "明日の世界へ 響",
@@ -105,7 +110,8 @@
         "id": "SG/W89-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-109": {
     "name": "明日の世界へ 調",
@@ -123,7 +129,8 @@
         "id": "SG/W89-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-110": {
     "name": "明日の世界へ 切歌",
@@ -141,7 +148,8 @@
         "id": "SG/W89-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-111": {
     "name": "明日の世界へ マリア",
@@ -159,7 +167,8 @@
         "id": "SG/W89-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-112": {
     "name": "明日の世界へ クリス",
@@ -177,7 +186,8 @@
         "id": "SG/W89-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-113": {
     "name": "明日の世界へ 翼",
@@ -195,6 +205,7 @@
         "id": "SG/W89-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

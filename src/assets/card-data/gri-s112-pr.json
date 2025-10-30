@@ -19,7 +19,8 @@
         "id": "GRI/S112-P09S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-P01": {
     "name": "健啖家の少女 レナ",
@@ -41,7 +42,8 @@
         "id": "GRI/S112-P01P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-P02": {
     "name": "新任教師 有坂",
@@ -63,7 +65,8 @@
         "id": "GRI/S112-P02P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-P03": {
     "name": "ツンデレ少女 トーカ",
@@ -85,7 +88,8 @@
         "id": "GRI/S112-P03P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-P04": {
     "name": "真面目な少女 マキ",
@@ -107,7 +111,8 @@
         "id": "GRI/S112-P04P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-P05": {
     "name": "つかみどころのない少女 ムラサキ",
@@ -129,7 +134,8 @@
         "id": "GRI/S112-P05P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-P06": {
     "name": "学園長 仙石一縷",
@@ -151,7 +157,8 @@
         "id": "GRI/S112-P06P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-P07": {
     "name": "剣術の達人 ハルト",
@@ -173,7 +180,8 @@
         "id": "GRI/S112-P07P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-P08": {
     "name": "世話焼きな少女 クリス",
@@ -195,7 +203,8 @@
         "id": "GRI/S112-P08P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-P10": {
     "name": "愛されスナイパー トーカ",
@@ -213,6 +222,7 @@
         "id": "GRI/S112-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

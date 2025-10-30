@@ -19,7 +19,8 @@
         "id": "Fra/W65-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fra/W65-075": {
     "name": "やわらかな笑顔 ルミア",
@@ -41,7 +42,8 @@
         "id": "Fra/W65-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fra/W65-078": {
     "name": "一つ屋根の下 ルミア&システィーナ",
@@ -59,7 +61,8 @@
         "id": "Fra/W65-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fra/W65-079": {
     "name": "異色の魔導士 リィエル",
@@ -81,7 +84,8 @@
         "id": "Fra/W65-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fra/W65-081": {
     "name": "優しさと強さ ルミア",
@@ -103,7 +107,8 @@
         "id": "Fra/W65-081FBR",
         "rarity": "FBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fra/W65-084": {
     "name": "咄嗟の判断 グレン",
@@ -121,7 +126,8 @@
         "id": "Fra/W65-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fra/W65-089": {
     "name": "純白のドレス システィーナ",
@@ -139,7 +145,8 @@
         "id": "Fra/W65-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fra/W65-092": {
     "name": "星の瞬き アルベルト",
@@ -157,7 +164,8 @@
         "id": "Fra/W65-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fra/W65-097": {
     "name": "じゃれあう二人 ルミア&システィーナ",
@@ -175,7 +183,8 @@
         "id": "Fra/W65-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fra/W65-098": {
     "name": "大陸屈指の魔術師 セリカ",
@@ -193,7 +202,8 @@
         "id": "Fra/W65-098",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fra/W65-100": {
     "name": "黒の破壊魔術",
@@ -211,7 +221,8 @@
         "id": "Fra/W65-100",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fra/W65-102": {
     "name": "常夏の『楽園』",
@@ -233,7 +244,8 @@
         "id": "Fra/W65-102R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fra/W65-104": {
     "name": "失いたくない大切なもの",
@@ -251,6 +263,7 @@
         "id": "Fra/W65-104",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

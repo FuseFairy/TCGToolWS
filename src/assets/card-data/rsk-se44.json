@@ -19,7 +19,8 @@
         "id": "RSK/SE44-01SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-02": {
     "name": "弓の名手 チッタ",
@@ -41,7 +42,8 @@
         "id": "RSK/SE44-02SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-03": {
     "name": "本当に求めたもの ミヤビ",
@@ -63,7 +65,8 @@
         "id": "RSK/SE44-03SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSK/SE44-04": {
     "name": "冒険者 ナルミ",
@@ -81,7 +84,8 @@
         "id": "RSK/SE44-04",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSK/SE44-05": {
     "name": "親切の理由 シュウ",
@@ -103,7 +107,8 @@
         "id": "RSK/SE44-05SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-06": {
     "name": "生理指標の変化 ハジメ",
@@ -125,7 +130,8 @@
         "id": "RSK/SE44-06SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-07": {
     "name": "職人への夢 ブラッド",
@@ -147,7 +153,8 @@
         "id": "RSK/SE44-07SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-08": {
     "name": "雑貨店の娘 ミヤビ",
@@ -165,7 +172,8 @@
         "id": "RSK/SE44-08",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSK/SE44-09": {
     "name": "育んだ絆 ナルミ",
@@ -183,7 +191,8 @@
         "id": "RSK/SE44-09",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSK/SE44-10": {
     "name": "エルフの弓遣い チッタ",
@@ -201,7 +210,8 @@
         "id": "RSK/SE44-10",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSK/SE44-11": {
     "name": "リアルでのナルミ 賀屋 奈瑠美",
@@ -219,7 +229,8 @@
         "id": "RSK/SE44-11",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-12": {
     "name": "雑貨屋のバイト ブラッド",
@@ -237,7 +248,8 @@
         "id": "RSK/SE44-12",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-13": {
     "name": "世話焼きお姉さん ミヤビ",
@@ -255,7 +267,8 @@
         "id": "RSK/SE44-13",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-14": {
     "name": "好奇心旺盛 ナルミ",
@@ -273,7 +286,8 @@
         "id": "RSK/SE44-14",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-15": {
     "name": "農家の青年 シュウ",
@@ -291,7 +305,8 @@
         "id": "RSK/SE44-15",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSK/SE44-16": {
     "name": "錬金術師 ハジメ",
@@ -309,7 +324,8 @@
         "id": "RSK/SE44-16",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSK/SE44-17": {
     "name": "おしとやか チッタ",
@@ -327,7 +343,8 @@
         "id": "RSK/SE44-17",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSK/SE44-18": {
     "name": "リアルでのシュウ 橘 秀",
@@ -345,7 +362,8 @@
         "id": "RSK/SE44-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-19": {
     "name": "リアルでのハジメ 皇 創",
@@ -363,7 +381,8 @@
         "id": "RSK/SE44-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-20": {
     "name": "リアルでのチッタ 蒲生 知多",
@@ -381,7 +400,8 @@
         "id": "RSK/SE44-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-21": {
     "name": "リアルでのブラッド 一文字 無頼斗",
@@ -399,7 +419,8 @@
         "id": "RSK/SE44-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-22": {
     "name": "学者肌 ハジメ",
@@ -417,7 +438,8 @@
         "id": "RSK/SE44-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-23": {
     "name": "リアルでのミヤビ 綾瀬 雅",
@@ -435,7 +457,8 @@
         "id": "RSK/SE44-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-24": {
     "name": "のんびり屋 シュウ",
@@ -453,7 +476,8 @@
         "id": "RSK/SE44-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-25": {
     "name": "ぶっきらぼうな優しさ ブラッド",
@@ -471,7 +495,8 @@
         "id": "RSK/SE44-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSK/SE44-26": {
     "name": "法魔の鏡",
@@ -489,7 +514,8 @@
         "id": "RSK/SE44-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-27": {
     "name": "心の弓",
@@ -507,7 +533,8 @@
         "id": "RSK/SE44-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-28": {
     "name": "私の冒険譚",
@@ -525,7 +552,8 @@
         "id": "RSK/SE44-28",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-29": {
     "name": "母の想い リサ",
@@ -547,7 +575,8 @@
         "id": "RSK/SE44-29SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-30": {
     "name": "助けたい意思 ヒカリ",
@@ -569,7 +598,8 @@
         "id": "RSK/SE44-30SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-31": {
     "name": "冒険者 ナルミ",
@@ -591,7 +621,8 @@
         "id": "RSK/SE44-31SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSK/SE44-32": {
     "name": "トレジャーハンター リサ",
@@ -609,7 +640,8 @@
         "id": "RSK/SE44-32",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-33": {
     "name": "芽生えた絆 ナルミ",
@@ -627,7 +659,8 @@
         "id": "RSK/SE44-33",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-34": {
     "name": "自分にしかできないこと ヒビキ",
@@ -649,7 +682,8 @@
         "id": "RSK/SE44-34SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-35": {
     "name": "母への憧れ ヒカリ",
@@ -667,7 +701,8 @@
         "id": "RSK/SE44-35",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSK/SE44-36": {
     "name": "祝福の魔法 ノノ",
@@ -689,7 +724,8 @@
         "id": "RSK/SE44-36SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSK/SE44-37": {
     "name": "漆黒の闇 レン",
@@ -711,7 +747,8 @@
         "id": "RSK/SE44-37SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSK/SE44-38": {
     "name": "リアルでのナルミ 賀屋 鳴海",
@@ -729,7 +766,8 @@
         "id": "RSK/SE44-38",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-39": {
     "name": "占い師 ノノ",
@@ -747,7 +785,8 @@
         "id": "RSK/SE44-39",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-40": {
     "name": "闇の魔法使い レン",
@@ -765,7 +804,8 @@
         "id": "RSK/SE44-40",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-41": {
     "name": "肉体派の戦士 ヒビキ",
@@ -783,7 +823,8 @@
         "id": "RSK/SE44-41",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSK/SE44-42": {
     "name": "アウトドア リサ",
@@ -801,7 +842,8 @@
         "id": "RSK/SE44-42",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSK/SE44-43": {
     "name": "気の良い青年 ナルミ",
@@ -819,7 +861,8 @@
         "id": "RSK/SE44-43",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSK/SE44-44": {
     "name": "光の聖女 ヒカリ",
@@ -837,7 +880,8 @@
         "id": "RSK/SE44-44",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSK/SE44-45": {
     "name": "リアルでのリサ 高野 莉紗子",
@@ -855,7 +899,8 @@
         "id": "RSK/SE44-45",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-46": {
     "name": "リアルでのノノ 黄檗 野乃",
@@ -873,7 +918,8 @@
         "id": "RSK/SE44-46",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-47": {
     "name": "リアルでのレン 西園寺 蓮",
@@ -891,7 +937,8 @@
         "id": "RSK/SE44-47",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-48": {
     "name": "心優しい聖女様 ヒカリ",
@@ -909,7 +956,8 @@
         "id": "RSK/SE44-48",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-49": {
     "name": "近い距離感 リサ",
@@ -927,7 +975,8 @@
         "id": "RSK/SE44-49",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-50": {
     "name": "リアルでのヒビキ 土門 響輝",
@@ -945,7 +994,8 @@
         "id": "RSK/SE44-50",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-51": {
     "name": "リアルでのヒカリ 天ケ瀬 光璃",
@@ -963,7 +1013,8 @@
         "id": "RSK/SE44-51",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-52": {
     "name": "素直になれない レン",
@@ -981,7 +1032,8 @@
         "id": "RSK/SE44-52",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-53": {
     "name": "引っ込み思案 ノノ",
@@ -999,7 +1051,8 @@
         "id": "RSK/SE44-53",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSK/SE44-54": {
     "name": "筋トレ大好き ヒビキ",
@@ -1017,7 +1070,8 @@
         "id": "RSK/SE44-54",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSK/SE44-55": {
     "name": "聖なる光",
@@ -1035,7 +1089,8 @@
         "id": "RSK/SE44-55",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSK/SE44-56": {
     "name": "僕の冒険譚",
@@ -1053,6 +1108,7 @@
         "id": "RSK/SE44-56",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -19,7 +19,8 @@
         "id": "Ssw/W62-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ssw/W62-095": {
     "name": "スオムス義勇独立飛行中隊 ハルカ",
@@ -37,6 +38,7 @@
         "id": "Ssw/W62-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

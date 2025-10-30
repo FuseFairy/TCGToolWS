@@ -15,7 +15,8 @@
         "id": "TRV/S92-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-T02": {
     "name": "守ってあげる 日向",
@@ -41,7 +42,8 @@
         "id": "TRV/S92-T02SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-T03": {
     "name": "タイマン買ってくれよ タケミチ",
@@ -67,7 +69,8 @@
         "id": "TRV/S92-T03SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-T04": {
     "name": "わからない女心 エマ",
@@ -89,7 +92,8 @@
         "id": "TRV/S92-T04R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-T05": {
     "name": "時の人 タケミチ",
@@ -107,7 +111,8 @@
         "id": "TRV/S92-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-T06": {
     "name": "姉さんを救うため ナオト",
@@ -125,7 +130,8 @@
         "id": "TRV/S92-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-T07": {
     "name": "初めての敬語 千冬",
@@ -147,7 +153,8 @@
         "id": "TRV/S92-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-T08": {
     "name": "“死ぬ”と思った瞬間",
@@ -165,7 +172,8 @@
         "id": "TRV/S92-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-T09": {
     "name": "天下を獲る約束",
@@ -183,7 +191,8 @@
         "id": "TRV/S92-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-T10": {
     "name": "武蔵神社の集会",
@@ -201,7 +210,8 @@
         "id": "TRV/S92-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "TRV/S92-T11": {
     "name": "総長の右腕 ドラケン",
@@ -219,7 +229,8 @@
         "id": "TRV/S92-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-T12": {
     "name": "みんな分かってくれるよ 三ツ谷",
@@ -241,7 +252,8 @@
         "id": "TRV/S92-T12R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-T13": {
     "name": "旗持ち パーちん",
@@ -259,7 +271,8 @@
         "id": "TRV/S92-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-T14": {
     "name": "特攻隊 一虎",
@@ -281,7 +294,8 @@
         "id": "TRV/S92-T14R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-T15": {
     "name": "神社まで競争 場地",
@@ -299,7 +313,8 @@
         "id": "TRV/S92-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-T16": {
     "name": "夢への道 マイキー",
@@ -317,7 +332,8 @@
         "id": "TRV/S92-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-T17": {
     "name": "壱番隊隊長 場地",
@@ -339,7 +355,8 @@
         "id": "TRV/S92-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-T18": {
     "name": "一人で戦況を変える ドラケン",
@@ -361,7 +378,8 @@
         "id": "TRV/S92-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-T19": {
     "name": "大事にしてやれよ マイキー",
@@ -383,7 +401,8 @@
         "id": "TRV/S92-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-T20": {
     "name": "オマエもついてこい",
@@ -405,6 +424,7 @@
         "id": "TRV/S92-T20R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

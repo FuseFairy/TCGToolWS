@@ -19,7 +19,8 @@
         "id": "Sks/W123-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sks/W123-T13": {
     "name": "Cheers！ アクア",
@@ -45,7 +46,8 @@
         "id": "Sks/W123-T13SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sks/W123-T15": {
     "name": "Cheers！ ダクネス",
@@ -71,6 +73,7 @@
         "id": "Sks/W123-T15SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

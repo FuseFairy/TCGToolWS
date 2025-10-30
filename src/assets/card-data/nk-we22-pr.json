@@ -15,7 +15,8 @@
         "id": "NK/WE22-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-P02": {
     "name": "愛と正義と甘味の魔法少女 マジカルパティシエ小咲ちゃん",
@@ -33,6 +34,7 @@
         "id": "NK/WE22-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

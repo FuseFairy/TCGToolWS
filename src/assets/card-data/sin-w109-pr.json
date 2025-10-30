@@ -15,7 +15,8 @@
         "id": "SIN/W109-141",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-P04": {
     "name": "海の中で虎視眈々 中須 かすみ",
@@ -33,7 +34,8 @@
         "id": "SIN/W109-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIN/W109-P07": {
     "name": "あなたを見つめる 上原 歩夢",
@@ -51,7 +53,8 @@
         "id": "SIN/W109-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-P08": {
     "name": "大人デート♡ 中須 かすみ",
@@ -69,7 +72,8 @@
         "id": "SIN/W109-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-P09": {
     "name": "あざとくキメちゃう 桜坂 しずく",
@@ -87,7 +91,8 @@
         "id": "SIN/W109-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIN/W109-P10": {
     "name": "特別な恋を探して 朝香 果林",
@@ -105,7 +110,8 @@
         "id": "SIN/W109-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-P11": {
     "name": "ふたりで楽しく 宮下 愛",
@@ -123,7 +129,8 @@
         "id": "SIN/W109-P11",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-P12": {
     "name": "ずっとあなたのことを 近江 彼方",
@@ -141,7 +148,8 @@
         "id": "SIN/W109-P12",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIN/W109-P13": {
     "name": "みんなに伝えるラブ 優木 せつ菜",
@@ -159,7 +167,8 @@
         "id": "SIN/W109-P13",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIN/W109-P14": {
     "name": "記憶のなかのあなた エマ・ヴェルデ",
@@ -177,7 +186,8 @@
         "id": "SIN/W109-P14",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIN/W109-P15": {
     "name": "大切なあなたへ 天王寺 璃奈",
@@ -195,7 +205,8 @@
         "id": "SIN/W109-P15",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-P16": {
     "name": "私の印 三船 栞子",
@@ -213,7 +224,8 @@
         "id": "SIN/W109-P16",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-P17": {
     "name": "高鳴る気持ち ミア・テイラー",
@@ -231,7 +243,8 @@
         "id": "SIN/W109-P17",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-P18": {
     "name": "最高の恋しましょ！ 鐘 嵐珠",
@@ -249,6 +262,7 @@
         "id": "SIN/W109-P18",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

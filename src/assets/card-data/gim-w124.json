@@ -15,7 +15,8 @@
         "id": "GIM/W124-E01",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-001": {
     "name": "カクシタワタシ 紫雲清夏",
@@ -49,7 +50,8 @@
         "id": "GIM/W124-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-002": {
     "name": "Yellow Big Bang！ 藤田ことね",
@@ -83,7 +85,8 @@
         "id": "GIM/W124-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-003": {
     "name": "ハッピーミルフィーユ 十王星南",
@@ -117,7 +120,8 @@
         "id": "GIM/W124-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-004": {
     "name": "日々、発見的ステップ！ 倉本千奈",
@@ -151,7 +155,8 @@
         "id": "GIM/W124-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-005": {
     "name": "仮装狂騒曲 倉本千奈",
@@ -173,7 +178,8 @@
         "id": "GIM/W124-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-006": {
     "name": "Wonder Scale 倉本千奈",
@@ -199,7 +205,8 @@
         "id": "GIM/W124-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-007": {
     "name": "世界一可愛い私 藤田ことね",
@@ -225,7 +232,8 @@
         "id": "GIM/W124-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-008": {
     "name": "冠菊 葛城リーリヤ",
@@ -247,7 +255,8 @@
         "id": "GIM/W124-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-009": {
     "name": "アナザーアイドル'24夏 花海佑芽",
@@ -269,7 +278,8 @@
         "id": "GIM/W124-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-010": {
     "name": "仮装狂騒曲 篠澤 広",
@@ -291,7 +301,8 @@
         "id": "GIM/W124-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-011": {
     "name": "冠菊 藤田ことね",
@@ -313,7 +324,8 @@
         "id": "GIM/W124-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-012": {
     "name": "Tame-Lie-One-Step 紫雲清夏",
@@ -339,7 +351,8 @@
         "id": "GIM/W124-012SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-013": {
     "name": "小さな野望 十王星南",
@@ -365,7 +378,8 @@
         "id": "GIM/W124-013SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-014": {
     "name": "プロデュースって大変ね 十王星南",
@@ -387,7 +401,8 @@
         "id": "GIM/W124-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-015": {
     "name": "アナザーアイドル'24夏 藤田ことね",
@@ -409,7 +424,8 @@
         "id": "GIM/W124-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-016": {
     "name": "アナザーアイドル'24祭 花海佑芽",
@@ -431,7 +447,8 @@
         "id": "GIM/W124-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-017": {
     "name": "アナザーアイドル'24祭 篠澤 広",
@@ -453,7 +470,8 @@
         "id": "GIM/W124-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-018": {
     "name": "あら、奇遇ね 十王星南",
@@ -475,7 +493,8 @@
         "id": "GIM/W124-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-019": {
     "name": "アナザーアイドル'24ハロウィン 藤田ことね",
@@ -497,7 +516,8 @@
         "id": "GIM/W124-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-020": {
     "name": "アナザーアイドル'24祭 倉本千奈",
@@ -519,7 +539,8 @@
         "id": "GIM/W124-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-021": {
     "name": "アナザーアイドル'24ハロウィン 紫雲清夏",
@@ -541,7 +562,8 @@
         "id": "GIM/W124-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-022": {
     "name": "君と出会い、夢に翔ける 藤田ことね",
@@ -563,7 +585,8 @@
         "id": "GIM/W124-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-023": {
     "name": "スイッチON！ 紫雲清夏",
@@ -585,7 +608,8 @@
         "id": "GIM/W124-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-024": {
     "name": "アナザーアイドル'24ハロウィン 葛城リーリヤ",
@@ -607,7 +631,8 @@
         "id": "GIM/W124-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-025": {
     "name": "いめーじとれーにんぐ 篠澤 広",
@@ -629,7 +654,8 @@
         "id": "GIM/W124-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-026": {
     "name": "お姉ちゃん直伝メニュー 花海佑芽",
@@ -651,7 +677,8 @@
         "id": "GIM/W124-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-027": {
     "name": "ひたむき居残りレッスン 葛城リーリヤ",
@@ -673,7 +700,8 @@
         "id": "GIM/W124-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-028": {
     "name": "枝毛をくるり 藤田ことね",
@@ -695,7 +723,8 @@
         "id": "GIM/W124-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-029": {
     "name": "はいっ、みんなも一緒に♪",
@@ -717,7 +746,8 @@
         "id": "GIM/W124-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-030": {
     "name": "仕事のつもりで臨みなさい",
@@ -747,7 +777,8 @@
         "id": "GIM/W124-030SIR",
         "rarity": "SIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-031": {
     "name": "あっちも行きたいですわ！",
@@ -777,7 +808,8 @@
         "id": "GIM/W124-031SIR",
         "rarity": "SIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-032": {
     "name": "ぜったい追いついてやる！",
@@ -807,7 +839,8 @@
         "id": "GIM/W124-032SIR",
         "rarity": "SIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-033": {
     "name": "おいしい顔、いただき～！",
@@ -837,7 +870,8 @@
         "id": "GIM/W124-033SIR",
         "rarity": "SIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-034": {
     "name": "L.U.V 姫崎莉波",
@@ -871,7 +905,8 @@
         "id": "GIM/W124-034SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-035": {
     "name": "Feel Jewel Dream 有村麻央",
@@ -905,7 +940,8 @@
         "id": "GIM/W124-035SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-036": {
     "name": "Boom Boom Pow 花海咲季",
@@ -939,7 +975,8 @@
         "id": "GIM/W124-036SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-037": {
     "name": "White Night! White Wish! 花海佑芽",
@@ -973,7 +1010,8 @@
         "id": "GIM/W124-037SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-038": {
     "name": "Fighting My Way 花海咲季",
@@ -999,7 +1037,8 @@
         "id": "GIM/W124-038SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-039": {
     "name": "The Rolling Riceball 花海佑芽",
@@ -1025,7 +1064,8 @@
         "id": "GIM/W124-039SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-040": {
     "name": "会長、準備は万端です 十王星南",
@@ -1047,7 +1087,8 @@
         "id": "GIM/W124-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-041": {
     "name": "clumsy trick 姫崎莉波",
@@ -1073,7 +1114,8 @@
         "id": "GIM/W124-041SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-042": {
     "name": "冠菊 花海咲季",
@@ -1095,7 +1137,8 @@
         "id": "GIM/W124-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-043": {
     "name": "キミとセミブルー 姫崎莉波",
@@ -1117,7 +1160,8 @@
         "id": "GIM/W124-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-044": {
     "name": "Fluorite 有村麻央",
@@ -1143,7 +1187,8 @@
         "id": "GIM/W124-044SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-045": {
     "name": "君と出会い、夢に翔ける 花海咲季",
@@ -1165,7 +1210,8 @@
         "id": "GIM/W124-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-046": {
     "name": "ぐぬぬぬぬ…………！ 花海佑芽",
@@ -1187,7 +1233,8 @@
         "id": "GIM/W124-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-047": {
     "name": "アナザーアイドル'24祭 有村麻央",
@@ -1209,7 +1256,8 @@
         "id": "GIM/W124-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-048": {
     "name": "アナザーアイドル'24夏 倉本千奈",
@@ -1231,7 +1279,8 @@
         "id": "GIM/W124-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-049": {
     "name": "わたしのペースで 秦谷美鈴",
@@ -1253,7 +1302,8 @@
         "id": "GIM/W124-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-050": {
     "name": "学園生活 秦谷美鈴",
@@ -1275,7 +1325,8 @@
         "id": "GIM/W124-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-051": {
     "name": "アナザーアイドル'24ハロウィン 有村麻央",
@@ -1297,7 +1348,8 @@
         "id": "GIM/W124-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-052": {
     "name": "アナザーアイドル'24夏 花海咲季",
@@ -1319,7 +1371,8 @@
         "id": "GIM/W124-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-053": {
     "name": "君と出会い、夢に翔ける 倉本千奈",
@@ -1341,7 +1394,8 @@
         "id": "GIM/W124-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-054": {
     "name": "マイペース、マイライフ 秦谷美鈴",
@@ -1363,7 +1417,8 @@
         "id": "GIM/W124-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-055": {
     "name": "君と出会い、夢に翔ける 姫崎莉波",
@@ -1385,7 +1440,8 @@
         "id": "GIM/W124-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-056": {
     "name": "学園生活 花海佑芽",
@@ -1407,7 +1463,8 @@
         "id": "GIM/W124-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-057": {
     "name": "完全無欠のプランニング 十王星南",
@@ -1429,7 +1486,8 @@
         "id": "GIM/W124-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-058": {
     "name": "念入りにストレッチ 花海咲季",
@@ -1451,7 +1509,8 @@
         "id": "GIM/W124-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-059": {
     "name": "憧れを目指して 倉本千奈",
@@ -1473,7 +1532,8 @@
         "id": "GIM/W124-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-060": {
     "name": "学園生活 十王星南",
@@ -1495,7 +1555,8 @@
         "id": "GIM/W124-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-061": {
     "name": "アナザーアイドル'24ハロウィン 花海咲季",
@@ -1517,7 +1578,8 @@
         "id": "GIM/W124-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-062": {
     "name": "もう一度、最初から！",
@@ -1539,7 +1601,8 @@
         "id": "GIM/W124-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-063": {
     "name": "これが私達の、3年間",
@@ -1561,7 +1624,8 @@
         "id": "GIM/W124-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-064": {
     "name": "お姉ちゃんに任せなさい！",
@@ -1591,7 +1655,8 @@
         "id": "GIM/W124-064SIR",
         "rarity": "SIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-065": {
     "name": "まだ上がりませんように！",
@@ -1621,7 +1686,8 @@
         "id": "GIM/W124-065SIR",
         "rarity": "SIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-066": {
     "name": "次の桜の季節には。",
@@ -1651,7 +1717,8 @@
         "id": "GIM/W124-066SIR",
         "rarity": "SIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-067": {
     "name": "晴れたね",
@@ -1681,7 +1748,8 @@
         "id": "GIM/W124-067SIR",
         "rarity": "SIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-068": {
     "name": "コントラスト 篠澤 広",
@@ -1715,7 +1783,8 @@
         "id": "GIM/W124-068SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-069": {
     "name": "極光 葛城リーリヤ",
@@ -1749,7 +1818,8 @@
         "id": "GIM/W124-069SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-070": {
     "name": "ツキノカメ 秦谷美鈴",
@@ -1783,7 +1853,8 @@
         "id": "GIM/W124-070SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-071": {
     "name": "アイヴイ 月村手毬",
@@ -1817,7 +1888,8 @@
         "id": "GIM/W124-071SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-072": {
     "name": "キミとセミブルー 有村麻央",
@@ -1839,7 +1911,8 @@
         "id": "GIM/W124-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-073": {
     "name": "Luna say maybe 月村手毬",
@@ -1865,7 +1938,8 @@
         "id": "GIM/W124-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-074": {
     "name": "光景 篠澤 広",
@@ -1891,7 +1965,8 @@
         "id": "GIM/W124-074SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-075": {
     "name": "仮装狂騒曲 月村手毬",
@@ -1913,7 +1988,8 @@
         "id": "GIM/W124-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-076": {
     "name": "また、あんなに無理をして 秦谷美鈴",
@@ -1939,7 +2015,8 @@
         "id": "GIM/W124-076SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-077": {
     "name": "今はあえて、背を向けて 秦谷美鈴",
@@ -1961,7 +2038,8 @@
         "id": "GIM/W124-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-078": {
     "name": "キミとセミブルー 紫雲清夏",
@@ -1983,7 +2061,8 @@
         "id": "GIM/W124-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-079": {
     "name": "白線 葛城リーリヤ",
@@ -2009,7 +2088,8 @@
         "id": "GIM/W124-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-080": {
     "name": "アナザーアイドル'24夏 篠澤 広",
@@ -2031,7 +2111,8 @@
         "id": "GIM/W124-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-081": {
     "name": "アナザーアイドル'24夏 月村手毬",
@@ -2053,7 +2134,8 @@
         "id": "GIM/W124-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-082": {
     "name": "アナザーアイドル'24夏 葛城リーリヤ",
@@ -2075,7 +2157,8 @@
         "id": "GIM/W124-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-083": {
     "name": "アナザーアイドル'24祭 紫雲清夏",
@@ -2097,7 +2180,8 @@
         "id": "GIM/W124-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-084": {
     "name": "君と出会い、夢に翔ける 葛城リーリヤ",
@@ -2119,7 +2203,8 @@
         "id": "GIM/W124-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-085": {
     "name": "アナザーアイドル'24祭 月村手毬",
@@ -2141,7 +2226,8 @@
         "id": "GIM/W124-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-086": {
     "name": "アナザーアイドル'24ハロウィン 姫崎莉波",
@@ -2163,7 +2249,8 @@
         "id": "GIM/W124-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-087": {
     "name": "アナザーアイドル'24祭 姫崎莉波",
@@ -2185,7 +2272,8 @@
         "id": "GIM/W124-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-088": {
     "name": "君と出会い、夢に翔ける 月村手毬",
@@ -2207,7 +2295,8 @@
         "id": "GIM/W124-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-089": {
     "name": "ほっとけないクラスメイト 秦谷美鈴",
@@ -2229,7 +2318,8 @@
         "id": "GIM/W124-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-090": {
     "name": "君と出会い、夢に翔ける 篠澤 広",
@@ -2251,7 +2341,8 @@
         "id": "GIM/W124-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-091": {
     "name": "頼れる先輩お姉さん 姫崎莉波",
@@ -2273,7 +2364,8 @@
         "id": "GIM/W124-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-092": {
     "name": "全力、その後 月村手毬",
@@ -2295,7 +2387,8 @@
         "id": "GIM/W124-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-093": {
     "name": "君と出会い、夢に翔ける 紫雲清夏",
@@ -2317,7 +2410,8 @@
         "id": "GIM/W124-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-094": {
     "name": "君と出会い、夢に翔ける 有村麻央",
@@ -2339,7 +2433,8 @@
         "id": "GIM/W124-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-095": {
     "name": "王子様のひと呼吸 有村麻央",
@@ -2361,7 +2456,8 @@
         "id": "GIM/W124-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-096": {
     "name": "一時休戦です",
@@ -2383,7 +2479,8 @@
         "id": "GIM/W124-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-097": {
     "name": "もうっ！ 冷たいよ！",
@@ -2413,7 +2510,8 @@
         "id": "GIM/W124-097SIR",
         "rarity": "SIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-098": {
     "name": "何やってるんだろう、",
@@ -2443,7 +2541,8 @@
         "id": "GIM/W124-098SIR",
         "rarity": "SIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-099": {
     "name": "わたしたち、やればできる",
@@ -2473,7 +2572,8 @@
         "id": "GIM/W124-099SIR",
         "rarity": "SIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-100": {
     "name": "さみだれ",
@@ -2503,6 +2603,7 @@
         "id": "GIM/W124-100SIR",
         "rarity": "SIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

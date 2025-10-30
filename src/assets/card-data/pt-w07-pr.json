@@ -15,7 +15,8 @@
         "id": "PT/W07-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PT/W07-104": {
     "name": "パートナー アイン＆ツヴァイ",
@@ -33,7 +34,8 @@
         "id": "PT/W07-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PT/W07-105": {
     "name": "二頭の猟犬",
@@ -51,7 +53,8 @@
         "id": "PT/W07-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PT/W07-106": {
     "name": "水遊びをする江漣",
@@ -69,7 +72,8 @@
         "id": "PT/W07-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PT/W07-107": {
     "name": "水遊びする美緒",
@@ -87,7 +91,8 @@
         "id": "PT/W07-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PT/W07-108": {
     "name": "観測手 キャル",
@@ -105,7 +110,8 @@
         "id": "PT/W07-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PT/W07-109": {
     "name": "元ファントム 江漣",
@@ -123,7 +129,8 @@
         "id": "PT/W07-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PT/W07-110": {
     "name": "“ファントムを継ぎし者”ツヴァイ",
@@ -141,7 +148,8 @@
         "id": "PT/W07-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PT/W07-111": {
     "name": "ファントムの主 クロウディア",
@@ -159,7 +167,8 @@
         "id": "PT/W07-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PT/W07-112": {
     "name": "ファントムの実験作 ドライ",
@@ -177,7 +186,8 @@
         "id": "PT/W07-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PT/W07-113": {
     "name": "“最強の暗殺者ファントム”アイン",
@@ -195,7 +205,8 @@
         "id": "PT/W07-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PT/W07-114": {
     "name": "人を殺す才能 玲二",
@@ -213,6 +224,7 @@
         "id": "PT/W07-114",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

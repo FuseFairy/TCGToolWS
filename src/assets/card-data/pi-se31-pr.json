@@ -15,7 +15,8 @@
         "id": "PI/SE31-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-P02": {
     "name": "“すべての人の幸せ”イリヤ",
@@ -33,7 +34,8 @@
         "id": "PI/SE31-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-P03": {
     "name": "雪下の誓い イリヤ",
@@ -51,6 +53,7 @@
         "id": "PI/SE31-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

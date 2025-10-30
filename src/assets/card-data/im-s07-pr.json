@@ -15,7 +15,8 @@
         "id": "IM/S07-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S07-104": {
     "name": "プロジェクト・フェアリー",
@@ -33,7 +34,8 @@
         "id": "IM/S07-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S07-105": {
     "name": "天真爛漫な春香",
@@ -51,7 +53,8 @@
         "id": "IM/S07-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S07-106": {
     "name": "ライダースーツ春香",
@@ -69,7 +72,8 @@
         "id": "IM/S07-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S07-107": {
     "name": "“遠い音楽”千早",
@@ -87,7 +91,8 @@
         "id": "IM/S07-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S07-108": {
     "name": "おすまし 亜美＆真美",
@@ -105,7 +110,8 @@
         "id": "IM/S07-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S07-109": {
     "name": "庶民派アイドルやよい",
@@ -123,7 +129,8 @@
         "id": "IM/S07-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S07-110": {
     "name": "優しい女の子 雪歩",
@@ -141,7 +148,8 @@
         "id": "IM/S07-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S07-111": {
     "name": "新人アイドル 愛＆絵理＆涼",
@@ -159,7 +167,8 @@
         "id": "IM/S07-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S07-112": {
     "name": "ドレス姿の律子",
@@ -177,7 +186,8 @@
         "id": "IM/S07-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S07-113": {
     "name": "“とつげき豆タンク”愛",
@@ -195,7 +205,8 @@
         "id": "IM/S07-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S07-114": {
     "name": "マルチアーティスト絵理",
@@ -213,7 +224,8 @@
         "id": "IM/S07-114",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S07-115": {
     "name": "アイドルのいとこ涼",
@@ -231,7 +243,8 @@
         "id": "IM/S07-115",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S07-116": {
     "name": "ウェディングドレスの美希",
@@ -249,7 +262,8 @@
         "id": "IM/S07-116",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S07-117": {
     "name": "ボーイッシュな真",
@@ -267,7 +281,8 @@
         "id": "IM/S07-117",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S07-118": {
     "name": "ほのかにセクシーあずさ",
@@ -285,7 +300,8 @@
         "id": "IM/S07-118",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S07-119": {
     "name": "ウェディングドレスの伊織",
@@ -303,7 +319,8 @@
         "id": "IM/S07-119",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S07-120": {
     "name": "レッドスパンコール 春香",
@@ -321,7 +338,8 @@
         "id": "IM/S07-120",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S07-876": {
     "name": "876プロ 愛＆絵理＆涼",
@@ -339,6 +357,7 @@
         "id": "IM/S07-876",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

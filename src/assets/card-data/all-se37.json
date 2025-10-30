@@ -23,7 +23,8 @@
         "id": "ALL/SE37-01SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/SE37-02": {
     "name": "リリィのたしなみ 梨璃",
@@ -45,7 +46,8 @@
         "id": "ALL/SE37-02S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/SE37-03": {
     "name": "孤高のリリィ 夢結",
@@ -67,7 +69,8 @@
         "id": "ALL/SE37-03S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/SE37-04": {
     "name": "戦場に舞う 夢結",
@@ -89,7 +92,8 @@
         "id": "ALL/SE37-04S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/SE37-05": {
     "name": "密かな企み 楓",
@@ -111,7 +115,8 @@
         "id": "ALL/SE37-05S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/SE37-06": {
     "name": "戦場に舞う 楓",
@@ -133,7 +138,8 @@
         "id": "ALL/SE37-06S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/SE37-07": {
     "name": "凛々しく咲く 二水",
@@ -155,7 +161,8 @@
         "id": "ALL/SE37-07S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/SE37-08": {
     "name": "くつろぎの時間 二水",
@@ -177,7 +184,8 @@
         "id": "ALL/SE37-08S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/SE37-09": {
     "name": "戦場に舞う 鶴紗",
@@ -199,7 +207,8 @@
         "id": "ALL/SE37-09S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/SE37-10": {
     "name": "凛々しく咲く 鶴紗",
@@ -221,7 +230,8 @@
         "id": "ALL/SE37-10S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/SE37-11": {
     "name": "戦場に舞う 梅",
@@ -243,7 +253,8 @@
         "id": "ALL/SE37-11S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/SE37-12": {
     "name": "凛々しく咲く 梅",
@@ -265,7 +276,8 @@
         "id": "ALL/SE37-12S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/SE37-13": {
     "name": "凛々しく咲く 神琳",
@@ -287,7 +299,8 @@
         "id": "ALL/SE37-13S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/SE37-14": {
     "name": "強い正義感 神琳",
@@ -309,7 +322,8 @@
         "id": "ALL/SE37-14S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/SE37-15": {
     "name": "リリィのたしなみ 雨嘉",
@@ -331,7 +345,8 @@
         "id": "ALL/SE37-15S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/SE37-16": {
     "name": "“旬なリリィ”雨嘉",
@@ -353,7 +368,8 @@
         "id": "ALL/SE37-16S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/SE37-17": {
     "name": "騒々しい日 ミリアム",
@@ -375,7 +391,8 @@
         "id": "ALL/SE37-17S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/SE37-18": {
     "name": "CHARMの鑑定 ミリアム",
@@ -397,7 +414,8 @@
         "id": "ALL/SE37-18S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/SE37-19": {
     "name": "“全力少女”一葉",
@@ -423,7 +441,8 @@
         "id": "ALL/SE37-19SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/SE37-20": {
     "name": "“嬉々として”藍",
@@ -445,7 +464,8 @@
         "id": "ALL/SE37-20S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/SE37-21": {
     "name": "“弾に込めた想い”恋花",
@@ -467,7 +487,8 @@
         "id": "ALL/SE37-21S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/SE37-22": {
     "name": "“旬なリリィ”瑤",
@@ -489,7 +510,8 @@
         "id": "ALL/SE37-22S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/SE37-23": {
     "name": "“ヘルヴォル”千香瑠",
@@ -511,7 +533,8 @@
         "id": "ALL/SE37-23S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/SE37-24": {
     "name": "“グラン・エプレ”叶星",
@@ -537,7 +560,8 @@
         "id": "ALL/SE37-24SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/SE37-25": {
     "name": "“旬なリリィ”高嶺",
@@ -559,7 +583,8 @@
         "id": "ALL/SE37-25S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/SE37-26": {
     "name": "“たまりません～～っ！”紅巴",
@@ -581,7 +606,8 @@
         "id": "ALL/SE37-26S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/SE37-27": {
     "name": "“ユニコーンがいてもおかしくない！”灯莉",
@@ -603,7 +629,8 @@
         "id": "ALL/SE37-27S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/SE37-28": {
     "name": "“グラン・エプレ”姫歌",
@@ -625,6 +652,7 @@
         "id": "ALL/SE37-28S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

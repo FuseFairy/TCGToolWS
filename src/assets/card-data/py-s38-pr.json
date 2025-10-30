@@ -15,7 +15,8 @@
         "id": "PY/S38-121",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-122": {
     "name": "みどりパプリス",
@@ -33,7 +34,8 @@
         "id": "PY/S38-122",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-123": {
     "name": "あかパプリス",
@@ -51,7 +53,8 @@
         "id": "PY/S38-123",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-124": {
     "name": "あおパプリス",
@@ -69,7 +72,8 @@
         "id": "PY/S38-124",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-125": {
     "name": "むらさきパプリス",
@@ -87,7 +91,8 @@
         "id": "PY/S38-125",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-P01": {
     "name": "魔導師のタマゴ アルル",
@@ -105,7 +110,8 @@
         "id": "PY/S38-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-P02": {
     "name": "ぷよっと☆はじけた アミティ",
@@ -123,6 +129,7 @@
         "id": "PY/S38-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

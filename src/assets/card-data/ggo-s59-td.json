@@ -15,7 +15,8 @@
         "id": "GGO/S59-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-T02": {
     "name": "変化を望む香蓮",
@@ -33,7 +34,8 @@
         "id": "GGO/S59-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-T03": {
     "name": "“相棒”レン＆フカ次郎",
@@ -59,7 +61,8 @@
         "id": "GGO/S59-T03SPb",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-T04": {
     "name": "先輩ゲーマー 美優",
@@ -77,7 +80,8 @@
         "id": "GGO/S59-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-T05": {
     "name": "やってやる！レン",
@@ -99,7 +103,8 @@
         "id": "GGO/S59-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-T06": {
     "name": "鋭い視線 レン",
@@ -117,7 +122,8 @@
         "id": "GGO/S59-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-T07": {
     "name": "照れ気味な香蓮",
@@ -135,7 +141,8 @@
         "id": "GGO/S59-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-T08": {
     "name": "分隊長 レン",
@@ -153,7 +160,8 @@
         "id": "GGO/S59-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-T09": {
     "name": "腹をくくって大暴れ！レン",
@@ -175,7 +183,8 @@
         "id": "GGO/S59-T09S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-T10": {
     "name": "チュートリアル",
@@ -193,7 +202,8 @@
         "id": "GGO/S59-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-T11": {
     "name": "ピンクの奇襲",
@@ -215,7 +225,8 @@
         "id": "GGO/S59-T11S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-T12": {
     "name": "一瞬を狙う エム",
@@ -233,7 +244,8 @@
         "id": "GGO/S59-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-T13": {
     "name": "邪魔者は退散 ピトフーイ",
@@ -251,7 +263,8 @@
         "id": "GGO/S59-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-T14": {
     "name": "古参プレイヤー ピトフーイ",
@@ -273,7 +286,8 @@
         "id": "GGO/S59-T14R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-T15": {
     "name": "参謀役 エム",
@@ -291,7 +305,8 @@
         "id": "GGO/S59-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-T16": {
     "name": "レンとの出会い ピトフーイ",
@@ -309,7 +324,8 @@
         "id": "GGO/S59-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-T17": {
     "name": "初対面 エム",
@@ -327,7 +343,8 @@
         "id": "GGO/S59-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-T18": {
     "name": "スクワッド・ジャムへの誘い ピトフーイ",
@@ -345,7 +362,8 @@
         "id": "GGO/S59-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-T19": {
     "name": "趣味の話 ピトフーイ",
@@ -363,7 +381,8 @@
         "id": "GGO/S59-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-T20": {
     "name": "サディスティックな笑み",
@@ -381,7 +400,8 @@
         "id": "GGO/S59-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GGO/S59-T21": {
     "name": "狙撃手の対峙",
@@ -399,6 +419,7 @@
         "id": "GGO/S59-T21",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

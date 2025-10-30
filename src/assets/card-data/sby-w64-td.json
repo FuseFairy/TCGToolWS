@@ -15,7 +15,8 @@
         "id": "SBY/W64-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-T02": {
     "name": "自己紹介 牧之原 翔子",
@@ -37,7 +38,8 @@
         "id": "SBY/W64-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-T03": {
     "name": "急襲 古賀 朋絵",
@@ -59,7 +61,8 @@
         "id": "SBY/W64-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-T04": {
     "name": "深夜の連絡 双葉 理央",
@@ -77,7 +80,8 @@
         "id": "SBY/W64-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-T05": {
     "name": "秘めた想い 双葉 理央",
@@ -95,7 +99,8 @@
         "id": "SBY/W64-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-T06": {
     "name": "染み付いた言葉 古賀 朋絵",
@@ -113,7 +118,8 @@
         "id": "SBY/W64-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-T07": {
     "name": "無名の手紙 双葉 理央",
@@ -135,7 +141,8 @@
         "id": "SBY/W64-T07S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-T08": {
     "name": "非日常への推論",
@@ -153,7 +160,8 @@
         "id": "SBY/W64-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-T09": {
     "name": "誤解",
@@ -171,7 +179,8 @@
         "id": "SBY/W64-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SBY/W64-T10": {
     "name": "屈託ない笑顔 梓川 かえで",
@@ -193,7 +202,8 @@
         "id": "SBY/W64-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-T11": {
     "name": "登校中 梓川 咲太",
@@ -211,7 +221,8 @@
         "id": "SBY/W64-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-T12": {
     "name": "人気タレント 桜島 麻衣",
@@ -233,7 +244,8 @@
         "id": "SBY/W64-T12S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-T13": {
     "name": "築く信頼 豊浜 のどか",
@@ -255,7 +267,8 @@
         "id": "SBY/W64-T13R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-T14": {
     "name": "批難の眼差し 桜島 麻衣",
@@ -273,7 +286,8 @@
         "id": "SBY/W64-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-T15": {
     "name": "急な引っ越し 豊浜 のどか",
@@ -291,7 +305,8 @@
         "id": "SBY/W64-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-T16": {
     "name": "壮大な勘違い 梓川 かえで",
@@ -309,7 +324,8 @@
         "id": "SBY/W64-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-T17": {
     "name": "予想外の返答 桜島 麻衣",
@@ -327,7 +343,8 @@
         "id": "SBY/W64-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-T18": {
     "name": "泡沫の存在 桜島 麻衣",
@@ -349,7 +366,8 @@
         "id": "SBY/W64-T18SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-T19": {
     "name": "苦い記憶",
@@ -367,7 +385,8 @@
         "id": "SBY/W64-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-T20": {
     "name": "本音と本音",
@@ -385,6 +404,7 @@
         "id": "SBY/W64-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

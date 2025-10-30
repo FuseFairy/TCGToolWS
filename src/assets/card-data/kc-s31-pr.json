@@ -15,7 +15,8 @@
         "id": "KC/S31-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S31-P02": {
     "name": "朝潮型駆逐艦5番艦 朝雲",
@@ -33,7 +34,8 @@
         "id": "KC/S31-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S31-P03": {
     "name": "吹雪・睦月・夕立",
@@ -51,7 +53,8 @@
         "id": "KC/S31-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S31-P04": {
     "name": "金剛・比叡・榛名・霧島",
@@ -69,7 +72,8 @@
         "id": "KC/S31-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S31-P05": {
     "name": "川内・神通・那珂",
@@ -87,7 +91,8 @@
         "id": "KC/S31-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S31-P06": {
     "name": "大和",
@@ -105,7 +110,8 @@
         "id": "KC/S31-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S31-P07": {
     "name": "大淀・長門・陸奥",
@@ -123,7 +129,8 @@
         "id": "KC/S31-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S31-P08": {
     "name": "赤城・加賀",
@@ -141,7 +148,8 @@
         "id": "KC/S31-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S31-019": {
     "name": "雲龍型正規空母1番艦 雲龍",
@@ -159,7 +167,8 @@
         "id": "KC/S31-019P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S31-042": {
     "name": "初春型駆逐艦1番艦 初春改二",
@@ -177,7 +186,8 @@
         "id": "KC/S31-042P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S31-068": {
     "name": "睦月型駆逐艦3番艦 弥生",
@@ -195,7 +205,8 @@
         "id": "KC/S31-068P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S31-089": {
     "name": "白露型駆逐艦5番艦 春雨",
@@ -213,6 +224,7 @@
         "id": "KC/S31-089P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

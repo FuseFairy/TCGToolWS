@@ -15,7 +15,8 @@
         "id": "CS/S28-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-102": {
     "name": "かすかべ防衛隊 風間くん",
@@ -33,7 +34,8 @@
         "id": "CS/S28-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-103": {
     "name": "かすかべ防衛隊 ネネちゃん",
@@ -51,7 +53,8 @@
         "id": "CS/S28-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-104": {
     "name": "かすかべ防衛隊 マサオくん",
@@ -69,7 +72,8 @@
         "id": "CS/S28-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-105": {
     "name": "かすかべ防衛隊 ボーちゃん",
@@ -87,7 +91,8 @@
         "id": "CS/S28-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-P01": {
     "name": "封印された拳 アクション仮面",
@@ -105,7 +110,8 @@
         "id": "CS/S28-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-P02": {
     "name": "“オラのロボとーちゃん” しんのすけ",
@@ -123,7 +129,8 @@
         "id": "CS/S28-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-P03": {
     "name": "“立ち上がれロボとーちゃん” ひろし",
@@ -141,7 +148,8 @@
         "id": "CS/S28-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-P04": {
     "name": "“逆襲のロボとーちゃん” ひろし",
@@ -159,7 +167,8 @@
         "id": "CS/S28-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-P05": {
     "name": "“ロボしんちゃん” しんのすけ",
@@ -177,7 +186,8 @@
         "id": "CS/S28-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-P06": {
     "name": "“ちょー便利なロボとーちゃん” ひろし",
@@ -195,7 +205,8 @@
         "id": "CS/S28-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-P07": {
     "name": "操縦者しんのすけ",
@@ -213,7 +224,8 @@
         "id": "CS/S28-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-P08": {
     "name": "“最強のロボとーちゃん” ひろし",
@@ -231,7 +243,8 @@
         "id": "CS/S28-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-P09": {
     "name": "夏の思い出 しんのすけ&シロ",
@@ -249,6 +262,7 @@
         "id": "CS/S28-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

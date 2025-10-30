@@ -15,7 +15,8 @@
         "id": "DC/WE30-06",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE30-07": {
     "name": "桜風の季節 エリカ＆由夢",
@@ -33,7 +34,8 @@
         "id": "DC/WE30-07",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE30-08": {
     "name": "踏み出した一歩 小恋",
@@ -59,7 +61,8 @@
         "id": "DC/WE30-08SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE30-09": {
     "name": "打ち上げ花火",
@@ -77,7 +80,8 @@
         "id": "DC/WE30-09",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE30-10": {
     "name": "ウェディングドレスのことり",
@@ -95,7 +99,8 @@
         "id": "DC/WE30-10",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE30-14": {
     "name": "世話焼き 桜姫",
@@ -113,7 +118,8 @@
         "id": "DC/WE30-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE30-15": {
     "name": "仲良し雪月花 杏＆小恋＆茜",
@@ -131,7 +137,8 @@
         "id": "DC/WE30-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE30-16": {
     "name": "スキーウェアの美夏",
@@ -149,7 +156,8 @@
         "id": "DC/WE30-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE30-17": {
     "name": "色づく恋模様 音夢＆美春",
@@ -167,7 +175,8 @@
         "id": "DC/WE30-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE30-18": {
     "name": "無邪気なレディー さくら",
@@ -185,7 +194,8 @@
         "id": "DC/WE30-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE30-19": {
     "name": "この日を忘れない",
@@ -203,7 +213,8 @@
         "id": "DC/WE30-19",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/WE30-20": {
     "name": "体操着のななか",
@@ -221,7 +232,8 @@
         "id": "DC/WE30-20",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE30-21": {
     "name": "もう、忘れない",
@@ -239,7 +251,8 @@
         "id": "DC/WE30-21",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE30-22": {
     "name": "特別留学生エリカ",
@@ -257,7 +270,8 @@
         "id": "DC/WE30-22",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE30-23": {
     "name": "大はしゃぎ！ まひる",
@@ -275,7 +289,8 @@
         "id": "DC/WE30-23",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE30-24": {
     "name": "へーよーぶらざー",
@@ -293,7 +308,8 @@
         "id": "DC/WE30-24",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE30-25": {
     "name": "世話好き音夢",
@@ -311,7 +327,8 @@
         "id": "DC/WE30-25",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE30-26": {
     "name": "ことりの歌",
@@ -329,7 +346,8 @@
         "id": "DC/WE30-26",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE30-27": {
     "name": "水着の眞子＆萌",
@@ -347,6 +365,7 @@
         "id": "DC/WE30-27",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

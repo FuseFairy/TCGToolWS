@@ -19,7 +19,8 @@
         "id": "GCR/SE48-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GCR/SE48-T02": {
     "name": "告白 仁菜",
@@ -41,7 +42,8 @@
         "id": "GCR/SE48-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GCR/SE48-T03": {
     "name": "初セッション すばる",
@@ -63,7 +65,8 @@
         "id": "GCR/SE48-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GCR/SE48-T04": {
     "name": "始まりの目撃者へ 智",
@@ -89,7 +92,8 @@
         "id": "GCR/SE48-T04SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GCR/SE48-T05": {
     "name": "帰る場所 智",
@@ -111,7 +115,8 @@
         "id": "GCR/SE48-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GCR/SE48-T06": {
     "name": "開戦の灯 仁菜",
@@ -137,7 +142,8 @@
         "id": "GCR/SE48-T06S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GCR/SE48-T07": {
     "name": "始まりの目撃者へ 桃香",
@@ -163,7 +169,8 @@
         "id": "GCR/SE48-T07SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GCR/SE48-T08": {
     "name": "始まりの目撃者へ すばる",
@@ -189,7 +196,8 @@
         "id": "GCR/SE48-T08SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GCR/SE48-T09": {
     "name": "開戦の灯 桃香",
@@ -211,7 +219,8 @@
         "id": "GCR/SE48-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GCR/SE48-T10": {
     "name": "ファンサービス ルパ",
@@ -233,7 +242,8 @@
         "id": "GCR/SE48-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GCR/SE48-T11": {
     "name": "告白 桃香",
@@ -255,7 +265,8 @@
         "id": "GCR/SE48-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GCR/SE48-T12": {
     "name": "開戦の灯 智",
@@ -277,7 +288,8 @@
         "id": "GCR/SE48-T12R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GCR/SE48-T13": {
     "name": "開戦の灯 すばる",
@@ -299,7 +311,8 @@
         "id": "GCR/SE48-T13R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GCR/SE48-T14": {
     "name": "始まりの目撃者へ 仁菜",
@@ -325,7 +338,8 @@
         "id": "GCR/SE48-T14SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GCR/SE48-T15": {
     "name": "始まりの目撃者へ ルパ",
@@ -351,7 +365,8 @@
         "id": "GCR/SE48-T15SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GCR/SE48-T16": {
     "name": "中指立ててけ！",
@@ -373,7 +388,8 @@
         "id": "GCR/SE48-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GCR/SE48-T17": {
     "name": "雑踏、僕らの街",
@@ -395,7 +411,8 @@
         "id": "GCR/SE48-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GCR/SE48-T18": {
     "name": "運命の華",
@@ -417,7 +434,8 @@
         "id": "GCR/SE48-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GCR/SE48-T19": {
     "name": "名もなき何もかも",
@@ -439,6 +457,7 @@
         "id": "GCR/SE48-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

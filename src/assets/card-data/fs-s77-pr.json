@@ -15,7 +15,8 @@
         "id": "FS/S77-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-P02": {
     "name": "解き放たれた 桜",
@@ -33,7 +34,8 @@
         "id": "FS/S77-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-101": {
     "name": "全身全霊をかけて 士郎",
@@ -51,7 +53,8 @@
         "id": "FS/S77-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-102": {
     "name": "戦いの後 桜",
@@ -69,7 +72,8 @@
         "id": "FS/S77-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-103": {
     "name": "信じ続ける ライダー",
@@ -87,7 +91,8 @@
         "id": "FS/S77-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-104": {
     "name": "姉として 凛",
@@ -105,6 +110,7 @@
         "id": "FS/S77-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

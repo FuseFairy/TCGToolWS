@@ -15,7 +15,8 @@
         "id": "KNK/W86-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-T02": {
     "name": "冷ややかな眼差し 麻美",
@@ -33,7 +34,8 @@
         "id": "KNK/W86-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-T03": {
     "name": "本来の姿 瑠夏",
@@ -55,7 +57,8 @@
         "id": "KNK/W86-T03S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-T04": {
     "name": "待ち焦がれる 瑠夏",
@@ -73,7 +76,8 @@
         "id": "KNK/W86-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-T05": {
     "name": "疑惑の視線 瑠夏",
@@ -91,7 +95,8 @@
         "id": "KNK/W86-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-T06": {
     "name": "別れの挨拶 瑠夏",
@@ -109,7 +114,8 @@
         "id": "KNK/W86-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-T07": {
     "name": "謎多き美少女 瑠夏",
@@ -131,7 +137,8 @@
         "id": "KNK/W86-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-T08": {
     "name": "想定外の一言 麻美",
@@ -153,7 +160,8 @@
         "id": "KNK/W86-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-T09": {
     "name": "ファインダー越し 墨",
@@ -175,7 +183,8 @@
         "id": "KNK/W86-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-T10": {
     "name": "私と付き合ってくださいっ!!",
@@ -193,7 +202,8 @@
         "id": "KNK/W86-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-T11": {
     "name": "微妙な距離 和也",
@@ -211,7 +221,8 @@
         "id": "KNK/W86-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-T12": {
     "name": "波乱の幕開け ちづる",
@@ -229,7 +240,8 @@
         "id": "KNK/W86-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-T13": {
     "name": "届かない掌 和也",
@@ -247,7 +259,8 @@
         "id": "KNK/W86-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-T14": {
     "name": "レンタル彼女 千鶴",
@@ -269,7 +282,8 @@
         "id": "KNK/W86-T14SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-T15": {
     "name": "理想の恋人 千鶴",
@@ -291,7 +305,8 @@
         "id": "KNK/W86-T15S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-T16": {
     "name": "微妙な距離 千鶴",
@@ -309,7 +324,8 @@
         "id": "KNK/W86-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-T17": {
     "name": "遅れて来た彼女 千鶴",
@@ -327,7 +343,8 @@
         "id": "KNK/W86-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-T18": {
     "name": "他言無用",
@@ -345,7 +362,8 @@
         "id": "KNK/W86-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-T19": {
     "name": "彼女モード",
@@ -363,6 +381,7 @@
         "id": "KNK/W86-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

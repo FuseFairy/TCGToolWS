@@ -19,7 +19,8 @@
         "id": "ISC/S110-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-T02": {
     "name": "283プロのヒナ 七草にちか",
@@ -41,7 +42,8 @@
         "id": "ISC/S110-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-T03": {
     "name": "♡まっクろはムウサぎ♡ 七草にちか",
@@ -63,7 +65,8 @@
         "id": "ISC/S110-T03SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-T04": {
     "name": "一億回めくらいの、その夏 七草にちか",
@@ -85,7 +88,8 @@
         "id": "ISC/S110-T04SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-T05": {
     "name": "ビヨンドザブルースカイ 七草にちか",
@@ -107,7 +111,8 @@
         "id": "ISC/S110-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-T06": {
     "name": "ファウンテンサマー 七草にちか",
@@ -129,7 +134,8 @@
         "id": "ISC/S110-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-T07": {
     "name": "シルキージェムシリカ 七草にちか",
@@ -155,7 +161,8 @@
         "id": "ISC/S110-T07S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-T08": {
     "name": "夏葬灯",
@@ -177,7 +184,8 @@
         "id": "ISC/S110-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-T09": {
     "name": "あっかい",
@@ -199,7 +207,8 @@
         "id": "ISC/S110-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-T10": {
     "name": "ファウンテンサマー 緋田美琴",
@@ -221,7 +230,8 @@
         "id": "ISC/S110-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-T11": {
     "name": "283プロのヒナ 緋田美琴",
@@ -243,7 +253,8 @@
         "id": "ISC/S110-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-T12": {
     "name": "MANNEQUIN 緋田美琴",
@@ -265,7 +276,8 @@
         "id": "ISC/S110-T12SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-T13": {
     "name": "ROUNDLY 緋田美琴",
@@ -287,7 +299,8 @@
         "id": "ISC/S110-T13SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-T14": {
     "name": "ビヨンドザブルースカイ 緋田美琴",
@@ -309,7 +322,8 @@
         "id": "ISC/S110-T14R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-T15": {
     "name": "FEEL 緋田美琴",
@@ -331,7 +345,8 @@
         "id": "ISC/S110-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-T16": {
     "name": "シルキージェムシリカ 緋田美琴",
@@ -357,7 +372,8 @@
         "id": "ISC/S110-T16S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-T17": {
     "name": "STAGE",
@@ -379,6 +395,7 @@
         "id": "ISC/S110-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

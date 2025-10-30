@@ -27,7 +27,8 @@
         "id": "NIK/S117-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-002": {
     "name": "アニス：スパークリングサマー",
@@ -57,7 +58,8 @@
         "id": "NIK/S117-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-003": {
     "name": "“友だちと一緒なら！”ナガ",
@@ -87,7 +89,8 @@
         "id": "NIK/S117-003SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-004": {
     "name": "火力への追求 ネオン",
@@ -109,7 +112,8 @@
         "id": "NIK/S117-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-005": {
     "name": "“スネークバイト”バイパー",
@@ -131,7 +135,8 @@
         "id": "NIK/S117-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-006": {
     "name": "ミカ：スノーバディ",
@@ -157,7 +162,8 @@
         "id": "NIK/S117-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-007": {
     "name": "“クレイジージャッカル”ジャッカル",
@@ -183,7 +189,8 @@
         "id": "NIK/S117-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-008": {
     "name": "ヘルム：アクアマリン",
@@ -209,7 +216,8 @@
         "id": "NIK/S117-008SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-009": {
     "name": "“嵐を突っ切って！”マスト",
@@ -235,7 +243,8 @@
         "id": "NIK/S117-009SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-010": {
     "name": "作戦遂行 ラピ",
@@ -265,7 +274,8 @@
         "id": "NIK/S117-010SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-011": {
     "name": "ラピ：クラシックバカンス",
@@ -287,7 +297,8 @@
         "id": "NIK/S117-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-012": {
     "name": "“トリッキーボンバー”ベロータ",
@@ -309,7 +320,8 @@
         "id": "NIK/S117-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-013": {
     "name": "“ザ・テロリスト”クロウ",
@@ -331,7 +343,8 @@
         "id": "NIK/S117-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-014": {
     "name": "“ピアスショット”マクスウェル",
@@ -353,7 +366,8 @@
         "id": "NIK/S117-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-015": {
     "name": "“ダブルブースト”リター",
@@ -379,7 +393,8 @@
         "id": "NIK/S117-015SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-016": {
     "name": "ムードメーカー アニス",
@@ -401,7 +416,8 @@
         "id": "NIK/S117-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-017": {
     "name": "甘いスイーツ ティア",
@@ -423,7 +439,8 @@
         "id": "NIK/S117-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-018": {
     "name": "“着工開始”センチ",
@@ -445,7 +462,8 @@
         "id": "NIK/S117-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-019": {
     "name": "“CIWS”アンカー",
@@ -467,7 +485,8 @@
         "id": "NIK/S117-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-020": {
     "name": "“ドレイクスペシャル”ドレイク",
@@ -489,7 +508,8 @@
         "id": "NIK/S117-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-021": {
     "name": "“ブームインストール”エレグ",
@@ -511,7 +531,8 @@
         "id": "NIK/S117-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-022": {
     "name": "光るアクセサリー ナガ",
@@ -533,7 +554,8 @@
         "id": "NIK/S117-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-023": {
     "name": "ネオン：ブルーオーシャン",
@@ -555,7 +577,8 @@
         "id": "NIK/S117-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-024": {
     "name": "“ラプラスバスター”ラプラス",
@@ -581,7 +604,8 @@
         "id": "NIK/S117-024SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-025": {
     "name": "GOLDEN SHIP",
@@ -603,7 +627,8 @@
         "id": "NIK/S117-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-026": {
     "name": "SEA, YOU, AGAIN",
@@ -625,7 +650,8 @@
         "id": "NIK/S117-026R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-027": {
     "name": "DAZZLING CUPID",
@@ -647,7 +673,8 @@
         "id": "NIK/S117-027R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-028": {
     "name": "D-OUTSIDERS",
@@ -669,7 +696,8 @@
         "id": "NIK/S117-028R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-029": {
     "name": "人類に勝利を",
@@ -699,7 +727,8 @@
         "id": "NIK/S117-029R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-030": {
     "name": "ルピー：ウィンターショッパー",
@@ -725,7 +754,8 @@
         "id": "NIK/S117-030SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-031": {
     "name": "“ショータイム”ブラン",
@@ -755,7 +785,8 @@
         "id": "NIK/S117-031SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-032": {
     "name": "“フィナーレ”ノワール",
@@ -785,7 +816,8 @@
         "id": "NIK/S117-032SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-033": {
     "name": "“R&Dショット”ドラー",
@@ -807,7 +839,8 @@
         "id": "NIK/S117-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-034": {
     "name": "エヌ：ミラクルフェアリー",
@@ -833,7 +866,8 @@
         "id": "NIK/S117-034SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-035": {
     "name": "“魔界黒龍波”ギロチン",
@@ -859,7 +893,8 @@
         "id": "NIK/S117-035SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-036": {
     "name": "“先輩のお手本”ライ",
@@ -881,7 +916,8 @@
         "id": "NIK/S117-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-037": {
     "name": "ブラン：ホワイトラビット",
@@ -903,7 +939,8 @@
         "id": "NIK/S117-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-038": {
     "name": "ノワール：ブラックラビット",
@@ -925,7 +962,8 @@
         "id": "NIK/S117-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-039": {
     "name": "メアリー：ベイゴッデス",
@@ -951,7 +989,8 @@
         "id": "NIK/S117-039SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-040": {
     "name": "“処断”D",
@@ -973,7 +1012,8 @@
         "id": "NIK/S117-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-041": {
     "name": "“言霊：確かな言葉”メイデン",
@@ -995,7 +1035,8 @@
         "id": "NIK/S117-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-042": {
     "name": "“…メンドイ”プリム",
@@ -1017,7 +1058,8 @@
         "id": "NIK/S117-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-043": {
     "name": "“センスシェアリング”ミハラ",
@@ -1039,7 +1081,8 @@
         "id": "NIK/S117-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-044": {
     "name": "“ペッパーセラピー”ペッパー",
@@ -1061,7 +1104,8 @@
         "id": "NIK/S117-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-045": {
     "name": "“一攫千金”ヤン",
@@ -1083,7 +1127,8 @@
         "id": "NIK/S117-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-046": {
     "name": "“つかまえたぁ…”ギルティ",
@@ -1109,7 +1154,8 @@
         "id": "NIK/S117-046SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-047": {
     "name": "“事件解決であります！”ノベル",
@@ -1131,7 +1177,8 @@
         "id": "NIK/S117-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-048": {
     "name": "“勝利に向かって”ミルク",
@@ -1153,7 +1200,8 @@
         "id": "NIK/S117-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-049": {
     "name": "“青い蝶の記憶”N102",
@@ -1175,7 +1223,8 @@
         "id": "NIK/S117-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-050": {
     "name": "“トラブルシューター”シュガー",
@@ -1201,7 +1250,8 @@
         "id": "NIK/S117-050SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-051": {
     "name": "“ワンサイドプロトコル”エクシア",
@@ -1227,7 +1277,8 @@
         "id": "NIK/S117-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-052": {
     "name": "“BDG”ユニ",
@@ -1253,7 +1304,8 @@
         "id": "NIK/S117-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-053": {
     "name": "“わが師の恩”マルチャーナ",
@@ -1279,7 +1331,8 @@
         "id": "NIK/S117-053SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-054": {
     "name": "KILL THE LORD",
@@ -1301,7 +1354,8 @@
         "id": "NIK/S117-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-055": {
     "name": "MIRACLE SNOW",
@@ -1323,7 +1377,8 @@
         "id": "NIK/S117-055R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-056": {
     "name": "Bunny X 777",
@@ -1349,7 +1404,8 @@
         "id": "NIK/S117-056R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-057": {
     "name": "BLUEWATER ISLAND",
@@ -1371,7 +1427,8 @@
         "id": "NIK/S117-057R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-058": {
     "name": "“レッドウルフ”レッドフード",
@@ -1397,7 +1454,8 @@
         "id": "NIK/S117-058SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-059": {
     "name": "モダニア：ファースト・アフェクション",
@@ -1427,7 +1485,8 @@
         "id": "NIK/S117-059SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-060": {
     "name": "“摩訶不思議な世界”アリス",
@@ -1457,7 +1516,8 @@
         "id": "NIK/S117-060SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-061": {
     "name": "“桜花らんまん”サクラ",
@@ -1483,7 +1543,8 @@
         "id": "NIK/S117-061SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-062": {
     "name": "“ライオンの心”レオナ",
@@ -1509,7 +1570,8 @@
         "id": "NIK/S117-062SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-063": {
     "name": "ルドミラ：ウィンターオーナー",
@@ -1539,7 +1601,8 @@
         "id": "NIK/S117-063SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-064": {
     "name": "ノイズ：クラシックディーバ",
@@ -1565,7 +1628,8 @@
         "id": "NIK/S117-064SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-065": {
     "name": "最高の仲間たちへ レッドフード",
@@ -1587,7 +1651,8 @@
         "id": "NIK/S117-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-066": {
     "name": "“お散歩トレーニング”ビスケット",
@@ -1613,7 +1678,8 @@
         "id": "NIK/S117-066SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-067": {
     "name": "無垢の愛 モダニア",
@@ -1635,7 +1701,8 @@
         "id": "NIK/S117-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-068": {
     "name": "“アリア・デ・カンポ”アリア",
@@ -1657,7 +1724,8 @@
         "id": "NIK/S117-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-069": {
     "name": "アリス：スイートホーム",
@@ -1679,7 +1747,8 @@
         "id": "NIK/S117-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-070": {
     "name": "“大きくて乱暴なネコ”ネロ",
@@ -1701,7 +1770,8 @@
         "id": "NIK/S117-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-071": {
     "name": "“ホッキョクグマの遠吠え”ネヴェ",
@@ -1723,7 +1793,8 @@
         "id": "NIK/S117-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-072": {
     "name": "“ヴェンデッタ”ロザンナ",
@@ -1745,7 +1816,8 @@
         "id": "NIK/S117-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-073": {
     "name": "“リメンバーミー”デルタ",
@@ -1767,7 +1839,8 @@
         "id": "NIK/S117-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-074": {
     "name": "“その場しのぎの奇跡”トーブ",
@@ -1789,7 +1862,8 @@
         "id": "NIK/S117-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-075": {
     "name": "“ボリュームアップ、ガイズ！”ボリューム",
@@ -1811,7 +1885,8 @@
         "id": "NIK/S117-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-076": {
     "name": "“エマージェンシー・シグナル”シグナル",
@@ -1833,7 +1908,8 @@
         "id": "NIK/S117-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-077": {
     "name": "“バーンアポカリプス”ニヒリスター",
@@ -1855,7 +1931,8 @@
         "id": "NIK/S117-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-078": {
     "name": "“正々堂々と勝負だ！”モラン",
@@ -1877,7 +1954,8 @@
         "id": "NIK/S117-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-079": {
     "name": "“偉大なる脱出”クエンシー",
@@ -1899,7 +1977,8 @@
         "id": "NIK/S117-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-080": {
     "name": "撃ち穿つ赤い牙",
@@ -1921,7 +2000,8 @@
         "id": "NIK/S117-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-081": {
     "name": "First Affection",
@@ -1943,7 +2023,8 @@
         "id": "NIK/S117-081R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-082": {
     "name": "CHERRY BLOSSOM",
@@ -1965,7 +2046,8 @@
         "id": "NIK/S117-082R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-083": {
     "name": "RED ASH",
@@ -1991,7 +2073,8 @@
         "id": "NIK/S117-083R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-084": {
     "name": "BOW-WOW PARADISE",
@@ -2013,7 +2096,8 @@
         "id": "NIK/S117-084R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-085": {
     "name": "紅蓮：ブラックシャドウ",
@@ -2043,7 +2127,8 @@
         "id": "NIK/S117-085SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-086": {
     "name": "プリバティ：アンカインド・メイド",
@@ -2069,7 +2154,8 @@
         "id": "NIK/S117-086SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-087": {
     "name": "“失楽園”ドロシー",
@@ -2099,7 +2185,8 @@
         "id": "NIK/S117-087SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-088": {
     "name": "“リアライズ”マリアン",
@@ -2125,7 +2212,8 @@
         "id": "NIK/S117-088SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-089": {
     "name": "“大掃除メイド”ソーダ",
@@ -2151,7 +2239,8 @@
         "id": "NIK/S117-089SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-090": {
     "name": "“AZX”ブリッド",
@@ -2177,7 +2266,8 @@
         "id": "NIK/S117-090SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-091": {
     "name": "“セブンスドワーフ：Ⅰ”スノーホワイト",
@@ -2203,7 +2293,8 @@
         "id": "NIK/S117-091SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-092": {
     "name": "スノーホワイト：イノセントデイズ",
@@ -2229,7 +2320,8 @@
         "id": "NIK/S117-092SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-093": {
     "name": "“紅蓮一閃”紅蓮",
@@ -2255,7 +2347,8 @@
         "id": "NIK/S117-093SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-094": {
     "name": "“ガーデンオブシャングリラ”ラプンツェル",
@@ -2285,7 +2378,8 @@
         "id": "NIK/S117-094SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-095": {
     "name": "“大胆不敵！”ソリン",
@@ -2307,7 +2401,8 @@
         "id": "NIK/S117-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-096": {
     "name": "“スプリント”フォルクヴァン",
@@ -2329,7 +2424,8 @@
         "id": "NIK/S117-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-097": {
     "name": "“ムカつくでしょう？”ノア",
@@ -2351,7 +2447,8 @@
         "id": "NIK/S117-097S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-098": {
     "name": "“パワーアップ！”ミランダ",
@@ -2373,7 +2470,8 @@
         "id": "NIK/S117-098S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-099": {
     "name": "“ポリスライン”ポリ",
@@ -2399,7 +2497,8 @@
         "id": "NIK/S117-099SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-100": {
     "name": "“ストロベリーショック”ディーゼル",
@@ -2425,7 +2524,8 @@
         "id": "NIK/S117-100SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-101": {
     "name": "ドロシー：ノスタルジア",
@@ -2447,7 +2547,8 @@
         "id": "NIK/S117-101S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-102": {
     "name": "“死滅の刀”ハラン",
@@ -2473,7 +2574,8 @@
         "id": "NIK/S117-102SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-103": {
     "name": "“お見通し”キリ",
@@ -2495,7 +2597,8 @@
         "id": "NIK/S117-103S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-104": {
     "name": "“プロメイド長”ココア",
@@ -2517,7 +2620,8 @@
         "id": "NIK/S117-104S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-105": {
     "name": "“SAFE 50-50”エピネル",
@@ -2539,7 +2643,8 @@
         "id": "NIK/S117-105S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-106": {
     "name": "“ソニックチェイサー”イサベル",
@@ -2561,7 +2666,8 @@
         "id": "NIK/S117-106S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-107": {
     "name": "“クライマックス”ジュリア",
@@ -2583,7 +2689,8 @@
         "id": "NIK/S117-107S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-108": {
     "name": "“超巨大単細胞”エーテル",
@@ -2605,7 +2712,8 @@
         "id": "NIK/S117-108S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-109": {
     "name": "“お食事のお時間です、ご主人様”エード",
@@ -2627,7 +2735,8 @@
         "id": "NIK/S117-109S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-110": {
     "name": "“ワード・オブ・キル”シン",
@@ -2649,7 +2758,8 @@
         "id": "NIK/S117-110S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-111": {
     "name": "“勝利の女神”",
@@ -2671,7 +2781,8 @@
         "id": "NIK/S117-111S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-112": {
     "name": "OVER ZONE",
@@ -2697,7 +2808,8 @@
         "id": "NIK/S117-112R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-113": {
     "name": "NEW YEAR, NEW SWORD",
@@ -2719,7 +2831,8 @@
         "id": "NIK/S117-113R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-114": {
     "name": "Maid in Valentine",
@@ -2741,7 +2854,8 @@
         "id": "NIK/S117-114R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-115": {
     "name": "A.C.P.U.!FREEZE!",
@@ -2763,6 +2877,7 @@
         "id": "NIK/S117-115R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

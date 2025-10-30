@@ -15,7 +15,8 @@
         "id": "DC/WE01-020",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE01-021": {
     "name": "たとえ好きな恋人 まひる",
@@ -33,7 +34,8 @@
         "id": "DC/WE01-021",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE01-022": {
     "name": "夢じゃない",
@@ -51,7 +53,8 @@
         "id": "DC/WE01-022",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/WE01-023": {
     "name": "沢井 美秋",
@@ -69,7 +72,8 @@
         "id": "DC/WE01-023",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE01-024": {
     "name": "デートを楽しむエリカ",
@@ -87,7 +91,8 @@
         "id": "DC/WE01-024",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE01-025": {
     "name": "バナナフッズエンド",
@@ -105,7 +110,8 @@
         "id": "DC/WE01-025",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/WE01-026": {
     "name": "優等生の委員長 沢井麻耶",
@@ -123,6 +129,7 @@
         "id": "DC/WE01-026",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

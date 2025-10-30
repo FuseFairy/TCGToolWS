@@ -15,7 +15,8 @@
         "id": "MK/SE09-28",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE09-29": {
     "name": "“柔らかな感触”アンリエット",
@@ -33,7 +34,8 @@
         "id": "MK/SE09-29",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE09-30": {
     "name": "いつでも前向き シャロ",
@@ -51,7 +53,8 @@
         "id": "MK/SE09-30",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE09-31": {
     "name": "まっすぐな少女 シャロ",
@@ -69,6 +72,7 @@
         "id": "MK/SE09-31",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -19,7 +19,8 @@
         "id": "Gmr/WS02-119SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gmr/WS02-120": {
     "name": "夏祭り 深雪＆達也",
@@ -41,7 +42,8 @@
         "id": "Gmr/WS02-120S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gmr/WS02-125": {
     "name": "卒業 深雪＆達也",
@@ -63,7 +65,8 @@
         "id": "Gmr/WS02-125SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gmr/WS02-131": {
     "name": "ドレスアップ 深雪＆リーナ",
@@ -85,7 +88,8 @@
         "id": "Gmr/WS02-131S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gmr/WS02-133": {
     "name": "後輩と先輩 達也＆真由美",
@@ -107,7 +111,8 @@
         "id": "Gmr/WS02-133S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gmr/WS02-137": {
     "name": "一科生 雫＆ほのか",
@@ -129,7 +134,8 @@
         "id": "Gmr/WS02-137S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gmr/WS02-140": {
     "name": "二科生 幹比古＆美月",
@@ -151,7 +157,8 @@
         "id": "Gmr/WS02-140S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gmr/WS02-142": {
     "name": "二科生 エリカ＆レオ",
@@ -173,7 +180,8 @@
         "id": "Gmr/WS02-142S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gmr/WS02-149": {
     "name": "授かった力",
@@ -195,6 +203,7 @@
         "id": "Gmr/WS02-149SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

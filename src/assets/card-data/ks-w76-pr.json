@@ -15,7 +15,8 @@
         "id": "KS/W76-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-P02": {
     "name": "“駆け抜ける”めぐみん＆ゆんゆん",
@@ -33,7 +34,8 @@
         "id": "KS/W76-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-P03": {
     "name": "“Rockスタイル”めぐみん",
@@ -51,7 +53,8 @@
         "id": "KS/W76-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-101": {
     "name": "“騎士の役割り”ダクネス",
@@ -69,7 +72,8 @@
         "id": "KS/W76-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-102": {
     "name": "“実家のお布団”めぐみん",
@@ -87,7 +91,8 @@
         "id": "KS/W76-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-103": {
     "name": "“真打登場”ゆんゆん",
@@ -105,7 +110,8 @@
         "id": "KS/W76-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-104": {
     "name": "“魔法学校見学”アクア",
@@ -123,6 +129,7 @@
         "id": "KS/W76-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

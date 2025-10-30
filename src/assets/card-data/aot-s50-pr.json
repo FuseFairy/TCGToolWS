@@ -15,7 +15,8 @@
         "id": "AOT/S50-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-P02": {
     "name": "しろくろ兵団 アルミン",
@@ -37,7 +38,8 @@
         "id": "AOT/S50-P02b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-P03": {
     "name": "しろくろ兵団 エレン",
@@ -59,7 +61,8 @@
         "id": "AOT/S50-P03b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-P04": {
     "name": "しろくろ兵団 リヴァイ",
@@ -81,7 +84,8 @@
         "id": "AOT/S50-P04b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-P05": {
     "name": "しろくろ兵団 ミカサ",
@@ -103,7 +107,8 @@
         "id": "AOT/S50-P05b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-101": {
     "name": "“たわむれバトル”ちみアルミン",
@@ -121,7 +126,8 @@
         "id": "AOT/S50-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-102": {
     "name": "“たわむれバトル”ちみエレン",
@@ -139,7 +145,8 @@
         "id": "AOT/S50-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-103": {
     "name": "“たわむれバトル”ちみミカサ",
@@ -157,7 +164,8 @@
         "id": "AOT/S50-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-104": {
     "name": "“たわむれバトル”ちみ超大型巨人",
@@ -175,6 +183,7 @@
         "id": "AOT/S50-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "EV/S12-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "EV/S12-107": {
     "name": "旧型プラグスーツのマリ",
@@ -33,7 +34,8 @@
         "id": "EV/S12-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "EV/S12-108": {
     "name": "隔離待機室のアスカ",
@@ -51,7 +53,8 @@
         "id": "EV/S12-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "EV/S12-109": {
     "name": "ヒミツの綾波",
@@ -69,7 +72,8 @@
         "id": "EV/S12-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "EV/S12-110": {
     "name": "ゼロ距離射撃のマリ",
@@ -87,6 +91,7 @@
         "id": "EV/S12-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

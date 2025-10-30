@@ -19,7 +19,8 @@
         "id": "MAR/S113-P01PIR",
         "rarity": "PIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-P02": {
     "name": "あなたの親愛なる隣人 スパイダーマン",
@@ -37,7 +38,8 @@
         "id": "MAR/S113-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-P03": {
     "name": "デッドプール＆ウルヴァリン",
@@ -59,6 +61,7 @@
         "id": "MAR/S113-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

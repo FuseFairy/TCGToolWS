@@ -19,7 +19,8 @@
         "id": "CS/S28-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-002": {
     "name": "マイホームパパ ひろし",
@@ -41,7 +42,8 @@
         "id": "CS/S28-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-003": {
     "name": "家族の一員 シロ",
@@ -63,7 +65,8 @@
         "id": "CS/S28-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-004": {
     "name": "いつものしんのすけ",
@@ -85,7 +88,8 @@
         "id": "CS/S28-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-005": {
     "name": "最強の０才児 ひまわり",
@@ -107,7 +111,8 @@
         "id": "CS/S28-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-006": {
     "name": "母の愛 みさえ",
@@ -129,7 +134,8 @@
         "id": "CS/S28-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-007": {
     "name": "運命のいたずら しんのすけ",
@@ -147,7 +153,8 @@
         "id": "CS/S28-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-008": {
     "name": "ぶりぶりざえもん",
@@ -165,7 +172,8 @@
         "id": "CS/S28-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-009": {
     "name": "家族の喜び みさえ",
@@ -183,7 +191,8 @@
         "id": "CS/S28-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-010": {
     "name": "光りもの好き ひまわり",
@@ -201,7 +210,8 @@
         "id": "CS/S28-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-011": {
     "name": "帰ってきたブラジャーマスク しんのすけ",
@@ -219,7 +229,8 @@
         "id": "CS/S28-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-012": {
     "name": "幸せな家族 野原一家",
@@ -237,7 +248,8 @@
         "id": "CS/S28-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-013": {
     "name": "ちょー嵐を呼ばない園児 しんのすけ",
@@ -255,7 +267,8 @@
         "id": "CS/S28-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-014": {
     "name": "家族の喜び ひろし",
@@ -273,7 +286,8 @@
         "id": "CS/S28-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-015": {
     "name": "必殺グリグリ攻撃 みさえ",
@@ -291,7 +305,8 @@
         "id": "CS/S28-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-016": {
     "name": "係長 ひろし",
@@ -309,7 +324,8 @@
         "id": "CS/S28-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-017": {
     "name": "散歩中のシロ",
@@ -327,7 +343,8 @@
         "id": "CS/S28-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-018": {
     "name": "カンタムロボ",
@@ -345,7 +362,8 @@
         "id": "CS/S28-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-019": {
     "name": "いたずらっ子 ひまわり",
@@ -363,7 +381,8 @@
         "id": "CS/S28-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-020": {
     "name": "ご立腹なシロ",
@@ -381,7 +400,8 @@
         "id": "CS/S28-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-021": {
     "name": "家族写真",
@@ -399,7 +419,8 @@
         "id": "CS/S28-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-022": {
     "name": "ジャスミンの香り",
@@ -417,7 +438,8 @@
         "id": "CS/S28-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-023": {
     "name": "オラの家がなくなったゾ",
@@ -435,7 +457,8 @@
         "id": "CS/S28-023",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-024": {
     "name": "大切な思い出のハンカチ",
@@ -453,7 +476,8 @@
         "id": "CS/S28-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-025": {
     "name": "新たな家族",
@@ -475,7 +499,8 @@
         "id": "CS/S28-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CS/S28-026": {
     "name": "おバカなしんのすけ",
@@ -497,7 +522,8 @@
         "id": "CS/S28-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-027": {
     "name": "かすかべ防衛隊",
@@ -519,7 +545,8 @@
         "id": "CS/S28-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-028": {
     "name": "酢乙女 あい",
@@ -537,7 +564,8 @@
         "id": "CS/S28-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-029": {
     "name": "怒り爆発 しんのすけ",
@@ -555,7 +583,8 @@
         "id": "CS/S28-029",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-030": {
     "name": "家出少年 しんのすけ",
@@ -573,7 +602,8 @@
         "id": "CS/S28-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-031": {
     "name": "エリート園児 風間くん",
@@ -591,7 +621,8 @@
         "id": "CS/S28-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-032": {
     "name": "アクション仮面",
@@ -609,7 +640,8 @@
         "id": "CS/S28-032",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-033": {
     "name": "コワモテな園長先生",
@@ -627,7 +659,8 @@
         "id": "CS/S28-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-034": {
     "name": "ミッチー＆ヨシりん",
@@ -645,7 +678,8 @@
         "id": "CS/S28-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-035": {
     "name": "憧れの女子大生 ななこ",
@@ -663,7 +697,8 @@
         "id": "CS/S28-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-036": {
     "name": "おませな女の子 ネネちゃん",
@@ -681,7 +716,8 @@
         "id": "CS/S28-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-037": {
     "name": "陰の実力者 ボーちゃん",
@@ -699,7 +735,8 @@
         "id": "CS/S28-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-038": {
     "name": "水着のマサオくん",
@@ -717,7 +754,8 @@
         "id": "CS/S28-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-039": {
     "name": "水着のボーちゃん",
@@ -735,7 +773,8 @@
         "id": "CS/S28-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-040": {
     "name": "埼玉紅さそり隊",
@@ -753,7 +792,8 @@
         "id": "CS/S28-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-041": {
     "name": "芸達者なしんのすけ",
@@ -771,7 +811,8 @@
         "id": "CS/S28-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-042": {
     "name": "桜 ミミ子",
@@ -789,7 +830,8 @@
         "id": "CS/S28-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-043": {
     "name": "気弱な性格 マサオくん",
@@ -807,7 +849,8 @@
         "id": "CS/S28-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-044": {
     "name": "水着のネネちゃん",
@@ -825,7 +868,8 @@
         "id": "CS/S28-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-045": {
     "name": "水着の風間くん",
@@ -843,7 +887,8 @@
         "id": "CS/S28-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-046": {
     "name": "ぬいぐるみ ウサちゃん",
@@ -861,7 +906,8 @@
         "id": "CS/S28-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-047": {
     "name": "ゆめみるセカイ",
@@ -879,7 +925,8 @@
         "id": "CS/S28-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-048": {
     "name": "うたのじかん",
@@ -901,7 +948,8 @@
         "id": "CS/S28-048R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-049": {
     "name": "オールスター",
@@ -919,7 +967,8 @@
         "id": "CS/S28-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CS/S28-050": {
     "name": "しんちゃんの恋",
@@ -937,7 +986,8 @@
         "id": "CS/S28-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CS/S28-051": {
     "name": "“ひろしSUN”こと ひろし",
@@ -959,7 +1009,8 @@
         "id": "CS/S28-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-052": {
     "name": "未来のために しんのすけ",
@@ -977,7 +1028,8 @@
         "id": "CS/S28-052",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-053": {
     "name": "妹思いのお兄ちゃん しんのすけ",
@@ -995,7 +1047,8 @@
         "id": "CS/S28-053",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-054": {
     "name": "不安げな眼差し 風間くん",
@@ -1013,7 +1066,8 @@
         "id": "CS/S28-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-055": {
     "name": "“魔法少女みさリン”こと みさえ",
@@ -1035,7 +1089,8 @@
         "id": "CS/S28-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-056": {
     "name": "運転手 しんのすけ",
@@ -1053,7 +1108,8 @@
         "id": "CS/S28-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-057": {
     "name": "みんなに挨拶 しんのすけ",
@@ -1071,7 +1127,8 @@
         "id": "CS/S28-057",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-058": {
     "name": "みんなに挨拶 ひまわり",
@@ -1089,7 +1146,8 @@
         "id": "CS/S28-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-059": {
     "name": "仕切り役 ボーちゃん",
@@ -1107,7 +1165,8 @@
         "id": "CS/S28-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-060": {
     "name": "家族がいる幸せ ひろし",
@@ -1125,7 +1184,8 @@
         "id": "CS/S28-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-061": {
     "name": "運転手!? シロ",
@@ -1143,7 +1203,8 @@
         "id": "CS/S28-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-062": {
     "name": "ケン＆チャコ",
@@ -1161,7 +1222,8 @@
         "id": "CS/S28-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-063": {
     "name": "万博防衛隊 しんのすけ",
@@ -1179,7 +1241,8 @@
         "id": "CS/S28-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-064": {
     "name": "鶴のひとこえ ネネちゃん",
@@ -1197,7 +1260,8 @@
         "id": "CS/S28-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-065": {
     "name": "上尾＆まつざか＆よしなが",
@@ -1215,7 +1279,8 @@
         "id": "CS/S28-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-066": {
     "name": "万博防衛隊 みさえ",
@@ -1233,7 +1298,8 @@
         "id": "CS/S28-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-067": {
     "name": "万博防衛隊 ひろし",
@@ -1251,7 +1317,8 @@
         "id": "CS/S28-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-068": {
     "name": "万博防衛隊 ひまわり",
@@ -1269,7 +1336,8 @@
         "id": "CS/S28-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-069": {
     "name": "任務遂行 しんのすけ",
@@ -1287,7 +1355,8 @@
         "id": "CS/S28-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-070": {
     "name": "大暴走 マサオくん",
@@ -1305,7 +1374,8 @@
         "id": "CS/S28-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-071": {
     "name": "ひろしの靴",
@@ -1323,7 +1393,8 @@
         "id": "CS/S28-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-072": {
     "name": "スナック カスカビアン",
@@ -1341,7 +1412,8 @@
         "id": "CS/S28-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-073": {
     "name": "浮かぶ幸せ",
@@ -1359,7 +1431,8 @@
         "id": "CS/S28-073",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CS/S28-074": {
     "name": "なつかしいニオイ",
@@ -1377,7 +1450,8 @@
         "id": "CS/S28-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CS/S28-075": {
     "name": "未来はオラが守る",
@@ -1399,7 +1473,8 @@
         "id": "CS/S28-075R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-076": {
     "name": "おバカ侍 しんのすけ",
@@ -1421,7 +1496,8 @@
         "id": "CS/S28-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-077": {
     "name": "戦闘準備 ひろし",
@@ -1443,7 +1519,8 @@
         "id": "CS/S28-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-078": {
     "name": "青空を見上げるひろし",
@@ -1461,7 +1538,8 @@
         "id": "CS/S28-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-079": {
     "name": "豪ケツ！しんのすけ",
@@ -1479,7 +1557,8 @@
         "id": "CS/S28-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-080": {
     "name": "青空侍 又兵衛",
@@ -1497,7 +1576,8 @@
         "id": "CS/S28-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-081": {
     "name": "武器を構えるひろし",
@@ -1515,7 +1595,8 @@
         "id": "CS/S28-081",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-082": {
     "name": "怖いもの知らずなしんのすけ",
@@ -1533,7 +1614,8 @@
         "id": "CS/S28-082",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-083": {
     "name": "戦闘準備 みさえ",
@@ -1551,7 +1633,8 @@
         "id": "CS/S28-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-084": {
     "name": "ご先祖 かずま",
@@ -1569,7 +1652,8 @@
         "id": "CS/S28-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-085": {
     "name": "春日城の姫様 廉",
@@ -1587,7 +1671,8 @@
         "id": "CS/S28-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-086": {
     "name": "鬼の井尻 又兵衛",
@@ -1605,7 +1690,8 @@
         "id": "CS/S28-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-087": {
     "name": "男の約束 しんのすけ",
@@ -1623,7 +1709,8 @@
         "id": "CS/S28-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-088": {
     "name": "見守るひまわり",
@@ -1641,7 +1728,8 @@
         "id": "CS/S28-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-089": {
     "name": "ご先祖 オオマサ",
@@ -1659,7 +1747,8 @@
         "id": "CS/S28-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-090": {
     "name": "ご先祖 ぼうしち",
@@ -1677,7 +1766,8 @@
         "id": "CS/S28-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-091": {
     "name": "ここ掘れワンワン！シロ",
@@ -1695,7 +1785,8 @@
         "id": "CS/S28-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-092": {
     "name": "空にかかげた想い しんのすけ",
@@ -1713,7 +1804,8 @@
         "id": "CS/S28-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-093": {
     "name": "護衛役 しんのすけ",
@@ -1731,7 +1823,8 @@
         "id": "CS/S28-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-094": {
     "name": "子を思う心 ひろし",
@@ -1749,7 +1842,8 @@
         "id": "CS/S28-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-095": {
     "name": "ご先祖 ねね",
@@ -1767,7 +1861,8 @@
         "id": "CS/S28-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-096": {
     "name": "オラからの手紙",
@@ -1785,7 +1880,8 @@
         "id": "CS/S28-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-097": {
     "name": "武士の誓い",
@@ -1803,7 +1899,8 @@
         "id": "CS/S28-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-098": {
     "name": "のばされた時間",
@@ -1821,7 +1918,8 @@
         "id": "CS/S28-098",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-099": {
     "name": "抑えきれない気持ち",
@@ -1839,7 +1937,8 @@
         "id": "CS/S28-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CS/S28-100": {
     "name": "ひとしずく",
@@ -1861,6 +1960,7 @@
         "id": "CS/S28-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

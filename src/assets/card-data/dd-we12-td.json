@@ -15,7 +15,8 @@
         "id": "DD/WE12-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-T02": {
     "name": "“ジェノワーズ”ノワール",
@@ -33,7 +34,8 @@
         "id": "DD/WE12-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-T03": {
     "name": "近衛メイド ルージュ",
@@ -51,7 +53,8 @@
         "id": "DD/WE12-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-T04": {
     "name": "百獣王の騎士 レオ",
@@ -69,7 +72,8 @@
         "id": "DD/WE12-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE12-T05": {
     "name": "姫様の秘書 アメリタ",
@@ -87,7 +91,8 @@
         "id": "DD/WE12-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-T06": {
     "name": "メイド長 リゼル",
@@ -105,7 +110,8 @@
         "id": "DD/WE12-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-T07": {
     "name": "ミルヒの勇者 シンク",
@@ -123,7 +129,8 @@
         "id": "DD/WE12-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE12-T08": {
     "name": "ホーリーセイバー",
@@ -141,7 +148,8 @@
         "id": "DD/WE12-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DD/WE12-T09": {
     "name": "きっと恋をしている",
@@ -159,6 +167,7 @@
         "id": "DD/WE12-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

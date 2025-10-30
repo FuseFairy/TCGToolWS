@@ -19,7 +19,8 @@
         "id": "Smi/W62-T04R",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Smi/W62-T07": {
     "name": "小さな未練 飛鳥",
@@ -37,7 +38,8 @@
         "id": "Smi/W62-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Smi/W62-T10": {
     "name": "ヒッポカンプの騎手",
@@ -55,6 +57,7 @@
         "id": "Smi/W62-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

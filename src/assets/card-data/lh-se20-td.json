@@ -15,7 +15,8 @@
         "id": "LH/SE20-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-T02": {
     "name": "アカツキ",
@@ -33,7 +34,8 @@
         "id": "LH/SE20-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-T03": {
     "name": "念話するマリエール",
@@ -51,7 +53,8 @@
         "id": "LH/SE20-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-T04": {
     "name": "正体は美少女 アカツキ",
@@ -69,7 +72,8 @@
         "id": "LH/SE20-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-T05": {
     "name": "照れるアカツキ",
@@ -87,7 +91,8 @@
         "id": "LH/SE20-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-T06": {
     "name": "三日月同盟会計 ヘンリエッタ",
@@ -105,7 +110,8 @@
         "id": "LH/SE20-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SE20-T07": {
     "name": "三日月同盟代表 マリエール",
@@ -123,7 +129,8 @@
         "id": "LH/SE20-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SE20-T08": {
     "name": "怒りのアカツキ",
@@ -141,7 +148,8 @@
         "id": "LH/SE20-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SE20-T09": {
     "name": "アサシネイト",
@@ -159,7 +167,8 @@
         "id": "LH/SE20-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LH/SE20-T10": {
     "name": "料理人 にゃん太",
@@ -177,7 +186,8 @@
         "id": "LH/SE20-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-T11": {
     "name": "グリフォンに乗るシロエ",
@@ -195,7 +205,8 @@
         "id": "LH/SE20-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-T12": {
     "name": "盗剣士 にゃん太",
@@ -213,7 +224,8 @@
         "id": "LH/SE20-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-T13": {
     "name": "初めての実戦 直継",
@@ -231,7 +243,8 @@
         "id": "LH/SE20-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-T14": {
     "name": "余裕の表情 シロエ",
@@ -249,7 +262,8 @@
         "id": "LH/SE20-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-T15": {
     "name": "シロエ",
@@ -267,7 +281,8 @@
         "id": "LH/SE20-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SE20-T16": {
     "name": "直継",
@@ -285,7 +300,8 @@
         "id": "LH/SE20-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SE20-T17": {
     "name": "付与術師 シロエ",
@@ -303,7 +319,8 @@
         "id": "LH/SE20-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SE20-T18": {
     "name": "付与術師の援護",
@@ -321,7 +338,8 @@
         "id": "LH/SE20-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-T19": {
     "name": "精緻な連携",
@@ -339,7 +357,8 @@
         "id": "LH/SE20-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LH/SE20-T20": {
     "name": "初めての戦利品",
@@ -357,6 +376,7 @@
         "id": "LH/SE20-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

@@ -19,7 +19,8 @@
         "id": "Snk/W62-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Snk/W62-005": {
     "name": "水着のふらの",
@@ -41,7 +42,8 @@
         "id": "Snk/W62-005SBR",
         "rarity": "SBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Snk/W62-006": {
     "name": "水着の謳歌",
@@ -63,7 +65,8 @@
         "id": "Snk/W62-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Snk/W62-008": {
     "name": "ビターorスイート ショコラ",
@@ -85,7 +88,8 @@
         "id": "Snk/W62-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Snk/W62-014": {
     "name": "水着の宴",
@@ -103,7 +107,8 @@
         "id": "Snk/W62-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Snk/W62-020": {
     "name": "UOGの社長令嬢 謳歌",
@@ -121,7 +126,8 @@
         "id": "Snk/W62-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Snk/W62-022": {
     "name": "合法ロリ教師 宴",
@@ -139,7 +145,8 @@
         "id": "Snk/W62-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Snk/W62-025": {
     "name": "ショコラの目覚め",
@@ -157,7 +164,8 @@
         "id": "Snk/W62-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Snk/W62-028": {
     "name": "裸でガールズトーク",
@@ -179,7 +187,8 @@
         "id": "Snk/W62-028R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Snk/W62-029": {
     "name": "素直になれないふらの",
@@ -201,6 +210,7 @@
         "id": "Snk/W62-029R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

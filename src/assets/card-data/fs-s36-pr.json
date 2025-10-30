@@ -15,7 +15,8 @@
         "id": "FS/S36-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-P02": {
     "name": "“犬猿の仲”アーチャー＆ランサー",
@@ -33,7 +34,8 @@
         "id": "FS/S36-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-P03": {
     "name": "“闇夜の巡回”凛＆アーチャー",
@@ -51,7 +53,8 @@
         "id": "FS/S36-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-101": {
     "name": "ぷちギルガメッシュ",
@@ -69,7 +72,8 @@
         "id": "FS/S36-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-102": {
     "name": "ぷちセイバー",
@@ -87,7 +91,8 @@
         "id": "FS/S36-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-103": {
     "name": "ぷちランサー",
@@ -105,7 +110,8 @@
         "id": "FS/S36-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-104": {
     "name": "ぷち凛",
@@ -123,7 +129,8 @@
         "id": "FS/S36-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-105": {
     "name": "ぷちイリヤ",
@@ -141,6 +148,7 @@
         "id": "FS/S36-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -19,7 +19,8 @@
         "id": "AB/W31-001R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-002": {
     "name": "“神の使い”天使",
@@ -41,7 +42,8 @@
         "id": "AB/W31-002R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-003": {
     "name": "作戦会議 かなで",
@@ -63,7 +65,8 @@
         "id": "AB/W31-003R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-004": {
     "name": "お色気担当？ ユイ",
@@ -85,7 +88,8 @@
         "id": "AB/W31-004R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-005": {
     "name": "天使の翼 かなで",
@@ -107,7 +111,8 @@
         "id": "AB/W31-005R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-006": {
     "name": "対立の終わり かなで",
@@ -129,7 +134,8 @@
         "id": "AB/W31-006R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-007": {
     "name": "よき理解者 岩沢＆ひさ子",
@@ -151,7 +157,8 @@
         "id": "AB/W31-007R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-008": {
     "name": "心配するかなで",
@@ -173,7 +180,8 @@
         "id": "AB/W31-008R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-009": {
     "name": "クールビューティー 岩沢",
@@ -195,7 +203,8 @@
         "id": "AB/W31-009R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-010": {
     "name": "佇むかなで",
@@ -217,7 +226,8 @@
         "id": "AB/W31-010R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-011": {
     "name": "憧れの実現 ユイ",
@@ -239,7 +249,8 @@
         "id": "AB/W31-011R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-012": {
     "name": "結弦の心臓 かなで",
@@ -261,7 +272,8 @@
         "id": "AB/W31-012R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-013": {
     "name": "別れの言葉 かなで",
@@ -283,7 +295,8 @@
         "id": "AB/W31-013R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-014": {
     "name": "情熱少女 ユイ",
@@ -305,7 +318,8 @@
         "id": "AB/W31-014R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-015": {
     "name": "ガルデモのアシスタント ユイ",
@@ -323,7 +337,8 @@
         "id": "AB/W31-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-016": {
     "name": "生徒会長 かなで",
@@ -341,7 +356,8 @@
         "id": "AB/W31-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-017": {
     "name": "ユイ＆日向",
@@ -359,7 +375,8 @@
         "id": "AB/W31-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-018": {
     "name": "一人きりの天使",
@@ -377,7 +394,8 @@
         "id": "AB/W31-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-019": {
     "name": "あどけない瞳 かなで",
@@ -395,7 +413,8 @@
         "id": "AB/W31-019",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-020": {
     "name": "催眠術師 直井",
@@ -413,7 +432,8 @@
         "id": "AB/W31-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-021": {
     "name": "戦う理由 かなで",
@@ -431,7 +451,8 @@
         "id": "AB/W31-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-022": {
     "name": "いつでも元気 ユイ",
@@ -449,7 +470,8 @@
         "id": "AB/W31-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-023": {
     "name": "マウントポジション ユイ",
@@ -467,7 +489,8 @@
         "id": "AB/W31-023",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-024": {
     "name": "似た者夫婦 ユイ＆日向",
@@ -485,7 +508,8 @@
         "id": "AB/W31-024",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-025": {
     "name": "麦わら帽子のかなで",
@@ -503,7 +527,8 @@
         "id": "AB/W31-025",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-026": {
     "name": "何気ない仕草 かなで",
@@ -521,7 +546,8 @@
         "id": "AB/W31-026",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-027": {
     "name": "普通の女の子 かなで",
@@ -539,7 +565,8 @@
         "id": "AB/W31-027",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-028": {
     "name": "たくさんのやりたいこと ユイ",
@@ -557,7 +584,8 @@
         "id": "AB/W31-028",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-029": {
     "name": "青空の下のかなで",
@@ -575,7 +603,8 @@
         "id": "AB/W31-029",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-030": {
     "name": "かなでの理解者 音無",
@@ -593,7 +622,8 @@
         "id": "AB/W31-030",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-031": {
     "name": "鼓動の記憶 音無",
@@ -611,7 +641,8 @@
         "id": "AB/W31-031",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-032": {
     "name": "いつでも一緒 関根＆入江",
@@ -629,7 +660,8 @@
         "id": "AB/W31-032",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-033": {
     "name": "水着のかなで",
@@ -647,7 +679,8 @@
         "id": "AB/W31-033",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-034": {
     "name": "ミーハーで努力家 ユイ",
@@ -665,7 +698,8 @@
         "id": "AB/W31-034",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-035": {
     "name": "自称神 直井",
@@ -683,7 +717,8 @@
         "id": "AB/W31-035",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-036": {
     "name": "静かな佇まい かなで",
@@ -701,7 +736,8 @@
         "id": "AB/W31-036",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-037": {
     "name": "ギターパフォーマー 岩沢",
@@ -719,7 +755,8 @@
         "id": "AB/W31-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-038": {
     "name": "かなで＆音無",
@@ -737,7 +774,8 @@
         "id": "AB/W31-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-039": {
     "name": "岩沢の後継者 ユイ",
@@ -755,7 +793,8 @@
         "id": "AB/W31-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-040": {
     "name": "戦線の敵 天使",
@@ -773,7 +812,8 @@
         "id": "AB/W31-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-041": {
     "name": "野球少女 ユイ",
@@ -791,7 +831,8 @@
         "id": "AB/W31-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-042": {
     "name": "入江＆ひさ子",
@@ -809,7 +850,8 @@
         "id": "AB/W31-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-043": {
     "name": "ピンクのケープ かなで",
@@ -827,7 +869,8 @@
         "id": "AB/W31-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-044": {
     "name": "勝気なギタリスト ひさ子",
@@ -845,7 +888,8 @@
         "id": "AB/W31-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-045": {
     "name": "不器用な対立 かなで",
@@ -863,7 +907,8 @@
         "id": "AB/W31-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-046": {
     "name": "生前の記憶のない音無",
@@ -881,7 +926,8 @@
         "id": "AB/W31-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-047": {
     "name": "二つの顔 直井",
@@ -899,7 +945,8 @@
         "id": "AB/W31-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-048": {
     "name": "歌いたかった歌",
@@ -917,7 +964,8 @@
         "id": "AB/W31-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-049": {
     "name": "催眠術",
@@ -935,7 +983,8 @@
         "id": "AB/W31-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-050": {
     "name": "ガルデモの思い出",
@@ -953,7 +1002,8 @@
         "id": "AB/W31-050",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AB/W31-051": {
     "name": "別れの時",
@@ -971,7 +1021,8 @@
         "id": "AB/W31-051",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-052": {
     "name": "いつかどこかで",
@@ -989,7 +1040,8 @@
         "id": "AB/W31-052",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-053": {
     "name": "守るための力",
@@ -1007,7 +1059,8 @@
         "id": "AB/W31-053",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AB/W31-054": {
     "name": "女の最高の幸せ",
@@ -1025,7 +1078,8 @@
         "id": "AB/W31-054",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-055": {
     "name": "舞い降りる天使",
@@ -1043,7 +1097,8 @@
         "id": "AB/W31-055",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-056": {
     "name": "戦略的な挑発 ゆり",
@@ -1065,7 +1120,8 @@
         "id": "AB/W31-056R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-057": {
     "name": "解けた葛藤 ゆり",
@@ -1087,7 +1143,8 @@
         "id": "AB/W31-057R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-058": {
     "name": "単独行動 ゆり",
@@ -1109,7 +1166,8 @@
         "id": "AB/W31-058R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-059": {
     "name": "冬の日のゆり",
@@ -1131,7 +1189,8 @@
         "id": "AB/W31-059R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-060": {
     "name": "戦線への勧誘 ゆり",
@@ -1153,7 +1212,8 @@
         "id": "AB/W31-060R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-061": {
     "name": "お姉ちゃんの役割 ゆり",
@@ -1175,7 +1235,8 @@
         "id": "AB/W31-061R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-062": {
     "name": "不敵な視線 ゆり",
@@ -1197,7 +1258,8 @@
         "id": "AB/W31-062R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-063": {
     "name": "共同戦線 かなで＆ゆり",
@@ -1219,7 +1281,8 @@
         "id": "AB/W31-063R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-064": {
     "name": "武芸達者 椎名",
@@ -1241,7 +1304,8 @@
         "id": "AB/W31-064R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-065": {
     "name": "伝令役 遊佐",
@@ -1263,7 +1327,8 @@
         "id": "AB/W31-065R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-066": {
     "name": "百人力の手練 椎名",
@@ -1285,7 +1350,8 @@
         "id": "AB/W31-066R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-067": {
     "name": "世界にまぎれたイレギュラー 音無",
@@ -1307,7 +1373,8 @@
         "id": "AB/W31-067R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-068": {
     "name": "“ゴッドファーザー”ゆり",
@@ -1329,7 +1396,8 @@
         "id": "AB/W31-068R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-069": {
     "name": "理不尽な運命への抵抗 ゆり",
@@ -1351,7 +1419,8 @@
         "id": "AB/W31-069R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-070": {
     "name": "葛藤する音無",
@@ -1369,7 +1438,8 @@
         "id": "AB/W31-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-071": {
     "name": "有能な通信士 遊佐",
@@ -1387,7 +1457,8 @@
         "id": "AB/W31-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-072": {
     "name": "まるで悪役 ゆり",
@@ -1405,7 +1476,8 @@
         "id": "AB/W31-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-073": {
     "name": "オペレーター 遊佐",
@@ -1423,7 +1495,8 @@
         "id": "AB/W31-073",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-074": {
     "name": "水着のゆり",
@@ -1441,7 +1514,8 @@
         "id": "AB/W31-074",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-075": {
     "name": "旅立ちの時 ゆり",
@@ -1459,7 +1533,8 @@
         "id": "AB/W31-075",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-076": {
     "name": "理不尽な要求 ゆり",
@@ -1477,7 +1552,8 @@
         "id": "AB/W31-076",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-077": {
     "name": "司令官 ゆり",
@@ -1495,7 +1571,8 @@
         "id": "AB/W31-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-078": {
     "name": "この世界からの卒業 ゆり",
@@ -1513,7 +1590,8 @@
         "id": "AB/W31-078",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-079": {
     "name": "それぞれの道 ゆり",
@@ -1531,7 +1609,8 @@
         "id": "AB/W31-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-080": {
     "name": "“SSS”ゆり",
@@ -1549,7 +1628,8 @@
         "id": "AB/W31-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-081": {
     "name": "過去を求める音無",
@@ -1567,7 +1647,8 @@
         "id": "AB/W31-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-082": {
     "name": "作戦実行 ゆり",
@@ -1585,7 +1666,8 @@
         "id": "AB/W31-082",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-083": {
     "name": "英語は苦手 TK",
@@ -1603,7 +1685,8 @@
         "id": "AB/W31-083",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-084": {
     "name": "野田＆大山",
@@ -1621,7 +1704,8 @@
         "id": "AB/W31-084",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-085": {
     "name": "みんなの大黒柱 ゆり",
@@ -1639,7 +1723,8 @@
         "id": "AB/W31-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-086": {
     "name": "天才ハッカー 竹山",
@@ -1657,7 +1742,8 @@
         "id": "AB/W31-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-087": {
     "name": "仲間想いな日向",
@@ -1675,7 +1761,8 @@
         "id": "AB/W31-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-088": {
     "name": "お調子者 日向",
@@ -1693,7 +1780,8 @@
         "id": "AB/W31-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-089": {
     "name": "対抗心 野田",
@@ -1711,7 +1799,8 @@
         "id": "AB/W31-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-090": {
     "name": "ハンドルネーム・竹山",
@@ -1729,7 +1818,8 @@
         "id": "AB/W31-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-091": {
     "name": "かなでの友達 ゆり",
@@ -1747,7 +1837,8 @@
         "id": "AB/W31-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-092": {
     "name": "想いに応える日向",
@@ -1765,7 +1856,8 @@
         "id": "AB/W31-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-093": {
     "name": "孤高のくノ一 椎名",
@@ -1783,7 +1875,8 @@
         "id": "AB/W31-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-094": {
     "name": "脱ぎ足りない高松",
@@ -1801,7 +1894,8 @@
         "id": "AB/W31-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-095": {
     "name": "正体不明 TK",
@@ -1819,7 +1913,8 @@
         "id": "AB/W31-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-096": {
     "name": "戦線の名コンビ 日向＆音無",
@@ -1837,7 +1932,8 @@
         "id": "AB/W31-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-097": {
     "name": "松下 五段",
@@ -1855,7 +1951,8 @@
         "id": "AB/W31-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-098": {
     "name": "オペレーション・トルネード",
@@ -1873,7 +1970,8 @@
         "id": "AB/W31-098",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-099": {
     "name": "推進エンジン",
@@ -1891,7 +1989,8 @@
         "id": "AB/W31-099",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-100": {
     "name": "クライストとお呼びください",
@@ -1909,7 +2008,8 @@
         "id": "AB/W31-100",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-101": {
     "name": "戦いの後",
@@ -1927,7 +2027,8 @@
         "id": "AB/W31-101",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-102": {
     "name": "生前の記憶",
@@ -1945,7 +2046,8 @@
         "id": "AB/W31-102",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AB/W31-103": {
     "name": "死んだ世界戦線",
@@ -1963,7 +2065,8 @@
         "id": "AB/W31-103",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-104": {
     "name": "報われた気持ち",
@@ -1981,7 +2084,8 @@
         "id": "AB/W31-104",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AB/W31-105": {
     "name": "“Little Braver”ユイ",
@@ -2003,7 +2107,8 @@
         "id": "AB/W31-105R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-106": {
     "name": "立華 かなで",
@@ -2025,7 +2130,8 @@
         "id": "AB/W31-106SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-107": {
     "name": "イタズラ好き 関根",
@@ -2047,7 +2153,8 @@
         "id": "AB/W31-107R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-108": {
     "name": "パワフルな演奏 入江",
@@ -2069,7 +2176,8 @@
         "id": "AB/W31-108R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-109": {
     "name": "サブリーダー ひさ子",
@@ -2091,7 +2199,8 @@
         "id": "AB/W31-109R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-110": {
     "name": "“Crow Song ”岩沢",
@@ -2113,7 +2222,8 @@
         "id": "AB/W31-110SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-111": {
     "name": "お目覚め かなで",
@@ -2135,7 +2245,8 @@
         "id": "AB/W31-111R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-112": {
     "name": "いつかどこかで",
@@ -2153,7 +2264,8 @@
         "id": "AB/W31-112",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AB/W31-113": {
     "name": "仲村 ゆり",
@@ -2175,7 +2287,8 @@
         "id": "AB/W31-113SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-114": {
     "name": "テンションMAX 椎名",
@@ -2193,7 +2306,8 @@
         "id": "AB/W31-114",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-115": {
     "name": "生徒会長 音無",
@@ -2211,7 +2325,8 @@
         "id": "AB/W31-115",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-116": {
     "name": "悪魔のような司令 ゆり",
@@ -2229,7 +2344,8 @@
         "id": "AB/W31-116",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-117": {
     "name": "世界の核心",
@@ -2247,6 +2363,7 @@
         "id": "AB/W31-117",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "CC/S48-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-P02": {
     "name": "守護竜の焔剣 アラム",
@@ -33,7 +34,8 @@
         "id": "CC/S48-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-P03": {
     "name": "勝利の一声 ユリアナ",
@@ -51,7 +53,8 @@
         "id": "CC/S48-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-101": {
     "name": "ぷちヴェルナー",
@@ -69,7 +72,8 @@
         "id": "CC/S48-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-102": {
     "name": "ぷちエイレヌス",
@@ -87,7 +91,8 @@
         "id": "CC/S48-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-103": {
     "name": "ぷちフィーナ",
@@ -105,7 +110,8 @@
         "id": "CC/S48-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-104": {
     "name": "ぷちユーリ",
@@ -123,7 +129,8 @@
         "id": "CC/S48-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-105": {
     "name": "ぷちユリアナ",
@@ -141,6 +148,7 @@
         "id": "CC/S48-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

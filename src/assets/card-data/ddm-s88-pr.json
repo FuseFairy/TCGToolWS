@@ -15,7 +15,8 @@
         "id": "DDM/S88-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDM/S88-P02": {
     "name": "眠れる神 ヘスティア",
@@ -33,7 +34,8 @@
         "id": "DDM/S88-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDM/S88-101": {
     "name": "生きるための選択 リリ",
@@ -51,7 +53,8 @@
         "id": "DDM/S88-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDM/S88-102": {
     "name": "中層攻略 ヴェルフ",
@@ -69,7 +72,8 @@
         "id": "DDM/S88-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDM/S88-103": {
     "name": "絶望からの逃走 ベル",
@@ -87,7 +91,8 @@
         "id": "DDM/S88-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDM/S88-104": {
     "name": "『スキル』の発動 ヘスティア",
@@ -105,6 +110,7 @@
         "id": "DDM/S88-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

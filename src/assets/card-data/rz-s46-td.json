@@ -15,7 +15,8 @@
         "id": "RZ/S46-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T02": {
     "name": "毒舌メイド ラム",
@@ -33,7 +34,8 @@
         "id": "RZ/S46-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T03": {
     "name": "決まり顔のベアトリス",
@@ -51,7 +53,8 @@
         "id": "RZ/S46-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T04": {
     "name": "呆然とするスバル",
@@ -69,7 +72,8 @@
         "id": "RZ/S46-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T05": {
     "name": "意地っ張り ベアトリス",
@@ -87,7 +91,8 @@
         "id": "RZ/S46-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T06": {
     "name": "双子の姉 ラム",
@@ -105,7 +110,8 @@
         "id": "RZ/S46-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T07": {
     "name": "どちらを選ぶ？ ラム",
@@ -123,7 +129,8 @@
         "id": "RZ/S46-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-T08": {
     "name": "高い高い",
@@ -141,7 +148,8 @@
         "id": "RZ/S46-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RZ/S46-T09": {
     "name": "朝の挨拶 パック",
@@ -159,7 +167,8 @@
         "id": "RZ/S46-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T10": {
     "name": "ロズワール邸のメイド レム",
@@ -177,7 +186,8 @@
         "id": "RZ/S46-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T11": {
     "name": "純白の花嫁 レム",
@@ -195,7 +205,8 @@
         "id": "RZ/S46-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T12": {
     "name": "心優しいエミリア",
@@ -213,7 +224,8 @@
         "id": "RZ/S46-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T13": {
     "name": "膝枕するエミリア",
@@ -235,7 +247,8 @@
         "id": "RZ/S46-T13b",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T14": {
     "name": "双子の妹 レム",
@@ -253,7 +266,8 @@
         "id": "RZ/S46-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T15": {
     "name": "慌てるレム",
@@ -271,7 +285,8 @@
         "id": "RZ/S46-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T16": {
     "name": "異世界へようこそ！ エミリア&レム",
@@ -289,7 +304,8 @@
         "id": "RZ/S46-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-T17": {
     "name": "殺意の瞳 レム",
@@ -307,7 +323,8 @@
         "id": "RZ/S46-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-T18": {
     "name": "清々しい笑み スバル",
@@ -325,7 +342,8 @@
         "id": "RZ/S46-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-T19": {
     "name": "精霊使い エミリア",
@@ -343,7 +361,8 @@
         "id": "RZ/S46-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-T20": {
     "name": "スバルの選択",
@@ -365,7 +384,8 @@
         "id": "RZ/S46-T20b",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T21": {
     "name": "微精霊との対話",
@@ -383,7 +403,8 @@
         "id": "RZ/S46-T21",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-T22": {
     "name": "心の別離",
@@ -401,7 +422,8 @@
         "id": "RZ/S46-T22",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RZ/S46-T23": {
     "name": "にっこり微笑むラム",
@@ -419,7 +441,8 @@
         "id": "RZ/S46-T23",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T24": {
     "name": "毒舌メイド ラム",
@@ -437,7 +460,8 @@
         "id": "RZ/S46-T24",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T25": {
     "name": "決まり顔のベアトリス",
@@ -455,7 +479,8 @@
         "id": "RZ/S46-T25",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T26": {
     "name": "呆然とするスバル",
@@ -473,7 +498,8 @@
         "id": "RZ/S46-T26",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T27": {
     "name": "意地っ張り ベアトリス",
@@ -491,7 +517,8 @@
         "id": "RZ/S46-T27",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T28": {
     "name": "双子の姉 ラム",
@@ -509,7 +536,8 @@
         "id": "RZ/S46-T28",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T29": {
     "name": "高い高い",
@@ -527,7 +555,8 @@
         "id": "RZ/S46-T29",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RZ/S46-T30": {
     "name": "朝の挨拶 パック",
@@ -545,7 +574,8 @@
         "id": "RZ/S46-T30",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T31": {
     "name": "ロズワール邸のメイド レム",
@@ -563,7 +593,8 @@
         "id": "RZ/S46-T31",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T32": {
     "name": "純白の花嫁 レム",
@@ -581,7 +612,8 @@
         "id": "RZ/S46-T32",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T33": {
     "name": "膝枕するエミリア",
@@ -599,7 +631,8 @@
         "id": "RZ/S46-T33",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T34": {
     "name": "双子の妹 レム",
@@ -617,7 +650,8 @@
         "id": "RZ/S46-T34",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T35": {
     "name": "異世界へようこそ！ エミリア&レム",
@@ -635,7 +669,8 @@
         "id": "RZ/S46-T35",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-T36": {
     "name": "殺意の瞳 レム",
@@ -653,7 +688,8 @@
         "id": "RZ/S46-T36",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-T37": {
     "name": "清々しい笑み スバル",
@@ -671,7 +707,8 @@
         "id": "RZ/S46-T37",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-T38": {
     "name": "精霊使い エミリア",
@@ -689,7 +726,8 @@
         "id": "RZ/S46-T38",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-T39": {
     "name": "スバルの選択",
@@ -711,7 +749,8 @@
         "id": "RZ/S46-T39b",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T40": {
     "name": "微精霊との対話",
@@ -729,7 +768,8 @@
         "id": "RZ/S46-T40",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-T41": {
     "name": "心の別離",
@@ -747,7 +787,8 @@
         "id": "RZ/S46-T41",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RZ/S46-T42": {
     "name": "まどろみのひと時 エミリア",
@@ -773,7 +814,8 @@
         "id": "RZ/S46-T42SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T43": {
     "name": "愛おしの光 レム",
@@ -799,6 +841,7 @@
         "id": "RZ/S46-T43SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

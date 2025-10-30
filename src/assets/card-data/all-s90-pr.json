@@ -15,7 +15,8 @@
         "id": "ALL/S90-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-P02": {
     "name": "“焔の中の断罪者”白井夢結",
@@ -33,7 +34,8 @@
         "id": "ALL/S90-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-P03": {
     "name": "“レンズにほころぶ百合の蕾”雨嘉＆神琳",
@@ -51,7 +53,8 @@
         "id": "ALL/S90-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-P04": {
     "name": "“何事にも一生懸命”一葉",
@@ -69,7 +72,8 @@
         "id": "ALL/S90-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-P05": {
     "name": "“交わる３校の道”梨璃",
@@ -91,7 +95,8 @@
         "id": "ALL/S90-P05S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-P06": {
     "name": "“交わる３校の道”一葉",
@@ -113,7 +118,8 @@
         "id": "ALL/S90-P06S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-P07": {
     "name": "“交わる３校の道”叶星",
@@ -135,7 +141,8 @@
         "id": "ALL/S90-P07S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-P08": {
     "name": "“海辺に輝く少女たち”梨璃",
@@ -157,7 +164,8 @@
         "id": "ALL/S90-P08S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-P09": {
     "name": "“海辺に輝く少女たち”夢結",
@@ -179,7 +187,8 @@
         "id": "ALL/S90-P09S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-P10": {
     "name": "“海辺に輝く少女たち”一葉",
@@ -201,7 +210,8 @@
         "id": "ALL/S90-P10S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-P11": {
     "name": "“海辺に輝く少女たち”叶星",
@@ -223,7 +233,8 @@
         "id": "ALL/S90-P11S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-P12": {
     "name": "“Neunt Praeludium”叶星＆梨璃＆夢結＆一葉",
@@ -245,7 +256,8 @@
         "id": "ALL/S90-P12S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-P13": {
     "name": "“ふれっしゅ♡”梨璃＆夢結＆一葉＆叶星",
@@ -267,7 +279,8 @@
         "id": "ALL/S90-P13S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-P14": {
     "name": "“Cherish”一柳隊",
@@ -285,7 +298,8 @@
         "id": "ALL/S90-P14",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-P15": {
     "name": "“Diverse”ヘルヴォル＆グラン・エプレ",
@@ -303,7 +317,8 @@
         "id": "ALL/S90-P15",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-111": {
     "name": "“儚くも美しく戦う少女たちの物語”叶星",
@@ -321,7 +336,8 @@
         "id": "ALL/S90-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-112": {
     "name": "“儚くも美しく戦う少女たちの物語”夢結",
@@ -339,7 +355,8 @@
         "id": "ALL/S90-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-113": {
     "name": "“儚くも美しく戦う少女たちの物語”梨璃",
@@ -357,7 +374,8 @@
         "id": "ALL/S90-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-114": {
     "name": "“儚くも美しく戦う少女たちの物語”一葉",
@@ -375,6 +393,7 @@
         "id": "ALL/S90-114",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

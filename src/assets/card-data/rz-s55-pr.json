@@ -15,7 +15,8 @@
         "id": "RZ/S55-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-P02": {
     "name": "“アラビアンナイト”レム",
@@ -33,7 +34,8 @@
         "id": "RZ/S55-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-P03": {
     "name": "“ディアンドル”ラム",
@@ -51,7 +53,8 @@
         "id": "RZ/S55-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-P04": {
     "name": "春のベストショット エミリア＆レム",
@@ -69,7 +72,8 @@
         "id": "RZ/S55-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-P05": {
     "name": "浴衣でお散歩 エミリア",
@@ -87,7 +91,8 @@
         "id": "RZ/S55-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-P06": {
     "name": "浴衣でお散歩 レム",
@@ -105,7 +110,8 @@
         "id": "RZ/S55-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-P07": {
     "name": "月より団子 エミリア",
@@ -123,7 +129,8 @@
         "id": "RZ/S55-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-P08": {
     "name": "朝のおしごと レム",
@@ -141,7 +148,8 @@
         "id": "RZ/S55-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-P09": {
     "name": "相思相愛？エミリア＆パック",
@@ -163,7 +171,8 @@
         "id": "RZ/S55-P09S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-101": {
     "name": "SDフェルト",
@@ -181,7 +190,8 @@
         "id": "RZ/S55-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-102": {
     "name": "SDラム",
@@ -199,7 +209,8 @@
         "id": "RZ/S55-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-103": {
     "name": "SDベアトリス",
@@ -217,7 +228,8 @@
         "id": "RZ/S55-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-104": {
     "name": "SDエミリア",
@@ -235,7 +247,8 @@
         "id": "RZ/S55-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-105": {
     "name": "SDレム",
@@ -253,6 +266,7 @@
         "id": "RZ/S55-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

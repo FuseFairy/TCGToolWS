@@ -15,7 +15,8 @@
         "id": "OVL/S99-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-P02": {
     "name": "深まる愛 アルベド",
@@ -37,7 +38,8 @@
         "id": "OVL/S99-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-101": {
     "name": "肯定するデミウルゴス",
@@ -55,7 +57,8 @@
         "id": "OVL/S99-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-102": {
     "name": "追跡開始 シャルティア",
@@ -73,7 +76,8 @@
         "id": "OVL/S99-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-103": {
     "name": "読書の時間 マーレ",
@@ -91,7 +95,8 @@
         "id": "OVL/S99-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-104": {
     "name": "自信満々 アウラ",
@@ -109,7 +114,8 @@
         "id": "OVL/S99-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-105": {
     "name": "第5階層の守護者 コキュートス",
@@ -127,7 +133,8 @@
         "id": "OVL/S99-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-106": {
     "name": "無窮の献身 アルベド",
@@ -145,7 +152,8 @@
         "id": "OVL/S99-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-107": {
     "name": "時間停止 アインズ",
@@ -163,6 +171,7 @@
         "id": "OVL/S99-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

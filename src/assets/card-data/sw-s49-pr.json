@@ -15,7 +15,8 @@
         "id": "SW/S49-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-121": {
     "name": "“STAR WARS”チューバッカ",
@@ -33,7 +34,8 @@
         "id": "SW/S49-121",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-122": {
     "name": "“STAR WARS”カイロ・レン",
@@ -51,7 +53,8 @@
         "id": "SW/S49-122",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-123": {
     "name": "“STAR WARS”ストームトルーパー",
@@ -69,7 +72,8 @@
         "id": "SW/S49-123",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-124": {
     "name": "“STAR WARS”レイ",
@@ -87,7 +91,8 @@
         "id": "SW/S49-124",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-125": {
     "name": "“STAR WARS”C-3PO＆BB‐8＆R2‐D2",
@@ -105,7 +110,8 @@
         "id": "SW/S49-125",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-121_": {
     "name": "“STAR WARS”チューバッカ",
@@ -123,7 +129,8 @@
         "id": "SW/S49-121_",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-122_": {
     "name": "“STAR WARS”カイロ・レン",
@@ -141,7 +148,8 @@
         "id": "SW/S49-122_",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-123_": {
     "name": "“STAR WARS”ストームトルーパー",
@@ -159,7 +167,8 @@
         "id": "SW/S49-123_",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-124_": {
     "name": "“STAR WARS”レイ",
@@ -177,7 +186,8 @@
         "id": "SW/S49-124_",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-125_": {
     "name": "“STAR WARS”C-3PO＆BB‐8＆R2‐D2",
@@ -195,6 +205,7 @@
         "id": "SW/S49-125_",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

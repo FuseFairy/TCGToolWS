@@ -15,7 +15,8 @@
         "id": "CL/WE07-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-02": {
     "name": "デートに誘う朋也",
@@ -33,7 +34,8 @@
         "id": "CL/WE07-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-03": {
     "name": "病弱な少女 渚",
@@ -51,7 +53,8 @@
         "id": "CL/WE07-03",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-04": {
     "name": "渚の娘 汐",
@@ -69,7 +72,8 @@
         "id": "CL/WE07-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-05": {
     "name": "朋也の恋人 渚",
@@ -87,7 +91,8 @@
         "id": "CL/WE07-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-06": {
     "name": "だんご大好き渚",
@@ -105,7 +110,8 @@
         "id": "CL/WE07-06",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-07": {
     "name": "岡崎 汐",
@@ -123,7 +129,8 @@
         "id": "CL/WE07-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-08": {
     "name": "町を愛する渚",
@@ -141,7 +148,8 @@
         "id": "CL/WE07-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-09": {
     "name": "渚＆芽衣",
@@ -159,7 +167,8 @@
         "id": "CL/WE07-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-10": {
     "name": "仲良し親子 渚＆早苗",
@@ -177,7 +186,8 @@
         "id": "CL/WE07-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-11": {
     "name": "温かな家庭 渚＆朋也＆秋生",
@@ -195,7 +205,8 @@
         "id": "CL/WE07-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-12": {
     "name": "“恋人同士”渚＆朋也",
@@ -213,7 +224,8 @@
         "id": "CL/WE07-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-13": {
     "name": "出会いと別れ",
@@ -231,7 +243,8 @@
         "id": "CL/WE07-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CL/WE07-14": {
     "name": "家族の絆",
@@ -249,7 +262,8 @@
         "id": "CL/WE07-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-15": {
     "name": "転校生 智代",
@@ -267,7 +281,8 @@
         "id": "CL/WE07-15",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-16": {
     "name": "パジャマの智代",
@@ -285,7 +300,8 @@
         "id": "CL/WE07-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-17": {
     "name": "汐の友達 風子",
@@ -303,7 +319,8 @@
         "id": "CL/WE07-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-18": {
     "name": "相楽 美佐枝",
@@ -321,7 +338,8 @@
         "id": "CL/WE07-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-19": {
     "name": "最強の女 智代",
@@ -339,7 +357,8 @@
         "id": "CL/WE07-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-20": {
     "name": "汐の担任 杏",
@@ -357,7 +376,8 @@
         "id": "CL/WE07-20",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-21": {
     "name": "“お姉ちゃん”杏",
@@ -375,7 +395,8 @@
         "id": "CL/WE07-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-22": {
     "name": "渚＆杏＆椋",
@@ -393,7 +414,8 @@
         "id": "CL/WE07-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-23": {
     "name": "天然娘 ことみ",
@@ -411,7 +433,8 @@
         "id": "CL/WE07-23",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-24": {
     "name": "終わった世界の少女",
@@ -429,7 +452,8 @@
         "id": "CL/WE07-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-25": {
     "name": "宮沢 有紀寧",
@@ -447,7 +471,8 @@
         "id": "CL/WE07-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-26": {
     "name": "ことみ＆智代",
@@ -465,7 +490,8 @@
         "id": "CL/WE07-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-27": {
     "name": "ウェイトレスの渚＆杏＆椋",
@@ -483,7 +509,8 @@
         "id": "CL/WE07-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-28": {
     "name": "演劇部部長 渚",
@@ -501,7 +528,8 @@
         "id": "CL/WE07-28",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-29": {
     "name": "岡崎 朋也",
@@ -519,7 +547,8 @@
         "id": "CL/WE07-29",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-30": {
     "name": "佇む少女 渚",
@@ -537,7 +566,8 @@
         "id": "CL/WE07-30",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-31": {
     "name": "古河 渚",
@@ -555,7 +585,8 @@
         "id": "CL/WE07-31",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-32": {
     "name": "世話焼き渚",
@@ -573,7 +604,8 @@
         "id": "CL/WE07-32",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-33": {
     "name": "春原 陽平",
@@ -591,7 +623,8 @@
         "id": "CL/WE07-33",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-34": {
     "name": "この学園は、好きですか……？",
@@ -609,7 +642,8 @@
         "id": "CL/WE07-34",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CL/WE07-35": {
     "name": "伝説のヒトデ使い風子",
@@ -627,7 +661,8 @@
         "id": "CL/WE07-35",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-36": {
     "name": "家庭的な智代",
@@ -645,7 +680,8 @@
         "id": "CL/WE07-36",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-37": {
     "name": "スポーツ万能 智代",
@@ -663,7 +699,8 @@
         "id": "CL/WE07-37",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-38": {
     "name": "幽霊少女 風子",
@@ -681,7 +718,8 @@
         "id": "CL/WE07-38",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-39": {
     "name": "伝説の少女 智代",
@@ -699,7 +737,8 @@
         "id": "CL/WE07-39",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-40": {
     "name": "風子＆公子",
@@ -717,7 +756,8 @@
         "id": "CL/WE07-40",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-41": {
     "name": "夢の最後まで",
@@ -735,7 +775,8 @@
         "id": "CL/WE07-41",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CL/WE07-42": {
     "name": "世話好きな 杏",
@@ -753,7 +794,8 @@
         "id": "CL/WE07-42",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-43": {
     "name": "パン屋さん 渚＆杏",
@@ -771,7 +813,8 @@
         "id": "CL/WE07-43",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-44": {
     "name": "妹思い杏",
@@ -789,7 +832,8 @@
         "id": "CL/WE07-44",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-45": {
     "name": "暴走娘 杏",
@@ -807,7 +851,8 @@
         "id": "CL/WE07-45",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-46": {
     "name": "古河 早苗",
@@ -825,7 +870,8 @@
         "id": "CL/WE07-46",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-47": {
     "name": "古河 秋生",
@@ -843,7 +889,8 @@
         "id": "CL/WE07-47",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-48": {
     "name": "渚＆ことみ",
@@ -861,7 +908,8 @@
         "id": "CL/WE07-48",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-49": {
     "name": "名誉図書委員ことみ",
@@ -879,7 +927,8 @@
         "id": "CL/WE07-49",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-50": {
     "name": "旋律の破壊神ことみ",
@@ -897,7 +946,8 @@
         "id": "CL/WE07-50",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-51": {
     "name": "幻想世界の少女",
@@ -915,7 +965,8 @@
         "id": "CL/WE07-51",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-52": {
     "name": "一ノ瀬 ことみ",
@@ -933,7 +984,8 @@
         "id": "CL/WE07-52",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-53": {
     "name": "杏＆椋",
@@ -951,7 +1003,8 @@
         "id": "CL/WE07-53",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-54": {
     "name": "娘への贈り物",
@@ -969,7 +1022,8 @@
         "id": "CL/WE07-54",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-55": {
     "name": "渚＆汐",
@@ -987,7 +1041,8 @@
         "id": "CL/WE07-55",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-56": {
     "name": "岡崎 渚",
@@ -1005,7 +1060,8 @@
         "id": "CL/WE07-56",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-57": {
     "name": "恋の仕掛け人 芽衣",
@@ -1023,7 +1079,8 @@
         "id": "CL/WE07-57",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-58": {
     "name": "前向きな朋也",
@@ -1041,7 +1098,8 @@
         "id": "CL/WE07-58",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-59": {
     "name": "坂上 智代",
@@ -1059,7 +1117,8 @@
         "id": "CL/WE07-59",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-60": {
     "name": "生徒会長 智代",
@@ -1077,7 +1136,8 @@
         "id": "CL/WE07-60",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-61": {
     "name": "伊吹 風子",
@@ -1095,7 +1155,8 @@
         "id": "CL/WE07-61",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-62": {
     "name": "パジャマの風子",
@@ -1113,7 +1174,8 @@
         "id": "CL/WE07-62",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-63": {
     "name": "智代の誓い",
@@ -1131,7 +1193,8 @@
         "id": "CL/WE07-63",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-64": {
     "name": "杏＆智代",
@@ -1149,7 +1212,8 @@
         "id": "CL/WE07-64",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-65": {
     "name": "藤林 杏",
@@ -1167,7 +1231,8 @@
         "id": "CL/WE07-65",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-66": {
     "name": "渚＆杏",
@@ -1185,7 +1250,8 @@
         "id": "CL/WE07-66",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-67": {
     "name": "委員長 杏",
@@ -1203,7 +1269,8 @@
         "id": "CL/WE07-67",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-68": {
     "name": "恋のトライアングル",
@@ -1221,7 +1288,8 @@
         "id": "CL/WE07-68",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-69": {
     "name": "天才少女ことみ",
@@ -1239,7 +1307,8 @@
         "id": "CL/WE07-69",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE07-70": {
     "name": "マイペースことみ",
@@ -1257,7 +1326,8 @@
         "id": "CL/WE07-70",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-71": {
     "name": "占い好きな椋",
@@ -1275,7 +1345,8 @@
         "id": "CL/WE07-71",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-72": {
     "name": "芳野 祐介",
@@ -1293,6 +1364,7 @@
         "id": "CL/WE07-72",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

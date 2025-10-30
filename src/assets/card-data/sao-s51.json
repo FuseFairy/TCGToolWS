@@ -19,7 +19,8 @@
         "id": "SAO/S51-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-002": {
     "name": "流星の約束 アスナ",
@@ -41,7 +42,8 @@
         "id": "SAO/S51-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-003": {
     "name": "恐怖の克服 アスナ",
@@ -63,7 +65,8 @@
         "id": "SAO/S51-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-004": {
     "name": "公園デート 明日奈",
@@ -81,7 +84,8 @@
         "id": "SAO/S51-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-005": {
     "name": "キリトの恋人 アスナ",
@@ -99,7 +103,8 @@
         "id": "SAO/S51-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-006": {
     "name": "おやつタイム 明日奈",
@@ -117,7 +122,8 @@
         "id": "SAO/S51-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-007": {
     "name": "《閃光》アスナ&《黒の剣士》キリト",
@@ -135,7 +141,8 @@
         "id": "SAO/S51-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-008": {
     "name": "“連携攻撃”アスナ",
@@ -153,7 +160,8 @@
         "id": "SAO/S51-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-009": {
     "name": "待ち遠しい約束の日 アスナ",
@@ -171,7 +179,8 @@
         "id": "SAO/S51-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-010": {
     "name": "約束を胸に アスナ&キリト",
@@ -189,7 +198,8 @@
         "id": "SAO/S51-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-011": {
     "name": "今日のMVP アスナ",
@@ -207,7 +217,8 @@
         "id": "SAO/S51-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-012": {
     "name": "魅惑の渚 アスナ",
@@ -225,7 +236,8 @@
         "id": "SAO/S51-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-013": {
     "name": "ボスバトルに挑戦 アスナ",
@@ -243,7 +255,8 @@
         "id": "SAO/S51-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-014": {
     "name": "大切な習慣 明日奈",
@@ -261,7 +274,8 @@
         "id": "SAO/S51-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-015": {
     "name": "疾風の刺突 アスナ",
@@ -279,7 +293,8 @@
         "id": "SAO/S51-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-016": {
     "name": "戦闘準備 アスナ",
@@ -297,7 +312,8 @@
         "id": "SAO/S51-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-017": {
     "name": "“天才ゲームデザイナー”茅場",
@@ -315,7 +331,8 @@
         "id": "SAO/S51-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-018": {
     "name": "不意の呟き",
@@ -333,7 +350,8 @@
         "id": "SAO/S51-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-019": {
     "name": "《マザーズ・ロザリオ》",
@@ -355,7 +373,8 @@
         "id": "SAO/S51-019R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SAO/S51-020": {
     "name": "変わらない気持ち",
@@ -373,7 +392,8 @@
         "id": "SAO/S51-020",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SAO/S51-021": {
     "name": "兄想いな妹 リーファ",
@@ -395,7 +415,8 @@
         "id": "SAO/S51-021SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-022": {
     "name": "《歌姫》ユナ",
@@ -417,7 +438,8 @@
         "id": "SAO/S51-022SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-023": {
     "name": "剣道合宿 直葉",
@@ -435,7 +457,8 @@
         "id": "SAO/S51-023",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-024": {
     "name": "水着の直葉",
@@ -457,7 +480,8 @@
         "id": "SAO/S51-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-025": {
     "name": "“ARアイドル”ユナ",
@@ -475,7 +499,8 @@
         "id": "SAO/S51-025",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-026": {
     "name": "意味深な言動 ユナ",
@@ -493,7 +518,8 @@
         "id": "SAO/S51-026",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-027": {
     "name": "誘いの挑発 エイジ",
@@ -511,7 +537,8 @@
         "id": "SAO/S51-027",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-028": {
     "name": "不在の歯がゆさ リーファ",
@@ -533,7 +560,8 @@
         "id": "SAO/S51-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-029": {
     "name": "瞬刻の身ごなし エイジ",
@@ -551,7 +579,8 @@
         "id": "SAO/S51-029",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-030": {
     "name": "記憶の欠片 ユナ",
@@ -569,7 +598,8 @@
         "id": "SAO/S51-030",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-031": {
     "name": "自信に満ちた横顔 エイジ",
@@ -587,7 +617,8 @@
         "id": "SAO/S51-031",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-032": {
     "name": "《血盟騎士団》ノーチラス",
@@ -605,7 +636,8 @@
         "id": "SAO/S51-032",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-033": {
     "name": "《オーグマー》開発者 重村",
@@ -623,7 +655,8 @@
         "id": "SAO/S51-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-034": {
     "name": "スペシャルステージ ユナ",
@@ -641,7 +674,8 @@
         "id": "SAO/S51-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-035": {
     "name": "《An Incarnate of the Radius》",
@@ -659,7 +693,8 @@
         "id": "SAO/S51-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-036": {
     "name": "謎の青年剣士 エイジ",
@@ -677,7 +712,8 @@
         "id": "SAO/S51-036",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-037": {
     "name": "一人の乾杯 鋭二",
@@ -695,7 +731,8 @@
         "id": "SAO/S51-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-038": {
     "name": "歌が大好き ユナ",
@@ -713,7 +750,8 @@
         "id": "SAO/S51-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-039": {
     "name": "大歓声の中 ユナ",
@@ -731,7 +769,8 @@
         "id": "SAO/S51-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-040": {
     "name": "東都工業大学教授 重村",
@@ -749,7 +788,8 @@
         "id": "SAO/S51-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-041": {
     "name": "守りたかった笑顔 ユナ",
@@ -767,7 +807,8 @@
         "id": "SAO/S51-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-042": {
     "name": "魔法攻撃 リーファ",
@@ -785,7 +826,8 @@
         "id": "SAO/S51-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-043": {
     "name": "しっかり者の妹 リーファ",
@@ -803,7 +845,8 @@
         "id": "SAO/S51-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-044": {
     "name": "盾による対抗",
@@ -821,7 +864,8 @@
         "id": "SAO/S51-044",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-045": {
     "name": "オーディナル・スケール",
@@ -839,7 +883,8 @@
         "id": "SAO/S51-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-046": {
     "name": "SAO事件記録全集",
@@ -857,7 +902,8 @@
         "id": "SAO/S51-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-047": {
     "name": "夢だった大舞台",
@@ -875,7 +921,8 @@
         "id": "SAO/S51-047",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SAO/S51-048": {
     "name": "オーディナル・ナンバー2",
@@ -893,7 +940,8 @@
         "id": "SAO/S51-048",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SAO/S51-049": {
     "name": "白の聖大樹",
@@ -911,7 +959,8 @@
         "id": "SAO/S51-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-050": {
     "name": "妖精たちの援護",
@@ -929,7 +978,8 @@
         "id": "SAO/S51-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-051": {
     "name": "折れない意思 リズベット",
@@ -951,7 +1001,8 @@
         "id": "SAO/S51-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-052": {
     "name": "“連携攻撃”シリカ",
@@ -973,7 +1024,8 @@
         "id": "SAO/S51-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-053": {
     "name": "オン・ステージ シリカ",
@@ -995,7 +1047,8 @@
         "id": "SAO/S51-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-054": {
     "name": "さっぱりとした性格 リズベット",
@@ -1017,7 +1070,8 @@
         "id": "SAO/S51-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-055": {
     "name": "にぎやかな放課後 里香",
@@ -1035,7 +1089,8 @@
         "id": "SAO/S51-055",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-056": {
     "name": "身構えるシリカ",
@@ -1053,7 +1108,8 @@
         "id": "SAO/S51-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-057": {
     "name": "“連携攻撃”リズベット",
@@ -1075,7 +1131,8 @@
         "id": "SAO/S51-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-058": {
     "name": "危機一髪 シリカ",
@@ -1093,7 +1150,8 @@
         "id": "SAO/S51-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-059": {
     "name": "反撃の狼煙 リズベット",
@@ -1111,7 +1169,8 @@
         "id": "SAO/S51-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-060": {
     "name": "弾む切込み シリカ",
@@ -1129,7 +1188,8 @@
         "id": "SAO/S51-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-061": {
     "name": "ボスバトルに挑戦 リズベット",
@@ -1147,7 +1207,8 @@
         "id": "SAO/S51-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-062": {
     "name": "あきれ顔の珪子",
@@ -1165,7 +1226,8 @@
         "id": "SAO/S51-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-063": {
     "name": "嬉し気な仕草 シリカ",
@@ -1183,7 +1245,8 @@
         "id": "SAO/S51-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-064": {
     "name": "ボスバトルに挑戦 シリカ",
@@ -1201,7 +1264,8 @@
         "id": "SAO/S51-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-065": {
     "name": "あきれ顔の里香",
@@ -1219,7 +1283,8 @@
         "id": "SAO/S51-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-066": {
     "name": "乗り気なリズベット",
@@ -1237,7 +1302,8 @@
         "id": "SAO/S51-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-067": {
     "name": "歌ってご機嫌",
@@ -1255,7 +1321,8 @@
         "id": "SAO/S51-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-068": {
     "name": "かつての強敵",
@@ -1273,7 +1340,8 @@
         "id": "SAO/S51-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-069": {
     "name": "年季入りのパーティプレイ",
@@ -1295,7 +1363,8 @@
         "id": "SAO/S51-069R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-070": {
     "name": "非道な罠",
@@ -1317,7 +1386,8 @@
         "id": "SAO/S51-070R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-071": {
     "name": "“本気になる時”キリト",
@@ -1339,7 +1409,8 @@
         "id": "SAO/S51-071SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-072": {
     "name": "“連携攻撃”シノン",
@@ -1361,7 +1432,8 @@
         "id": "SAO/S51-072SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-073": {
     "name": "“連携攻撃”キリト",
@@ -1383,7 +1455,8 @@
         "id": "SAO/S51-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-074": {
     "name": "半信半疑 シノン",
@@ -1401,7 +1474,8 @@
         "id": "SAO/S51-074",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-075": {
     "name": "《SAO生還者》明日奈＆和人",
@@ -1419,7 +1493,8 @@
         "id": "SAO/S51-075",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-076": {
     "name": "頼れる助っ人 シノン",
@@ -1441,7 +1516,8 @@
         "id": "SAO/S51-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-077": {
     "name": "ARでの戦い キリト",
@@ -1463,7 +1539,8 @@
         "id": "SAO/S51-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-078": {
     "name": "願ってもない援護 ユイ",
@@ -1481,7 +1558,8 @@
         "id": "SAO/S51-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-079": {
     "name": "元気いっぱい ユイ",
@@ -1503,7 +1581,8 @@
         "id": "SAO/S51-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-080": {
     "name": "アスナの恋人 キリト",
@@ -1521,7 +1600,8 @@
         "id": "SAO/S51-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-081": {
     "name": "ＡＲに馴染めない和人",
@@ -1539,7 +1619,8 @@
         "id": "SAO/S51-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-082": {
     "name": "デレデレなクライン",
@@ -1557,7 +1638,8 @@
         "id": "SAO/S51-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-083": {
     "name": "おやつタイム ユイ",
@@ -1575,7 +1657,8 @@
         "id": "SAO/S51-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-084": {
     "name": "“連携攻撃”エギル",
@@ -1593,7 +1676,8 @@
         "id": "SAO/S51-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-085": {
     "name": "データ収集 ユイ",
@@ -1611,7 +1695,8 @@
         "id": "SAO/S51-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-086": {
     "name": "寄り添う二人 和人＆明日奈",
@@ -1629,7 +1714,8 @@
         "id": "SAO/S51-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-087": {
     "name": "苦戦に滲む汗 エギル",
@@ -1647,7 +1733,8 @@
         "id": "SAO/S51-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-088": {
     "name": "怒りの対面 キリト",
@@ -1665,7 +1752,8 @@
         "id": "SAO/S51-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-089": {
     "name": "鬼神の気迫 キリト",
@@ -1683,7 +1771,8 @@
         "id": "SAO/S51-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-090": {
     "name": "手掛かりを求めるキリト",
@@ -1701,7 +1790,8 @@
         "id": "SAO/S51-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-091": {
     "name": "柔らかな表情 キリト",
@@ -1719,7 +1809,8 @@
         "id": "SAO/S51-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-092": {
     "name": "クールに論駁 シノン",
@@ -1737,7 +1828,8 @@
         "id": "SAO/S51-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-093": {
     "name": "緊急参戦 クライン",
@@ -1755,7 +1847,8 @@
         "id": "SAO/S51-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-094": {
     "name": "どこか寂しげ 和人",
@@ -1773,7 +1866,8 @@
         "id": "SAO/S51-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-095": {
     "name": "調査の報告",
@@ -1791,7 +1885,8 @@
         "id": "SAO/S51-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-096": {
     "name": "オーディナル・ナンバー1",
@@ -1809,7 +1904,8 @@
         "id": "SAO/S51-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-097": {
     "name": "《黒の剣士》再び",
@@ -1831,7 +1927,8 @@
         "id": "SAO/S51-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-098": {
     "name": "信頼の射撃",
@@ -1849,7 +1946,8 @@
         "id": "SAO/S51-098",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-099": {
     "name": "お待たせしました！",
@@ -1867,7 +1965,8 @@
         "id": "SAO/S51-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SAO/S51-100": {
     "name": "約束の続き",
@@ -1885,6 +1984,7 @@
         "id": "SAO/S51-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -19,7 +19,8 @@
         "id": "SPY/S106-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-T02": {
     "name": "トイレ中 ボンド",
@@ -41,7 +42,8 @@
         "id": "SPY/S106-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-T03": {
     "name": "座っている アーニャ",
@@ -63,7 +65,8 @@
         "id": "SPY/S106-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-T04": {
     "name": "了解 アーニャ",
@@ -85,7 +88,8 @@
         "id": "SPY/S106-T04R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-T05": {
     "name": "超能力者 アーニャ",
@@ -107,7 +111,8 @@
         "id": "SPY/S106-T05SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-T06": {
     "name": "約束 アーニャ",
@@ -129,7 +134,8 @@
         "id": "SPY/S106-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-T07": {
     "name": "ドキドキ面接中 アーニャ",
@@ -151,7 +157,8 @@
         "id": "SPY/S106-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-T08": {
     "name": "オペレーション〈梟〉",
@@ -173,7 +180,8 @@
         "id": "SPY/S106-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-T09": {
     "name": "楽しい時間",
@@ -195,7 +203,8 @@
         "id": "SPY/S106-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-T10": {
     "name": "娘候補探し 〈黄昏〉",
@@ -217,7 +226,8 @@
         "id": "SPY/S106-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-T11": {
     "name": "やる気いっぱい ヨル",
@@ -239,7 +249,8 @@
         "id": "SPY/S106-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-T12": {
     "name": "殺し屋 ヨル",
@@ -261,7 +272,8 @@
         "id": "SPY/S106-T12SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-T13": {
     "name": "家でのひととき ロイド",
@@ -283,7 +295,8 @@
         "id": "SPY/S106-T13R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-T14": {
     "name": "クールな諜報員 〈黄昏〉",
@@ -305,7 +318,8 @@
         "id": "SPY/S106-T14SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-T15": {
     "name": "月夜の語り合い ロイド",
@@ -327,7 +341,8 @@
         "id": "SPY/S106-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-T16": {
     "name": "入学試験 ヨル",
@@ -349,7 +364,8 @@
         "id": "SPY/S106-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-T17": {
     "name": "平和を想う ロイド",
@@ -371,7 +387,8 @@
         "id": "SPY/S106-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-T18": {
     "name": "お願い ヨル",
@@ -393,7 +410,8 @@
         "id": "SPY/S106-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-T19": {
     "name": "仮初めの家族 ロイド＆アーニャ＆ヨル",
@@ -419,7 +437,8 @@
         "id": "SPY/S106-T19SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-T20": {
     "name": "秘密だらけの家族",
@@ -441,7 +460,8 @@
         "id": "SPY/S106-T20R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-T21": {
     "name": "姫を助けるヒーロー",
@@ -463,6 +483,7 @@
         "id": "SPY/S106-T21R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

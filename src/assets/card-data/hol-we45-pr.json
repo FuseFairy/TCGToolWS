@@ -15,7 +15,8 @@
         "id": "HOL/WE45-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/WE45-P02": {
     "name": "オンステージ！ ムーナ・ホシノヴァ&小鳥遊キアラ",
@@ -33,7 +34,8 @@
         "id": "HOL/WE45-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/WE45-P03": {
     "name": "祝福の祈り 小鳥遊キアラ",
@@ -51,7 +53,8 @@
         "id": "HOL/WE45-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/WE45-P04": {
     "name": "レッツ！ヴァイスシュヴァルツ!! 小鳥遊キアラ",
@@ -69,7 +72,8 @@
         "id": "HOL/WE45-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/WE45-P05": {
     "name": "レースの結果は？",
@@ -87,7 +91,8 @@
         "id": "HOL/WE45-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/WE45-P06": {
     "name": "オンステージ！ 星街すいせい&さくらみこ",
@@ -105,7 +110,8 @@
         "id": "HOL/WE45-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/WE45-P07": {
     "name": "祝福の祈り さくらみこ",
@@ -123,7 +129,8 @@
         "id": "HOL/WE45-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/WE45-P08": {
     "name": "レッツ！ヴァイスシュヴァルツ!! さくらみこ",
@@ -141,7 +148,8 @@
         "id": "HOL/WE45-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/WE45-P09": {
     "name": "Happy 15th Anniversary !!  さくらみこ",
@@ -159,7 +167,8 @@
         "id": "HOL/WE45-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/WE45-P10": {
     "name": "cherry blossom",
@@ -177,7 +186,8 @@
         "id": "HOL/WE45-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/WE45-P11": {
     "name": "レッツ！ヴァイスシュヴァルツ!! ムーナ・ホシノヴァ",
@@ -195,7 +205,8 @@
         "id": "HOL/WE45-P11",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/WE45-P12": {
     "name": "祝福の祈り 星街すいせい",
@@ -213,7 +224,8 @@
         "id": "HOL/WE45-P12",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/WE45-P13": {
     "name": "Happy 15th Anniversary !!  星街すいせい",
@@ -231,7 +243,8 @@
         "id": "HOL/WE45-P13",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/WE45-P14": {
     "name": "Happy 15th Anniversary !!  ムーナ・ホシノヴァ",
@@ -249,7 +262,8 @@
         "id": "HOL/WE45-P14",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/WE45-P15": {
     "name": "レッツ！ヴァイスシュヴァルツ!! 星街すいせい",
@@ -267,7 +281,8 @@
         "id": "HOL/WE45-P15",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/WE45-P16": {
     "name": "祝福の祈り ムーナ・ホシノヴァ",
@@ -285,7 +300,8 @@
         "id": "HOL/WE45-P16",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/WE45-P17": {
     "name": "白熱！金魚すくい",
@@ -303,6 +319,7 @@
         "id": "HOL/WE45-P17",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

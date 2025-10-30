@@ -23,7 +23,8 @@
         "id": "KJ8/S123-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-002": {
     "name": "防衛隊合格者代表 四ノ宮キコル",
@@ -49,7 +50,8 @@
         "id": "KJ8/S123-002SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-003": {
     "name": "第3の戦力 四ノ宮キコル",
@@ -75,7 +77,8 @@
         "id": "KJ8/S123-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-004": {
     "name": "アグレッシブな戦闘スタイル 四ノ宮キコル",
@@ -101,7 +104,8 @@
         "id": "KJ8/S123-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-005": {
     "name": "日本防衛隊長官 四ノ宮功",
@@ -123,7 +127,8 @@
         "id": "KJ8/S123-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-006": {
     "name": "副隊長の務め 保科宗四郎",
@@ -149,7 +154,8 @@
         "id": "KJ8/S123-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-007": {
     "name": "怪獣を殺す時 保科宗四郎",
@@ -171,7 +177,8 @@
         "id": "KJ8/S123-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-008": {
     "name": "準備万端 四ノ宮キコル",
@@ -193,7 +200,8 @@
         "id": "KJ8/S123-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-009": {
     "name": "存在証明 保科宗四郎",
@@ -219,7 +227,8 @@
         "id": "KJ8/S123-009SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-010": {
     "name": "誇りある矜持 四ノ宮キコル",
@@ -241,7 +250,8 @@
         "id": "KJ8/S123-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-011": {
     "name": "戦う理由 保科宗四郎",
@@ -263,7 +273,8 @@
         "id": "KJ8/S123-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-012": {
     "name": "幼き日の保科宗四郎",
@@ -285,7 +296,8 @@
         "id": "KJ8/S123-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-013": {
     "name": "隊長の強さの秘訣 四ノ宮キコル",
@@ -307,7 +319,8 @@
         "id": "KJ8/S123-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-014": {
     "name": "８号との邂逅 保科宗四郎",
@@ -329,7 +342,8 @@
         "id": "KJ8/S123-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-015": {
     "name": "10号の脅威 保科宗四郎",
@@ -351,7 +365,8 @@
         "id": "KJ8/S123-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-016": {
     "name": "お嬢様 四ノ宮キコル",
@@ -373,7 +388,8 @@
         "id": "KJ8/S123-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-017": {
     "name": "さらなる強さを求めて 四ノ宮キコル",
@@ -395,7 +411,8 @@
         "id": "KJ8/S123-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-018": {
     "name": "遊軍 四ノ宮キコル",
@@ -417,7 +434,8 @@
         "id": "KJ8/S123-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-019": {
     "name": "臨戦態勢 保科宗四郎",
@@ -439,7 +457,8 @@
         "id": "KJ8/S123-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-020": {
     "name": "大怪獣の気配 四ノ宮功",
@@ -461,7 +480,8 @@
         "id": "KJ8/S123-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-021": {
     "name": "忠告 保科宗四郎",
@@ -483,7 +503,8 @@
         "id": "KJ8/S123-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-022": {
     "name": "怪獣10号",
@@ -505,7 +526,8 @@
         "id": "KJ8/S123-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-023": {
     "name": "正隊員 四ノ宮キコル",
@@ -527,7 +549,8 @@
         "id": "KJ8/S123-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-024": {
     "name": "第1部隊 四ノ宮キコル",
@@ -549,7 +572,8 @@
         "id": "KJ8/S123-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-025": {
     "name": "事後報告 保科宗四郎",
@@ -571,7 +595,8 @@
         "id": "KJ8/S123-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-026": {
     "name": "本音とタテマエ 保科宗四郎",
@@ -593,7 +618,8 @@
         "id": "KJ8/S123-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-027": {
     "name": "次なる舞台 四ノ宮キコル",
@@ -615,7 +641,8 @@
         "id": "KJ8/S123-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-028": {
     "name": "尊敬の念？ 四ノ宮キコル",
@@ -637,7 +664,8 @@
         "id": "KJ8/S123-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-029": {
     "name": "副隊長 保科宗四郎",
@@ -659,7 +687,8 @@
         "id": "KJ8/S123-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-030": {
     "name": "四ノ宮キコル専用武器  Ax-0112",
@@ -681,7 +710,8 @@
         "id": "KJ8/S123-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-031": {
     "name": "保科宗四郎専用武器  SW-2033",
@@ -703,7 +733,8 @@
         "id": "KJ8/S123-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-032": {
     "name": "完璧主義のお嬢様",
@@ -725,7 +756,8 @@
         "id": "KJ8/S123-032R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-033": {
     "name": "防衛隊式斧術",
@@ -747,7 +779,8 @@
         "id": "KJ8/S123-033R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-034": {
     "name": "保科流刀伐術",
@@ -769,7 +802,8 @@
         "id": "KJ8/S123-034R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-035": {
     "name": "副隊長のスイッチ",
@@ -791,7 +825,8 @@
         "id": "KJ8/S123-035R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-036": {
     "name": "憧れを胸に 市川レノ",
@@ -817,7 +852,8 @@
         "id": "KJ8/S123-036SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-037": {
     "name": "怪獣になった男 怪獣８号",
@@ -843,7 +879,8 @@
         "id": "KJ8/S123-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-038": {
     "name": "再出発 日比野カフカ",
@@ -869,7 +906,8 @@
         "id": "KJ8/S123-038SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-039": {
     "name": "モンスタースイーパー 市川レノ",
@@ -895,7 +933,8 @@
         "id": "KJ8/S123-039SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-040": {
     "name": "平穏な日常 日比野カフカ",
@@ -921,7 +960,8 @@
         "id": "KJ8/S123-040SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-041": {
     "name": "レノのライバル 古橋伊春",
@@ -943,7 +983,8 @@
         "id": "KJ8/S123-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-042": {
     "name": "迷いなき選択 怪獣８号",
@@ -965,7 +1006,8 @@
         "id": "KJ8/S123-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-043": {
     "name": "思いを込めた一撃 怪獣８号",
@@ -991,7 +1033,8 @@
         "id": "KJ8/S123-043SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-044": {
     "name": "1％の期待 日比野カフカ",
@@ -1013,7 +1056,8 @@
         "id": "KJ8/S123-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-045": {
     "name": "「壁」を超える兆し 市川レノ",
@@ -1035,7 +1079,8 @@
         "id": "KJ8/S123-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-046": {
     "name": "幼き日の日比野カフカ",
@@ -1057,7 +1102,8 @@
         "id": "KJ8/S123-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-047": {
     "name": "クールな青年 市川レノ",
@@ -1079,7 +1125,8 @@
         "id": "KJ8/S123-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-048": {
     "name": "謎の幼獣",
@@ -1101,7 +1148,8 @@
         "id": "KJ8/S123-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-049": {
     "name": "八王子討伐高専首席 古橋伊春",
@@ -1123,7 +1171,8 @@
         "id": "KJ8/S123-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-050": {
     "name": "戦場を駆ける 市川レノ",
@@ -1145,7 +1194,8 @@
         "id": "KJ8/S123-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-051": {
     "name": "新米防衛隊隊員 市川レノ",
@@ -1167,7 +1217,8 @@
         "id": "KJ8/S123-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-052": {
     "name": "仲間と共に 日比野カフカ",
@@ -1189,7 +1240,8 @@
         "id": "KJ8/S123-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-053": {
     "name": "遊軍 市川レノ",
@@ -1211,7 +1263,8 @@
         "id": "KJ8/S123-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-054": {
     "name": "人間を助ける怪獣 怪獣８号",
@@ -1233,7 +1286,8 @@
         "id": "KJ8/S123-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-055": {
     "name": "まだ死ねない 日比野カフカ",
@@ -1255,7 +1309,8 @@
         "id": "KJ8/S123-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-056": {
     "name": "強い信頼 市川レノ",
@@ -1281,7 +1336,8 @@
         "id": "KJ8/S123-056SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-057": {
     "name": "出雲テックス御曹司 出雲ハルイチ",
@@ -1303,7 +1359,8 @@
         "id": "KJ8/S123-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-058": {
     "name": "出動 日比野カフカ",
@@ -1325,7 +1382,8 @@
         "id": "KJ8/S123-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-059": {
     "name": "大怪獣の分類 怪獣８号",
@@ -1347,7 +1405,8 @@
         "id": "KJ8/S123-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-060": {
     "name": "元陸自の若手ホープ 神楽木葵",
@@ -1369,7 +1428,8 @@
         "id": "KJ8/S123-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-061": {
     "name": "例の怪獣 怪獣８号",
@@ -1391,7 +1451,8 @@
         "id": "KJ8/S123-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-062": {
     "name": "怪獣9号",
@@ -1413,7 +1474,8 @@
         "id": "KJ8/S123-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-063": {
     "name": "怪獣の力を怪獣の元に",
@@ -1435,7 +1497,8 @@
         "id": "KJ8/S123-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-064": {
     "name": "肉体を囮に核から再生",
@@ -1457,7 +1520,8 @@
         "id": "KJ8/S123-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-065": {
     "name": "命を張って守りたい仲間",
@@ -1479,7 +1543,8 @@
         "id": "KJ8/S123-065R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-066": {
     "name": "同期と高め合う日々",
@@ -1501,7 +1566,8 @@
         "id": "KJ8/S123-066R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-067": {
     "name": "この瞬間だけ俺に",
@@ -1523,7 +1589,8 @@
         "id": "KJ8/S123-067R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-068": {
     "name": "守りたい日常 亜白ミナ",
@@ -1549,7 +1616,8 @@
         "id": "KJ8/S123-068SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-069": {
     "name": "次なる戦場 亜白ミナ",
@@ -1575,7 +1643,8 @@
         "id": "KJ8/S123-069SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-070": {
     "name": "最強の証明 鳴海弦",
@@ -1601,7 +1670,8 @@
         "id": "KJ8/S123-070SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-071": {
     "name": "戦力全解放 亜白ミナ",
@@ -1627,7 +1697,8 @@
         "id": "KJ8/S123-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-072": {
     "name": "怪獣の殲滅 亜白ミナ",
@@ -1649,7 +1720,8 @@
         "id": "KJ8/S123-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-073": {
     "name": "任命式での誓い 亜白ミナ",
@@ -1671,7 +1743,8 @@
         "id": "KJ8/S123-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-074": {
     "name": "隊長の私生活 鳴海弦",
@@ -1697,7 +1770,8 @@
         "id": "KJ8/S123-074SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-075": {
     "name": "ただ一つの要求 鳴海弦",
@@ -1723,7 +1797,8 @@
         "id": "KJ8/S123-075SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-076": {
     "name": "君の力が必要だ 亜白ミナ",
@@ -1745,7 +1820,8 @@
         "id": "KJ8/S123-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-077": {
     "name": "怪獣討伐 亜白ミナ",
@@ -1767,7 +1843,8 @@
         "id": "KJ8/S123-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-078": {
     "name": "最強の男 鳴海弦",
@@ -1789,7 +1866,8 @@
         "id": "KJ8/S123-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-079": {
     "name": "第3部隊の勝利 亜白ミナ",
@@ -1811,7 +1889,8 @@
         "id": "KJ8/S123-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-080": {
     "name": "オペレーター 小此木このみ",
@@ -1833,7 +1912,8 @@
         "id": "KJ8/S123-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-081": {
     "name": "緊急招集 亜白ミナ",
@@ -1855,7 +1935,8 @@
         "id": "KJ8/S123-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-082": {
     "name": "８号の移送 亜白ミナ",
@@ -1877,7 +1958,8 @@
         "id": "KJ8/S123-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-083": {
     "name": "カフカの心 亜白ミナ",
@@ -1899,7 +1981,8 @@
         "id": "KJ8/S123-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-084": {
     "name": "最強の肩書き 鳴海弦",
@@ -1921,7 +2004,8 @@
         "id": "KJ8/S123-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-085": {
     "name": "幼き日の亜白ミナ",
@@ -1943,7 +2027,8 @@
         "id": "KJ8/S123-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-086": {
     "name": "８号逃亡 亜白ミナ",
@@ -1965,7 +2050,8 @@
         "id": "KJ8/S123-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-087": {
     "name": "夕刻の街で 亜白ミナ",
@@ -1987,7 +2073,8 @@
         "id": "KJ8/S123-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-088": {
     "name": "８号の処遇 鳴海弦",
@@ -2009,7 +2096,8 @@
         "id": "KJ8/S123-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-089": {
     "name": "圧倒的な「実力」 鳴海弦",
@@ -2031,7 +2119,8 @@
         "id": "KJ8/S123-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-090": {
     "name": "お風呂上がりの一杯 亜白ミナ",
@@ -2053,7 +2142,8 @@
         "id": "KJ8/S123-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-091": {
     "name": "皆が追う背中 亜白ミナ",
@@ -2075,7 +2165,8 @@
         "id": "KJ8/S123-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-092": {
     "name": "長谷川からの呼び出し 鳴海弦",
@@ -2097,7 +2188,8 @@
         "id": "KJ8/S123-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-093": {
     "name": "亜白ミナ専用武器 T-25101985",
@@ -2119,7 +2211,8 @@
         "id": "KJ8/S123-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-094": {
     "name": "鳴海弦専用武器 GS-3305",
@@ -2141,7 +2234,8 @@
         "id": "KJ8/S123-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-095": {
     "name": "ぜったい人に向けちゃダメなやつ",
@@ -2163,7 +2257,8 @@
         "id": "KJ8/S123-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-096": {
     "name": "亜白ミナの在り方",
@@ -2185,7 +2280,8 @@
         "id": "KJ8/S123-096R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-097": {
     "name": "これが今の私",
@@ -2207,7 +2303,8 @@
         "id": "KJ8/S123-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-098": {
     "name": "日本防衛隊の顔",
@@ -2229,7 +2326,8 @@
         "id": "KJ8/S123-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-099": {
     "name": "特等席での見学",
@@ -2251,7 +2349,8 @@
         "id": "KJ8/S123-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-100": {
     "name": "そして最強の部隊へ",
@@ -2273,7 +2372,8 @@
         "id": "KJ8/S123-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-101": {
     "name": "四ノ宮キコルという存在",
@@ -2291,7 +2391,8 @@
         "id": "KJ8/S123-101A",
         "rarity": "AGR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-102": {
     "name": "歴史に残る大怪獣!?",
@@ -2309,6 +2410,7 @@
         "id": "KJ8/S123-102A",
         "rarity": "AGR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

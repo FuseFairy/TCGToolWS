@@ -15,7 +15,8 @@
         "id": "GF/W38-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W38-P02": {
     "name": "至福の時 優木苗",
@@ -33,7 +34,8 @@
         "id": "GF/W38-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W38-P03": {
     "name": "我物申す 姫島木乃子",
@@ -51,7 +53,8 @@
         "id": "GF/W38-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W38-P04": {
     "name": "夢の一時を 村上文緒",
@@ -73,7 +76,8 @@
         "id": "GF/W38-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W38-101": {
     "name": "振袖 玉井麗巳",
@@ -91,7 +95,8 @@
         "id": "GF/W38-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W38-102": {
     "name": "笑顔の記録 望月エレナ",
@@ -109,7 +114,8 @@
         "id": "GF/W38-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W38-103": {
     "name": "浮輪危機 不知火五十鈴",
@@ -127,6 +133,7 @@
         "id": "GF/W38-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

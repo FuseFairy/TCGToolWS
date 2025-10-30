@@ -15,7 +15,8 @@
         "id": "WS/TBS-001",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WS/TBS-003": {
     "name": "平成巨乳娘 しずる",
@@ -33,7 +34,8 @@
         "id": "WS/TBS-003",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WS/TBS-002": {
     "name": "選ばれし戦士 タケシ",
@@ -51,6 +53,7 @@
         "id": "WS/TBS-002",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

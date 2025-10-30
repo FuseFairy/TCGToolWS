@@ -27,7 +27,8 @@
         "id": "Ssh/W123-069SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssh/W123-073": {
     "name": "残念な近衛騎士団の隊長 スノウ",
@@ -53,7 +54,8 @@
         "id": "Ssh/W123-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ssh/W123-082": {
     "name": "食いしん坊な戦闘用人造キメラ ロゼ",
@@ -79,7 +81,8 @@
         "id": "Ssh/W123-082SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssh/W123-088": {
     "name": "重い大司教 グリム",
@@ -101,6 +104,7 @@
         "id": "Ssh/W123-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

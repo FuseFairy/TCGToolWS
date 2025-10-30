@@ -15,7 +15,8 @@
         "id": "Foy/W65-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Foy/W65-T06": {
     "name": "織田家当主 信奈",
@@ -37,6 +38,7 @@
         "id": "Foy/W65-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

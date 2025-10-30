@@ -15,7 +15,8 @@
         "id": "DG/SE08-46",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-47": {
     "name": "プレネールさん",
@@ -33,7 +34,8 @@
         "id": "DG/SE08-47",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-48": {
     "name": "史上最弱の主人公 プリニー",
@@ -51,7 +53,8 @@
         "id": "DG/SE08-48",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-49": {
     "name": "パーソナリティ フーカ",
@@ -69,7 +72,8 @@
         "id": "DG/SE08-49",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/SE08-50": {
     "name": "“スッポンパワー”フーカ",
@@ -87,7 +91,8 @@
         "id": "DG/SE08-50",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-51": {
     "name": "仙丹で回復中 フーカ",
@@ -105,7 +110,8 @@
         "id": "DG/SE08-51",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-52": {
     "name": "夢の中でも奮闘中 フーカ",
@@ -123,7 +129,8 @@
         "id": "DG/SE08-52",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-53": {
     "name": "魔界戦記ディスガイア４×日本一RADIO",
@@ -141,6 +148,7 @@
         "id": "DG/SE08-53",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

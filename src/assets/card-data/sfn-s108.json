@@ -19,7 +19,8 @@
         "id": "SFN/S108-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-002": {
     "name": "“故郷の花” フリーレン＆ヒンメル",
@@ -41,7 +42,8 @@
         "id": "SFN/S108-002SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-003": {
     "name": "旅立ちのきっかけ ヒンメル",
@@ -63,7 +65,8 @@
         "id": "SFN/S108-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-004": {
     "name": "“勇者一行”ヒンメル",
@@ -85,7 +88,8 @@
         "id": "SFN/S108-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-005": {
     "name": "“投げキッス”フリーレン",
@@ -107,7 +111,8 @@
         "id": "SFN/S108-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-006": {
     "name": "“フランメの一番弟子”フリーレン",
@@ -129,7 +134,8 @@
         "id": "SFN/S108-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-007": {
     "name": "“生臭坊主”ハイター",
@@ -151,7 +157,8 @@
         "id": "SFN/S108-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-008": {
     "name": "“最強の戦士”アイゼン",
@@ -173,7 +180,8 @@
         "id": "SFN/S108-008SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-009": {
     "name": "旅立ちのきっかけ フリーレン",
@@ -195,7 +203,8 @@
         "id": "SFN/S108-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-010": {
     "name": "待ちぼうけ アイゼン",
@@ -217,7 +226,8 @@
         "id": "SFN/S108-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-011": {
     "name": "“勇者一行”ハイター",
@@ -239,7 +249,8 @@
         "id": "SFN/S108-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-012": {
     "name": "像を作る理由 ヒンメル",
@@ -261,7 +272,8 @@
         "id": "SFN/S108-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-013": {
     "name": "“勇者一行”フリーレン",
@@ -283,7 +295,8 @@
         "id": "SFN/S108-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-014": {
     "name": "“勇者の剣”ヒンメル",
@@ -305,7 +318,8 @@
         "id": "SFN/S108-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-015": {
     "name": "“勇者一行”アイゼン",
@@ -327,7 +341,8 @@
         "id": "SFN/S108-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-016": {
     "name": "褒めてくれる人 フリーレン",
@@ -349,7 +364,8 @@
         "id": "SFN/S108-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-017": {
     "name": "勇者一行の像",
@@ -371,7 +387,8 @@
         "id": "SFN/S108-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-018": {
     "name": "“人の心に触れる旅路”フリーレン",
@@ -393,7 +410,8 @@
         "id": "SFN/S108-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-019": {
     "name": "驚き フリーレン",
@@ -415,7 +433,8 @@
         "id": "SFN/S108-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-020": {
     "name": "“偽物の僧侶？”ハイター",
@@ -437,7 +456,8 @@
         "id": "SFN/S108-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-021": {
     "name": "銅像の錆を綺麗に取る魔法",
@@ -459,7 +479,8 @@
         "id": "SFN/S108-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-022": {
     "name": "久遠の愛情",
@@ -481,7 +502,8 @@
         "id": "SFN/S108-022OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-023": {
     "name": "たった10年の冒険",
@@ -503,7 +525,8 @@
         "id": "SFN/S108-023OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-024": {
     "name": "後悔",
@@ -525,7 +548,8 @@
         "id": "SFN/S108-024OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-025": {
     "name": "“大魔法使い”ゼーリエ",
@@ -547,7 +571,8 @@
         "id": "SFN/S108-025SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-026": {
     "name": "断頭台のアウラ",
@@ -569,7 +594,8 @@
         "id": "SFN/S108-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-027": {
     "name": "“師匠”フランメ",
@@ -591,7 +617,8 @@
         "id": "SFN/S108-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-028": {
     "name": "ユーベル",
@@ -613,7 +640,8 @@
         "id": "SFN/S108-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-029": {
     "name": "ヴィアベル",
@@ -635,7 +663,8 @@
         "id": "SFN/S108-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-030": {
     "name": "メトーデ",
@@ -657,7 +686,8 @@
         "id": "SFN/S108-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-031": {
     "name": "ラント",
@@ -679,7 +709,8 @@
         "id": "SFN/S108-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-032": {
     "name": "腐敗の賢老クヴァール",
@@ -701,7 +732,8 @@
         "id": "SFN/S108-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-033": {
     "name": "カンネ",
@@ -723,7 +755,8 @@
         "id": "SFN/S108-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-034": {
     "name": "ラヴィーネ",
@@ -745,7 +778,8 @@
         "id": "SFN/S108-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-035": {
     "name": "ミミック",
@@ -767,7 +801,8 @@
         "id": "SFN/S108-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-036": {
     "name": "デンケン",
@@ -789,7 +824,8 @@
         "id": "SFN/S108-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-037": {
     "name": "欺くための言葉 リュグナー",
@@ -811,7 +847,8 @@
         "id": "SFN/S108-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-038": {
     "name": "“模倣する魔法”リーニエ",
@@ -833,7 +870,8 @@
         "id": "SFN/S108-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-039": {
     "name": "“首切り役人”ドラート",
@@ -855,7 +893,8 @@
         "id": "SFN/S108-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-040": {
     "name": "“七崩賢”アウラ",
@@ -877,7 +916,8 @@
         "id": "SFN/S108-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-041": {
     "name": "紅鏡竜",
@@ -899,7 +939,8 @@
         "id": "SFN/S108-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-042": {
     "name": "服従させる魔法",
@@ -921,7 +962,8 @@
         "id": "SFN/S108-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-043": {
     "name": "幻影魔法",
@@ -943,7 +985,8 @@
         "id": "SFN/S108-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-044": {
     "name": "服従の天秤",
@@ -965,7 +1008,8 @@
         "id": "SFN/S108-044OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-045": {
     "name": "卑怯で最低な戦い方",
@@ -987,7 +1031,8 @@
         "id": "SFN/S108-045OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-046": {
     "name": "鏡蓮華のブレスレット フェルン",
@@ -1009,7 +1054,8 @@
         "id": "SFN/S108-046SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-047": {
     "name": "不器用な誕生日 シュタルク",
@@ -1031,7 +1077,8 @@
         "id": "SFN/S108-047SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-048": {
     "name": "社交界 フェルン",
@@ -1053,7 +1100,8 @@
         "id": "SFN/S108-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-049": {
     "name": "フェルン＆シュタルク",
@@ -1075,7 +1123,8 @@
         "id": "SFN/S108-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-050": {
     "name": "“僧侶”ザイン",
@@ -1097,7 +1146,8 @@
         "id": "SFN/S108-050SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-051": {
     "name": "“戦士”シュタルク",
@@ -1119,7 +1169,8 @@
         "id": "SFN/S108-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-052": {
     "name": "不器用な誕生日 フェルン",
@@ -1141,7 +1192,8 @@
         "id": "SFN/S108-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-053": {
     "name": "フリーレン＆フェルン＆シュタルク",
@@ -1163,7 +1215,8 @@
         "id": "SFN/S108-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-054": {
     "name": "北側諸国での日々 シュタルク",
@@ -1185,7 +1238,8 @@
         "id": "SFN/S108-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-055": {
     "name": "社交界 シュタルク",
@@ -1207,7 +1261,8 @@
         "id": "SFN/S108-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-056": {
     "name": "一番苦労するパターン シュタルク",
@@ -1229,7 +1284,8 @@
         "id": "SFN/S108-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-057": {
     "name": "新たな旅立ち ザイン",
@@ -1251,7 +1307,8 @@
         "id": "SFN/S108-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-058": {
     "name": "長い旅路 アイゼン",
@@ -1273,7 +1330,8 @@
         "id": "SFN/S108-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-059": {
     "name": "“服が透けて見える魔法”フェルン",
@@ -1295,7 +1353,8 @@
         "id": "SFN/S108-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-060": {
     "name": "アイゼンの弟子 シュタルク",
@@ -1317,7 +1376,8 @@
         "id": "SFN/S108-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-061": {
     "name": "“破戒僧”ザイン",
@@ -1339,7 +1399,8 @@
         "id": "SFN/S108-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-062": {
     "name": "僧侶の仕事 ザイン",
@@ -1361,7 +1422,8 @@
         "id": "SFN/S108-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-063": {
     "name": "こいつ、ガキなんだ… シュタルク",
@@ -1383,7 +1445,8 @@
         "id": "SFN/S108-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-064": {
     "name": "むくれるフェルン",
@@ -1405,7 +1468,8 @@
         "id": "SFN/S108-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-065": {
     "name": "誕生日プレゼント",
@@ -1431,7 +1495,8 @@
         "id": "SFN/S108-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-066": {
     "name": "失くした装飾品を探す魔法",
@@ -1453,7 +1518,8 @@
         "id": "SFN/S108-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-067": {
     "name": "若者の特権",
@@ -1475,7 +1541,8 @@
         "id": "SFN/S108-067OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-068": {
     "name": "言葉を信じて",
@@ -1497,7 +1564,8 @@
         "id": "SFN/S108-068OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-069": {
     "name": "師匠の教え",
@@ -1519,7 +1587,8 @@
         "id": "SFN/S108-069OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-070": {
     "name": "旅の途中",
@@ -1541,7 +1610,8 @@
         "id": "SFN/S108-070OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-071": {
     "name": "しっかり者の魔法使い フェルン",
@@ -1563,7 +1633,8 @@
         "id": "SFN/S108-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-072": {
     "name": "冬の装い フリーレン",
@@ -1585,7 +1656,8 @@
         "id": "SFN/S108-072SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-073": {
     "name": "“魔法使い”フェルン",
@@ -1607,7 +1679,8 @@
         "id": "SFN/S108-073SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-074": {
     "name": "一番好きな魔法 フリーレン",
@@ -1629,7 +1702,8 @@
         "id": "SFN/S108-074SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-075": {
     "name": "フェルン＆フリーレン",
@@ -1651,7 +1725,8 @@
         "id": "SFN/S108-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-076": {
     "name": "余計な買い物 フリーレン",
@@ -1673,7 +1748,8 @@
         "id": "SFN/S108-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-077": {
     "name": "北側諸国での日々 フェルン",
@@ -1695,7 +1771,8 @@
         "id": "SFN/S108-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-078": {
     "name": "年上のお姉さん フリーレン",
@@ -1717,7 +1794,8 @@
         "id": "SFN/S108-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-079": {
     "name": "新年祭 フリーレン",
@@ -1739,7 +1817,8 @@
         "id": "SFN/S108-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-080": {
     "name": "討伐依頼 フリーレン",
@@ -1761,7 +1840,8 @@
         "id": "SFN/S108-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-081": {
     "name": "大切なもの フリーレン",
@@ -1783,7 +1863,8 @@
         "id": "SFN/S108-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-082": {
     "name": "魔法と共に生きる フェルン",
@@ -1805,7 +1886,8 @@
         "id": "SFN/S108-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-083": {
     "name": "恩返し フェルン",
@@ -1827,7 +1909,8 @@
         "id": "SFN/S108-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-084": {
     "name": "勝利と弔い フリーレン",
@@ -1849,7 +1932,8 @@
         "id": "SFN/S108-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-085": {
     "name": "悩み中 フリーレン",
@@ -1871,7 +1955,8 @@
         "id": "SFN/S108-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-086": {
     "name": "冷たい視線 フェルン",
@@ -1893,7 +1978,8 @@
         "id": "SFN/S108-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-087": {
     "name": "長寿友達 フリーレン",
@@ -1915,7 +2001,8 @@
         "id": "SFN/S108-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-088": {
     "name": "関所の通行 フリーレン",
@@ -1937,7 +2024,8 @@
         "id": "SFN/S108-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-089": {
     "name": "弟子との食事 フリーレン",
@@ -1959,7 +2047,8 @@
         "id": "SFN/S108-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-090": {
     "name": "師匠との食事 フェルン",
@@ -1981,7 +2070,8 @@
         "id": "SFN/S108-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-091": {
     "name": "シュタルクへのプレゼント フリーレン",
@@ -2003,7 +2093,8 @@
         "id": "SFN/S108-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-092": {
     "name": "社交界 フリーレン",
@@ -2025,7 +2116,8 @@
         "id": "SFN/S108-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-093": {
     "name": "尾行中 フェルン",
@@ -2047,7 +2139,8 @@
         "id": "SFN/S108-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-094": {
     "name": "討伐依頼 フェルン",
@@ -2069,7 +2162,8 @@
         "id": "SFN/S108-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-095": {
     "name": "すごいこと フェルン",
@@ -2091,7 +2185,8 @@
         "id": "SFN/S108-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-096": {
     "name": "こごえるフリーレン",
@@ -2113,7 +2208,8 @@
         "id": "SFN/S108-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-097": {
     "name": "“千年以上生きた魔法使い”フリーレン",
@@ -2135,7 +2231,8 @@
         "id": "SFN/S108-097S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-098": {
     "name": "魔族の襲撃 フリーレン",
@@ -2157,7 +2254,8 @@
         "id": "SFN/S108-098S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-099": {
     "name": "お母さん役 フェルン",
@@ -2179,7 +2277,8 @@
         "id": "SFN/S108-099S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-100": {
     "name": "朝の支度 フリーレン",
@@ -2201,7 +2300,8 @@
         "id": "SFN/S108-100S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-101": {
     "name": "誕生日のお祝い フリーレン",
@@ -2223,7 +2323,8 @@
         "id": "SFN/S108-101S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-102": {
     "name": "誕生日のお祝い フェルン",
@@ -2245,7 +2346,8 @@
         "id": "SFN/S108-102S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-103": {
     "name": "手探りの距離感 フェルン",
@@ -2267,7 +2369,8 @@
         "id": "SFN/S108-103S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-104": {
     "name": "飛行魔法",
@@ -2289,7 +2392,8 @@
         "id": "SFN/S108-104S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-105": {
     "name": "花畑を出す魔法",
@@ -2311,7 +2415,8 @@
         "id": "SFN/S108-105S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-106": {
     "name": "甘い葡萄を酸っぱい葡萄に変える魔法",
@@ -2333,7 +2438,8 @@
         "id": "SFN/S108-106S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-107": {
     "name": "一般攻撃魔法",
@@ -2355,7 +2461,8 @@
         "id": "SFN/S108-107S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-108": {
     "name": "月夜の決着",
@@ -2377,7 +2484,8 @@
         "id": "SFN/S108-108OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-109": {
     "name": "勇者",
@@ -2399,7 +2507,8 @@
         "id": "SFN/S108-109OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-110": {
     "name": "一人じゃ見れなかった景色",
@@ -2421,7 +2530,8 @@
         "id": "SFN/S108-110OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-111": {
     "name": "一人前の魔法使い",
@@ -2443,6 +2553,7 @@
         "id": "SFN/S108-111OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

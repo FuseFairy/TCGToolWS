@@ -15,7 +15,8 @@
         "id": "YHN/W111-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YHN/W111-102": {
     "name": "ちびヨウ",
@@ -33,7 +34,8 @@
         "id": "YHN/W111-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YHN/W111-103": {
     "name": "ちびライラプス",
@@ -51,7 +53,8 @@
         "id": "YHN/W111-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YHN/W111-104": {
     "name": "ちびマリ",
@@ -69,7 +72,8 @@
         "id": "YHN/W111-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YHN/W111-105": {
     "name": "ちびヨハネ",
@@ -87,7 +91,8 @@
         "id": "YHN/W111-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YHN/W111-106": {
     "name": "ちびハナマル",
@@ -105,7 +110,8 @@
         "id": "YHN/W111-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YHN/W111-107": {
     "name": "ちびダイヤ",
@@ -123,7 +129,8 @@
         "id": "YHN/W111-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YHN/W111-108": {
     "name": "ちびルビィ",
@@ -141,7 +148,8 @@
         "id": "YHN/W111-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YHN/W111-109": {
     "name": "ちびリコ",
@@ -159,7 +167,8 @@
         "id": "YHN/W111-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YHN/W111-110": {
     "name": "ちびチカ",
@@ -177,7 +186,8 @@
         "id": "YHN/W111-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YHN/W111-P01": {
     "name": "変わり続ける未来 ヨハネ",
@@ -199,7 +209,8 @@
         "id": "YHN/W111-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YHN/W111-P02": {
     "name": "私にしかできないこと ヨハネ",
@@ -217,7 +228,8 @@
         "id": "YHN/W111-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YHN/W111-P03": {
     "name": "君のそばで見守る ライラプス",
@@ -235,7 +247,8 @@
         "id": "YHN/W111-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YHN/W111-P04": {
     "name": "パティシエ ハナマル",
@@ -253,7 +266,8 @@
         "id": "YHN/W111-P04",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YHN/W111-P05": {
     "name": "ヌマヅ執務長官 ダイヤ",
@@ -271,7 +285,8 @@
         "id": "YHN/W111-P05",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YHN/W111-P06": {
     "name": "新たに始まる物語 ヨハネ",
@@ -289,7 +304,8 @@
         "id": "YHN/W111-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YHN/W111-P07": {
     "name": "未来の大スター？ ヨハネ",
@@ -307,7 +323,8 @@
         "id": "YHN/W111-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YHN/W111-P08": {
     "name": "メカニック カナン",
@@ -325,7 +342,8 @@
         "id": "YHN/W111-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YHN/W111-P09": {
     "name": "妖精族の末裔 ルビィ",
@@ -343,7 +361,8 @@
         "id": "YHN/W111-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YHN/W111-P10": {
     "name": "メッセンジャー ヨウ",
@@ -361,7 +380,8 @@
         "id": "YHN/W111-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YHN/W111-P11": {
     "name": "魔王族の末裔 マリ",
@@ -379,7 +399,8 @@
         "id": "YHN/W111-P11",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YHN/W111-P12": {
     "name": "キミノタメボクノタメ",
@@ -397,7 +418,8 @@
         "id": "YHN/W111-P12",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YHN/W111-P13": {
     "name": "旅館の看板娘 チカ",
@@ -415,7 +437,8 @@
         "id": "YHN/W111-P13",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YHN/W111-P14": {
     "name": "動物学者 リコ",
@@ -433,7 +456,8 @@
         "id": "YHN/W111-P14",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YHN/W111-P15": {
     "name": "幼き日の二人 ヨハネ",
@@ -451,7 +475,8 @@
         "id": "YHN/W111-P15",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YHN/W111-P16": {
     "name": "幼き日の二人 ライラプス",
@@ -469,7 +494,8 @@
         "id": "YHN/W111-P16",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YHN/W111-P17": {
     "name": "今日を生きる。 ヨハネ",
@@ -487,7 +513,8 @@
         "id": "YHN/W111-P17",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YHN/W111-P18": {
     "name": "今日を見守る。 ライラプス",
@@ -505,6 +532,7 @@
         "id": "YHN/W111-P18",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "SHS/W98-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-P02": {
     "name": "大人な彼女 英梨々",
@@ -33,7 +34,8 @@
         "id": "SHS/W98-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-P03": {
     "name": "大人な彼女 詩羽",
@@ -51,7 +53,8 @@
         "id": "SHS/W98-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-P04": {
     "name": "ネコミミ美少女 恵",
@@ -73,7 +76,8 @@
         "id": "SHS/W98-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-P05": {
     "name": "ネコミミ美少女 英梨々",
@@ -91,7 +95,8 @@
         "id": "SHS/W98-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-P06": {
     "name": "キミとのダイアリー 恵",
@@ -113,7 +118,8 @@
         "id": "SHS/W98-P06S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-101": {
     "name": "Happy Life 英梨々",
@@ -131,7 +137,8 @@
         "id": "SHS/W98-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-102": {
     "name": "Happy Life 出海",
@@ -149,7 +156,8 @@
         "id": "SHS/W98-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-103": {
     "name": "Happy Life 恵",
@@ -167,7 +175,8 @@
         "id": "SHS/W98-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-104": {
     "name": "Happy Life 詩羽",
@@ -185,7 +194,8 @@
         "id": "SHS/W98-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-105": {
     "name": "Happy Life 美智留",
@@ -203,6 +213,7 @@
         "id": "SHS/W98-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

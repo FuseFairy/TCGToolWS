@@ -15,7 +15,8 @@
         "id": "FZ/S17-001",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-002": {
     "name": "理想の王 セイバー",
@@ -37,7 +38,8 @@
         "id": "FZ/S17-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-003": {
     "name": "信じる正義 切嗣",
@@ -59,7 +61,8 @@
         "id": "FZ/S17-003R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-004": {
     "name": "異端の流儀 切嗣",
@@ -77,7 +80,8 @@
         "id": "FZ/S17-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-005": {
     "name": "寡黙なる助手 舞弥",
@@ -95,7 +99,8 @@
         "id": "FZ/S17-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-006": {
     "name": "麗しき騎士王 セイバー",
@@ -117,7 +122,8 @@
         "id": "FZ/S17-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-007": {
     "name": "“魔力放出”セイバー",
@@ -139,7 +145,8 @@
         "id": "FZ/S17-007R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-008": {
     "name": "聖杯の器 アイリスフィール",
@@ -161,7 +168,8 @@
         "id": "FZ/S17-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-009": {
     "name": "治世の果て セイバー",
@@ -183,7 +191,8 @@
         "id": "FZ/S17-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-010": {
     "name": "ヒトとして生きた女 アイリスフィール",
@@ -201,7 +210,8 @@
         "id": "FZ/S17-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-011": {
     "name": "未来の希望 士郎",
@@ -219,7 +229,8 @@
         "id": "FZ/S17-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-012": {
     "name": "追い求めた理想 切嗣",
@@ -237,7 +248,8 @@
         "id": "FZ/S17-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-013": {
     "name": "切嗣の部品 舞弥",
@@ -255,7 +267,8 @@
         "id": "FZ/S17-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-014": {
     "name": "母と子 アイリスフィール＆イリヤ",
@@ -273,7 +286,8 @@
         "id": "FZ/S17-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-015": {
     "name": "宝具開放 セイバー",
@@ -291,7 +305,8 @@
         "id": "FZ/S17-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-016": {
     "name": "無邪気な少女 イリヤ",
@@ -309,7 +324,8 @@
         "id": "FZ/S17-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-017": {
     "name": "アイリスフィール・フォン・アインツベルン",
@@ -327,7 +343,8 @@
         "id": "FZ/S17-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-018": {
     "name": "“騎乗”のスキル セイバー",
@@ -345,7 +362,8 @@
         "id": "FZ/S17-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-019": {
     "name": "久宇 舞弥",
@@ -363,7 +381,8 @@
         "id": "FZ/S17-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-020": {
     "name": "“風王結界”セイバー",
@@ -381,7 +400,8 @@
         "id": "FZ/S17-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-021": {
     "name": "狩りの時間 切嗣",
@@ -399,7 +419,8 @@
         "id": "FZ/S17-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-022": {
     "name": "“魔術師殺し”切嗣",
@@ -417,7 +438,8 @@
         "id": "FZ/S17-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-023": {
     "name": "補助機械 舞弥",
@@ -435,7 +457,8 @@
         "id": "FZ/S17-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-024": {
     "name": "“初めての外”アイリスフィール",
@@ -453,7 +476,8 @@
         "id": "FZ/S17-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-025": {
     "name": "冬芽探し",
@@ -471,7 +495,8 @@
         "id": "FZ/S17-025",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-026": {
     "name": "爆破解体",
@@ -489,7 +514,8 @@
         "id": "FZ/S17-026",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-027": {
     "name": "アインツベルン城",
@@ -507,7 +533,8 @@
         "id": "FZ/S17-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-028": {
     "name": "決意の象徴",
@@ -525,7 +552,8 @@
         "id": "FZ/S17-028",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FZ/S17-029": {
     "name": "起源弾",
@@ -543,7 +571,8 @@
         "id": "FZ/S17-029",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-030": {
     "name": "約束された勝利の剣",
@@ -561,7 +590,8 @@
         "id": "FZ/S17-030",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FZ/S17-031": {
     "name": "ウェイバー・ベルベット",
@@ -583,7 +613,8 @@
         "id": "FZ/S17-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-032": {
     "name": "覇道の王 ライダー",
@@ -605,7 +636,8 @@
         "id": "FZ/S17-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-033": {
     "name": "ケイネス・エルメロイ・アーチボルト",
@@ -623,7 +655,8 @@
         "id": "FZ/S17-033",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-034": {
     "name": "傲岸不遜 ライダー",
@@ -645,7 +678,8 @@
         "id": "FZ/S17-034R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-035": {
     "name": "“セイバーの左手”ランサー",
@@ -667,7 +701,8 @@
         "id": "FZ/S17-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-036": {
     "name": "マケドニアの覇者 ライダー",
@@ -685,7 +720,8 @@
         "id": "FZ/S17-036",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-037": {
     "name": "魔を断つ赤槍 ランサー",
@@ -707,7 +743,8 @@
         "id": "FZ/S17-037SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-038": {
     "name": "見習い魔術師 ウェイバー",
@@ -725,7 +762,8 @@
         "id": "FZ/S17-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-039": {
     "name": "騎士の道 ランサー",
@@ -743,7 +781,8 @@
         "id": "FZ/S17-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-040": {
     "name": "雄大な王 ライダー",
@@ -761,7 +800,8 @@
         "id": "FZ/S17-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-041": {
     "name": "魅了の魔貌 ランサー",
@@ -779,7 +819,8 @@
         "id": "FZ/S17-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-042": {
     "name": "威風堂々 ライダー",
@@ -797,7 +838,8 @@
         "id": "FZ/S17-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-043": {
     "name": "ソラウ・ヌァザレ・ソフィアリ",
@@ -815,7 +857,8 @@
         "id": "FZ/S17-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-044": {
     "name": "参戦の証 ウェイバー",
@@ -833,7 +876,8 @@
         "id": "FZ/S17-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-045": {
     "name": "豪胆なる気性 ライダー",
@@ -851,7 +895,8 @@
         "id": "FZ/S17-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-046": {
     "name": "忠勇義烈 ランサー",
@@ -869,7 +914,8 @@
         "id": "FZ/S17-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-047": {
     "name": "天才魔術師 ケイネス",
@@ -887,7 +933,8 @@
         "id": "FZ/S17-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-048": {
     "name": "ウェイバー・“マッケンジー”",
@@ -905,7 +952,8 @@
         "id": "FZ/S17-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-049": {
     "name": "時計塔のエリート ケイネス",
@@ -923,7 +971,8 @@
         "id": "FZ/S17-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-050": {
     "name": "令呪",
@@ -941,7 +990,8 @@
         "id": "FZ/S17-050",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-051": {
     "name": "宝剣と魔槍",
@@ -959,7 +1009,8 @@
         "id": "FZ/S17-051",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-052": {
     "name": "王の軍勢",
@@ -977,7 +1028,8 @@
         "id": "FZ/S17-052",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-053": {
     "name": "王と臣下を結ぶ絆",
@@ -995,7 +1047,8 @@
         "id": "FZ/S17-053",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-054": {
     "name": "神威の車輪",
@@ -1013,7 +1066,8 @@
         "id": "FZ/S17-054",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FZ/S17-055": {
     "name": "破魔の紅薔薇",
@@ -1031,7 +1085,8 @@
         "id": "FZ/S17-055",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FZ/S17-056": {
     "name": "狂乱の騎士 バーサーカー",
@@ -1053,7 +1108,8 @@
         "id": "FZ/S17-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-057": {
     "name": "万象の王 アーチャー",
@@ -1075,7 +1131,8 @@
         "id": "FZ/S17-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-058": {
     "name": "気高い気位 アーチャー",
@@ -1097,7 +1154,8 @@
         "id": "FZ/S17-058R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-059": {
     "name": "血に飢えた獣 バーサーカー",
@@ -1115,7 +1173,8 @@
         "id": "FZ/S17-059",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-060": {
     "name": "至高の美酒 アーチャー",
@@ -1137,7 +1196,8 @@
         "id": "FZ/S17-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-061": {
     "name": "金色の王者 アーチャー",
@@ -1155,7 +1215,8 @@
         "id": "FZ/S17-061",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-062": {
     "name": "呪詛の具現 バーサーカー",
@@ -1173,7 +1234,8 @@
         "id": "FZ/S17-062",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-063": {
     "name": "遠坂家の当主 時臣",
@@ -1191,7 +1253,8 @@
         "id": "FZ/S17-063",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-064": {
     "name": "由緒正しき魔術師 時臣",
@@ -1209,7 +1272,8 @@
         "id": "FZ/S17-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-065": {
     "name": "王の中の王 アーチャー",
@@ -1227,7 +1291,8 @@
         "id": "FZ/S17-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-066": {
     "name": "間桐の執念 臓硯",
@@ -1245,7 +1310,8 @@
         "id": "FZ/S17-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-067": {
     "name": "蝕まれた心 桜",
@@ -1263,7 +1329,8 @@
         "id": "FZ/S17-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-068": {
     "name": "命の代償 雁夜",
@@ -1281,7 +1348,8 @@
         "id": "FZ/S17-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-069": {
     "name": "若き後継者 凛",
@@ -1299,7 +1367,8 @@
         "id": "FZ/S17-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-070": {
     "name": "黒い殺意 バーサーカー",
@@ -1317,7 +1386,8 @@
         "id": "FZ/S17-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-071": {
     "name": "人類最古の王 アーチャー",
@@ -1335,7 +1405,8 @@
         "id": "FZ/S17-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-072": {
     "name": "間桐 雁夜",
@@ -1353,7 +1424,8 @@
         "id": "FZ/S17-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-073": {
     "name": "遠き日の思い出 桜＆葵＆凛",
@@ -1371,7 +1443,8 @@
         "id": "FZ/S17-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-074": {
     "name": "唯我独尊 アーチャー",
@@ -1389,7 +1462,8 @@
         "id": "FZ/S17-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-075": {
     "name": "“高貴なるもの”アーチャー",
@@ -1407,7 +1481,8 @@
         "id": "FZ/S17-075",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-076": {
     "name": "必勝への策謀 時臣",
@@ -1425,7 +1500,8 @@
         "id": "FZ/S17-076",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-077": {
     "name": "宝石魔術 時臣",
@@ -1443,7 +1519,8 @@
         "id": "FZ/S17-077",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-078": {
     "name": "運命から逃げた男 雁夜",
@@ -1461,7 +1538,8 @@
         "id": "FZ/S17-078",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-079": {
     "name": "孤高なる王道 アーチャー",
@@ -1479,7 +1557,8 @@
         "id": "FZ/S17-079",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-080": {
     "name": "アゾット剣",
@@ -1497,7 +1576,8 @@
         "id": "FZ/S17-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-081": {
     "name": "ヴィマーナ",
@@ -1515,7 +1595,8 @@
         "id": "FZ/S17-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-082": {
     "name": "無毀なる湖光",
@@ -1533,7 +1614,8 @@
         "id": "FZ/S17-082",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-083": {
     "name": "墜ちた騎士の正体",
@@ -1551,7 +1633,8 @@
         "id": "FZ/S17-083",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-084": {
     "name": "凛との別れ",
@@ -1569,7 +1652,8 @@
         "id": "FZ/S17-084",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FZ/S17-085": {
     "name": "乖離剣エア",
@@ -1587,7 +1671,8 @@
         "id": "FZ/S17-085",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FZ/S17-086": {
     "name": "内なる虚無 綺礼",
@@ -1609,7 +1694,8 @@
         "id": "FZ/S17-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-087": {
     "name": "魂の躍動 綺礼",
@@ -1627,7 +1713,8 @@
         "id": "FZ/S17-087",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-088": {
     "name": "嗜虐の芸術家 キャスター",
@@ -1645,7 +1732,8 @@
         "id": "FZ/S17-088",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-089": {
     "name": "言峰 綺礼",
@@ -1663,7 +1751,8 @@
         "id": "FZ/S17-089",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-090": {
     "name": "死の美学 キャスター",
@@ -1681,7 +1770,8 @@
         "id": "FZ/S17-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-091": {
     "name": "受肉による現界 アーチャー",
@@ -1699,7 +1789,8 @@
         "id": "FZ/S17-091",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-092": {
     "name": "監督役 璃正",
@@ -1717,7 +1808,8 @@
         "id": "FZ/S17-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-093": {
     "name": "群にして個 アサシン",
@@ -1735,7 +1827,8 @@
         "id": "FZ/S17-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-094": {
     "name": "魔術師の弟子 綺礼",
@@ -1753,7 +1846,8 @@
         "id": "FZ/S17-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-095": {
     "name": "快楽殺人鬼 龍之介",
@@ -1771,7 +1865,8 @@
         "id": "FZ/S17-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-096": {
     "name": "信仰の護り手 綺礼",
@@ -1789,7 +1884,8 @@
         "id": "FZ/S17-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-097": {
     "name": "煉獄の炎",
@@ -1807,7 +1903,8 @@
         "id": "FZ/S17-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-098": {
     "name": "海魔",
@@ -1825,7 +1922,8 @@
         "id": "FZ/S17-098",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-099": {
     "name": "第八の契約",
@@ -1843,7 +1941,8 @@
         "id": "FZ/S17-099",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-100": {
     "name": "運命の悪戯",
@@ -1861,6 +1960,7 @@
         "id": "FZ/S17-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

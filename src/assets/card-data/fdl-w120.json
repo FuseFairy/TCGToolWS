@@ -23,7 +23,8 @@
         "id": "Fdl/W120-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fdl/W120-006": {
     "name": "戦争ごっこ 狂三",
@@ -49,7 +50,8 @@
         "id": "Fdl/W120-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdl/W120-018": {
     "name": "ちょっとエッチなアルバイト 狂三",
@@ -71,7 +73,8 @@
         "id": "Fdl/W120-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fdl/W120-031": {
     "name": "Sランクアイドルの素質 狂三",
@@ -93,7 +96,8 @@
         "id": "Fdl/W120-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fdl/W120-034": {
     "name": "凱旋と決戦と",
@@ -119,7 +123,8 @@
         "id": "Fdl/W120-034SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdl/W120-077": {
     "name": "繰り返す覚悟 狂三",
@@ -145,7 +150,8 @@
         "id": "Fdl/W120-077SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdl/W120-083": {
     "name": "夢魔の誘惑 狂三",
@@ -171,7 +177,8 @@
         "id": "Fdl/W120-083SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdl/W120-096": {
     "name": "2人のお茶会 狂三＆十香",
@@ -193,7 +200,8 @@
         "id": "Fdl/W120-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fdl/W120-097": {
     "name": "孤独の〈ゾディアック〉 六喰",
@@ -215,7 +223,8 @@
         "id": "Fdl/W120-097S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdl/W120-103": {
     "name": "3人でのデェト 天香",
@@ -237,7 +246,8 @@
         "id": "Fdl/W120-103S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fdl/W120-112": {
     "name": "デート・ア・プレイバック",
@@ -259,7 +269,8 @@
         "id": "Fdl/W120-112R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fdl/W120-116": {
     "name": "始原の〈デウス〉 澪",
@@ -285,7 +296,8 @@
         "id": "Fdl/W120-116SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fdl/W120-117": {
     "name": "戯弄の〈ウィッチ〉 七罪",
@@ -307,7 +319,8 @@
         "id": "Fdl/W120-117S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdl/W120-132": {
     "name": "真っ直ぐな気持ち 十香",
@@ -333,7 +346,8 @@
         "id": "Fdl/W120-132SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fdl/W120-139": {
     "name": "情愛の〈シスター〉 二亜",
@@ -355,7 +369,8 @@
         "id": "Fdl/W120-139S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fdl/W120-140": {
     "name": "無限の〈ニベルコル〉",
@@ -377,7 +392,8 @@
         "id": "Fdl/W120-140S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fdl/W120-148": {
     "name": "すべては愛する人のため",
@@ -399,6 +415,7 @@
         "id": "Fdl/W120-148R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

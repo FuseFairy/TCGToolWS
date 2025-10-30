@@ -23,7 +23,8 @@
         "id": "FT/S120-P01S",
         "rarity": "PR+"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-P02": {
     "name": "命を懸けた冒険 グレイ",
@@ -45,6 +46,7 @@
         "id": "FT/S120-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

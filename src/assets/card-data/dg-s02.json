@@ -19,7 +19,8 @@
         "id": "DG/S02-001R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-002": {
     "name": "堕天使フロン",
@@ -37,7 +38,8 @@
         "id": "DG/S02-002",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-003": {
     "name": "折り鶴の明日禍",
@@ -55,7 +57,8 @@
         "id": "DG/S02-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-004": {
     "name": "幼馴染ラズベリル",
@@ -77,7 +80,8 @@
         "id": "DG/S02-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-005": {
     "name": "“デビルバスター”アデル",
@@ -99,7 +103,8 @@
         "id": "DG/S02-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-006": {
     "name": "魔王マオ",
@@ -117,7 +122,8 @@
         "id": "DG/S02-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-007": {
     "name": "魔界の優等生マオ",
@@ -135,7 +141,8 @@
         "id": "DG/S02-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-008": {
     "name": "リリアンの狂子",
@@ -153,7 +160,8 @@
         "id": "DG/S02-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-009": {
     "name": "極上のサルバトーレ",
@@ -171,7 +179,8 @@
         "id": "DG/S02-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-010": {
     "name": "伝説の主席卒業生ラズベリル",
@@ -189,7 +198,8 @@
         "id": "DG/S02-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-011": {
     "name": "魔王ラハール",
@@ -207,7 +217,8 @@
         "id": "DG/S02-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-012": {
     "name": "マオ＆ラズベリル",
@@ -225,7 +236,8 @@
         "id": "DG/S02-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-013": {
     "name": "不良生屠ラズベリル",
@@ -243,7 +255,8 @@
         "id": "DG/S02-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-014": {
     "name": "セクシー悪魔志望ハナコ",
@@ -261,7 +274,8 @@
         "id": "DG/S02-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-015": {
     "name": "魔神エトナ",
@@ -279,7 +293,8 @@
         "id": "DG/S02-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-016": {
     "name": "じいや",
@@ -297,7 +312,8 @@
         "id": "DG/S02-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-017": {
     "name": "戦闘オタク アデル",
@@ -315,7 +331,8 @@
         "id": "DG/S02-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-018": {
     "name": "アデル＆ロザリー",
@@ -333,7 +350,8 @@
         "id": "DG/S02-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-019": {
     "name": "打倒！魔王神！",
@@ -351,7 +369,8 @@
         "id": "DG/S02-019",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-020": {
     "name": "最強の魔王",
@@ -369,7 +388,8 @@
         "id": "DG/S02-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-021": {
     "name": "大切な…仲間？",
@@ -387,7 +407,8 @@
         "id": "DG/S02-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-022": {
     "name": "武闘会開催！",
@@ -405,7 +426,8 @@
         "id": "DG/S02-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-023": {
     "name": "オレを信用しろ！",
@@ -423,7 +445,8 @@
         "id": "DG/S02-023",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-024": {
     "name": "さぁ、改造してやるーーー！！",
@@ -441,7 +464,8 @@
         "id": "DG/S02-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DG/S02-025": {
     "name": "そして、伝説へ……",
@@ -463,7 +487,8 @@
         "id": "DG/S02-025SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DG/S02-026": {
     "name": "無職エトナ",
@@ -485,7 +510,8 @@
         "id": "DG/S02-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-027": {
     "name": "暴君エトナ",
@@ -507,7 +533,8 @@
         "id": "DG/S02-027R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-028": {
     "name": "幼少エトナ",
@@ -525,7 +552,8 @@
         "id": "DG/S02-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-029": {
     "name": "姉御肌のプリニー",
@@ -543,7 +571,8 @@
         "id": "DG/S02-029",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-030": {
     "name": "ラハール＆エトナ",
@@ -565,7 +594,8 @@
         "id": "DG/S02-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-031": {
     "name": "超魔王バール",
@@ -583,7 +613,8 @@
         "id": "DG/S02-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-032": {
     "name": "天使見習いフロン",
@@ -601,7 +632,8 @@
         "id": "DG/S02-032",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-033": {
     "name": "平凡な僧侶",
@@ -619,7 +651,8 @@
         "id": "DG/S02-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-034": {
     "name": "おちこぼれの盗賊",
@@ -637,7 +670,8 @@
         "id": "DG/S02-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-035": {
     "name": "エトナ＆フロン",
@@ -655,7 +689,8 @@
         "id": "DG/S02-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-036": {
     "name": "“愛マニア”フロン",
@@ -673,7 +708,8 @@
         "id": "DG/S02-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-037": {
     "name": "ラハール＆フロン",
@@ -691,7 +727,8 @@
         "id": "DG/S02-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-038": {
     "name": "プリニー隊",
@@ -709,7 +746,8 @@
         "id": "DG/S02-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-039": {
     "name": "天才魔法剣士",
@@ -727,7 +765,8 @@
         "id": "DG/S02-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-040": {
     "name": "宇宙刑事ジャスティス・フロン",
@@ -745,7 +784,8 @@
         "id": "DG/S02-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-041": {
     "name": "極めて優秀な侍",
@@ -763,7 +803,8 @@
         "id": "DG/S02-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-042": {
     "name": "どうしようもないクズのアーチャー",
@@ -781,7 +822,8 @@
         "id": "DG/S02-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-043": {
     "name": "大天使ラミントン",
@@ -799,7 +841,8 @@
         "id": "DG/S02-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-044": {
     "name": "すべてはあたしのモノ",
@@ -817,7 +860,8 @@
         "id": "DG/S02-044",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-045": {
     "name": "飛天無双斬",
@@ -835,7 +879,8 @@
         "id": "DG/S02-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-046": {
     "name": "凶育委員会の陰謀",
@@ -853,7 +898,8 @@
         "id": "DG/S02-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-047": {
     "name": "弓、復活！",
@@ -871,7 +917,8 @@
         "id": "DG/S02-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-048": {
     "name": "美少女超魔王",
@@ -893,7 +940,8 @@
         "id": "DG/S02-048SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DG/S02-049": {
     "name": "悪魔にも愛を",
@@ -911,7 +959,8 @@
         "id": "DG/S02-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-050": {
     "name": "天界からの刺客",
@@ -929,7 +978,8 @@
         "id": "DG/S02-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DG/S02-051": {
     "name": "ラハール＆マオ",
@@ -951,7 +1001,8 @@
         "id": "DG/S02-051R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-052": {
     "name": "最凶の魔王ラハール",
@@ -969,7 +1020,8 @@
         "id": "DG/S02-052",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-053": {
     "name": "ビッグスター様",
@@ -987,7 +1039,8 @@
         "id": "DG/S02-053",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-054": {
     "name": "元・天使フロン",
@@ -1009,7 +1062,8 @@
         "id": "DG/S02-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-055": {
     "name": "魔王の家来エトナ",
@@ -1031,7 +1085,8 @@
         "id": "DG/S02-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-056": {
     "name": "地球勇者カーチス",
@@ -1049,7 +1104,8 @@
         "id": "DG/S02-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-057": {
     "name": "ニセラハール",
@@ -1067,7 +1123,8 @@
         "id": "DG/S02-057",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-058": {
     "name": "キザな悪魔 バイアス 中ボス",
@@ -1085,7 +1142,8 @@
         "id": "DG/S02-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-059": {
     "name": "魔界のプリンス ラハール",
@@ -1103,7 +1161,8 @@
         "id": "DG/S02-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-060": {
     "name": "“ビューティー男爵”中ボス",
@@ -1121,7 +1180,8 @@
         "id": "DG/S02-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-061": {
     "name": "超魔王ラハール",
@@ -1139,7 +1199,8 @@
         "id": "DG/S02-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-062": {
     "name": "魔王殺しエトナ",
@@ -1157,7 +1218,8 @@
         "id": "DG/S02-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-063": {
     "name": "“世界で一番強いやつ”エトナ",
@@ -1175,7 +1237,8 @@
         "id": "DG/S02-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-064": {
     "name": "優秀な赤魔法使い",
@@ -1193,7 +1256,8 @@
         "id": "DG/S02-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-065": {
     "name": "無敵ロボット サーズデイ",
@@ -1211,7 +1275,8 @@
         "id": "DG/S02-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-066": {
     "name": "地球勇者キャプテン・ゴードン",
@@ -1229,7 +1294,8 @@
         "id": "DG/S02-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-067": {
     "name": "地球勇者助手ジェニファー",
@@ -1247,7 +1313,8 @@
         "id": "DG/S02-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-068": {
     "name": "超時空美少女悪魔エトナ",
@@ -1265,7 +1332,8 @@
         "id": "DG/S02-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-069": {
     "name": "解剖実験",
@@ -1283,7 +1351,8 @@
         "id": "DG/S02-069",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-070": {
     "name": "メカジェニファー",
@@ -1301,7 +1370,8 @@
         "id": "DG/S02-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-071": {
     "name": "暗黒議会",
@@ -1319,7 +1389,8 @@
         "id": "DG/S02-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-072": {
     "name": "仲直り",
@@ -1337,7 +1408,8 @@
         "id": "DG/S02-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-073": {
     "name": "魔王ゼノン倒される！！",
@@ -1355,7 +1427,8 @@
         "id": "DG/S02-073",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-074": {
     "name": "地球の王",
@@ -1373,7 +1446,8 @@
         "id": "DG/S02-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DG/S02-075": {
     "name": "通りすがりの魔王",
@@ -1395,7 +1469,8 @@
         "id": "DG/S02-075SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DG/S02-076": {
     "name": "ラズベリル＆サファイア",
@@ -1417,7 +1492,8 @@
         "id": "DG/S02-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-077": {
     "name": "サファイア・ロードナイト",
@@ -1439,7 +1515,8 @@
         "id": "DG/S02-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-078": {
     "name": "アルマース・フォン・アルマディン・アダマント",
@@ -1457,7 +1534,8 @@
         "id": "DG/S02-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-079": {
     "name": "“ピンポンダッシュ”アクターレ",
@@ -1475,7 +1553,8 @@
         "id": "DG/S02-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-080": {
     "name": "珍妙なカエル ティンク",
@@ -1493,7 +1572,8 @@
         "id": "DG/S02-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-081": {
     "name": "殺りくマッスィーン サファイア",
@@ -1511,7 +1591,8 @@
         "id": "DG/S02-081",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-082": {
     "name": "隠密凶師チャンプル先生",
@@ -1529,7 +1610,8 @@
         "id": "DG/S02-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-083": {
     "name": "意地っ張りロザリー",
@@ -1547,7 +1629,8 @@
         "id": "DG/S02-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-084": {
     "name": "くの一 雪丸",
@@ -1565,7 +1648,8 @@
         "id": "DG/S02-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-085": {
     "name": "ロザリー＆サファイア",
@@ -1587,7 +1671,8 @@
         "id": "DG/S02-085R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-086": {
     "name": "魔王の娘ロザリー",
@@ -1605,7 +1690,8 @@
         "id": "DG/S02-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-087": {
     "name": "ごんぶとな姫様サファイア",
@@ -1623,7 +1709,8 @@
         "id": "DG/S02-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-088": {
     "name": "箱入りお嬢様ロザリンド",
@@ -1641,7 +1728,8 @@
         "id": "DG/S02-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-089": {
     "name": "ロザリーの家来タロー",
@@ -1659,7 +1747,8 @@
         "id": "DG/S02-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-090": {
     "name": "勇者アルマース",
@@ -1677,7 +1766,8 @@
         "id": "DG/S02-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-091": {
     "name": "ダークヒーロー アクターレ",
@@ -1695,7 +1785,8 @@
         "id": "DG/S02-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-092": {
     "name": "超勇者オーラム",
@@ -1713,7 +1804,8 @@
         "id": "DG/S02-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-093": {
     "name": "家諦科凶師チャンプル先生",
@@ -1731,7 +1823,8 @@
         "id": "DG/S02-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-094": {
     "name": "プリンの山",
@@ -1749,7 +1842,8 @@
         "id": "DG/S02-094",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-095": {
     "name": "携帯電話",
@@ -1767,7 +1861,8 @@
         "id": "DG/S02-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-096": {
     "name": "放送事故",
@@ -1785,7 +1880,8 @@
         "id": "DG/S02-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-097": {
     "name": "ダークヒーロー",
@@ -1803,7 +1899,8 @@
         "id": "DG/S02-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-098": {
     "name": "新婚女王",
@@ -1825,7 +1922,8 @@
         "id": "DG/S02-098SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DG/S02-099": {
     "name": "魔王召喚",
@@ -1843,7 +1941,8 @@
         "id": "DG/S02-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-100": {
     "name": "魔王アルマース",
@@ -1861,6 +1960,7 @@
         "id": "DG/S02-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

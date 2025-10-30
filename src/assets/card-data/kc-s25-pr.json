@@ -15,7 +15,8 @@
         "id": "KC/S25-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S25-P02": {
     "name": "奇跡の駆逐艦 雪風",
@@ -33,7 +34,8 @@
         "id": "KC/S25-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S25-P03": {
     "name": "幸運の駆逐艦 時雨改二",
@@ -51,7 +53,8 @@
         "id": "KC/S25-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S25-P04": {
     "name": "いざ出撃！赤城＆吹雪＆伊勢",
@@ -69,7 +72,8 @@
         "id": "KC/S25-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S25-P05": {
     "name": "いらっしゃいませ！空母ヲ級",
@@ -87,7 +91,8 @@
         "id": "KC/S25-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S25-P06": {
     "name": "いらっしゃいませ！赤城",
@@ -105,7 +110,8 @@
         "id": "KC/S25-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S25-P07": {
     "name": "白露型駆逐艦2番艦 時雨改二",
@@ -123,7 +129,8 @@
         "id": "KC/S25-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S25-P08": {
     "name": "陽炎型駆逐艦8番艦 雪風",
@@ -141,7 +148,8 @@
         "id": "KC/S25-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S25-P09": {
     "name": "暁型駆逐艦4番艦 電",
@@ -159,7 +167,8 @@
         "id": "KC/S25-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S25-P10": {
     "name": "“クマと一緒”球磨",
@@ -177,7 +186,8 @@
         "id": "KC/S25-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S25-P11": {
     "name": "“たい焼き大好き”多摩",
@@ -195,7 +205,8 @@
         "id": "KC/S25-P11",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S25-P12": {
     "name": "白露型駆逐艦3番艦 村雨改",
@@ -213,7 +224,8 @@
         "id": "KC/S25-P12",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S25-015": {
     "name": "夕雲型駆逐艦2番艦 巻雲",
@@ -231,7 +243,8 @@
         "id": "KC/S25-015P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S25-020": {
     "name": "利根型重巡1番艦 利根",
@@ -249,7 +262,8 @@
         "id": "KC/S25-020P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S25-048": {
     "name": "川内型軽巡3番艦 那珂",
@@ -267,7 +281,8 @@
         "id": "KC/S25-048P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S25-114": {
     "name": "長良型軽巡2番艦 五十鈴",
@@ -285,7 +300,8 @@
         "id": "KC/S25-114P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S25-132": {
     "name": "白露型駆逐艦4番艦 夕立改二",
@@ -303,7 +319,8 @@
         "id": "KC/S25-132P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S25-134": {
     "name": "祥鳳型軽空母2番艦 瑞鳳",
@@ -321,7 +338,8 @@
         "id": "KC/S25-134P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S25-165": {
     "name": "陸軍丙型特殊船 あきつ丸",
@@ -339,7 +357,8 @@
         "id": "KC/S25-165P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S25-166": {
     "name": "三式潜航輸送艇 まるゆ",
@@ -357,6 +376,7 @@
         "id": "KC/S25-166P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

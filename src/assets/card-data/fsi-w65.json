@@ -19,7 +19,8 @@
         "id": "Fsi/W65-042SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsi/W65-045": {
     "name": "碧陽学園生徒会長 くりむ",
@@ -41,7 +42,8 @@
         "id": "Fsi/W65-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsi/W65-047": {
     "name": "絶対神 くりむ",
@@ -63,7 +65,8 @@
         "id": "Fsi/W65-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsi/W65-050": {
     "name": "碧陽学園生徒会副会長 深夏",
@@ -85,7 +88,8 @@
         "id": "Fsi/W65-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fsi/W65-051": {
     "name": "碧陽学園生徒会書記 知弦",
@@ -107,7 +111,8 @@
         "id": "Fsi/W65-051FBR",
         "rarity": "FBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fsi/W65-053": {
     "name": "ツンデレメイド 深夏",
@@ -125,7 +130,8 @@
         "id": "Fsi/W65-053",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsi/W65-055": {
     "name": "鏡花風月 知弦",
@@ -143,7 +149,8 @@
         "id": "Fsi/W65-055",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsi/W65-057": {
     "name": "天真爛漫 くりむ",
@@ -161,7 +168,8 @@
         "id": "Fsi/W65-057",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fsi/W65-058": {
     "name": "花顔雪膚 真冬",
@@ -179,7 +187,8 @@
         "id": "Fsi/W65-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fsi/W65-061": {
     "name": "碧陽学園生徒会副会長 鍵",
@@ -197,7 +206,8 @@
         "id": "Fsi/W65-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsi/W65-063": {
     "name": "オタク少女 真冬",
@@ -215,7 +225,8 @@
         "id": "Fsi/W65-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsi/W65-066": {
     "name": "百合の香り 知弦",
@@ -233,7 +244,8 @@
         "id": "Fsi/W65-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsi/W65-067": {
     "name": "光彩陸離 深夏",
@@ -251,7 +263,8 @@
         "id": "Fsi/W65-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fsi/W65-069": {
     "name": "まどろみの中で",
@@ -273,7 +286,8 @@
         "id": "Fsi/W65-069R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsi/W65-070": {
     "name": "かけがえのない生徒会",
@@ -295,6 +309,7 @@
         "id": "Fsi/W65-070R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

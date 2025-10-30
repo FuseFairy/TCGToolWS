@@ -15,7 +15,8 @@
         "id": "KLK/S27-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-T02": {
     "name": "転校生 流子",
@@ -33,7 +34,8 @@
         "id": "KLK/S27-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-T03": {
     "name": "しゃべるセーラー服 鮮血",
@@ -51,7 +53,8 @@
         "id": "KLK/S27-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-T04": {
     "name": "鮮血との力 流子",
@@ -69,7 +72,8 @@
         "id": "KLK/S27-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-T05": {
     "name": "つながる血 流子",
@@ -87,7 +91,8 @@
         "id": "KLK/S27-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-T06": {
     "name": "謎の男 美木杉",
@@ -105,7 +110,8 @@
         "id": "KLK/S27-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-T07": {
     "name": "赤手甲",
@@ -123,7 +129,8 @@
         "id": "KLK/S27-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-T08": {
     "name": "人衣一体、神衣鮮血！",
@@ -141,7 +148,8 @@
         "id": "KLK/S27-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KLK/S27-T09": {
     "name": "生徒会四天王 犬牟田",
@@ -159,7 +167,8 @@
         "id": "KLK/S27-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-T10": {
     "name": "生徒会四天王 蛇崩",
@@ -177,7 +186,8 @@
         "id": "KLK/S27-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-T11": {
     "name": "絶対的な恐怖 皐月",
@@ -195,7 +205,8 @@
         "id": "KLK/S27-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-T12": {
     "name": "生徒会四天王 猿投山",
@@ -213,7 +224,8 @@
         "id": "KLK/S27-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-T13": {
     "name": "生徒会四天王 蟇郡",
@@ -231,7 +243,8 @@
         "id": "KLK/S27-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-T14": {
     "name": "我が行動に一点の曇り無し！",
@@ -249,7 +262,8 @@
         "id": "KLK/S27-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KLK/S27-T15": {
     "name": "人衣圧倒、神衣純潔！",
@@ -267,7 +281,8 @@
         "id": "KLK/S27-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-T16": {
     "name": "流浪の女子高生 流子",
@@ -285,7 +300,8 @@
         "id": "KLK/S27-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-T17": {
     "name": "もう一つの神衣の持ち主 皐月",
@@ -303,7 +319,8 @@
         "id": "KLK/S27-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-T18": {
     "name": "“超”ド天然少女 マコ",
@@ -321,7 +338,8 @@
         "id": "KLK/S27-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-T19": {
     "name": "“親友”流子&マコ",
@@ -339,7 +357,8 @@
         "id": "KLK/S27-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-T20": {
     "name": "支配する生徒会長 皐月",
@@ -357,6 +376,7 @@
         "id": "KLK/S27-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -19,7 +19,8 @@
         "id": "GBS/S63-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-002": {
     "name": "生粋の冒険者 妖精弓手",
@@ -41,7 +42,8 @@
         "id": "GBS/S63-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-003": {
     "name": "未知への羨望 妖精弓手",
@@ -63,7 +65,8 @@
         "id": "GBS/S63-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-004": {
     "name": "勇士を訪ねて 妖精弓手",
@@ -85,7 +88,8 @@
         "id": "GBS/S63-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-005": {
     "name": "気前良き酒豪 鉱人道士",
@@ -103,7 +107,8 @@
         "id": "GBS/S63-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-006": {
     "name": "必中の一矢 妖精弓手",
@@ -121,7 +126,8 @@
         "id": "GBS/S63-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-007": {
     "name": "連弾の石礫 鉱人道士",
@@ -139,7 +145,8 @@
         "id": "GBS/S63-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-008": {
     "name": "異端を狩る者 蜥蜴僧侶",
@@ -157,7 +164,8 @@
         "id": "GBS/S63-008",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-009": {
     "name": "臨戦態勢 蜥蜴僧侶",
@@ -175,7 +183,8 @@
         "id": "GBS/S63-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-010": {
     "name": "破裂寸前！ 妖精弓手",
@@ -193,7 +202,8 @@
         "id": "GBS/S63-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-011": {
     "name": "後方支援 妖精弓手",
@@ -211,7 +221,8 @@
         "id": "GBS/S63-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-012": {
     "name": "歴戦の観察眼 鉱人道士",
@@ -229,7 +240,8 @@
         "id": "GBS/S63-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-013": {
     "name": "抑えきれない興味 妖精弓手",
@@ -247,7 +259,8 @@
         "id": "GBS/S63-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-014": {
     "name": "授けられた奇跡 蜥蜴僧侶",
@@ -265,7 +278,8 @@
         "id": "GBS/S63-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-015": {
     "name": "精霊の酒夢 鉱人道士",
@@ -283,7 +297,8 @@
         "id": "GBS/S63-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-016": {
     "name": "効果抜群の一言 妖精弓手",
@@ -301,7 +316,8 @@
         "id": "GBS/S63-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-017": {
     "name": "念願の味覚 蜥蜴僧侶",
@@ -319,7 +335,8 @@
         "id": "GBS/S63-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-018": {
     "name": "内なる誓い 妖精弓手",
@@ -337,7 +354,8 @@
         "id": "GBS/S63-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-019": {
     "name": "最後の戦い 賢者",
@@ -355,7 +373,8 @@
         "id": "GBS/S63-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-020": {
     "name": "最後の戦い 剣聖",
@@ -373,7 +392,8 @@
         "id": "GBS/S63-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-021": {
     "name": "竜骨より出でし兵士 竜牙兵",
@@ -391,7 +411,8 @@
         "id": "GBS/S63-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-022": {
     "name": "最後の戦い 勇者",
@@ -409,7 +430,8 @@
         "id": "GBS/S63-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-023": {
     "name": "竜骨",
@@ -427,7 +449,8 @@
         "id": "GBS/S63-023",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-024": {
     "name": "サイコロ",
@@ -445,7 +468,8 @@
         "id": "GBS/S63-024",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-025": {
     "name": "冒険の色彩",
@@ -467,7 +491,8 @@
         "id": "GBS/S63-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-026": {
     "name": "弓に託した信念",
@@ -485,7 +510,8 @@
         "id": "GBS/S63-026",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-027": {
     "name": "共に歩む戦友",
@@ -507,7 +533,8 @@
         "id": "GBS/S63-027R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-028": {
     "name": "元気印の幼馴染 牛飼娘",
@@ -529,7 +556,8 @@
         "id": "GBS/S63-028SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-029": {
     "name": "緻密な戦略 ゴブリンスレイヤー",
@@ -551,7 +579,8 @@
         "id": "GBS/S63-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-030": {
     "name": "滅殺の鉄影 ゴブリンスレイヤー",
@@ -573,7 +602,8 @@
         "id": "GBS/S63-030SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-031": {
     "name": "本当の絆 ゴブリンスレイヤー",
@@ -591,7 +621,8 @@
         "id": "GBS/S63-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-032": {
     "name": "妖艶な仕草 魔女",
@@ -609,7 +640,8 @@
         "id": "GBS/S63-032",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-033": {
     "name": "魅惑の美貌 魔女",
@@ -631,7 +663,8 @@
         "id": "GBS/S63-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-034": {
     "name": "背負いし宿業 ゴブリンスレイヤー",
@@ -653,7 +686,8 @@
         "id": "GBS/S63-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-035": {
     "name": "はじける活力 牛飼娘",
@@ -675,7 +709,8 @@
         "id": "GBS/S63-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-036": {
     "name": "折れない意志 牛飼娘",
@@ -693,7 +728,8 @@
         "id": "GBS/S63-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-037": {
     "name": "ひとときの安寧 牛飼娘",
@@ -711,7 +747,8 @@
         "id": "GBS/S63-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-038": {
     "name": "定められた結末 ゴブリンスレイヤー",
@@ -729,7 +766,8 @@
         "id": "GBS/S63-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-039": {
     "name": "ちょっとした親切 魔女",
@@ -747,7 +785,8 @@
         "id": "GBS/S63-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-040": {
     "name": "煌めく凶刃 ゴブリンスレイヤー",
@@ -765,7 +804,8 @@
         "id": "GBS/S63-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-041": {
     "name": "二人の居場所 牛飼娘",
@@ -783,7 +823,8 @@
         "id": "GBS/S63-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-042": {
     "name": "大物狩り 槍使い",
@@ -801,7 +842,8 @@
         "id": "GBS/S63-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-043": {
     "name": "不変のスタンス ゴブリンスレイヤー",
@@ -819,7 +861,8 @@
         "id": "GBS/S63-043",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-044": {
     "name": "昏睡への誘い 魔女",
@@ -837,7 +880,8 @@
         "id": "GBS/S63-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-045": {
     "name": "怪しい依頼 魔女",
@@ -855,7 +899,8 @@
         "id": "GBS/S63-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-046": {
     "name": "そうか縛り ゴブリンスレイヤー",
@@ -873,7 +918,8 @@
         "id": "GBS/S63-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-047": {
     "name": "星空の下で 牛飼娘",
@@ -891,7 +937,8 @@
         "id": "GBS/S63-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-048": {
     "name": "焼尽の火矢 ゴブリンスレイヤー",
@@ -909,7 +956,8 @@
         "id": "GBS/S63-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-049": {
     "name": "銀の勇躍 ゴブリンスレイヤー",
@@ -927,7 +975,8 @@
         "id": "GBS/S63-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-050": {
     "name": "健康優良 牛飼娘",
@@ -945,7 +994,8 @@
         "id": "GBS/S63-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-051": {
     "name": "辺境最強の意地 槍使い",
@@ -963,7 +1013,8 @@
         "id": "GBS/S63-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-052": {
     "name": "《ゲート》のスクロール",
@@ -981,7 +1032,8 @@
         "id": "GBS/S63-052",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-053": {
     "name": "松明",
@@ -999,7 +1051,8 @@
         "id": "GBS/S63-053",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-054": {
     "name": "カナリア",
@@ -1017,7 +1070,8 @@
         "id": "GBS/S63-054",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-055": {
     "name": "雑嚢",
@@ -1035,7 +1089,8 @@
         "id": "GBS/S63-055",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-056": {
     "name": "Last Breath",
@@ -1057,7 +1112,8 @@
         "id": "GBS/S63-056R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-057": {
     "name": "命懸けの死闘",
@@ -1079,7 +1135,8 @@
         "id": "GBS/S63-057R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-058": {
     "name": "Brand New Morning",
@@ -1101,7 +1158,8 @@
         "id": "GBS/S63-058R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-059": {
     "name": "秘密のXXXX",
@@ -1119,7 +1177,8 @@
         "id": "GBS/S63-059",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GBS/S63-060": {
     "name": "ギルドの看板娘 受付嬢",
@@ -1141,7 +1200,8 @@
         "id": "GBS/S63-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-061": {
     "name": "優しき聖職者 女神官",
@@ -1163,7 +1223,8 @@
         "id": "GBS/S63-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-062": {
     "name": "寵愛されし大司教 剣の乙女",
@@ -1185,7 +1246,8 @@
         "id": "GBS/S63-062SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-063": {
     "name": "情熱的な恋慕 剣の乙女",
@@ -1207,7 +1269,8 @@
         "id": "GBS/S63-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-064": {
     "name": "清廉なる護り手 女神官",
@@ -1229,7 +1292,8 @@
         "id": "GBS/S63-064SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-065": {
     "name": "私だけの特別報酬 女神官",
@@ -1247,7 +1311,8 @@
         "id": "GBS/S63-065",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-066": {
     "name": "日常のときめき 受付嬢",
@@ -1269,7 +1334,8 @@
         "id": "GBS/S63-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-067": {
     "name": "あどけない笑顔 女神官",
@@ -1291,7 +1357,8 @@
         "id": "GBS/S63-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-068": {
     "name": "まっすぐな瞳 女神官",
@@ -1313,7 +1380,8 @@
         "id": "GBS/S63-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-069": {
     "name": "透き通った素肌 剣の乙女",
@@ -1331,7 +1399,8 @@
         "id": "GBS/S63-069",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-070": {
     "name": "純潔の生娘 女神官",
@@ -1353,7 +1422,8 @@
         "id": "GBS/S63-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-071": {
     "name": "必然の大団円 女神官",
@@ -1371,7 +1441,8 @@
         "id": "GBS/S63-071",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-072": {
     "name": "静謐なる佇まい 剣の乙女",
@@ -1393,7 +1464,8 @@
         "id": "GBS/S63-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-073": {
     "name": "精一杯の助力 受付嬢",
@@ -1411,7 +1483,8 @@
         "id": "GBS/S63-073",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-074": {
     "name": "秘めた本心 剣の乙女",
@@ -1429,7 +1502,8 @@
         "id": "GBS/S63-074",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-075": {
     "name": "激レアショット！ 受付嬢",
@@ -1447,7 +1521,8 @@
         "id": "GBS/S63-075",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-076": {
     "name": "水の街へようこそ 剣の乙女",
@@ -1465,7 +1540,8 @@
         "id": "GBS/S63-076",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-077": {
     "name": "未来のために 受付嬢",
@@ -1483,7 +1559,8 @@
         "id": "GBS/S63-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-078": {
     "name": "博識の理由 女神官",
@@ -1501,7 +1578,8 @@
         "id": "GBS/S63-078",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-079": {
     "name": "切なる依頼 剣の乙女",
@@ -1519,7 +1597,8 @@
         "id": "GBS/S63-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-080": {
     "name": "ふくれっ面の女神官",
@@ -1537,7 +1616,8 @@
         "id": "GBS/S63-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-081": {
     "name": "営業スマイル 受付嬢",
@@ -1555,7 +1635,8 @@
         "id": "GBS/S63-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-082": {
     "name": "いつだって一緒に 女神官",
@@ -1573,7 +1654,8 @@
         "id": "GBS/S63-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-083": {
     "name": "相談とは何か？ 女神官",
@@ -1591,7 +1673,8 @@
         "id": "GBS/S63-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-084": {
     "name": "独断の機転 女神官",
@@ -1609,7 +1692,8 @@
         "id": "GBS/S63-084",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-085": {
     "name": "恩返しの精神 見習聖女",
@@ -1627,7 +1711,8 @@
         "id": "GBS/S63-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-086": {
     "name": "とっておきの奇跡 剣の乙女",
@@ -1645,7 +1730,8 @@
         "id": "GBS/S63-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-087": {
     "name": "ささやかな心遣い 女神官",
@@ -1663,7 +1749,8 @@
         "id": "GBS/S63-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-088": {
     "name": "甘美な出逢い 女神官",
@@ -1681,7 +1768,8 @@
         "id": "GBS/S63-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-089": {
     "name": "感謝の気持ち 女神官",
@@ -1699,7 +1787,8 @@
         "id": "GBS/S63-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-090": {
     "name": "再生の朝 剣の乙女",
@@ -1717,7 +1806,8 @@
         "id": "GBS/S63-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-091": {
     "name": "真実の眼 監督官",
@@ -1735,7 +1825,8 @@
         "id": "GBS/S63-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-092": {
     "name": "図星を突かれた受付嬢",
@@ -1753,7 +1844,8 @@
         "id": "GBS/S63-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-093": {
     "name": "新たな経験 新米戦士",
@@ -1771,7 +1863,8 @@
         "id": "GBS/S63-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-094": {
     "name": "黒曜等級証",
@@ -1789,7 +1882,8 @@
         "id": "GBS/S63-094",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-095": {
     "name": "処女同衾の奇跡 《蘇生（リザレクション）》",
@@ -1807,7 +1901,8 @@
         "id": "GBS/S63-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-096": {
     "name": "揺れる乙女の肖像",
@@ -1829,7 +1924,8 @@
         "id": "GBS/S63-096R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-097": {
     "name": "大いなる加護",
@@ -1851,7 +1947,8 @@
         "id": "GBS/S63-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-098": {
     "name": "救済の道標",
@@ -1869,7 +1966,8 @@
         "id": "GBS/S63-098",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-099": {
     "name": "あいすくりんしょっく！",
@@ -1887,7 +1985,8 @@
         "id": "GBS/S63-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-100": {
     "name": "冒険者のために、あなたのために。",
@@ -1909,6 +2008,7 @@
         "id": "GBS/S63-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

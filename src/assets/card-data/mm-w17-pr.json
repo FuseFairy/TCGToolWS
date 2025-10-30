@@ -15,7 +15,8 @@
         "id": "MM/W17-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-P02": {
     "name": "運命に挑むほむら",
@@ -33,7 +34,8 @@
         "id": "MM/W17-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-P03": {
     "name": "運命に挑むさやか",
@@ -51,7 +53,8 @@
         "id": "MM/W17-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-P04": {
     "name": "運命に挑むマミ",
@@ -69,7 +72,8 @@
         "id": "MM/W17-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-P05": {
     "name": "運命に挑む杏子",
@@ -87,7 +91,8 @@
         "id": "MM/W17-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-P06": {
     "name": "水着のマミ",
@@ -105,7 +110,8 @@
         "id": "MM/W17-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-P07": {
     "name": "希望と諦念 ほむら",
@@ -123,7 +129,8 @@
         "id": "MM/W17-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-106": {
     "name": "ちびマミ",
@@ -141,7 +148,8 @@
         "id": "MM/W17-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-107": {
     "name": "ちびまどか",
@@ -159,7 +167,8 @@
         "id": "MM/W17-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-108": {
     "name": "ちびほむら",
@@ -177,7 +186,8 @@
         "id": "MM/W17-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-109": {
     "name": "ちび杏子",
@@ -195,7 +205,8 @@
         "id": "MM/W17-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-110": {
     "name": "ちびさやか",
@@ -213,6 +224,7 @@
         "id": "MM/W17-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

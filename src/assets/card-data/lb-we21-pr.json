@@ -15,7 +15,8 @@
         "id": "LB/WE21-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE21-P02": {
     "name": "ねばー・ぎぶあっぷ クド",
@@ -33,7 +34,8 @@
         "id": "LB/WE21-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE21-P03": {
     "name": "あめのちはれ 恭介＆鈴",
@@ -55,6 +57,7 @@
         "id": "LB/WE21-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

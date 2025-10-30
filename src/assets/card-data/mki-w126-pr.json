@@ -15,7 +15,8 @@
         "id": "MKI/W126-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-P02": {
     "name": "真夏の太陽を浴びて 檸檬",
@@ -41,7 +42,8 @@
         "id": "MKI/W126-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-P03": {
     "name": "友達、改め振られ仲間 杏菜",
@@ -63,7 +65,8 @@
         "id": "MKI/W126-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-P04": {
     "name": "その瞳に映るのは 知花",
@@ -81,6 +84,7 @@
         "id": "MKI/W126-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

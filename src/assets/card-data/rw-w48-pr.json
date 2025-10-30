@@ -15,7 +15,8 @@
         "id": "RW/W48-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W48-P02": {
     "name": "“篝”火を負って 瑚太朗",
@@ -33,7 +34,8 @@
         "id": "RW/W48-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W48-P03": {
     "name": "“オカ研会長”朱音",
@@ -51,7 +53,8 @@
         "id": "RW/W48-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W48-P04": {
     "name": "“沈痛な面持ち”ちはや",
@@ -69,7 +72,8 @@
         "id": "RW/W48-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W48-P05": {
     "name": "“風祭学院高校”ルチア＆静流",
@@ -87,7 +91,8 @@
         "id": "RW/W48-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W48-P06": {
     "name": "終わる世界",
@@ -105,7 +110,8 @@
         "id": "RW/W48-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W48-101": {
     "name": "“風祭学院高校”ちはや",
@@ -123,7 +129,8 @@
         "id": "RW/W48-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W48-102": {
     "name": "“風祭学院高校”小鳥",
@@ -141,7 +148,8 @@
         "id": "RW/W48-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W48-103": {
     "name": "“風祭学院高校”ルチア",
@@ -159,7 +167,8 @@
         "id": "RW/W48-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W48-104": {
     "name": "“風祭学院高校”朱音",
@@ -177,7 +186,8 @@
         "id": "RW/W48-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W48-105": {
     "name": "“風祭学院高校”静流",
@@ -195,7 +205,8 @@
         "id": "RW/W48-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W48-106": {
     "name": "“謎の少女”篝",
@@ -213,6 +224,7 @@
         "id": "RW/W48-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

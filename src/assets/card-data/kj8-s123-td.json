@@ -19,7 +19,8 @@
         "id": "KJ8/S123-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-T02": {
     "name": "第3部隊隊長 亜白ミナ",
@@ -41,7 +42,8 @@
         "id": "KJ8/S123-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-T03": {
     "name": "選別試験 亜白ミナ",
@@ -63,7 +65,8 @@
         "id": "KJ8/S123-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-T04": {
     "name": "８号の行方 亜白ミナ",
@@ -85,7 +88,8 @@
         "id": "KJ8/S123-T04R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-T05": {
     "name": "新世代の逸材 四ノ宮キコル",
@@ -111,7 +115,8 @@
         "id": "KJ8/S123-T05SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-T06": {
     "name": "選別試験 保科宗四郎",
@@ -133,7 +138,8 @@
         "id": "KJ8/S123-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-T07": {
     "name": "プライベートスーツ 四ノ宮キコル",
@@ -155,7 +161,8 @@
         "id": "KJ8/S123-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-T08": {
     "name": "四ノ宮キコルという存在",
@@ -177,7 +184,8 @@
         "id": "KJ8/S123-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-T09": {
     "name": "戦場に変わる相模原",
@@ -199,7 +207,8 @@
         "id": "KJ8/S123-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KJ8/S123-T10": {
     "name": "きっと俺は 市川レノ",
@@ -221,7 +230,8 @@
         "id": "KJ8/S123-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-T11": {
     "name": "絶体絶命 日比野カフカ",
@@ -243,7 +253,8 @@
         "id": "KJ8/S123-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-T12": {
     "name": "仲間を想う 市川レノ",
@@ -265,7 +276,8 @@
         "id": "KJ8/S123-T12R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-T13": {
     "name": "モンスタースイーパー 日比野カフカ",
@@ -287,7 +299,8 @@
         "id": "KJ8/S123-T13R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-T14": {
     "name": "一次試験合格 市川レノ",
@@ -309,7 +322,8 @@
         "id": "KJ8/S123-T14R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-T15": {
     "name": "作戦開始 市川レノ",
@@ -331,7 +345,8 @@
         "id": "KJ8/S123-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-T16": {
     "name": "自らの選択 怪獣８号",
@@ -353,7 +368,8 @@
         "id": "KJ8/S123-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-T17": {
     "name": "気合十分 日比野カフカ",
@@ -375,7 +391,8 @@
         "id": "KJ8/S123-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-T18": {
     "name": "コードネーム 怪獣８号",
@@ -401,7 +418,8 @@
         "id": "KJ8/S123-T18SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-T19": {
     "name": "日の当たらない怪獣との戦い",
@@ -423,7 +441,8 @@
         "id": "KJ8/S123-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-T20": {
     "name": "歴史に残る大怪獣!?",
@@ -445,6 +464,7 @@
         "id": "KJ8/S123-T20R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

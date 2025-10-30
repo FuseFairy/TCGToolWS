@@ -15,7 +15,8 @@
         "id": "CCS/W66-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-P02": {
     "name": "“この瞬間を”木之本桜",
@@ -33,7 +34,8 @@
         "id": "CCS/W66-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-P03": {
     "name": "“新しい季節”木之本桜",
@@ -51,7 +53,8 @@
         "id": "CCS/W66-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-P04": {
     "name": "“いぢわるばっかり”木之本桜",
@@ -69,7 +72,8 @@
         "id": "CCS/W66-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-101": {
     "name": "“迷宮の中”桜＆ケロちゃん",
@@ -87,7 +91,8 @@
         "id": "CCS/W66-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-102": {
     "name": "“レインコート”木之本桜",
@@ -105,7 +110,8 @@
         "id": "CCS/W66-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-103": {
     "name": "“なかよしのふたり”桜＆小狼",
@@ -123,7 +129,8 @@
         "id": "CCS/W66-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-104": {
     "name": "“いっしょにお出かけ”桜＆知世",
@@ -141,7 +148,8 @@
         "id": "CCS/W66-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-105": {
     "name": "“大事なお友達”桜＆秋穂",
@@ -159,6 +167,7 @@
         "id": "CCS/W66-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

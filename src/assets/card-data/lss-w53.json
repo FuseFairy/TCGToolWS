@@ -23,7 +23,8 @@
         "id": "LSS/W53-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-002": {
     "name": "“未来の僕らは知ってるよ”津島 善子",
@@ -49,7 +50,8 @@
         "id": "LSS/W53-002SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-003": {
     "name": "“未来の僕らは知ってるよ”黒澤 ルビィ",
@@ -75,7 +77,8 @@
         "id": "LSS/W53-003SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-004": {
     "name": "“私たちの輝き”津島 善子",
@@ -97,7 +100,8 @@
         "id": "LSS/W53-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-005": {
     "name": "“WONDERFUL STORIES”ルビィ＆花丸＆善子",
@@ -115,7 +119,8 @@
         "id": "LSS/W53-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-006": {
     "name": "“私たちの輝き”黒澤 ルビィ",
@@ -137,7 +142,8 @@
         "id": "LSS/W53-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-007": {
     "name": "“WATER BLUE NEW WORLD”国木田 花丸",
@@ -155,7 +161,8 @@
         "id": "LSS/W53-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-008": {
     "name": "“MY舞☆TONIGHT”黒澤 ルビィ",
@@ -173,7 +180,8 @@
         "id": "LSS/W53-008",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-009": {
     "name": "“MY舞☆TONIGHT”津島 善子",
@@ -191,7 +199,8 @@
         "id": "LSS/W53-009",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-010": {
     "name": "“私たちの輝き”国木田 花丸",
@@ -213,7 +222,8 @@
         "id": "LSS/W53-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-011": {
     "name": "“MY舞☆TONIGHT”国木田 花丸",
@@ -231,7 +241,8 @@
         "id": "LSS/W53-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-012": {
     "name": "気持ちの確認 国木田 花丸",
@@ -249,7 +260,8 @@
         "id": "LSS/W53-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-013": {
     "name": "雨上がりの再会 あんこ",
@@ -267,7 +279,8 @@
         "id": "LSS/W53-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-014": {
     "name": "“WATER BLUE NEW WORLD”黒澤 ルビィ",
@@ -285,7 +298,8 @@
         "id": "LSS/W53-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-015": {
     "name": "“WATER BLUE NEW WORLD”津島 善子",
@@ -303,7 +317,8 @@
         "id": "LSS/W53-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-016": {
     "name": "お姉ちゃんへ送る曲 黒澤 ルビィ",
@@ -321,7 +336,8 @@
         "id": "LSS/W53-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-017": {
     "name": "パジャマ姿 津島 善子",
@@ -339,7 +355,8 @@
         "id": "LSS/W53-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-018": {
     "name": "インドア派 津島 善子",
@@ -357,7 +374,8 @@
         "id": "LSS/W53-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-019": {
     "name": "勇気を出して 黒澤 ルビィ",
@@ -375,7 +393,8 @@
         "id": "LSS/W53-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-020": {
     "name": "興味津々 黒澤 ルビィ",
@@ -393,7 +412,8 @@
         "id": "LSS/W53-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-021": {
     "name": "安心のヘアセット 国木田 花丸",
@@ -411,7 +431,8 @@
         "id": "LSS/W53-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-022": {
     "name": "犬の名前 津島 善子",
@@ -429,7 +450,8 @@
         "id": "LSS/W53-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-023": {
     "name": "複雑な心境 黒澤 ルビィ",
@@ -447,7 +469,8 @@
         "id": "LSS/W53-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-024": {
     "name": "インドア派 国木田 花丸",
@@ -465,7 +488,8 @@
         "id": "LSS/W53-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-025": {
     "name": "吹雪への抗い 津島 善子",
@@ -483,7 +507,8 @@
         "id": "LSS/W53-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-026": {
     "name": "ポーズ確認 国木田 花丸",
@@ -501,7 +526,8 @@
         "id": "LSS/W53-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-027": {
     "name": "未来の食べ物",
@@ -519,7 +545,8 @@
         "id": "LSS/W53-027",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-028": {
     "name": "栄光の一番",
@@ -537,7 +564,8 @@
         "id": "LSS/W53-028",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-029": {
     "name": "お姉ちゃんからもらったもの",
@@ -555,7 +583,8 @@
         "id": "LSS/W53-029",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-030": {
     "name": "雨の音",
@@ -577,7 +606,8 @@
         "id": "LSS/W53-030R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-031": {
     "name": "絶対の契約",
@@ -599,7 +629,8 @@
         "id": "LSS/W53-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-032": {
     "name": "ルビィの必殺技",
@@ -617,7 +648,8 @@
         "id": "LSS/W53-032",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LSS/W53-033": {
     "name": "見えない力",
@@ -639,7 +671,8 @@
         "id": "LSS/W53-033R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-034": {
     "name": "“未来の僕らは知ってるよ”桜内 梨子",
@@ -665,7 +698,8 @@
         "id": "LSS/W53-034SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-035": {
     "name": "“未来の僕らは知ってるよ”渡辺 曜",
@@ -691,7 +725,8 @@
         "id": "LSS/W53-035SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-036": {
     "name": "“未来の僕らは知ってるよ”高海 千歌",
@@ -717,7 +752,8 @@
         "id": "LSS/W53-036SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-037": {
     "name": "“MY舞☆TONIGHT”高海 千歌",
@@ -739,7 +775,8 @@
         "id": "LSS/W53-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-038": {
     "name": "“MY舞☆TONIGHT”桜内 梨子",
@@ -757,7 +794,8 @@
         "id": "LSS/W53-038",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-039": {
     "name": "“WONDERFUL STORIES”梨子＆千歌＆曜",
@@ -775,7 +813,8 @@
         "id": "LSS/W53-039",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-040": {
     "name": "“私たちの輝き”高海 千歌",
@@ -797,7 +836,8 @@
         "id": "LSS/W53-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-041": {
     "name": "“WATER BLUE NEW WORLD”桜内 梨子",
@@ -815,7 +855,8 @@
         "id": "LSS/W53-041",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-042": {
     "name": "“MY舞☆TONIGHT”渡辺 曜",
@@ -833,7 +874,8 @@
         "id": "LSS/W53-042",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-043": {
     "name": "“WATER BLUE NEW WORLD”高海 千歌",
@@ -851,7 +893,8 @@
         "id": "LSS/W53-043",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-044": {
     "name": "“私たちの輝き”渡辺 曜",
@@ -873,7 +916,8 @@
         "id": "LSS/W53-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-045": {
     "name": "“私たちの輝き”桜内 梨子",
@@ -895,7 +939,8 @@
         "id": "LSS/W53-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-046": {
     "name": "“WATER BLUE NEW WORLD”渡辺 曜",
@@ -913,7 +958,8 @@
         "id": "LSS/W53-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-047": {
     "name": "ゼロからの軌跡 高海 千歌",
@@ -931,7 +977,8 @@
         "id": "LSS/W53-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-048": {
     "name": "妹への注意 高海 美渡",
@@ -949,7 +996,8 @@
         "id": "LSS/W53-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-049": {
     "name": "書き初め 高海 千歌",
@@ -967,7 +1015,8 @@
         "id": "LSS/W53-049",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-050": {
     "name": "閉校祭での手売り 高海 志満",
@@ -985,7 +1034,8 @@
         "id": "LSS/W53-050",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-051": {
     "name": "変わり身 しいたけ",
@@ -1003,7 +1053,8 @@
         "id": "LSS/W53-051",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-052": {
     "name": "安堵の表情 桜内 梨子",
@@ -1021,7 +1072,8 @@
         "id": "LSS/W53-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-053": {
     "name": "思い出の校舎 渡辺 曜",
@@ -1039,7 +1091,8 @@
         "id": "LSS/W53-053",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-054": {
     "name": "和風メイド 桜内 梨子",
@@ -1057,7 +1110,8 @@
         "id": "LSS/W53-054",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-055": {
     "name": "善子の影響 桜内 梨子",
@@ -1075,7 +1129,8 @@
         "id": "LSS/W53-055",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-056": {
     "name": "次なる目標 高海 千歌",
@@ -1093,7 +1148,8 @@
         "id": "LSS/W53-056",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-057": {
     "name": "いつもと変わらない朝 渡辺 曜",
@@ -1111,7 +1167,8 @@
         "id": "LSS/W53-057",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-058": {
     "name": "いつもの私たち 渡辺 曜",
@@ -1129,7 +1186,8 @@
         "id": "LSS/W53-058",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-059": {
     "name": "Aqoursへの期待 渡辺 曜",
@@ -1147,7 +1205,8 @@
         "id": "LSS/W53-059",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-060": {
     "name": "和風メイド 高海 千歌",
@@ -1165,7 +1224,8 @@
         "id": "LSS/W53-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-061": {
     "name": "突然の遭遇 桜内 梨子",
@@ -1183,7 +1243,8 @@
         "id": "LSS/W53-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-062": {
     "name": "残された時間",
@@ -1201,7 +1262,8 @@
         "id": "LSS/W53-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-063": {
     "name": "理想の移動方法",
@@ -1219,7 +1281,8 @@
         "id": "LSS/W53-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-064": {
     "name": "奇跡の大躍進",
@@ -1237,7 +1300,8 @@
         "id": "LSS/W53-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-065": {
     "name": "その輝きは",
@@ -1259,7 +1323,8 @@
         "id": "LSS/W53-065R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LSS/W53-066": {
     "name": "みんなと挑むステージ",
@@ -1281,7 +1346,8 @@
         "id": "LSS/W53-066R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-067": {
     "name": "自分の選んだ道",
@@ -1303,7 +1369,8 @@
         "id": "LSS/W53-067R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-068": {
     "name": "言っておきたいこと",
@@ -1325,7 +1392,8 @@
         "id": "LSS/W53-068R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-069": {
     "name": "“未来の僕らは知ってるよ”松浦 果南",
@@ -1351,7 +1419,8 @@
         "id": "LSS/W53-069SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-070": {
     "name": "“未来の僕らは知ってるよ”黒澤 ダイヤ",
@@ -1377,7 +1446,8 @@
         "id": "LSS/W53-070SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-071": {
     "name": "“未来の僕らは知ってるよ”小原 鞠莉",
@@ -1403,7 +1473,8 @@
         "id": "LSS/W53-071SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-072": {
     "name": "“WATER BLUE NEW WORLD”小原 鞠莉",
@@ -1421,7 +1492,8 @@
         "id": "LSS/W53-072",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-073": {
     "name": "“WONDERFUL STORIES”ダイヤ＆果南＆鞠莉",
@@ -1439,7 +1511,8 @@
         "id": "LSS/W53-073",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-074": {
     "name": "“MY舞☆TONIGHT”黒澤 ダイヤ",
@@ -1457,7 +1530,8 @@
         "id": "LSS/W53-074",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-075": {
     "name": "“私たちの輝き”小原 鞠莉",
@@ -1479,7 +1553,8 @@
         "id": "LSS/W53-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-076": {
     "name": "“私たちの輝き”松浦 果南",
@@ -1501,7 +1576,8 @@
         "id": "LSS/W53-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-077": {
     "name": "“私たちの輝き”黒澤 ダイヤ",
@@ -1523,7 +1599,8 @@
         "id": "LSS/W53-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-078": {
     "name": "“MY舞☆TONIGHT”松浦 果南",
@@ -1541,7 +1618,8 @@
         "id": "LSS/W53-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-079": {
     "name": "“WATER BLUE NEW WORLD”黒澤 ダイヤ",
@@ -1559,7 +1637,8 @@
         "id": "LSS/W53-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-080": {
     "name": "妹への想い 黒澤 ダイヤ",
@@ -1577,7 +1656,8 @@
         "id": "LSS/W53-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-081": {
     "name": "斬新でハッピーな曲 小原 鞠莉",
@@ -1595,7 +1675,8 @@
         "id": "LSS/W53-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-082": {
     "name": "音の正体 松浦 果南",
@@ -1613,7 +1694,8 @@
         "id": "LSS/W53-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-083": {
     "name": "“WATER BLUE NEW WORLD”松浦 果南",
@@ -1631,7 +1713,8 @@
         "id": "LSS/W53-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-084": {
     "name": "“MY舞☆TONIGHT”小原 鞠莉",
@@ -1649,7 +1732,8 @@
         "id": "LSS/W53-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-085": {
     "name": "閉校祭の準備 黒澤 ダイヤ",
@@ -1667,7 +1751,8 @@
         "id": "LSS/W53-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-086": {
     "name": "満天の星空 松浦 果南",
@@ -1685,7 +1770,8 @@
         "id": "LSS/W53-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-087": {
     "name": "閉校祭の準備 小原 鞠莉",
@@ -1703,7 +1789,8 @@
         "id": "LSS/W53-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-088": {
     "name": "挑戦の見守り 松浦 果南",
@@ -1721,7 +1808,8 @@
         "id": "LSS/W53-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-089": {
     "name": "全力投球！ 小原 鞠莉",
@@ -1739,7 +1827,8 @@
         "id": "LSS/W53-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-090": {
     "name": "新学期の始まり 小原 鞠莉",
@@ -1757,7 +1846,8 @@
         "id": "LSS/W53-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-091": {
     "name": "“ダイヤちゃん”を求めて 黒澤 ダイヤ",
@@ -1775,7 +1865,8 @@
         "id": "LSS/W53-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-092": {
     "name": "気配り上手 松浦 果南",
@@ -1793,7 +1884,8 @@
         "id": "LSS/W53-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-093": {
     "name": "予想外の優勝者 黒澤 ダイヤ",
@@ -1811,7 +1903,8 @@
         "id": "LSS/W53-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-094": {
     "name": "シャイ煮プレミアム",
@@ -1829,7 +1922,8 @@
         "id": "LSS/W53-094",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-095": {
     "name": "Aqours ダンスフォーメーション アイディアノート",
@@ -1847,7 +1941,8 @@
         "id": "LSS/W53-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-096": {
     "name": "少しの我慢",
@@ -1865,7 +1960,8 @@
         "id": "LSS/W53-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-097": {
     "name": "ずっと一緒に",
@@ -1887,7 +1983,8 @@
         "id": "LSS/W53-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W53-098": {
     "name": "繋がっている3人",
@@ -1909,7 +2006,8 @@
         "id": "LSS/W53-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LSS/W53-099": {
     "name": "分かりやすいしぐさ",
@@ -1931,7 +2029,8 @@
         "id": "LSS/W53-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W53-100": {
     "name": "曲作りの競争",
@@ -1949,6 +2048,7 @@
         "id": "LSS/W53-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

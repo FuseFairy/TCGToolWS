@@ -15,7 +15,8 @@
         "id": "PI/SE18-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE18-02": {
     "name": "“轟風弾五連”凛",
@@ -33,7 +34,8 @@
         "id": "PI/SE18-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE18-03": {
     "name": "カレイドルビー 凛",
@@ -51,7 +53,8 @@
         "id": "PI/SE18-03",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE18-04": {
     "name": "元マスター 凛",
@@ -69,7 +72,8 @@
         "id": "PI/SE18-04",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE18-05": {
     "name": "元マスター ルヴィア",
@@ -87,7 +91,8 @@
         "id": "PI/SE18-05",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE18-06": {
     "name": "高飛車なお嬢様 ルヴィア",
@@ -105,7 +110,8 @@
         "id": "PI/SE18-06",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE18-07": {
     "name": "カレイドサファイア ルヴィア",
@@ -123,7 +129,8 @@
         "id": "PI/SE18-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE18-08": {
     "name": "時計塔の首席候補 凛",
@@ -141,7 +148,8 @@
         "id": "PI/SE18-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE18-09": {
     "name": "普通の女の子 イリヤ",
@@ -159,7 +167,8 @@
         "id": "PI/SE18-09",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE18-10": {
     "name": "カレイドの魔法少女 イリヤ",
@@ -177,7 +186,8 @@
         "id": "PI/SE18-10",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE18-11": {
     "name": "完璧超人？ 美遊",
@@ -195,7 +205,8 @@
         "id": "PI/SE18-11",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE18-12": {
     "name": "メイド服の美遊",
@@ -213,7 +224,8 @@
         "id": "PI/SE18-12",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE18-13": {
     "name": "夢見がちな少女 イリヤ",
@@ -231,7 +243,8 @@
         "id": "PI/SE18-13",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE18-14": {
     "name": "“ママ”アイリスフィール",
@@ -249,7 +262,8 @@
         "id": "PI/SE18-14",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE18-15": {
     "name": "夜の終わりに イリヤ",
@@ -267,7 +281,8 @@
         "id": "PI/SE18-15",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE18-16": {
     "name": "現実的な美遊",
@@ -285,7 +300,8 @@
         "id": "PI/SE18-16",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE18-17": {
     "name": "“Kaleidoscope”イリヤ",
@@ -307,7 +323,8 @@
         "id": "PI/SE18-17SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE18-18": {
     "name": "“Kaleidoscope”美遊",
@@ -329,7 +346,8 @@
         "id": "PI/SE18-18SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE18-19": {
     "name": "魔法の練習 イリヤ",
@@ -347,7 +365,8 @@
         "id": "PI/SE18-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE18-20": {
     "name": "マジカルサファイア",
@@ -365,7 +384,8 @@
         "id": "PI/SE18-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE18-21": {
     "name": "カレイドの魔法少女 美遊",
@@ -383,7 +403,8 @@
         "id": "PI/SE18-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE18-22": {
     "name": "アインツベルン家 セラ＆リズ",
@@ -401,7 +422,8 @@
         "id": "PI/SE18-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE18-23": {
     "name": "“約束する”イリヤ",
@@ -419,7 +441,8 @@
         "id": "PI/SE18-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE18-24": {
     "name": "突然の転校生 美遊",
@@ -437,7 +460,8 @@
         "id": "PI/SE18-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE18-25": {
     "name": "私服の美遊",
@@ -455,7 +479,8 @@
         "id": "PI/SE18-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE18-26": {
     "name": "マジカルルビー",
@@ -473,7 +498,8 @@
         "id": "PI/SE18-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE18-27": {
     "name": "“信じる”美遊",
@@ -491,7 +517,8 @@
         "id": "PI/SE18-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE18-28": {
     "name": "導かれた運命 イリヤ",
@@ -509,7 +536,8 @@
         "id": "PI/SE18-28",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE18-29": {
     "name": "パジャマのイリヤ",
@@ -527,7 +555,8 @@
         "id": "PI/SE18-29",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE18-30": {
     "name": "デレデレ美遊",
@@ -545,7 +574,8 @@
         "id": "PI/SE18-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE18-31": {
     "name": "もう一人の魔法少女 美遊",
@@ -563,7 +593,8 @@
         "id": "PI/SE18-31",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE18-32": {
     "name": "“友達”イリヤ＆美遊",
@@ -581,7 +612,8 @@
         "id": "PI/SE18-32",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE18-33": {
     "name": "誕生！魔法少女！",
@@ -599,7 +631,8 @@
         "id": "PI/SE18-33",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PI/SE18-34": {
     "name": "クラスカード アーチャー",
@@ -617,7 +650,8 @@
         "id": "PI/SE18-34",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PI/SE18-35": {
     "name": "クラスカード ランサー",
@@ -635,7 +669,8 @@
         "id": "PI/SE18-35",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE18-36": {
     "name": "クラスカード セイバー",
@@ -653,6 +688,7 @@
         "id": "PI/SE18-36",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

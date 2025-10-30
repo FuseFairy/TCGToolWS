@@ -15,7 +15,8 @@
         "id": "YYS/W61-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YYS/W61-T02": {
     "name": "霊光の拳 コガラシ",
@@ -33,7 +34,8 @@
         "id": "YYS/W61-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YYS/W61-T03": {
     "name": "ゆらぎ荘の地縛霊 幽奈",
@@ -59,7 +61,8 @@
         "id": "YYS/W61-T03SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YYS/W61-T04": {
     "name": "ゆらぎ荘の新居者 コガラシ",
@@ -77,7 +80,8 @@
         "id": "YYS/W61-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YYS/W61-T05": {
     "name": "まったり入浴中 幽奈",
@@ -99,7 +103,8 @@
         "id": "YYS/W61-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YYS/W61-T06": {
     "name": "俺たちの204号室 コガラシ",
@@ -117,7 +122,8 @@
         "id": "YYS/W61-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YYS/W61-T07": {
     "name": "だめっ娘幽霊 幽奈",
@@ -135,7 +141,8 @@
         "id": "YYS/W61-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YYS/W61-T08": {
     "name": "風呂桶タイフーン！",
@@ -153,7 +160,8 @@
         "id": "YYS/W61-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YYS/W61-T09": {
     "name": "ゆらぎ荘へようこそ！",
@@ -175,7 +183,8 @@
         "id": "YYS/W61-T09S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YYS/W61-T10": {
     "name": "はじまりの誓い",
@@ -193,7 +202,8 @@
         "id": "YYS/W61-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "YYS/W61-T11": {
     "name": "幸運の女神？ ちとせ",
@@ -211,7 +221,8 @@
         "id": "YYS/W61-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YYS/W61-T12": {
     "name": "ゆらぎ荘のへべれけさん 呑子",
@@ -229,7 +240,8 @@
         "id": "YYS/W61-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YYS/W61-T13": {
     "name": "多重影分身の術 狭霧",
@@ -247,7 +259,8 @@
         "id": "YYS/W61-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YYS/W61-T14": {
     "name": "ゆらぎ荘の猫娘 夜々",
@@ -265,7 +278,8 @@
         "id": "YYS/W61-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YYS/W61-T15": {
     "name": "触るにゃ危険！ 夜々",
@@ -283,7 +297,8 @@
         "id": "YYS/W61-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YYS/W61-T16": {
     "name": "パンチアウト 呑子",
@@ -301,7 +316,8 @@
         "id": "YYS/W61-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YYS/W61-T17": {
     "name": "ゆらぎ荘の仲居さん ちとせ",
@@ -319,7 +335,8 @@
         "id": "YYS/W61-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YYS/W61-T18": {
     "name": "凛々しき忍 狭霧",
@@ -337,7 +354,8 @@
         "id": "YYS/W61-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YYS/W61-T19": {
     "name": "ゆらぎ荘の風紀委員 狭霧",
@@ -359,7 +377,8 @@
         "id": "YYS/W61-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YYS/W61-T20": {
     "name": "雨野流誅魔忍術奥義 叢時雨",
@@ -377,6 +396,7 @@
         "id": "YYS/W61-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

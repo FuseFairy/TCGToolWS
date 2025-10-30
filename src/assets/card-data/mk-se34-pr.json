@@ -15,7 +15,8 @@
         "id": "MK/SE34-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE34-01": {
     "name": "それぞれの未来へ ネロ",
@@ -33,7 +34,8 @@
         "id": "MK/SE34-01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE34-02": {
     "name": "それぞれの未来へ エリー",
@@ -51,7 +53,8 @@
         "id": "MK/SE34-02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE34-03": {
     "name": "それぞれの未来へ シャロ",
@@ -69,7 +72,8 @@
         "id": "MK/SE34-03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE34-04": {
     "name": "それぞれの未来へ コーデリア",
@@ -87,6 +91,7 @@
         "id": "MK/SE34-04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

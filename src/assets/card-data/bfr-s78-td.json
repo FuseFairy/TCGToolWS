@@ -19,7 +19,8 @@
         "id": "BFR/S78-T01SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-T02": {
     "name": "侵略者 ユイ",
@@ -37,7 +38,8 @@
         "id": "BFR/S78-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-T03": {
     "name": "侵略者 マイ",
@@ -55,7 +57,8 @@
         "id": "BFR/S78-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-T04": {
     "name": "抜群の記憶力 カナデ",
@@ -73,7 +76,8 @@
         "id": "BFR/S78-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-T05": {
     "name": "兄貴肌 クロム",
@@ -91,7 +95,8 @@
         "id": "BFR/S78-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-T06": {
     "name": "積極的 ユイ",
@@ -113,7 +118,8 @@
         "id": "BFR/S78-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-T07": {
     "name": "心配性 マイ",
@@ -135,7 +141,8 @@
         "id": "BFR/S78-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-T08": {
     "name": "闇夜ノ写 メイプル",
@@ -157,7 +164,8 @@
         "id": "BFR/S78-T08S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-T09": {
     "name": "極振りの幕開け",
@@ -175,7 +183,8 @@
         "id": "BFR/S78-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BFR/S78-T10": {
     "name": "ノンストレスな大冒険",
@@ -193,7 +202,8 @@
         "id": "BFR/S78-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BFR/S78-T11": {
     "name": "いつだって無傷 白峯理沙",
@@ -211,7 +221,8 @@
         "id": "BFR/S78-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-T12": {
     "name": "冷静沈着 カスミ",
@@ -233,7 +244,8 @@
         "id": "BFR/S78-T12S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-T13": {
     "name": "集中 サリー",
@@ -251,7 +263,8 @@
         "id": "BFR/S78-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-T14": {
     "name": "威風堂々 カスミ",
@@ -269,7 +282,8 @@
         "id": "BFR/S78-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-T15": {
     "name": "痛いのは嫌 本条楓",
@@ -287,7 +301,8 @@
         "id": "BFR/S78-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-T16": {
     "name": "モノづくりへのこだわり イズ",
@@ -305,7 +320,8 @@
         "id": "BFR/S78-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-T17": {
     "name": "名脇役 イズ",
@@ -323,7 +339,8 @@
         "id": "BFR/S78-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-T18": {
     "name": "水面のマフラー サリー",
@@ -345,7 +362,8 @@
         "id": "BFR/S78-T18SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-T19": {
     "name": "クエスト発生",
@@ -363,7 +381,8 @@
         "id": "BFR/S78-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-T20": {
     "name": "第二層につながる道",
@@ -385,6 +404,7 @@
         "id": "BFR/S78-T20R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "AB/W11-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W11-107": {
     "name": "死んだ世界の少女 ゆり",
@@ -33,7 +34,8 @@
         "id": "AB/W11-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W11-110": {
     "name": "共有できた想い ゆり＆かなで",
@@ -51,7 +53,8 @@
         "id": "AB/W11-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W11-111": {
     "name": "神に抗う少女 ゆり",
@@ -69,7 +72,8 @@
         "id": "AB/W11-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W11-113": {
     "name": "衣装交換！？ かなで",
@@ -87,7 +91,8 @@
         "id": "AB/W11-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W11-115": {
     "name": "神秘的な少女 かなで",
@@ -105,7 +110,8 @@
         "id": "AB/W11-115",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W11-116": {
     "name": "“はじめて”のメガネ かなで",
@@ -123,7 +129,8 @@
         "id": "AB/W11-116",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W11-117": {
     "name": "“卒業式”かなで＆ゆり",
@@ -141,7 +148,8 @@
         "id": "AB/W11-117",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W11-118": {
     "name": "戦線の休息 ゆり",
@@ -159,7 +167,8 @@
         "id": "AB/W11-118",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W11-119": {
     "name": "これからのこと かなで",
@@ -177,7 +186,8 @@
         "id": "AB/W11-119",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W11-120": {
     "name": "おてんば娘 ユイ",
@@ -195,7 +205,8 @@
         "id": "AB/W11-120",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W11-121": {
     "name": "多生の絆 音無",
@@ -213,7 +224,8 @@
         "id": "AB/W11-121",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W11-122": {
     "name": "音無の親友 日向",
@@ -231,7 +243,8 @@
         "id": "AB/W11-122",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W11-123": {
     "name": "好物の麻婆豆腐 かなで",
@@ -249,6 +262,7 @@
         "id": "AB/W11-123",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

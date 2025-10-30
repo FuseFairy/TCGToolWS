@@ -19,7 +19,8 @@
         "id": "IMS/S93-P08S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S93-P01": {
     "name": "文舞両道！ 未来＆静香＆翼",
@@ -41,7 +42,8 @@
         "id": "IMS/S93-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S93-P03": {
     "name": "私たちのR@inbow!",
@@ -59,7 +61,8 @@
         "id": "IMS/S93-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S93-P04": {
     "name": "MILLION LIVE CLOSET! 伊吹 翼",
@@ -81,7 +84,8 @@
         "id": "IMS/S93-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S93-P05": {
     "name": "MILLION LIVE CLOSET! 最上静香",
@@ -103,7 +107,8 @@
         "id": "IMS/S93-P05S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S93-P06": {
     "name": "MILLION LIVE CLOSET! 春日未来",
@@ -125,7 +130,8 @@
         "id": "IMS/S93-P06S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S93-P09": {
     "name": "Celebr@tion! 春日未来",
@@ -147,7 +153,8 @@
         "id": "IMS/S93-P09S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S93-124": {
     "name": "サンリズム・オーケストラ♪",
@@ -165,7 +172,8 @@
         "id": "IMS/S93-124",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S93-126": {
     "name": "Reach 4 the Dre@m!",
@@ -183,7 +191,8 @@
         "id": "IMS/S93-126",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S93-127": {
     "name": "成長Chu→LOVER!!",
@@ -201,7 +210,8 @@
         "id": "IMS/S93-127",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S93-128": {
     "name": "Arrive You ～それが運命でも～",
@@ -219,7 +229,8 @@
         "id": "IMS/S93-128",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S93-129": {
     "name": "White Vows",
@@ -237,7 +248,8 @@
         "id": "IMS/S93-129",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S93-130": {
     "name": "ハルマチ女子",
@@ -255,7 +267,8 @@
         "id": "IMS/S93-130",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S93-131": {
     "name": "Starry Melody",
@@ -273,7 +286,8 @@
         "id": "IMS/S93-131",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S93-132": {
     "name": "BORN ON DREAM!",
@@ -291,7 +305,8 @@
         "id": "IMS/S93-132",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S93-133": {
     "name": "ビッグバンズバリボー!!!!!",
@@ -309,7 +324,8 @@
         "id": "IMS/S93-133",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S93-136": {
     "name": "百花は月下に散りぬるを",
@@ -327,7 +343,8 @@
         "id": "IMS/S93-136",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IMS/S93-137": {
     "name": "ラスト・アクトレス",
@@ -345,7 +362,8 @@
         "id": "IMS/S93-137",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S93-138": {
     "name": "ハーモニクス",
@@ -363,7 +381,8 @@
         "id": "IMS/S93-138",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S93-139": {
     "name": "月曜日のクリームソーダ",
@@ -381,7 +400,8 @@
         "id": "IMS/S93-139",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S93-140": {
     "name": "brave HARMONY",
@@ -399,7 +419,8 @@
         "id": "IMS/S93-140",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S93-141": {
     "name": "Parade d’amour",
@@ -417,6 +438,7 @@
         "id": "IMS/S93-141",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

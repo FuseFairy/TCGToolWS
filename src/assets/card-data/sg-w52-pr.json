@@ -15,7 +15,8 @@
         "id": "SG/W52-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W52-P02": {
     "name": "【戦士の休息】クリス＆マリア",
@@ -33,7 +34,8 @@
         "id": "SG/W52-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W52-P03": {
     "name": "【騎刃ノ一閃-終雷：体】翼",
@@ -55,7 +57,8 @@
         "id": "SG/W52-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W52-101": {
     "name": "“アンリミ”響",
@@ -73,7 +76,8 @@
         "id": "SG/W52-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W52-102": {
     "name": "“アンリミ”翼",
@@ -91,7 +95,8 @@
         "id": "SG/W52-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W52-103": {
     "name": "“アンリミ”クリス",
@@ -109,7 +114,8 @@
         "id": "SG/W52-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W52-104": {
     "name": "“アンリミ”マリア",
@@ -127,7 +133,8 @@
         "id": "SG/W52-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W52-105": {
     "name": "“アンリミ”調",
@@ -145,7 +152,8 @@
         "id": "SG/W52-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W52-106": {
     "name": "“アンリミ”切歌",
@@ -163,6 +171,7 @@
         "id": "SG/W52-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

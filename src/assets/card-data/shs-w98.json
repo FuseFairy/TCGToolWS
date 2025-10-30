@@ -19,7 +19,8 @@
         "id": "SHS/W98-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-002": {
     "name": "一緒にお出かけ 出海",
@@ -41,7 +42,8 @@
         "id": "SHS/W98-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-003": {
     "name": "世界一幸せなイラストレーター 英梨々",
@@ -63,7 +65,8 @@
         "id": "SHS/W98-003SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-004": {
     "name": "ドレスアップ 英梨々",
@@ -85,7 +88,8 @@
         "id": "SHS/W98-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-005": {
     "name": "一途な想い 英梨々",
@@ -107,7 +111,8 @@
         "id": "SHS/W98-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-006": {
     "name": "再集結 英梨々",
@@ -125,7 +130,8 @@
         "id": "SHS/W98-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-007": {
     "name": "ひたむきな想い 出海",
@@ -147,7 +153,8 @@
         "id": "SHS/W98-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-008": {
     "name": "飾らない言葉 英梨々",
@@ -165,7 +172,8 @@
         "id": "SHS/W98-008",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-009": {
     "name": "色褪せない青春グラフィティ 出海",
@@ -187,7 +195,8 @@
         "id": "SHS/W98-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-010": {
     "name": "ラストスパート 出海",
@@ -205,7 +214,8 @@
         "id": "SHS/W98-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-011": {
     "name": "姑ムーブ 英梨々",
@@ -223,7 +233,8 @@
         "id": "SHS/W98-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-012": {
     "name": "色褪せない青春グラフィティ 倫也",
@@ -241,7 +252,8 @@
         "id": "SHS/W98-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-013": {
     "name": "色褪せない青春グラフィティ 伊織",
@@ -259,7 +271,8 @@
         "id": "SHS/W98-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-014": {
     "name": "色褪せない青春グラフィティ 英梨々",
@@ -277,7 +290,8 @@
         "id": "SHS/W98-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-015": {
     "name": "闘志むき出し 英梨々",
@@ -295,7 +309,8 @@
         "id": "SHS/W98-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-016": {
     "name": "再集結 出海",
@@ -313,7 +328,8 @@
         "id": "SHS/W98-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-017": {
     "name": "ライブ鑑賞 英梨々",
@@ -331,7 +347,8 @@
         "id": "SHS/W98-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-018": {
     "name": "鋭い乙女の勘 出海",
@@ -349,7 +366,8 @@
         "id": "SHS/W98-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-019": {
     "name": "修正作業 出海",
@@ -367,7 +385,8 @@
         "id": "SHS/W98-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-020": {
     "name": "ひとりであたふた 出海",
@@ -385,7 +404,8 @@
         "id": "SHS/W98-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-021": {
     "name": "ヒートアップ 朱音",
@@ -403,7 +423,8 @@
         "id": "SHS/W98-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-022": {
     "name": "いつか、一緒に 英梨々",
@@ -421,7 +442,8 @@
         "id": "SHS/W98-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-023": {
     "name": "思案深げな表情 出海",
@@ -439,7 +461,8 @@
         "id": "SHS/W98-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-024": {
     "name": "再集結 伊織",
@@ -457,7 +480,8 @@
         "id": "SHS/W98-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-025": {
     "name": "強力な助っ人 英梨々",
@@ -475,7 +499,8 @@
         "id": "SHS/W98-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-026": {
     "name": "ライブ後の打ち上げ 出海",
@@ -493,7 +518,8 @@
         "id": "SHS/W98-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-027": {
     "name": "死に物狂いの徹夜作業",
@@ -511,7 +537,8 @@
         "id": "SHS/W98-027",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-028": {
     "name": "10年前、好きだった？",
@@ -533,7 +560,8 @@
         "id": "SHS/W98-028R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-029": {
     "name": "いつだって変わらない",
@@ -551,7 +579,8 @@
         "id": "SHS/W98-029",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-030": {
     "name": "夢紡ぐスケッチ",
@@ -573,7 +602,8 @@
         "id": "SHS/W98-030R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-031": {
     "name": "世界一幸せなメインヒロイン 恵",
@@ -595,7 +625,8 @@
         "id": "SHS/W98-031SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-032": {
     "name": "一緒にお出かけ 恵",
@@ -617,7 +648,8 @@
         "id": "SHS/W98-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-033": {
     "name": "描いた未来 英梨々",
@@ -639,7 +671,8 @@
         "id": "SHS/W98-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-034": {
     "name": "乙女のメランコリー 恵",
@@ -661,7 +694,8 @@
         "id": "SHS/W98-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-035": {
     "name": "色褪せない青春グラフィティ 恵",
@@ -679,7 +713,8 @@
         "id": "SHS/W98-035",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-036": {
     "name": "卒業の日に 恵",
@@ -697,7 +732,8 @@
         "id": "SHS/W98-036",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-037": {
     "name": "繋がる未来 詩羽",
@@ -719,7 +755,8 @@
         "id": "SHS/W98-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-038": {
     "name": "真っ直ぐな想い 恵",
@@ -741,7 +778,8 @@
         "id": "SHS/W98-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-039": {
     "name": "卒業の日に 英梨々",
@@ -759,7 +797,8 @@
         "id": "SHS/W98-039",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-040": {
     "name": "デートの待ち合わせ 恵",
@@ -777,7 +816,8 @@
         "id": "SHS/W98-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-041": {
     "name": "ライブ後の打ち上げ 詩羽",
@@ -795,7 +835,8 @@
         "id": "SHS/W98-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-042": {
     "name": "二度目の戦いへ 恵",
@@ -813,7 +854,8 @@
         "id": "SHS/W98-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-043": {
     "name": "桜色の風 恵",
@@ -831,7 +873,8 @@
         "id": "SHS/W98-043",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-044": {
     "name": "別れ話 恵",
@@ -849,7 +892,8 @@
         "id": "SHS/W98-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-045": {
     "name": "再集結 恵",
@@ -867,7 +911,8 @@
         "id": "SHS/W98-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-046": {
     "name": "聞き捨てならない 英梨々",
@@ -885,7 +930,8 @@
         "id": "SHS/W98-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-047": {
     "name": "めんどくさいヒロイン 恵",
@@ -903,7 +949,8 @@
         "id": "SHS/W98-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-048": {
     "name": "ライブ後の打ち上げ 恵",
@@ -921,7 +968,8 @@
         "id": "SHS/W98-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-049": {
     "name": "信じ、走り続ける 詩羽",
@@ -939,7 +987,8 @@
         "id": "SHS/W98-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-050": {
     "name": "ライブ後の打ち上げ 英梨々",
@@ -957,7 +1006,8 @@
         "id": "SHS/W98-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-051": {
     "name": "最高傑作 英梨々",
@@ -975,7 +1025,8 @@
         "id": "SHS/W98-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-052": {
     "name": "選んだ先の未来 倫也",
@@ -993,7 +1044,8 @@
         "id": "SHS/W98-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-053": {
     "name": "ライブ鑑賞 詩羽",
@@ -1011,7 +1063,8 @@
         "id": "SHS/W98-053",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-054": {
     "name": "強力な助っ人 詩羽",
@@ -1029,7 +1082,8 @@
         "id": "SHS/W98-054",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-055": {
     "name": "脳天気シナリオ",
@@ -1047,7 +1101,8 @@
         "id": "SHS/W98-055",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-056": {
     "name": "Happy Birthday MEGUMI",
@@ -1065,7 +1120,8 @@
         "id": "SHS/W98-056",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-057": {
     "name": "あなただけのメインヒロイン",
@@ -1087,7 +1143,8 @@
         "id": "SHS/W98-057R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-058": {
     "name": "彼はこれからもずっと私たちを追い続ける",
@@ -1109,7 +1166,8 @@
         "id": "SHS/W98-058R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SHS/W98-059": {
     "name": "親友だから",
@@ -1131,7 +1189,8 @@
         "id": "SHS/W98-059R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-060": {
     "name": "最高の出来",
@@ -1149,7 +1208,8 @@
         "id": "SHS/W98-060",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-061": {
     "name": "体育の時間 恵",
@@ -1171,7 +1231,8 @@
         "id": "SHS/W98-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-062": {
     "name": "あなたの進んだ道 恵",
@@ -1193,7 +1254,8 @@
         "id": "SHS/W98-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-063": {
     "name": "世界一幸せな作家 詩羽",
@@ -1215,7 +1277,8 @@
         "id": "SHS/W98-063SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-064": {
     "name": "一緒にお出かけ 詩羽",
@@ -1237,7 +1300,8 @@
         "id": "SHS/W98-064SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-065": {
     "name": "色褪せない青春グラフィティ 詩羽",
@@ -1255,7 +1319,8 @@
         "id": "SHS/W98-065",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-066": {
     "name": "揺るがない想い 詩羽",
@@ -1277,7 +1342,8 @@
         "id": "SHS/W98-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-067": {
     "name": "高まる鼓動重ねて 恵",
@@ -1299,7 +1365,8 @@
         "id": "SHS/W98-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-068": {
     "name": "ドレスアップ 恵",
@@ -1321,7 +1388,8 @@
         "id": "SHS/W98-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-069": {
     "name": "ドレスアップ 詩羽",
@@ -1343,7 +1411,8 @@
         "id": "SHS/W98-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-070": {
     "name": "再集結 詩羽",
@@ -1361,7 +1430,8 @@
         "id": "SHS/W98-070",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-071": {
     "name": "再集結 倫也",
@@ -1379,7 +1449,8 @@
         "id": "SHS/W98-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-072": {
     "name": "恐怖の着信 詩羽",
@@ -1397,7 +1468,8 @@
         "id": "SHS/W98-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-073": {
     "name": "2人きりの打ち合わせ 恵",
@@ -1415,7 +1487,8 @@
         "id": "SHS/W98-073",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-074": {
     "name": "傍若無人 詩羽",
@@ -1433,7 +1506,8 @@
         "id": "SHS/W98-074",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-075": {
     "name": "本当にやるべきこと 詩羽",
@@ -1451,7 +1525,8 @@
         "id": "SHS/W98-075",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-076": {
     "name": "安堵の笑み 詩羽",
@@ -1469,7 +1544,8 @@
         "id": "SHS/W98-076",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-077": {
     "name": "信頼と期待 苑子",
@@ -1487,7 +1563,8 @@
         "id": "SHS/W98-077",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-078": {
     "name": "困惑の知らせ 詩羽",
@@ -1505,7 +1582,8 @@
         "id": "SHS/W98-078",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-079": {
     "name": "突然の入院 朱音",
@@ -1523,7 +1601,8 @@
         "id": "SHS/W98-079",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-080": {
     "name": "寂し気な瞳 詩羽",
@@ -1541,7 +1620,8 @@
         "id": "SHS/W98-080",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-081": {
     "name": "交渉の末",
@@ -1559,7 +1639,8 @@
         "id": "SHS/W98-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-082": {
     "name": "わたしの、望んだ通りだよ？",
@@ -1581,7 +1662,8 @@
         "id": "SHS/W98-082R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-083": {
     "name": "彼は間違いなく私たちに恋をしてた……",
@@ -1603,7 +1685,8 @@
         "id": "SHS/W98-083R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-084": {
     "name": "縮まるキミとの距離",
@@ -1625,7 +1708,8 @@
         "id": "SHS/W98-084R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-085": {
     "name": "冴えない彼女の育てかた –最終章–",
@@ -1647,7 +1731,8 @@
         "id": "SHS/W98-085R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-086": {
     "name": "一緒にお出かけ 美智留",
@@ -1669,7 +1754,8 @@
         "id": "SHS/W98-086SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-087": {
     "name": "音にのせた想い 美智留",
@@ -1691,7 +1777,8 @@
         "id": "SHS/W98-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-088": {
     "name": "夜まで曲作り 美智留",
@@ -1709,7 +1796,8 @@
         "id": "SHS/W98-088",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-089": {
     "name": "色褪せない青春グラフィティ 美智留",
@@ -1731,7 +1819,8 @@
         "id": "SHS/W98-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-090": {
     "name": "ライブ後の打ち上げ 時乃",
@@ -1749,7 +1838,8 @@
         "id": "SHS/W98-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-091": {
     "name": "再集結 美智留",
@@ -1767,7 +1857,8 @@
         "id": "SHS/W98-091",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-092": {
     "name": "ライブ後の打ち上げ 藍子",
@@ -1785,7 +1876,8 @@
         "id": "SHS/W98-092",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-093": {
     "name": "ライブ後の打ち上げ 叡智佳",
@@ -1803,7 +1895,8 @@
         "id": "SHS/W98-093",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-094": {
     "name": "最後の追い込み 美智留",
@@ -1821,7 +1914,8 @@
         "id": "SHS/W98-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-095": {
     "name": "待ち伏せ 美智留",
@@ -1839,7 +1933,8 @@
         "id": "SHS/W98-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-096": {
     "name": "寝乱れ姿 美智留",
@@ -1857,7 +1952,8 @@
         "id": "SHS/W98-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-097": {
     "name": "ライブ後の打ち上げ 美智留",
@@ -1875,7 +1971,8 @@
         "id": "SHS/W98-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-098": {
     "name": "悪気ない衝動 美智留",
@@ -1893,7 +1990,8 @@
         "id": "SHS/W98-098",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W98-099": {
     "name": "慌ただしい設営",
@@ -1911,7 +2009,8 @@
         "id": "SHS/W98-099",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W98-100": {
     "name": "初めてのワンマンライブ",
@@ -1933,6 +2032,7 @@
         "id": "SHS/W98-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

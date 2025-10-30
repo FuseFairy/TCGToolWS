@@ -19,7 +19,8 @@
         "id": "SAO/S100-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-002": {
     "name": "思い募る金木犀 アリス",
@@ -41,7 +42,8 @@
         "id": "SAO/S100-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-003": {
     "name": "千年の旅路 アスナ",
@@ -63,7 +65,8 @@
         "id": "SAO/S100-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-004": {
     "name": "潰えぬ希望 アスナ",
@@ -85,7 +88,8 @@
         "id": "SAO/S100-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-005": {
     "name": "ゲーム初心者 アスナ",
@@ -107,7 +111,8 @@
         "id": "SAO/S100-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-006": {
     "name": "戦場に響く大音声 アリス",
@@ -129,7 +134,8 @@
         "id": "SAO/S100-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-007": {
     "name": "キミと一緒に アスナ",
@@ -151,7 +157,8 @@
         "id": "SAO/S100-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-008": {
     "name": "想いを重ねて アスナ＆キリト",
@@ -173,7 +180,8 @@
         "id": "SAO/S100-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-009": {
     "name": "高まる期待 アルゴ",
@@ -195,7 +203,8 @@
         "id": "SAO/S100-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-010": {
     "name": "凛とした強さ アスナ",
@@ -217,7 +226,8 @@
         "id": "SAO/S100-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-011": {
     "name": "真っ直ぐな道 アリス",
@@ -239,7 +249,8 @@
         "id": "SAO/S100-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-012": {
     "name": "献身的 アリス",
@@ -261,7 +272,8 @@
         "id": "SAO/S100-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-013": {
     "name": "癒しのひと時 アスナ",
@@ -283,7 +295,8 @@
         "id": "SAO/S100-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-014": {
     "name": "光の中へ アリス＆ユージオ",
@@ -305,7 +318,8 @@
         "id": "SAO/S100-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-015": {
     "name": "ゲームマスター 茅場",
@@ -327,7 +341,8 @@
         "id": "SAO/S100-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-016": {
     "name": "《星なき夜のアリア》アスナ",
@@ -349,7 +364,8 @@
         "id": "SAO/S100-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-017": {
     "name": "新たな約束 アスナ",
@@ -371,7 +387,8 @@
         "id": "SAO/S100-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-018": {
     "name": "《星なき夜のアリア》明日奈",
@@ -393,7 +410,8 @@
         "id": "SAO/S100-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-019": {
     "name": "臨戦態勢 アスナ",
@@ -415,7 +433,8 @@
         "id": "SAO/S100-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-020": {
     "name": "命を懸けたデスゲーム",
@@ -437,7 +456,8 @@
         "id": "SAO/S100-020SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-021": {
     "name": "浮遊城アインクラッド",
@@ -459,7 +479,8 @@
         "id": "SAO/S100-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-022": {
     "name": "人界の守護",
@@ -481,7 +502,8 @@
         "id": "SAO/S100-022R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-023": {
     "name": "信頼できる情報",
@@ -503,7 +525,8 @@
         "id": "SAO/S100-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-024": {
     "name": "剣の世界",
@@ -525,7 +548,8 @@
         "id": "SAO/S100-024R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-025": {
     "name": "兄妹の絆 リーファ",
@@ -547,7 +571,8 @@
         "id": "SAO/S100-025SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-026": {
     "name": "“マザーズ・ロザリオ”ユウキ",
@@ -569,7 +594,8 @@
         "id": "SAO/S100-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-027": {
     "name": "共に明日へ ミト",
@@ -591,7 +617,8 @@
         "id": "SAO/S100-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-028": {
     "name": "《星なき夜のアリア》深澄",
@@ -613,7 +640,8 @@
         "id": "SAO/S100-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-029": {
     "name": "不敗の超剣士 ユウキ",
@@ -635,7 +663,8 @@
         "id": "SAO/S100-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-030": {
     "name": "聖夜の乙女たち",
@@ -657,7 +686,8 @@
         "id": "SAO/S100-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-031": {
     "name": "ベータテスター ミト",
@@ -679,7 +709,8 @@
         "id": "SAO/S100-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-032": {
     "name": "守ると誓った ミト",
@@ -701,7 +732,8 @@
         "id": "SAO/S100-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-033": {
     "name": "妖しい微笑み ユナ",
@@ -723,7 +755,8 @@
         "id": "SAO/S100-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-034": {
     "name": "ふたりの放課後 深澄＆明日奈",
@@ -745,7 +778,8 @@
         "id": "SAO/S100-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-035": {
     "name": "本物の歌姫 ユナ",
@@ -767,7 +801,8 @@
         "id": "SAO/S100-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-036": {
     "name": "無邪気な笑顔 ユウキ",
@@ -789,7 +824,8 @@
         "id": "SAO/S100-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-037": {
     "name": "パーティードレス ソルティリーナ",
@@ -811,7 +847,8 @@
         "id": "SAO/S100-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-038": {
     "name": "本音のぶつかり合い ユウキ",
@@ -833,7 +870,8 @@
         "id": "SAO/S100-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-039": {
     "name": "このゲームの醍醐味 ミト",
@@ -855,7 +893,8 @@
         "id": "SAO/S100-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-040": {
     "name": "晴れた気持ち ファナティオ",
@@ -877,7 +916,8 @@
         "id": "SAO/S100-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-041": {
     "name": "託した想い カーディナル",
@@ -899,7 +939,8 @@
         "id": "SAO/S100-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-042": {
     "name": "純粋な願い リーファ",
@@ -921,7 +962,8 @@
         "id": "SAO/S100-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-043": {
     "name": "大吉！ 直葉",
@@ -943,7 +985,8 @@
         "id": "SAO/S100-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-044": {
     "name": "深い後悔 ミト",
@@ -965,7 +1008,8 @@
         "id": "SAO/S100-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-045": {
     "name": "また逢う日まで ユウキ＆アスナ",
@@ -987,7 +1031,8 @@
         "id": "SAO/S100-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-046": {
     "name": "ふたりでレベルアップ ミト",
@@ -1009,7 +1054,8 @@
         "id": "SAO/S100-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-047": {
     "name": "心休まる時 深澄",
@@ -1031,7 +1077,8 @@
         "id": "SAO/S100-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-048": {
     "name": "時穿剣の使い手 ベルクーリ",
@@ -1053,7 +1100,8 @@
         "id": "SAO/S100-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-049": {
     "name": "兎沢 深澄",
@@ -1075,7 +1123,8 @@
         "id": "SAO/S100-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-050": {
     "name": "不撓不屈 リーファ",
@@ -1097,7 +1146,8 @@
         "id": "SAO/S100-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-051": {
     "name": "お手伝い ロニエ＆ティーゼ",
@@ -1119,7 +1169,8 @@
         "id": "SAO/S100-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-052": {
     "name": "第一層ボス攻略 ミト",
@@ -1141,7 +1192,8 @@
         "id": "SAO/S100-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-053": {
     "name": "継承される剣技",
@@ -1163,7 +1215,8 @@
         "id": "SAO/S100-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-054": {
     "name": "《マザーズ・ロザリオ》",
@@ -1185,7 +1238,8 @@
         "id": "SAO/S100-054R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SAO/S100-055": {
     "name": "最後のひと押し",
@@ -1207,7 +1261,8 @@
         "id": "SAO/S100-055R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-056": {
     "name": "Happy Christmas！",
@@ -1229,7 +1284,8 @@
         "id": "SAO/S100-056R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SAO/S100-057": {
     "name": "黄昏の約束",
@@ -1251,7 +1307,8 @@
         "id": "SAO/S100-057R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-058": {
     "name": "うたかたの記憶",
@@ -1273,7 +1330,8 @@
         "id": "SAO/S100-058R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-059": {
     "name": "いつでも仲良し シリカ",
@@ -1295,7 +1353,8 @@
         "id": "SAO/S100-059SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-060": {
     "name": "妹のような存在 シリカ",
@@ -1317,7 +1376,8 @@
         "id": "SAO/S100-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-061": {
     "name": "メイスの使い手 リズベット",
@@ -1339,7 +1399,8 @@
         "id": "SAO/S100-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-062": {
     "name": "一流の鍛冶職人 リズベット",
@@ -1361,7 +1422,8 @@
         "id": "SAO/S100-062SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-063": {
     "name": "かわいい悪戯 シリカ",
@@ -1383,7 +1445,8 @@
         "id": "SAO/S100-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-064": {
     "name": "修復不可能 リズベット",
@@ -1405,7 +1468,8 @@
         "id": "SAO/S100-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-065": {
     "name": "春爛漫 里香＆直葉＆珪子",
@@ -1427,7 +1491,8 @@
         "id": "SAO/S100-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-066": {
     "name": "恐怖とともに《死銃》",
@@ -1449,7 +1514,8 @@
         "id": "SAO/S100-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-067": {
     "name": "恋い慕う シリカ＆リズベット",
@@ -1471,7 +1537,8 @@
         "id": "SAO/S100-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-068": {
     "name": "謎めいた微笑み アドミニストレータ",
@@ -1493,7 +1560,8 @@
         "id": "SAO/S100-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-069": {
     "name": "求め、盗み、奪う者 ガブリエル",
@@ -1515,7 +1583,8 @@
         "id": "SAO/S100-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-070": {
     "name": "感謝の気持ち シリカ",
@@ -1537,7 +1606,8 @@
         "id": "SAO/S100-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-071": {
     "name": "心の温度 アスナ＆リズベット",
@@ -1559,7 +1629,8 @@
         "id": "SAO/S100-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-072": {
     "name": "歪んだ愛情 ヴァサゴ",
@@ -1581,7 +1652,8 @@
         "id": "SAO/S100-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-073": {
     "name": "思い出の丘",
@@ -1603,7 +1675,8 @@
         "id": "SAO/S100-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-074": {
     "name": "気づいた本当の気持ち",
@@ -1625,7 +1698,8 @@
         "id": "SAO/S100-074R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-075": {
     "name": "幸福の花冠 ユイ",
@@ -1647,7 +1721,8 @@
         "id": "SAO/S100-075SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-076": {
     "name": "GGO最強のスナイパー シノン",
@@ -1669,7 +1744,8 @@
         "id": "SAO/S100-076SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-077": {
     "name": "神威なる力 キリト",
@@ -1691,7 +1767,8 @@
         "id": "SAO/S100-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-078": {
     "name": "《星なき夜のアリア》キリト",
@@ -1713,7 +1790,8 @@
         "id": "SAO/S100-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-079": {
     "name": "“ステイ・クール”ユージオ",
@@ -1735,7 +1813,8 @@
         "id": "SAO/S100-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-080": {
     "name": "二年半の思い出 ユージオ",
@@ -1757,7 +1836,8 @@
         "id": "SAO/S100-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-081": {
     "name": "親子愛 アスナ＆ユイ",
@@ -1779,7 +1859,8 @@
         "id": "SAO/S100-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-082": {
     "name": "《無制限飛行》シノン",
@@ -1801,7 +1882,8 @@
         "id": "SAO/S100-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-083": {
     "name": "月夜の剣士 アスナ＆キリト",
@@ -1823,7 +1905,8 @@
         "id": "SAO/S100-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-084": {
     "name": "思い出の欠片 キリト",
@@ -1845,7 +1928,8 @@
         "id": "SAO/S100-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-085": {
     "name": "貴重な強さ キリト",
@@ -1867,7 +1951,8 @@
         "id": "SAO/S100-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-086": {
     "name": "決意の弾丸 シノン",
@@ -1889,7 +1974,8 @@
         "id": "SAO/S100-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-087": {
     "name": "《星なき夜のアリア》和人",
@@ -1911,7 +1997,8 @@
         "id": "SAO/S100-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-088": {
     "name": "ご機嫌ななめ 詩乃",
@@ -1933,7 +2020,8 @@
         "id": "SAO/S100-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-089": {
     "name": "《黒の剣士》キリト",
@@ -1955,7 +2043,8 @@
         "id": "SAO/S100-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-090": {
     "name": "《オーディナル・スケール》シリカ＆アスナ＆キリト",
@@ -1977,7 +2066,8 @@
         "id": "SAO/S100-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-091": {
     "name": "攻略組 エギル",
@@ -1999,7 +2089,8 @@
         "id": "SAO/S100-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-092": {
     "name": "アドバイス シノン",
@@ -2021,7 +2112,8 @@
         "id": "SAO/S100-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-093": {
     "name": "たとえ罠だとしても クライン",
@@ -2043,7 +2135,8 @@
         "id": "SAO/S100-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-094": {
     "name": "一家団欒 ユイ＆アスナ",
@@ -2065,7 +2158,8 @@
         "id": "SAO/S100-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-095": {
     "name": "愛する世界のために ユージオ",
@@ -2087,7 +2181,8 @@
         "id": "SAO/S100-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-096": {
     "name": "《コート・オブ・ミッドナイト》キリト",
@@ -2109,7 +2204,8 @@
         "id": "SAO/S100-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-097": {
     "name": "Alicization",
@@ -2131,7 +2227,8 @@
         "id": "SAO/S100-097SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-098": {
     "name": "SYSTEM ALERT",
@@ -2153,7 +2250,8 @@
         "id": "SAO/S100-098S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-099": {
     "name": "夜空の剣",
@@ -2175,7 +2273,8 @@
         "id": "SAO/S100-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-100": {
     "name": "“氷の狙撃手”",
@@ -2197,6 +2296,7 @@
         "id": "SAO/S100-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -15,7 +15,8 @@
         "id": "FZ/S17-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-P02": {
     "name": "かわいい騎士王 セイバー",
@@ -33,7 +34,8 @@
         "id": "FZ/S17-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-P03": {
     "name": "黄金の鞘の主 セイバー",
@@ -51,7 +53,8 @@
         "id": "FZ/S17-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-P04": {
     "name": "憩いのひと時 セイバー",
@@ -69,7 +72,8 @@
         "id": "FZ/S17-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-P05": {
     "name": "イリヤ&アイリスフィール",
@@ -87,7 +91,8 @@
         "id": "FZ/S17-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-P06": {
     "name": "セイバー＆アイリスフィール＆イリヤ",
@@ -105,7 +110,8 @@
         "id": "FZ/S17-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-P07": {
     "name": "騎士道の守護者 セイバー",
@@ -123,7 +129,8 @@
         "id": "FZ/S17-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-P08": {
     "name": "無謬の天秤 切嗣",
@@ -141,7 +148,8 @@
         "id": "FZ/S17-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-P09": {
     "name": "清廉なる騎士道 セイバー",
@@ -159,7 +167,8 @@
         "id": "FZ/S17-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-P10": {
     "name": "王たる風格 セイバー",
@@ -177,7 +186,8 @@
         "id": "FZ/S17-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-P11": {
     "name": "最強の抗魔力 セイバー",
@@ -195,7 +205,8 @@
         "id": "FZ/S17-P11",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-106": {
     "name": "ちびセイバー",
@@ -213,7 +224,8 @@
         "id": "FZ/S17-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-107": {
     "name": "ちびアイリスフィール",
@@ -231,7 +243,8 @@
         "id": "FZ/S17-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-108": {
     "name": "ちびライダー",
@@ -249,7 +262,8 @@
         "id": "FZ/S17-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/S17-109": {
     "name": "ちびウェイバー",
@@ -267,7 +281,8 @@
         "id": "FZ/S17-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/S17-110": {
     "name": "ちびアーチャー",
@@ -285,6 +300,7 @@
         "id": "FZ/S17-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

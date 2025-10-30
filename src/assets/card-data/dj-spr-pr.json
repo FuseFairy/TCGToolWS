@@ -15,7 +15,8 @@
         "id": "DJ/SPR-001",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DJ/SPR-002": {
     "name": "Peaky P-key",
@@ -33,7 +34,8 @@
         "id": "DJ/SPR-002",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DJ/SPR-003": {
     "name": "リリカルなリリック",
@@ -51,6 +53,7 @@
         "id": "DJ/SPR-003",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

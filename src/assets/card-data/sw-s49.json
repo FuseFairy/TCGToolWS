@@ -19,7 +19,8 @@
         "id": "SW/S49-001R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-002": {
     "name": "“密輸業者”ハン・ソロ",
@@ -41,7 +42,8 @@
         "id": "SW/S49-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-003": {
     "name": "“極秘任務”レイア",
@@ -71,7 +73,8 @@
         "id": "SW/S49-003Sre",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-004": {
     "name": "“ライトセーバーを手に”フィン",
@@ -89,7 +92,8 @@
         "id": "SW/S49-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-005": {
     "name": "“ならず者”ハン・ソロ",
@@ -119,7 +123,8 @@
         "id": "SW/S49-005Sre",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-006": {
     "name": "ハン・ソロ",
@@ -137,7 +142,8 @@
         "id": "SW/S49-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-007": {
     "name": "“ミレニアム・ファルコンの船長”ハン・ソロ",
@@ -159,7 +165,8 @@
         "id": "SW/S49-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-008": {
     "name": "“新しい呼び名”フィン",
@@ -181,7 +188,8 @@
         "id": "SW/S49-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-009": {
     "name": "“スターファイター・パイロット”ポー",
@@ -199,7 +207,8 @@
         "id": "SW/S49-009",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-010": {
     "name": "“ウーキーの咆哮”チューバッカ",
@@ -221,7 +230,8 @@
         "id": "SW/S49-010re",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-011": {
     "name": "“フォースの家系”レイア",
@@ -239,7 +249,8 @@
         "id": "SW/S49-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-012": {
     "name": "“形勢逆転”チューバッカ",
@@ -257,7 +268,8 @@
         "id": "SW/S49-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-013": {
     "name": "マズ・カナタ",
@@ -275,7 +287,8 @@
         "id": "SW/S49-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-014": {
     "name": "“救出”チューバッカ",
@@ -293,7 +306,8 @@
         "id": "SW/S49-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-015": {
     "name": "イウォーク族",
@@ -311,7 +325,8 @@
         "id": "SW/S49-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-016": {
     "name": "ランド・カルリジアン",
@@ -329,7 +344,8 @@
         "id": "SW/S49-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-017": {
     "name": "“再会”ポー",
@@ -347,7 +363,8 @@
         "id": "SW/S49-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-018": {
     "name": "“息子への思い”ハン・ソロ&レイア",
@@ -365,7 +382,8 @@
         "id": "SW/S49-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-019": {
     "name": "ウィケット",
@@ -383,7 +401,8 @@
         "id": "SW/S49-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-020": {
     "name": "ナイン・ナン",
@@ -401,7 +420,8 @@
         "id": "SW/S49-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-021": {
     "name": "ロボト",
@@ -419,7 +439,8 @@
         "id": "SW/S49-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-022": {
     "name": "“一進一退の戦い”ハン・ソロ",
@@ -437,7 +458,8 @@
         "id": "SW/S49-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-023": {
     "name": "“プリンセス”レイア",
@@ -455,7 +477,8 @@
         "id": "SW/S49-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-024": {
     "name": "“救出作戦”ハン・ソロ",
@@ -473,7 +496,8 @@
         "id": "SW/S49-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-025": {
     "name": "“ウーキー族”チューバッカ",
@@ -491,7 +515,8 @@
         "id": "SW/S49-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-026": {
     "name": "アクバー提督",
@@ -509,7 +534,8 @@
         "id": "SW/S49-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-027": {
     "name": "Jakku",
@@ -527,7 +553,8 @@
         "id": "SW/S49-027",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-028": {
     "name": "Dejarik Holochess",
@@ -545,7 +572,8 @@
         "id": "SW/S49-028",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-029": {
     "name": "X-wing starfighter",
@@ -563,7 +591,8 @@
         "id": "SW/S49-029",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-030": {
     "name": "Millennium Falcon",
@@ -581,7 +610,8 @@
         "id": "SW/S49-030",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-031": {
     "name": "Mission!",
@@ -603,7 +633,8 @@
         "id": "SW/S49-031SWR",
         "rarity": "SWR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-032": {
     "name": "Medal Ceremony",
@@ -633,7 +664,8 @@
         "id": "SW/S49-032SWRre",
         "rarity": "SWR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SW/S49-033": {
     "name": "I can do this!",
@@ -651,7 +683,8 @@
         "id": "SW/S49-033",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-034": {
     "name": "Brilliant battle",
@@ -669,7 +702,8 @@
         "id": "SW/S49-034",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SW/S49-035": {
     "name": "“ブーシの正体”レイア",
@@ -691,7 +725,8 @@
         "id": "SW/S49-035R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-036": {
     "name": "ジャバ・ザ・ハット",
@@ -709,7 +744,8 @@
         "id": "SW/S49-036",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-037": {
     "name": "ボバ・フェット",
@@ -727,7 +763,8 @@
         "id": "SW/S49-037",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-038": {
     "name": "“メッセージと贈り物”ジャバ",
@@ -745,7 +782,8 @@
         "id": "SW/S49-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-039": {
     "name": "ビブ・フォーチュナ",
@@ -763,7 +801,8 @@
         "id": "SW/S49-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-040": {
     "name": "“砂漠の犯罪王”ジャバ",
@@ -781,7 +820,8 @@
         "id": "SW/S49-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-041": {
     "name": "“戦闘のプロフェッショナル”ボバ・フェット",
@@ -799,7 +839,8 @@
         "id": "SW/S49-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-042": {
     "name": "ガモーリアン",
@@ -817,7 +858,8 @@
         "id": "SW/S49-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-043": {
     "name": "“秘めた任務”R2-D2",
@@ -835,7 +877,8 @@
         "id": "SW/S49-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-044": {
     "name": "アンカー・プラット",
@@ -853,7 +896,8 @@
         "id": "SW/S49-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-045": {
     "name": "マックス・レボ・バンド",
@@ -879,7 +923,8 @@
         "id": "SW/S49-045c",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-046": {
     "name": "“新米翻訳係”C-3PO",
@@ -897,7 +942,8 @@
         "id": "SW/S49-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-047": {
     "name": "“虎視眈々”ランド",
@@ -915,7 +961,8 @@
         "id": "SW/S49-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-048": {
     "name": "Cantina Band",
@@ -933,7 +980,8 @@
         "id": "SW/S49-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-049": {
     "name": "Carbon Freezing",
@@ -951,7 +999,8 @@
         "id": "SW/S49-049",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-050": {
     "name": "The Sarlacc Pit",
@@ -969,7 +1018,8 @@
         "id": "SW/S49-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-051": {
     "name": "Jabba's Palace",
@@ -987,7 +1037,8 @@
         "id": "SW/S49-051",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-052": {
     "name": "Bounty hunter",
@@ -1005,7 +1056,8 @@
         "id": "SW/S49-052",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-053": {
     "name": "“再会と死闘”ダース・ベイダー",
@@ -1027,7 +1079,8 @@
         "id": "SW/S49-053R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-054": {
     "name": "カイロ・レン",
@@ -1057,7 +1110,8 @@
         "id": "SW/S49-054Rre",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-055": {
     "name": "“シスの暗黒卿”ダース・ベイダー",
@@ -1087,7 +1141,8 @@
         "id": "SW/S49-055SPre",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-056": {
     "name": "“ダークサイド”ダース・ベイダー",
@@ -1109,7 +1164,8 @@
         "id": "SW/S49-056R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-057": {
     "name": "“外されたマスク”カイロ・レン",
@@ -1131,7 +1187,8 @@
         "id": "SW/S49-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-058": {
     "name": "“闇の指揮官”カイロ・レン",
@@ -1149,7 +1206,8 @@
         "id": "SW/S49-058",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-059": {
     "name": "“急襲”ダース・ベイダー",
@@ -1167,7 +1225,8 @@
         "id": "SW/S49-059",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-060": {
     "name": "“悪に染まりし者”ダース・ベイダー",
@@ -1197,7 +1256,8 @@
         "id": "SW/S49-060Sre",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-061": {
     "name": "最高指導者スノーク",
@@ -1215,7 +1275,8 @@
         "id": "SW/S49-061",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-062": {
     "name": "皇帝",
@@ -1233,7 +1294,8 @@
         "id": "SW/S49-062",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-063": {
     "name": "ストームトルーパー",
@@ -1255,7 +1317,8 @@
         "id": "SW/S49-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-064": {
     "name": "キャプテン・ファズマ",
@@ -1273,7 +1336,8 @@
         "id": "SW/S49-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-065": {
     "name": "“巧みな謀略”ダース・ベイダー",
@@ -1291,7 +1355,8 @@
         "id": "SW/S49-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-066": {
     "name": "“勝負への固執”カイロ・レン",
@@ -1309,7 +1374,8 @@
         "id": "SW/S49-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-067": {
     "name": "ハックス将軍",
@@ -1327,7 +1393,8 @@
         "id": "SW/S49-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-068": {
     "name": "“過信は禁物” ダース・ベイダー",
@@ -1345,7 +1412,8 @@
         "id": "SW/S49-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-069": {
     "name": "“遺志を継ぐもの”カイロ・レン",
@@ -1363,7 +1431,8 @@
         "id": "SW/S49-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-070": {
     "name": "“FN-2187”ストームトルーパー",
@@ -1381,7 +1450,8 @@
         "id": "SW/S49-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-071": {
     "name": "“多勢の兵”ストームトルーパー",
@@ -1399,7 +1469,8 @@
         "id": "SW/S49-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-072": {
     "name": "ファースト・オーダー ストームトルーパー",
@@ -1417,7 +1488,8 @@
         "id": "SW/S49-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-073": {
     "name": "ピエット提督",
@@ -1435,7 +1507,8 @@
         "id": "SW/S49-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-074": {
     "name": "グランドモフ・ウィルハフ・ターキン",
@@ -1453,7 +1526,8 @@
         "id": "SW/S49-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-075": {
     "name": "“新たなる先兵”ストームトルーパー",
@@ -1475,7 +1549,8 @@
         "id": "SW/S49-075re",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-076": {
     "name": "スカウト・トルーパー",
@@ -1497,7 +1572,8 @@
         "id": "SW/S49-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-077": {
     "name": "“漆黒の脅威”ダース・ベイダー",
@@ -1515,7 +1591,8 @@
         "id": "SW/S49-077",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-078": {
     "name": "“暗黒面の支配者”皇帝",
@@ -1533,7 +1610,8 @@
         "id": "SW/S49-078",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-079": {
     "name": "Star Destroyer",
@@ -1551,7 +1629,8 @@
         "id": "SW/S49-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-080": {
     "name": "The Dark Side",
@@ -1569,7 +1648,8 @@
         "id": "SW/S49-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-081": {
     "name": "Death Star",
@@ -1587,7 +1667,8 @@
         "id": "SW/S49-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-082": {
     "name": "Lightsaber Duel",
@@ -1605,7 +1686,8 @@
         "id": "SW/S49-082",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-083": {
     "name": "I am your father.",
@@ -1635,7 +1717,8 @@
         "id": "SW/S49-083SWRre",
         "rarity": "SWR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SW/S49-084": {
     "name": "You are beaten.",
@@ -1653,7 +1736,8 @@
         "id": "SW/S49-084",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-085": {
     "name": "Show me",
@@ -1675,7 +1759,8 @@
         "id": "SW/S49-085SWR",
         "rarity": "SWR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SW/S49-086": {
     "name": "Starkiller",
@@ -1693,7 +1778,8 @@
         "id": "SW/S49-086",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SW/S49-087": {
     "name": "R2-D2",
@@ -1715,7 +1801,8 @@
         "id": "SW/S49-087R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-088": {
     "name": "“覚醒”レイ",
@@ -1745,7 +1832,8 @@
         "id": "SW/S49-088SPre",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-089": {
     "name": "“夢を追う若者”ルーク",
@@ -1775,7 +1863,8 @@
         "id": "SW/S49-089SPre",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-090": {
     "name": "“ジェダイの訓練”ルーク",
@@ -1797,7 +1886,8 @@
         "id": "SW/S49-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-091": {
     "name": "“パイロットの資質”レイ",
@@ -1819,7 +1909,8 @@
         "id": "SW/S49-091R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-092": {
     "name": "“勇敢なサポーター”C-3PO",
@@ -1837,7 +1928,8 @@
         "id": "SW/S49-092",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-093": {
     "name": "“アストロメク・ドロイド”R2-D2",
@@ -1859,7 +1951,8 @@
         "id": "SW/S49-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-094": {
     "name": "“反撃の瞬間”ルーク",
@@ -1881,7 +1974,8 @@
         "id": "SW/S49-094re",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-095": {
     "name": "ヨーダ",
@@ -1903,7 +1997,8 @@
         "id": "SW/S49-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-096": {
     "name": "“賢者の教え”オビ=ワン",
@@ -1921,7 +2016,8 @@
         "id": "SW/S49-096",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-097": {
     "name": "“運命の出会い”ルーク",
@@ -1943,7 +2039,8 @@
         "id": "SW/S49-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-098": {
     "name": "“砂漠の隠居者”ベン・ケノービ",
@@ -1961,7 +2058,8 @@
         "id": "SW/S49-098",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-099": {
     "name": "“待ち望んでいた吉報”R2-D2",
@@ -1979,7 +2077,8 @@
         "id": "SW/S49-099",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-100": {
     "name": "“愛すべきパートナー”C-3PO",
@@ -2001,7 +2100,8 @@
         "id": "SW/S49-100re",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-101": {
     "name": "オビ=ワン・ケノービ",
@@ -2019,7 +2119,8 @@
         "id": "SW/S49-101",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-102": {
     "name": "“ジェダイ・マスター”ルーク",
@@ -2037,7 +2138,8 @@
         "id": "SW/S49-102",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-103": {
     "name": "“友情の予感”BB-8",
@@ -2059,7 +2161,8 @@
         "id": "SW/S49-103S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-104": {
     "name": "“ジェダイ・マスター”ヨーダ",
@@ -2081,7 +2184,8 @@
         "id": "SW/S49-104re",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-105": {
     "name": "“ジェダイ・ナイト”ルーク",
@@ -2099,7 +2203,8 @@
         "id": "SW/S49-105",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-106": {
     "name": "“戦友”BB-8",
@@ -2117,7 +2222,8 @@
         "id": "SW/S49-106",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-107": {
     "name": "“ライトサイド”ルーク",
@@ -2135,7 +2241,8 @@
         "id": "SW/S49-107",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-108": {
     "name": "ルーク・スカイウォーカー",
@@ -2153,7 +2260,8 @@
         "id": "SW/S49-108",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-109": {
     "name": "C-3PO",
@@ -2171,7 +2279,8 @@
         "id": "SW/S49-109",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-110": {
     "name": "“突然の襲撃”ルーク",
@@ -2189,7 +2298,8 @@
         "id": "SW/S49-110",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-111": {
     "name": "“射撃の腕前”レイ",
@@ -2207,7 +2317,8 @@
         "id": "SW/S49-111",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-112": {
     "name": "“ジェダイ・マスター”オビ=ワン",
@@ -2225,7 +2336,8 @@
         "id": "SW/S49-112",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-113": {
     "name": "Lightsaber",
@@ -2247,7 +2359,8 @@
         "id": "SW/S49-113re",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-114": {
     "name": "Lightsaber",
@@ -2269,7 +2382,8 @@
         "id": "SW/S49-114re",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-115": {
     "name": "AT-AT",
@@ -2287,7 +2401,8 @@
         "id": "SW/S49-115",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-116": {
     "name": "Rey's Speeder",
@@ -2305,7 +2420,8 @@
         "id": "SW/S49-116",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-117": {
     "name": "A New Hope",
@@ -2327,7 +2443,8 @@
         "id": "SW/S49-117SWR",
         "rarity": "SWR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-118": {
     "name": "The Force Awakens",
@@ -2349,7 +2466,8 @@
         "id": "SW/S49-118SWR",
         "rarity": "SWR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-119": {
     "name": "Great Mentor",
@@ -2367,7 +2485,8 @@
         "id": "SW/S49-119",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-120": {
     "name": "Return of the Jedi",
@@ -2389,7 +2508,8 @@
         "id": "SW/S49-120re",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SW/S49-001R_": {
     "name": "“ファースト・オーダーからの脱出”フィン",
@@ -2407,7 +2527,8 @@
         "id": "SW/S49-001R_",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-001_": {
     "name": "“ファースト・オーダーからの脱出”フィン",
@@ -2425,7 +2546,8 @@
         "id": "SW/S49-001_",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-002SP_": {
     "name": "“密輸業者”ハン・ソロ",
@@ -2443,7 +2565,8 @@
         "id": "SW/S49-002SP_",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-002_": {
     "name": "“密輸業者”ハン・ソロ",
@@ -2461,7 +2584,8 @@
         "id": "SW/S49-002_",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-004_": {
     "name": "“ライトセーバーを手に”フィン",
@@ -2479,7 +2603,8 @@
         "id": "SW/S49-004_",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-006_": {
     "name": "ハン・ソロ",
@@ -2497,7 +2622,8 @@
         "id": "SW/S49-006_",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-007S_": {
     "name": "“ミレニアム・ファルコンの船長”ハン・ソロ",
@@ -2515,7 +2641,8 @@
         "id": "SW/S49-007S_",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-007_": {
     "name": "“ミレニアム・ファルコンの船長”ハン・ソロ",
@@ -2533,7 +2660,8 @@
         "id": "SW/S49-007_",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-008S_": {
     "name": "“新しい呼び名”フィン",
@@ -2551,7 +2679,8 @@
         "id": "SW/S49-008S_",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-008_": {
     "name": "“新しい呼び名”フィン",
@@ -2569,7 +2698,8 @@
         "id": "SW/S49-008_",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-009_": {
     "name": "“スターファイター・パイロット”ポー",
@@ -2587,7 +2717,8 @@
         "id": "SW/S49-009_",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-011_": {
     "name": "“フォースの家系”レイア",
@@ -2605,7 +2736,8 @@
         "id": "SW/S49-011_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-012_": {
     "name": "“形勢逆転”チューバッカ",
@@ -2623,7 +2755,8 @@
         "id": "SW/S49-012_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-013_": {
     "name": "マズ・カナタ",
@@ -2641,7 +2774,8 @@
         "id": "SW/S49-013_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-014_": {
     "name": "“救出”チューバッカ",
@@ -2659,7 +2793,8 @@
         "id": "SW/S49-014_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-015_": {
     "name": "イウォーク族",
@@ -2677,7 +2812,8 @@
         "id": "SW/S49-015_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-016_": {
     "name": "ランド・カルリジアン",
@@ -2695,7 +2831,8 @@
         "id": "SW/S49-016_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-017_": {
     "name": "“再会”ポー",
@@ -2713,7 +2850,8 @@
         "id": "SW/S49-017_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-018_": {
     "name": "“息子への思い”ハン・ソロ&レイア",
@@ -2731,7 +2869,8 @@
         "id": "SW/S49-018_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-019_": {
     "name": "ウィケット",
@@ -2749,7 +2888,8 @@
         "id": "SW/S49-019_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-020_": {
     "name": "ナイン・ナン",
@@ -2767,7 +2907,8 @@
         "id": "SW/S49-020_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-021_": {
     "name": "ロボト",
@@ -2785,7 +2926,8 @@
         "id": "SW/S49-021_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-022_": {
     "name": "“一進一退の戦い”ハン・ソロ",
@@ -2803,7 +2945,8 @@
         "id": "SW/S49-022_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-023_": {
     "name": "“プリンセス”レイア",
@@ -2821,7 +2964,8 @@
         "id": "SW/S49-023_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-024_": {
     "name": "“救出作戦”ハン・ソロ",
@@ -2839,7 +2983,8 @@
         "id": "SW/S49-024_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-025_": {
     "name": "“ウーキー族”チューバッカ",
@@ -2857,7 +3002,8 @@
         "id": "SW/S49-025_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-026_": {
     "name": "アクバー提督",
@@ -2875,7 +3021,8 @@
         "id": "SW/S49-026_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-027_": {
     "name": "Jakku",
@@ -2893,7 +3040,8 @@
         "id": "SW/S49-027_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-028_": {
     "name": "Dejarik Holochess",
@@ -2911,7 +3059,8 @@
         "id": "SW/S49-028_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-029_": {
     "name": "X-wing starfighter",
@@ -2929,7 +3078,8 @@
         "id": "SW/S49-029_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-030_": {
     "name": "Millennium Falcon",
@@ -2947,7 +3097,8 @@
         "id": "SW/S49-030_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-031SWR_": {
     "name": "Mission!",
@@ -2965,7 +3116,8 @@
         "id": "SW/S49-031SWR_",
         "rarity": "SWR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-031_": {
     "name": "Mission!",
@@ -2983,7 +3135,8 @@
         "id": "SW/S49-031_",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-033_": {
     "name": "I can do this!",
@@ -3001,7 +3154,8 @@
         "id": "SW/S49-033_",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-034_": {
     "name": "Brilliant battle",
@@ -3019,7 +3173,8 @@
         "id": "SW/S49-034_",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SW/S49-035R_": {
     "name": "“ブーシの正体”レイア",
@@ -3037,7 +3192,8 @@
         "id": "SW/S49-035R_",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-035_": {
     "name": "“ブーシの正体”レイア",
@@ -3055,7 +3211,8 @@
         "id": "SW/S49-035_",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-036_": {
     "name": "ジャバ・ザ・ハット",
@@ -3073,7 +3230,8 @@
         "id": "SW/S49-036_",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-037_": {
     "name": "ボバ・フェット",
@@ -3091,7 +3249,8 @@
         "id": "SW/S49-037_",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-038_": {
     "name": "“メッセージと贈り物”ジャバ",
@@ -3109,7 +3268,8 @@
         "id": "SW/S49-038_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-039_": {
     "name": "ビブ・フォーチュナ",
@@ -3127,7 +3287,8 @@
         "id": "SW/S49-039_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-040_": {
     "name": "“砂漠の犯罪王”ジャバ",
@@ -3145,7 +3306,8 @@
         "id": "SW/S49-040_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-041_": {
     "name": "“戦闘のプロフェッショナル”ボバ・フェット",
@@ -3163,7 +3325,8 @@
         "id": "SW/S49-041_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-042_": {
     "name": "ガモーリアン",
@@ -3181,7 +3344,8 @@
         "id": "SW/S49-042_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-043_": {
     "name": "“秘めた任務”R2-D2",
@@ -3199,7 +3363,8 @@
         "id": "SW/S49-043_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-044_": {
     "name": "アンカー・プラット",
@@ -3217,7 +3382,8 @@
         "id": "SW/S49-044_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-045a_": {
     "name": "マックス・レボ・バンド",
@@ -3235,7 +3401,8 @@
         "id": "SW/S49-045a_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-045b_": {
     "name": "マックス・レボ・バンド",
@@ -3253,7 +3420,8 @@
         "id": "SW/S49-045b_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-045c_": {
     "name": "マックス・レボ・バンド",
@@ -3271,7 +3439,8 @@
         "id": "SW/S49-045c_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-046_": {
     "name": "“新米翻訳係”C-3PO",
@@ -3289,7 +3458,8 @@
         "id": "SW/S49-046_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-047_": {
     "name": "“虎視眈々”ランド",
@@ -3307,7 +3477,8 @@
         "id": "SW/S49-047_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-048_": {
     "name": "Cantina Band",
@@ -3325,7 +3496,8 @@
         "id": "SW/S49-048_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-049_": {
     "name": "Carbon Freezing",
@@ -3343,7 +3515,8 @@
         "id": "SW/S49-049_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-050_": {
     "name": "The Sarlacc Pit",
@@ -3361,7 +3534,8 @@
         "id": "SW/S49-050_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-051_": {
     "name": "Jabba's Palace",
@@ -3379,7 +3553,8 @@
         "id": "SW/S49-051_",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-052_": {
     "name": "Bounty hunter",
@@ -3397,7 +3572,8 @@
         "id": "SW/S49-052_",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-053R_": {
     "name": "“再会と死闘”ダース・ベイダー",
@@ -3415,7 +3591,8 @@
         "id": "SW/S49-053R_",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-053_": {
     "name": "“再会と死闘”ダース・ベイダー",
@@ -3433,7 +3610,8 @@
         "id": "SW/S49-053_",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-056R_": {
     "name": "“ダークサイド”ダース・ベイダー",
@@ -3451,7 +3629,8 @@
         "id": "SW/S49-056R_",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-056_": {
     "name": "“ダークサイド”ダース・ベイダー",
@@ -3469,7 +3648,8 @@
         "id": "SW/S49-056_",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-057S_": {
     "name": "“外されたマスク”カイロ・レン",
@@ -3487,7 +3667,8 @@
         "id": "SW/S49-057S_",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-057_": {
     "name": "“外されたマスク”カイロ・レン",
@@ -3505,7 +3686,8 @@
         "id": "SW/S49-057_",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-058_": {
     "name": "“闇の指揮官”カイロ・レン",
@@ -3523,7 +3705,8 @@
         "id": "SW/S49-058_",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-059_": {
     "name": "“急襲”ダース・ベイダー",
@@ -3541,7 +3724,8 @@
         "id": "SW/S49-059_",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-061_": {
     "name": "最高指導者スノーク",
@@ -3559,7 +3743,8 @@
         "id": "SW/S49-061_",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-062_": {
     "name": "皇帝",
@@ -3577,7 +3762,8 @@
         "id": "SW/S49-062_",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-063S_": {
     "name": "ストームトルーパー",
@@ -3595,7 +3781,8 @@
         "id": "SW/S49-063S_",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-063_": {
     "name": "ストームトルーパー",
@@ -3613,7 +3800,8 @@
         "id": "SW/S49-063_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-064_": {
     "name": "キャプテン・ファズマ",
@@ -3631,7 +3819,8 @@
         "id": "SW/S49-064_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-065_": {
     "name": "“巧みな謀略”ダース・ベイダー",
@@ -3649,7 +3838,8 @@
         "id": "SW/S49-065_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-066_": {
     "name": "“勝負への固執”カイロ・レン",
@@ -3667,7 +3857,8 @@
         "id": "SW/S49-066_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-067_": {
     "name": "ハックス将軍",
@@ -3685,7 +3876,8 @@
         "id": "SW/S49-067_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-068_": {
     "name": "“過信は禁物” ダース・ベイダー",
@@ -3703,7 +3895,8 @@
         "id": "SW/S49-068_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-069_": {
     "name": "“遺志を継ぐもの”カイロ・レン",
@@ -3721,7 +3914,8 @@
         "id": "SW/S49-069_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-070_": {
     "name": "“FN-2187”ストームトルーパー",
@@ -3739,7 +3933,8 @@
         "id": "SW/S49-070_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-071_": {
     "name": "“多勢の兵”ストームトルーパー",
@@ -3757,7 +3952,8 @@
         "id": "SW/S49-071_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-072_": {
     "name": "ファースト・オーダー ストームトルーパー",
@@ -3775,7 +3971,8 @@
         "id": "SW/S49-072_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-073_": {
     "name": "ピエット提督",
@@ -3793,7 +3990,8 @@
         "id": "SW/S49-073_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-074_": {
     "name": "グランドモフ・ウィルハフ・ターキン",
@@ -3811,7 +4009,8 @@
         "id": "SW/S49-074_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-076S_": {
     "name": "スカウト・トルーパー",
@@ -3829,7 +4028,8 @@
         "id": "SW/S49-076S_",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-076_": {
     "name": "スカウト・トルーパー",
@@ -3847,7 +4047,8 @@
         "id": "SW/S49-076_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-077_": {
     "name": "“漆黒の脅威”ダース・ベイダー",
@@ -3865,7 +4066,8 @@
         "id": "SW/S49-077_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-078_": {
     "name": "“暗黒面の支配者”皇帝",
@@ -3883,7 +4085,8 @@
         "id": "SW/S49-078_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-079_": {
     "name": "Star Destroyer",
@@ -3901,7 +4104,8 @@
         "id": "SW/S49-079_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-080_": {
     "name": "The Dark Side",
@@ -3919,7 +4123,8 @@
         "id": "SW/S49-080_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-081_": {
     "name": "Death Star",
@@ -3937,7 +4142,8 @@
         "id": "SW/S49-081_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-082_": {
     "name": "Lightsaber Duel",
@@ -3955,7 +4161,8 @@
         "id": "SW/S49-082_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-084_": {
     "name": "You are beaten.",
@@ -3973,7 +4180,8 @@
         "id": "SW/S49-084_",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-085SWR_": {
     "name": "Show me",
@@ -3991,7 +4199,8 @@
         "id": "SW/S49-085SWR_",
         "rarity": "SWR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SW/S49-085_": {
     "name": "Show me",
@@ -4009,7 +4218,8 @@
         "id": "SW/S49-085_",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SW/S49-086_": {
     "name": "Starkiller",
@@ -4027,7 +4237,8 @@
         "id": "SW/S49-086_",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SW/S49-087R_": {
     "name": "R2-D2",
@@ -4045,7 +4256,8 @@
         "id": "SW/S49-087R_",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-087_": {
     "name": "R2-D2",
@@ -4063,7 +4275,8 @@
         "id": "SW/S49-087_",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-090S_": {
     "name": "“ジェダイの訓練”ルーク",
@@ -4081,7 +4294,8 @@
         "id": "SW/S49-090S_",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-090_": {
     "name": "“ジェダイの訓練”ルーク",
@@ -4099,7 +4313,8 @@
         "id": "SW/S49-090_",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-091R_": {
     "name": "“パイロットの資質”レイ",
@@ -4117,7 +4332,8 @@
         "id": "SW/S49-091R_",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-091_": {
     "name": "“パイロットの資質”レイ",
@@ -4135,7 +4351,8 @@
         "id": "SW/S49-091_",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-092_": {
     "name": "“勇敢なサポーター”C-3PO",
@@ -4153,7 +4370,8 @@
         "id": "SW/S49-092_",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-093S_": {
     "name": "“アストロメク・ドロイド”R2-D2",
@@ -4171,7 +4389,8 @@
         "id": "SW/S49-093S_",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-093_": {
     "name": "“アストロメク・ドロイド”R2-D2",
@@ -4189,7 +4408,8 @@
         "id": "SW/S49-093_",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-095S_": {
     "name": "ヨーダ",
@@ -4207,7 +4427,8 @@
         "id": "SW/S49-095S_",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-095_": {
     "name": "ヨーダ",
@@ -4225,7 +4446,8 @@
         "id": "SW/S49-095_",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-096_": {
     "name": "“賢者の教え”オビ=ワン",
@@ -4243,7 +4465,8 @@
         "id": "SW/S49-096_",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-097R_": {
     "name": "“運命の出会い”ルーク",
@@ -4261,7 +4484,8 @@
         "id": "SW/S49-097R_",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-097_": {
     "name": "“運命の出会い”ルーク",
@@ -4279,7 +4503,8 @@
         "id": "SW/S49-097_",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-098_": {
     "name": "“砂漠の隠居者”ベン・ケノービ",
@@ -4297,7 +4522,8 @@
         "id": "SW/S49-098_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-099_": {
     "name": "“待ち望んでいた吉報”R2-D2",
@@ -4315,7 +4541,8 @@
         "id": "SW/S49-099_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-101_": {
     "name": "オビ=ワン・ケノービ",
@@ -4333,7 +4560,8 @@
         "id": "SW/S49-101_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-102_": {
     "name": "“ジェダイ・マスター”ルーク",
@@ -4351,7 +4579,8 @@
         "id": "SW/S49-102_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-103S_": {
     "name": "“友情の予感”BB-8",
@@ -4369,7 +4598,8 @@
         "id": "SW/S49-103S_",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-103_": {
     "name": "“友情の予感”BB-8",
@@ -4387,7 +4617,8 @@
         "id": "SW/S49-103_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-105_": {
     "name": "“ジェダイ・ナイト”ルーク",
@@ -4405,7 +4636,8 @@
         "id": "SW/S49-105_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-106_": {
     "name": "“戦友”BB-8",
@@ -4423,7 +4655,8 @@
         "id": "SW/S49-106_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-107_": {
     "name": "“ライトサイド”ルーク",
@@ -4441,7 +4674,8 @@
         "id": "SW/S49-107_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-108_": {
     "name": "ルーク・スカイウォーカー",
@@ -4459,7 +4693,8 @@
         "id": "SW/S49-108_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-109_": {
     "name": "C-3PO",
@@ -4477,7 +4712,8 @@
         "id": "SW/S49-109_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-110_": {
     "name": "“突然の襲撃”ルーク",
@@ -4495,7 +4731,8 @@
         "id": "SW/S49-110_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-111_": {
     "name": "“射撃の腕前”レイ",
@@ -4513,7 +4750,8 @@
         "id": "SW/S49-111_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-112_": {
     "name": "“ジェダイ・マスター”オビ=ワン",
@@ -4531,7 +4769,8 @@
         "id": "SW/S49-112_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-115_": {
     "name": "AT-AT",
@@ -4549,7 +4788,8 @@
         "id": "SW/S49-115_",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-116_": {
     "name": "Rey's Speeder",
@@ -4567,7 +4807,8 @@
         "id": "SW/S49-116_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-117SWR_": {
     "name": "A New Hope",
@@ -4585,7 +4826,8 @@
         "id": "SW/S49-117SWR_",
         "rarity": "SWR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-117_": {
     "name": "A New Hope",
@@ -4603,7 +4845,8 @@
         "id": "SW/S49-117_",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-118SWR_": {
     "name": "The Force Awakens",
@@ -4621,7 +4864,8 @@
         "id": "SW/S49-118SWR_",
         "rarity": "SWR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-118_": {
     "name": "The Force Awakens",
@@ -4639,7 +4883,8 @@
         "id": "SW/S49-118_",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-119_": {
     "name": "Great Mentor",
@@ -4657,7 +4902,8 @@
         "id": "SW/S49-119_",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-T09R_": {
     "name": "“冒険のはじまり”レイ",
@@ -4675,7 +4921,8 @@
         "id": "SW/S49-T09R_",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-T13R_": {
     "name": "“長い眠り”R2-D2",
@@ -4693,7 +4940,8 @@
         "id": "SW/S49-T13R_",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-T16S_": {
     "name": "“守るべき存在”レイ",
@@ -4711,7 +4959,8 @@
         "id": "SW/S49-T16S_",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-T19SP_": {
     "name": "フォースを持つ者",
@@ -4729,6 +4978,7 @@
         "id": "SW/S49-T19SP_",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

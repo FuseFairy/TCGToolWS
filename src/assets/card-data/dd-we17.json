@@ -15,7 +15,8 @@
         "id": "DD/WE17-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-02": {
     "name": "神剣メルクリウス レベッカ",
@@ -33,7 +34,8 @@
         "id": "DD/WE17-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-03": {
     "name": "歓迎する クーベル",
@@ -51,7 +53,8 @@
         "id": "DD/WE17-03",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-04": {
     "name": "英雄仮面 アデル",
@@ -69,7 +72,8 @@
         "id": "DD/WE17-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-05": {
     "name": "クーベル・エッシェンバッハ・パスティヤージュ",
@@ -87,7 +91,8 @@
         "id": "DD/WE17-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE17-06": {
     "name": "空を駆けるレベッカ",
@@ -105,7 +110,8 @@
         "id": "DD/WE17-06",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-07": {
     "name": "パスティヤージュ君主 クーベル",
@@ -123,7 +129,8 @@
         "id": "DD/WE17-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-08": {
     "name": "飛翔系勇者 レベッカ",
@@ -141,7 +148,8 @@
         "id": "DD/WE17-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-09": {
     "name": "領主見習い クーベル",
@@ -159,7 +167,8 @@
         "id": "DD/WE17-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-10": {
     "name": "髪を下すレベッカ",
@@ -177,7 +186,8 @@
         "id": "DD/WE17-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-11": {
     "name": "レベッカ・アンダーソン",
@@ -195,7 +205,8 @@
         "id": "DD/WE17-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-12": {
     "name": "天槍クルマルス クーベル",
@@ -213,7 +224,8 @@
         "id": "DD/WE17-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-13": {
     "name": "術士タイプ クーベル",
@@ -231,7 +243,8 @@
         "id": "DD/WE17-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE17-14": {
     "name": "魔神結晶 レベッカ",
@@ -249,7 +262,8 @@
         "id": "DD/WE17-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE17-15": {
     "name": "ヴァレリア・カルバドス",
@@ -267,7 +281,8 @@
         "id": "DD/WE17-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE17-16": {
     "name": "ブレイブコネクト",
@@ -285,7 +300,8 @@
         "id": "DD/WE17-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-17": {
     "name": "ウィッチカノン 超魔王モード",
@@ -303,7 +319,8 @@
         "id": "DD/WE17-17",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE17-18": {
     "name": "ガーネットスパーク",
@@ -321,7 +338,8 @@
         "id": "DD/WE17-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DD/WE17-19": {
     "name": "夏合宿 ノワール",
@@ -339,7 +357,8 @@
         "id": "DD/WE17-19",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-20": {
     "name": "英雄結晶 ガウル",
@@ -357,7 +376,8 @@
         "id": "DD/WE17-20",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE17-21": {
     "name": "ミルヒの幼馴染み レオ",
@@ -375,7 +395,8 @@
         "id": "DD/WE17-21",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE17-22": {
     "name": "ひと夏の冒険 ナナミ",
@@ -393,7 +414,8 @@
         "id": "DD/WE17-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-23": {
     "name": "ガレット代表領主 レオ",
@@ -411,7 +433,8 @@
         "id": "DD/WE17-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-24": {
     "name": "師匠でライバル ナナミ",
@@ -429,7 +452,8 @@
         "id": "DD/WE17-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-25": {
     "name": "ナナミ・タカツキ",
@@ -447,7 +471,8 @@
         "id": "DD/WE17-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-26": {
     "name": "ジョーヌ＆ベール",
@@ -465,7 +490,8 @@
         "id": "DD/WE17-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-27": {
     "name": "獅子王侍 レオ",
@@ -483,7 +509,8 @@
         "id": "DD/WE17-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-28": {
     "name": "波乗り勇者 ナナミ",
@@ -501,7 +528,8 @@
         "id": "DD/WE17-28",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE17-29": {
     "name": "ヒーロータイム",
@@ -519,7 +547,8 @@
         "id": "DD/WE17-29",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-30": {
     "name": "ナナミの毛づくろい",
@@ -537,7 +566,8 @@
         "id": "DD/WE17-30",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-31": {
     "name": "ウェーブライダー",
@@ -555,7 +585,8 @@
         "id": "DD/WE17-31",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DD/WE17-32": {
     "name": "発明王 リコ",
@@ -573,7 +604,8 @@
         "id": "DD/WE17-32",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-33": {
     "name": "封印洞窟戦！ ユキカゼ",
@@ -591,7 +623,8 @@
         "id": "DD/WE17-33",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-34": {
     "name": "世界的アイドル ミルヒ",
@@ -609,7 +642,8 @@
         "id": "DD/WE17-34",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE17-35": {
     "name": "イスカ・マキシマ",
@@ -627,7 +661,8 @@
         "id": "DD/WE17-35",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-36": {
     "name": "夏の再会 ミルヒ",
@@ -645,7 +680,8 @@
         "id": "DD/WE17-36",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-37": {
     "name": "英雄結晶 シンク",
@@ -663,7 +699,8 @@
         "id": "DD/WE17-37",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-38": {
     "name": "不器用な想い エクレ",
@@ -681,7 +718,8 @@
         "id": "DD/WE17-38",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-39": {
     "name": "封印洞窟戦！ エクレ",
@@ -699,7 +737,8 @@
         "id": "DD/WE17-39",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-40": {
     "name": "見上げる ミルヒ",
@@ -717,7 +756,8 @@
         "id": "DD/WE17-40",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE17-41": {
     "name": "夏合宿 ユキカゼ",
@@ -735,7 +775,8 @@
         "id": "DD/WE17-41",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE17-42": {
     "name": "大陸最強 ダルキアン",
@@ -753,7 +794,8 @@
         "id": "DD/WE17-42",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE17-43": {
     "name": "チェンジ・マイ・ハート",
@@ -771,7 +813,8 @@
         "id": "DD/WE17-43",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-44": {
     "name": "Heart Relation",
@@ -789,7 +832,8 @@
         "id": "DD/WE17-44",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-45": {
     "name": "Shiny Heart Shiny Smile",
@@ -807,6 +851,7 @@
         "id": "DD/WE17-45",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

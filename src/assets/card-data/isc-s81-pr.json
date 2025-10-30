@@ -19,7 +19,8 @@
         "id": "ISC/S81-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-P02": {
     "name": "夢に向かって 恋鐘&摩美々&咲耶&結華&霧子",
@@ -41,7 +42,8 @@
         "id": "ISC/S81-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-P03": {
     "name": "夢に向かって 果穂&智代子&樹里&凛世&夏葉",
@@ -63,7 +65,8 @@
         "id": "ISC/S81-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-P04": {
     "name": "夢に向かって 甘奈&甜花&千雪",
@@ -85,7 +88,8 @@
         "id": "ISC/S81-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-P05": {
     "name": "夢に向かって あさひ&冬優子&愛依",
@@ -107,7 +111,8 @@
         "id": "ISC/S81-P05S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-P06": {
     "name": "夢に向かって 透&円香&小糸&雛菜",
@@ -129,7 +134,8 @@
         "id": "ISC/S81-P06S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-P07": {
     "name": "スターリー・フューチャーズ 櫻木真乃",
@@ -151,7 +157,8 @@
         "id": "ISC/S81-P07S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-P08": {
     "name": "しじまに華ひととき 櫻木真乃",
@@ -173,7 +180,8 @@
         "id": "ISC/S81-P08S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-P09": {
     "name": "ビ～♡バップ海岸 月岡恋鐘",
@@ -195,7 +203,8 @@
         "id": "ISC/S81-P09S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-P10": {
     "name": "デコって！ハッピークッキー 小宮果穂",
@@ -217,7 +226,8 @@
         "id": "ISC/S81-P10S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-P11": {
     "name": "見つけたい、だけど…… 大崎甘奈",
@@ -239,7 +249,8 @@
         "id": "ISC/S81-P11S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-P12": {
     "name": "はり・はり 芹沢あさひ",
@@ -261,7 +272,8 @@
         "id": "ISC/S81-P12S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-P13": {
     "name": "おかえり、ギター 浅倉 透",
@@ -283,7 +295,8 @@
         "id": "ISC/S81-P13S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-111": {
     "name": "輝く空へ 真乃&灯織&めぐる",
@@ -301,7 +314,8 @@
         "id": "ISC/S81-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-112": {
     "name": "輝く空へ 恋鐘&摩美々&咲耶&結華&霧子",
@@ -319,7 +333,8 @@
         "id": "ISC/S81-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-113": {
     "name": "輝く空へ 果穂&智代子&樹里&凛世&夏葉",
@@ -337,7 +352,8 @@
         "id": "ISC/S81-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-114": {
     "name": "輝く空へ 甘奈&甜花&千雪",
@@ -355,7 +371,8 @@
         "id": "ISC/S81-114",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-115": {
     "name": "輝く空へ あさひ&冬優子&愛依",
@@ -373,7 +390,8 @@
         "id": "ISC/S81-115",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-116": {
     "name": "輝く空へ 透&円香&小糸&雛菜",
@@ -391,6 +409,7 @@
         "id": "ISC/S81-116",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

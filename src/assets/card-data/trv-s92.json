@@ -19,7 +19,8 @@
         "id": "TRV/S92-001TRV",
         "rarity": "TRV"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-002": {
     "name": "特別な人 ヒナ",
@@ -41,7 +42,8 @@
         "id": "TRV/S92-002SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-003": {
     "name": "勇気をありがとう タケミチ",
@@ -63,7 +65,8 @@
         "id": "TRV/S92-003SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-004": {
     "name": "特別な人 エマ",
@@ -85,7 +88,8 @@
         "id": "TRV/S92-004SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-005": {
     "name": "お祭り ドラケン&マイキー",
@@ -107,7 +111,8 @@
         "id": "TRV/S92-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-006": {
     "name": "戦況を変える ドラケン",
@@ -129,7 +134,8 @@
         "id": "TRV/S92-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-007": {
     "name": "何度失敗しても タケミチ",
@@ -151,7 +157,8 @@
         "id": "TRV/S92-007TRV",
         "rarity": "TRV"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-008": {
     "name": "お子様セット マイキー",
@@ -173,7 +180,8 @@
         "id": "TRV/S92-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-009": {
     "name": "一番辛かったのは マイキー",
@@ -191,7 +199,8 @@
         "id": "TRV/S92-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-010": {
     "name": "オカルトにハマる ナオト",
@@ -209,7 +218,8 @@
         "id": "TRV/S92-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-011": {
     "name": "誕生日プレゼント エマ&ドラケン",
@@ -227,7 +237,8 @@
         "id": "TRV/S92-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-012": {
     "name": "いつも急に来るね ヒナ",
@@ -249,7 +260,8 @@
         "id": "TRV/S92-012TRV",
         "rarity": "TRV"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-013": {
     "name": "手術は成功 ヒナ&エマ",
@@ -267,7 +279,8 @@
         "id": "TRV/S92-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-014": {
     "name": "腹違いの“兄妹” エマ&マイキー",
@@ -285,7 +298,8 @@
         "id": "TRV/S92-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-015": {
     "name": "みんなを助けてくれ アッくん",
@@ -303,7 +317,8 @@
         "id": "TRV/S92-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-016": {
     "name": "今日からダチ タケミチ&マイキー",
@@ -321,7 +336,8 @@
         "id": "TRV/S92-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-017": {
     "name": "仲間思い アッくん",
@@ -343,7 +359,8 @@
         "id": "TRV/S92-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-018": {
     "name": "トリガー ナオト",
@@ -365,7 +382,8 @@
         "id": "TRV/S92-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-019": {
     "name": "ムードメーカー 山岸",
@@ -383,7 +401,8 @@
         "id": "TRV/S92-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-020": {
     "name": "シャンプーハット ドラケン",
@@ -401,7 +420,8 @@
         "id": "TRV/S92-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-021": {
     "name": "幼馴染 タクヤ",
@@ -419,7 +439,8 @@
         "id": "TRV/S92-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-022": {
     "name": "仲良く銭湯 マイキー",
@@ -437,7 +458,8 @@
         "id": "TRV/S92-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-023": {
     "name": "下半身のことばかり マコト",
@@ -455,7 +477,8 @@
         "id": "TRV/S92-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-024": {
     "name": "大人っぽい理由 ドラケン",
@@ -473,7 +496,8 @@
         "id": "TRV/S92-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-025": {
     "name": "明るい言い方 ヒナ",
@@ -491,7 +515,8 @@
         "id": "TRV/S92-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-026": {
     "name": "ダメフリーター タケミチ",
@@ -509,7 +534,8 @@
         "id": "TRV/S92-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-027": {
     "name": "早く大人に エマ",
@@ -527,7 +553,8 @@
         "id": "TRV/S92-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-028": {
     "name": "クローバーのネックレス",
@@ -545,7 +572,8 @@
         "id": "TRV/S92-028",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-029": {
     "name": "ファーストキス",
@@ -567,7 +595,8 @@
         "id": "TRV/S92-029R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-030": {
     "name": "タイムリープ",
@@ -589,7 +618,8 @@
         "id": "TRV/S92-030R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-031": {
     "name": "うまくいくといいね",
@@ -607,7 +637,8 @@
         "id": "TRV/S92-031",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-032": {
     "name": "溝中五人衆",
@@ -625,7 +656,8 @@
         "id": "TRV/S92-032",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-033": {
     "name": "壱番隊の灯 千冬",
@@ -647,7 +679,8 @@
         "id": "TRV/S92-033SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-034": {
     "name": "不良の道 ドラケン",
@@ -669,7 +702,8 @@
         "id": "TRV/S92-034TRV",
         "rarity": "TRV"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-035": {
     "name": "不良の時代 マイキー",
@@ -691,7 +725,8 @@
         "id": "TRV/S92-035SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-036": {
     "name": "こんな毎日が マイキー&ドラケン",
@@ -713,7 +748,8 @@
         "id": "TRV/S92-036TRV",
         "rarity": "TRV"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-037": {
     "name": "オレの宝 場地",
@@ -735,7 +771,8 @@
         "id": "TRV/S92-037TRV",
         "rarity": "TRV"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-038": {
     "name": "兄貴的な存在 三ツ谷",
@@ -757,7 +794,8 @@
         "id": "TRV/S92-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-039": {
     "name": "カスリ傷 場地",
@@ -779,7 +817,8 @@
         "id": "TRV/S92-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-040": {
     "name": "ドラケン&マイキー&タケミチ",
@@ -801,7 +840,8 @@
         "id": "TRV/S92-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-041": {
     "name": "半分コ 場地&千冬",
@@ -823,7 +863,8 @@
         "id": "TRV/S92-041TRV",
         "rarity": "TRV"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-042": {
     "name": "いねぇよなぁ!!? マイキー",
@@ -845,7 +886,8 @@
         "id": "TRV/S92-042TRV",
         "rarity": "TRV"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-043": {
     "name": "総長 マイキー",
@@ -867,7 +909,8 @@
         "id": "TRV/S92-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-044": {
     "name": "できねー約束 千冬&場地",
@@ -889,7 +932,8 @@
         "id": "TRV/S92-044TRV",
         "rarity": "TRV"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-045": {
     "name": "殴れねー 千冬",
@@ -911,7 +955,8 @@
         "id": "TRV/S92-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-046": {
     "name": "絶っ対ぇ折れねぇから タケミチ",
@@ -933,7 +978,8 @@
         "id": "TRV/S92-046TRV",
         "rarity": "TRV"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-047": {
     "name": "攻めあるのみ ドラケン",
@@ -955,7 +1001,8 @@
         "id": "TRV/S92-047TRV",
         "rarity": "TRV"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-048": {
     "name": "揺るぎない忠誠 千冬",
@@ -977,7 +1024,8 @@
         "id": "TRV/S92-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-049": {
     "name": "伍番隊隊長 ムーチョ",
@@ -999,7 +1047,8 @@
         "id": "TRV/S92-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-050": {
     "name": "似合う男に タケミチ",
@@ -1017,7 +1066,8 @@
         "id": "TRV/S92-050",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-051": {
     "name": "罪と罰 半間",
@@ -1039,7 +1089,8 @@
         "id": "TRV/S92-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-052": {
     "name": "参番隊副隊長 ぺーやん",
@@ -1061,7 +1112,8 @@
         "id": "TRV/S92-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-053": {
     "name": "一番大事なモン 場地",
@@ -1079,7 +1131,8 @@
         "id": "TRV/S92-053",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-054": {
     "name": "謎に包まれた男 稀咲",
@@ -1101,7 +1154,8 @@
         "id": "TRV/S92-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-055": {
     "name": "引けねぇ理由 タケミチ",
@@ -1119,7 +1173,8 @@
         "id": "TRV/S92-055",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-056": {
     "name": "遺志 タケミチ&千冬",
@@ -1141,7 +1196,8 @@
         "id": "TRV/S92-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-057": {
     "name": "誰も負けねぇ マイキー",
@@ -1163,7 +1219,8 @@
         "id": "TRV/S92-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-058": {
     "name": "参番隊隊長 パーちん",
@@ -1185,7 +1242,8 @@
         "id": "TRV/S92-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-059": {
     "name": "肆番隊隊長 スマイリー",
@@ -1207,7 +1265,8 @@
         "id": "TRV/S92-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-060": {
     "name": "最強の男 マイキー",
@@ -1225,7 +1284,8 @@
         "id": "TRV/S92-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-061": {
     "name": "一番大事なモン 一虎",
@@ -1243,7 +1303,8 @@
         "id": "TRV/S92-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-062": {
     "name": "リベンジ タケミチ",
@@ -1261,7 +1322,8 @@
         "id": "TRV/S92-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-063": {
     "name": "参番隊隊長 稀咲",
@@ -1279,7 +1341,8 @@
         "id": "TRV/S92-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-064": {
     "name": "弐番隊隊長 三ツ谷",
@@ -1297,7 +1360,8 @@
         "id": "TRV/S92-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-065": {
     "name": "正面の敵 千冬",
@@ -1315,7 +1379,8 @@
         "id": "TRV/S92-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-066": {
     "name": "“仮”の仕切り 半間",
@@ -1333,7 +1398,8 @@
         "id": "TRV/S92-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-067": {
     "name": "心がついてこねぇ マイキー",
@@ -1351,7 +1417,8 @@
         "id": "TRV/S92-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-068": {
     "name": "手芸部部長 三ツ谷",
@@ -1369,7 +1436,8 @@
         "id": "TRV/S92-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-069": {
     "name": "喧嘩賭博の決着 ドラケン",
@@ -1387,7 +1455,8 @@
         "id": "TRV/S92-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-070": {
     "name": "踏み絵 場地",
@@ -1405,7 +1474,8 @@
         "id": "TRV/S92-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-071": {
     "name": "ちゃんと謝れよ 三ツ谷",
@@ -1423,7 +1493,8 @@
         "id": "TRV/S92-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-072": {
     "name": "核弾頭みてーなケリ",
@@ -1441,7 +1512,8 @@
         "id": "TRV/S92-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-073": {
     "name": "人を想う“心”",
@@ -1463,7 +1535,8 @@
         "id": "TRV/S92-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-074": {
     "name": "不良の時代",
@@ -1485,7 +1558,8 @@
         "id": "TRV/S92-074R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-075": {
     "name": "初めて付いて行こうと思った人",
@@ -1507,7 +1581,8 @@
         "id": "TRV/S92-075R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "TRV/S92-076": {
     "name": "オレの“ヒーロー”",
@@ -1525,7 +1600,8 @@
         "id": "TRV/S92-076",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-077": {
     "name": "親衛隊長",
@@ -1543,7 +1619,8 @@
         "id": "TRV/S92-077",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "TRV/S92-078": {
     "name": "創設メンバー 場地",
@@ -1565,7 +1642,8 @@
         "id": "TRV/S92-078SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-079": {
     "name": "創設メンバー 三ツ谷",
@@ -1587,7 +1665,8 @@
         "id": "TRV/S92-079SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-080": {
     "name": "創設メンバー 一虎",
@@ -1609,7 +1688,8 @@
         "id": "TRV/S92-080TRV",
         "rarity": "TRV"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-081": {
     "name": "血のハロウィン 一虎&マイキー",
@@ -1631,7 +1711,8 @@
         "id": "TRV/S92-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-082": {
     "name": "ドラケン&三ツ谷",
@@ -1653,7 +1734,8 @@
         "id": "TRV/S92-082TRV",
         "rarity": "TRV"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-083": {
     "name": "創設メンバー マイキー",
@@ -1675,7 +1757,8 @@
         "id": "TRV/S92-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-084": {
     "name": "最後まで一緒 場地&一虎",
@@ -1697,7 +1780,8 @@
         "id": "TRV/S92-084TRV",
         "rarity": "TRV"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-085": {
     "name": "オレらの全て 場地",
@@ -1719,7 +1803,8 @@
         "id": "TRV/S92-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-086": {
     "name": "親衛隊 三ツ谷",
@@ -1737,7 +1822,8 @@
         "id": "TRV/S92-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-087": {
     "name": "七小 マイキー",
@@ -1755,7 +1841,8 @@
         "id": "TRV/S92-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-088": {
     "name": "創設メンバー ドラケン",
@@ -1777,7 +1864,8 @@
         "id": "TRV/S92-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-089": {
     "name": "英雄になる為に 一虎",
@@ -1795,7 +1883,8 @@
         "id": "TRV/S92-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-090": {
     "name": "神社まで競争 マイキー",
@@ -1813,7 +1902,8 @@
         "id": "TRV/S92-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-091": {
     "name": "神社まで競争 一虎",
@@ -1831,7 +1921,8 @@
         "id": "TRV/S92-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-092": {
     "name": "神社まで競争 三ツ谷",
@@ -1849,7 +1940,8 @@
         "id": "TRV/S92-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-093": {
     "name": "創設メンバー パーちん",
@@ -1867,7 +1959,8 @@
         "id": "TRV/S92-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-094": {
     "name": "天上天下唯我独尊男 マイキー",
@@ -1885,7 +1978,8 @@
         "id": "TRV/S92-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-095": {
     "name": "神社まで競争 ドラケン",
@@ -1903,7 +1997,8 @@
         "id": "TRV/S92-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-096": {
     "name": "ムニャムニャ マイキー",
@@ -1921,7 +2016,8 @@
         "id": "TRV/S92-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-097": {
     "name": "“あの日”のお守り",
@@ -1939,7 +2035,8 @@
         "id": "TRV/S92-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TRV/S92-098": {
     "name": "オマエを許す",
@@ -1961,7 +2058,8 @@
         "id": "TRV/S92-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-099": {
     "name": "一人一人がみんなを守るチーム",
@@ -1983,7 +2081,8 @@
         "id": "TRV/S92-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TRV/S92-100": {
     "name": "オレらの全てをオマエに預ける",
@@ -2005,6 +2104,7 @@
         "id": "TRV/S92-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

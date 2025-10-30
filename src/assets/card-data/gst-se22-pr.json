@@ -15,7 +15,8 @@
         "id": "GST/SE22-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GST/SE22-P02": {
     "name": "華麗な戦い ミル子",
@@ -33,7 +34,8 @@
         "id": "GST/SE22-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GST/SE22-P03": {
     "name": "謎めいた男 キリト",
@@ -51,6 +53,7 @@
         "id": "GST/SE22-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "SK/WE03-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SK/WE03-004": {
     "name": "宇宙をかける少女 秋葉",
@@ -33,7 +34,8 @@
         "id": "SK/WE03-004",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SK/WE03-007": {
     "name": "いつき＆ほのか",
@@ -51,7 +53,8 @@
         "id": "SK/WE03-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SK/WE03-009": {
     "name": "神凪 いつき",
@@ -69,7 +72,8 @@
         "id": "SK/WE03-009",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SK/WE03-013": {
     "name": "河合 ほのか",
@@ -87,6 +91,7 @@
         "id": "SK/WE03-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

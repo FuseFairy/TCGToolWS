@@ -19,7 +19,8 @@
         "id": "SBY/W114-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-002": {
     "name": "踊る気持ち 豊浜 のどか",
@@ -41,7 +42,8 @@
         "id": "SBY/W114-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-003": {
     "name": "自分で決めた道 梓川 花楓",
@@ -67,7 +69,8 @@
         "id": "SBY/W114-003OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-004": {
     "name": "頑張れるから 梓川 花楓",
@@ -89,7 +92,8 @@
         "id": "SBY/W114-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-005": {
     "name": "ファッションショー 梓川 花楓＆桜島 麻衣",
@@ -111,7 +115,8 @@
         "id": "SBY/W114-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-006": {
     "name": "策士 桜島 麻衣",
@@ -133,7 +138,8 @@
         "id": "SBY/W114-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-007": {
     "name": "小悪魔発言 桜島 麻衣",
@@ -155,7 +161,8 @@
         "id": "SBY/W114-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-008": {
     "name": "想いが巡る分かれ道 梓川 花楓＆梓川 かえで",
@@ -177,7 +184,8 @@
         "id": "SBY/W114-008OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-009": {
     "name": "天真爛漫 広川 卯月",
@@ -199,7 +207,8 @@
         "id": "SBY/W114-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-010": {
     "name": "二人の想い抱きしめて 梓川 花楓",
@@ -221,7 +230,8 @@
         "id": "SBY/W114-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-011": {
     "name": "不可思議のカルテ 梓川 花楓",
@@ -243,7 +253,8 @@
         "id": "SBY/W114-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-012": {
     "name": "不可思議のカルテ 豊浜 のどか",
@@ -265,7 +276,8 @@
         "id": "SBY/W114-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-013": {
     "name": "天然アイドル 広川 卯月",
@@ -287,7 +299,8 @@
         "id": "SBY/W114-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-014": {
     "name": "二人で踏み出す未来 梓川 花楓＆梓川 かえで",
@@ -309,7 +322,8 @@
         "id": "SBY/W114-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-015": {
     "name": "高学歴アイドル 豊浜 のどか",
@@ -331,7 +345,8 @@
         "id": "SBY/W114-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-016": {
     "name": "家でのひと時 桜島 麻衣",
@@ -353,7 +368,8 @@
         "id": "SBY/W114-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-017": {
     "name": "進みたい道 梓川 花楓＆鹿野 琴美",
@@ -375,7 +391,8 @@
         "id": "SBY/W114-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-018": {
     "name": "背中を押す答え 広川 卯月",
@@ -397,7 +414,8 @@
         "id": "SBY/W114-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-019": {
     "name": "学校説明会 梓川 咲太＆友部 美和子",
@@ -419,7 +437,8 @@
         "id": "SBY/W114-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-020": {
     "name": "オトメノート 広川 卯月",
@@ -441,7 +460,8 @@
         "id": "SBY/W114-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-021": {
     "name": "一歩ずつ進んでいく 梓川 花楓",
@@ -463,7 +483,8 @@
         "id": "SBY/W114-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-022": {
     "name": "ドラマ撮影 桜島 麻衣",
@@ -485,7 +506,8 @@
         "id": "SBY/W114-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-023": {
     "name": "叶えたい想い 梓川 花楓",
@@ -507,7 +529,8 @@
         "id": "SBY/W114-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-024": {
     "name": "見覚えのある人物 広川 卯月",
@@ -529,7 +552,8 @@
         "id": "SBY/W114-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-025": {
     "name": "成長の兆し 梓川 花楓",
@@ -551,7 +575,8 @@
         "id": "SBY/W114-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-026": {
     "name": "意地悪な笑み 桜島 麻衣",
@@ -573,7 +598,8 @@
         "id": "SBY/W114-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-027": {
     "name": "理想の世界 豊浜 のどか",
@@ -595,7 +621,8 @@
         "id": "SBY/W114-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-028": {
     "name": "のこされた夢",
@@ -617,7 +644,8 @@
         "id": "SBY/W114-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-029": {
     "name": "勇気を運ぶ海風",
@@ -639,7 +667,8 @@
         "id": "SBY/W114-029R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-030": {
     "name": "明かしたことのない胸の内",
@@ -661,7 +690,8 @@
         "id": "SBY/W114-030R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-031": {
     "name": "スイートバレット on stage!!",
@@ -683,7 +713,8 @@
         "id": "SBY/W114-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-032": {
     "name": "突然の来店",
@@ -705,7 +736,8 @@
         "id": "SBY/W114-032R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-033": {
     "name": "想い運ぶ桜の花 古賀 朋絵",
@@ -727,7 +759,8 @@
         "id": "SBY/W114-033SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-034": {
     "name": "青春はパラドックス 双葉 理央",
@@ -749,7 +782,8 @@
         "id": "SBY/W114-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-035": {
     "name": "浜辺での邂逅 ランドセルガール",
@@ -771,7 +805,8 @@
         "id": "SBY/W114-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-036": {
     "name": "泡沫の存在 ランドセルガール",
@@ -793,7 +828,8 @@
         "id": "SBY/W114-036OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-037": {
     "name": "謎の少女 ランドセルガール",
@@ -815,7 +851,8 @@
         "id": "SBY/W114-037OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-038": {
     "name": "キュートなウェイトレス 古賀 朋絵",
@@ -837,7 +874,8 @@
         "id": "SBY/W114-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-039": {
     "name": "夕焼けの帰り道 梓川 咲太",
@@ -859,7 +897,8 @@
         "id": "SBY/W114-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-040": {
     "name": "覗き見 古賀 朋絵",
@@ -881,7 +920,8 @@
         "id": "SBY/W114-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-041": {
     "name": "優しく見守る 梓川 咲太",
@@ -903,7 +943,8 @@
         "id": "SBY/W114-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-042": {
     "name": "ハッピーパフェタイム 牧之原 翔子",
@@ -925,7 +966,8 @@
         "id": "SBY/W114-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-043": {
     "name": "頼れる相談役 双葉 理央",
@@ -947,7 +989,8 @@
         "id": "SBY/W114-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-044": {
     "name": "会いたい人の元に",
@@ -969,7 +1012,8 @@
         "id": "SBY/W114-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-045": {
     "name": "照れ隠し",
@@ -991,7 +1035,8 @@
         "id": "SBY/W114-045R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-046": {
     "name": "見覚えのある少女",
@@ -1013,7 +1058,8 @@
         "id": "SBY/W114-046R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-047": {
     "name": "積み重なる思い出 桜島 麻衣",
@@ -1039,7 +1085,8 @@
         "id": "SBY/W114-047OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-048": {
     "name": "不可思議のカルテ 桜島 麻衣",
@@ -1061,7 +1108,8 @@
         "id": "SBY/W114-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-049": {
     "name": "君と過ごした一年間 桜島 麻衣",
@@ -1087,7 +1135,8 @@
         "id": "SBY/W114-049OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-050": {
     "name": "おでかけ 梓川 花楓",
@@ -1109,7 +1158,8 @@
         "id": "SBY/W114-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-051": {
     "name": "悩める少女 梓川 花楓",
@@ -1131,7 +1181,8 @@
         "id": "SBY/W114-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-052": {
     "name": "新たな傷跡 桜島 麻衣",
@@ -1153,7 +1204,8 @@
         "id": "SBY/W114-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-053": {
     "name": "二人きりのお泊り 桜島 麻衣",
@@ -1175,7 +1227,8 @@
         "id": "SBY/W114-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-054": {
     "name": "未来への約束 桜島 麻衣",
@@ -1197,7 +1250,8 @@
         "id": "SBY/W114-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-055": {
     "name": "姉御肌 豊浜 のどか",
@@ -1219,7 +1273,8 @@
         "id": "SBY/W114-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-056": {
     "name": "おしゃれ担当 豊浜 のどか",
@@ -1241,7 +1296,8 @@
         "id": "SBY/W114-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-057": {
     "name": "届けたい想い 梓川 咲太",
@@ -1263,7 +1319,8 @@
         "id": "SBY/W114-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-058": {
     "name": "見慣れぬ日常 梓川 花楓",
@@ -1285,7 +1342,8 @@
         "id": "SBY/W114-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-059": {
     "name": "最高の彼女 桜島 麻衣",
@@ -1307,7 +1365,8 @@
         "id": "SBY/W114-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-060": {
     "name": "お風呂上がり 梓川 花楓",
@@ -1329,7 +1388,8 @@
         "id": "SBY/W114-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-061": {
     "name": "大学合格 桜島 麻衣",
@@ -1351,7 +1411,8 @@
         "id": "SBY/W114-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-062": {
     "name": "心に降り注ぐ不安 梓川 花楓",
@@ -1373,7 +1434,8 @@
         "id": "SBY/W114-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-063": {
     "name": "こぼれ落ちる涙 梓川 花楓",
@@ -1395,7 +1457,8 @@
         "id": "SBY/W114-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-064": {
     "name": "もう一つの世界 梓川 花楓",
@@ -1417,7 +1480,8 @@
         "id": "SBY/W114-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-065": {
     "name": "いつもの帰り道 桜島 麻衣",
@@ -1439,7 +1503,8 @@
         "id": "SBY/W114-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-066": {
     "name": "卒業生 桜島 麻衣",
@@ -1461,7 +1526,8 @@
         "id": "SBY/W114-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-067": {
     "name": "二人のお守り 桜島 麻衣",
@@ -1483,7 +1549,8 @@
         "id": "SBY/W114-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-068": {
     "name": "薄れゆく日常 ランドセルガール＆梓川 咲太＆桜島 麻衣",
@@ -1505,7 +1572,8 @@
         "id": "SBY/W114-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-069": {
     "name": "彼氏紹介 桜島 麻衣",
@@ -1527,7 +1595,8 @@
         "id": "SBY/W114-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-070": {
     "name": "お忍び 桜島 麻衣",
@@ -1549,7 +1618,8 @@
         "id": "SBY/W114-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-071": {
     "name": "久々の対面 梓川 花楓",
@@ -1571,7 +1641,8 @@
         "id": "SBY/W114-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-072": {
     "name": "婚姻届の御利益 梓川 咲太",
@@ -1593,7 +1664,8 @@
         "id": "SBY/W114-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-073": {
     "name": "思い出の数々",
@@ -1619,7 +1691,8 @@
         "id": "SBY/W114-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-074": {
     "name": "突然の熱視線",
@@ -1641,7 +1714,8 @@
         "id": "SBY/W114-074R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-075": {
     "name": "ふたりだけのキス",
@@ -1663,7 +1737,8 @@
         "id": "SBY/W114-075R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-076": {
     "name": "いつか家族に",
@@ -1685,7 +1760,8 @@
         "id": "SBY/W114-076R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-077": {
     "name": "ミューズになっちゃう",
@@ -1707,7 +1783,8 @@
         "id": "SBY/W114-077R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-078": {
     "name": "温もり感じる粉雪 双葉 理央",
@@ -1729,7 +1806,8 @@
         "id": "SBY/W114-078SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-079": {
     "name": "これから続く夢のカタチ 牧之原 翔子",
@@ -1751,7 +1829,8 @@
         "id": "SBY/W114-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-080": {
     "name": "ひとときの幻 ランドセルガール",
@@ -1777,7 +1856,8 @@
         "id": "SBY/W114-080OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-081": {
     "name": "理想の世界へ ランドセルガール＆梓川 咲太",
@@ -1799,7 +1879,8 @@
         "id": "SBY/W114-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-082": {
     "name": "不可思議のカルテ 牧之原 翔子",
@@ -1821,7 +1902,8 @@
         "id": "SBY/W114-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-083": {
     "name": "不可思議のカルテ 古賀 朋絵",
@@ -1843,7 +1925,8 @@
         "id": "SBY/W114-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-084": {
     "name": "不可思議のカルテ 双葉 理央",
@@ -1865,7 +1948,8 @@
         "id": "SBY/W114-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-085": {
     "name": "年下のかわいらしい女の子 牧之原 翔子",
@@ -1887,7 +1971,8 @@
         "id": "SBY/W114-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-086": {
     "name": "ハツコイ少女 牧之原 翔子",
@@ -1909,7 +1994,8 @@
         "id": "SBY/W114-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-087": {
     "name": "デジャヴ ランドセルガール",
@@ -1931,7 +2017,8 @@
         "id": "SBY/W114-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-088": {
     "name": "瓜二つの姿 ランドセルガール",
@@ -1953,7 +2040,8 @@
         "id": "SBY/W114-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-089": {
     "name": "母に向き合う 梓川 咲太",
@@ -1975,7 +2063,8 @@
         "id": "SBY/W114-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-090": {
     "name": "おじさん、だあれ？ ランドセルガール",
@@ -1997,7 +2086,8 @@
         "id": "SBY/W114-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-091": {
     "name": "僕だけがいない世界 梓川 咲太",
@@ -2019,7 +2109,8 @@
         "id": "SBY/W114-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-092": {
     "name": "なびく髪 ランドセルガール",
@@ -2041,7 +2132,8 @@
         "id": "SBY/W114-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-093": {
     "name": "不可思議な小学生 ランドセルガール",
@@ -2063,7 +2155,8 @@
         "id": "SBY/W114-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-094": {
     "name": "迷子 ランドセルガール",
@@ -2085,7 +2178,8 @@
         "id": "SBY/W114-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-095": {
     "name": "家族になれた日 咲太の母＆梓川 咲太＆梓川 花楓",
@@ -2107,7 +2201,8 @@
         "id": "SBY/W114-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-096": {
     "name": "コーヒータイム 双葉 理央",
@@ -2129,7 +2224,8 @@
         "id": "SBY/W114-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-097": {
     "name": "ランドセルを背負った少女 ランドセルガール",
@@ -2151,7 +2247,8 @@
         "id": "SBY/W114-097S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-098": {
     "name": "届いた想い",
@@ -2173,7 +2270,8 @@
         "id": "SBY/W114-098S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-099": {
     "name": "自分で乗り越えるために",
@@ -2195,7 +2293,8 @@
         "id": "SBY/W114-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-100": {
     "name": "人生の迷子",
@@ -2217,6 +2316,7 @@
         "id": "SBY/W114-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

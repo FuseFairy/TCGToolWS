@@ -15,7 +15,8 @@
         "id": "NS/W04-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-104": {
     "name": "空を舞うなのは＆フェイト",
@@ -33,7 +34,8 @@
         "id": "NS/W04-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-105": {
     "name": "高町一等空尉",
@@ -51,7 +53,8 @@
         "id": "NS/W04-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-106": {
     "name": "フェイト・T・ハラオウン執務官",
@@ -69,7 +72,8 @@
         "id": "NS/W04-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-107": {
     "name": "八神機動六課部隊長",
@@ -87,7 +91,8 @@
         "id": "NS/W04-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-108": {
     "name": "空戦魔導師 高町なのは25歳",
@@ -105,7 +110,8 @@
         "id": "NS/W04-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-109": {
     "name": "高町一等空尉",
@@ -123,7 +129,8 @@
         "id": "NS/W04-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-110": {
     "name": "フェイト・T・ハラオウン執務官",
@@ -141,7 +148,8 @@
         "id": "NS/W04-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-111": {
     "name": "八神機動六課部隊長",
@@ -159,6 +167,7 @@
         "id": "NS/W04-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

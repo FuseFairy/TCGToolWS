@@ -15,7 +15,8 @@
         "id": "CN/SE02-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CN/SE02-02": {
     "name": "“宝物”カナン＆マリア",
@@ -33,7 +34,8 @@
         "id": "CN/SE02-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CN/SE02-03": {
     "name": "過去を奪われた犠牲者カナン",
@@ -51,7 +53,8 @@
         "id": "CN/SE02-03",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CN/SE02-04": {
     "name": "駆け出しカメラマン マリア",
@@ -69,7 +72,8 @@
         "id": "CN/SE02-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CN/SE02-05": {
     "name": "“希望の地”カナン",
@@ -87,7 +91,8 @@
         "id": "CN/SE02-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CN/SE02-06": {
     "name": "思い出の品マリア",
@@ -105,7 +110,8 @@
         "id": "CN/SE02-06",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CN/SE02-07": {
     "name": "大沢 マリア",
@@ -123,7 +129,8 @@
         "id": "CN/SE02-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CN/SE02-08": {
     "name": "共感覚者カナン",
@@ -141,7 +148,8 @@
         "id": "CN/SE02-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CN/SE02-09": {
     "name": "破壊工作員カナン",
@@ -159,7 +167,8 @@
         "id": "CN/SE02-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CN/SE02-10": {
     "name": "監視役 夏目",
@@ -177,7 +186,8 @@
         "id": "CN/SE02-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CN/SE02-11": {
     "name": "鉄の闘争代行人カナン",
@@ -195,7 +205,8 @@
         "id": "CN/SE02-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CN/SE02-12": {
     "name": "大切な友人 カナン＆マリア",
@@ -213,7 +224,8 @@
         "id": "CN/SE02-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CN/SE02-13": {
     "name": "蛇の天敵",
@@ -231,7 +243,8 @@
         "id": "CN/SE02-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CN/SE02-14": {
     "name": "親愛なる友人",
@@ -249,7 +262,8 @@
         "id": "CN/SE02-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CN/SE02-15": {
     "name": "心に咲いた花ハッコー",
@@ -267,7 +281,8 @@
         "id": "CN/SE02-15",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CN/SE02-16": {
     "name": "過去を失った敗北者アルファルド",
@@ -285,7 +300,8 @@
         "id": "CN/SE02-16",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CN/SE02-17": {
     "name": "社長秘書リャン・チー",
@@ -303,7 +319,8 @@
         "id": "CN/SE02-17",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CN/SE02-18": {
     "name": "テロリスト アルファルド",
@@ -321,7 +338,8 @@
         "id": "CN/SE02-18",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CN/SE02-19": {
     "name": "新人アイドル ネネ",
@@ -339,7 +357,8 @@
         "id": "CN/SE02-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CN/SE02-20": {
     "name": "天然娘ユンユン",
@@ -357,7 +376,8 @@
         "id": "CN/SE02-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CN/SE02-21": {
     "name": "貧乏アルバイター ユンユン",
@@ -375,7 +395,8 @@
         "id": "CN/SE02-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CN/SE02-22": {
     "name": "姉妹弟子 カナン＆アルファルド",
@@ -393,7 +414,8 @@
         "id": "CN/SE02-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CN/SE02-23": {
     "name": "蛇の頭アルファルド",
@@ -411,7 +433,8 @@
         "id": "CN/SE02-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CN/SE02-24": {
     "name": "アルファルド＆リャン・チー",
@@ -429,7 +452,8 @@
         "id": "CN/SE02-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CN/SE02-25": {
     "name": "ダイダラ社社長カミングズ",
@@ -447,7 +471,8 @@
         "id": "CN/SE02-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CN/SE02-26": {
     "name": "カナンの名を持つ存在",
@@ -465,7 +490,8 @@
         "id": "CN/SE02-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CN/SE02-27": {
     "name": "空を舞う蛇",
@@ -483,6 +509,7 @@
         "id": "CN/SE02-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

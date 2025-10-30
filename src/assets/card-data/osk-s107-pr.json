@@ -15,7 +15,8 @@
         "id": "OSK/S107-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-P02": {
     "name": "Summer Sweet Memory ルビー",
@@ -37,7 +38,8 @@
         "id": "OSK/S107-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-P03": {
     "name": "Summer Sweet Memory 有馬かな",
@@ -59,7 +61,8 @@
         "id": "OSK/S107-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-P04": {
     "name": "一緒にトレーニング！ アイ",
@@ -77,7 +80,8 @@
         "id": "OSK/S107-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-P05": {
     "name": "一緒にトレーニング！ アクア",
@@ -95,7 +99,8 @@
         "id": "OSK/S107-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-P06": {
     "name": "一緒にトレーニング！ ルビー",
@@ -113,7 +118,8 @@
         "id": "OSK/S107-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-P07": {
     "name": "一緒にトレーニング！ 有馬かな",
@@ -131,7 +137,8 @@
         "id": "OSK/S107-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-P08": {
     "name": "一緒にトレーニング！ MEMちょ",
@@ -149,7 +156,8 @@
         "id": "OSK/S107-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-P09": {
     "name": "一緒にトレーニング！ 黒川あかね",
@@ -167,7 +175,8 @@
         "id": "OSK/S107-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-P10": {
     "name": "覆面筋トレ系ユーチューバー ぴえヨン",
@@ -185,7 +194,8 @@
         "id": "OSK/S107-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-P11": {
     "name": "ファーストステージ",
@@ -203,7 +213,8 @@
         "id": "OSK/S107-P11",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-101": {
     "name": "ちびMEMちょ",
@@ -221,7 +232,8 @@
         "id": "OSK/S107-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-102": {
     "name": "ちび有馬かな",
@@ -239,7 +251,8 @@
         "id": "OSK/S107-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-103": {
     "name": "ちびルビー",
@@ -257,7 +270,8 @@
         "id": "OSK/S107-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-104": {
     "name": "ちびアイ",
@@ -275,7 +289,8 @@
         "id": "OSK/S107-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-105": {
     "name": "ちびアクア",
@@ -293,7 +308,8 @@
         "id": "OSK/S107-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-106": {
     "name": "ちび黒川あかね",
@@ -311,6 +327,7 @@
         "id": "OSK/S107-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

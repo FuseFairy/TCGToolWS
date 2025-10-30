@@ -19,7 +19,8 @@
         "id": "BD/W73-T01SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W73-T02": {
     "name": "大歓声の中 ロック",
@@ -37,7 +38,8 @@
         "id": "BD/W73-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W73-T03": {
     "name": "確かな情熱 マスキング",
@@ -55,7 +57,8 @@
         "id": "BD/W73-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W73-T04": {
     "name": "“UNSTOPPABLE”ロック",
@@ -77,7 +80,8 @@
         "id": "BD/W73-T04R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W73-T05": {
     "name": "爪弾くメロディ レイヤ",
@@ -95,7 +99,8 @@
         "id": "BD/W73-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W73-T06": {
     "name": "ステージの上 マスキング",
@@ -113,7 +118,8 @@
         "id": "BD/W73-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W73-T07": {
     "name": "“UNSTOPPABLE”マスキング",
@@ -135,7 +141,8 @@
         "id": "BD/W73-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W73-T08": {
     "name": "確かな想い ロック",
@@ -153,7 +160,8 @@
         "id": "BD/W73-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W73-T09": {
     "name": "ステージの上 レイヤ",
@@ -171,7 +179,8 @@
         "id": "BD/W73-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W73-T10": {
     "name": "確かな実力 レイヤ",
@@ -193,7 +202,8 @@
         "id": "BD/W73-T10S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W73-T11": {
     "name": "激奏",
@@ -215,7 +225,8 @@
         "id": "BD/W73-T11S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W73-T12": {
     "name": "昂る熱狂",
@@ -233,7 +244,8 @@
         "id": "BD/W73-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W73-T13": {
     "name": "確かな慧眼 チュチュ",
@@ -251,7 +263,8 @@
         "id": "BD/W73-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W73-T14": {
     "name": "“UNSTOPPABLE”チュチュ",
@@ -273,7 +286,8 @@
         "id": "BD/W73-T14R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W73-T15": {
     "name": "“UNSTOPPABLE”パレオ",
@@ -295,7 +309,8 @@
         "id": "BD/W73-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W73-T16": {
     "name": "確かな信頼 パレオ",
@@ -313,7 +328,8 @@
         "id": "BD/W73-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W73-T17": {
     "name": "鳴り止まぬ歓声 チュチュ",
@@ -331,7 +347,8 @@
         "id": "BD/W73-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W73-T18": {
     "name": "ステージの上 パレオ",
@@ -349,7 +366,8 @@
         "id": "BD/W73-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W73-T19": {
     "name": "Change the world！",
@@ -367,7 +385,8 @@
         "id": "BD/W73-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W73-T20": {
     "name": "究極のサウンド",
@@ -385,6 +404,7 @@
         "id": "BD/W73-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

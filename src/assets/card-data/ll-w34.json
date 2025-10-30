@@ -19,7 +19,8 @@
         "id": "LL/W34-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-002": {
     "name": "“Happy maker!”矢澤 にこ",
@@ -41,7 +42,8 @@
         "id": "LL/W34-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-003": {
     "name": "“Happy maker!”東條 希",
@@ -63,7 +65,8 @@
         "id": "LL/W34-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-004": {
     "name": "“KiRa-KiRa Sensation!”東條 希",
@@ -85,7 +88,8 @@
         "id": "LL/W34-004R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-005": {
     "name": "“KiRa-KiRa Sensation!”絢瀬 絵里",
@@ -107,7 +111,8 @@
         "id": "LL/W34-005R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-006": {
     "name": "“どんなときもずっと”矢澤 にこ",
@@ -129,7 +134,8 @@
         "id": "LL/W34-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-007": {
     "name": "“どんなときもずっと”東條 希",
@@ -151,7 +157,8 @@
         "id": "LL/W34-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-008": {
     "name": "“どんなときもずっと”絢瀬 絵里",
@@ -173,7 +180,8 @@
         "id": "LL/W34-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-009": {
     "name": "“KiRa-KiRa Sensation!”矢澤 にこ",
@@ -195,7 +203,8 @@
         "id": "LL/W34-009R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-010": {
     "name": "真剣勝負 にこ",
@@ -213,7 +222,8 @@
         "id": "LL/W34-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-011": {
     "name": "“ユメノトビラ”絢瀬 絵里",
@@ -231,7 +241,8 @@
         "id": "LL/W34-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-012": {
     "name": "固まっているにこ",
@@ -249,7 +260,8 @@
         "id": "LL/W34-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-013": {
     "name": "先回り 絵里",
@@ -267,7 +279,8 @@
         "id": "LL/W34-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-014": {
     "name": "ティータイム 希",
@@ -285,7 +298,8 @@
         "id": "LL/W34-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-015": {
     "name": "“硝子の花園”東條 希",
@@ -303,7 +317,8 @@
         "id": "LL/W34-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-016": {
     "name": "矢澤ココロ",
@@ -321,7 +336,8 @@
         "id": "LL/W34-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-017": {
     "name": "“Snow halation”矢澤 にこ",
@@ -339,7 +355,8 @@
         "id": "LL/W34-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-018": {
     "name": "“ユメノトビラ”東條 希",
@@ -357,7 +374,8 @@
         "id": "LL/W34-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-019": {
     "name": "“Snow halation”絢瀬 絵里",
@@ -375,7 +393,8 @@
         "id": "LL/W34-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-020": {
     "name": "“Snow halation”東條 希",
@@ -393,7 +412,8 @@
         "id": "LL/W34-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-021": {
     "name": "“ユメノトビラ”矢澤 にこ",
@@ -411,7 +431,8 @@
         "id": "LL/W34-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-022": {
     "name": "“にこぷり♡女子道”矢澤 にこ",
@@ -429,7 +450,8 @@
         "id": "LL/W34-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-023": {
     "name": "μ'sのバックダンサー？ 絵里",
@@ -447,7 +469,8 @@
         "id": "LL/W34-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-024": {
     "name": "満面の笑み 希",
@@ -465,7 +488,8 @@
         "id": "LL/W34-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-025": {
     "name": "無邪気な亜里沙",
@@ -483,7 +507,8 @@
         "id": "LL/W34-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-026": {
     "name": "“硝子の花園”絢瀬 絵里",
@@ -501,7 +526,8 @@
         "id": "LL/W34-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-027": {
     "name": "今のままが一番いい",
@@ -519,7 +545,8 @@
         "id": "LL/W34-027",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-028": {
     "name": "スーパーアイドル にこちゃん",
@@ -537,7 +564,8 @@
         "id": "LL/W34-028",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-029": {
     "name": "卒業式の朝",
@@ -555,7 +583,8 @@
         "id": "LL/W34-029",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-030": {
     "name": "大切な友達",
@@ -573,7 +602,8 @@
         "id": "LL/W34-030",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-031": {
     "name": "振り返る思い出",
@@ -591,7 +621,8 @@
         "id": "LL/W34-031",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LL/W34-032": {
     "name": "この9人でいられる時",
@@ -609,7 +640,8 @@
         "id": "LL/W34-032",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LL/W34-033": {
     "name": "心残り",
@@ -627,7 +659,8 @@
         "id": "LL/W34-033",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LL/W34-034": {
     "name": "“Happy maker!”高坂 穂乃果",
@@ -649,7 +682,8 @@
         "id": "LL/W34-034SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-035": {
     "name": "“Happy maker!”南 ことり",
@@ -671,7 +705,8 @@
         "id": "LL/W34-035SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-036": {
     "name": "“Happy maker!”園田 海未",
@@ -693,7 +728,8 @@
         "id": "LL/W34-036SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-037": {
     "name": "“KiRa-KiRa Sensation!”園田 海未",
@@ -715,7 +751,8 @@
         "id": "LL/W34-037R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-038": {
     "name": "“どんなときもずっと”園田 海未",
@@ -737,7 +774,8 @@
         "id": "LL/W34-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-039": {
     "name": "“KiRa-KiRa Sensation!”高坂 穂乃果",
@@ -759,7 +797,8 @@
         "id": "LL/W34-039R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-040": {
     "name": "“どんなときもずっと”南 ことり",
@@ -781,7 +820,8 @@
         "id": "LL/W34-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-041": {
     "name": "“ユメノトビラ”園田 海未",
@@ -799,7 +839,8 @@
         "id": "LL/W34-041",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-042": {
     "name": "“KiRa-KiRa Sensation!”南 ことり",
@@ -821,7 +862,8 @@
         "id": "LL/W34-042R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-043": {
     "name": "“どんなときもずっと”高坂 穂乃果",
@@ -843,7 +885,8 @@
         "id": "LL/W34-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-044": {
     "name": "スランプ中 ことり",
@@ -861,7 +904,8 @@
         "id": "LL/W34-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-045": {
     "name": "イメージチェンジ 穂乃果",
@@ -879,7 +923,8 @@
         "id": "LL/W34-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-046": {
     "name": "“ユメノトビラ”南 ことり",
@@ -897,7 +942,8 @@
         "id": "LL/W34-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-047": {
     "name": "蘇る記憶 穂乃果",
@@ -915,7 +961,8 @@
         "id": "LL/W34-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-048": {
     "name": "優しい微笑み 海未",
@@ -933,7 +980,8 @@
         "id": "LL/W34-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-049": {
     "name": "観光地巡り 海未",
@@ -951,7 +999,8 @@
         "id": "LL/W34-049",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-050": {
     "name": "“Snow halation”高坂 穂乃果",
@@ -969,7 +1018,8 @@
         "id": "LL/W34-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-051": {
     "name": "“Snow halation”南 ことり",
@@ -987,7 +1037,8 @@
         "id": "LL/W34-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-052": {
     "name": "“Snow halation”園田 海未",
@@ -1005,7 +1056,8 @@
         "id": "LL/W34-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-053": {
     "name": "学校への招待 英玲奈",
@@ -1023,7 +1075,8 @@
         "id": "LL/W34-053",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-054": {
     "name": "学校への招待 あんじゅ",
@@ -1041,7 +1094,8 @@
         "id": "LL/W34-054",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-055": {
     "name": "“Anemone heart”園田 海未",
@@ -1059,7 +1113,8 @@
         "id": "LL/W34-055",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-056": {
     "name": "学校への招待 ツバサ",
@@ -1077,7 +1132,8 @@
         "id": "LL/W34-056",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-057": {
     "name": "“ユメノトビラ”高坂 穂乃果",
@@ -1095,7 +1151,8 @@
         "id": "LL/W34-057",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-058": {
     "name": "驚愕の事実 穂乃果",
@@ -1113,7 +1170,8 @@
         "id": "LL/W34-058",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-059": {
     "name": "イメージチェンジ ことり",
@@ -1131,7 +1189,8 @@
         "id": "LL/W34-059",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-060": {
     "name": "衝撃の事実 雪穂",
@@ -1149,7 +1208,8 @@
         "id": "LL/W34-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-061": {
     "name": "諦めない気持ち ことり",
@@ -1167,7 +1227,8 @@
         "id": "LL/W34-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-062": {
     "name": "必死の想い",
@@ -1185,7 +1246,8 @@
         "id": "LL/W34-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-063": {
     "name": "思わぬ失敗",
@@ -1203,7 +1265,8 @@
         "id": "LL/W34-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-064": {
     "name": "ファイトだよ！",
@@ -1221,7 +1284,8 @@
         "id": "LL/W34-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-065": {
     "name": "おやすみタイム 海未",
@@ -1239,7 +1303,8 @@
         "id": "LL/W34-065",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-066": {
     "name": "桜の木の向こうの青空",
@@ -1257,7 +1322,8 @@
         "id": "LL/W34-066",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LL/W34-067": {
     "name": "おやすみタイム ことり",
@@ -1275,7 +1341,8 @@
         "id": "LL/W34-067",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LL/W34-068": {
     "name": "今私たちがここにいるこの想い",
@@ -1293,7 +1360,8 @@
         "id": "LL/W34-068",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LL/W34-069": {
     "name": "“Happy maker!”星空 凛",
@@ -1315,7 +1383,8 @@
         "id": "LL/W34-069SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-070": {
     "name": "“Happy maker!”西木野 真姫",
@@ -1337,7 +1406,8 @@
         "id": "LL/W34-070SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-071": {
     "name": "“Happy maker!”小泉 花陽",
@@ -1359,7 +1429,8 @@
         "id": "LL/W34-071SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-072": {
     "name": "“どんなときもずっと”星空 凛",
@@ -1381,7 +1452,8 @@
         "id": "LL/W34-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-073": {
     "name": "“KiRa-KiRa Sensation!”小泉 花陽",
@@ -1403,7 +1475,8 @@
         "id": "LL/W34-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-074": {
     "name": "“KiRa-KiRa Sensation!”西木野 真姫",
@@ -1425,7 +1498,8 @@
         "id": "LL/W34-074R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-075": {
     "name": "“なわとび”小泉 花陽",
@@ -1443,7 +1517,8 @@
         "id": "LL/W34-075",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-076": {
     "name": "“どんなときもずっと”小泉 花陽",
@@ -1465,7 +1540,8 @@
         "id": "LL/W34-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-077": {
     "name": "“どんなときもずっと”西木野 真姫",
@@ -1487,7 +1563,8 @@
         "id": "LL/W34-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-078": {
     "name": "“KiRa-KiRa Sensation!”星空 凛",
@@ -1509,7 +1586,8 @@
         "id": "LL/W34-078R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-079": {
     "name": "“Snow halation”小泉 花陽",
@@ -1527,7 +1605,8 @@
         "id": "LL/W34-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-080": {
     "name": "みんなの力 凛",
@@ -1545,7 +1624,8 @@
         "id": "LL/W34-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-081": {
     "name": "“ユメノトビラ”星空 凛",
@@ -1563,7 +1643,8 @@
         "id": "LL/W34-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-082": {
     "name": "“ユメノトビラ”小泉 花陽",
@@ -1581,7 +1662,8 @@
         "id": "LL/W34-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-083": {
     "name": "ライブの差し入れ 真姫",
@@ -1599,7 +1681,8 @@
         "id": "LL/W34-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-084": {
     "name": "“ユメノトビラ”西木野 真姫",
@@ -1617,7 +1700,8 @@
         "id": "LL/W34-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-085": {
     "name": "“Snow halation”西木野 真姫",
@@ -1635,7 +1719,8 @@
         "id": "LL/W34-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-086": {
     "name": "晴れ着姿 真姫",
@@ -1653,7 +1738,8 @@
         "id": "LL/W34-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-087": {
     "name": "“Snow halation”星空 凛",
@@ -1671,7 +1757,8 @@
         "id": "LL/W34-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-088": {
     "name": "巨大おにぎり 花陽",
@@ -1689,7 +1776,8 @@
         "id": "LL/W34-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-089": {
     "name": "プレゼントフォーユー 真姫",
@@ -1707,7 +1795,8 @@
         "id": "LL/W34-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-090": {
     "name": "“Beat in Angel”星空 凛",
@@ -1725,7 +1814,8 @@
         "id": "LL/W34-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-091": {
     "name": "ライブへの想い 凛",
@@ -1743,7 +1833,8 @@
         "id": "LL/W34-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-092": {
     "name": "アルパカ",
@@ -1761,7 +1852,8 @@
         "id": "LL/W34-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-093": {
     "name": "ライブへの想い 花陽",
@@ -1779,7 +1871,8 @@
         "id": "LL/W34-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-094": {
     "name": "“Love wing bell”",
@@ -1797,7 +1890,8 @@
         "id": "LL/W34-094",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-095": {
     "name": "お友達の招待",
@@ -1815,7 +1909,8 @@
         "id": "LL/W34-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-096": {
     "name": "黄金米の誘惑",
@@ -1833,7 +1928,8 @@
         "id": "LL/W34-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-097": {
     "name": "元気いっぱいガッツポーズ",
@@ -1851,7 +1947,8 @@
         "id": "LL/W34-097",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-098": {
     "name": "おやすみタイム 真姫",
@@ -1869,7 +1966,8 @@
         "id": "LL/W34-098",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-099": {
     "name": "みんなで決めた答え",
@@ -1887,7 +1985,8 @@
         "id": "LL/W34-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LL/W34-100": {
     "name": "☆新部長就任☆",
@@ -1905,6 +2004,7 @@
         "id": "LL/W34-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

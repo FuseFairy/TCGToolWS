@@ -15,7 +15,8 @@
         "id": "RG/W10-101",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-102": {
     "name": "常盤台中学の生徒 美琴",
@@ -33,7 +34,8 @@
         "id": "RG/W10-102",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W10-103": {
     "name": "柵川中学の生徒 佐天",
@@ -51,7 +53,8 @@
         "id": "RG/W10-103",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W10-104": {
     "name": "二人の約束",
@@ -69,7 +72,8 @@
         "id": "RG/W10-104",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RG/W10-105": {
     "name": "常盤台中学の生徒 黒子",
@@ -87,7 +91,8 @@
         "id": "RG/W10-105",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-T01": {
     "name": "花飾り 初春",
@@ -105,7 +110,8 @@
         "id": "RG/W10-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-T02": {
     "name": "水泳部 泡浮",
@@ -123,7 +129,8 @@
         "id": "RG/W10-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-T03": {
     "name": "幻想御手開発者 木山",
@@ -141,7 +148,8 @@
         "id": "RG/W10-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-T04": {
     "name": "黒子のパートナー 初春",
@@ -159,7 +167,8 @@
         "id": "RG/W10-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-T05": {
     "name": "固法 美偉",
@@ -177,7 +186,8 @@
         "id": "RG/W10-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W10-T06": {
     "name": "最高の友達",
@@ -195,7 +205,8 @@
         "id": "RG/W10-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-T07": {
     "name": "白井 黒子",
@@ -213,7 +224,8 @@
         "id": "RG/W10-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-T08": {
     "name": "“電撃使い”美琴",
@@ -231,7 +243,8 @@
         "id": "RG/W10-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-T09": {
     "name": "アグレッシブな黒子",
@@ -249,7 +262,8 @@
         "id": "RG/W10-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-T10": {
     "name": "スキンシップ 美琴＆黒子",
@@ -267,7 +281,8 @@
         "id": "RG/W10-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-T11": {
     "name": "美琴のパートナー 黒子",
@@ -285,7 +300,8 @@
         "id": "RG/W10-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W10-T12": {
     "name": "“最強無敵の電撃姫”美琴",
@@ -303,7 +319,8 @@
         "id": "RG/W10-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W10-T13": {
     "name": "プール掃除",
@@ -321,7 +338,8 @@
         "id": "RG/W10-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-T14": {
     "name": "超電磁砲",
@@ -339,6 +357,7 @@
         "id": "RG/W10-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

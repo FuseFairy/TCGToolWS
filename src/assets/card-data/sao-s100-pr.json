@@ -15,7 +15,8 @@
         "id": "SAO/S100-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-P02": {
     "name": "光彩陸離 アリス",
@@ -33,7 +34,8 @@
         "id": "SAO/S100-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-P03": {
     "name": "仮想と現実の狭間",
@@ -51,7 +53,8 @@
         "id": "SAO/S100-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-P04": {
     "name": "《マザーズ・ロザリオ》",
@@ -69,7 +72,8 @@
         "id": "SAO/S100-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-P05": {
     "name": "交わる想い アスナ",
@@ -91,7 +95,8 @@
         "id": "SAO/S100-P05S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-P06": {
     "name": "交わる想い ミト",
@@ -113,7 +118,8 @@
         "id": "SAO/S100-P06S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-P07": {
     "name": "木陰で休憩 アスナ",
@@ -131,7 +137,8 @@
         "id": "SAO/S100-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-101": {
     "name": "思いがけない癒し アスナ",
@@ -149,7 +156,8 @@
         "id": "SAO/S100-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-102": {
     "name": "ゲームに夢中 深澄",
@@ -167,7 +175,8 @@
         "id": "SAO/S100-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S100-103": {
     "name": "レアアイテムゲット ミト",
@@ -185,7 +194,8 @@
         "id": "SAO/S100-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S100-104": {
     "name": "第一層攻略へ キリト",
@@ -203,6 +213,7 @@
         "id": "SAO/S100-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

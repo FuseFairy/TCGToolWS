@@ -19,7 +19,8 @@
         "id": "RSL/SE38-01S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-02": {
     "name": "Delight 胡蝶 静羽",
@@ -41,7 +42,8 @@
         "id": "RSL/SE38-02S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/SE38-03": {
     "name": "Delight 夢大路 文",
@@ -63,7 +65,8 @@
         "id": "RSL/SE38-03S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/SE38-04": {
     "name": "温かい気高さ 夢大路 文",
@@ -85,7 +88,8 @@
         "id": "RSL/SE38-04S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-05": {
     "name": "燃える情熱 リュウ・メイファン",
@@ -107,7 +111,8 @@
         "id": "RSL/SE38-05S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-06": {
     "name": "Delight 夢大路 栞",
@@ -133,7 +138,8 @@
         "id": "RSL/SE38-06SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-07": {
     "name": "#NAME?",
@@ -155,7 +161,8 @@
         "id": "RSL/SE38-07S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-08": {
     "name": "Delight リュウ・メイファン",
@@ -181,7 +188,8 @@
         "id": "RSL/SE38-08SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-09": {
     "name": "小さな強い輝き 夢大路 栞",
@@ -203,7 +211,8 @@
         "id": "RSL/SE38-09S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-10": {
     "name": "静かな闘志 柳 小春",
@@ -225,7 +234,8 @@
         "id": "RSL/SE38-10S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-11": {
     "name": "天真爛漫 南風 涼",
@@ -247,7 +257,8 @@
         "id": "RSL/SE38-11S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-12": {
     "name": "#NAME?",
@@ -269,7 +280,8 @@
         "id": "RSL/SE38-12S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-13": {
     "name": "Delight 鳳 ミチル",
@@ -295,7 +307,8 @@
         "id": "RSL/SE38-13SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-14": {
     "name": "麗しの視線 雪代 晶",
@@ -317,7 +330,8 @@
         "id": "RSL/SE38-14S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-15": {
     "name": "Delight 西條 クロディーヌ",
@@ -339,7 +353,8 @@
         "id": "RSL/SE38-15S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-16": {
     "name": "清らかな振る舞い 穂波 氷雨",
@@ -361,7 +376,8 @@
         "id": "RSL/SE38-16S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-17": {
     "name": "Delight 穂波 氷雨",
@@ -383,7 +399,8 @@
         "id": "RSL/SE38-17S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-18": {
     "name": "Delight 南風 涼",
@@ -405,7 +422,8 @@
         "id": "RSL/SE38-18S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/SE38-19": {
     "name": "魅惑の誘い 鶴姫 やちよ",
@@ -427,7 +445,8 @@
         "id": "RSL/SE38-19S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/SE38-20": {
     "name": "あふれる笑顔 鳳 ミチル",
@@ -449,7 +468,8 @@
         "id": "RSL/SE38-20S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/SE38-21": {
     "name": "#NAME?",
@@ -471,7 +491,8 @@
         "id": "RSL/SE38-21S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/SE38-22": {
     "name": "舞台への矜持 西條 クロディーヌ",
@@ -493,7 +514,8 @@
         "id": "RSL/SE38-22S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/SE38-23": {
     "name": "Delight 鶴姫 やちよ",
@@ -519,7 +541,8 @@
         "id": "RSL/SE38-23SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/SE38-24": {
     "name": "Delight 雪代 晶",
@@ -545,7 +568,8 @@
         "id": "RSL/SE38-24SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/SE38-25": {
     "name": "Delight 柳 小春",
@@ -567,7 +591,8 @@
         "id": "RSL/SE38-25S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/SE38-26": {
     "name": "#NAME?",
@@ -589,7 +614,8 @@
         "id": "RSL/SE38-26S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-27": {
     "name": "#NAME?",
@@ -611,6 +637,7 @@
         "id": "RSL/SE38-27S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

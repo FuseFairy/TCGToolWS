@@ -19,7 +19,8 @@
         "id": "MM/W17-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-002": {
     "name": "巴 マミ",
@@ -41,7 +42,8 @@
         "id": "MM/W17-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-003": {
     "name": "契約をせまるキュゥべえ",
@@ -59,7 +61,8 @@
         "id": "MM/W17-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-004": {
     "name": "先輩魔法少女 マミ",
@@ -81,7 +84,8 @@
         "id": "MM/W17-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-005": {
     "name": "パジャマのマミ",
@@ -99,7 +103,8 @@
         "id": "MM/W17-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-006": {
     "name": "宿命を背負うマミ",
@@ -121,7 +126,8 @@
         "id": "MM/W17-006R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-007": {
     "name": "“お菓子の魔女”シャルロッテ",
@@ -139,7 +145,8 @@
         "id": "MM/W17-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-008": {
     "name": "“もうひとりじゃない”マミ",
@@ -157,7 +164,8 @@
         "id": "MM/W17-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-009": {
     "name": "生きるための願い マミ",
@@ -175,7 +183,8 @@
         "id": "MM/W17-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-010": {
     "name": "束縛魔法 マミ",
@@ -193,7 +202,8 @@
         "id": "MM/W17-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-011": {
     "name": "お茶をたしなむマミ",
@@ -211,7 +221,8 @@
         "id": "MM/W17-011",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-012": {
     "name": "忠告するマミ",
@@ -229,7 +240,8 @@
         "id": "MM/W17-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-013": {
     "name": "ベテラン魔法少女 マミ",
@@ -247,7 +259,8 @@
         "id": "MM/W17-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-014": {
     "name": "希望を託すマミ",
@@ -265,7 +278,8 @@
         "id": "MM/W17-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-015": {
     "name": "優しく見守るマミ",
@@ -283,7 +297,8 @@
         "id": "MM/W17-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-016": {
     "name": "優雅なるマミ",
@@ -301,7 +316,8 @@
         "id": "MM/W17-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-017": {
     "name": "グリーフシード",
@@ -319,7 +335,8 @@
         "id": "MM/W17-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-018": {
     "name": "一瞬の出来事",
@@ -337,7 +354,8 @@
         "id": "MM/W17-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-019": {
     "name": "もう何も恐くない",
@@ -355,7 +373,8 @@
         "id": "MM/W17-019",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-020": {
     "name": "ティロ・フィナーレ",
@@ -373,7 +392,8 @@
         "id": "MM/W17-020",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MM/W17-021": {
     "name": "悲壮な覚悟 ほむら",
@@ -395,7 +415,8 @@
         "id": "MM/W17-021SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-022": {
     "name": "“内緒”のまどか",
@@ -417,7 +438,8 @@
         "id": "MM/W17-022SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-023": {
     "name": "容姿端麗 ほむら",
@@ -439,7 +461,8 @@
         "id": "MM/W17-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-024": {
     "name": "見守るほむら",
@@ -457,7 +480,8 @@
         "id": "MM/W17-024",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-025": {
     "name": "隠された思い ほむら",
@@ -479,7 +503,8 @@
         "id": "MM/W17-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-026": {
     "name": "弓の魔法少女 まどか",
@@ -501,7 +526,8 @@
         "id": "MM/W17-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-027": {
     "name": "揺れ動く気持ち まどか",
@@ -519,7 +545,8 @@
         "id": "MM/W17-027",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-028": {
     "name": "時の魔法少女 ほむら",
@@ -541,7 +568,8 @@
         "id": "MM/W17-028R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-029": {
     "name": "因果の終着点 まどか",
@@ -563,7 +591,8 @@
         "id": "MM/W17-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-030": {
     "name": "アルティメットまどか",
@@ -585,7 +614,8 @@
         "id": "MM/W17-030R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-031": {
     "name": "ほむらとの絆 まどか",
@@ -603,7 +633,8 @@
         "id": "MM/W17-031",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-032": {
     "name": "ワルプルギスの夜に挑むまどか",
@@ -621,7 +652,8 @@
         "id": "MM/W17-032",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-033": {
     "name": "希望を守る まどか",
@@ -639,7 +671,8 @@
         "id": "MM/W17-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-034": {
     "name": "決意のほむら",
@@ -657,7 +690,8 @@
         "id": "MM/W17-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-035": {
     "name": "時間遡行者 ほむら",
@@ -675,7 +709,8 @@
         "id": "MM/W17-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-036": {
     "name": "“戦い続ける”ほむら",
@@ -693,7 +728,8 @@
         "id": "MM/W17-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-037": {
     "name": "鹿目 まどか",
@@ -711,7 +747,8 @@
         "id": "MM/W17-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-038": {
     "name": "暁美 ほむら",
@@ -729,7 +766,8 @@
         "id": "MM/W17-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-039": {
     "name": "転校生 ほむら",
@@ -747,7 +785,8 @@
         "id": "MM/W17-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-040": {
     "name": "絆を抱く少女 ほむら",
@@ -765,7 +804,8 @@
         "id": "MM/W17-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-041": {
     "name": "まどかを想うほむら",
@@ -783,7 +823,8 @@
         "id": "MM/W17-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-042": {
     "name": "“みんなを守るために” まどか",
@@ -801,7 +842,8 @@
         "id": "MM/W17-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-043": {
     "name": "保健係 まどか",
@@ -819,7 +861,8 @@
         "id": "MM/W17-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-044": {
     "name": "志筑 仁美",
@@ -837,7 +880,8 @@
         "id": "MM/W17-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-045": {
     "name": "黒髪の少女 ほむら",
@@ -855,7 +899,8 @@
         "id": "MM/W17-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-046": {
     "name": "見滝原中学二年生 まどか",
@@ -873,7 +918,8 @@
         "id": "MM/W17-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-047": {
     "name": "最高の友達 まどか＆ほむら",
@@ -891,7 +937,8 @@
         "id": "MM/W17-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-048": {
     "name": "青空のまどか",
@@ -909,7 +956,8 @@
         "id": "MM/W17-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-049": {
     "name": "鹿目 詢子",
@@ -927,7 +975,8 @@
         "id": "MM/W17-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-050": {
     "name": "孤独な戦い ほむら",
@@ -945,7 +994,8 @@
         "id": "MM/W17-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-051": {
     "name": "“舞台装置の魔女”ワルプルギスの夜",
@@ -963,7 +1013,8 @@
         "id": "MM/W17-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-052": {
     "name": "ふわふわスカート まどか",
@@ -981,7 +1032,8 @@
         "id": "MM/W17-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-053": {
     "name": "円環の理",
@@ -999,7 +1051,8 @@
         "id": "MM/W17-053",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-054": {
     "name": "無意味な連鎖",
@@ -1017,7 +1070,8 @@
         "id": "MM/W17-054",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-055": {
     "name": "まどかの願い",
@@ -1035,7 +1089,8 @@
         "id": "MM/W17-055",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-056": {
     "name": "もう誰にも頼らない",
@@ -1053,7 +1108,8 @@
         "id": "MM/W17-056",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-057": {
     "name": "時間操作",
@@ -1071,7 +1127,8 @@
         "id": "MM/W17-057",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MM/W17-058": {
     "name": "わたしの、最高の友達",
@@ -1089,7 +1146,8 @@
         "id": "MM/W17-058",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-059": {
     "name": "クラスのみんなには、内緒だよ！",
@@ -1107,7 +1165,8 @@
         "id": "MM/W17-059",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MM/W17-060": {
     "name": "夢に出てきた少女",
@@ -1125,7 +1184,8 @@
         "id": "MM/W17-060",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MM/W17-061": {
     "name": "好戦的 杏子",
@@ -1147,7 +1207,8 @@
         "id": "MM/W17-061R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-062": {
     "name": "佐倉 杏子",
@@ -1169,7 +1230,8 @@
         "id": "MM/W17-062SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-063": {
     "name": "林檎のおすそわけ 杏子",
@@ -1187,7 +1249,8 @@
         "id": "MM/W17-063",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-064": {
     "name": "多節槍 杏子",
@@ -1205,7 +1268,8 @@
         "id": "MM/W17-064",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-065": {
     "name": "利己主義者 杏子",
@@ -1227,7 +1291,8 @@
         "id": "MM/W17-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-066": {
     "name": "吠える杏子",
@@ -1249,7 +1314,8 @@
         "id": "MM/W17-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-067": {
     "name": "サポート役 キュゥべえ",
@@ -1267,7 +1333,8 @@
         "id": "MM/W17-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-068": {
     "name": "過去の告白 杏子",
@@ -1285,7 +1352,8 @@
         "id": "MM/W17-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-069": {
     "name": "奇跡を願う杏子",
@@ -1303,7 +1371,8 @@
         "id": "MM/W17-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-070": {
     "name": "路地裏の杏子",
@@ -1321,7 +1390,8 @@
         "id": "MM/W17-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-071": {
     "name": "赤いソウルジェム 杏子",
@@ -1339,7 +1409,8 @@
         "id": "MM/W17-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-072": {
     "name": "地下鉄ホームでの別れ 杏子",
@@ -1357,7 +1428,8 @@
         "id": "MM/W17-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-073": {
     "name": "新たなる魔法少女 杏子",
@@ -1375,7 +1447,8 @@
         "id": "MM/W17-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-074": {
     "name": "やって来た杏子",
@@ -1393,7 +1466,8 @@
         "id": "MM/W17-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-075": {
     "name": "地球外生命体 キュゥべえ",
@@ -1411,7 +1485,8 @@
         "id": "MM/W17-075",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-076": {
     "name": "槍の魔法少女 杏子",
@@ -1429,7 +1504,8 @@
         "id": "MM/W17-076",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-077": {
     "name": "杏子の覚悟",
@@ -1447,7 +1523,8 @@
         "id": "MM/W17-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-078": {
     "name": "魔法少女現る",
@@ -1465,7 +1542,8 @@
         "id": "MM/W17-078",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-079": {
     "name": "さやか VS 杏子",
@@ -1483,7 +1561,8 @@
         "id": "MM/W17-079",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-080": {
     "name": "独りぼっちは、寂しいもんな",
@@ -1501,7 +1580,8 @@
         "id": "MM/W17-080",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MM/W17-081": {
     "name": "新人魔法少女 さやか",
@@ -1523,7 +1603,8 @@
         "id": "MM/W17-081R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-082": {
     "name": "美樹 さやか",
@@ -1545,7 +1626,8 @@
         "id": "MM/W17-082SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-083": {
     "name": "人の為に戦うさやか",
@@ -1563,7 +1645,8 @@
         "id": "MM/W17-083",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-084": {
     "name": "マミへの憧れ さやか",
@@ -1581,7 +1664,8 @@
         "id": "MM/W17-084",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-085": {
     "name": "癒しの祈り さやか",
@@ -1603,7 +1687,8 @@
         "id": "MM/W17-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-086": {
     "name": "虚ろな目 さやか",
@@ -1625,7 +1710,8 @@
         "id": "MM/W17-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-087": {
     "name": "クラスメイト さやか",
@@ -1643,7 +1729,8 @@
         "id": "MM/W17-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-088": {
     "name": "願いを見つけたさやか",
@@ -1661,7 +1748,8 @@
         "id": "MM/W17-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-089": {
     "name": "正義の味方 さやか",
@@ -1679,7 +1767,8 @@
         "id": "MM/W17-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-090": {
     "name": "“人魚の魔女”",
@@ -1697,7 +1786,8 @@
         "id": "MM/W17-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-091": {
     "name": "対決するさやか",
@@ -1715,7 +1805,8 @@
         "id": "MM/W17-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-092": {
     "name": "上条 恭介",
@@ -1733,7 +1824,8 @@
         "id": "MM/W17-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-093": {
     "name": "上条君の幼なじみ さやか",
@@ -1751,7 +1843,8 @@
         "id": "MM/W17-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-094": {
     "name": "見滝原中学二年生 さやか",
@@ -1769,7 +1862,8 @@
         "id": "MM/W17-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-095": {
     "name": "剣の魔法少女 さやか",
@@ -1787,7 +1881,8 @@
         "id": "MM/W17-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-096": {
     "name": "傷つきながら戦うさやか",
@@ -1805,7 +1900,8 @@
         "id": "MM/W17-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W17-097": {
     "name": "孵卵器",
@@ -1823,7 +1919,8 @@
         "id": "MM/W17-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-098": {
     "name": "さやかの願い",
@@ -1841,7 +1938,8 @@
         "id": "MM/W17-098",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-099": {
     "name": "あたしって、ほんとバカ",
@@ -1859,7 +1957,8 @@
         "id": "MM/W17-099",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W17-100": {
     "name": "奇跡も、魔法も、あるんだよ",
@@ -1877,6 +1976,7 @@
         "id": "MM/W17-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

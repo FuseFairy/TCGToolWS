@@ -15,7 +15,8 @@
         "id": "GU/W44-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-T02": {
     "name": "“着替え中”ココア",
@@ -33,7 +34,8 @@
         "id": "GU/W44-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-T03": {
     "name": "メイド服姿のリゼ",
@@ -51,7 +53,8 @@
         "id": "GU/W44-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-T04": {
     "name": "“誘いの電話”リゼ",
@@ -69,7 +72,8 @@
         "id": "GU/W44-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-T05": {
     "name": "“ツインテールの少女”リゼ",
@@ -91,7 +95,8 @@
         "id": "GU/W44-T05R",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-T06": {
     "name": "“将来のこと”ココア",
@@ -121,7 +126,8 @@
         "id": "GU/W44-T06d",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-T07": {
     "name": "“ラビットハウスのウェイトレス”リゼ",
@@ -139,7 +145,8 @@
         "id": "GU/W44-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-T08": {
     "name": "“明るく朗らか”ココア",
@@ -161,7 +168,8 @@
         "id": "GU/W44-T08R",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-T09": {
     "name": "されるがまま リゼ",
@@ -179,7 +187,8 @@
         "id": "GU/W44-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-T10": {
     "name": "木組みの街で ココア",
@@ -205,7 +214,8 @@
         "id": "GU/W44-T10SP",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-T11": {
     "name": "謎の美少女",
@@ -223,7 +233,8 @@
         "id": "GU/W44-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GU/W44-T12": {
     "name": "宣戦布告？",
@@ -241,7 +252,8 @@
         "id": "GU/W44-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-T13": {
     "name": "“ちょっぴりクール”チノ",
@@ -263,7 +275,8 @@
         "id": "GU/W44-T13R",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-T14": {
     "name": "ほろ酔いチノ",
@@ -281,7 +294,8 @@
         "id": "GU/W44-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-T15": {
     "name": "木組みの街で チノ",
@@ -303,7 +317,8 @@
         "id": "GU/W44-T15SP",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-T16": {
     "name": "“トランスポーター”チノ",
@@ -321,7 +336,8 @@
         "id": "GU/W44-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-T17": {
     "name": "“ラビットハウスの看板娘”チノ",
@@ -339,7 +355,8 @@
         "id": "GU/W44-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-T18": {
     "name": "“ドヤ顔”チノ",
@@ -357,7 +374,8 @@
         "id": "GU/W44-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-T19": {
     "name": "じゃんけん…",
@@ -383,7 +401,8 @@
         "id": "GU/W44-T19c",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-T20": {
     "name": "ひとつ屋根の下",
@@ -401,7 +420,8 @@
         "id": "GU/W44-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-T21": {
     "name": "珈琲職人の魔法",
@@ -419,6 +439,7 @@
         "id": "GU/W44-T21",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

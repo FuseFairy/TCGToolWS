@@ -15,7 +15,8 @@
         "id": "IM/S21-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-P02": {
     "name": "秘密の貴音",
@@ -33,7 +34,8 @@
         "id": "IM/S21-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-P05": {
     "name": "リードボーカル 春香",
@@ -51,7 +53,8 @@
         "id": "IM/S21-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-P06": {
     "name": "ドラムス やよい",
@@ -69,7 +72,8 @@
         "id": "IM/S21-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-P07": {
     "name": "ベース 真",
@@ -87,7 +91,8 @@
         "id": "IM/S21-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-P08": {
     "name": "リードギター 美希",
@@ -105,7 +110,8 @@
         "id": "IM/S21-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-P09": {
     "name": "歌の魔法使い 伊織",
@@ -123,7 +129,8 @@
         "id": "IM/S21-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-P10": {
     "name": "かいぞく船長 やよい",
@@ -141,7 +148,8 @@
         "id": "IM/S21-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-P11": {
     "name": "MUSIC♪ 美希",
@@ -159,7 +167,8 @@
         "id": "IM/S21-P11",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-P12": {
     "name": "Vault That Borderline! 春香",
@@ -177,7 +186,8 @@
         "id": "IM/S21-P12",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-P13": {
     "name": "バケーションアイランドの雪歩",
@@ -195,7 +205,8 @@
         "id": "IM/S21-P13",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-P14": {
     "name": "START!! 春香",
@@ -213,7 +224,8 @@
         "id": "IM/S21-P14",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-086": {
     "name": "ネコミミ！ やよい＆雪歩＆亜美＆真美",
@@ -231,7 +243,8 @@
         "id": "IM/S21-086",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-087": {
     "name": "パジャマパーティー 伊織＆あずさ＆律子",
@@ -249,7 +262,8 @@
         "id": "IM/S21-087",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-088": {
     "name": "聖夜の夜に 響＆千早",
@@ -267,7 +281,8 @@
         "id": "IM/S21-088",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-089": {
     "name": "スクールウェア 真＆千早＆貴音",
@@ -285,7 +300,8 @@
         "id": "IM/S21-089",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-090": {
     "name": "シーサイドエンジェル やよい＆伊織",
@@ -303,6 +319,7 @@
         "id": "IM/S21-090",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

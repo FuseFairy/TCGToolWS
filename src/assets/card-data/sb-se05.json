@@ -15,7 +15,8 @@
         "id": "SB/SE05-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-02": {
     "name": "“戦国の魔王”織田 信長",
@@ -33,7 +34,8 @@
         "id": "SB/SE05-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/SE05-03": {
     "name": "“二丁拳銃”濃姫",
@@ -51,7 +53,8 @@
         "id": "SB/SE05-03",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-04": {
     "name": "“裂かれた絆”長政＆お市",
@@ -69,7 +72,8 @@
         "id": "SB/SE05-04",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/SE05-05": {
     "name": "天下布武の大号令",
@@ -87,7 +91,8 @@
         "id": "SB/SE05-05",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SB/SE05-06": {
     "name": "“切り開こうとする者”前田 慶次",
@@ -105,7 +110,8 @@
         "id": "SB/SE05-06",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-07": {
     "name": "“冷徹な将”毛利 元就",
@@ -123,7 +129,8 @@
         "id": "SB/SE05-07",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-08": {
     "name": "“豊臣の軍師”竹中 半兵衛",
@@ -141,7 +148,8 @@
         "id": "SB/SE05-08",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/SE05-09": {
     "name": "“良妻賢母”まつ",
@@ -159,7 +167,8 @@
         "id": "SB/SE05-09",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/SE05-10": {
     "name": "“豊臣軍総大将”秀吉",
@@ -177,7 +186,8 @@
         "id": "SB/SE05-10",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/SE05-11": {
     "name": "“大黒柱”前田 利家",
@@ -195,7 +205,8 @@
         "id": "SB/SE05-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-12": {
     "name": "“かぶき者”前田 慶次",
@@ -213,7 +224,8 @@
         "id": "SB/SE05-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-13": {
     "name": "“希代の策士”毛利 元就",
@@ -231,7 +243,8 @@
         "id": "SB/SE05-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-14": {
     "name": "“潜伏侵略”竹中 半兵衛",
@@ -249,7 +262,8 @@
         "id": "SB/SE05-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-15": {
     "name": "“覇の剛拳”豊臣 秀吉",
@@ -267,7 +281,8 @@
         "id": "SB/SE05-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-16": {
     "name": "“戦国の覇王”豊臣 秀吉",
@@ -285,7 +300,8 @@
         "id": "SB/SE05-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/SE05-17": {
     "name": "“戦国を駆ける”前田 慶次",
@@ -303,7 +319,8 @@
         "id": "SB/SE05-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-18": {
     "name": "“強固なる意志”毛利 元就",
@@ -321,7 +338,8 @@
         "id": "SB/SE05-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/SE05-19": {
     "name": "まつのめし",
@@ -339,7 +357,8 @@
         "id": "SB/SE05-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-20": {
     "name": "乱世再び！",
@@ -357,7 +376,8 @@
         "id": "SB/SE05-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-21": {
     "name": "“若き猛将”真田 幸村",
@@ -375,7 +395,8 @@
         "id": "SB/SE05-21",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-22": {
     "name": "“海賊の流儀”長曾我部 元親",
@@ -393,7 +414,8 @@
         "id": "SB/SE05-22",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-23": {
     "name": "“甲斐の虎”武田 信玄",
@@ -411,7 +433,8 @@
         "id": "SB/SE05-23",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-24": {
     "name": "“紅い炎”真田 幸村",
@@ -429,7 +452,8 @@
         "id": "SB/SE05-24",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/SE05-25": {
     "name": "“四国の長”長曾我部 元親",
@@ -447,7 +471,8 @@
         "id": "SB/SE05-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-26": {
     "name": "“熱き魂”真田 幸村",
@@ -465,7 +490,8 @@
         "id": "SB/SE05-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-27": {
     "name": "“純朴な人柄”真田 幸村",
@@ -483,7 +509,8 @@
         "id": "SB/SE05-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-28": {
     "name": "“六爪”政宗＆“二槍”幸村",
@@ -501,7 +528,8 @@
         "id": "SB/SE05-28",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/SE05-29": {
     "name": "“移動要塞・富嶽”長曾我部 元親",
@@ -519,7 +547,8 @@
         "id": "SB/SE05-29",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/SE05-30": {
     "name": "“戦場を駆ける隠密”猿飛 佐助",
@@ -537,7 +566,8 @@
         "id": "SB/SE05-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/SE05-31": {
     "name": "小田原城を攻める！",
@@ -555,7 +585,8 @@
         "id": "SB/SE05-31",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-32": {
     "name": "死闘",
@@ -573,7 +604,8 @@
         "id": "SB/SE05-32",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-33": {
     "name": "“大胆不敵”伊達 政宗",
@@ -591,7 +623,8 @@
         "id": "SB/SE05-33",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-34": {
     "name": "“冷静沈着”片倉 小十郎",
@@ -609,7 +642,8 @@
         "id": "SB/SE05-34",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-35": {
     "name": "“伊達の軍師”片倉 小十郎",
@@ -627,7 +661,8 @@
         "id": "SB/SE05-35",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/SE05-36": {
     "name": "“蒼い雷光”伊達 政宗",
@@ -645,7 +680,8 @@
         "id": "SB/SE05-36",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/SE05-37": {
     "name": "“若きカリスマ”伊達 政宗",
@@ -663,7 +699,8 @@
         "id": "SB/SE05-37",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-38": {
     "name": "“竜の爪”伊達 政宗",
@@ -681,7 +718,8 @@
         "id": "SB/SE05-38",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-39": {
     "name": "“奥州の独眼竜”伊達 政宗",
@@ -699,7 +737,8 @@
         "id": "SB/SE05-39",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-40": {
     "name": "“毘沙門天の化身”上杉 謙信",
@@ -717,7 +756,8 @@
         "id": "SB/SE05-40",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-41": {
     "name": "“上杉軍”かすが",
@@ -735,7 +775,8 @@
         "id": "SB/SE05-41",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-42": {
     "name": "“独眼竜の腹心”片倉 小十郎",
@@ -753,7 +794,8 @@
         "id": "SB/SE05-42",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-43": {
     "name": "“軍神”謙信＆“つるぎ”かすが",
@@ -771,7 +813,8 @@
         "id": "SB/SE05-43",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/SE05-44": {
     "name": "“双竜”政宗＆小十郎",
@@ -789,7 +832,8 @@
         "id": "SB/SE05-44",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/SE05-45": {
     "name": "蒼鬼",
@@ -807,6 +851,7 @@
         "id": "SB/SE05-45",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

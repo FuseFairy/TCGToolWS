@@ -15,7 +15,8 @@
         "id": "NS/W04-101",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-102": {
     "name": "二人のママ",
@@ -33,7 +34,8 @@
         "id": "NS/W04-102",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-T01": {
     "name": "使い魔アルフ",
@@ -51,7 +53,8 @@
         "id": "NS/W04-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-T02": {
     "name": "フェイト＆アルフ",
@@ -69,7 +72,8 @@
         "id": "NS/W04-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-T03": {
     "name": "副隊長シグナム",
@@ -87,7 +91,8 @@
         "id": "NS/W04-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-T04": {
     "name": "エリオ・モンディアル",
@@ -105,7 +110,8 @@
         "id": "NS/W04-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-T05": {
     "name": "金の閃光フェイト",
@@ -123,7 +129,8 @@
         "id": "NS/W04-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-T06": {
     "name": "エリオ＆キャロ",
@@ -141,7 +148,8 @@
         "id": "NS/W04-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-T07": {
     "name": "烈火の将シグナム",
@@ -159,7 +167,8 @@
         "id": "NS/W04-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-T08": {
     "name": "着地失敗",
@@ -177,7 +186,8 @@
         "id": "NS/W04-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-T09": {
     "name": "火龍・一閃！！",
@@ -195,7 +205,8 @@
         "id": "NS/W04-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NS/W04-T10": {
     "name": "戦闘教官ヴィータ",
@@ -213,7 +224,8 @@
         "id": "NS/W04-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-T11": {
     "name": "烈火の剣精アギト",
@@ -231,7 +243,8 @@
         "id": "NS/W04-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-T12": {
     "name": "戦技教導官なのは",
@@ -249,7 +262,8 @@
         "id": "NS/W04-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-T13": {
     "name": "なのは＆ヴィヴィオ",
@@ -267,7 +281,8 @@
         "id": "NS/W04-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-T14": {
     "name": "放浪の騎士ゼスト",
@@ -285,7 +300,8 @@
         "id": "NS/W04-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-T15": {
     "name": "なのは＆ヴィータ",
@@ -303,7 +319,8 @@
         "id": "NS/W04-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-T16": {
     "name": "ゼスト・グランガイツ",
@@ -321,7 +338,8 @@
         "id": "NS/W04-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-T17": {
     "name": "ママ、いい子",
@@ -339,7 +357,8 @@
         "id": "NS/W04-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-T18": {
     "name": "ママと約束ね",
@@ -357,6 +376,7 @@
         "id": "NS/W04-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

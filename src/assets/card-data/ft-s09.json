@@ -15,7 +15,8 @@
         "id": "FT/S09-001",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-002": {
     "name": "妖精女王のエルザ",
@@ -37,7 +38,8 @@
         "id": "FT/S09-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-003": {
     "name": "超近接タイプ エルザ",
@@ -59,7 +61,8 @@
         "id": "FT/S09-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-004": {
     "name": "“黒羽の鎧”エルザ",
@@ -81,7 +84,8 @@
         "id": "FT/S09-004R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-005": {
     "name": "“炎帝の鎧”エルザ",
@@ -99,7 +103,8 @@
         "id": "FT/S09-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-006": {
     "name": "“天輪の鎧”エルザ",
@@ -121,7 +126,8 @@
         "id": "FT/S09-006R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-007": {
     "name": "マカロフの孫 ラクサス",
@@ -139,7 +145,8 @@
         "id": "FT/S09-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-008": {
     "name": "S級魔導士 エルザ",
@@ -157,7 +164,8 @@
         "id": "FT/S09-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-009": {
     "name": "大空のアリア",
@@ -175,7 +183,8 @@
         "id": "FT/S09-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-010": {
     "name": "大荷物 エルザ",
@@ -193,7 +202,8 @@
         "id": "FT/S09-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-011": {
     "name": "治癒魔導士 ポーリュシカ",
@@ -211,7 +221,8 @@
         "id": "FT/S09-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-012": {
     "name": "幽鬼の支配者のマスター・ジョゼ",
@@ -229,7 +240,8 @@
         "id": "FT/S09-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-013": {
     "name": "妖精の尻尾のマスター・マカロフ",
@@ -247,7 +259,8 @@
         "id": "FT/S09-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-014": {
     "name": "レビィ・マクガーデン",
@@ -265,7 +278,8 @@
         "id": "FT/S09-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-015": {
     "name": "S級魔導士 ラクサス",
@@ -283,7 +297,8 @@
         "id": "FT/S09-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-016": {
     "name": "“死神”エリゴール",
@@ -301,7 +316,8 @@
         "id": "FT/S09-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-017": {
     "name": "妖精の尻尾一の女魔導士 エルザ",
@@ -319,7 +335,8 @@
         "id": "FT/S09-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-018": {
     "name": "聖十大魔道 マカロフ",
@@ -337,7 +354,8 @@
         "id": "FT/S09-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-019": {
     "name": "S級魔導士 ミストガン",
@@ -355,7 +373,8 @@
         "id": "FT/S09-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-020": {
     "name": "“もう迷わない”エルザ",
@@ -373,7 +392,8 @@
         "id": "FT/S09-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-021": {
     "name": "月を破壊！？",
@@ -391,7 +411,8 @@
         "id": "FT/S09-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-022": {
     "name": "妖精の法律",
@@ -409,7 +430,8 @@
         "id": "FT/S09-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-023": {
     "name": "天輪・繚乱の剣",
@@ -427,7 +449,8 @@
         "id": "FT/S09-023",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-024": {
     "name": "妖精の尻尾じゃああっ!!!!!!",
@@ -445,7 +468,8 @@
         "id": "FT/S09-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FT/S09-025": {
     "name": "循環の剣",
@@ -463,7 +487,8 @@
         "id": "FT/S09-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-026": {
     "name": "新人魔導士 ルーシィ",
@@ -485,7 +510,8 @@
         "id": "FT/S09-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-027": {
     "name": "妖精の尻尾の魔導士 ルーシィ",
@@ -507,7 +533,8 @@
         "id": "FT/S09-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-028": {
     "name": "ハートフィリア財閥令嬢 ルーシィ",
@@ -529,7 +556,8 @@
         "id": "FT/S09-028R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-029": {
     "name": "文学少女 ルーシィ",
@@ -547,7 +575,8 @@
         "id": "FT/S09-029",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-030": {
     "name": "まだまだ新人 ルーシィ",
@@ -569,7 +598,8 @@
         "id": "FT/S09-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-031": {
     "name": "ハートフィリア家の娘 ルーシィ",
@@ -587,7 +617,8 @@
         "id": "FT/S09-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-032": {
     "name": "所有系魔導士 ルーシィ",
@@ -605,7 +636,8 @@
         "id": "FT/S09-032",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-033": {
     "name": "リサーナ",
@@ -623,7 +655,8 @@
         "id": "FT/S09-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-034": {
     "name": "宝瓶宮のアクエリアス",
@@ -641,7 +674,8 @@
         "id": "FT/S09-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-035": {
     "name": "元・Ｓ級魔導士 ミラジェーン",
@@ -659,7 +693,8 @@
         "id": "FT/S09-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-036": {
     "name": "指輪魔法 ロキ",
@@ -677,7 +712,8 @@
         "id": "FT/S09-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-037": {
     "name": "星霊魔導士 ルーシィ",
@@ -695,7 +731,8 @@
         "id": "FT/S09-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-038": {
     "name": "妖精の尻尾の看板娘 ミラジェーン",
@@ -713,7 +750,8 @@
         "id": "FT/S09-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-039": {
     "name": "“ビーストアーム”エルフマン",
@@ -731,7 +769,8 @@
         "id": "FT/S09-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-040": {
     "name": "ルーシィ・ハートフィリア",
@@ -749,7 +788,8 @@
         "id": "FT/S09-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-041": {
     "name": "大地のソル",
@@ -767,7 +807,8 @@
         "id": "FT/S09-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-042": {
     "name": "メイド姿のルーシィ",
@@ -785,7 +826,8 @@
         "id": "FT/S09-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-043": {
     "name": "“拳で語れ”エルフマン",
@@ -803,7 +845,8 @@
         "id": "FT/S09-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-044": {
     "name": "ルーシィ＆ハッピー",
@@ -821,7 +864,8 @@
         "id": "FT/S09-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-045": {
     "name": "処女宮のバルゴ",
@@ -839,7 +883,8 @@
         "id": "FT/S09-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-046": {
     "name": "門の鍵",
@@ -857,7 +902,8 @@
         "id": "FT/S09-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-047": {
     "name": "チェンジリング",
@@ -875,7 +921,8 @@
         "id": "FT/S09-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-048": {
     "name": "星霊の力",
@@ -893,7 +940,8 @@
         "id": "FT/S09-048",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-049": {
     "name": "DEAR KABY",
@@ -911,7 +959,8 @@
         "id": "FT/S09-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-050": {
     "name": "強制閉門",
@@ -929,7 +978,8 @@
         "id": "FT/S09-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FT/S09-051": {
     "name": "本能のままに生きるナツ",
@@ -951,7 +1001,8 @@
         "id": "FT/S09-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-052": {
     "name": "妖精の尻尾の魔導士 ナツ",
@@ -973,7 +1024,8 @@
         "id": "FT/S09-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-053": {
     "name": "ナツ＆ハッピー",
@@ -995,7 +1047,8 @@
         "id": "FT/S09-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-054": {
     "name": "エルザ・スカーレット",
@@ -1013,7 +1066,8 @@
         "id": "FT/S09-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-055": {
     "name": "鉄竜のガジル",
@@ -1031,7 +1085,8 @@
         "id": "FT/S09-055",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-056": {
     "name": "ドラゴンの力 ナツ",
@@ -1053,7 +1108,8 @@
         "id": "FT/S09-056R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-057": {
     "name": "幽鬼の支配者最強の男 ガジル",
@@ -1071,7 +1127,8 @@
         "id": "FT/S09-057",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-058": {
     "name": "ガジル・レッドフォックス",
@@ -1089,7 +1146,8 @@
         "id": "FT/S09-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-059": {
     "name": "問題児 ナツ",
@@ -1107,7 +1165,8 @@
         "id": "FT/S09-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-060": {
     "name": "竜に育てられた少年 ナツ",
@@ -1125,7 +1184,8 @@
         "id": "FT/S09-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-061": {
     "name": "子供の頃のナツ＆ハッピー",
@@ -1143,7 +1203,8 @@
         "id": "FT/S09-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-062": {
     "name": "炎の滅竜魔導士 ナツ",
@@ -1161,7 +1222,8 @@
         "id": "FT/S09-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-063": {
     "name": "いつでも全力 ナツ",
@@ -1179,7 +1241,8 @@
         "id": "FT/S09-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-064": {
     "name": "ハッピー",
@@ -1197,7 +1260,8 @@
         "id": "FT/S09-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-065": {
     "name": "ナツ・ドラグニル",
@@ -1215,7 +1279,8 @@
         "id": "FT/S09-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-066": {
     "name": "ナツの相棒 ハッピー",
@@ -1233,7 +1298,8 @@
         "id": "FT/S09-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-067": {
     "name": "若き竜 ナツ",
@@ -1251,7 +1317,8 @@
         "id": "FT/S09-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-068": {
     "name": "意外に冷静 ナツ",
@@ -1269,7 +1336,8 @@
         "id": "FT/S09-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-069": {
     "name": "大火の兎兎丸",
@@ -1287,7 +1355,8 @@
         "id": "FT/S09-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-070": {
     "name": "鉄の滅竜魔導士 ガジル",
@@ -1305,7 +1374,8 @@
         "id": "FT/S09-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-071": {
     "name": "Ｓ級クエスト",
@@ -1323,7 +1393,8 @@
         "id": "FT/S09-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-072": {
     "name": "ドラゴンの卵",
@@ -1341,7 +1412,8 @@
         "id": "FT/S09-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-073": {
     "name": "火竜の煌炎",
@@ -1359,7 +1431,8 @@
         "id": "FT/S09-073",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-074": {
     "name": "火竜の咆哮",
@@ -1377,7 +1450,8 @@
         "id": "FT/S09-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FT/S09-075": {
     "name": "鉄竜の咆哮",
@@ -1395,7 +1469,8 @@
         "id": "FT/S09-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FT/S09-076": {
     "name": "ジュビア・ロクサー",
@@ -1417,7 +1492,8 @@
         "id": "FT/S09-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-077": {
     "name": "グレイ・フルバスター",
@@ -1439,7 +1515,8 @@
         "id": "FT/S09-077R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-078": {
     "name": "ウルの弟子 グレイ",
@@ -1461,7 +1538,8 @@
         "id": "FT/S09-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-079": {
     "name": "“ウルの教え”グレイ",
@@ -1479,7 +1557,8 @@
         "id": "FT/S09-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-080": {
     "name": "グレイの師匠 ウル",
@@ -1497,7 +1576,8 @@
         "id": "FT/S09-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-081": {
     "name": "脱ぎ癖 グレイ",
@@ -1515,7 +1595,8 @@
         "id": "FT/S09-081",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-082": {
     "name": "妖精の尻尾の魔導士 グレイ",
@@ -1537,7 +1618,8 @@
         "id": "FT/S09-082R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-083": {
     "name": "大海のジュビア",
@@ -1555,7 +1637,8 @@
         "id": "FT/S09-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-084": {
     "name": "恋する乙女 ジュビア",
@@ -1573,7 +1656,8 @@
         "id": "FT/S09-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-085": {
     "name": "ナツの喧嘩仲間 グレイ",
@@ -1591,7 +1675,8 @@
         "id": "FT/S09-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-086": {
     "name": "決意のグレイ",
@@ -1609,7 +1694,8 @@
         "id": "FT/S09-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-087": {
     "name": "“ウルの涙”ウルティア",
@@ -1627,7 +1713,8 @@
         "id": "FT/S09-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-088": {
     "name": "リオンの弟弟子 グレイ",
@@ -1645,7 +1732,8 @@
         "id": "FT/S09-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-089": {
     "name": "零帝 リオン",
@@ -1663,7 +1751,8 @@
         "id": "FT/S09-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-090": {
     "name": "“新しい目標”グレイ",
@@ -1681,7 +1770,8 @@
         "id": "FT/S09-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-091": {
     "name": "カナ・アルベローナ",
@@ -1699,7 +1789,8 @@
         "id": "FT/S09-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-092": {
     "name": "氷の魔法 グレイ",
@@ -1717,7 +1808,8 @@
         "id": "FT/S09-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-093": {
     "name": "魔法の札 カナ",
@@ -1735,7 +1827,8 @@
         "id": "FT/S09-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-094": {
     "name": "若き評議員 ジークレイン",
@@ -1753,7 +1846,8 @@
         "id": "FT/S09-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-095": {
     "name": "ファントムの魔導士 ジュビア",
@@ -1771,7 +1865,8 @@
         "id": "FT/S09-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-096": {
     "name": "月の雫",
@@ -1789,7 +1884,8 @@
         "id": "FT/S09-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-097": {
     "name": "悪魔の宴",
@@ -1807,7 +1903,8 @@
         "id": "FT/S09-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-098": {
     "name": "氷欠泉",
@@ -1825,7 +1922,8 @@
         "id": "FT/S09-098",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-099": {
     "name": "氷雪砲",
@@ -1843,7 +1941,8 @@
         "id": "FT/S09-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FT/S09-100": {
     "name": "水流拘束",
@@ -1861,6 +1960,7 @@
         "id": "FT/S09-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

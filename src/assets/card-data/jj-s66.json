@@ -19,7 +19,8 @@
         "id": "JJ/S66-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-002": {
     "name": "暗闇に見えた道 ミスタ",
@@ -41,7 +42,8 @@
         "id": "JJ/S66-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-003": {
     "name": "覚悟の示す先 ジョルノ",
@@ -63,7 +65,8 @@
         "id": "JJ/S66-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-004": {
     "name": "到達者 G・E・R",
@@ -81,7 +84,8 @@
         "id": "JJ/S66-004",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-005": {
     "name": "正義の体現者 ジョルノ",
@@ -99,7 +103,8 @@
         "id": "JJ/S66-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-006": {
     "name": "静かな激情 フーゴ",
@@ -121,7 +126,8 @@
         "id": "JJ/S66-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-007": {
     "name": "運命に選ばれしもの ジョルノ",
@@ -143,7 +149,8 @@
         "id": "JJ/S66-007J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-008": {
     "name": "重なる銃声 ミスタ",
@@ -165,7 +172,8 @@
         "id": "JJ/S66-008J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-009": {
     "name": "狂暴性の発露 フーゴ",
@@ -183,7 +191,8 @@
         "id": "JJ/S66-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-010": {
     "name": "死に立ち向かうもの ミスタ",
@@ -201,7 +210,8 @@
         "id": "JJ/S66-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-011": {
     "name": "希望の守り手 ポルナレフ",
@@ -223,7 +233,8 @@
         "id": "JJ/S66-011J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-012": {
     "name": "奇妙な調査依頼 康一＆Ec(Act 3)",
@@ -245,7 +256,8 @@
         "id": "JJ/S66-012J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-013": {
     "name": "暴走する過剰な生命 G・E",
@@ -263,7 +275,8 @@
         "id": "JJ/S66-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-014": {
     "name": "6人1組 S・P",
@@ -301,7 +314,8 @@
         "id": "JJ/S66-014f",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-015": {
     "name": "獰猛なる煙 P・H",
@@ -319,7 +333,8 @@
         "id": "JJ/S66-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-016": {
     "name": "死を撒く煙 フーゴ",
@@ -341,7 +356,8 @@
         "id": "JJ/S66-016J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-017": {
     "name": "静かに奏でられる C・R",
@@ -359,7 +375,8 @@
         "id": "JJ/S66-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-018": {
     "name": "新たなる力 G・E",
@@ -377,7 +394,8 @@
         "id": "JJ/S66-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-019": {
     "name": "生命の意志 ジョルノ",
@@ -395,7 +413,8 @@
         "id": "JJ/S66-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-020": {
     "name": "新たなる力 ジョルノ",
@@ -413,7 +432,8 @@
         "id": "JJ/S66-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-021": {
     "name": "意外と奇麗好き P・H",
@@ -431,7 +451,8 @@
         "id": "JJ/S66-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-022": {
     "name": "意志あるスタンド S・P",
@@ -449,7 +470,8 @@
         "id": "JJ/S66-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-023": {
     "name": "てんとう虫のブローチ",
@@ -467,7 +489,8 @@
         "id": "JJ/S66-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-024": {
     "name": "希望の「矢」",
@@ -485,7 +508,8 @@
         "id": "JJ/S66-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-025": {
     "name": "この世の『真実』",
@@ -507,7 +531,8 @@
         "id": "JJ/S66-025J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-026": {
     "name": "「覚悟」への『道』",
@@ -529,7 +554,8 @@
         "id": "JJ/S66-026J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-027": {
     "name": "蔓延する死",
@@ -551,7 +577,8 @@
         "id": "JJ/S66-027J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-028": {
     "name": "縮小の恐怖 ホルマジオ＆L・F",
@@ -573,7 +600,8 @@
         "id": "JJ/S66-028J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-029": {
     "name": "大事な相性診断 メローネ＆B・F",
@@ -595,7 +623,8 @@
         "id": "JJ/S66-029J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-030": {
     "name": "偉大なる教え プロシュート",
@@ -617,7 +646,8 @@
         "id": "JJ/S66-030J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-031": {
     "name": "偉大なる教え ペッシ＆B・B",
@@ -639,7 +669,8 @@
         "id": "JJ/S66-031J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-032": {
     "name": "極低温の世界 ギアッチョ＆W・A",
@@ -661,7 +692,8 @@
         "id": "JJ/S66-032J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-033": {
     "name": "裏返しの世界 イルーゾォ＆M・M",
@@ -683,7 +715,8 @@
         "id": "JJ/S66-033J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-034": {
     "name": "不可避の暗殺 リゾット",
@@ -705,7 +738,8 @@
         "id": "JJ/S66-034J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-035": {
     "name": "鏡の中の男 イルーゾォ",
@@ -723,7 +757,8 @@
         "id": "JJ/S66-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-036": {
     "name": "二人の結晶 B・F",
@@ -741,7 +776,8 @@
         "id": "JJ/S66-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-037": {
     "name": "裏切り者の矜持 リゾット＆Mt",
@@ -759,7 +795,8 @@
         "id": "JJ/S66-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-038": {
     "name": "知略の暗殺者 ホルマジオ",
@@ -777,7 +814,8 @@
         "id": "JJ/S66-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-039": {
     "name": "覚悟の重み プロシュート＆T・G・D",
@@ -795,7 +833,8 @@
         "id": "JJ/S66-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-040": {
     "name": "マンモーニ ペッシ＆B・B",
@@ -813,7 +852,8 @@
         "id": "JJ/S66-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-041": {
     "name": "隠し財産を狙うもの ズッケェロ＆S・M",
@@ -835,7 +875,8 @@
         "id": "JJ/S66-041J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-042": {
     "name": "隠し財産を狙うもの サーレー＆K・W",
@@ -857,7 +898,8 @@
         "id": "JJ/S66-042J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-043": {
     "name": "静かに泣く ギアッチョ＆W・A・G・W",
@@ -875,7 +917,8 @@
         "id": "JJ/S66-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-044": {
     "name": "ソルベ＆ジェラートの消失",
@@ -893,7 +936,8 @@
         "id": "JJ/S66-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-045": {
     "name": "磁力の支配者",
@@ -915,7 +959,8 @@
         "id": "JJ/S66-045J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "JJ/S66-046": {
     "name": "偉大なる死",
@@ -937,7 +982,8 @@
         "id": "JJ/S66-046J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-047": {
     "name": "過去の残滓 ディアボロ",
@@ -959,7 +1005,8 @@
         "id": "JJ/S66-047SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-048": {
     "name": "消し飛んだ世界 K・C",
@@ -981,7 +1028,8 @@
         "id": "JJ/S66-048J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-049": {
     "name": "水場の狩り手 Cl",
@@ -1003,7 +1051,8 @@
         "id": "JJ/S66-049J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-050": {
     "name": "未来の「動き」 ドッピオ＆Eｐ",
@@ -1021,7 +1070,8 @@
         "id": "JJ/S66-050",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-051": {
     "name": "嘘偽の紡ぎ手 T・H",
@@ -1043,7 +1093,8 @@
         "id": "JJ/S66-051J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-052": {
     "name": "絶望を蒔くもの チョコラータ＆G・D",
@@ -1065,7 +1116,8 @@
         "id": "JJ/S66-052J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-053": {
     "name": "帝王の誇り ディアボロ",
@@ -1083,7 +1135,8 @@
         "id": "JJ/S66-053",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-054": {
     "name": "地に沈めるもの セッコ＆Oa",
@@ -1105,7 +1158,8 @@
         "id": "JJ/S66-054J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-055": {
     "name": "獄中の暴君 ポルポ",
@@ -1123,7 +1177,8 @@
         "id": "JJ/S66-055",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-056": {
     "name": "10時間前 ペリーコロさん",
@@ -1141,7 +1196,8 @@
         "id": "JJ/S66-056",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-057": {
     "name": "阿吽の呼吸 ティッツァーノ",
@@ -1159,7 +1215,8 @@
         "id": "JJ/S66-057",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-058": {
     "name": "阿吽の呼吸 スクアーロ",
@@ -1177,7 +1234,8 @@
         "id": "JJ/S66-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-059": {
     "name": "飽くなき追跡者 N・B",
@@ -1199,7 +1257,8 @@
         "id": "JJ/S66-059J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-060": {
     "name": "涙目のルカ",
@@ -1217,7 +1276,8 @@
         "id": "JJ/S66-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-061": {
     "name": "永遠の頂点 K・C",
@@ -1235,7 +1295,8 @@
         "id": "JJ/S66-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-062": {
     "name": "ごほーびの時間 チョコラータ",
@@ -1253,7 +1314,8 @@
         "id": "JJ/S66-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-063": {
     "name": "表と裏 ディアボロ",
@@ -1271,7 +1333,8 @@
         "id": "JJ/S66-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-064": {
     "name": "表と裏 ドッピオ",
@@ -1289,7 +1352,8 @@
         "id": "JJ/S66-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-065": {
     "name": "死者の報復 カルネ",
@@ -1307,7 +1371,8 @@
         "id": "JJ/S66-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-066": {
     "name": "ごほーびの時間 セッコ＆Oa",
@@ -1325,7 +1390,8 @@
         "id": "JJ/S66-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-067": {
     "name": "影の中の監視者 B・S",
@@ -1347,7 +1413,8 @@
         "id": "JJ/S66-067J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-068": {
     "name": "奇跡の公衆電話",
@@ -1365,7 +1432,8 @@
         "id": "JJ/S66-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-069": {
     "name": "ポルポの入団試験",
@@ -1383,7 +1451,8 @@
         "id": "JJ/S66-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-070": {
     "name": "永遠の絶頂",
@@ -1405,7 +1474,8 @@
         "id": "JJ/S66-070J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-071": {
     "name": "10秒後の未来",
@@ -1427,7 +1497,8 @@
         "id": "JJ/S66-071J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-072": {
     "name": "チョコラータとセッコ",
@@ -1449,7 +1520,8 @@
         "id": "JJ/S66-072J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-073": {
     "name": "運命に導かれた鍵 トリッシュ",
@@ -1471,7 +1543,8 @@
         "id": "JJ/S66-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-074": {
     "name": "気高き覚悟 ブチャラティ",
@@ -1493,7 +1566,8 @@
         "id": "JJ/S66-074SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-075": {
     "name": "魂の意志 ブチャラティ",
@@ -1515,7 +1589,8 @@
         "id": "JJ/S66-075SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-076": {
     "name": "過去の再現 アバッキオ",
@@ -1537,7 +1612,8 @@
         "id": "JJ/S66-076SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-077": {
     "name": "闇を切り裂く光 ブチャラティ",
@@ -1559,7 +1635,8 @@
         "id": "JJ/S66-077J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-078": {
     "name": "自らの進む道 ナランチャ",
@@ -1581,7 +1658,8 @@
         "id": "JJ/S66-078SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-079": {
     "name": "覚醒する力 トリッシュ",
@@ -1603,7 +1681,8 @@
         "id": "JJ/S66-079J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-080": {
     "name": "情報の追跡者 アバッキオ",
@@ -1625,7 +1704,8 @@
         "id": "JJ/S66-080J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-081": {
     "name": "空を駆る狩猟者 ナランチャ",
@@ -1647,7 +1727,8 @@
         "id": "JJ/S66-081J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-082": {
     "name": "真実に向かおうとする意志 M・B",
@@ -1665,7 +1746,8 @@
         "id": "JJ/S66-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-083": {
     "name": "覚醒する力 S・G",
@@ -1683,7 +1765,8 @@
         "id": "JJ/S66-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-084": {
     "name": "切り開くもの S・F",
@@ -1701,7 +1784,8 @@
         "id": "JJ/S66-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-085": {
     "name": "不壊の軟性 S・G",
@@ -1719,7 +1803,8 @@
         "id": "JJ/S66-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-086": {
     "name": "運命に抗うもの ブチャラティ",
@@ -1737,7 +1822,8 @@
         "id": "JJ/S66-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-087": {
     "name": "抗う意志 トリッシュ",
@@ -1755,7 +1841,8 @@
         "id": "JJ/S66-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-088": {
     "name": "敏速なる機影 As",
@@ -1773,7 +1860,8 @@
         "id": "JJ/S66-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-089": {
     "name": "正しい道 ブチャラティ",
@@ -1791,7 +1879,8 @@
         "id": "JJ/S66-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-090": {
     "name": "変幻する軌道 S・F",
@@ -1809,7 +1898,8 @@
         "id": "JJ/S66-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-091": {
     "name": "圧倒する精神力 ナランチャ",
@@ -1827,7 +1917,8 @@
         "id": "JJ/S66-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-092": {
     "name": "正義の心 アバッキオ",
@@ -1845,7 +1936,8 @@
         "id": "JJ/S66-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-093": {
     "name": "破壊の暴風 As",
@@ -1863,7 +1955,8 @@
         "id": "JJ/S66-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-094": {
     "name": "追跡する映像 M・B",
@@ -1881,7 +1974,8 @@
         "id": "JJ/S66-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-095": {
     "name": "安全な「乗り物」の「鍵」",
@@ -1899,7 +1993,8 @@
         "id": "JJ/S66-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-096": {
     "name": "亀の中の部屋",
@@ -1917,7 +2012,8 @@
         "id": "JJ/S66-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-097": {
     "name": "別れを告げる音",
@@ -1939,7 +2035,8 @@
         "id": "JJ/S66-097J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-098": {
     "name": "目覚める意志",
@@ -1961,7 +2058,8 @@
         "id": "JJ/S66-098J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-099": {
     "name": "今にも落ちて来そうな空の下で",
@@ -1983,7 +2081,8 @@
         "id": "JJ/S66-099J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "JJ/S66-100": {
     "name": "ひるまぬ精神",
@@ -2005,6 +2104,7 @@
         "id": "JJ/S66-100J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

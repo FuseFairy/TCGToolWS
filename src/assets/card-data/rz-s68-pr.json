@@ -15,7 +15,8 @@
         "id": "RZ/S68-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-P02": {
     "name": "ドット レム＆ラム [Memory Snow]",
@@ -33,7 +34,8 @@
         "id": "RZ/S68-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-101": {
     "name": "ドット ラム [Memory Snow]",
@@ -51,7 +53,8 @@
         "id": "RZ/S68-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-102": {
     "name": "ドット ベアトリス [Memory Snow]",
@@ -69,7 +72,8 @@
         "id": "RZ/S68-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-103": {
     "name": "ドット レム [Memory Snow]",
@@ -87,7 +91,8 @@
         "id": "RZ/S68-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-104": {
     "name": "ドット エミリア&パック [Memory Snow]",
@@ -105,6 +110,7 @@
         "id": "RZ/S68-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -23,7 +23,8 @@
         "id": "BAV/W129-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-002": {
     "name": "トリニティ総合学園 ヒフミ",
@@ -45,7 +46,8 @@
         "id": "BAV/W129-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-003": {
     "name": "対策委員会のひととき アヤネ＆セリカ",
@@ -67,7 +69,8 @@
         "id": "BAV/W129-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-004": {
     "name": "私たちの居場所 セリカ",
@@ -89,7 +92,8 @@
         "id": "BAV/W129-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-005": {
     "name": "アビドス高等学校 アヤネ",
@@ -111,7 +115,8 @@
         "id": "BAV/W129-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-006": {
     "name": "帰るべき場所 ホシノ",
@@ -133,7 +138,8 @@
         "id": "BAV/W129-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-007": {
     "name": "アビドス高等学校 シロコ",
@@ -155,7 +161,8 @@
         "id": "BAV/W129-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-008": {
     "name": "水族館の思い出 シロコ",
@@ -177,7 +184,8 @@
         "id": "BAV/W129-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-009": {
     "name": "普通の女の子 ヒフミ",
@@ -199,7 +207,8 @@
         "id": "BAV/W129-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-010": {
     "name": "ミーティング中 ホシノ",
@@ -221,7 +230,8 @@
         "id": "BAV/W129-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-011": {
     "name": "ミーティング中 セリカ",
@@ -243,7 +253,8 @@
         "id": "BAV/W129-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-012": {
     "name": "帰り道 アヤネ",
@@ -265,7 +276,8 @@
         "id": "BAV/W129-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-013": {
     "name": "覆面水着団 ノノミ",
@@ -287,7 +299,8 @@
         "id": "BAV/W129-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-014": {
     "name": "アビドスでの日常 ホシノ",
@@ -309,7 +322,8 @@
         "id": "BAV/W129-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-015": {
     "name": "就寝前のひととき アヤネ",
@@ -331,7 +345,8 @@
         "id": "BAV/W129-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-016": {
     "name": "アビドス高等学校2年生 ノノミ",
@@ -353,7 +368,8 @@
         "id": "BAV/W129-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-017": {
     "name": "お待ちしてました、先生！",
@@ -379,7 +395,8 @@
         "id": "BAV/W129-017SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-018": {
     "name": "ペロロさまを探して",
@@ -401,7 +418,8 @@
         "id": "BAV/W129-018R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-019": {
     "name": "私たちの居場所",
@@ -423,7 +441,8 @@
         "id": "BAV/W129-019R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-020": {
     "name": "いつもの日常",
@@ -445,7 +464,8 @@
         "id": "BAV/W129-020R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-021": {
     "name": "風紀委員会 イオリ",
@@ -471,7 +491,8 @@
         "id": "BAV/W129-021SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-022": {
     "name": "風紀委員会 アコ",
@@ -497,7 +518,8 @@
         "id": "BAV/W129-022SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-023": {
     "name": "ゲヘナ学園 イオリ",
@@ -519,7 +541,8 @@
         "id": "BAV/W129-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-024": {
     "name": "ゲヘナ学園 ヒナ",
@@ -541,7 +564,8 @@
         "id": "BAV/W129-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-025": {
     "name": "ゲヘナ学園 ムツキ",
@@ -563,7 +587,8 @@
         "id": "BAV/W129-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-026": {
     "name": "初めての光景 ヒナ",
@@ -585,7 +610,8 @@
         "id": "BAV/W129-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-027": {
     "name": "便利屋68の課長 カヨコ",
@@ -607,7 +633,8 @@
         "id": "BAV/W129-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-028": {
     "name": "ゲヘナ学園 チナツ",
@@ -629,7 +656,8 @@
         "id": "BAV/W129-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-029": {
     "name": "ゲヘナ学園 ハルカ",
@@ -651,7 +679,8 @@
         "id": "BAV/W129-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-030": {
     "name": "社長への不安 カヨコ",
@@ -673,7 +702,8 @@
         "id": "BAV/W129-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-031": {
     "name": "便利屋68の自称社長 アル",
@@ -695,7 +725,8 @@
         "id": "BAV/W129-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-032": {
     "name": "ゲヘナ学園2年生 ムツキ",
@@ -717,7 +748,8 @@
         "id": "BAV/W129-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-033": {
     "name": "引っ越し中 ハルカ",
@@ -739,7 +771,8 @@
         "id": "BAV/W129-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-034": {
     "name": "アウトローへのあこがれ アル",
@@ -761,7 +794,8 @@
         "id": "BAV/W129-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-035": {
     "name": "風紀委員会の救護担当 チナツ",
@@ -783,7 +817,8 @@
         "id": "BAV/W129-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-036": {
     "name": "反省文 アコ",
@@ -805,7 +840,8 @@
         "id": "BAV/W129-036S",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-037": {
     "name": "風紀委員長 ヒナ",
@@ -827,7 +863,8 @@
         "id": "BAV/W129-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-038": {
     "name": "青春の一ページ",
@@ -861,7 +898,8 @@
         "id": "BAV/W129-038Sd",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-039": {
     "name": "ゲヘナ学園最大戦力",
@@ -883,7 +921,8 @@
         "id": "BAV/W129-039R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-040": {
     "name": "誰もが恐れる風紀委員会",
@@ -905,7 +944,8 @@
         "id": "BAV/W129-040R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-041": {
     "name": "風紀委員会 ヒナ",
@@ -931,7 +971,8 @@
         "id": "BAV/W129-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-042": {
     "name": "便利屋68 アル",
@@ -957,7 +998,8 @@
         "id": "BAV/W129-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-043": {
     "name": "便利屋68 ムツキ",
@@ -983,7 +1025,8 @@
         "id": "BAV/W129-043SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-044": {
     "name": "便利屋68 ハルカ",
@@ -1009,7 +1052,8 @@
         "id": "BAV/W129-044SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-045": {
     "name": "便利屋68 カヨコ",
@@ -1035,7 +1079,8 @@
         "id": "BAV/W129-045SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-046": {
     "name": "風紀委員会 チナツ",
@@ -1061,7 +1106,8 @@
         "id": "BAV/W129-046SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-047": {
     "name": "ゲヘナ学園 カヨコ",
@@ -1083,7 +1129,8 @@
         "id": "BAV/W129-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-048": {
     "name": "ゲヘナ学園 アル",
@@ -1105,7 +1152,8 @@
         "id": "BAV/W129-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-049": {
     "name": "ゲヘナ学園3年生 カヨコ",
@@ -1127,7 +1175,8 @@
         "id": "BAV/W129-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-050": {
     "name": "悪への羨望 アル",
@@ -1149,7 +1198,8 @@
         "id": "BAV/W129-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-051": {
     "name": "抜群の戦闘センス イオリ",
@@ -1171,7 +1221,8 @@
         "id": "BAV/W129-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-052": {
     "name": "ゲヘナ学園 アコ",
@@ -1193,7 +1244,8 @@
         "id": "BAV/W129-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-053": {
     "name": "不敵な笑み ムツキ",
@@ -1215,7 +1267,8 @@
         "id": "BAV/W129-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-054": {
     "name": "驚異的な戦闘力 ヒナ",
@@ -1237,7 +1290,8 @@
         "id": "BAV/W129-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-055": {
     "name": "風紀委員会の切り込み隊長 イオリ",
@@ -1259,7 +1313,8 @@
         "id": "BAV/W129-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-056": {
     "name": "羨望の眼差し ハルカ",
@@ -1281,7 +1336,8 @@
         "id": "BAV/W129-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-057": {
     "name": "風紀委員会の行政官 アコ",
@@ -1303,7 +1359,8 @@
         "id": "BAV/W129-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-058": {
     "name": "冷静沈着 カヨコ",
@@ -1325,7 +1382,8 @@
         "id": "BAV/W129-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-059": {
     "name": "冷酷なスペシャリスト イオリ",
@@ -1347,7 +1405,8 @@
         "id": "BAV/W129-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-060": {
     "name": "なりたかったもの アル",
@@ -1369,7 +1428,8 @@
         "id": "BAV/W129-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-061": {
     "name": "戦闘開始 ハルカ",
@@ -1391,7 +1451,8 @@
         "id": "BAV/W129-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-062": {
     "name": "便利屋68の平社員 ハルカ",
@@ -1413,7 +1474,8 @@
         "id": "BAV/W129-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-063": {
     "name": "銀行での一幕 カヨコ",
@@ -1435,7 +1497,8 @@
         "id": "BAV/W129-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-064": {
     "name": "取り戻した日常 ヒナ",
@@ -1457,7 +1520,8 @@
         "id": "BAV/W129-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-065": {
     "name": "社長への期待 ムツキ",
@@ -1479,7 +1543,8 @@
         "id": "BAV/W129-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-066": {
     "name": "風紀委員会のブレーキ役 チナツ",
@@ -1501,7 +1566,8 @@
         "id": "BAV/W129-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-067": {
     "name": "シッテムの箱のシステム管理者",
@@ -1523,7 +1589,8 @@
         "id": "BAV/W129-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-068": {
     "name": "ハードボイルドなアウトロー集団",
@@ -1545,7 +1612,8 @@
         "id": "BAV/W129-068R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-069": {
     "name": "正真正銘のアウトロー",
@@ -1567,7 +1635,8 @@
         "id": "BAV/W129-069R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-070": {
     "name": "アウトローの助太刀",
@@ -1589,7 +1658,8 @@
         "id": "BAV/W129-070R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-071": {
     "name": "対策委員会 アヤネ",
@@ -1615,7 +1685,8 @@
         "id": "BAV/W129-071SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-072": {
     "name": "対策委員会 セリカ",
@@ -1641,7 +1712,8 @@
         "id": "BAV/W129-072SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-073": {
     "name": "対策委員会 ホシノ",
@@ -1667,7 +1739,8 @@
         "id": "BAV/W129-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-074": {
     "name": "対策委員会 ノノミ",
@@ -1693,7 +1766,8 @@
         "id": "BAV/W129-074SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-075": {
     "name": "対策委員会 シロコ",
@@ -1719,7 +1793,8 @@
         "id": "BAV/W129-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-076": {
     "name": "私たちの居場所 シロコ",
@@ -1741,7 +1816,8 @@
         "id": "BAV/W129-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-077": {
     "name": "未知の風景 シロコ",
@@ -1763,7 +1839,8 @@
         "id": "BAV/W129-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-078": {
     "name": "青春の一幕 アヤネ",
@@ -1785,7 +1862,8 @@
         "id": "BAV/W129-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-079": {
     "name": "アビドス高等学校 ホシノ",
@@ -1807,7 +1885,8 @@
         "id": "BAV/W129-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-080": {
     "name": "アビドス高等学校 ノノミ",
@@ -1829,7 +1908,8 @@
         "id": "BAV/W129-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-081": {
     "name": "アビドス高等学校 セリカ",
@@ -1851,7 +1931,8 @@
         "id": "BAV/W129-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-082": {
     "name": "対策委員会のひととき ノノミ＆ホシノ",
@@ -1873,7 +1954,8 @@
         "id": "BAV/W129-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-083": {
     "name": "ミーティング中 アヤネ",
@@ -1895,7 +1977,8 @@
         "id": "BAV/W129-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-084": {
     "name": "ミーティング中 ノノミ",
@@ -1917,7 +2000,8 @@
         "id": "BAV/W129-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-085": {
     "name": "アビドスでの日常 シロコ",
@@ -1939,7 +2023,8 @@
         "id": "BAV/W129-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-086": {
     "name": "アビドスでの日常 アヤネ",
@@ -1961,7 +2046,8 @@
         "id": "BAV/W129-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-087": {
     "name": "アビドス高等学校3年生 ホシノ",
@@ -1983,7 +2069,8 @@
         "id": "BAV/W129-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-088": {
     "name": "青春の一幕 セリカ",
@@ -2005,7 +2092,8 @@
         "id": "BAV/W129-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-089": {
     "name": "就寝前のひととき ノノミ",
@@ -2027,7 +2115,8 @@
         "id": "BAV/W129-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-090": {
     "name": "明日への準備 シロコ",
@@ -2049,7 +2138,8 @@
         "id": "BAV/W129-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-091": {
     "name": "キヴォトスでの日常 セリカ",
@@ -2071,7 +2161,8 @@
         "id": "BAV/W129-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-092": {
     "name": "帰り道での出会い ホシノ",
@@ -2093,7 +2184,8 @@
         "id": "BAV/W129-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-093": {
     "name": "カイザーコーポレーションとの戦い ノノミ",
@@ -2115,7 +2207,8 @@
         "id": "BAV/W129-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-094": {
     "name": "就寝前のひととき シロコ",
@@ -2137,7 +2230,8 @@
         "id": "BAV/W129-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-095": {
     "name": "青春の一幕 ホシノ",
@@ -2159,7 +2253,8 @@
         "id": "BAV/W129-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-096": {
     "name": "就寝前のひととき セリカ",
@@ -2181,7 +2276,8 @@
         "id": "BAV/W129-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-097": {
     "name": "先生をアシストする秘書です！",
@@ -2203,7 +2299,8 @@
         "id": "BAV/W129-097S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W129-098": {
     "name": "かけがえのない日常",
@@ -2225,7 +2322,8 @@
         "id": "BAV/W129-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-099": {
     "name": "青春の一枚",
@@ -2247,7 +2345,8 @@
         "id": "BAV/W129-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-100": {
     "name": "アビドスでの生活",
@@ -2269,6 +2368,7 @@
         "id": "BAV/W129-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

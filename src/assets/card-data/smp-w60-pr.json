@@ -15,7 +15,8 @@
         "id": "SMP/W60-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W60-P02": {
     "name": "“夏休みを忘れた少女”しろは",
@@ -33,7 +34,8 @@
         "id": "SMP/W60-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W60-P03": {
     "name": "“自分探しの少女”紬",
@@ -51,7 +53,8 @@
         "id": "SMP/W60-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W60-P04": {
     "name": "“島の伝承を追う少女”蒼",
@@ -69,7 +72,8 @@
         "id": "SMP/W60-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W60-P05": {
     "name": "“スイカバー獲得作戦”しろは",
@@ -87,7 +91,8 @@
         "id": "SMP/W60-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W60-P06": {
     "name": "“休日の制服”しろは",
@@ -105,7 +110,8 @@
         "id": "SMP/W60-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W60-P07": {
     "name": "“スイカバーさん”しろは",
@@ -123,7 +129,8 @@
         "id": "SMP/W60-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W60-P08": {
     "name": "“朝の日課”うみ",
@@ -145,7 +152,8 @@
         "id": "SMP/W60-P08S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W60-101": {
     "name": "ちびしろは",
@@ -163,7 +171,8 @@
         "id": "SMP/W60-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W60-102": {
     "name": "ちび蒼",
@@ -181,7 +190,8 @@
         "id": "SMP/W60-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W60-103": {
     "name": "ちび鴎",
@@ -199,7 +209,8 @@
         "id": "SMP/W60-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W60-104": {
     "name": "ちび紬",
@@ -217,7 +228,8 @@
         "id": "SMP/W60-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W60-105": {
     "name": "ちびうみ",
@@ -235,6 +247,7 @@
         "id": "SMP/W60-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

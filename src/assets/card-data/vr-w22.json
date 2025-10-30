@@ -19,7 +19,8 @@
         "id": "VR/W22-001R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-002": {
     "name": "四宮 ひまわり",
@@ -41,7 +42,8 @@
         "id": "VR/W22-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-003": {
     "name": "体育の時間 ひまわり",
@@ -59,7 +61,8 @@
         "id": "VR/W22-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-004": {
     "name": "ひまわりとドッキング！ あかね",
@@ -77,7 +80,8 @@
         "id": "VR/W22-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-005": {
     "name": "工場大好き ひまわり",
@@ -95,7 +99,8 @@
         "id": "VR/W22-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-006": {
     "name": "ビビッドイエロー",
@@ -117,7 +122,8 @@
         "id": "VR/W22-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-007": {
     "name": "天才ハッカー ひまわり",
@@ -135,7 +141,8 @@
         "id": "VR/W22-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-008": {
     "name": "読者モデル ひまわり",
@@ -153,7 +160,8 @@
         "id": "VR/W22-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-009": {
     "name": "水着のひまわり",
@@ -171,7 +179,8 @@
         "id": "VR/W22-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-010": {
     "name": "テクスチャー・オン！ ひまわり",
@@ -189,7 +198,8 @@
         "id": "VR/W22-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-011": {
     "name": "好奇心旺盛 ひまわり",
@@ -211,7 +221,8 @@
         "id": "VR/W22-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-012": {
     "name": "引きこもり少女 ひまわり",
@@ -229,7 +240,8 @@
         "id": "VR/W22-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-013": {
     "name": "勉強会のお誘い ひまわり",
@@ -247,7 +259,8 @@
         "id": "VR/W22-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-014": {
     "name": "パレットスーツ装着！ ひまわり",
@@ -265,7 +278,8 @@
         "id": "VR/W22-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-015": {
     "name": "オペレーション！ ビビッドイエロー",
@@ -283,7 +297,8 @@
         "id": "VR/W22-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-016": {
     "name": "向日葵とひまわり",
@@ -301,7 +316,8 @@
         "id": "VR/W22-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-017": {
     "name": "ひまわりのカメラ",
@@ -319,7 +335,8 @@
         "id": "VR/W22-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-018": {
     "name": "ネイキッドコライダー",
@@ -337,7 +354,8 @@
         "id": "VR/W22-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-019": {
     "name": "新たな友達",
@@ -355,7 +373,8 @@
         "id": "VR/W22-019",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-020": {
     "name": "ビビッドコライダー",
@@ -373,7 +392,8 @@
         "id": "VR/W22-020",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "VR/W22-021": {
     "name": "勝気な少女 わかば",
@@ -395,7 +415,8 @@
         "id": "VR/W22-021R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-022": {
     "name": "テクスチャー・オン！ わかば",
@@ -413,7 +434,8 @@
         "id": "VR/W22-022",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-023": {
     "name": "免許皆伝 わかば",
@@ -435,7 +457,8 @@
         "id": "VR/W22-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-024": {
     "name": "オペレーション！ ビビッドグリーン",
@@ -453,7 +476,8 @@
         "id": "VR/W22-024",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-025": {
     "name": "ビビッドグリーン",
@@ -475,7 +499,8 @@
         "id": "VR/W22-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-026": {
     "name": "三枝 わかば",
@@ -497,7 +522,8 @@
         "id": "VR/W22-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-027": {
     "name": "可愛いもの好き わかば",
@@ -515,7 +541,8 @@
         "id": "VR/W22-027",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-028": {
     "name": "わかばとドッキング！ あかね",
@@ -533,7 +560,8 @@
         "id": "VR/W22-028",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-029": {
     "name": "体育の時間 わかば",
@@ -551,7 +579,8 @@
         "id": "VR/W22-029",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-030": {
     "name": "水着のわかば",
@@ -569,7 +598,8 @@
         "id": "VR/W22-030",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-031": {
     "name": "文武両道 わかば",
@@ -587,7 +617,8 @@
         "id": "VR/W22-031",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-032": {
     "name": "私服のわかば",
@@ -605,7 +636,8 @@
         "id": "VR/W22-032",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-033": {
     "name": "天城 みずは",
@@ -623,7 +655,8 @@
         "id": "VR/W22-033",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-034": {
     "name": "パレットスーツ装着！ わかば",
@@ -641,7 +674,8 @@
         "id": "VR/W22-034",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-035": {
     "name": "ひまわりの付き人 わかば",
@@ -659,7 +693,8 @@
         "id": "VR/W22-035",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-036": {
     "name": "真の強さ わかば",
@@ -677,7 +712,8 @@
         "id": "VR/W22-036",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-037": {
     "name": "ひまわりのボディーガード",
@@ -695,7 +731,8 @@
         "id": "VR/W22-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-038": {
     "name": "天元理心流特訓術",
@@ -713,7 +750,8 @@
         "id": "VR/W22-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-039": {
     "name": "ビビッドブレード",
@@ -731,7 +769,8 @@
         "id": "VR/W22-039",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-040": {
     "name": "楽しい勝負",
@@ -749,7 +788,8 @@
         "id": "VR/W22-040",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "VR/W22-041": {
     "name": "明るくまっすぐ あかね",
@@ -767,7 +807,8 @@
         "id": "VR/W22-041",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-042": {
     "name": "一色 あかね",
@@ -789,7 +830,8 @@
         "id": "VR/W22-042SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-043": {
     "name": "そっけない応答 れい",
@@ -811,7 +853,8 @@
         "id": "VR/W22-043R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-044": {
     "name": "マヨラー あかね",
@@ -829,7 +872,8 @@
         "id": "VR/W22-044",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-045": {
     "name": "天真爛漫 あかね",
@@ -851,7 +895,8 @@
         "id": "VR/W22-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-046": {
     "name": "オペレーション！ ビビッドレッド",
@@ -869,7 +914,8 @@
         "id": "VR/W22-046",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-047": {
     "name": "いつでもポジティブ あかね",
@@ -891,7 +937,8 @@
         "id": "VR/W22-047R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-048": {
     "name": "テント形態  あかね",
@@ -909,7 +956,8 @@
         "id": "VR/W22-048",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-049": {
     "name": "滅ぼす者 れい",
@@ -927,7 +975,8 @@
         "id": "VR/W22-049",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-050": {
     "name": "ビビッドレッド",
@@ -949,7 +998,8 @@
         "id": "VR/W22-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-051": {
     "name": "みんなの中心 あかね",
@@ -967,7 +1017,8 @@
         "id": "VR/W22-051",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-052": {
     "name": "独りぼっちのれい",
@@ -985,7 +1036,8 @@
         "id": "VR/W22-052",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-053": {
     "name": "『彼ら』の使者 カラス",
@@ -1003,7 +1055,8 @@
         "id": "VR/W22-053",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-054": {
     "name": "水着のれい",
@@ -1021,7 +1074,8 @@
         "id": "VR/W22-054",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-055": {
     "name": "あかねとドッキング！ れい",
@@ -1039,7 +1093,8 @@
         "id": "VR/W22-055",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-056": {
     "name": "まっすぐな瞳 あかね",
@@ -1057,7 +1112,8 @@
         "id": "VR/W22-056",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-057": {
     "name": "すれ違う心 れい",
@@ -1075,7 +1131,8 @@
         "id": "VR/W22-057",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-058": {
     "name": "謎の存在 アローン",
@@ -1093,7 +1150,8 @@
         "id": "VR/W22-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-059": {
     "name": "黒騎 れい",
@@ -1115,7 +1173,8 @@
         "id": "VR/W22-059SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-060": {
     "name": "しっかりもの もも",
@@ -1133,7 +1192,8 @@
         "id": "VR/W22-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-061": {
     "name": "体育の時間 れい",
@@ -1151,7 +1211,8 @@
         "id": "VR/W22-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-062": {
     "name": "一色 ましろ",
@@ -1169,7 +1230,8 @@
         "id": "VR/W22-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-063": {
     "name": "与えられた力 れい",
@@ -1187,7 +1249,8 @@
         "id": "VR/W22-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-064": {
     "name": "偉大な科学者 健次郎",
@@ -1205,7 +1268,8 @@
         "id": "VR/W22-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-065": {
     "name": "新聞配達 あかね",
@@ -1223,7 +1287,8 @@
         "id": "VR/W22-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-066": {
     "name": "仲良し姉妹 あかね＆もも",
@@ -1241,7 +1306,8 @@
         "id": "VR/W22-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-067": {
     "name": "人類に訪れた災厄 アローン",
@@ -1259,7 +1325,8 @@
         "id": "VR/W22-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-068": {
     "name": "謎の少女 れい",
@@ -1277,7 +1344,8 @@
         "id": "VR/W22-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-069": {
     "name": "すれ違う心 あかね",
@@ -1295,7 +1363,8 @@
         "id": "VR/W22-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-070": {
     "name": "平行世界の少女 れい",
@@ -1313,7 +1382,8 @@
         "id": "VR/W22-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-071": {
     "name": "私であるための証 れい",
@@ -1331,7 +1401,8 @@
         "id": "VR/W22-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-072": {
     "name": "パレットスーツ装着！ あかね",
@@ -1349,7 +1420,8 @@
         "id": "VR/W22-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-073": {
     "name": "つながる心",
@@ -1367,7 +1439,8 @@
         "id": "VR/W22-073",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-074": {
     "name": "羽型のあざ",
@@ -1385,7 +1458,8 @@
         "id": "VR/W22-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-075": {
     "name": "世界を救う力",
@@ -1403,7 +1477,8 @@
         "id": "VR/W22-075",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "VR/W22-076": {
     "name": "れいの使命",
@@ -1421,7 +1496,8 @@
         "id": "VR/W22-076",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "VR/W22-077": {
     "name": "ビビッドパンチ",
@@ -1439,7 +1515,8 @@
         "id": "VR/W22-077",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "VR/W22-078": {
     "name": "ネイキッドラング",
@@ -1457,7 +1534,8 @@
         "id": "VR/W22-078",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "VR/W22-079": {
     "name": "ビビッドもも、オペレーション！",
@@ -1475,7 +1553,8 @@
         "id": "VR/W22-079",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "VR/W22-080": {
     "name": "さよならは言わない",
@@ -1493,7 +1572,8 @@
         "id": "VR/W22-080",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-081": {
     "name": "ビビッドブルー",
@@ -1515,7 +1595,8 @@
         "id": "VR/W22-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-082": {
     "name": "二葉 あおい",
@@ -1537,7 +1618,8 @@
         "id": "VR/W22-082SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-083": {
     "name": "おしとやかな少女 あおい",
@@ -1559,7 +1641,8 @@
         "id": "VR/W22-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-084": {
     "name": "水着のあおい",
@@ -1577,7 +1660,8 @@
         "id": "VR/W22-084",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-085": {
     "name": "あおいとドッキング！ あかね",
@@ -1595,7 +1679,8 @@
         "id": "VR/W22-085",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-086": {
     "name": "オペレーション！ ビビッドブルー",
@@ -1613,7 +1698,8 @@
         "id": "VR/W22-086",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-087": {
     "name": "朝の特訓 あおい",
@@ -1631,7 +1717,8 @@
         "id": "VR/W22-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-088": {
     "name": "真実の告白 あおい",
@@ -1649,7 +1736,8 @@
         "id": "VR/W22-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-089": {
     "name": "屋上でお弁当 あおい",
@@ -1667,7 +1755,8 @@
         "id": "VR/W22-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-090": {
     "name": "すっかり元気 あおい",
@@ -1689,7 +1778,8 @@
         "id": "VR/W22-090R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-091": {
     "name": "テクスチャー・オン！ あおい",
@@ -1707,7 +1797,8 @@
         "id": "VR/W22-091",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-092": {
     "name": "紫条 悠里",
@@ -1725,7 +1816,8 @@
         "id": "VR/W22-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-093": {
     "name": "私服のあおい",
@@ -1743,7 +1835,8 @@
         "id": "VR/W22-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-094": {
     "name": "おやつの時間 あおい",
@@ -1761,7 +1854,8 @@
         "id": "VR/W22-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-095": {
     "name": "初めての戦い あおい",
@@ -1779,7 +1873,8 @@
         "id": "VR/W22-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-096": {
     "name": "パレットスーツ装着！ あおい",
@@ -1797,7 +1892,8 @@
         "id": "VR/W22-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-097": {
     "name": "オペレーション・コクーンブレイク",
@@ -1815,7 +1911,8 @@
         "id": "VR/W22-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-098": {
     "name": "意外と力もち",
@@ -1833,7 +1930,8 @@
         "id": "VR/W22-098",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-099": {
     "name": "ネイキッドインパクト",
@@ -1851,7 +1949,8 @@
         "id": "VR/W22-099",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-100": {
     "name": "オペレーションキー出現！",
@@ -1869,6 +1968,7 @@
         "id": "VR/W22-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

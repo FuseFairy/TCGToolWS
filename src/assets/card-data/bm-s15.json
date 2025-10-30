@@ -19,7 +19,8 @@
         "id": "BM/S15-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-002": {
     "name": "八九寺真宵",
@@ -37,7 +38,8 @@
         "id": "BM/S15-002",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-003": {
     "name": "母の日の阿良々木暦",
@@ -55,7 +57,8 @@
         "id": "BM/S15-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-004": {
     "name": "さまよい続ける少女 八九寺真宵",
@@ -77,7 +80,8 @@
         "id": "BM/S15-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-005": {
     "name": "迷い牛 八九寺真宵",
@@ -99,7 +103,8 @@
         "id": "BM/S15-005R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-006": {
     "name": "蝸牛に迷った少女 八九寺真宵",
@@ -121,7 +126,8 @@
         "id": "BM/S15-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-007": {
     "name": "吸血鬼の忍野忍",
@@ -139,7 +145,8 @@
         "id": "BM/S15-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-008": {
     "name": "マニアックな子 千石撫子",
@@ -157,7 +164,8 @@
         "id": "BM/S15-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-009": {
     "name": "吸血鬼の成れの果て 忍野忍",
@@ -175,7 +183,8 @@
         "id": "BM/S15-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-010": {
     "name": "内気な少女 千石撫子",
@@ -193,7 +202,8 @@
         "id": "BM/S15-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-011": {
     "name": "暦を見下す八九寺真宵",
@@ -211,7 +221,8 @@
         "id": "BM/S15-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-012": {
     "name": "浮遊霊 八九寺真宵",
@@ -229,7 +240,8 @@
         "id": "BM/S15-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-013": {
     "name": "“わざとじゃない”八九寺真宵",
@@ -247,7 +259,8 @@
         "id": "BM/S15-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-014": {
     "name": "人間もどきの吸血鬼 忍野忍",
@@ -265,7 +278,8 @@
         "id": "BM/S15-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-015": {
     "name": "一途な想い 千石撫子",
@@ -283,7 +297,8 @@
         "id": "BM/S15-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-016": {
     "name": "吸血鬼もどきの人間 阿良々木暦",
@@ -301,7 +316,8 @@
         "id": "BM/S15-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-017": {
     "name": "忍野忍",
@@ -319,7 +335,8 @@
         "id": "BM/S15-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-018": {
     "name": "ドーナツ好き 忍野忍",
@@ -337,7 +354,8 @@
         "id": "BM/S15-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-019": {
     "name": "腹ペコ 八九寺真宵",
@@ -355,7 +373,8 @@
         "id": "BM/S15-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-020": {
     "name": "自称500歳 忍野忍",
@@ -373,7 +392,8 @@
         "id": "BM/S15-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-021": {
     "name": "本気でケンカ",
@@ -391,7 +411,8 @@
         "id": "BM/S15-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-022": {
     "name": "早口言葉",
@@ -409,7 +430,8 @@
         "id": "BM/S15-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-023": {
     "name": "存在を保つため",
@@ -427,7 +449,8 @@
         "id": "BM/S15-023",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-024": {
     "name": "まよいマイマイ",
@@ -445,7 +468,8 @@
         "id": "BM/S15-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-025": {
     "name": "呪いをかけられた少女",
@@ -463,7 +487,8 @@
         "id": "BM/S15-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BM/S15-026": {
     "name": "家庭の事情 羽川翼",
@@ -481,7 +506,8 @@
         "id": "BM/S15-026",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-027": {
     "name": "猿に願った少女 神原駿河",
@@ -503,7 +529,8 @@
         "id": "BM/S15-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-028": {
     "name": "ふっ切れた神原駿河",
@@ -521,7 +548,8 @@
         "id": "BM/S15-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-029": {
     "name": "休日の戦場ヶ原ひたぎ",
@@ -543,7 +571,8 @@
         "id": "BM/S15-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-030": {
     "name": "毒舌家 戦場ヶ原ひたぎ",
@@ -561,7 +590,8 @@
         "id": "BM/S15-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-031": {
     "name": "暦の恋人 戦場ヶ原ひたぎ",
@@ -583,7 +613,8 @@
         "id": "BM/S15-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-032": {
     "name": "神原駿河",
@@ -605,7 +636,8 @@
         "id": "BM/S15-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-033": {
     "name": "猿の手？ 神原駿河",
@@ -623,7 +655,8 @@
         "id": "BM/S15-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-034": {
     "name": "自分に正直 神原駿河",
@@ -641,7 +674,8 @@
         "id": "BM/S15-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-035": {
     "name": "デート中 戦場ヶ原ひたぎ",
@@ -659,7 +693,8 @@
         "id": "BM/S15-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-036": {
     "name": "朝が苦手 阿良々木暦",
@@ -677,7 +712,8 @@
         "id": "BM/S15-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-037": {
     "name": "強引な戦場ヶ原ひたぎ",
@@ -695,7 +731,8 @@
         "id": "BM/S15-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-038": {
     "name": "博覧強記 羽川翼",
@@ -713,7 +750,8 @@
         "id": "BM/S15-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-039": {
     "name": "元バスケ部のエース 神原駿河",
@@ -731,7 +769,8 @@
         "id": "BM/S15-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-040": {
     "name": "女性に強い神原駿河",
@@ -749,7 +788,8 @@
         "id": "BM/S15-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-041": {
     "name": "誰でも助ける主人公 阿良々木暦",
@@ -767,7 +807,8 @@
         "id": "BM/S15-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-042": {
     "name": "声色が上手？ 戦場ヶ原ひたぎ",
@@ -785,7 +826,8 @@
         "id": "BM/S15-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-043": {
     "name": "とっても誠実 神原駿河",
@@ -803,7 +845,8 @@
         "id": "BM/S15-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-044": {
     "name": "品行方正 羽川翼",
@@ -821,7 +864,8 @@
         "id": "BM/S15-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-045": {
     "name": "委員長の中の委員長 羽川翼",
@@ -839,7 +883,8 @@
         "id": "BM/S15-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-046": {
     "name": "ストーキング",
@@ -857,7 +902,8 @@
         "id": "BM/S15-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-047": {
     "name": "レイニー・デヴィル",
@@ -875,7 +921,8 @@
         "id": "BM/S15-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-048": {
     "name": "するがモンキー",
@@ -893,7 +940,8 @@
         "id": "BM/S15-048",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-049": {
     "name": "重さの無い少女",
@@ -911,7 +959,8 @@
         "id": "BM/S15-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BM/S15-050": {
     "name": "秘密のご褒美",
@@ -929,7 +978,8 @@
         "id": "BM/S15-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-051": {
     "name": "ツインテイルの少女 八九寺真宵",
@@ -951,7 +1001,8 @@
         "id": "BM/S15-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-052": {
     "name": "蟹に行き遭った少女 戦場ヶ原ひたぎ",
@@ -973,7 +1024,8 @@
         "id": "BM/S15-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-053": {
     "name": "ツッコミ役 阿良々木暦",
@@ -991,7 +1043,8 @@
         "id": "BM/S15-053",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-054": {
     "name": "大きなリュックサック 八九寺真宵",
@@ -1009,7 +1062,8 @@
         "id": "BM/S15-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-055": {
     "name": "儚げな少女 戦場ヶ原ひたぎ",
@@ -1031,7 +1085,8 @@
         "id": "BM/S15-055R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-056": {
     "name": "悪魔の左手 神原駿河",
@@ -1049,7 +1104,8 @@
         "id": "BM/S15-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-057": {
     "name": "完全武装 戦場ヶ原ひたぎ",
@@ -1071,7 +1127,8 @@
         "id": "BM/S15-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-058": {
     "name": "阿良々木月火",
@@ -1089,7 +1146,8 @@
         "id": "BM/S15-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-059": {
     "name": "素直な気持ち 戦場ヶ原ひたぎ",
@@ -1107,7 +1165,8 @@
         "id": "BM/S15-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-060": {
     "name": "スポーツ少女 神原駿河",
@@ -1125,7 +1184,8 @@
         "id": "BM/S15-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-061": {
     "name": "戦闘態勢 戦場ヶ原ひたぎ",
@@ -1143,7 +1203,8 @@
         "id": "BM/S15-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-062": {
     "name": "阿良々木火憐",
@@ -1161,7 +1222,8 @@
         "id": "BM/S15-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-063": {
     "name": "阿良々木火憐＆阿良々木月火",
@@ -1179,7 +1241,8 @@
         "id": "BM/S15-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-064": {
     "name": "私服の神原駿河",
@@ -1197,7 +1260,8 @@
         "id": "BM/S15-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-065": {
     "name": "人見知り 八九寺真宵",
@@ -1215,7 +1279,8 @@
         "id": "BM/S15-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-066": {
     "name": "重みを無くした少女 戦場ヶ原ひたぎ",
@@ -1233,7 +1298,8 @@
         "id": "BM/S15-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-067": {
     "name": "私服の戦場ヶ原ひたぎ",
@@ -1251,7 +1317,8 @@
         "id": "BM/S15-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-068": {
     "name": "小学生 八九寺真宵",
@@ -1269,7 +1336,8 @@
         "id": "BM/S15-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-069": {
     "name": "告白の返事 阿良々木暦",
@@ -1287,7 +1355,8 @@
         "id": "BM/S15-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-070": {
     "name": "BL大好き 神原駿河",
@@ -1305,7 +1374,8 @@
         "id": "BM/S15-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-071": {
     "name": "目覚めの儀式",
@@ -1323,7 +1393,8 @@
         "id": "BM/S15-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-072": {
     "name": "ツンデレ？",
@@ -1341,7 +1412,8 @@
         "id": "BM/S15-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-073": {
     "name": "ひたぎクラブ",
@@ -1359,7 +1431,8 @@
         "id": "BM/S15-073",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-074": {
     "name": "噛み噛みの少女",
@@ -1377,7 +1450,8 @@
         "id": "BM/S15-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BM/S15-075": {
     "name": "悪魔が去ったのち",
@@ -1395,7 +1469,8 @@
         "id": "BM/S15-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BM/S15-076": {
     "name": "猫に魅せられた少女 羽川翼",
@@ -1417,7 +1492,8 @@
         "id": "BM/S15-076SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-077": {
     "name": "蛇に巻きつかれた少女 千石撫子",
@@ -1439,7 +1515,8 @@
         "id": "BM/S15-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-078": {
     "name": "月火ちゃんの同級生 千石撫子",
@@ -1461,7 +1538,8 @@
         "id": "BM/S15-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-079": {
     "name": "内なる気持ち 羽川翼",
@@ -1479,7 +1557,8 @@
         "id": "BM/S15-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-080": {
     "name": "恋人同士 阿良々木暦＆戦場ヶ原ひたぎ",
@@ -1501,7 +1580,8 @@
         "id": "BM/S15-080R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-081": {
     "name": "ブラック羽川",
@@ -1523,7 +1603,8 @@
         "id": "BM/S15-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-082": {
     "name": "解呪のお礼 千石撫子",
@@ -1541,7 +1622,8 @@
         "id": "BM/S15-082",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-083": {
     "name": "千石撫子",
@@ -1559,7 +1641,8 @@
         "id": "BM/S15-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-084": {
     "name": "忍野メメ",
@@ -1577,7 +1660,8 @@
         "id": "BM/S15-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-085": {
     "name": "パジャマ姿の羽川翼",
@@ -1595,7 +1679,8 @@
         "id": "BM/S15-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-086": {
     "name": "妖怪変化のオーソリティー 忍野メメ",
@@ -1613,7 +1698,8 @@
         "id": "BM/S15-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-087": {
     "name": "呪いをかけられた少女 千石撫子",
@@ -1631,7 +1717,8 @@
         "id": "BM/S15-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-088": {
     "name": "待ち伏せ 千石撫子",
@@ -1649,7 +1736,8 @@
         "id": "BM/S15-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-089": {
     "name": "奔走する阿良々木暦",
@@ -1667,7 +1755,8 @@
         "id": "BM/S15-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-090": {
     "name": "解呪の儀式 千石撫子",
@@ -1685,7 +1774,8 @@
         "id": "BM/S15-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-091": {
     "name": "なんでも知ってる羽川翼",
@@ -1703,7 +1793,8 @@
         "id": "BM/S15-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-092": {
     "name": "ネコミミ 羽川翼",
@@ -1721,7 +1812,8 @@
         "id": "BM/S15-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-093": {
     "name": "年頃の女の子 千石撫子",
@@ -1739,7 +1831,8 @@
         "id": "BM/S15-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-094": {
     "name": "羽川翼",
@@ -1757,7 +1850,8 @@
         "id": "BM/S15-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-095": {
     "name": "見透かした男 忍野メメ",
@@ -1775,7 +1869,8 @@
         "id": "BM/S15-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-096": {
     "name": "“エナジードレイン”ブラック羽川",
@@ -1793,7 +1888,8 @@
         "id": "BM/S15-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-097": {
     "name": "みんなには内緒だよ",
@@ -1811,7 +1907,8 @@
         "id": "BM/S15-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-098": {
     "name": "なでこスネイク",
@@ -1829,7 +1926,8 @@
         "id": "BM/S15-098",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-099": {
     "name": "私のすべて",
@@ -1847,7 +1945,8 @@
         "id": "BM/S15-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BM/S15-100": {
     "name": "つばさキャット",
@@ -1865,6 +1964,7 @@
         "id": "BM/S15-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

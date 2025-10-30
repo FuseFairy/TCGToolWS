@@ -19,7 +19,8 @@
         "id": "Ftt/W120-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ftt/W120-T21": {
     "name": "羨望する彼女と共に",
@@ -41,6 +42,7 @@
         "id": "Ftt/W120-T21R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

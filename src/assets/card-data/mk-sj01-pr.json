@@ -15,7 +15,8 @@
         "id": "MK/SJ01-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SJ01-P02": {
     "name": "ミルキィホームズ、到着です！",
@@ -33,6 +34,7 @@
         "id": "MK/SJ01-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

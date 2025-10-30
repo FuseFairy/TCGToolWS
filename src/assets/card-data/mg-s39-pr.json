@@ -15,7 +15,8 @@
         "id": "MG/S39-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-P02": {
     "name": "おやつのゆくえ 忍野忍",
@@ -33,7 +34,8 @@
         "id": "MG/S39-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-P03": {
     "name": "“chocolate insomnia”羽川翼",
@@ -51,7 +53,8 @@
         "id": "MG/S39-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-P04": {
     "name": "“the last day of my adolescence”神原駿河",
@@ -69,7 +72,8 @@
         "id": "MG/S39-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-P05": {
     "name": "“木枯らしセンティメント”戦場ヶ原ひたぎ",
@@ -87,7 +91,8 @@
         "id": "MG/S39-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-P06": {
     "name": "“もうそう♥えくすぷれす”千石撫子",
@@ -105,7 +110,8 @@
         "id": "MG/S39-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-P07": {
     "name": "はしゃぐ気持ち 千石撫子",
@@ -123,7 +129,8 @@
         "id": "MG/S39-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-P08": {
     "name": "八九寺真宵＆忍野忍",
@@ -141,7 +148,8 @@
         "id": "MG/S39-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-P09": {
     "name": "自分の役割 戦場ヶ原ひたぎ",
@@ -159,6 +167,7 @@
         "id": "MG/S39-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

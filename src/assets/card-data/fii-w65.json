@@ -19,7 +19,8 @@
         "id": "Fii/W65-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fii/W65-082": {
     "name": "永遠野誓のライバル 舞",
@@ -41,7 +42,8 @@
         "id": "Fii/W65-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fii/W65-085": {
     "name": "バレンタインの取材？ 涼花",
@@ -59,7 +61,8 @@
         "id": "Fii/W65-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fii/W65-087": {
     "name": "恥じらう妹 涼花",
@@ -77,7 +80,8 @@
         "id": "Fii/W65-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fii/W65-096": {
     "name": "イギリス出身のイラストレーター アへ顔Wピース先生",
@@ -95,7 +99,8 @@
         "id": "Fii/W65-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fii/W65-105": {
     "name": "『姫』のラブストーリー",
@@ -117,6 +122,7 @@
         "id": "Fii/W65-105R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -19,7 +19,8 @@
         "id": "DCT/S86-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-P02": {
     "name": "目覚めし者たち 愛莉＆玲菜",
@@ -41,7 +42,8 @@
         "id": "DCT/S86-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-P03": {
     "name": "目覚めし者たち 或斗＆ジェシカ",
@@ -63,7 +65,8 @@
         "id": "DCT/S86-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-P04": {
     "name": "目覚めし者たち える＆蘭堂",
@@ -85,7 +88,8 @@
         "id": "DCT/S86-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-P05": {
     "name": "選ばれた者の使命 蘭堂＆える",
@@ -107,7 +111,8 @@
         "id": "DCT/S86-P05S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-P06": {
     "name": "冷静な軍師 ジェシカ",
@@ -129,7 +134,8 @@
         "id": "DCT/S86-P06S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-P07": {
     "name": "夢見る力 蘭堂",
@@ -147,7 +153,8 @@
         "id": "DCT/S86-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-101": {
     "name": "本当に大切なもの ありや",
@@ -165,7 +172,8 @@
         "id": "DCT/S86-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-102": {
     "name": "クールビューティー 愛莉",
@@ -183,7 +191,8 @@
         "id": "DCT/S86-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-103": {
     "name": "穏やかな笑み 玲菜",
@@ -201,7 +210,8 @@
         "id": "DCT/S86-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-104": {
     "name": "孤独な戦士 える",
@@ -219,6 +229,7 @@
         "id": "DCT/S86-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

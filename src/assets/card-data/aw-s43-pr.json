@@ -15,7 +15,8 @@
         "id": "AW/S43-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-P02": {
     "name": "華やかな和装 黒雪姫",
@@ -33,7 +34,8 @@
         "id": "AW/S43-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-101": {
     "name": "ちび黒雪姫",
@@ -51,7 +53,8 @@
         "id": "AW/S43-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-102": {
     "name": "ちびチユリ",
@@ -69,7 +72,8 @@
         "id": "AW/S43-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-103": {
     "name": "ちびニコ",
@@ -87,7 +91,8 @@
         "id": "AW/S43-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-104": {
     "name": "ちびフーコ",
@@ -105,6 +110,7 @@
         "id": "AW/S43-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

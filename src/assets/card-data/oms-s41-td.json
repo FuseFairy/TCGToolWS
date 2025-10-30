@@ -39,7 +39,8 @@
         "id": "OMS/S41-T01f",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-T02": {
     "name": "“松野家の長男”おそ松",
@@ -57,7 +58,8 @@
         "id": "OMS/S41-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-T03": {
     "name": "“松野家の次男”カラ松",
@@ -75,7 +77,8 @@
         "id": "OMS/S41-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-T04": {
     "name": "“就職しよう”チョロ松",
@@ -93,7 +96,8 @@
         "id": "OMS/S41-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-T05": {
     "name": "“常識的なバカ”チョロ松",
@@ -111,7 +115,8 @@
         "id": "OMS/S41-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-T06": {
     "name": "“クールなバカ ”カラ松",
@@ -129,7 +134,8 @@
         "id": "OMS/S41-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-T07": {
     "name": "“松野家の三男”チョロ松",
@@ -147,7 +153,8 @@
         "id": "OMS/S41-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-T08": {
     "name": "“就職しよう”カラ松",
@@ -165,7 +172,8 @@
         "id": "OMS/S41-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-T09": {
     "name": "“就職しよう”おそ松",
@@ -183,7 +191,8 @@
         "id": "OMS/S41-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-T10": {
     "name": "“奇跡のバカ”おそ松",
@@ -201,7 +210,8 @@
         "id": "OMS/S41-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-T11": {
     "name": "チビ太のおでん",
@@ -219,7 +229,8 @@
         "id": "OMS/S41-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-T12": {
     "name": "一世風靡",
@@ -245,7 +256,8 @@
         "id": "OMS/S41-T12b",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "OMS/S41-T13": {
     "name": "“甘え上手なバカ”トド松",
@@ -263,7 +275,8 @@
         "id": "OMS/S41-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-T14": {
     "name": "“松野家の五男”十四松",
@@ -281,7 +294,8 @@
         "id": "OMS/S41-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-T15": {
     "name": "“松野家の四男”一松",
@@ -299,7 +313,8 @@
         "id": "OMS/S41-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-T16": {
     "name": "“就職しよう”十四松",
@@ -317,7 +332,8 @@
         "id": "OMS/S41-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-T17": {
     "name": "“暗黒のバカ”一松",
@@ -335,7 +351,8 @@
         "id": "OMS/S41-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-T18": {
     "name": "“異次元のバカ”十四松",
@@ -353,7 +370,8 @@
         "id": "OMS/S41-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-T19": {
     "name": "“成長してもやっぱりバカ”松野兄弟",
@@ -371,7 +389,8 @@
         "id": "OMS/S41-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-T20": {
     "name": "“就職しよう”トド松",
@@ -389,7 +408,8 @@
         "id": "OMS/S41-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-T21": {
     "name": "“就職しよう”一松",
@@ -407,7 +427,8 @@
         "id": "OMS/S41-T21",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-T22": {
     "name": "“松野家の末弟”トド松",
@@ -425,7 +446,8 @@
         "id": "OMS/S41-T22",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-T23": {
     "name": "伝説はここから",
@@ -451,7 +473,8 @@
         "id": "OMS/S41-T23b",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "OMS/S41-T24": {
     "name": "６つの顔に６つの個性",
@@ -473,6 +496,7 @@
         "id": "OMS/S41-T24a",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

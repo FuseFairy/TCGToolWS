@@ -19,7 +19,8 @@
         "id": "RSL/S56-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-002": {
     "name": "守りたい時間 大場 なな",
@@ -41,7 +42,8 @@
         "id": "RSL/S56-002SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-003": {
     "name": "“ふたりの花道”花柳 香子",
@@ -63,7 +65,8 @@
         "id": "RSL/S56-003SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-004": {
     "name": "私のキラめき 大場 なな",
@@ -89,7 +92,8 @@
         "id": "RSL/S56-004STR",
         "rarity": "STR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-005": {
     "name": "気合十分 石動 双葉",
@@ -111,7 +115,8 @@
         "id": "RSL/S56-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-006": {
     "name": "私のキラめき 花柳 香子",
@@ -137,7 +142,8 @@
         "id": "RSL/S56-006STR",
         "rarity": "STR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-007": {
     "name": "無二の仲 双葉＆香子",
@@ -159,7 +165,8 @@
         "id": "RSL/S56-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-008": {
     "name": "料理上手 大場 なな",
@@ -181,7 +188,8 @@
         "id": "RSL/S56-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-009": {
     "name": "言葉の真意 花柳 香子",
@@ -203,7 +211,8 @@
         "id": "RSL/S56-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-010": {
     "name": "私のキラめき 石動 双葉",
@@ -229,7 +238,8 @@
         "id": "RSL/S56-010STR",
         "rarity": "STR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-011": {
     "name": "自信満々 花柳 香子",
@@ -247,7 +257,8 @@
         "id": "RSL/S56-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-012": {
     "name": "幼馴染との対峙 石動 双葉",
@@ -265,7 +276,8 @@
         "id": "RSL/S56-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-013": {
     "name": "眩しい舞台 大場 なな",
@@ -283,7 +295,8 @@
         "id": "RSL/S56-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-014": {
     "name": "レオタードの石動 双葉",
@@ -301,7 +314,8 @@
         "id": "RSL/S56-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-015": {
     "name": "レオタードの花柳 香子",
@@ -319,7 +333,8 @@
         "id": "RSL/S56-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-016": {
     "name": "向けられた剣 大場 なな",
@@ -337,7 +352,8 @@
         "id": "RSL/S56-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-017": {
     "name": "永遠の舞台 大場 なな",
@@ -355,7 +371,8 @@
         "id": "RSL/S56-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-018": {
     "name": "パジャマパーティー 大場 なな",
@@ -373,7 +390,8 @@
         "id": "RSL/S56-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-019": {
     "name": "幼馴染の逃亡 石動 双葉",
@@ -391,7 +409,8 @@
         "id": "RSL/S56-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-020": {
     "name": "キリン",
@@ -409,7 +428,8 @@
         "id": "RSL/S56-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-021": {
     "name": "世界一になるために 花柳 香子",
@@ -427,7 +447,8 @@
         "id": "RSL/S56-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-022": {
     "name": "“ばなナイス！”大場 なな",
@@ -445,7 +466,8 @@
         "id": "RSL/S56-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-023": {
     "name": "注目の的 花柳 香子",
@@ -463,7 +485,8 @@
         "id": "RSL/S56-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-024": {
     "name": "見物中 石動 双葉",
@@ -481,7 +504,8 @@
         "id": "RSL/S56-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-025": {
     "name": "大切な思い出 大場 なな",
@@ -499,7 +523,8 @@
         "id": "RSL/S56-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-026": {
     "name": "見物中 花柳 香子",
@@ -517,7 +542,8 @@
         "id": "RSL/S56-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-027": {
     "name": "喧嘩中 石動 双葉",
@@ -535,7 +561,8 @@
         "id": "RSL/S56-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-028": {
     "name": "入学の誘い 石動 双葉",
@@ -553,7 +580,8 @@
         "id": "RSL/S56-028",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-029": {
     "name": "意地の張り合い",
@@ -571,7 +599,8 @@
         "id": "RSL/S56-029",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-030": {
     "name": "打ち上げの写真",
@@ -589,7 +618,8 @@
         "id": "RSL/S56-030",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-031": {
     "name": "最高の自分",
@@ -611,7 +641,8 @@
         "id": "RSL/S56-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-032": {
     "name": "一番近くで",
@@ -633,7 +664,8 @@
         "id": "RSL/S56-032R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-033": {
     "name": "星祭りの夜に",
@@ -655,7 +687,8 @@
         "id": "RSL/S56-033R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-034": {
     "name": "そばに居た存在 露崎 まひる",
@@ -677,7 +710,8 @@
         "id": "RSL/S56-034SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-035": {
     "name": "私のキラめき 愛城 華恋",
@@ -703,7 +737,8 @@
         "id": "RSL/S56-035STR",
         "rarity": "STR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-036": {
     "name": "“情熱とキラめき”愛城 華恋",
@@ -725,7 +760,8 @@
         "id": "RSL/S56-036SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-037": {
     "name": "“華、ひらくとき”神楽 ひかり",
@@ -747,7 +783,8 @@
         "id": "RSL/S56-037SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-038": {
     "name": "レオタードの華恋＆ひかり",
@@ -769,7 +806,8 @@
         "id": "RSL/S56-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-039": {
     "name": "二人の舞台 露崎 まひる",
@@ -791,7 +829,8 @@
         "id": "RSL/S56-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-040": {
     "name": "私のキラめき 神楽 ひかり",
@@ -813,7 +852,8 @@
         "id": "RSL/S56-040SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-041": {
     "name": "差し伸べた手 愛城 華恋",
@@ -835,7 +875,8 @@
         "id": "RSL/S56-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-042": {
     "name": "2人で1つ 華恋＆ひかり",
@@ -857,7 +898,8 @@
         "id": "RSL/S56-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-043": {
     "name": "“キラめきの再生産” 神楽 ひかり",
@@ -879,7 +921,8 @@
         "id": "RSL/S56-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-044": {
     "name": "急接近 華恋＆まひる",
@@ -901,7 +944,8 @@
         "id": "RSL/S56-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-045": {
     "name": "アンコール 愛城 華恋",
@@ -923,7 +967,8 @@
         "id": "RSL/S56-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-046": {
     "name": "私のキラめき 露崎 まひる",
@@ -949,7 +994,8 @@
         "id": "RSL/S56-046STR",
         "rarity": "STR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-047": {
     "name": "くつろぎの時間 神楽 ひかり",
@@ -967,7 +1013,8 @@
         "id": "RSL/S56-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-048": {
     "name": "舞台少女の夏 神楽 ひかり",
@@ -989,7 +1036,8 @@
         "id": "RSL/S56-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-049": {
     "name": "追いかけっこ 愛城 華恋",
@@ -1007,7 +1055,8 @@
         "id": "RSL/S56-049",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-050": {
     "name": "お掃除開始！ 露崎 まひる",
@@ -1025,7 +1074,8 @@
         "id": "RSL/S56-050",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-051": {
     "name": "オーディション最終日 神楽 ひかり",
@@ -1043,7 +1093,8 @@
         "id": "RSL/S56-051",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-052": {
     "name": "寝起きの露崎 まひる",
@@ -1061,7 +1112,8 @@
         "id": "RSL/S56-052",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-053": {
     "name": "新章 愛城 華恋",
@@ -1079,7 +1131,8 @@
         "id": "RSL/S56-053",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-054": {
     "name": "廊下を守る女神 露崎 まひる",
@@ -1097,7 +1150,8 @@
         "id": "RSL/S56-054",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-055": {
     "name": "追いかけっこ 露崎 まひる",
@@ -1115,7 +1169,8 @@
         "id": "RSL/S56-055",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-056": {
     "name": "新たなルームメイト 愛城 華恋",
@@ -1133,7 +1188,8 @@
         "id": "RSL/S56-056",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-057": {
     "name": "ロンドンでの生活 神楽 ひかり",
@@ -1151,7 +1207,8 @@
         "id": "RSL/S56-057",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-058": {
     "name": "“約束タワー”愛城 華恋",
@@ -1169,7 +1226,8 @@
         "id": "RSL/S56-058",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-059": {
     "name": "新たなルームメイト 露崎 まひる",
@@ -1187,7 +1245,8 @@
         "id": "RSL/S56-059",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-060": {
     "name": "私たちの約束 神楽 ひかり",
@@ -1205,7 +1264,8 @@
         "id": "RSL/S56-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-061": {
     "name": "新章 神楽 ひかり",
@@ -1223,7 +1283,8 @@
         "id": "RSL/S56-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-062": {
     "name": "予想外の朝帰り",
@@ -1241,7 +1302,8 @@
         "id": "RSL/S56-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-063": {
     "name": "ひかり、さす方へ",
@@ -1263,7 +1325,8 @@
         "id": "RSL/S56-063R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-064": {
     "name": "されど舞台はつづく",
@@ -1285,7 +1348,8 @@
         "id": "RSL/S56-064R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-065": {
     "name": "キラめきのありか",
@@ -1307,7 +1371,8 @@
         "id": "RSL/S56-065R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-066": {
     "name": "私だけの星 星見 純那",
@@ -1329,7 +1394,8 @@
         "id": "RSL/S56-066SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-067": {
     "name": "壮烈な覚悟 天堂 真矢",
@@ -1351,7 +1417,8 @@
         "id": "RSL/S56-067SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-068": {
     "name": "気高き意志 西條 クロディーヌ",
@@ -1373,7 +1440,8 @@
         "id": "RSL/S56-068SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-069": {
     "name": "私のキラめき 西條 クロディーヌ",
@@ -1399,7 +1467,8 @@
         "id": "RSL/S56-069STR",
         "rarity": "STR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-070": {
     "name": "パジャマパーティー 天堂 真矢",
@@ -1421,7 +1490,8 @@
         "id": "RSL/S56-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-071": {
     "name": "私のキラめき 天堂 真矢",
@@ -1447,7 +1517,8 @@
         "id": "RSL/S56-071STR",
         "rarity": "STR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-072": {
     "name": "私のキラめき 星見 純那",
@@ -1473,7 +1544,8 @@
         "id": "RSL/S56-072STR",
         "rarity": "STR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-073": {
     "name": "舞台に挑む覚悟 西條 クロディーヌ",
@@ -1495,7 +1567,8 @@
         "id": "RSL/S56-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-074": {
     "name": "しっかり者の委員長 星見 純那",
@@ -1517,7 +1590,8 @@
         "id": "RSL/S56-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-075": {
     "name": "一番星を目指して 星見 純那",
@@ -1535,7 +1609,8 @@
         "id": "RSL/S56-075",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-076": {
     "name": "舞台少女の夏 西條 クロディーヌ",
@@ -1553,7 +1628,8 @@
         "id": "RSL/S56-076",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-077": {
     "name": "レヴューデュエット 天堂 真矢",
@@ -1571,7 +1647,8 @@
         "id": "RSL/S56-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-078": {
     "name": "レオタードの純那＆まひる",
@@ -1589,7 +1666,8 @@
         "id": "RSL/S56-078",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-079": {
     "name": "次のスタァライト 天堂 真矢",
@@ -1607,7 +1685,8 @@
         "id": "RSL/S56-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-080": {
     "name": "トップの秘訣 天堂 真矢",
@@ -1625,7 +1704,8 @@
         "id": "RSL/S56-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-081": {
     "name": "リベンジ 星見 純那",
@@ -1643,7 +1723,8 @@
         "id": "RSL/S56-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-082": {
     "name": "パジャマパーティー 西條 クロディーヌ",
@@ -1661,7 +1742,8 @@
         "id": "RSL/S56-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-083": {
     "name": "大切な思い出 星見 純那",
@@ -1679,7 +1761,8 @@
         "id": "RSL/S56-083",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-084": {
     "name": "“第99回聖翔祭”天堂 真矢",
@@ -1697,7 +1780,8 @@
         "id": "RSL/S56-084",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-085": {
     "name": "届かない存在 天堂 真矢",
@@ -1715,7 +1799,8 @@
         "id": "RSL/S56-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-086": {
     "name": "“第99回聖翔祭”西條 クロディーヌ",
@@ -1733,7 +1818,8 @@
         "id": "RSL/S56-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-087": {
     "name": "次のスタァライト 西條 クロディーヌ",
@@ -1751,7 +1837,8 @@
         "id": "RSL/S56-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-088": {
     "name": "過度の自主練 星見 純那",
@@ -1769,7 +1856,8 @@
         "id": "RSL/S56-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-089": {
     "name": "寝坊の西條 クロディーヌ",
@@ -1787,7 +1875,8 @@
         "id": "RSL/S56-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-090": {
     "name": "舞台少女の夏 星見 純那",
@@ -1805,7 +1894,8 @@
         "id": "RSL/S56-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-091": {
     "name": "トップスタァの座 天堂 真矢",
@@ -1823,7 +1913,8 @@
         "id": "RSL/S56-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-092": {
     "name": "持病のあがり症？ 西條 クロディーヌ",
@@ -1841,7 +1932,8 @@
         "id": "RSL/S56-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-093": {
     "name": "わたしたちは",
@@ -1859,7 +1951,8 @@
         "id": "RSL/S56-093",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-094": {
     "name": "掴んでみせます！自分星!!",
@@ -1877,7 +1970,8 @@
         "id": "RSL/S56-094",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-095": {
     "name": "The Show Must Go On",
@@ -1899,7 +1993,8 @@
         "id": "RSL/S56-095R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-096": {
     "name": "さらなる高みへ",
@@ -1921,7 +2016,8 @@
         "id": "RSL/S56-096R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-097": {
     "name": "運命の主役",
@@ -1939,7 +2035,8 @@
         "id": "RSL/S56-097",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-098": {
     "name": "トップスタァ",
@@ -1957,7 +2054,8 @@
         "id": "RSL/S56-098",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RSL/S56-099": {
     "name": "再演",
@@ -1975,7 +2073,8 @@
         "id": "RSL/S56-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RSL/S56-100": {
     "name": "レヴュースタァライト",
@@ -1993,6 +2092,7 @@
         "id": "RSL/S56-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

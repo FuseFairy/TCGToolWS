@@ -19,7 +19,8 @@
         "id": "5HY/W101-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "5HY/W101-P02": {
     "name": "ナイトウェア 一花＆二乃＆三玖＆四葉＆五月",
@@ -37,7 +38,8 @@
         "id": "5HY/W101-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W101-P03": {
     "name": "花束を君に 一花＆二乃＆三玖＆四葉＆五月",
@@ -59,7 +61,8 @@
         "id": "5HY/W101-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W101-P04": {
     "name": "君とコミュニケーション 中野 一花",
@@ -77,7 +80,8 @@
         "id": "5HY/W101-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "5HY/W101-P05": {
     "name": "君とコミュニケーション 中野 二乃",
@@ -95,7 +99,8 @@
         "id": "5HY/W101-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "5HY/W101-P06": {
     "name": "君とコミュニケーション 中野 三玖",
@@ -113,7 +118,8 @@
         "id": "5HY/W101-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W101-P07": {
     "name": "君とコミュニケーション 中野 四葉",
@@ -131,7 +137,8 @@
         "id": "5HY/W101-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "5HY/W101-P08": {
     "name": "君とコミュニケーション 中野 五月",
@@ -149,7 +156,8 @@
         "id": "5HY/W101-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W101-P09": {
     "name": "しろくろドレス 一花",
@@ -171,7 +179,8 @@
         "id": "5HY/W101-P09b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "5HY/W101-P10": {
     "name": "しろくろドレス 二乃",
@@ -193,7 +202,8 @@
         "id": "5HY/W101-P10b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W101-P11": {
     "name": "しろくろドレス 三玖",
@@ -215,7 +225,8 @@
         "id": "5HY/W101-P11b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W101-P12": {
     "name": "しろくろドレス 四葉",
@@ -237,7 +248,8 @@
         "id": "5HY/W101-P12b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W101-P13": {
     "name": "しろくろドレス 五月",
@@ -259,7 +271,8 @@
         "id": "5HY/W101-P13b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W101-101": {
     "name": "5年後も五人で 中野 一花",
@@ -277,7 +290,8 @@
         "id": "5HY/W101-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W101-102": {
     "name": "5年後も五人で 中野 四葉",
@@ -295,7 +309,8 @@
         "id": "5HY/W101-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W101-103": {
     "name": "5年後も五人で 中野 二乃",
@@ -313,7 +328,8 @@
         "id": "5HY/W101-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W101-104": {
     "name": "5年後も五人で 中野 五月",
@@ -331,7 +347,8 @@
         "id": "5HY/W101-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W101-105": {
     "name": "5年後も五人で 中野 三玖",
@@ -349,6 +366,7 @@
         "id": "5HY/W101-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -19,7 +19,8 @@
         "id": "Snw/W62-074SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Snw/W62-079": {
     "name": "第506統合戦闘航空団 ジェニファー",
@@ -37,7 +38,8 @@
         "id": "Snw/W62-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Snw/W62-081": {
     "name": "第506統合戦闘航空団 那佳＆ハインリーケ",
@@ -59,7 +61,8 @@
         "id": "Snw/W62-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Snw/W62-083": {
     "name": "第506統合戦闘航空団 ハインリーケ",
@@ -81,7 +84,8 @@
         "id": "Snw/W62-083SBR",
         "rarity": "SBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Snw/W62-085": {
     "name": "第506統合戦闘航空団 ロザリー",
@@ -99,7 +103,8 @@
         "id": "Snw/W62-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Snw/W62-086": {
     "name": "第506統合戦闘航空団 カーラ",
@@ -117,7 +122,8 @@
         "id": "Snw/W62-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Snw/W62-088": {
     "name": "第506統合戦闘航空団 ジーナ",
@@ -135,7 +141,8 @@
         "id": "Snw/W62-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Snw/W62-092": {
     "name": "第506統合戦闘航空団 イザベル",
@@ -153,7 +160,8 @@
         "id": "Snw/W62-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Snw/W62-094": {
     "name": "第506統合戦闘航空団 マリアン",
@@ -171,7 +179,8 @@
         "id": "Snw/W62-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Snw/W62-097": {
     "name": "第506統合戦闘航空団 アドリアーナ",
@@ -189,7 +198,8 @@
         "id": "Snw/W62-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Snw/W62-100": {
     "name": "カーラの本当の気持ち",
@@ -207,7 +217,8 @@
         "id": "Snw/W62-100",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Snw/W62-104": {
     "name": "ネウロイの熱烈歓迎",
@@ -229,7 +240,8 @@
         "id": "Snw/W62-104R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Snw/W62-105": {
     "name": "ネウロイの大攻勢",
@@ -251,6 +263,7 @@
         "id": "Snw/W62-105R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

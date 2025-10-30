@@ -19,7 +19,8 @@
         "id": "Goi/WS02-041SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Goi/WS02-045": {
     "name": "初めての告白 あやせ",
@@ -41,7 +42,8 @@
         "id": "Goi/WS02-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Goi/WS02-047": {
     "name": "期間限定の恋人 京介＆桐乃",
@@ -63,7 +65,8 @@
         "id": "Goi/WS02-047SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Goi/WS02-052": {
     "name": "もしもの物語 加奈子",
@@ -85,7 +88,8 @@
         "id": "Goi/WS02-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Goi/WS02-053": {
     "name": "夕焼けを背に 黒猫",
@@ -107,7 +111,8 @@
         "id": "Goi/WS02-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Goi/WS02-065": {
     "name": "水着姿の彼女 あやせ",
@@ -129,7 +134,8 @@
         "id": "Goi/WS02-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Goi/WS02-066": {
     "name": "“運命の記述” 黒猫",
@@ -151,7 +157,8 @@
         "id": "Goi/WS02-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Goi/WS02-073": {
     "name": "友達との口喧嘩",
@@ -173,7 +180,8 @@
         "id": "Goi/WS02-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Goi/WS02-074": {
     "name": "緊張の持ち込み",
@@ -195,6 +203,7 @@
         "id": "Goi/WS02-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

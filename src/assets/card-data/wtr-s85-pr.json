@@ -15,7 +15,8 @@
         "id": "WTR/S85-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WTR/S85-P02": {
     "name": "急速接近 空閑 遊真",
@@ -33,7 +34,8 @@
         "id": "WTR/S85-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WTR/S85-105": {
     "name": "このあいだは！小南 桐絵",
@@ -51,7 +53,8 @@
         "id": "WTR/S85-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WTR/S85-106": {
     "name": "祝勝会 迅 悠一",
@@ -69,7 +72,8 @@
         "id": "WTR/S85-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WTR/S85-107": {
     "name": "おほめのことば 林藤 陽太郎とヒュース",
@@ -87,7 +91,8 @@
         "id": "WTR/S85-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WTR/S85-108": {
     "name": "チームを信じる 雨取 千佳",
@@ -105,7 +110,8 @@
         "id": "WTR/S85-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WTR/S85-109": {
     "name": "強まる結束 空閑 遊真＆三雲 修",
@@ -123,6 +129,7 @@
         "id": "WTR/S85-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

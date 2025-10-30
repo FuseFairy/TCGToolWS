@@ -15,7 +15,8 @@
         "id": "CC/S48-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-T02": {
     "name": "心優しき癒し手 マリナ",
@@ -33,7 +34,8 @@
         "id": "CC/S48-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-T03": {
     "name": "義勇軍の新顔 アラム",
@@ -51,7 +53,8 @@
         "id": "CC/S48-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-T04": {
     "name": "新しい希望 アラム",
@@ -69,7 +72,8 @@
         "id": "CC/S48-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-T05": {
     "name": "年代記の使い手 フィーナ",
@@ -87,7 +91,8 @@
         "id": "CC/S48-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-T06": {
     "name": "世界の意思 ピリカ",
@@ -105,7 +110,8 @@
         "id": "CC/S48-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-T07": {
     "name": "姐御肌の弓兵 ミシディア",
@@ -123,7 +129,8 @@
         "id": "CC/S48-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-T08": {
     "name": "チェイン攻撃 ユーリ",
@@ -141,7 +148,8 @@
         "id": "CC/S48-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-T09": {
     "name": "若き騎士 カイン",
@@ -159,7 +167,8 @@
         "id": "CC/S48-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-T10": {
     "name": "年代記を持つ少女 フィーナ",
@@ -181,7 +190,8 @@
         "id": "CC/S48-T10SP",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-T11": {
     "name": "未来へ託す ユーリ",
@@ -199,7 +209,8 @@
         "id": "CC/S48-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-T12": {
     "name": "マナの才能 アラム",
@@ -217,7 +228,8 @@
         "id": "CC/S48-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-T13": {
     "name": "義勇軍のユーリ",
@@ -235,7 +247,8 @@
         "id": "CC/S48-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-T14": {
     "name": "絆が見せる光",
@@ -253,7 +266,8 @@
         "id": "CC/S48-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CC/S48-T15": {
     "name": "白き閃光",
@@ -271,7 +285,8 @@
         "id": "CC/S48-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-T16": {
     "name": "聖王女の楯 ブルクハルト",
@@ -289,7 +304,8 @@
         "id": "CC/S48-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-T17": {
     "name": "聖王女 ユリアナ",
@@ -307,7 +323,8 @@
         "id": "CC/S48-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-T18": {
     "name": "聖騎士団総帥 アインスロット",
@@ -325,7 +342,8 @@
         "id": "CC/S48-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-T19": {
     "name": "女騎士 ユリアナ",
@@ -343,7 +361,8 @@
         "id": "CC/S48-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-T20": {
     "name": "運命は廻りはじめる…",
@@ -361,7 +380,8 @@
         "id": "CC/S48-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-T21": {
     "name": "この城を奪還する！",
@@ -379,6 +399,7 @@
         "id": "CC/S48-T21",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

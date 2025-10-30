@@ -19,7 +19,8 @@
         "id": "Gds/WS02-049SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gds/WS02-058": {
     "name": "自称宇宙人 エリオ",
@@ -41,7 +42,8 @@
         "id": "Gds/WS02-058SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gds/WS02-064": {
     "name": "宇宙を目指して エリオ",
@@ -63,6 +65,7 @@
         "id": "Gds/WS02-064SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

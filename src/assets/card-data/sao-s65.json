@@ -19,7 +19,8 @@
         "id": "SAO/S65-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-002": {
     "name": "離反の覚悟 アリス",
@@ -41,7 +42,8 @@
         "id": "SAO/S65-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-003": {
     "name": "“私の答えなら”明日奈",
@@ -63,7 +65,8 @@
         "id": "SAO/S65-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-004": {
     "name": "玲瓏な女騎士 アリス",
@@ -85,7 +88,8 @@
         "id": "SAO/S65-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-005": {
     "name": "宴もたけなわ セルカ",
@@ -103,7 +107,8 @@
         "id": "SAO/S65-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-006": {
     "name": "命綱の鎖 アリス",
@@ -125,7 +130,8 @@
         "id": "SAO/S65-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-007": {
     "name": "甘いのはいかが？ 明日奈",
@@ -147,7 +153,8 @@
         "id": "SAO/S65-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-008": {
     "name": "神聖術で調理 アリス",
@@ -169,7 +176,8 @@
         "id": "SAO/S65-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-009": {
     "name": "煌めく金木犀 アリス",
@@ -191,7 +199,8 @@
         "id": "SAO/S65-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-010": {
     "name": "仮想世界の情報 アスナ",
@@ -209,7 +218,8 @@
         "id": "SAO/S65-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-011": {
     "name": "負けず嫌い アリス",
@@ -227,7 +237,8 @@
         "id": "SAO/S65-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-012": {
     "name": "ある夏の出来事 アリス",
@@ -245,7 +256,8 @@
         "id": "SAO/S65-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-013": {
     "name": "妹の記憶 アリス",
@@ -263,7 +275,8 @@
         "id": "SAO/S65-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-014": {
     "name": "予想外の迎え アリス",
@@ -281,7 +294,8 @@
         "id": "SAO/S65-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-015": {
     "name": "壮烈な完全支配術 アリス",
@@ -299,7 +313,8 @@
         "id": "SAO/S65-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-016": {
     "name": "PKスコードロンとの対峙 アスナ",
@@ -317,7 +332,8 @@
         "id": "SAO/S65-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-017": {
     "name": "ミニオンとの戦い アリス",
@@ -335,7 +351,8 @@
         "id": "SAO/S65-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-018": {
     "name": "姉への想い セルカ",
@@ -353,7 +370,8 @@
         "id": "SAO/S65-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-019": {
     "name": "取り戻したい少女 アリス",
@@ -371,7 +389,8 @@
         "id": "SAO/S65-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-020": {
     "name": "“オーシャン・タートル”明日奈",
@@ -389,7 +408,8 @@
         "id": "SAO/S65-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-021": {
     "name": "天の助け",
@@ -407,7 +427,8 @@
         "id": "SAO/S65-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-022": {
     "name": "安岐ナツキ二等陸曹",
@@ -425,7 +446,8 @@
         "id": "SAO/S65-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-023": {
     "name": "金木犀の剣",
@@ -447,7 +469,8 @@
         "id": "SAO/S65-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-024": {
     "name": "独立の宣言",
@@ -469,7 +492,8 @@
         "id": "SAO/S65-024R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-025": {
     "name": "君のいるところ",
@@ -487,7 +511,8 @@
         "id": "SAO/S65-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-026": {
     "name": "“誇りと共に”カーディナル",
@@ -509,7 +534,8 @@
         "id": "SAO/S65-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-027": {
     "name": "休みの過ごし方 ソルティリーナ",
@@ -527,7 +553,8 @@
         "id": "SAO/S65-027",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-028": {
     "name": "仇敵との戦い カーディナル",
@@ -549,7 +576,8 @@
         "id": "SAO/S65-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-029": {
     "name": "年頃の少女 ロニエ＆ティーゼ",
@@ -571,7 +599,8 @@
         "id": "SAO/S65-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-030": {
     "name": "“完全支配術”カーディナル",
@@ -589,7 +618,8 @@
         "id": "SAO/S65-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-031": {
     "name": "“図書室の賢者”カーディナル",
@@ -611,7 +641,8 @@
         "id": "SAO/S65-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-032": {
     "name": "“伝説の英雄”ベルクーリ・シンセシス・ワン",
@@ -629,7 +660,8 @@
         "id": "SAO/S65-032",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-033": {
     "name": "リセリスという名の少女 カーディナル",
@@ -647,7 +679,8 @@
         "id": "SAO/S65-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-034": {
     "name": "“修道女見習い”フィゼル・シンセシス・トゥエニナイン",
@@ -665,7 +698,8 @@
         "id": "SAO/S65-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-035": {
     "name": "整合騎士への嘆願 ティーゼ＆ロニエ",
@@ -683,7 +717,8 @@
         "id": "SAO/S65-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-036": {
     "name": "英雄豪傑 ベルクーリ",
@@ -701,7 +736,8 @@
         "id": "SAO/S65-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-037": {
     "name": "“傍付き”ティーゼ",
@@ -719,7 +755,8 @@
         "id": "SAO/S65-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-038": {
     "name": "セルルト流の使い手 ソルティリーナ",
@@ -737,7 +774,8 @@
         "id": "SAO/S65-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-039": {
     "name": "“忌むべき面相”ファナティオ",
@@ -755,7 +793,8 @@
         "id": "SAO/S65-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-040": {
     "name": "“紅蓮の騎士”デュソルバート・シンセシス・セブン",
@@ -773,7 +812,8 @@
         "id": "SAO/S65-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-041": {
     "name": "“傍付き”ロニエ",
@@ -791,7 +831,8 @@
         "id": "SAO/S65-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-042": {
     "name": "“修道女見習い”リネル・シンセシス・トゥエニエイト",
@@ -809,7 +850,8 @@
         "id": "SAO/S65-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-043": {
     "name": "“紫髪の美丈夫”エルドリエ・シンセシス・サーティワン",
@@ -827,7 +869,8 @@
         "id": "SAO/S65-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-044": {
     "name": "仮想世界の情報 リーファ",
@@ -845,7 +888,8 @@
         "id": "SAO/S65-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-045": {
     "name": "“烈日の騎士”ファナティオ・シンセシス・ツー",
@@ -863,7 +907,8 @@
         "id": "SAO/S65-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-046": {
     "name": "飛竜に乗った騎士 デュソルバート",
@@ -881,7 +926,8 @@
         "id": "SAO/S65-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-047": {
     "name": "“剣士の矜恃”ウォロ",
@@ -899,7 +945,8 @@
         "id": "SAO/S65-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-048": {
     "name": "カーディナルの短剣",
@@ -917,7 +964,8 @@
         "id": "SAO/S65-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-049": {
     "name": "人間であるということ",
@@ -939,7 +987,8 @@
         "id": "SAO/S65-049R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-050": {
     "name": "二百年越しの決着",
@@ -957,7 +1006,8 @@
         "id": "SAO/S65-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SAO/S65-051": {
     "name": "ベルクーリと北の白い竜",
@@ -975,7 +1025,8 @@
         "id": "SAO/S65-051",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-052": {
     "name": "“公理教会最高司祭”アドミニストレータ",
@@ -997,7 +1048,8 @@
         "id": "SAO/S65-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-053": {
     "name": "“神聖術師見習い”クィネラ",
@@ -1019,7 +1071,8 @@
         "id": "SAO/S65-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-054": {
     "name": "負荷実験への備え アドミニストレータ",
@@ -1041,7 +1094,8 @@
         "id": "SAO/S65-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-055": {
     "name": "酷薄の雷撃 アドミニストレータ",
@@ -1059,7 +1113,8 @@
         "id": "SAO/S65-055",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-056": {
     "name": "甘やかなる誘惑 アドミニストレータ",
@@ -1081,7 +1136,8 @@
         "id": "SAO/S65-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-057": {
     "name": "“支配者”アドミニストレータ",
@@ -1103,7 +1159,8 @@
         "id": "SAO/S65-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-058": {
     "name": "PKスコードロンとの対峙 リズベット",
@@ -1121,7 +1178,8 @@
         "id": "SAO/S65-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-059": {
     "name": "“ソードスキル”アドミニストレータ",
@@ -1139,7 +1197,8 @@
         "id": "SAO/S65-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-060": {
     "name": "“底なしの支配欲”クィネラ",
@@ -1157,7 +1216,8 @@
         "id": "SAO/S65-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-061": {
     "name": "思いがけぬ限界 アドミニストレータ",
@@ -1175,7 +1235,8 @@
         "id": "SAO/S65-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-062": {
     "name": "“元老長閣下”チュデルキン",
@@ -1193,7 +1254,8 @@
         "id": "SAO/S65-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-063": {
     "name": "仮想世界の情報 シリカ",
@@ -1211,7 +1273,8 @@
         "id": "SAO/S65-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-064": {
     "name": "“剣の自動人形”ソードゴーレム",
@@ -1229,7 +1292,8 @@
         "id": "SAO/S65-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-065": {
     "name": "敬神モジュール",
@@ -1247,7 +1311,8 @@
         "id": "SAO/S65-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-066": {
     "name": "記憶の結晶",
@@ -1265,7 +1330,8 @@
         "id": "SAO/S65-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-067": {
     "name": "《人界》の支配者",
@@ -1287,7 +1353,8 @@
         "id": "SAO/S65-067R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-068": {
     "name": "永遠なる停滞への誘い",
@@ -1309,7 +1376,8 @@
         "id": "SAO/S65-068R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-069": {
     "name": "“ユージオの相棒”キリト",
@@ -1331,7 +1399,8 @@
         "id": "SAO/S65-069SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-070": {
     "name": "自由人のルームメイト ユージオ",
@@ -1353,7 +1422,8 @@
         "id": "SAO/S65-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-071": {
     "name": "“キリトの相棒”ユージオ",
@@ -1375,7 +1445,8 @@
         "id": "SAO/S65-071SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-072": {
     "name": "夜空色の英雄 キリト",
@@ -1397,7 +1468,8 @@
         "id": "SAO/S65-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-073": {
     "name": "昼食分の働き キリト",
@@ -1419,7 +1491,8 @@
         "id": "SAO/S65-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-074": {
     "name": "“心意の力”キリト",
@@ -1437,7 +1510,8 @@
         "id": "SAO/S65-074",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-075": {
     "name": "その身を剣に ユージオ",
@@ -1455,7 +1529,8 @@
         "id": "SAO/S65-075",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-076": {
     "name": "神聖術の光 ユージオ",
@@ -1473,7 +1548,8 @@
         "id": "SAO/S65-076",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-077": {
     "name": "禁忌と正義 ユージオ",
@@ -1491,7 +1567,8 @@
         "id": "SAO/S65-077",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-078": {
     "name": "“永久氷塊と薔薇”ユージオ",
@@ -1513,7 +1590,8 @@
         "id": "SAO/S65-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-079": {
     "name": "パパを探して ユイ",
@@ -1531,7 +1609,8 @@
         "id": "SAO/S65-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-080": {
     "name": "北の洞窟へ キリト",
@@ -1549,7 +1628,8 @@
         "id": "SAO/S65-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-081": {
     "name": "七代目の刻み手 ユージオ",
@@ -1567,7 +1647,8 @@
         "id": "SAO/S65-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-082": {
     "name": "PKスコードロンとの対峙 キリト",
@@ -1585,7 +1666,8 @@
         "id": "SAO/S65-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-083": {
     "name": "“剣士の矜恃”キリト",
@@ -1603,7 +1685,8 @@
         "id": "SAO/S65-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-084": {
     "name": "仮想世界の情報 シノン",
@@ -1621,7 +1704,8 @@
         "id": "SAO/S65-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-085": {
     "name": "“休戦協定”キリト",
@@ -1639,7 +1723,8 @@
         "id": "SAO/S65-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-086": {
     "name": "ルーリッド村からの旅立ち キリト",
@@ -1657,7 +1742,8 @@
         "id": "SAO/S65-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-087": {
     "name": "親友への激励 ユージオ",
@@ -1675,7 +1761,8 @@
         "id": "SAO/S65-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-088": {
     "name": "北の洞窟へ ユージオ",
@@ -1693,7 +1780,8 @@
         "id": "SAO/S65-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-089": {
     "name": "ゼフィリアの蕾 キリト",
@@ -1711,7 +1799,8 @@
         "id": "SAO/S65-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-090": {
     "name": "かつての姿 キリト",
@@ -1729,7 +1818,8 @@
         "id": "SAO/S65-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-091": {
     "name": "PKスコードロンとの対峙 シノン",
@@ -1747,7 +1837,8 @@
         "id": "SAO/S65-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-092": {
     "name": "“三十二番目の騎士”ユージオ・シンセシス・サーティツー",
@@ -1765,7 +1856,8 @@
         "id": "SAO/S65-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-093": {
     "name": "怪しいアルバイト？ 和人",
@@ -1783,7 +1875,8 @@
         "id": "SAO/S65-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-094": {
     "name": "誰かの剣技 ユージオ",
@@ -1801,7 +1894,8 @@
         "id": "SAO/S65-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-095": {
     "name": "シャーロットの介添え",
@@ -1819,7 +1913,8 @@
         "id": "SAO/S65-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-096": {
     "name": "“悪魔の樹”ギガスシダー",
@@ -1837,7 +1932,8 @@
         "id": "SAO/S65-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-097": {
     "name": "赤薔薇の剣",
@@ -1859,7 +1955,8 @@
         "id": "SAO/S65-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-098": {
     "name": "夜空の剣",
@@ -1881,7 +1978,8 @@
         "id": "SAO/S65-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-099": {
     "name": "青薔薇の剣",
@@ -1903,7 +2001,8 @@
         "id": "SAO/S65-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-100": {
     "name": "ステイ・クール",
@@ -1921,6 +2020,7 @@
         "id": "SAO/S65-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

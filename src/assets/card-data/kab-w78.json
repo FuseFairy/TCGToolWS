@@ -19,7 +19,8 @@
         "id": "Kab/W78-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kab/W78-005": {
     "name": "白銀の両翼 かなで",
@@ -41,7 +42,8 @@
         "id": "Kab/W78-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kab/W78-007": {
     "name": "My Song 岩沢",
@@ -63,7 +65,8 @@
         "id": "Kab/W78-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W78-009": {
     "name": "真夏の天使 かなで",
@@ -85,7 +88,8 @@
         "id": "Kab/W78-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kab/W78-010": {
     "name": "Girls Dead Monster ひさ子",
@@ -107,7 +111,8 @@
         "id": "Kab/W78-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kab/W78-014": {
     "name": "Girls Dead Monster 関根",
@@ -129,7 +134,8 @@
         "id": "Kab/W78-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W78-015": {
     "name": "Girls Dead Monster 入江",
@@ -151,7 +157,8 @@
         "id": "Kab/W78-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W78-016": {
     "name": "伝えるために かなで",
@@ -169,7 +176,8 @@
         "id": "Kab/W78-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W78-018": {
     "name": "Girls Dead Monster ユイ&ひさ子&岩沢",
@@ -187,7 +195,8 @@
         "id": "Kab/W78-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W78-023": {
     "name": "スクール水着 ユイ",
@@ -205,7 +214,8 @@
         "id": "Kab/W78-023",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kab/W78-024": {
     "name": "クールガール 岩沢",
@@ -223,7 +233,8 @@
         "id": "Kab/W78-024",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kab/W78-030": {
     "name": "バニーガール 入江&関根",
@@ -241,7 +252,8 @@
         "id": "Kab/W78-030",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W78-031": {
     "name": "『ガードスキル・ハンドソニック』 天使",
@@ -259,7 +271,8 @@
         "id": "Kab/W78-031",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W78-032": {
     "name": "生徒会長代理 直井",
@@ -277,7 +290,8 @@
         "id": "Kab/W78-032",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W78-037": {
     "name": "叶うはずの無かった願い",
@@ -295,7 +309,8 @@
         "id": "Kab/W78-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W78-038": {
     "name": "懐かしの鼓動",
@@ -317,7 +332,8 @@
         "id": "Kab/W78-038R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W78-041": {
     "name": "始まりの音",
@@ -339,7 +355,8 @@
         "id": "Kab/W78-041R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kab/W78-066": {
     "name": "叛逆のために ゆり",
@@ -361,7 +378,8 @@
         "id": "Kab/W78-066SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W78-071": {
     "name": "SSSの通信士 遊佐",
@@ -383,7 +401,8 @@
         "id": "Kab/W78-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W78-072": {
     "name": "危険な魅力 ゆり",
@@ -405,7 +424,8 @@
         "id": "Kab/W78-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kab/W78-072S_": {
     "name": "危険な魅力 ゆり",
@@ -423,7 +443,8 @@
         "id": "Kab/W78-072S_",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kab/W78-076": {
     "name": "音無 結弦",
@@ -441,7 +462,8 @@
         "id": "Kab/W78-076",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W78-077": {
     "name": "戦線最強 椎名",
@@ -459,7 +481,8 @@
         "id": "Kab/W78-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W78-078": {
     "name": "出会った二人 かなで＆ゆり",
@@ -477,7 +500,8 @@
         "id": "Kab/W78-078",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kab/W78-081": {
     "name": "神への復讐 ゆり",
@@ -495,7 +519,8 @@
         "id": "Kab/W78-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kab/W78-086": {
     "name": "SSSのリーダー ゆり",
@@ -513,7 +538,8 @@
         "id": "Kab/W78-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W78-087": {
     "name": "一番の宝物 日向",
@@ -531,7 +557,8 @@
         "id": "Kab/W78-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kab/W78-091": {
     "name": "SSS",
@@ -553,6 +580,7 @@
         "id": "Kab/W78-091R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

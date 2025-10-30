@@ -15,7 +15,8 @@
         "id": "ID/W13-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W13-109": {
     "name": "学園都市の中学生 美琴",
@@ -33,7 +34,8 @@
         "id": "ID/W13-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-110": {
     "name": "体操着のインデックス",
@@ -51,7 +53,8 @@
         "id": "ID/W13-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-111": {
     "name": "ドキドキプレゼント!? 美琴",
@@ -69,7 +72,8 @@
         "id": "ID/W13-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-113": {
     "name": "機械に疎いインデックス",
@@ -87,7 +91,8 @@
         "id": "ID/W13-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-115": {
     "name": "さっぱりした気性 美琴",
@@ -105,7 +110,8 @@
         "id": "ID/W13-115",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-116": {
     "name": "“黒い翼”一方通行",
@@ -123,7 +129,8 @@
         "id": "ID/W13-116",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W13-117": {
     "name": "脅威に立ち向かう当麻",
@@ -141,7 +148,8 @@
         "id": "ID/W13-117",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W13-118": {
     "name": "おやすみ インデックス",
@@ -159,7 +167,8 @@
         "id": "ID/W13-118",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-119": {
     "name": "いつもの光景 当麻＆インデックス",
@@ -177,7 +186,8 @@
         "id": "ID/W13-119",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-120": {
     "name": "水着の神裂",
@@ -195,7 +205,8 @@
         "id": "ID/W13-120",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-121": {
     "name": "幼児体型 インデックス",
@@ -213,7 +224,8 @@
         "id": "ID/W13-121",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-122": {
     "name": "物欲しげなインデックス",
@@ -231,7 +243,8 @@
         "id": "ID/W13-122",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-123": {
     "name": "前方のヴェント",
@@ -249,7 +262,8 @@
         "id": "ID/W13-123",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W13-124": {
     "name": "賑やかな昼餐 インデックス",
@@ -267,6 +281,7 @@
         "id": "ID/W13-124",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

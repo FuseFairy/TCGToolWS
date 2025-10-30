@@ -15,7 +15,8 @@
         "id": "KMN/W51-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-P03": {
     "name": "今日はいろいろあったね かばんちゃん",
@@ -37,7 +38,8 @@
         "id": "KMN/W51-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-P04": {
     "name": "しろくろフレンズ！イロワケイルカ＆エリマキキツネザル",
@@ -55,7 +57,8 @@
         "id": "KMN/W51-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-P05": {
     "name": "謎がいっぱい ツチノコ",
@@ -77,7 +80,8 @@
         "id": "KMN/W51-P05S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-111": {
     "name": "いい湯だね サーバル",
@@ -95,7 +99,8 @@
         "id": "KMN/W51-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-112": {
     "name": "カフェでゆっくり フェネック",
@@ -113,7 +118,8 @@
         "id": "KMN/W51-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-113": {
     "name": "カフェでゆっくり アライグマ",
@@ -131,7 +137,8 @@
         "id": "KMN/W51-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-114": {
     "name": "お化けの正体？ タイリクオオカミ",
@@ -149,7 +156,8 @@
         "id": "KMN/W51-114",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-115": {
     "name": "本気の一撃 ライオン",
@@ -167,7 +175,8 @@
         "id": "KMN/W51-115",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-116": {
     "name": "おめでとうの会 ロイヤルペンギン",
@@ -185,7 +194,8 @@
         "id": "KMN/W51-116",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-P01": {
     "name": "ようこそ！ジャパリパークへ！",
@@ -203,6 +213,7 @@
         "id": "KMN/W51-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

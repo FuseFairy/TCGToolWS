@@ -15,7 +15,8 @@
         "id": "SG/W19-001",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-002": {
     "name": "立花 響",
@@ -37,7 +38,8 @@
         "id": "SG/W19-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-003": {
     "name": "胸の痛み 響",
@@ -55,7 +57,8 @@
         "id": "SG/W19-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-004": {
     "name": "元気が取り柄 響",
@@ -77,7 +80,8 @@
         "id": "SG/W19-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-005": {
     "name": "パワーの根源 響",
@@ -95,7 +99,8 @@
         "id": "SG/W19-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-006": {
     "name": "戦う理由 響",
@@ -117,7 +122,8 @@
         "id": "SG/W19-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-007": {
     "name": "この胸の覚悟 響",
@@ -139,7 +145,8 @@
         "id": "SG/W19-007R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-008": {
     "name": "親友との約束 響",
@@ -157,7 +164,8 @@
         "id": "SG/W19-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-009": {
     "name": "音楽のパワー 響",
@@ -175,7 +183,8 @@
         "id": "SG/W19-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-010": {
     "name": "優しい戦士 響",
@@ -193,7 +202,8 @@
         "id": "SG/W19-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-011": {
     "name": "覚醒の鼓動 響",
@@ -211,7 +221,8 @@
         "id": "SG/W19-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-012": {
     "name": "みんなを繋ぐ手 響",
@@ -229,7 +240,8 @@
         "id": "SG/W19-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-013": {
     "name": "いつものおせっかい 響",
@@ -247,7 +259,8 @@
         "id": "SG/W19-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-014": {
     "name": "重要参考人 響",
@@ -265,7 +278,8 @@
         "id": "SG/W19-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-015": {
     "name": "初めてのライブ 響",
@@ -283,7 +297,8 @@
         "id": "SG/W19-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-016": {
     "name": "変身する響",
@@ -301,7 +316,8 @@
         "id": "SG/W19-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-017": {
     "name": "一生懸命な響",
@@ -319,7 +335,8 @@
         "id": "SG/W19-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-018": {
     "name": "強化トレーニング 響",
@@ -337,7 +354,8 @@
         "id": "SG/W19-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-019": {
     "name": "流されやすいタイプ 響",
@@ -355,7 +373,8 @@
         "id": "SG/W19-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-020": {
     "name": "デュランダル覚醒",
@@ -373,7 +392,8 @@
         "id": "SG/W19-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-021": {
     "name": "ガングニール",
@@ -391,7 +411,8 @@
         "id": "SG/W19-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-022": {
     "name": "聖遺物との融合",
@@ -409,7 +430,8 @@
         "id": "SG/W19-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-023": {
     "name": "生きるのを諦めないで！",
@@ -427,7 +449,8 @@
         "id": "SG/W19-023",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W19-024": {
     "name": "守りたいものがあるんです！",
@@ -445,7 +468,8 @@
         "id": "SG/W19-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-025": {
     "name": "シンフォギア",
@@ -463,7 +487,8 @@
         "id": "SG/W19-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W19-026": {
     "name": "みなぎる力 クリス",
@@ -481,7 +506,8 @@
         "id": "SG/W19-026",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-027": {
     "name": "雪音 クリス",
@@ -503,7 +529,8 @@
         "id": "SG/W19-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-028": {
     "name": "天涯孤独 クリス",
@@ -525,7 +552,8 @@
         "id": "SG/W19-028R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-029": {
     "name": "安らげる場所 クリス",
@@ -547,7 +575,8 @@
         "id": "SG/W19-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-030": {
     "name": "シンフォギアの装者 クリス",
@@ -565,7 +594,8 @@
         "id": "SG/W19-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-031": {
     "name": "隠れた優しさ クリス",
@@ -583,7 +613,8 @@
         "id": "SG/W19-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-032": {
     "name": "闘争心を燃やすクリス",
@@ -605,7 +636,8 @@
         "id": "SG/W19-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-033": {
     "name": "幼い頃のクリス",
@@ -623,7 +655,8 @@
         "id": "SG/W19-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-034": {
     "name": "イチイバルを纏う戦士 クリス",
@@ -641,7 +674,8 @@
         "id": "SG/W19-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-035": {
     "name": "圧倒的な戦闘力 クリス",
@@ -659,7 +693,8 @@
         "id": "SG/W19-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-036": {
     "name": "ノイズ（第1話）",
@@ -677,7 +712,8 @@
         "id": "SG/W19-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-037": {
     "name": "素直になれないクリス",
@@ -695,7 +731,8 @@
         "id": "SG/W19-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-038": {
     "name": "ノイズ（第4話）",
@@ -713,7 +750,8 @@
         "id": "SG/W19-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-039": {
     "name": "謎の少女 クリス",
@@ -731,7 +769,8 @@
         "id": "SG/W19-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-040": {
     "name": "気品漂う淑女 フィーネ",
@@ -749,7 +788,8 @@
         "id": "SG/W19-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-041": {
     "name": "鎧の少女 クリス",
@@ -767,7 +807,8 @@
         "id": "SG/W19-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-042": {
     "name": "強気なクリス",
@@ -785,7 +826,8 @@
         "id": "SG/W19-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-043": {
     "name": "決着の時 クリス",
@@ -803,7 +845,8 @@
         "id": "SG/W19-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-044": {
     "name": "巫女フィーネ",
@@ -821,7 +864,8 @@
         "id": "SG/W19-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-045": {
     "name": "ネフシュタンの鎧",
@@ -839,7 +883,8 @@
         "id": "SG/W19-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-046": {
     "name": "イチイバル",
@@ -857,7 +902,8 @@
         "id": "SG/W19-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-047": {
     "name": "ソロモンの杖",
@@ -875,7 +921,8 @@
         "id": "SG/W19-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-048": {
     "name": "クリスの夢",
@@ -893,7 +940,8 @@
         "id": "SG/W19-048",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W19-049": {
     "name": "MEGA DETH QUARTET",
@@ -911,7 +959,8 @@
         "id": "SG/W19-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W19-050": {
     "name": "忘れていた温もり",
@@ -929,7 +978,8 @@
         "id": "SG/W19-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-051": {
     "name": "翼の相棒 奏",
@@ -951,7 +1001,8 @@
         "id": "SG/W19-051R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-052": {
     "name": "勝ち取った力 奏",
@@ -969,7 +1020,8 @@
         "id": "SG/W19-052",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-053": {
     "name": "天羽 奏",
@@ -991,7 +1043,8 @@
         "id": "SG/W19-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-054": {
     "name": "強い意志 未来",
@@ -1009,7 +1062,8 @@
         "id": "SG/W19-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-055": {
     "name": "ツヴァイウィング 奏",
@@ -1027,7 +1081,8 @@
         "id": "SG/W19-055",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-056": {
     "name": "響の親友 未来",
@@ -1049,7 +1104,8 @@
         "id": "SG/W19-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-057": {
     "name": "小日向 未来",
@@ -1071,7 +1127,8 @@
         "id": "SG/W19-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-058": {
     "name": "保護者がわり 未来",
@@ -1089,7 +1146,8 @@
         "id": "SG/W19-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-059": {
     "name": "風鳴 弦十郎",
@@ -1107,7 +1165,8 @@
         "id": "SG/W19-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-060": {
     "name": "櫻井 了子",
@@ -1125,7 +1184,8 @@
         "id": "SG/W19-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-061": {
     "name": "マイペース 了子",
@@ -1143,7 +1203,8 @@
         "id": "SG/W19-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-062": {
     "name": "シンフォギアの装者 奏",
@@ -1161,7 +1222,8 @@
         "id": "SG/W19-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-063": {
     "name": "あの日の奏",
@@ -1179,7 +1241,8 @@
         "id": "SG/W19-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-064": {
     "name": "才能ある研究者 了子",
@@ -1197,7 +1260,8 @@
         "id": "SG/W19-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-065": {
     "name": "友情の絆 未来",
@@ -1215,7 +1279,8 @@
         "id": "SG/W19-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-066": {
     "name": "ムードメーカー 奏",
@@ -1233,7 +1298,8 @@
         "id": "SG/W19-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-067": {
     "name": "背負った正義 奏",
@@ -1251,7 +1317,8 @@
         "id": "SG/W19-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-068": {
     "name": "頼れる司令官 弦十郎",
@@ -1269,7 +1336,8 @@
         "id": "SG/W19-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-069": {
     "name": "自由奔放な奏",
@@ -1287,7 +1355,8 @@
         "id": "SG/W19-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-070": {
     "name": "私立リディアン音楽院",
@@ -1305,7 +1374,8 @@
         "id": "SG/W19-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-071": {
     "name": "最期のステージ",
@@ -1323,7 +1393,8 @@
         "id": "SG/W19-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-072": {
     "name": "カ・ディンギル",
@@ -1341,7 +1412,8 @@
         "id": "SG/W19-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-073": {
     "name": "STARDUST∞FOTON",
@@ -1359,7 +1431,8 @@
         "id": "SG/W19-073",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W19-074": {
     "name": "逆光のフリューゲル",
@@ -1377,7 +1450,8 @@
         "id": "SG/W19-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-075": {
     "name": "私立リディアン音楽院校歌",
@@ -1395,7 +1469,8 @@
         "id": "SG/W19-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W19-076": {
     "name": "喪失の悲しみ 翼",
@@ -1413,7 +1488,8 @@
         "id": "SG/W19-076",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-077": {
     "name": "決意の時 翼",
@@ -1435,7 +1511,8 @@
         "id": "SG/W19-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-078": {
     "name": "着替え中の翼",
@@ -1457,7 +1534,8 @@
         "id": "SG/W19-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-079": {
     "name": "決死の攻防戦 翼",
@@ -1475,7 +1553,8 @@
         "id": "SG/W19-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-080": {
     "name": "凛とした佇まい 翼",
@@ -1493,7 +1572,8 @@
         "id": "SG/W19-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-081": {
     "name": "唄うことの喜び 翼",
@@ -1515,7 +1595,8 @@
         "id": "SG/W19-081R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-082": {
     "name": "風鳴 翼",
@@ -1537,7 +1618,8 @@
         "id": "SG/W19-082SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-083": {
     "name": "仲間への信頼 翼",
@@ -1555,7 +1637,8 @@
         "id": "SG/W19-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-084": {
     "name": "剣としての覚悟 翼",
@@ -1573,7 +1656,8 @@
         "id": "SG/W19-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-085": {
     "name": "はじめてのデート 翼",
@@ -1591,7 +1675,8 @@
         "id": "SG/W19-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-086": {
     "name": "あの日の翼",
@@ -1609,7 +1694,8 @@
         "id": "SG/W19-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-087": {
     "name": "防人の生き様 翼",
@@ -1627,7 +1713,8 @@
         "id": "SG/W19-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-088": {
     "name": "不協和音 翼",
@@ -1645,7 +1732,8 @@
         "id": "SG/W19-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-089": {
     "name": "冷徹な態度 翼",
@@ -1663,7 +1751,8 @@
         "id": "SG/W19-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-090": {
     "name": "入院中の翼",
@@ -1681,7 +1770,8 @@
         "id": "SG/W19-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-091": {
     "name": "奏を想う翼",
@@ -1699,7 +1789,8 @@
         "id": "SG/W19-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-092": {
     "name": "ノイズに立ち向かう翼",
@@ -1717,7 +1808,8 @@
         "id": "SG/W19-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-093": {
     "name": "なにげない日常 翼",
@@ -1735,7 +1827,8 @@
         "id": "SG/W19-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-094": {
     "name": "“ツヴァイウィング”奏＆翼",
@@ -1753,7 +1846,8 @@
         "id": "SG/W19-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-095": {
     "name": "絶唱",
@@ -1771,7 +1865,8 @@
         "id": "SG/W19-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-096": {
     "name": "天羽々斬",
@@ -1789,7 +1884,8 @@
         "id": "SG/W19-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-097": {
     "name": "包み込む優しさ",
@@ -1807,7 +1903,8 @@
         "id": "SG/W19-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-098": {
     "name": "FLIGHT FEATHERS",
@@ -1825,7 +1922,8 @@
         "id": "SG/W19-098",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-099": {
     "name": "あの頃は二人だった",
@@ -1843,7 +1941,8 @@
         "id": "SG/W19-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W19-100": {
     "name": "蒼ノ一閃",
@@ -1861,6 +1960,7 @@
         "id": "SG/W19-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

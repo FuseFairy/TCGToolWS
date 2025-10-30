@@ -19,7 +19,8 @@
         "id": "FGO/S75-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-T02": {
     "name": "豊穣と戦いの女神 イシュタル",
@@ -41,7 +42,8 @@
         "id": "FGO/S75-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-T03": {
     "name": "謎のサーヴァント 『エルキドゥ』",
@@ -59,7 +61,8 @@
         "id": "FGO/S75-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-T04": {
     "name": "謀略の森 キングゥ",
@@ -77,7 +80,8 @@
         "id": "FGO/S75-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-T05": {
     "name": "花の魔術師 マーリン",
@@ -95,7 +99,8 @@
         "id": "FGO/S75-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-T06": {
     "name": "宿命を背負う少女 アナ",
@@ -113,7 +118,8 @@
         "id": "FGO/S75-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-T07": {
     "name": "すべてをみたひと ギルガメッシュ",
@@ -131,7 +137,8 @@
         "id": "FGO/S75-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-T08": {
     "name": "女神の力 イシュタル",
@@ -149,7 +156,8 @@
         "id": "FGO/S75-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-T09": {
     "name": "賢王の見極め",
@@ -167,7 +175,8 @@
         "id": "FGO/S75-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-T10": {
     "name": "怒りの一撃",
@@ -185,7 +194,8 @@
         "id": "FGO/S75-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FGO/S75-T11": {
     "name": "力を示す時 藤丸",
@@ -203,7 +213,8 @@
         "id": "FGO/S75-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-T12": {
     "name": "堅固な勇気 マシュ",
@@ -225,7 +236,8 @@
         "id": "FGO/S75-T12SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-T13": {
     "name": "現カルデア最高責任者 ロマニ",
@@ -243,7 +255,8 @@
         "id": "FGO/S75-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-T14": {
     "name": "人類最後のマスター 藤丸",
@@ -261,7 +274,8 @@
         "id": "FGO/S75-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-T15": {
     "name": "万能の才人 ダ・ヴィンチ",
@@ -283,7 +297,8 @@
         "id": "FGO/S75-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-T16": {
     "name": "力を示す時 マシュ",
@@ -301,7 +316,8 @@
         "id": "FGO/S75-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-T17": {
     "name": "パーフェクトな存在証明 ダ・ヴィンチ",
@@ -319,7 +335,8 @@
         "id": "FGO/S75-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-T18": {
     "name": "盾の乙女 マシュ",
@@ -341,7 +358,8 @@
         "id": "FGO/S75-T18S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-T19": {
     "name": "ラウンドテーブル展開",
@@ -359,7 +377,8 @@
         "id": "FGO/S75-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-T20": {
     "name": "刹那の攻防",
@@ -381,6 +400,7 @@
         "id": "FGO/S75-T20S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

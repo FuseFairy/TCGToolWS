@@ -19,7 +19,8 @@
         "id": "Ffp/W120-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ffp/W120-T06": {
     "name": "屈しない決意 テレサ",
@@ -41,6 +42,7 @@
         "id": "Ffp/W120-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

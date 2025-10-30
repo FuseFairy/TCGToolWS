@@ -15,7 +15,8 @@
         "id": "KMN/W51-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-T02": {
     "name": "“ハジメマシテ”ラッキービースト",
@@ -33,7 +34,8 @@
         "id": "KMN/W51-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-T03": {
     "name": "気配を探って サーバル",
@@ -51,7 +53,8 @@
         "id": "KMN/W51-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-T04": {
     "name": "イシ発見！かばんちゃん",
@@ -69,7 +72,8 @@
         "id": "KMN/W51-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-T05": {
     "name": "パークの危機？フェネック",
@@ -87,7 +91,8 @@
         "id": "KMN/W51-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-T06": {
     "name": "さばんなのサーバル",
@@ -105,7 +110,8 @@
         "id": "KMN/W51-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-T07": {
     "name": "はじめてのさばんなちほー かばんちゃん",
@@ -123,7 +129,8 @@
         "id": "KMN/W51-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-T08": {
     "name": "優しいお姉さん カバ",
@@ -141,7 +148,8 @@
         "id": "KMN/W51-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-T09": {
     "name": "狩りごっこ大好き サーバル",
@@ -167,7 +175,8 @@
         "id": "KMN/W51-T09SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-T10": {
     "name": "出会いの日に",
@@ -189,7 +198,8 @@
         "id": "KMN/W51-T10S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-T11": {
     "name": "お手玉上手 コツメカワウソ",
@@ -207,7 +217,8 @@
         "id": "KMN/W51-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-T12": {
     "name": "見覚えあるよ ジャガー",
@@ -225,7 +236,8 @@
         "id": "KMN/W51-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-T13": {
     "name": "パークの危機！アライグマ",
@@ -247,7 +259,8 @@
         "id": "KMN/W51-T13R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-T14": {
     "name": "命名“かばん”ちゃん",
@@ -265,7 +278,8 @@
         "id": "KMN/W51-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-T15": {
     "name": "楽しいこと大好き コツメカワウソ",
@@ -283,7 +297,8 @@
         "id": "KMN/W51-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-T16": {
     "name": "みんなを乗せて ジャガー",
@@ -301,7 +316,8 @@
         "id": "KMN/W51-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-T17": {
     "name": "フレンズとこんにちは かばんちゃん",
@@ -323,7 +339,8 @@
         "id": "KMN/W51-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-T18": {
     "name": "狩りごっこ",
@@ -341,7 +358,8 @@
         "id": "KMN/W51-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-T19": {
     "name": "再会の約束",
@@ -359,7 +377,8 @@
         "id": "KMN/W51-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-T20": {
     "name": "だっ、食べないでぐだざーい!!",
@@ -377,6 +396,7 @@
         "id": "KMN/W51-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

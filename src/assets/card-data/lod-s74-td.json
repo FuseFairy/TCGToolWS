@@ -15,7 +15,8 @@
         "id": "LOD/S74-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-T02": {
     "name": "はじまりの仲間たち ユア",
@@ -41,7 +42,8 @@
         "id": "LOD/S74-T02SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-T03": {
     "name": "可憐な男の子 グラミン",
@@ -59,7 +61,8 @@
         "id": "LOD/S74-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-T04": {
     "name": "若き狙撃手 グラミン",
@@ -81,7 +84,8 @@
         "id": "LOD/S74-T04R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-T05": {
     "name": "ユア＆キャロライン",
@@ -99,7 +103,8 @@
         "id": "LOD/S74-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-T06": {
     "name": "双翼の祭司 サンドラ",
@@ -121,7 +126,8 @@
         "id": "LOD/S74-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-T07": {
     "name": "メサイアの守護者 ジークフリート",
@@ -139,7 +145,8 @@
         "id": "LOD/S74-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-T08": {
     "name": "はじまりの仲間たち キャロライン",
@@ -161,7 +168,8 @@
         "id": "LOD/S74-T08SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-T09": {
     "name": "冒険のはじまり",
@@ -183,7 +191,8 @@
         "id": "LOD/S74-T09S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-T10": {
     "name": "サンドラの友人 フェル",
@@ -201,7 +210,8 @@
         "id": "LOD/S74-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-T11": {
     "name": "新たなる冒険団 団長",
@@ -219,7 +229,8 @@
         "id": "LOD/S74-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-T12": {
     "name": "はじまりの仲間たち エレーナ",
@@ -241,7 +252,8 @@
         "id": "LOD/S74-T12SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-T13": {
     "name": "真面目で実直 ヴィヴィアン",
@@ -259,7 +271,8 @@
         "id": "LOD/S74-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-T14": {
     "name": "冒険者協会会長 テレサ",
@@ -277,7 +290,8 @@
         "id": "LOD/S74-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-T15": {
     "name": "フェルの友人 サンドラ",
@@ -295,7 +309,8 @@
         "id": "LOD/S74-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-T16": {
     "name": "エレーナ＆ユア",
@@ -313,7 +328,8 @@
         "id": "LOD/S74-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-T17": {
     "name": "聖剣の騎士 ヴィヴィアン",
@@ -335,7 +351,8 @@
         "id": "LOD/S74-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-T18": {
     "name": "アイテム“騎士の剣”",
@@ -353,7 +370,8 @@
         "id": "LOD/S74-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-T19": {
     "name": "はじまりの地 冒険大陸メルキオール",
@@ -371,6 +389,7 @@
         "id": "LOD/S74-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -19,7 +19,8 @@
         "id": "PY/S38-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-002": {
     "name": "魔法薬作りを勉強中 ウィッチ",
@@ -41,7 +42,8 @@
         "id": "PY/S38-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-003": {
     "name": "“ばよえ～ん”アルル",
@@ -63,7 +65,8 @@
         "id": "PY/S38-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-004": {
     "name": "“ヘンタイ”シェゾ",
@@ -85,7 +88,8 @@
         "id": "PY/S38-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-005": {
     "name": "空回り気味!? ドラコケンタウロス",
@@ -107,7 +111,8 @@
         "id": "PY/S38-005R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-006": {
     "name": "セクシーな格闘女王 ルルー",
@@ -129,7 +134,8 @@
         "id": "PY/S38-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-007": {
     "name": "魔導のチカラを狙う シェゾ",
@@ -147,7 +153,8 @@
         "id": "PY/S38-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-008": {
     "name": "気まぐれ カーバンクル",
@@ -165,7 +172,8 @@
         "id": "PY/S38-008",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-009": {
     "name": "ぷよ地獄を創造!? サタン",
@@ -187,7 +195,8 @@
         "id": "PY/S38-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-010": {
     "name": "アルル",
@@ -205,7 +214,8 @@
         "id": "PY/S38-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-011": {
     "name": "ハイテンション すけとうだら",
@@ -223,7 +233,8 @@
         "id": "PY/S38-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-012": {
     "name": "カーバンクル",
@@ -241,7 +252,8 @@
         "id": "PY/S38-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-013": {
     "name": "ウィッチ",
@@ -259,7 +271,8 @@
         "id": "PY/S38-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-014": {
     "name": "最強の美少女 ドラコケンタウロス",
@@ -277,7 +290,8 @@
         "id": "PY/S38-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-015": {
     "name": "アルルがフィアンセ!? サタン",
@@ -295,7 +309,8 @@
         "id": "PY/S38-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-016": {
     "name": "カーバンクル大好き サタン",
@@ -313,7 +328,8 @@
         "id": "PY/S38-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-017": {
     "name": "燃える一途な恋 ルルー",
@@ -331,7 +347,8 @@
         "id": "PY/S38-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-018": {
     "name": "きいろぷよ",
@@ -349,7 +366,8 @@
         "id": "PY/S38-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-019": {
     "name": "“ばたんきゅー”カーバンクル",
@@ -367,7 +385,8 @@
         "id": "PY/S38-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-020": {
     "name": "闇の魔導師 シェゾ",
@@ -385,7 +404,8 @@
         "id": "PY/S38-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-021": {
     "name": "魅惑のダンサー すけとうだら",
@@ -403,7 +423,8 @@
         "id": "PY/S38-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-022": {
     "name": "“ばたんきゅー”アルル",
@@ -421,7 +442,8 @@
         "id": "PY/S38-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-023": {
     "name": "天真爛漫 ドラコケンタウロス",
@@ -439,7 +461,8 @@
         "id": "PY/S38-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-024": {
     "name": "たくましい乙女 ルルー",
@@ -457,7 +480,8 @@
         "id": "PY/S38-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-025": {
     "name": "全消し",
@@ -475,7 +499,8 @@
         "id": "PY/S38-025",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-026": {
     "name": "レッツぷよ勝負！",
@@ -493,7 +518,8 @@
         "id": "PY/S38-026",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-027": {
     "name": "ばよえ～ん",
@@ -511,7 +537,8 @@
         "id": "PY/S38-027",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-028": {
     "name": "お馬鹿さんね",
@@ -529,7 +556,8 @@
         "id": "PY/S38-028",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PY/S38-029": {
     "name": "私に逆らうからだ",
@@ -547,7 +575,8 @@
         "id": "PY/S38-029",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-030": {
     "name": "甘いモノ好き レムレス",
@@ -565,7 +594,8 @@
         "id": "PY/S38-030",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-031": {
     "name": "レムレス",
@@ -587,7 +617,8 @@
         "id": "PY/S38-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-032": {
     "name": "フェーリ",
@@ -609,7 +640,8 @@
         "id": "PY/S38-032R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-033": {
     "name": "レムレスへの想い フェーリ",
@@ -627,7 +659,8 @@
         "id": "PY/S38-033",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-034": {
     "name": "ほほうどり",
@@ -645,7 +678,8 @@
         "id": "PY/S38-034",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-035": {
     "name": "恋するオトメ フェーリ",
@@ -663,7 +697,8 @@
         "id": "PY/S38-035",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-036": {
     "name": "天才魔導師 レムレス",
@@ -681,7 +716,8 @@
         "id": "PY/S38-036",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-037": {
     "name": "海の王子様 さかな王子",
@@ -703,7 +739,8 @@
         "id": "PY/S38-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-038": {
     "name": "ユウちゃん＆レイくん",
@@ -725,7 +762,8 @@
         "id": "PY/S38-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-039": {
     "name": "こづれフランケン",
@@ -743,7 +781,8 @@
         "id": "PY/S38-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-040": {
     "name": "ちょっぴりワガママなさかな王子",
@@ -761,7 +800,8 @@
         "id": "PY/S38-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-041": {
     "name": "明るいユウれい ユウちゃん",
@@ -779,7 +819,8 @@
         "id": "PY/S38-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-042": {
     "name": "無口なゆうレイ レイくん",
@@ -797,7 +838,8 @@
         "id": "PY/S38-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-043": {
     "name": "彗星の魔導師 レムレス",
@@ -815,7 +857,8 @@
         "id": "PY/S38-043",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-044": {
     "name": "ウ・ン・メ・イ フェーリ",
@@ -833,7 +876,8 @@
         "id": "PY/S38-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-045": {
     "name": "オトモから逃げまわる さかな王子",
@@ -851,7 +895,8 @@
         "id": "PY/S38-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-046": {
     "name": "あくま",
@@ -869,7 +914,8 @@
         "id": "PY/S38-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-047": {
     "name": "自由きまま ユウちゃん＆レイくん",
@@ -887,7 +933,8 @@
         "id": "PY/S38-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-048": {
     "name": "ケロティ兄さん？ どんぐりガエル",
@@ -905,7 +952,8 @@
         "id": "PY/S38-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-049": {
     "name": "おに子",
@@ -923,7 +971,8 @@
         "id": "PY/S38-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-050": {
     "name": "どんぐりガエル",
@@ -941,7 +990,8 @@
         "id": "PY/S38-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-051": {
     "name": "みどりぷよ",
@@ -959,7 +1009,8 @@
         "id": "PY/S38-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-052": {
     "name": "おしゃれコウベ",
@@ -977,7 +1028,8 @@
         "id": "PY/S38-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-053": {
     "name": "さかな王子",
@@ -995,7 +1047,8 @@
         "id": "PY/S38-053",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-054": {
     "name": "ぞう大魔王",
@@ -1013,7 +1066,8 @@
         "id": "PY/S38-054",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-055": {
     "name": "さかな王子の教育係 オトモ",
@@ -1031,7 +1085,8 @@
         "id": "PY/S38-055",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-056": {
     "name": "ナスグレイブ",
@@ -1049,7 +1104,8 @@
         "id": "PY/S38-056",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-057": {
     "name": "バルトアンデルス",
@@ -1067,7 +1123,8 @@
         "id": "PY/S38-057",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-058": {
     "name": "おにおん",
@@ -1085,7 +1142,8 @@
         "id": "PY/S38-058",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-059": {
     "name": "フィーバーモード",
@@ -1103,7 +1161,8 @@
         "id": "PY/S38-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-060": {
     "name": "ウ・ン・メ・イ",
@@ -1121,7 +1180,8 @@
         "id": "PY/S38-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-061": {
     "name": "みんな、仲良くね",
@@ -1139,7 +1199,8 @@
         "id": "PY/S38-061",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PY/S38-062": {
     "name": "やーりまーしたぁー",
@@ -1157,7 +1218,8 @@
         "id": "PY/S38-062",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-063": {
     "name": "ウンメイにさからうつもり？",
@@ -1175,7 +1237,8 @@
         "id": "PY/S38-063",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-064": {
     "name": "“ばよえ～ん”アミティ",
@@ -1197,7 +1260,8 @@
         "id": "PY/S38-064SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-065": {
     "name": "ばっちぐー！ アミティ",
@@ -1219,7 +1283,8 @@
         "id": "PY/S38-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-066": {
     "name": "プリンプ魔導学校の生徒 シグ",
@@ -1241,7 +1306,8 @@
         "id": "PY/S38-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-067": {
     "name": "ポポイは腹話術？ アコール先生",
@@ -1259,7 +1325,8 @@
         "id": "PY/S38-067",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-068": {
     "name": "２本のツノを髪でまいてる リデル",
@@ -1277,7 +1344,8 @@
         "id": "PY/S38-068",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-069": {
     "name": "美と勝利のため修行中 ラフィーナ",
@@ -1299,7 +1367,8 @@
         "id": "PY/S38-069R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-070": {
     "name": "アコール先生",
@@ -1321,7 +1390,8 @@
         "id": "PY/S38-070R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-071": {
     "name": "夢はステキな魔導師！ アミティ",
@@ -1339,7 +1409,8 @@
         "id": "PY/S38-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-072": {
     "name": "プリンプ魔導学校の生徒 ラフィーナ",
@@ -1357,7 +1428,8 @@
         "id": "PY/S38-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-073": {
     "name": "“ばたんきゅー”アミティ",
@@ -1375,7 +1447,8 @@
         "id": "PY/S38-073",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-074": {
     "name": "ダークな魔導に憧れる クルーク",
@@ -1393,7 +1466,8 @@
         "id": "PY/S38-074",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-075": {
     "name": "プリンプ魔導学校の生徒 アミティ",
@@ -1411,7 +1485,8 @@
         "id": "PY/S38-075",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-076": {
     "name": "ちょっぴりイヤミな クルーク",
@@ -1429,7 +1504,8 @@
         "id": "PY/S38-076",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-077": {
     "name": "プリンプ魔導学校の生徒 リデル",
@@ -1447,7 +1523,8 @@
         "id": "PY/S38-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-078": {
     "name": "あかぷよ",
@@ -1465,7 +1542,8 @@
         "id": "PY/S38-078",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-079": {
     "name": "クルーク",
@@ -1483,7 +1561,8 @@
         "id": "PY/S38-079",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-080": {
     "name": "いつからか左目と左手がヘン シグ",
@@ -1501,7 +1580,8 @@
         "id": "PY/S38-080",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-081": {
     "name": "はずかしがりやさん リデル",
@@ -1519,7 +1599,8 @@
         "id": "PY/S38-081",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-082": {
     "name": "ポポイ",
@@ -1537,7 +1618,8 @@
         "id": "PY/S38-082",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-083": {
     "name": "ムシが大好きなシグ",
@@ -1555,7 +1637,8 @@
         "id": "PY/S38-083",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-084": {
     "name": "ラフィーナ",
@@ -1573,7 +1656,8 @@
         "id": "PY/S38-084",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-085": {
     "name": "ばたんきゅー",
@@ -1591,7 +1675,8 @@
         "id": "PY/S38-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-086": {
     "name": "ばよえ～ん",
@@ -1609,7 +1694,8 @@
         "id": "PY/S38-086",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PY/S38-087": {
     "name": "当然の結果ですわ",
@@ -1627,7 +1713,8 @@
         "id": "PY/S38-087",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PY/S38-088": {
     "name": "かったのか",
@@ -1645,7 +1732,8 @@
         "id": "PY/S38-088",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-089": {
     "name": "えへっ 嬉しいな",
@@ -1663,7 +1751,8 @@
         "id": "PY/S38-089",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-090": {
     "name": "謎に夢中♪ りんご",
@@ -1685,7 +1774,8 @@
         "id": "PY/S38-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-091": {
     "name": "りすくませんぱい",
@@ -1707,7 +1797,8 @@
         "id": "PY/S38-091R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-092": {
     "name": "愛の化学反応 りすくませんぱい",
@@ -1725,7 +1816,8 @@
         "id": "PY/S38-092",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-093": {
     "name": "すずらん中学校の生徒 りんご",
@@ -1743,7 +1835,8 @@
         "id": "PY/S38-093",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-094": {
     "name": "良くも悪くも素直な エコロ",
@@ -1761,7 +1854,8 @@
         "id": "PY/S38-094",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-095": {
     "name": "キキーモラ",
@@ -1779,7 +1873,8 @@
         "id": "PY/S38-095",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-096": {
     "name": "実にオサレだが実にヘン まぐろ",
@@ -1801,7 +1896,8 @@
         "id": "PY/S38-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-097": {
     "name": "実験開始 りすくま先輩",
@@ -1819,7 +1915,8 @@
         "id": "PY/S38-097",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-098": {
     "name": "好奇心旺盛 りんご",
@@ -1841,7 +1938,8 @@
         "id": "PY/S38-098SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-099": {
     "name": "りんごのおさななじみ まぐろ",
@@ -1859,7 +1957,8 @@
         "id": "PY/S38-099",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-100": {
     "name": "ハーピー",
@@ -1877,7 +1976,8 @@
         "id": "PY/S38-100",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-101": {
     "name": "時空の旅人 エコロ",
@@ -1895,7 +1995,8 @@
         "id": "PY/S38-101",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-102": {
     "name": "頭脳明晰 りんご",
@@ -1913,7 +2014,8 @@
         "id": "PY/S38-102",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-103": {
     "name": "ミノタウロス",
@@ -1931,7 +2033,8 @@
         "id": "PY/S38-103",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-104": {
     "name": "エコロ",
@@ -1949,7 +2052,8 @@
         "id": "PY/S38-104",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-105": {
     "name": "あおぷよ",
@@ -1967,7 +2071,8 @@
         "id": "PY/S38-105",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-106": {
     "name": "セリリ",
@@ -1985,7 +2090,8 @@
         "id": "PY/S38-106",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-107": {
     "name": "まぐろ",
@@ -2003,7 +2109,8 @@
         "id": "PY/S38-107",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-108": {
     "name": "スケルトンT",
@@ -2021,7 +2128,8 @@
         "id": "PY/S38-108",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-109": {
     "name": "つかみどころがない エコロ",
@@ -2039,7 +2147,8 @@
         "id": "PY/S38-109",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-110": {
     "name": "アイラブユー りすくませんぱい",
@@ -2057,7 +2166,8 @@
         "id": "PY/S38-110",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-111": {
     "name": "こだわりの趣味がたくさん まぐろ",
@@ -2075,7 +2185,8 @@
         "id": "PY/S38-111",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-112": {
     "name": "りんご",
@@ -2093,7 +2204,8 @@
         "id": "PY/S38-112",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-113": {
     "name": "ラグナス",
@@ -2111,7 +2223,8 @@
         "id": "PY/S38-113",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-114": {
     "name": "相殺",
@@ -2129,7 +2242,8 @@
         "id": "PY/S38-114",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-115": {
     "name": "おじゃまぷよ",
@@ -2147,7 +2261,8 @@
         "id": "PY/S38-115",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-116": {
     "name": "かんぺきです",
@@ -2165,7 +2280,8 @@
         "id": "PY/S38-116",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-117": {
     "name": "楽しいねぇ",
@@ -2183,7 +2299,8 @@
         "id": "PY/S38-117",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PY/S38-118": {
     "name": "勝っちゃった★",
@@ -2201,7 +2318,8 @@
         "id": "PY/S38-118",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PY/S38-119": {
     "name": "実験大成功",
@@ -2219,7 +2337,8 @@
         "id": "PY/S38-119",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-120": {
     "name": "むらさきぷよ",
@@ -2237,7 +2356,8 @@
         "id": "PY/S38-120",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-T05": {
     "name": "魔女見習い ウィッチ",
@@ -2255,7 +2375,8 @@
         "id": "PY/S38-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-T06": {
     "name": "冒険大好き アルル",
@@ -2273,7 +2394,8 @@
         "id": "PY/S38-T06SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-T08": {
     "name": "アルルと一緒 カーバンクル",
@@ -2291,7 +2413,8 @@
         "id": "PY/S38-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-T11": {
     "name": "元気だけは誰にも負けない アミティ",
@@ -2313,6 +2436,7 @@
         "id": "PY/S38-T11SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

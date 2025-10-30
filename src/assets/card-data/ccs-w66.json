@@ -19,7 +19,8 @@
         "id": "CCS/W66-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-002": {
     "name": "“クロウカードの守護者”ケロちゃん",
@@ -41,7 +42,8 @@
         "id": "CCS/W66-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-003": {
     "name": "“チアリーダー”木之本桜",
@@ -63,7 +65,8 @@
         "id": "CCS/W66-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-004": {
     "name": "“切り札”木之本桜",
@@ -85,7 +88,8 @@
         "id": "CCS/W66-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-005": {
     "name": "“ふしぎなカード”木之本桜",
@@ -107,7 +111,8 @@
         "id": "CCS/W66-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-006": {
     "name": "“いっしょに通学”桜＆ケロちゃん",
@@ -129,7 +134,8 @@
         "id": "CCS/W66-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-007": {
     "name": "桜＆ケロちゃん",
@@ -147,7 +153,8 @@
         "id": "CCS/W66-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-008": {
     "name": "“お菓子作り”木之本桜",
@@ -169,7 +176,8 @@
         "id": "CCS/W66-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-009": {
     "name": "“いぢわるばっかり”木之本桃矢",
@@ -187,7 +195,8 @@
         "id": "CCS/W66-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-010": {
     "name": "“ぎりぎりセーフ”木之本桜",
@@ -205,7 +214,8 @@
         "id": "CCS/W66-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-011": {
     "name": "“レッツ！チェンジ!!”ケロちゃん",
@@ -223,7 +233,8 @@
         "id": "CCS/W66-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-012": {
     "name": "“いざとなったら”ケロちゃん",
@@ -241,7 +252,8 @@
         "id": "CCS/W66-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-013": {
     "name": "“リュックの中から”ケロちゃん",
@@ -259,7 +271,8 @@
         "id": "CCS/W66-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-014": {
     "name": "“お父さん”木之本藤隆",
@@ -277,7 +290,8 @@
         "id": "CCS/W66-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-015": {
     "name": "“なかよし？兄妹”桜＆桃矢",
@@ -295,7 +309,8 @@
         "id": "CCS/W66-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-016": {
     "name": "“朝の風景”木之本桜",
@@ -313,7 +328,8 @@
         "id": "CCS/W66-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-017": {
     "name": "“お母さん”木之本撫子",
@@ -331,7 +347,8 @@
         "id": "CCS/W66-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-018": {
     "name": "“頼れるお兄ちゃん”木之本桃矢",
@@ -349,7 +366,8 @@
         "id": "CCS/W66-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-019": {
     "name": "“もぐもぐ”ケロちゃん",
@@ -367,7 +385,8 @@
         "id": "CCS/W66-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-020": {
     "name": "咄嗟の防御",
@@ -385,7 +404,8 @@
         "id": "CCS/W66-020",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-021": {
     "name": "固着",
@@ -403,7 +423,8 @@
         "id": "CCS/W66-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-022": {
     "name": "大切なくまさん",
@@ -421,7 +442,8 @@
         "id": "CCS/W66-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-023": {
     "name": "さくら色の毎日",
@@ -443,7 +465,8 @@
         "id": "CCS/W66-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-024": {
     "name": "おいしくなあれ",
@@ -465,7 +488,8 @@
         "id": "CCS/W66-024R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-025": {
     "name": "護る者同士",
@@ -487,7 +511,8 @@
         "id": "CCS/W66-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CCS/W66-026": {
     "name": "“真剣なまなざし”李小狼",
@@ -509,7 +534,8 @@
         "id": "CCS/W66-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-027": {
     "name": "“羽ばたく翼”木之本桜",
@@ -531,7 +557,8 @@
         "id": "CCS/W66-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-028": {
     "name": "“『記録』せよ！”木之本桜",
@@ -553,7 +580,8 @@
         "id": "CCS/W66-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-029": {
     "name": "“火神招来！”李小狼",
@@ -575,7 +603,8 @@
         "id": "CCS/W66-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-030": {
     "name": "“二人ならば”桜＆小狼",
@@ -593,7 +622,8 @@
         "id": "CCS/W66-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-031": {
     "name": "“伝えたい気持ち”木之本桜",
@@ -615,7 +645,8 @@
         "id": "CCS/W66-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-032": {
     "name": "“いっしょに通学”桜&知世",
@@ -633,7 +664,8 @@
         "id": "CCS/W66-032",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-033": {
     "name": "“スポーツ万能”木之本桜",
@@ -651,7 +683,8 @@
         "id": "CCS/W66-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-034": {
     "name": "“『飛翔』となかよし”木之本桜",
@@ -669,7 +702,8 @@
         "id": "CCS/W66-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-035": {
     "name": "“はずかし絶叫”木之本桜",
@@ -687,7 +721,8 @@
         "id": "CCS/W66-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-036": {
     "name": "“照れ隠し”李小狼",
@@ -705,7 +740,8 @@
         "id": "CCS/W66-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-037": {
     "name": "“新しい制服”李小狼",
@@ -723,7 +759,8 @@
         "id": "CCS/W66-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-038": {
     "name": "“Dの魔術師”ユナ・D・海渡",
@@ -741,7 +778,8 @@
         "id": "CCS/W66-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-039": {
     "name": "“くまのぬいぐるみ”木之本桜",
@@ -759,7 +797,8 @@
         "id": "CCS/W66-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-040": {
     "name": "“真面目な”ユナ・D・海渡",
@@ -777,7 +816,8 @@
         "id": "CCS/W66-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-041": {
     "name": "“めおと漫才？”千春＆山崎",
@@ -795,7 +835,8 @@
         "id": "CCS/W66-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-042": {
     "name": "“みんなでお花見”千春＆奈緒子",
@@ -813,7 +854,8 @@
         "id": "CCS/W66-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-043": {
     "name": "“本好き”佐々木利佳",
@@ -831,7 +873,8 @@
         "id": "CCS/W66-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-044": {
     "name": "“時の魔法”ユナ・D・海渡",
@@ -849,7 +892,8 @@
         "id": "CCS/W66-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-045": {
     "name": "“執事”ユナ・D・海渡",
@@ -867,7 +911,8 @@
         "id": "CCS/W66-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-046": {
     "name": "“くまのぬいぐるみ”李小狼",
@@ -885,7 +930,8 @@
         "id": "CCS/W66-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-047": {
     "name": "秋穂＆海渡",
@@ -903,7 +949,8 @@
         "id": "CCS/W66-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-048": {
     "name": "固着",
@@ -921,7 +968,8 @@
         "id": "CCS/W66-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-049": {
     "name": "ふたりでお出かけ",
@@ -939,7 +987,8 @@
         "id": "CCS/W66-049",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-050": {
     "name": "空中散歩",
@@ -961,7 +1010,8 @@
         "id": "CCS/W66-050R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-051": {
     "name": "護るための力",
@@ -983,7 +1033,8 @@
         "id": "CCS/W66-051R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-052": {
     "name": "穏やかなひと時",
@@ -1005,7 +1056,8 @@
         "id": "CCS/W66-052R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CCS/W66-053": {
     "name": "“一番のお友達”大道寺知世",
@@ -1027,7 +1079,8 @@
         "id": "CCS/W66-053SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-054": {
     "name": "“えんび服風コスチューム”木之本桜",
@@ -1049,7 +1102,8 @@
         "id": "CCS/W66-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-055": {
     "name": "“CLEAR”木之本桜",
@@ -1071,7 +1125,8 @@
         "id": "CCS/W66-055SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-056": {
     "name": "“大事なこと”大道寺知世",
@@ -1089,7 +1144,8 @@
         "id": "CCS/W66-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-057": {
     "name": "“本場の餃子”木之本桜",
@@ -1111,7 +1167,8 @@
         "id": "CCS/W66-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-058": {
     "name": "“ピエロ風コスチューム”木之本桜",
@@ -1133,7 +1190,8 @@
         "id": "CCS/W66-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-059": {
     "name": "“なかよしのふたり”桜＆知世",
@@ -1151,7 +1209,8 @@
         "id": "CCS/W66-059",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-060": {
     "name": "“おまかせあれ！”大道寺知世",
@@ -1173,7 +1232,8 @@
         "id": "CCS/W66-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-061": {
     "name": "“凛々しい王子様”木之本桜",
@@ -1191,7 +1251,8 @@
         "id": "CCS/W66-061",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-062": {
     "name": "“絶妙なタイミング”李苺鈴",
@@ -1209,7 +1270,8 @@
         "id": "CCS/W66-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-063": {
     "name": "“強くなりたい”木之本桜",
@@ -1227,7 +1289,8 @@
         "id": "CCS/W66-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-064": {
     "name": "“いつでもどこでも撮影中”大道寺知世",
@@ -1245,7 +1308,8 @@
         "id": "CCS/W66-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-065": {
     "name": "“思い出の学芸会”木之本桜",
@@ -1263,7 +1327,8 @@
         "id": "CCS/W66-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-066": {
     "name": "“鉄壁の”大道寺知世",
@@ -1281,7 +1346,8 @@
         "id": "CCS/W66-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-067": {
     "name": "“密かなたくらみ”大道寺知世",
@@ -1299,7 +1365,8 @@
         "id": "CCS/W66-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-068": {
     "name": "“お裁縫じょうず”大道寺知世",
@@ -1317,7 +1384,8 @@
         "id": "CCS/W66-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-069": {
     "name": "“香港のお友達”李苺鈴",
@@ -1335,7 +1403,8 @@
         "id": "CCS/W66-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-070": {
     "name": "固着",
@@ -1353,7 +1422,8 @@
         "id": "CCS/W66-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-071": {
     "name": "Maison de Tomoyo",
@@ -1371,7 +1441,8 @@
         "id": "CCS/W66-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-072": {
     "name": "透明なきもち",
@@ -1393,7 +1464,8 @@
         "id": "CCS/W66-072R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-073": {
     "name": "宝物の毎日",
@@ -1415,7 +1487,8 @@
         "id": "CCS/W66-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-074": {
     "name": "最高の一枚を",
@@ -1437,7 +1510,8 @@
         "id": "CCS/W66-074R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-075": {
     "name": "“お土産のクッキー”木之本桜",
@@ -1459,7 +1533,8 @@
         "id": "CCS/W66-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-076": {
     "name": "“時計の国の”詩之本秋穂",
@@ -1481,7 +1556,8 @@
         "id": "CCS/W66-076SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-077": {
     "name": "“夢の時計”木之本桜",
@@ -1499,7 +1575,8 @@
         "id": "CCS/W66-077",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-078": {
     "name": "“良き助言者”月",
@@ -1517,7 +1594,8 @@
         "id": "CCS/W66-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-079": {
     "name": "“カエルさんコスチューム”木之本桜",
@@ -1539,7 +1617,8 @@
         "id": "CCS/W66-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-080": {
     "name": "“恋する”詩之本秋穂",
@@ -1561,7 +1640,8 @@
         "id": "CCS/W66-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-081": {
     "name": "“廻る歯車”フードの少女",
@@ -1579,7 +1659,8 @@
         "id": "CCS/W66-081",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-082": {
     "name": "“似ているふたり”桜＆秋穂",
@@ -1597,7 +1678,8 @@
         "id": "CCS/W66-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-083": {
     "name": "“初めての授業”詩之本秋穂",
@@ -1615,7 +1697,8 @@
         "id": "CCS/W66-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-084": {
     "name": "“ずっといっしょ”モモ",
@@ -1633,7 +1716,8 @@
         "id": "CCS/W66-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-085": {
     "name": "“英国のお友達”柊沢エリオル",
@@ -1651,7 +1735,8 @@
         "id": "CCS/W66-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-086": {
     "name": "“不思議な夢”詩之本秋穂",
@@ -1669,7 +1754,8 @@
         "id": "CCS/W66-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-087": {
     "name": "“冷静な瞳”スッピー",
@@ -1687,7 +1773,8 @@
         "id": "CCS/W66-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-088": {
     "name": "“深夜の来訪”月",
@@ -1705,7 +1792,8 @@
         "id": "CCS/W66-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-089": {
     "name": "“とろける”木之本桜",
@@ -1723,7 +1811,8 @@
         "id": "CCS/W66-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-090": {
     "name": "“微笑む”月城雪兎",
@@ -1741,7 +1830,8 @@
         "id": "CCS/W66-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-091": {
     "name": "“新しいお友達”木之本桜",
@@ -1759,7 +1849,8 @@
         "id": "CCS/W66-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-092": {
     "name": "“少しずつ進む夢”詩之本秋穂",
@@ -1777,7 +1868,8 @@
         "id": "CCS/W66-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-093": {
     "name": "“優しい”月城雪兎",
@@ -1795,7 +1887,8 @@
         "id": "CCS/W66-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-094": {
     "name": "“みんなでお花見”木之本桜",
@@ -1813,7 +1906,8 @@
         "id": "CCS/W66-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-095": {
     "name": "“不思議な夢の”フードの少女",
@@ -1831,7 +1925,8 @@
         "id": "CCS/W66-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-096": {
     "name": "固着",
@@ -1849,7 +1944,8 @@
         "id": "CCS/W66-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-097": {
     "name": "廻る歯車",
@@ -1867,7 +1963,8 @@
         "id": "CCS/W66-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-098": {
     "name": "夢での邂逅",
@@ -1889,7 +1986,8 @@
         "id": "CCS/W66-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W66-099": {
     "name": "禁忌の魔法",
@@ -1911,7 +2009,8 @@
         "id": "CCS/W66-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W66-100": {
     "name": "正反対の二人",
@@ -1933,6 +2032,7 @@
         "id": "CCS/W66-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

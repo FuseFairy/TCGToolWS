@@ -23,7 +23,8 @@
         "id": "Fks/W120-002SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fks/W120-005": {
     "name": "秘めた野望 アリスリーゼ",
@@ -49,7 +50,8 @@
         "id": "Fks/W120-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fks/W120-015": {
     "name": "魔性の第1王女 イリーティア",
@@ -71,7 +73,8 @@
         "id": "Fks/W120-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fks/W120-016": {
     "name": "わたしの好敵手 アリスリーゼ",
@@ -97,7 +100,8 @@
         "id": "Fks/W120-016SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fks/W120-020": {
     "name": "始祖の血脈 アリスリーゼ",
@@ -119,7 +123,8 @@
         "id": "Fks/W120-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fks/W120-023": {
     "name": "狙われた第3王女 シスベル",
@@ -141,7 +146,8 @@
         "id": "Fks/W120-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fks/W120-029": {
     "name": "第九〇七部隊隊長 ミスミス",
@@ -163,7 +169,8 @@
         "id": "Fks/W120-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fks/W120-030": {
     "name": "侍女にして護衛 燐",
@@ -185,7 +192,8 @@
         "id": "Fks/W120-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fks/W120-036": {
     "name": "止まないときめき",
@@ -207,6 +215,7 @@
         "id": "Fks/W120-036R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

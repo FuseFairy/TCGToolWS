@@ -19,7 +19,8 @@
         "id": "LHS/W122-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LHS/W122-T02": {
     "name": "レインボーシフォン 安養寺 姫芽",
@@ -45,7 +46,8 @@
         "id": "LHS/W122-T02SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LHS/W122-T03": {
     "name": "レインボーシフォン 乙宗 梢",
@@ -71,7 +73,8 @@
         "id": "LHS/W122-T03SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LHS/W122-T04": {
     "name": "レインボーシフォン 大沢 瑠璃乃",
@@ -97,7 +100,8 @@
         "id": "LHS/W122-T04SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LHS/W122-T05": {
     "name": "レインボーシフォン 日野下 花帆",
@@ -127,7 +131,8 @@
         "id": "LHS/W122-T05SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LHS/W122-T06": {
     "name": "アイデンティティ 藤島 慈",
@@ -149,7 +154,8 @@
         "id": "LHS/W122-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LHS/W122-T07": {
     "name": "レインボーシフォン 藤島 慈",
@@ -175,7 +181,8 @@
         "id": "LHS/W122-T07SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LHS/W122-T08": {
     "name": "レインボーシフォン 百生 吟子",
@@ -201,7 +208,8 @@
         "id": "LHS/W122-T08SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LHS/W122-T09": {
     "name": "私立蓮ノ空女学院",
@@ -223,7 +231,8 @@
         "id": "LHS/W122-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LHS/W122-T10": {
     "name": "フォーチュンムービー",
@@ -245,7 +254,8 @@
         "id": "LHS/W122-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LHS/W122-T11": {
     "name": "Reflection in the mirror 日野下 花帆",
@@ -267,7 +277,8 @@
         "id": "LHS/W122-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LHS/W122-T12": {
     "name": "レインボーシフォン 夕霧 綴理",
@@ -293,7 +304,8 @@
         "id": "LHS/W122-T12SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LHS/W122-T13": {
     "name": "Sparkly Spot 村野 さやか",
@@ -315,7 +327,8 @@
         "id": "LHS/W122-T13R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LHS/W122-T14": {
     "name": "レインボーシフォン 徒町 小鈴",
@@ -341,7 +354,8 @@
         "id": "LHS/W122-T14SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LHS/W122-T15": {
     "name": "Reflection in the mirror 乙宗 梢",
@@ -363,7 +377,8 @@
         "id": "LHS/W122-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LHS/W122-T16": {
     "name": "Sparkly Spot 夕霧 綴理",
@@ -385,7 +400,8 @@
         "id": "LHS/W122-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LHS/W122-T17": {
     "name": "レインボーシフォン 村野 さやか",
@@ -411,7 +427,8 @@
         "id": "LHS/W122-T17SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LHS/W122-T18": {
     "name": "ツキマカセ",
@@ -433,7 +450,8 @@
         "id": "LHS/W122-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LHS/W122-T19": {
     "name": "Link to the FUTURE",
@@ -455,6 +473,7 @@
         "id": "LHS/W122-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

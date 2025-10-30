@@ -15,7 +15,8 @@
         "id": "KR/SE30-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KR/SE30-51": {
     "name": "六道 りんね",
@@ -33,7 +34,8 @@
         "id": "KR/SE30-51",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KR/SE30-52": {
     "name": "“遊園地デート”桜",
@@ -51,7 +53,8 @@
         "id": "KR/SE30-52",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KR/SE30-53": {
     "name": "“浄霊＜デート”翼",
@@ -69,7 +72,8 @@
         "id": "KR/SE30-53",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KR/SE30-54": {
     "name": "“サポート役”六文",
@@ -87,7 +91,8 @@
         "id": "KR/SE30-54",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KR/SE30-55": {
     "name": "“だまされやすい性格”鳳",
@@ -105,7 +110,8 @@
         "id": "KR/SE30-55",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KR/SE30-56": {
     "name": "怒りの架印",
@@ -123,7 +129,8 @@
         "id": "KR/SE30-56",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KR/SE30-57": {
     "name": "トイレの花子さん",
@@ -141,7 +148,8 @@
         "id": "KR/SE30-57",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KR/SE30-58": {
     "name": "“霊体クラッカー”だまし神",
@@ -159,6 +167,7 @@
         "id": "KR/SE30-58",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

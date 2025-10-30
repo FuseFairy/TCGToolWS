@@ -19,7 +19,8 @@
         "id": "BD/WE32-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE32-P02": {
     "name": "“リクエストは？”レイヤ",
@@ -41,7 +42,8 @@
         "id": "BD/WE32-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE32-P03": {
     "name": "“さあ、行こう！”美竹蘭",
@@ -63,7 +65,8 @@
         "id": "BD/WE32-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE32-P04": {
     "name": "“さあ、行こう！”丸山彩",
@@ -85,7 +88,8 @@
         "id": "BD/WE32-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE32-P05": {
     "name": "“さあ、行こう！”戸山香澄",
@@ -107,7 +111,8 @@
         "id": "BD/WE32-P05S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE32-P06": {
     "name": "“さあ、行こう！”湊友希那",
@@ -129,7 +134,8 @@
         "id": "BD/WE32-P06S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE32-P07": {
     "name": "“さあ、行こう！”倉田ましろ",
@@ -151,7 +157,8 @@
         "id": "BD/WE32-P07S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE32-P08": {
     "name": "“Present for you！”丸山彩",
@@ -169,7 +176,8 @@
         "id": "BD/WE32-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE32-P09": {
     "name": "“Present for you！”弦巻こころ",
@@ -187,7 +195,8 @@
         "id": "BD/WE32-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE32-P10": {
     "name": "“Present for you！”美竹蘭",
@@ -205,7 +214,8 @@
         "id": "BD/WE32-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE32-P11": {
     "name": "“Present for you！”レイヤ",
@@ -223,7 +233,8 @@
         "id": "BD/WE32-P11",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE32-P12": {
     "name": "“Present for you！”戸山香澄",
@@ -241,7 +252,8 @@
         "id": "BD/WE32-P12",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE32-P13": {
     "name": "“Present for you！”湊友希那",
@@ -259,7 +271,8 @@
         "id": "BD/WE32-P13",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE32-P14": {
     "name": "“Present for you！”倉田ましろ",
@@ -277,6 +290,7 @@
         "id": "BD/WE32-P14",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

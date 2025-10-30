@@ -23,7 +23,8 @@
         "id": "Fsp/W120-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsp/W120-004": {
     "name": "《氷刃》のモニカ",
@@ -49,7 +50,8 @@
         "id": "Fsp/W120-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fsp/W120-010": {
     "name": "《花園》のリリィ",
@@ -75,7 +77,8 @@
         "id": "Fsp/W120-010SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsp/W120-011": {
     "name": "《忘我》のアネット",
@@ -97,7 +100,8 @@
         "id": "Fsp/W120-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fsp/W120-013": {
     "name": "《夢語》のティア",
@@ -119,7 +123,8 @@
         "id": "Fsp/W120-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsp/W120-014": {
     "name": "《百鬼》のジビア",
@@ -141,7 +146,8 @@
         "id": "Fsp/W120-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsp/W120-017": {
     "name": "少女悪戯中…？ アネット",
@@ -163,7 +169,8 @@
         "id": "Fsp/W120-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fsp/W120-019": {
     "name": "チーム『灯』 クラウス＆リリィ",
@@ -189,7 +196,8 @@
         "id": "Fsp/W120-019SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fsp/W120-024": {
     "name": "《草原》のサラ",
@@ -211,7 +219,8 @@
         "id": "Fsp/W120-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsp/W120-027": {
     "name": "《愛娘》のグレーテ",
@@ -233,7 +242,8 @@
         "id": "Fsp/W120-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsp/W120-033": {
     "name": "少女誘惑中♥",
@@ -255,7 +265,8 @@
         "id": "Fsp/W120-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsp/W120-035": {
     "name": "少女交戦中",
@@ -277,7 +288,8 @@
         "id": "Fsp/W120-035R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsp/W120-037": {
     "name": "少女任務中",
@@ -299,6 +311,7 @@
         "id": "Fsp/W120-037R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

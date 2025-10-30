@@ -15,7 +15,8 @@
         "id": "GST/SE22-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GST/SE22-02": {
     "name": "勝気な少女 ミル子",
@@ -33,7 +34,8 @@
         "id": "GST/SE22-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GST/SE22-03": {
     "name": "ツンデレ美少女 ミル子",
@@ -55,7 +57,8 @@
         "id": "GST/SE22-03SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GST/SE22-04": {
     "name": "ギガント大好き つかさ",
@@ -77,7 +80,8 @@
         "id": "GST/SE22-04SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GST/SE22-05": {
     "name": "麗しき水の女神 ミル子",
@@ -95,7 +99,8 @@
         "id": "GST/SE22-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GST/SE22-06": {
     "name": "意外な実力者 つかさの母",
@@ -113,7 +118,8 @@
         "id": "GST/SE22-06",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GST/SE22-07": {
     "name": "夢のための勝利 ミル子",
@@ -131,7 +137,8 @@
         "id": "GST/SE22-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GST/SE22-08": {
     "name": "行方不明中 つかさの父",
@@ -149,7 +156,8 @@
         "id": "GST/SE22-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GST/SE22-09": {
     "name": "キングメンガーを探すつかさ",
@@ -167,7 +175,8 @@
         "id": "GST/SE22-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GST/SE22-10": {
     "name": "燃え盛る炎の落とし子 つかさ",
@@ -185,7 +194,8 @@
         "id": "GST/SE22-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GST/SE22-11": {
     "name": "ギャラクティカドラゴン",
@@ -203,7 +213,8 @@
         "id": "GST/SE22-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GST/SE22-12": {
     "name": "シャリシャリウォーターカッター",
@@ -221,7 +232,8 @@
         "id": "GST/SE22-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GST/SE22-13": {
     "name": "つかさを慕うマナブ",
@@ -243,7 +255,8 @@
         "id": "GST/SE22-13SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GST/SE22-14": {
     "name": "力の片鱗 キリト",
@@ -261,7 +274,8 @@
         "id": "GST/SE22-14",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GST/SE22-15": {
     "name": "燃え尽きたあたる",
@@ -279,7 +293,8 @@
         "id": "GST/SE22-15",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GST/SE22-16": {
     "name": "気合十分 マナブ",
@@ -297,7 +312,8 @@
         "id": "GST/SE22-16",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GST/SE22-17": {
     "name": "あたるの妹 ルリ",
@@ -315,7 +331,8 @@
         "id": "GST/SE22-17",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GST/SE22-18": {
     "name": "的確なツッコミ あたる",
@@ -337,7 +354,8 @@
         "id": "GST/SE22-18SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GST/SE22-19": {
     "name": "影の実力者 キリト",
@@ -355,7 +373,8 @@
         "id": "GST/SE22-19",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GST/SE22-20": {
     "name": "可憐な美少女 ルリ",
@@ -373,7 +392,8 @@
         "id": "GST/SE22-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GST/SE22-21": {
     "name": "静かな闘志 あたる",
@@ -391,7 +411,8 @@
         "id": "GST/SE22-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GST/SE22-22": {
     "name": "不良小学生",
@@ -409,7 +430,8 @@
         "id": "GST/SE22-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GST/SE22-23": {
     "name": "意味深な発言 キリト",
@@ -427,7 +449,8 @@
         "id": "GST/SE22-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GST/SE22-24": {
     "name": "深淵なる闇の奇術師 キリト",
@@ -445,7 +468,8 @@
         "id": "GST/SE22-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GST/SE22-25": {
     "name": "豊穣なる大地の申し子 あたる",
@@ -463,7 +487,8 @@
         "id": "GST/SE22-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GST/SE22-26": {
     "name": "小さな強さ ルリ",
@@ -481,7 +506,8 @@
         "id": "GST/SE22-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GST/SE22-27": {
     "name": "吹き抜ける清涼な風 マナブ",
@@ -499,7 +525,8 @@
         "id": "GST/SE22-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GST/SE22-28": {
     "name": "感涙するマナブ",
@@ -517,7 +544,8 @@
         "id": "GST/SE22-28",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GST/SE22-29": {
     "name": "シャイニンググラスホッパー",
@@ -535,7 +563,8 @@
         "id": "GST/SE22-29",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GST/SE22-30": {
     "name": "グレートバイソンインパクト",
@@ -553,6 +582,7 @@
         "id": "GST/SE22-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

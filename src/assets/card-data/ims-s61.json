@@ -23,7 +23,8 @@
         "id": "IMS/S61-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-003": {
     "name": "ピュアハート 箱崎星梨花",
@@ -49,7 +50,8 @@
         "id": "IMS/S61-003SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-004": {
     "name": "オトナの魅力 馬場このみ",
@@ -71,7 +73,8 @@
         "id": "IMS/S61-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-006": {
     "name": "あどけない仕草 大神 環",
@@ -93,7 +96,8 @@
         "id": "IMS/S61-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-007": {
     "name": "干支スタイル 木下ひなた",
@@ -115,7 +119,8 @@
         "id": "IMS/S61-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-008": {
     "name": "新年をお迎え 北上麗花",
@@ -137,7 +142,8 @@
         "id": "IMS/S61-008SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-009": {
     "name": "トリック・アンド・トリート 野々原 茜",
@@ -159,7 +165,8 @@
         "id": "IMS/S61-009SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-010": {
     "name": "想いよ届け 桜守歌織",
@@ -181,7 +188,8 @@
         "id": "IMS/S61-010SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-012": {
     "name": "サマースタイル 島原エレナ",
@@ -203,7 +211,8 @@
         "id": "IMS/S61-012SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-013": {
     "name": "とっておきの一面 豊川風花",
@@ -225,7 +234,8 @@
         "id": "IMS/S61-013SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-014": {
     "name": "波打ち際の女神 篠宮可憐",
@@ -247,7 +257,8 @@
         "id": "IMS/S61-014SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-015": {
     "name": "ロマンティック・マジック 宮尾美也",
@@ -269,7 +280,8 @@
         "id": "IMS/S61-015SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-017": {
     "name": "エンジェルボイス 伊吹 翼",
@@ -291,7 +303,8 @@
         "id": "IMS/S61-017SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-019": {
     "name": "大人エレガント 桜守歌織",
@@ -313,7 +326,8 @@
         "id": "IMS/S61-019BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-020": {
     "name": "きらめく可能性 伊吹 翼",
@@ -335,7 +349,8 @@
         "id": "IMS/S61-020BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-023": {
     "name": "わんぱく無邪気！ 大神 環",
@@ -357,7 +372,8 @@
         "id": "IMS/S61-023BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-024": {
     "name": "ふわふわスマイル 宮尾美也",
@@ -379,7 +395,8 @@
         "id": "IMS/S61-024BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-025": {
     "name": "箱入りお嬢様 箱崎星梨花",
@@ -401,7 +418,8 @@
         "id": "IMS/S61-025BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-026": {
     "name": "ビビッと変身！ 望月杏奈",
@@ -423,7 +441,8 @@
         "id": "IMS/S61-026BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-028": {
     "name": "小さな勇気 篠宮可憐",
@@ -445,7 +464,8 @@
         "id": "IMS/S61-028BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-030": {
     "name": "ナチュラル美人 北上麗花",
@@ -467,7 +487,8 @@
         "id": "IMS/S61-030BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-031": {
     "name": "フリーダムガール♪ 野々原 茜",
@@ -489,7 +510,8 @@
         "id": "IMS/S61-031BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-032": {
     "name": "サンシャイン・スマイル 島原エレナ",
@@ -511,7 +533,8 @@
         "id": "IMS/S61-032BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-034": {
     "name": "カントリーガール 木下ひなた",
@@ -533,7 +556,8 @@
         "id": "IMS/S61-034BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-035": {
     "name": "小さな最年長 馬場このみ",
@@ -555,7 +579,8 @@
         "id": "IMS/S61-035BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-036": {
     "name": "目指せ正統派！ 豊川風花",
@@ -577,7 +602,8 @@
         "id": "IMS/S61-036BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-037": {
     "name": "フラスタ",
@@ -603,7 +629,8 @@
         "id": "IMS/S61-037BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-038": {
     "name": "覚醒アイテム～Angel～",
@@ -625,7 +652,8 @@
         "id": "IMS/S61-038BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-040": {
     "name": "ドリームトラベラー",
@@ -647,7 +675,8 @@
         "id": "IMS/S61-040R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-041": {
     "name": "花ざかりWeekend✿",
@@ -669,7 +698,8 @@
         "id": "IMS/S61-041R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-042": {
     "name": "虹色letters",
@@ -691,7 +721,8 @@
         "id": "IMS/S61-042R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-043": {
     "name": "STANDING ALIVE",
@@ -713,7 +744,8 @@
         "id": "IMS/S61-043R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IMS/S61-046": {
     "name": "海まで一緒に 高坂海美",
@@ -735,7 +767,8 @@
         "id": "IMS/S61-046SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-047": {
     "name": "スノー・プリンセス 徳川まつり",
@@ -761,7 +794,8 @@
         "id": "IMS/S61-047SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-048": {
     "name": "新しい自分へ 田中琴葉",
@@ -787,7 +821,8 @@
         "id": "IMS/S61-048SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-049": {
     "name": "ずっとそばに 高山紗代子",
@@ -809,7 +844,8 @@
         "id": "IMS/S61-049SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-051": {
     "name": "わくわく温泉郷 横山奈緒",
@@ -831,7 +867,8 @@
         "id": "IMS/S61-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-052": {
     "name": "みんなで一緒に！ 春日未来",
@@ -853,7 +890,8 @@
         "id": "IMS/S61-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-053": {
     "name": "心つなぐ味わい エミリー",
@@ -875,7 +913,8 @@
         "id": "IMS/S61-053SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-054": {
     "name": "大盛りスマイル 佐竹美奈子",
@@ -897,7 +936,8 @@
         "id": "IMS/S61-054SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-056": {
     "name": "いっしょに夏祭り 中谷 育",
@@ -919,7 +959,8 @@
         "id": "IMS/S61-056SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-057": {
     "name": "一緒に応援！ 福田のり子",
@@ -941,7 +982,8 @@
         "id": "IMS/S61-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-058": {
     "name": "心からの願い 矢吹可奈",
@@ -963,7 +1005,8 @@
         "id": "IMS/S61-058SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-059": {
     "name": "レッツチャレンジ 松田亜利沙",
@@ -985,7 +1028,8 @@
         "id": "IMS/S61-059SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-060": {
     "name": "星空の下で 七尾百合子",
@@ -1007,7 +1051,8 @@
         "id": "IMS/S61-060SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-062": {
     "name": "おもてなしガール 佐竹美奈子",
@@ -1029,7 +1074,8 @@
         "id": "IMS/S61-062BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-063": {
     "name": "優等生アイドル 田中琴葉",
@@ -1051,7 +1097,8 @@
         "id": "IMS/S61-063BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-064": {
     "name": "かわいく背伸び 中谷 育",
@@ -1073,7 +1120,8 @@
         "id": "IMS/S61-064BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-065": {
     "name": "夢見る読書少女 七尾百合子",
@@ -1095,7 +1143,8 @@
         "id": "IMS/S61-065BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-066": {
     "name": "わんだほーお姫様 徳川まつり",
@@ -1117,7 +1166,8 @@
         "id": "IMS/S61-066BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-067": {
     "name": "歌が大好き 矢吹可奈",
@@ -1139,7 +1189,8 @@
         "id": "IMS/S61-067BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-068": {
     "name": "スポーティ少女 高坂海美",
@@ -1161,7 +1212,8 @@
         "id": "IMS/S61-068BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-070": {
     "name": "アクティブガール 福田のり子",
@@ -1183,7 +1235,8 @@
         "id": "IMS/S61-070BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-072": {
     "name": "燃える努力家 高山紗代子",
@@ -1205,7 +1258,8 @@
         "id": "IMS/S61-072BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-073": {
     "name": "アイドル大好き 松田亜利沙",
@@ -1227,7 +1281,8 @@
         "id": "IMS/S61-073BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-074": {
     "name": "まっすぐ前向き！ 春日未来",
@@ -1249,7 +1304,8 @@
         "id": "IMS/S61-074BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-076": {
     "name": "雅な英国少女 エミリー",
@@ -1271,7 +1327,8 @@
         "id": "IMS/S61-076BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-078": {
     "name": "はつらつ関西娘 横山奈緒",
@@ -1293,7 +1350,8 @@
         "id": "IMS/S61-078BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-079": {
     "name": "スパークドリンク",
@@ -1315,7 +1373,8 @@
         "id": "IMS/S61-079BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-080": {
     "name": "覚醒アイテム～Princess～",
@@ -1337,7 +1396,8 @@
         "id": "IMS/S61-080BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-082": {
     "name": "ジレるハートに火をつけて",
@@ -1359,7 +1419,8 @@
         "id": "IMS/S61-082R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-084": {
     "name": "ZETTAI × BREAK!! トゥインクルリズム",
@@ -1381,7 +1442,8 @@
         "id": "IMS/S61-084R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-085": {
     "name": "Growing Storm!",
@@ -1403,7 +1465,8 @@
         "id": "IMS/S61-085R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-086": {
     "name": "咲くは浮世の君花火",
@@ -1425,7 +1488,8 @@
         "id": "IMS/S61-086R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IMS/S61-088": {
     "name": "はにかみウェディング 所 恵美",
@@ -1447,7 +1511,8 @@
         "id": "IMS/S61-088SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-089": {
     "name": "クリスマスの贈り物 真壁瑞希",
@@ -1469,7 +1534,8 @@
         "id": "IMS/S61-089SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-090": {
     "name": "誘惑テクニック 百瀬莉緒",
@@ -1495,7 +1561,8 @@
         "id": "IMS/S61-090SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-092": {
     "name": "作り上げたステージ 最上静香",
@@ -1517,7 +1584,8 @@
         "id": "IMS/S61-092SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-093": {
     "name": "全力の舞台 舞浜 歩",
@@ -1539,7 +1607,8 @@
         "id": "IMS/S61-093SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-094": {
     "name": "ハロー！ニューエイジ ロコ",
@@ -1561,7 +1630,8 @@
         "id": "IMS/S61-094SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-095": {
     "name": "ドキドキ・テーマパーク 永吉 昴",
@@ -1583,7 +1653,8 @@
         "id": "IMS/S61-095SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-097": {
     "name": "乗馬の心得 二階堂千鶴",
@@ -1605,7 +1676,8 @@
         "id": "IMS/S61-097SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-099": {
     "name": "動き出した夢 白石 紬",
@@ -1627,7 +1699,8 @@
         "id": "IMS/S61-099SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-100": {
     "name": "特別な時間 天空橋朋花",
@@ -1649,7 +1722,8 @@
         "id": "IMS/S61-100SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-102": {
     "name": "積み重ねた想い 北沢志保",
@@ -1671,7 +1745,8 @@
         "id": "IMS/S61-102SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-103": {
     "name": "新年の誓い ジュリア",
@@ -1693,7 +1768,8 @@
         "id": "IMS/S61-103SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-104": {
     "name": "みんなでパーティ 周防桃子",
@@ -1715,7 +1791,8 @@
         "id": "IMS/S61-104SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-107": {
     "name": "ロッキンアイドル ジュリア",
@@ -1737,7 +1814,8 @@
         "id": "IMS/S61-107BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-109": {
     "name": "ひたむきな少女 最上静香",
@@ -1759,7 +1837,8 @@
         "id": "IMS/S61-109BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-110": {
     "name": "クール・ストイック 北沢志保",
@@ -1781,7 +1860,8 @@
         "id": "IMS/S61-110BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-112": {
     "name": "セクシーお姉さん 百瀬莉緒",
@@ -1803,7 +1883,8 @@
         "id": "IMS/S61-112BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-113": {
     "name": "慈愛の聖母 天空橋朋花",
@@ -1825,7 +1906,8 @@
         "id": "IMS/S61-113BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-114": {
     "name": "ファンタスティックガール ロコ",
@@ -1847,7 +1929,8 @@
         "id": "IMS/S61-114BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-115": {
     "name": "可愛い先輩 周防桃子",
@@ -1869,7 +1952,8 @@
         "id": "IMS/S61-115BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-116": {
     "name": "セレブのたたずまい 二階堂千鶴",
@@ -1891,7 +1975,8 @@
         "id": "IMS/S61-116BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-117": {
     "name": "ダンシングスター！ 舞浜 歩",
@@ -1913,7 +1998,8 @@
         "id": "IMS/S61-117BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-118": {
     "name": "ベースボールガール 永吉 昴",
@@ -1935,7 +2021,8 @@
         "id": "IMS/S61-118BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-119": {
     "name": "生真面目少女 白石 紬",
@@ -1957,7 +2044,8 @@
         "id": "IMS/S61-119BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-120": {
     "name": "いまどき女子高生 所 恵美",
@@ -1979,7 +2067,8 @@
         "id": "IMS/S61-120BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-121": {
     "name": "マイペース少女 真壁瑞希",
@@ -2001,7 +2090,8 @@
         "id": "IMS/S61-121BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-122": {
     "name": "レッスンチケット",
@@ -2023,7 +2113,8 @@
         "id": "IMS/S61-122BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-123": {
     "name": "覚醒アイテム～Fairy～",
@@ -2045,7 +2136,8 @@
         "id": "IMS/S61-123BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-125": {
     "name": "Shooting Stars",
@@ -2067,7 +2159,8 @@
         "id": "IMS/S61-125R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-126": {
     "name": "昏き星、遠い月",
@@ -2089,7 +2182,8 @@
         "id": "IMS/S61-126R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-127": {
     "name": "Melty Fantasia",
@@ -2111,6 +2205,7 @@
         "id": "IMS/S61-127R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

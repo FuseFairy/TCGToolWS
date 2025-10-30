@@ -19,7 +19,8 @@
         "id": "OSK/S107-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-002": {
     "name": "恋に落ちた瞬間 有馬かな",
@@ -41,7 +42,8 @@
         "id": "OSK/S107-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-003": {
     "name": "“B小町”MEMちょ",
@@ -63,7 +65,8 @@
         "id": "OSK/S107-003SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-004": {
     "name": "“B小町”有馬かな",
@@ -85,7 +88,8 @@
         "id": "OSK/S107-004SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-005": {
     "name": "出演交渉 有馬かな",
@@ -107,7 +111,8 @@
         "id": "OSK/S107-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-006": {
     "name": "憧れのアイドルを目指して ルビー",
@@ -129,7 +134,8 @@
         "id": "OSK/S107-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-007": {
     "name": "新人アイドル 有馬かな",
@@ -151,7 +157,8 @@
         "id": "OSK/S107-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-008": {
     "name": "夢をもう一度 MEMちょ",
@@ -173,7 +180,8 @@
         "id": "OSK/S107-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-009": {
     "name": "年齢詐称 MEMちょ",
@@ -195,7 +203,8 @@
         "id": "OSK/S107-009SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-010": {
     "name": "JIFへの道 MEMちょ",
@@ -217,7 +226,8 @@
         "id": "OSK/S107-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-011": {
     "name": "白く眩しい光 有馬かな",
@@ -239,7 +249,8 @@
         "id": "OSK/S107-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-012": {
     "name": "かわいくポーズ♪ MEMちょ",
@@ -261,7 +272,8 @@
         "id": "OSK/S107-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-013": {
     "name": "PV撮影 有馬かな",
@@ -283,7 +295,8 @@
         "id": "OSK/S107-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-014": {
     "name": "本番前 ルビー",
@@ -305,7 +318,8 @@
         "id": "OSK/S107-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-015": {
     "name": "夢見る少女 MEMちょ",
@@ -327,7 +341,8 @@
         "id": "OSK/S107-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-016": {
     "name": "覆面筋トレ系ユーチューバー ぴえヨン",
@@ -365,7 +380,8 @@
         "id": "OSK/S107-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-017": {
     "name": "夢のような話 MEMちょ",
@@ -387,7 +403,8 @@
         "id": "OSK/S107-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-018": {
     "name": "センター争奪戦 ルビー",
@@ -409,7 +426,8 @@
         "id": "OSK/S107-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-019": {
     "name": "揺れ動く乙女心 有馬かな",
@@ -431,7 +449,8 @@
         "id": "OSK/S107-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-020": {
     "name": "バズらせのプロ MEMちょ",
@@ -453,7 +472,8 @@
         "id": "OSK/S107-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-021": {
     "name": "カラオケ ルビー",
@@ -475,7 +495,8 @@
         "id": "OSK/S107-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-022": {
     "name": "初めて、一番最初 有馬かな",
@@ -497,7 +518,8 @@
         "id": "OSK/S107-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-023": {
     "name": "メンバー探し ルビー",
@@ -519,7 +541,8 @@
         "id": "OSK/S107-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-024": {
     "name": "私を見てくれる人 有馬かな",
@@ -541,7 +564,8 @@
         "id": "OSK/S107-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-025": {
     "name": "推し語り ルビー",
@@ -563,7 +587,8 @@
         "id": "OSK/S107-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-026": {
     "name": "カラオケ MEMちょ",
@@ -585,7 +610,8 @@
         "id": "OSK/S107-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-027": {
     "name": "好みのタイプは？ MEMちょ",
@@ -607,7 +633,8 @@
         "id": "OSK/S107-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-028": {
     "name": "露骨な態度 有馬かな",
@@ -629,7 +656,8 @@
         "id": "OSK/S107-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-029": {
     "name": "ファーストステージ",
@@ -651,7 +679,8 @@
         "id": "OSK/S107-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-030": {
     "name": "その視線の先に",
@@ -673,7 +702,8 @@
         "id": "OSK/S107-030OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-031": {
     "name": "今日は甘口で",
@@ -695,7 +725,8 @@
         "id": "OSK/S107-031OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-032": {
     "name": "偽りの翼",
@@ -717,7 +748,8 @@
         "id": "OSK/S107-032OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-033": {
     "name": "バズ",
@@ -739,7 +771,8 @@
         "id": "OSK/S107-033OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-034": {
     "name": "“B小町”アイ",
@@ -761,7 +794,8 @@
         "id": "OSK/S107-034SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-035": {
     "name": "暗闇の、その先へ アクア",
@@ -783,7 +817,8 @@
         "id": "OSK/S107-035SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-036": {
     "name": "輝くステージへ ルビー",
@@ -805,7 +840,8 @@
         "id": "OSK/S107-036SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-037": {
     "name": "ぴえヨンの正体 アクア",
@@ -827,7 +863,8 @@
         "id": "OSK/S107-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-038": {
     "name": "水着ショット アイ",
@@ -849,7 +886,8 @@
         "id": "OSK/S107-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-039": {
     "name": "地下アイドルデビュー？ ルビー",
@@ -871,7 +909,8 @@
         "id": "OSK/S107-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-040": {
     "name": "箱推し アクア",
@@ -893,7 +932,8 @@
         "id": "OSK/S107-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-041": {
     "name": "初めて、一番最初 アクア",
@@ -915,7 +955,8 @@
         "id": "OSK/S107-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-042": {
     "name": "恩返しのために 黒川あかね",
@@ -937,7 +978,8 @@
         "id": "OSK/S107-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-043": {
     "name": "担当カラー決め ルビー",
@@ -959,7 +1001,8 @@
         "id": "OSK/S107-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-044": {
     "name": "吸い寄せられる天性の瞳 アイ",
@@ -981,7 +1024,8 @@
         "id": "OSK/S107-044SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-045": {
     "name": "伝説のアイドル アイ",
@@ -1003,7 +1047,8 @@
         "id": "OSK/S107-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-046": {
     "name": "すれ違う気持ち アクア",
@@ -1025,7 +1070,8 @@
         "id": "OSK/S107-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-047": {
     "name": "自称アイドル ルビー",
@@ -1047,7 +1093,8 @@
         "id": "OSK/S107-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-048": {
     "name": "花火イベント 黒川あかね",
@@ -1069,7 +1116,8 @@
         "id": "OSK/S107-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-049": {
     "name": "今後の関係 黒川あかね",
@@ -1091,7 +1139,8 @@
         "id": "OSK/S107-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-050": {
     "name": "悪役 アクア",
@@ -1113,7 +1162,8 @@
         "id": "OSK/S107-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-051": {
     "name": "モデルのお仕事 アイ",
@@ -1135,7 +1185,8 @@
         "id": "OSK/S107-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-052": {
     "name": "ドラマ視聴 ルビー",
@@ -1157,7 +1208,8 @@
         "id": "OSK/S107-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-053": {
     "name": "稽古中 黒川あかね",
@@ -1179,7 +1231,8 @@
         "id": "OSK/S107-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-054": {
     "name": "広報活動 斉藤ミヤコ",
@@ -1201,7 +1254,8 @@
         "id": "OSK/S107-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-055": {
     "name": "引き抜き ルビー",
@@ -1223,7 +1277,8 @@
         "id": "OSK/S107-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-056": {
     "name": "レッスン中 ルビー",
@@ -1245,7 +1300,8 @@
         "id": "OSK/S107-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-057": {
     "name": "取り戻した光 黒川あかね",
@@ -1267,7 +1323,8 @@
         "id": "OSK/S107-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-058": {
     "name": "“45510”アクア",
@@ -1289,7 +1346,8 @@
         "id": "OSK/S107-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-059": {
     "name": "ネットリテラシー ルビー",
@@ -1311,7 +1369,8 @@
         "id": "OSK/S107-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-060": {
     "name": "タチの悪い勧誘 アクア",
@@ -1333,7 +1392,8 @@
         "id": "OSK/S107-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-061": {
     "name": "遺された言葉",
@@ -1355,7 +1415,8 @@
         "id": "OSK/S107-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-062": {
     "name": "秘めた熱情",
@@ -1377,7 +1438,8 @@
         "id": "OSK/S107-062OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-063": {
     "name": "誰よりも強く輝く一番星",
@@ -1399,7 +1461,8 @@
         "id": "OSK/S107-063OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-064": {
     "name": "2度目の高校デビュー",
@@ -1421,7 +1484,8 @@
         "id": "OSK/S107-064OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-065": {
     "name": "漫画原作ドラマ",
@@ -1443,7 +1507,8 @@
         "id": "OSK/S107-065OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-066": {
     "name": "演技に込める想い 黒川あかね",
@@ -1465,7 +1530,8 @@
         "id": "OSK/S107-066SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-067": {
     "name": "復讐の仮面 アクア",
@@ -1487,7 +1553,8 @@
         "id": "OSK/S107-067SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-068": {
     "name": "完璧なトレース 黒川あかね",
@@ -1509,7 +1576,8 @@
         "id": "OSK/S107-068SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-069": {
     "name": "大逆転 MEMちょ",
@@ -1531,7 +1599,8 @@
         "id": "OSK/S107-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-070": {
     "name": "ピーマン体操 有馬かな",
@@ -1553,7 +1622,8 @@
         "id": "OSK/S107-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-071": {
     "name": "お仕事デート 黒川あかね",
@@ -1575,7 +1645,8 @@
         "id": "OSK/S107-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-072": {
     "name": "魅惑の瞳 アクア",
@@ -1597,7 +1668,8 @@
         "id": "OSK/S107-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-073": {
     "name": "天才を超えるために 黒川あかね",
@@ -1619,7 +1691,8 @@
         "id": "OSK/S107-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-074": {
     "name": "プロファイリング 黒川あかね",
@@ -1641,7 +1714,8 @@
         "id": "OSK/S107-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-075": {
     "name": "真の目的 アクア",
@@ -1663,7 +1737,8 @@
         "id": "OSK/S107-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-076": {
     "name": "キラキラ陽キャ アクア",
@@ -1685,7 +1760,8 @@
         "id": "OSK/S107-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-077": {
     "name": "再共演 黒川あかね",
@@ -1707,7 +1783,8 @@
         "id": "OSK/S107-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-078": {
     "name": "炎上対策 有馬かな",
@@ -1729,7 +1806,8 @@
         "id": "OSK/S107-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-079": {
     "name": "目立つ為の努力 黒川あかね",
@@ -1751,7 +1829,8 @@
         "id": "OSK/S107-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-080": {
     "name": "エゴサーチ 有馬かな",
@@ -1773,7 +1852,8 @@
         "id": "OSK/S107-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-081": {
     "name": "お仕事デート アクア",
@@ -1795,7 +1875,8 @@
         "id": "OSK/S107-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-082": {
     "name": "犬猿の仲? 有馬かな",
@@ -1817,7 +1898,8 @@
         "id": "OSK/S107-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-083": {
     "name": "犬猿の仲? 黒川あかね",
@@ -1839,7 +1921,8 @@
         "id": "OSK/S107-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-084": {
     "name": "打ち上げ アクア",
@@ -1861,7 +1944,8 @@
         "id": "OSK/S107-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-085": {
     "name": "大人の役目 アクア",
@@ -1883,7 +1967,8 @@
         "id": "OSK/S107-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-086": {
     "name": "重曹を舐める天才子役 有馬かな",
@@ -1905,7 +1990,8 @@
         "id": "OSK/S107-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-087": {
     "name": "売れっ子ユーチューバー MEMちょ",
@@ -1927,7 +2013,8 @@
         "id": "OSK/S107-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-088": {
     "name": "映画監督 五反田泰志",
@@ -1949,7 +2036,8 @@
         "id": "OSK/S107-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-089": {
     "name": "混乱 MEMちょ",
@@ -1971,7 +2059,8 @@
         "id": "OSK/S107-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-090": {
     "name": "恋バナ 鷲見ゆき",
@@ -1993,7 +2082,8 @@
         "id": "OSK/S107-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-091": {
     "name": "すべてを惹きつける魅力 黒川あかね",
@@ -2015,7 +2105,8 @@
         "id": "OSK/S107-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-092": {
     "name": "ドン引き MEMちょ",
@@ -2037,7 +2128,8 @@
         "id": "OSK/S107-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-093": {
     "name": "メモ魔 黒川あかね",
@@ -2059,7 +2151,8 @@
         "id": "OSK/S107-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-094": {
     "name": "本日の主役 MEMちょ",
@@ -2081,7 +2174,8 @@
         "id": "OSK/S107-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-095": {
     "name": "大根役者 鳴嶋メルト",
@@ -2103,7 +2197,8 @@
         "id": "OSK/S107-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-096": {
     "name": "私達目線の今ガチ",
@@ -2125,7 +2220,8 @@
         "id": "OSK/S107-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-097": {
     "name": "真実の行方",
@@ -2147,7 +2243,8 @@
         "id": "OSK/S107-097OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-098": {
     "name": "徹底した役作り",
@@ -2169,7 +2266,8 @@
         "id": "OSK/S107-098OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-099": {
     "name": "劇団ララライの天才役者",
@@ -2191,7 +2289,8 @@
         "id": "OSK/S107-099OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-100": {
     "name": "打算と策略のキスシーン",
@@ -2213,6 +2312,7 @@
         "id": "OSK/S107-100OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

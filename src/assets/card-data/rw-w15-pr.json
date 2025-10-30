@@ -15,7 +15,8 @@
         "id": "RW/W15-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-112": {
     "name": "“自分の存在意義”ルチア",
@@ -33,7 +34,8 @@
         "id": "RW/W15-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-113": {
     "name": "“お気に入りの場所”静流",
@@ -51,7 +53,8 @@
         "id": "RW/W15-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-114": {
     "name": "“深遠なる魔術”朱音",
@@ -69,7 +72,8 @@
         "id": "RW/W15-114",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-115": {
     "name": "“明るい笑顔”ちはや",
@@ -87,7 +91,8 @@
         "id": "RW/W15-115",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-116": {
     "name": "“楽しい気分”小鳥",
@@ -105,7 +110,8 @@
         "id": "RW/W15-116",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-117": {
     "name": "“星の化身”篝",
@@ -123,7 +129,8 @@
         "id": "RW/W15-117",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-118": {
     "name": "“午後の陽光”朱音",
@@ -141,7 +148,8 @@
         "id": "RW/W15-118",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-119": {
     "name": "ネコミミ 静流",
@@ -159,7 +167,8 @@
         "id": "RW/W15-119",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-120": {
     "name": "“命の回廊”篝",
@@ -177,7 +186,8 @@
         "id": "RW/W15-120",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-121": {
     "name": "懐かしい感じ 小鳥",
@@ -195,7 +205,8 @@
         "id": "RW/W15-121",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-122": {
     "name": "春の訪れ 瑚太朗＆小鳥",
@@ -213,7 +224,8 @@
         "id": "RW/W15-122",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-123": {
     "name": "“風祭学院高校”小鳥",
@@ -231,7 +243,8 @@
         "id": "RW/W15-123",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-124": {
     "name": "“風祭学院高校”ちはや",
@@ -249,7 +262,8 @@
         "id": "RW/W15-124",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-125": {
     "name": "“風祭学院高校”ルチア",
@@ -267,7 +281,8 @@
         "id": "RW/W15-125",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-126": {
     "name": "“風祭学院高校”朱音",
@@ -285,7 +300,8 @@
         "id": "RW/W15-126",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-127": {
     "name": "“風祭学院高校”静流",
@@ -303,7 +319,8 @@
         "id": "RW/W15-127",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-128": {
     "name": "“謎の少女” 篝",
@@ -321,7 +338,8 @@
         "id": "RW/W15-128",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-106": {
     "name": "ちびルチア",
@@ -339,7 +357,8 @@
         "id": "RW/W15-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-107": {
     "name": "ちび静流",
@@ -357,7 +376,8 @@
         "id": "RW/W15-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-108": {
     "name": "ちび朱音",
@@ -375,7 +395,8 @@
         "id": "RW/W15-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-109": {
     "name": "ちびちはや",
@@ -393,7 +414,8 @@
         "id": "RW/W15-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-110": {
     "name": "ちび小鳥",
@@ -411,6 +433,7 @@
         "id": "RW/W15-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

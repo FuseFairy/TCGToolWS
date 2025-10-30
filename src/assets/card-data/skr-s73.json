@@ -19,7 +19,8 @@
         "id": "SKR/S73-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-002": {
     "name": "100人分身 あざみ",
@@ -41,7 +42,8 @@
         "id": "SKR/S73-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-003": {
     "name": "望月流忍者 あざみ",
@@ -63,7 +65,8 @@
         "id": "SKR/S73-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-004": {
     "name": "任務を遂行 あざみ",
@@ -81,7 +84,8 @@
         "id": "SKR/S73-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-005": {
     "name": "出撃準備完了！ あざみ",
@@ -103,7 +107,8 @@
         "id": "SKR/S73-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-006": {
     "name": "“霊子戦闘機・無限”あざみ機",
@@ -125,7 +130,8 @@
         "id": "SKR/S73-006TGR",
         "rarity": "TGR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-007": {
     "name": "倫敦の黒騎士 ランスロット",
@@ -143,7 +149,8 @@
         "id": "SKR/S73-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-008": {
     "name": "帝劇の御庭番 あざみ",
@@ -161,7 +168,8 @@
         "id": "SKR/S73-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-009": {
     "name": "騎士道精神 アーサー",
@@ -179,7 +187,8 @@
         "id": "SKR/S73-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-010": {
     "name": "特別な一日 あざみ",
@@ -197,7 +206,8 @@
         "id": "SKR/S73-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-011": {
     "name": "おまんじゅう一直線！ あざみ",
@@ -219,7 +229,8 @@
         "id": "SKR/S73-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-012": {
     "name": "倫敦華撃団“霊子戦闘機・ブリドヴェン”",
@@ -241,7 +252,8 @@
         "id": "SKR/S73-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-013": {
     "name": "“口寄せの術”八丹斎&あざみ",
@@ -259,7 +271,8 @@
         "id": "SKR/S73-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-014": {
     "name": "大興奮！ あざみ",
@@ -277,7 +290,8 @@
         "id": "SKR/S73-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-015": {
     "name": "“倫敦華撃団・円卓の騎士”団長 アーサー",
@@ -295,7 +309,8 @@
         "id": "SKR/S73-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-016": {
     "name": "甘えるあざみ",
@@ -313,7 +328,8 @@
         "id": "SKR/S73-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-017": {
     "name": "“倫敦華撃団・円卓の騎士”団員 ランスロット",
@@ -331,7 +347,8 @@
         "id": "SKR/S73-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-018": {
     "name": "本物の忍者 あざみ",
@@ -349,7 +366,8 @@
         "id": "SKR/S73-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-019": {
     "name": "Live & Interactive Picture System",
@@ -367,7 +385,8 @@
         "id": "SKR/S73-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-020": {
     "name": "これが二人の……望月流奥義!!",
@@ -389,7 +408,8 @@
         "id": "SKR/S73-020R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-021": {
     "name": "望月流忍法・無双手裏剣",
@@ -407,7 +427,8 @@
         "id": "SKR/S73-021",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-022": {
     "name": "重魔導起動！ クラリス",
@@ -429,7 +450,8 @@
         "id": "SKR/S73-022SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-023": {
     "name": "出撃準備 クラリス",
@@ -451,7 +473,8 @@
         "id": "SKR/S73-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-024": {
     "name": "お散歩クラリス",
@@ -469,7 +492,8 @@
         "id": "SKR/S73-024",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-025": {
     "name": "大胆な押し倒し クラリス",
@@ -491,7 +515,8 @@
         "id": "SKR/S73-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-026": {
     "name": "上海華撃団 “霊子戦闘機・王龍”",
@@ -513,7 +538,8 @@
         "id": "SKR/S73-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-027": {
     "name": "“霊子戦闘機・無限”クラリス機",
@@ -535,7 +561,8 @@
         "id": "SKR/S73-027TGR",
         "rarity": "TGR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-028": {
     "name": "伯林華撃団 “霊子戦闘機・アイゼンイェーガー”",
@@ -557,7 +584,8 @@
         "id": "SKR/S73-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-029": {
     "name": "図書館でのひととき クラリス",
@@ -579,7 +607,8 @@
         "id": "SKR/S73-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-030": {
     "name": "ケーキに夢中 マルガレーテ",
@@ -597,7 +626,8 @@
         "id": "SKR/S73-030",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-031": {
     "name": "炎の飯使い シャオロン",
@@ -615,7 +645,8 @@
         "id": "SKR/S73-031",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-032": {
     "name": "“伯林華撃団・シュヴァルツシュテルン”隊員 マルガレーテ",
@@ -633,7 +664,8 @@
         "id": "SKR/S73-032",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-033": {
     "name": "“上海華撃団・五神龍”隊員 ユイ",
@@ -651,7 +683,8 @@
         "id": "SKR/S73-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-034": {
     "name": "文学少女 クラリス",
@@ -669,7 +702,8 @@
         "id": "SKR/S73-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-035": {
     "name": "“上海華撃団・五神龍”隊長 シャオロン",
@@ -687,7 +721,8 @@
         "id": "SKR/S73-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-036": {
     "name": "特別な一日 クラリス",
@@ -705,7 +740,8 @@
         "id": "SKR/S73-036",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-037": {
     "name": "神龍軒の看板娘 ユイ",
@@ -723,7 +759,8 @@
         "id": "SKR/S73-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-038": {
     "name": "舞台女優 初穂&クラリス",
@@ -741,7 +778,8 @@
         "id": "SKR/S73-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-039": {
     "name": "お姫様抱っこ 神山",
@@ -759,7 +797,8 @@
         "id": "SKR/S73-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-040": {
     "name": "興味深々 エリス",
@@ -777,7 +816,8 @@
         "id": "SKR/S73-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-041": {
     "name": "お姫様抱っこ クラリス",
@@ -795,7 +835,8 @@
         "id": "SKR/S73-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-042": {
     "name": "“伯林華撃団・シュヴァルツシュテルン”隊長 エリス",
@@ -813,7 +854,8 @@
         "id": "SKR/S73-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-043": {
     "name": "見つめてクラリス",
@@ -831,7 +873,8 @@
         "id": "SKR/S73-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-044": {
     "name": "こいこい！",
@@ -849,7 +892,8 @@
         "id": "SKR/S73-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-045": {
     "name": "今日は……月が綺麗だね",
@@ -871,7 +915,8 @@
         "id": "SKR/S73-045R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-046": {
     "name": "Arbitre d'enfer",
@@ -889,7 +934,8 @@
         "id": "SKR/S73-046",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-047": {
     "name": "世界華撃団大戦",
@@ -911,7 +957,8 @@
         "id": "SKR/S73-047R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-048": {
     "name": "勇気をもらうさくら",
@@ -933,7 +980,8 @@
         "id": "SKR/S73-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-049": {
     "name": "帝劇の元気印 初穂",
@@ -955,7 +1003,8 @@
         "id": "SKR/S73-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-050": {
     "name": "正義の為に さくら",
@@ -977,7 +1026,8 @@
         "id": "SKR/S73-050SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-051": {
     "name": "嵐を呼ぶ乙女 初穂",
@@ -999,7 +1049,8 @@
         "id": "SKR/S73-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-052": {
     "name": "蒼天に咲く剣 さくら",
@@ -1021,7 +1072,8 @@
         "id": "SKR/S73-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-053": {
     "name": "魂の一撃 初穂",
@@ -1043,7 +1095,8 @@
         "id": "SKR/S73-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-054": {
     "name": "さくらの相棒“霊子甲冑・三式光武”",
@@ -1065,7 +1118,8 @@
         "id": "SKR/S73-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-055": {
     "name": "“霊子戦闘機・無限”初穂機",
@@ -1087,7 +1141,8 @@
         "id": "SKR/S73-055TGR",
         "rarity": "TGR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-056": {
     "name": "“帝国華撃団・花組隊長” 神山",
@@ -1105,7 +1160,8 @@
         "id": "SKR/S73-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-057": {
     "name": "“霊子戦闘機・試製桜武”",
@@ -1127,7 +1183,8 @@
         "id": "SKR/S73-057TGR",
         "rarity": "TGR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-058": {
     "name": "祭りだオイサー！ 初穂",
@@ -1145,7 +1202,8 @@
         "id": "SKR/S73-058",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-059": {
     "name": "腹ペコ初穂",
@@ -1163,7 +1221,8 @@
         "id": "SKR/S73-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-060": {
     "name": "帝劇にようこそ！ さくら",
@@ -1181,7 +1240,8 @@
         "id": "SKR/S73-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-061": {
     "name": "特別な一日 さくら",
@@ -1199,7 +1259,8 @@
         "id": "SKR/S73-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-062": {
     "name": "笑顔の為に 初穂",
@@ -1221,7 +1282,8 @@
         "id": "SKR/S73-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-063": {
     "name": "日々鍛錬！ さくら",
@@ -1239,7 +1301,8 @@
         "id": "SKR/S73-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-064": {
     "name": "臨戦態勢 さくら",
@@ -1257,7 +1320,8 @@
         "id": "SKR/S73-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-065": {
     "name": "歌劇“ももたろう”初穂",
@@ -1275,7 +1339,8 @@
         "id": "SKR/S73-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-066": {
     "name": "想いをぶつけるさくら",
@@ -1293,7 +1358,8 @@
         "id": "SKR/S73-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-067": {
     "name": "親友への想い 初穂",
@@ -1311,7 +1377,8 @@
         "id": "SKR/S73-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-068": {
     "name": "桜舞う街角 さくら",
@@ -1329,7 +1396,8 @@
         "id": "SKR/S73-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-069": {
     "name": "舞台稽古 さくら",
@@ -1347,7 +1415,8 @@
         "id": "SKR/S73-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-070": {
     "name": "特別な一日 初穂",
@@ -1365,7 +1434,8 @@
         "id": "SKR/S73-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-071": {
     "name": "帝都に現れた災禍 夜叉",
@@ -1383,7 +1453,8 @@
         "id": "SKR/S73-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-072": {
     "name": "体が勝手に",
@@ -1401,7 +1472,8 @@
         "id": "SKR/S73-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-073": {
     "name": "天剣・千本桜",
@@ -1423,7 +1495,8 @@
         "id": "SKR/S73-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-074": {
     "name": "東雲神社の御神楽ハンマー！",
@@ -1445,7 +1518,8 @@
         "id": "SKR/S73-074R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-075": {
     "name": "乱れ太鼓!!祭りだオイサー!!",
@@ -1463,7 +1537,8 @@
         "id": "SKR/S73-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-076": {
     "name": "運命の……出会い",
@@ -1481,7 +1556,8 @@
         "id": "SKR/S73-076",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-077": {
     "name": "帝国華撃団総司令 すみれ",
@@ -1503,7 +1579,8 @@
         "id": "SKR/S73-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-078": {
     "name": "トップスタァの生き様 アナスタシア",
@@ -1525,7 +1602,8 @@
         "id": "SKR/S73-078SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-079": {
     "name": "秘密の約束 アナスタシア",
@@ -1543,7 +1621,8 @@
         "id": "SKR/S73-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-080": {
     "name": "“霊子戦闘機・無限”神山機",
@@ -1565,7 +1644,8 @@
         "id": "SKR/S73-080TGR",
         "rarity": "TGR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-081": {
     "name": "“霊子戦闘機・無限”アナスタシア機",
@@ -1587,7 +1667,8 @@
         "id": "SKR/S73-081TGR",
         "rarity": "TGR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-082": {
     "name": "特別な一日 アナスタシア",
@@ -1609,7 +1690,8 @@
         "id": "SKR/S73-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-083": {
     "name": "出撃準備 アナスタシア",
@@ -1631,7 +1713,8 @@
         "id": "SKR/S73-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-084": {
     "name": "伝説のトップスタァ すみれ",
@@ -1649,7 +1732,8 @@
         "id": "SKR/S73-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-085": {
     "name": "演技指導 アナスタシア",
@@ -1667,7 +1751,8 @@
         "id": "SKR/S73-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-086": {
     "name": "撃ち抜く流星 アナスタシア",
@@ -1689,7 +1774,8 @@
         "id": "SKR/S73-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-087": {
     "name": "希望に向かって伸びる花 アナスタシア",
@@ -1707,7 +1793,8 @@
         "id": "SKR/S73-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-088": {
     "name": "心配するアナスタシア",
@@ -1725,7 +1812,8 @@
         "id": "SKR/S73-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-089": {
     "name": "二人だけの星空 アナスタシア",
@@ -1743,7 +1831,8 @@
         "id": "SKR/S73-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-090": {
     "name": "出撃！ 神山",
@@ -1761,7 +1850,8 @@
         "id": "SKR/S73-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-091": {
     "name": "浪花の商売人 こまち",
@@ -1779,7 +1869,8 @@
         "id": "SKR/S73-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-092": {
     "name": "劇場にいざなうアナスタシア",
@@ -1797,7 +1888,8 @@
         "id": "SKR/S73-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-093": {
     "name": "すみれの右腕 カオル",
@@ -1815,7 +1907,8 @@
         "id": "SKR/S73-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-094": {
     "name": "敏腕メカニック 司馬",
@@ -1833,7 +1926,8 @@
         "id": "SKR/S73-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-095": {
     "name": "感激の観劇 アナスタシア",
@@ -1851,7 +1945,8 @@
         "id": "SKR/S73-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-096": {
     "name": "反撃の時 すみれ",
@@ -1869,7 +1964,8 @@
         "id": "SKR/S73-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-097": {
     "name": "奇跡の鐘",
@@ -1887,7 +1983,8 @@
         "id": "SKR/S73-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-098": {
     "name": "απόλυτο μηδέν",
@@ -1909,7 +2006,8 @@
         "id": "SKR/S73-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-099": {
     "name": "伝説の……星座たち……",
@@ -1927,7 +2025,8 @@
         "id": "SKR/S73-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-100": {
     "name": "空中戦艦ミカサ発進！",
@@ -1945,6 +2044,7 @@
         "id": "SKR/S73-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

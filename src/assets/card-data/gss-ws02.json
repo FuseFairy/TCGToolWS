@@ -19,7 +19,8 @@
         "id": "Gss/WS02-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gss/WS02-079": {
     "name": "共に歩む、希望に向かう道へ 悠二＆シャナ",
@@ -41,7 +42,8 @@
         "id": "Gss/WS02-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gss/WS02-083": {
     "name": "親愛の絆 シャナ＆ヴィルヘルミナ",
@@ -63,7 +65,8 @@
         "id": "Gss/WS02-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gss/WS02-097": {
     "name": "新しい未来 マージョリー＆一美",
@@ -85,7 +88,8 @@
         "id": "Gss/WS02-097S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gss/WS02-100": {
     "name": "フレイムヘイズの休息 シャナ",
@@ -107,7 +111,8 @@
         "id": "Gss/WS02-100S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gss/WS02-106": {
     "name": "切なる願い シャナ",
@@ -129,7 +134,8 @@
         "id": "Gss/WS02-106S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gss/WS02-115": {
     "name": "蒼炎",
@@ -151,7 +157,8 @@
         "id": "Gss/WS02-115SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gss/WS02-132": {
     "name": "願いの成就 ヘカテー",
@@ -173,7 +180,8 @@
         "id": "Gss/WS02-132S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gss/WS02-145": {
     "name": "“祭礼の蛇” 坂井悠二",
@@ -195,6 +203,7 @@
         "id": "Gss/WS02-145S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

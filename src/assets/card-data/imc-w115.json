@@ -19,7 +19,8 @@
         "id": "IMC/W115-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-002": {
     "name": "甘カワ☆ニゅーいヤー 大槻 唯",
@@ -41,7 +42,8 @@
         "id": "IMC/W115-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-003": {
     "name": "恋するスウィーティーサマー 佐藤 心",
@@ -63,7 +65,8 @@
         "id": "IMC/W115-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-004": {
     "name": "凪めく日々のおとぎ話 久川 凪",
@@ -85,7 +88,8 @@
         "id": "IMC/W115-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-005": {
     "name": "黒き森の乙女 高森藍子",
@@ -107,7 +111,8 @@
         "id": "IMC/W115-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-006": {
     "name": "メモリアル★ビーチサイド 城ヶ崎美嘉",
@@ -133,7 +138,8 @@
         "id": "IMC/W115-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-007": {
     "name": "きらきら☆湯けむり美人 諸星きらり",
@@ -155,7 +161,8 @@
         "id": "IMC/W115-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-008": {
     "name": "祝福の花をあなたに イヴ・サンタクロース",
@@ -177,7 +184,8 @@
         "id": "IMC/W115-008SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-009": {
     "name": "トキメキ☆ラブハート 城ヶ崎莉嘉",
@@ -199,7 +207,8 @@
         "id": "IMC/W115-009SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-010": {
     "name": "夜の一輪 相葉夕美",
@@ -221,7 +230,8 @@
         "id": "IMC/W115-010SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-011": {
     "name": "ホーリーホリデー 堀 裕子",
@@ -243,7 +253,8 @@
         "id": "IMC/W115-011SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-012": {
     "name": "アイ・アム・ぱーふぇくと 槙原志保",
@@ -265,7 +276,8 @@
         "id": "IMC/W115-012Pa",
         "rarity": "Pa"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-013": {
     "name": "超☆志貫徹 冴島清美",
@@ -287,7 +299,8 @@
         "id": "IMC/W115-013Pa",
         "rarity": "Pa"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-014": {
     "name": "ポッピン・ハイ☆ 赤城みりあ",
@@ -309,7 +322,8 @@
         "id": "IMC/W115-014SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-015": {
     "name": "クイーン・オブ・クイーン 財前時子",
@@ -331,7 +345,8 @@
         "id": "IMC/W115-015Pa",
         "rarity": "Pa"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-016": {
     "name": "永劫のマイセリウム 星 輝子",
@@ -353,7 +368,8 @@
         "id": "IMC/W115-016SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-017": {
     "name": "ドレスアップ☆ウサミン 安部菜々",
@@ -375,7 +391,8 @@
         "id": "IMC/W115-017SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-018": {
     "name": "バトル☆バレンタイン 三好紗南",
@@ -397,7 +414,8 @@
         "id": "IMC/W115-018Pa",
         "rarity": "Pa"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-019": {
     "name": "ハートイグニッション 日野 茜",
@@ -419,7 +437,8 @@
         "id": "IMC/W115-019SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-020": {
     "name": "メリー・メニー・プレゼント 十時愛梨",
@@ -441,7 +460,8 @@
         "id": "IMC/W115-020SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-021": {
     "name": "カレイドスノー 本田未央",
@@ -463,7 +483,8 @@
         "id": "IMC/W115-021SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-022": {
     "name": "EVERLASTING 本田未央",
@@ -485,7 +506,8 @@
         "id": "IMC/W115-022Pa",
         "rarity": "Pa"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-023": {
     "name": "Starry-Go-Round 大槻 唯",
@@ -507,7 +529,8 @@
         "id": "IMC/W115-023Pa",
         "rarity": "Pa"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-024": {
     "name": "凸凹スピードスター 佐藤 心",
@@ -529,7 +552,8 @@
         "id": "IMC/W115-024Pa",
         "rarity": "Pa"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-025": {
     "name": "SUN♡FLOWER 城ヶ崎美嘉",
@@ -551,7 +575,8 @@
         "id": "IMC/W115-025Pa",
         "rarity": "Pa"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-026": {
     "name": "ハッピーホーリーナイト イヴ・サンタクロース",
@@ -573,7 +598,8 @@
         "id": "IMC/W115-026Pa",
         "rarity": "Pa"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-027": {
     "name": "女王の恩寵 財前時子",
@@ -595,7 +621,8 @@
         "id": "IMC/W115-027Pa",
         "rarity": "Pa"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-028": {
     "name": "スウィートサマーナイト 十時愛梨",
@@ -617,7 +644,8 @@
         "id": "IMC/W115-028Pa",
         "rarity": "Pa"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-029": {
     "name": "海のぱわー☆ 堀 裕子",
@@ -639,7 +667,8 @@
         "id": "IMC/W115-029Pa",
         "rarity": "Pa"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-030": {
     "name": "ひらり花紅葉 相葉夕美",
@@ -661,7 +690,8 @@
         "id": "IMC/W115-030Pa",
         "rarity": "Pa"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-031": {
     "name": "オレンジタイム 星 輝子",
@@ -683,7 +713,8 @@
         "id": "IMC/W115-031Pa",
         "rarity": "Pa"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-032": {
     "name": "深緑の魔女 高森藍子",
@@ -705,7 +736,8 @@
         "id": "IMC/W115-032Pa",
         "rarity": "Pa"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-033": {
     "name": "ガールズロッカー 冴島清美",
@@ -727,7 +759,8 @@
         "id": "IMC/W115-033Pa",
         "rarity": "Pa"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-034": {
     "name": "Sing the Prologue♪ 久川 凪",
@@ -749,7 +782,8 @@
         "id": "IMC/W115-034Pa",
         "rarity": "Pa"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-035": {
     "name": "THE VILLAIN'S NIGHT 赤城みりあ",
@@ -771,7 +805,8 @@
         "id": "IMC/W115-035Pa",
         "rarity": "Pa"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-036": {
     "name": "ゲームトークナイト 三好紗南",
@@ -793,7 +828,8 @@
         "id": "IMC/W115-036Pa",
         "rarity": "Pa"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-037": {
     "name": "放課後トライ 日野 茜",
@@ -815,7 +851,8 @@
         "id": "IMC/W115-037Pa",
         "rarity": "Pa"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-038": {
     "name": "とびきり☆ニューイヤー 城ヶ崎莉嘉",
@@ -837,7 +874,8 @@
         "id": "IMC/W115-038Pa",
         "rarity": "Pa"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-039": {
     "name": "トロピカルガール 夢見りあむ",
@@ -859,7 +897,8 @@
         "id": "IMC/W115-039Pa",
         "rarity": "Pa"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-040": {
     "name": "With Love 諸星きらり",
@@ -881,7 +920,8 @@
         "id": "IMC/W115-040Pa",
         "rarity": "Pa"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-041": {
     "name": "ステージオブマジック 本田未央",
@@ -903,7 +943,8 @@
         "id": "IMC/W115-041Pa",
         "rarity": "Pa"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-042": {
     "name": "甘いひととき 槙原志保",
@@ -925,7 +966,8 @@
         "id": "IMC/W115-042Pa",
         "rarity": "Pa"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-043": {
     "name": "Go Just Go!",
@@ -947,7 +989,8 @@
         "id": "IMC/W115-043R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-044": {
     "name": "MOTTO!",
@@ -969,7 +1012,8 @@
         "id": "IMC/W115-044R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-045": {
     "name": "Twin☆くるっ★テール",
@@ -991,7 +1035,8 @@
         "id": "IMC/W115-045R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-046": {
     "name": "情熱ファンファンファーレ",
@@ -1013,7 +1058,8 @@
         "id": "IMC/W115-046R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-047": {
     "name": "チカラ！イズ！ぱわー！！",
@@ -1035,7 +1081,8 @@
         "id": "IMC/W115-047R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-048": {
     "name": "ニャンダフル・ワールド 前川みく",
@@ -1057,7 +1104,8 @@
         "id": "IMC/W115-048SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-049": {
     "name": "永遠の愛のレクイエム 櫻井桃華",
@@ -1079,7 +1127,8 @@
         "id": "IMC/W115-049SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-050": {
     "name": "永遠の結び愛 佐久間まゆ",
@@ -1101,7 +1150,8 @@
         "id": "IMC/W115-050SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-051": {
     "name": "ドルチェ・プエラ 一ノ瀬志希",
@@ -1127,7 +1177,8 @@
         "id": "IMC/W115-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-052": {
     "name": "おめざめ☆あかりんご 辻野あかり",
@@ -1149,7 +1200,8 @@
         "id": "IMC/W115-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-053": {
     "name": "愛しきフローラル 西園寺琴歌",
@@ -1171,7 +1223,8 @@
         "id": "IMC/W115-053SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-054": {
     "name": "ほしにねがいを 遊佐こずえ",
@@ -1193,7 +1246,8 @@
         "id": "IMC/W115-054SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-055": {
     "name": "あるがまま咲く花 江上 椿",
@@ -1215,7 +1269,8 @@
         "id": "IMC/W115-055Cu",
         "rarity": "Cu"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-056": {
     "name": "パンダ・ファイター 楊 菲菲",
@@ -1237,7 +1292,8 @@
         "id": "IMC/W115-056Cu",
         "rarity": "Cu"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-057": {
     "name": "日向の乙女 小日向美穂",
@@ -1259,7 +1315,8 @@
         "id": "IMC/W115-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-058": {
     "name": "ライフ・グラフィティ 五十嵐響子",
@@ -1281,7 +1338,8 @@
         "id": "IMC/W115-058SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-059": {
     "name": "私とあなたの楽園 緒方智絵里",
@@ -1303,7 +1361,8 @@
         "id": "IMC/W115-059SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-060": {
     "name": "ココロ・イルミネーション 島村卯月",
@@ -1325,7 +1384,8 @@
         "id": "IMC/W115-060SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-061": {
     "name": "デアデビル★モンスター 早坂美玲",
@@ -1347,7 +1407,8 @@
         "id": "IMC/W115-061SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-062": {
     "name": "偉大なる休憩主 双葉 杏",
@@ -1369,7 +1430,8 @@
         "id": "IMC/W115-062SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-063": {
     "name": "サニーデイ・サマー 大沼くるみ",
@@ -1391,7 +1453,8 @@
         "id": "IMC/W115-063Cu",
         "rarity": "Cu"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-064": {
     "name": "リュミエール・エトワール 宮本フレデリカ",
@@ -1417,7 +1480,8 @@
         "id": "IMC/W115-064SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-065": {
     "name": "ファンタスティック・ナイト 乙倉悠貴",
@@ -1439,7 +1503,8 @@
         "id": "IMC/W115-065SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-066": {
     "name": "こだわりチューンアップ 原田美世",
@@ -1461,7 +1526,8 @@
         "id": "IMC/W115-066Cu",
         "rarity": "Cu"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-067": {
     "name": "アップル☆カーニバル 辻野あかり",
@@ -1483,7 +1549,8 @@
         "id": "IMC/W115-067Cu",
         "rarity": "Cu"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-068": {
     "name": "ドリーミーウェディング 原田美世",
@@ -1505,7 +1572,8 @@
         "id": "IMC/W115-068Cu",
         "rarity": "Cu"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-069": {
     "name": "煌星摩天楼 楊 菲菲",
@@ -1527,7 +1595,8 @@
         "id": "IMC/W115-069Cu",
         "rarity": "Cu"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-070": {
     "name": "Starry-Go-Round 前川みく",
@@ -1549,7 +1618,8 @@
         "id": "IMC/W115-070Cu",
         "rarity": "Cu"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-071": {
     "name": "メモリーブロッサム 五十嵐響子",
@@ -1571,7 +1641,8 @@
         "id": "IMC/W115-071Cu",
         "rarity": "Cu"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-072": {
     "name": "とんでいっちゃいたいの 宮本フレデリカ",
@@ -1593,7 +1664,8 @@
         "id": "IMC/W115-072Cu",
         "rarity": "Cu"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-073": {
     "name": "キラッ！満開スマイル 島村卯月",
@@ -1615,7 +1687,8 @@
         "id": "IMC/W115-073Cu",
         "rarity": "Cu"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-074": {
     "name": "秋風乙女 乙倉悠貴",
@@ -1637,7 +1710,8 @@
         "id": "IMC/W115-074Cu",
         "rarity": "Cu"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-075": {
     "name": "さやけき花の生命に 西園寺琴歌",
@@ -1659,7 +1733,8 @@
         "id": "IMC/W115-075Cu",
         "rarity": "Cu"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-076": {
     "name": "パンクな乙女 早坂美玲",
@@ -1681,7 +1756,8 @@
         "id": "IMC/W115-076Cu",
         "rarity": "Cu"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-077": {
     "name": "Vast world 緒方智絵里",
@@ -1703,7 +1779,8 @@
         "id": "IMC/W115-077Cu",
         "rarity": "Cu"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-078": {
     "name": "ステージオブマジック 島村卯月",
@@ -1725,7 +1802,8 @@
         "id": "IMC/W115-078Cu",
         "rarity": "Cu"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-079": {
     "name": "杏の夏休み 双葉 杏",
@@ -1747,7 +1825,8 @@
         "id": "IMC/W115-079Cu",
         "rarity": "Cu"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-080": {
     "name": "クレイジークレイジー 一ノ瀬志希",
@@ -1769,7 +1848,8 @@
         "id": "IMC/W115-080Cu",
         "rarity": "Cu"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-081": {
     "name": "イリュージョニスタ！ 佐久間まゆ",
@@ -1791,7 +1871,8 @@
         "id": "IMC/W115-081Cu",
         "rarity": "Cu"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-082": {
     "name": "だだもれエモーション 大沼くるみ",
@@ -1813,7 +1894,8 @@
         "id": "IMC/W115-082Cu",
         "rarity": "Cu"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-083": {
     "name": "shabon song 小日向美穂",
@@ -1835,7 +1917,8 @@
         "id": "IMC/W115-083Cu",
         "rarity": "Cu"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-084": {
     "name": "ファインダー越しの花 江上 椿",
@@ -1857,7 +1940,8 @@
         "id": "IMC/W115-084Cu",
         "rarity": "Cu"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-085": {
     "name": "マジカルエンジェル 遊佐こずえ",
@@ -1879,7 +1963,8 @@
         "id": "IMC/W115-085Cu",
         "rarity": "Cu"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-086": {
     "name": "凸凹スピードスター 安部菜々",
@@ -1901,7 +1986,8 @@
         "id": "IMC/W115-086Cu",
         "rarity": "Cu"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-087": {
     "name": "Yes! Party Time!! 櫻井桃華",
@@ -1923,7 +2009,8 @@
         "id": "IMC/W115-087Cu",
         "rarity": "Cu"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-088": {
     "name": "Love∞Destiny",
@@ -1945,7 +2032,8 @@
         "id": "IMC/W115-088R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-089": {
     "name": "無限L∞PだLOVE♡",
@@ -1967,7 +2055,8 @@
         "id": "IMC/W115-089R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-090": {
     "name": "まほうのまくら",
@@ -1989,7 +2078,8 @@
         "id": "IMC/W115-090R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-091": {
     "name": "ココカラミライヘ！",
@@ -2015,7 +2105,8 @@
         "id": "IMC/W115-091Rb",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-092": {
     "name": "Halloween♥Code",
@@ -2037,7 +2128,8 @@
         "id": "IMC/W115-092R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-093": {
     "name": "ラヴィサン・ショコラ 高垣 楓",
@@ -2059,7 +2151,8 @@
         "id": "IMC/W115-093SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-094": {
     "name": "エターナルブルーム 渋谷 凛",
@@ -2081,7 +2174,8 @@
         "id": "IMC/W115-094SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-095": {
     "name": "メイク・ハー・スター 久川 颯",
@@ -2103,7 +2197,8 @@
         "id": "IMC/W115-095SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-096": {
     "name": "潮風の一頁 鷺沢文香",
@@ -2125,7 +2220,8 @@
         "id": "IMC/W115-096SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-097": {
     "name": "セレブレイト・カレイド 速水 奏",
@@ -2151,7 +2247,8 @@
         "id": "IMC/W115-097SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-098": {
     "name": "ファントム・ソワレ 西川保奈美",
@@ -2173,7 +2270,8 @@
         "id": "IMC/W115-098Co",
         "rarity": "Co"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-099": {
     "name": "Tis Love that Makes Me ケイト",
@@ -2195,7 +2293,8 @@
         "id": "IMC/W115-099Co",
         "rarity": "Co"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-100": {
     "name": "楽しい今を、未知の明日を 神谷奈緒",
@@ -2217,7 +2316,8 @@
         "id": "IMC/W115-100SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-101": {
     "name": "ありすの物語 橘 ありす",
@@ -2239,7 +2339,8 @@
         "id": "IMC/W115-101SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-102": {
     "name": "渚の花嫁 新田美波",
@@ -2261,7 +2362,8 @@
         "id": "IMC/W115-102SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-103": {
     "name": "永遠に枯れぬ花 アナスタシア",
@@ -2283,7 +2385,8 @@
         "id": "IMC/W115-103SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-104": {
     "name": "祝福のシュトラール 神崎蘭子",
@@ -2305,7 +2408,8 @@
         "id": "IMC/W115-104SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-105": {
     "name": "エクステンド・ワールド 二宮飛鳥",
@@ -2327,7 +2431,8 @@
         "id": "IMC/W115-105SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-106": {
     "name": "放課後ロックスター 多田李衣菜",
@@ -2349,7 +2454,8 @@
         "id": "IMC/W115-106SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-107": {
     "name": "プロミネンス・プライド 北条加蓮",
@@ -2371,7 +2477,8 @@
         "id": "IMC/W115-107SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-108": {
     "name": "少女の微笑 古澤頼子",
@@ -2393,7 +2500,8 @@
         "id": "IMC/W115-108Co",
         "rarity": "Co"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-109": {
     "name": "サンセットヴィーナス 三船美優",
@@ -2415,7 +2523,8 @@
         "id": "IMC/W115-109SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-110": {
     "name": "レイヤード・マイ・エッジィ 砂塚あきら",
@@ -2437,7 +2546,8 @@
         "id": "IMC/W115-110SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-111": {
     "name": "イモータル・ネットワーク 高峯のあ",
@@ -2459,7 +2569,8 @@
         "id": "IMC/W115-111Co",
         "rarity": "Co"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-112": {
     "name": "蝶のはなむけ 塩見周子",
@@ -2485,7 +2596,8 @@
         "id": "IMC/W115-112SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-113": {
     "name": "未完成の歴史 二宮飛鳥",
@@ -2507,7 +2619,8 @@
         "id": "IMC/W115-113Co",
         "rarity": "Co"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-114": {
     "name": "Jet to the Future 多田李衣菜",
@@ -2529,7 +2642,8 @@
         "id": "IMC/W115-114Co",
         "rarity": "Co"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-115": {
     "name": "ささのはに、うたかたに。 鷺沢文香",
@@ -2551,7 +2665,8 @@
         "id": "IMC/W115-115Co",
         "rarity": "Co"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-116": {
     "name": "天使の灯す夜 古澤頼子",
@@ -2573,7 +2688,8 @@
         "id": "IMC/W115-116Co",
         "rarity": "Co"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-117": {
     "name": "未完成の歴史 北条加蓮",
@@ -2595,7 +2711,8 @@
         "id": "IMC/W115-117Co",
         "rarity": "Co"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-118": {
     "name": "純真の花嫁 神谷奈緒",
@@ -2617,7 +2734,8 @@
         "id": "IMC/W115-118Co",
         "rarity": "Co"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-119": {
     "name": "レッド・ソール 三船美優",
@@ -2639,7 +2757,8 @@
         "id": "IMC/W115-119Co",
         "rarity": "Co"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-120": {
     "name": "ストリート・ランウェイ 砂塚あきら",
@@ -2661,7 +2780,8 @@
         "id": "IMC/W115-120Co",
         "rarity": "Co"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-121": {
     "name": "シンシアチアー 西川保奈美",
@@ -2683,7 +2803,8 @@
         "id": "IMC/W115-121Co",
         "rarity": "Co"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-122": {
     "name": "サマーサイダー 久川 颯",
@@ -2705,7 +2826,8 @@
         "id": "IMC/W115-122Co",
         "rarity": "Co"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-123": {
     "name": "ピュアバレンタイン 渋谷 凛",
@@ -2727,7 +2849,8 @@
         "id": "IMC/W115-123Co",
         "rarity": "Co"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-124": {
     "name": "インスペクトコンコルディア 高峯のあ",
@@ -2749,7 +2872,8 @@
         "id": "IMC/W115-124Co",
         "rarity": "Co"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-125": {
     "name": "夏恋 -NATSU KOI- 塩見周子",
@@ -2771,7 +2895,8 @@
         "id": "IMC/W115-125Co",
         "rarity": "Co"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-126": {
     "name": "ステージオブマジック 渋谷 凛",
@@ -2793,7 +2918,8 @@
         "id": "IMC/W115-126Co",
         "rarity": "Co"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-127": {
     "name": "命燃やして恋せよ乙女 高垣 楓",
@@ -2815,7 +2941,8 @@
         "id": "IMC/W115-127Co",
         "rarity": "Co"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-128": {
     "name": "レディ・アドマイヤ ケイト",
@@ -2837,7 +2964,8 @@
         "id": "IMC/W115-128Co",
         "rarity": "Co"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-129": {
     "name": "スターライトスクール アナスタシア",
@@ -2859,7 +2987,8 @@
         "id": "IMC/W115-129Co",
         "rarity": "Co"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-130": {
     "name": "あいくるしい 速水 奏",
@@ -2881,7 +3010,8 @@
         "id": "IMC/W115-130Co",
         "rarity": "Co"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-131": {
     "name": "春暁の紅姫 神崎蘭子",
@@ -2903,7 +3033,8 @@
         "id": "IMC/W115-131Co",
         "rarity": "Co"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-132": {
     "name": "銀のイルカと熱い風 新田美波",
@@ -2925,7 +3056,8 @@
         "id": "IMC/W115-132Co",
         "rarity": "Co"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-133": {
     "name": "聖夜の願い 橘 ありす",
@@ -2947,7 +3079,8 @@
         "id": "IMC/W115-133Co",
         "rarity": "Co"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-134": {
     "name": "VOY@GER",
@@ -2969,7 +3102,8 @@
         "id": "IMC/W115-134R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-135": {
     "name": "Nightwear",
@@ -2991,7 +3125,8 @@
         "id": "IMC/W115-135R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-136": {
     "name": "生存本能ヴァルキュリア",
@@ -3013,7 +3148,8 @@
         "id": "IMC/W115-136R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-137": {
     "name": "双翼の独奏歌",
@@ -3035,7 +3171,8 @@
         "id": "IMC/W115-137R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W115-138": {
     "name": "星環世界",
@@ -3057,7 +3194,8 @@
         "id": "IMC/W115-138R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W115-E01": {
     "name": "YOU AND アイ！ 島村卯月",
@@ -3075,6 +3213,7 @@
         "id": "IMC/W115-E01",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

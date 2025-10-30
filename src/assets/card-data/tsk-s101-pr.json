@@ -19,7 +19,8 @@
         "id": "TSK/S101-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-P03": {
     "name": "しろくろ秘書 シオン",
@@ -41,7 +42,8 @@
         "id": "TSK/S101-P03b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-P04": {
     "name": "しろくろ第二秘書 ディアブロ",
@@ -63,7 +65,8 @@
         "id": "TSK/S101-P04b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-P05": {
     "name": "しろくろ盟友 ヴェルドラ",
@@ -85,7 +88,8 @@
         "id": "TSK/S101-P05b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-P06": {
     "name": "しろくろ魔王 ミリム",
@@ -107,7 +111,8 @@
         "id": "TSK/S101-P06b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-P07": {
     "name": "しろくろ盟主 リムル",
@@ -129,7 +134,8 @@
         "id": "TSK/S101-P07b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-P08": {
     "name": "しろくろ侍大将 ベニマル",
@@ -151,7 +157,8 @@
         "id": "TSK/S101-P08b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-P09": {
     "name": "しろくろ巫女姫 シュナ",
@@ -173,7 +180,8 @@
         "id": "TSK/S101-P09b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-P10": {
     "name": "しろくろ隠密 ソウエイ",
@@ -195,7 +203,8 @@
         "id": "TSK/S101-P10b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-101": {
     "name": "有能な秘書？ シオン",
@@ -213,7 +222,8 @@
         "id": "TSK/S101-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-102": {
     "name": "余計な一言 ヴェルドラ",
@@ -231,7 +241,8 @@
         "id": "TSK/S101-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-103": {
     "name": "試着のおねがい シュナ",
@@ -249,7 +260,8 @@
         "id": "TSK/S101-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-104": {
     "name": "元気はつらつ ミリム",
@@ -267,7 +279,8 @@
         "id": "TSK/S101-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-105": {
     "name": "皆でつかみ取る勝利 リムル",
@@ -285,7 +298,8 @@
         "id": "TSK/S101-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-P01": {
     "name": "木の下でのひと時 リムル＆ディアブロ",
@@ -303,6 +317,7 @@
         "id": "TSK/S101-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

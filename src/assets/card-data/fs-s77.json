@@ -19,7 +19,8 @@
         "id": "FS/S77-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-002": {
     "name": "投影装填 士郎",
@@ -41,7 +42,8 @@
         "id": "FS/S77-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-003": {
     "name": "剣の誓い セイバー",
@@ -63,7 +65,8 @@
         "id": "FS/S77-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-004": {
     "name": "託された腕 士郎",
@@ -85,7 +88,8 @@
         "id": "FS/S77-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-005": {
     "name": "8人目の英霊 ギルガメッシュ",
@@ -103,7 +107,8 @@
         "id": "FS/S77-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-006": {
     "name": "魔術師との戦い セイバー",
@@ -125,7 +130,8 @@
         "id": "FS/S77-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-007": {
     "name": "“特別な存在”士郎",
@@ -143,7 +149,8 @@
         "id": "FS/S77-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-008": {
     "name": "渾身の力 セイバー",
@@ -161,7 +168,8 @@
         "id": "FS/S77-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-009": {
     "name": "決意の先に 士郎",
@@ -179,7 +187,8 @@
         "id": "FS/S77-009",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-010": {
     "name": "憤怒 ギルガメッシュ",
@@ -197,7 +206,8 @@
         "id": "FS/S77-010",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-011": {
     "name": "戦闘準備 士郎",
@@ -215,7 +225,8 @@
         "id": "FS/S77-011",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-012": {
     "name": "進み続ける 士郎",
@@ -233,7 +244,8 @@
         "id": "FS/S77-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-013": {
     "name": "熾天覆う七つの円環",
@@ -251,7 +263,8 @@
         "id": "FS/S77-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-014": {
     "name": "約束された勝利の剣",
@@ -273,7 +286,8 @@
         "id": "FS/S77-014R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-015": {
     "name": "決意の戦い",
@@ -295,7 +309,8 @@
         "id": "FS/S77-015R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-016": {
     "name": "破戒すべき全ての符",
@@ -317,7 +332,8 @@
         "id": "FS/S77-016R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-017": {
     "name": "“spring song”桜",
@@ -339,7 +355,8 @@
         "id": "FS/S77-017SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-018": {
     "name": "信念を守る ライダー",
@@ -361,7 +378,8 @@
         "id": "FS/S77-018SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-019": {
     "name": "強敵への作戦 士郎＆ライダー",
@@ -383,7 +401,8 @@
         "id": "FS/S77-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-020": {
     "name": "マスターの為に ライダー",
@@ -405,7 +424,8 @@
         "id": "FS/S77-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-021": {
     "name": "雲に隠れる月 桜",
@@ -427,7 +447,8 @@
         "id": "FS/S77-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-022": {
     "name": "騎英の手綱 ライダー",
@@ -449,7 +470,8 @@
         "id": "FS/S77-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-023": {
     "name": "幸せな日々 桜",
@@ -471,7 +493,8 @@
         "id": "FS/S77-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-024": {
     "name": "見つめる先に ライダー",
@@ -493,7 +516,8 @@
         "id": "FS/S77-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-025": {
     "name": "忍び寄る狂気 桜",
@@ -511,7 +535,8 @@
         "id": "FS/S77-025",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-026": {
     "name": "降り続ける雨 桜",
@@ -529,7 +554,8 @@
         "id": "FS/S77-026",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-027": {
     "name": "視線の先へ ランサー",
@@ -547,7 +573,8 @@
         "id": "FS/S77-027",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-028": {
     "name": "幸せな日々 ライダー",
@@ -565,7 +592,8 @@
         "id": "FS/S77-028",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-029": {
     "name": "命令の遂行 ライダー",
@@ -583,7 +611,8 @@
         "id": "FS/S77-029",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-030": {
     "name": "魔眼の呪い ライダー",
@@ -601,7 +630,8 @@
         "id": "FS/S77-030",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-031": {
     "name": "突撃 ライダー",
@@ -619,7 +649,8 @@
         "id": "FS/S77-031",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-032": {
     "name": "車上の戦い ランサー",
@@ -637,7 +668,8 @@
         "id": "FS/S77-032",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-033": {
     "name": "激昂する 慎二",
@@ -655,7 +687,8 @@
         "id": "FS/S77-033",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-034": {
     "name": "乱入 ライダー",
@@ -673,7 +706,8 @@
         "id": "FS/S77-034",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-035": {
     "name": "溢れ出る言葉 桜",
@@ -691,7 +725,8 @@
         "id": "FS/S77-035",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-036": {
     "name": "二人の時間 桜",
@@ -709,7 +744,8 @@
         "id": "FS/S77-036",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-037": {
     "name": "ささやかな願い 桜",
@@ -727,7 +763,8 @@
         "id": "FS/S77-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-038": {
     "name": "衛宮家の合鍵",
@@ -745,7 +782,8 @@
         "id": "FS/S77-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-039": {
     "name": "騎英の手綱",
@@ -767,7 +805,8 @@
         "id": "FS/S77-039R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-040": {
     "name": "『大切な人』と『守りたいもの』",
@@ -785,7 +824,8 @@
         "id": "FS/S77-040",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-041": {
     "name": "宝石剣の使い手 凛",
@@ -807,7 +847,8 @@
         "id": "FS/S77-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-042": {
     "name": "戦う覚悟 凛",
@@ -829,7 +870,8 @@
         "id": "FS/S77-042SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-043": {
     "name": "マキリの杯 桜",
@@ -851,7 +893,8 @@
         "id": "FS/S77-043SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-044": {
     "name": "漆黒の美 セイバーオルタ",
@@ -873,7 +916,8 @@
         "id": "FS/S77-044SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-045": {
     "name": "雨の中の戦闘 凛",
@@ -895,7 +939,8 @@
         "id": "FS/S77-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-046": {
     "name": "戦いへ向けて 凛",
@@ -913,7 +958,8 @@
         "id": "FS/S77-046",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-047": {
     "name": "情報共有 凛",
@@ -935,7 +981,8 @@
         "id": "FS/S77-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-048": {
     "name": "流れる涙 桜",
@@ -957,7 +1004,8 @@
         "id": "FS/S77-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-049": {
     "name": "特別な想い 桜",
@@ -979,7 +1027,8 @@
         "id": "FS/S77-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-050": {
     "name": "待ち構える者 セイバーオルタ",
@@ -1001,7 +1050,8 @@
         "id": "FS/S77-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-051": {
     "name": "期間限定の共闘 凛",
@@ -1023,7 +1073,8 @@
         "id": "FS/S77-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-052": {
     "name": "影を受け入れた姿 桜",
@@ -1041,7 +1092,8 @@
         "id": "FS/S77-052",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-053": {
     "name": "微笑 セイバーオルタ",
@@ -1059,7 +1111,8 @@
         "id": "FS/S77-053",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-054": {
     "name": "冷淡な態度 凛",
@@ -1077,7 +1130,8 @@
         "id": "FS/S77-054",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-055": {
     "name": "黒鎧の騎士 セイバーオルタ",
@@ -1095,7 +1149,8 @@
         "id": "FS/S77-055",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-056": {
     "name": "圧倒的な力 桜",
@@ -1113,7 +1168,8 @@
         "id": "FS/S77-056",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-057": {
     "name": "弓兵の導き アーチャー",
@@ -1131,7 +1187,8 @@
         "id": "FS/S77-057",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-058": {
     "name": "冷静沈着 凛",
@@ -1149,7 +1206,8 @@
         "id": "FS/S77-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-059": {
     "name": "嫉妬する 桜",
@@ -1167,7 +1225,8 @@
         "id": "FS/S77-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-060": {
     "name": "黒化した狂戦士 バーサーカー",
@@ -1185,7 +1244,8 @@
         "id": "FS/S77-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-061": {
     "name": "妖しい笑み 桜",
@@ -1203,7 +1263,8 @@
         "id": "FS/S77-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-062": {
     "name": "レクチャー 凛",
@@ -1221,7 +1282,8 @@
         "id": "FS/S77-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-063": {
     "name": "厳しい言葉 凛",
@@ -1239,7 +1301,8 @@
         "id": "FS/S77-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-064": {
     "name": "影の小人",
@@ -1257,7 +1320,8 @@
         "id": "FS/S77-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-065": {
     "name": "心をゆだねる 桜",
@@ -1275,7 +1339,8 @@
         "id": "FS/S77-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-066": {
     "name": "地下室の全貌 アーチャー",
@@ -1293,7 +1358,8 @@
         "id": "FS/S77-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-067": {
     "name": "宝石防御魔術 凛",
@@ -1311,7 +1377,8 @@
         "id": "FS/S77-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-068": {
     "name": "絶叫する バーサーカー",
@@ -1329,7 +1396,8 @@
         "id": "FS/S77-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-069": {
     "name": "黒化した騎士 セイバーオルタ",
@@ -1347,7 +1415,8 @@
         "id": "FS/S77-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-070": {
     "name": "強がりの微笑み 凛",
@@ -1365,7 +1434,8 @@
         "id": "FS/S77-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-071": {
     "name": "舞い飛ぶ影",
@@ -1383,7 +1453,8 @@
         "id": "FS/S77-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-072": {
     "name": "宝石剣ゼルレッチ",
@@ -1401,7 +1472,8 @@
         "id": "FS/S77-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-073": {
     "name": "魔術礼装ゼルレッチ",
@@ -1423,7 +1495,8 @@
         "id": "FS/S77-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-074": {
     "name": "深愛",
@@ -1445,7 +1518,8 @@
         "id": "FS/S77-074R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-075": {
     "name": "気付けた優しさ",
@@ -1463,7 +1537,8 @@
         "id": "FS/S77-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-076": {
     "name": "反転した極光",
@@ -1481,7 +1556,8 @@
         "id": "FS/S77-076",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FS/S77-077": {
     "name": "姉妹の繋がり",
@@ -1499,7 +1575,8 @@
         "id": "FS/S77-077",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FS/S77-078": {
     "name": "天の衣 イリヤ",
@@ -1521,7 +1598,8 @@
         "id": "FS/S77-078SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-079": {
     "name": "銀糸錬金 天使の詩 イリヤ",
@@ -1543,7 +1621,8 @@
         "id": "FS/S77-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-080": {
     "name": "見送る イリヤ",
@@ -1561,7 +1640,8 @@
         "id": "FS/S77-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-081": {
     "name": "謀略の逃走 真アサシン",
@@ -1579,7 +1659,8 @@
         "id": "FS/S77-081",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-082": {
     "name": "闇夜の敵襲 キャスター",
@@ -1597,7 +1678,8 @@
         "id": "FS/S77-082",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-083": {
     "name": "自嘲的な笑み イリヤ",
@@ -1615,7 +1697,8 @@
         "id": "FS/S77-083",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-084": {
     "name": "孤高の存在 言峰綺礼",
@@ -1637,7 +1720,8 @@
         "id": "FS/S77-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-085": {
     "name": "最高峰の魔術師 キャスター",
@@ -1655,7 +1739,8 @@
         "id": "FS/S77-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-086": {
     "name": "狂気の魔術師 臓硯",
@@ -1673,7 +1758,8 @@
         "id": "FS/S77-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-087": {
     "name": "浄化の光 綺礼",
@@ -1691,7 +1777,8 @@
         "id": "FS/S77-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-088": {
     "name": "覇気 バーサーカー",
@@ -1709,7 +1796,8 @@
         "id": "FS/S77-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-089": {
     "name": "朽ちた教会での戦い 綺礼",
@@ -1727,7 +1815,8 @@
         "id": "FS/S77-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-090": {
     "name": "神出鬼没の少女イリヤ",
@@ -1745,7 +1834,8 @@
         "id": "FS/S77-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-091": {
     "name": "雄叫 バーサーカー",
@@ -1763,7 +1853,8 @@
         "id": "FS/S77-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-092": {
     "name": "逃走する 綺礼＆イリヤ",
@@ -1781,7 +1872,8 @@
         "id": "FS/S77-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-093": {
     "name": "導く先へ イリヤ",
@@ -1799,7 +1891,8 @@
         "id": "FS/S77-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-094": {
     "name": "素朴な疑問 イリヤ",
@@ -1817,7 +1910,8 @@
         "id": "FS/S77-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-095": {
     "name": "記念撮影 宗一郎",
@@ -1835,7 +1929,8 @@
         "id": "FS/S77-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-096": {
     "name": "時を待つ イリヤ",
@@ -1853,7 +1948,8 @@
         "id": "FS/S77-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-097": {
     "name": "解放の要求 真アサシン",
@@ -1871,7 +1967,8 @@
         "id": "FS/S77-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-098": {
     "name": "洗礼詠唱",
@@ -1889,7 +1986,8 @@
         "id": "FS/S77-098",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S77-099": {
     "name": "天の杯",
@@ -1911,7 +2009,8 @@
         "id": "FS/S77-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S77-100": {
     "name": "立ちはだかる壁",
@@ -1929,6 +2028,7 @@
         "id": "FS/S77-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

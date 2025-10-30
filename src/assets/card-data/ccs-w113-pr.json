@@ -19,7 +19,8 @@
         "id": "CCS/W113-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-P02": {
     "name": "“Catch You Catch Me”木之本桜",
@@ -37,6 +38,7 @@
         "id": "CCS/W113-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

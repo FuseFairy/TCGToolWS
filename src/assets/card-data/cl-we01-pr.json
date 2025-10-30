@@ -15,7 +15,8 @@
         "id": "CL/WE01-46",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE01-47": {
     "name": "春原コンボ",
@@ -33,7 +34,8 @@
         "id": "CL/WE01-47",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE01-48": {
     "name": "花畑の少女たち",
@@ -51,7 +53,8 @@
         "id": "CL/WE01-48",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE01-49": {
     "name": "コンボを繋げる杏",
@@ -69,6 +72,7 @@
         "id": "CL/WE01-49",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

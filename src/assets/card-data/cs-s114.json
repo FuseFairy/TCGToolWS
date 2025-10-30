@@ -19,7 +19,8 @@
         "id": "CS/S114-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-002": {
     "name": "キラキラ大好き ひまわり",
@@ -41,7 +42,8 @@
         "id": "CS/S114-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-003": {
     "name": "ヘンダーランドの大冒険 しんのすけ",
@@ -63,7 +65,8 @@
         "id": "CS/S114-003MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-004": {
     "name": "電撃！ブタのヒヅメ大作戦 しんのすけ",
@@ -85,7 +88,8 @@
         "id": "CS/S114-004MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-005": {
     "name": "マカオ＆ジョマ",
@@ -111,7 +115,8 @@
         "id": "CS/S114-005SPb",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-006": {
     "name": "魔法のマペット トッペマ",
@@ -133,7 +138,8 @@
         "id": "CS/S114-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-007": {
     "name": "暗黒タマタマ大追跡 しんのすけ",
@@ -155,7 +161,8 @@
         "id": "CS/S114-007MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-008": {
     "name": "正義のヒーロー しんのすけマン",
@@ -177,7 +184,8 @@
         "id": "CS/S114-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-009": {
     "name": "憧れの銃撃戦 よね",
@@ -199,7 +207,8 @@
         "id": "CS/S114-009SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-010": {
     "name": "温泉Gメン 後生掛",
@@ -221,7 +230,8 @@
         "id": "CS/S114-010SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-011": {
     "name": "正義のヒロイン プリティミサエス",
@@ -243,7 +253,8 @@
         "id": "CS/S114-011SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-012": {
     "name": "襲来!!宇宙人シリリ しんのすけ",
@@ -265,7 +276,8 @@
         "id": "CS/S114-012MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-013": {
     "name": "ドン・クラーイの住民 マタ・タミ",
@@ -287,7 +299,8 @@
         "id": "CS/S114-013SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-014": {
     "name": "温泉Gメン 指宿",
@@ -309,7 +322,8 @@
         "id": "CS/S114-014SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-015": {
     "name": "ちょー嵐を呼ぶ 金矛の勇者 しんのすけ",
@@ -331,7 +345,8 @@
         "id": "CS/S114-015MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-016": {
     "name": "魔法の雪だるま ス・ノーマン・パー",
@@ -353,7 +368,8 @@
         "id": "CS/S114-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-017": {
     "name": "爆発!温泉わくわく大決戦 しんのすけ",
@@ -375,7 +391,8 @@
         "id": "CS/S114-017MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-018": {
     "name": "伝説を呼ぶブリブリ 3分ポッキリ大進撃 しんのすけ",
@@ -397,7 +414,8 @@
         "id": "CS/S114-018MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-019": {
     "name": "しんのすけ＆ナナ＆シロ",
@@ -419,7 +437,8 @@
         "id": "CS/S114-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-020": {
     "name": "嵐を呼ぶ 栄光のヤキニクロード しんのすけ",
@@ -441,7 +460,8 @@
         "id": "CS/S114-020MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-021": {
     "name": "オタケベ!カスカベ野生王国 しんのすけ",
@@ -463,7 +483,8 @@
         "id": "CS/S114-021MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-022": {
     "name": "スゲーナ・スゴイデス",
@@ -485,7 +506,8 @@
         "id": "CS/S114-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-023": {
     "name": "どたばた追いかけっこ",
@@ -507,7 +529,8 @@
         "id": "CS/S114-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CS/S114-024": {
     "name": "大騒ぎの救出劇",
@@ -529,7 +552,8 @@
         "id": "CS/S114-024R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-025": {
     "name": "今夜は焼肉！",
@@ -551,7 +575,8 @@
         "id": "CS/S114-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CS/S114-026": {
     "name": "オラはにんきもの しんのすけ",
@@ -573,7 +598,8 @@
         "id": "CS/S114-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-027": {
     "name": "嵐を呼ぶ!夕陽のカスカベボーイズ しんのすけ",
@@ -595,7 +621,8 @@
         "id": "CS/S114-027MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-028": {
     "name": "爆睡！ユメミーワールド大突撃 しんのすけ",
@@ -617,7 +644,8 @@
         "id": "CS/S114-028MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-029": {
     "name": "強い者の味方 ぶりぶりざえもん",
@@ -639,7 +667,8 @@
         "id": "CS/S114-029SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-030": {
     "name": "正義の仮面 アクション仮面",
@@ -661,7 +690,8 @@
         "id": "CS/S114-030SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-031": {
     "name": "嵐を呼ぶジャングル しんのすけ",
@@ -683,7 +713,8 @@
         "id": "CS/S114-031MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-032": {
     "name": "エリート志向 風間くん",
@@ -705,7 +736,8 @@
         "id": "CS/S114-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-033": {
     "name": "ミステリアス ボーちゃん",
@@ -727,7 +759,8 @@
         "id": "CS/S114-033SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-034": {
     "name": "映画の世界の少女 つばき",
@@ -749,7 +782,8 @@
         "id": "CS/S114-034SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-035": {
     "name": "夢は石!? ボーちゃん",
@@ -771,7 +805,8 @@
         "id": "CS/S114-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-036": {
     "name": "夢の世界は無限大 しんのすけ",
@@ -793,7 +828,8 @@
         "id": "CS/S114-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-037": {
     "name": "頼れる助手 リリ子＆ミミ子",
@@ -815,7 +851,8 @@
         "id": "CS/S114-037SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-038": {
     "name": "超時空!嵐を呼ぶオラの花嫁 しんのすけ",
@@ -837,7 +874,8 @@
         "id": "CS/S114-038MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-039": {
     "name": "選ばれし勇者 しんのすけ",
@@ -859,7 +897,8 @@
         "id": "CS/S114-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-040": {
     "name": "“アクション仮面カードNo.99” しんのすけ",
@@ -881,7 +920,8 @@
         "id": "CS/S114-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-041": {
     "name": "孤高の王様 パラダイスキング",
@@ -903,7 +943,8 @@
         "id": "CS/S114-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-042": {
     "name": "夢はアイドル！ ネネちゃん",
@@ -925,7 +966,8 @@
         "id": "CS/S114-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-043": {
     "name": "未来の花嫁 タミコ",
@@ -947,7 +989,8 @@
         "id": "CS/S114-043SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-044": {
     "name": "“SML”のエージェント お色気",
@@ -969,7 +1012,8 @@
         "id": "CS/S114-044SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-045": {
     "name": "アクション仮面VSハイグレ魔王 しんのすけ",
@@ -991,7 +1035,8 @@
         "id": "CS/S114-045MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-046": {
     "name": "初めてのお友達 サキ",
@@ -1013,7 +1058,8 @@
         "id": "CS/S114-046SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-047": {
     "name": "“おわり”のない映画",
@@ -1035,7 +1081,8 @@
         "id": "CS/S114-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-048": {
     "name": "またの名を、カスカベ防衛隊！",
@@ -1057,7 +1104,8 @@
         "id": "CS/S114-048R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-049": {
     "name": "おやすみなさーい！",
@@ -1079,7 +1127,8 @@
         "id": "CS/S114-049R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-050": {
     "name": "ケツだけ歩き大行進",
@@ -1101,7 +1150,8 @@
         "id": "CS/S114-050R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CS/S114-051": {
     "name": "やさしいかーちゃん みさえ",
@@ -1123,7 +1173,8 @@
         "id": "CS/S114-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-052": {
     "name": "ガチンコ!逆襲のロボとーちゃん しんのすけ",
@@ -1145,7 +1196,8 @@
         "id": "CS/S114-052MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-053": {
     "name": "ふたりのとーちゃん ひろし＆ロボひろし",
@@ -1167,7 +1219,8 @@
         "id": "CS/S114-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-054": {
     "name": "夫婦の絆 みさえ",
@@ -1189,7 +1242,8 @@
         "id": "CS/S114-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-055": {
     "name": "嵐を呼ぶ!オラと宇宙のプリンセス ひまわり＆しんのすけ",
@@ -1211,7 +1265,8 @@
         "id": "CS/S114-055MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-056": {
     "name": "伝説を呼ぶ 踊れ!アミーゴ! しんのすけ",
@@ -1233,7 +1288,8 @@
         "id": "CS/S114-056MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-057": {
     "name": "嵐を呼ぶ 歌うケツだけ爆弾! シロ＆しんのすけ",
@@ -1255,7 +1311,8 @@
         "id": "CS/S114-057MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-058": {
     "name": "夫婦の絆 ひろし",
@@ -1277,7 +1334,8 @@
         "id": "CS/S114-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-059": {
     "name": "嵐を呼ぶ モーレツ!オトナ帝国の逆襲 しんのすけ",
@@ -1299,7 +1357,8 @@
         "id": "CS/S114-059MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-060": {
     "name": "ブリブリ王国の秘宝 しんのすけ",
@@ -1321,7 +1380,8 @@
         "id": "CS/S114-060MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-061": {
     "name": "優しいお兄ちゃん しんのすけ＆ひまわり",
@@ -1343,7 +1403,8 @@
         "id": "CS/S114-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-062": {
     "name": "雲黒斎の野望 しんのすけ",
@@ -1365,7 +1426,8 @@
         "id": "CS/S114-062MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-063": {
     "name": "スーパーロボット ロボひろし",
@@ -1387,7 +1449,8 @@
         "id": "CS/S114-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-064": {
     "name": "“SRI”特捜員 ジャッキー",
@@ -1409,7 +1472,8 @@
         "id": "CS/S114-064SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-065": {
     "name": "春日家の跡取り 吹雪丸",
@@ -1431,7 +1495,8 @@
         "id": "CS/S114-065SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-066": {
     "name": "ノリノリフィーバー ひろし",
@@ -1453,7 +1518,8 @@
         "id": "CS/S114-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-067": {
     "name": "お尋ね者 シロ",
@@ -1475,7 +1541,8 @@
         "id": "CS/S114-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-068": {
     "name": "トレジャーハンター インディ・ジュンコ",
@@ -1497,7 +1564,8 @@
         "id": "CS/S114-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-069": {
     "name": "未来のひまわり",
@@ -1519,7 +1587,8 @@
         "id": "CS/S114-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-070": {
     "name": "王家の侍従 ルル",
@@ -1541,7 +1610,8 @@
         "id": "CS/S114-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-071": {
     "name": "新婚旅行ハリケーン しんのすけ",
@@ -1563,7 +1633,8 @@
         "id": "CS/S114-071MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-072": {
     "name": "オラの引越し物語",
@@ -1585,7 +1656,8 @@
         "id": "CS/S114-072MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-073": {
     "name": "ロボ、でもとーちゃん",
@@ -1607,7 +1679,8 @@
         "id": "CS/S114-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-074": {
     "name": "ラブラブファイヤー！",
@@ -1629,7 +1702,8 @@
         "id": "CS/S114-074SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-075": {
     "name": "“世界サンバ化計画”進行中",
@@ -1651,7 +1725,8 @@
         "id": "CS/S114-075R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-076": {
     "name": "謎メキ!花の天カス学園 しんのすけ",
@@ -1673,7 +1748,8 @@
         "id": "CS/S114-076MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-077": {
     "name": "嵐を呼ぶ アッパレ!戦国大合戦 しんのすけ",
@@ -1695,7 +1771,8 @@
         "id": "CS/S114-077MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-078": {
     "name": "お友達 しんのすけ＆珍蔵",
@@ -1717,7 +1794,8 @@
         "id": "CS/S114-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-079": {
     "name": "爆盛！カンフーボーイズ しんのすけ",
@@ -1739,7 +1817,8 @@
         "id": "CS/S114-079MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-080": {
     "name": "激突! ラクガキングダム しんのすけ",
@@ -1761,7 +1840,8 @@
         "id": "CS/S114-080MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-081": {
     "name": "バカうまっ!B級グルメサバイバル!! しんのすけ",
@@ -1783,7 +1863,8 @@
         "id": "CS/S114-081MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-082": {
     "name": "オラたちの恐竜日記 しんのすけ",
@@ -1805,7 +1886,8 @@
         "id": "CS/S114-082MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-083": {
     "name": "泣き虫少年 マサオくん",
@@ -1827,7 +1909,8 @@
         "id": "CS/S114-083SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-084": {
     "name": "鬼義理のマサ",
@@ -1849,7 +1932,8 @@
         "id": "CS/S114-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-085": {
     "name": "ミラクルクレヨン ニセななこ",
@@ -1871,7 +1955,8 @@
         "id": "CS/S114-085SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-086": {
     "name": "スーパーエリート カザマさん",
@@ -1893,7 +1978,8 @@
         "id": "CS/S114-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-087": {
     "name": "たくさんの宝物 しんのすけ＆ぶりぶりざえもん",
@@ -1915,7 +2001,8 @@
         "id": "CS/S114-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-088": {
     "name": "嵐を呼ぶ 黄金のスパイ大作戦 しんのすけ",
@@ -1937,7 +2024,8 @@
         "id": "CS/S114-088MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-089": {
     "name": "ラクガキ勇者 しんのすけ＆ぶりぶりざえもん",
@@ -1959,7 +2047,8 @@
         "id": "CS/S114-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-090": {
     "name": "もののけニンジャ珍風伝 しんのすけ",
@@ -1981,7 +2070,8 @@
         "id": "CS/S114-090MVR",
         "rarity": "MVR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-091": {
     "name": "アクションスパイ しんのすけ",
@@ -2003,7 +2093,8 @@
         "id": "CS/S114-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-092": {
     "name": "アクションスパイ レモン",
@@ -2025,7 +2116,8 @@
         "id": "CS/S114-092SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-093": {
     "name": "屁祖隠家のせがれ 珍蔵",
@@ -2047,7 +2139,8 @@
         "id": "CS/S114-093SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-094": {
     "name": "思い出のK・Bバッジ しんのすけ",
@@ -2069,7 +2162,8 @@
         "id": "CS/S114-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-095": {
     "name": "カスカベ防衛隊の紅一点 ネネちゃん",
@@ -2091,7 +2185,8 @@
         "id": "CS/S114-095SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-096": {
     "name": "ぷにぷに拳の使い手 玉蘭",
@@ -2113,7 +2208,8 @@
         "id": "CS/S114-096SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-097": {
     "name": "メイド・イン・埼玉",
@@ -2135,7 +2231,8 @@
         "id": "CS/S114-097S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-098": {
     "name": "やきそばパン買ってこい！",
@@ -2157,7 +2254,8 @@
         "id": "CS/S114-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-099": {
     "name": "世界を救え、クレヨンで",
@@ -2179,7 +2277,8 @@
         "id": "CS/S114-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CS/S114-100": {
     "name": "正義のコンビ結成!!",
@@ -2201,6 +2300,7 @@
         "id": "CS/S114-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

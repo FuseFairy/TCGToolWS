@@ -15,7 +15,8 @@
         "id": "P4/SE15-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/SE15-P02": {
     "name": "支援のスペシャリスト 風花",
@@ -33,6 +34,7 @@
         "id": "P4/SE15-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

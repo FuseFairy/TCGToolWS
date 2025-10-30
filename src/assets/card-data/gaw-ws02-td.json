@@ -19,7 +19,8 @@
         "id": "Gaw/WS02-T22R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gaw/WS02-T27": {
     "name": "現実世界の温もり",
@@ -41,7 +42,8 @@
         "id": "Gaw/WS02-T27R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gaw/WS02-T30": {
     "name": "二人の王 黒雪姫＆ニコ",
@@ -63,7 +65,8 @@
         "id": "Gaw/WS02-T30R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gaw/WS02-T31": {
     "name": "赤と黒の対峙",
@@ -85,6 +88,7 @@
         "id": "Gaw/WS02-T31R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

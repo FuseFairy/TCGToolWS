@@ -19,7 +19,8 @@
         "id": "Fdl/W65-074SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fdl/W65-076": {
     "name": "白翼の〈エンジェル〉 折紙",
@@ -41,7 +42,8 @@
         "id": "Fdl/W65-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdl/W65-077": {
     "name": "Elegant Clockwork 狂三",
@@ -63,7 +65,8 @@
         "id": "Fdl/W65-077FBR",
         "rarity": "FBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdl/W65-080": {
     "name": "純真の〈プリンセス〉 十香",
@@ -85,7 +88,8 @@
         "id": "Fdl/W65-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fdl/W65-083": {
     "name": "灼愛の〈イフリート〉 琴里",
@@ -103,7 +107,8 @@
         "id": "Fdl/W65-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdl/W65-086": {
     "name": "臆病な〈ハーミット〉 四糸乃",
@@ -121,7 +126,8 @@
         "id": "Fdl/W65-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdl/W65-088": {
     "name": "誘惑の〈ディーヴァ〉 美九",
@@ -139,7 +145,8 @@
         "id": "Fdl/W65-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fdl/W65-091": {
     "name": "舞風の〈ベルセルク〉 耶倶矢＆夕弦",
@@ -157,7 +164,8 @@
         "id": "Fdl/W65-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdl/W65-093": {
     "name": "彼女たちの救精主 士道",
@@ -175,7 +183,8 @@
         "id": "Fdl/W65-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdl/W65-094": {
     "name": "抱え込んだ過去 折紙",
@@ -193,7 +202,8 @@
         "id": "Fdl/W65-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdl/W65-099": {
     "name": "魔王の愛",
@@ -211,7 +221,8 @@
         "id": "Fdl/W65-099",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdl/W65-101": {
     "name": "死出の旅",
@@ -233,7 +244,8 @@
         "id": "Fdl/W65-101R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fdl/W65-103": {
     "name": "鋼鉄の襲撃",
@@ -251,6 +263,7 @@
         "id": "Fdl/W65-103",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -19,7 +19,8 @@
         "id": "SAO/S80-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-002": {
     "name": "魂の在処 アリス",
@@ -41,7 +42,8 @@
         "id": "SAO/S80-002OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-003": {
     "name": "共闘 アスナ＆アリス",
@@ -63,7 +65,8 @@
         "id": "SAO/S80-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-004": {
     "name": "折れぬ闘志 アスナ",
@@ -85,7 +88,8 @@
         "id": "SAO/S80-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-005": {
     "name": "《光の巫女》アリス",
@@ -107,7 +111,8 @@
         "id": "SAO/S80-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-006": {
     "name": "剣気裂帛 アリス",
@@ -129,7 +134,8 @@
         "id": "SAO/S80-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-007": {
     "name": "艶姿 アリス",
@@ -151,7 +157,8 @@
         "id": "SAO/S80-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-008": {
     "name": "街角のピンナップ アスナ＆アリス",
@@ -173,7 +180,8 @@
         "id": "SAO/S80-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-009": {
     "name": "二人はライバル？ アスナ＆アリス",
@@ -195,7 +203,8 @@
         "id": "SAO/S80-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-010": {
     "name": "《創世神ステイシア》アスナ",
@@ -217,7 +226,8 @@
         "id": "SAO/S80-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-011": {
     "name": "不安な夜 アリス",
@@ -239,7 +249,8 @@
         "id": "SAO/S80-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-012": {
     "name": "キリトの元へ アスナ",
@@ -257,7 +268,8 @@
         "id": "SAO/S80-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-013": {
     "name": "決別の時 アリス",
@@ -275,7 +287,8 @@
         "id": "SAO/S80-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-014": {
     "name": "故郷の空 アリス",
@@ -293,7 +306,8 @@
         "id": "SAO/S80-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-015": {
     "name": "常夏の浜辺 アリス＆明日奈",
@@ -311,7 +325,8 @@
         "id": "SAO/S80-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-016": {
     "name": "海洋資源探査研究機構 凛子",
@@ -329,7 +344,8 @@
         "id": "SAO/S80-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-017": {
     "name": "姉妹水入らず セルカ＆アリス",
@@ -347,7 +363,8 @@
         "id": "SAO/S80-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-018": {
     "name": "“剣を振れる限り”アリス",
@@ -365,7 +382,8 @@
         "id": "SAO/S80-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-019": {
     "name": "夏の日のアリス",
@@ -383,7 +401,8 @@
         "id": "SAO/S80-019",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-020": {
     "name": "夏の日のアスナ",
@@ -401,7 +420,8 @@
         "id": "SAO/S80-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-021": {
     "name": "《ニエモン》",
@@ -419,7 +439,8 @@
         "id": "SAO/S80-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-022": {
     "name": "天才エンジニア 比嘉",
@@ -437,7 +458,8 @@
         "id": "SAO/S80-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-023": {
     "name": "陸上自衛隊二等陸佐 菊岡",
@@ -455,7 +477,8 @@
         "id": "SAO/S80-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-024": {
     "name": "《無制限地形操作》アスナ",
@@ -473,7 +496,8 @@
         "id": "SAO/S80-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-025": {
     "name": "時の彼方へ アスナ",
@@ -491,7 +515,8 @@
         "id": "SAO/S80-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-026": {
     "name": "“思い出は消えない”アスナ",
@@ -509,7 +534,8 @@
         "id": "SAO/S80-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-027": {
     "name": "“安心させてね”明日奈",
@@ -527,7 +553,8 @@
         "id": "SAO/S80-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-028": {
     "name": "魂の複製",
@@ -545,7 +572,8 @@
         "id": "SAO/S80-028",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-029": {
     "name": "思い出はここに",
@@ -567,7 +595,8 @@
         "id": "SAO/S80-029R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-030": {
     "name": "《マザーズ・ロザリオ》",
@@ -589,7 +618,8 @@
         "id": "SAO/S80-030OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-031": {
     "name": "ニューワールド",
@@ -611,7 +641,8 @@
         "id": "SAO/S80-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-032": {
     "name": "神様？それとも",
@@ -629,7 +660,8 @@
         "id": "SAO/S80-032",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-033": {
     "name": "妹として リーファ",
@@ -651,7 +683,8 @@
         "id": "SAO/S80-033SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-034": {
     "name": "整合騎士 エルドリエ",
@@ -669,7 +702,8 @@
         "id": "SAO/S80-034",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-035": {
     "name": "頼もしい後輩 ティーゼ＆ロニエ",
@@ -691,7 +725,8 @@
         "id": "SAO/S80-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-036": {
     "name": "望外の救援 ユナ＆エイジ",
@@ -713,7 +748,8 @@
         "id": "SAO/S80-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-037": {
     "name": "《地神テラリア》リーファ",
@@ -735,7 +771,8 @@
         "id": "SAO/S80-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-038": {
     "name": "整合騎士団長 ベルクーリ",
@@ -757,7 +794,8 @@
         "id": "SAO/S80-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-039": {
     "name": "分け隔てなく リーファ",
@@ -775,7 +813,8 @@
         "id": "SAO/S80-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-040": {
     "name": "笑顔の元気印 ロニエ",
@@ -793,7 +832,8 @@
         "id": "SAO/S80-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-041": {
     "name": "奇跡の願い ティーゼ",
@@ -811,7 +851,8 @@
         "id": "SAO/S80-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-042": {
     "name": "整合騎士 リネル",
@@ -829,7 +870,8 @@
         "id": "SAO/S80-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-043": {
     "name": "整合騎士 フィゼル",
@@ -847,7 +889,8 @@
         "id": "SAO/S80-043",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-044": {
     "name": "漢気の大将 ベルクーリ",
@@ -865,7 +908,8 @@
         "id": "SAO/S80-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-045": {
     "name": "整合騎士団副長 ファナティオ",
@@ -883,7 +927,8 @@
         "id": "SAO/S80-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-046": {
     "name": "整合騎士 レンリ",
@@ -901,7 +946,8 @@
         "id": "SAO/S80-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-047": {
     "name": "重なる面影 ユナ",
@@ -923,7 +969,8 @@
         "id": "SAO/S80-047b",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-048": {
     "name": "整合騎士 シェータ",
@@ -941,7 +988,8 @@
         "id": "SAO/S80-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-049": {
     "name": "蘇る雄姿 エイジ",
@@ -963,7 +1011,8 @@
         "id": "SAO/S80-049b",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-050": {
     "name": "《無制限自動回復》リーファ",
@@ -981,7 +1030,8 @@
         "id": "SAO/S80-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-051": {
     "name": "パジャマパーティー ソルティリーナ",
@@ -999,7 +1049,8 @@
         "id": "SAO/S80-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-052": {
     "name": "気合十分 リーファ",
@@ -1017,7 +1068,8 @@
         "id": "SAO/S80-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-053": {
     "name": "整合騎士 デュソルバート",
@@ -1035,7 +1087,8 @@
         "id": "SAO/S80-053",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-054": {
     "name": "斬るべきは悪",
@@ -1057,7 +1110,8 @@
         "id": "SAO/S80-054R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-055": {
     "name": "時穿剣・裏斬",
@@ -1079,7 +1133,8 @@
         "id": "SAO/S80-055R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-056": {
     "name": "記憶に生きるアドミニストレータ",
@@ -1097,7 +1152,8 @@
         "id": "SAO/S80-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-057": {
     "name": "暗黒騎士団所属 リピア",
@@ -1115,7 +1171,8 @@
         "id": "SAO/S80-057",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-058": {
     "name": "暗黒神ベクタ",
@@ -1133,7 +1190,8 @@
         "id": "SAO/S80-058",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-059": {
     "name": "虚無なる心意 ガブリエル",
@@ -1155,7 +1213,8 @@
         "id": "SAO/S80-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-060": {
     "name": "“コンバート”の説得 リズベット",
@@ -1173,7 +1232,8 @@
         "id": "SAO/S80-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-061": {
     "name": "対立の扇動者 ヴァサゴ",
@@ -1191,7 +1251,8 @@
         "id": "SAO/S80-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-062": {
     "name": "PoH",
@@ -1209,7 +1270,8 @@
         "id": "SAO/S80-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-063": {
     "name": "邂逅 サトライザー",
@@ -1227,7 +1289,8 @@
         "id": "SAO/S80-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-064": {
     "name": "暗黒騎士団長 シャスター",
@@ -1245,7 +1308,8 @@
         "id": "SAO/S80-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-065": {
     "name": "オーク族の長 リルピリン",
@@ -1263,7 +1327,8 @@
         "id": "SAO/S80-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-066": {
     "name": "赤銅の群 暗黒騎士",
@@ -1281,7 +1346,8 @@
         "id": "SAO/S80-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-067": {
     "name": "“コンバート”シリカ",
@@ -1299,7 +1365,8 @@
         "id": "SAO/S80-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-068": {
     "name": "暗黒術師ギルド総長 ディー・アイ・エル",
@@ -1317,7 +1384,8 @@
         "id": "SAO/S80-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-069": {
     "name": "拳闘士ギルドチャンピオン イスカーン",
@@ -1335,7 +1403,8 @@
         "id": "SAO/S80-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-070": {
     "name": "限界加速フェーズ",
@@ -1353,7 +1422,8 @@
         "id": "SAO/S80-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-071": {
     "name": "虚無の刃",
@@ -1375,7 +1445,8 @@
         "id": "SAO/S80-071R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-072": {
     "name": "憎悪の伝道",
@@ -1397,7 +1468,8 @@
         "id": "SAO/S80-072R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-073": {
     "name": "立ち上がる時 キリト",
@@ -1419,7 +1491,8 @@
         "id": "SAO/S80-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-074": {
     "name": "夜空を纏う英雄 キリト",
@@ -1441,7 +1514,8 @@
         "id": "SAO/S80-074OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-075": {
     "name": "“アインクラッド流”ユージオ",
@@ -1463,7 +1537,8 @@
         "id": "SAO/S80-075SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-076": {
     "name": "“闇を貫く光”シノン",
@@ -1485,7 +1560,8 @@
         "id": "SAO/S80-076SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-077": {
     "name": "頼もしい背中 キリト",
@@ -1503,7 +1579,8 @@
         "id": "SAO/S80-077",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-078": {
     "name": "《記憶解放》ユージオ",
@@ -1525,7 +1602,8 @@
         "id": "SAO/S80-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-079": {
     "name": "《太陽神ソルス》シノン",
@@ -1547,7 +1625,8 @@
         "id": "SAO/S80-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-080": {
     "name": "リアルワールドへの帰還 和人",
@@ -1565,7 +1644,8 @@
         "id": "SAO/S80-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-081": {
     "name": "最後のピース ユージオ",
@@ -1587,7 +1667,8 @@
         "id": "SAO/S80-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-082": {
     "name": "雪辱の時 シノン",
@@ -1609,7 +1690,8 @@
         "id": "SAO/S80-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-083": {
     "name": "《スターバースト・ストリーム》キリト",
@@ -1631,7 +1713,8 @@
         "id": "SAO/S80-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-084": {
     "name": "時の彼方へ キリト",
@@ -1649,7 +1732,8 @@
         "id": "SAO/S80-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-085": {
     "name": "“コンバート”への奔走 ユイ",
@@ -1667,7 +1751,8 @@
         "id": "SAO/S80-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-086": {
     "name": "確かに残るもの ユージオ",
@@ -1685,7 +1770,8 @@
         "id": "SAO/S80-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-087": {
     "name": "正々堂々 キリト",
@@ -1707,7 +1793,8 @@
         "id": "SAO/S80-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-088": {
     "name": "何か大切なこと キリト",
@@ -1725,7 +1812,8 @@
         "id": "SAO/S80-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-089": {
     "name": "《広範囲殲滅攻撃》シノン",
@@ -1743,7 +1831,8 @@
         "id": "SAO/S80-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-090": {
     "name": "極限の集中力 シノン",
@@ -1761,7 +1850,8 @@
         "id": "SAO/S80-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-091": {
     "name": "“コンバート”エギル",
@@ -1779,7 +1869,8 @@
         "id": "SAO/S80-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-092": {
     "name": "砕けたセルフ・イメージ キリト",
@@ -1797,7 +1888,8 @@
         "id": "SAO/S80-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-093": {
     "name": "“コンバート”クライン",
@@ -1815,7 +1907,8 @@
         "id": "SAO/S80-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-094": {
     "name": "思い出とともに キリト&ユージオ",
@@ -1833,7 +1926,8 @@
         "id": "SAO/S80-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-095": {
     "name": "UW再訪 キリト",
@@ -1851,7 +1945,8 @@
         "id": "SAO/S80-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-096": {
     "name": "War of Underworld",
@@ -1873,7 +1968,8 @@
         "id": "SAO/S80-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-097": {
     "name": "世界を包む夜空",
@@ -1895,7 +1991,8 @@
         "id": "SAO/S80-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-098": {
     "name": "《ウルティマラティオ・ヘカートⅡ》",
@@ -1917,7 +2014,8 @@
         "id": "SAO/S80-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-099": {
     "name": "癒える心",
@@ -1935,7 +2033,8 @@
         "id": "SAO/S80-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SAO/S80-100": {
     "name": "虹色の波動",
@@ -1953,6 +2052,7 @@
         "id": "SAO/S80-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

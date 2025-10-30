@@ -15,7 +15,8 @@
         "id": "Fii/W65-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fii/W65-T19": {
     "name": "危ない妹 涼花",
@@ -33,6 +34,7 @@
         "id": "Fii/W65-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

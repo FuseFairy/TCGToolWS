@@ -15,7 +15,8 @@
         "id": "SAO/SE23-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-T02": {
     "name": "詩乃を守る恭二",
@@ -33,7 +34,8 @@
         "id": "SAO/SE23-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-T03": {
     "name": "素材収集 リズベット",
@@ -51,7 +53,8 @@
         "id": "SAO/SE23-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-T04": {
     "name": "正体不明《死銃》",
@@ -69,7 +72,8 @@
         "id": "SAO/SE23-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-T05": {
     "name": "自信満々 シリカ",
@@ -87,7 +91,8 @@
         "id": "SAO/SE23-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-T06": {
     "name": "“本物”の力《死銃》",
@@ -105,7 +110,8 @@
         "id": "SAO/SE23-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-T07": {
     "name": "予期せぬ遭遇《死銃》",
@@ -123,7 +129,8 @@
         "id": "SAO/SE23-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-T08": {
     "name": "《死銃》の力",
@@ -141,7 +148,8 @@
         "id": "SAO/SE23-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-T09": {
     "name": "まるで女の子 キリト",
@@ -159,7 +167,8 @@
         "id": "SAO/SE23-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-T10": {
     "name": "帰ってくる場所 アスナ",
@@ -177,7 +186,8 @@
         "id": "SAO/SE23-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-T11": {
     "name": "M9000番系アバター キリト",
@@ -195,7 +205,8 @@
         "id": "SAO/SE23-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-T12": {
     "name": "親切な案内役 シノン",
@@ -213,7 +224,8 @@
         "id": "SAO/SE23-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-T13": {
     "name": "もう一人の自分 詩乃",
@@ -231,7 +243,8 @@
         "id": "SAO/SE23-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-T14": {
     "name": "“銃世界の剣士”キリト",
@@ -249,7 +262,8 @@
         "id": "SAO/SE23-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-T15": {
     "name": "“氷の機械”シノン",
@@ -267,7 +281,8 @@
         "id": "SAO/SE23-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-T16": {
     "name": "撃ち抜く覚悟 キリト",
@@ -285,7 +300,8 @@
         "id": "SAO/SE23-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-T17": {
     "name": "優秀な狙撃手 シノン",
@@ -303,7 +319,8 @@
         "id": "SAO/SE23-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-T18": {
     "name": "遅れた自己紹介",
@@ -321,7 +338,8 @@
         "id": "SAO/SE23-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-T19": {
     "name": "《光剣》の使い手",
@@ -339,7 +357,8 @@
         "id": "SAO/SE23-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SAO/SE23-T20": {
     "name": "相棒《HecateⅡ》",
@@ -357,6 +376,7 @@
         "id": "SAO/SE23-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

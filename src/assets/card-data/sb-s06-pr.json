@@ -15,7 +15,8 @@
         "id": "SB/S06-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-104": {
     "name": "“燃える魂”真田幸村",
@@ -33,7 +34,8 @@
         "id": "SB/S06-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-105": {
     "name": "“若き虎”真田 幸村",
@@ -51,7 +53,8 @@
         "id": "SB/S06-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-106": {
     "name": "戦国BASARA",
@@ -69,7 +72,8 @@
         "id": "SB/S06-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SB/S06-107": {
     "name": "“Cool&The Gang”政宗＆元親",
@@ -87,7 +91,8 @@
         "id": "SB/S06-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-108": {
     "name": "“クールガイ”伊達 政宗",
@@ -105,7 +110,8 @@
         "id": "SB/S06-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-109": {
     "name": "“カリスマ”伊達 政宗",
@@ -123,7 +129,8 @@
         "id": "SB/S06-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-110": {
     "name": "“英雄”政宗＆幸村",
@@ -141,6 +148,7 @@
         "id": "SB/S06-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

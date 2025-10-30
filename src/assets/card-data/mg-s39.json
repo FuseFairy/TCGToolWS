@@ -19,7 +19,8 @@
         "id": "MG/S39-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-002": {
     "name": "“怪異殺し”忍野忍",
@@ -41,7 +42,8 @@
         "id": "MG/S39-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-003": {
     "name": "神様 千石撫子",
@@ -59,7 +61,8 @@
         "id": "MG/S39-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-004": {
     "name": "お昼寝 八九寺真宵",
@@ -81,7 +84,8 @@
         "id": "MG/S39-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-005": {
     "name": "ウロボロスのあやとり 千石撫子",
@@ -103,7 +107,8 @@
         "id": "MG/S39-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-006": {
     "name": "昔話 忍野忍",
@@ -125,7 +130,8 @@
         "id": "MG/S39-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-007": {
     "name": "“最後”まで笑顔 八九寺真宵",
@@ -147,7 +153,8 @@
         "id": "MG/S39-007R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-008": {
     "name": "一心同体のパートナー 忍野忍",
@@ -165,7 +172,8 @@
         "id": "MG/S39-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-009": {
     "name": "中学生 忍野忍",
@@ -183,7 +191,8 @@
         "id": "MG/S39-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-010": {
     "name": "ご神体の情報 千石撫子",
@@ -201,7 +210,8 @@
         "id": "MG/S39-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-011": {
     "name": "『阿良々木さん嫌いプレイ』八九寺真宵",
@@ -219,7 +229,8 @@
         "id": "MG/S39-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-012": {
     "name": "八九寺真宵さん",
@@ -237,7 +248,8 @@
         "id": "MG/S39-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-013": {
     "name": "少しの歩み寄り キスショット・アセロラオリオン・ハートアンダーブレード",
@@ -255,7 +267,8 @@
         "id": "MG/S39-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-014": {
     "name": "混乱状態 八九寺真宵",
@@ -273,7 +286,8 @@
         "id": "MG/S39-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-015": {
     "name": "時間移動 阿良々木暦",
@@ -291,7 +305,8 @@
         "id": "MG/S39-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-016": {
     "name": "迷子の少女 八九寺真宵",
@@ -309,7 +324,8 @@
         "id": "MG/S39-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-017": {
     "name": "口先だけでも前向き 千石撫子",
@@ -327,7 +343,8 @@
         "id": "MG/S39-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-018": {
     "name": "軽蔑の眼差し 忍野忍",
@@ -345,7 +362,8 @@
         "id": "MG/S39-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-019": {
     "name": "“幼女”忍野忍",
@@ -363,7 +381,8 @@
         "id": "MG/S39-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-020": {
     "name": "変わらぬ表情 忍野扇",
@@ -381,7 +400,8 @@
         "id": "MG/S39-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-021": {
     "name": "曖昧な返答 忍野忍",
@@ -399,7 +419,8 @@
         "id": "MG/S39-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-022": {
     "name": "『くらやみ』",
@@ -417,7 +438,8 @@
         "id": "MG/S39-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-023": {
     "name": "呪文詠唱",
@@ -439,7 +461,8 @@
         "id": "MG/S39-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-024": {
     "name": "成りたての神様",
@@ -457,7 +480,8 @@
         "id": "MG/S39-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-025": {
     "name": "背中にキス…？",
@@ -475,7 +499,8 @@
         "id": "MG/S39-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MG/S39-026": {
     "name": "感謝の言葉 戦場ヶ原ひたぎ",
@@ -497,7 +522,8 @@
         "id": "MG/S39-026R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-027": {
     "name": "虎に睨まれた少女 羽川翼",
@@ -519,7 +545,8 @@
         "id": "MG/S39-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-028": {
     "name": "真剣な面持ち 阿良々木暦",
@@ -541,7 +568,8 @@
         "id": "MG/S39-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-029": {
     "name": "偶然？ 戦場ヶ原ひたぎ",
@@ -563,7 +591,8 @@
         "id": "MG/S39-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-030": {
     "name": "完全敗北 神原駿河",
@@ -581,7 +610,8 @@
         "id": "MG/S39-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-031": {
     "name": "白くて白々しい 羽川翼",
@@ -599,7 +629,8 @@
         "id": "MG/S39-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-032": {
     "name": "『やって後悔しない』神原駿河",
@@ -621,7 +652,8 @@
         "id": "MG/S39-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-033": {
     "name": "早起き 戦場ヶ原ひたぎ",
@@ -639,7 +671,8 @@
         "id": "MG/S39-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-034": {
     "name": "虎柄の髪 羽川翼",
@@ -657,7 +690,8 @@
         "id": "MG/S39-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-035": {
     "name": "自分らしく 神原駿河",
@@ -675,7 +709,8 @@
         "id": "MG/S39-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-036": {
     "name": "時間の問題 神原駿河",
@@ -693,7 +728,8 @@
         "id": "MG/S39-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-037": {
     "name": "“秘策”阿良々木火憐",
@@ -711,7 +747,8 @@
         "id": "MG/S39-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-038": {
     "name": "“悪魔様”沼地蝋花",
@@ -729,7 +766,8 @@
         "id": "MG/S39-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-039": {
     "name": "最後の報告 貝木泥舟",
@@ -747,7 +785,8 @@
         "id": "MG/S39-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-040": {
     "name": "1on1 神原駿河",
@@ -765,7 +804,8 @@
         "id": "MG/S39-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-041": {
     "name": "母親のこと 神原駿河",
@@ -783,7 +823,8 @@
         "id": "MG/S39-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-042": {
     "name": "沼地蝋花",
@@ -801,7 +842,8 @@
         "id": "MG/S39-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-043": {
     "name": "神経質な戦場ヶ原ひたぎ",
@@ -819,7 +861,8 @@
         "id": "MG/S39-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-044": {
     "name": "真剣勝負 神原駿河",
@@ -837,7 +880,8 @@
         "id": "MG/S39-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-045": {
     "name": "お似合いの髪型 神原駿河",
@@ -855,7 +899,8 @@
         "id": "MG/S39-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-046": {
     "name": "肉奉行 貝木泥舟",
@@ -873,7 +918,8 @@
         "id": "MG/S39-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-047": {
     "name": "悪魔のパーツ",
@@ -891,7 +937,8 @@
         "id": "MG/S39-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-048": {
     "name": "望んでいたもの",
@@ -913,7 +960,8 @@
         "id": "MG/S39-048R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-049": {
     "name": "親友に出来ること",
@@ -931,7 +979,8 @@
         "id": "MG/S39-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-050": {
     "name": "青春とけじめ",
@@ -949,7 +998,8 @@
         "id": "MG/S39-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MG/S39-051": {
     "name": "新学期 神原駿河",
@@ -971,7 +1021,8 @@
         "id": "MG/S39-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-052": {
     "name": "真剣な面持ち 戦場ヶ原ひたぎ",
@@ -993,7 +1044,8 @@
         "id": "MG/S39-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-053": {
     "name": "適当な誤魔化し方 神原駿河",
@@ -1015,7 +1067,8 @@
         "id": "MG/S39-053R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-054": {
     "name": "渦中の子 八九寺真宵",
@@ -1033,7 +1086,8 @@
         "id": "MG/S39-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-055": {
     "name": "恋人のためなら 戦場ヶ原ひたぎ",
@@ -1055,7 +1109,8 @@
         "id": "MG/S39-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-056": {
     "name": "未来の為に出来ること 戦場ヶ原ひたぎ",
@@ -1077,7 +1132,8 @@
         "id": "MG/S39-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-057": {
     "name": "“少女”八九寺真宵",
@@ -1099,7 +1155,8 @@
         "id": "MG/S39-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-058": {
     "name": "アドバイザー 阿良々木暦",
@@ -1117,7 +1174,8 @@
         "id": "MG/S39-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-059": {
     "name": "神経質じゃない 八九寺真宵",
@@ -1135,7 +1193,8 @@
         "id": "MG/S39-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-060": {
     "name": "仕事中の臥煙伊豆湖",
@@ -1153,7 +1212,8 @@
         "id": "MG/S39-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-061": {
     "name": "新たな認識 戦場ヶ原ひたぎ",
@@ -1171,7 +1231,8 @@
         "id": "MG/S39-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-062": {
     "name": "仕事上の関係 戦場ヶ原ひたぎ",
@@ -1189,7 +1250,8 @@
         "id": "MG/S39-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-063": {
     "name": "暫しの別れ 八九寺真宵",
@@ -1207,7 +1269,8 @@
         "id": "MG/S39-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-064": {
     "name": "わかった気がする？ 戦場ヶ原ひたぎ",
@@ -1225,7 +1288,8 @@
         "id": "MG/S39-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-065": {
     "name": "優柔不断 神原駿河",
@@ -1243,7 +1307,8 @@
         "id": "MG/S39-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-066": {
     "name": "友達想い 戦場ヶ原ひたぎ",
@@ -1261,7 +1326,8 @@
         "id": "MG/S39-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-067": {
     "name": "三つのお願い 臥煙伊豆湖",
@@ -1279,7 +1345,8 @@
         "id": "MG/S39-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-068": {
     "name": "歩む道のり 八九寺真宵",
@@ -1297,7 +1364,8 @@
         "id": "MG/S39-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-069": {
     "name": "予想通りの展開 戦場ヶ原ひたぎ",
@@ -1315,7 +1383,8 @@
         "id": "MG/S39-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-070": {
     "name": "撫子ちゃんの同級生 阿良々木月火",
@@ -1333,7 +1402,8 @@
         "id": "MG/S39-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-071": {
     "name": "不吉な遭遇 神原駿河",
@@ -1351,7 +1421,8 @@
         "id": "MG/S39-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-072": {
     "name": "鼻眼鏡",
@@ -1369,7 +1440,8 @@
         "id": "MG/S39-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-073": {
     "name": "ある冬の日",
@@ -1391,7 +1463,8 @@
         "id": "MG/S39-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-074": {
     "name": "人の手のありがたみ",
@@ -1409,7 +1482,8 @@
         "id": "MG/S39-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MG/S39-075": {
     "name": "必然の出会い",
@@ -1427,7 +1501,8 @@
         "id": "MG/S39-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MG/S39-076": {
     "name": "“童女”斧乃木余接",
@@ -1449,7 +1524,8 @@
         "id": "MG/S39-076R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-077": {
     "name": "“前髪娘”千石撫子",
@@ -1471,7 +1547,8 @@
         "id": "MG/S39-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-078": {
     "name": "暫しの別れ 羽川翼",
@@ -1493,7 +1570,8 @@
         "id": "MG/S39-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-079": {
     "name": "“本物”羽川翼",
@@ -1515,7 +1593,8 @@
         "id": "MG/S39-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-080": {
     "name": "誰も信用しない 千石撫子",
@@ -1533,7 +1612,8 @@
         "id": "MG/S39-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-081": {
     "name": "怪異の始まり ブラック羽川",
@@ -1551,7 +1631,8 @@
         "id": "MG/S39-081",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-082": {
     "name": "北白蛇神社の神様 千石撫子",
@@ -1573,7 +1654,8 @@
         "id": "MG/S39-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-083": {
     "name": "『過去』に差し伸べる手 羽川翼",
@@ -1595,7 +1677,8 @@
         "id": "MG/S39-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-084": {
     "name": "叶わない恋 千石撫子",
@@ -1613,7 +1696,8 @@
         "id": "MG/S39-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-085": {
     "name": "元人間 斧乃木余接",
@@ -1631,7 +1715,8 @@
         "id": "MG/S39-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-086": {
     "name": "“かわいい”少女 千石撫子",
@@ -1649,7 +1734,8 @@
         "id": "MG/S39-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-087": {
     "name": "ノリノリな羽川翼",
@@ -1667,7 +1753,8 @@
         "id": "MG/S39-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-088": {
     "name": "魔性の女 千石撫子",
@@ -1685,7 +1772,8 @@
         "id": "MG/S39-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-089": {
     "name": "待ちわびた時間 千石撫子",
@@ -1703,7 +1791,8 @@
         "id": "MG/S39-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-090": {
     "name": "“蛇神娘”千石撫子",
@@ -1721,7 +1810,8 @@
         "id": "MG/S39-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-091": {
     "name": "物語られた形姿 阿良々木暦",
@@ -1739,7 +1829,8 @@
         "id": "MG/S39-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-092": {
     "name": "幼き頃の羽川翼",
@@ -1757,7 +1848,8 @@
         "id": "MG/S39-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-093": {
     "name": "燃え盛る恋心 羽川翼",
@@ -1775,7 +1867,8 @@
         "id": "MG/S39-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-094": {
     "name": "障り猫 ブラック羽川",
@@ -1793,7 +1886,8 @@
         "id": "MG/S39-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-095": {
     "name": "ご主人からのお願い ブラック羽川",
@@ -1811,7 +1905,8 @@
         "id": "MG/S39-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-096": {
     "name": "されるがまま 斧乃木余接",
@@ -1829,7 +1924,8 @@
         "id": "MG/S39-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-097": {
     "name": "クチナワ",
@@ -1847,7 +1943,8 @@
         "id": "MG/S39-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-098": {
     "name": "自分だけの夢のために",
@@ -1869,7 +1966,8 @@
         "id": "MG/S39-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MG/S39-099": {
     "name": "自分自身の問題",
@@ -1887,7 +1985,8 @@
         "id": "MG/S39-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MG/S39-100": {
     "name": "修羅場な選択",
@@ -1905,6 +2004,7 @@
         "id": "MG/S39-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

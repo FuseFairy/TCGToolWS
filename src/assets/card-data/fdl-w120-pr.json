@@ -15,7 +15,8 @@
         "id": "Fdl/W120-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fdl/W120-P10": {
     "name": "《魔獣使い》狂三",
@@ -41,6 +42,7 @@
         "id": "Fdl/W120-P10S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

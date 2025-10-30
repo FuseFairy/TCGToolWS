@@ -19,7 +19,8 @@
         "id": "SHS/W71-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-002": {
     "name": "新たなる日々 詩羽＆英梨々",
@@ -41,7 +42,8 @@
         "id": "SHS/W71-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-003": {
     "name": "イラストレーターの戦い 出海",
@@ -63,7 +65,8 @@
         "id": "SHS/W71-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-004": {
     "name": "不調の原因 英梨々",
@@ -81,7 +84,8 @@
         "id": "SHS/W71-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-005": {
     "name": "水辺の挑発 出海",
@@ -103,7 +107,8 @@
         "id": "SHS/W71-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-006": {
     "name": "色紙アンサー 出海",
@@ -121,7 +126,8 @@
         "id": "SHS/W71-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-007": {
     "name": "新たな門出 出海",
@@ -143,7 +149,8 @@
         "id": "SHS/W71-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-008": {
     "name": "切り取られた風景 英梨々",
@@ -165,7 +172,8 @@
         "id": "SHS/W71-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-009": {
     "name": "門出のはなむけ 英梨々",
@@ -187,7 +195,8 @@
         "id": "SHS/W71-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-010": {
     "name": "新しい色紙 英梨々",
@@ -205,7 +214,8 @@
         "id": "SHS/W71-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-011": {
     "name": "ツンとデレのギャップ 英梨々",
@@ -223,7 +233,8 @@
         "id": "SHS/W71-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-012": {
     "name": "悪役イメージ 伊織",
@@ -241,7 +252,8 @@
         "id": "SHS/W71-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-013": {
     "name": "選択の時 倫也",
@@ -259,7 +271,8 @@
         "id": "SHS/W71-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-014": {
     "name": "徹底的なこだわり 英梨々",
@@ -277,7 +290,8 @@
         "id": "SHS/W71-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-015": {
     "name": "いざカンヅメ 英梨々",
@@ -295,7 +309,8 @@
         "id": "SHS/W71-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-016": {
     "name": "強引な割り込み 英梨々",
@@ -313,7 +328,8 @@
         "id": "SHS/W71-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-017": {
     "name": "感動の幼なじみエンド 英梨々",
@@ -331,7 +347,8 @@
         "id": "SHS/W71-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-018": {
     "name": "宴の後 朱音",
@@ -349,7 +366,8 @@
         "id": "SHS/W71-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-019": {
     "name": "剥き出しの敵意 出海",
@@ -367,7 +385,8 @@
         "id": "SHS/W71-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-020": {
     "name": "一番力をだせる場所 出海",
@@ -385,7 +404,8 @@
         "id": "SHS/W71-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-021": {
     "name": "憧れと決意 出海",
@@ -403,7 +423,8 @@
         "id": "SHS/W71-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-022": {
     "name": "やっちゃった英梨々",
@@ -421,7 +442,8 @@
         "id": "SHS/W71-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-023": {
     "name": "rouge en rouge代表 朱音",
@@ -439,7 +461,8 @@
         "id": "SHS/W71-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-024": {
     "name": "クリエイティブな空気 出海",
@@ -457,7 +480,8 @@
         "id": "SHS/W71-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-025": {
     "name": "突然の再会 出海",
@@ -475,7 +499,8 @@
         "id": "SHS/W71-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-026": {
     "name": "それっぽい登場 伊織",
@@ -493,7 +518,8 @@
         "id": "SHS/W71-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-027": {
     "name": "戦いの結果 出海",
@@ -511,7 +537,8 @@
         "id": "SHS/W71-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-028": {
     "name": "雪に埋もれたマスターアップ",
@@ -529,7 +556,8 @@
         "id": "SHS/W71-028",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-029": {
     "name": "そして竜虎は神に挑まん",
@@ -551,7 +579,8 @@
         "id": "SHS/W71-029R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-030": {
     "name": "出し抜かれ、ポンコツ",
@@ -569,7 +598,8 @@
         "id": "SHS/W71-030",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-031": {
     "name": "決意の対峙",
@@ -591,7 +621,8 @@
         "id": "SHS/W71-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-032": {
     "name": "魅惑の後輩ボディ",
@@ -609,7 +640,8 @@
         "id": "SHS/W71-032",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-033": {
     "name": "裏切りと別れ 詩羽",
@@ -631,7 +663,8 @@
         "id": "SHS/W71-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-034": {
     "name": "成長と別離 英梨々",
@@ -653,7 +686,8 @@
         "id": "SHS/W71-034SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-035": {
     "name": "揺れ動く心 恵",
@@ -675,7 +709,8 @@
         "id": "SHS/W71-035SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-036": {
     "name": "初めての感情 恵",
@@ -697,7 +732,8 @@
         "id": "SHS/W71-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-037": {
     "name": "変わっていく二人 恵",
@@ -719,7 +755,8 @@
         "id": "SHS/W71-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-038": {
     "name": "敗北を糧に 英梨々",
@@ -737,7 +774,8 @@
         "id": "SHS/W71-038",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-039": {
     "name": "おやすみの前に 恵",
@@ -755,7 +793,8 @@
         "id": "SHS/W71-039",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-040": {
     "name": "思わぬ熱意 恵",
@@ -773,7 +812,8 @@
         "id": "SHS/W71-040",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-041": {
     "name": "ご褒美のシーン 恵",
@@ -795,7 +835,8 @@
         "id": "SHS/W71-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-042": {
     "name": "旅立ちの時 詩羽",
@@ -813,7 +854,8 @@
         "id": "SHS/W71-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-043": {
     "name": "新たな決意 倫也",
@@ -831,7 +873,8 @@
         "id": "SHS/W71-043",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-044": {
     "name": "宝物を見つけに 恵",
@@ -849,7 +892,8 @@
         "id": "SHS/W71-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-045": {
     "name": "超えるべき壁 英梨々",
@@ -867,7 +911,8 @@
         "id": "SHS/W71-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-046": {
     "name": "コーディネーター 恵",
@@ -885,7 +930,8 @@
         "id": "SHS/W71-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-047": {
     "name": "六天馬モールの再戦 恵",
@@ -903,7 +949,8 @@
         "id": "SHS/W71-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-048": {
     "name": "クリエイターとしての道 英梨々",
@@ -921,7 +968,8 @@
         "id": "SHS/W71-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-049": {
     "name": "ゲスな妄想 詩羽",
@@ -939,7 +987,8 @@
         "id": "SHS/W71-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-050": {
     "name": "一年前の思い出 詩羽",
@@ -957,7 +1006,8 @@
         "id": "SHS/W71-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-051": {
     "name": "消えていくハイライト ふたたび",
@@ -975,7 +1025,8 @@
         "id": "SHS/W71-051",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-052": {
     "name": "選択の時",
@@ -993,7 +1044,8 @@
         "id": "SHS/W71-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-053": {
     "name": "フラグを折らなかった彼女",
@@ -1015,7 +1067,8 @@
         "id": "SHS/W71-053R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-054": {
     "name": "同じじゃない贈り物",
@@ -1033,7 +1086,8 @@
         "id": "SHS/W71-054",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SHS/W71-055": {
     "name": "フラットじゃない彼女 恵",
@@ -1055,7 +1109,8 @@
         "id": "SHS/W71-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-056": {
     "name": "新しい物語 恵",
@@ -1077,7 +1132,8 @@
         "id": "SHS/W71-056SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-057": {
     "name": "新たなる選択肢 詩羽",
@@ -1099,7 +1155,8 @@
         "id": "SHS/W71-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-058": {
     "name": "湯水のような投資 詩羽",
@@ -1121,7 +1178,8 @@
         "id": "SHS/W71-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-059": {
     "name": "決意の二人 詩羽",
@@ -1143,7 +1201,8 @@
         "id": "SHS/W71-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-060": {
     "name": "男女の駆け引き 詩羽",
@@ -1161,7 +1220,8 @@
         "id": "SHS/W71-060",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-061": {
     "name": "感情の爆発 恵",
@@ -1179,7 +1239,8 @@
         "id": "SHS/W71-061",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-062": {
     "name": "決意表明 詩羽",
@@ -1197,7 +1258,8 @@
         "id": "SHS/W71-062",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-063": {
     "name": "祭りの朝 恵",
@@ -1215,7 +1277,8 @@
         "id": "SHS/W71-063",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-064": {
     "name": "リフレイン 恵",
@@ -1233,7 +1296,8 @@
         "id": "SHS/W71-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-065": {
     "name": "邂逅の回想 詩羽",
@@ -1251,7 +1315,8 @@
         "id": "SHS/W71-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-066": {
     "name": "変わっていく関係 恵",
@@ -1269,7 +1334,8 @@
         "id": "SHS/W71-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-067": {
     "name": "嫌悪の感情 詩羽",
@@ -1287,7 +1353,8 @@
         "id": "SHS/W71-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-068": {
     "name": "インモラル先輩 詩羽",
@@ -1305,7 +1372,8 @@
         "id": "SHS/W71-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-069": {
     "name": "プロ中のゴロ 朱音",
@@ -1323,7 +1391,8 @@
         "id": "SHS/W71-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-070": {
     "name": "同窓のよしみ 苑子",
@@ -1341,7 +1410,8 @@
         "id": "SHS/W71-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-071": {
     "name": "ディレクターの矜持 倫也",
@@ -1359,7 +1429,8 @@
         "id": "SHS/W71-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-072": {
     "name": "欲しかったもの 恵",
@@ -1377,7 +1448,8 @@
         "id": "SHS/W71-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-073": {
     "name": "祭りの後 恵",
@@ -1395,7 +1467,8 @@
         "id": "SHS/W71-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-074": {
     "name": "黄昏の美術室 詩羽",
@@ -1413,7 +1486,8 @@
         "id": "SHS/W71-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-075": {
     "name": "看過された策 詩羽",
@@ -1431,7 +1505,8 @@
         "id": "SHS/W71-075",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-076": {
     "name": "静かな糾弾 詩羽",
@@ -1449,7 +1524,8 @@
         "id": "SHS/W71-076",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-077": {
     "name": "二人の共同作業",
@@ -1467,7 +1543,8 @@
         "id": "SHS/W71-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-078": {
     "name": "至極の一品",
@@ -1485,7 +1562,8 @@
         "id": "SHS/W71-078",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-079": {
     "name": "二泊三日の新ルート",
@@ -1507,7 +1585,8 @@
         "id": "SHS/W71-079R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-080": {
     "name": "再起と新規のゲームスタート",
@@ -1529,7 +1608,8 @@
         "id": "SHS/W71-080R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-081": {
     "name": "初めての女",
@@ -1547,7 +1627,8 @@
         "id": "SHS/W71-081",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SHS/W71-082": {
     "name": "創作の修羅",
@@ -1565,7 +1646,8 @@
         "id": "SHS/W71-082",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SHS/W71-083": {
     "name": "ゲーム制作合宿 美智留",
@@ -1587,7 +1669,8 @@
         "id": "SHS/W71-083SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-084": {
     "name": "夜のお誘い？ 美智留",
@@ -1605,7 +1688,8 @@
         "id": "SHS/W71-084",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-085": {
     "name": "バンド存続の危機 時乃＆叡智佳＆藍子",
@@ -1623,7 +1707,8 @@
         "id": "SHS/W71-085",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-086": {
     "name": "祭りの朝 美智留",
@@ -1645,7 +1730,8 @@
         "id": "SHS/W71-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-087": {
     "name": "水辺の幼なじみ 美智留",
@@ -1667,7 +1753,8 @@
         "id": "SHS/W71-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-088": {
     "name": "意外な戦力？ 美智留",
@@ -1685,7 +1772,8 @@
         "id": "SHS/W71-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-089": {
     "name": "徹夜でヘルプ作業 藍子",
@@ -1703,7 +1791,8 @@
         "id": "SHS/W71-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-090": {
     "name": "徹夜でヘルプ作業 叡智佳",
@@ -1721,7 +1810,8 @@
         "id": "SHS/W71-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-091": {
     "name": "徹夜でヘルプ作業 時乃",
@@ -1739,7 +1829,8 @@
         "id": "SHS/W71-091",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-092": {
     "name": "存在感のアピール 美智留",
@@ -1757,7 +1848,8 @@
         "id": "SHS/W71-092",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-093": {
     "name": "スケープゴート 美智留",
@@ -1775,7 +1867,8 @@
         "id": "SHS/W71-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-094": {
     "name": "逆転の一手 倫也",
@@ -1793,7 +1886,8 @@
         "id": "SHS/W71-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-095": {
     "name": "制御できない人だかり 美智留",
@@ -1811,7 +1905,8 @@
         "id": "SHS/W71-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-096": {
     "name": "誤解と制裁 美智留",
@@ -1829,7 +1924,8 @@
         "id": "SHS/W71-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-097": {
     "name": "抜け駆けの発覚 美智留",
@@ -1847,7 +1943,8 @@
         "id": "SHS/W71-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-098": {
     "name": "新曲披露",
@@ -1865,7 +1962,8 @@
         "id": "SHS/W71-098",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-099": {
     "name": "水辺の幼なじみ",
@@ -1887,7 +1985,8 @@
         "id": "SHS/W71-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-100": {
     "name": "icy tail集結！",
@@ -1905,6 +2004,7 @@
         "id": "SHS/W71-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

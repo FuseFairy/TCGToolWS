@@ -15,7 +15,8 @@
         "id": "RG/W26-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-P02": {
     "name": "雨上がりの佐天",
@@ -33,7 +34,8 @@
         "id": "RG/W26-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-P03": {
     "name": "雨上がりの美琴",
@@ -51,7 +53,8 @@
         "id": "RG/W26-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-P04": {
     "name": "雨上がりの黒子",
@@ -69,7 +72,8 @@
         "id": "RG/W26-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-P05": {
     "name": "水辺の美琴",
@@ -87,7 +91,8 @@
         "id": "RG/W26-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-P06": {
     "name": "傷も勲章 美琴",
@@ -105,7 +110,8 @@
         "id": "RG/W26-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-P07": {
     "name": "守りたい日常",
@@ -123,7 +129,8 @@
         "id": "RG/W26-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RG/W26-P08": {
     "name": "美琴＆御坂妹",
@@ -141,7 +148,8 @@
         "id": "RG/W26-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-P09": {
     "name": "ルームメイト 美琴＆黒子",
@@ -159,7 +167,8 @@
         "id": "RG/W26-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-P10": {
     "name": "学園都市の日常 美琴&黒子",
@@ -177,7 +186,8 @@
         "id": "RG/W26-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-086": {
     "name": "幼い日の美琴",
@@ -195,7 +205,8 @@
         "id": "RG/W26-086",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-087": {
     "name": "知らんぷり 御坂妹",
@@ -213,7 +224,8 @@
         "id": "RG/W26-087",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-088": {
     "name": "計画への好奇心 麦野",
@@ -231,7 +243,8 @@
         "id": "RG/W26-088",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-089": {
     "name": "“オシオキかくてい”フレンダ",
@@ -249,6 +262,7 @@
         "id": "RG/W26-089",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

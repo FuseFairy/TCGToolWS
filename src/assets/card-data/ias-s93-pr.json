@@ -19,7 +19,8 @@
         "id": "IAS/S93-P07S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IAS/S93-P02": {
     "name": "文舞両道！ 春香＆千早＆美希",
@@ -37,7 +38,8 @@
         "id": "IAS/S93-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S93-125": {
     "name": "Deep, Deep Blue",
@@ -55,7 +57,8 @@
         "id": "IAS/S93-125",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S93-134": {
     "name": "LEADER!!",
@@ -73,7 +76,8 @@
         "id": "IAS/S93-134",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IAS/S93-135": {
     "name": "ラビットファー",
@@ -91,7 +95,8 @@
         "id": "IAS/S93-135",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S93-142": {
     "name": "瞳の中のシリウス",
@@ -109,6 +114,7 @@
         "id": "IAS/S93-142",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

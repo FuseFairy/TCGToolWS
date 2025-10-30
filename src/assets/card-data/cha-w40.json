@@ -15,7 +15,8 @@
         "id": "CHA/W40-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-T08": {
     "name": "“青春の行方”友利 奈緒",
@@ -37,7 +38,8 @@
         "id": "CHA/W40-T08SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-T15": {
     "name": "“青春の行方”乙坂 有宇",
@@ -55,7 +57,8 @@
         "id": "CHA/W40-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-001": {
     "name": "“大切な何か”西森 柚咲",
@@ -77,7 +80,8 @@
         "id": "CHA/W40-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-002": {
     "name": "“ひとり、何を思う”友利 奈緒",
@@ -99,7 +103,8 @@
         "id": "CHA/W40-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-003": {
     "name": "“生徒会室でのひととき”友利 奈緒",
@@ -117,7 +122,8 @@
         "id": "CHA/W40-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-004": {
     "name": "“嬉々とした表情”美砂",
@@ -135,7 +141,8 @@
         "id": "CHA/W40-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-005": {
     "name": "“クールビューティー”友利 奈緒",
@@ -157,7 +164,8 @@
         "id": "CHA/W40-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-006": {
     "name": "“一緒にご飯”友利 奈緒",
@@ -175,7 +183,8 @@
         "id": "CHA/W40-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-007": {
     "name": "“生徒会室でのひととき”西森 柚咲",
@@ -193,7 +202,8 @@
         "id": "CHA/W40-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-008": {
     "name": "友利 一希",
@@ -211,7 +221,8 @@
         "id": "CHA/W40-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-009": {
     "name": "“二人で一緒に”友利 奈緒＆西森 柚咲",
@@ -229,7 +240,8 @@
         "id": "CHA/W40-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-010": {
     "name": "“ポニーテール”友利 奈緒",
@@ -247,7 +259,8 @@
         "id": "CHA/W40-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-011": {
     "name": "“喧嘩っ早い性格”美砂",
@@ -265,7 +278,8 @@
         "id": "CHA/W40-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-012": {
     "name": "黒羽 美砂",
@@ -283,7 +297,8 @@
         "id": "CHA/W40-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-013": {
     "name": "“夏制服”友利 奈緒",
@@ -301,7 +316,8 @@
         "id": "CHA/W40-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-014": {
     "name": "“お見舞い”西森 柚咲",
@@ -319,7 +335,8 @@
         "id": "CHA/W40-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-015": {
     "name": "“ZHIENDのボーカル”サラ・シェーン",
@@ -337,7 +354,8 @@
         "id": "CHA/W40-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-016": {
     "name": "“思い出の日々”友利 奈緒",
@@ -355,7 +373,8 @@
         "id": "CHA/W40-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-017": {
     "name": "“別れのことば”美砂",
@@ -373,7 +392,8 @@
         "id": "CHA/W40-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-018": {
     "name": "“刹那の本気”西森 柚咲",
@@ -391,7 +411,8 @@
         "id": "CHA/W40-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-019": {
     "name": "“刹那の本気”友利 奈緒",
@@ -409,7 +430,8 @@
         "id": "CHA/W40-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-020": {
     "name": "“生徒会長”友利 奈緒",
@@ -427,7 +449,8 @@
         "id": "CHA/W40-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-021": {
     "name": "“みんなで買い出し”友利 奈緒",
@@ -445,7 +468,8 @@
         "id": "CHA/W40-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-022": {
     "name": "山中のバーベキュー",
@@ -463,7 +487,8 @@
         "id": "CHA/W40-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-023": {
     "name": "生徒会活動",
@@ -485,7 +510,8 @@
         "id": "CHA/W40-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-024": {
     "name": "星ノ海学園",
@@ -503,7 +529,8 @@
         "id": "CHA/W40-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-025": {
     "name": "おまじないシリーズ1『大丈夫のおまじない』",
@@ -521,7 +548,8 @@
         "id": "CHA/W40-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CHA/W40-026": {
     "name": "“大切な何か”乙坂 歩未",
@@ -543,7 +571,8 @@
         "id": "CHA/W40-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-027": {
     "name": "“大切な何か”乙坂 有宇",
@@ -565,7 +594,8 @@
         "id": "CHA/W40-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-028": {
     "name": "“ここにない世界”乙坂 隼翼",
@@ -583,7 +613,8 @@
         "id": "CHA/W40-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-029": {
     "name": "“一緒にご飯”乙坂 有宇",
@@ -605,7 +636,8 @@
         "id": "CHA/W40-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-030": {
     "name": "“手作り弁当”乙坂 有宇",
@@ -623,7 +655,8 @@
         "id": "CHA/W40-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-031": {
     "name": "“天体観測”乙坂 歩未",
@@ -645,7 +678,8 @@
         "id": "CHA/W40-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-032": {
     "name": "“ここにない世界”熊耳",
@@ -663,7 +697,8 @@
         "id": "CHA/W40-032",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-033": {
     "name": "“ここにない世界”七野",
@@ -681,7 +716,8 @@
         "id": "CHA/W40-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-034": {
     "name": "“歩未のクラスメイト”小西",
@@ -699,7 +735,8 @@
         "id": "CHA/W40-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-035": {
     "name": "“刹那の本気”乙坂 有宇",
@@ -717,7 +754,8 @@
         "id": "CHA/W40-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-036": {
     "name": "“布団の中で”乙坂 歩未",
@@ -735,7 +773,8 @@
         "id": "CHA/W40-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-037": {
     "name": "“封印成功”乙坂 有宇",
@@ -753,7 +792,8 @@
         "id": "CHA/W40-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-038": {
     "name": "“協力者”熊耳",
@@ -771,7 +811,8 @@
         "id": "CHA/W40-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-039": {
     "name": "“不敵な笑み”乙坂 有宇",
@@ -789,7 +830,8 @@
         "id": "CHA/W40-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-040": {
     "name": "“新居地”乙坂 有宇",
@@ -807,7 +849,8 @@
         "id": "CHA/W40-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-041": {
     "name": "“脱出”乙坂 歩未",
@@ -825,7 +868,8 @@
         "id": "CHA/W40-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-042": {
     "name": "“ご立腹”乙坂 歩未",
@@ -843,7 +887,8 @@
         "id": "CHA/W40-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-043": {
     "name": "“ここにない世界”目時",
@@ -861,7 +906,8 @@
         "id": "CHA/W40-043",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-044": {
     "name": "“歩未のクラスメイト”野村",
@@ -879,7 +925,8 @@
         "id": "CHA/W40-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-045": {
     "name": "“歩未のクラスメイト”及川",
@@ -897,7 +944,8 @@
         "id": "CHA/W40-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-046": {
     "name": "“ここにない世界”前泊",
@@ -915,7 +963,8 @@
         "id": "CHA/W40-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-047": {
     "name": "金さんラーメン",
@@ -933,7 +982,8 @@
         "id": "CHA/W40-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-048": {
     "name": "いつか聴いた音",
@@ -955,7 +1005,8 @@
         "id": "CHA/W40-048R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-049": {
     "name": "過酷な運命の結末",
@@ -973,7 +1024,8 @@
         "id": "CHA/W40-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CHA/W40-050": {
     "name": "営業スマイル",
@@ -991,7 +1043,8 @@
         "id": "CHA/W40-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CHA/W40-051": {
     "name": "“大切な何か”高城 丈士朗",
@@ -1013,7 +1066,8 @@
         "id": "CHA/W40-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-052": {
     "name": "“大切な何か”美砂",
@@ -1035,7 +1089,8 @@
         "id": "CHA/W40-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-053": {
     "name": "“夏制服”西森 柚咲",
@@ -1057,7 +1112,8 @@
         "id": "CHA/W40-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-054": {
     "name": "“とぼけた表情”西森 柚咲",
@@ -1079,7 +1135,8 @@
         "id": "CHA/W40-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-055": {
     "name": "“巡る世界”西森 柚咲",
@@ -1101,7 +1158,8 @@
         "id": "CHA/W40-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-056": {
     "name": "“驚愕！”西森 柚咲",
@@ -1119,7 +1177,8 @@
         "id": "CHA/W40-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-057": {
     "name": "“転入生”西森 柚咲",
@@ -1137,7 +1196,8 @@
         "id": "CHA/W40-057",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-058": {
     "name": "“任務完了”美砂",
@@ -1155,7 +1215,8 @@
         "id": "CHA/W40-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-059": {
     "name": "ショウ",
@@ -1173,7 +1234,8 @@
         "id": "CHA/W40-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-060": {
     "name": "“夏制服”高城 丈士朗",
@@ -1191,7 +1253,8 @@
         "id": "CHA/W40-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-061": {
     "name": "“河原でお風呂”美砂",
@@ -1209,7 +1272,8 @@
         "id": "CHA/W40-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-062": {
     "name": "“刹那の本気”美砂",
@@ -1227,7 +1291,8 @@
         "id": "CHA/W40-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-063": {
     "name": "“気合十分”西森 柚咲",
@@ -1245,7 +1310,8 @@
         "id": "CHA/W40-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-064": {
     "name": "“本気モード”美砂",
@@ -1263,7 +1329,8 @@
         "id": "CHA/W40-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-065": {
     "name": "“大興奮！”高城 丈士朗",
@@ -1281,7 +1348,8 @@
         "id": "CHA/W40-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-066": {
     "name": "コータ",
@@ -1299,7 +1367,8 @@
         "id": "CHA/W40-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-067": {
     "name": "“復帰祝い”西森 柚咲",
@@ -1317,7 +1386,8 @@
         "id": "CHA/W40-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-068": {
     "name": "“憑依”美砂",
@@ -1335,7 +1405,8 @@
         "id": "CHA/W40-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-069": {
     "name": "“不完全な能力”美砂",
@@ -1353,7 +1424,8 @@
         "id": "CHA/W40-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-070": {
     "name": "“発熱デイズ”西森 柚咲",
@@ -1371,7 +1443,8 @@
         "id": "CHA/W40-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-071": {
     "name": "“成功！？”高城 丈士朗",
@@ -1389,7 +1462,8 @@
         "id": "CHA/W40-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-072": {
     "name": "おまじないシリーズ13『仲直りのおまじない』",
@@ -1407,7 +1481,8 @@
         "id": "CHA/W40-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-073": {
     "name": "恋と炎",
@@ -1429,7 +1504,8 @@
         "id": "CHA/W40-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-074": {
     "name": "瞬間（高速）移動",
@@ -1447,7 +1523,8 @@
         "id": "CHA/W40-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CHA/W40-075": {
     "name": "How-Low-Hello",
@@ -1465,7 +1542,8 @@
         "id": "CHA/W40-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CHA/W40-076": {
     "name": "“エプロン姿”乙坂 歩未",
@@ -1487,7 +1565,8 @@
         "id": "CHA/W40-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-077": {
     "name": "“大切な何か”友利 奈緒",
@@ -1509,7 +1588,8 @@
         "id": "CHA/W40-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-078": {
     "name": "“いまに挑む”乙坂 有宇",
@@ -1527,7 +1607,8 @@
         "id": "CHA/W40-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-079": {
     "name": "“天体観測”友利 奈緒",
@@ -1545,7 +1626,8 @@
         "id": "CHA/W40-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-080": {
     "name": "“夏制服”乙坂 有宇",
@@ -1563,7 +1645,8 @@
         "id": "CHA/W40-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-081": {
     "name": "“パジャマ姿”乙坂 歩未",
@@ -1581,7 +1664,8 @@
         "id": "CHA/W40-081",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-082": {
     "name": "“いまに挑む”友利 奈緒",
@@ -1599,7 +1683,8 @@
         "id": "CHA/W40-082",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-083": {
     "name": "“ひとりぼっちの昼食”友利 奈緒",
@@ -1617,7 +1702,8 @@
         "id": "CHA/W40-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-084": {
     "name": "“不完全な能力”高城 丈士朗",
@@ -1635,7 +1721,8 @@
         "id": "CHA/W40-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-085": {
     "name": "“夏制服”乙坂 歩未",
@@ -1653,7 +1740,8 @@
         "id": "CHA/W40-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-086": {
     "name": "“打算と傲り”乙坂 有宇",
@@ -1671,7 +1759,8 @@
         "id": "CHA/W40-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-087": {
     "name": "“探査”友利 奈緒",
@@ -1689,7 +1778,8 @@
         "id": "CHA/W40-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-088": {
     "name": "“ここにない世界”乙坂 有宇",
@@ -1707,7 +1797,8 @@
         "id": "CHA/W40-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-089": {
     "name": "“一緒にご飯”乙坂 歩未",
@@ -1725,7 +1816,8 @@
         "id": "CHA/W40-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-090": {
     "name": "スカイハイ斉藤",
@@ -1743,7 +1835,8 @@
         "id": "CHA/W40-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-091": {
     "name": "“巡る世界”乙坂 歩未",
@@ -1761,7 +1854,8 @@
         "id": "CHA/W40-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-092": {
     "name": "“家庭の味”乙坂 有宇",
@@ -1779,7 +1873,8 @@
         "id": "CHA/W40-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-093": {
     "name": "“事情聴取”友利 奈緒",
@@ -1797,7 +1892,8 @@
         "id": "CHA/W40-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-094": {
     "name": "“荒んだ心”乙坂 有宇",
@@ -1815,7 +1911,8 @@
         "id": "CHA/W40-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-095": {
     "name": "“アイドルオタク”高城 丈士朗",
@@ -1833,7 +1930,8 @@
         "id": "CHA/W40-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-096": {
     "name": "“新居地”乙坂 歩未",
@@ -1851,7 +1949,8 @@
         "id": "CHA/W40-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-097": {
     "name": "歩未のピザソースオムライス",
@@ -1869,7 +1968,8 @@
         "id": "CHA/W40-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-098": {
     "name": "逃避行の果てに",
@@ -1891,7 +1991,8 @@
         "id": "CHA/W40-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-099": {
     "name": "欣喜雀躍！",
@@ -1909,7 +2010,8 @@
         "id": "CHA/W40-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-100": {
     "name": "筋書き",
@@ -1927,6 +2029,7 @@
         "id": "CHA/W40-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

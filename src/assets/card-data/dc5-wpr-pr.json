@@ -15,7 +15,8 @@
         "id": "DC5/WPR-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC5/WPR-P02": {
     "name": "少年は、運命に出会う",
@@ -33,6 +34,7 @@
         "id": "DC5/WPR-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

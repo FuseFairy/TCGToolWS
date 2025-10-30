@@ -19,7 +19,8 @@
         "id": "HOL/W91-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-002": {
     "name": "未来へ一緒に 戌神ころね",
@@ -41,7 +42,8 @@
         "id": "HOL/W91-002SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-003": {
     "name": "未来へ一緒に 角巻わため",
@@ -63,7 +65,8 @@
         "id": "HOL/W91-003SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-004": {
     "name": "未来へ一緒に 桐生ココ",
@@ -85,7 +88,8 @@
         "id": "HOL/W91-004SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-005": {
     "name": "未来へ一緒に 不知火フレア",
@@ -107,7 +111,8 @@
         "id": "HOL/W91-005SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-006": {
     "name": "#みかじ絵 桐生ココ",
@@ -129,7 +134,8 @@
         "id": "HOL/W91-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-007": {
     "name": "#できたてころね 戌神ころね",
@@ -151,7 +157,8 @@
         "id": "HOL/W91-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-008": {
     "name": "#つのまきあーと 角巻わため",
@@ -173,7 +180,8 @@
         "id": "HOL/W91-008SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-009": {
     "name": "#祭絵 夏色まつり",
@@ -195,7 +203,8 @@
         "id": "HOL/W91-009SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-010": {
     "name": "未来へ一緒に 大空スバル",
@@ -217,7 +226,8 @@
         "id": "HOL/W91-010SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-011": {
     "name": "未来へ一緒に 夜空メル",
@@ -239,7 +249,8 @@
         "id": "HOL/W91-011SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-012": {
     "name": "不知火フレア",
@@ -261,7 +272,8 @@
         "id": "HOL/W91-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-013": {
     "name": "夜空メル",
@@ -283,7 +295,8 @@
         "id": "HOL/W91-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-014": {
     "name": "夏色まつり",
@@ -305,7 +318,8 @@
         "id": "HOL/W91-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-015": {
     "name": "角巻わため",
@@ -327,7 +341,8 @@
         "id": "HOL/W91-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-016": {
     "name": "#プロテインザスバル 大空スバル",
@@ -349,7 +364,8 @@
         "id": "HOL/W91-016SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-017": {
     "name": "桐生ココ",
@@ -371,7 +387,8 @@
         "id": "HOL/W91-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-018": {
     "name": "#メルArt 夜空メル",
@@ -393,7 +410,8 @@
         "id": "HOL/W91-018SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-019": {
     "name": "#しらぬえ 不知火フレア",
@@ -415,7 +433,8 @@
         "id": "HOL/W91-019SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-020": {
     "name": "戌神ころね",
@@ -437,7 +456,8 @@
         "id": "HOL/W91-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-021": {
     "name": "アセロラ補給中 夜空メル",
@@ -459,7 +479,8 @@
         "id": "HOL/W91-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-022": {
     "name": "ドッキリ大成功！ 大空スバル",
@@ -481,7 +502,8 @@
         "id": "HOL/W91-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-023": {
     "name": "興味津々 角巻わため",
@@ -503,7 +525,8 @@
         "id": "HOL/W91-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-024": {
     "name": "バブみを感じる 夏色まつり",
@@ -525,7 +548,8 @@
         "id": "HOL/W91-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-025": {
     "name": "事務所での一幕 桐生ココ",
@@ -547,7 +571,8 @@
         "id": "HOL/W91-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-026": {
     "name": "猫警察 戌神ころね",
@@ -569,7 +594,8 @@
         "id": "HOL/W91-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-027": {
     "name": "ひよこにメロメロ 不知火フレア",
@@ -591,7 +617,8 @@
         "id": "HOL/W91-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-028": {
     "name": "大空スバル",
@@ -613,7 +640,8 @@
         "id": "HOL/W91-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-029": {
     "name": "Bouquet",
@@ -635,7 +663,8 @@
         "id": "HOL/W91-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-030": {
     "name": "桐生会へようこそ",
@@ -657,7 +686,8 @@
         "id": "HOL/W91-030R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-031": {
     "name": "幸せのフルーツタルト",
@@ -679,7 +709,8 @@
         "id": "HOL/W91-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-032": {
     "name": "Summer memory",
@@ -701,7 +732,8 @@
         "id": "HOL/W91-032R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-033": {
     "name": "ひと夏の恋",
@@ -723,7 +755,8 @@
         "id": "HOL/W91-033R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-034": {
     "name": "未来へ一緒に 潤羽るしあ",
@@ -745,7 +778,8 @@
         "id": "HOL/W91-034SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-035": {
     "name": "未来へ一緒に 白上フブキ",
@@ -767,7 +801,8 @@
         "id": "HOL/W91-035SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-036": {
     "name": "未来へ一緒に 猫又おかゆ",
@@ -789,7 +824,8 @@
         "id": "HOL/W91-036SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-037": {
     "name": "未来へ一緒に ときのそら",
@@ -811,7 +847,8 @@
         "id": "HOL/W91-037SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-038": {
     "name": "#絵かゆ 猫又おかゆ",
@@ -833,7 +870,8 @@
         "id": "HOL/W91-038SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-039": {
     "name": "#絵クロマンサー 潤羽るしあ",
@@ -855,7 +893,8 @@
         "id": "HOL/W91-039SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-040": {
     "name": "未来へ一緒に 姫森ルーナ",
@@ -877,7 +916,8 @@
         "id": "HOL/W91-040SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-041": {
     "name": "未来へ一緒に 大神ミオ",
@@ -899,7 +939,8 @@
         "id": "HOL/W91-041SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-042": {
     "name": "未来へ一緒に アキロゼ",
@@ -921,7 +962,8 @@
         "id": "HOL/W91-042SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-043": {
     "name": "未来へ一緒に 常闇トワ",
@@ -943,7 +985,8 @@
         "id": "HOL/W91-043SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-044": {
     "name": "#soraArt ときのそら",
@@ -965,7 +1008,8 @@
         "id": "HOL/W91-044SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-045": {
     "name": "#絵フブキ 白上フブキ",
@@ -987,7 +1031,8 @@
         "id": "HOL/W91-045SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-046": {
     "name": "未来へ一緒に 天音かなた",
@@ -1009,7 +1054,8 @@
         "id": "HOL/W91-046SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-047": {
     "name": "#アロ絵 アキロゼ",
@@ -1031,7 +1077,8 @@
         "id": "HOL/W91-047SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-048": {
     "name": "白上フブキ",
@@ -1053,7 +1100,8 @@
         "id": "HOL/W91-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-049": {
     "name": "ときのそら",
@@ -1075,7 +1123,8 @@
         "id": "HOL/W91-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-050": {
     "name": "#かなたーと 天音かなた",
@@ -1097,7 +1146,8 @@
         "id": "HOL/W91-050SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-051": {
     "name": "潤羽るしあ",
@@ -1119,7 +1169,8 @@
         "id": "HOL/W91-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-052": {
     "name": "#ルーナート 姫森ルーナ",
@@ -1141,7 +1192,8 @@
         "id": "HOL/W91-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-053": {
     "name": "天音かなた",
@@ -1163,7 +1215,8 @@
         "id": "HOL/W91-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-054": {
     "name": "猫又おかゆ",
@@ -1185,7 +1238,8 @@
         "id": "HOL/W91-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-055": {
     "name": "#みおーん絵 大神ミオ",
@@ -1207,7 +1261,8 @@
         "id": "HOL/W91-055SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-056": {
     "name": "#TOWART 常闇トワ",
@@ -1229,7 +1284,8 @@
         "id": "HOL/W91-056SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-057": {
     "name": "姫森ルーナ",
@@ -1251,7 +1307,8 @@
         "id": "HOL/W91-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-058": {
     "name": "素朴な疑問 常闇トワ",
@@ -1273,7 +1330,8 @@
         "id": "HOL/W91-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-059": {
     "name": "面接中 ときのそら",
@@ -1295,7 +1353,8 @@
         "id": "HOL/W91-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-060": {
     "name": "ジャグリング担当 大神ミオ",
@@ -1317,7 +1376,8 @@
         "id": "HOL/W91-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-061": {
     "name": "準備ばっちり！ 姫森ルーナ",
@@ -1339,7 +1399,8 @@
         "id": "HOL/W91-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-062": {
     "name": "本物はどっち？ 天音かなた",
@@ -1361,7 +1422,8 @@
         "id": "HOL/W91-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-063": {
     "name": "彦星？ 白上フブキ",
@@ -1383,7 +1445,8 @@
         "id": "HOL/W91-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-064": {
     "name": "バイオレンス猫づくり アキロゼ",
@@ -1405,7 +1468,8 @@
         "id": "HOL/W91-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-065": {
     "name": "大神ミオ",
@@ -1427,7 +1491,8 @@
         "id": "HOL/W91-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-066": {
     "name": "常闇トワ",
@@ -1449,7 +1514,8 @@
         "id": "HOL/W91-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-067": {
     "name": "アキ・ローゼンタール",
@@ -1471,7 +1537,8 @@
         "id": "HOL/W91-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-068": {
     "name": "最強の挨拶 潤羽るしあ",
@@ -1493,7 +1560,8 @@
         "id": "HOL/W91-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-069": {
     "name": "事務所復活？ 猫又おかゆ",
@@ -1515,7 +1583,8 @@
         "id": "HOL/W91-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-070": {
     "name": "広がる世界で、一緒に",
@@ -1537,7 +1606,8 @@
         "id": "HOL/W91-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-071": {
     "name": "僕の秘密のお腹を触ってみますか？",
@@ -1559,7 +1629,8 @@
         "id": "HOL/W91-071R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-072": {
     "name": "青空のシンフォニー",
@@ -1581,7 +1652,8 @@
         "id": "HOL/W91-072R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-073": {
     "name": "小悪魔な瞳",
@@ -1603,7 +1675,8 @@
         "id": "HOL/W91-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-074": {
     "name": "未来へ一緒に 赤井はあと",
@@ -1625,7 +1698,8 @@
         "id": "HOL/W91-074SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-075": {
     "name": "未来へ一緒に さくらみこ",
@@ -1647,7 +1721,8 @@
         "id": "HOL/W91-075SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-076": {
     "name": "未来へ一緒に 宝鐘マリン",
@@ -1669,7 +1744,8 @@
         "id": "HOL/W91-076SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-077": {
     "name": "未来へ一緒に 癒月ちょこ",
@@ -1691,7 +1767,8 @@
         "id": "HOL/W91-077SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-078": {
     "name": "#はあとart 赤井はあと",
@@ -1713,7 +1790,8 @@
         "id": "HOL/W91-078SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-079": {
     "name": "#マリンのお宝 宝鐘マリン",
@@ -1735,7 +1813,8 @@
         "id": "HOL/W91-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-080": {
     "name": "未来へ一緒に ロボ子さん",
@@ -1757,7 +1836,8 @@
         "id": "HOL/W91-080SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-081": {
     "name": "#miko_Art さくらみこ",
@@ -1779,7 +1859,8 @@
         "id": "HOL/W91-081SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-082": {
     "name": "未来へ一緒に 百鬼あやめ",
@@ -1801,7 +1882,8 @@
         "id": "HOL/W91-082SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-083": {
     "name": "未来へ一緒に 尾丸ポルカ",
@@ -1823,7 +1905,8 @@
         "id": "HOL/W91-083SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-084": {
     "name": "未来へ一緒に 桃鈴ねね",
@@ -1845,7 +1928,8 @@
         "id": "HOL/W91-084SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-085": {
     "name": "尾丸ポルカ",
@@ -1867,7 +1951,8 @@
         "id": "HOL/W91-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-086": {
     "name": "桃鈴ねね",
@@ -1889,7 +1974,8 @@
         "id": "HOL/W91-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-087": {
     "name": "#絵まる 尾丸ポルカ",
@@ -1911,7 +1997,8 @@
         "id": "HOL/W91-087SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-088": {
     "name": "ロボ子さん",
@@ -1933,7 +2020,8 @@
         "id": "HOL/W91-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-089": {
     "name": "#しょこらーと 癒月ちょこ",
@@ -1955,7 +2043,8 @@
         "id": "HOL/W91-089SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-090": {
     "name": "#百鬼絵巻 百鬼あやめ",
@@ -1977,7 +2066,8 @@
         "id": "HOL/W91-090SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-091": {
     "name": "#ねねアルバム 桃鈴ねね",
@@ -1999,7 +2089,8 @@
         "id": "HOL/W91-091SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-092": {
     "name": "さくらみこ",
@@ -2021,7 +2112,8 @@
         "id": "HOL/W91-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-093": {
     "name": "#ロボ子Art ロボ子さん",
@@ -2043,7 +2135,8 @@
         "id": "HOL/W91-093SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-094": {
     "name": "宝鐘マリン",
@@ -2065,7 +2158,8 @@
         "id": "HOL/W91-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-095": {
     "name": "癒月ちょこ",
@@ -2087,7 +2181,8 @@
         "id": "HOL/W91-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-096": {
     "name": "赤井はあと",
@@ -2109,7 +2204,8 @@
         "id": "HOL/W91-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-097": {
     "name": "星に願いを 癒月ちょこ",
@@ -2131,7 +2227,8 @@
         "id": "HOL/W91-097S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-098": {
     "name": "春を信じる者 桃鈴ねね",
@@ -2153,7 +2250,8 @@
         "id": "HOL/W91-098S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-099": {
     "name": "武器製作 宝鐘マリン",
@@ -2175,7 +2273,8 @@
         "id": "HOL/W91-099S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-100": {
     "name": "対策はばっちり！ ロボ子さん",
@@ -2197,7 +2296,8 @@
         "id": "HOL/W91-100S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-101": {
     "name": "かわ余 百鬼あやめ",
@@ -2219,7 +2319,8 @@
         "id": "HOL/W91-101S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-102": {
     "name": "百鬼あやめ",
@@ -2241,7 +2342,8 @@
         "id": "HOL/W91-102S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-103": {
     "name": "上の空 さくらみこ",
@@ -2263,7 +2365,8 @@
         "id": "HOL/W91-103S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-104": {
     "name": "返り討ち 尾丸ポルカ",
@@ -2285,7 +2388,8 @@
         "id": "HOL/W91-104S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-105": {
     "name": "はあちゃまビーム 赤井はあと",
@@ -2307,7 +2411,8 @@
         "id": "HOL/W91-105S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-106": {
     "name": "ステージをこえて、あなたと",
@@ -2329,7 +2434,8 @@
         "id": "HOL/W91-106S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-107": {
     "name": "35Pとの待ち合わせ",
@@ -2351,7 +2457,8 @@
         "id": "HOL/W91-107R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-108": {
     "name": "魅惑の視線",
@@ -2373,7 +2480,8 @@
         "id": "HOL/W91-108R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-109": {
     "name": "いざ夢のステージへ",
@@ -2395,7 +2503,8 @@
         "id": "HOL/W91-109R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-110": {
     "name": "悪魔サンタのプレゼント",
@@ -2417,7 +2526,8 @@
         "id": "HOL/W91-110R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-111": {
     "name": "先輩へ愛をこめて",
@@ -2439,7 +2549,8 @@
         "id": "HOL/W91-111R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-112": {
     "name": "未来へ一緒に 兎田ぺこら",
@@ -2461,7 +2572,8 @@
         "id": "HOL/W91-112SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-113": {
     "name": "未来へ一緒に 星街すいせい",
@@ -2483,7 +2595,8 @@
         "id": "HOL/W91-113SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-114": {
     "name": "未来へ一緒に 白銀ノエル",
@@ -2505,7 +2618,8 @@
         "id": "HOL/W91-114SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-115": {
     "name": "未来へ一緒に 湊あくあ",
@@ -2527,7 +2641,8 @@
         "id": "HOL/W91-115SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-116": {
     "name": "未来へ一緒に 紫咲シオン",
@@ -2549,7 +2664,8 @@
         "id": "HOL/W91-116SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-117": {
     "name": "未来へ一緒に 雪花ラミィ",
@@ -2571,7 +2687,8 @@
         "id": "HOL/W91-117SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-118": {
     "name": "#ほしまちぎゃらりー 星街すいせい",
@@ -2593,7 +2710,8 @@
         "id": "HOL/W91-118SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-119": {
     "name": "#ノエラート 白銀ノエル",
@@ -2615,7 +2733,8 @@
         "id": "HOL/W91-119SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-120": {
     "name": "#あくあーと 湊あくあ",
@@ -2637,7 +2756,8 @@
         "id": "HOL/W91-120SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-121": {
     "name": "未来へ一緒に 獅白ぼたん",
@@ -2659,7 +2779,8 @@
         "id": "HOL/W91-121SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-122": {
     "name": "#ぺこらーと 兎田ぺこら",
@@ -2681,7 +2802,8 @@
         "id": "HOL/W91-122SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-123": {
     "name": "星街すいせい",
@@ -2703,7 +2825,8 @@
         "id": "HOL/W91-123S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-124": {
     "name": "#ししらーと 獅白ぼたん",
@@ -2725,7 +2848,8 @@
         "id": "HOL/W91-124SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-125": {
     "name": "湊あくあ",
@@ -2747,7 +2871,8 @@
         "id": "HOL/W91-125S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-126": {
     "name": "#LamyArt  雪花ラミィ",
@@ -2769,7 +2894,8 @@
         "id": "HOL/W91-126SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-127": {
     "name": "#シオンの書物 紫咲シオン",
@@ -2791,7 +2917,8 @@
         "id": "HOL/W91-127SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-128": {
     "name": "兎田ぺこら",
@@ -2813,7 +2940,8 @@
         "id": "HOL/W91-128S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-129": {
     "name": "白銀ノエル",
@@ -2835,7 +2963,8 @@
         "id": "HOL/W91-129S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-130": {
     "name": "紫咲シオン",
@@ -2857,7 +2986,8 @@
         "id": "HOL/W91-130S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-131": {
     "name": "山田ハーマイオニー湊あくあ",
@@ -2879,7 +3009,8 @@
         "id": "HOL/W91-131S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-132": {
     "name": "専門家の力 紫咲シオン",
@@ -2901,7 +3032,8 @@
         "id": "HOL/W91-132S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-133": {
     "name": "人見知り 兎田ぺこら",
@@ -2923,7 +3055,8 @@
         "id": "HOL/W91-133S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-134": {
     "name": "呆然 白銀ノエル",
@@ -2945,7 +3078,8 @@
         "id": "HOL/W91-134S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-135": {
     "name": "朝の陽ざし 獅白ぼたん",
@@ -2967,7 +3101,8 @@
         "id": "HOL/W91-135S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-136": {
     "name": "私のお酒！ 雪花ラミィ",
@@ -2989,7 +3124,8 @@
         "id": "HOL/W91-136S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-137": {
     "name": "獅白ぼたん",
@@ -3011,7 +3147,8 @@
         "id": "HOL/W91-137S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-138": {
     "name": "願いを叶える星街すいせい",
@@ -3033,7 +3170,8 @@
         "id": "HOL/W91-138S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-139": {
     "name": "雪花ラミィ",
@@ -3055,7 +3193,8 @@
         "id": "HOL/W91-139S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-140": {
     "name": "みんなと一緒の時間",
@@ -3077,7 +3216,8 @@
         "id": "HOL/W91-140R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-141": {
     "name": "休日ゲーム",
@@ -3099,7 +3239,8 @@
         "id": "HOL/W91-141R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-142": {
     "name": "束の間の安らぎ",
@@ -3121,7 +3262,8 @@
         "id": "HOL/W91-142R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-143": {
     "name": "シオンの誕生日",
@@ -3143,7 +3285,8 @@
         "id": "HOL/W91-143R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-144": {
     "name": "団長と一緒",
@@ -3165,6 +3308,7 @@
         "id": "HOL/W91-144R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

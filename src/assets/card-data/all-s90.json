@@ -19,7 +19,8 @@
         "id": "ALL/S90-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-002": {
     "name": "“花は優しく微笑む”姫歌",
@@ -41,7 +42,8 @@
         "id": "ALL/S90-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-003": {
     "name": "“エアリアル☆シューター”灯莉",
@@ -63,7 +65,8 @@
         "id": "ALL/S90-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-004": {
     "name": "“努力は憧れを追って”紅巴",
@@ -85,7 +88,8 @@
         "id": "ALL/S90-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-005": {
     "name": "“グラン・エプレの必勝戦術”高嶺",
@@ -107,7 +111,8 @@
         "id": "ALL/S90-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-006": {
     "name": "“グラン・エプレ”高嶺",
@@ -129,7 +134,8 @@
         "id": "ALL/S90-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-007": {
     "name": "“グラン・エプレ”叶星",
@@ -151,7 +157,8 @@
         "id": "ALL/S90-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-008": {
     "name": "“その笑顔を守るために”叶星",
@@ -173,7 +180,8 @@
         "id": "ALL/S90-008SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-009": {
     "name": "“グラン・エプレ”紅巴",
@@ -195,7 +203,8 @@
         "id": "ALL/S90-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-010": {
     "name": "“グラン・エプレ”灯莉",
@@ -217,7 +226,8 @@
         "id": "ALL/S90-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-011": {
     "name": "“グラン・エプレ”姫歌",
@@ -239,7 +249,8 @@
         "id": "ALL/S90-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-012": {
     "name": "“旬なリリィ”灯莉",
@@ -257,7 +268,8 @@
         "id": "ALL/S90-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-013": {
     "name": "“きゃんとすとっぷ・ふるーてぃ！”叶星＆高嶺＆紅巴",
@@ -275,7 +287,8 @@
         "id": "ALL/S90-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-014": {
     "name": "“旬なリリィ”叶星",
@@ -293,7 +306,8 @@
         "id": "ALL/S90-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-015": {
     "name": "“穏やかなる日常”高嶺",
@@ -311,7 +325,8 @@
         "id": "ALL/S90-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-016": {
     "name": "“旬なリリィ”紅巴",
@@ -329,7 +344,8 @@
         "id": "ALL/S90-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-017": {
     "name": "“世界一可愛いリリィよ！”姫歌",
@@ -347,7 +363,8 @@
         "id": "ALL/S90-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-018": {
     "name": "“わたしのせいで……”紅巴",
@@ -365,7 +382,8 @@
         "id": "ALL/S90-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-019": {
     "name": "“旬なリリィ”高嶺",
@@ -383,7 +401,8 @@
         "id": "ALL/S90-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-020": {
     "name": "“ユニコーンがいてもおかしくない！”灯莉",
@@ -401,7 +420,8 @@
         "id": "ALL/S90-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-021": {
     "name": "“心躍る再会”叶星",
@@ -419,7 +439,8 @@
         "id": "ALL/S90-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-022": {
     "name": "“叶星の決意”叶星",
@@ -437,7 +458,8 @@
         "id": "ALL/S90-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-023": {
     "name": "“いちごショート戦争”灯莉",
@@ -455,7 +477,8 @@
         "id": "ALL/S90-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-024": {
     "name": "“ノインヴェルト戦術みせてあげるわ”姫歌",
@@ -473,7 +496,8 @@
         "id": "ALL/S90-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-025": {
     "name": "“たまりません～～っ！”紅巴",
@@ -491,7 +515,8 @@
         "id": "ALL/S90-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-026": {
     "name": "“きゃんとすとっぷ・ふるーてぃ！”灯莉＆姫歌",
@@ -509,7 +534,8 @@
         "id": "ALL/S90-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-027": {
     "name": "“愛しき者の窮地”高嶺",
@@ -527,7 +553,8 @@
         "id": "ALL/S90-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-028": {
     "name": "“旬なリリィ”姫歌",
@@ -545,7 +572,8 @@
         "id": "ALL/S90-028",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-029": {
     "name": "ふたりの世界",
@@ -563,7 +591,8 @@
         "id": "ALL/S90-029",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-030": {
     "name": "やさしい黄昏",
@@ -585,7 +614,8 @@
         "id": "ALL/S90-030OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-031": {
     "name": "神速のマッチアップ",
@@ -607,7 +637,8 @@
         "id": "ALL/S90-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-032": {
     "name": "ソウル・フレンドの誓い",
@@ -629,7 +660,8 @@
         "id": "ALL/S90-032R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-033": {
     "name": "看板・宣伝・大作戦☆",
@@ -651,7 +683,8 @@
         "id": "ALL/S90-033R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-034": {
     "name": "“淑やかなるスナイパー”雨嘉",
@@ -673,7 +706,8 @@
         "id": "ALL/S90-034SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-035": {
     "name": "“一柳隊”雨嘉",
@@ -695,7 +729,8 @@
         "id": "ALL/S90-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-036": {
     "name": "“一柳隊”鶴紗",
@@ -717,7 +752,8 @@
         "id": "ALL/S90-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-037": {
     "name": "“吉村・Thi・梅の日常”梅",
@@ -739,7 +775,8 @@
         "id": "ALL/S90-037SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-038": {
     "name": "“一柳隊”梅",
@@ -761,7 +798,8 @@
         "id": "ALL/S90-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-039": {
     "name": "“紡ぐ未来、変わる今”鶴紗",
@@ -783,7 +821,8 @@
         "id": "ALL/S90-039SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-040": {
     "name": "“ふたりで守る灯り”神琳",
@@ -805,7 +844,8 @@
         "id": "ALL/S90-040SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-041": {
     "name": "“一柳隊”神琳",
@@ -827,7 +867,8 @@
         "id": "ALL/S90-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-042": {
     "name": "“旬なリリィ”神琳",
@@ -849,7 +890,8 @@
         "id": "ALL/S90-042LLR",
         "rarity": "LLR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-043": {
     "name": "“旬なリリィ”雨嘉",
@@ -871,7 +913,8 @@
         "id": "ALL/S90-043LLR",
         "rarity": "LLR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-044": {
     "name": "“旬なリリィ”梅",
@@ -893,7 +936,8 @@
         "id": "ALL/S90-044LLR",
         "rarity": "LLR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-045": {
     "name": "“旬なリリィ”鶴紗",
@@ -915,7 +959,8 @@
         "id": "ALL/S90-045LLR",
         "rarity": "LLR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-046": {
     "name": "“きゃんとすとっぷ・ふるーてぃ！”雨嘉＆神琳",
@@ -933,7 +978,8 @@
         "id": "ALL/S90-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-047": {
     "name": "奥深いドールの世界へごきげんよう！",
@@ -951,7 +997,8 @@
         "id": "ALL/S90-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-048": {
     "name": "甘い思い出",
@@ -973,7 +1020,8 @@
         "id": "ALL/S90-048OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-049": {
     "name": "お前なら……わたしとモフれる？",
@@ -995,7 +1043,8 @@
         "id": "ALL/S90-049R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-050": {
     "name": "“パジャマパーティー”梨璃",
@@ -1017,7 +1066,8 @@
         "id": "ALL/S90-050SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-051": {
     "name": "“パジャマパーティー”夢結",
@@ -1039,7 +1089,8 @@
         "id": "ALL/S90-051SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-052": {
     "name": "“旬なリリィ”夢結",
@@ -1061,7 +1112,8 @@
         "id": "ALL/S90-052LLR",
         "rarity": "LLR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-053": {
     "name": "“守りたいもの”梨璃",
@@ -1083,7 +1135,8 @@
         "id": "ALL/S90-053SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-054": {
     "name": "“ふーみん、司令官になる”二水",
@@ -1105,7 +1158,8 @@
         "id": "ALL/S90-054SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-055": {
     "name": "“先輩と後輩と仲間たち”ミリアム",
@@ -1127,7 +1181,8 @@
         "id": "ALL/S90-055SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-056": {
     "name": "“完全無欠のお嬢様”楓",
@@ -1149,7 +1204,8 @@
         "id": "ALL/S90-056SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-057": {
     "name": "“世代を越え伝えるもの”夢結",
@@ -1171,7 +1227,8 @@
         "id": "ALL/S90-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-058": {
     "name": "“旬なリリィ”梨璃",
@@ -1193,7 +1250,8 @@
         "id": "ALL/S90-058LLR",
         "rarity": "LLR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-059": {
     "name": "“一柳隊”二水",
@@ -1215,7 +1273,8 @@
         "id": "ALL/S90-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-060": {
     "name": "“旬なリリィ”楓",
@@ -1237,7 +1296,8 @@
         "id": "ALL/S90-060LLR",
         "rarity": "LLR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-061": {
     "name": "“一柳隊”楓",
@@ -1259,7 +1319,8 @@
         "id": "ALL/S90-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-062": {
     "name": "“旬なリリィ”二水",
@@ -1281,7 +1342,8 @@
         "id": "ALL/S90-062LLR",
         "rarity": "LLR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-063": {
     "name": "“一柳隊”ミリアム",
@@ -1303,7 +1365,8 @@
         "id": "ALL/S90-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-064": {
     "name": "“きゃんとすとっぷ・ふるーてぃ！”夢結＆梨璃＆楓",
@@ -1321,7 +1384,8 @@
         "id": "ALL/S90-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-065": {
     "name": "“旬なリリィ”ミリアム",
@@ -1343,7 +1407,8 @@
         "id": "ALL/S90-065LLR",
         "rarity": "LLR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-066": {
     "name": "“一柳隊”梨璃",
@@ -1365,7 +1430,8 @@
         "id": "ALL/S90-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-067": {
     "name": "“一柳隊”夢結",
@@ -1387,7 +1453,8 @@
         "id": "ALL/S90-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-068": {
     "name": "“心躍る再会”梨璃",
@@ -1405,7 +1472,8 @@
         "id": "ALL/S90-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-069": {
     "name": "“ふたりの約束”梨璃",
@@ -1423,7 +1491,8 @@
         "id": "ALL/S90-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-070": {
     "name": "“おまじない”夢結",
@@ -1441,7 +1510,8 @@
         "id": "ALL/S90-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-071": {
     "name": "“美しい姉妹愛”夢結＆梨璃",
@@ -1459,7 +1529,8 @@
         "id": "ALL/S90-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-072": {
     "name": "“おとり作戦決行‼”梨璃",
@@ -1477,7 +1548,8 @@
         "id": "ALL/S90-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-073": {
     "name": "“ふたりの約束”夢結",
@@ -1495,7 +1567,8 @@
         "id": "ALL/S90-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-074": {
     "name": "“きゃんとすとっぷ・ふるーてぃ！”鶴紗＆ミリアム＆梅＆二水",
@@ -1513,7 +1586,8 @@
         "id": "ALL/S90-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-075": {
     "name": "楓's collection",
@@ -1531,7 +1605,8 @@
         "id": "ALL/S90-075",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-076": {
     "name": "果てなき戦いの日々",
@@ -1553,7 +1628,8 @@
         "id": "ALL/S90-076OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-077": {
     "name": "悩み多きお年頃",
@@ -1575,7 +1651,8 @@
         "id": "ALL/S90-077R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-078": {
     "name": "“言葉なく猛る”瑤",
@@ -1597,7 +1674,8 @@
         "id": "ALL/S90-078SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-079": {
     "name": "“ヘルヴォルの名を冠する者”恋花",
@@ -1619,7 +1697,8 @@
         "id": "ALL/S90-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-080": {
     "name": "“秘密の魔法の唱え方”千香瑠",
@@ -1641,7 +1720,8 @@
         "id": "ALL/S90-080SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-081": {
     "name": "“藍の一番長い日”藍",
@@ -1663,7 +1743,8 @@
         "id": "ALL/S90-081SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-082": {
     "name": "“パジャマパーティー”一葉",
@@ -1685,7 +1766,8 @@
         "id": "ALL/S90-082SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-083": {
     "name": "“全力少女”一葉",
@@ -1707,7 +1789,8 @@
         "id": "ALL/S90-083SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-084": {
     "name": "“ヘルヴォル”一葉",
@@ -1729,7 +1812,8 @@
         "id": "ALL/S90-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-085": {
     "name": "“ヘルヴォル”藍",
@@ -1751,7 +1835,8 @@
         "id": "ALL/S90-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-086": {
     "name": "“ヘルヴォル”千香瑠",
@@ -1773,7 +1858,8 @@
         "id": "ALL/S90-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-087": {
     "name": "“ヘルヴォル”瑤",
@@ -1795,7 +1881,8 @@
         "id": "ALL/S90-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-088": {
     "name": "“ヘルヴォル”恋花",
@@ -1817,7 +1904,8 @@
         "id": "ALL/S90-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-089": {
     "name": "“弾に込めた想い”恋花",
@@ -1835,7 +1923,8 @@
         "id": "ALL/S90-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-090": {
     "name": "“ふたりでお買い物”瑤",
@@ -1853,7 +1942,8 @@
         "id": "ALL/S90-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-091": {
     "name": "“藍、強いもんっ！”藍",
@@ -1871,7 +1961,8 @@
         "id": "ALL/S90-091",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-092": {
     "name": "“きゃんとすとっぷ・ふるーてぃ！”一葉＆藍＆千香瑠",
@@ -1889,7 +1980,8 @@
         "id": "ALL/S90-092",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-093": {
     "name": "“心躍る再会”一葉",
@@ -1907,7 +1999,8 @@
         "id": "ALL/S90-093",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-094": {
     "name": "“みんなのお姉さん”千香瑠",
@@ -1925,7 +2018,8 @@
         "id": "ALL/S90-094",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-095": {
     "name": "“きゃんとすとっぷ・ふるーてぃ！”恋花＆瑤",
@@ -1943,7 +2037,8 @@
         "id": "ALL/S90-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-096": {
     "name": "“旬なリリィ”瑤",
@@ -1961,7 +2056,8 @@
         "id": "ALL/S90-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-097": {
     "name": "“旬なリリィ”千香瑠",
@@ -1979,7 +2075,8 @@
         "id": "ALL/S90-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-098": {
     "name": "“旬なリリィ”藍",
@@ -1997,7 +2094,8 @@
         "id": "ALL/S90-098",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-099": {
     "name": "“嬉々として”藍",
@@ -2015,7 +2113,8 @@
         "id": "ALL/S90-099",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-100": {
     "name": "“双眸に映るのは”千香瑠",
@@ -2033,7 +2132,8 @@
         "id": "ALL/S90-100",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-101": {
     "name": "“序列１位の権利”一葉",
@@ -2051,7 +2151,8 @@
         "id": "ALL/S90-101",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-102": {
     "name": "“旬なリリィ”一葉",
@@ -2069,7 +2170,8 @@
         "id": "ALL/S90-102",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-103": {
     "name": "“ヘルヴォルのムードメーカー”恋花",
@@ -2087,7 +2189,8 @@
         "id": "ALL/S90-103",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-104": {
     "name": "“旬なリリィ”恋花",
@@ -2105,7 +2208,8 @@
         "id": "ALL/S90-104",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-105": {
     "name": "“その力、クリューサーオール”瑤",
@@ -2123,7 +2227,8 @@
         "id": "ALL/S90-105",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-106": {
     "name": "マスコット対決",
@@ -2141,7 +2246,8 @@
         "id": "ALL/S90-106",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-107": {
     "name": "ねむねむにさようなら",
@@ -2163,7 +2269,8 @@
         "id": "ALL/S90-107OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-108": {
     "name": "空から見える景色",
@@ -2185,7 +2292,8 @@
         "id": "ALL/S90-108R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S90-109": {
     "name": "天を舞う少女",
@@ -2207,7 +2315,8 @@
         "id": "ALL/S90-109R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S90-110": {
     "name": "伝えるべき思い",
@@ -2229,6 +2338,7 @@
         "id": "ALL/S90-110R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -19,7 +19,8 @@
         "id": "IM/SE27-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE27-002": {
     "name": "ONE FOR ALL 雪歩",
@@ -41,7 +42,8 @@
         "id": "IM/SE27-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SE27-003": {
     "name": "ONE FOR ALL 真美",
@@ -63,7 +65,8 @@
         "id": "IM/SE27-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SE27-004": {
     "name": "ONE FOR ALL 亜美",
@@ -85,7 +88,8 @@
         "id": "IM/SE27-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE27-005": {
     "name": "ONE FOR ALL あずさ",
@@ -107,7 +111,8 @@
         "id": "IM/SE27-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE27-006": {
     "name": "ONE FOR ALL 伊織",
@@ -129,7 +134,8 @@
         "id": "IM/SE27-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE27-007": {
     "name": "ONE FOR ALL 春香",
@@ -151,7 +157,8 @@
         "id": "IM/SE27-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE27-008": {
     "name": "ONE FOR ALL やよい",
@@ -173,7 +180,8 @@
         "id": "IM/SE27-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE27-009": {
     "name": "ONE FOR ALL 響",
@@ -195,7 +203,8 @@
         "id": "IM/SE27-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SE27-010": {
     "name": "ONE FOR ALL 美希",
@@ -217,7 +226,8 @@
         "id": "IM/SE27-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SE27-011": {
     "name": "ONE FOR ALL 律子",
@@ -239,7 +249,8 @@
         "id": "IM/SE27-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE27-012": {
     "name": "ONE FOR ALL 千早",
@@ -261,7 +272,8 @@
         "id": "IM/SE27-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE27-013": {
     "name": "ONE FOR ALL 貴音",
@@ -283,7 +295,8 @@
         "id": "IM/SE27-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE27-014": {
     "name": "ONE FOR ALL 真",
@@ -305,6 +318,7 @@
         "id": "IM/SE27-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

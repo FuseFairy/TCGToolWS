@@ -19,7 +19,8 @@
         "id": "HBR/W117-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-P05": {
     "name": "溢れ出る感情",
@@ -37,6 +38,7 @@
         "id": "HBR/W117-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

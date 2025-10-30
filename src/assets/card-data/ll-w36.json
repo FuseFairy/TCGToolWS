@@ -47,7 +47,8 @@
         "id": "LL/W36-T04iR",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-T19": {
     "name": "“海辺の太陽”高坂 穂乃果",
@@ -69,7 +70,8 @@
         "id": "LL/W36-T19SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-001": {
     "name": "“夏祭りデート”絢瀬 絵里",
@@ -91,7 +93,8 @@
         "id": "LL/W36-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-002": {
     "name": "“夏祭りデート”矢澤 にこ",
@@ -113,7 +116,8 @@
         "id": "LL/W36-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-003": {
     "name": "“夏祭りデート”東條 希",
@@ -135,7 +139,8 @@
         "id": "LL/W36-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-004": {
     "name": "“晴れ着”東條 希",
@@ -157,7 +162,8 @@
         "id": "LL/W36-004R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-005": {
     "name": "“お菓子の妖精”東條 希",
@@ -179,7 +185,8 @@
         "id": "LL/W36-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-006": {
     "name": "“お菓子の妖精”矢澤 にこ",
@@ -201,7 +208,8 @@
         "id": "LL/W36-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-007": {
     "name": "“晴れ着”絢瀬 絵里",
@@ -223,7 +231,8 @@
         "id": "LL/W36-007R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-008": {
     "name": "“お菓子の妖精”絢瀬 絵里",
@@ -245,7 +254,8 @@
         "id": "LL/W36-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-009": {
     "name": "“晴れ着”矢澤 にこ",
@@ -267,7 +277,8 @@
         "id": "LL/W36-009R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-010": {
     "name": "“あなたとリンゴ飴”絢瀬 絵里",
@@ -285,7 +296,8 @@
         "id": "LL/W36-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-011": {
     "name": "“夏休みの思い出”矢澤 にこ",
@@ -303,7 +315,8 @@
         "id": "LL/W36-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-012": {
     "name": "“クリスマスデート”矢澤 にこ",
@@ -321,7 +334,8 @@
         "id": "LL/W36-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-013": {
     "name": "“お祭り娘”東條 希",
@@ -339,7 +353,8 @@
         "id": "LL/W36-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-014": {
     "name": "“クリスマスデート”東條 希",
@@ -357,7 +372,8 @@
         "id": "LL/W36-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-015": {
     "name": "“あなたへのプレゼント”絢瀬 絵里",
@@ -375,7 +391,8 @@
         "id": "LL/W36-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-016": {
     "name": "“あなたのサンタさん”東條 希",
@@ -393,7 +410,8 @@
         "id": "LL/W36-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-017": {
     "name": "“手作りおせち”矢澤 にこ",
@@ -411,7 +429,8 @@
         "id": "LL/W36-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-018": {
     "name": "“読書の秋”絢瀬 絵里",
@@ -429,7 +448,8 @@
         "id": "LL/W36-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-019": {
     "name": "“キョンシー”東條 希",
@@ -447,7 +467,8 @@
         "id": "LL/W36-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-020": {
     "name": "“マーチングガール”絢瀬 絵里",
@@ -465,7 +486,8 @@
         "id": "LL/W36-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-021": {
     "name": "“ウェスタンガール”矢澤 にこ",
@@ -483,7 +505,8 @@
         "id": "LL/W36-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-022": {
     "name": "“良い子のクリスマス”矢澤 にこ",
@@ -501,7 +524,8 @@
         "id": "LL/W36-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-023": {
     "name": "“特製ボルシチ”絢瀬 絵里",
@@ -519,7 +543,8 @@
         "id": "LL/W36-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-024": {
     "name": "“家庭的アイドル”矢澤 にこ",
@@ -537,7 +562,8 @@
         "id": "LL/W36-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-025": {
     "name": "“クリスマスデート”絢瀬 絵里",
@@ -555,7 +581,8 @@
         "id": "LL/W36-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-026": {
     "name": "“開運フルコース”東條 希",
@@ -573,7 +600,8 @@
         "id": "LL/W36-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-027": {
     "name": "“わしわし”東條 希",
@@ -591,7 +619,8 @@
         "id": "LL/W36-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-028": {
     "name": "内緒のお年玉",
@@ -609,7 +638,8 @@
         "id": "LL/W36-028",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-029": {
     "name": "福娘ここにあり",
@@ -627,7 +657,8 @@
         "id": "LL/W36-029",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-030": {
     "name": "新年のおまじない",
@@ -645,7 +676,8 @@
         "id": "LL/W36-030",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-031": {
     "name": "一粒チョコレート",
@@ -663,7 +695,8 @@
         "id": "LL/W36-031",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-032": {
     "name": "超レアチョコ",
@@ -681,7 +714,8 @@
         "id": "LL/W36-032",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-033": {
     "name": "ハッピーバレンタイン",
@@ -699,7 +733,8 @@
         "id": "LL/W36-033",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LL/W36-034": {
     "name": "“夏祭りデート”南 ことり",
@@ -721,7 +756,8 @@
         "id": "LL/W36-034SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-035": {
     "name": "“夏祭りデート”高坂 穂乃果",
@@ -743,7 +779,8 @@
         "id": "LL/W36-035SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-036": {
     "name": "“夏祭りデート”園田 海未",
@@ -765,7 +802,8 @@
         "id": "LL/W36-036SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-037": {
     "name": "“晴れ着”高坂 穂乃果",
@@ -787,7 +825,8 @@
         "id": "LL/W36-037R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-038": {
     "name": "“お菓子の妖精”南 ことり",
@@ -809,7 +848,8 @@
         "id": "LL/W36-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-039": {
     "name": "“晴れ着”南 ことり",
@@ -831,7 +871,8 @@
         "id": "LL/W36-039R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-040": {
     "name": "“晴れ着”園田 海未",
@@ -853,7 +894,8 @@
         "id": "LL/W36-040R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-041": {
     "name": "“お菓子の妖精”園田 海未",
@@ -875,7 +917,8 @@
         "id": "LL/W36-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-042": {
     "name": "“お菓子の妖精”高坂 穂乃果",
@@ -897,7 +940,8 @@
         "id": "LL/W36-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-043": {
     "name": "“みんなと夏祭り”高坂 穂乃果",
@@ -915,7 +959,8 @@
         "id": "LL/W36-043",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-044": {
     "name": "“クリスマスデート”南 ことり",
@@ -933,7 +978,8 @@
         "id": "LL/W36-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-045": {
     "name": "“きよしこの夜”園田 海未",
@@ -951,7 +997,8 @@
         "id": "LL/W36-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-046": {
     "name": "“夕涼みガール”南 ことり",
@@ -969,7 +1016,8 @@
         "id": "LL/W36-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-047": {
     "name": "“クリスマスデート”園田 海未",
@@ -987,7 +1035,8 @@
         "id": "LL/W36-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-048": {
     "name": "“クリスマスデート”高坂 穂乃果",
@@ -1005,7 +1054,8 @@
         "id": "LL/W36-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-049": {
     "name": "“雪女”園田 海未",
@@ -1023,7 +1073,8 @@
         "id": "LL/W36-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-050": {
     "name": "“ホワイトクリスマス”南 ことり",
@@ -1041,7 +1092,8 @@
         "id": "LL/W36-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-051": {
     "name": "“大正娘”高坂 穂乃果",
@@ -1059,7 +1111,8 @@
         "id": "LL/W36-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-052": {
     "name": "“雪の降る夜に”園田 海未",
@@ -1077,7 +1130,8 @@
         "id": "LL/W36-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-053": {
     "name": "“晩夏の浴衣美人”園田 海未",
@@ -1095,7 +1149,8 @@
         "id": "LL/W36-053",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-054": {
     "name": "“エンジェルナース”南 ことり",
@@ -1113,7 +1168,8 @@
         "id": "LL/W36-054",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-055": {
     "name": "“至福のつまみ食い”高坂 穂乃果",
@@ -1131,7 +1187,8 @@
         "id": "LL/W36-055",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-056": {
     "name": "“キャンドルナイト”高坂 穂乃果",
@@ -1149,7 +1206,8 @@
         "id": "LL/W36-056",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-057": {
     "name": "“保健室の天使”南 ことり",
@@ -1167,7 +1225,8 @@
         "id": "LL/W36-057",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-058": {
     "name": "“穂むらの看板娘”高坂 穂乃果",
@@ -1185,7 +1244,8 @@
         "id": "LL/W36-058",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-059": {
     "name": "“食物への感謝”園田 海未",
@@ -1203,7 +1263,8 @@
         "id": "LL/W36-059",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-060": {
     "name": "“はい、あーん♪”南 ことり",
@@ -1221,7 +1282,8 @@
         "id": "LL/W36-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-061": {
     "name": "ハッピーニューイヤー☆",
@@ -1239,7 +1301,8 @@
         "id": "LL/W36-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-062": {
     "name": "素敵な初夢",
@@ -1257,7 +1320,8 @@
         "id": "LL/W36-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-063": {
     "name": "謹賀新年",
@@ -1275,7 +1339,8 @@
         "id": "LL/W36-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-064": {
     "name": "秘めた想い",
@@ -1293,7 +1358,8 @@
         "id": "LL/W36-064",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-065": {
     "name": "動物がいっぱい",
@@ -1311,7 +1377,8 @@
         "id": "LL/W36-065",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LL/W36-066": {
     "name": "口溶けスイーツ♪",
@@ -1329,7 +1396,8 @@
         "id": "LL/W36-066",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LL/W36-067": {
     "name": "“夏祭りデート”西木野 真姫",
@@ -1351,7 +1419,8 @@
         "id": "LL/W36-067SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-068": {
     "name": "“夏祭りデート”星空 凛",
@@ -1373,7 +1442,8 @@
         "id": "LL/W36-068SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-069": {
     "name": "“夏祭りデート”小泉 花陽",
@@ -1395,7 +1465,8 @@
         "id": "LL/W36-069SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-070": {
     "name": "“お菓子の妖精”小泉 花陽",
@@ -1417,7 +1488,8 @@
         "id": "LL/W36-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-071": {
     "name": "“お菓子の妖精”星空 凛",
@@ -1439,7 +1511,8 @@
         "id": "LL/W36-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-072": {
     "name": "“晴れ着”星空 凛",
@@ -1461,7 +1534,8 @@
         "id": "LL/W36-072R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-073": {
     "name": "“晴れ着”小泉 花陽",
@@ -1483,7 +1557,8 @@
         "id": "LL/W36-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-074": {
     "name": "“お菓子の妖精”西木野 真姫",
@@ -1505,7 +1580,8 @@
         "id": "LL/W36-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-075": {
     "name": "“晴れ着”西木野 真姫",
@@ -1527,7 +1603,8 @@
         "id": "LL/W36-075R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-076": {
     "name": "“クリスマスデート”小泉 花陽",
@@ -1545,7 +1622,8 @@
         "id": "LL/W36-076",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-077": {
     "name": "“盆踊りするにゃ！”星空 凛",
@@ -1563,7 +1641,8 @@
         "id": "LL/W36-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-078": {
     "name": "“金魚すくい名人？”西木野 真姫",
@@ -1581,7 +1660,8 @@
         "id": "LL/W36-078",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-079": {
     "name": "“クリスマスデート”星空 凛",
@@ -1599,7 +1679,8 @@
         "id": "LL/W36-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-080": {
     "name": "“夜店めぐり♪”小泉 花陽",
@@ -1617,7 +1698,8 @@
         "id": "LL/W36-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-081": {
     "name": "“クリスマスデート”西木野 真姫",
@@ -1635,7 +1717,8 @@
         "id": "LL/W36-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-082": {
     "name": "アルパカ（♀）",
@@ -1653,7 +1736,8 @@
         "id": "LL/W36-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-083": {
     "name": "“ゴシックガール”西木野 真姫",
@@ -1671,7 +1755,8 @@
         "id": "LL/W36-083",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-084": {
     "name": "“かぐや姫”星空 凛",
@@ -1689,7 +1774,8 @@
         "id": "LL/W36-084",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-085": {
     "name": "“リンクの妖精”小泉 花陽",
@@ -1707,7 +1793,8 @@
         "id": "LL/W36-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-086": {
     "name": "“一緒にスケート”小泉 花陽",
@@ -1725,7 +1812,8 @@
         "id": "LL/W36-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-087": {
     "name": "“クリスマスキャロル”西木野 真姫",
@@ -1743,7 +1831,8 @@
         "id": "LL/W36-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-088": {
     "name": "“ご奉仕してあげる♪”西木野 真姫",
@@ -1761,7 +1850,8 @@
         "id": "LL/W36-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-089": {
     "name": "“クリスマス・ベル”星空 凛",
@@ -1779,7 +1869,8 @@
         "id": "LL/W36-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-090": {
     "name": "“秘密の手料理”西木野 真姫",
@@ -1797,7 +1888,8 @@
         "id": "LL/W36-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-091": {
     "name": "“クリスマスのごちそう”小泉 花陽",
@@ -1815,7 +1907,8 @@
         "id": "LL/W36-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-092": {
     "name": "“お手製ラーメン”星空 凛",
@@ -1833,7 +1926,8 @@
         "id": "LL/W36-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-093": {
     "name": "“お月見するにゃ！”星空 凛",
@@ -1851,7 +1945,8 @@
         "id": "LL/W36-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-094": {
     "name": "“癒しのメニュー”小泉 花陽",
@@ -1869,7 +1964,8 @@
         "id": "LL/W36-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-095": {
     "name": "年に一度の晴れ姿",
@@ -1887,7 +1983,8 @@
         "id": "LL/W36-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-096": {
     "name": "お餅もお米",
@@ -1905,7 +2002,8 @@
         "id": "LL/W36-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-097": {
     "name": "今年は大吉！",
@@ -1923,7 +2021,8 @@
         "id": "LL/W36-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-098": {
     "name": "ドキドキバレンタイン",
@@ -1941,7 +2040,8 @@
         "id": "LL/W36-098",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-099": {
     "name": "凛のひみつ",
@@ -1959,7 +2059,8 @@
         "id": "LL/W36-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LL/W36-100": {
     "name": "真姫の隠し事",
@@ -1977,7 +2078,8 @@
         "id": "LL/W36-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LL/W36-S01": {
     "name": "“カフェメイド”絢瀬 絵里",
@@ -1995,7 +2097,8 @@
         "id": "LL/W36-S01",
         "rarity": "-"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-S02": {
     "name": "“カフェメイド”東條 希",
@@ -2013,7 +2116,8 @@
         "id": "LL/W36-S02",
         "rarity": "-"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-S03": {
     "name": "“カフェメイド”矢澤 にこ",
@@ -2031,7 +2135,8 @@
         "id": "LL/W36-S03",
         "rarity": "-"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-S04": {
     "name": "“カフェメイド”高坂 穂乃果",
@@ -2049,7 +2154,8 @@
         "id": "LL/W36-S04",
         "rarity": "-"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-S05": {
     "name": "“カフェメイド”南 ことり",
@@ -2067,7 +2173,8 @@
         "id": "LL/W36-S05",
         "rarity": "-"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-S06": {
     "name": "“カフェメイド”園田 海未",
@@ -2085,7 +2192,8 @@
         "id": "LL/W36-S06",
         "rarity": "-"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-S07": {
     "name": "“カフェメイド”小泉 花陽",
@@ -2103,7 +2211,8 @@
         "id": "LL/W36-S07",
         "rarity": "-"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-S08": {
     "name": "“カフェメイド”星空 凛",
@@ -2121,7 +2230,8 @@
         "id": "LL/W36-S08",
         "rarity": "-"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-S09": {
     "name": "“カフェメイド”西木野 真姫",
@@ -2139,6 +2249,7 @@
         "id": "LL/W36-S09",
         "rarity": "-"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

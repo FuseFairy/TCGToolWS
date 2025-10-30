@@ -19,7 +19,8 @@
         "id": "SAO/S47-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S47-P02": {
     "name": "再開の約束 キリト",
@@ -37,7 +38,8 @@
         "id": "SAO/S47-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S47-120": {
     "name": "《スター・スプラッシュ》",
@@ -55,7 +57,8 @@
         "id": "SAO/S47-120",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S47-121": {
     "name": "気づいた本当の気持ち",
@@ -73,7 +76,8 @@
         "id": "SAO/S47-121",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S47-122": {
     "name": "薄暮の中の任務  シノン",
@@ -91,7 +95,8 @@
         "id": "SAO/S47-122",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S47-123": {
     "name": "強者への挑戦 シノン",
@@ -109,6 +114,7 @@
         "id": "SAO/S47-123",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

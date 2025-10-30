@@ -15,7 +15,8 @@
         "id": "DC/W01-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-102": {
     "name": "夕暮れにたたずむ由夢",
@@ -41,7 +42,8 @@
         "id": "DC/W01-102P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-103": {
     "name": "優等生の委員長 沢井麻耶",
@@ -59,7 +61,8 @@
         "id": "DC/W01-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-104": {
     "name": "登校する朝倉姉妹",
@@ -77,7 +80,8 @@
         "id": "DC/W01-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-105": {
     "name": "BNNエージェント 美夏",
@@ -95,7 +99,8 @@
         "id": "DC/W01-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-106": {
     "name": "かき氷を食べる音姫",
@@ -113,7 +118,8 @@
         "id": "DC/W01-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-107": {
     "name": "不安な幼なじみ 小恋",
@@ -131,7 +137,8 @@
         "id": "DC/W01-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-108": {
     "name": "メイド服の美夏",
@@ -149,7 +156,8 @@
         "id": "DC/W01-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-109": {
     "name": "不敵に微笑む杏",
@@ -167,7 +175,8 @@
         "id": "DC/W01-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-110": {
     "name": "レッツ! ダ・カーポーカー!!",
@@ -185,7 +194,8 @@
         "id": "DC/W01-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/W01-111": {
     "name": "特別留学生エリカ",
@@ -203,7 +213,8 @@
         "id": "DC/W01-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-112": {
     "name": "旅人アイシア",
@@ -221,7 +232,8 @@
         "id": "DC/W01-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-113": {
     "name": "付属1年生まひる",
@@ -239,7 +251,8 @@
         "id": "DC/W01-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-114": {
     "name": "恋する女の子 音姫",
@@ -257,7 +270,8 @@
         "id": "DC/W01-114",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-115": {
     "name": "才色兼備の生徒会長 音姫",
@@ -275,7 +289,8 @@
         "id": "DC/W01-115",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-116": {
     "name": "不安な幼なじみ 小恋",
@@ -293,7 +308,8 @@
         "id": "DC/W01-116",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-117": {
     "name": "メイド服の音姫",
@@ -311,6 +327,7 @@
         "id": "DC/W01-117",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "NGL/S58-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-T02": {
     "name": "詐術 空",
@@ -33,7 +34,8 @@
         "id": "NGL/S58-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-T03": {
     "name": "『 』の片割れ 空",
@@ -55,7 +57,8 @@
         "id": "NGL/S58-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-T04": {
     "name": "戦闘指揮 空",
@@ -73,7 +76,8 @@
         "id": "NGL/S58-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-T05": {
     "name": "天才ゲーマー兄妹 空",
@@ -91,7 +95,8 @@
         "id": "NGL/S58-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-T06": {
     "name": "挑発する挑戦者 空",
@@ -109,7 +114,8 @@
         "id": "NGL/S58-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-T07": {
     "name": "スパイ一掃 空",
@@ -127,7 +133,8 @@
         "id": "NGL/S58-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-T08": {
     "name": "国王 空",
@@ -149,7 +156,8 @@
         "id": "NGL/S58-T08S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-T09": {
     "name": "盟約の力",
@@ -167,7 +175,8 @@
         "id": "NGL/S58-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NGL/S58-T10": {
     "name": "ディスボードへようこそ",
@@ -185,7 +194,8 @@
         "id": "NGL/S58-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-T11": {
     "name": "天才ゲーマー兄妹 白",
@@ -203,7 +213,8 @@
         "id": "NGL/S58-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-T12": {
     "name": "異議あり！ 白",
@@ -221,7 +232,8 @@
         "id": "NGL/S58-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-T13": {
     "name": "『 』の片割れ 白",
@@ -243,7 +255,8 @@
         "id": "NGL/S58-T13SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-T14": {
     "name": "白",
@@ -265,7 +278,8 @@
         "id": "NGL/S58-T14R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-T15": {
     "name": "コミュニケーションエラー 白",
@@ -283,7 +297,8 @@
         "id": "NGL/S58-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-T16": {
     "name": "異世界への招待 テト",
@@ -301,7 +316,8 @@
         "id": "NGL/S58-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-T17": {
     "name": "不健全への誘い 白",
@@ -319,7 +335,8 @@
         "id": "NGL/S58-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-T18": {
     "name": "国王 白",
@@ -341,7 +358,8 @@
         "id": "NGL/S58-T18S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-T19": {
     "name": "反撃の一手",
@@ -359,7 +377,8 @@
         "id": "NGL/S58-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-T20": {
     "name": "戴冠式",
@@ -381,6 +400,7 @@
         "id": "NGL/S58-T20R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

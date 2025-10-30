@@ -15,7 +15,8 @@
         "id": "LS/W05-101",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-102": {
     "name": "こなた＆ゆい",
@@ -33,7 +34,8 @@
         "id": "LS/W05-102",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-T01": {
     "name": "かがみ＆つかさ",
@@ -51,7 +53,8 @@
         "id": "LS/W05-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-T02": {
     "name": "世話好き あやの",
@@ -69,7 +72,8 @@
         "id": "LS/W05-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-T03": {
     "name": "頑張ちゃったつかさ",
@@ -87,7 +91,8 @@
         "id": "LS/W05-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-T04": {
     "name": "天原 ふゆき",
@@ -105,7 +110,8 @@
         "id": "LS/W05-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-T05": {
     "name": "元気っ娘みさお",
@@ -123,7 +129,8 @@
         "id": "LS/W05-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-T06": {
     "name": "かがみ様",
@@ -141,7 +148,8 @@
         "id": "LS/W05-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-T07": {
     "name": "ツインテール",
@@ -159,7 +167,8 @@
         "id": "LS/W05-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-T08": {
     "name": "金魚すくい",
@@ -177,7 +186,8 @@
         "id": "LS/W05-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LS/W05-T09": {
     "name": "らっきー☆ちゃんねる",
@@ -195,7 +205,8 @@
         "id": "LS/W05-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LS/W05-T10": {
     "name": "こなた＆ゆたか",
@@ -213,7 +224,8 @@
         "id": "LS/W05-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-T11": {
     "name": "パジャマの柊姉妹",
@@ -231,7 +243,8 @@
         "id": "LS/W05-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-T12": {
     "name": "もふもふ みなみ",
@@ -249,7 +262,8 @@
         "id": "LS/W05-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-T13": {
     "name": "ループシューターゆいちゃん",
@@ -267,7 +281,8 @@
         "id": "LS/W05-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-T14": {
     "name": "誤解されるタイプみなみ",
@@ -285,7 +300,8 @@
         "id": "LS/W05-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-T15": {
     "name": "こなた＆かがみ",
@@ -303,7 +319,8 @@
         "id": "LS/W05-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-T16": {
     "name": "バレンタイン",
@@ -321,6 +338,7 @@
         "id": "LS/W05-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

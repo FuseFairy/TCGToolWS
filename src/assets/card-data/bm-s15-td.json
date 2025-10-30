@@ -15,7 +15,8 @@
         "id": "BM/S15-101",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-102": {
     "name": "疑り深い戦場ヶ原ひたぎ",
@@ -33,7 +34,8 @@
         "id": "BM/S15-102",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-103": {
     "name": "深窓の令嬢 戦場ヶ原ひたぎ",
@@ -51,7 +53,8 @@
         "id": "BM/S15-103",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-104": {
     "name": "おもし蟹",
@@ -69,7 +72,8 @@
         "id": "BM/S15-104",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BM/S15-105": {
     "name": "究極の優等生 羽川翼",
@@ -87,7 +91,8 @@
         "id": "BM/S15-105",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-T01": {
     "name": "阿良々木火憐＆阿良々木月火",
@@ -105,7 +110,8 @@
         "id": "BM/S15-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-T02": {
     "name": "私服の神原駿河",
@@ -123,7 +129,8 @@
         "id": "BM/S15-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-T03": {
     "name": "戦闘態勢 戦場ヶ原ひたぎ",
@@ -141,7 +148,8 @@
         "id": "BM/S15-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-T04": {
     "name": "人見知り 八九寺真宵",
@@ -159,7 +167,8 @@
         "id": "BM/S15-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-T05": {
     "name": "重みを無くした少女 戦場ヶ原ひたぎ",
@@ -177,7 +186,8 @@
         "id": "BM/S15-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-T06": {
     "name": "私服の戦場ヶ原ひたぎ",
@@ -195,7 +205,8 @@
         "id": "BM/S15-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-T07": {
     "name": "小学生 八九寺真宵",
@@ -213,7 +224,8 @@
         "id": "BM/S15-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-T08": {
     "name": "BL大好き 神原駿河",
@@ -231,7 +243,8 @@
         "id": "BM/S15-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BM/S15-T09": {
     "name": "ひたぎクラブ",
@@ -249,7 +262,8 @@
         "id": "BM/S15-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-T10": {
     "name": "解呪の儀式 千石撫子",
@@ -267,7 +281,8 @@
         "id": "BM/S15-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-T11": {
     "name": "パジャマ姿の羽川翼",
@@ -285,7 +300,8 @@
         "id": "BM/S15-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-T12": {
     "name": "ネコミミ 羽川翼",
@@ -303,7 +319,8 @@
         "id": "BM/S15-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-T13": {
     "name": "年頃の女の子 千石撫子",
@@ -321,7 +338,8 @@
         "id": "BM/S15-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-T14": {
     "name": "私のすべて",
@@ -339,6 +357,7 @@
         "id": "BM/S15-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

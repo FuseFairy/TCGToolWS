@@ -19,7 +19,8 @@
         "id": "FGO/S75-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-002": {
     "name": "自由を手にする時 エレシュキガル",
@@ -41,7 +42,8 @@
         "id": "FGO/S75-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-003": {
     "name": "切り払われる契 エレシュキガル",
@@ -59,7 +61,8 @@
         "id": "FGO/S75-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-004": {
     "name": "絶対の戦術 キングゥ",
@@ -77,7 +80,8 @@
         "id": "FGO/S75-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-005": {
     "name": "真っ向勝負 ケツァル・コアトル",
@@ -99,7 +103,8 @@
         "id": "FGO/S75-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-006": {
     "name": "戦局を見る者 キングゥ",
@@ -117,7 +122,8 @@
         "id": "FGO/S75-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-007": {
     "name": "復讐の女神 ゴルゴーン",
@@ -139,7 +145,8 @@
         "id": "FGO/S75-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-008": {
     "name": "冷酷な瞳 キングゥ",
@@ -157,7 +164,8 @@
         "id": "FGO/S75-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-009": {
     "name": "苛立った叫び ゴルゴーン",
@@ -175,7 +183,8 @@
         "id": "FGO/S75-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-010": {
     "name": "太陽の大鳥 ケツァル・コアトル",
@@ -193,7 +202,8 @@
         "id": "FGO/S75-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-011": {
     "name": "貫く覚悟 エレシュキガル",
@@ -211,7 +221,8 @@
         "id": "FGO/S75-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-012": {
     "name": "神殿にて座す ケツァル・コアトル",
@@ -229,7 +240,8 @@
         "id": "FGO/S75-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-013": {
     "name": "誇り高きジャガーの戦士 ジャガーマン",
@@ -247,7 +259,8 @@
         "id": "FGO/S75-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-014": {
     "name": "迫る脅威 ゴルゴーン",
@@ -265,7 +278,8 @@
         "id": "FGO/S75-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-015": {
     "name": "計画の為に キングゥ",
@@ -283,7 +297,8 @@
         "id": "FGO/S75-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-016": {
     "name": "必死の言い返し！ エレシュキガル",
@@ -301,7 +316,8 @@
         "id": "FGO/S75-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-017": {
     "name": "狂気の所業 ゴルゴーン",
@@ -319,7 +335,8 @@
         "id": "FGO/S75-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-018": {
     "name": "善なる恐怖 ケツァル・コアトル",
@@ -337,7 +354,8 @@
         "id": "FGO/S75-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-019": {
     "name": "恐怖の視線",
@@ -355,7 +373,8 @@
         "id": "FGO/S75-019",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-020": {
     "name": "猛攻",
@@ -373,7 +392,8 @@
         "id": "FGO/S75-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-021": {
     "name": "生じた故障",
@@ -395,7 +415,8 @@
         "id": "FGO/S75-021R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-022": {
     "name": "巨大にして強大",
@@ -413,7 +434,8 @@
         "id": "FGO/S75-022",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-023": {
     "name": "心躍る戦い",
@@ -431,7 +453,8 @@
         "id": "FGO/S75-023",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-024": {
     "name": "女神の矜持",
@@ -449,7 +472,8 @@
         "id": "FGO/S75-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-025": {
     "name": "問答無用！ イシュタル",
@@ -471,7 +495,8 @@
         "id": "FGO/S75-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-026": {
     "name": "民を導く王 ギルガメッシュ",
@@ -493,7 +518,8 @@
         "id": "FGO/S75-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-027": {
     "name": "決戦の時 ギルガメッシュ",
@@ -515,7 +541,8 @@
         "id": "FGO/S75-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-028": {
     "name": "ウルクの祭祀長 シドゥリ",
@@ -533,7 +560,8 @@
         "id": "FGO/S75-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-029": {
     "name": "みなぎる力 アナ",
@@ -555,7 +583,8 @@
         "id": "FGO/S75-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-030": {
     "name": "砂塵舞う戦い ギルガメッシュ",
@@ -577,7 +606,8 @@
         "id": "FGO/S75-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-031": {
     "name": "賢王の号令 ギルガメッシュ",
@@ -595,7 +625,8 @@
         "id": "FGO/S75-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-032": {
     "name": "ただ望むことを キングゥ",
@@ -617,7 +648,8 @@
         "id": "FGO/S75-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-033": {
     "name": "グランド・キャスター マーリン",
@@ -639,7 +671,8 @@
         "id": "FGO/S75-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-034": {
     "name": "玉座に座す賢王 ギルガメッシュ",
@@ -657,7 +690,8 @@
         "id": "FGO/S75-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-035": {
     "name": "一刀両断 ギルガメッシュ",
@@ -675,7 +709,8 @@
         "id": "FGO/S75-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-036": {
     "name": "夢のような存在 マーリン",
@@ -693,7 +728,8 @@
         "id": "FGO/S75-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-037": {
     "name": "沸き立つ闘志 ケツァル・コアトル",
@@ -711,7 +747,8 @@
         "id": "FGO/S75-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-038": {
     "name": "身もだえる葛藤 イシュタル",
@@ -729,7 +766,8 @@
         "id": "FGO/S75-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-039": {
     "name": "別れの時 アナ",
@@ -747,7 +785,8 @@
         "id": "FGO/S75-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-040": {
     "name": "本気の本気 ジャガーマン",
@@ -765,7 +804,8 @@
         "id": "FGO/S75-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-041": {
     "name": "旅人への土産 ギルガメッシュ",
@@ -783,7 +823,8 @@
         "id": "FGO/S75-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-042": {
     "name": "美味しい食事 アナ",
@@ -801,7 +842,8 @@
         "id": "FGO/S75-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-043": {
     "name": "突然の来訪 ギルガメッシュ",
@@ -819,7 +861,8 @@
         "id": "FGO/S75-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-044": {
     "name": "王の帰還 シドゥリ",
@@ -837,7 +880,8 @@
         "id": "FGO/S75-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-045": {
     "name": "冥界より戻りし賢王 ギルガメッシュ",
@@ -855,7 +899,8 @@
         "id": "FGO/S75-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-046": {
     "name": "賢王の聖杯",
@@ -873,7 +918,8 @@
         "id": "FGO/S75-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-047": {
     "name": "マルドゥーク電撃作戦",
@@ -891,7 +937,8 @@
         "id": "FGO/S75-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-048": {
     "name": "目覚めた先は……",
@@ -909,7 +956,8 @@
         "id": "FGO/S75-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-049": {
     "name": "戦い続けるウルクの意志",
@@ -931,7 +979,8 @@
         "id": "FGO/S75-049R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-050": {
     "name": "過去を想う戦い",
@@ -953,7 +1002,8 @@
         "id": "FGO/S75-050R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-051": {
     "name": "実は大好き？",
@@ -971,7 +1021,8 @@
         "id": "FGO/S75-051",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-052": {
     "name": "冥界の女主人 エレシュキガル",
@@ -993,7 +1044,8 @@
         "id": "FGO/S75-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-053": {
     "name": "金星を司る女神 イシュタル",
@@ -1015,7 +1067,8 @@
         "id": "FGO/S75-053SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-054": {
     "name": "女神式の契約 イシュタル",
@@ -1033,7 +1086,8 @@
         "id": "FGO/S75-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-055": {
     "name": "華麗な登場 エレシュキガル",
@@ -1055,7 +1109,8 @@
         "id": "FGO/S75-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-056": {
     "name": "心強い味方 イシュタル",
@@ -1077,7 +1132,8 @@
         "id": "FGO/S75-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-057": {
     "name": "冥界をウルクの地下へ！ エレシュキガル",
@@ -1099,7 +1155,8 @@
         "id": "FGO/S75-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-058": {
     "name": "地道な積み重ね エレシュキガル",
@@ -1117,7 +1174,8 @@
         "id": "FGO/S75-058",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-059": {
     "name": "神を射る一撃 イシュタル",
@@ -1139,7 +1197,8 @@
         "id": "FGO/S75-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-060": {
     "name": "特権の付与 エレシュキガル",
@@ -1157,7 +1216,8 @@
         "id": "FGO/S75-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-061": {
     "name": "溶け合った意識 イシュタル",
@@ -1175,7 +1235,8 @@
         "id": "FGO/S75-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-062": {
     "name": "苛烈な空中戦 イシュタル",
@@ -1193,7 +1254,8 @@
         "id": "FGO/S75-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-063": {
     "name": "狙いを澄ます イシュタル",
@@ -1211,7 +1273,8 @@
         "id": "FGO/S75-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-064": {
     "name": "期待の眼差し エレシュキガル",
@@ -1229,7 +1292,8 @@
         "id": "FGO/S75-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-065": {
     "name": "豪傑の武人 弁慶",
@@ -1247,7 +1311,8 @@
         "id": "FGO/S75-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-066": {
     "name": "冥界での戦い エレシュキガル",
@@ -1265,7 +1330,8 @@
         "id": "FGO/S75-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-067": {
     "name": "勝ち誇った表情 イシュタル",
@@ -1283,7 +1349,8 @@
         "id": "FGO/S75-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-068": {
     "name": "スパルタの王 レオニダス一世",
@@ -1301,7 +1368,8 @@
         "id": "FGO/S75-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-069": {
     "name": "語り継がれし英雄 牛若丸",
@@ -1319,7 +1387,8 @@
         "id": "FGO/S75-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-070": {
     "name": "反省中 イシュタル",
@@ -1337,7 +1406,8 @@
         "id": "FGO/S75-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-071": {
     "name": "戦いの天才 牛若丸",
@@ -1355,7 +1425,8 @@
         "id": "FGO/S75-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-072": {
     "name": "女神を買収",
@@ -1373,7 +1444,8 @@
         "id": "FGO/S75-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-073": {
     "name": "冥界に咲いた花と共に",
@@ -1395,7 +1467,8 @@
         "id": "FGO/S75-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-074": {
     "name": "母との決戦",
@@ -1417,7 +1490,8 @@
         "id": "FGO/S75-074R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-075": {
     "name": "母との決戦",
@@ -1439,7 +1513,8 @@
         "id": "FGO/S75-075R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FGO/S75-076": {
     "name": "最後の特異点へ マシュ",
@@ -1461,7 +1536,8 @@
         "id": "FGO/S75-076SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-077": {
     "name": "マスターへの信頼 マシュ・キリエライト",
@@ -1479,7 +1555,8 @@
         "id": "FGO/S75-077",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-078": {
     "name": "共に歩む旅 マシュ",
@@ -1501,7 +1578,8 @@
         "id": "FGO/S75-078SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-079": {
     "name": "強敵との交戦 マシュ",
@@ -1523,7 +1601,8 @@
         "id": "FGO/S75-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-080": {
     "name": "仲間との連携 マシュ",
@@ -1545,7 +1624,8 @@
         "id": "FGO/S75-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-081": {
     "name": "カルデア技術局特別名誉顧問 レオナルド・ダ・ヴィンチ",
@@ -1567,7 +1647,8 @@
         "id": "FGO/S75-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-082": {
     "name": "振り上げる盾 マシュ",
@@ -1585,7 +1666,8 @@
         "id": "FGO/S75-082",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-083": {
     "name": "難敵襲来 藤丸＆マシュ",
@@ -1603,7 +1685,8 @@
         "id": "FGO/S75-083",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-084": {
     "name": "くじけない心 ロマニ・アーキマン",
@@ -1625,7 +1708,8 @@
         "id": "FGO/S75-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-085": {
     "name": "誘いの言葉 藤丸",
@@ -1643,7 +1727,8 @@
         "id": "FGO/S75-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-086": {
     "name": "休息のひととき マシュ",
@@ -1661,7 +1746,8 @@
         "id": "FGO/S75-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-087": {
     "name": "戦慄する天才 ダ・ヴィンチ",
@@ -1679,7 +1765,8 @@
         "id": "FGO/S75-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-088": {
     "name": "仲間のサポート マシュ",
@@ -1697,7 +1784,8 @@
         "id": "FGO/S75-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-089": {
     "name": "残念な事実 ダ・ヴィンチ",
@@ -1715,7 +1803,8 @@
         "id": "FGO/S75-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-090": {
     "name": "ピンチを救う フォウ",
@@ -1733,7 +1822,8 @@
         "id": "FGO/S75-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-091": {
     "name": "観測波の消失 ダ・ヴィンチ&ロマニ",
@@ -1751,7 +1841,8 @@
         "id": "FGO/S75-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-092": {
     "name": "攻防一体 マシュ",
@@ -1769,7 +1860,8 @@
         "id": "FGO/S75-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-093": {
     "name": "皮肉の応酬 ロマニ",
@@ -1787,7 +1879,8 @@
         "id": "FGO/S75-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-094": {
     "name": "駆け抜ける勇姿 藤丸立香",
@@ -1805,7 +1898,8 @@
         "id": "FGO/S75-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-095": {
     "name": "安堵の涙 マシュ",
@@ -1823,7 +1917,8 @@
         "id": "FGO/S75-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-096": {
     "name": "マスターの証 令呪",
@@ -1841,7 +1936,8 @@
         "id": "FGO/S75-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-097": {
     "name": "託された盾",
@@ -1859,7 +1955,8 @@
         "id": "FGO/S75-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-098": {
     "name": "信じると決めた『選択』",
@@ -1881,7 +1978,8 @@
         "id": "FGO/S75-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-099": {
     "name": "カルデアのバックアップ",
@@ -1899,7 +1997,8 @@
         "id": "FGO/S75-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FGO/S75-100": {
     "name": "決着への道",
@@ -1917,6 +2016,7 @@
         "id": "FGO/S75-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -23,7 +23,8 @@
         "id": "AMG/W121-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-P02": {
     "name": "甘神神社へようこそ 夜重＆夕奈＆朝姫",
@@ -45,6 +46,7 @@
         "id": "AMG/W121-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

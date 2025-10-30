@@ -27,7 +27,8 @@
         "id": "BD/W63-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-002": {
     "name": "“夢に続く道”白鷺千聖",
@@ -57,7 +58,8 @@
         "id": "BD/W63-002SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-003": {
     "name": "“ここがあたしの居場所”奥沢美咲",
@@ -87,7 +89,8 @@
         "id": "BD/W63-003SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-004": {
     "name": "“笑顔のために！”北沢はぐみ",
@@ -117,7 +120,8 @@
         "id": "BD/W63-004SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-005": {
     "name": "“みんなの力を合わせて”松原花音",
@@ -147,7 +151,8 @@
         "id": "BD/W63-005SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-006": {
     "name": "“自分は自分”瀬田薫",
@@ -177,7 +182,8 @@
         "id": "BD/W63-006SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-007": {
     "name": "“アイドルとは”大和麻弥",
@@ -207,7 +213,8 @@
         "id": "BD/W63-007SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-008": {
     "name": "“ハッピー・アドベンチャー”弦巻こころ",
@@ -237,7 +244,8 @@
         "id": "BD/W63-008SPMb",
         "rarity": "SPMb"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-009": {
     "name": "“はぐみ、人間だよ？”北沢はぐみ",
@@ -263,7 +271,8 @@
         "id": "BD/W63-009SPMb",
         "rarity": "SPMb"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-010": {
     "name": "“オーエス？オーエス！”丸山彩",
@@ -281,7 +290,8 @@
         "id": "BD/W63-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-011": {
     "name": "“君にはわかるかい？”瀬田薫",
@@ -307,7 +317,8 @@
         "id": "BD/W63-011SPMb",
         "rarity": "SPMb"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-012": {
     "name": "“もっと憧れてもらうために”若宮イヴ",
@@ -333,7 +344,8 @@
         "id": "BD/W63-012SPMb",
         "rarity": "SPMb"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-013": {
     "name": "“目がまわって……”松原花音",
@@ -363,7 +375,8 @@
         "id": "BD/W63-013SPMb",
         "rarity": "SPMb"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-014": {
     "name": "“最後まで走ろう”奥沢美咲",
@@ -389,7 +402,8 @@
         "id": "BD/W63-014SPMb",
         "rarity": "SPMb"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-015": {
     "name": "“笑顔の逢瀬”弦巻こころ",
@@ -407,7 +421,8 @@
         "id": "BD/W63-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-016": {
     "name": "“見事なお点前”松原花音",
@@ -425,7 +440,8 @@
         "id": "BD/W63-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-017": {
     "name": "“ペンギン？ クマ？”奥沢美咲",
@@ -443,7 +459,8 @@
         "id": "BD/W63-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-018": {
     "name": "“アイドルのルール”白鷺千聖",
@@ -461,7 +478,8 @@
         "id": "BD/W63-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-019": {
     "name": "“大冒険！”北沢はぐみ",
@@ -479,7 +497,8 @@
         "id": "BD/W63-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-020": {
     "name": "“カフェラテの香り”瀬田薫",
@@ -497,7 +516,8 @@
         "id": "BD/W63-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-021": {
     "name": "“ふわキャラだいすき！”弦巻こころ",
@@ -515,7 +535,8 @@
         "id": "BD/W63-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-022": {
     "name": "ミッシェルからの伝言",
@@ -533,7 +554,8 @@
         "id": "BD/W63-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-023": {
     "name": "陽だまりのひととき",
@@ -551,7 +573,8 @@
         "id": "BD/W63-023",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-024": {
     "name": "夢を与えるアイドル",
@@ -573,7 +596,8 @@
         "id": "BD/W63-024R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-025": {
     "name": "キラキラのお日様",
@@ -595,7 +619,8 @@
         "id": "BD/W63-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-026": {
     "name": "巻き込まれ舞踏会",
@@ -617,7 +642,8 @@
         "id": "BD/W63-026R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-027": {
     "name": "“止まっていた時間”上原ひまり",
@@ -647,7 +673,8 @@
         "id": "BD/W63-027SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-028": {
     "name": "“止まらずに、前へ”美竹蘭",
@@ -677,7 +704,8 @@
         "id": "BD/W63-028SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-029": {
     "name": "“アタシ達の夕焼け”宇田川巴",
@@ -707,7 +735,8 @@
         "id": "BD/W63-029SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-030": {
     "name": "“隣にいること”青葉モカ",
@@ -737,7 +766,8 @@
         "id": "BD/W63-030SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-031": {
     "name": "“気づいた『変化』”羽沢つぐみ",
@@ -767,7 +797,8 @@
         "id": "BD/W63-031SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-032": {
     "name": "“大事なのは加減！”羽沢つぐみ",
@@ -793,7 +824,8 @@
         "id": "BD/W63-032SPMb",
         "rarity": "SPMb"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-033": {
     "name": "“青春の証”宇田川巴",
@@ -819,7 +851,8 @@
         "id": "BD/W63-033SPMb",
         "rarity": "SPMb"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-034": {
     "name": "“ここはモカちゃんが食い止める！”青葉モカ",
@@ -849,7 +882,8 @@
         "id": "BD/W63-034SPMb",
         "rarity": "SPMb"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-035": {
     "name": "“暑すぎ……”美竹蘭",
@@ -879,7 +913,8 @@
         "id": "BD/W63-035SPMb",
         "rarity": "SPMb"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-036": {
     "name": "“私達、参上っ！”上原ひまり",
@@ -905,7 +940,8 @@
         "id": "BD/W63-036SPMb",
         "rarity": "SPMb"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-037": {
     "name": "“謙虚系アイドル”大和麻弥",
@@ -923,7 +959,8 @@
         "id": "BD/W63-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-038": {
     "name": "“ずっとあたし達らしく”美竹蘭",
@@ -941,7 +978,8 @@
         "id": "BD/W63-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-039": {
     "name": "“自分らしい良さ”上原ひまり",
@@ -959,7 +997,8 @@
         "id": "BD/W63-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-040": {
     "name": "“長年の幼馴染”宇田川巴",
@@ -977,7 +1016,8 @@
         "id": "BD/W63-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-041": {
     "name": "“小さな成長？”青葉モカ",
@@ -995,7 +1035,8 @@
         "id": "BD/W63-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-042": {
     "name": "“大事な忘れ物”羽沢つぐみ",
@@ -1013,7 +1054,8 @@
         "id": "BD/W63-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-043": {
     "name": "“ポッピン＆ハッピー”美竹蘭",
@@ -1031,7 +1073,8 @@
         "id": "BD/W63-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-044": {
     "name": "永遠の夕日",
@@ -1049,7 +1092,8 @@
         "id": "BD/W63-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-045": {
     "name": "お菓子の先生",
@@ -1067,7 +1111,8 @@
         "id": "BD/W63-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-046": {
     "name": "リーダーの提案",
@@ -1089,7 +1134,8 @@
         "id": "BD/W63-046R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-047": {
     "name": "変わりゆく空",
@@ -1111,7 +1157,8 @@
         "id": "BD/W63-047R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-048": {
     "name": "ちょっと寄り道",
@@ -1129,7 +1176,8 @@
         "id": "BD/W63-048",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BD/W63-049": {
     "name": "“努力の結晶”丸山彩",
@@ -1159,7 +1207,8 @@
         "id": "BD/W63-049SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-050": {
     "name": "“星型のタンバリン”戸山香澄",
@@ -1189,7 +1238,8 @@
         "id": "BD/W63-050SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-051": {
     "name": "“キラキラの笑顔”山吹沙綾",
@@ -1219,7 +1269,8 @@
         "id": "BD/W63-051SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-052": {
     "name": "“休日のショコラ”牛込りみ",
@@ -1249,7 +1300,8 @@
         "id": "BD/W63-052SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-053": {
     "name": "“日菜の願いごと”氷川日菜",
@@ -1279,7 +1331,8 @@
         "id": "BD/W63-053SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-054": {
     "name": "“気合いの円陣”戸山香澄",
@@ -1309,7 +1362,8 @@
         "id": "BD/W63-054SPMb",
         "rarity": "SPMb"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-055": {
     "name": "“アイドル丸山彩っ！”丸山彩",
@@ -1339,7 +1393,8 @@
         "id": "BD/W63-055SPMb",
         "rarity": "SPMb"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-056": {
     "name": "“CiRCLE倉庫探検？”山吹沙綾",
@@ -1365,7 +1420,8 @@
         "id": "BD/W63-056SPMb",
         "rarity": "SPMb"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-057": {
     "name": "“自己流サバイバルスキル”大和麻弥",
@@ -1391,7 +1447,8 @@
         "id": "BD/W63-057SPMb",
         "rarity": "SPMb"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-058": {
     "name": "“あたしはあたし”氷川日菜",
@@ -1417,7 +1474,8 @@
         "id": "BD/W63-058SPMb",
         "rarity": "SPMb"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-059": {
     "name": "“こんな広い会場で……！？”牛込りみ",
@@ -1443,7 +1501,8 @@
         "id": "BD/W63-059SPMb",
         "rarity": "SPMb"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-060": {
     "name": "“大切な時間”山吹沙綾",
@@ -1461,7 +1520,8 @@
         "id": "BD/W63-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-061": {
     "name": "“大切なきっかけ”氷川日菜",
@@ -1479,7 +1539,8 @@
         "id": "BD/W63-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-062": {
     "name": "“振り絞った勇気”牛込りみ",
@@ -1497,7 +1558,8 @@
         "id": "BD/W63-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-063": {
     "name": "“みんなで折り紙”戸山香澄",
@@ -1515,7 +1577,8 @@
         "id": "BD/W63-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-064": {
     "name": "“あの感じ！”戸山香澄",
@@ -1533,7 +1596,8 @@
         "id": "BD/W63-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-065": {
     "name": "“初めてのラテアート”丸山彩",
@@ -1551,7 +1615,8 @@
         "id": "BD/W63-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-066": {
     "name": "ふたりのはじまり",
@@ -1569,7 +1634,8 @@
         "id": "BD/W63-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-067": {
     "name": "私のブシドー！",
@@ -1587,7 +1653,8 @@
         "id": "BD/W63-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-068": {
     "name": "キラキラの笑顔",
@@ -1609,7 +1676,8 @@
         "id": "BD/W63-068R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-069": {
     "name": "レッツ・シング♪",
@@ -1631,7 +1699,8 @@
         "id": "BD/W63-069R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-070": {
     "name": "本気・サバイバー",
@@ -1653,7 +1722,8 @@
         "id": "BD/W63-070R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-071": {
     "name": "たった一人のあたし",
@@ -1671,7 +1741,8 @@
         "id": "BD/W63-071",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-072": {
     "name": "“答えを求めて”湊友希那",
@@ -1701,7 +1772,8 @@
         "id": "BD/W63-072SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-073": {
     "name": "“クッキーをもう1度”今井リサ",
@@ -1731,7 +1803,8 @@
         "id": "BD/W63-073SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-074": {
     "name": "“秘密の場所”市ヶ谷有咲",
@@ -1761,7 +1834,8 @@
         "id": "BD/W63-074SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-075": {
     "name": "“みんなでティータイム”宇田川あこ",
@@ -1791,7 +1865,8 @@
         "id": "BD/W63-075SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-076": {
     "name": "“夜更かしは今日だけ”白鷺千聖",
@@ -1821,7 +1896,8 @@
         "id": "BD/W63-076SPMb",
         "rarity": "SPMb"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-077": {
     "name": "“分かち合いたい！”若宮イヴ",
@@ -1851,7 +1927,8 @@
         "id": "BD/W63-077SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-078": {
     "name": "“今度は私が”氷川紗夜",
@@ -1881,7 +1958,8 @@
         "id": "BD/W63-078SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-079": {
     "name": "“うさぎに見えるもの”花園たえ",
@@ -1911,7 +1989,8 @@
         "id": "BD/W63-079SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-080": {
     "name": "“こぼれ落ちる涙”湊友希那",
@@ -1941,7 +2020,8 @@
         "id": "BD/W63-080SPMb",
         "rarity": "SPMb"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-081": {
     "name": "“決意の叫び”白金燐子",
@@ -1971,7 +2051,8 @@
         "id": "BD/W63-081SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-082": {
     "name": "“本気の挑戦”今井リサ",
@@ -1997,7 +2078,8 @@
         "id": "BD/W63-082SPMb",
         "rarity": "SPMb"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-083": {
     "name": "“……も、もしもし……”白金燐子",
@@ -2027,7 +2109,8 @@
         "id": "BD/W63-083SPMb",
         "rarity": "SPMb"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-084": {
     "name": "“はぁ～……マジか……”市ヶ谷有咲",
@@ -2053,7 +2136,8 @@
         "id": "BD/W63-084SPMb",
         "rarity": "SPMb"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-085": {
     "name": "“世界一カッコイイっ！”宇田川あこ",
@@ -2079,7 +2163,8 @@
         "id": "BD/W63-085SPMb",
         "rarity": "SPMb"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-086": {
     "name": "“前だけを向こう”花園たえ",
@@ -2109,7 +2194,8 @@
         "id": "BD/W63-086SPMb",
         "rarity": "SPMb"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-087": {
     "name": "“分厚いクッキー”氷川紗夜",
@@ -2135,7 +2221,8 @@
         "id": "BD/W63-087SPMb",
         "rarity": "SPMb"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-088": {
     "name": "“本気・心頭滅却”若宮イヴ",
@@ -2153,7 +2240,8 @@
         "id": "BD/W63-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-089": {
     "name": "“初めての猫耳”湊友希那",
@@ -2171,7 +2259,8 @@
         "id": "BD/W63-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-090": {
     "name": "“うさぎ大作戦”花園たえ",
@@ -2189,7 +2278,8 @@
         "id": "BD/W63-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-091": {
     "name": "“夏のソフトクリーム”氷川紗夜",
@@ -2207,7 +2297,8 @@
         "id": "BD/W63-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-092": {
     "name": "“見守る目線”湊友希那",
@@ -2225,7 +2316,8 @@
         "id": "BD/W63-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-093": {
     "name": "“微かな心配”白金燐子",
@@ -2243,7 +2335,8 @@
         "id": "BD/W63-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-094": {
     "name": "“不思議の国のアリサ”市ヶ谷有咲",
@@ -2261,7 +2354,8 @@
         "id": "BD/W63-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-095": {
     "name": "“欠かせない存在”今井リサ",
@@ -2279,7 +2373,8 @@
         "id": "BD/W63-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-096": {
     "name": "“みんなでリフレッシュ”宇田川あこ",
@@ -2297,7 +2392,8 @@
         "id": "BD/W63-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-097": {
     "name": "雨声と涙",
@@ -2315,7 +2411,8 @@
         "id": "BD/W63-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-098": {
     "name": "リサらしい歌詞",
@@ -2333,7 +2430,8 @@
         "id": "BD/W63-098",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W63-099": {
     "name": "仮入部員",
@@ -2355,7 +2453,8 @@
         "id": "BD/W63-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W63-100": {
     "name": "クッキーづくり",
@@ -2377,6 +2476,7 @@
         "id": "BD/W63-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

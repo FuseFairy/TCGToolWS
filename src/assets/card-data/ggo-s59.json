@@ -19,7 +19,8 @@
         "id": "GGO/S59-001GGR",
         "rarity": "GGR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-002": {
     "name": "果たすべき約束 レン",
@@ -41,7 +42,8 @@
         "id": "GGO/S59-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-003": {
     "name": "漲る闘志 レン",
@@ -63,7 +65,8 @@
         "id": "GGO/S59-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-004": {
     "name": "附属女子校新体操部 詩織",
@@ -81,7 +84,8 @@
         "id": "GGO/S59-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-005": {
     "name": "VRへの興味 香蓮",
@@ -103,7 +107,8 @@
         "id": "GGO/S59-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-006": {
     "name": "附属女子校新体操部部長 咲",
@@ -121,7 +126,8 @@
         "id": "GGO/S59-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-007": {
     "name": "勝機を伺う レン",
@@ -143,7 +149,8 @@
         "id": "GGO/S59-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-008": {
     "name": "お菓子も食べたい！ 咲＆ミラナ",
@@ -165,7 +172,8 @@
         "id": "GGO/S59-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-009": {
     "name": "掉尾の勇を奮う レン",
@@ -187,7 +195,8 @@
         "id": "GGO/S59-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-010": {
     "name": "《SHINC》のボス エヴァ",
@@ -209,7 +218,8 @@
         "id": "GGO/S59-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-011": {
     "name": "《SHINC》 ソフィー",
@@ -227,7 +237,8 @@
         "id": "GGO/S59-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-012": {
     "name": "九死に一生 レン",
@@ -245,7 +256,8 @@
         "id": "GGO/S59-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-013": {
     "name": "附属女子校新体操部 ミラナ",
@@ -263,7 +275,8 @@
         "id": "GGO/S59-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-014": {
     "name": "徹底した小ささ レン",
@@ -281,7 +294,8 @@
         "id": "GGO/S59-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-015": {
     "name": "再会の予感 香蓮",
@@ -299,7 +313,8 @@
         "id": "GGO/S59-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-016": {
     "name": "《SHINC》 ローザ",
@@ -317,7 +332,8 @@
         "id": "GGO/S59-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-017": {
     "name": "《SHINC》 トーマ",
@@ -335,7 +351,8 @@
         "id": "GGO/S59-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-018": {
     "name": "スーツケースに潜むレン",
@@ -353,7 +370,8 @@
         "id": "GGO/S59-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-019": {
     "name": "ポンチョ姿 レン",
@@ -371,7 +389,8 @@
         "id": "GGO/S59-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-020": {
     "name": "《SHINC》 ターニャ",
@@ -389,7 +408,8 @@
         "id": "GGO/S59-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-021": {
     "name": "“ラストバトル” レン",
@@ -407,7 +427,8 @@
         "id": "GGO/S59-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-022": {
     "name": "附属女子校新体操部 萌",
@@ -425,7 +446,8 @@
         "id": "GGO/S59-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-023": {
     "name": "準備万端！ レン",
@@ -443,7 +465,8 @@
         "id": "GGO/S59-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-024": {
     "name": "《SHINC》 アンナ",
@@ -461,7 +484,8 @@
         "id": "GGO/S59-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-025": {
     "name": "附属女子校新体操部 リサ",
@@ -479,7 +503,8 @@
         "id": "GGO/S59-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-026": {
     "name": "“お菓子作戦” エヴァ",
@@ -497,7 +522,8 @@
         "id": "GGO/S59-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-027": {
     "name": "附属女子校新体操部 カナ",
@@ -515,7 +541,8 @@
         "id": "GGO/S59-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-028": {
     "name": "ピンクに紛れる レン",
@@ -533,7 +560,8 @@
         "id": "GGO/S59-028",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-029": {
     "name": "プラズマ・グレネード",
@@ -551,7 +579,8 @@
         "id": "GGO/S59-029",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-030": {
     "name": "デグチャレフ対戦車ライフル",
@@ -569,7 +598,8 @@
         "id": "GGO/S59-030",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-031": {
     "name": "誓いの金丁",
@@ -591,7 +621,8 @@
         "id": "GGO/S59-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-032": {
     "name": "ラストバトルの行方",
@@ -613,7 +644,8 @@
         "id": "GGO/S59-032R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-033": {
     "name": "お菓子作戦、大成功です！",
@@ -631,7 +663,8 @@
         "id": "GGO/S59-033",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GGO/S59-034": {
     "name": "本気の勝負",
@@ -649,7 +682,8 @@
         "id": "GGO/S59-034",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GGO/S59-035": {
     "name": "炯眼の撃手 レン",
@@ -671,7 +705,8 @@
         "id": "GGO/S59-035GGR",
         "rarity": "GGR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-036": {
     "name": "《GGO》で大暴れ！ フカ次郎",
@@ -693,7 +728,8 @@
         "id": "GGO/S59-036SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-037": {
     "name": "イカれたレン",
@@ -715,7 +751,8 @@
         "id": "GGO/S59-037SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-038": {
     "name": "グレネードで一掃！ フカ次郎",
@@ -737,7 +774,8 @@
         "id": "GGO/S59-038SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-039": {
     "name": "ビューティホーな愛銃 フカ次郎",
@@ -755,7 +793,8 @@
         "id": "GGO/S59-039",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-040": {
     "name": "“愛銃は裏切らない”レン",
@@ -777,7 +816,8 @@
         "id": "GGO/S59-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-041": {
     "name": "豪快な戦法 フカ次郎",
@@ -799,7 +839,8 @@
         "id": "GGO/S59-041GGR",
         "rarity": "GGR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-042": {
     "name": "“超行き当たりばったり” レン",
@@ -821,7 +862,8 @@
         "id": "GGO/S59-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-043": {
     "name": "タフな相棒 フカ次郎",
@@ -839,7 +881,8 @@
         "id": "GGO/S59-043",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-044": {
     "name": "焦燥感 レン",
@@ -857,7 +900,8 @@
         "id": "GGO/S59-044",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-045": {
     "name": "とっておきの作戦 フカ次郎",
@@ -879,7 +923,8 @@
         "id": "GGO/S59-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-046": {
     "name": "躍然たる強襲 レン",
@@ -897,7 +942,8 @@
         "id": "GGO/S59-046",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-047": {
     "name": "博愛主義者 クラレンス",
@@ -915,7 +961,8 @@
         "id": "GGO/S59-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-048": {
     "name": "ピーちゃんとの絆 レン",
@@ -933,7 +980,8 @@
         "id": "GGO/S59-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-049": {
     "name": "牽制する銃口 フカ次郎",
@@ -951,7 +999,8 @@
         "id": "GGO/S59-049",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-050": {
     "name": "後方火力 フカ次郎",
@@ -969,7 +1018,8 @@
         "id": "GGO/S59-050",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-051": {
     "name": "優勝者の実力 レン",
@@ -987,7 +1037,8 @@
         "id": "GGO/S59-051",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-052": {
     "name": "“マガジンとキス”レン",
@@ -1005,7 +1056,8 @@
         "id": "GGO/S59-052",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-053": {
     "name": "経験値を積むレン",
@@ -1023,7 +1075,8 @@
         "id": "GGO/S59-053",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-054": {
     "name": "小躯の闘い方 レン",
@@ -1041,7 +1094,8 @@
         "id": "GGO/S59-054",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-055": {
     "name": "隠し刃 フカ次郎",
@@ -1059,7 +1113,8 @@
         "id": "GGO/S59-055",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-056": {
     "name": "開戦前のアイス 美優",
@@ -1077,7 +1132,8 @@
         "id": "GGO/S59-056",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-057": {
     "name": "仲間探し 香蓮",
@@ -1095,7 +1151,8 @@
         "id": "GGO/S59-057",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-058": {
     "name": "愛銃とともに フカ次郎",
@@ -1113,7 +1170,8 @@
         "id": "GGO/S59-058",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-059": {
     "name": "正確な誘導 レン",
@@ -1131,7 +1189,8 @@
         "id": "GGO/S59-059",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-060": {
     "name": "《ALO》からの助っ人 フカ次郎",
@@ -1149,7 +1208,8 @@
         "id": "GGO/S59-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-061": {
     "name": "リアルも仲良し 香蓮＆美優",
@@ -1167,7 +1227,8 @@
         "id": "GGO/S59-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-062": {
     "name": "おしゃべりピーちゃん",
@@ -1185,7 +1246,8 @@
         "id": "GGO/S59-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-063": {
     "name": "連発式グレネード・ランチャー",
@@ -1203,7 +1265,8 @@
         "id": "GGO/S59-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-064": {
     "name": "救急治療キット",
@@ -1221,7 +1284,8 @@
         "id": "GGO/S59-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-065": {
     "name": "妖精さんをなめるな！",
@@ -1243,7 +1307,8 @@
         "id": "GGO/S59-065R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-066": {
     "name": "喉を噛み切ってでも",
@@ -1265,7 +1330,8 @@
         "id": "GGO/S59-066R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-067": {
     "name": "なまらかわいい…",
@@ -1283,7 +1349,8 @@
         "id": "GGO/S59-067",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GGO/S59-068": {
     "name": "切れ！蹴れ！",
@@ -1301,7 +1368,8 @@
         "id": "GGO/S59-068",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-069": {
     "name": "魔王の正体 エルザ",
@@ -1323,7 +1391,8 @@
         "id": "GGO/S59-069SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-070": {
     "name": "死への執着 ピトフーイ",
@@ -1345,7 +1414,8 @@
         "id": "GGO/S59-070SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-071": {
     "name": "魔王 ピトフーイ",
@@ -1367,7 +1437,8 @@
         "id": "GGO/S59-071GGR",
         "rarity": "GGR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-072": {
     "name": "卓越した戦闘技術 エム",
@@ -1385,7 +1456,8 @@
         "id": "GGO/S59-072",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-073": {
     "name": "昏睡 ピトフーイ",
@@ -1407,7 +1479,8 @@
         "id": "GGO/S59-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-074": {
     "name": "優れた地理感覚 エム",
@@ -1425,7 +1498,8 @@
         "id": "GGO/S59-074",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-075": {
     "name": "嗜虐の表情 ピトフーイ",
@@ -1443,7 +1517,8 @@
         "id": "GGO/S59-075",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-076": {
     "name": "お膳立て エム",
@@ -1461,7 +1536,8 @@
         "id": "GGO/S59-076",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-077": {
     "name": "ガンマニア ピトフーイ",
@@ -1479,7 +1555,8 @@
         "id": "GGO/S59-077",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-078": {
     "name": "名前の由来 エム",
@@ -1501,7 +1578,8 @@
         "id": "GGO/S59-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-079": {
     "name": "退屈な作戦 ピトフーイ",
@@ -1519,7 +1597,8 @@
         "id": "GGO/S59-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-080": {
     "name": "宣戦布告 ピトフーイ",
@@ -1541,7 +1620,8 @@
         "id": "GGO/S59-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-081": {
     "name": "不服なピトフーイ",
@@ -1559,7 +1639,8 @@
         "id": "GGO/S59-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-082": {
     "name": "《MMTM》のリーダー デヴィッド",
@@ -1577,7 +1658,8 @@
         "id": "GGO/S59-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-083": {
     "name": "多勢に無勢？ ピトフーイ",
@@ -1595,7 +1677,8 @@
         "id": "GGO/S59-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-084": {
     "name": "狙撃の腕前 エム",
@@ -1613,7 +1696,8 @@
         "id": "GGO/S59-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-085": {
     "name": "差し迫る“死” エム",
@@ -1631,7 +1715,8 @@
         "id": "GGO/S59-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-086": {
     "name": "リアルの事情 豪志",
@@ -1649,7 +1734,8 @@
         "id": "GGO/S59-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-087": {
     "name": "裏切者の粛清 ピトフーイ",
@@ -1667,7 +1753,8 @@
         "id": "GGO/S59-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-088": {
     "name": "マシンガンたのしーなー！ ZEMAL",
@@ -1685,7 +1772,8 @@
         "id": "GGO/S59-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-089": {
     "name": "《KKHC》の紅一点 シャーリー",
@@ -1703,7 +1791,8 @@
         "id": "GGO/S59-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-090": {
     "name": "看破された抵抗 エルザ",
@@ -1721,7 +1810,8 @@
         "id": "GGO/S59-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-091": {
     "name": "恐怖と裏切り エム",
@@ -1739,7 +1829,8 @@
         "id": "GGO/S59-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-092": {
     "name": "行き過ぎた興奮 ピトフーイ",
@@ -1757,7 +1848,8 @@
         "id": "GGO/S59-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-093": {
     "name": "激昂するピトフーイ",
@@ -1775,7 +1867,8 @@
         "id": "GGO/S59-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-094": {
     "name": "サテライト・スキャン",
@@ -1793,7 +1886,8 @@
         "id": "GGO/S59-094",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-095": {
     "name": "ムラマサF9",
@@ -1811,7 +1905,8 @@
         "id": "GGO/S59-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-096": {
     "name": "エムの楯",
@@ -1829,7 +1924,8 @@
         "id": "GGO/S59-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-097": {
     "name": "魔王復活",
@@ -1851,7 +1947,8 @@
         "id": "GGO/S59-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-098": {
     "name": "享楽の鏖殺",
@@ -1869,7 +1966,8 @@
         "id": "GGO/S59-098",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-099": {
     "name": "慎重派の作戦",
@@ -1887,7 +1985,8 @@
         "id": "GGO/S59-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GGO/S59-100": {
     "name": "身命賭すほどの愛",
@@ -1905,6 +2004,7 @@
         "id": "GGO/S59-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

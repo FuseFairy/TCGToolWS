@@ -15,7 +15,8 @@
         "id": "TSK/S70-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-P02": {
     "name": "星降る丘で シズ",
@@ -33,7 +34,8 @@
         "id": "TSK/S70-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-P03": {
     "name": "初めての味 リムル",
@@ -51,7 +53,8 @@
         "id": "TSK/S70-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-101": {
     "name": "豊かな谷間のある生活 リムル",
@@ -69,7 +72,8 @@
         "id": "TSK/S70-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-102": {
     "name": "温泉で一息 シオン",
@@ -87,7 +91,8 @@
         "id": "TSK/S70-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-103": {
     "name": "華麗に変身！ ミリム",
@@ -105,7 +110,8 @@
         "id": "TSK/S70-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-104": {
     "name": "温泉で一息 シュナ",
@@ -123,7 +129,8 @@
         "id": "TSK/S70-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-105": {
     "name": "みんなの先生 シズ",
@@ -141,6 +148,7 @@
         "id": "TSK/S70-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

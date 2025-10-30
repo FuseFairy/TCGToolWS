@@ -19,7 +19,8 @@
         "id": "P5/S45-T03SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-T07": {
     "name": "主人公 / JOKER",
@@ -37,7 +38,8 @@
         "id": "P5/S45-T07S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-T12": {
     "name": "神出鬼没 モルガナ / MONA",
@@ -59,7 +61,8 @@
         "id": "P5/S45-T12SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-001": {
     "name": "主人公＆アルセーヌ / JOKER",
@@ -81,7 +84,8 @@
         "id": "P5/S45-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-002": {
     "name": "“総攻撃”竜司 / SKULL",
@@ -103,7 +107,8 @@
         "id": "P5/S45-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-003": {
     "name": "反逆者の魂 主人公",
@@ -125,7 +130,8 @@
         "id": "P5/S45-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-004": {
     "name": "怪盗団の切り込み隊長 竜司 / SKULL",
@@ -147,7 +153,8 @@
         "id": "P5/S45-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-005": {
     "name": "坂本 竜司",
@@ -169,7 +176,8 @@
         "id": "P5/S45-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-006": {
     "name": "“総攻撃”主人公 / JOKER",
@@ -191,7 +199,8 @@
         "id": "P5/S45-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-007": {
     "name": "竜司＆キャプテン・キッド / SKULL",
@@ -209,7 +218,8 @@
         "id": "P5/S45-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-008": {
     "name": "満面の笑顔 竜司 / SKULL",
@@ -227,7 +237,8 @@
         "id": "P5/S45-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-009": {
     "name": "ルブランの居候 主人公",
@@ -245,7 +256,8 @@
         "id": "P5/S45-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-010": {
     "name": "“探偵王子の再来”明智",
@@ -263,7 +275,8 @@
         "id": "P5/S45-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-011": {
     "name": "取引成立 竜司",
@@ -281,7 +294,8 @@
         "id": "P5/S45-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-012": {
     "name": "運命の『囚われ』 主人公",
@@ -299,7 +313,8 @@
         "id": "P5/S45-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-013": {
     "name": "水着の竜司",
@@ -317,7 +332,8 @@
         "id": "P5/S45-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-014": {
     "name": "明智 吾郎",
@@ -335,7 +351,8 @@
         "id": "P5/S45-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-015": {
     "name": "水着の主人公",
@@ -353,7 +370,8 @@
         "id": "P5/S45-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-016": {
     "name": "黒衣の怪盗 主人公 / JOKER",
@@ -371,7 +389,8 @@
         "id": "P5/S45-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-017": {
     "name": "闇に潜む姿 主人公 / JOKER",
@@ -389,7 +408,8 @@
         "id": "P5/S45-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-018": {
     "name": "宣戦布告 竜司 / SKULL",
@@ -407,7 +427,8 @@
         "id": "P5/S45-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-019": {
     "name": "三島 由輝",
@@ -425,7 +446,8 @@
         "id": "P5/S45-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-020": {
     "name": "現役高校生探偵 明智",
@@ -443,7 +465,8 @@
         "id": "P5/S45-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-021": {
     "name": "予告状",
@@ -461,7 +484,8 @@
         "id": "P5/S45-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-022": {
     "name": "ワイルドトーク",
@@ -479,7 +503,8 @@
         "id": "P5/S45-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-023": {
     "name": "THE SHOW'S OVER",
@@ -501,7 +526,8 @@
         "id": "P5/S45-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-024": {
     "name": "FREAKiN' BoRiNG",
@@ -523,7 +549,8 @@
         "id": "P5/S45-024R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P5/S45-025": {
     "name": "ほんと、待たせちまったな",
@@ -541,7 +568,8 @@
         "id": "P5/S45-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-026": {
     "name": "真＆ヨハンナ / QUEEN",
@@ -563,7 +591,8 @@
         "id": "P5/S45-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-027": {
     "name": "春＆ミラディ / NOIR",
@@ -585,7 +614,8 @@
         "id": "P5/S45-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-028": {
     "name": "怪盗団の作戦参謀 真 / QUEEN",
@@ -607,7 +637,8 @@
         "id": "P5/S45-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-029": {
     "name": "奥村 春",
@@ -629,7 +660,8 @@
         "id": "P5/S45-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-030": {
     "name": "水着の真",
@@ -647,7 +679,8 @@
         "id": "P5/S45-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-031": {
     "name": "新島 真",
@@ -669,7 +702,8 @@
         "id": "P5/S45-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-032": {
     "name": "“総攻撃”春 / NOIR",
@@ -691,7 +725,8 @@
         "id": "P5/S45-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-033": {
     "name": "川上 貞代",
@@ -709,7 +744,8 @@
         "id": "P5/S45-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-034": {
     "name": "吉田 寅之助",
@@ -727,7 +763,8 @@
         "id": "P5/S45-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-035": {
     "name": "謎の美少女怪盗 春 / NOIR",
@@ -745,7 +782,8 @@
         "id": "P5/S45-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-036": {
     "name": "“総攻撃”真 / QUEEN",
@@ -763,7 +801,8 @@
         "id": "P5/S45-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-037": {
     "name": "怪盗団の御令嬢 春 / NOIR",
@@ -781,7 +820,8 @@
         "id": "P5/S45-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-038": {
     "name": "世紀末覇者先輩 真 / QUEEN",
@@ -799,7 +839,8 @@
         "id": "P5/S45-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-039": {
     "name": "新島 冴",
@@ -817,7 +858,8 @@
         "id": "P5/S45-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-040": {
     "name": "検察官 冴",
@@ -835,7 +877,8 @@
         "id": "P5/S45-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-041": {
     "name": "取引成立 春",
@@ -853,7 +896,8 @@
         "id": "P5/S45-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-042": {
     "name": "取引成立 真",
@@ -871,7 +915,8 @@
         "id": "P5/S45-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-043": {
     "name": "決められた人生 春",
@@ -889,7 +934,8 @@
         "id": "P5/S45-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-044": {
     "name": "御船 千早",
@@ -907,7 +953,8 @@
         "id": "P5/S45-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-045": {
     "name": "大宅 一子",
@@ -925,7 +972,8 @@
         "id": "P5/S45-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-046": {
     "name": "予告状",
@@ -943,7 +991,8 @@
         "id": "P5/S45-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-047": {
     "name": "イセカイナビ",
@@ -961,7 +1010,8 @@
         "id": "P5/S45-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-048": {
     "name": "闇ネットたなか",
@@ -979,7 +1029,8 @@
         "id": "P5/S45-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-049": {
     "name": "Adieu.",
@@ -1001,7 +1052,8 @@
         "id": "P5/S45-049R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P5/S45-050": {
     "name": "JUSTICE HAS PREVAILED.",
@@ -1023,7 +1075,8 @@
         "id": "P5/S45-050R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-051": {
     "name": "モルガナ＆ゾロ / MONA",
@@ -1045,7 +1098,8 @@
         "id": "P5/S45-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-052": {
     "name": "“総攻撃”杏 / PANTHER",
@@ -1067,7 +1121,8 @@
         "id": "P5/S45-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-053": {
     "name": "怪盗団の演技派（？）女優 杏 / PANTHER",
@@ -1089,7 +1144,8 @@
         "id": "P5/S45-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-054": {
     "name": "怪盗団の先導役 モルガナ / MONA",
@@ -1111,7 +1167,8 @@
         "id": "P5/S45-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-055": {
     "name": "杏＆カルメン / PANTHER",
@@ -1133,7 +1190,8 @@
         "id": "P5/S45-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-056": {
     "name": "“総攻撃”モルガナ / MONA",
@@ -1155,7 +1213,8 @@
         "id": "P5/S45-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-057": {
     "name": "高巻 杏",
@@ -1173,7 +1232,8 @@
         "id": "P5/S45-057",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-058": {
     "name": "織田 信也",
@@ -1191,7 +1251,8 @@
         "id": "P5/S45-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-059": {
     "name": "静かな怒り 杏 / PANTHER",
@@ -1209,7 +1270,8 @@
         "id": "P5/S45-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-060": {
     "name": "取引成立 杏",
@@ -1227,7 +1289,8 @@
         "id": "P5/S45-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-061": {
     "name": "取引成立 モルガナ / MONA",
@@ -1245,7 +1308,8 @@
         "id": "P5/S45-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-062": {
     "name": "決意の表情 杏 / PANTHER",
@@ -1263,7 +1327,8 @@
         "id": "P5/S45-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-063": {
     "name": "モルガナカー",
@@ -1281,7 +1346,8 @@
         "id": "P5/S45-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-064": {
     "name": "東郷 一二三",
@@ -1299,7 +1365,8 @@
         "id": "P5/S45-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-065": {
     "name": "一途な恋心 モルガナ / MONA",
@@ -1317,7 +1384,8 @@
         "id": "P5/S45-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-066": {
     "name": "岩井 宗久",
@@ -1335,7 +1403,8 @@
         "id": "P5/S45-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-067": {
     "name": "水着の杏",
@@ -1353,7 +1422,8 @@
         "id": "P5/S45-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-068": {
     "name": "正体不明 モルガナ / MONA",
@@ -1371,7 +1441,8 @@
         "id": "P5/S45-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-069": {
     "name": "仲間のために モルガナ / MONA",
@@ -1389,7 +1460,8 @@
         "id": "P5/S45-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-070": {
     "name": "予告状",
@@ -1407,7 +1479,8 @@
         "id": "P5/S45-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-071": {
     "name": "メメントス",
@@ -1425,7 +1498,8 @@
         "id": "P5/S45-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-072": {
     "name": "omg!! We are SO awesome",
@@ -1447,7 +1521,8 @@
         "id": "P5/S45-072R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-073": {
     "name": "親友のために",
@@ -1465,7 +1540,8 @@
         "id": "P5/S45-073",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P5/S45-074": {
     "name": "MISSION ACCOMPLISHED",
@@ -1487,7 +1563,8 @@
         "id": "P5/S45-074R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-075": {
     "name": "唯一の居場所",
@@ -1505,7 +1582,8 @@
         "id": "P5/S45-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P5/S45-076": {
     "name": "ナビゲーション役 双葉 / NAVI",
@@ -1527,7 +1605,8 @@
         "id": "P5/S45-076SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-077": {
     "name": "祐介＆ゴエモン / FOX",
@@ -1549,7 +1628,8 @@
         "id": "P5/S45-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-078": {
     "name": "カロリーヌ",
@@ -1567,7 +1647,8 @@
         "id": "P5/S45-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-079": {
     "name": "佐倉 双葉",
@@ -1589,7 +1670,8 @@
         "id": "P5/S45-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-080": {
     "name": "怪盗団の芸術家 祐介 / FOX",
@@ -1611,7 +1693,8 @@
         "id": "P5/S45-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-081": {
     "name": "双葉＆ネクロノミコン / NAVI",
@@ -1633,7 +1716,8 @@
         "id": "P5/S45-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-082": {
     "name": "喜多川 祐介",
@@ -1655,7 +1739,8 @@
         "id": "P5/S45-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-083": {
     "name": "ジュスティーヌ",
@@ -1673,7 +1758,8 @@
         "id": "P5/S45-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-084": {
     "name": "水着の双葉",
@@ -1691,7 +1777,8 @@
         "id": "P5/S45-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-085": {
     "name": "更生を課す者 イゴール",
@@ -1709,7 +1796,8 @@
         "id": "P5/S45-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-086": {
     "name": "怪盗団の天才ハッカー 双葉 / NAVI",
@@ -1727,7 +1815,8 @@
         "id": "P5/S45-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-087": {
     "name": "武見 妙",
@@ -1745,7 +1834,8 @@
         "id": "P5/S45-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-088": {
     "name": "佐倉 惣治郎",
@@ -1763,7 +1853,8 @@
         "id": "P5/S45-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-089": {
     "name": "初めての出会い 祐介",
@@ -1781,7 +1872,8 @@
         "id": "P5/S45-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-090": {
     "name": "取引成立 祐介",
@@ -1799,7 +1891,8 @@
         "id": "P5/S45-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-091": {
     "name": "取引成立 双葉",
@@ -1817,7 +1910,8 @@
         "id": "P5/S45-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-092": {
     "name": "ハッキング中 双葉",
@@ -1835,7 +1929,8 @@
         "id": "P5/S45-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-093": {
     "name": "“カード複製”祐介",
@@ -1853,7 +1948,8 @@
         "id": "P5/S45-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-094": {
     "name": "ベルベットルームの“主” イゴール",
@@ -1871,7 +1967,8 @@
         "id": "P5/S45-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-095": {
     "name": "“総攻撃”祐介 / FOX",
@@ -1889,7 +1986,8 @@
         "id": "P5/S45-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-096": {
     "name": "予告状",
@@ -1907,7 +2005,8 @@
         "id": "P5/S45-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-097": {
     "name": "処刑",
@@ -1925,7 +2024,8 @@
         "id": "P5/S45-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-098": {
     "name": "ベルベットルーム",
@@ -1943,7 +2043,8 @@
         "id": "P5/S45-098",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-099": {
     "name": "IT WAS FUN WHILE IT LASTED,GOODBYE.",
@@ -1965,7 +2066,8 @@
         "id": "P5/S45-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P5/S45-100": {
     "name": "許す、もんかっ！",
@@ -1987,6 +2089,7 @@
         "id": "P5/S45-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

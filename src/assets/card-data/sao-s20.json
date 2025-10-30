@@ -19,7 +19,8 @@
         "id": "SAO/S20-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-002": {
     "name": "《閃光》のアスナ",
@@ -41,7 +42,8 @@
         "id": "SAO/S20-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-003": {
     "name": "ソファに横たわるアスナ",
@@ -63,7 +65,8 @@
         "id": "SAO/S20-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-004": {
     "name": "囚われの女王 アスナ",
@@ -81,7 +84,8 @@
         "id": "SAO/S20-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-005": {
     "name": "着替え中のアスナ",
@@ -99,7 +103,8 @@
         "id": "SAO/S20-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-006": {
     "name": "まどろむアスナ",
@@ -121,7 +126,8 @@
         "id": "SAO/S20-006R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-007": {
     "name": "凛とした強さ アスナ",
@@ -143,7 +149,8 @@
         "id": "SAO/S20-007R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-008": {
     "name": "新婚生活 アスナ",
@@ -161,7 +168,8 @@
         "id": "SAO/S20-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-009": {
     "name": "無防備な素顔 アスナ",
@@ -179,7 +187,8 @@
         "id": "SAO/S20-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-010": {
     "name": "副団長 アスナ",
@@ -197,7 +206,8 @@
         "id": "SAO/S20-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-011": {
     "name": "雨宿り アスナ",
@@ -215,7 +225,8 @@
         "id": "SAO/S20-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-012": {
     "name": "プロポーズの返事 アスナ",
@@ -233,7 +244,8 @@
         "id": "SAO/S20-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-013": {
     "name": "団長 ヒースクリフ",
@@ -251,7 +263,8 @@
         "id": "SAO/S20-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-014": {
     "name": "強い絆 アスナ",
@@ -269,7 +282,8 @@
         "id": "SAO/S20-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-015": {
     "name": "早とちり アスナ",
@@ -287,7 +301,8 @@
         "id": "SAO/S20-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-016": {
     "name": "監視役 クラディール",
@@ -305,7 +320,8 @@
         "id": "SAO/S20-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-017": {
     "name": "戦いのはじまり アスナ",
@@ -323,7 +339,8 @@
         "id": "SAO/S20-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-018": {
     "name": "ラフィン・コフィン",
@@ -341,7 +358,8 @@
         "id": "SAO/S20-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-019": {
     "name": "隠された正体 ヒースクリフ",
@@ -359,7 +377,8 @@
         "id": "SAO/S20-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-020": {
     "name": "熟練の料理スキル アスナ",
@@ -377,7 +396,8 @@
         "id": "SAO/S20-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-021": {
     "name": "前線への復帰",
@@ -395,7 +415,8 @@
         "id": "SAO/S20-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-022": {
     "name": "身代わり",
@@ -413,7 +434,8 @@
         "id": "SAO/S20-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-023": {
     "name": "誓い合った約束",
@@ -431,7 +453,8 @@
         "id": "SAO/S20-023",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SAO/S20-024": {
     "name": "《スター・スプラッシュ》",
@@ -449,7 +472,8 @@
         "id": "SAO/S20-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-025": {
     "name": "闘技場でのデュエル",
@@ -467,7 +491,8 @@
         "id": "SAO/S20-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-026": {
     "name": "魔法剣士 リーファ",
@@ -489,7 +514,8 @@
         "id": "SAO/S20-026R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-027": {
     "name": "純粋な願い リーファ",
@@ -511,7 +537,8 @@
         "id": "SAO/S20-027R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-028": {
     "name": "頼りになる案内役 リーファ",
@@ -533,7 +560,8 @@
         "id": "SAO/S20-028SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-029": {
     "name": "揺れる気持ち 直葉",
@@ -555,7 +583,8 @@
         "id": "SAO/S20-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-030": {
     "name": "《シルフ》の少女 リーファ",
@@ -577,7 +606,8 @@
         "id": "SAO/S20-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-031": {
     "name": "制服の直葉",
@@ -595,7 +625,8 @@
         "id": "SAO/S20-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-032": {
     "name": "自分に言い聞かせる直葉",
@@ -613,7 +644,8 @@
         "id": "SAO/S20-032",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-033": {
     "name": "心優しい仲間 レコン",
@@ -631,7 +663,8 @@
         "id": "SAO/S20-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-034": {
     "name": "剣道少女 直葉",
@@ -649,7 +682,8 @@
         "id": "SAO/S20-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-035": {
     "name": "照れた表情 リーファ",
@@ -667,7 +701,8 @@
         "id": "SAO/S20-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-036": {
     "name": "手を噛まれたリーファ",
@@ -685,7 +720,8 @@
         "id": "SAO/S20-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-037": {
     "name": "鋭い指摘 リーファ",
@@ -703,7 +739,8 @@
         "id": "SAO/S20-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-038": {
     "name": "お風呂上りの直葉",
@@ -721,7 +758,8 @@
         "id": "SAO/S20-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-039": {
     "name": "慌てるリーファ",
@@ -739,7 +777,8 @@
         "id": "SAO/S20-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-040": {
     "name": "複雑な胸中 直葉",
@@ -757,7 +796,8 @@
         "id": "SAO/S20-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-041": {
     "name": "妖精王 オベイロン",
@@ -775,7 +815,8 @@
         "id": "SAO/S20-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-042": {
     "name": "回復魔法",
@@ -793,7 +834,8 @@
         "id": "SAO/S20-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-043": {
     "name": "レコンの勇気",
@@ -811,7 +853,8 @@
         "id": "SAO/S20-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-044": {
     "name": "スペル詠唱",
@@ -829,7 +872,8 @@
         "id": "SAO/S20-044",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SAO/S20-045": {
     "name": "隠し続けた想い",
@@ -847,7 +891,8 @@
         "id": "SAO/S20-045",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-046": {
     "name": "探し続けたもの リズベット",
@@ -865,7 +910,8 @@
         "id": "SAO/S20-046",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-047": {
     "name": "妹のような存在 シリカ",
@@ -887,7 +933,8 @@
         "id": "SAO/S20-047R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-048": {
     "name": "親友を祝福するリズベット",
@@ -905,7 +952,8 @@
         "id": "SAO/S20-048",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-049": {
     "name": "《フラワーガーデン》のシリカ",
@@ -927,7 +975,8 @@
         "id": "SAO/S20-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-050": {
     "name": "職人の矜持 リズベット",
@@ -945,7 +994,8 @@
         "id": "SAO/S20-050",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-051": {
     "name": "まっすぐな信頼 シリカ",
@@ -967,7 +1017,8 @@
         "id": "SAO/S20-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-052": {
     "name": "着替え中のリズベット",
@@ -989,7 +1040,8 @@
         "id": "SAO/S20-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-053": {
     "name": "決意の告白 リズベット",
@@ -1011,7 +1063,8 @@
         "id": "SAO/S20-053SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-054": {
     "name": "使い魔 ピナ",
@@ -1029,7 +1082,8 @@
         "id": "SAO/S20-054",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-055": {
     "name": "デート気分 シリカ",
@@ -1047,7 +1101,8 @@
         "id": "SAO/S20-055",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-056": {
     "name": "メイスの使い手 リズベット",
@@ -1065,7 +1120,8 @@
         "id": "SAO/S20-056",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-057": {
     "name": "冒険のはじまり シリカ",
@@ -1083,7 +1139,8 @@
         "id": "SAO/S20-057",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-058": {
     "name": "ダガー使い シリカ",
@@ -1101,7 +1158,8 @@
         "id": "SAO/S20-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-059": {
     "name": "かわいい悪戯 シリカ",
@@ -1123,7 +1181,8 @@
         "id": "SAO/S20-059R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-060": {
     "name": "前向きな笑顔 リズベット",
@@ -1141,7 +1200,8 @@
         "id": "SAO/S20-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-061": {
     "name": "鍛冶屋のリズベット",
@@ -1159,7 +1219,8 @@
         "id": "SAO/S20-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-062": {
     "name": "《ビーストテイマー》シリカ",
@@ -1177,7 +1238,8 @@
         "id": "SAO/S20-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-063": {
     "name": "アイドル的存在 シリカ",
@@ -1195,7 +1257,8 @@
         "id": "SAO/S20-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-064": {
     "name": "パーティーの脱退 シリカ",
@@ -1213,7 +1276,8 @@
         "id": "SAO/S20-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-065": {
     "name": "《ピナの心》",
@@ -1231,7 +1295,8 @@
         "id": "SAO/S20-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-066": {
     "name": "窮地のシリカ",
@@ -1249,7 +1314,8 @@
         "id": "SAO/S20-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-067": {
     "name": "背中を押すリズベット",
@@ -1267,7 +1333,8 @@
         "id": "SAO/S20-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-068": {
     "name": "ハプニング！ シリカ",
@@ -1285,7 +1352,8 @@
         "id": "SAO/S20-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-069": {
     "name": "感謝の気持ち シリカ",
@@ -1303,7 +1371,8 @@
         "id": "SAO/S20-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-070": {
     "name": "《プネウマの花》",
@@ -1321,7 +1390,8 @@
         "id": "SAO/S20-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-071": {
     "name": "白竜の洞窟",
@@ -1339,7 +1409,8 @@
         "id": "SAO/S20-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-072": {
     "name": "求めていた温もり",
@@ -1357,7 +1428,8 @@
         "id": "SAO/S20-072",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-073": {
     "name": "初めての冒険",
@@ -1375,7 +1447,8 @@
         "id": "SAO/S20-073",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SAO/S20-074": {
     "name": "ピナの蘇生",
@@ -1393,7 +1466,8 @@
         "id": "SAO/S20-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SAO/S20-075": {
     "name": "気づいた本当の気持ち",
@@ -1411,7 +1485,8 @@
         "id": "SAO/S20-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SAO/S20-076": {
     "name": "謎の少女 ユイ",
@@ -1433,7 +1508,8 @@
         "id": "SAO/S20-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-077": {
     "name": "《黒の剣士》キリト",
@@ -1455,7 +1531,8 @@
         "id": "SAO/S20-077R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-078": {
     "name": "刀使い クライン",
@@ -1473,7 +1550,8 @@
         "id": "SAO/S20-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-079": {
     "name": "戦場に身を置くキリト",
@@ -1495,7 +1573,8 @@
         "id": "SAO/S20-079R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-080": {
     "name": "大切な人のために キリト",
@@ -1517,7 +1596,8 @@
         "id": "SAO/S20-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-081": {
     "name": "人工知能 ユイ",
@@ -1539,7 +1619,8 @@
         "id": "SAO/S20-081SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-082": {
     "name": "ユニークスキルの発現 キリト",
@@ -1557,7 +1638,8 @@
         "id": "SAO/S20-082",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-083": {
     "name": "ソロプレイヤー キリト",
@@ -1575,7 +1657,8 @@
         "id": "SAO/S20-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-084": {
     "name": "月夜の黒猫団 サチ",
@@ -1593,7 +1676,8 @@
         "id": "SAO/S20-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-085": {
     "name": "強い絆 キリト",
@@ -1611,7 +1695,8 @@
         "id": "SAO/S20-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-086": {
     "name": "品定めするキリト",
@@ -1629,7 +1714,8 @@
         "id": "SAO/S20-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-087": {
     "name": "さりげない優しさ キリト",
@@ -1647,7 +1733,8 @@
         "id": "SAO/S20-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-088": {
     "name": "ふたりの子供 ユイ",
@@ -1665,7 +1752,8 @@
         "id": "SAO/S20-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-089": {
     "name": "穏やかな日常 キリト",
@@ -1683,7 +1771,8 @@
         "id": "SAO/S20-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-090": {
     "name": "戦いのはじまり キリト",
@@ -1701,7 +1790,8 @@
         "id": "SAO/S20-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-091": {
     "name": "芽生えた思慕 サチ",
@@ -1719,7 +1809,8 @@
         "id": "SAO/S20-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-092": {
     "name": "愛らしい少女 ユイ",
@@ -1737,7 +1828,8 @@
         "id": "SAO/S20-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-093": {
     "name": "五十五層の雪山 キリト",
@@ -1755,7 +1847,8 @@
         "id": "SAO/S20-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-094": {
     "name": "血盟騎士団への入団 キリト",
@@ -1773,7 +1866,8 @@
         "id": "SAO/S20-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-095": {
     "name": "斧戦士 エギル",
@@ -1791,7 +1885,8 @@
         "id": "SAO/S20-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-096": {
     "name": "プロポーズ",
@@ -1809,7 +1904,8 @@
         "id": "SAO/S20-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-097": {
     "name": "ありがとう、さよなら",
@@ -1827,7 +1923,8 @@
         "id": "SAO/S20-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-098": {
     "name": "《二刀流》の使い手",
@@ -1845,7 +1942,8 @@
         "id": "SAO/S20-098",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-099": {
     "name": "世界の終焉",
@@ -1863,7 +1961,8 @@
         "id": "SAO/S20-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SAO/S20-100": {
     "name": "突然の別れ",
@@ -1881,6 +1980,7 @@
         "id": "SAO/S20-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

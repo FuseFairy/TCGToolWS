@@ -15,7 +15,8 @@
         "id": "WTR/S85-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WTR/S85-T02": {
     "name": "戦闘終了 荒船 哲次",
@@ -33,7 +34,8 @@
         "id": "WTR/S85-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WTR/S85-T03": {
     "name": "戦いの始まり 那須 玲",
@@ -51,7 +53,8 @@
         "id": "WTR/S85-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WTR/S85-T04": {
     "name": "開幕速攻！ 香取 葉子",
@@ -69,7 +72,8 @@
         "id": "WTR/S85-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WTR/S85-T05": {
     "name": "援護射撃 木虎 藍",
@@ -87,7 +91,8 @@
         "id": "WTR/S85-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WTR/S85-T06": {
     "name": "慎重な選択 柿崎 国治",
@@ -105,7 +110,8 @@
         "id": "WTR/S85-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WTR/S85-T07": {
     "name": "熟達した剣の腕 太刀川 慶",
@@ -127,7 +133,8 @@
         "id": "WTR/S85-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WTR/S85-T08": {
     "name": "攻撃を掻い潜る 風間 蒼也",
@@ -149,7 +156,8 @@
         "id": "WTR/S85-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WTR/S85-T09": {
     "name": "一番槍 米屋 陽介",
@@ -167,7 +175,8 @@
         "id": "WTR/S85-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WTR/S85-T10": {
     "name": "迷わぬ判断 嵐山 准",
@@ -185,7 +194,8 @@
         "id": "WTR/S85-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "WTR/S85-T11": {
     "name": "最善の道は 迅 悠一",
@@ -207,7 +217,8 @@
         "id": "WTR/S85-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "WTR/S85-T12": {
     "name": "縦横無尽の戦闘 小南 桐絵",
@@ -229,7 +240,8 @@
         "id": "WTR/S85-T12R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "WTR/S85-T13": {
     "name": "渾身の“攻” 堅牢な“守”",
@@ -247,7 +259,8 @@
         "id": "WTR/S85-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "WTR/S85-T14": {
     "name": "Fine Save",
@@ -265,7 +278,8 @@
         "id": "WTR/S85-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "WTR/S85-T15": {
     "name": "帰国の画策 ヒュース",
@@ -287,7 +301,8 @@
         "id": "WTR/S85-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WTR/S85-T16": {
     "name": "曲がらない信念 三雲 修",
@@ -305,7 +320,8 @@
         "id": "WTR/S85-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WTR/S85-T17": {
     "name": "俊敏なエース攻撃手 空閑 遊真",
@@ -331,7 +347,8 @@
         "id": "WTR/S85-T17SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WTR/S85-T18": {
     "name": "新技を備えて 雨取 千佳",
@@ -353,7 +370,8 @@
         "id": "WTR/S85-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WTR/S85-T19": {
     "name": "真実の行方 ヒュース",
@@ -371,7 +389,8 @@
         "id": "WTR/S85-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WTR/S85-T20": {
     "name": "空からの襲撃 空閑 遊真",
@@ -389,7 +408,8 @@
         "id": "WTR/S85-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "WTR/S85-T21": {
     "name": "小さな狙撃手 雨取 千佳",
@@ -407,7 +427,8 @@
         "id": "WTR/S85-T21",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "WTR/S85-T22": {
     "name": "成長する隊長 三雲 修",
@@ -433,7 +454,8 @@
         "id": "WTR/S85-T22SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "WTR/S85-T23": {
     "name": "緊急脱出",
@@ -451,7 +473,8 @@
         "id": "WTR/S85-T23",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WTR/S85-T24": {
     "name": "B級ランク戦 ROUND5",
@@ -469,6 +492,7 @@
         "id": "WTR/S85-T24",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

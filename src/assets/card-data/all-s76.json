@@ -19,7 +19,8 @@
         "id": "ALL/S76-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-002": {
     "name": "凛々しく咲く 雨嘉",
@@ -41,7 +42,8 @@
         "id": "ALL/S76-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-003": {
     "name": "凛々しく咲く 鶴紗",
@@ -63,7 +65,8 @@
         "id": "ALL/S76-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-004": {
     "name": "リリィのたしなみ 神琳",
@@ -81,7 +84,8 @@
         "id": "ALL/S76-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-005": {
     "name": "リリィのたしなみ 鶴紗",
@@ -99,7 +103,8 @@
         "id": "ALL/S76-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-006": {
     "name": "リリィのたしなみ 雨嘉",
@@ -117,7 +122,8 @@
         "id": "ALL/S76-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-007": {
     "name": "戦場に舞う 鶴紗",
@@ -139,7 +145,8 @@
         "id": "ALL/S76-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-008": {
     "name": "“アールヴヘイム”天葉",
@@ -161,7 +168,8 @@
         "id": "ALL/S76-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-009": {
     "name": "戦場に舞う 雨嘉",
@@ -183,7 +191,8 @@
         "id": "ALL/S76-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-010": {
     "name": "戦場に舞う 神琳",
@@ -205,7 +214,8 @@
         "id": "ALL/S76-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-011": {
     "name": "くつろぎの時間 神琳",
@@ -223,7 +233,8 @@
         "id": "ALL/S76-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-012": {
     "name": "さりげないアドバイス 雨嘉",
@@ -241,7 +252,8 @@
         "id": "ALL/S76-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-013": {
     "name": "“アールヴヘイム”樟美",
@@ -259,7 +271,8 @@
         "id": "ALL/S76-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-014": {
     "name": "生粋の司令塔 閑",
@@ -277,7 +290,8 @@
         "id": "ALL/S76-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-015": {
     "name": "“アールヴヘイム”辰姫",
@@ -295,7 +309,8 @@
         "id": "ALL/S76-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-016": {
     "name": "テスタメント 神琳",
@@ -313,7 +328,8 @@
         "id": "ALL/S76-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-017": {
     "name": "くつろぎの時間 壱",
@@ -331,7 +347,8 @@
         "id": "ALL/S76-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-018": {
     "name": "猫の集会所 鶴紗",
@@ -349,7 +366,8 @@
         "id": "ALL/S76-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-019": {
     "name": "少しの口添え 汐里",
@@ -367,7 +385,8 @@
         "id": "ALL/S76-019",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-020": {
     "name": "“アールヴヘイム”壱",
@@ -385,7 +404,8 @@
         "id": "ALL/S76-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-021": {
     "name": "天の秤目 雨嘉",
@@ -403,7 +423,8 @@
         "id": "ALL/S76-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-022": {
     "name": "背負った過去 鶴紗",
@@ -421,7 +442,8 @@
         "id": "ALL/S76-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-023": {
     "name": "くつろぎの時間 鶴紗",
@@ -439,7 +461,8 @@
         "id": "ALL/S76-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-024": {
     "name": "くつろぎの時間 雨嘉",
@@ -457,7 +480,8 @@
         "id": "ALL/S76-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-025": {
     "name": "“面倒な人？”神琳",
@@ -475,7 +499,8 @@
         "id": "ALL/S76-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-026": {
     "name": "食いしん坊な鶴紗",
@@ -493,7 +518,8 @@
         "id": "ALL/S76-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-027": {
     "name": "コスプレ部門優勝 雨嘉",
@@ -511,7 +537,8 @@
         "id": "ALL/S76-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-028": {
     "name": "さりげないアドバイス 神琳",
@@ -529,7 +556,8 @@
         "id": "ALL/S76-028",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-029": {
     "name": "陽だまりの中で",
@@ -547,7 +575,8 @@
         "id": "ALL/S76-029",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-030": {
     "name": "ふたりの射程",
@@ -569,7 +598,8 @@
         "id": "ALL/S76-030R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-031": {
     "name": "ノインヴェルト戦術",
@@ -591,7 +621,8 @@
         "id": "ALL/S76-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-032": {
     "name": "見せない本音",
@@ -613,7 +644,8 @@
         "id": "ALL/S76-032R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-033": {
     "name": "小さなぬくもり",
@@ -635,7 +667,8 @@
         "id": "ALL/S76-033R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "ALL/S76-034": {
     "name": "凛々しく咲く 二水",
@@ -657,7 +690,8 @@
         "id": "ALL/S76-034SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-035": {
     "name": "夏の思い出 梨璃&夢結",
@@ -679,7 +713,8 @@
         "id": "ALL/S76-035SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-036": {
     "name": "凛々しく咲く 楓",
@@ -701,7 +736,8 @@
         "id": "ALL/S76-036SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-037": {
     "name": "凛々しく咲く 梨璃",
@@ -723,7 +759,8 @@
         "id": "ALL/S76-037SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-038": {
     "name": "あなたを待つ間 楓",
@@ -745,7 +782,8 @@
         "id": "ALL/S76-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-039": {
     "name": "情報収集 二水",
@@ -767,7 +805,8 @@
         "id": "ALL/S76-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-040": {
     "name": "戦場に舞う 梨璃",
@@ -789,7 +828,8 @@
         "id": "ALL/S76-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-041": {
     "name": "リリィのたしなみ 梨璃",
@@ -811,7 +851,8 @@
         "id": "ALL/S76-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-042": {
     "name": "戦場に舞う 楓",
@@ -833,7 +874,8 @@
         "id": "ALL/S76-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-043": {
     "name": "戦場に舞う 二水",
@@ -855,7 +897,8 @@
         "id": "ALL/S76-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-044": {
     "name": "“アールヴヘイム”亜羅椰",
@@ -877,7 +920,8 @@
         "id": "ALL/S76-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-045": {
     "name": "“アールヴヘイム”依奈",
@@ -895,7 +939,8 @@
         "id": "ALL/S76-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-046": {
     "name": "くつろぎの時間 二水",
@@ -913,7 +958,8 @@
         "id": "ALL/S76-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-047": {
     "name": "密かな企み 楓",
@@ -931,7 +977,8 @@
         "id": "ALL/S76-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-048": {
     "name": "はじめての戦場 梨璃",
@@ -949,7 +996,8 @@
         "id": "ALL/S76-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-049": {
     "name": "はじめての戦場 楓",
@@ -967,7 +1015,8 @@
         "id": "ALL/S76-049",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-050": {
     "name": "あなたのくれた名前 結梨",
@@ -985,7 +1034,8 @@
         "id": "ALL/S76-050",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-051": {
     "name": "レギオン結成  梨璃",
@@ -1003,7 +1053,8 @@
         "id": "ALL/S76-051",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-052": {
     "name": "くつろぎの時間 楓",
@@ -1021,7 +1072,8 @@
         "id": "ALL/S76-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-053": {
     "name": "マギのお導き？ 楓",
@@ -1039,7 +1091,8 @@
         "id": "ALL/S76-053",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-054": {
     "name": "くつろぎの時間 梨璃",
@@ -1057,7 +1110,8 @@
         "id": "ALL/S76-054",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-055": {
     "name": "自信ありげな依奈",
@@ -1075,7 +1129,8 @@
         "id": "ALL/S76-055",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-056": {
     "name": "まだ何者でもないわたし 梨璃",
@@ -1093,7 +1148,8 @@
         "id": "ALL/S76-056",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-057": {
     "name": "リリィ登録 二水",
@@ -1111,7 +1167,8 @@
         "id": "ALL/S76-057",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-058": {
     "name": "雨模様 二水&鶴紗",
@@ -1129,7 +1186,8 @@
         "id": "ALL/S76-058",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-059": {
     "name": "じっと見守る二水",
@@ -1147,7 +1205,8 @@
         "id": "ALL/S76-059",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-060": {
     "name": "憧れのお姉さまと 梨璃",
@@ -1165,7 +1224,8 @@
         "id": "ALL/S76-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-061": {
     "name": "みんなを守れるように 梨璃",
@@ -1183,7 +1243,8 @@
         "id": "ALL/S76-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-062": {
     "name": "シュッツエンゲルとしてシルトへ",
@@ -1205,7 +1266,8 @@
         "id": "ALL/S76-062b",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-063": {
     "name": "ノインヴェルト戦術用特殊弾",
@@ -1223,7 +1285,8 @@
         "id": "ALL/S76-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-064": {
     "name": "再会はよろこび",
@@ -1245,7 +1308,8 @@
         "id": "ALL/S76-064R",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-065": {
     "name": "シュッツエンゲルとは",
@@ -1267,7 +1331,8 @@
         "id": "ALL/S76-065R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-066": {
     "name": "その気になってもらいます",
@@ -1289,7 +1354,8 @@
         "id": "ALL/S76-066R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-067": {
     "name": "光栄です！幸せです！",
@@ -1311,7 +1377,8 @@
         "id": "ALL/S76-067R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-068": {
     "name": "凛々しく咲く 夢結",
@@ -1333,7 +1400,8 @@
         "id": "ALL/S76-068SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-069": {
     "name": "凛々しく咲く 梅",
@@ -1355,7 +1423,8 @@
         "id": "ALL/S76-069SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-070": {
     "name": "凛々しく咲く ミリアム",
@@ -1377,7 +1446,8 @@
         "id": "ALL/S76-070SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-071": {
     "name": "戦場に舞う 梅",
@@ -1399,7 +1469,8 @@
         "id": "ALL/S76-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-072": {
     "name": "戦場に舞う ミリアム",
@@ -1421,7 +1492,8 @@
         "id": "ALL/S76-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-073": {
     "name": "百合ヶ丘のリリィ 結梨",
@@ -1439,7 +1511,8 @@
         "id": "ALL/S76-073",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-074": {
     "name": "穏やかな午睡 梅",
@@ -1461,7 +1534,8 @@
         "id": "ALL/S76-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-075": {
     "name": "あなたを待つ間 夢結",
@@ -1483,7 +1557,8 @@
         "id": "ALL/S76-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-076": {
     "name": "工廠科のリリィ ミリアム",
@@ -1501,7 +1576,8 @@
         "id": "ALL/S76-076",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-077": {
     "name": "百合ヶ丘のアーセナル 百由",
@@ -1523,7 +1599,8 @@
         "id": "ALL/S76-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-078": {
     "name": "戦場に舞う 夢結",
@@ -1545,7 +1622,8 @@
         "id": "ALL/S76-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-079": {
     "name": "“ぐろっぴ”ミリアム",
@@ -1563,7 +1641,8 @@
         "id": "ALL/S76-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-080": {
     "name": "忘れ得ぬ人 美鈴",
@@ -1581,7 +1660,8 @@
         "id": "ALL/S76-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-081": {
     "name": "心配そうな表情の祀",
@@ -1599,7 +1679,8 @@
         "id": "ALL/S76-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-082": {
     "name": "“採れたて”だよ？百由",
@@ -1617,7 +1698,8 @@
         "id": "ALL/S76-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-083": {
     "name": "“甲州撤退戦”夢結",
@@ -1635,7 +1717,8 @@
         "id": "ALL/S76-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-084": {
     "name": "くつろぎの時間 梅",
@@ -1653,7 +1736,8 @@
         "id": "ALL/S76-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-085": {
     "name": "くつろぎの時間 ミリアム",
@@ -1671,7 +1755,8 @@
         "id": "ALL/S76-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-086": {
     "name": "白煙の中 夢結",
@@ -1689,7 +1774,8 @@
         "id": "ALL/S76-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-087": {
     "name": "騒々しい日 ミリアム",
@@ -1707,7 +1793,8 @@
         "id": "ALL/S76-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-088": {
     "name": "ホースで水遊び 梅&ミリアム",
@@ -1725,7 +1812,8 @@
         "id": "ALL/S76-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-089": {
     "name": "レアスキルの多重合成 梅",
@@ -1743,7 +1831,8 @@
         "id": "ALL/S76-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-090": {
     "name": "真剣に悩む夢結",
@@ -1761,7 +1850,8 @@
         "id": "ALL/S76-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-091": {
     "name": "猫の集会所 梅",
@@ -1779,7 +1869,8 @@
         "id": "ALL/S76-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-092": {
     "name": "はじける笑顔 梅",
@@ -1797,7 +1888,8 @@
         "id": "ALL/S76-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-093": {
     "name": "ソメイヨシノの木陰で 夢結",
@@ -1815,7 +1907,8 @@
         "id": "ALL/S76-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-094": {
     "name": "百合ヶ丘の生徒会長 史房",
@@ -1833,7 +1926,8 @@
         "id": "ALL/S76-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-095": {
     "name": "はじめての感情 夢結",
@@ -1851,7 +1945,8 @@
         "id": "ALL/S76-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-096": {
     "name": "Schutzengel gelübde",
@@ -1869,7 +1964,8 @@
         "id": "ALL/S76-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-097": {
     "name": "不器用なシュッツエンゲル",
@@ -1891,7 +1987,8 @@
         "id": "ALL/S76-097SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-098": {
     "name": "こっちおいで",
@@ -1913,7 +2010,8 @@
         "id": "ALL/S76-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-099": {
     "name": "帰る場所",
@@ -1935,7 +2033,8 @@
         "id": "ALL/S76-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-100": {
     "name": "ふれあい",
@@ -1957,6 +2056,7 @@
         "id": "ALL/S76-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

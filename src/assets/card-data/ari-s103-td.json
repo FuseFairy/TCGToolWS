@@ -19,7 +19,8 @@
         "id": "ARI/S103-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-T02": {
     "name": "特別な恋人 ユエ",
@@ -41,7 +42,8 @@
         "id": "ARI/S103-T02SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-T03": {
     "name": "心優しき少女 香織",
@@ -63,7 +65,8 @@
         "id": "ARI/S103-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-T04": {
     "name": "最強コンビ ユエ＆ハジメ",
@@ -89,7 +92,8 @@
         "id": "ARI/S103-T04S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-T05": {
     "name": "冗談半分の提案 香織",
@@ -111,7 +115,8 @@
         "id": "ARI/S103-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-T06": {
     "name": "暑いのは苦手 ユエ",
@@ -133,7 +138,8 @@
         "id": "ARI/S103-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-T07": {
     "name": "最後の吸血鬼族 ユエ",
@@ -155,7 +161,8 @@
         "id": "ARI/S103-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-T08": {
     "name": "奈落の底で",
@@ -177,7 +184,8 @@
         "id": "ARI/S103-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-T09": {
     "name": "伝える想い",
@@ -199,7 +207,8 @@
         "id": "ARI/S103-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-T10": {
     "name": "海人族の幼女 ミュウ",
@@ -221,7 +230,8 @@
         "id": "ARI/S103-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-T11": {
     "name": "暑いのは苦手 ハジメ",
@@ -243,7 +253,8 @@
         "id": "ARI/S103-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-T12": {
     "name": "大切な仲間 シア",
@@ -265,7 +276,8 @@
         "id": "ARI/S103-T12SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-T13": {
     "name": "誇り高き竜人族 ティオ",
@@ -287,7 +299,8 @@
         "id": "ARI/S103-T13R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-T14": {
     "name": "大切な仲間 ティオ",
@@ -309,7 +322,8 @@
         "id": "ARI/S103-T14SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-T15": {
     "name": "あの快感をもう一度 ティオ",
@@ -331,7 +345,8 @@
         "id": "ARI/S103-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-T16": {
     "name": "力自慢 シア",
@@ -353,7 +368,8 @@
         "id": "ARI/S103-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-T17": {
     "name": "勇敢な兎人族 シア",
@@ -375,7 +391,8 @@
         "id": "ARI/S103-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-T18": {
     "name": "さあ、いきますよーっ！",
@@ -397,7 +414,8 @@
         "id": "ARI/S103-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-T19": {
     "name": "新たな旅立ち",
@@ -419,6 +437,7 @@
         "id": "ARI/S103-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

@@ -15,7 +15,8 @@
         "id": "JJ/S66-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-P02": {
     "name": "運命のはじまり ブチャラティ",
@@ -33,7 +34,8 @@
         "id": "JJ/S66-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-P04": {
     "name": "黄金の夢 ジョルノ＆ブチャラティ",
@@ -51,7 +53,8 @@
         "id": "JJ/S66-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-101": {
     "name": "運命の開拓者 ミスタ",
@@ -69,7 +72,8 @@
         "id": "JJ/S66-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-102": {
     "name": "運命の開拓者 ジョルノ",
@@ -87,7 +91,8 @@
         "id": "JJ/S66-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-103": {
     "name": "運命の開拓者 フーゴ",
@@ -105,7 +110,8 @@
         "id": "JJ/S66-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-104": {
     "name": "運命の開拓者 ナランチャ",
@@ -123,7 +129,8 @@
         "id": "JJ/S66-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-105": {
     "name": "運命の開拓者 ブチャラティ",
@@ -141,7 +148,8 @@
         "id": "JJ/S66-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-106": {
     "name": "運命の開拓者 アバッキオ",
@@ -159,7 +167,8 @@
         "id": "JJ/S66-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-107": {
     "name": "運命の開拓者 トリッシュ",
@@ -177,6 +186,7 @@
         "id": "JJ/S66-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

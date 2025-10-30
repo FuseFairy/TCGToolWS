@@ -15,7 +15,8 @@
         "id": "N2/W25-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-P04": {
     "name": "幸せな家族 八神一家",
@@ -33,7 +34,8 @@
         "id": "N2/W25-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-P05": {
     "name": "“家族”の報告 フェイト",
@@ -51,7 +53,8 @@
         "id": "N2/W25-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-P06": {
     "name": "“明かした秘密”なのは",
@@ -69,7 +72,8 @@
         "id": "N2/W25-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-081": {
     "name": "休息の時 フェイト",
@@ -87,7 +91,8 @@
         "id": "N2/W25-081",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-082": {
     "name": "休息の時 なのは",
@@ -105,7 +110,8 @@
         "id": "N2/W25-082",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-083": {
     "name": "休息の時 はやて",
@@ -123,7 +129,8 @@
         "id": "N2/W25-083",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-084": {
     "name": "みんなでメンテナンス",
@@ -141,6 +148,7 @@
         "id": "N2/W25-084",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

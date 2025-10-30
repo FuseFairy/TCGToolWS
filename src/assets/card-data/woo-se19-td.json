@@ -15,7 +15,8 @@
         "id": "Woo/SE19-001",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Woo/SE19-002": {
     "name": "終わりの始まり うーさー",
@@ -33,7 +34,8 @@
         "id": "Woo/SE19-002",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Woo/SE19-003": {
     "name": "Otawamure うーさー",
@@ -51,7 +53,8 @@
         "id": "Woo/SE19-003",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Woo/SE19-004": {
     "name": "三矢の教え うーさー",
@@ -69,7 +72,8 @@
         "id": "Woo/SE19-004",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Woo/SE19-005": {
     "name": "終焉の１クリック うーさー",
@@ -87,7 +91,8 @@
         "id": "Woo/SE19-005",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Woo/SE19-006": {
     "name": "一人前の男の証 うーさー",
@@ -105,7 +110,8 @@
         "id": "Woo/SE19-006",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Woo/SE19-007": {
     "name": "真っ白に燃え尽きたうーさー",
@@ -123,7 +129,8 @@
         "id": "Woo/SE19-007",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Woo/SE19-008": {
     "name": "氷の島のうーさー",
@@ -141,7 +148,8 @@
         "id": "Woo/SE19-008",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Woo/SE19-009": {
     "name": "４月２日のうーさー",
@@ -159,7 +167,8 @@
         "id": "Woo/SE19-009",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Woo/SE19-010": {
     "name": "御内裏様 うーさー",
@@ -177,7 +186,8 @@
         "id": "Woo/SE19-010",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Woo/SE19-011": {
     "name": "ウーサー・プリンシパル・キング・オブ・ダークネス",
@@ -195,7 +205,8 @@
         "id": "Woo/SE19-011",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Woo/SE19-012": {
     "name": "召喚されし勇者 うーさー",
@@ -213,7 +224,8 @@
         "id": "Woo/SE19-012",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Woo/SE19-013": {
     "name": "皇帝陛下 うーさー",
@@ -231,7 +243,8 @@
         "id": "Woo/SE19-013",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Woo/SE19-014": {
     "name": "世界を滅ぼしたい うーさー",
@@ -249,7 +262,8 @@
         "id": "Woo/SE19-014",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Woo/SE19-015": {
     "name": "三娘の礼",
@@ -267,7 +281,8 @@
         "id": "Woo/SE19-015",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Woo/SE19-016": {
     "name": "クリスマス中止のお知らせ",
@@ -285,7 +300,8 @@
         "id": "Woo/SE19-016",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "Woo/SE19-017": {
     "name": "あなたは神を信じますか？",
@@ -303,7 +319,8 @@
         "id": "Woo/SE19-017",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Woo/SE19-018": {
     "name": "第一部・完",
@@ -321,6 +338,7 @@
         "id": "Woo/SE19-018",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

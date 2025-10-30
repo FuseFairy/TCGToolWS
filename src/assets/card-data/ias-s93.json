@@ -19,7 +19,8 @@
         "id": "IAS/S93-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IAS/S93-005": {
     "name": "うきうきスイートタイム 双海真美",
@@ -41,7 +42,8 @@
         "id": "IAS/S93-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S93-010": {
     "name": "恋する視線 星井美希",
@@ -63,7 +65,8 @@
         "id": "IAS/S93-010SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S93-011": {
     "name": "ウォータードリーム 三浦あずさ",
@@ -85,7 +88,8 @@
         "id": "IAS/S93-011SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S93-017": {
     "name": "秋を彩るエンターテイナー 双海亜美",
@@ -107,7 +111,8 @@
         "id": "IAS/S93-017SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IAS/S93-019": {
     "name": "迷子の特等席 三浦あずさ",
@@ -129,7 +134,8 @@
         "id": "IAS/S93-019BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S93-025": {
     "name": "スプライトイルミネーション 高槻やよい",
@@ -151,7 +157,8 @@
         "id": "IAS/S93-025BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S93-026": {
     "name": "神懸りし舞調べ 星井美希",
@@ -173,7 +180,8 @@
         "id": "IAS/S93-026BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IAS/S93-028": {
     "name": "ときめきハプニング 双海亜美",
@@ -195,7 +203,8 @@
         "id": "IAS/S93-028BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S93-033": {
     "name": "砂浜のグラビアアイドル 双海真美",
@@ -217,7 +226,8 @@
         "id": "IAS/S93-033BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IAS/S93-038": {
     "name": "Deep, Deep Blue",
@@ -239,7 +249,8 @@
         "id": "IAS/S93-038R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S93-045": {
     "name": "ブランニュー・シーナリー 萩原雪歩",
@@ -261,7 +272,8 @@
         "id": "IAS/S93-045SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S93-049": {
     "name": "桃色スマイル♪ 菊地 真",
@@ -283,7 +295,8 @@
         "id": "IAS/S93-049SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S93-050": {
     "name": "優しく告げる春の足音 我那覇 響",
@@ -305,7 +318,8 @@
         "id": "IAS/S93-050SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S93-060": {
     "name": "つながる笑顔 天海春香",
@@ -327,7 +341,8 @@
         "id": "IAS/S93-060SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IAS/S93-062": {
     "name": "小さなスノードロップ 萩原雪歩",
@@ -349,7 +364,8 @@
         "id": "IAS/S93-062BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S93-064": {
     "name": "大航海の、その先へ！ 菊地 真",
@@ -371,7 +387,8 @@
         "id": "IAS/S93-064BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S93-068": {
     "name": "空にこだまする歌声 我那覇 響",
@@ -393,7 +410,8 @@
         "id": "IAS/S93-068BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IAS/S93-071": {
     "name": "伝説を継ぐ者へ 天海春香",
@@ -415,7 +433,8 @@
         "id": "IAS/S93-071BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S93-081": {
     "name": "LEADER!!",
@@ -437,7 +456,8 @@
         "id": "IAS/S93-081R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IAS/S93-082": {
     "name": "ラビットファー",
@@ -459,7 +479,8 @@
         "id": "IAS/S93-082R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S93-084": {
     "name": "スノーファンタジーナイト 四条貴音",
@@ -481,7 +502,8 @@
         "id": "IAS/S93-084SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S93-090": {
     "name": "アクアマリンマーメイド 如月千早",
@@ -503,7 +525,8 @@
         "id": "IAS/S93-090SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S93-093": {
     "name": "月光ファンタジア 水瀬伊織",
@@ -525,7 +548,8 @@
         "id": "IAS/S93-093SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S93-097": {
     "name": "知性派ハイカラ娘 秋月律子",
@@ -547,7 +571,8 @@
         "id": "IAS/S93-097SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IAS/S93-102": {
     "name": "一夜限りの魔法 水瀬伊織",
@@ -569,7 +594,8 @@
         "id": "IAS/S93-102BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S93-109": {
     "name": "アイドルの試練 如月千早",
@@ -591,7 +617,8 @@
         "id": "IAS/S93-109BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IAS/S93-114": {
     "name": "麗しきエルディスト 四条貴音",
@@ -613,7 +640,8 @@
         "id": "IAS/S93-114BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S93-115": {
     "name": "万全のサポート 秋月律子",
@@ -635,7 +663,8 @@
         "id": "IAS/S93-115BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S93-123": {
     "name": "瞳の中のシリウス",
@@ -657,7 +686,8 @@
         "id": "IAS/S93-123R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IAS/S93-E01": {
     "name": "YOU AND アイ！ 天海春香",
@@ -675,6 +705,7 @@
         "id": "IAS/S93-E01",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

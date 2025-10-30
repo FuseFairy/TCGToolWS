@@ -19,7 +19,8 @@
         "id": "Kab/W102-053SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W102-055": {
     "name": "危険な二人 ゆり＆沙耶",
@@ -41,7 +42,8 @@
         "id": "Kab/W102-055SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W102-056": {
     "name": "それぞれの戦い ゆり＆奈緒",
@@ -63,7 +65,8 @@
         "id": "Kab/W102-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W102-057": {
     "name": "天使とマスコット かなで＆クド",
@@ -85,7 +88,8 @@
         "id": "Kab/W102-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W102-058": {
     "name": "憧れを胸に ユイ",
@@ -107,7 +111,8 @@
         "id": "Kab/W102-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W102-059": {
     "name": "ミュージックスタート！ 岩沢",
@@ -129,7 +134,8 @@
         "id": "Kab/W102-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kab/W102-060": {
     "name": "夏の訪れ かなで",
@@ -147,7 +153,8 @@
         "id": "Kab/W102-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kab/W102-062": {
     "name": "都合の良い世界 ゆり",
@@ -165,7 +172,8 @@
         "id": "Kab/W102-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kab/W102-063": {
     "name": "世界について 音無",
@@ -183,7 +191,8 @@
         "id": "Kab/W102-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W102-065": {
     "name": "私たちの未来 ユイ",
@@ -201,7 +210,8 @@
         "id": "Kab/W102-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W102-067": {
     "name": "初代Key１王者 天使",
@@ -219,7 +229,8 @@
         "id": "Kab/W102-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kab/W102-069": {
     "name": "夜空に舞う食券",
@@ -237,7 +248,8 @@
         "id": "Kab/W102-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W102-070": {
     "name": "新たな戦いの始まり",
@@ -263,7 +275,8 @@
         "id": "Kab/W102-070R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W102-072": {
     "name": "世界を楽しもう",
@@ -285,6 +298,7 @@
         "id": "Kab/W102-072R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

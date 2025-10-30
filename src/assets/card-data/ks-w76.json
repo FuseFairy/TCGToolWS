@@ -19,7 +19,8 @@
         "id": "KS/W76-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-002": {
     "name": "“脳筋クルセイダー”ダクネス",
@@ -41,7 +42,8 @@
         "id": "KS/W76-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-003": {
     "name": "“森で一休み”ダクネス",
@@ -59,7 +61,8 @@
         "id": "KS/W76-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-004": {
     "name": "“浴衣美人”ダクネス",
@@ -77,7 +80,8 @@
         "id": "KS/W76-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-005": {
     "name": "“大切な仲間”カズマ",
@@ -95,7 +99,8 @@
         "id": "KS/W76-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-006": {
     "name": "“罵倒に震える”ダクネス",
@@ -117,7 +122,8 @@
         "id": "KS/W76-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-007": {
     "name": "“花火大会”カズマ",
@@ -135,7 +141,8 @@
         "id": "KS/W76-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-008": {
     "name": "“激しい交戦”バニル",
@@ -157,7 +164,8 @@
         "id": "KS/W76-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-009": {
     "name": "“モテ期到来！”カズマ",
@@ -179,7 +187,8 @@
         "id": "KS/W76-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-010": {
     "name": "“幸運値はＳ級”カズマ",
@@ -197,7 +206,8 @@
         "id": "KS/W76-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-011": {
     "name": "“呆気にとられる”ダクネス",
@@ -215,7 +225,8 @@
         "id": "KS/W76-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-012": {
     "name": "“紅魔の里で観光を！”ダクネス",
@@ -233,7 +244,8 @@
         "id": "KS/W76-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-013": {
     "name": "“ド直球の告白”カズマ",
@@ -251,7 +263,8 @@
         "id": "KS/W76-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-014": {
     "name": "“へいらっしゃい”バニル",
@@ -269,7 +282,8 @@
         "id": "KS/W76-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-015": {
     "name": "“求めていた楽園”カズマ",
@@ -287,7 +301,8 @@
         "id": "KS/W76-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-016": {
     "name": "“立ち塞がる”ダクネス",
@@ -305,7 +320,8 @@
         "id": "KS/W76-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-017": {
     "name": "“紅魔の里へ！”カズマ",
@@ -323,7 +339,8 @@
         "id": "KS/W76-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-018": {
     "name": "“見通す悪魔”バニル",
@@ -341,7 +358,8 @@
         "id": "KS/W76-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-019": {
     "name": "“力強い主張”カズマ",
@@ -359,7 +377,8 @@
         "id": "KS/W76-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-020": {
     "name": "“スコープセット！”カズマ",
@@ -377,7 +396,8 @@
         "id": "KS/W76-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-021": {
     "name": "“堂々のハッタリ”カズマ",
@@ -395,7 +415,8 @@
         "id": "KS/W76-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-022": {
     "name": "“唯一の取り柄”ダクネス",
@@ -413,7 +434,8 @@
         "id": "KS/W76-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-023": {
     "name": "“紅魔の里へ！”ダクネス",
@@ -431,7 +453,8 @@
         "id": "KS/W76-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-024": {
     "name": "上上下下左右左右ホホホイホイホイ！",
@@ -449,7 +472,8 @@
         "id": "KS/W76-024",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-025": {
     "name": "ぼ……防御力……？",
@@ -471,7 +495,8 @@
         "id": "KS/W76-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-026": {
     "name": "オーク襲来！",
@@ -489,7 +514,8 @@
         "id": "KS/W76-026",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-027": {
     "name": "Thumbs up！",
@@ -507,7 +533,8 @@
         "id": "KS/W76-027",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-028": {
     "name": "“仲間を信じて”ゆんゆん",
@@ -529,7 +556,8 @@
         "id": "KS/W76-028SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-029": {
     "name": "“紅魔の里へ！”めぐみん＆ゆんゆん",
@@ -551,7 +579,8 @@
         "id": "KS/W76-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-030": {
     "name": "“紅魔の里へ！”ウィズ",
@@ -573,7 +602,8 @@
         "id": "KS/W76-030SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-031": {
     "name": "“爆裂魔法への思い”めぐみん",
@@ -595,7 +625,8 @@
         "id": "KS/W76-031SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-032": {
     "name": "“最高の魔法使い”ゆんゆん",
@@ -617,7 +648,8 @@
         "id": "KS/W76-032SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-033": {
     "name": "“最強の魔法使い”めぐみん",
@@ -639,7 +671,8 @@
         "id": "KS/W76-033SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-034": {
     "name": "“優しく見守る”ゆんゆん",
@@ -661,7 +694,8 @@
         "id": "KS/W76-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-035": {
     "name": "“いつか極めし爆裂道”めぐみん",
@@ -683,7 +717,8 @@
         "id": "KS/W76-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-036": {
     "name": "“恥じらい”ゆんゆん",
@@ -705,7 +740,8 @@
         "id": "KS/W76-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-037": {
     "name": "“もぐもぐ”こめっこ",
@@ -727,7 +763,8 @@
         "id": "KS/W76-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-038": {
     "name": "“対『魔術師殺し』”ウィズ",
@@ -745,7 +782,8 @@
         "id": "KS/W76-038",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-039": {
     "name": "“いざという時のために”めぐみん",
@@ -767,7 +805,8 @@
         "id": "KS/W76-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-040": {
     "name": "“照れ笑い”めぐみん",
@@ -789,7 +828,8 @@
         "id": "KS/W76-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-041": {
     "name": "“久しぶりの再会”ウィズ",
@@ -811,7 +851,8 @@
         "id": "KS/W76-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-042": {
     "name": "“とっておきの口上”ゆんゆん",
@@ -833,7 +874,8 @@
         "id": "KS/W76-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-043": {
     "name": "“便利な転移魔法”ウィズ",
@@ -851,7 +893,8 @@
         "id": "KS/W76-043",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-044": {
     "name": "“流れる冷や汗”ゆんゆん",
@@ -869,7 +912,8 @@
         "id": "KS/W76-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-045": {
     "name": "“我が名は”ふにふら",
@@ -887,7 +931,8 @@
         "id": "KS/W76-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-046": {
     "name": "“紅魔の里で観光を！”めぐみん",
@@ -905,7 +950,8 @@
         "id": "KS/W76-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-047": {
     "name": "“お得意の名乗り”紅魔族",
@@ -935,7 +981,8 @@
         "id": "KS/W76-047d",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-048": {
     "name": "“魔力充填中”ウィズ",
@@ -953,7 +1000,8 @@
         "id": "KS/W76-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-049": {
     "name": "“無茶苦茶な要求”めぐみん",
@@ -971,7 +1019,8 @@
         "id": "KS/W76-049",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-050": {
     "name": "“譲れぬライバル魂”めぐみん",
@@ -989,7 +1038,8 @@
         "id": "KS/W76-050",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-051": {
     "name": "“激しい交戦”ウィズ",
@@ -1007,7 +1057,8 @@
         "id": "KS/W76-051",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-052": {
     "name": "“大切な仲間”めぐみん",
@@ -1025,7 +1076,8 @@
         "id": "KS/W76-052",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-053": {
     "name": "“パーティーメンバー？”ゆんゆん",
@@ -1043,7 +1095,8 @@
         "id": "KS/W76-053",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-054": {
     "name": "“援護射撃”ゆいゆい",
@@ -1061,7 +1114,8 @@
         "id": "KS/W76-054",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-055": {
     "name": "“お出迎え”こめっこ",
@@ -1079,7 +1133,8 @@
         "id": "KS/W76-055",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-056": {
     "name": "“本日の爆裂魔法”めぐみん",
@@ -1097,7 +1152,8 @@
         "id": "KS/W76-056",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-057": {
     "name": "“浴衣美人”めぐみん",
@@ -1115,7 +1171,8 @@
         "id": "KS/W76-057",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-058": {
     "name": "めぐみん＆こめっこ",
@@ -1133,7 +1190,8 @@
         "id": "KS/W76-058",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-059": {
     "name": "ひょいざぶろー＆ゆいゆい",
@@ -1151,7 +1209,8 @@
         "id": "KS/W76-059",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-060": {
     "name": "“我が名は”あるえ",
@@ -1169,7 +1228,8 @@
         "id": "KS/W76-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-061": {
     "name": "“我が名は”どどんこ",
@@ -1187,7 +1247,8 @@
         "id": "KS/W76-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-062": {
     "name": "“凍てつく魔法”ウィズ",
@@ -1205,7 +1266,8 @@
         "id": "KS/W76-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-063": {
     "name": "“激しい勘違い”ゆんゆん",
@@ -1223,7 +1285,8 @@
         "id": "KS/W76-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-064": {
     "name": "“魔性の妹”こめっこ",
@@ -1241,7 +1304,8 @@
         "id": "KS/W76-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-065": {
     "name": "“決死の告白”ゆんゆん",
@@ -1259,7 +1323,8 @@
         "id": "KS/W76-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-066": {
     "name": "“崖の上の対峙”ゆんゆん",
@@ -1277,7 +1342,8 @@
         "id": "KS/W76-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-067": {
     "name": "“思わせぶりな”めぐみん",
@@ -1295,7 +1361,8 @@
         "id": "KS/W76-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-068": {
     "name": "“浴衣美人”ゆんゆん",
@@ -1313,7 +1380,8 @@
         "id": "KS/W76-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-069": {
     "name": "“溢れる魔力”ゆんゆん",
@@ -1331,7 +1399,8 @@
         "id": "KS/W76-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-070": {
     "name": "禁じられた武器",
@@ -1349,7 +1418,8 @@
         "id": "KS/W76-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-071": {
     "name": "からかい",
@@ -1371,7 +1441,8 @@
         "id": "KS/W76-071R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-072": {
     "name": "合わせた掌",
@@ -1393,7 +1464,8 @@
         "id": "KS/W76-072R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-073": {
     "name": "轟く雷鳴",
@@ -1415,7 +1487,8 @@
         "id": "KS/W76-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KS/W76-074": {
     "name": "ただいまとおかえり",
@@ -1433,7 +1506,8 @@
         "id": "KS/W76-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KS/W76-075": {
     "name": "一日一爆裂",
@@ -1451,7 +1525,8 @@
         "id": "KS/W76-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KS/W76-076": {
     "name": "“ありったけのサポート”アクア",
@@ -1473,7 +1548,8 @@
         "id": "KS/W76-076SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-077": {
     "name": "“紅魔の里へ！”アクア",
@@ -1495,7 +1571,8 @@
         "id": "KS/W76-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-078": {
     "name": "“たまに発揮される女神らしさ”アクア",
@@ -1517,7 +1594,8 @@
         "id": "KS/W76-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-079": {
     "name": "“紅魔の里で観光を！”アクア",
@@ -1539,7 +1617,8 @@
         "id": "KS/W76-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-080": {
     "name": "“合成と改造の果て”シルビア",
@@ -1557,7 +1636,8 @@
         "id": "KS/W76-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-081": {
     "name": "“沁みついた冒険者暮らし”アクア",
@@ -1579,7 +1659,8 @@
         "id": "KS/W76-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-082": {
     "name": "“『魔術師殺し』との合成”シルビア",
@@ -1597,7 +1678,8 @@
         "id": "KS/W76-082",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-083": {
     "name": "“コスい発想”アクア",
@@ -1615,7 +1697,8 @@
         "id": "KS/W76-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-084": {
     "name": "“女心と男心”シルビア",
@@ -1633,7 +1716,8 @@
         "id": "KS/W76-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-085": {
     "name": "“魔王軍幹部”シルビア",
@@ -1651,7 +1735,8 @@
         "id": "KS/W76-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-086": {
     "name": "“支援魔法”アクア",
@@ -1669,7 +1754,8 @@
         "id": "KS/W76-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-087": {
     "name": "“たわわな誘惑”シルビア",
@@ -1687,7 +1773,8 @@
         "id": "KS/W76-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-088": {
     "name": "“浴衣美人”アクア",
@@ -1705,7 +1792,8 @@
         "id": "KS/W76-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-089": {
     "name": "“不意討ちの一撃”アクア",
@@ -1723,7 +1811,8 @@
         "id": "KS/W76-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-090": {
     "name": "“追い詰める”シルビア",
@@ -1741,7 +1830,8 @@
         "id": "KS/W76-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-091": {
     "name": "“余裕の撤退”シルビア",
@@ -1759,7 +1849,8 @@
         "id": "KS/W76-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-092": {
     "name": "“泣きべそをかく”アクア",
@@ -1777,7 +1868,8 @@
         "id": "KS/W76-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-093": {
     "name": "“燃やし尽くす”シルビア",
@@ -1795,7 +1887,8 @@
         "id": "KS/W76-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-094": {
     "name": "“威嚇ポーズ”アクア",
@@ -1813,7 +1906,8 @@
         "id": "KS/W76-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-095": {
     "name": "“鋭い眼光”シルビア",
@@ -1831,7 +1925,8 @@
         "id": "KS/W76-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-096": {
     "name": "魔王軍襲来！",
@@ -1849,7 +1944,8 @@
         "id": "KS/W76-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-097": {
     "name": "女神の加護",
@@ -1871,7 +1967,8 @@
         "id": "KS/W76-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-098": {
     "name": "クエスト失敗",
@@ -1889,7 +1986,8 @@
         "id": "KS/W76-098",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W76-099": {
     "name": "紅魔の里侵略",
@@ -1911,7 +2009,8 @@
         "id": "KS/W76-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W76-100": {
     "name": "あててんのよ！",
@@ -1929,6 +2028,7 @@
         "id": "KS/W76-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

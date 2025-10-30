@@ -15,7 +15,8 @@
         "id": "N2/W32-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W32-121": {
     "name": "大切な存在 ヴィータ",
@@ -33,7 +34,8 @@
         "id": "N2/W32-121",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W32-122": {
     "name": "闇の書の呪縛 はやて",
@@ -51,6 +53,7 @@
         "id": "N2/W32-122",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

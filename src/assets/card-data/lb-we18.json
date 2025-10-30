@@ -15,7 +15,8 @@
         "id": "LB/WE18-01",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE18-02": {
     "name": "“今できること”理樹",
@@ -33,7 +34,8 @@
         "id": "LB/WE18-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-03": {
     "name": "“夕焼け色の想い”鈴",
@@ -51,7 +53,8 @@
         "id": "LB/WE18-03",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-04": {
     "name": "“終わりと始まり”恭介",
@@ -69,7 +72,8 @@
         "id": "LB/WE18-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE18-05": {
     "name": "“世界の外へ”小毬",
@@ -87,7 +91,8 @@
         "id": "LB/WE18-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE18-06": {
     "name": "“帰ってきたリーダー”恭介",
@@ -105,7 +110,8 @@
         "id": "LB/WE18-06",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-07": {
     "name": "“ホットケーキパーティー”鈴",
@@ -123,7 +129,8 @@
         "id": "LB/WE18-07",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-08": {
     "name": "“最後の光景”小毬",
@@ -141,7 +148,8 @@
         "id": "LB/WE18-08",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-09": {
     "name": "“ホットケーキパーティー”小毬",
@@ -159,7 +167,8 @@
         "id": "LB/WE18-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-10": {
     "name": "“苦悶の決意”恭介",
@@ -177,7 +186,8 @@
         "id": "LB/WE18-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-11": {
     "name": "“青春の1ページ”理樹",
@@ -195,7 +205,8 @@
         "id": "LB/WE18-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-12": {
     "name": "頑張る鈴",
@@ -213,7 +224,8 @@
         "id": "LB/WE18-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE18-13": {
     "name": "世界の秘密",
@@ -231,7 +243,8 @@
         "id": "LB/WE18-13",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-14": {
     "name": "僕は、君たちと出会いたい。",
@@ -249,7 +262,8 @@
         "id": "LB/WE18-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE18-15": {
     "name": "あたしたちが付き合おう",
@@ -267,7 +281,8 @@
         "id": "LB/WE18-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LB/WE18-16": {
     "name": "“再会の言葉”佐々美",
@@ -289,7 +304,8 @@
         "id": "LB/WE18-16SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE18-17": {
     "name": "“お姉ちゃんっ子”葉留佳",
@@ -307,7 +323,8 @@
         "id": "LB/WE18-17",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-18": {
     "name": "“楽しい日常”鈴",
@@ -325,7 +342,8 @@
         "id": "LB/WE18-18",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-19": {
     "name": "“楽しい日常”クド",
@@ -343,7 +361,8 @@
         "id": "LB/WE18-19",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE18-20": {
     "name": "“今できること”鈴",
@@ -361,7 +380,8 @@
         "id": "LB/WE18-20",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE18-21": {
     "name": "“不滅の友情”謙吾",
@@ -379,7 +399,8 @@
         "id": "LB/WE18-21",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE18-22": {
     "name": "“恋の花火大会”理樹",
@@ -397,7 +418,8 @@
         "id": "LB/WE18-22",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE18-23": {
     "name": "“世界の外へ”クド",
@@ -415,7 +437,8 @@
         "id": "LB/WE18-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-24": {
     "name": "“几帳面”佐々美",
@@ -433,7 +456,8 @@
         "id": "LB/WE18-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-25": {
     "name": "“守るべきもの”謙吾",
@@ -451,7 +475,8 @@
         "id": "LB/WE18-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-26": {
     "name": "“世界の外へ”葉留佳",
@@ -469,7 +494,8 @@
         "id": "LB/WE18-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-27": {
     "name": "“みんなで一緒に”鈴",
@@ -487,7 +513,8 @@
         "id": "LB/WE18-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-28": {
     "name": "なくしたもの、みつけに。",
@@ -505,7 +532,8 @@
         "id": "LB/WE18-28",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-29": {
     "name": "“夢の続き”唯湖",
@@ -523,7 +551,8 @@
         "id": "LB/WE18-29",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE18-30": {
     "name": "“なんでもない日常”佳奈多",
@@ -541,7 +570,8 @@
         "id": "LB/WE18-30",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE18-31": {
     "name": "“世界の外へ”美魚",
@@ -559,7 +589,8 @@
         "id": "LB/WE18-31",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-32": {
     "name": "“永遠に続く夢”唯湖",
@@ -577,7 +608,8 @@
         "id": "LB/WE18-32",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE18-33": {
     "name": "“ホットケーキパーティー”唯湖",
@@ -595,7 +627,8 @@
         "id": "LB/WE18-33",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-34": {
     "name": "“暴走する最強”真人",
@@ -613,7 +646,8 @@
         "id": "LB/WE18-34",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-35": {
     "name": "“生真面目”佳奈多",
@@ -631,7 +665,8 @@
         "id": "LB/WE18-35",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-36": {
     "name": "“空っぽの感情”唯湖",
@@ -649,7 +684,8 @@
         "id": "LB/WE18-36",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-37": {
     "name": "“ホットケーキパーティー”美魚",
@@ -667,7 +703,8 @@
         "id": "LB/WE18-37",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE18-38": {
     "name": "“大切な親友”真人",
@@ -685,7 +722,8 @@
         "id": "LB/WE18-38",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE18-39": {
     "name": "ふたりのシフォンケーキ",
@@ -703,7 +741,8 @@
         "id": "LB/WE18-39",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-40": {
     "name": "忘れな草",
@@ -721,7 +760,8 @@
         "id": "LB/WE18-40",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-41": {
     "name": "“やさしい世界”沙耶",
@@ -739,7 +779,8 @@
         "id": "LB/WE18-41",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE18-42": {
     "name": "“最後の時間”沙耶",
@@ -757,7 +798,8 @@
         "id": "LB/WE18-42",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE18-43": {
     "name": "“繰り返す光景”沙耶",
@@ -775,7 +817,8 @@
         "id": "LB/WE18-43",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE18-44": {
     "name": "“戦場のパートナー”理樹＆沙耶",
@@ -793,7 +836,8 @@
         "id": "LB/WE18-44",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-45": {
     "name": "“闇の執行部部長”時風",
@@ -811,7 +855,8 @@
         "id": "LB/WE18-45",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-46": {
     "name": "“百戦錬磨”沙耶",
@@ -829,7 +874,8 @@
         "id": "LB/WE18-46",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE18-47": {
     "name": "“お調子者”あーちゃん先輩",
@@ -847,7 +893,8 @@
         "id": "LB/WE18-47",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-48": {
     "name": "入浴中の沙耶",
@@ -865,7 +912,8 @@
         "id": "LB/WE18-48",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-49": {
     "name": "息抜きタイム",
@@ -883,7 +931,8 @@
         "id": "LB/WE18-49",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE18-50": {
     "name": "最終決戦",
@@ -901,6 +950,7 @@
         "id": "LB/WE18-50",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

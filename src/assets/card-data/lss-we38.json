@@ -23,7 +23,8 @@
         "id": "LSS/WE38-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE38-005": {
     "name": "素敵な旅へご案内♪ 国木田 花丸",
@@ -49,7 +50,8 @@
         "id": "LSS/WE38-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE38-009": {
     "name": "素敵な旅へご案内♪ 黒澤 ルビィ",
@@ -75,7 +77,8 @@
         "id": "LSS/WE38-009SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE38-016": {
     "name": "素敵な旅へご案内♪ 桜内 梨子",
@@ -101,7 +104,8 @@
         "id": "LSS/WE38-016SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE38-018": {
     "name": "素敵な旅へご案内♪ 高海 千歌",
@@ -127,7 +131,8 @@
         "id": "LSS/WE38-018SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE38-019": {
     "name": "素敵な旅へご案内♪ 渡辺 曜",
@@ -153,7 +158,8 @@
         "id": "LSS/WE38-019SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE38-028": {
     "name": "素敵な旅へご案内♪ 松浦 果南",
@@ -179,7 +185,8 @@
         "id": "LSS/WE38-028SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE38-034": {
     "name": "素敵な旅へご案内♪ 小原 鞠莉",
@@ -205,7 +212,8 @@
         "id": "LSS/WE38-034SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE38-037": {
     "name": "素敵な旅へご案内♪ 黒澤 ダイヤ",
@@ -231,6 +239,7 @@
         "id": "LSS/WE38-037SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

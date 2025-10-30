@@ -15,7 +15,8 @@
         "id": "NK/W30-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-102": {
     "name": "ちび楽",
@@ -33,7 +34,8 @@
         "id": "NK/W30-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-103": {
     "name": "ちび誠士郎",
@@ -51,7 +53,8 @@
         "id": "NK/W30-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-104": {
     "name": "ちび万里花",
@@ -69,7 +72,8 @@
         "id": "NK/W30-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-105": {
     "name": "ちび小咲",
@@ -87,7 +91,8 @@
         "id": "NK/W30-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-106": {
     "name": "ちびるり",
@@ -105,7 +110,8 @@
         "id": "NK/W30-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-P01": {
     "name": "ナツイロ 千棘",
@@ -123,7 +129,8 @@
         "id": "NK/W30-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-P02": {
     "name": "ラブラブカップル！？ 千棘",
@@ -141,7 +148,8 @@
         "id": "NK/W30-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-P03": {
     "name": "楽と一緒！？ 小咲",
@@ -159,7 +167,8 @@
         "id": "NK/W30-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-P04": {
     "name": "最高のステージへ 千棘",
@@ -177,7 +186,8 @@
         "id": "NK/W30-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NK/W30-P05": {
     "name": "最高のステージへ 小咲",
@@ -195,7 +205,8 @@
         "id": "NK/W30-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-P06": {
     "name": "恋するミコサン",
@@ -213,7 +224,8 @@
         "id": "NK/W30-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-P07": {
     "name": "もみじがり 千棘",
@@ -231,7 +243,8 @@
         "id": "NK/W30-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-P08": {
     "name": "さくら色の季節 小咲",
@@ -249,7 +262,8 @@
         "id": "NK/W30-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-P09": {
     "name": "真夏のビーチ 誠士郎",
@@ -267,7 +281,8 @@
         "id": "NK/W30-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-P10": {
     "name": "聖夜の輝き 万里花",
@@ -285,7 +300,8 @@
         "id": "NK/W30-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-P11": {
     "name": "ナツイロ 小咲",
@@ -303,7 +319,8 @@
         "id": "NK/W30-P11",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NK/W30-P12": {
     "name": "甘いひととき 万里花",
@@ -321,7 +338,8 @@
         "id": "NK/W30-P12",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-P13": {
     "name": "気の合う二人 千棘＆小咲",
@@ -339,7 +357,8 @@
         "id": "NK/W30-P13",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-P14": {
     "name": "一緒にお風呂 千棘＆小咲＆万里花",
@@ -357,6 +376,7 @@
         "id": "NK/W30-P14",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

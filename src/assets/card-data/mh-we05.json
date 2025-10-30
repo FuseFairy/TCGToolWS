@@ -15,7 +15,8 @@
         "id": "MH/WE05-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MH/WE05-04": {
     "name": "“蒼天と海神”アリカ＆ニナ",
@@ -33,7 +34,8 @@
         "id": "MH/WE05-04",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MH/WE05-06": {
     "name": "アリッサ＆深優",
@@ -51,7 +53,8 @@
         "id": "MH/WE05-06",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MH/WE05-08": {
     "name": "雪之＆遥",
@@ -69,7 +72,8 @@
         "id": "MH/WE05-08",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MH/WE05-09": {
     "name": "舞衣＆なつき＆命",
@@ -87,7 +91,8 @@
         "id": "MH/WE05-09",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MH/WE05-12": {
     "name": "結城 奈緒",
@@ -105,7 +110,8 @@
         "id": "MH/WE05-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MH/WE05-13": {
     "name": "ハルカ＆アリカ",
@@ -123,7 +129,8 @@
         "id": "MH/WE05-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MH/WE05-14": {
     "name": "美袋 命",
@@ -141,7 +148,8 @@
         "id": "MH/WE05-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MH/WE05-15": {
     "name": "HiMEの力",
@@ -159,7 +167,8 @@
         "id": "MH/WE05-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MH/WE05-17": {
     "name": "杉浦 碧",
@@ -177,7 +186,8 @@
         "id": "MH/WE05-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MH/WE05-19": {
     "name": "鴇羽 舞衣",
@@ -195,7 +205,8 @@
         "id": "MH/WE05-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MH/WE05-20": {
     "name": "水着の舞衣＆命",
@@ -213,7 +224,8 @@
         "id": "MH/WE05-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MH/WE05-21": {
     "name": "玖我 なつき",
@@ -231,7 +243,8 @@
         "id": "MH/WE05-21",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MH/WE05-23": {
     "name": "藤乃 静留",
@@ -249,7 +262,8 @@
         "id": "MH/WE05-23",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MH/WE05-24": {
     "name": "水着のなつき",
@@ -267,6 +281,7 @@
         "id": "MH/WE05-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

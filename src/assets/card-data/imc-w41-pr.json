@@ -15,7 +15,8 @@
         "id": "IMC/W41-006PR",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-007": {
     "name": "十時 愛梨",
@@ -33,7 +34,8 @@
         "id": "IMC/W41-007PR",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-046": {
     "name": "小早川 紗枝",
@@ -51,7 +53,8 @@
         "id": "IMC/W41-046PR",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-049": {
     "name": "輿水 幸子",
@@ -69,7 +72,8 @@
         "id": "IMC/W41-049PR",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-088": {
     "name": "川島 瑞樹",
@@ -87,7 +91,8 @@
         "id": "IMC/W41-088PR",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-089": {
     "name": "高垣 楓",
@@ -105,7 +110,8 @@
         "id": "IMC/W41-089PR",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-P01": {
     "name": "夕映えプレゼント きらり",
@@ -123,7 +129,8 @@
         "id": "IMC/W41-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-P02": {
     "name": "夕映えプレゼント 杏",
@@ -141,7 +148,8 @@
         "id": "IMC/W41-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-P03": {
     "name": "夕映えプレゼント 凛",
@@ -159,7 +167,8 @@
         "id": "IMC/W41-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-P04": {
     "name": "なりたい自分に 蘭子",
@@ -177,7 +186,8 @@
         "id": "IMC/W41-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-P05": {
     "name": "夕映えプレゼント 未央＆李衣菜",
@@ -195,7 +205,8 @@
         "id": "IMC/W41-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-P06": {
     "name": "サマーアイドルフェス 小梅",
@@ -213,7 +224,8 @@
         "id": "IMC/W41-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-P07": {
     "name": "GOIN'!!!",
@@ -235,7 +247,8 @@
         "id": "IMC/W41-P07b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IMC/W41-P08": {
     "name": "GOIN'!!!",
@@ -257,7 +270,8 @@
         "id": "IMC/W41-P08b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IMC/W41-P09": {
     "name": "GOIN'!!!",
@@ -279,6 +293,7 @@
         "id": "IMC/W41-P09b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

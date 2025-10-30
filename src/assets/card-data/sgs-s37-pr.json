@@ -15,7 +15,8 @@
         "id": "SGS/S37-159",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-160": {
     "name": "SD天音",
@@ -33,7 +34,8 @@
         "id": "SGS/S37-160",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-161": {
     "name": "SDハヅキ",
@@ -51,7 +53,8 @@
         "id": "SGS/S37-161",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-162": {
     "name": "SD二穂",
@@ -69,7 +72,8 @@
         "id": "SGS/S37-162",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-163": {
     "name": "SDあおい",
@@ -87,7 +91,8 @@
         "id": "SGS/S37-163",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-P01": {
     "name": "特別任務！ 伊緒&悠水",
@@ -105,7 +110,8 @@
         "id": "SGS/S37-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-P02": {
     "name": "“桜吹雪の舞う頃に”美山 椿芽",
@@ -123,7 +129,8 @@
         "id": "SGS/S37-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-P03": {
     "name": "“桜の木の下で”伊緒＆まな",
@@ -141,7 +148,8 @@
         "id": "SGS/S37-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-P04": {
     "name": "“お花見”サトカ＆悠水",
@@ -159,7 +167,8 @@
         "id": "SGS/S37-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-P05": {
     "name": "バレンタイン大作戦",
@@ -177,7 +186,8 @@
         "id": "SGS/S37-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SGS/S37-P06": {
     "name": "“アルバイト”いつみ＆紗々",
@@ -195,7 +205,8 @@
         "id": "SGS/S37-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-P07": {
     "name": "“伝説の和菓子”夕依",
@@ -213,6 +224,7 @@
         "id": "SGS/S37-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

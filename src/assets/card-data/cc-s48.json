@@ -19,7 +19,8 @@
         "id": "CC/S48-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-002": {
     "name": "魔法兵団師団長 ヴェルナー",
@@ -41,7 +42,8 @@
         "id": "CC/S48-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-003": {
     "name": "三賢者 ファティマ",
@@ -59,7 +61,8 @@
         "id": "CC/S48-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-004": {
     "name": "生命の賢者 ディルマ",
@@ -81,7 +84,8 @@
         "id": "CC/S48-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-005": {
     "name": "黄金の魔女 ファティマ",
@@ -103,7 +107,8 @@
         "id": "CC/S48-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-006": {
     "name": "宿命の剣士 ハルアキ",
@@ -125,7 +130,8 @@
         "id": "CC/S48-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-007": {
     "name": "三賢者 メルティオール",
@@ -143,7 +149,8 @@
         "id": "CC/S48-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-008": {
     "name": "三賢者 ディルマ",
@@ -161,7 +168,8 @@
         "id": "CC/S48-008",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-009": {
     "name": "九領筆頭 シュザ",
@@ -183,7 +191,8 @@
         "id": "CC/S48-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-010": {
     "name": "第九領主 ツル",
@@ -205,7 +214,8 @@
         "id": "CC/S48-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-011": {
     "name": "力の賢者 メルティオール",
@@ -227,7 +237,8 @@
         "id": "CC/S48-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-012": {
     "name": "宿命の剣士 トウカ",
@@ -249,7 +260,8 @@
         "id": "CC/S48-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-013": {
     "name": "第二領主 ヨシツグ",
@@ -271,7 +283,8 @@
         "id": "CC/S48-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-014": {
     "name": "魔法兵団師団長 カティア",
@@ -293,7 +306,8 @@
         "id": "CC/S48-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-015": {
     "name": "九領を統べる鬼王 シュザ",
@@ -311,7 +325,8 @@
         "id": "CC/S48-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-016": {
     "name": "魔法兵団隊長 ユニ",
@@ -333,7 +348,8 @@
         "id": "CC/S48-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-017": {
     "name": "湖都の女王 アシュリナ",
@@ -351,7 +367,8 @@
         "id": "CC/S48-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-018": {
     "name": "魔法兵団隊長 クラウス",
@@ -369,7 +386,8 @@
         "id": "CC/S48-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-019": {
     "name": "若き師団長 カティア",
@@ -387,7 +405,8 @@
         "id": "CC/S48-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-020": {
     "name": "火妖精 ロロ",
@@ -405,7 +424,8 @@
         "id": "CC/S48-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-021": {
     "name": "女王の側近 ファラ",
@@ -423,7 +443,8 @@
         "id": "CC/S48-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-022": {
     "name": "鬼剣士 ハルアキ",
@@ -441,7 +462,8 @@
         "id": "CC/S48-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-023": {
     "name": "女王の懐刀 カリファ",
@@ -459,7 +481,8 @@
         "id": "CC/S48-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-024": {
     "name": "修羅の剣士 シドウ",
@@ -477,7 +500,8 @@
         "id": "CC/S48-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-025": {
     "name": "炎の刻印者 ヴェルナー",
@@ -495,7 +519,8 @@
         "id": "CC/S48-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-026": {
     "name": "氷の刻印者 ユニ",
@@ -513,7 +538,8 @@
         "id": "CC/S48-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-027": {
     "name": "修羅の血 ヨシツグ",
@@ -531,7 +557,8 @@
         "id": "CC/S48-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-028": {
     "name": "闇を引き裂く刃 方舟",
@@ -549,7 +576,8 @@
         "id": "CC/S48-028",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-029": {
     "name": "爆ぜろぉ！！",
@@ -571,7 +599,8 @@
         "id": "CC/S48-029R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-030": {
     "name": "新たな光を生むために",
@@ -589,7 +618,8 @@
         "id": "CC/S48-030",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CC/S48-031": {
     "name": "強さこそが至上",
@@ -607,7 +637,8 @@
         "id": "CC/S48-031",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-032": {
     "name": "不敵な笑み 黒の王",
@@ -625,7 +656,8 @@
         "id": "CC/S48-032",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-033": {
     "name": "黒の軍勢 エイレヌス",
@@ -643,7 +675,8 @@
         "id": "CC/S48-033",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-034": {
     "name": "破壊の魔神 エイレヌス",
@@ -661,7 +694,8 @@
         "id": "CC/S48-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-035": {
     "name": "深淵の闇 黒騎士",
@@ -679,7 +713,8 @@
         "id": "CC/S48-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-036": {
     "name": "黒に染める王 黒の王",
@@ -697,7 +732,8 @@
         "id": "CC/S48-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-037": {
     "name": "夕闇の中で 黒騎士",
@@ -715,7 +751,8 @@
         "id": "CC/S48-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-038": {
     "name": "魔神 ブルクハルト",
@@ -733,7 +770,8 @@
         "id": "CC/S48-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-039": {
     "name": "黒の兵士",
@@ -751,7 +789,8 @@
         "id": "CC/S48-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-040": {
     "name": "古のゴーレム オルツァーダ",
@@ -769,7 +808,8 @@
         "id": "CC/S48-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-041": {
     "name": "黒の軍勢 ブルクハルト",
@@ -787,7 +827,8 @@
         "id": "CC/S48-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-042": {
     "name": "黒の軍勢 黒の兵士",
@@ -805,7 +846,8 @@
         "id": "CC/S48-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-043": {
     "name": "乱れ飛ぶ刃 オルツァーダ",
@@ -823,7 +865,8 @@
         "id": "CC/S48-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-044": {
     "name": "魔神襲来",
@@ -841,7 +884,8 @@
         "id": "CC/S48-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-045": {
     "name": "黒化の力",
@@ -859,7 +903,8 @@
         "id": "CC/S48-045",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-046": {
     "name": "全ては黒に染まる",
@@ -881,7 +926,8 @@
         "id": "CC/S48-046R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CC/S48-047": {
     "name": "希望の光 ピリカ",
@@ -903,7 +949,8 @@
         "id": "CC/S48-047SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-048": {
     "name": "共に生き、共に戦い フィーナ",
@@ -925,7 +972,8 @@
         "id": "CC/S48-048SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-049": {
     "name": "光を掴む！ ユーリ",
@@ -947,7 +995,8 @@
         "id": "CC/S48-049SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-050": {
     "name": "新たな可能性 アラム",
@@ -969,7 +1018,8 @@
         "id": "CC/S48-050SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-051": {
     "name": "鎖を断ち切る ユーリ",
@@ -987,7 +1037,8 @@
         "id": "CC/S48-051",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-052": {
     "name": "熱血武器商人 ダスティ",
@@ -1005,7 +1056,8 @@
         "id": "CC/S48-052",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-053": {
     "name": "善良なる傭兵 カイン",
@@ -1027,7 +1079,8 @@
         "id": "CC/S48-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-054": {
     "name": "熱き癒し手 マリナ",
@@ -1049,7 +1102,8 @@
         "id": "CC/S48-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-055": {
     "name": "闇から光へ ユーリ",
@@ -1071,7 +1125,8 @@
         "id": "CC/S48-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-056": {
     "name": "仲間の絆 アラム",
@@ -1089,7 +1144,8 @@
         "id": "CC/S48-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-057": {
     "name": "絆の力 ピリカ",
@@ -1107,7 +1163,8 @@
         "id": "CC/S48-057",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-058": {
     "name": "祈りは力に フィーナ",
@@ -1125,7 +1182,8 @@
         "id": "CC/S48-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-059": {
     "name": "万象の魔導師 アルドラ",
@@ -1147,7 +1205,8 @@
         "id": "CC/S48-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-060": {
     "name": "白きマナ アラム",
@@ -1165,7 +1224,8 @@
         "id": "CC/S48-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-061": {
     "name": "頼れる弓兵 ミシディア",
@@ -1187,7 +1247,8 @@
         "id": "CC/S48-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-062": {
     "name": "ギルド同盟議会議長 ギルバート",
@@ -1205,7 +1266,8 @@
         "id": "CC/S48-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-063": {
     "name": "弓使い ミシディア",
@@ -1223,7 +1285,8 @@
         "id": "CC/S48-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-064": {
     "name": "優秀な補佐役 セリーヌ",
@@ -1241,7 +1304,8 @@
         "id": "CC/S48-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-065": {
     "name": "副都の武器商人 ダスティ",
@@ -1259,7 +1323,8 @@
         "id": "CC/S48-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-066": {
     "name": "癒しの魔法 マリナ",
@@ -1277,7 +1342,8 @@
         "id": "CC/S48-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-067": {
     "name": "戦士ギルド長 シルヴァ",
@@ -1295,7 +1361,8 @@
         "id": "CC/S48-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-068": {
     "name": "ギルド同盟副議長 セリーヌ",
@@ -1313,7 +1380,8 @@
         "id": "CC/S48-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-069": {
     "name": "信じた者のために カイン",
@@ -1331,7 +1399,8 @@
         "id": "CC/S48-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-070": {
     "name": "魔導ギルド長 アルドラ",
@@ -1349,7 +1418,8 @@
         "id": "CC/S48-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-071": {
     "name": "“龍殺し” ヴォルグ",
@@ -1367,7 +1437,8 @@
         "id": "CC/S48-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-072": {
     "name": "ピリカの声",
@@ -1385,7 +1456,8 @@
         "id": "CC/S48-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-073": {
     "name": "守護竜の咆哮",
@@ -1403,7 +1475,8 @@
         "id": "CC/S48-073",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-074": {
     "name": "闇を凌駕する光",
@@ -1425,7 +1498,8 @@
         "id": "CC/S48-074R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-075": {
     "name": "闇に差す光",
@@ -1447,7 +1521,8 @@
         "id": "CC/S48-075R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-076": {
     "name": "チェインクロニクルの力",
@@ -1469,7 +1544,8 @@
         "id": "CC/S48-076R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CC/S48-077": {
     "name": "聖王 ユリアナ",
@@ -1491,7 +1567,8 @@
         "id": "CC/S48-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-078": {
     "name": "殺戮の剣聖 テレサ",
@@ -1513,7 +1590,8 @@
         "id": "CC/S48-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-079": {
     "name": "魔法の歌声 ムジカ",
@@ -1531,7 +1609,8 @@
         "id": "CC/S48-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-080": {
     "name": "王都奪還へ ユリアナ",
@@ -1549,7 +1628,8 @@
         "id": "CC/S48-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-081": {
     "name": "聖王を守る刃 アインスロット",
@@ -1567,7 +1647,8 @@
         "id": "CC/S48-081",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-082": {
     "name": "救世の聖女 リリス",
@@ -1589,7 +1670,8 @@
         "id": "CC/S48-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-083": {
     "name": "天性の剣技 テレサ",
@@ -1607,7 +1689,8 @@
         "id": "CC/S48-083",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-084": {
     "name": "千河の指揮官 ビエンタ",
@@ -1629,7 +1712,8 @@
         "id": "CC/S48-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-085": {
     "name": "“聖剣”騎士団団長 アインスロット",
@@ -1651,7 +1735,8 @@
         "id": "CC/S48-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-086": {
     "name": "伝説の歌姫 ムジカ",
@@ -1673,7 +1758,8 @@
         "id": "CC/S48-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-087": {
     "name": "聖王女の侍女 ルイーゼ",
@@ -1695,7 +1781,8 @@
         "id": "CC/S48-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-088": {
     "name": "年代記の力 ユグド",
@@ -1713,7 +1800,8 @@
         "id": "CC/S48-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-089": {
     "name": "幼き聖女の祈り リリス",
@@ -1731,7 +1819,8 @@
         "id": "CC/S48-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-090": {
     "name": "“聖域”騎士団 ウェイン",
@@ -1749,7 +1838,8 @@
         "id": "CC/S48-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-091": {
     "name": "影武者 ルイーゼ",
@@ -1767,7 +1857,8 @@
         "id": "CC/S48-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-092": {
     "name": "父娘の絆 ビエンタ",
@@ -1785,7 +1876,8 @@
         "id": "CC/S48-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-093": {
     "name": "千河の氏族長 ラファーガ",
@@ -1803,7 +1895,8 @@
         "id": "CC/S48-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-094": {
     "name": "渾身の一撃 ユリアナ",
@@ -1821,7 +1914,8 @@
         "id": "CC/S48-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-095": {
     "name": "“聖剣”騎士団 アレス",
@@ -1839,7 +1933,8 @@
         "id": "CC/S48-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-096": {
     "name": "“聖典”騎士団 ローエンディア",
@@ -1857,7 +1952,8 @@
         "id": "CC/S48-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-097": {
     "name": "王となる決意",
@@ -1875,7 +1971,8 @@
         "id": "CC/S48-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-098": {
     "name": "その心に希望の光を！",
@@ -1897,7 +1994,8 @@
         "id": "CC/S48-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CC/S48-099": {
     "name": "浄化の歌",
@@ -1915,7 +2013,8 @@
         "id": "CC/S48-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CC/S48-100": {
     "name": "次はキミだ！",
@@ -1933,6 +2032,7 @@
         "id": "CC/S48-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

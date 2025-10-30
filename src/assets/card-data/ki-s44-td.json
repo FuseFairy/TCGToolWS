@@ -15,7 +15,8 @@
         "id": "KI/S44-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-T02": {
     "name": "SD由多",
@@ -33,7 +34,8 @@
         "id": "KI/S44-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-T03": {
     "name": "SD仁子",
@@ -51,7 +53,8 @@
         "id": "KI/S44-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-T04": {
     "name": "不思議な儀式 仁子",
@@ -69,7 +72,8 @@
         "id": "KI/S44-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-T05": {
     "name": "侮蔑の一瞥 穂乃香",
@@ -87,7 +91,8 @@
         "id": "KI/S44-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-T06": {
     "name": "お灸をすえる天河",
@@ -105,7 +110,8 @@
         "id": "KI/S44-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-T07": {
     "name": "SD穂乃香",
@@ -123,7 +129,8 @@
         "id": "KI/S44-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-T08": {
     "name": "SDゴモリン",
@@ -141,7 +148,8 @@
         "id": "KI/S44-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-T09": {
     "name": "プレイボーイ 由多",
@@ -159,7 +167,8 @@
         "id": "KI/S44-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-T10": {
     "name": "現金な味方",
@@ -177,7 +186,8 @@
         "id": "KI/S44-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-T11": {
     "name": "“独善ウザ”千鳥",
@@ -195,7 +205,8 @@
         "id": "KI/S44-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-T12": {
     "name": "静かな佇まい 園崎",
@@ -213,7 +224,8 @@
         "id": "KI/S44-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-T13": {
     "name": "心の闇 勝平",
@@ -231,7 +243,8 @@
         "id": "KI/S44-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-T14": {
     "name": "沈痛な怒り 千鳥",
@@ -249,7 +262,8 @@
         "id": "KI/S44-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-T15": {
     "name": "SD日染",
@@ -267,7 +281,8 @@
         "id": "KI/S44-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-T16": {
     "name": "計画の先導者 園崎",
@@ -285,7 +300,8 @@
         "id": "KI/S44-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-T17": {
     "name": "謎の7人目 日染",
@@ -303,7 +319,8 @@
         "id": "KI/S44-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-T18": {
     "name": "“愚鈍”勝平",
@@ -321,7 +338,8 @@
         "id": "KI/S44-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-T19": {
     "name": "mission : 自己紹介",
@@ -339,7 +357,8 @@
         "id": "KI/S44-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-T20": {
     "name": "重すぎる私",
@@ -357,7 +376,8 @@
         "id": "KI/S44-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-T21": {
     "name": "洲籠市キズナ計画",
@@ -375,6 +395,7 @@
         "id": "KI/S44-T21",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

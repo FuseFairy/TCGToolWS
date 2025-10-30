@@ -15,7 +15,8 @@
         "id": "SR/SE25-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-P02": {
     "name": "ある夏の日 キリカ",
@@ -33,6 +34,7 @@
         "id": "SR/SE25-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

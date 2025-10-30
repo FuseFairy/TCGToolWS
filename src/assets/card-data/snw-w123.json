@@ -23,7 +23,8 @@
         "id": "Snw/W123-104SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Snw/W123-108": {
     "name": "ノブレス・オブリージュ 那佳",
@@ -49,7 +50,8 @@
         "id": "Snw/W123-108SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Snw/W123-111": {
     "name": "ノブレス・オブリージュ ロザリー",
@@ -75,7 +77,8 @@
         "id": "Snw/W123-111SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Snw/W123-121": {
     "name": "ノブレス・オブリージュ イザベル",
@@ -97,7 +100,8 @@
         "id": "Snw/W123-121S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Snw/W123-122": {
     "name": "ノブレス・オブリージュ アドリアーナ",
@@ -119,6 +123,7 @@
         "id": "Snw/W123-122S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

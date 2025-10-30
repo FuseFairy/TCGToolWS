@@ -23,7 +23,8 @@
         "id": "LHS/W122-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LHS/W122-P02": {
     "name": "H.S.C.T.☆ 日野下 花帆",
@@ -45,7 +46,8 @@
         "id": "LHS/W122-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LHS/W122-P03": {
     "name": "紅葉乃舞姫 日野下 花帆",
@@ -63,6 +65,7 @@
         "id": "LHS/W122-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

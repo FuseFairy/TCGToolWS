@@ -15,7 +15,8 @@
         "id": "RN/W16-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-107": {
     "name": "ボルトヴァリアン",
@@ -33,7 +34,8 @@
         "id": "RN/W16-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-108": {
     "name": "スナイデル",
@@ -51,7 +53,8 @@
         "id": "RN/W16-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-109": {
     "name": "スティングーマ",
@@ -69,7 +72,8 @@
         "id": "RN/W16-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-P01": {
     "name": "機動バトラー ガンヴァレル",
@@ -87,7 +91,8 @@
         "id": "RN/W16-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-P02": {
     "name": "放課後のあき穂",
@@ -105,7 +110,8 @@
         "id": "RN/W16-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-P03": {
     "name": "放課後のフラウ＆淳和＆昴",
@@ -123,7 +129,8 @@
         "id": "RN/W16-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-P04": {
     "name": "父へのお願い あき穂",
@@ -141,6 +148,7 @@
         "id": "RN/W16-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

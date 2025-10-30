@@ -23,7 +23,8 @@
         "id": "Sdy/W123-030SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sdy/W123-031": {
     "name": "聖女マリア",
@@ -49,7 +50,8 @@
         "id": "Sdy/W123-031SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sdy/W123-040": {
     "name": "勇者アレス",
@@ -75,7 +77,8 @@
         "id": "Sdy/W123-040SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Sdy/W123-049": {
     "name": "賢者ソロン",
@@ -97,7 +100,8 @@
         "id": "Sdy/W123-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sdy/W123-055": {
     "name": "剣聖レオン",
@@ -119,6 +123,7 @@
         "id": "Sdy/W123-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

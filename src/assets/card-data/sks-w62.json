@@ -19,7 +19,8 @@
         "id": "Sks/W62-002SBR",
         "rarity": "SBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Sks/W62-004": {
     "name": "ベルゼルグ王国第一王女 アイリス",
@@ -37,7 +38,8 @@
         "id": "Sks/W62-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sks/W62-007": {
     "name": "ダスティネス家の令嬢 ダクネス",
@@ -59,7 +61,8 @@
         "id": "Sks/W62-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sks/W62-012": {
     "name": "盗賊クリス",
@@ -77,7 +80,8 @@
         "id": "Sks/W62-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sks/W62-023": {
     "name": "ド変態クルセイダー ダクネス",
@@ -95,7 +99,8 @@
         "id": "Sks/W62-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Sks/W62-027": {
     "name": "アイリスの頼み",
@@ -117,7 +122,8 @@
         "id": "Sks/W62-027R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Sks/W62-049": {
     "name": "紅魔族一の天才 めぐみん",
@@ -139,7 +145,8 @@
         "id": "Sks/W62-049SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sks/W62-053": {
     "name": "“さらなる高みへ”めぐみん",
@@ -161,7 +168,8 @@
         "id": "Sks/W62-053SBR",
         "rarity": "SBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sks/W62-060": {
     "name": "紅魔族族長の娘 ゆんゆん",
@@ -183,7 +191,8 @@
         "id": "Sks/W62-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sks/W62-062": {
     "name": "放蕩店主 ウィズ",
@@ -201,7 +210,8 @@
         "id": "Sks/W62-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Sks/W62-064": {
     "name": "ライバル関係 めぐみん＆ゆんゆん",
@@ -219,7 +229,8 @@
         "id": "Sks/W62-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Sks/W62-067": {
     "name": "蒼き稲妻を背負う者 ゆんゆん",
@@ -237,7 +248,8 @@
         "id": "Sks/W62-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sks/W62-084": {
     "name": "アークプリースト アクア",
@@ -259,7 +271,8 @@
         "id": "Sks/W62-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sks/W62-089": {
     "name": "本物の女神 エリス",
@@ -277,7 +290,8 @@
         "id": "Sks/W62-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sks/W62-099": {
     "name": "メイド服のアクア",
@@ -295,6 +309,7 @@
         "id": "Sks/W62-099",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

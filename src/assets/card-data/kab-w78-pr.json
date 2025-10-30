@@ -19,7 +19,8 @@
         "id": "Kab/W78-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W78-P06": {
     "name": "Angel Beats! ゆり&かなで",
@@ -37,7 +38,8 @@
         "id": "Kab/W78-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kab/W78-122": {
     "name": "神への復讐 ユイ",
@@ -55,6 +57,7 @@
         "id": "Kab/W78-122",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

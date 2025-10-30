@@ -15,7 +15,8 @@
         "id": "SS/WE15-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SS/WE15-02": {
     "name": "囚われのシャナ",
@@ -33,7 +34,8 @@
         "id": "SS/WE15-02",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/WE15-03": {
     "name": "ネコミミ 一美",
@@ -51,7 +53,8 @@
         "id": "SS/WE15-03",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/WE15-04": {
     "name": "揺れる想い 一美",
@@ -69,7 +72,8 @@
         "id": "SS/WE15-04",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/WE15-05": {
     "name": "逃げない勇気 一美",
@@ -87,7 +91,8 @@
         "id": "SS/WE15-05",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/WE15-06": {
     "name": "成長の鍵 シャナ",
@@ -105,7 +110,8 @@
         "id": "SS/WE15-06",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/WE15-07": {
     "name": "一流の自在師 マージョリー",
@@ -123,7 +129,8 @@
         "id": "SS/WE15-07",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/WE15-08": {
     "name": "この刃に懸けて シャナ",
@@ -141,7 +148,8 @@
         "id": "SS/WE15-08",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/WE15-09": {
     "name": "最終決戦 マージョリー",
@@ -159,7 +167,8 @@
         "id": "SS/WE15-09",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/WE15-10": {
     "name": "“ペルソナ”装着 ヴィルヘルミナ",
@@ -177,7 +186,8 @@
         "id": "SS/WE15-10",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SS/WE15-11": {
     "name": "愛がすべて シャナ",
@@ -195,7 +205,8 @@
         "id": "SS/WE15-11",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SS/WE15-12": {
     "name": "悠二と歩む道 シャナ",
@@ -213,7 +224,8 @@
         "id": "SS/WE15-12",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SS/WE15-13": {
     "name": "最強の自在法 シャナ",
@@ -231,7 +243,8 @@
         "id": "SS/WE15-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/WE15-14": {
     "name": "使命の為に ヴィルヘルミナ",
@@ -249,7 +262,8 @@
         "id": "SS/WE15-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/WE15-15": {
     "name": "『鬼功の繰り手』サーレ・ハビヒツブルグ",
@@ -267,7 +281,8 @@
         "id": "SS/WE15-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/WE15-16": {
     "name": "揺るがぬ心 シャナ",
@@ -285,7 +300,8 @@
         "id": "SS/WE15-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/WE15-17": {
     "name": "『輝爍の撒き手』レベッカ・リード",
@@ -303,7 +319,8 @@
         "id": "SS/WE15-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/WE15-18": {
     "name": "乾坤一擲 シャナ",
@@ -321,7 +338,8 @@
         "id": "SS/WE15-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/WE15-19": {
     "name": "闘争の渦 シャナ",
@@ -339,7 +357,8 @@
         "id": "SS/WE15-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/WE15-20": {
     "name": "『調律師』カムシン・ネブハーウ",
@@ -357,7 +376,8 @@
         "id": "SS/WE15-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SS/WE15-21": {
     "name": "『極光の射手』キアラ・トスカナ",
@@ -375,7 +395,8 @@
         "id": "SS/WE15-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/WE15-22": {
     "name": "理屈と気持ち シャナ",
@@ -393,7 +414,8 @@
         "id": "SS/WE15-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SS/WE15-23": {
     "name": "『震威の結い手』ゾフィー・サバリッシュ",
@@ -411,7 +433,8 @@
         "id": "SS/WE15-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SS/WE15-24": {
     "name": "新世界へ",
@@ -429,7 +452,8 @@
         "id": "SS/WE15-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/WE15-25": {
     "name": "ぶつかる想い",
@@ -447,7 +471,8 @@
         "id": "SS/WE15-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SS/WE15-26": {
     "name": "『巫女』ヘカテー",
@@ -465,7 +490,8 @@
         "id": "SS/WE15-26",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/WE15-27": {
     "name": "『参謀』ベルペオル",
@@ -483,7 +509,8 @@
         "id": "SS/WE15-27",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/WE15-28": {
     "name": "創造神“祭礼の蛇”",
@@ -501,7 +528,8 @@
         "id": "SS/WE15-28",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SS/WE15-29": {
     "name": "神威召還 ヘカテー",
@@ -519,7 +547,8 @@
         "id": "SS/WE15-29",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SS/WE15-30": {
     "name": "別れの哀愁 シュドナイ",
@@ -537,7 +566,8 @@
         "id": "SS/WE15-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/WE15-31": {
     "name": "確かな存在 悠二",
@@ -555,7 +585,8 @@
         "id": "SS/WE15-31",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/WE15-32": {
     "name": "理屈と気持ち 悠二",
@@ -573,7 +604,8 @@
         "id": "SS/WE15-32",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/WE15-33": {
     "name": "神算鬼謀 ベルペオル",
@@ -591,7 +623,8 @@
         "id": "SS/WE15-33",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SS/WE15-34": {
     "name": "幾万の願いの結晶 ヘカテー",
@@ -609,7 +642,8 @@
         "id": "SS/WE15-34",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SS/WE15-35": {
     "name": "『将軍』シュドナイ",
@@ -627,7 +661,8 @@
         "id": "SS/WE15-35",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SS/WE15-36": {
     "name": "次の願いの結実まで",
@@ -645,6 +680,7 @@
         "id": "SS/WE15-36",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

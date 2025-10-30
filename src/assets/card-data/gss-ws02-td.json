@@ -19,7 +19,8 @@
         "id": "Gss/WS02-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gss/WS02-T07": {
     "name": "譲れない覚悟 シャナ",
@@ -41,7 +42,8 @@
         "id": "Gss/WS02-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gss/WS02-T09": {
     "name": "カリカリモフモフメロンパン",
@@ -63,6 +65,7 @@
         "id": "Gss/WS02-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

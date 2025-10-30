@@ -23,7 +23,8 @@
         "id": "DDD/S118-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-002": {
     "name": "オカルティックな日常 オカルン",
@@ -49,7 +50,8 @@
         "id": "DDD/S118-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-003": {
     "name": "本気の一撃 オカルン",
@@ -79,7 +81,8 @@
         "id": "DDD/S118-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-004": {
     "name": "オカルト大発見！ オカルン",
@@ -105,7 +108,8 @@
         "id": "DDD/S118-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-005": {
     "name": "ポンピー オカルン",
@@ -127,7 +131,8 @@
         "id": "DDD/S118-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-006": {
     "name": "怪異 ターボババア",
@@ -153,7 +158,8 @@
         "id": "DDD/S118-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-007": {
     "name": "隠しごと オカルン",
@@ -175,7 +181,8 @@
         "id": "DDD/S118-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-008": {
     "name": "執念の追撃 オカルン",
@@ -201,7 +208,8 @@
         "id": "DDD/S118-008SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-009": {
     "name": "本気の追撃 オカルン",
@@ -227,7 +235,8 @@
         "id": "DDD/S118-009SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-010": {
     "name": "服よりも大事なモン オカルン",
@@ -249,7 +258,8 @@
         "id": "DDD/S118-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-011": {
     "name": "オカルンの落書き ターボババア",
@@ -271,7 +281,8 @@
         "id": "DDD/S118-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-012": {
     "name": "複雑な気持ち オカルン",
@@ -293,7 +304,8 @@
         "id": "DDD/S118-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-013": {
     "name": "昼休みの作戦会議 オカルン",
@@ -315,7 +327,8 @@
         "id": "DDD/S118-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-014": {
     "name": "朝のあいさつがしたい！ オカルン",
@@ -337,7 +350,8 @@
         "id": "DDD/S118-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-015": {
     "name": "また明日って言いたい！ オカルン",
@@ -359,7 +373,8 @@
         "id": "DDD/S118-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-016": {
     "name": "食べ物の恨み オカルン",
@@ -381,7 +396,8 @@
         "id": "DDD/S118-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-017": {
     "name": "神聖な玉!?",
@@ -403,7 +419,8 @@
         "id": "DDD/S118-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-018": {
     "name": "オカルトは日常に潜む",
@@ -425,7 +442,8 @@
         "id": "DDD/S118-018R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-019": {
     "name": "オカルト世界",
@@ -451,7 +469,8 @@
         "id": "DDD/S118-019R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-020": {
     "name": "オカルト好き男子高校生",
@@ -473,7 +492,8 @@
         "id": "DDD/S118-020R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DDD/S118-021": {
     "name": "優しさに包まれた美少女 アイラ",
@@ -499,7 +519,8 @@
         "id": "DDD/S118-021SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-022": {
     "name": "私は選ばれたんだから アイラ",
@@ -525,7 +546,8 @@
         "id": "DDD/S118-022SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-023": {
     "name": "アクロバティック美少女 アイラ",
@@ -555,7 +577,8 @@
         "id": "DDD/S118-023SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-024": {
     "name": "恋愛ベタの美少女 アイラ",
@@ -581,7 +604,8 @@
         "id": "DDD/S118-024SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-025": {
     "name": "あなたを守る誓い アクロバティックさらさら",
@@ -607,7 +631,8 @@
         "id": "DDD/S118-025SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-026": {
     "name": "TVアニメ『ダンダダン』 アイラ",
@@ -633,7 +658,8 @@
         "id": "DDD/S118-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-027": {
     "name": "アクロバティックさらさら",
@@ -659,7 +685,8 @@
         "id": "DDD/S118-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-028": {
     "name": "美少女の眼差し アイラ",
@@ -681,7 +708,8 @@
         "id": "DDD/S118-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-029": {
     "name": "とある計画 アイラ",
@@ -703,7 +731,8 @@
         "id": "DDD/S118-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-030": {
     "name": "美少女がやってきた アイラ",
@@ -725,7 +754,8 @@
         "id": "DDD/S118-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-031": {
     "name": "歪んだ愛 アクロバティックさらさら",
@@ -747,7 +777,8 @@
         "id": "DDD/S118-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-032": {
     "name": "心強い味方！ 女王先生",
@@ -769,7 +800,8 @@
         "id": "DDD/S118-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-033": {
     "name": "抜かりない美少女 アイラ",
@@ -791,7 +823,8 @@
         "id": "DDD/S118-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-034": {
     "name": "宿命を背負う美少女 アイラ",
@@ -813,7 +846,8 @@
         "id": "DDD/S118-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-035": {
     "name": "マンモスうれぴー アイラ",
@@ -835,7 +869,8 @@
         "id": "DDD/S118-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-036": {
     "name": "カワイイだけじゃない美少女 アイラ",
@@ -857,7 +892,8 @@
         "id": "DDD/S118-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-037": {
     "name": "お婚約お前提 アイラ",
@@ -879,7 +915,8 @@
         "id": "DDD/S118-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-038": {
     "name": "お父さんの書斎 アイラ",
@@ -901,7 +938,8 @@
         "id": "DDD/S118-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-039": {
     "name": "オカルンの落書き アクロバティックさらさら",
@@ -923,7 +961,8 @@
         "id": "DDD/S118-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-040": {
     "name": "責任の所在 アイラ",
@@ -945,7 +984,8 @@
         "id": "DDD/S118-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-041": {
     "name": "優しい世界へ",
@@ -971,7 +1011,8 @@
         "id": "DDD/S118-041SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-042": {
     "name": "天から授かりし金の玉",
@@ -993,7 +1034,8 @@
         "id": "DDD/S118-042R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-043": {
     "name": "美少女戦士の肩書き",
@@ -1019,7 +1061,8 @@
         "id": "DDD/S118-043R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-044": {
     "name": "ボンクラどもにも笑顔",
@@ -1041,7 +1084,8 @@
         "id": "DDD/S118-044R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DDD/S118-045": {
     "name": "らしくないじゃん モモ",
@@ -1067,7 +1111,8 @@
         "id": "DDD/S118-045SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-046": {
     "name": "クリティカルヒット!!! モモ",
@@ -1093,7 +1138,8 @@
         "id": "DDD/S118-046SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-047": {
     "name": "凄腕の霊媒師 星子",
@@ -1119,7 +1165,8 @@
         "id": "DDD/S118-047SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-048": {
     "name": "開花した超能力 モモ",
@@ -1149,7 +1196,8 @@
         "id": "DDD/S118-048SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-049": {
     "name": "逆転の一手 モモ",
@@ -1175,7 +1223,8 @@
         "id": "DDD/S118-049SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-050": {
     "name": "ピース&スマイル モモ",
@@ -1201,7 +1250,8 @@
         "id": "DDD/S118-050SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-051": {
     "name": "勝算 モモ",
@@ -1223,7 +1273,8 @@
         "id": "DDD/S118-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-052": {
     "name": "私服 モモ",
@@ -1249,7 +1300,8 @@
         "id": "DDD/S118-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-053": {
     "name": "TVアニメ『ダンダダン』 モモ",
@@ -1275,7 +1327,8 @@
         "id": "DDD/S118-053SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-054": {
     "name": "それよりもいい方法 モモ",
@@ -1297,7 +1350,8 @@
         "id": "DDD/S118-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-055": {
     "name": "主導権はワシにある ターボババア",
@@ -1319,7 +1373,8 @@
         "id": "DDD/S118-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-056": {
     "name": "モモの友達 ムーコ",
@@ -1341,7 +1396,8 @@
         "id": "DDD/S118-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-057": {
     "name": "クズしかいねえのかこの世は モモ",
@@ -1363,7 +1419,8 @@
         "id": "DDD/S118-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-058": {
     "name": "タマの手がかり モモ",
@@ -1385,7 +1442,8 @@
         "id": "DDD/S118-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-059": {
     "name": "キャンパスライフ ターボババア",
@@ -1407,7 +1465,8 @@
         "id": "DDD/S118-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-060": {
     "name": "すばらしい友達 モモ",
@@ -1429,7 +1488,8 @@
         "id": "DDD/S118-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-061": {
     "name": "お仕置き 女王先生",
@@ -1451,7 +1511,8 @@
         "id": "DDD/S118-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-062": {
     "name": "ウチの婆ちゃん霊・媒・師！ 星子",
@@ -1473,7 +1534,8 @@
         "id": "DDD/S118-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-063": {
     "name": "あんたのオーラで モモ",
@@ -1495,7 +1557,8 @@
         "id": "DDD/S118-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-064": {
     "name": "しまっていこーぜ ターボババア",
@@ -1517,7 +1580,8 @@
         "id": "DDD/S118-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-065": {
     "name": "ルール違反じゃねえのかよ!! モモ",
@@ -1539,7 +1603,8 @@
         "id": "DDD/S118-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-066": {
     "name": "最後の伝手 星子",
@@ -1561,7 +1626,8 @@
         "id": "DDD/S118-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-067": {
     "name": "不意打ちの笑顔 モモ",
@@ -1583,7 +1649,8 @@
         "id": "DDD/S118-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-068": {
     "name": "モモの友達 ミーコ",
@@ -1605,7 +1672,8 @@
         "id": "DDD/S118-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-069": {
     "name": "カニ食べたくね モモ",
@@ -1627,7 +1695,8 @@
         "id": "DDD/S118-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-070": {
     "name": "幽霊を信じる理由 モモ",
@@ -1649,7 +1718,8 @@
         "id": "DDD/S118-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-071": {
     "name": "まさかの事実 星子",
@@ -1671,7 +1741,8 @@
         "id": "DDD/S118-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-072": {
     "name": "ダンスの時間 ターボババア",
@@ -1693,7 +1764,8 @@
         "id": "DDD/S118-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-073": {
     "name": "でもこの勝負は モモ",
@@ -1715,7 +1787,8 @@
         "id": "DDD/S118-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-074": {
     "name": "“チャクラ”が開かれる！",
@@ -1737,7 +1810,8 @@
         "id": "DDD/S118-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-075": {
     "name": "終わらないオカルトと青春",
@@ -1763,7 +1837,8 @@
         "id": "DDD/S118-075SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-076": {
     "name": "超能力者は女子高生",
@@ -1789,7 +1864,8 @@
         "id": "DDD/S118-076R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-077": {
     "name": "オカルティックな女子高校生",
@@ -1811,7 +1887,8 @@
         "id": "DDD/S118-077R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-078": {
     "name": "ターボババアと優しい雨",
@@ -1833,7 +1910,8 @@
         "id": "DDD/S118-078R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-079": {
     "name": "パイセンめっちゃ速かったっすよ",
@@ -1855,7 +1933,8 @@
         "id": "DDD/S118-079R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-080": {
     "name": "TVアニメ『ダンダダン』 ジジ",
@@ -1877,7 +1956,8 @@
         "id": "DDD/S118-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-081": {
     "name": "オカルティック鬼ごっこ オカルン",
@@ -1899,7 +1979,8 @@
         "id": "DDD/S118-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-082": {
     "name": "呪いの家へレッツゴー モモ",
@@ -1921,7 +2002,8 @@
         "id": "DDD/S118-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-083": {
     "name": "約束 ドーバーデーモン",
@@ -1943,7 +2025,8 @@
         "id": "DDD/S118-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-084": {
     "name": "トンネルの怪異 ターボババア",
@@ -1965,7 +2048,8 @@
         "id": "DDD/S118-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-085": {
     "name": "カミッシー",
@@ -1987,7 +2071,8 @@
         "id": "DDD/S118-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-086": {
     "name": "セルポ星人",
@@ -2009,7 +2094,8 @@
         "id": "DDD/S118-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-087": {
     "name": "赤いワンピース アクロバティックさらさら",
@@ -2031,7 +2117,8 @@
         "id": "DDD/S118-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-088": {
     "name": "太郎",
@@ -2053,7 +2140,8 @@
         "id": "DDD/S118-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-089": {
     "name": "花",
@@ -2075,7 +2163,8 @@
         "id": "DDD/S118-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-090": {
     "name": "服が着たい オカルン",
@@ -2097,7 +2186,8 @@
         "id": "DDD/S118-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-091": {
     "name": "謎の怪異 邪視",
@@ -2119,7 +2209,8 @@
         "id": "DDD/S118-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-092": {
     "name": "怪しき影 鬼頭家",
@@ -2141,7 +2232,8 @@
         "id": "DDD/S118-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-093": {
     "name": "家の秘密 ジジ",
@@ -2163,7 +2255,8 @@
         "id": "DDD/S118-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-094": {
     "name": "ドーバーデーモン",
@@ -2185,7 +2278,8 @@
         "id": "DDD/S118-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-095": {
     "name": "ターボババアと合体！ 地縛霊蟹",
@@ -2207,7 +2301,8 @@
         "id": "DDD/S118-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-096": {
     "name": "フラットウッズモンスター",
@@ -2229,7 +2324,8 @@
         "id": "DDD/S118-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-097": {
     "name": "“すごいゾーン”セルポ星人",
@@ -2267,7 +2363,8 @@
         "id": "DDD/S118-097Sc",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-098": {
     "name": "オカルト！ 未知との遭遇",
@@ -2313,7 +2410,8 @@
         "id": "DDD/S118-098Sd",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-099": {
     "name": "ジジって呼んでね",
@@ -2335,7 +2433,8 @@
         "id": "DDD/S118-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-100": {
     "name": "宇宙人の話がしたい",
@@ -2357,6 +2456,7 @@
         "id": "DDD/S118-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

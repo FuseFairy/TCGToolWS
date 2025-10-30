@@ -15,7 +15,8 @@
         "id": "CS/S28-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-T02": {
     "name": "日本一のサラリーマン ひろし",
@@ -33,7 +34,8 @@
         "id": "CS/S28-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-T03": {
     "name": "わたあめ犬 シロ",
@@ -51,7 +53,8 @@
         "id": "CS/S28-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-T04": {
     "name": "子どもの眼差し攻撃 ひまわり",
@@ -69,7 +72,8 @@
         "id": "CS/S28-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-T05": {
     "name": "元気いっぱい ひまわり",
@@ -87,7 +91,8 @@
         "id": "CS/S28-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-T06": {
     "name": "強き母 みさえ",
@@ -105,7 +110,8 @@
         "id": "CS/S28-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-T07": {
     "name": "仲良し兄妹 しんのすけ",
@@ -123,7 +129,8 @@
         "id": "CS/S28-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-T08": {
     "name": "可愛い妹 ひまわり",
@@ -141,7 +148,8 @@
         "id": "CS/S28-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-T09": {
     "name": "嵐を呼ぶ園児 しんのすけ",
@@ -159,7 +167,8 @@
         "id": "CS/S28-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-T10": {
     "name": "野原一家ファイヤー！",
@@ -177,7 +186,8 @@
         "id": "CS/S28-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-T11": {
     "name": "家族はやっぱりいいもんだゾ",
@@ -195,7 +205,8 @@
         "id": "CS/S28-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CS/S28-T12": {
     "name": "いつだって一緒",
@@ -213,7 +224,8 @@
         "id": "CS/S28-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CS/S28-T13": {
     "name": "元気いっぱい しんのすけ",
@@ -231,7 +243,8 @@
         "id": "CS/S28-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-T14": {
     "name": "パジャマのしんのすけ",
@@ -249,7 +262,8 @@
         "id": "CS/S28-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-T15": {
     "name": "なりきりヒーロー しんのすけ",
@@ -267,7 +281,8 @@
         "id": "CS/S28-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S28-T16": {
     "name": "おやつの時間 しんのすけ",
@@ -285,7 +300,8 @@
         "id": "CS/S28-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-T17": {
     "name": "野原 しんのすけ",
@@ -303,7 +319,8 @@
         "id": "CS/S28-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S28-T18": {
     "name": "ケツだけ星人",
@@ -321,6 +338,7 @@
         "id": "CS/S28-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

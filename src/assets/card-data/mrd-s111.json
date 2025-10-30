@@ -19,7 +19,8 @@
         "id": "MRd/S111-001MSP",
         "rarity": "MSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-002": {
     "name": "“Illuminated Warrior”ラプンツェル",
@@ -41,7 +42,8 @@
         "id": "MRd/S111-002MSP",
         "rarity": "MSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-003": {
     "name": "“Stellar Sorcerer”ミッキーマウス",
@@ -63,7 +65,8 @@
         "id": "MRd/S111-003MSP",
         "rarity": "MSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-004": {
     "name": "“Cantankerous Iron-Clad Sailor”ドナルドダック",
@@ -85,7 +88,8 @@
         "id": "MRd/S111-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-005": {
     "name": "“Heart's Fire Fighter”ミニーマウス",
@@ -107,7 +111,8 @@
         "id": "MRd/S111-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-006": {
     "name": "“Shadowy Manipulator”スカー",
@@ -129,7 +134,8 @@
         "id": "MRd/S111-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-007": {
     "name": "“Stellar-Powered Walking Disaster”グーフィー",
@@ -151,7 +157,8 @@
         "id": "MRd/S111-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-009": {
     "name": "スクルージ・マクダック",
@@ -173,7 +180,8 @@
         "id": "MRd/S111-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-010": {
     "name": "“ミラー・ウォリアーズ”ラプンツェル",
@@ -195,7 +203,8 @@
         "id": "MRd/S111-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-011": {
     "name": "“Peaceful Radiant Protector”シンバ",
@@ -217,7 +226,8 @@
         "id": "MRd/S111-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-013": {
     "name": "“Wings of Olympus”ヘラクレス",
@@ -239,7 +249,8 @@
         "id": "MRd/S111-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-014": {
     "name": "“ミラー・ウォリアーズ”アリス",
@@ -261,7 +272,8 @@
         "id": "MRd/S111-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-016": {
     "name": "“ミラー・ウォリアーズ”スカー",
@@ -283,7 +295,8 @@
         "id": "MRd/S111-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-017": {
     "name": "“ミラー・ウォリアーズ”シンバ",
@@ -305,7 +318,8 @@
         "id": "MRd/S111-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-018": {
     "name": "“ミラー・ウォリアーズ”ティガー",
@@ -327,7 +341,8 @@
         "id": "MRd/S111-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-019": {
     "name": "“Adventure Venture Investor”スクルージ・マクダック",
@@ -349,7 +364,8 @@
         "id": "MRd/S111-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-020": {
     "name": "Cosmic Command",
@@ -371,7 +387,8 @@
         "id": "MRd/S111-020MKS",
         "rarity": "MKS"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-021": {
     "name": "Aggressive Passion",
@@ -393,7 +410,8 @@
         "id": "MRd/S111-021R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-022": {
     "name": "“Stalwart Friend of the Forest”白雪姫",
@@ -415,7 +433,8 @@
         "id": "MRd/S111-022MSP",
         "rarity": "MSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-024": {
     "name": "“Cutting Desert Diamond”アラジン",
@@ -437,7 +456,8 @@
         "id": "MRd/S111-024MSP",
         "rarity": "MSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-027": {
     "name": "“Ascended Cosmic Comic”ジーニー",
@@ -459,7 +479,8 @@
         "id": "MRd/S111-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-029": {
     "name": "“Intermolecular Galactic Force”スティッチ",
@@ -481,7 +502,8 @@
         "id": "MRd/S111-029SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-030": {
     "name": "“Natural Navigator”フランク",
@@ -503,7 +525,8 @@
         "id": "MRd/S111-030SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-031": {
     "name": "“The Fastest Fuzz”ジュディ",
@@ -525,7 +548,8 @@
         "id": "MRd/S111-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-033": {
     "name": "“Bold Pilot Fighter”バルー",
@@ -547,7 +571,8 @@
         "id": "MRd/S111-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-034": {
     "name": "“Fiery Pixie Avatar”ティンカー・ベル",
@@ -569,7 +594,8 @@
         "id": "MRd/S111-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-036": {
     "name": "“One Woman Army”ムーラン",
@@ -591,7 +617,8 @@
         "id": "MRd/S111-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-037": {
     "name": "“True-Sighted Symbol of the People”ジャスミン",
@@ -613,7 +640,8 @@
         "id": "MRd/S111-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-038": {
     "name": "“Vainglorious Vengeful Swordsman”フック船長",
@@ -635,7 +663,8 @@
         "id": "MRd/S111-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-039": {
     "name": "“ミラー・ウォリアーズ”フランク",
@@ -657,7 +686,8 @@
         "id": "MRd/S111-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-040": {
     "name": "“ミラー・ウォリアーズ”ティンカー・ベル",
@@ -679,7 +709,8 @@
         "id": "MRd/S111-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-041": {
     "name": "“ミラー・ウォリアーズ”バルー",
@@ -701,7 +732,8 @@
         "id": "MRd/S111-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-042": {
     "name": "“ミラー・ウォリアーズ”ムーラン",
@@ -723,7 +755,8 @@
         "id": "MRd/S111-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-043": {
     "name": "“ミラー・ウォリアーズ”ジュディ",
@@ -745,7 +778,8 @@
         "id": "MRd/S111-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-045": {
     "name": "“ミラー・ウォリアーズ”白雪姫",
@@ -767,7 +801,8 @@
         "id": "MRd/S111-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-046": {
     "name": "“ミラー・ウォリアーズ”フック船長",
@@ -789,7 +824,8 @@
         "id": "MRd/S111-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-047": {
     "name": "“ミラー・ウォリアーズ”スティッチ",
@@ -811,7 +847,8 @@
         "id": "MRd/S111-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-051": {
     "name": "Shrouded Sword",
@@ -833,7 +870,8 @@
         "id": "MRd/S111-051R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-052": {
     "name": "Superheated Stitch",
@@ -855,7 +893,8 @@
         "id": "MRd/S111-052R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-053": {
     "name": "“Curse Collector”ジャック・スパロウ",
@@ -877,7 +916,8 @@
         "id": "MRd/S111-053MSP",
         "rarity": "MSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-057": {
     "name": "“Personal Battle Companion”ベイマックス",
@@ -899,7 +939,8 @@
         "id": "MRd/S111-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-058": {
     "name": "“Genius Matter Programmer”ヒロ",
@@ -921,7 +962,8 @@
         "id": "MRd/S111-058SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-059": {
     "name": "“Inventor of Holiday Spirit”ジャック・スケリントン",
@@ -943,7 +985,8 @@
         "id": "MRd/S111-059SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-061": {
     "name": "“ミラー・ウォリアーズ”ジャック・スケリントン",
@@ -965,7 +1008,8 @@
         "id": "MRd/S111-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-062": {
     "name": "“World Network Enforcer”トロン",
@@ -987,7 +1031,8 @@
         "id": "MRd/S111-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-063": {
     "name": "“ミラー・ウォリアーズ”ジャック・スパロウ",
@@ -1009,7 +1054,8 @@
         "id": "MRd/S111-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-064": {
     "name": "“ミラー・ウォリアーズ”ヒロ",
@@ -1031,7 +1077,8 @@
         "id": "MRd/S111-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-065": {
     "name": "“ミラー・ウォリアーズ”ベイマックス",
@@ -1053,7 +1100,8 @@
         "id": "MRd/S111-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-067": {
     "name": "“ミラー・ウォリアーズ”トロン",
@@ -1075,7 +1123,8 @@
         "id": "MRd/S111-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-069": {
     "name": "Flight Of The Living Thread",
@@ -1097,7 +1146,8 @@
         "id": "MRd/S111-069R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-070": {
     "name": "Broadside",
@@ -1119,7 +1169,8 @@
         "id": "MRd/S111-070R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-071": {
     "name": "“Commander of the Underworld”ハデス",
@@ -1141,7 +1192,8 @@
         "id": "MRd/S111-071MSP",
         "rarity": "MSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-072": {
     "name": "“Draconic Mage”マレフィセント",
@@ -1163,7 +1215,8 @@
         "id": "MRd/S111-072MSP",
         "rarity": "MSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-073": {
     "name": "“Poison Hearted Monarch”女王",
@@ -1185,7 +1238,8 @@
         "id": "MRd/S111-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-074": {
     "name": "“Sorcerous Seeker”ジャファー",
@@ -1207,7 +1261,8 @@
         "id": "MRd/S111-074SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-076": {
     "name": "“Ice Storm Elemental”エルサ",
@@ -1229,7 +1284,8 @@
         "id": "MRd/S111-076SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-077": {
     "name": "“Dicey Heavy Hitter”ウギー・ブギー",
@@ -1251,7 +1307,8 @@
         "id": "MRd/S111-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-078": {
     "name": "“Royal Champion of Atlantica”アリエル",
@@ -1273,7 +1330,8 @@
         "id": "MRd/S111-078SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-079": {
     "name": "“ミラー・ウォリアーズ”ハデス",
@@ -1295,7 +1353,8 @@
         "id": "MRd/S111-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-080": {
     "name": "“Reinforced Resilience”アナ",
@@ -1317,7 +1376,8 @@
         "id": "MRd/S111-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-081": {
     "name": "“Ward of Arendelle”アナ",
@@ -1339,7 +1399,8 @@
         "id": "MRd/S111-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-082": {
     "name": "“ミラー・ウォリアーズ”ウギー・ブギー",
@@ -1361,7 +1422,8 @@
         "id": "MRd/S111-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-083": {
     "name": "“Luminous Alchemist”ティアナ",
@@ -1383,7 +1445,8 @@
         "id": "MRd/S111-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-084": {
     "name": "“Merciless Beast Hunter”ガストン",
@@ -1405,7 +1468,8 @@
         "id": "MRd/S111-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-085": {
     "name": "“Living Legend”マウイ",
@@ -1427,7 +1491,8 @@
         "id": "MRd/S111-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-086": {
     "name": "“Mistress of the Darkest Depths”アースラ",
@@ -1449,7 +1514,8 @@
         "id": "MRd/S111-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-087": {
     "name": "“Devilish Queen of Crime”クルエラ",
@@ -1471,7 +1537,8 @@
         "id": "MRd/S111-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-088": {
     "name": "“ミラー・ウォリアーズ”ジャファー",
@@ -1493,7 +1560,8 @@
         "id": "MRd/S111-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-089": {
     "name": "“ミラー・ウォリアーズ”クルエラ",
@@ -1515,7 +1583,8 @@
         "id": "MRd/S111-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-090": {
     "name": "“ミラー・ウォリアーズ”アースラ",
@@ -1537,7 +1606,8 @@
         "id": "MRd/S111-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-093": {
     "name": "闇の勢力「虚像」",
@@ -1559,7 +1629,8 @@
         "id": "MRd/S111-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-095": {
     "name": "“ミラー・ウォリアーズ”ガストン",
@@ -1581,7 +1652,8 @@
         "id": "MRd/S111-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-096": {
     "name": "“Wayfinding Warrior”モアナ",
@@ -1603,7 +1675,8 @@
         "id": "MRd/S111-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-097": {
     "name": "マレフィセントの虚像",
@@ -1625,7 +1698,8 @@
         "id": "MRd/S111-097S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-098": {
     "name": "Electroclasm",
@@ -1647,7 +1721,8 @@
         "id": "MRd/S111-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-099": {
     "name": "Heartsbane Harvest",
@@ -1669,7 +1744,8 @@
         "id": "MRd/S111-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-100": {
     "name": "Frostbite",
@@ -1691,6 +1767,7 @@
         "id": "MRd/S111-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

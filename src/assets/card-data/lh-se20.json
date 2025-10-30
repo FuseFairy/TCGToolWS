@@ -19,7 +19,8 @@
         "id": "LH/SE20-01SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-02": {
     "name": "暗殺者 アカツキ",
@@ -37,7 +38,8 @@
         "id": "LH/SE20-02",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-03": {
     "name": "主君の忍 アカツキ",
@@ -59,7 +61,8 @@
         "id": "LH/SE20-03SP",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SE20-04": {
     "name": "三日月同盟 セララ",
@@ -77,7 +80,8 @@
         "id": "LH/SE20-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-05": {
     "name": "五十鈴",
@@ -95,7 +99,8 @@
         "id": "LH/SE20-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-06": {
     "name": "おしゃれは苦手？ アカツキ",
@@ -113,7 +118,8 @@
         "id": "LH/SE20-06",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-07": {
     "name": "冒険者 ルンデルハウス",
@@ -131,7 +137,8 @@
         "id": "LH/SE20-07",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-08": {
     "name": "セララ",
@@ -149,7 +156,8 @@
         "id": "LH/SE20-08",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SE20-09": {
     "name": "乙女心 アカツキ",
@@ -167,7 +175,8 @@
         "id": "LH/SE20-09",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SE20-10": {
     "name": "ルディの飼い主？ 五十鈴",
@@ -185,7 +194,8 @@
         "id": "LH/SE20-10",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-11": {
     "name": "ふたりでワルツを アカツキ",
@@ -203,7 +213,8 @@
         "id": "LH/SE20-11",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-12": {
     "name": "ヘンリエッタ",
@@ -221,7 +232,8 @@
         "id": "LH/SE20-12",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-13": {
     "name": "頼りになる会計士 ヘンリエッタ",
@@ -239,7 +251,8 @@
         "id": "LH/SE20-13",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-14": {
     "name": "寡黙な仕事人 アカツキ",
@@ -257,7 +270,8 @@
         "id": "LH/SE20-14",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SE20-15": {
     "name": "妖術師 ルンデルハウス",
@@ -275,7 +289,8 @@
         "id": "LH/SE20-15",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SE20-16": {
     "name": "ルンデルハウス",
@@ -293,7 +308,8 @@
         "id": "LH/SE20-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-17": {
     "name": "にゃん太さん大好き セララ",
@@ -311,7 +327,8 @@
         "id": "LH/SE20-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-18": {
     "name": "クレセントムーン店長 マリエール",
@@ -329,7 +346,8 @@
         "id": "LH/SE20-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-19": {
     "name": "小竜",
@@ -347,7 +365,8 @@
         "id": "LH/SE20-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-20": {
     "name": "ぷちアカツキ",
@@ -365,7 +384,8 @@
         "id": "LH/SE20-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-21": {
     "name": "施療神官 マリエール",
@@ -383,7 +403,8 @@
         "id": "LH/SE20-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SE20-22": {
     "name": "吟遊詩人 五十鈴",
@@ -401,7 +422,8 @@
         "id": "LH/SE20-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SE20-23": {
     "name": "着せ替えアカツキちゃん",
@@ -419,7 +441,8 @@
         "id": "LH/SE20-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-24": {
     "name": "ふたりでワルツを",
@@ -437,7 +460,8 @@
         "id": "LH/SE20-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-25": {
     "name": "三日月同盟",
@@ -455,7 +479,8 @@
         "id": "LH/SE20-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LH/SE20-26": {
     "name": "にゃん太",
@@ -473,7 +498,8 @@
         "id": "LH/SE20-26",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SE20-27": {
     "name": "戦場哨戒 ミノリ",
@@ -491,7 +517,8 @@
         "id": "LH/SE20-27",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SE20-28": {
     "name": "記録の地平線代表 シロエ",
@@ -513,7 +540,8 @@
         "id": "LH/SE20-28SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SE20-29": {
     "name": "全力管制戦闘 シロエ",
@@ -531,7 +559,8 @@
         "id": "LH/SE20-29",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-30": {
     "name": "ふたりでワルツを シロエ",
@@ -549,7 +578,8 @@
         "id": "LH/SE20-30",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-31": {
     "name": "記録の地平線 にゃん太",
@@ -567,7 +597,8 @@
         "id": "LH/SE20-31",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-32": {
     "name": "世界を変える決意 シロエ",
@@ -585,7 +616,8 @@
         "id": "LH/SE20-32",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-33": {
     "name": "頼れる相棒 直継",
@@ -603,7 +635,8 @@
         "id": "LH/SE20-33",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-34": {
     "name": "守護戦士 直継",
@@ -621,7 +654,8 @@
         "id": "LH/SE20-34",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SE20-35": {
     "name": "ギルドマスター シロエ",
@@ -639,7 +673,8 @@
         "id": "LH/SE20-35",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-36": {
     "name": "レイネシア",
@@ -657,7 +692,8 @@
         "id": "LH/SE20-36",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-37": {
     "name": "ソウジロウ",
@@ -675,7 +711,8 @@
         "id": "LH/SE20-37",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-38": {
     "name": "みんなの班長 にゃん太",
@@ -693,7 +730,8 @@
         "id": "LH/SE20-38",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-39": {
     "name": "クラスティ",
@@ -711,7 +749,8 @@
         "id": "LH/SE20-39",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-40": {
     "name": "ミノリ",
@@ -729,7 +768,8 @@
         "id": "LH/SE20-40",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SE20-41": {
     "name": "乙女心 ミノリ",
@@ -747,7 +787,8 @@
         "id": "LH/SE20-41",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-42": {
     "name": "ぷち直継",
@@ -765,7 +806,8 @@
         "id": "LH/SE20-42",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-43": {
     "name": "武士 トウヤ",
@@ -783,7 +825,8 @@
         "id": "LH/SE20-43",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-44": {
     "name": "トウヤ",
@@ -801,7 +844,8 @@
         "id": "LH/SE20-44",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-45": {
     "name": "ぷちシロエ",
@@ -819,7 +863,8 @@
         "id": "LH/SE20-45",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SE20-46": {
     "name": "筆写師 シロエ",
@@ -837,7 +882,8 @@
         "id": "LH/SE20-46",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SE20-47": {
     "name": "アイザック",
@@ -855,7 +901,8 @@
         "id": "LH/SE20-47",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SE20-48": {
     "name": "マインドショック",
@@ -873,7 +920,8 @@
         "id": "LH/SE20-48",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-49": {
     "name": "記録の地平線",
@@ -891,7 +939,8 @@
         "id": "LH/SE20-49",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SE20-50": {
     "name": "略式・全力管制戦闘",
@@ -909,6 +958,7 @@
         "id": "LH/SE20-50",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -19,7 +19,8 @@
         "id": "Krw/W78-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Krw/W78-021": {
     "name": "邂逅と再会 瑚太朗",
@@ -37,7 +38,8 @@
         "id": "Krw/W78-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Krw/W78-022": {
     "name": "主と従者 ちはや",
@@ -55,7 +57,8 @@
         "id": "Krw/W78-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Krw/W78-026": {
     "name": "からかい上手な先輩 朱音",
@@ -73,7 +76,8 @@
         "id": "Krw/W78-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Krw/W78-035": {
     "name": "鋭い眼光 吉野",
@@ -91,7 +95,8 @@
         "id": "Krw/W78-035",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Krw/W78-047": {
     "name": "守りたい場所 静流",
@@ -113,7 +118,8 @@
         "id": "Krw/W78-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Krw/W78-050": {
     "name": "正義の委員長 ルチア",
@@ -135,7 +141,8 @@
         "id": "Krw/W78-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Krw/W78-058": {
     "name": "水辺のガーディアン 西九条",
@@ -153,7 +160,8 @@
         "id": "Krw/W78-058",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Krw/W78-062": {
     "name": "フォレストのオーナー 江坂",
@@ -171,7 +179,8 @@
         "id": "Krw/W78-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Krw/W78-067": {
     "name": "オカルト研究会への誘い 朱音",
@@ -193,7 +202,8 @@
         "id": "Krw/W78-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Krw/W78-074": {
     "name": "うっかり魔人 ちはや",
@@ -215,7 +225,8 @@
         "id": "Krw/W78-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Krw/W78-090": {
     "name": "ようこそ、我が神秘の部屋に",
@@ -237,7 +248,8 @@
         "id": "Krw/W78-090R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Krw/W78-100": {
     "name": "良い記憶 篝",
@@ -259,7 +271,8 @@
         "id": "Krw/W78-100S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Krw/W78-103": {
     "name": "夫婦漫才 小鳥",
@@ -281,7 +294,8 @@
         "id": "Krw/W78-103S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Krw/W78-107": {
     "name": "主と従者 咲夜",
@@ -299,7 +313,8 @@
         "id": "Krw/W78-107",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Krw/W78-108": {
     "name": "水辺のガーディアン ルチア",
@@ -317,7 +332,8 @@
         "id": "Krw/W78-108",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Krw/W78-110": {
     "name": "邂逅と再会 篝",
@@ -335,7 +351,8 @@
         "id": "Krw/W78-110",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Krw/W78-111": {
     "name": "誰がため 瑚太朗",
@@ -353,7 +370,8 @@
         "id": "Krw/W78-111",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Krw/W78-112": {
     "name": "水辺のガーディアン 静流",
@@ -371,7 +389,8 @@
         "id": "Krw/W78-112",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Krw/W78-120": {
     "name": "鍵の誕生",
@@ -393,6 +412,7 @@
         "id": "Krw/W78-120R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

@@ -19,7 +19,8 @@
         "id": "Fdd/W65-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdd/W65-T10": {
     "name": "オカルト研究部部長 リアス",
@@ -41,7 +42,8 @@
         "id": "Fdd/W65-T10S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdd/W65-T13": {
     "name": "聞こえた声",
@@ -59,6 +61,7 @@
         "id": "Fdd/W65-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

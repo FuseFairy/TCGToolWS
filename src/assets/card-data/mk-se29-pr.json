@@ -15,7 +15,8 @@
         "id": "MK/SE29-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE29-P02": {
     "name": "偵都の少女 エリー",
@@ -33,7 +34,8 @@
         "id": "MK/SE29-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-P03": {
     "name": "けなげでひたむき シャロ",
@@ -51,7 +53,8 @@
         "id": "MK/SE29-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE29-P04": {
     "name": "謎に詰め寄るコーデリア",
@@ -69,7 +72,8 @@
         "id": "MK/SE29-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE29-P05": {
     "name": "“それが探偵”ミルキィホームズ",
@@ -87,7 +91,8 @@
         "id": "MK/SE29-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-P06": {
     "name": "イメージチェンジ？",
@@ -105,7 +110,8 @@
         "id": "MK/SE29-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-P07": {
     "name": "総天然色祭",
@@ -123,7 +129,8 @@
         "id": "MK/SE29-P07S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-51": {
     "name": "“ギルティホームズ”徳井青空",
@@ -141,7 +148,8 @@
         "id": "MK/SE29-51",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-52": {
     "name": "“ギルティホームズ”佐々木未来",
@@ -159,7 +167,8 @@
         "id": "MK/SE29-52",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-53": {
     "name": "“ギルティホームズ”三森すずこ",
@@ -177,7 +186,8 @@
         "id": "MK/SE29-53",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-54": {
     "name": "“ギルティホームズ”橘田いずみ",
@@ -195,6 +205,7 @@
         "id": "MK/SE29-54",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

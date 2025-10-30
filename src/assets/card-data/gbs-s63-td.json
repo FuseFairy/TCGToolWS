@@ -15,7 +15,8 @@
         "id": "GBS/S63-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-T02": {
     "name": "行く手に潜むモノ ゴブリンスレイヤー",
@@ -33,7 +34,8 @@
         "id": "GBS/S63-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-T03": {
     "name": "小鬼を殺す者 ゴブリンスレイヤー",
@@ -55,7 +57,8 @@
         "id": "GBS/S63-T03S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-T04": {
     "name": "寡黙な気配り ゴブリンスレイヤー",
@@ -73,7 +76,8 @@
         "id": "GBS/S63-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-T05": {
     "name": "慈悲なき遂行 ゴブリンスレイヤー",
@@ -91,7 +95,8 @@
         "id": "GBS/S63-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-T06": {
     "name": "親鳥みたいなゴブリンスレイヤー",
@@ -109,7 +114,8 @@
         "id": "GBS/S63-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-T07": {
     "name": "その者の名は ゴブリンスレイヤー",
@@ -127,7 +133,8 @@
         "id": "GBS/S63-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-T08": {
     "name": "松明",
@@ -145,7 +152,8 @@
         "id": "GBS/S63-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-T09": {
     "name": "殲滅の律動",
@@ -167,7 +175,8 @@
         "id": "GBS/S63-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-T10": {
     "name": "突撃！",
@@ -185,7 +194,8 @@
         "id": "GBS/S63-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GBS/S63-T11": {
     "name": "縁の下の華 受付嬢",
@@ -207,7 +217,8 @@
         "id": "GBS/S63-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-T12": {
     "name": "自立の意志 女神官",
@@ -225,7 +236,8 @@
         "id": "GBS/S63-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-T13": {
     "name": "地母神の御使い 女神官",
@@ -251,7 +263,8 @@
         "id": "GBS/S63-T13SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-T14": {
     "name": "ある冒険者 女魔術師",
@@ -269,7 +282,8 @@
         "id": "GBS/S63-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-T15": {
     "name": "ある冒険者 剣士",
@@ -287,7 +301,8 @@
         "id": "GBS/S63-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-T16": {
     "name": "ある冒険者 女武闘家",
@@ -305,7 +320,8 @@
         "id": "GBS/S63-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-T17": {
     "name": "火炎の正体 女神官",
@@ -323,7 +339,8 @@
         "id": "GBS/S63-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-T18": {
     "name": "ひよこみたいな女神官",
@@ -341,7 +358,8 @@
         "id": "GBS/S63-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-T19": {
     "name": "混沌を暴く光 女神官",
@@ -359,7 +377,8 @@
         "id": "GBS/S63-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-T20": {
     "name": "慈悲深き心 女神官",
@@ -381,7 +400,8 @@
         "id": "GBS/S63-T20R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-T21": {
     "name": "応えなき祈り",
@@ -399,6 +419,7 @@
         "id": "GBS/S63-T21",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

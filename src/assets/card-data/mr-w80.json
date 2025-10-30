@@ -19,7 +19,8 @@
         "id": "MR/W80-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-002": {
     "name": "みかづき荘の仲間 フェリシア",
@@ -41,7 +42,8 @@
         "id": "MR/W80-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-003": {
     "name": "みかづき荘の仲間 いろは",
@@ -63,7 +65,8 @@
         "id": "MR/W80-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-004": {
     "name": "やる気満々 フェリシア",
@@ -85,7 +88,8 @@
         "id": "MR/W80-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-005": {
     "name": "それぞれの想い いろは",
@@ -103,7 +107,8 @@
         "id": "MR/W80-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-006": {
     "name": "噂の真相究明 いろは",
@@ -125,7 +130,8 @@
         "id": "MR/W80-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-007": {
     "name": "環 うい",
@@ -143,7 +149,8 @@
         "id": "MR/W80-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-008": {
     "name": "それぞれの想い さな",
@@ -165,7 +172,8 @@
         "id": "MR/W80-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-009": {
     "name": "大切な思い出 さな",
@@ -187,7 +195,8 @@
         "id": "MR/W80-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-010": {
     "name": "神浜聖女の噂 マミ",
@@ -209,7 +218,8 @@
         "id": "MR/W80-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-011": {
     "name": "プレゼントの相談 いろは",
@@ -227,7 +237,8 @@
         "id": "MR/W80-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-012": {
     "name": "遊びの誘い 鶴乃",
@@ -245,7 +256,8 @@
         "id": "MR/W80-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-013": {
     "name": "噂を調べる鶴乃",
@@ -263,7 +275,8 @@
         "id": "MR/W80-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-014": {
     "name": "妹の捜索 いろは",
@@ -281,7 +294,8 @@
         "id": "MR/W80-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-015": {
     "name": "見滝原市の魔法少女 マミ",
@@ -299,7 +313,8 @@
         "id": "MR/W80-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-016": {
     "name": "いろはのドッペル",
@@ -317,7 +332,8 @@
         "id": "MR/W80-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-017": {
     "name": "一緒に帰ろう！ いろは",
@@ -335,7 +351,8 @@
         "id": "MR/W80-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-018": {
     "name": "心からの感謝 さな",
@@ -353,7 +370,8 @@
         "id": "MR/W80-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-019": {
     "name": "物騒な自己紹介 マミ",
@@ -371,7 +389,8 @@
         "id": "MR/W80-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-020": {
     "name": "傭兵の報酬 フェリシア",
@@ -389,7 +408,8 @@
         "id": "MR/W80-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-021": {
     "name": "出前帰り 鶴乃",
@@ -407,7 +427,8 @@
         "id": "MR/W80-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-022": {
     "name": "囚われの少女 さな",
@@ -425,7 +446,8 @@
         "id": "MR/W80-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-023": {
     "name": "魔法少女変身 フェリシア",
@@ -443,7 +465,8 @@
         "id": "MR/W80-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-024": {
     "name": "傭兵稼業",
@@ -461,7 +484,8 @@
         "id": "MR/W80-024",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-025": {
     "name": "妹の病気を治すために",
@@ -483,7 +507,8 @@
         "id": "MR/W80-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-026": {
     "name": "万々歳へようこそ",
@@ -501,7 +526,8 @@
         "id": "MR/W80-026",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-027": {
     "name": "魔法少女になった理由",
@@ -523,7 +549,8 @@
         "id": "MR/W80-027R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-028": {
     "name": "明日への一歩",
@@ -541,7 +568,8 @@
         "id": "MR/W80-028",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MR/W80-029": {
     "name": "エプロン姿 やちよ",
@@ -563,7 +591,8 @@
         "id": "MR/W80-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-030": {
     "name": "みかづき荘の仲間 さな",
@@ -585,7 +614,8 @@
         "id": "MR/W80-030SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-031": {
     "name": "噂の真相究明 やちよ",
@@ -607,7 +637,8 @@
         "id": "MR/W80-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-032": {
     "name": "いろは＆まどか",
@@ -629,7 +660,8 @@
         "id": "MR/W80-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-033": {
     "name": "息の合った姉妹 月咲",
@@ -647,7 +679,8 @@
         "id": "MR/W80-033",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-034": {
     "name": "息の合った姉妹 月夜",
@@ -665,7 +698,8 @@
         "id": "MR/W80-034",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-035": {
     "name": "豊富な戦闘経験 やちよ",
@@ -683,7 +717,8 @@
         "id": "MR/W80-035",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-036": {
     "name": "アリナ・グレイ",
@@ -705,7 +740,8 @@
         "id": "MR/W80-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-037": {
     "name": "“私しかいない世界”さな",
@@ -723,7 +759,8 @@
         "id": "MR/W80-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-038": {
     "name": "私の居場所 さな",
@@ -741,7 +778,8 @@
         "id": "MR/W80-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-039": {
     "name": "柊 ねむ",
@@ -759,7 +797,8 @@
         "id": "MR/W80-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-040": {
     "name": "チェス勝負 さな",
@@ -777,7 +816,8 @@
         "id": "MR/W80-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-041": {
     "name": "昔話 やちよ",
@@ -795,7 +835,8 @@
         "id": "MR/W80-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-042": {
     "name": "突然の襲撃 アリナ",
@@ -813,7 +854,8 @@
         "id": "MR/W80-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-043": {
     "name": "お年玉の使い道 さな",
@@ -831,7 +873,8 @@
         "id": "MR/W80-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-044": {
     "name": "お返しの気持ち さな",
@@ -849,7 +892,8 @@
         "id": "MR/W80-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-045": {
     "name": "未知への警戒 やちよ",
@@ -867,7 +911,8 @@
         "id": "MR/W80-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-046": {
     "name": "口寄せ神社",
@@ -885,7 +930,8 @@
         "id": "MR/W80-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-047": {
     "name": "弁償してくれるヨネ!?",
@@ -907,7 +953,8 @@
         "id": "MR/W80-047R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-048": {
     "name": "新たな敵との遭遇",
@@ -929,7 +976,8 @@
         "id": "MR/W80-048R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-049": {
     "name": "姉妹の饗演",
@@ -947,7 +995,8 @@
         "id": "MR/W80-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-050": {
     "name": "噂の真相究明 ももこ",
@@ -969,7 +1018,8 @@
         "id": "MR/W80-050SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-051": {
     "name": "噂の真相究明 かえで",
@@ -991,7 +1041,8 @@
         "id": "MR/W80-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-052": {
     "name": "噂の真相究明 レナ",
@@ -1013,7 +1064,8 @@
         "id": "MR/W80-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-053": {
     "name": "看板娘 鶴乃",
@@ -1035,7 +1087,8 @@
         "id": "MR/W80-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-054": {
     "name": "里見 灯花",
@@ -1057,7 +1110,8 @@
         "id": "MR/W80-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-055": {
     "name": "それぞれの想い レナ",
@@ -1075,7 +1129,8 @@
         "id": "MR/W80-055",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-056": {
     "name": "それぞれの想い 鶴乃",
@@ -1097,7 +1152,8 @@
         "id": "MR/W80-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-057": {
     "name": "かえでのドッペル",
@@ -1115,7 +1171,8 @@
         "id": "MR/W80-057",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-058": {
     "name": "いつもの言い合い レナ",
@@ -1133,7 +1190,8 @@
         "id": "MR/W80-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-059": {
     "name": "燃えてきた！ 鶴乃",
@@ -1151,7 +1209,8 @@
         "id": "MR/W80-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-060": {
     "name": "神浜市の偵察 杏子",
@@ -1169,7 +1228,8 @@
         "id": "MR/W80-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-061": {
     "name": "それぞれの想い かえで",
@@ -1187,7 +1247,8 @@
         "id": "MR/W80-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-062": {
     "name": "マギウスの翼 みふゆ",
@@ -1205,7 +1266,8 @@
         "id": "MR/W80-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-063": {
     "name": "最強魔法少女 鶴乃",
@@ -1223,7 +1285,8 @@
         "id": "MR/W80-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-064": {
     "name": "それぞれの想い ももこ",
@@ -1241,7 +1304,8 @@
         "id": "MR/W80-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-065": {
     "name": "屋上の邂逅 レナ",
@@ -1259,7 +1323,8 @@
         "id": "MR/W80-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-066": {
     "name": "絵心について かえで",
@@ -1277,7 +1342,8 @@
         "id": "MR/W80-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-067": {
     "name": "的確な助言 ももこ",
@@ -1295,7 +1361,8 @@
         "id": "MR/W80-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-068": {
     "name": "黒羽根",
@@ -1313,7 +1380,8 @@
         "id": "MR/W80-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-069": {
     "name": "仲間へのアドバイス 鶴乃",
@@ -1331,7 +1399,8 @@
         "id": "MR/W80-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-070": {
     "name": "突然の加勢 杏子",
@@ -1349,7 +1418,8 @@
         "id": "MR/W80-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-071": {
     "name": "小さいキュゥべえ",
@@ -1367,7 +1437,8 @@
         "id": "MR/W80-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-072": {
     "name": "魔法少女変身 ももこ",
@@ -1385,7 +1456,8 @@
         "id": "MR/W80-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-073": {
     "name": "魔法少女サービス 鶴乃",
@@ -1403,7 +1475,8 @@
         "id": "MR/W80-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-074": {
     "name": "中華飯店万々歳",
@@ -1421,7 +1494,8 @@
         "id": "MR/W80-074",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-075": {
     "name": "フクロウ幸運水",
@@ -1439,7 +1513,8 @@
         "id": "MR/W80-075",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-076": {
     "name": "コネクト",
@@ -1461,7 +1536,8 @@
         "id": "MR/W80-076R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-077": {
     "name": "最強ゆえの余裕",
@@ -1483,7 +1559,8 @@
         "id": "MR/W80-077R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MR/W80-078": {
     "name": "じゃれ合ういろは",
@@ -1505,7 +1582,8 @@
         "id": "MR/W80-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-079": {
     "name": "みかづき荘の仲間 やちよ",
@@ -1527,7 +1605,8 @@
         "id": "MR/W80-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-080": {
     "name": "会いたかった人 やちよ",
@@ -1545,7 +1624,8 @@
         "id": "MR/W80-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-081": {
     "name": "真剣な眼差し いろは",
@@ -1567,7 +1647,8 @@
         "id": "MR/W80-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-082": {
     "name": "それぞれの想い フェリシア",
@@ -1589,7 +1670,8 @@
         "id": "MR/W80-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-083": {
     "name": "それぞれの想い やちよ",
@@ -1611,7 +1693,8 @@
         "id": "MR/W80-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-084": {
     "name": "“なんだってしてやるよ”フェリシア",
@@ -1629,7 +1712,8 @@
         "id": "MR/W80-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-085": {
     "name": "食事の誘い やちよ",
@@ -1647,7 +1731,8 @@
         "id": "MR/W80-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-086": {
     "name": "バイト中 フェリシア",
@@ -1665,7 +1750,8 @@
         "id": "MR/W80-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-087": {
     "name": "ポイントの大切さ やちよ",
@@ -1683,7 +1769,8 @@
         "id": "MR/W80-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-088": {
     "name": "ウワサの元へ いろは",
@@ -1701,7 +1788,8 @@
         "id": "MR/W80-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-089": {
     "name": "確かな記憶 いろは",
@@ -1719,7 +1807,8 @@
         "id": "MR/W80-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-090": {
     "name": "見滝原市の魔法少女 さやか",
@@ -1737,7 +1826,8 @@
         "id": "MR/W80-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-091": {
     "name": "調整屋 みたま",
@@ -1755,7 +1845,8 @@
         "id": "MR/W80-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-092": {
     "name": "東のテリトリー フェリシア",
@@ -1773,7 +1864,8 @@
         "id": "MR/W80-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-093": {
     "name": "記憶ミュージアムでの攻防 さやか",
@@ -1791,7 +1883,8 @@
         "id": "MR/W80-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-094": {
     "name": "親友だから出来ること やちよ",
@@ -1809,7 +1902,8 @@
         "id": "MR/W80-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-095": {
     "name": "ケンカの理由 フェリシア",
@@ -1827,7 +1921,8 @@
         "id": "MR/W80-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-096": {
     "name": "ありえない幸運 フェリシア",
@@ -1845,7 +1940,8 @@
         "id": "MR/W80-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-097": {
     "name": "新たな同居人",
@@ -1863,7 +1959,8 @@
         "id": "MR/W80-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-098": {
     "name": "願いの対価",
@@ -1885,7 +1982,8 @@
         "id": "MR/W80-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-099": {
     "name": "疑心の再会",
@@ -1903,7 +2001,8 @@
         "id": "MR/W80-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-100": {
     "name": "思い出す過去",
@@ -1925,6 +2024,7 @@
         "id": "MR/W80-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

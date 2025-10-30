@@ -15,7 +15,8 @@
         "id": "PD/SE32-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-P02": {
     "name": "ハジメテノオト",
@@ -37,7 +38,8 @@
         "id": "PD/SE32-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-P03": {
     "name": "“Future Tone DX”初音ミク",
@@ -55,7 +57,8 @@
         "id": "PD/SE32-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/SE32-P04": {
     "name": "“愛Dee”初音ミク＆巡音ルカ",
@@ -77,7 +80,8 @@
         "id": "PD/SE32-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-P05": {
     "name": "“ストリーミングハート”初音ミク",
@@ -95,7 +99,8 @@
         "id": "PD/SE32-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-01": {
     "name": "鏡音リン“リリカルスター”",
@@ -117,7 +122,8 @@
         "id": "PD/SE32-01SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/SE32-02": {
     "name": "鏡音レン“卑怯イエロー”",
@@ -135,7 +141,8 @@
         "id": "PD/SE32-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-03": {
     "name": "鏡音リン“アストレイ”",
@@ -153,7 +160,8 @@
         "id": "PD/SE32-03",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-04": {
     "name": "鏡音レン“ラディカルスター”",
@@ -175,7 +183,8 @@
         "id": "PD/SE32-04SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/SE32-05": {
     "name": "鏡音リン“卑怯オレンジ”",
@@ -193,7 +202,8 @@
         "id": "PD/SE32-05",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/SE32-06": {
     "name": "鏡音レン“パティシエヘンゼル”",
@@ -211,7 +221,8 @@
         "id": "PD/SE32-06",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-07": {
     "name": "鏡音リン“パティシエグレーテル”",
@@ -229,7 +240,8 @@
         "id": "PD/SE32-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-08": {
     "name": "鏡音レン“ホーリィランサー”",
@@ -247,7 +259,8 @@
         "id": "PD/SE32-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-09": {
     "name": "聖槍爆裂ボーイ",
@@ -265,7 +278,8 @@
         "id": "PD/SE32-09",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-10": {
     "name": "ロストワンの号哭",
@@ -283,7 +297,8 @@
         "id": "PD/SE32-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/SE32-11": {
     "name": "初音ミク“サイレントボイス”",
@@ -309,7 +324,8 @@
         "id": "PD/SE32-11b",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-12": {
     "name": "“Xのヒミツ”初音ミク",
@@ -331,7 +347,8 @@
         "id": "PD/SE32-12SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-13": {
     "name": "“新しいセカイ”初音ミク",
@@ -353,7 +370,8 @@
         "id": "PD/SE32-13SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/SE32-14": {
     "name": "初音ミク“アルティメット・ミク”",
@@ -371,7 +389,8 @@
         "id": "PD/SE32-14",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-15": {
     "name": "初音ミク“ジャッジメント”",
@@ -389,7 +408,8 @@
         "id": "PD/SE32-15",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-16": {
     "name": "“罪の名前”初音ミク",
@@ -407,7 +427,8 @@
         "id": "PD/SE32-16",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-17": {
     "name": "初音ミク“オリジナル”（X HD）",
@@ -425,7 +446,8 @@
         "id": "PD/SE32-17",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-18": {
     "name": "初音ミク“DE:MONSTAR”",
@@ -443,7 +465,8 @@
         "id": "PD/SE32-18",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/SE32-19": {
     "name": "初音ミク“エンゲージ”",
@@ -461,7 +484,8 @@
         "id": "PD/SE32-19",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-20": {
     "name": "初音ミク“パンプキンドリーム”",
@@ -479,7 +503,8 @@
         "id": "PD/SE32-20",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-21": {
     "name": "初音ミク“ピチカート”",
@@ -497,7 +522,8 @@
         "id": "PD/SE32-21",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-22": {
     "name": "初音ミク“はいふぃいばぁ”",
@@ -515,7 +541,8 @@
         "id": "PD/SE32-22",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/SE32-23": {
     "name": "初音ミク“ファイナルフュージョン”",
@@ -533,7 +560,8 @@
         "id": "PD/SE32-23",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/SE32-24": {
     "name": "初音ミク“アンビヴァレンツ”",
@@ -551,7 +579,8 @@
         "id": "PD/SE32-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-25": {
     "name": "初音ミク“ロリポップ”",
@@ -569,7 +598,8 @@
         "id": "PD/SE32-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-26": {
     "name": "初音ミク“ラズベリーイズム”",
@@ -587,7 +617,8 @@
         "id": "PD/SE32-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-27": {
     "name": "初音ミク“卑怯グリーン”",
@@ -605,7 +636,8 @@
         "id": "PD/SE32-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-28": {
     "name": "初音ミク“バンデージハート”",
@@ -623,7 +655,8 @@
         "id": "PD/SE32-28",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-29": {
     "name": "初音ミク“チョップスティック”",
@@ -641,7 +674,8 @@
         "id": "PD/SE32-29",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-30": {
     "name": "罪の名前",
@@ -659,7 +693,8 @@
         "id": "PD/SE32-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-31": {
     "name": "Hand in Hand",
@@ -681,7 +716,8 @@
         "id": "PD/SE32-31b",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-32": {
     "name": "巡音ルカ“ドミネントストーン”",
@@ -703,7 +739,8 @@
         "id": "PD/SE32-32SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/SE32-33": {
     "name": "ＭＥＩＫＯ“ストロベリーウィッチ”",
@@ -721,7 +758,8 @@
         "id": "PD/SE32-33",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/SE32-34": {
     "name": "ＭＥＩＫＯ“アイヴィーグリモワール”",
@@ -739,7 +777,8 @@
         "id": "PD/SE32-34",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-35": {
     "name": "巡音ルカ“謎の女幹部”",
@@ -757,7 +796,8 @@
         "id": "PD/SE32-35",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/SE32-36": {
     "name": "ＭＥＩＫＯ“卑怯レッド”",
@@ -775,7 +815,8 @@
         "id": "PD/SE32-36",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/SE32-37": {
     "name": "初音ミク“アノード・エレクトロニカ”",
@@ -793,7 +834,8 @@
         "id": "PD/SE32-37",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-38": {
     "name": "巡音ルカ“カソード・エレクトロニカ”",
@@ -811,7 +853,8 @@
         "id": "PD/SE32-38",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-39": {
     "name": "Sharing The World",
@@ -829,7 +872,8 @@
         "id": "PD/SE32-39",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-40": {
     "name": "巡音ルカ“十六夜”",
@@ -847,7 +891,8 @@
         "id": "PD/SE32-40",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-41": {
     "name": "紅一葉",
@@ -865,7 +910,8 @@
         "id": "PD/SE32-41",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PD/SE32-42": {
     "name": "Amazing Dolce",
@@ -883,7 +929,8 @@
         "id": "PD/SE32-42",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-43": {
     "name": "初音ミク“レイヤードエンヴィー”",
@@ -901,7 +948,8 @@
         "id": "PD/SE32-43",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-44": {
     "name": "初音ミク“シー・リリィ”",
@@ -919,7 +967,8 @@
         "id": "PD/SE32-44",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-45": {
     "name": "ＫＡＩＴＯ“卑怯ブルー”",
@@ -937,7 +986,8 @@
         "id": "PD/SE32-45",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/SE32-46": {
     "name": "ＫＡＩＴＯ“ミステリアス・バタフライ”",
@@ -955,7 +1005,8 @@
         "id": "PD/SE32-46",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-47": {
     "name": "初音ミク“グリーンぽんぽこ”",
@@ -973,7 +1024,8 @@
         "id": "PD/SE32-47",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/SE32-48": {
     "name": "鏡音リン“オレンジこんこん”",
@@ -991,7 +1043,8 @@
         "id": "PD/SE32-48",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/SE32-49": {
     "name": "ウミユリ海底譚",
@@ -1009,7 +1062,8 @@
         "id": "PD/SE32-49",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/SE32-50": {
     "name": "卑怯戦隊うろたんだー",
@@ -1031,6 +1085,7 @@
         "id": "PD/SE32-50b",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

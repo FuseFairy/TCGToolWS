@@ -15,7 +15,8 @@
         "id": "OVL/S62-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-P02": {
     "name": "歓喜の嬌声 アルベド",
@@ -33,7 +34,8 @@
         "id": "OVL/S62-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-101": {
     "name": "ナザリックの忠臣 デミウルゴス",
@@ -51,7 +53,8 @@
         "id": "OVL/S62-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-102": {
     "name": "独特な言葉遣い シャルティア",
@@ -69,7 +72,8 @@
         "id": "OVL/S62-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-103": {
     "name": "最愛の御方へ アルベド",
@@ -87,7 +91,8 @@
         "id": "OVL/S62-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-104": {
     "name": "武器戦闘最強 コキュートス",
@@ -105,7 +110,8 @@
         "id": "OVL/S62-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-105": {
     "name": "内気な男の娘 マーレ",
@@ -123,7 +129,8 @@
         "id": "OVL/S62-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-106": {
     "name": "精神操作の吐息 アウラ",
@@ -141,6 +148,7 @@
         "id": "OVL/S62-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

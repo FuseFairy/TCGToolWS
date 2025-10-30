@@ -19,7 +19,8 @@
         "id": "FS/S64-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-002": {
     "name": "誰が為の正義 士郎",
@@ -41,7 +42,8 @@
         "id": "FS/S64-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-003": {
     "name": "託された弓兵の腕 士郎",
@@ -63,7 +65,8 @@
         "id": "FS/S64-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-004": {
     "name": "杯に伸ばす手 セイバー",
@@ -85,7 +88,8 @@
         "id": "FS/S64-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-005": {
     "name": "風纏う聖剣 セイバー",
@@ -103,7 +107,8 @@
         "id": "FS/S64-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-006": {
     "name": "照れ気味の表情 士郎",
@@ -121,7 +126,8 @@
         "id": "FS/S64-006",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-007": {
     "name": "苛烈な英雄王 ギルガメッシュ",
@@ -139,7 +145,8 @@
         "id": "FS/S64-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-008": {
     "name": "マスターとして 士郎",
@@ -157,7 +164,8 @@
         "id": "FS/S64-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-009": {
     "name": "“レイン”士郎",
@@ -175,7 +183,8 @@
         "id": "FS/S64-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-010": {
     "name": "ケガの具合 士郎",
@@ -193,7 +202,8 @@
         "id": "FS/S64-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-011": {
     "name": "できること 士郎",
@@ -211,7 +221,8 @@
         "id": "FS/S64-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-012": {
     "name": "託されたもの 士郎",
@@ -229,7 +240,8 @@
         "id": "FS/S64-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-013": {
     "name": "気さくな先生 大河",
@@ -247,7 +259,8 @@
         "id": "FS/S64-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-014": {
     "name": "海外の知り合い？ セイバー",
@@ -265,7 +278,8 @@
         "id": "FS/S64-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-015": {
     "name": "生徒会長 一成",
@@ -283,7 +297,8 @@
         "id": "FS/S64-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-016": {
     "name": "強い正義感 士郎",
@@ -301,7 +316,8 @@
         "id": "FS/S64-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-017": {
     "name": "弓道部の部長 綾子",
@@ -319,7 +335,8 @@
         "id": "FS/S64-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-018": {
     "name": "黄金の慈悲 ギルガメッシュ",
@@ -337,7 +354,8 @@
         "id": "FS/S64-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-019": {
     "name": "朝焼けの微笑み セイバー",
@@ -355,7 +373,8 @@
         "id": "FS/S64-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-020": {
     "name": "抑え込まれた英霊の力",
@@ -377,7 +396,8 @@
         "id": "FS/S64-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-021": {
     "name": "風王鉄槌",
@@ -399,7 +419,8 @@
         "id": "FS/S64-021R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-022": {
     "name": "ひとりだけの帰路",
@@ -417,7 +438,8 @@
         "id": "FS/S64-022",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FS/S64-023": {
     "name": "“presage flower”桜",
@@ -439,7 +461,8 @@
         "id": "FS/S64-023SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-024": {
     "name": "かけがえのない存在 桜",
@@ -461,7 +484,8 @@
         "id": "FS/S64-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-025": {
     "name": "華やぐ笑顔 桜",
@@ -483,7 +507,8 @@
         "id": "FS/S64-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-026": {
     "name": "怪物の一睨 ライダー",
@@ -505,7 +530,8 @@
         "id": "FS/S64-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-027": {
     "name": "狙いすますライダー",
@@ -527,7 +553,8 @@
         "id": "FS/S64-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-028": {
     "name": "平和な朝 桜",
@@ -545,7 +572,8 @@
         "id": "FS/S64-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-029": {
     "name": "歪みゆく日常 桜",
@@ -567,7 +595,8 @@
         "id": "FS/S64-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-030": {
     "name": "しなやかな体躯 ライダー",
@@ -589,7 +618,8 @@
         "id": "FS/S64-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-031": {
     "name": "FLUFFY 桜",
@@ -611,7 +641,8 @@
         "id": "FS/S64-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-032": {
     "name": "“矢避けの加護”ランサー",
@@ -629,7 +660,8 @@
         "id": "FS/S64-032",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-033": {
     "name": "妖美 ライダー",
@@ -647,7 +679,8 @@
         "id": "FS/S64-033",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-034": {
     "name": "帰り待つ桜",
@@ -665,7 +698,8 @@
         "id": "FS/S64-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-035": {
     "name": "持たざる者の苦悩 慎二",
@@ -683,7 +717,8 @@
         "id": "FS/S64-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-036": {
     "name": "真意のありか ライダー",
@@ -701,7 +736,8 @@
         "id": "FS/S64-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-037": {
     "name": "マスターの力量 ライダー",
@@ -719,7 +755,8 @@
         "id": "FS/S64-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-038": {
     "name": "“レイン” 桜",
@@ -737,7 +774,8 @@
         "id": "FS/S64-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-039": {
     "name": "反英雄の騎兵 ライダー",
@@ -755,7 +793,8 @@
         "id": "FS/S64-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-040": {
     "name": "最後の一画 桜",
@@ -773,7 +812,8 @@
         "id": "FS/S64-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-041": {
     "name": "アルスターの勇士 ランサー",
@@ -791,7 +831,8 @@
         "id": "FS/S64-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-042": {
     "name": "仮初めのマスター 慎二",
@@ -809,7 +850,8 @@
         "id": "FS/S64-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-043": {
     "name": "お勉強モード 桜",
@@ -827,7 +869,8 @@
         "id": "FS/S64-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-044": {
     "name": "衛宮邸でお手伝い 桜",
@@ -845,7 +888,8 @@
         "id": "FS/S64-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-045": {
     "name": "好戦的な笑み ランサー",
@@ -863,7 +907,8 @@
         "id": "FS/S64-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-046": {
     "name": "“サーヴァントチェイス”ランサー",
@@ -881,7 +926,8 @@
         "id": "FS/S64-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-047": {
     "name": "“怪力”ライダー",
@@ -899,7 +945,8 @@
         "id": "FS/S64-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-048": {
     "name": "気骨ある槍兵 ランサー",
@@ -917,7 +964,8 @@
         "id": "FS/S64-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-049": {
     "name": "うなされる 桜",
@@ -935,7 +983,8 @@
         "id": "FS/S64-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-050": {
     "name": "幽玄の騎兵 ライダー",
@@ -953,7 +1002,8 @@
         "id": "FS/S64-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-051": {
     "name": "偽臣の書",
@@ -971,7 +1021,8 @@
         "id": "FS/S64-051",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-052": {
     "name": "思い出語り",
@@ -993,7 +1044,8 @@
         "id": "FS/S64-052R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-053": {
     "name": "石化の魔眼",
@@ -1015,7 +1067,8 @@
         "id": "FS/S64-053R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-054": {
     "name": "I'm starved!",
@@ -1033,7 +1086,8 @@
         "id": "FS/S64-054",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FS/S64-055": {
     "name": "因果逆転の一刺",
@@ -1051,7 +1105,8 @@
         "id": "FS/S64-055",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FS/S64-056": {
     "name": "酷薄の騎士王 セイバーオルタ",
@@ -1073,7 +1128,8 @@
         "id": "FS/S64-056SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-057": {
     "name": "“冬木の管理者”凛",
@@ -1095,7 +1151,8 @@
         "id": "FS/S64-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-058": {
     "name": "曰くの英霊 アーチャー",
@@ -1117,7 +1174,8 @@
         "id": "FS/S64-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-059": {
     "name": "多彩な戦法 アーチャー",
@@ -1139,7 +1197,8 @@
         "id": "FS/S64-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-060": {
     "name": "夢のようなひととき 凛",
@@ -1161,7 +1220,8 @@
         "id": "FS/S64-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-061": {
     "name": "黒い影",
@@ -1179,7 +1239,8 @@
         "id": "FS/S64-061",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-062": {
     "name": "ぎこちない関係 凛",
@@ -1201,7 +1262,8 @@
         "id": "FS/S64-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-063": {
     "name": "HEROIC 凛＆アーチャー",
@@ -1223,7 +1285,8 @@
         "id": "FS/S64-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-064": {
     "name": "圧倒する力 セイバーオルタ",
@@ -1241,7 +1304,8 @@
         "id": "FS/S64-064",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-065": {
     "name": "真っ直ぐな正義感 凛",
@@ -1263,7 +1327,8 @@
         "id": "FS/S64-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-066": {
     "name": "驚愕の表情 凛",
@@ -1281,7 +1346,8 @@
         "id": "FS/S64-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-067": {
     "name": "雨中の対峙 アーチャー",
@@ -1299,7 +1365,8 @@
         "id": "FS/S64-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-068": {
     "name": "英断 アーチャー",
@@ -1317,7 +1384,8 @@
         "id": "FS/S64-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-069": {
     "name": "譲らぬ攻防 セイバーオルタ",
@@ -1335,7 +1403,8 @@
         "id": "FS/S64-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-070": {
     "name": "猫かぶりの才媛 凛",
@@ -1353,7 +1422,8 @@
         "id": "FS/S64-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-071": {
     "name": "明かされる素顔 セイバーオルタ",
@@ -1371,7 +1441,8 @@
         "id": "FS/S64-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-072": {
     "name": "臨戦態勢 アーチャー",
@@ -1389,7 +1460,8 @@
         "id": "FS/S64-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-073": {
     "name": "黒衣の剣士 セイバーオルタ",
@@ -1407,7 +1479,8 @@
         "id": "FS/S64-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-074": {
     "name": "保護の提案 凛",
@@ -1425,7 +1498,8 @@
         "id": "FS/S64-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-075": {
     "name": "一対の刃 アーチャー",
@@ -1443,7 +1517,8 @@
         "id": "FS/S64-075",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-076": {
     "name": "今後の方針 凛",
@@ -1461,7 +1536,8 @@
         "id": "FS/S64-076",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-077": {
     "name": "桜のリボン",
@@ -1479,7 +1555,8 @@
         "id": "FS/S64-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-078": {
     "name": "英霊を飲む影",
@@ -1497,7 +1574,8 @@
         "id": "FS/S64-078",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-079": {
     "name": "離れた時間の距離",
@@ -1519,7 +1597,8 @@
         "id": "FS/S64-079R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FS/S64-080": {
     "name": "最善の選択",
@@ -1541,7 +1620,8 @@
         "id": "FS/S64-080R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FS/S64-081": {
     "name": "約束された勝利の剣",
@@ -1563,7 +1643,8 @@
         "id": "FS/S64-081R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-082": {
     "name": "ミステリアスな少女 イリヤスフィール",
@@ -1585,7 +1666,8 @@
         "id": "FS/S64-082SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-083": {
     "name": "闇色の攻防 真アサシン",
@@ -1603,7 +1685,8 @@
         "id": "FS/S64-083",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-084": {
     "name": "昼間の一面 イリヤスフィール",
@@ -1625,7 +1708,8 @@
         "id": "FS/S64-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-085": {
     "name": "狂戦士の咆哮 バーサーカー",
@@ -1647,7 +1731,8 @@
         "id": "FS/S64-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-086": {
     "name": "不敵な笑み イリヤスフィール",
@@ -1665,7 +1750,8 @@
         "id": "FS/S64-086",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-087": {
     "name": "勇猛なる戦士 バーサーカー",
@@ -1687,7 +1773,8 @@
         "id": "FS/S64-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-088": {
     "name": "“ルールブレイカー”キャスター",
@@ -1705,7 +1792,8 @@
         "id": "FS/S64-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-089": {
     "name": "戦局を見据える イリヤスフィール",
@@ -1723,7 +1811,8 @@
         "id": "FS/S64-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-090": {
     "name": "不撓不屈 バーサーカー",
@@ -1741,7 +1830,8 @@
         "id": "FS/S64-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-091": {
     "name": "御三家の一角 イリヤスフィール",
@@ -1759,7 +1849,8 @@
         "id": "FS/S64-091",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-092": {
     "name": "不穏な忠告 イリヤスフィール",
@@ -1777,7 +1868,8 @@
         "id": "FS/S64-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-093": {
     "name": "飄逸の剣士 アサシン",
@@ -1795,7 +1887,8 @@
         "id": "FS/S64-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-094": {
     "name": "“第五次聖杯戦争監督役”綺礼",
@@ -1813,7 +1906,8 @@
         "id": "FS/S64-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-095": {
     "name": "仮面の暗殺者 真アサシン",
@@ -1831,7 +1925,8 @@
         "id": "FS/S64-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-096": {
     "name": "凶猛 バーサーカー",
@@ -1849,7 +1944,8 @@
         "id": "FS/S64-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-097": {
     "name": "言峰の食事",
@@ -1867,7 +1963,8 @@
         "id": "FS/S64-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-098": {
     "name": "熾烈な闘争",
@@ -1889,7 +1986,8 @@
         "id": "FS/S64-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-099": {
     "name": "雪下のローレライ",
@@ -1911,7 +2009,8 @@
         "id": "FS/S64-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-100": {
     "name": "妄想心音",
@@ -1929,6 +2028,7 @@
         "id": "FS/S64-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

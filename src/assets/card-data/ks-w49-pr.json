@@ -15,7 +15,8 @@
         "id": "KS/W49-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W49-P02": {
     "name": "“借金に追われる生活”アクア",
@@ -33,7 +34,8 @@
         "id": "KS/W49-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W49-P03": {
     "name": "“赤い瞳を持つ紅魔族”めぐみん",
@@ -51,7 +53,8 @@
         "id": "KS/W49-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W49-P04": {
     "name": "“私たちがプレゼント♥”めぐみん＆アクア",
@@ -69,7 +72,8 @@
         "id": "KS/W49-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W49-P05": {
     "name": "“日本担当のエリートな女神…？”アクア",
@@ -87,7 +91,8 @@
         "id": "KS/W49-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W49-P06": {
     "name": "“土木工事の作業員”アクア",
@@ -109,7 +114,8 @@
         "id": "KS/W49-P06S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W49-P07": {
     "name": "“もだえる”めぐみん",
@@ -131,7 +137,8 @@
         "id": "KS/W49-P07S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W49-101": {
     "name": "ぷちカズマ",
@@ -149,7 +156,8 @@
         "id": "KS/W49-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W49-102": {
     "name": "ぷちダクネス",
@@ -167,7 +175,8 @@
         "id": "KS/W49-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W49-103": {
     "name": "ぷちめぐみん",
@@ -185,7 +194,8 @@
         "id": "KS/W49-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W49-104": {
     "name": "ぷちアクア",
@@ -203,6 +213,7 @@
         "id": "KS/W49-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

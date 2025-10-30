@@ -15,7 +15,8 @@
         "id": "DS2/SE16-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-02": {
     "name": "“悪魔使い”ヒビキ",
@@ -33,7 +34,8 @@
         "id": "DS2/SE16-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-03": {
     "name": "活発な少女 アイリ",
@@ -51,7 +53,8 @@
         "id": "DS2/SE16-03",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-04": {
     "name": "“悪魔使い”ケイタ",
@@ -69,7 +72,8 @@
         "id": "DS2/SE16-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-05": {
     "name": "稀有なる資質 ヒビキ",
@@ -87,7 +91,8 @@
         "id": "DS2/SE16-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-06": {
     "name": "ダイチ＆じゃあくフロスト",
@@ -105,7 +110,8 @@
         "id": "DS2/SE16-06",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS2/SE16-07": {
     "name": "7日間の戦い イオ",
@@ -123,7 +129,8 @@
         "id": "DS2/SE16-07",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-08": {
     "name": "“悪魔使い”アイリ",
@@ -141,7 +148,8 @@
         "id": "DS2/SE16-08",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS2/SE16-09": {
     "name": "“輝く者”ヒビキ",
@@ -159,7 +167,8 @@
         "id": "DS2/SE16-09",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS2/SE16-10": {
     "name": "人見知り イオ",
@@ -177,7 +186,8 @@
         "id": "DS2/SE16-10",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS2/SE16-11": {
     "name": "“悪魔使い”ジュンゴ",
@@ -195,7 +205,8 @@
         "id": "DS2/SE16-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-12": {
     "name": "“悪魔使い”ダイチ",
@@ -213,7 +224,8 @@
         "id": "DS2/SE16-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-13": {
     "name": "一匹狼 ケイタ",
@@ -231,7 +243,8 @@
         "id": "DS2/SE16-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-14": {
     "name": "元刑事 ロナウド",
@@ -249,7 +262,8 @@
         "id": "DS2/SE16-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-15": {
     "name": "家族を想うイオ",
@@ -267,7 +281,8 @@
         "id": "DS2/SE16-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-16": {
     "name": "生きる意志 ヒビキ",
@@ -285,7 +300,8 @@
         "id": "DS2/SE16-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-17": {
     "name": "“悪魔使い”ロナウド",
@@ -303,7 +319,8 @@
         "id": "DS2/SE16-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-18": {
     "name": "テキトーな男 ジョー",
@@ -321,7 +338,8 @@
         "id": "DS2/SE16-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-19": {
     "name": "姉御肌 ヒナコ",
@@ -339,7 +357,8 @@
         "id": "DS2/SE16-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS2/SE16-20": {
     "name": "ヒビキ＆ビャッコ",
@@ -357,7 +376,8 @@
         "id": "DS2/SE16-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-21": {
     "name": "闘う決意 ヒビキ",
@@ -375,7 +395,8 @@
         "id": "DS2/SE16-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS2/SE16-22": {
     "name": "イオ＆ルーグ",
@@ -393,7 +414,8 @@
         "id": "DS2/SE16-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS2/SE16-23": {
     "name": "“悪魔使い”ヒナコ",
@@ -411,7 +433,8 @@
         "id": "DS2/SE16-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS2/SE16-24": {
     "name": "優しい板前 ジュンゴ",
@@ -429,7 +452,8 @@
         "id": "DS2/SE16-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS2/SE16-25": {
     "name": "“悪魔使い”ジョー",
@@ -447,7 +471,8 @@
         "id": "DS2/SE16-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS2/SE16-26": {
     "name": "ルシファー",
@@ -465,7 +490,8 @@
         "id": "DS2/SE16-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS2/SE16-27": {
     "name": "死に顔動画",
@@ -483,7 +509,8 @@
         "id": "DS2/SE16-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-28": {
     "name": "ビャッコ召喚",
@@ -501,7 +528,8 @@
         "id": "DS2/SE16-28",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS2/SE16-29": {
     "name": "私、生きたい",
@@ -519,7 +547,8 @@
         "id": "DS2/SE16-29",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DS2/SE16-30": {
     "name": "“憂う者”アルコル",
@@ -537,7 +566,8 @@
         "id": "DS2/SE16-30",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-31": {
     "name": "凛とした美貌 マコト",
@@ -555,7 +585,8 @@
         "id": "DS2/SE16-31",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-32": {
     "name": "“悪魔使い”フミ",
@@ -573,7 +604,8 @@
         "id": "DS2/SE16-32",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-33": {
     "name": "“悪魔使い”ヤマト",
@@ -591,7 +623,8 @@
         "id": "DS2/SE16-33",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS2/SE16-34": {
     "name": "最後の戦い ヤマト",
@@ -609,7 +642,8 @@
         "id": "DS2/SE16-34",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS2/SE16-35": {
     "name": "“龍脈”の力 ヤマト",
@@ -627,7 +661,8 @@
         "id": "DS2/SE16-35",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-36": {
     "name": "俗事への無関心 フミ",
@@ -645,7 +680,8 @@
         "id": "DS2/SE16-36",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-37": {
     "name": "ジプス専属医 オトメ",
@@ -663,7 +699,8 @@
         "id": "DS2/SE16-37",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-38": {
     "name": "不思議な存在 アルコル",
@@ -681,7 +718,8 @@
         "id": "DS2/SE16-38",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-39": {
     "name": "ヤマト＆ケルベロス",
@@ -699,7 +737,8 @@
         "id": "DS2/SE16-39",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-40": {
     "name": "“悪魔使い”オトメ",
@@ -717,7 +756,8 @@
         "id": "DS2/SE16-40",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS2/SE16-41": {
     "name": "“悪魔使い”マコト",
@@ -735,7 +775,8 @@
         "id": "DS2/SE16-41",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS2/SE16-42": {
     "name": "縁を断ち切るヤマト",
@@ -753,7 +794,8 @@
         "id": "DS2/SE16-42",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS2/SE16-43": {
     "name": "龍脈",
@@ -771,7 +813,8 @@
         "id": "DS2/SE16-43",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-44": {
     "name": "悪魔合体",
@@ -789,7 +832,8 @@
         "id": "DS2/SE16-44",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-45": {
     "name": "ヤマト VS アルコル",
@@ -807,6 +851,7 @@
         "id": "DS2/SE16-45",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

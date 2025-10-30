@@ -15,7 +15,8 @@
         "id": "GRI/S84-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-P08": {
     "name": "降り積もる雪 天音",
@@ -33,7 +34,8 @@
         "id": "GRI/S84-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-P09": {
     "name": "彩に溶けて 天音＆一姫",
@@ -51,7 +53,8 @@
         "id": "GRI/S84-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-P01": {
     "name": "楽園を目指す少女 蒔菜",
@@ -73,7 +76,8 @@
         "id": "GRI/S84-P01OFR",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-P02": {
     "name": "楽園を目指す少女 由美子",
@@ -95,7 +99,8 @@
         "id": "GRI/S84-P02OFR",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-P03": {
     "name": "楽園を目指す少女 幸",
@@ -117,7 +122,8 @@
         "id": "GRI/S84-P03OFR",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-P04": {
     "name": "楽園を目指す少女 天音",
@@ -139,7 +145,8 @@
         "id": "GRI/S84-P04OFR",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-P05": {
     "name": "楽園を目指す少女 みちる",
@@ -161,7 +168,8 @@
         "id": "GRI/S84-P05OFR",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-P06": {
     "name": "楽園を目指す少女 一姫",
@@ -183,6 +191,7 @@
         "id": "GRI/S84-P06OFR",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

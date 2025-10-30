@@ -23,7 +23,8 @@
         "id": "Sky/W123-062SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sky/W123-064": {
     "name": "氷狼族の少女 セツナ",
@@ -49,7 +50,8 @@
         "id": "Sky/W123-064SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sky/W123-084": {
     "name": "【剣聖】 クレハ",
@@ -75,7 +77,8 @@
         "id": "Sky/W123-084SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Sky/W123-096": {
     "name": "演説の後は",
@@ -97,6 +100,7 @@
         "id": "Sky/W123-096R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

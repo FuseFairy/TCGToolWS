@@ -15,7 +15,8 @@
         "id": "GG/S23-001",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-002": {
     "name": "サルベージ屋 べローズ",
@@ -33,7 +34,8 @@
         "id": "GG/S23-002",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-003": {
     "name": "船団代表補佐 リジット",
@@ -55,7 +57,8 @@
         "id": "GG/S23-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-004": {
     "name": "驚きの目 べローズ",
@@ -73,7 +76,8 @@
         "id": "GG/S23-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-005": {
     "name": "水着のリジット",
@@ -91,7 +95,8 @@
         "id": "GG/S23-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-006": {
     "name": "助言するべローズ",
@@ -109,7 +114,8 @@
         "id": "GG/S23-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-007": {
     "name": "謝肉祭 べローズ",
@@ -127,7 +133,8 @@
         "id": "GG/S23-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-008": {
     "name": "船団長 フェアロック",
@@ -145,7 +152,8 @@
         "id": "GG/S23-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-009": {
     "name": "困惑の瞳 べローズ",
@@ -163,7 +171,8 @@
         "id": "GG/S23-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-010": {
     "name": "焼き肉パーティー ピニオン",
@@ -181,7 +190,8 @@
         "id": "GG/S23-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-011": {
     "name": "一つの頼み べローズ",
@@ -199,7 +209,8 @@
         "id": "GG/S23-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-012": {
     "name": "振り切れたピニオン",
@@ -217,7 +228,8 @@
         "id": "GG/S23-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-013": {
     "name": "お調子者 ピニオン",
@@ -235,7 +247,8 @@
         "id": "GG/S23-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-014": {
     "name": "仕事中 ジョー",
@@ -253,7 +266,8 @@
         "id": "GG/S23-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-015": {
     "name": "霧の海を見つめるマイタ",
@@ -271,7 +285,8 @@
         "id": "GG/S23-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-016": {
     "name": "失意のべローズ",
@@ -289,7 +304,8 @@
         "id": "GG/S23-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-017": {
     "name": "兄の記憶 ピニオン",
@@ -307,7 +323,8 @@
         "id": "GG/S23-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-018": {
     "name": "盟主 リジット",
@@ -325,7 +342,8 @@
         "id": "GG/S23-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-019": {
     "name": "医師 オルダム",
@@ -343,7 +361,8 @@
         "id": "GG/S23-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-020": {
     "name": "問いかけるリジット",
@@ -361,7 +380,8 @@
         "id": "GG/S23-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-021": {
     "name": "サルベージ",
@@ -379,7 +399,8 @@
         "id": "GG/S23-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-022": {
     "name": "天の梯子",
@@ -397,7 +418,8 @@
         "id": "GG/S23-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-023": {
     "name": "魚を釣ってきた者には真水を与えよ",
@@ -415,7 +437,8 @@
         "id": "GG/S23-023",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-024": {
     "name": "新たなる盟主",
@@ -433,7 +456,8 @@
         "id": "GG/S23-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GG/S23-025": {
     "name": "夢に見た宝島",
@@ -451,7 +475,8 @@
         "id": "GG/S23-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GG/S23-026": {
     "name": "独自の判断 チェインバー",
@@ -469,7 +494,8 @@
         "id": "GG/S23-026",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-027": {
     "name": "マシンキャリバー チェインバー",
@@ -491,7 +517,8 @@
         "id": "GG/S23-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-028": {
     "name": "交戦態勢 ストライカー",
@@ -509,7 +536,8 @@
         "id": "GG/S23-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-029": {
     "name": "漁に出るチェインバー",
@@ -527,7 +555,8 @@
         "id": "GG/S23-029",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-030": {
     "name": "荷運び中 チェインバー",
@@ -545,7 +574,8 @@
         "id": "GG/S23-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-031": {
     "name": "ブリキの大将 チェインバー",
@@ -567,7 +597,8 @@
         "id": "GG/S23-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-032": {
     "name": "波乗り ラケージ",
@@ -585,7 +616,8 @@
         "id": "GG/S23-032",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-033": {
     "name": "舞い降りるレド＆チェインバー",
@@ -603,7 +635,8 @@
         "id": "GG/S23-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-034": {
     "name": "真水集め チェインバー",
@@ -621,7 +654,8 @@
         "id": "GG/S23-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-035": {
     "name": "ラケージユンボロ",
@@ -639,7 +673,8 @@
         "id": "GG/S23-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-036": {
     "name": "応答するチェインバー",
@@ -661,7 +696,8 @@
         "id": "GG/S23-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-037": {
     "name": "凪の日 チェインバー",
@@ -679,7 +715,8 @@
         "id": "GG/S23-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-038": {
     "name": "クジライカ討伐 チェインバー",
@@ -701,7 +738,8 @@
         "id": "GG/S23-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-039": {
     "name": "戦闘中 チェインバー",
@@ -719,7 +757,8 @@
         "id": "GG/S23-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-040": {
     "name": "大海賊 ラケージ",
@@ -737,7 +776,8 @@
         "id": "GG/S23-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-041": {
     "name": "ラケージの側近 パリヌリ",
@@ -755,7 +795,8 @@
         "id": "GG/S23-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-042": {
     "name": "ラケージの側近 パラエム",
@@ -773,7 +814,8 @@
         "id": "GG/S23-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-043": {
     "name": "グラビティ・ウェイバー チェインバー",
@@ -791,7 +833,8 @@
         "id": "GG/S23-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-044": {
     "name": "反逆 ラケージ",
@@ -809,7 +852,8 @@
         "id": "GG/S23-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-045": {
     "name": "神を名乗るストライカー",
@@ -827,7 +871,8 @@
         "id": "GG/S23-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-046": {
     "name": "鉄板チェインバー",
@@ -845,7 +890,8 @@
         "id": "GG/S23-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-047": {
     "name": "マキシマイズ ニューロプラスパワード",
@@ -863,7 +909,8 @@
         "id": "GG/S23-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-048": {
     "name": "デフレクタービーム",
@@ -881,7 +928,8 @@
         "id": "GG/S23-048",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-049": {
     "name": "くたばれ、ブリキ野郎！",
@@ -899,7 +947,8 @@
         "id": "GG/S23-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GG/S23-050": {
     "name": "波乗りロブスター",
@@ -917,7 +966,8 @@
         "id": "GG/S23-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GG/S23-051": {
     "name": "メッセンジャー エイミー",
@@ -939,7 +989,8 @@
         "id": "GG/S23-051R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-052": {
     "name": "気付いた想い エイミー",
@@ -961,7 +1012,8 @@
         "id": "GG/S23-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-053": {
     "name": "明るい笑顔 エイミー",
@@ -983,7 +1035,8 @@
         "id": "GG/S23-053R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-054": {
     "name": "驚きの出会い エイミー",
@@ -1005,7 +1058,8 @@
         "id": "GG/S23-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-055": {
     "name": "興味津々 エイミー",
@@ -1023,7 +1077,8 @@
         "id": "GG/S23-055",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-056": {
     "name": "船上での生活 エイミー",
@@ -1041,7 +1096,8 @@
         "id": "GG/S23-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-057": {
     "name": "踊り子 エイミー",
@@ -1063,7 +1119,8 @@
         "id": "GG/S23-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-058": {
     "name": "宇宙への憧れ ベベル",
@@ -1081,7 +1138,8 @@
         "id": "GG/S23-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-059": {
     "name": "駆け寄るエイミー",
@@ -1099,7 +1157,8 @@
         "id": "GG/S23-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-060": {
     "name": "感心するエイミー",
@@ -1117,7 +1176,8 @@
         "id": "GG/S23-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-061": {
     "name": "微笑む エイミー",
@@ -1139,7 +1199,8 @@
         "id": "GG/S23-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-062": {
     "name": "茶化すメルティ",
@@ -1157,7 +1218,8 @@
         "id": "GG/S23-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-063": {
     "name": "のんびり サーヤ",
@@ -1175,7 +1237,8 @@
         "id": "GG/S23-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-064": {
     "name": "喜ぶエイミー",
@@ -1193,7 +1256,8 @@
         "id": "GG/S23-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-065": {
     "name": "エイミーのお供 グレイス",
@@ -1211,7 +1275,8 @@
         "id": "GG/S23-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-066": {
     "name": "いたずらっ子 メルティ",
@@ -1229,7 +1294,8 @@
         "id": "GG/S23-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-067": {
     "name": "水着のサーヤ",
@@ -1247,7 +1313,8 @@
         "id": "GG/S23-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-068": {
     "name": "おっとり娘 サーヤ",
@@ -1265,7 +1332,8 @@
         "id": "GG/S23-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-069": {
     "name": "水着のメルティ",
@@ -1283,7 +1351,8 @@
         "id": "GG/S23-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-070": {
     "name": "水着のエイミー",
@@ -1301,7 +1370,8 @@
         "id": "GG/S23-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-071": {
     "name": "干物",
@@ -1319,7 +1389,8 @@
         "id": "GG/S23-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-072": {
     "name": "逃走！",
@@ -1337,7 +1408,8 @@
         "id": "GG/S23-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-073": {
     "name": "翠星のガルガンティア",
@@ -1355,7 +1427,8 @@
         "id": "GG/S23-073",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-074": {
     "name": "友愛の儀式",
@@ -1373,7 +1446,8 @@
         "id": "GG/S23-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GG/S23-075": {
     "name": "だから帰ってきて！",
@@ -1391,7 +1465,8 @@
         "id": "GG/S23-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GG/S23-076": {
     "name": "宇宙から来た少年 レド",
@@ -1413,7 +1488,8 @@
         "id": "GG/S23-076R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-077": {
     "name": "人類銀河同盟との訣別 レド",
@@ -1435,7 +1511,8 @@
         "id": "GG/S23-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-078": {
     "name": "大空の下 レド＆チェインバー",
@@ -1457,7 +1534,8 @@
         "id": "GG/S23-078SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-079": {
     "name": "精神統一 レド",
@@ -1479,7 +1557,8 @@
         "id": "GG/S23-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-080": {
     "name": "見知らぬ土地 レド",
@@ -1501,7 +1580,8 @@
         "id": "GG/S23-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-081": {
     "name": "愛機との別れ レド",
@@ -1519,7 +1599,8 @@
         "id": "GG/S23-081",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-082": {
     "name": "信念の崩壊 レド",
@@ -1537,7 +1618,8 @@
         "id": "GG/S23-082",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-083": {
     "name": "船上での生活 レド",
@@ -1555,7 +1637,8 @@
         "id": "GG/S23-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-084": {
     "name": "果たすべき務め チェインバー",
@@ -1573,7 +1656,8 @@
         "id": "GG/S23-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-085": {
     "name": "ヒディアーズ幼生体",
@@ -1591,7 +1675,8 @@
         "id": "GG/S23-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-086": {
     "name": "上官 クーゲル",
@@ -1609,7 +1694,8 @@
         "id": "GG/S23-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-087": {
     "name": "クジライカ",
@@ -1627,7 +1713,8 @@
         "id": "GG/S23-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-088": {
     "name": "強い眼差し レド",
@@ -1645,7 +1732,8 @@
         "id": "GG/S23-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-089": {
     "name": "冒険家 レド",
@@ -1663,7 +1751,8 @@
         "id": "GG/S23-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-090": {
     "name": "試行錯誤の笑顔 レド",
@@ -1681,7 +1770,8 @@
         "id": "GG/S23-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-091": {
     "name": "操縦席のレド",
@@ -1699,7 +1789,8 @@
         "id": "GG/S23-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-092": {
     "name": "思案するレド",
@@ -1717,7 +1808,8 @@
         "id": "GG/S23-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-093": {
     "name": "偽りの再会 クーゲル",
@@ -1735,7 +1827,8 @@
         "id": "GG/S23-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-094": {
     "name": "進化の過程 ヒディアーズ",
@@ -1753,7 +1846,8 @@
         "id": "GG/S23-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-095": {
     "name": "ヒディアーズ",
@@ -1771,7 +1865,8 @@
         "id": "GG/S23-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-096": {
     "name": "隠された真実",
@@ -1789,7 +1884,8 @@
         "id": "GG/S23-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-097": {
     "name": "レドの笛",
@@ -1807,7 +1903,8 @@
         "id": "GG/S23-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-098": {
     "name": "最後の支援啓発",
@@ -1825,7 +1922,8 @@
         "id": "GG/S23-098",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-099": {
     "name": "海賊迎撃",
@@ -1843,7 +1941,8 @@
         "id": "GG/S23-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GG/S23-100": {
     "name": "宇宙から来た少年",
@@ -1861,6 +1960,7 @@
         "id": "GG/S23-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

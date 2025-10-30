@@ -19,7 +19,8 @@
         "id": "BD/W125-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W125-T02": {
     "name": "“Perdere Omnia”オブリビオニス",
@@ -45,7 +46,8 @@
         "id": "BD/W125-T02SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W125-T03": {
     "name": "“Perdere Omnia”モーティス",
@@ -71,7 +73,8 @@
         "id": "BD/W125-T03SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W125-T04": {
     "name": "“Quaerere Lumina”オブリビオニス",
@@ -93,7 +96,8 @@
         "id": "BD/W125-T04R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W125-T05": {
     "name": "“Veritas”モーティス",
@@ -115,7 +119,8 @@
         "id": "BD/W125-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W125-T06": {
     "name": "“Veritas”オブリビオニス",
@@ -137,7 +142,8 @@
         "id": "BD/W125-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W125-T07": {
     "name": "Choir ‘S’ Choir",
@@ -159,7 +165,8 @@
         "id": "BD/W125-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W125-T08": {
     "name": "“Quaerere Lumina”アモーリス",
@@ -181,7 +188,8 @@
         "id": "BD/W125-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W125-T09": {
     "name": "“Quaerere Lumina”ドロリス",
@@ -203,7 +211,8 @@
         "id": "BD/W125-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W125-T10": {
     "name": "“Veritas”ドロリス",
@@ -229,7 +238,8 @@
         "id": "BD/W125-T10S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W125-T11": {
     "name": "“Perdere Omnia”ティモリス",
@@ -255,7 +265,8 @@
         "id": "BD/W125-T11SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W125-T12": {
     "name": "“Veritas”アモーリス",
@@ -277,7 +288,8 @@
         "id": "BD/W125-T12R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W125-T13": {
     "name": "“Perdere Omnia”アモーリス",
@@ -303,7 +315,8 @@
         "id": "BD/W125-T13SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W125-T14": {
     "name": "“Veritas”ティモリス",
@@ -325,7 +338,8 @@
         "id": "BD/W125-T14R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W125-T15": {
     "name": "“Quaerere Lumina”ティモリス",
@@ -347,7 +361,8 @@
         "id": "BD/W125-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W125-T16": {
     "name": "“Perdere Omnia”ドロリス",
@@ -373,7 +388,8 @@
         "id": "BD/W125-T16SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W125-T17": {
     "name": "ふたつの月⠀~Deep Into The Forest~",
@@ -395,7 +411,8 @@
         "id": "BD/W125-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W125-T18": {
     "name": "黒のバースデイ",
@@ -417,7 +434,8 @@
         "id": "BD/W125-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W125-T19": {
     "name": "神さま、バカ",
@@ -439,6 +457,7 @@
         "id": "BD/W125-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

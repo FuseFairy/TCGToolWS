@@ -19,7 +19,8 @@
         "id": "Fdl/W120-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdl/W120-T09": {
     "name": "女王様で無邪気な妹 琴里",
@@ -41,7 +42,8 @@
         "id": "Fdl/W120-T09SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fdl/W120-T19": {
     "name": "黒衣の〈デビル〉 折紙",
@@ -63,6 +65,7 @@
         "id": "Fdl/W120-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

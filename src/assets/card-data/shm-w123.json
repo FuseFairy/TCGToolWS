@@ -23,7 +23,8 @@
         "id": "Shm/W123-066SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Shm/W123-075": {
     "name": "発火少女 ホムラ",
@@ -49,7 +50,8 @@
         "id": "Shm/W123-075SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Shm/W123-076": {
     "name": "生体兵器少女 ツツミ",
@@ -71,7 +73,8 @@
         "id": "Shm/W123-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Shm/W123-086": {
     "name": "暗殺者少女 ジン",
@@ -93,7 +96,8 @@
         "id": "Shm/W123-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Shm/W123-092": {
     "name": "少女型機械生命体 プロト",
@@ -115,6 +119,7 @@
         "id": "Shm/W123-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

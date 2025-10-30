@@ -15,7 +15,8 @@
         "id": "SW/SE39-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE39-P02": {
     "name": "“帝国軍”ダース・ベイダー",
@@ -33,6 +34,7 @@
         "id": "SW/SE39-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

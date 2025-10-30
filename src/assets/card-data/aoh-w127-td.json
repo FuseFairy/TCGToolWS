@@ -23,7 +23,8 @@
         "id": "AOH/W127-T01SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOH/W127-T02": {
     "name": "夏の思い出 千代浦蝶美",
@@ -49,7 +50,8 @@
         "id": "AOH/W127-T02SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOH/W127-T03": {
     "name": "夏の思い出 ぷわぷわぽぷら",
@@ -75,7 +77,8 @@
         "id": "AOH/W127-T03SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOH/W127-T04": {
     "name": "夏の思い出 我部りえる",
@@ -101,7 +104,8 @@
         "id": "AOH/W127-T04SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOH/W127-T05": {
     "name": "夏の思い出 月赴ゐぶき",
@@ -127,7 +131,8 @@
         "id": "AOH/W127-T05SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOH/W127-T06": {
     "name": "夏の思い出 石狩あかり",
@@ -153,7 +158,8 @@
         "id": "AOH/W127-T06SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOH/W127-T07": {
     "name": "記憶にございません！",
@@ -175,7 +181,8 @@
         "id": "AOH/W127-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOH/W127-T08": {
     "name": "夏の思い出 山黒音玄",
@@ -201,7 +208,8 @@
         "id": "AOH/W127-T08SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOH/W127-T09": {
     "name": "夏の思い出 栗駒こまる",
@@ -227,7 +235,8 @@
         "id": "AOH/W127-T09SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOH/W127-T10": {
     "name": "夏の思い出 うる虎がーる",
@@ -253,7 +262,8 @@
         "id": "AOH/W127-T10SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOH/W127-T11": {
     "name": "夏の思い出 音霊魂子",
@@ -279,7 +289,8 @@
         "id": "AOH/W127-T11SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOH/W127-T12": {
     "name": "夏の思い出 エトラ",
@@ -305,7 +316,8 @@
         "id": "AOH/W127-T12SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOH/W127-T13": {
     "name": "夏の思い出 八十科むじな",
@@ -331,7 +343,8 @@
         "id": "AOH/W127-T13SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOH/W127-T14": {
     "name": "夏の思い出 春雨麗女",
@@ -357,7 +370,8 @@
         "id": "AOH/W127-T14SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOH/W127-T15": {
     "name": "百花繚乱Fireworks",
@@ -379,7 +393,8 @@
         "id": "AOH/W127-T15S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOH/W127-T16": {
     "name": "夏想幻日",
@@ -401,6 +416,7 @@
         "id": "AOH/W127-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

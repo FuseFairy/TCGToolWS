@@ -19,7 +19,8 @@
         "id": "Kcl/W78-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kcl/W78-011": {
     "name": "ひたむきな少女 渚",
@@ -41,7 +42,8 @@
         "id": "Kcl/W78-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kcl/W78-017": {
     "name": "ウェイトレス 渚",
@@ -59,7 +61,8 @@
         "id": "Kcl/W78-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kcl/W78-019": {
     "name": "二人の子供 汐",
@@ -77,7 +80,8 @@
         "id": "Kcl/W78-019",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kcl/W78-027": {
     "name": "悪友との出会い 陽平",
@@ -95,7 +99,8 @@
         "id": "Kcl/W78-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kcl/W78-029": {
     "name": "幸せな時間 朋也",
@@ -113,7 +118,8 @@
         "id": "Kcl/W78-029",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kcl/W78-033": {
     "name": "義理と人情 秋生",
@@ -131,7 +137,8 @@
         "id": "Kcl/W78-033",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kcl/W78-034": {
     "name": "子供たちの先生 早苗",
@@ -149,7 +156,8 @@
         "id": "Kcl/W78-034",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kcl/W78-039": {
     "name": "桜舞い散る坂道",
@@ -171,7 +179,8 @@
         "id": "Kcl/W78-039R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kcl/W78-043": {
     "name": "選んだ道の先 智代",
@@ -193,7 +202,8 @@
         "id": "Kcl/W78-043SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kcl/W78-044": {
     "name": "ヒトデに願いを乗せて 風子",
@@ -215,7 +225,8 @@
         "id": "Kcl/W78-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kcl/W78-045": {
     "name": "生徒会長を目指す少女 智代",
@@ -237,7 +248,8 @@
         "id": "Kcl/W78-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kcl/W78-056": {
     "name": "ヒトデ夢想 風子",
@@ -255,7 +267,8 @@
         "id": "Kcl/W78-056",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kcl/W78-059": {
     "name": "不器用な少女 風子",
@@ -273,7 +286,8 @@
         "id": "Kcl/W78-059",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kcl/W78-061": {
     "name": "愛情のこもった料理 智代",
@@ -291,7 +305,8 @@
         "id": "Kcl/W78-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kcl/W78-064": {
     "name": "雪下の誓い",
@@ -313,7 +328,8 @@
         "id": "Kcl/W78-064R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kcl/W78-068": {
     "name": "世話好きな少女 杏",
@@ -335,7 +351,8 @@
         "id": "Kcl/W78-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kcl/W78-070": {
     "name": "ボタンとの出会い 杏",
@@ -353,7 +370,8 @@
         "id": "Kcl/W78-070",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kcl/W78-082": {
     "name": "バイク通学 杏",
@@ -371,7 +389,8 @@
         "id": "Kcl/W78-082",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kcl/W78-092": {
     "name": "予想外の特技",
@@ -393,7 +412,8 @@
         "id": "Kcl/W78-092R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kcl/W78-098": {
     "name": "浮世離れした少女 ことみ",
@@ -415,7 +435,8 @@
         "id": "Kcl/W78-098S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kcl/W78-102": {
     "name": "クラスの委員長 椋",
@@ -437,7 +458,8 @@
         "id": "Kcl/W78-102S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kcl/W78-106": {
     "name": "星占い 椋",
@@ -455,7 +477,8 @@
         "id": "Kcl/W78-106",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kcl/W78-109": {
     "name": "図書室の主 ことみ",
@@ -473,7 +496,8 @@
         "id": "Kcl/W78-109",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kcl/W78-113": {
     "name": "ヴァイオリン発表会 ことみ",
@@ -491,7 +515,8 @@
         "id": "Kcl/W78-113",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kcl/W78-116": {
     "name": "資料室の管理人 有紀寧",
@@ -509,7 +534,8 @@
         "id": "Kcl/W78-116",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kcl/W78-118": {
     "name": "ラブ・アンド・スパナ",
@@ -527,6 +553,7 @@
         "id": "Kcl/W78-118",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

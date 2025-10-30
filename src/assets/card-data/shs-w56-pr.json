@@ -15,7 +15,8 @@
         "id": "SHS/W56-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-P02": {
     "name": "素直になれない 英梨々",
@@ -33,7 +34,8 @@
         "id": "SHS/W56-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-P03": {
     "name": "粘り強いアプローチ 詩羽",
@@ -55,7 +57,8 @@
         "id": "SHS/W56-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-P04": {
     "name": "二次元の洗礼 恵",
@@ -73,7 +76,8 @@
         "id": "SHS/W56-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-P05": {
     "name": "ツンデレアピール 英梨々",
@@ -91,7 +95,8 @@
         "id": "SHS/W56-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-P06": {
     "name": "フラットなポジション 恵",
@@ -113,7 +118,8 @@
         "id": "SHS/W56-P06S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-P07": {
     "name": "ステルスクラスメイト 恵",
@@ -135,7 +141,8 @@
         "id": "SHS/W56-P07S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-P08": {
     "name": "フラットな彼女 恵",
@@ -153,7 +160,8 @@
         "id": "SHS/W56-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-101": {
     "name": "ねんどろいどぷらす 英梨々",
@@ -171,7 +179,8 @@
         "id": "SHS/W56-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-102": {
     "name": "ねんどろいどぷらす 出海",
@@ -189,7 +198,8 @@
         "id": "SHS/W56-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-103": {
     "name": "ねんどろいどぷらす 恵",
@@ -207,7 +217,8 @@
         "id": "SHS/W56-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-104": {
     "name": "ねんどろいどぷらす 詩羽",
@@ -225,7 +236,8 @@
         "id": "SHS/W56-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-105": {
     "name": "ねんどろいどぷらす 美智留",
@@ -243,6 +255,7 @@
         "id": "SHS/W56-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

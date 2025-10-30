@@ -15,7 +15,8 @@
         "id": "Ksm/WE50-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ksm/WE50-P04": {
     "name": "海を見つめる少女 しろは",
@@ -33,6 +34,7 @@
         "id": "Ksm/WE50-P04EX",
         "rarity": "PR+"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

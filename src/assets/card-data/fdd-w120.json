@@ -23,7 +23,8 @@
         "id": "Fdd/W120-076SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdd/W120-081": {
     "name": "将来を誓いあった仲 リアス",
@@ -49,7 +50,8 @@
         "id": "Fdd/W120-081SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdd/W120-086": {
     "name": "初めてのデート ロスヴァイセ",
@@ -71,7 +73,8 @@
         "id": "Fdd/W120-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fdd/W120-092": {
     "name": "全力アプローチ 朱乃",
@@ -97,7 +100,8 @@
         "id": "Fdd/W120-092SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdd/W120-093": {
     "name": "転生天使 イリナ",
@@ -119,7 +123,8 @@
         "id": "Fdd/W120-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fdd/W120-098": {
     "name": "お出かけ悪魔 アーシア",
@@ -141,7 +146,8 @@
         "id": "Fdd/W120-098S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdd/W120-099": {
     "name": "神器の所有者 夏梅＆鳶雄",
@@ -163,7 +169,8 @@
         "id": "Fdd/W120-099S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdd/W120-104": {
     "name": "むかしの自分を越えて 小猫",
@@ -185,7 +192,8 @@
         "id": "Fdd/W120-104S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdd/W120-110": {
     "name": "リアス・グレモリーの眷属",
@@ -207,6 +215,7 @@
         "id": "Fdd/W120-110R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

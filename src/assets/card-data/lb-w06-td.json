@@ -15,7 +15,8 @@
         "id": "LB/W06-101",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W06-102": {
     "name": "浴衣の沙耶",
@@ -33,7 +34,8 @@
         "id": "LB/W06-102",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W06-T01": {
     "name": "黄昏の街を見下ろす鈴と小毬",
@@ -51,7 +53,8 @@
         "id": "LB/W06-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W06-T02": {
     "name": "“ねがいぼし”小毬",
@@ -69,7 +72,8 @@
         "id": "LB/W06-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W06-T03": {
     "name": "“ムードメーカー”小毬",
@@ -87,7 +91,8 @@
         "id": "LB/W06-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W06-T04": {
     "name": "鈴＆小毬",
@@ -105,7 +110,8 @@
         "id": "LB/W06-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W06-T05": {
     "name": "メイド服の唯湖",
@@ -123,7 +129,8 @@
         "id": "LB/W06-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W06-T06": {
     "name": "“唯我独尊”佐々美",
@@ -141,7 +148,8 @@
         "id": "LB/W06-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W06-T07": {
     "name": "兄からの試練",
@@ -159,7 +167,8 @@
         "id": "LB/W06-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LB/W06-T08": {
     "name": "鳴り続けるピアノ",
@@ -177,7 +186,8 @@
         "id": "LB/W06-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LB/W06-T09": {
     "name": "不思議の国のクド",
@@ -195,7 +205,8 @@
         "id": "LB/W06-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W06-T10": {
     "name": "“成長株”小毬",
@@ -213,7 +224,8 @@
         "id": "LB/W06-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W06-T11": {
     "name": "“女スパイ”沙耶",
@@ -231,7 +243,8 @@
         "id": "LB/W06-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W06-T12": {
     "name": "“クォーター少女”クド",
@@ -249,7 +262,8 @@
         "id": "LB/W06-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W06-T13": {
     "name": "“幸せスパイラル”小毬",
@@ -267,7 +281,8 @@
         "id": "LB/W06-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W06-T14": {
     "name": "“和洋折衷”クド",
@@ -285,7 +300,8 @@
         "id": "LB/W06-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W06-T15": {
     "name": "不思議な既視感",
@@ -303,7 +319,8 @@
         "id": "LB/W06-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W06-T16": {
     "name": "きっと、だいじょうぶ",
@@ -321,6 +338,7 @@
         "id": "LB/W06-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

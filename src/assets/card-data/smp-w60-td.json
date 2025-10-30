@@ -15,7 +15,8 @@
         "id": "SMP/W60-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W60-T02": {
     "name": "“ともだちの距離”しろは",
@@ -37,7 +38,8 @@
         "id": "SMP/W60-T02SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W60-T03": {
     "name": "“並々ならぬ情熱”うみ",
@@ -59,7 +61,8 @@
         "id": "SMP/W60-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W60-T04": {
     "name": "“聞きたいこと”しろは",
@@ -89,7 +92,8 @@
         "id": "SMP/W60-T04d",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W60-T05": {
     "name": "“蔵の掘り出し物”鏡子",
@@ -107,7 +111,8 @@
         "id": "SMP/W60-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W60-T06": {
     "name": "“まだ見ぬ未来”しろは",
@@ -129,7 +134,8 @@
         "id": "SMP/W60-T06S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W60-T07": {
     "name": "初めて出会った日",
@@ -151,7 +157,8 @@
         "id": "SMP/W60-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W60-T08": {
     "name": "ようこそ！鳥白島へ！",
@@ -169,7 +176,8 @@
         "id": "SMP/W60-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SMP/W60-T09": {
     "name": "“教えてあげないよ！”鴎",
@@ -187,7 +195,8 @@
         "id": "SMP/W60-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W60-T10": {
     "name": "“夕暮れの灯台”紬",
@@ -209,7 +218,8 @@
         "id": "SMP/W60-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W60-T11": {
     "name": "“大きなスーツケース”鴎",
@@ -231,7 +241,8 @@
         "id": "SMP/W60-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W60-T12": {
     "name": "“息ピッタリ”蒼",
@@ -249,7 +260,8 @@
         "id": "SMP/W60-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W60-T13": {
     "name": "“女神だった”紬",
@@ -267,7 +279,8 @@
         "id": "SMP/W60-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W60-T14": {
     "name": "“気持ちが大切”鴎",
@@ -285,7 +298,8 @@
         "id": "SMP/W60-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W60-T15": {
     "name": "“無防備な寝顔”蒼",
@@ -307,7 +321,8 @@
         "id": "SMP/W60-T15S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W60-T16": {
     "name": "“お友達紹介”紬",
@@ -325,7 +340,8 @@
         "id": "SMP/W60-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W60-T17": {
     "name": "“それは夏のせい”蒼",
@@ -343,7 +359,8 @@
         "id": "SMP/W60-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W60-T18": {
     "name": "Summer Pockets",
@@ -361,7 +378,8 @@
         "id": "SMP/W60-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W60-T19": {
     "name": "ラッキーアクシデント",
@@ -383,6 +401,7 @@
         "id": "SMP/W60-T19SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

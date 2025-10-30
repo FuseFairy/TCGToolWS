@@ -19,7 +19,8 @@
         "id": "SG/W27-001R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-002": {
     "name": "“撃槍・ガングニール”響",
@@ -41,7 +42,8 @@
         "id": "SG/W27-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-003": {
     "name": "水着の響",
@@ -63,7 +65,8 @@
         "id": "SG/W27-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-004": {
     "name": "囚われの未来",
@@ -81,7 +84,8 @@
         "id": "SG/W27-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-005": {
     "name": "託された歌 響",
@@ -99,7 +103,8 @@
         "id": "SG/W27-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-006": {
     "name": "リディアンの生徒 未来",
@@ -121,7 +126,8 @@
         "id": "SG/W27-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-007": {
     "name": "“絶唱”響",
@@ -139,7 +145,8 @@
         "id": "SG/W27-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-008": {
     "name": "寺島 詩織",
@@ -157,7 +164,8 @@
         "id": "SG/W27-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-009": {
     "name": "生きる意志 未来",
@@ -175,7 +183,8 @@
         "id": "SG/W27-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-010": {
     "name": "“暴走”響",
@@ -193,7 +202,8 @@
         "id": "SG/W27-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-011": {
     "name": "消耗品の装者 未来",
@@ -211,7 +221,8 @@
         "id": "SG/W27-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-012": {
     "name": "“ＸＤモード”響",
@@ -229,7 +240,8 @@
         "id": "SG/W27-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-013": {
     "name": "心配する未来",
@@ -247,7 +259,8 @@
         "id": "SG/W27-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-014": {
     "name": "まっすぐな瞳 響",
@@ -265,7 +278,8 @@
         "id": "SG/W27-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-015": {
     "name": "暖かい世界のため 未来",
@@ -287,7 +301,8 @@
         "id": "SG/W27-015SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-016": {
     "name": "秋桜祭の響",
@@ -305,7 +320,8 @@
         "id": "SG/W27-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-017": {
     "name": "久々のデート 未来",
@@ -323,7 +339,8 @@
         "id": "SG/W27-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-018": {
     "name": "安藤 創世",
@@ -341,7 +358,8 @@
         "id": "SG/W27-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-019": {
     "name": "解放された未来",
@@ -359,7 +377,8 @@
         "id": "SG/W27-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-020": {
     "name": "“いつもの人助け”響",
@@ -377,7 +396,8 @@
         "id": "SG/W27-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-021": {
     "name": "“融合症例第一号”響",
@@ -395,7 +415,8 @@
         "id": "SG/W27-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-022": {
     "name": "板場 弓美",
@@ -413,7 +434,8 @@
         "id": "SG/W27-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-023": {
     "name": "“凶祓い”の力 未来",
@@ -431,7 +453,8 @@
         "id": "SG/W27-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-024": {
     "name": "ガングニール",
@@ -449,7 +472,8 @@
         "id": "SG/W27-024",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-025": {
     "name": "二人の流れ星",
@@ -467,7 +491,8 @@
         "id": "SG/W27-025",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-026": {
     "name": "神獣鏡",
@@ -485,7 +510,8 @@
         "id": "SG/W27-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-027": {
     "name": "Superb Song Combination Arts",
@@ -503,7 +529,8 @@
         "id": "SG/W27-027",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W27-028": {
     "name": "流星",
@@ -521,7 +548,8 @@
         "id": "SG/W27-028",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W27-029": {
     "name": "Vitalization",
@@ -539,7 +567,8 @@
         "id": "SG/W27-029",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-030": {
     "name": "未来の願い",
@@ -557,7 +586,8 @@
         "id": "SG/W27-030",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-031": {
     "name": "暁 切歌",
@@ -579,7 +609,8 @@
         "id": "SG/W27-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-032": {
     "name": "月読 調",
@@ -601,7 +632,8 @@
         "id": "SG/W27-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-033": {
     "name": "“ＸＤモード”切歌",
@@ -619,7 +651,8 @@
         "id": "SG/W27-033",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-034": {
     "name": "“レセプターチルドレン”切歌",
@@ -641,7 +674,8 @@
         "id": "SG/W27-034SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-035": {
     "name": "“レセプターチルドレン”調",
@@ -663,7 +697,8 @@
         "id": "SG/W27-035SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-036": {
     "name": "飛び入り参加 切歌",
@@ -681,7 +716,8 @@
         "id": "SG/W27-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-037": {
     "name": "ウェル博士",
@@ -699,7 +735,8 @@
         "id": "SG/W27-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-038": {
     "name": "明るく元気 切歌",
@@ -717,7 +754,8 @@
         "id": "SG/W27-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-039": {
     "name": "仲良しな二人 切歌＆調",
@@ -735,7 +773,8 @@
         "id": "SG/W27-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-040": {
     "name": "飛び入り参加 調",
@@ -753,7 +792,8 @@
         "id": "SG/W27-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-041": {
     "name": "メガネで変装 調",
@@ -771,7 +811,8 @@
         "id": "SG/W27-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-042": {
     "name": "ナスターシャ教授",
@@ -789,7 +830,8 @@
         "id": "SG/W27-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-043": {
     "name": "ノイズ",
@@ -807,7 +849,8 @@
         "id": "SG/W27-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-044": {
     "name": "“ＸＤモード”調",
@@ -825,7 +868,8 @@
         "id": "SG/W27-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-045": {
     "name": "物静かな少女 調",
@@ -843,7 +887,8 @@
         "id": "SG/W27-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-046": {
     "name": "ネフィリム・ノヴァ",
@@ -861,7 +906,8 @@
         "id": "SG/W27-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-047": {
     "name": "フィーネの目覚め",
@@ -879,7 +925,8 @@
         "id": "SG/W27-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-048": {
     "name": "ソロモンの杖",
@@ -897,7 +944,8 @@
         "id": "SG/W27-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-049": {
     "name": "終虐・Ne破aァ乱怒",
@@ -915,7 +963,8 @@
         "id": "SG/W27-049",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-050": {
     "name": "終Ω式ディストピア",
@@ -933,7 +982,8 @@
         "id": "SG/W27-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W27-051": {
     "name": "“烈槍・ガングニール”マリア",
@@ -955,7 +1005,8 @@
         "id": "SG/W27-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-052": {
     "name": "水着のクリス",
@@ -973,7 +1024,8 @@
         "id": "SG/W27-052",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-053": {
     "name": "“長射程広域攻撃”クリス",
@@ -995,7 +1047,8 @@
         "id": "SG/W27-053SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-054": {
     "name": "“輪廻するフィーネ”マリア",
@@ -1017,7 +1070,8 @@
         "id": "SG/W27-054SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-055": {
     "name": "自分の役目 クリス",
@@ -1039,7 +1093,8 @@
         "id": "SG/W27-055R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-056": {
     "name": "マリア・カデンツァヴナ・イヴ",
@@ -1057,7 +1112,8 @@
         "id": "SG/W27-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-057": {
     "name": "“QUEENS of MUSIC”マリア",
@@ -1079,7 +1135,8 @@
         "id": "SG/W27-057R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-058": {
     "name": "“ＸＤモード”マリア",
@@ -1097,7 +1154,8 @@
         "id": "SG/W27-058",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-059": {
     "name": "背負った重み クリス",
@@ -1115,7 +1173,8 @@
         "id": "SG/W27-059",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-060": {
     "name": "圧倒的な火力 クリス",
@@ -1137,7 +1196,8 @@
         "id": "SG/W27-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-061": {
     "name": "世界の歌姫 マリア",
@@ -1155,7 +1215,8 @@
         "id": "SG/W27-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-062": {
     "name": "おちゃめなクリス",
@@ -1173,7 +1234,8 @@
         "id": "SG/W27-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-063": {
     "name": "本当の願い マリア",
@@ -1191,7 +1253,8 @@
         "id": "SG/W27-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-064": {
     "name": "歌が好きなクリス",
@@ -1209,7 +1272,8 @@
         "id": "SG/W27-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-065": {
     "name": "もう一つの“ガングニール”マリア",
@@ -1227,7 +1291,8 @@
         "id": "SG/W27-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-066": {
     "name": "体操着のクリス",
@@ -1245,7 +1310,8 @@
         "id": "SG/W27-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-067": {
     "name": "セレナ・カデンツァヴナ・イヴ",
@@ -1263,7 +1329,8 @@
         "id": "SG/W27-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-068": {
     "name": "追いかけるクリス",
@@ -1281,7 +1348,8 @@
         "id": "SG/W27-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-069": {
     "name": "優しい少女 マリア",
@@ -1299,7 +1367,8 @@
         "id": "SG/W27-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-070": {
     "name": "“ＸＤモード”クリス",
@@ -1317,7 +1386,8 @@
         "id": "SG/W27-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-071": {
     "name": "貫く決意 マリア",
@@ -1335,7 +1405,8 @@
         "id": "SG/W27-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-072": {
     "name": "素直になれたクリス",
@@ -1353,7 +1424,8 @@
         "id": "SG/W27-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-073": {
     "name": "戦いの後 マリア",
@@ -1371,7 +1443,8 @@
         "id": "SG/W27-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-074": {
     "name": "イチイバル",
@@ -1389,7 +1462,8 @@
         "id": "SG/W27-074",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-075": {
     "name": "本当にやりたい事",
@@ -1407,7 +1481,8 @@
         "id": "SG/W27-075",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-076": {
     "name": "黒いガングニール",
@@ -1425,7 +1500,8 @@
         "id": "SG/W27-076",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-077": {
     "name": "HORIZON†SPEAR",
@@ -1443,7 +1519,8 @@
         "id": "SG/W27-077",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W27-078": {
     "name": "宣戦布告",
@@ -1461,7 +1538,8 @@
         "id": "SG/W27-078",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-079": {
     "name": "バビロニアの鍵",
@@ -1479,7 +1557,8 @@
         "id": "SG/W27-079",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W27-080": {
     "name": "RED HOT BLAZE",
@@ -1497,7 +1576,8 @@
         "id": "SG/W27-080",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W27-081": {
     "name": "強化トレーニング 翼",
@@ -1515,7 +1595,8 @@
         "id": "SG/W27-081",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-082": {
     "name": "抜身の刀身 翼",
@@ -1537,7 +1618,8 @@
         "id": "SG/W27-082SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-083": {
     "name": "歴戦の手練れ 翼",
@@ -1559,7 +1641,8 @@
         "id": "SG/W27-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-084": {
     "name": "“QUEENS of MUSIC”翼",
@@ -1581,7 +1664,8 @@
         "id": "SG/W27-084R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-085": {
     "name": "響の師匠 弦十郎",
@@ -1599,7 +1683,8 @@
         "id": "SG/W27-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-086": {
     "name": "クリスとの対峙 翼",
@@ -1617,7 +1702,8 @@
         "id": "SG/W27-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-087": {
     "name": "剣であり続けること 翼",
@@ -1635,7 +1721,8 @@
         "id": "SG/W27-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-088": {
     "name": "不甲斐無い思い 翼",
@@ -1653,7 +1740,8 @@
         "id": "SG/W27-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-089": {
     "name": "戦場で歌う翼",
@@ -1675,7 +1763,8 @@
         "id": "SG/W27-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-090": {
     "name": "友里 あおい",
@@ -1693,7 +1782,8 @@
         "id": "SG/W27-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-091": {
     "name": "藤尭 朔也",
@@ -1711,7 +1801,8 @@
         "id": "SG/W27-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-092": {
     "name": "学園祭の準備 翼",
@@ -1729,7 +1820,8 @@
         "id": "SG/W27-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-093": {
     "name": "緒川 慎次",
@@ -1747,7 +1839,8 @@
         "id": "SG/W27-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-094": {
     "name": "リディアンの生徒 翼",
@@ -1765,7 +1858,8 @@
         "id": "SG/W27-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-095": {
     "name": "体操着の翼",
@@ -1783,7 +1877,8 @@
         "id": "SG/W27-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-096": {
     "name": "天羽々斬",
@@ -1801,7 +1896,8 @@
         "id": "SG/W27-096",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-097": {
     "name": "英雄故事",
@@ -1819,7 +1915,8 @@
         "id": "SG/W27-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-098": {
     "name": "奏の残した言葉",
@@ -1837,7 +1934,8 @@
         "id": "SG/W27-098",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-099": {
     "name": "千ノ落涙",
@@ -1855,7 +1953,8 @@
         "id": "SG/W27-099",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-100": {
     "name": "騎刃ノ一閃",
@@ -1873,6 +1972,7 @@
         "id": "SG/W27-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

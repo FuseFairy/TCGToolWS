@@ -15,7 +15,8 @@
         "id": "SAO/S20-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-P02": {
     "name": "入浴中のアスナ",
@@ -33,7 +34,8 @@
         "id": "SAO/S20-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-P03": {
     "name": "幸せな時間 アスナ＆ユイ",
@@ -51,7 +53,8 @@
         "id": "SAO/S20-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-P04": {
     "name": "ふたつの世界 アスナ",
@@ -69,7 +72,8 @@
         "id": "SAO/S20-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-P05": {
     "name": "伝えたい想い 明日奈",
@@ -87,7 +91,8 @@
         "id": "SAO/S20-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-P06": {
     "name": "伝えたい想い 直葉",
@@ -105,7 +110,8 @@
         "id": "SAO/S20-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-106": {
     "name": "ＳＤアスナ",
@@ -123,7 +129,8 @@
         "id": "SAO/S20-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-107": {
     "name": "ＳＤシリカ",
@@ -141,7 +148,8 @@
         "id": "SAO/S20-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-108": {
     "name": "ＳＤキリト",
@@ -159,7 +167,8 @@
         "id": "SAO/S20-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-109": {
     "name": "ＳＤユイ",
@@ -177,6 +186,7 @@
         "id": "SAO/S20-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

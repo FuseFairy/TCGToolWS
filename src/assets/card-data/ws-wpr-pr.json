@@ -15,7 +15,8 @@
         "id": "WS/WPR-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WS/WPR-P02": {
     "name": "えみゅーじっく♪",
@@ -33,7 +34,8 @@
         "id": "WS/WPR-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WS/WPR-P03": {
     "name": "“ぷよと一緒”凛",
@@ -51,7 +53,8 @@
         "id": "WS/WPR-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WS/WPR-P04": {
     "name": "つなぐメロディー 新田恵海",
@@ -69,7 +72,8 @@
         "id": "WS/WPR-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WS/WPR-P05": {
     "name": "ちょこたん",
@@ -87,7 +91,8 @@
         "id": "WS/WPR-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WS/WPR-P06": {
     "name": "一緒に頑張ろう！！ 尾崎由香",
@@ -105,7 +110,8 @@
         "id": "WS/WPR-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WS/WPR-P07": {
     "name": "一緒に頑張ろう！！ 愛美",
@@ -123,7 +129,8 @@
         "id": "WS/WPR-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "WS/WPR-P08": {
     "name": "2020年も頑張ろう！ 愛美",
@@ -141,7 +148,8 @@
         "id": "WS/WPR-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WS/WPR-P09": {
     "name": "レッツ！ヴァイスシュヴァルツ!! 渡瀬結月",
@@ -159,7 +167,8 @@
         "id": "WS/WPR-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WS/WPR-P10": {
     "name": "レッツ！ヴァイスシュヴァルツ!! 立石凛",
@@ -177,6 +186,7 @@
         "id": "WS/WPR-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

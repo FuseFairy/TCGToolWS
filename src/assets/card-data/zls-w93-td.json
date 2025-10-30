@@ -15,7 +15,8 @@
         "id": "ZLS/W93-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-T02": {
     "name": "“大河よ共に泣いてくれ”純子",
@@ -41,7 +42,8 @@
         "id": "ZLS/W93-T02SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-T03": {
     "name": "“大河よ共に泣いてくれ”たえ",
@@ -67,7 +69,8 @@
         "id": "ZLS/W93-T03SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-T04": {
     "name": "バイト生活 愛",
@@ -85,7 +88,8 @@
         "id": "ZLS/W93-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-T05": {
     "name": "バイト生活 純子",
@@ -103,7 +107,8 @@
         "id": "ZLS/W93-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-T06": {
     "name": "本能のままに たえ",
@@ -121,7 +126,8 @@
         "id": "ZLS/W93-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-T07": {
     "name": "“大河よ共に泣いてくれ”愛",
@@ -147,7 +153,8 @@
         "id": "ZLS/W93-T07SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-T08": {
     "name": "大河よ共に泣いてくれ",
@@ -165,7 +172,8 @@
         "id": "ZLS/W93-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "ZLS/W93-T09": {
     "name": "バイト生活 さくら",
@@ -183,7 +191,8 @@
         "id": "ZLS/W93-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-T10": {
     "name": "バイト生活 リリィ",
@@ -201,7 +210,8 @@
         "id": "ZLS/W93-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-T11": {
     "name": "“大河よ共に泣いてくれ”ゆうぎり",
@@ -227,7 +237,8 @@
         "id": "ZLS/W93-T11SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-T12": {
     "name": "バイト生活 ゆうぎり",
@@ -245,7 +256,8 @@
         "id": "ZLS/W93-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-T13": {
     "name": "“大河よ共に泣いてくれ”サキ",
@@ -271,7 +283,8 @@
         "id": "ZLS/W93-T13SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-T14": {
     "name": "“大河よ共に泣いてくれ”さくら",
@@ -297,7 +310,8 @@
         "id": "ZLS/W93-T14SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-T15": {
     "name": "“大河よ共に泣いてくれ”リリィ",
@@ -323,7 +337,8 @@
         "id": "ZLS/W93-T15SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-T16": {
     "name": "バイト生活 サキ",
@@ -341,7 +356,8 @@
         "id": "ZLS/W93-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-T17": {
     "name": "ゾンビィアイドル さくら",
@@ -363,7 +379,8 @@
         "id": "ZLS/W93-T17S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-T18": {
     "name": "アイドルプロデューサー",
@@ -381,7 +398,8 @@
         "id": "ZLS/W93-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-T19": {
     "name": "夢を手に、戻れる場所もない日々を",
@@ -403,7 +421,8 @@
         "id": "ZLS/W93-T19S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-T20": {
     "name": "EFSライブ",
@@ -421,6 +440,7 @@
         "id": "ZLS/W93-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -19,7 +19,8 @@
         "id": "Gok/WS02-008SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gok/WS02-024": {
     "name": "狼と羊皮紙 ミューリ＆コル",
@@ -41,7 +42,8 @@
         "id": "Gok/WS02-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gok/WS02-030": {
     "name": "賢狼 ホロ",
@@ -63,7 +65,8 @@
         "id": "Gok/WS02-030SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gok/WS02-034": {
     "name": "豊穣を司る狼の化身",
@@ -85,6 +88,7 @@
         "id": "Gok/WS02-034SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

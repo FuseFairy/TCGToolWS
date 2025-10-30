@@ -15,7 +15,8 @@
         "id": "LB/WE30-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE30-P04": {
     "name": "“くぎゃー御用達”クド＆唯湖",
@@ -33,7 +34,8 @@
         "id": "LB/WE30-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE30-P06": {
     "name": "“たくさんの思い出”沙耶",
@@ -51,6 +53,7 @@
         "id": "LB/WE30-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

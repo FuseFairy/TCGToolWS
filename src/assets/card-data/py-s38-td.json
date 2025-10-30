@@ -15,7 +15,8 @@
         "id": "PY/S38-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-T02": {
     "name": "ドラコケンタウロス",
@@ -33,7 +34,8 @@
         "id": "PY/S38-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-T03": {
     "name": "サタン",
@@ -51,7 +53,8 @@
         "id": "PY/S38-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-T04": {
     "name": "シェゾ",
@@ -69,7 +72,8 @@
         "id": "PY/S38-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-T05": {
     "name": "魔女見習い ウィッチ",
@@ -87,7 +91,8 @@
         "id": "PY/S38-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-T06": {
     "name": "冒険大好き アルル",
@@ -105,7 +110,8 @@
         "id": "PY/S38-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-T07": {
     "name": "すけとうだら",
@@ -123,7 +129,8 @@
         "id": "PY/S38-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-T08": {
     "name": "アルルと一緒 カーバンクル",
@@ -141,7 +148,8 @@
         "id": "PY/S38-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-T09": {
     "name": "大勝利！",
@@ -159,7 +167,8 @@
         "id": "PY/S38-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PY/S38-T10": {
     "name": "ゴゴット",
@@ -177,7 +186,8 @@
         "id": "PY/S38-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-T11": {
     "name": "元気だけは誰にも負けない アミティ",
@@ -195,7 +205,8 @@
         "id": "PY/S38-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-T12": {
     "name": "シグ",
@@ -213,7 +224,8 @@
         "id": "PY/S38-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-T13": {
     "name": "リデル",
@@ -231,7 +243,8 @@
         "id": "PY/S38-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-T14": {
     "name": "実は努力家さん ラフィーナ",
@@ -249,7 +262,8 @@
         "id": "PY/S38-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-T15": {
     "name": "プリンプ魔導学校の生徒クルーク",
@@ -267,7 +281,8 @@
         "id": "PY/S38-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-T16": {
     "name": "タルタル",
@@ -285,7 +300,8 @@
         "id": "PY/S38-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-T17": {
     "name": "プリンプ魔導学校 アコール先生",
@@ -303,7 +319,8 @@
         "id": "PY/S38-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PY/S38-T18": {
     "name": "プリンプ魔導学校",
@@ -321,7 +338,8 @@
         "id": "PY/S38-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PY/S38-T19": {
     "name": "思い知ったかい",
@@ -339,6 +357,7 @@
         "id": "PY/S38-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

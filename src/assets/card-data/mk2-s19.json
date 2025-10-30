@@ -19,7 +19,8 @@
         "id": "MK2/S19-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-002": {
     "name": "偵都の少女 ネロ",
@@ -37,7 +38,8 @@
         "id": "MK2/S19-002",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-003": {
     "name": "浮き輪でプカプカ シャロ",
@@ -55,7 +57,8 @@
         "id": "MK2/S19-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-004": {
     "name": "ウサミミ ネロ",
@@ -73,7 +76,8 @@
         "id": "MK2/S19-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-005": {
     "name": "忠実なる臣下 トゥエンティ",
@@ -91,7 +95,8 @@
         "id": "MK2/S19-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-006": {
     "name": "メガネっ娘 ネロ",
@@ -109,7 +114,8 @@
         "id": "MK2/S19-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-007": {
     "name": "根っこは素直 ネロ",
@@ -131,7 +137,8 @@
         "id": "MK2/S19-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-008": {
     "name": "かまぼこ",
@@ -149,7 +156,8 @@
         "id": "MK2/S19-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-009": {
     "name": "眩しい水着姿 姫百合",
@@ -167,7 +175,8 @@
         "id": "MK2/S19-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-010": {
     "name": "忠実なる臣下 ストーンリバー",
@@ -185,7 +194,8 @@
         "id": "MK2/S19-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-011": {
     "name": "新学期 シャロ",
@@ -203,7 +213,8 @@
         "id": "MK2/S19-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-012": {
     "name": "エラリー姫百合",
@@ -225,7 +236,8 @@
         "id": "MK2/S19-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-013": {
     "name": "新学期 ネロ",
@@ -243,7 +255,8 @@
         "id": "MK2/S19-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-014": {
     "name": "傷心の根津",
@@ -261,7 +274,8 @@
         "id": "MK2/S19-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-015": {
     "name": "暑苦しい男 ストーンリバー",
@@ -279,7 +293,8 @@
         "id": "MK2/S19-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-016": {
     "name": "偵都の少女 シャロ",
@@ -297,7 +312,8 @@
         "id": "MK2/S19-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-017": {
     "name": "動物は友達 ネロ",
@@ -315,7 +331,8 @@
         "id": "MK2/S19-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-018": {
     "name": "忠実なる臣下 ラット",
@@ -333,7 +350,8 @@
         "id": "MK2/S19-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-019": {
     "name": "“TKB”二十里",
@@ -351,7 +369,8 @@
         "id": "MK2/S19-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-020": {
     "name": "一時帰国 小林",
@@ -369,7 +388,8 @@
         "id": "MK2/S19-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-021": {
     "name": "カビ",
@@ -387,7 +407,8 @@
         "id": "MK2/S19-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-022": {
     "name": "食卓でまた会おう",
@@ -405,7 +426,8 @@
         "id": "MK2/S19-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-023": {
     "name": "一千万円",
@@ -423,7 +445,8 @@
         "id": "MK2/S19-023",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK2/S19-024": {
     "name": "突然の転入辞令",
@@ -441,7 +464,8 @@
         "id": "MK2/S19-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-025": {
     "name": "荒らされた農園",
@@ -459,7 +483,8 @@
         "id": "MK2/S19-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-026": {
     "name": "チア衣装のエリー",
@@ -477,7 +502,8 @@
         "id": "MK2/S19-026",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-027": {
     "name": "対怪盗事件捜査チーム 咲＆平乃＆次子",
@@ -495,7 +521,8 @@
         "id": "MK2/S19-027",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-028": {
     "name": "体操着のコーデリア",
@@ -513,7 +540,8 @@
         "id": "MK2/S19-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-029": {
     "name": "偵都の少女 エリー",
@@ -531,7 +559,8 @@
         "id": "MK2/S19-029",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-030": {
     "name": "夏服のエリー",
@@ -553,7 +582,8 @@
         "id": "MK2/S19-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-031": {
     "name": "対怪盗事件捜査チーム 咲",
@@ -575,7 +605,8 @@
         "id": "MK2/S19-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-032": {
     "name": "知識豊富なエリー",
@@ -597,7 +628,8 @@
         "id": "MK2/S19-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-033": {
     "name": "たまには息抜き コーデリア",
@@ -615,7 +647,8 @@
         "id": "MK2/S19-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-034": {
     "name": "私服の平乃",
@@ -633,7 +666,8 @@
         "id": "MK2/S19-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-035": {
     "name": "G5 エリー",
@@ -651,7 +685,8 @@
         "id": "MK2/S19-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-036": {
     "name": "野菊のような変態 エリー",
@@ -669,7 +704,8 @@
         "id": "MK2/S19-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-037": {
     "name": "対怪盗事件捜査チーム 平乃",
@@ -691,7 +727,8 @@
         "id": "MK2/S19-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-038": {
     "name": "“優柔不断”姫百合",
@@ -709,7 +746,8 @@
         "id": "MK2/S19-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-039": {
     "name": "メガネっ娘 咲",
@@ -727,7 +765,8 @@
         "id": "MK2/S19-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-040": {
     "name": "再検索なう 咲",
@@ -745,7 +784,8 @@
         "id": "MK2/S19-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-041": {
     "name": "農業娘 エリー",
@@ -763,7 +803,8 @@
         "id": "MK2/S19-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-042": {
     "name": "G4担当官 神津",
@@ -781,7 +822,8 @@
         "id": "MK2/S19-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-043": {
     "name": "小林への関心 姫百合",
@@ -799,7 +841,8 @@
         "id": "MK2/S19-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-044": {
     "name": "農業娘 コーデリア",
@@ -817,7 +860,8 @@
         "id": "MK2/S19-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-045": {
     "name": "古武術家 平乃",
@@ -835,7 +879,8 @@
         "id": "MK2/S19-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-046": {
     "name": "ラードの神",
@@ -853,7 +898,8 @@
         "id": "MK2/S19-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-047": {
     "name": "ムクムク本",
@@ -871,7 +917,8 @@
         "id": "MK2/S19-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-048": {
     "name": "エリーのアルバイト",
@@ -889,7 +936,8 @@
         "id": "MK2/S19-048",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK2/S19-049": {
     "name": "実演",
@@ -907,7 +955,8 @@
         "id": "MK2/S19-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-050": {
     "name": "G3の休日",
@@ -925,7 +974,8 @@
         "id": "MK2/S19-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK2/S19-051": {
     "name": "対決の刻 シャロ",
@@ -943,7 +993,8 @@
         "id": "MK2/S19-051",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-052": {
     "name": "元気が取り柄 シャロ",
@@ -965,7 +1016,8 @@
         "id": "MK2/S19-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-053": {
     "name": "舞台の上のシャロ",
@@ -983,7 +1035,8 @@
         "id": "MK2/S19-053",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-054": {
     "name": "和服のシャロ",
@@ -1001,7 +1054,8 @@
         "id": "MK2/S19-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-055": {
     "name": "和服のネロ",
@@ -1019,7 +1073,8 @@
         "id": "MK2/S19-055",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-056": {
     "name": "姫百合の先輩 小衣",
@@ -1037,7 +1092,8 @@
         "id": "MK2/S19-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-057": {
     "name": "夏服のシャロ",
@@ -1059,7 +1115,8 @@
         "id": "MK2/S19-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-058": {
     "name": "G4のお姉さん役 次子",
@@ -1077,7 +1134,8 @@
         "id": "MK2/S19-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-059": {
     "name": "ルート検索 ネロ",
@@ -1095,7 +1153,8 @@
         "id": "MK2/S19-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-060": {
     "name": "お茶の間デビュー 小衣",
@@ -1113,7 +1172,8 @@
         "id": "MK2/S19-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-061": {
     "name": "対怪盗事件捜査チーム 小衣",
@@ -1135,7 +1195,8 @@
         "id": "MK2/S19-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-062": {
     "name": "怪盗帝国に迫るシャロ",
@@ -1153,7 +1214,8 @@
         "id": "MK2/S19-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-063": {
     "name": "ポポロマーク２",
@@ -1171,7 +1233,8 @@
         "id": "MK2/S19-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-064": {
     "name": "自称天才美少女 小衣",
@@ -1189,7 +1252,8 @@
         "id": "MK2/S19-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-065": {
     "name": "プロの腕前 次子",
@@ -1207,7 +1271,8 @@
         "id": "MK2/S19-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-066": {
     "name": "農業娘 ネロ",
@@ -1225,7 +1290,8 @@
         "id": "MK2/S19-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-067": {
     "name": "チューリップ組 小衣",
@@ -1243,7 +1309,8 @@
         "id": "MK2/S19-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-068": {
     "name": "農業娘 シャロ",
@@ -1261,7 +1328,8 @@
         "id": "MK2/S19-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-069": {
     "name": "対怪盗事件捜査チーム 次子",
@@ -1283,7 +1351,8 @@
         "id": "MK2/S19-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-070": {
     "name": "万博マスコット 小衣",
@@ -1301,7 +1370,8 @@
         "id": "MK2/S19-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-071": {
     "name": "小衣ちゃんグッズ",
@@ -1319,7 +1389,8 @@
         "id": "MK2/S19-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-072": {
     "name": "本家バリツ",
@@ -1337,7 +1408,8 @@
         "id": "MK2/S19-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-073": {
     "name": "トイズの復活",
@@ -1355,7 +1427,8 @@
         "id": "MK2/S19-073",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK2/S19-074": {
     "name": "初めてのダンス",
@@ -1373,7 +1446,8 @@
         "id": "MK2/S19-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK2/S19-075": {
     "name": "ヨーヨー刑事",
@@ -1391,7 +1465,8 @@
         "id": "MK2/S19-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-076": {
     "name": "夏服のコーデリア",
@@ -1413,7 +1488,8 @@
         "id": "MK2/S19-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-077": {
     "name": "“誰か”と話すコーデリア",
@@ -1431,7 +1507,8 @@
         "id": "MK2/S19-077",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-078": {
     "name": "和服のエリー",
@@ -1449,7 +1526,8 @@
         "id": "MK2/S19-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-079": {
     "name": "ウサミミ エリー",
@@ -1467,7 +1545,8 @@
         "id": "MK2/S19-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-080": {
     "name": "優雅な日常 アンリエット",
@@ -1485,7 +1564,8 @@
         "id": "MK2/S19-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-081": {
     "name": "怪盗の矜持 アルセーヌ",
@@ -1507,7 +1587,8 @@
         "id": "MK2/S19-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-082": {
     "name": "素敵なお姉さん コーデリア",
@@ -1529,7 +1610,8 @@
         "id": "MK2/S19-082SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-083": {
     "name": "ジョセフィーヌ・ミステール",
@@ -1551,7 +1633,8 @@
         "id": "MK2/S19-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-084": {
     "name": "和服のコーデリア",
@@ -1569,7 +1652,8 @@
         "id": "MK2/S19-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-085": {
     "name": "眩しい水着姿 コーデリア",
@@ -1587,7 +1671,8 @@
         "id": "MK2/S19-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-086": {
     "name": "ドレス姿のアンリエット",
@@ -1609,7 +1694,8 @@
         "id": "MK2/S19-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-087": {
     "name": "少女探偵コロンちゃん",
@@ -1627,7 +1713,8 @@
         "id": "MK2/S19-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-088": {
     "name": "優しい少年 ユタカ",
@@ -1645,7 +1732,8 @@
         "id": "MK2/S19-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-089": {
     "name": "大晦日の犯行 アルセーヌ",
@@ -1663,7 +1751,8 @@
         "id": "MK2/S19-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-090": {
     "name": "麗しのロイヤルハート アルセーヌ",
@@ -1681,7 +1770,8 @@
         "id": "MK2/S19-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-091": {
     "name": "自信満々 コーデリア",
@@ -1699,7 +1789,8 @@
         "id": "MK2/S19-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-092": {
     "name": "怪盗カリオストロ",
@@ -1717,7 +1808,8 @@
         "id": "MK2/S19-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-093": {
     "name": "偵都の少女 コーデリア",
@@ -1735,7 +1827,8 @@
         "id": "MK2/S19-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-094": {
     "name": "ダンス講師 アンリエット",
@@ -1753,7 +1846,8 @@
         "id": "MK2/S19-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-095": {
     "name": "常識派 エリー",
@@ -1771,7 +1865,8 @@
         "id": "MK2/S19-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-096": {
     "name": "メカコーデリア",
@@ -1789,7 +1884,8 @@
         "id": "MK2/S19-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-097": {
     "name": "アルセーヌの帰還",
@@ -1807,7 +1903,8 @@
         "id": "MK2/S19-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-098": {
     "name": "現実逃避",
@@ -1825,7 +1922,8 @@
         "id": "MK2/S19-098",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK2/S19-099": {
     "name": "ヤケ烏龍茶",
@@ -1843,7 +1941,8 @@
         "id": "MK2/S19-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK2/S19-100": {
     "name": "コーデリアの筋書き",
@@ -1861,6 +1960,7 @@
         "id": "MK2/S19-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

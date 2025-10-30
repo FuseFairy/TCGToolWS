@@ -19,7 +19,8 @@
         "id": "Fdd/W65-043SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fdd/W65-044": {
     "name": "紅髪の滅殺姫 リアス",
@@ -41,7 +42,8 @@
         "id": "Fdd/W65-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdd/W65-048": {
     "name": "究極のS 朱乃",
@@ -63,7 +65,8 @@
         "id": "Fdd/W65-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdd/W65-049": {
     "name": "ご褒美の時間 リアス",
@@ -85,7 +88,8 @@
         "id": "Fdd/W65-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdd/W65-052": {
     "name": "魔性の微笑み リアス",
@@ -107,7 +111,8 @@
         "id": "Fdd/W65-052FBR",
         "rarity": "FBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fdd/W65-054": {
     "name": "女装のハーフヴァンパイア ギャスパー",
@@ -125,7 +130,8 @@
         "id": "Fdd/W65-054",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdd/W65-056": {
     "name": "無口な白猫 小猫",
@@ -143,7 +149,8 @@
         "id": "Fdd/W65-056",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdd/W65-059": {
     "name": "銀髪の元ヴァルキリー ロスヴァイセ",
@@ -161,7 +168,8 @@
         "id": "Fdd/W65-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fdd/W65-060": {
     "name": "主従の関係 リアス&一誠",
@@ -179,7 +187,8 @@
         "id": "Fdd/W65-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdd/W65-062": {
     "name": "黄金龍君の契約者 アーシア",
@@ -197,7 +206,8 @@
         "id": "Fdd/W65-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdd/W65-064": {
     "name": "聖剣の使い手 ゼノヴィア",
@@ -215,7 +225,8 @@
         "id": "Fdd/W65-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdd/W65-065": {
     "name": "神速の剣技 祐斗",
@@ -233,7 +244,8 @@
         "id": "Fdd/W65-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fdd/W65-068": {
     "name": "共に信じる夢",
@@ -251,7 +263,8 @@
         "id": "Fdd/W65-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fdd/W65-071": {
     "name": "初めてのお友達",
@@ -273,6 +286,7 @@
         "id": "Fdd/W65-071R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

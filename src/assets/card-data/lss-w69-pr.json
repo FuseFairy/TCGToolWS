@@ -15,7 +15,8 @@
         "id": "LSS/W69-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W69-P05": {
     "name": "“いざ、おみくじ！”高海 千歌",
@@ -33,7 +34,8 @@
         "id": "LSS/W69-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W69-101": {
     "name": "“ハニーミルク気分”高海 千歌",
@@ -51,7 +53,8 @@
         "id": "LSS/W69-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W69-102": {
     "name": "“舞う姿に憧れて”桜内 梨子",
@@ -69,7 +72,8 @@
         "id": "LSS/W69-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W69-103": {
     "name": "“雪球一球入魂”松浦 果南",
@@ -87,7 +91,8 @@
         "id": "LSS/W69-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W69-104": {
     "name": "“笑顔を願う”黒澤 ダイヤ",
@@ -105,7 +110,8 @@
         "id": "LSS/W69-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W69-105": {
     "name": "“わくわくキャンプ”渡辺 曜",
@@ -123,7 +129,8 @@
         "id": "LSS/W69-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W69-106": {
     "name": "“堕天使の願い”津島 善子",
@@ -141,7 +148,8 @@
         "id": "LSS/W69-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W69-107": {
     "name": "“夜空なびげーたー”国木田 花丸",
@@ -159,7 +167,8 @@
         "id": "LSS/W69-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W69-108": {
     "name": "“夏の誘い”小原 鞠莉",
@@ -177,7 +186,8 @@
         "id": "LSS/W69-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W69-109": {
     "name": "“今夜は眠れない♪”黒澤 ルビィ",
@@ -195,7 +205,8 @@
         "id": "LSS/W69-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W69-P01": {
     "name": "“Guilty Kiss”梨子＆善子＆鞠莉",
@@ -213,7 +224,8 @@
         "id": "LSS/W69-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W69-P02": {
     "name": "“AZALEA”ダイヤ＆花丸＆果南",
@@ -231,7 +243,8 @@
         "id": "LSS/W69-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W69-P03": {
     "name": "“CYaRon!”曜＆千歌＆ルビィ",
@@ -249,6 +262,7 @@
         "id": "LSS/W69-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

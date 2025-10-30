@@ -15,7 +15,8 @@
         "id": "LRC/W105-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-102": {
     "name": "リコリコの一員 クルミ",
@@ -33,7 +34,8 @@
         "id": "LRC/W105-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-103": {
     "name": "写真撮影 千束",
@@ -51,7 +53,8 @@
         "id": "LRC/W105-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-104": {
     "name": "嬉しいプレゼント",
@@ -69,7 +72,8 @@
         "id": "LRC/W105-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-105": {
     "name": "セーラー服のたきな",
@@ -87,7 +91,8 @@
         "id": "LRC/W105-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-106": {
     "name": "ギタリスト たきな",
@@ -105,7 +110,8 @@
         "id": "LRC/W105-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-P01": {
     "name": "ギタリスト 千束",
@@ -123,7 +129,8 @@
         "id": "LRC/W105-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-P02": {
     "name": "最期の役目 千束",
@@ -145,7 +152,8 @@
         "id": "LRC/W105-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-P03": {
     "name": "応えるワケ 千束",
@@ -167,7 +175,8 @@
         "id": "LRC/W105-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-P04": {
     "name": "私の役目 たきな",
@@ -189,7 +198,8 @@
         "id": "LRC/W105-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-P05": {
     "name": "戦うワケ たきな",
@@ -211,7 +221,8 @@
         "id": "LRC/W105-P05S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-P06": {
     "name": "いのち大事に 千束",
@@ -229,7 +240,8 @@
         "id": "LRC/W105-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-P07": {
     "name": "しろくろセーラー クルミ",
@@ -251,7 +263,8 @@
         "id": "LRC/W105-P07b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-P08": {
     "name": "しろくろセーラー 千束",
@@ -273,7 +286,8 @@
         "id": "LRC/W105-P08b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-P09": {
     "name": "しろくろセーラー ミズキ",
@@ -295,7 +309,8 @@
         "id": "LRC/W105-P09b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-P10": {
     "name": "しろくろセーラー たきな",
@@ -317,6 +332,7 @@
         "id": "LRC/W105-P10b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

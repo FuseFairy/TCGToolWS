@@ -19,7 +19,8 @@
         "id": "BD/W95-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P02": {
     "name": "Pastel＊Palettes×湊あくあ",
@@ -41,7 +42,8 @@
         "id": "BD/W95-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-P03": {
     "name": "ハロー、ハッピーワールド！×白上フブキ",
@@ -63,7 +65,8 @@
         "id": "BD/W95-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-P04": {
     "name": "“5th Anniversary”戸山香澄",
@@ -81,7 +84,8 @@
         "id": "BD/W95-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P05": {
     "name": "“はじまりの音”戸山香澄",
@@ -99,7 +103,8 @@
         "id": "BD/W95-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-P06": {
     "name": "“前だけを向こう”花園たえ",
@@ -117,7 +122,8 @@
         "id": "BD/W95-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-P07": {
     "name": "“憧れのお姉ちゃん”牛込りみ",
@@ -135,7 +141,8 @@
         "id": "BD/W95-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P08": {
     "name": "“1日だけの新婦”山吹沙綾",
@@ -153,7 +160,8 @@
         "id": "BD/W95-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-P09": {
     "name": "満開の桜の下で",
@@ -171,7 +179,8 @@
         "id": "BD/W95-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-P10": {
     "name": "That Is How I Roll!",
@@ -189,7 +198,8 @@
         "id": "BD/W95-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P11": {
     "name": "“受け止めたい思い”青葉モカ",
@@ -207,7 +217,8 @@
         "id": "BD/W95-P11",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-P12": {
     "name": "“3人で水遊び”上原ひまり",
@@ -225,7 +236,8 @@
         "id": "BD/W95-P12",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P13": {
     "name": "“パジャマ姿の患者さん”宇田川巴",
@@ -243,7 +255,8 @@
         "id": "BD/W95-P13",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P14": {
     "name": "“気づいた『変化』”羽沢つぐみ",
@@ -261,7 +274,8 @@
         "id": "BD/W95-P14",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-P15": {
     "name": "“努力の結晶”丸山彩",
@@ -279,7 +293,8 @@
         "id": "BD/W95-P15",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P16": {
     "name": "“未知数の存在”氷川日菜",
@@ -297,7 +312,8 @@
         "id": "BD/W95-P16",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-P17": {
     "name": "“夢に続く道”白鷺千聖",
@@ -315,7 +331,8 @@
         "id": "BD/W95-P17",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-P18": {
     "name": "“素顔の姿”大和麻弥",
@@ -333,7 +350,8 @@
         "id": "BD/W95-P18",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P19": {
     "name": "“モデル・モード”若宮イヴ",
@@ -351,7 +369,8 @@
         "id": "BD/W95-P19",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P20": {
     "name": "“鳥籠の歌姫”湊友希那",
@@ -369,7 +388,8 @@
         "id": "BD/W95-P20",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-P21": {
     "name": "“今度は私が”氷川紗夜",
@@ -387,7 +407,8 @@
         "id": "BD/W95-P21",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P22": {
     "name": "“クッキーをもう1度”今井リサ",
@@ -405,7 +426,8 @@
         "id": "BD/W95-P22",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-P23": {
     "name": "“みんなでティータイム”宇田川あこ",
@@ -423,7 +445,8 @@
         "id": "BD/W95-P23",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P24": {
     "name": "慣れない電話",
@@ -441,7 +464,8 @@
         "id": "BD/W95-P24",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P25": {
     "name": "“とびっきりの元気をあげる！”弦巻こころ",
@@ -459,7 +483,8 @@
         "id": "BD/W95-P25",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P26": {
     "name": "“世界を彩る役者”瀬田薫",
@@ -477,7 +502,8 @@
         "id": "BD/W95-P26",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P27": {
     "name": "“笑顔のために！”北沢はぐみ",
@@ -495,7 +521,8 @@
         "id": "BD/W95-P27",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P28": {
     "name": "“踏み出した一歩”松原花音",
@@ -513,7 +540,8 @@
         "id": "BD/W95-P28",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P29": {
     "name": "“愛の告白”奥沢美咲",
@@ -531,7 +559,8 @@
         "id": "BD/W95-P29",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P30": {
     "name": "“私たちのバンド活動！”倉田ましろ",
@@ -549,7 +578,8 @@
         "id": "BD/W95-P30",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P31": {
     "name": "“みんなにお披露目！”桐ヶ谷透子",
@@ -567,7 +597,8 @@
         "id": "BD/W95-P31",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-P32": {
     "name": "“広がる景色”広町七深",
@@ -585,7 +616,8 @@
         "id": "BD/W95-P32",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P33": {
     "name": "“ふふん、任せて！”二葉つくし",
@@ -603,7 +635,8 @@
         "id": "BD/W95-P33",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P34": {
     "name": "“選ばなかった道”八潮瑠唯",
@@ -621,7 +654,8 @@
         "id": "BD/W95-P34",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P35": {
     "name": "“私たちのバンド活動！”レイヤ",
@@ -639,7 +673,8 @@
         "id": "BD/W95-P35",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-P36": {
     "name": "“Rausch und/and Craziness Ⅱ”ロック",
@@ -657,7 +692,8 @@
         "id": "BD/W95-P36",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P37": {
     "name": "“Rausch und/and Craziness Ⅱ”マスキング",
@@ -675,7 +711,8 @@
         "id": "BD/W95-P37",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P38": {
     "name": "“Rausch und/and Craziness Ⅱ”パレオ",
@@ -693,7 +730,8 @@
         "id": "BD/W95-P38",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P39": {
     "name": "“Rausch und/and Craziness Ⅱ”チュチュ",
@@ -711,7 +749,8 @@
         "id": "BD/W95-P39",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-P40": {
     "name": "“新たな一歩”戸山香澄",
@@ -733,7 +772,8 @@
         "id": "BD/W95-P40S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P41": {
     "name": "“新たな一歩”美竹蘭",
@@ -755,7 +795,8 @@
         "id": "BD/W95-P41S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P42": {
     "name": "“新たな一歩”丸山彩",
@@ -777,7 +818,8 @@
         "id": "BD/W95-P42S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P43": {
     "name": "“新たな一歩”湊友希那",
@@ -799,7 +841,8 @@
         "id": "BD/W95-P43S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P44": {
     "name": "“新たな一歩”弦巻こころ",
@@ -821,7 +864,8 @@
         "id": "BD/W95-P44S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P45": {
     "name": "“新たな一歩”倉田ましろ",
@@ -843,7 +887,8 @@
         "id": "BD/W95-P45S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P46": {
     "name": "“新たな一歩”レイヤ",
@@ -865,7 +910,8 @@
         "id": "BD/W95-P46S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P47": {
     "name": "“新たな一歩”戸山香澄",
@@ -883,7 +929,8 @@
         "id": "BD/W95-P47",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P48": {
     "name": "“Letter to you！”戸山香澄",
@@ -901,7 +948,8 @@
         "id": "BD/W95-P48",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P49": {
     "name": "“Letter to you！”美竹蘭",
@@ -919,7 +967,8 @@
         "id": "BD/W95-P49",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P50": {
     "name": "“Letter to you！”丸山彩",
@@ -937,7 +986,8 @@
         "id": "BD/W95-P50",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P51": {
     "name": "“Letter to you！”湊友希那",
@@ -955,7 +1005,8 @@
         "id": "BD/W95-P51",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P52": {
     "name": "“Letter to you！”弦巻こころ",
@@ -973,7 +1024,8 @@
         "id": "BD/W95-P52",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P53": {
     "name": "“Letter to you！”倉田ましろ",
@@ -991,7 +1043,8 @@
         "id": "BD/W95-P53",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P54": {
     "name": "“Letter to you！”レイヤ",
@@ -1009,7 +1062,8 @@
         "id": "BD/W95-P54",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P55": {
     "name": "“次のステージへ”戸山香澄",
@@ -1031,7 +1085,8 @@
         "id": "BD/W95-P55S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P56": {
     "name": "“次のステージへ”美竹蘭",
@@ -1053,7 +1108,8 @@
         "id": "BD/W95-P56S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-P57": {
     "name": "“次のステージへ”丸山彩",
@@ -1075,7 +1131,8 @@
         "id": "BD/W95-P57S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-P58": {
     "name": "“次のステージへ”湊友希那",
@@ -1097,7 +1154,8 @@
         "id": "BD/W95-P58S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-P59": {
     "name": "“次のステージへ”弦巻こころ",
@@ -1119,7 +1177,8 @@
         "id": "BD/W95-P59S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-P60": {
     "name": "“次のステージへ”倉田ましろ",
@@ -1141,7 +1200,8 @@
         "id": "BD/W95-P60S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-P61": {
     "name": "“次のステージへ”レイヤ",
@@ -1163,7 +1223,8 @@
         "id": "BD/W95-P61S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-127": {
     "name": "笑顔が集まる場所へ！",
@@ -1181,7 +1242,8 @@
         "id": "BD/W95-127",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-128": {
     "name": "ありのままでいること",
@@ -1199,7 +1261,8 @@
         "id": "BD/W95-128",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-129": {
     "name": "おいしい時間",
@@ -1217,7 +1280,8 @@
         "id": "BD/W95-129",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-130": {
     "name": "ついに来ちゃったね！",
@@ -1235,7 +1299,8 @@
         "id": "BD/W95-130",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-131": {
     "name": "イベント前のワクワク",
@@ -1253,7 +1318,8 @@
         "id": "BD/W95-131",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-132": {
     "name": "いつか至る場所",
@@ -1271,7 +1337,8 @@
         "id": "BD/W95-132",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-133": {
     "name": "憧れの光を浴びて",
@@ -1289,6 +1356,7 @@
         "id": "BD/W95-133",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

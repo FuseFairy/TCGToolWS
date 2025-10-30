@@ -23,7 +23,8 @@
         "id": "Sls/W123-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sls/W123-035": {
     "name": "あなたの側に ディードリット",
@@ -49,7 +50,8 @@
         "id": "Sls/W123-035SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Sls/W123-043": {
     "name": "自由騎士 パーン",
@@ -75,7 +77,8 @@
         "id": "Sls/W123-043SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Sls/W123-046": {
     "name": "呪われた運命からの解放 スパーク＆ニース",
@@ -97,7 +100,8 @@
         "id": "Sls/W123-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sls/W123-048": {
     "name": "継がれた意志 ディードリット＆ライル",
@@ -119,6 +123,7 @@
         "id": "Sls/W123-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

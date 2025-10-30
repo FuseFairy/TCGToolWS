@@ -19,7 +19,8 @@
         "id": "ISC/S110-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-P02": {
     "name": "Blind Driver 斑鳩ルカ",
@@ -41,7 +42,8 @@
         "id": "ISC/S110-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-P03": {
     "name": "夏葬灯",
@@ -59,6 +61,7 @@
         "id": "ISC/S110-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

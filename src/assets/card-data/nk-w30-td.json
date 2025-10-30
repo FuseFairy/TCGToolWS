@@ -15,7 +15,8 @@
         "id": "NK/W30-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-T02": {
     "name": "転校生 千棘",
@@ -33,7 +34,8 @@
         "id": "NK/W30-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-T03": {
     "name": "初めてのデート 千棘",
@@ -51,7 +53,8 @@
         "id": "NK/W30-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-T04": {
     "name": "鶫 誠士郎",
@@ -69,7 +72,8 @@
         "id": "NK/W30-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NK/W30-T05": {
     "name": "恋人同士！？ 千棘",
@@ -87,7 +91,8 @@
         "id": "NK/W30-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NK/W30-T06": {
     "name": "三角関係？ 千棘",
@@ -105,7 +110,8 @@
         "id": "NK/W30-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NK/W30-T07": {
     "name": "桐崎 千棘",
@@ -123,7 +129,8 @@
         "id": "NK/W30-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NK/W30-T08": {
     "name": "約束のペンダント",
@@ -141,7 +148,8 @@
         "id": "NK/W30-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-T09": {
     "name": "ニセモノの恋",
@@ -159,7 +167,8 @@
         "id": "NK/W30-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NK/W30-T10": {
     "name": "優しい横顔 小咲",
@@ -177,7 +186,8 @@
         "id": "NK/W30-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-T11": {
     "name": "宮本 るり",
@@ -195,7 +205,8 @@
         "id": "NK/W30-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-T12": {
     "name": "否定する小咲",
@@ -213,7 +224,8 @@
         "id": "NK/W30-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-T13": {
     "name": "三角関係？ 小咲",
@@ -231,7 +243,8 @@
         "id": "NK/W30-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-T14": {
     "name": "三角関係？ 楽",
@@ -249,7 +262,8 @@
         "id": "NK/W30-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-T15": {
     "name": "首をかしげる小咲",
@@ -267,7 +281,8 @@
         "id": "NK/W30-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/W30-T16": {
     "name": "小野寺 小咲",
@@ -285,7 +300,8 @@
         "id": "NK/W30-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NK/W30-T17": {
     "name": "橘 万里花",
@@ -303,7 +319,8 @@
         "id": "NK/W30-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NK/W30-T18": {
     "name": "遠い日の約束",
@@ -321,7 +338,8 @@
         "id": "NK/W30-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NK/W30-T19": {
     "name": "うそ……ついちゃった……",
@@ -339,6 +357,7 @@
         "id": "NK/W30-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

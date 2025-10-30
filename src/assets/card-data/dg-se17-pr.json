@@ -15,7 +15,8 @@
         "id": "DG/SE17-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE17-P02": {
     "name": "強大な魔力の持ち主 エトナ",
@@ -33,7 +34,8 @@
         "id": "DG/SE17-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE17-P03": {
     "name": "魔王と愉快な仲間達",
@@ -51,6 +53,7 @@
         "id": "DG/SE17-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

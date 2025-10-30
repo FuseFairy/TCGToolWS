@@ -15,7 +15,8 @@
         "id": "NGL/S58-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-P02": {
     "name": "精霊水配合シャンプー ジブリール",
@@ -33,7 +34,8 @@
         "id": "NGL/S58-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-P03": {
     "name": "ゲーマー仲間 白＆いづな",
@@ -51,7 +53,8 @@
         "id": "NGL/S58-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-P04": {
     "name": "魅惑のしっぽ 白",
@@ -73,7 +76,8 @@
         "id": "NGL/S58-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-101": {
     "name": "異世界からの来訪者 空",
@@ -91,7 +95,8 @@
         "id": "NGL/S58-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-102": {
     "name": "人類種のために クラミー",
@@ -109,7 +114,8 @@
         "id": "NGL/S58-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-103": {
     "name": "ニルヴァレン家の当主 フィール",
@@ -127,7 +133,8 @@
         "id": "NGL/S58-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-104": {
     "name": "間違った言葉遣い いづな",
@@ -145,7 +152,8 @@
         "id": "NGL/S58-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-105": {
     "name": "エルキア国の屋台骨 ステフ",
@@ -163,7 +171,8 @@
         "id": "NGL/S58-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-106": {
     "name": "マスターへの敬愛 ジブリール",
@@ -181,7 +190,8 @@
         "id": "NGL/S58-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-107": {
     "name": "異世界からの来訪者 白",
@@ -199,7 +209,8 @@
         "id": "NGL/S58-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-108": {
     "name": "ゲームの神 テト",
@@ -217,6 +228,7 @@
         "id": "NGL/S58-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

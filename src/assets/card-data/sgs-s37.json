@@ -15,7 +15,8 @@
         "id": "SGS/S37-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-T08": {
     "name": "“アルタイル・トルテ”美山 椿芽",
@@ -33,7 +34,8 @@
         "id": "SGS/S37-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-T10": {
     "name": "“アルタイル・トルテ”沙島 悠水",
@@ -51,7 +53,8 @@
         "id": "SGS/S37-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-T12": {
     "name": "“アルタイル・トルテ”澄原 サトカ",
@@ -73,7 +76,8 @@
         "id": "SGS/S37-T12SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-T16": {
     "name": "“アルタイル・トルテ”夜木沼 伊緒",
@@ -91,7 +95,8 @@
         "id": "SGS/S37-T16SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-001": {
     "name": "菜森 まな",
@@ -113,7 +118,8 @@
         "id": "SGS/S37-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-002": {
     "name": "澄原 サトカ",
@@ -135,7 +141,8 @@
         "id": "SGS/S37-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-003": {
     "name": "美山 椿芽",
@@ -157,7 +164,8 @@
         "id": "SGS/S37-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-004": {
     "name": "沙島 悠水",
@@ -179,7 +187,8 @@
         "id": "SGS/S37-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-005": {
     "name": "不知火 ハヅキ",
@@ -201,7 +210,8 @@
         "id": "SGS/S37-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-006": {
     "name": "夜木沼 伊緒",
@@ -223,7 +233,8 @@
         "id": "SGS/S37-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-007": {
     "name": "二代目エテルノクイーン 伊緒",
@@ -245,7 +256,8 @@
         "id": "SGS/S37-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-008": {
     "name": "“お正月”沙島 悠水",
@@ -263,7 +275,8 @@
         "id": "SGS/S37-008",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-009": {
     "name": "晴れ舞台 サトカ",
@@ -285,7 +298,8 @@
         "id": "SGS/S37-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-010": {
     "name": "お誘い リョウコ",
@@ -307,7 +321,8 @@
         "id": "SGS/S37-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-011": {
     "name": "“お正月”美山 椿芽",
@@ -329,7 +344,8 @@
         "id": "SGS/S37-011R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-012": {
     "name": "夏だよ！まっほー まな",
@@ -347,7 +363,8 @@
         "id": "SGS/S37-012",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-013": {
     "name": "“ココナッツ・ベガ”居吹 イミナ",
@@ -369,7 +386,8 @@
         "id": "SGS/S37-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-014": {
     "name": "“お正月”菜森 まな",
@@ -387,7 +405,8 @@
         "id": "SGS/S37-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-015": {
     "name": "食欲の夏 サトカ",
@@ -405,7 +424,8 @@
         "id": "SGS/S37-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-016": {
     "name": "夏のリフレッシュ 椿芽",
@@ -423,7 +443,8 @@
         "id": "SGS/S37-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-017": {
     "name": "ポーカーフェイス マリ",
@@ -441,7 +462,8 @@
         "id": "SGS/S37-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-018": {
     "name": "エール！ 椿芽",
@@ -459,7 +481,8 @@
         "id": "SGS/S37-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-019": {
     "name": "“お正月”澄原 サトカ",
@@ -477,7 +500,8 @@
         "id": "SGS/S37-019",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-020": {
     "name": "慣れない水着 イミナ",
@@ -495,7 +519,8 @@
         "id": "SGS/S37-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-021": {
     "name": "普通の女の子 リョウコ",
@@ -513,7 +538,8 @@
         "id": "SGS/S37-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-022": {
     "name": "“花火”アコ",
@@ -531,7 +557,8 @@
         "id": "SGS/S37-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-023": {
     "name": "“ココナッツ・ベガ”東雲 リョウコ",
@@ -549,7 +576,8 @@
         "id": "SGS/S37-023",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-024": {
     "name": "“お正月”夜木沼 伊緒",
@@ -567,7 +595,8 @@
         "id": "SGS/S37-024",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-025": {
     "name": "“ココナッツ・ベガ”不知火 ハヅキ",
@@ -585,7 +614,8 @@
         "id": "SGS/S37-025",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-026": {
     "name": "元“伝説の不良”イミナ",
@@ -603,7 +633,8 @@
         "id": "SGS/S37-026",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-027": {
     "name": "“ココナッツ・ベガ”高嶺 アコ",
@@ -621,7 +652,8 @@
         "id": "SGS/S37-027",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-028": {
     "name": "狙い撃ち 悠水",
@@ -639,7 +671,8 @@
         "id": "SGS/S37-028",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-029": {
     "name": "“花火”リョウコ",
@@ -657,7 +690,8 @@
         "id": "SGS/S37-029",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-030": {
     "name": "情報通 アコ",
@@ -675,7 +709,8 @@
         "id": "SGS/S37-030",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-031": {
     "name": "“花火”ハヅキ",
@@ -693,7 +728,8 @@
         "id": "SGS/S37-031",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-032": {
     "name": "熱視線 ハヅキ",
@@ -711,7 +747,8 @@
         "id": "SGS/S37-032",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-033": {
     "name": "“花火”マリ",
@@ -729,7 +766,8 @@
         "id": "SGS/S37-033",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-034": {
     "name": "ボスと一緒 アコ",
@@ -747,7 +785,8 @@
         "id": "SGS/S37-034",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-035": {
     "name": "“花火”イミナ",
@@ -765,7 +804,8 @@
         "id": "SGS/S37-035",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-036": {
     "name": "隊長さんと 伊緒",
@@ -783,7 +823,8 @@
         "id": "SGS/S37-036",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-037": {
     "name": "料理上手 悠水",
@@ -801,7 +842,8 @@
         "id": "SGS/S37-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-038": {
     "name": "クールに決めて マリ",
@@ -819,7 +861,8 @@
         "id": "SGS/S37-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-039": {
     "name": "アブナイ香り ハヅキ",
@@ -837,7 +880,8 @@
         "id": "SGS/S37-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-040": {
     "name": "たまの休日 ハヅキ",
@@ -855,7 +899,8 @@
         "id": "SGS/S37-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-041": {
     "name": "“ココナッツ・ベガ”雪代 マリ",
@@ -873,7 +918,8 @@
         "id": "SGS/S37-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-042": {
     "name": "カレーパン大好き サトカ",
@@ -891,7 +937,8 @@
         "id": "SGS/S37-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-043": {
     "name": "“約束”伊緒＆まな",
@@ -909,7 +956,8 @@
         "id": "SGS/S37-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-044": {
     "name": "隊長!?",
@@ -927,7 +975,8 @@
         "id": "SGS/S37-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-045": {
     "name": "放課後の2人",
@@ -945,7 +994,8 @@
         "id": "SGS/S37-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-046": {
     "name": "お腹すく前に 終わらすです",
@@ -967,7 +1017,8 @@
         "id": "SGS/S37-046R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-047": {
     "name": "さあ あたしの番だね！ 覚悟ッ！",
@@ -989,7 +1040,8 @@
         "id": "SGS/S37-047R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SGS/S37-048": {
     "name": "討ち倒します この身に代えても！",
@@ -1007,7 +1059,8 @@
         "id": "SGS/S37-048",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-049": {
     "name": "さァ お楽しみの時間だよ！",
@@ -1025,7 +1078,8 @@
         "id": "SGS/S37-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-050": {
     "name": "普通って言うなぁ！",
@@ -1043,7 +1097,8 @@
         "id": "SGS/S37-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SGS/S37-051": {
     "name": "伝説のカレーパン",
@@ -1061,7 +1116,8 @@
         "id": "SGS/S37-051",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SGS/S37-052": {
     "name": "杏橋 天音",
@@ -1083,7 +1139,8 @@
         "id": "SGS/S37-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-053": {
     "name": "緋ノ宮 二穂",
@@ -1105,7 +1162,8 @@
         "id": "SGS/S37-053SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-054": {
     "name": "“M”灰島 依咲里",
@@ -1127,7 +1185,8 @@
         "id": "SGS/S37-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-055": {
     "name": "灰島 依咲里",
@@ -1149,7 +1208,8 @@
         "id": "SGS/S37-055SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-056": {
     "name": "“S”灰島 華賀利",
@@ -1171,7 +1231,8 @@
         "id": "SGS/S37-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-057": {
     "name": "灰島 華賀利",
@@ -1193,7 +1254,8 @@
         "id": "SGS/S37-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-058": {
     "name": "蒼井 雪枝",
@@ -1215,7 +1277,8 @@
         "id": "SGS/S37-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-059": {
     "name": "“プロキオン・プディング”桃川 紗々",
@@ -1237,7 +1300,8 @@
         "id": "SGS/S37-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-060": {
     "name": "桃川 紗々",
@@ -1259,7 +1323,8 @@
         "id": "SGS/S37-060SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-061": {
     "name": "“プロキオン・プディング”李野田 真乃",
@@ -1281,7 +1346,8 @@
         "id": "SGS/S37-061R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-062": {
     "name": "“ビスケット・シリウス”蒼井 雪枝",
@@ -1299,7 +1365,8 @@
         "id": "SGS/S37-062",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-063": {
     "name": "“ココロ許せる仲間と”真乃",
@@ -1317,7 +1384,8 @@
         "id": "SGS/S37-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-064": {
     "name": "“プロキオン・プディング”棗 いつみ",
@@ -1335,7 +1403,8 @@
         "id": "SGS/S37-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-065": {
     "name": "不思議大好き女子 雪枝",
@@ -1353,7 +1422,8 @@
         "id": "SGS/S37-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-066": {
     "name": "待ち焦がれた季節 華賀利",
@@ -1371,7 +1441,8 @@
         "id": "SGS/S37-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-067": {
     "name": "のんびり過ごす 紗々",
@@ -1389,7 +1460,8 @@
         "id": "SGS/S37-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-068": {
     "name": "二穂サンタ",
@@ -1407,7 +1479,8 @@
         "id": "SGS/S37-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-069": {
     "name": "バカンス 二穂",
@@ -1425,7 +1498,8 @@
         "id": "SGS/S37-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-070": {
     "name": "“ビスケット・シリウス”緋ノ宮 二穂",
@@ -1443,7 +1517,8 @@
         "id": "SGS/S37-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-071": {
     "name": "“ビスケット・シリウス”山吹 楓",
@@ -1461,7 +1536,8 @@
         "id": "SGS/S37-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-072": {
     "name": "“プロキオン・プディング”杏橋 天音",
@@ -1479,7 +1555,8 @@
         "id": "SGS/S37-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-073": {
     "name": "“ビスケット・シリウス”灰島 依咲里",
@@ -1497,7 +1574,8 @@
         "id": "SGS/S37-073",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-074": {
     "name": "“会心の一撃”緋ノ宮 二穂",
@@ -1515,7 +1593,8 @@
         "id": "SGS/S37-074",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-075": {
     "name": "お姉さん 楓",
@@ -1533,7 +1612,8 @@
         "id": "SGS/S37-075",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-076": {
     "name": "“ビスケット・シリウス”灰島 華賀利",
@@ -1551,7 +1631,8 @@
         "id": "SGS/S37-076",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-077": {
     "name": "自信家 天音",
@@ -1569,7 +1650,8 @@
         "id": "SGS/S37-077",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-078": {
     "name": "暑さは苦手 真乃",
@@ -1587,7 +1669,8 @@
         "id": "SGS/S37-078",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-079": {
     "name": "山吹 楓",
@@ -1605,7 +1688,8 @@
         "id": "SGS/S37-079",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-080": {
     "name": "リラックス 楓",
@@ -1623,7 +1707,8 @@
         "id": "SGS/S37-080",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-081": {
     "name": "小麦肌 遥",
@@ -1641,7 +1726,8 @@
         "id": "SGS/S37-081",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-082": {
     "name": "お世話係 いつみ",
@@ -1659,7 +1745,8 @@
         "id": "SGS/S37-082",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-083": {
     "name": "ふとした一面 依咲里",
@@ -1677,7 +1764,8 @@
         "id": "SGS/S37-083",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-084": {
     "name": "ほころび 華賀利",
@@ -1695,7 +1783,8 @@
         "id": "SGS/S37-084",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-085": {
     "name": "肉体労働担当 華賀利",
@@ -1713,7 +1802,8 @@
         "id": "SGS/S37-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-086": {
     "name": "“ココロ許せる仲間と”天音",
@@ -1731,7 +1821,8 @@
         "id": "SGS/S37-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-087": {
     "name": "マイペース 紗々",
@@ -1749,7 +1840,8 @@
         "id": "SGS/S37-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-088": {
     "name": "お嬢様 二穂",
@@ -1767,7 +1859,8 @@
         "id": "SGS/S37-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-089": {
     "name": "心配 いつみ",
@@ -1785,7 +1878,8 @@
         "id": "SGS/S37-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-090": {
     "name": "元気印 遥",
@@ -1803,7 +1897,8 @@
         "id": "SGS/S37-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-091": {
     "name": "“プロキオン・プディング”栗本 遥",
@@ -1821,7 +1916,8 @@
         "id": "SGS/S37-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-092": {
     "name": "ポーズを決めて 天音",
@@ -1839,7 +1935,8 @@
         "id": "SGS/S37-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-093": {
     "name": "事務方担当 依咲里",
@@ -1857,7 +1954,8 @@
         "id": "SGS/S37-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-094": {
     "name": "のんびり海の中 雪枝",
@@ -1875,7 +1973,8 @@
         "id": "SGS/S37-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-095": {
     "name": "理論派 真乃",
@@ -1893,7 +1992,8 @@
         "id": "SGS/S37-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-096": {
     "name": "隊長!?",
@@ -1911,7 +2011,8 @@
         "id": "SGS/S37-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-097": {
     "name": "遭遇",
@@ -1929,7 +2030,8 @@
         "id": "SGS/S37-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-098": {
     "name": "ブイブイ言わせモシュ！",
@@ -1947,7 +2049,8 @@
         "id": "SGS/S37-098",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-099": {
     "name": "天音 オンステージ！",
@@ -1969,7 +2072,8 @@
         "id": "SGS/S37-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-100": {
     "name": "あたしの顔は一度までだ！",
@@ -1991,7 +2095,8 @@
         "id": "SGS/S37-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-101": {
     "name": "穿けえっ！",
@@ -2009,7 +2114,8 @@
         "id": "SGS/S37-101",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SGS/S37-102": {
     "name": "これが私のホンキです～！",
@@ -2027,7 +2133,8 @@
         "id": "SGS/S37-102",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SGS/S37-103": {
     "name": "これで お別れ",
@@ -2045,7 +2152,8 @@
         "id": "SGS/S37-103",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SGS/S37-104": {
     "name": "千年 夕依",
@@ -2067,7 +2175,8 @@
         "id": "SGS/S37-104SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-105": {
     "name": "神無木 栞",
@@ -2089,7 +2198,8 @@
         "id": "SGS/S37-105SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-106": {
     "name": "賢宮 ほたる",
@@ -2111,7 +2221,8 @@
         "id": "SGS/S37-106SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-107": {
     "name": "降神 陽奈",
@@ -2133,7 +2244,8 @@
         "id": "SGS/S37-107SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-108": {
     "name": "生徒会長 あおい",
@@ -2151,7 +2263,8 @@
         "id": "SGS/S37-108",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-109": {
     "name": "“ショコラティエール”夕依",
@@ -2173,7 +2286,8 @@
         "id": "SGS/S37-109S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-110": {
     "name": "お人好し妄想ガール ほたる",
@@ -2191,7 +2305,8 @@
         "id": "SGS/S37-110",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-111": {
     "name": "“アザーズ”降神 陽奈",
@@ -2209,7 +2324,8 @@
         "id": "SGS/S37-111",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-112": {
     "name": "まだまだこれから チカ",
@@ -2231,7 +2347,8 @@
         "id": "SGS/S37-112S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-113": {
     "name": "“ショコラーデ・ミラ”賢宮 ほたる",
@@ -2249,7 +2366,8 @@
         "id": "SGS/S37-113",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-114": {
     "name": "モルガナ",
@@ -2271,7 +2389,8 @@
         "id": "SGS/S37-114S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-115": {
     "name": "“ショコラーデ・ミラ”末葉 あおい",
@@ -2293,7 +2412,8 @@
         "id": "SGS/S37-115S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-116": {
     "name": "“ショコラーデ・ミラ”若月 チカ",
@@ -2311,7 +2431,8 @@
         "id": "SGS/S37-116",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-117": {
     "name": "“お気に”のボーダー 陽奈",
@@ -2329,7 +2450,8 @@
         "id": "SGS/S37-117",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-118": {
     "name": "大胆に背伸びして 陽奈",
@@ -2347,7 +2469,8 @@
         "id": "SGS/S37-118",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-119": {
     "name": "“ショコラーデ・ミラ”神無木 栞",
@@ -2365,7 +2488,8 @@
         "id": "SGS/S37-119",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-120": {
     "name": "“ショコラティエール”チカ",
@@ -2383,7 +2507,8 @@
         "id": "SGS/S37-120",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-121": {
     "name": "元気いっぱい あから",
@@ -2401,7 +2526,8 @@
         "id": "SGS/S37-121",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-122": {
     "name": "夏の一コマ ほたる",
@@ -2419,7 +2545,8 @@
         "id": "SGS/S37-122",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-123": {
     "name": "謎の存在 モルガナ",
@@ -2437,7 +2564,8 @@
         "id": "SGS/S37-123",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-124": {
     "name": "“アザーズ”降神 小織",
@@ -2455,7 +2583,8 @@
         "id": "SGS/S37-124",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-125": {
     "name": "末葉 あおい",
@@ -2473,7 +2602,8 @@
         "id": "SGS/S37-125",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-126": {
     "name": "晴れ舞台 夕依",
@@ -2491,7 +2621,8 @@
         "id": "SGS/S37-126",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-127": {
     "name": "“ショコラーデ・ミラ”千年 夕依",
@@ -2509,7 +2640,8 @@
         "id": "SGS/S37-127",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-128": {
     "name": "ティエラ先生",
@@ -2527,7 +2659,8 @@
         "id": "SGS/S37-128",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-129": {
     "name": "ナイショの趣味 栞",
@@ -2545,7 +2678,8 @@
         "id": "SGS/S37-129",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-130": {
     "name": "“アザーズ”降神 あから",
@@ -2563,7 +2697,8 @@
         "id": "SGS/S37-130",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-131": {
     "name": "黒鳥の騎士 オディール",
@@ -2581,7 +2716,8 @@
         "id": "SGS/S37-131",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-132": {
     "name": "身を委ねて 栞",
@@ -2599,7 +2735,8 @@
         "id": "SGS/S37-132",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-133": {
     "name": "熱血少女 あから",
@@ -2617,7 +2754,8 @@
         "id": "SGS/S37-133",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-134": {
     "name": "“ショコラティエール”ほたる",
@@ -2635,7 +2773,8 @@
         "id": "SGS/S37-134",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-135": {
     "name": "“ショコラティエール”栞",
@@ -2653,7 +2792,8 @@
         "id": "SGS/S37-135",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-136": {
     "name": "微笑みのモルガナ",
@@ -2671,7 +2811,8 @@
         "id": "SGS/S37-136",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-137": {
     "name": "凍てついた心 小織",
@@ -2689,7 +2830,8 @@
         "id": "SGS/S37-137",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-138": {
     "name": "ドジっ子時空管理官 ティエラ先生",
@@ -2707,7 +2849,8 @@
         "id": "SGS/S37-138",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-139": {
     "name": "“ショコラティエール”あおい",
@@ -2725,7 +2868,8 @@
         "id": "SGS/S37-139",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-140": {
     "name": "つぶあん信者 夕依",
@@ -2743,7 +2887,8 @@
         "id": "SGS/S37-140",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-141": {
     "name": "困り顔 幸子",
@@ -2761,7 +2906,8 @@
         "id": "SGS/S37-141",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-142": {
     "name": "ちょっぴり大人の夏休み チカ",
@@ -2779,7 +2925,8 @@
         "id": "SGS/S37-142",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-143": {
     "name": "水着の巫女さん 夕依",
@@ -2797,7 +2944,8 @@
         "id": "SGS/S37-143",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-144": {
     "name": "頬を染めた夏 あおい",
@@ -2815,7 +2963,8 @@
         "id": "SGS/S37-144",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-145": {
     "name": "オフの日 ティエラ先生",
@@ -2833,7 +2982,8 @@
         "id": "SGS/S37-145",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-146": {
     "name": "引っ込み思案 幸子",
@@ -2851,7 +3001,8 @@
         "id": "SGS/S37-146",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-147": {
     "name": "自分らしく 陽奈",
@@ -2869,7 +3020,8 @@
         "id": "SGS/S37-147",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-148": {
     "name": "陽奈サンタ",
@@ -2887,7 +3039,8 @@
         "id": "SGS/S37-148",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-149": {
     "name": "プカプカ 小織",
@@ -2905,7 +3058,8 @@
         "id": "SGS/S37-149",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-150": {
     "name": "若月 チカ",
@@ -2923,7 +3077,8 @@
         "id": "SGS/S37-150",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-151": {
     "name": "商人“魂”ハナ",
@@ -2941,7 +3096,8 @@
         "id": "SGS/S37-151",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-152": {
     "name": "隊長!?",
@@ -2959,7 +3115,8 @@
         "id": "SGS/S37-152",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-153": {
     "name": "私と一緒に…",
@@ -2977,7 +3134,8 @@
         "id": "SGS/S37-153",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-154": {
     "name": "ひなちゃん スペシャルあたーっく！",
@@ -2999,7 +3157,8 @@
         "id": "SGS/S37-154R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SGS/S37-155": {
     "name": "あたしたちが、二代目生徒会です！",
@@ -3021,7 +3180,8 @@
         "id": "SGS/S37-155R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-156": {
     "name": "ボクたちの居場所",
@@ -3039,7 +3199,8 @@
         "id": "SGS/S37-156",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SGS/S37-157": {
     "name": "オディールキ――ック！！",
@@ -3057,7 +3218,8 @@
         "id": "SGS/S37-157",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SGS/S37-158": {
     "name": "決戦の時",
@@ -3075,6 +3237,7 @@
         "id": "SGS/S37-158",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

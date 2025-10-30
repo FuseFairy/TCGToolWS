@@ -15,7 +15,8 @@
         "id": "EV/S12-101",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "EV/S12-102": {
     "name": "窓辺の綾波",
@@ -33,7 +34,8 @@
         "id": "EV/S12-102",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "EV/S12-103": {
     "name": "綾波＆ゲンドウ",
@@ -51,7 +53,8 @@
         "id": "EV/S12-103",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "EV/S12-104": {
     "name": "エントリープラグの綾波",
@@ -69,7 +72,8 @@
         "id": "EV/S12-104",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "EV/S12-105": {
     "name": "転校生 シンジ",
@@ -87,7 +91,8 @@
         "id": "EV/S12-105",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "EV/S12-T01": {
     "name": "屋上のシンジ",
@@ -105,7 +110,8 @@
         "id": "EV/S12-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "EV/S12-T02": {
     "name": "写真のミサト",
@@ -123,7 +129,8 @@
         "id": "EV/S12-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "EV/S12-T03": {
     "name": "待ち合わせ中のシンジ",
@@ -141,7 +148,8 @@
         "id": "EV/S12-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "EV/S12-T04": {
     "name": "エヴァンゲリオン試験初号機",
@@ -159,7 +167,8 @@
         "id": "EV/S12-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "EV/S12-T05": {
     "name": "緊急事態のミサト",
@@ -177,7 +186,8 @@
         "id": "EV/S12-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "EV/S12-T06": {
     "name": "ドライバー ミサト",
@@ -195,7 +205,8 @@
         "id": "EV/S12-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "EV/S12-T07": {
     "name": "G型装備 エヴァ初号機",
@@ -213,7 +224,8 @@
         "id": "EV/S12-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "EV/S12-T08": {
     "name": "使徒の一撃",
@@ -231,7 +243,8 @@
         "id": "EV/S12-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "EV/S12-T09": {
     "name": "ヤシマ作戦",
@@ -249,7 +262,8 @@
         "id": "EV/S12-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "EV/S12-T10": {
     "name": "包帯姿の綾波",
@@ -267,7 +281,8 @@
         "id": "EV/S12-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "EV/S12-T11": {
     "name": "第６の使徒",
@@ -285,7 +300,8 @@
         "id": "EV/S12-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "EV/S12-T12": {
     "name": "自宅の綾波",
@@ -303,7 +319,8 @@
         "id": "EV/S12-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "EV/S12-T13": {
     "name": "綾波の笑顔",
@@ -321,7 +338,8 @@
         "id": "EV/S12-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "EV/S12-T14": {
     "name": "どいてくれる？",
@@ -339,6 +357,7 @@
         "id": "EV/S12-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

@@ -15,7 +15,8 @@
         "id": "CL/WE04-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE04-02": {
     "name": "岡崎 渚",
@@ -33,7 +34,8 @@
         "id": "CL/WE04-02",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE04-03": {
     "name": "恋の仕掛け人 芽衣",
@@ -51,7 +53,8 @@
         "id": "CL/WE04-03",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE04-04": {
     "name": "前向きな朋也",
@@ -69,7 +72,8 @@
         "id": "CL/WE04-04",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE04-05": {
     "name": "坂上 智代",
@@ -87,7 +91,8 @@
         "id": "CL/WE04-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE04-06": {
     "name": "生徒会長 智代",
@@ -105,7 +110,8 @@
         "id": "CL/WE04-06",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE04-07": {
     "name": "伊吹 風子",
@@ -123,7 +129,8 @@
         "id": "CL/WE04-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE04-08": {
     "name": "パジャマの風子",
@@ -141,7 +148,8 @@
         "id": "CL/WE04-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE04-09": {
     "name": "智代の誓い",
@@ -159,7 +167,8 @@
         "id": "CL/WE04-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE04-10": {
     "name": "杏＆智代",
@@ -177,7 +186,8 @@
         "id": "CL/WE04-10",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE04-11": {
     "name": "藤林 杏",
@@ -195,7 +205,8 @@
         "id": "CL/WE04-11",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE04-12": {
     "name": "渚＆杏",
@@ -213,7 +224,8 @@
         "id": "CL/WE04-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE04-13": {
     "name": "委員長 杏",
@@ -231,7 +243,8 @@
         "id": "CL/WE04-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE04-14": {
     "name": "恋のトライアングル",
@@ -249,7 +262,8 @@
         "id": "CL/WE04-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE04-15": {
     "name": "天才少女ことみ",
@@ -267,7 +281,8 @@
         "id": "CL/WE04-15",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WE04-16": {
     "name": "マイペースことみ",
@@ -285,7 +300,8 @@
         "id": "CL/WE04-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE04-17": {
     "name": "占い好きな椋",
@@ -303,7 +319,8 @@
         "id": "CL/WE04-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE04-18": {
     "name": "芳野 祐介",
@@ -321,6 +338,7 @@
         "id": "CL/WE04-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -15,7 +15,8 @@
         "id": "RZ/S46-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-P02": {
     "name": "ロズっち書庫の司書 ベアトリス",
@@ -33,7 +34,8 @@
         "id": "RZ/S46-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-P03": {
     "name": "恩返しの気持ち エミリア",
@@ -51,7 +53,8 @@
         "id": "RZ/S46-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-P04": {
     "name": "秘めた思い レム",
@@ -69,7 +72,8 @@
         "id": "RZ/S46-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-P05": {
     "name": "マジ切れするぐらい高い茶 ラム",
@@ -87,7 +91,8 @@
         "id": "RZ/S46-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-P06": {
     "name": "Happy Birthday！ レム",
@@ -105,7 +110,8 @@
         "id": "RZ/S46-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-P07": {
     "name": "怒りの一撃 レム",
@@ -127,7 +133,8 @@
         "id": "RZ/S46-P07S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-P08": {
     "name": "心細い夜 レム",
@@ -145,7 +152,8 @@
         "id": "RZ/S46-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-P09": {
     "name": "異世界常夏生活♪",
@@ -163,7 +171,8 @@
         "id": "RZ/S46-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-P10": {
     "name": "おでかけ♪ レム",
@@ -185,7 +194,8 @@
         "id": "RZ/S46-P10S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-101": {
     "name": "ぷちフェルト",
@@ -203,7 +213,8 @@
         "id": "RZ/S46-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-102": {
     "name": "ぷちベアトリス",
@@ -221,7 +232,8 @@
         "id": "RZ/S46-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-103": {
     "name": "ぷちラム",
@@ -239,7 +251,8 @@
         "id": "RZ/S46-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-104": {
     "name": "ぷちエミリア",
@@ -257,7 +270,8 @@
         "id": "RZ/S46-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-105": {
     "name": "ぷちレム",
@@ -275,6 +289,7 @@
         "id": "RZ/S46-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

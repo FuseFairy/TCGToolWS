@@ -19,7 +19,8 @@
         "id": "N2/W25-001R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-002": {
     "name": "守るべきもの シグナム",
@@ -41,7 +42,8 @@
         "id": "N2/W25-002R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-003": {
     "name": "これからのこと フェイト",
@@ -63,7 +65,8 @@
         "id": "N2/W25-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-004": {
     "name": "友達のために フェイト",
@@ -85,7 +88,8 @@
         "id": "N2/W25-004R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-005": {
     "name": "勝利宣言 フェイト",
@@ -107,7 +111,8 @@
         "id": "N2/W25-005SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-006": {
     "name": "ソニックドライブ フェイト",
@@ -129,7 +134,8 @@
         "id": "N2/W25-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-007": {
     "name": "今いるべき場所 フェイト",
@@ -151,7 +157,8 @@
         "id": "N2/W25-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-008": {
     "name": "理想の家族 フェイト",
@@ -173,7 +180,8 @@
         "id": "N2/W25-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-009": {
     "name": "久しぶりの再会 フェイト",
@@ -191,7 +199,8 @@
         "id": "N2/W25-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-010": {
     "name": "謎の剣士 シグナム",
@@ -209,7 +218,8 @@
         "id": "N2/W25-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-011": {
     "name": "屋上の邂逅 シグナム",
@@ -227,7 +237,8 @@
         "id": "N2/W25-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-012": {
     "name": "将の宣言 シグナム",
@@ -245,7 +256,8 @@
         "id": "N2/W25-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-013": {
     "name": "感謝の気持ち アルフ",
@@ -263,7 +275,8 @@
         "id": "N2/W25-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-014": {
     "name": "決戦 フェイト",
@@ -281,7 +294,8 @@
         "id": "N2/W25-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-015": {
     "name": "心地良い時間 フェイト",
@@ -299,7 +313,8 @@
         "id": "N2/W25-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-016": {
     "name": "シュランゲフォルム シグナム",
@@ -317,7 +332,8 @@
         "id": "N2/W25-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-017": {
     "name": "おねだりアリシア",
@@ -335,7 +351,8 @@
         "id": "N2/W25-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-018": {
     "name": "寝起きのシグナム",
@@ -353,7 +370,8 @@
         "id": "N2/W25-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-019": {
     "name": "新たなる力 フェイト",
@@ -371,7 +389,8 @@
         "id": "N2/W25-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-020": {
     "name": "理想の家族 プレシア＆リニス",
@@ -389,7 +408,8 @@
         "id": "N2/W25-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-021": {
     "name": "管理局員 シグナム",
@@ -407,7 +427,8 @@
         "id": "N2/W25-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-022": {
     "name": "仲良しお散歩",
@@ -425,7 +446,8 @@
         "id": "N2/W25-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-023": {
     "name": "夢の終わり",
@@ -443,7 +465,8 @@
         "id": "N2/W25-023",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-024": {
     "name": "雷神の一撃",
@@ -461,7 +484,8 @@
         "id": "N2/W25-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-025": {
     "name": "立ちはだかる強敵",
@@ -479,7 +503,8 @@
         "id": "N2/W25-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "N2/W25-026": {
     "name": "戦闘態勢 リンディ",
@@ -501,7 +526,8 @@
         "id": "N2/W25-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-027": {
     "name": "過去の記憶 リンディ",
@@ -519,7 +545,8 @@
         "id": "N2/W25-027",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-028": {
     "name": "“極大凍結魔法”クロノ",
@@ -537,7 +564,8 @@
         "id": "N2/W25-028",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-029": {
     "name": "“闇の書”事件の記憶 クロノ",
@@ -555,7 +583,8 @@
         "id": "N2/W25-029",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-030": {
     "name": "クリスマスパーティー アリサ＆すずか",
@@ -573,7 +602,8 @@
         "id": "N2/W25-030",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-031": {
     "name": "決意の眼差し なのは",
@@ -595,7 +625,8 @@
         "id": "N2/W25-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-032": {
     "name": "怒りの眼差し ヴィータ",
@@ -617,7 +648,8 @@
         "id": "N2/W25-032R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-033": {
     "name": "ウキウキなのは",
@@ -639,7 +671,8 @@
         "id": "N2/W25-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-034": {
     "name": "もぐもぐヴィータ",
@@ -661,7 +694,8 @@
         "id": "N2/W25-034SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-035": {
     "name": "カートリッジシステム なのは",
@@ -683,7 +717,8 @@
         "id": "N2/W25-035R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-036": {
     "name": "アクセルモード なのは",
@@ -705,7 +740,8 @@
         "id": "N2/W25-036SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-037": {
     "name": "悲壮な決意 ヴィータ",
@@ -727,7 +763,8 @@
         "id": "N2/W25-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-038": {
     "name": "エクセリオンモード なのは",
@@ -749,7 +786,8 @@
         "id": "N2/W25-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-039": {
     "name": "突然の襲撃 なのは",
@@ -767,7 +805,8 @@
         "id": "N2/W25-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-040": {
     "name": "シュワルベフリーゲン ヴィータ",
@@ -785,7 +824,8 @@
         "id": "N2/W25-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-041": {
     "name": "新たなる力 なのは",
@@ -803,7 +843,8 @@
         "id": "N2/W25-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-042": {
     "name": "屋上の邂逅 ヴィータ",
@@ -821,7 +862,8 @@
         "id": "N2/W25-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-043": {
     "name": "アクセルシューター なのは",
@@ -839,7 +881,8 @@
         "id": "N2/W25-043",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-044": {
     "name": "初めての共闘 ヴィータ",
@@ -857,7 +900,8 @@
         "id": "N2/W25-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-045": {
     "name": "伝えたい真実 なのは",
@@ -875,7 +919,8 @@
         "id": "N2/W25-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-046": {
     "name": "はやてからの贈り物 ヴィータ",
@@ -893,7 +938,8 @@
         "id": "N2/W25-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-047": {
     "name": "二人の誓い なのは＆フェイト",
@@ -911,7 +957,8 @@
         "id": "N2/W25-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-048": {
     "name": "久しぶりの再会 なのは",
@@ -929,7 +976,8 @@
         "id": "N2/W25-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-049": {
     "name": "幸せな日々 ヴィータ",
@@ -947,7 +995,8 @@
         "id": "N2/W25-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-050": {
     "name": "アドバイザー ユーノ",
@@ -965,7 +1014,8 @@
         "id": "N2/W25-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-051": {
     "name": "管理局員 ヴィータ",
@@ -983,7 +1033,8 @@
         "id": "N2/W25-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-052": {
     "name": "誰も傷つけないように",
@@ -1001,7 +1052,8 @@
         "id": "N2/W25-052",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-053": {
     "name": "はやての為に",
@@ -1019,7 +1071,8 @@
         "id": "N2/W25-053",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "N2/W25-054": {
     "name": "約束の朝",
@@ -1037,7 +1090,8 @@
         "id": "N2/W25-054",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "N2/W25-055": {
     "name": "エクセリオンバスターA.C.S",
@@ -1055,7 +1109,8 @@
         "id": "N2/W25-055",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-056": {
     "name": "ユニゾンイン！ はやて",
@@ -1077,7 +1132,8 @@
         "id": "N2/W25-056SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-057": {
     "name": "一心同体 はやて＆リインフォース",
@@ -1099,7 +1155,8 @@
         "id": "N2/W25-057R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-058": {
     "name": "サポート役 シャマル",
@@ -1121,7 +1178,8 @@
         "id": "N2/W25-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-059": {
     "name": "朝食の支度 はやて",
@@ -1143,7 +1201,8 @@
         "id": "N2/W25-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-060": {
     "name": "楽しくお電話 はやて",
@@ -1165,7 +1224,8 @@
         "id": "N2/W25-060R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-061": {
     "name": "あふれ出す激情 リインフォース",
@@ -1187,7 +1247,8 @@
         "id": "N2/W25-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-062": {
     "name": "別れの時間 リインフォース",
@@ -1209,7 +1270,8 @@
         "id": "N2/W25-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-063": {
     "name": "お寝坊さん シャマル",
@@ -1227,7 +1289,8 @@
         "id": "N2/W25-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-064": {
     "name": "“八神家”の主 はやて",
@@ -1245,7 +1308,8 @@
         "id": "N2/W25-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-065": {
     "name": "まどろみの時 リインフォース",
@@ -1263,7 +1327,8 @@
         "id": "N2/W25-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-066": {
     "name": "突貫 ザフィーラ",
@@ -1281,7 +1346,8 @@
         "id": "N2/W25-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-067": {
     "name": "別れの時間 はやて",
@@ -1299,7 +1365,8 @@
         "id": "N2/W25-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-068": {
     "name": "友へ託す想い リインフォース",
@@ -1317,7 +1384,8 @@
         "id": "N2/W25-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-069": {
     "name": "春に生まれし風 リインフォースII",
@@ -1335,7 +1403,8 @@
         "id": "N2/W25-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-070": {
     "name": "探しもの はやて",
@@ -1353,7 +1422,8 @@
         "id": "N2/W25-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-071": {
     "name": "“追憶”リインフォース",
@@ -1371,7 +1441,8 @@
         "id": "N2/W25-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-072": {
     "name": "呪いからの解放 はやて",
@@ -1389,7 +1460,8 @@
         "id": "N2/W25-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-073": {
     "name": "補助魔法のエキスパート シャマル",
@@ -1407,7 +1479,8 @@
         "id": "N2/W25-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-074": {
     "name": "悪い子にはお仕置き はやて",
@@ -1425,7 +1498,8 @@
         "id": "N2/W25-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-075": {
     "name": "コア捕獲 シャマル",
@@ -1443,7 +1517,8 @@
         "id": "N2/W25-075",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-076": {
     "name": "管理局員 シャマル",
@@ -1461,7 +1536,8 @@
         "id": "N2/W25-076",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-077": {
     "name": "全力疾走 ザフィーラ",
@@ -1479,7 +1555,8 @@
         "id": "N2/W25-077",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N2/W25-078": {
     "name": "闇の書覚醒",
@@ -1497,7 +1574,8 @@
         "id": "N2/W25-078",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N2/W25-079": {
     "name": "八神家の朝",
@@ -1515,7 +1593,8 @@
         "id": "N2/W25-079",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "N2/W25-080": {
     "name": "石化の槍 ミストルティン",
@@ -1533,6 +1612,7 @@
         "id": "N2/W25-080",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

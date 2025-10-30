@@ -15,7 +15,8 @@
         "id": "NR/W58-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-P02": {
     "name": "ディアーチェ＆シュテル＆レヴィ",
@@ -33,7 +34,8 @@
         "id": "NR/W58-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-P03": {
     "name": "真夏のレジャー フェイト＆なのは",
@@ -51,7 +53,8 @@
         "id": "NR/W58-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-P04": {
     "name": "戦闘態勢 はやて",
@@ -69,7 +72,8 @@
         "id": "NR/W58-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-101": {
     "name": "“優しく真面目”フェイト",
@@ -87,7 +91,8 @@
         "id": "NR/W58-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-102": {
     "name": "“自分にできること”なのは",
@@ -105,7 +110,8 @@
         "id": "NR/W58-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-103": {
     "name": "“人々のために”はやて",
@@ -123,7 +129,8 @@
         "id": "NR/W58-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-104": {
     "name": "“自らの目的のため”ディアーチェ",
@@ -141,7 +148,8 @@
         "id": "NR/W58-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-105": {
     "name": "“王を仰ぐ”シュテル",
@@ -159,7 +167,8 @@
         "id": "NR/W58-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-106": {
     "name": "“王を慕う”レヴィ",
@@ -177,6 +186,7 @@
         "id": "NR/W58-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

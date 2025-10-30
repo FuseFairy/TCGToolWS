@@ -15,7 +15,8 @@
         "id": "GG/S23-101",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-102": {
     "name": "感動の味 レド",
@@ -33,7 +34,8 @@
         "id": "GG/S23-102",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-103": {
     "name": "好奇心旺盛 エイミー",
@@ -51,7 +53,8 @@
         "id": "GG/S23-103",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-104": {
     "name": "レド&チェインバー",
@@ -69,7 +72,8 @@
         "id": "GG/S23-104",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-105": {
     "name": "姉御肌 ベローズ",
@@ -87,7 +91,8 @@
         "id": "GG/S23-105",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-T01": {
     "name": "喜ぶエイミー",
@@ -105,7 +110,8 @@
         "id": "GG/S23-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-T02": {
     "name": "いたずらっ子 メルティ",
@@ -123,7 +129,8 @@
         "id": "GG/S23-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-T03": {
     "name": "水着のサーヤ",
@@ -141,7 +148,8 @@
         "id": "GG/S23-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-T04": {
     "name": "おっとり娘 サーヤ",
@@ -159,7 +167,8 @@
         "id": "GG/S23-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-T05": {
     "name": "水着のメルティ",
@@ -177,7 +186,8 @@
         "id": "GG/S23-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-T06": {
     "name": "水着のエイミー",
@@ -195,7 +205,8 @@
         "id": "GG/S23-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-T07": {
     "name": "逃走！",
@@ -213,7 +224,8 @@
         "id": "GG/S23-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-T08": {
     "name": "友愛の儀式",
@@ -231,7 +243,8 @@
         "id": "GG/S23-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GG/S23-T09": {
     "name": "試行錯誤の笑顔 レド",
@@ -249,7 +262,8 @@
         "id": "GG/S23-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-T10": {
     "name": "操縦席のレド",
@@ -267,7 +281,8 @@
         "id": "GG/S23-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-T11": {
     "name": "思案するレド",
@@ -285,7 +300,8 @@
         "id": "GG/S23-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-T12": {
     "name": "警戒態勢 レド",
@@ -303,7 +319,8 @@
         "id": "GG/S23-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-T13": {
     "name": "宇宙から来た少年",
@@ -321,7 +338,8 @@
         "id": "GG/S23-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GG/S23-T14": {
     "name": "海賊迎撃",
@@ -339,6 +357,7 @@
         "id": "GG/S23-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

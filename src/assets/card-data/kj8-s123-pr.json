@@ -23,7 +23,8 @@
         "id": "KJ8/S123-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-P02": {
     "name": "怪獣の殲滅 亜白ミナ",
@@ -45,7 +46,8 @@
         "id": "KJ8/S123-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-P03": {
     "name": "四ノ宮キコルという存在",
@@ -63,7 +65,8 @@
         "id": "KJ8/S123-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-P04": {
     "name": "歴史に残る大怪獣!?",
@@ -81,7 +84,8 @@
         "id": "KJ8/S123-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-P05": {
     "name": "保科流刀伐術",
@@ -99,7 +103,8 @@
         "id": "KJ8/S123-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-P06": {
     "name": "副隊長のスイッチ",
@@ -117,7 +122,8 @@
         "id": "KJ8/S123-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KJ8/S123-P07": {
     "name": "完璧主義のお嬢様",
@@ -135,7 +141,8 @@
         "id": "KJ8/S123-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-P08": {
     "name": "同期と高め合う日々",
@@ -153,7 +160,8 @@
         "id": "KJ8/S123-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-P09": {
     "name": "命を張って守りたい仲間",
@@ -171,7 +179,8 @@
         "id": "KJ8/S123-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-P10": {
     "name": "これが今の私",
@@ -189,7 +198,8 @@
         "id": "KJ8/S123-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KJ8/S123-P11": {
     "name": "怪獣８号 防衛隊！出動！",
@@ -207,6 +217,7 @@
         "id": "KJ8/S123-P11S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

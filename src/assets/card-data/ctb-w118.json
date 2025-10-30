@@ -19,7 +19,8 @@
         "id": "CTB/W118-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-002": {
     "name": "Ｓ・Ｇ・Ｇ・Ｋ 若林源三",
@@ -41,7 +42,8 @@
         "id": "CTB/W118-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-003": {
     "name": "日本Jr.ユース代表 松山 光",
@@ -63,7 +65,8 @@
         "id": "CTB/W118-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-004": {
     "name": "日本Jr.ユース代表 若林源三",
@@ -85,7 +88,8 @@
         "id": "CTB/W118-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-005": {
     "name": "フィールドを駆ける 大空 翼",
@@ -107,7 +111,8 @@
         "id": "CTB/W118-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-006": {
     "name": "キャプテンの風格 大空 翼",
@@ -129,7 +134,8 @@
         "id": "CTB/W118-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-007": {
     "name": "天才キーパー 若林源三",
@@ -151,7 +157,8 @@
         "id": "CTB/W118-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-008": {
     "name": "日本Jr.ユース代表 次藤 洋",
@@ -173,7 +180,8 @@
         "id": "CTB/W118-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-009": {
     "name": "決意を胸に 森崎有三",
@@ -195,7 +203,8 @@
         "id": "CTB/W118-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-010": {
     "name": "日本から来たGK 若林源三",
@@ -217,7 +226,8 @@
         "id": "CTB/W118-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-011": {
     "name": "カウンターアタックの狼煙 若林源三",
@@ -239,7 +249,8 @@
         "id": "CTB/W118-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-012": {
     "name": "南葛中学校GK 森崎有三",
@@ -261,7 +272,8 @@
         "id": "CTB/W118-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-013": {
     "name": "高速ドリブル 大空 翼",
@@ -283,7 +295,8 @@
         "id": "CTB/W118-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-014": {
     "name": "南葛中学校キャプテン 大空 翼",
@@ -305,7 +318,8 @@
         "id": "CTB/W118-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-015": {
     "name": "武蔵中学校キャプテン 三杉 淳",
@@ -327,7 +341,8 @@
         "id": "CTB/W118-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-016": {
     "name": "北海の荒鷲 松山 光",
@@ -349,7 +364,8 @@
         "id": "CTB/W118-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-017": {
     "name": "日本サッカー協会 片桐宗正",
@@ -371,7 +387,8 @@
         "id": "CTB/W118-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-018": {
     "name": "日本Jr.ユース代表監督 見上辰夫",
@@ -393,7 +410,8 @@
         "id": "CTB/W118-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-019": {
     "name": "修哲カルテット 井沢 守",
@@ -415,7 +433,8 @@
         "id": "CTB/W118-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-020": {
     "name": "修哲カルテット 高杉真吾",
@@ -437,7 +456,8 @@
         "id": "CTB/W118-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-021": {
     "name": "比良戸中学校FW 佐野 満",
@@ -459,7 +479,8 @@
         "id": "CTB/W118-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-022": {
     "name": "修哲カルテット 滝 一",
@@ -481,7 +502,8 @@
         "id": "CTB/W118-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-023": {
     "name": "修哲カルテット 来生哲兵",
@@ -503,7 +525,8 @@
         "id": "CTB/W118-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-024": {
     "name": "比良戸中学校DF 次藤 洋",
@@ -525,7 +548,8 @@
         "id": "CTB/W118-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-025": {
     "name": "ふらの中学校キャプテン 松山 光",
@@ -547,7 +571,8 @@
         "id": "CTB/W118-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-026": {
     "name": "フィールドの貴公子 三杉 淳",
@@ -569,7 +594,8 @@
         "id": "CTB/W118-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-027": {
     "name": "不屈の精神 大空 翼",
@@ -591,7 +617,8 @@
         "id": "CTB/W118-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-028": {
     "name": "サッカーボール",
@@ -613,7 +640,8 @@
         "id": "CTB/W118-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-029": {
     "name": "イエローカード",
@@ -635,7 +663,8 @@
         "id": "CTB/W118-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-030": {
     "name": "イーグルショット",
@@ -657,7 +686,8 @@
         "id": "CTB/W118-030R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-031": {
     "name": "余裕の笑み",
@@ -679,7 +709,8 @@
         "id": "CTB/W118-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-032": {
     "name": "南葛の結束",
@@ -701,7 +732,8 @@
         "id": "CTB/W118-032R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-033": {
     "name": "フランスJr.ユース代表 ピエール",
@@ -723,7 +755,8 @@
         "id": "CTB/W118-033SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-034": {
     "name": "ドイツJr.ユース代表 シュナイダー",
@@ -745,7 +778,8 @@
         "id": "CTB/W118-034SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-035": {
     "name": "ドイツJr.ユース代表 ミューラー",
@@ -767,7 +801,8 @@
         "id": "CTB/W118-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-036": {
     "name": "フィールドの芸術家 ピエール",
@@ -789,7 +824,8 @@
         "id": "CTB/W118-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-037": {
     "name": "仕事師 カルツ",
@@ -811,7 +847,8 @@
         "id": "CTB/W118-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-038": {
     "name": "ドイツの若き皇帝 シュナイダー",
@@ -833,7 +870,8 @@
         "id": "CTB/W118-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-039": {
     "name": "アルゼンチンJr.ユース代表 ディアス",
@@ -855,7 +893,8 @@
         "id": "CTB/W118-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-040": {
     "name": "ウルグアイJr.ユース代表 ビクトリーノ",
@@ -877,7 +916,8 @@
         "id": "CTB/W118-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-041": {
     "name": "アルゼンチンJr.ユース代表 ガルバン",
@@ -899,7 +939,8 @@
         "id": "CTB/W118-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-042": {
     "name": "南米の黒豹 ビクトリーノ",
@@ -921,7 +962,8 @@
         "id": "CTB/W118-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-043": {
     "name": "ドイツJr.ユース代表 マーガス",
@@ -943,7 +985,8 @@
         "id": "CTB/W118-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-044": {
     "name": "多彩な技 ディアス",
@@ -965,7 +1008,8 @@
         "id": "CTB/W118-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-045": {
     "name": "ドイツJr.ユース代表 カルツ",
@@ -987,7 +1031,8 @@
         "id": "CTB/W118-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-046": {
     "name": "アルゼンチンの至宝 ディアス",
@@ -1009,7 +1054,8 @@
         "id": "CTB/W118-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-047": {
     "name": "ブレーメンのコンピューター シェスター",
@@ -1031,7 +1077,8 @@
         "id": "CTB/W118-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-048": {
     "name": "アルゼンチンJr.ユース代表 パスカル",
@@ -1053,7 +1100,8 @@
         "id": "CTB/W118-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-049": {
     "name": "フランスJr.ユース代表 ナポレオン",
@@ -1075,7 +1123,8 @@
         "id": "CTB/W118-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-050": {
     "name": "ドイツJr.ユース代表 シェスター",
@@ -1097,7 +1146,8 @@
         "id": "CTB/W118-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-051": {
     "name": "イタリアJr.ユース代表 ヘルナンデス",
@@ -1119,7 +1169,8 @@
         "id": "CTB/W118-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-052": {
     "name": "フランスJr.ユース代表 アモロ",
@@ -1141,7 +1192,8 @@
         "id": "CTB/W118-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-053": {
     "name": "ドイツのエースストライカー シュナイダー",
@@ -1163,7 +1215,8 @@
         "id": "CTB/W118-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-054": {
     "name": "サウザー",
@@ -1185,7 +1238,8 @@
         "id": "CTB/W118-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-055": {
     "name": "エッフェル攻撃",
@@ -1207,7 +1261,8 @@
         "id": "CTB/W118-055R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-056": {
     "name": "ファイヤーショット",
@@ -1229,7 +1284,8 @@
         "id": "CTB/W118-056R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-057": {
     "name": "10番同士の好敵手",
@@ -1251,7 +1307,8 @@
         "id": "CTB/W118-057R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-058": {
     "name": "猛虎 日向小次郎",
@@ -1273,7 +1330,8 @@
         "id": "CTB/W118-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-059": {
     "name": "日本Jr.ユース代表 日向小次郎",
@@ -1295,7 +1353,8 @@
         "id": "CTB/W118-059SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-060": {
     "name": "日本Jr.ユース代表 若島津 健",
@@ -1317,7 +1376,8 @@
         "id": "CTB/W118-060SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-061": {
     "name": "空手キーパー 若島津 健",
@@ -1339,7 +1399,8 @@
         "id": "CTB/W118-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-062": {
     "name": "日本Jr.ユース代表 立花政夫",
@@ -1361,7 +1422,8 @@
         "id": "CTB/W118-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-063": {
     "name": "日本Jr.ユース代表 立花和夫",
@@ -1383,7 +1445,8 @@
         "id": "CTB/W118-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-064": {
     "name": "フィールドを駆ける 日向小次郎",
@@ -1405,7 +1468,8 @@
         "id": "CTB/W118-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-065": {
     "name": "日本Jr.ユース代表 新田 瞬",
@@ -1427,7 +1491,8 @@
         "id": "CTB/W118-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-066": {
     "name": "日本Jr.ユース代表 早田 誠",
@@ -1449,7 +1514,8 @@
         "id": "CTB/W118-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-067": {
     "name": "日本Jr.ユース代表 沢田タケシ",
@@ -1471,7 +1537,8 @@
         "id": "CTB/W118-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-068": {
     "name": "東邦学園中等部GK 若島津 健",
@@ -1493,7 +1560,8 @@
         "id": "CTB/W118-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-069": {
     "name": "見守る視線 沢田タケシ",
@@ -1515,7 +1583,8 @@
         "id": "CTB/W118-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-070": {
     "name": "スパルタ監督 吉良耕三",
@@ -1537,7 +1606,8 @@
         "id": "CTB/W118-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-071": {
     "name": "東邦学園中等部キャプテン 日向小次郎",
@@ -1559,7 +1629,8 @@
         "id": "CTB/W118-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-072": {
     "name": "カミソリの如く 早田 誠",
@@ -1581,7 +1652,8 @@
         "id": "CTB/W118-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-073": {
     "name": "悔しさを噛み締めて 新田 瞬",
@@ -1603,7 +1675,8 @@
         "id": "CTB/W118-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-074": {
     "name": "タイガーショット",
@@ -1625,7 +1698,8 @@
         "id": "CTB/W118-074R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-075": {
     "name": "スカイラブハリケーン2段発進",
@@ -1647,7 +1721,8 @@
         "id": "CTB/W118-075R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-076": {
     "name": "若堂流空手",
@@ -1669,7 +1744,8 @@
         "id": "CTB/W118-076R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-077": {
     "name": "世界の頂点を目指して 大空 翼",
@@ -1691,7 +1767,8 @@
         "id": "CTB/W118-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-078": {
     "name": "日本Jr.ユース代表 大空 翼",
@@ -1713,7 +1790,8 @@
         "id": "CTB/W118-078SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-079": {
     "name": "日本Jr.ユース代表 岬 太郎",
@@ -1735,7 +1813,8 @@
         "id": "CTB/W118-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-080": {
     "name": "日本から来たサッカー少年 岬 太郎",
@@ -1757,7 +1836,8 @@
         "id": "CTB/W118-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-081": {
     "name": "ドリブル突破 大空 翼",
@@ -1779,7 +1859,8 @@
         "id": "CTB/W118-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-082": {
     "name": "フィールドのアーティスト 岬 太郎",
@@ -1801,7 +1882,8 @@
         "id": "CTB/W118-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-083": {
     "name": "翼の師匠 ロベルト",
@@ -1823,7 +1905,8 @@
         "id": "CTB/W118-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-084": {
     "name": "サッカーの申し子 大空 翼",
@@ -1845,7 +1928,8 @@
         "id": "CTB/W118-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-085": {
     "name": "日本Jr.ユース代表 石崎 了",
@@ -1867,7 +1951,8 @@
         "id": "CTB/W118-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-086": {
     "name": "再会 ロベルト",
@@ -1889,7 +1974,8 @@
         "id": "CTB/W118-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-087": {
     "name": "ゲームメーカー 岬 太郎",
@@ -1911,7 +1997,8 @@
         "id": "CTB/W118-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-088": {
     "name": "杉本久美＆西本ゆかり＆中沢早苗",
@@ -1933,7 +2020,8 @@
         "id": "CTB/W118-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-089": {
     "name": "オーバーヘッドキック 大空 翼",
@@ -1955,7 +2043,8 @@
         "id": "CTB/W118-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-090": {
     "name": "ドリブル突破 岬 太郎",
@@ -1977,7 +2066,8 @@
         "id": "CTB/W118-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-091": {
     "name": "ゴールデンコンビ 岬 太郎",
@@ -1999,7 +2089,8 @@
         "id": "CTB/W118-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-092": {
     "name": "ゴールデンコンビ 大空 翼",
@@ -2021,7 +2112,8 @@
         "id": "CTB/W118-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-093": {
     "name": "日本のキャプテン 大空 翼",
@@ -2043,7 +2135,8 @@
         "id": "CTB/W118-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-094": {
     "name": "南葛中学校DF 石崎 了",
@@ -2065,7 +2158,8 @@
         "id": "CTB/W118-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-095": {
     "name": "ドライブシュート 大空 翼",
@@ -2087,7 +2181,8 @@
         "id": "CTB/W118-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-096": {
     "name": "顔面ブロック 石崎 了",
@@ -2109,7 +2204,8 @@
         "id": "CTB/W118-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-097": {
     "name": "ロベルトノート",
@@ -2131,7 +2227,8 @@
         "id": "CTB/W118-097S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-098": {
     "name": "オーバーヘッドキック",
@@ -2153,7 +2250,8 @@
         "id": "CTB/W118-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CTB/W118-099": {
     "name": "ツインシュート",
@@ -2175,7 +2273,8 @@
         "id": "CTB/W118-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-100": {
     "name": "ドライブシュート",
@@ -2197,6 +2296,7 @@
         "id": "CTB/W118-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

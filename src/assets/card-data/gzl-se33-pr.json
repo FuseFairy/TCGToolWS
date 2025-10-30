@@ -15,7 +15,8 @@
         "id": "GZL/SE33-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GZL/SE33-P02": {
     "name": "“指揮官として”ハルオ",
@@ -33,6 +34,7 @@
         "id": "GZL/SE33-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

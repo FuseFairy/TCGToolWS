@@ -15,7 +15,8 @@
         "id": "KGL/S79-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-P02": {
     "name": "無っ… かぐや",
@@ -33,7 +34,8 @@
         "id": "KGL/S79-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-101": {
     "name": "満面の笑み 千花",
@@ -51,7 +53,8 @@
         "id": "KGL/S79-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-102": {
     "name": "きょとんとする圭",
@@ -69,7 +72,8 @@
         "id": "KGL/S79-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-103": {
     "name": "全力疾走 かぐや",
@@ -87,7 +91,8 @@
         "id": "KGL/S79-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-104": {
     "name": "横ピース 愛",
@@ -105,6 +110,7 @@
         "id": "KGL/S79-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

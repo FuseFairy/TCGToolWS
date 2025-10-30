@@ -19,7 +19,8 @@
         "id": "SY/WP02-01S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/WP02-02": {
     "name": "トナカイ みくる",
@@ -41,7 +42,8 @@
         "id": "SY/WP02-02S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/WP02-03": {
     "name": "ひと休み ハルヒ",
@@ -63,7 +65,8 @@
         "id": "SY/WP02-03S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/WP02-04": {
     "name": "傍若無人 ハルヒ",
@@ -85,7 +88,8 @@
         "id": "SY/WP02-04S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/WP02-05": {
     "name": "“10th Anniversary”ハルヒ",
@@ -107,7 +111,8 @@
         "id": "SY/WP02-05S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/WP02-06": {
     "name": "ある日の部室",
@@ -129,7 +134,8 @@
         "id": "SY/WP02-06S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SY/WP02-07": {
     "name": "ツリー色のドレス 長門",
@@ -151,7 +157,8 @@
         "id": "SY/WP02-07S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/WP02-08": {
     "name": "ひと休み 長門",
@@ -173,6 +180,7 @@
         "id": "SY/WP02-08S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "LSP/W92-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSP/W92-T02": {
     "name": "澁谷 かのん",
@@ -41,7 +42,8 @@
         "id": "LSP/W92-T02SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSP/W92-T03": {
     "name": "嵐 千砂都",
@@ -63,7 +65,8 @@
         "id": "LSP/W92-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSP/W92-T04": {
     "name": "スクールアイドル 平安名 すみれ",
@@ -81,7 +84,8 @@
         "id": "LSP/W92-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSP/W92-T05": {
     "name": "平安名 すみれ",
@@ -103,7 +107,8 @@
         "id": "LSP/W92-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSP/W92-T06": {
     "name": "1年生 嵐 千砂都",
@@ -121,7 +126,8 @@
         "id": "LSP/W92-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSP/W92-T07": {
     "name": "スクールアイドル 澁谷 かのん",
@@ -139,7 +145,8 @@
         "id": "LSP/W92-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSP/W92-T08": {
     "name": "1年生 平安名 すみれ",
@@ -157,7 +164,8 @@
         "id": "LSP/W92-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSP/W92-T09": {
     "name": "1年生 澁谷 かのん",
@@ -175,7 +183,8 @@
         "id": "LSP/W92-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSP/W92-T10": {
     "name": "Liella!",
@@ -193,7 +202,8 @@
         "id": "LSP/W92-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSP/W92-T11": {
     "name": "はばたけ！私たちのラブライブ！",
@@ -211,7 +221,8 @@
         "id": "LSP/W92-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSP/W92-T12": {
     "name": "無限の可能性を持つ彼女たち",
@@ -229,7 +240,8 @@
         "id": "LSP/W92-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LSP/W92-T13": {
     "name": "スクールアイドル 葉月 恋",
@@ -247,7 +259,8 @@
         "id": "LSP/W92-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSP/W92-T14": {
     "name": "スクールアイドル 唐 可可",
@@ -265,7 +278,8 @@
         "id": "LSP/W92-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSP/W92-T15": {
     "name": "スクールアイドル",
@@ -283,7 +297,8 @@
         "id": "LSP/W92-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSP/W92-T16": {
     "name": "1年生 葉月 恋",
@@ -301,7 +316,8 @@
         "id": "LSP/W92-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSP/W92-T17": {
     "name": "1年生 唐 可可",
@@ -319,7 +335,8 @@
         "id": "LSP/W92-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSP/W92-T18": {
     "name": "葉月 恋",
@@ -341,7 +358,8 @@
         "id": "LSP/W92-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSP/W92-T19": {
     "name": "唐 可可",
@@ -363,7 +381,8 @@
         "id": "LSP/W92-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSP/W92-T20": {
     "name": "私立結ヶ丘女子高等学校1年生",
@@ -385,6 +404,7 @@
         "id": "LSP/W92-T20S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

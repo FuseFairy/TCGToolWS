@@ -19,7 +19,8 @@
         "id": "DDD/S118-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-T02": {
     "name": "戦う覚悟 オカルン",
@@ -41,7 +42,8 @@
         "id": "DDD/S118-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-T03": {
     "name": "ねえウザイんだけど オカルン",
@@ -63,7 +65,8 @@
         "id": "DDD/S118-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-T04": {
     "name": "選ばれし美少女 アイラ",
@@ -89,7 +92,8 @@
         "id": "DDD/S118-T04SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-T05": {
     "name": "存在証明 オカルン",
@@ -115,7 +119,8 @@
         "id": "DDD/S118-T05SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-T06": {
     "name": "セルポ式測量法 セルポ星人",
@@ -137,7 +142,8 @@
         "id": "DDD/S118-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-T07": {
     "name": "ターボババア",
@@ -159,7 +165,8 @@
         "id": "DDD/S118-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-T08": {
     "name": "夢を見せる美少女 アイラ",
@@ -181,7 +188,8 @@
         "id": "DDD/S118-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-T09": {
     "name": "呪いの力 オカルン",
@@ -203,7 +211,8 @@
         "id": "DDD/S118-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-T10": {
     "name": "正能市オカルティック鬼ごっこ",
@@ -225,7 +234,8 @@
         "id": "DDD/S118-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-T11": {
     "name": "超カワイイじゃん！ モモ",
@@ -247,7 +257,8 @@
         "id": "DDD/S118-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-T12": {
     "name": "事の顛末 星子",
@@ -269,7 +280,8 @@
         "id": "DDD/S118-T12R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-T13": {
     "name": "カニ食べたくね 星子",
@@ -291,7 +303,8 @@
         "id": "DDD/S118-T13R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-T14": {
     "name": "ギャルはおしゃれが戦闘服 モモ",
@@ -317,7 +330,8 @@
         "id": "DDD/S118-T14SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-T15": {
     "name": "いいだろがい!! モモ",
@@ -339,7 +353,8 @@
         "id": "DDD/S118-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-T16": {
     "name": "一件落着 星子",
@@ -361,7 +376,8 @@
         "id": "DDD/S118-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-T17": {
     "name": "地縛霊の解放 モモ",
@@ -383,7 +399,8 @@
         "id": "DDD/S118-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-T18": {
     "name": "レッツ・アブダクション",
@@ -405,7 +422,8 @@
         "id": "DDD/S118-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-T19": {
     "name": "オカルン！大丈夫!?",
@@ -427,7 +445,8 @@
         "id": "DDD/S118-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-T20": {
     "name": "ターボババアをぶっ飛ばそう",
@@ -449,6 +468,7 @@
         "id": "DDD/S118-T20R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

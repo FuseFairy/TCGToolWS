@@ -19,7 +19,8 @@
         "id": "HBR/W103-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W103-T02": {
     "name": "裏の人格を持つ少女 朝倉 可憐",
@@ -41,7 +42,8 @@
         "id": "HBR/W103-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W103-T03": {
     "name": "仲を深めるピザの味 朝倉 可憐",
@@ -63,7 +65,8 @@
         "id": "HBR/W103-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W103-T04": {
     "name": "嗟歎のスリーパー 東城 つかさ",
@@ -85,7 +88,8 @@
         "id": "HBR/W103-T04SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W103-T05": {
     "name": "自称エリート諜報員 東城 つかさ",
@@ -107,7 +111,8 @@
         "id": "HBR/W103-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W103-T06": {
     "name": "ときめきアークライト 國見 タマ",
@@ -129,7 +134,8 @@
         "id": "HBR/W103-T06SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W103-T07": {
     "name": "Impact Stream 逢川 めぐみ",
@@ -151,7 +157,8 @@
         "id": "HBR/W103-T07SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W103-T08": {
     "name": "夢幻のSleeping Ocelot 和泉 ユキ",
@@ -173,7 +180,8 @@
         "id": "HBR/W103-T08SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W103-T09": {
     "name": "HEAVEN BURNS RED 茅森 月歌",
@@ -199,7 +207,8 @@
         "id": "HBR/W103-T09S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W103-T10": {
     "name": "最前線のブルワーク 朝倉 可憐",
@@ -221,7 +230,8 @@
         "id": "HBR/W103-T10SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W103-T11": {
     "name": "深まる親交",
@@ -243,7 +253,8 @@
         "id": "HBR/W103-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W103-T12": {
     "name": "大切なものを守りたい",
@@ -265,7 +276,8 @@
         "id": "HBR/W103-T12R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "HBR/W103-T13": {
     "name": "セラフィムコード",
@@ -287,7 +299,8 @@
         "id": "HBR/W103-T13OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W103-T14": {
     "name": "天才ハッカー 和泉 ユキ",
@@ -309,7 +322,8 @@
         "id": "HBR/W103-T14R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W103-T15": {
     "name": "お披露目サイキックパワー 逢川 めぐみ",
@@ -331,7 +345,8 @@
         "id": "HBR/W103-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W103-T16": {
     "name": "ちびっ子艦長 國見 タマ",
@@ -353,7 +368,8 @@
         "id": "HBR/W103-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W103-T17": {
     "name": "自称天才サイキッカー 逢川 めぐみ",
@@ -375,7 +391,8 @@
         "id": "HBR/W103-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W103-T18": {
     "name": "天才ボーカリスト 茅森 月歌",
@@ -397,7 +414,8 @@
         "id": "HBR/W103-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W103-T19": {
     "name": "ティータイム 東城 つかさ",
@@ -419,7 +437,8 @@
         "id": "HBR/W103-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W103-T20": {
     "name": "電子軍人手帳への探究心 和泉 ユキ",
@@ -441,7 +460,8 @@
         "id": "HBR/W103-T20R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W103-T21": {
     "name": "戦場のフレット 茅森 月歌",
@@ -463,6 +483,7 @@
         "id": "HBR/W103-T21SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

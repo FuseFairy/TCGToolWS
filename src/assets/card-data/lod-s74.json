@@ -19,7 +19,8 @@
         "id": "LOD/S74-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-002": {
     "name": "見えざる刃 リコリス",
@@ -41,7 +42,8 @@
         "id": "LOD/S74-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-003": {
     "name": "アウロラの守護天使 フェル",
@@ -63,7 +65,8 @@
         "id": "LOD/S74-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-004": {
     "name": "幽明郷を統べる者 ペルセポネー",
@@ -85,7 +88,8 @@
         "id": "LOD/S74-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-005": {
     "name": "記憶を失った天使 フェル",
@@ -107,7 +111,8 @@
         "id": "LOD/S74-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-006": {
     "name": "アウロラの歌姫 ミューズ",
@@ -129,7 +134,8 @@
         "id": "LOD/S74-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-007": {
     "name": "慇懃無礼な毒舌メイド シャルロット",
@@ -151,7 +157,8 @@
         "id": "LOD/S74-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-008": {
     "name": "聖杖に選定されし王 イザベラ",
@@ -169,7 +176,8 @@
         "id": "LOD/S74-008",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-009": {
     "name": "力の証明 リコリス",
@@ -187,7 +195,8 @@
         "id": "LOD/S74-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-010": {
     "name": "花の祭司 ヴィオリール",
@@ -205,7 +214,8 @@
         "id": "LOD/S74-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-011": {
     "name": "ビナンの技術顧問 シュレディンガー",
@@ -223,7 +233,8 @@
         "id": "LOD/S74-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-012": {
     "name": "至高の大司教 セシリア",
@@ -241,7 +252,8 @@
         "id": "LOD/S74-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-013": {
     "name": "血霧の刺客 ジャック",
@@ -259,7 +271,8 @@
         "id": "LOD/S74-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-014": {
     "name": "きらめく陽光 ユナ",
@@ -277,7 +290,8 @@
         "id": "LOD/S74-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-015": {
     "name": "天道宮の寒氷王座 アリシア",
@@ -295,7 +309,8 @@
         "id": "LOD/S74-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-016": {
     "name": "世界の探索者 マルク",
@@ -313,7 +328,8 @@
         "id": "LOD/S74-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-017": {
     "name": "百戦錬磨の重装戦士 ブラッドレー",
@@ -331,7 +347,8 @@
         "id": "LOD/S74-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-018": {
     "name": "わがまま氷魔道士 カティ",
@@ -349,7 +366,8 @@
         "id": "LOD/S74-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-019": {
     "name": "怠惰な虚無魔道士 ネルファー",
@@ -367,7 +385,8 @@
         "id": "LOD/S74-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-020": {
     "name": "大空への憧れ シルフィン",
@@ -385,7 +404,8 @@
         "id": "LOD/S74-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-021": {
     "name": "眼鏡のメイドさん オフィーリア",
@@ -403,7 +423,8 @@
         "id": "LOD/S74-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-022": {
     "name": "“アイテム”騎士の鋼靴",
@@ -421,7 +442,8 @@
         "id": "LOD/S74-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-023": {
     "name": "王座決定戦",
@@ -439,7 +461,8 @@
         "id": "LOD/S74-023",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-024": {
     "name": "死の花",
@@ -461,7 +484,8 @@
         "id": "LOD/S74-024R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-025": {
     "name": "魂の守護天使",
@@ -483,7 +507,8 @@
         "id": "LOD/S74-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-026": {
     "name": "六王座の力",
@@ -501,7 +526,8 @@
         "id": "LOD/S74-026",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-027": {
     "name": "気分屋・寒がり・眠たがり メデューサ",
@@ -523,7 +549,8 @@
         "id": "LOD/S74-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-028": {
     "name": "絶えない微笑み オフィーリア",
@@ -545,7 +572,8 @@
         "id": "LOD/S74-028SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-029": {
     "name": "亡霊に憑かれた少女 パンドラ",
@@ -567,7 +595,8 @@
         "id": "LOD/S74-029SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-030": {
     "name": "武神の乙女 ブリュンヒルデ",
@@ -589,7 +618,8 @@
         "id": "LOD/S74-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-031": {
     "name": "神曲の詩人 ダンテ",
@@ -607,7 +637,8 @@
         "id": "LOD/S74-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-032": {
     "name": "水辺の天使 サリエル",
@@ -629,7 +660,8 @@
         "id": "LOD/S74-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-033": {
     "name": "開花した才能 グラミン",
@@ -651,7 +683,8 @@
         "id": "LOD/S74-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-034": {
     "name": "竜殺し ジークフリート",
@@ -669,7 +702,8 @@
         "id": "LOD/S74-034",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-035": {
     "name": "パティシエ アリス",
@@ -687,7 +721,8 @@
         "id": "LOD/S74-035",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-036": {
     "name": "禁書庫の司書 ヒナ",
@@ -709,7 +744,8 @@
         "id": "LOD/S74-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-037": {
     "name": "最初の団員 キャロライン＆ユア＆エレーナ",
@@ -731,7 +767,8 @@
         "id": "LOD/S74-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-038": {
     "name": "漆黒の真炎 フィア",
@@ -753,7 +790,8 @@
         "id": "LOD/S74-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-039": {
     "name": "慎ましやかな少女 パンドラ",
@@ -771,7 +809,8 @@
         "id": "LOD/S74-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-040": {
     "name": "人魔混血の魔女 デイジー",
@@ -789,7 +828,8 @@
         "id": "LOD/S74-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-041": {
     "name": "炎の聖騎士 ランスロット",
@@ -807,7 +847,8 @@
         "id": "LOD/S74-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-042": {
     "name": "夏の装い グラミン",
@@ -825,7 +866,8 @@
         "id": "LOD/S74-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-043": {
     "name": "秩序の天使 ガブリエル",
@@ -843,7 +885,8 @@
         "id": "LOD/S74-043",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-044": {
     "name": "深淵の大蛇 メデューサ",
@@ -861,7 +904,8 @@
         "id": "LOD/S74-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-045": {
     "name": "炎拳の闘士 ディロン",
@@ -879,7 +923,8 @@
         "id": "LOD/S74-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-046": {
     "name": "烈火王座の主 フィア",
@@ -897,7 +942,8 @@
         "id": "LOD/S74-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-047": {
     "name": "月を司る天使 サリエル",
@@ -915,7 +961,8 @@
         "id": "LOD/S74-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-048": {
     "name": "鉄腕の拳豪 テイラー",
@@ -933,7 +980,8 @@
         "id": "LOD/S74-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-049": {
     "name": "赤刃の処刑者 ラナクシア",
@@ -951,7 +999,8 @@
         "id": "LOD/S74-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-050": {
     "name": "滅びの渡鴉 アイリン",
@@ -969,7 +1018,8 @@
         "id": "LOD/S74-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-051": {
     "name": "星を砕く者 トリファ",
@@ -987,7 +1037,8 @@
         "id": "LOD/S74-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-052": {
     "name": "幽明郷の死の騎士 アバドン",
@@ -1005,7 +1056,8 @@
         "id": "LOD/S74-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-053": {
     "name": "流浪の任侠剣士 ハヤテ",
@@ -1023,7 +1075,8 @@
         "id": "LOD/S74-053",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-054": {
     "name": "卓越した錬金術師 エルロンド",
@@ -1041,7 +1094,8 @@
         "id": "LOD/S74-054",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-055": {
     "name": "凛冬の王 ウィリアム",
@@ -1059,7 +1113,8 @@
         "id": "LOD/S74-055",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-056": {
     "name": "邪竜の力 ジークフリート",
@@ -1077,7 +1132,8 @@
         "id": "LOD/S74-056",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-057": {
     "name": "“アイテム”騎士のリング",
@@ -1095,7 +1151,8 @@
         "id": "LOD/S74-057",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-058": {
     "name": "酒場 竜の枕亭",
@@ -1113,7 +1170,8 @@
         "id": "LOD/S74-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-059": {
     "name": "冥府の怨嗟",
@@ -1135,7 +1193,8 @@
         "id": "LOD/S74-059R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-060": {
     "name": "一撃必殺の狙撃",
@@ -1157,7 +1216,8 @@
         "id": "LOD/S74-060R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-061": {
     "name": "光なき救済",
@@ -1175,7 +1235,8 @@
         "id": "LOD/S74-061",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-062": {
     "name": "滅びの黒炎",
@@ -1197,7 +1258,8 @@
         "id": "LOD/S74-062R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-063": {
     "name": "冥界のワタリガラス",
@@ -1215,7 +1277,8 @@
         "id": "LOD/S74-063",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LOD/S74-064": {
     "name": "太陽を司る天使 ミカエル",
@@ -1237,7 +1300,8 @@
         "id": "LOD/S74-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-065": {
     "name": "大聖堂の聖騎士 ヴィヴィアン",
@@ -1259,7 +1323,8 @@
         "id": "LOD/S74-065SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-066": {
     "name": "伝説の冒険者 テレサ",
@@ -1281,7 +1346,8 @@
         "id": "LOD/S74-066SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-067": {
     "name": "鏡の魔女 ヴィクトリア",
@@ -1303,7 +1369,8 @@
         "id": "LOD/S74-067SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-068": {
     "name": "天道宮の雷姫 リタ",
@@ -1325,7 +1392,8 @@
         "id": "LOD/S74-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-069": {
     "name": "魔族の残り火 かぎろい",
@@ -1347,7 +1415,8 @@
         "id": "LOD/S74-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-070": {
     "name": "放埓なる魔王 リリス",
@@ -1365,7 +1434,8 @@
         "id": "LOD/S74-070",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-071": {
     "name": "無音の葬送者 アドレーニ",
@@ -1387,7 +1457,8 @@
         "id": "LOD/S74-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-072": {
     "name": "黒き暴君 エドモンド",
@@ -1405,7 +1476,8 @@
         "id": "LOD/S74-072",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-073": {
     "name": "機械師の天才少女 アルテミス",
@@ -1427,7 +1499,8 @@
         "id": "LOD/S74-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-074": {
     "name": "竜人 オフィーリア",
@@ -1445,7 +1518,8 @@
         "id": "LOD/S74-074",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-075": {
     "name": "奥秘の大賢者 コーラル",
@@ -1467,7 +1541,8 @@
         "id": "LOD/S74-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-076": {
     "name": "天道宮の学長 ソロモン",
@@ -1485,7 +1560,8 @@
         "id": "LOD/S74-076",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-077": {
     "name": "腹黒小悪党 アラシェル",
@@ -1503,7 +1579,8 @@
         "id": "LOD/S74-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-078": {
     "name": "霜天流の拳姫 ツバキ",
@@ -1521,7 +1598,8 @@
         "id": "LOD/S74-078",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-079": {
     "name": "緑の遊撃手 ロバート",
@@ -1539,7 +1617,8 @@
         "id": "LOD/S74-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-080": {
     "name": "時代の先駆者 テスラ",
@@ -1557,7 +1636,8 @@
         "id": "LOD/S74-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-081": {
     "name": "暴発する火力 サニー",
@@ -1575,7 +1655,8 @@
         "id": "LOD/S74-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-082": {
     "name": "空の探検家 クリストファ",
@@ -1593,7 +1674,8 @@
         "id": "LOD/S74-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-083": {
     "name": "未来の英雄 ヴェイン",
@@ -1611,7 +1693,8 @@
         "id": "LOD/S74-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-084": {
     "name": "串刺し教授 ダルヴァルド",
@@ -1629,7 +1712,8 @@
         "id": "LOD/S74-084",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-085": {
     "name": "夢境の少女 アリス",
@@ -1647,7 +1731,8 @@
         "id": "LOD/S74-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-086": {
     "name": "水辺の戯れ テレサ",
@@ -1665,7 +1750,8 @@
         "id": "LOD/S74-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-087": {
     "name": "聖王の槍 エリオット",
@@ -1683,7 +1769,8 @@
         "id": "LOD/S74-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-088": {
     "name": "戦狼と共に ルドヴィック",
@@ -1701,7 +1788,8 @@
         "id": "LOD/S74-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-089": {
     "name": "生命の錬金術師 イルリ",
@@ -1719,7 +1807,8 @@
         "id": "LOD/S74-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-090": {
     "name": "正義の大賢者 インペリウス",
@@ -1737,7 +1826,8 @@
         "id": "LOD/S74-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-091": {
     "name": "冒険者協会の副会長 レオン",
@@ -1755,7 +1845,8 @@
         "id": "LOD/S74-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-092": {
     "name": "知恵の大賢者 ビナンナル",
@@ -1773,7 +1864,8 @@
         "id": "LOD/S74-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-093": {
     "name": "英雄の師 ローラン",
@@ -1791,7 +1883,8 @@
         "id": "LOD/S74-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-094": {
     "name": "魔を狩る者 アルジェント",
@@ -1809,7 +1902,8 @@
         "id": "LOD/S74-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-095": {
     "name": "いざ巡回！",
@@ -1827,7 +1921,8 @@
         "id": "LOD/S74-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-096": {
     "name": "“アイテム”騎士の鎧",
@@ -1845,7 +1940,8 @@
         "id": "LOD/S74-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-097": {
     "name": "聖剣の輝き",
@@ -1867,7 +1963,8 @@
         "id": "LOD/S74-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-098": {
     "name": "魔鏡メフィスト",
@@ -1889,7 +1986,8 @@
         "id": "LOD/S74-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-099": {
     "name": "火炎への憧れ",
@@ -1907,7 +2005,8 @@
         "id": "LOD/S74-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-100": {
     "name": "アリスのお茶会",
@@ -1925,6 +2024,7 @@
         "id": "LOD/S74-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

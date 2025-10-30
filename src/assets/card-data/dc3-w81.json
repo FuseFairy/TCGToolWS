@@ -19,7 +19,8 @@
         "id": "DC3/W81-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W81-043": {
     "name": "桜に語り掛ける立夏",
@@ -41,7 +42,8 @@
         "id": "DC3/W81-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W81-044": {
     "name": "魔法使いの約束 立夏",
@@ -59,7 +61,8 @@
         "id": "DC3/W81-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W81-045": {
     "name": "しあわせな時間 シャルル",
@@ -77,7 +80,8 @@
         "id": "DC3/W81-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W81-046": {
     "name": "With You",
@@ -99,7 +103,8 @@
         "id": "DC3/W81-046R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W81-047": {
     "name": "緊張のバイト初日 さら",
@@ -121,7 +126,8 @@
         "id": "DC3/W81-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W81-048": {
     "name": "育ててくれてありがとう",
@@ -139,7 +145,8 @@
         "id": "DC3/W81-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W81-049": {
     "name": "朝の挨拶 姫乃",
@@ -161,7 +168,8 @@
         "id": "DC3/W81-049SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W81-050": {
     "name": "“タイムカプセル”立夏",
@@ -183,7 +191,8 @@
         "id": "DC3/W81-050SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W81-051": {
     "name": "可愛くてかわいい美琴",
@@ -205,7 +214,8 @@
         "id": "DC3/W81-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W81-052": {
     "name": "一生一緒でいようね 美琴",
@@ -223,7 +233,8 @@
         "id": "DC3/W81-052",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W81-053": {
     "name": "海辺で語り合って",
@@ -245,7 +256,8 @@
         "id": "DC3/W81-053R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W81-054": {
     "name": "秘密の秘密 すもも",
@@ -267,7 +279,8 @@
         "id": "DC3/W81-054SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W81-055": {
     "name": "想いの力 葵",
@@ -285,7 +298,8 @@
         "id": "DC3/W81-055",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W81-056": {
     "name": "二人の繋がり すもも",
@@ -303,7 +317,8 @@
         "id": "DC3/W81-056",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W81-057": {
     "name": "ずっと一緒ですっ！",
@@ -325,6 +340,7 @@
         "id": "DC3/W81-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

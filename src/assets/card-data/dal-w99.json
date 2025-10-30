@@ -19,7 +19,8 @@
         "id": "DAL/W99-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-002": {
     "name": "“颶風の御子”耶倶矢&夕弦",
@@ -45,7 +46,8 @@
         "id": "DAL/W99-002SPb",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-003": {
     "name": "差し出した手の先に 琴里",
@@ -67,7 +69,8 @@
         "id": "DAL/W99-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-004": {
     "name": "星降る夜に 夕弦",
@@ -89,7 +92,8 @@
         "id": "DAL/W99-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-005": {
     "name": "新たな戦い 耶倶矢",
@@ -111,7 +115,8 @@
         "id": "DAL/W99-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-006": {
     "name": "新たな戦い 夕弦",
@@ -133,7 +138,8 @@
         "id": "DAL/W99-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-007": {
     "name": "凛とした佇まい 夕弦",
@@ -151,7 +157,8 @@
         "id": "DAL/W99-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-008": {
     "name": "星降る夜に 耶倶矢",
@@ -173,7 +180,8 @@
         "id": "DAL/W99-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-009": {
     "name": "妖艶な誘い 狂三",
@@ -195,7 +203,8 @@
         "id": "DAL/W99-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-010": {
     "name": "闇鍋パーティー 耶倶矢",
@@ -213,7 +222,8 @@
         "id": "DAL/W99-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-011": {
     "name": "家でのひととき 琴里",
@@ -231,7 +241,8 @@
         "id": "DAL/W99-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-012": {
     "name": "偽者探し 琴里",
@@ -249,7 +260,8 @@
         "id": "DAL/W99-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-013": {
     "name": "ランチタイム 琴里",
@@ -267,7 +279,8 @@
         "id": "DAL/W99-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-014": {
     "name": "二人でひとり 夕弦",
@@ -285,7 +298,8 @@
         "id": "DAL/W99-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-015": {
     "name": "二人でひとり 耶倶矢",
@@ -303,7 +317,8 @@
         "id": "DAL/W99-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-016": {
     "name": "闇鍋パーティー 夕弦",
@@ -321,7 +336,8 @@
         "id": "DAL/W99-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-017": {
     "name": "無垢な蕾 琴里",
@@ -339,7 +355,8 @@
         "id": "DAL/W99-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-018": {
     "name": "凛とした佇まい 耶倶矢",
@@ -357,7 +374,8 @@
         "id": "DAL/W99-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-019": {
     "name": "僕だけの動物園 琴里",
@@ -375,7 +393,8 @@
         "id": "DAL/W99-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-020": {
     "name": "回顧の力 狂三",
@@ -393,7 +412,8 @@
         "id": "DAL/W99-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-021": {
     "name": "デレさせて 士道",
@@ -411,7 +431,8 @@
         "id": "DAL/W99-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-022": {
     "name": "八舞を決める戦い",
@@ -429,7 +450,8 @@
         "id": "DAL/W99-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-023": {
     "name": "フラクシナス艦橋",
@@ -451,7 +473,8 @@
         "id": "DAL/W99-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-024": {
     "name": "“【天を駆ける者】”",
@@ -469,7 +492,8 @@
         "id": "DAL/W99-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-025": {
     "name": "一番手は私たち！",
@@ -491,7 +515,8 @@
         "id": "DAL/W99-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-026": {
     "name": "みんなのために 四糸乃",
@@ -513,7 +538,8 @@
         "id": "DAL/W99-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-027": {
     "name": "“〈贋造魔女〉”七罪",
@@ -535,7 +561,8 @@
         "id": "DAL/W99-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-028": {
     "name": "羞恥心 七罪",
@@ -553,7 +580,8 @@
         "id": "DAL/W99-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-029": {
     "name": "保護観察 七罪",
@@ -575,7 +603,8 @@
         "id": "DAL/W99-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-030": {
     "name": "パジャマパーティー 十香＆四糸乃",
@@ -597,7 +626,8 @@
         "id": "DAL/W99-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-031": {
     "name": "新たなる力 折紙",
@@ -615,7 +645,8 @@
         "id": "DAL/W99-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-032": {
     "name": "邂逅 七罪",
@@ -637,7 +668,8 @@
         "id": "DAL/W99-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-033": {
     "name": "精霊を殺す精霊 折紙",
@@ -659,7 +691,8 @@
         "id": "DAL/W99-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-034": {
     "name": "決死の間合い 折紙",
@@ -677,7 +710,8 @@
         "id": "DAL/W99-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-035": {
     "name": "喜びそうな服 折紙",
@@ -695,7 +729,8 @@
         "id": "DAL/W99-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-036": {
     "name": "大人の余裕 七罪",
@@ -713,7 +748,8 @@
         "id": "DAL/W99-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-037": {
     "name": "闇鍋パーティー 四糸乃",
@@ -731,7 +767,8 @@
         "id": "DAL/W99-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-038": {
     "name": "グラマラスボディ 七罪",
@@ -749,7 +786,8 @@
         "id": "DAL/W99-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-039": {
     "name": "コーディネーター 四糸乃",
@@ -767,7 +805,8 @@
         "id": "DAL/W99-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-040": {
     "name": "疑心暗鬼 七罪",
@@ -785,7 +824,8 @@
         "id": "DAL/W99-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-041": {
     "name": "“【凍鎧】”四糸乃",
@@ -803,7 +843,8 @@
         "id": "DAL/W99-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-042": {
     "name": "魅惑のプロポーション 折紙",
@@ -821,7 +862,8 @@
         "id": "DAL/W99-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-043": {
     "name": "精力増強 折紙",
@@ -839,7 +881,8 @@
         "id": "DAL/W99-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-044": {
     "name": "本当の姿 七罪",
@@ -857,7 +900,8 @@
         "id": "DAL/W99-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-045": {
     "name": "私を見つけられる？ 七罪",
@@ -875,7 +919,8 @@
         "id": "DAL/W99-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-046": {
     "name": "僕だけの動物園 四糸乃",
@@ -893,7 +938,8 @@
         "id": "DAL/W99-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-047": {
     "name": "体は正直 折紙",
@@ -911,7 +957,8 @@
         "id": "DAL/W99-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-048": {
     "name": "言わない約束 七罪",
@@ -929,7 +976,8 @@
         "id": "DAL/W99-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-049": {
     "name": "マイ・リトル・シドー",
@@ -947,7 +995,8 @@
         "id": "DAL/W99-049",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-050": {
     "name": "ハロウィンのおすそ分け",
@@ -969,7 +1018,8 @@
         "id": "DAL/W99-050R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-051": {
     "name": "“【千変万化鏡】”",
@@ -991,7 +1041,8 @@
         "id": "DAL/W99-051R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-052": {
     "name": "もたらされた力",
@@ -1013,7 +1064,8 @@
         "id": "DAL/W99-052R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DAL/W99-053": {
     "name": "私たちのキモチ 十香&美九",
@@ -1035,7 +1087,8 @@
         "id": "DAL/W99-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-054": {
     "name": "過去改変 狂三",
@@ -1057,7 +1110,8 @@
         "id": "DAL/W99-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-055": {
     "name": "お兄ちゃんを守るため 琴里",
@@ -1079,7 +1133,8 @@
         "id": "DAL/W99-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-056": {
     "name": "闇鍋パーティー 琴里",
@@ -1101,7 +1156,8 @@
         "id": "DAL/W99-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-057": {
     "name": "“【一二の弾】”狂三",
@@ -1123,7 +1179,8 @@
         "id": "DAL/W99-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-058": {
     "name": "反転した〈プリンセス〉 十香",
@@ -1145,7 +1202,8 @@
         "id": "DAL/W99-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-059": {
     "name": "放課後の屋上で 狂三",
@@ -1163,7 +1221,8 @@
         "id": "DAL/W99-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-060": {
     "name": "文化祭 狂三",
@@ -1181,7 +1240,8 @@
         "id": "DAL/W99-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-061": {
     "name": "休憩中 十香",
@@ -1199,7 +1259,8 @@
         "id": "DAL/W99-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-062": {
     "name": "協力者 狂三",
@@ -1217,7 +1278,8 @@
         "id": "DAL/W99-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-063": {
     "name": "時間干渉 狂三",
@@ -1235,7 +1297,8 @@
         "id": "DAL/W99-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-064": {
     "name": "闇夜の応対 狂三",
@@ -1253,7 +1316,8 @@
         "id": "DAL/W99-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-065": {
     "name": "洗脳された司令官 琴里",
@@ -1271,7 +1335,8 @@
         "id": "DAL/W99-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-066": {
     "name": "完璧な男装？ 十香",
@@ -1289,7 +1354,8 @@
         "id": "DAL/W99-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-067": {
     "name": "癒しの水着エプロン 琴里＆四糸乃",
@@ -1307,7 +1373,8 @@
         "id": "DAL/W99-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-068": {
     "name": "ステージ勝負！",
@@ -1325,7 +1392,8 @@
         "id": "DAL/W99-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-069": {
     "name": "“【精霊霊力砲】”",
@@ -1343,7 +1411,8 @@
         "id": "DAL/W99-069",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-070": {
     "name": "“【一二の弾】”",
@@ -1365,7 +1434,8 @@
         "id": "DAL/W99-070R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-071": {
     "name": "“〈破軍歌姫〉”美九",
@@ -1387,7 +1457,8 @@
         "id": "DAL/W99-071SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-072": {
     "name": "気づいた恋心 十香",
@@ -1409,7 +1480,8 @@
         "id": "DAL/W99-072SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-073": {
     "name": "“〈絶滅天使〉”折紙",
@@ -1431,7 +1503,8 @@
         "id": "DAL/W99-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-074": {
     "name": "無防備 十香",
@@ -1453,7 +1526,8 @@
         "id": "DAL/W99-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-075": {
     "name": "誘惑する美九",
@@ -1475,7 +1549,8 @@
         "id": "DAL/W99-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-076": {
     "name": "もう一人の私 折紙",
@@ -1493,7 +1568,8 @@
         "id": "DAL/W99-076",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-077": {
     "name": "誘惑する十香",
@@ -1515,7 +1591,8 @@
         "id": "DAL/W99-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-078": {
     "name": "ドレス姿 美九",
@@ -1537,7 +1614,8 @@
         "id": "DAL/W99-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-079": {
     "name": "空中戦 折紙",
@@ -1559,7 +1637,8 @@
         "id": "DAL/W99-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-080": {
     "name": "無垢な蕾 十香",
@@ -1577,7 +1656,8 @@
         "id": "DAL/W99-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-081": {
     "name": "休憩中 美九",
@@ -1595,7 +1675,8 @@
         "id": "DAL/W99-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-082": {
     "name": "満面の笑み 四糸乃",
@@ -1613,7 +1694,8 @@
         "id": "DAL/W99-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-083": {
     "name": "士道の攻略 十香",
@@ -1631,7 +1713,8 @@
         "id": "DAL/W99-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-084": {
     "name": "取り戻した力 十香",
@@ -1649,7 +1732,8 @@
         "id": "DAL/W99-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-085": {
     "name": "敵討ち 折紙",
@@ -1667,7 +1751,8 @@
         "id": "DAL/W99-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-086": {
     "name": "“〈神威霊装・九番〉”美九",
@@ -1685,7 +1770,8 @@
         "id": "DAL/W99-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-087": {
     "name": "戦闘態勢 美九",
@@ -1703,7 +1789,8 @@
         "id": "DAL/W99-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-088": {
     "name": "トリックオアトリート 四糸乃",
@@ -1721,7 +1808,8 @@
         "id": "DAL/W99-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-089": {
     "name": "ランチタイム 美九",
@@ -1739,7 +1827,8 @@
         "id": "DAL/W99-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-090": {
     "name": "士道の従姉妹？ 士織",
@@ -1757,7 +1846,8 @@
         "id": "DAL/W99-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-091": {
     "name": "癒しの力 美九",
@@ -1775,7 +1865,8 @@
         "id": "DAL/W99-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-092": {
     "name": "救出成功！  四糸乃",
@@ -1793,7 +1884,8 @@
         "id": "DAL/W99-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-093": {
     "name": "コスプレデート 美九",
@@ -1811,7 +1903,8 @@
         "id": "DAL/W99-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-094": {
     "name": "きなこパン 十香",
@@ -1829,7 +1922,8 @@
         "id": "DAL/W99-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-095": {
     "name": "セーラー服 美九",
@@ -1847,7 +1941,8 @@
         "id": "DAL/W99-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-096": {
     "name": "ファントムの説得",
@@ -1865,7 +1960,8 @@
         "id": "DAL/W99-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-097": {
     "name": "“〈破軍歌姫〉”",
@@ -1887,7 +1983,8 @@
         "id": "DAL/W99-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-098": {
     "name": "恋の存在証明",
@@ -1909,7 +2006,8 @@
         "id": "DAL/W99-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-099": {
     "name": "精霊への復讐",
@@ -1927,7 +2025,8 @@
         "id": "DAL/W99-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-100": {
     "name": "戦いの行方",
@@ -1949,6 +2048,7 @@
         "id": "DAL/W99-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -19,7 +19,8 @@
         "id": "Grk/WS02-T14R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Grk/WS02-T15": {
     "name": "夕暮れの邂逅 愛莉",
@@ -41,7 +42,8 @@
         "id": "Grk/WS02-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Grk/WS02-T17": {
     "name": "Anniversary 智花",
@@ -63,6 +65,7 @@
         "id": "Grk/WS02-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

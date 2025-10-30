@@ -15,7 +15,8 @@
         "id": "P4/SE01-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/SE01-02": {
     "name": "陽介＆ジライヤ",
@@ -33,7 +34,8 @@
         "id": "P4/SE01-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/SE01-03": {
     "name": "堂島 遼太郎",
@@ -51,7 +53,8 @@
         "id": "P4/SE01-03",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/SE01-04": {
     "name": "花村 陽介",
@@ -69,7 +72,8 @@
         "id": "P4/SE01-04",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE01-05": {
     "name": "堂島 菜々子",
@@ -87,7 +91,8 @@
         "id": "P4/SE01-05",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE01-06": {
     "name": "イザナギ覚醒",
@@ -105,7 +110,8 @@
         "id": "P4/SE01-06",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P4/SE01-07": {
     "name": "千枝＆トモエ",
@@ -123,7 +129,8 @@
         "id": "P4/SE01-07",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE01-08": {
     "name": "久慈川 りせ",
@@ -141,7 +148,8 @@
         "id": "P4/SE01-08",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/SE01-09": {
     "name": "里中 千枝",
@@ -159,7 +167,8 @@
         "id": "P4/SE01-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE01-10": {
     "name": "現役美少女アイドル",
@@ -177,7 +186,8 @@
         "id": "P4/SE01-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P4/SE01-11": {
     "name": "雪子＆コノハナサクヤ",
@@ -195,7 +205,8 @@
         "id": "P4/SE01-11",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/SE01-12": {
     "name": "完二＆タケミカヅチ",
@@ -213,7 +224,8 @@
         "id": "P4/SE01-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE01-13": {
     "name": "天城 雪子",
@@ -231,7 +243,8 @@
         "id": "P4/SE01-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE01-14": {
     "name": "巽 完二",
@@ -249,7 +262,8 @@
         "id": "P4/SE01-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE01-15": {
     "name": "オレの出番ッス！",
@@ -267,7 +281,8 @@
         "id": "P4/SE01-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE01-16": {
     "name": "突撃逆ナン大作戦",
@@ -285,7 +300,8 @@
         "id": "P4/SE01-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE01-17": {
     "name": "白鐘 直斗",
@@ -303,7 +319,8 @@
         "id": "P4/SE01-17",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/SE01-18": {
     "name": "クマ",
@@ -321,6 +338,7 @@
         "id": "P4/SE01-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

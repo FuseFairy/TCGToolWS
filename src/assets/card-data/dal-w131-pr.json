@@ -15,7 +15,8 @@
         "id": "DAL/W131-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-P02": {
     "name": "人間との対峙 十香",
@@ -33,7 +34,8 @@
         "id": "DAL/W131-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-P03": {
     "name": "弾ける笑顔 琴里",
@@ -51,7 +53,8 @@
         "id": "DAL/W131-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-P04": {
     "name": "“最悪の精霊”狂三",
@@ -69,7 +72,8 @@
         "id": "DAL/W131-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-P05": {
     "name": "制服姿 十香",
@@ -87,7 +91,8 @@
         "id": "DAL/W131-P05S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-P06": {
     "name": "潤んだ瞳 四糸乃",
@@ -105,7 +110,8 @@
         "id": "DAL/W131-P06S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-P07": {
     "name": "チョコ作り 四糸乃＆十香＆琴里＆狂三",
@@ -131,7 +137,8 @@
         "id": "DAL/W131-P07S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-P08": {
     "name": "Happy Birthday 狂三",
@@ -153,6 +160,7 @@
         "id": "DAL/W131-P08S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

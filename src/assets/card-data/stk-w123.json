@@ -27,7 +27,8 @@
         "id": "Stk/W123-107SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Stk/W123-109": {
     "name": "ぼっち系オタク少女 いさな",
@@ -53,7 +54,8 @@
         "id": "Stk/W123-109SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Stk/W123-124": {
     "name": "行き過ぎた逆襲",
@@ -75,7 +77,8 @@
         "id": "Stk/W123-124S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Stk/W123-129": {
     "name": "新たな関係",
@@ -97,6 +100,7 @@
         "id": "Stk/W123-129R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

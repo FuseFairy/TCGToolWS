@@ -23,7 +23,8 @@
         "id": "Foy/W120-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Foy/W120-008": {
     "name": "婚前旅行 信奈",
@@ -49,7 +50,8 @@
         "id": "Foy/W120-008SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Foy/W120-021": {
     "name": "大切なもの 半兵衛",
@@ -75,7 +77,8 @@
         "id": "Foy/W120-021SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Foy/W120-028": {
     "name": "いざ上洛 信奈",
@@ -97,7 +100,8 @@
         "id": "Foy/W120-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Foy/W120-032": {
     "name": "猫尼僧の衣装",
@@ -119,6 +123,7 @@
         "id": "Foy/W120-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

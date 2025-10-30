@@ -19,7 +19,8 @@
         "id": "Gnm/WS02-075SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gnm/WS02-084": {
     "name": "仕合わせ オリバー＆ナナオ",
@@ -41,7 +42,8 @@
         "id": "Gnm/WS02-084SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gnm/WS02-108": {
     "name": "新たな出会い、新たな授業 カティ＆シェラ＆ナナオ",
@@ -63,7 +65,8 @@
         "id": "Gnm/WS02-108S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gnm/WS02-112": {
     "name": "キンバリー魔法学校",
@@ -85,6 +88,7 @@
         "id": "Gnm/WS02-112SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

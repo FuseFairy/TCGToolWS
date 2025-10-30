@@ -15,7 +15,8 @@
         "id": "Ssy/W62-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssy/W62-034": {
     "name": "制服のハルヒ＆みくる",
@@ -33,7 +34,8 @@
         "id": "Ssy/W62-034",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssy/W62-035": {
     "name": "コスプレモード みくる",
@@ -55,7 +57,8 @@
         "id": "Ssy/W62-035SBR",
         "rarity": "SBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ssy/W62-037": {
     "name": "SOS団専用サンタクロース みくる",
@@ -73,7 +76,8 @@
         "id": "Ssy/W62-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssy/W62-041": {
     "name": "SOS団名誉顧問 鶴屋さん",
@@ -91,7 +95,8 @@
         "id": "Ssy/W62-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssy/W62-050": {
     "name": "猪突猛進 ハルヒ",
@@ -113,7 +118,8 @@
         "id": "Ssy/W62-050SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssy/W62-052": {
     "name": "SOS団女子 ハルヒ＆長門＆みくる",
@@ -135,7 +141,8 @@
         "id": "Ssy/W62-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssy/W62-054": {
     "name": "晴れやかな笑顔 ハルヒ",
@@ -157,7 +164,8 @@
         "id": "Ssy/W62-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssy/W62-055": {
     "name": "光陽園学院の生徒 ハルヒ",
@@ -175,7 +183,8 @@
         "id": "Ssy/W62-055",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ssy/W62-072": {
     "name": "SOS団の夏休み",
@@ -197,7 +206,8 @@
         "id": "Ssy/W62-072R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ssy/W62-075": {
     "name": "出会いの記憶 長門",
@@ -219,7 +229,8 @@
         "id": "Ssy/W62-075SBR",
         "rarity": "SBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ssy/W62-077": {
     "name": "素顔を晒す長門",
@@ -241,7 +252,8 @@
         "id": "Ssy/W62-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssy/W62-087": {
     "name": "制服の朝倉＆長門",
@@ -259,7 +271,8 @@
         "id": "Ssy/W62-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssy/W62-090": {
     "name": "転校したはずの朝倉涼子",
@@ -277,7 +290,8 @@
         "id": "Ssy/W62-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ssy/W62-102": {
     "name": "白紙の入部届",
@@ -299,6 +313,7 @@
         "id": "Ssy/W62-102R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

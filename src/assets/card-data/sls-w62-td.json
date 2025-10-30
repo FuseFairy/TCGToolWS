@@ -15,7 +15,8 @@
         "id": "Sls/W62-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sls/W62-T05": {
     "name": "ディードリット＆パーン＆スレイン＆エト＆ギム＆ウッド・チャック",
@@ -33,6 +34,7 @@
         "id": "Sls/W62-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

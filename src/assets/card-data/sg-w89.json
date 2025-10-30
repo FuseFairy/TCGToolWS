@@ -19,7 +19,8 @@
         "id": "SG/W89-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-002": {
     "name": "アマルガム 響",
@@ -41,7 +42,8 @@
         "id": "SG/W89-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-003": {
     "name": "神を殺す力 響",
@@ -63,7 +65,8 @@
         "id": "SG/W89-003SSP+",
         "rarity": "SSP+"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-004": {
     "name": "神様のヒカリ 響＆未来",
@@ -85,7 +88,8 @@
         "id": "SG/W89-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-005": {
     "name": "自動人形 レイア",
@@ -103,7 +107,8 @@
         "id": "SG/W89-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-006": {
     "name": "聖詠 響",
@@ -125,7 +130,8 @@
         "id": "SG/W89-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-007": {
     "name": "戦姫絶唱 響",
@@ -147,7 +153,8 @@
         "id": "SG/W89-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-008": {
     "name": "たとえばの話 未来",
@@ -165,7 +172,8 @@
         "id": "SG/W89-008",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-009": {
     "name": "渚の散歩道 未来",
@@ -187,7 +195,8 @@
         "id": "SG/W89-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-010": {
     "name": "渚の散歩道 響",
@@ -209,7 +218,8 @@
         "id": "SG/W89-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-011": {
     "name": "握りしめた拳 響",
@@ -227,7 +237,8 @@
         "id": "SG/W89-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-012": {
     "name": "元気いっぱい 響",
@@ -245,7 +256,8 @@
         "id": "SG/W89-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-013": {
     "name": "たとえばの話 響",
@@ -263,7 +275,8 @@
         "id": "SG/W89-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-014": {
     "name": "人が仰ぐべき神 シェム・ハ",
@@ -281,7 +294,8 @@
         "id": "SG/W89-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-015": {
     "name": "\"また逢う日まで” エルフナイン",
@@ -299,7 +313,8 @@
         "id": "SG/W89-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-016": {
     "name": "不安な表情 未来",
@@ -317,7 +332,8 @@
         "id": "SG/W89-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-017": {
     "name": "邪悪な表情 シェム・ハ",
@@ -335,7 +351,8 @@
         "id": "SG/W89-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-018": {
     "name": "決死の覚悟 未来",
@@ -353,7 +370,8 @@
         "id": "SG/W89-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-019": {
     "name": "休日の過ごし方 未来",
@@ -371,7 +389,8 @@
         "id": "SG/W89-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-020": {
     "name": "休日の過ごし方 響",
@@ -389,7 +408,8 @@
         "id": "SG/W89-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-021": {
     "name": "遊びの計画 未来",
@@ -407,7 +427,8 @@
         "id": "SG/W89-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-022": {
     "name": "胸の中の想い 響",
@@ -425,7 +446,8 @@
         "id": "SG/W89-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-023": {
     "name": "ガングニール",
@@ -447,7 +469,8 @@
         "id": "SG/W89-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-024": {
     "name": "METANOIA",
@@ -469,7 +492,8 @@
         "id": "SG/W89-024R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-025": {
     "name": "花咲く勇気",
@@ -491,7 +515,8 @@
         "id": "SG/W89-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-026": {
     "name": "観覧車の中で",
@@ -509,7 +534,8 @@
         "id": "SG/W89-026",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-027": {
     "name": "アマルガム 切歌",
@@ -531,7 +557,8 @@
         "id": "SG/W89-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-028": {
     "name": "アマルガム 調",
@@ -553,7 +580,8 @@
         "id": "SG/W89-028SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-029": {
     "name": "戦姫絶唱 調",
@@ -575,7 +603,8 @@
         "id": "SG/W89-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-030": {
     "name": "バーニング・エクスドライブ 切歌",
@@ -597,7 +626,8 @@
         "id": "SG/W89-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-031": {
     "name": "バーニング・エクスドライブ 調",
@@ -619,7 +649,8 @@
         "id": "SG/W89-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-032": {
     "name": "間一髪 切歌",
@@ -637,7 +668,8 @@
         "id": "SG/W89-032",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-033": {
     "name": "戦姫絶唱 切歌",
@@ -659,7 +691,8 @@
         "id": "SG/W89-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-034": {
     "name": "聖詠 切歌",
@@ -681,7 +714,8 @@
         "id": "SG/W89-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-035": {
     "name": "聖詠 調",
@@ -703,7 +737,8 @@
         "id": "SG/W89-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-036": {
     "name": "自動人形 ファラ",
@@ -721,7 +756,8 @@
         "id": "SG/W89-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-037": {
     "name": "繋いだ希望 調",
@@ -739,7 +775,8 @@
         "id": "SG/W89-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-038": {
     "name": "お気楽者？ 切歌",
@@ -757,7 +794,8 @@
         "id": "SG/W89-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-039": {
     "name": "いつでも一緒 調＆切歌",
@@ -775,7 +813,8 @@
         "id": "SG/W89-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-040": {
     "name": "圧倒的な力 キャロル",
@@ -793,7 +832,8 @@
         "id": "SG/W89-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-041": {
     "name": "ロケット警護任務 調",
@@ -811,7 +851,8 @@
         "id": "SG/W89-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-042": {
     "name": "ロケット警護任務 切歌",
@@ -829,7 +870,8 @@
         "id": "SG/W89-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-043": {
     "name": "見事な着地 切歌",
@@ -847,7 +889,8 @@
         "id": "SG/W89-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-044": {
     "name": "ジト目 調",
@@ -865,7 +908,8 @@
         "id": "SG/W89-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-045": {
     "name": "快美な旋律 切歌",
@@ -883,7 +927,8 @@
         "id": "SG/W89-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-046": {
     "name": "快美な旋律 調",
@@ -901,7 +946,8 @@
         "id": "SG/W89-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-047": {
     "name": "β式獄糸乱舞 調",
@@ -919,7 +965,8 @@
         "id": "SG/W89-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-048": {
     "name": "神との対峙 キャロル",
@@ -937,7 +984,8 @@
         "id": "SG/W89-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-049": {
     "name": "空からの襲撃 アルカ・ノイズ",
@@ -955,7 +1003,8 @@
         "id": "SG/W89-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-050": {
     "name": "イガリマ",
@@ -977,7 +1026,8 @@
         "id": "SG/W89-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-051": {
     "name": "シュルシャガナ",
@@ -999,7 +1049,8 @@
         "id": "SG/W89-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-052": {
     "name": "ポリフィリム鋏恋夢",
@@ -1021,7 +1072,8 @@
         "id": "SG/W89-052R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-053": {
     "name": "凶鎖・スタaa魔忍ィイ",
@@ -1039,7 +1091,8 @@
         "id": "SG/W89-053",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-054": {
     "name": "アマルガム クリス",
@@ -1061,7 +1114,8 @@
         "id": "SG/W89-054SSP+",
         "rarity": "SSP+"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-055": {
     "name": "アマルガム マリア",
@@ -1083,7 +1137,8 @@
         "id": "SG/W89-055SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-056": {
     "name": "戦姫絶唱 クリス",
@@ -1105,7 +1160,8 @@
         "id": "SG/W89-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-057": {
     "name": "バーニング・エクスドライブ マリア",
@@ -1127,7 +1183,8 @@
         "id": "SG/W89-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-058": {
     "name": "準備運動はしっかり クリス",
@@ -1145,7 +1202,8 @@
         "id": "SG/W89-058",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-059": {
     "name": "見据えた視線の先に マリア",
@@ -1163,7 +1221,8 @@
         "id": "SG/W89-059",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-060": {
     "name": "治療中 マリア",
@@ -1181,7 +1240,8 @@
         "id": "SG/W89-060",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-061": {
     "name": "戦姫絶唱 マリア",
@@ -1203,7 +1263,8 @@
         "id": "SG/W89-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-062": {
     "name": "再誕の時 キャロル",
@@ -1225,7 +1286,8 @@
         "id": "SG/W89-062SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-063": {
     "name": "一撃に込めた思い クリス",
@@ -1247,7 +1309,8 @@
         "id": "SG/W89-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-064": {
     "name": "聖詠 クリス",
@@ -1269,7 +1332,8 @@
         "id": "SG/W89-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-065": {
     "name": "聖詠 マリア",
@@ -1291,7 +1355,8 @@
         "id": "SG/W89-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-066": {
     "name": "自動人形 ミカ",
@@ -1309,7 +1374,8 @@
         "id": "SG/W89-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-067": {
     "name": "真っ直ぐ見据える クリス",
@@ -1327,7 +1393,8 @@
         "id": "SG/W89-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-068": {
     "name": "バーニング・エクスドライブ クリス",
@@ -1345,7 +1412,8 @@
         "id": "SG/W89-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-069": {
     "name": "緊急招集 マリア",
@@ -1363,7 +1431,8 @@
         "id": "SG/W89-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-070": {
     "name": "攻防戦 クリス",
@@ -1381,7 +1450,8 @@
         "id": "SG/W89-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-071": {
     "name": "優しい気遣い マリア",
@@ -1399,7 +1469,8 @@
         "id": "SG/W89-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-072": {
     "name": "精密射撃 クリス",
@@ -1417,7 +1488,8 @@
         "id": "SG/W89-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-073": {
     "name": "再びのステージへ マリア",
@@ -1435,7 +1507,8 @@
         "id": "SG/W89-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-074": {
     "name": "繋いだ希望 マリア",
@@ -1453,7 +1526,8 @@
         "id": "SG/W89-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-075": {
     "name": "プールサイドの一幕 クリス",
@@ -1471,7 +1545,8 @@
         "id": "SG/W89-075",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-076": {
     "name": "イチイバル",
@@ -1493,7 +1568,8 @@
         "id": "SG/W89-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-077": {
     "name": "アガートラーム",
@@ -1515,7 +1591,8 @@
         "id": "SG/W89-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-078": {
     "name": "至高善・薔薇Ｘ字",
@@ -1537,7 +1614,8 @@
         "id": "SG/W89-078R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-079": {
     "name": "四元素の錬金術",
@@ -1559,7 +1637,8 @@
         "id": "SG/W89-079ACS",
         "rarity": "ACS"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-080": {
     "name": "∀∀デ・レ・メタリカ",
@@ -1581,7 +1660,8 @@
         "id": "SG/W89-080R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-081": {
     "name": "HORNET PISTOLS",
@@ -1599,7 +1679,8 @@
         "id": "SG/W89-081",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-082": {
     "name": "アマルガム 翼",
@@ -1621,7 +1702,8 @@
         "id": "SG/W89-082SSP+",
         "rarity": "SSP+"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-083": {
     "name": "戦姫絶唱 翼",
@@ -1643,7 +1725,8 @@
         "id": "SG/W89-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-084": {
     "name": "聖詠 翼",
@@ -1665,7 +1748,8 @@
         "id": "SG/W89-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-085": {
     "name": "準備運動はしっかり 翼",
@@ -1683,7 +1767,8 @@
         "id": "SG/W89-085",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-086": {
     "name": "復活の不死鳥 翼",
@@ -1705,7 +1790,8 @@
         "id": "SG/W89-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-087": {
     "name": "デコピン 翼",
@@ -1723,7 +1809,8 @@
         "id": "SG/W89-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-088": {
     "name": "自動人形 ガリィ",
@@ -1741,7 +1828,8 @@
         "id": "SG/W89-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-089": {
     "name": "覚悟の表情 翼",
@@ -1759,7 +1847,8 @@
         "id": "SG/W89-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-090": {
     "name": "みんなの為に出来る事 エルフナイン",
@@ -1777,7 +1866,8 @@
         "id": "SG/W89-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-091": {
     "name": "ノーブルレッド エルザ",
@@ -1795,7 +1885,8 @@
         "id": "SG/W89-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-092": {
     "name": "再びのステージへ 翼",
@@ -1813,7 +1904,8 @@
         "id": "SG/W89-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-093": {
     "name": "ノーブルレッド ミラアルク",
@@ -1831,7 +1923,8 @@
         "id": "SG/W89-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-094": {
     "name": "鬼気迫る姿 翼",
@@ -1849,7 +1942,8 @@
         "id": "SG/W89-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-095": {
     "name": "バーニング・エクスドライブ 翼",
@@ -1867,7 +1961,8 @@
         "id": "SG/W89-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-096": {
     "name": "ノーブルレッド ヴァネッサ",
@@ -1885,7 +1980,8 @@
         "id": "SG/W89-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-097": {
     "name": "天羽々斬",
@@ -1907,7 +2003,8 @@
         "id": "SG/W89-097S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-098": {
     "name": "守るべき人の価値",
@@ -1929,7 +2026,8 @@
         "id": "SG/W89-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-099": {
     "name": "炎乱逆鱗斬",
@@ -1947,7 +2045,8 @@
         "id": "SG/W89-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-100": {
     "name": "覚醒の鼓動",
@@ -1965,7 +2064,8 @@
         "id": "SG/W89-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-101": {
     "name": "自動人形 レイア",
@@ -1983,7 +2083,8 @@
         "id": "SG/W89-101ACS",
         "rarity": "ACS"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-102": {
     "name": "“世界の終末”キャロル",
@@ -2001,7 +2102,8 @@
         "id": "SG/W89-102ACS",
         "rarity": "ACS"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-103": {
     "name": "自動人形 ファラ",
@@ -2019,7 +2121,8 @@
         "id": "SG/W89-103ACS",
         "rarity": "ACS"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-104": {
     "name": "キャロル・マールス・ディーンハイム",
@@ -2037,7 +2140,8 @@
         "id": "SG/W89-104ACS",
         "rarity": "ACS"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W89-105": {
     "name": "自動人形 ミカ",
@@ -2055,7 +2159,8 @@
         "id": "SG/W89-105ACS",
         "rarity": "ACS"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-106": {
     "name": "自動人形 ガリィ",
@@ -2073,7 +2178,8 @@
         "id": "SG/W89-106ACS",
         "rarity": "ACS"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W89-107": {
     "name": "“世界を識るため”エルフナイン",
@@ -2091,6 +2197,7 @@
         "id": "SG/W89-107ACS",
         "rarity": "ACS"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

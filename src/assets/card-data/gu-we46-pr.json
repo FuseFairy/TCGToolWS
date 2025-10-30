@@ -19,7 +19,8 @@
         "id": "GU/WE46-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE46-P02": {
     "name": "ラビットハウス BLOOM",
@@ -41,6 +42,7 @@
         "id": "GU/WE46-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

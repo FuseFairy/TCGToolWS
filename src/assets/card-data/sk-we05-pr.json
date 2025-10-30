@@ -15,7 +15,8 @@
         "id": "SK/WE05-28",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SK/WE05-29": {
     "name": "Qテクターほのか",
@@ -33,7 +34,8 @@
         "id": "SK/WE05-29",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SK/WE05-30": {
     "name": "Qテクターいつき",
@@ -51,7 +53,8 @@
         "id": "SK/WE05-30",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SK/WE05-31": {
     "name": "最後の切り札 秋葉",
@@ -69,7 +72,8 @@
         "id": "SK/WE05-31",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SK/WE05-32": {
     "name": "一緒の気持ち 秋葉＆妹子",
@@ -87,7 +91,8 @@
         "id": "SK/WE05-32",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SK/WE05-33": {
     "name": "宇宙をかける少女",
@@ -105,6 +110,7 @@
         "id": "SK/WE05-33",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

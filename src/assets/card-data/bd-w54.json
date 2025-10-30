@@ -27,7 +27,8 @@
         "id": "BD/W54-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-002": {
     "name": "“モデル・モード”若宮イヴ",
@@ -57,7 +58,8 @@
         "id": "BD/W54-002SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-003": {
     "name": "“船上の名探偵”弦巻こころ",
@@ -87,7 +89,8 @@
         "id": "BD/W54-003SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-004": {
     "name": "“みんなでせーの！”北沢はぐみ",
@@ -117,7 +120,8 @@
         "id": "BD/W54-004SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-005": {
     "name": "“愛の告白”奥沢美咲",
@@ -147,7 +151,8 @@
         "id": "BD/W54-005SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-006": {
     "name": "“世界を笑顔に！”弦巻こころ",
@@ -177,7 +182,8 @@
         "id": "BD/W54-006SPMb",
         "rarity": "SPM"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-007": {
     "name": "“踏み出した一歩”松原花音",
@@ -207,7 +213,8 @@
         "id": "BD/W54-007SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-008": {
     "name": "“ステージ”北沢はぐみ",
@@ -233,7 +240,8 @@
         "id": "BD/W54-008SPMb",
         "rarity": "SPM"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-009": {
     "name": "“ステージ”松原花音",
@@ -259,7 +267,8 @@
         "id": "BD/W54-009SPMb",
         "rarity": "SPM"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-010": {
     "name": "“ステージ”弦巻こころ",
@@ -277,7 +286,8 @@
         "id": "BD/W54-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-011": {
     "name": "“はーい、ミッシェルでーす”奥沢美咲",
@@ -303,7 +313,8 @@
         "id": "BD/W54-011SPMb",
         "rarity": "SPM"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-012": {
     "name": "“ステージ”瀬田薫",
@@ -325,7 +336,8 @@
         "id": "BD/W54-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-013": {
     "name": "“囚われのお姫様”松原花音",
@@ -343,7 +355,8 @@
         "id": "BD/W54-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-014": {
     "name": "“双子の苦悩”氷川日菜",
@@ -361,7 +374,8 @@
         "id": "BD/W54-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-015": {
     "name": "“無敵のヒーロー”弦巻こころ",
@@ -379,7 +393,8 @@
         "id": "BD/W54-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-016": {
     "name": "“ドラムとの出会い”大和麻弥",
@@ -397,7 +412,8 @@
         "id": "BD/W54-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-017": {
     "name": "“ミッシェルのヒミツ”奥沢美咲",
@@ -415,7 +431,8 @@
         "id": "BD/W54-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-018": {
     "name": "“ステージ”奥沢美咲",
@@ -433,7 +450,8 @@
         "id": "BD/W54-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-019": {
     "name": "“かわいい探偵さん”北沢はぐみ",
@@ -451,7 +469,8 @@
         "id": "BD/W54-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-020": {
     "name": "“私を捕まえてごらん”瀬田薫",
@@ -477,7 +496,8 @@
         "id": "BD/W54-020SPMb",
         "rarity": "SPM"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-021": {
     "name": "ミッシェルシール",
@@ -495,7 +515,8 @@
         "id": "BD/W54-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-022": {
     "name": "怪盗さん、待て～～～！",
@@ -517,7 +538,8 @@
         "id": "BD/W54-022R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BD/W54-023": {
     "name": "えがおのオーケストラっ！",
@@ -535,7 +557,8 @@
         "id": "BD/W54-023",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BD/W54-024": {
     "name": "怪盗ハロハッピー",
@@ -557,7 +580,8 @@
         "id": "BD/W54-024R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-025": {
     "name": "武士は相身互い",
@@ -579,7 +603,8 @@
         "id": "BD/W54-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-026": {
     "name": "“夕影の思い出”美竹蘭",
@@ -609,7 +634,8 @@
         "id": "BD/W54-026SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-027": {
     "name": "“受け止めたい思い”青葉モカ",
@@ -639,7 +665,8 @@
         "id": "BD/W54-027SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-028": {
     "name": "“素顔の姿”大和麻弥",
@@ -669,7 +696,8 @@
         "id": "BD/W54-028SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-029": {
     "name": "“パジャマ姿の患者さん”宇田川巴",
@@ -699,7 +727,8 @@
         "id": "BD/W54-029SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-030": {
     "name": "“3人で水遊び”上原ひまり",
@@ -729,7 +758,8 @@
         "id": "BD/W54-030SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-031": {
     "name": "“はじまりはいつも”羽沢つぐみ",
@@ -759,7 +789,8 @@
         "id": "BD/W54-031SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-032": {
     "name": "“ここにいる証”美竹蘭",
@@ -789,7 +820,8 @@
         "id": "BD/W54-032SPMb",
         "rarity": "SPM"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-033": {
     "name": "“あの日見た夕焼け”青葉モカ",
@@ -815,7 +847,8 @@
         "id": "BD/W54-033SPMb",
         "rarity": "SPM"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-034": {
     "name": "“ステージ”丸山彩",
@@ -833,7 +866,8 @@
         "id": "BD/W54-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-035": {
     "name": "“ステージ”宇田川巴",
@@ -851,7 +885,8 @@
         "id": "BD/W54-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-036": {
     "name": "“考えるより行動！”羽沢つぐみ",
@@ -877,7 +912,8 @@
         "id": "BD/W54-036SPMb",
         "rarity": "SPM"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-037": {
     "name": "“はいっ、プレゼント♪”上原ひまり",
@@ -907,7 +943,8 @@
         "id": "BD/W54-037SPMb",
         "rarity": "SPM"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-038": {
     "name": "“断ち切った迷い”美竹蘭",
@@ -925,7 +962,8 @@
         "id": "BD/W54-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-039": {
     "name": "“ステージ”美竹蘭",
@@ -943,7 +981,8 @@
         "id": "BD/W54-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-040": {
     "name": "“ステージ”羽沢つぐみ",
@@ -961,7 +1000,8 @@
         "id": "BD/W54-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-041": {
     "name": "“ステージ”上原ひまり",
@@ -979,7 +1019,8 @@
         "id": "BD/W54-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-042": {
     "name": "“ステージ”青葉モカ",
@@ -997,7 +1038,8 @@
         "id": "BD/W54-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-043": {
     "name": "“七夕の店員さん”丸山彩",
@@ -1015,7 +1057,8 @@
         "id": "BD/W54-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-044": {
     "name": "“フシギなお守り”上原ひまり",
@@ -1033,7 +1076,8 @@
         "id": "BD/W54-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-045": {
     "name": "“ハードストローク”宇田川巴",
@@ -1059,7 +1103,8 @@
         "id": "BD/W54-045SPMb",
         "rarity": "SPM"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-046": {
     "name": "素直じゃないヤツ",
@@ -1077,7 +1122,8 @@
         "id": "BD/W54-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-047": {
     "name": "熱狂の一声",
@@ -1099,7 +1145,8 @@
         "id": "BD/W54-047R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-048": {
     "name": "That Is How I Roll!",
@@ -1121,7 +1168,8 @@
         "id": "BD/W54-048R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-049": {
     "name": "バンド、やろう！",
@@ -1139,7 +1187,8 @@
         "id": "BD/W54-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BD/W54-050": {
     "name": "しゅわりん☆どり～みん",
@@ -1157,7 +1206,8 @@
         "id": "BD/W54-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-051": {
     "name": "“憧れのお姉ちゃん”牛込りみ",
@@ -1187,7 +1237,8 @@
         "id": "BD/W54-051SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-052": {
     "name": "“はじまりの音”戸山香澄",
@@ -1217,7 +1268,8 @@
         "id": "BD/W54-052SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-053": {
     "name": "“必殺アイドルポーズ☆”丸山彩",
@@ -1247,7 +1299,8 @@
         "id": "BD/W54-053SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-054": {
     "name": "“直伝ポーズっ☆”丸山彩",
@@ -1277,7 +1330,8 @@
         "id": "BD/W54-054SPMb",
         "rarity": "SPM"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-055": {
     "name": "“みんなで遊園地！”戸山香澄",
@@ -1307,7 +1361,8 @@
         "id": "BD/W54-055SPMb",
         "rarity": "SPM"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-056": {
     "name": "“真っ白な居場所”白鷺千聖",
@@ -1337,7 +1392,8 @@
         "id": "BD/W54-056SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-057": {
     "name": "“1日だけの新婦”山吹沙綾",
@@ -1367,7 +1423,8 @@
         "id": "BD/W54-057SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-058": {
     "name": "“おそろいのシュシュ”山吹沙綾",
@@ -1393,7 +1450,8 @@
         "id": "BD/W54-058SPMb",
         "rarity": "SPM"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-059": {
     "name": "“ステージ”牛込りみ",
@@ -1411,7 +1469,8 @@
         "id": "BD/W54-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-060": {
     "name": "“ステージ”山吹沙綾",
@@ -1429,7 +1488,8 @@
         "id": "BD/W54-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-061": {
     "name": "“チョココロネな時間”牛込りみ",
@@ -1455,7 +1515,8 @@
         "id": "BD/W54-061SPMb",
         "rarity": "SPM"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-062": {
     "name": "“ステージ”戸山香澄",
@@ -1473,7 +1534,8 @@
         "id": "BD/W54-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-063": {
     "name": "“ステージ”白鷺千聖",
@@ -1491,7 +1553,8 @@
         "id": "BD/W54-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-064": {
     "name": "蔵の中にあったもの",
@@ -1509,7 +1572,8 @@
         "id": "BD/W54-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-065": {
     "name": "がんばれパン",
@@ -1527,7 +1591,8 @@
         "id": "BD/W54-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-066": {
     "name": "STAR BEAT!～ホシノコドウ～",
@@ -1549,7 +1614,8 @@
         "id": "BD/W54-066R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BD/W54-067": {
     "name": "憧れの先",
@@ -1571,7 +1637,8 @@
         "id": "BD/W54-067R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-068": {
     "name": "大好きなチョココロネ",
@@ -1589,7 +1656,8 @@
         "id": "BD/W54-068",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BD/W54-069": {
     "name": "“純粋な熱意”白金燐子",
@@ -1619,7 +1687,8 @@
         "id": "BD/W54-069SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-070": {
     "name": "“鳥籠の歌姫”湊友希那",
@@ -1649,7 +1718,8 @@
         "id": "BD/W54-070SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-071": {
     "name": "“しあわせの共有”花園たえ",
@@ -1679,7 +1749,8 @@
         "id": "BD/W54-071SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-072": {
     "name": "“4人でカフェテリア”湊友希那",
@@ -1709,7 +1780,8 @@
         "id": "BD/W54-072SPMb",
         "rarity": "SPM"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-073": {
     "name": "“必要不可欠な存在”今井リサ",
@@ -1739,7 +1811,8 @@
         "id": "BD/W54-073SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-074": {
     "name": "“巴だけの看護師さん”宇田川あこ",
@@ -1769,7 +1842,8 @@
         "id": "BD/W54-074SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-075": {
     "name": "“二人で過ごす七夕”氷川紗夜",
@@ -1799,7 +1873,8 @@
         "id": "BD/W54-075SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-076": {
     "name": "“可愛いともだち”市ヶ谷有咲",
@@ -1829,7 +1904,8 @@
         "id": "BD/W54-076SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-077": {
     "name": "“未知数の存在”氷川日菜",
@@ -1859,7 +1935,8 @@
         "id": "BD/W54-077SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-078": {
     "name": "“選んでもらった水着”白金燐子",
@@ -1885,7 +1962,8 @@
         "id": "BD/W54-078SPMb",
         "rarity": "SPM"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-079": {
     "name": "“頼れる協力者”市ヶ谷有咲",
@@ -1915,7 +1993,8 @@
         "id": "BD/W54-079SPMb",
         "rarity": "SPM"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-080": {
     "name": "“歌姫の覚悟”湊友希那",
@@ -1933,7 +2012,8 @@
         "id": "BD/W54-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-081": {
     "name": "“重ねていたい音”氷川紗夜",
@@ -1959,7 +2039,8 @@
         "id": "BD/W54-081SPMb",
         "rarity": "SPM"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-082": {
     "name": "“パーフェクトスマイル”白鷺千聖",
@@ -1985,7 +2066,8 @@
         "id": "BD/W54-082SPMb",
         "rarity": "SPM"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-083": {
     "name": "“ホワイトフェアリー”若宮イヴ",
@@ -2015,7 +2097,8 @@
         "id": "BD/W54-083SPMb",
         "rarity": "SPM"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-084": {
     "name": "“ちいさな魔王”宇田川あこ",
@@ -2045,7 +2128,8 @@
         "id": "BD/W54-084SPMb",
         "rarity": "SPM"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-085": {
     "name": "“みんなのうた”花園たえ",
@@ -2071,7 +2155,8 @@
         "id": "BD/W54-085SPMb",
         "rarity": "SPM"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-086": {
     "name": "“眩しい日射し”今井リサ",
@@ -2097,7 +2182,8 @@
         "id": "BD/W54-086SPMb",
         "rarity": "SPM"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-087": {
     "name": "“ステージ”大和麻弥",
@@ -2123,7 +2209,8 @@
         "id": "BD/W54-087SPMb",
         "rarity": "SPM"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-088": {
     "name": "“ステージ”氷川日菜",
@@ -2149,7 +2236,8 @@
         "id": "BD/W54-088SPMb",
         "rarity": "SPM"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-089": {
     "name": "“二人を繋いで”今井リサ",
@@ -2167,7 +2255,8 @@
         "id": "BD/W54-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-090": {
     "name": "“パジャマでお邪魔”花園たえ",
@@ -2185,7 +2274,8 @@
         "id": "BD/W54-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-091": {
     "name": "“目指す道のり”白鷺千聖",
@@ -2203,7 +2293,8 @@
         "id": "BD/W54-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-092": {
     "name": "“ステージ”若宮イヴ",
@@ -2221,7 +2312,8 @@
         "id": "BD/W54-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-093": {
     "name": "“ひたむきな向上心”宇田川あこ",
@@ -2239,7 +2331,8 @@
         "id": "BD/W54-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-094": {
     "name": "“ステージ”市ヶ谷有咲",
@@ -2257,7 +2350,8 @@
         "id": "BD/W54-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-095": {
     "name": "“わたし、どうしたら…”白金燐子",
@@ -2275,7 +2369,8 @@
         "id": "BD/W54-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-096": {
     "name": "“ステージ”花園たえ",
@@ -2293,7 +2388,8 @@
         "id": "BD/W54-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-097": {
     "name": "“双子の苦悩”氷川紗夜",
@@ -2311,7 +2407,8 @@
         "id": "BD/W54-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-098": {
     "name": "激しいシャウト",
@@ -2333,7 +2430,8 @@
         "id": "BD/W54-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W54-099": {
     "name": "いつでもそばに",
@@ -2355,7 +2453,8 @@
         "id": "BD/W54-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W54-100": {
     "name": "満開の桜の下で",
@@ -2377,6 +2476,7 @@
         "id": "BD/W54-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

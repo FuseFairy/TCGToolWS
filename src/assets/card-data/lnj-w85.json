@@ -19,7 +19,8 @@
         "id": "LNJ/W85-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-002": {
     "name": "ハートを咲かせます♪ 中須 かすみ",
@@ -41,7 +42,8 @@
         "id": "LNJ/W85-002SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-003": {
     "name": "はじめましょうか 三船 栞子",
@@ -63,7 +65,8 @@
         "id": "LNJ/W85-003SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-004": {
     "name": "伝えたい想い 天王寺 璃奈",
@@ -85,7 +88,8 @@
         "id": "LNJ/W85-004SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-005": {
     "name": "ミルキーハニー♡ 中須 かすみ",
@@ -107,7 +111,8 @@
         "id": "LNJ/W85-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-006": {
     "name": "煌びやかな旋律 桜坂 しずく",
@@ -129,7 +134,8 @@
         "id": "LNJ/W85-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-007": {
     "name": "夢をさがして 三船 栞子",
@@ -151,7 +157,8 @@
         "id": "LNJ/W85-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-008": {
     "name": "努力は裏切らないんです！ 三船 栞子",
@@ -173,7 +180,8 @@
         "id": "LNJ/W85-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-009": {
     "name": "繋がるメロディー 天王寺 璃奈",
@@ -195,7 +203,8 @@
         "id": "LNJ/W85-009SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-010": {
     "name": "弾けるりなリズム 天王寺 璃奈",
@@ -217,7 +226,8 @@
         "id": "LNJ/W85-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-011": {
     "name": "かすみん行進曲 中須 かすみ",
@@ -239,7 +249,8 @@
         "id": "LNJ/W85-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-012": {
     "name": "ブルードロップ 桜坂 しずく",
@@ -261,7 +272,8 @@
         "id": "LNJ/W85-012SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-013": {
     "name": "ベアースマイル 桜坂 しずく",
@@ -283,7 +295,8 @@
         "id": "LNJ/W85-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-014": {
     "name": "ばかしてあげますよー 中須 かすみ",
@@ -305,7 +318,8 @@
         "id": "LNJ/W85-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-015": {
     "name": "天王寺 璃奈",
@@ -323,7 +337,8 @@
         "id": "LNJ/W85-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-016": {
     "name": "ドキドキニャンニャン 天王寺 璃奈",
@@ -345,7 +360,8 @@
         "id": "LNJ/W85-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-017": {
     "name": "桜坂 しずく",
@@ -363,7 +379,8 @@
         "id": "LNJ/W85-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-018": {
     "name": "心からの言葉？ 三船 栞子",
@@ -385,7 +402,8 @@
         "id": "LNJ/W85-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-019": {
     "name": "三船 栞子",
@@ -403,7 +421,8 @@
         "id": "LNJ/W85-019",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-020": {
     "name": "中須 かすみ",
@@ -421,7 +440,8 @@
         "id": "LNJ/W85-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-021": {
     "name": "がんばりやさん 三船 栞子",
@@ -439,7 +459,8 @@
         "id": "LNJ/W85-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-022": {
     "name": "みんなと繋がりたい♪ 天王寺 璃奈",
@@ -457,7 +478,8 @@
         "id": "LNJ/W85-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-023": {
     "name": "確かな光 桜坂 しずく",
@@ -475,7 +497,8 @@
         "id": "LNJ/W85-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-024": {
     "name": "私の本気 三船 栞子",
@@ -493,7 +516,8 @@
         "id": "LNJ/W85-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-025": {
     "name": "よそ見厳禁！ 中須 かすみ",
@@ -511,7 +535,8 @@
         "id": "LNJ/W85-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-026": {
     "name": "交渉人・璃奈！ 天王寺 璃奈",
@@ -529,7 +554,8 @@
         "id": "LNJ/W85-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-027": {
     "name": "いたずら小悪魔 中須 かすみ",
@@ -547,7 +573,8 @@
         "id": "LNJ/W85-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-028": {
     "name": "ホームページ公開！ 中須 かすみ",
@@ -565,7 +592,8 @@
         "id": "LNJ/W85-028",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-029": {
     "name": "過去との再会 三船 栞子",
@@ -583,7 +611,8 @@
         "id": "LNJ/W85-029",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-030": {
     "name": "後輩としての自覚 桜坂 しずく",
@@ -601,7 +630,8 @@
         "id": "LNJ/W85-030",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-031": {
     "name": "心が躍ります♪ 桜坂 しずく",
@@ -619,7 +649,8 @@
         "id": "LNJ/W85-031",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-032": {
     "name": "ボード越しの繋がり 天王寺 璃奈",
@@ -637,7 +668,8 @@
         "id": "LNJ/W85-032",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-033": {
     "name": "虹ヶ咲学園１年生",
@@ -655,7 +687,8 @@
         "id": "LNJ/W85-033",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-034": {
     "name": "あなたのいる場所",
@@ -673,7 +706,8 @@
         "id": "LNJ/W85-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-035": {
     "name": "夢のメインステージへ！",
@@ -691,7 +725,8 @@
         "id": "LNJ/W85-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-036": {
     "name": "突然の訪問者 三船 栞子",
@@ -713,7 +748,8 @@
         "id": "LNJ/W85-036R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-037": {
     "name": "レインボーローズ 天王寺 璃奈",
@@ -735,7 +771,8 @@
         "id": "LNJ/W85-037R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-038": {
     "name": "レインボーローズ 中須 かすみ",
@@ -757,7 +794,8 @@
         "id": "LNJ/W85-038R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-039": {
     "name": "レインボーローズ 桜坂 しずく",
@@ -779,7 +817,8 @@
         "id": "LNJ/W85-039R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-040": {
     "name": "Creamy Berry 上原 歩夢",
@@ -801,7 +840,8 @@
         "id": "LNJ/W85-040SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-041": {
     "name": "竜宮城へようこそ♪ 宮下 愛",
@@ -823,7 +863,8 @@
         "id": "LNJ/W85-041SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-042": {
     "name": "Emotional Power 優木 せつ菜",
@@ -845,7 +886,8 @@
         "id": "LNJ/W85-042SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-043": {
     "name": "パッションレッド！ 優木 せつ菜",
@@ -867,7 +909,8 @@
         "id": "LNJ/W85-043SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-044": {
     "name": "ドンドン行くよ！ 宮下 愛",
@@ -889,7 +932,8 @@
         "id": "LNJ/W85-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-045": {
     "name": "力強い音を響かせます！ 優木 せつ菜",
@@ -911,7 +955,8 @@
         "id": "LNJ/W85-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-046": {
     "name": "日進月歩 上原 歩夢",
@@ -933,7 +978,8 @@
         "id": "LNJ/W85-046SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-047": {
     "name": "愛！LOVE！YOU！ 宮下 愛",
@@ -955,7 +1001,8 @@
         "id": "LNJ/W85-047SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-048": {
     "name": "音がたくさん重なって楽しいね♪ 上原 歩夢",
@@ -977,7 +1024,8 @@
         "id": "LNJ/W85-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-049": {
     "name": "上原 歩夢",
@@ -995,7 +1043,8 @@
         "id": "LNJ/W85-049",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-050": {
     "name": "優木 せつ菜",
@@ -1013,7 +1062,8 @@
         "id": "LNJ/W85-050",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-051": {
     "name": "ヒョウだぞ～！うっひょ～う 宮下 愛",
@@ -1035,7 +1085,8 @@
         "id": "LNJ/W85-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-052": {
     "name": "白黒つけましょうー！ 優木 せつ菜",
@@ -1057,7 +1108,8 @@
         "id": "LNJ/W85-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-053": {
     "name": "宮下 愛",
@@ -1075,7 +1127,8 @@
         "id": "LNJ/W85-053",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-054": {
     "name": "ぴょんぴょんハート 上原 歩夢",
@@ -1097,7 +1150,8 @@
         "id": "LNJ/W85-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-055": {
     "name": "テンアゲで行こうー！ 宮下 愛",
@@ -1115,7 +1169,8 @@
         "id": "LNJ/W85-055",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-056": {
     "name": "確かめてほしい、あなたに 上原 歩夢",
@@ -1133,7 +1188,8 @@
         "id": "LNJ/W85-056",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-057": {
     "name": "文武両道 優木 せつ菜",
@@ -1151,7 +1207,8 @@
         "id": "LNJ/W85-057",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-058": {
     "name": "ラブラブビーム 宮下 愛",
@@ -1169,7 +1226,8 @@
         "id": "LNJ/W85-058",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-059": {
     "name": "あなたと一緒に 上原 歩夢",
@@ -1187,7 +1245,8 @@
         "id": "LNJ/W85-059",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-060": {
     "name": "さぁ、あなたも一緒に！ 優木 せつ菜",
@@ -1205,7 +1264,8 @@
         "id": "LNJ/W85-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-061": {
     "name": "私の言葉、私の気持ち 宮下 愛",
@@ -1223,7 +1283,8 @@
         "id": "LNJ/W85-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-062": {
     "name": "もう一度、スタート！ 優木 せつ菜",
@@ -1241,7 +1302,8 @@
         "id": "LNJ/W85-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-063": {
     "name": "踏み出したステップ 上原 歩夢",
@@ -1259,7 +1321,8 @@
         "id": "LNJ/W85-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-064": {
     "name": "虹ヶ咲学園２年生",
@@ -1277,7 +1340,8 @@
         "id": "LNJ/W85-064",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-065": {
     "name": "衝突",
@@ -1295,7 +1359,8 @@
         "id": "LNJ/W85-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-066": {
     "name": "私に歌わせて！",
@@ -1313,7 +1378,8 @@
         "id": "LNJ/W85-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-067": {
     "name": "レインボーローズ 優木 せつ菜",
@@ -1335,7 +1401,8 @@
         "id": "LNJ/W85-067R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-068": {
     "name": "レインボーローズ 上原 歩夢",
@@ -1357,7 +1424,8 @@
         "id": "LNJ/W85-068R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-069": {
     "name": "レインボーローズ 宮下 愛",
@@ -1379,7 +1447,8 @@
         "id": "LNJ/W85-069R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-070": {
     "name": "信頼する、あなたへ",
@@ -1397,7 +1466,8 @@
         "id": "LNJ/W85-070",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-071": {
     "name": "みんなで歌おう エマ・ヴェルデ",
@@ -1419,7 +1489,8 @@
         "id": "LNJ/W85-071SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-072": {
     "name": "ついてこられるかしら 朝香 果林",
@@ -1441,7 +1512,8 @@
         "id": "LNJ/W85-072SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-073": {
     "name": "夢の世界へようこそ～ 近江 彼方",
@@ -1463,7 +1535,8 @@
         "id": "LNJ/W85-073SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-074": {
     "name": "ドリームジャーニー 近江 彼方",
@@ -1485,7 +1558,8 @@
         "id": "LNJ/W85-074SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-075": {
     "name": "包み込むような響き 近江 彼方",
@@ -1507,7 +1581,8 @@
         "id": "LNJ/W85-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-076": {
     "name": "シークレットレディ 朝香 果林",
@@ -1529,7 +1604,8 @@
         "id": "LNJ/W85-076SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-077": {
     "name": "さぁ、行進～！ エマ・ヴェルデ",
@@ -1551,7 +1627,8 @@
         "id": "LNJ/W85-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-078": {
     "name": "魅力的な音色 朝香 果林",
@@ -1573,7 +1650,8 @@
         "id": "LNJ/W85-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-079": {
     "name": "虹に願いを エマ・ヴェルデ",
@@ -1595,7 +1673,8 @@
         "id": "LNJ/W85-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-080": {
     "name": "取り憑いちゃうわ♪ 朝香 果林",
@@ -1617,7 +1696,8 @@
         "id": "LNJ/W85-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-081": {
     "name": "かろやかステップ エマ・ヴェルデ",
@@ -1639,7 +1719,8 @@
         "id": "LNJ/W85-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-082": {
     "name": "朝香 果林",
@@ -1657,7 +1738,8 @@
         "id": "LNJ/W85-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-083": {
     "name": "近江 彼方",
@@ -1675,7 +1757,8 @@
         "id": "LNJ/W85-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-084": {
     "name": "すやすやタイム 近江 彼方",
@@ -1697,7 +1780,8 @@
         "id": "LNJ/W85-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-085": {
     "name": "エマ・ヴェルデ",
@@ -1715,7 +1799,8 @@
         "id": "LNJ/W85-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-086": {
     "name": "雨降って地めっちゃ固まる 近江 彼方",
@@ -1733,7 +1818,8 @@
         "id": "LNJ/W85-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-087": {
     "name": "優しい気持ち、繋がる世界 エマ・ヴェルデ",
@@ -1751,7 +1837,8 @@
         "id": "LNJ/W85-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-088": {
     "name": "静かなる闘志 朝香 果林",
@@ -1769,7 +1856,8 @@
         "id": "LNJ/W85-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-089": {
     "name": "ぜんぜんねむくないよ～ 近江 彼方",
@@ -1787,7 +1875,8 @@
         "id": "LNJ/W85-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-090": {
     "name": "準備はい～い？ エマ・ヴェルデ",
@@ -1805,7 +1894,8 @@
         "id": "LNJ/W85-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-091": {
     "name": "私のイメージ、キミのイメージ 朝香 果林",
@@ -1823,7 +1913,8 @@
         "id": "LNJ/W85-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-092": {
     "name": "お昼寝姫 近江 彼方",
@@ -1841,7 +1932,8 @@
         "id": "LNJ/W85-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-093": {
     "name": "最高のパフォーマンスを見せるわ 朝香 果林",
@@ -1859,7 +1951,8 @@
         "id": "LNJ/W85-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-094": {
     "name": "穏やかな日々 エマ・ヴェルデ",
@@ -1877,7 +1970,8 @@
         "id": "LNJ/W85-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-095": {
     "name": "虹ヶ咲学園３年生",
@@ -1895,7 +1989,8 @@
         "id": "LNJ/W85-095",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-096": {
     "name": "虹ヶ咲学園スクールアイドル同好会",
@@ -1913,7 +2008,8 @@
         "id": "LNJ/W85-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-097": {
     "name": "熱意の行方",
@@ -1931,7 +2027,8 @@
         "id": "LNJ/W85-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-098": {
     "name": "レインボーローズ 朝香 果林",
@@ -1953,7 +2050,8 @@
         "id": "LNJ/W85-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-099": {
     "name": "レインボーローズ エマ・ヴェルデ",
@@ -1975,7 +2073,8 @@
         "id": "LNJ/W85-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-100": {
     "name": "レインボーローズ 近江 彼方",
@@ -1997,6 +2096,7 @@
         "id": "LNJ/W85-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "TF/S32-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-102": {
     "name": "ＳＤテラフォーマー",
@@ -33,7 +34,8 @@
         "id": "TF/S32-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-103": {
     "name": "ＳＤ膝丸 燈",
@@ -51,7 +53,8 @@
         "id": "TF/S32-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-104": {
     "name": "ＳＤミッシェル",
@@ -69,7 +72,8 @@
         "id": "TF/S32-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-P01": {
     "name": "“奇跡の生還者”小町 小吉",
@@ -87,7 +91,8 @@
         "id": "TF/S32-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-P02": {
     "name": "“屈強な姿”テラフォーマー",
@@ -105,6 +110,7 @@
         "id": "TF/S32-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

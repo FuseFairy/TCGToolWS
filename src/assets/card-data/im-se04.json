@@ -15,7 +15,8 @@
         "id": "IM/SE04-01",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE04-02": {
     "name": "やさしい先輩 雪歩",
@@ -33,7 +34,8 @@
         "id": "IM/SE04-02",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE04-03": {
     "name": "売れっ子アイドル伊織",
@@ -51,7 +53,8 @@
         "id": "IM/SE04-03",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SE04-04": {
     "name": "夢への一歩 涼",
@@ -69,7 +72,8 @@
         "id": "IM/SE04-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE04-05": {
     "name": "トロピカルガール響",
@@ -87,7 +91,8 @@
         "id": "IM/SE04-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE04-06": {
     "name": "大きな秘密 涼",
@@ -105,7 +110,8 @@
         "id": "IM/SE04-06",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SE04-07": {
     "name": "夢をあきらめない涼",
@@ -123,7 +129,8 @@
         "id": "IM/SE04-07",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SE04-08": {
     "name": "石川社長",
@@ -141,7 +148,8 @@
         "id": "IM/SE04-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE04-09": {
     "name": "アイドルのいとこ涼",
@@ -159,7 +167,8 @@
         "id": "IM/SE04-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE04-10": {
     "name": "凸凹コンビ 涼＆夢子",
@@ -177,7 +186,8 @@
         "id": "IM/SE04-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE04-11": {
     "name": "ビューティフルガール貴音",
@@ -195,7 +205,8 @@
         "id": "IM/SE04-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SE04-12": {
     "name": "歌への自信 美希",
@@ -213,7 +224,8 @@
         "id": "IM/SE04-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SE04-13": {
     "name": "桜井 夢子",
@@ -231,7 +243,8 @@
         "id": "IM/SE04-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SE04-14": {
     "name": "Dazzling World",
@@ -249,7 +262,8 @@
         "id": "IM/SE04-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE04-15": {
     "name": "スペシャルコーチ真",
@@ -267,7 +281,8 @@
         "id": "IM/SE04-15",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE04-16": {
     "name": "どこまでもまっすぐな愛",
@@ -285,7 +300,8 @@
         "id": "IM/SE04-16",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE04-17": {
     "name": "“限界にチャレンジ”愛",
@@ -303,7 +319,8 @@
         "id": "IM/SE04-17",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SE04-18": {
     "name": "伝説のアイドル舞",
@@ -321,7 +338,8 @@
         "id": "IM/SE04-18",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SE04-19": {
     "name": "サポート役まなみ",
@@ -339,7 +357,8 @@
         "id": "IM/SE04-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE04-20": {
     "name": "明るい親子 愛＆舞",
@@ -357,7 +376,8 @@
         "id": "IM/SE04-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE04-21": {
     "name": "みんなのアイドルやよい",
@@ -375,7 +395,8 @@
         "id": "IM/SE04-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE04-22": {
     "name": "“とつげき豆タンク”愛",
@@ -393,7 +414,8 @@
         "id": "IM/SE04-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE04-23": {
     "name": "特別審査員 春香",
@@ -411,7 +433,8 @@
         "id": "IM/SE04-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SE04-24": {
     "name": "アイドルとしての才能 愛",
@@ -429,7 +452,8 @@
         "id": "IM/SE04-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SE04-25": {
     "name": "ALIVE",
@@ -447,7 +471,8 @@
         "id": "IM/SE04-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE04-26": {
     "name": "事件の予感 律子",
@@ -465,7 +490,8 @@
         "id": "IM/SE04-26",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE04-27": {
     "name": "ちょっぴり不思議 絵理",
@@ -483,7 +509,8 @@
         "id": "IM/SE04-27",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE04-28": {
     "name": "水谷 絵理",
@@ -501,7 +528,8 @@
         "id": "IM/SE04-28",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SE04-29": {
     "name": "歌の助言 千早",
@@ -519,7 +547,8 @@
         "id": "IM/SE04-29",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SE04-30": {
     "name": "プロデューサー尾崎",
@@ -537,7 +566,8 @@
         "id": "IM/SE04-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE04-31": {
     "name": "合同レッスン絵理",
@@ -555,7 +585,8 @@
         "id": "IM/SE04-31",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE04-32": {
     "name": "マルチアーティスト絵理",
@@ -573,7 +604,8 @@
         "id": "IM/SE04-32",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE04-33": {
     "name": "夢を想う あずさ",
@@ -591,7 +623,8 @@
         "id": "IM/SE04-33",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SE04-34": {
     "name": "ネットアイドルCINERIA",
@@ -609,7 +642,8 @@
         "id": "IM/SE04-34",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SE04-35": {
     "name": "受け継いだ夢 絵理",
@@ -627,7 +661,8 @@
         "id": "IM/SE04-35",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SE04-36": {
     "name": "プリコグ",
@@ -645,6 +680,7 @@
         "id": "IM/SE04-36",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

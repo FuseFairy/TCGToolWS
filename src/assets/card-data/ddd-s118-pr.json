@@ -23,7 +23,8 @@
         "id": "DDD/S118-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-P02": {
     "name": "オカルト世界",
@@ -45,7 +46,8 @@
         "id": "DDD/S118-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-P03": {
     "name": "オカルティックサマー オカルン",
@@ -67,7 +69,8 @@
         "id": "DDD/S118-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-P04": {
     "name": "オカルティックガール アイラ",
@@ -89,7 +92,8 @@
         "id": "DDD/S118-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-P05": {
     "name": "超常的なパワー モモ",
@@ -111,7 +115,8 @@
         "id": "DDD/S118-P05S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-P06": {
     "name": "招き猫 ターボババア",
@@ -133,7 +138,8 @@
         "id": "DDD/S118-P06S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDD/S118-P07": {
     "name": "優しさに包まれた美少女 アイラ",
@@ -151,7 +157,8 @@
         "id": "DDD/S118-P07EX",
         "rarity": "PR+"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDD/S118-P08": {
     "name": "私は選ばれたんだから アイラ",
@@ -169,6 +176,7 @@
         "id": "DDD/S118-P08EX",
         "rarity": "PR+"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -15,7 +15,8 @@
         "id": "LSS/W45-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W45-P02": {
     "name": "“浦の星女学院 夏制服”渡辺 曜",
@@ -33,7 +34,8 @@
         "id": "LSS/W45-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W45-P03": {
     "name": "“浦の星女学院 夏制服”桜内 梨子",
@@ -51,7 +53,8 @@
         "id": "LSS/W45-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W45-P04": {
     "name": "“浦の星女学院 夏制服”黒澤 ダイヤ",
@@ -69,7 +72,8 @@
         "id": "LSS/W45-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W45-P05": {
     "name": "“浦の星女学院 夏制服”松浦 果南",
@@ -87,7 +91,8 @@
         "id": "LSS/W45-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W45-P06": {
     "name": "“浦の星女学院 夏制服”小原 鞠莉",
@@ -105,7 +110,8 @@
         "id": "LSS/W45-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W45-P07": {
     "name": "“浦の星女学院 夏制服”津島 善子",
@@ -123,7 +129,8 @@
         "id": "LSS/W45-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W45-P08": {
     "name": "“浦の星女学院 夏制服”国木田 花丸",
@@ -141,7 +148,8 @@
         "id": "LSS/W45-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W45-P09": {
     "name": "“浦の星女学院 夏制服”黒澤 ルビィ",
@@ -159,7 +167,8 @@
         "id": "LSS/W45-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W45-101": {
     "name": "ぷち善子",
@@ -177,7 +186,8 @@
         "id": "LSS/W45-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W45-102": {
     "name": "ぷち花丸",
@@ -195,7 +205,8 @@
         "id": "LSS/W45-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W45-103": {
     "name": "ぷちルビィ",
@@ -213,7 +224,8 @@
         "id": "LSS/W45-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W45-104": {
     "name": "ぷち梨子",
@@ -231,7 +243,8 @@
         "id": "LSS/W45-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W45-105": {
     "name": "ぷち曜",
@@ -249,7 +262,8 @@
         "id": "LSS/W45-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W45-106": {
     "name": "ぷち千歌",
@@ -267,7 +281,8 @@
         "id": "LSS/W45-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W45-107": {
     "name": "ぷちダイヤ",
@@ -285,7 +300,8 @@
         "id": "LSS/W45-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/W45-108": {
     "name": "ぷち果南",
@@ -303,7 +319,8 @@
         "id": "LSS/W45-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/W45-109": {
     "name": "ぷち鞠莉",
@@ -321,6 +338,7 @@
         "id": "LSS/W45-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

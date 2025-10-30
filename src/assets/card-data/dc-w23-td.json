@@ -15,7 +15,8 @@
         "id": "DC/W23-101",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W23-103": {
     "name": "第二ボタンのお守り 由夢",
@@ -33,7 +34,8 @@
         "id": "DC/W23-103",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W23-104": {
     "name": "こそばゆい日常",
@@ -51,7 +53,8 @@
         "id": "DC/W23-104",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W23-105": {
     "name": "兄さんとの思い出",
@@ -69,7 +72,8 @@
         "id": "DC/W23-105",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W23-T01": {
     "name": "王都のプリンセス さくら",
@@ -87,7 +91,8 @@
         "id": "DC/W23-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W23-T02": {
     "name": "素敵な彼氏と 和泉子",
@@ -105,7 +110,8 @@
         "id": "DC/W23-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W23-T03": {
     "name": "大はしゃぎ！ まひる",
@@ -123,7 +129,8 @@
         "id": "DC/W23-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W23-T07": {
     "name": "ずっと一緒に 音姫",
@@ -141,7 +148,8 @@
         "id": "DC/W23-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W23-T08": {
     "name": "期待の眼差し アイシア",
@@ -159,7 +167,8 @@
         "id": "DC/W23-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W23-T10": {
     "name": "抑えられない想い",
@@ -177,7 +186,8 @@
         "id": "DC/W23-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/W23-T11": {
     "name": "個人レッスン エリカ",
@@ -195,7 +205,8 @@
         "id": "DC/W23-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W23-T12": {
     "name": "先輩とバナナ 美春",
@@ -213,7 +224,8 @@
         "id": "DC/W23-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W23-T13": {
     "name": "楽しい時間 音夢",
@@ -231,7 +243,8 @@
         "id": "DC/W23-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W23-T14": {
     "name": "楽しいお買い物 μさん",
@@ -249,7 +262,8 @@
         "id": "DC/W23-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W23-T15": {
     "name": "美春の気持ち",
@@ -267,6 +281,7 @@
         "id": "DC/W23-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

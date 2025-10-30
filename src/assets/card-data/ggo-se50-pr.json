@@ -15,7 +15,8 @@
         "id": "GGO/SE50-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/SE50-P02": {
     "name": "Overclock レン",
@@ -33,7 +34,8 @@
         "id": "GGO/SE50-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/SE50-P03": {
     "name": "ちっこくて可愛い レン",
@@ -59,7 +61,8 @@
         "id": "GGO/SE50-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/SE50-P04": {
     "name": "再び、銃をとる レン",
@@ -81,6 +84,7 @@
         "id": "GGO/SE50-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -19,7 +19,8 @@
         "id": "DD/WE23-01SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-02": {
     "name": "パスティヤージュの勇者 レベッカ",
@@ -41,7 +42,8 @@
         "id": "DD/WE23-02SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE23-03": {
     "name": "“追憶”フィー",
@@ -59,7 +61,8 @@
         "id": "DD/WE23-03",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-04": {
     "name": "英雄王 アデル",
@@ -77,7 +80,8 @@
         "id": "DD/WE23-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-05": {
     "name": "勇者の休息 レベッカ",
@@ -95,7 +99,8 @@
         "id": "DD/WE23-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE23-06": {
     "name": "魔王 ヴァレリー",
@@ -113,7 +118,8 @@
         "id": "DD/WE23-06",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-07": {
     "name": "英雄姫 フィー",
@@ -131,7 +137,8 @@
         "id": "DD/WE23-07",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-08": {
     "name": "英雄姫の銃 アデル",
@@ -149,7 +156,8 @@
         "id": "DD/WE23-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE23-09": {
     "name": "英雄王の子孫 クーベル",
@@ -167,7 +175,8 @@
         "id": "DD/WE23-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE23-10": {
     "name": "伝説の勇者召喚",
@@ -185,7 +194,8 @@
         "id": "DD/WE23-10",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-11": {
     "name": "魔神結晶",
@@ -203,7 +213,8 @@
         "id": "DD/WE23-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE23-12": {
     "name": "勇者と姫の物語",
@@ -221,7 +232,8 @@
         "id": "DD/WE23-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DD/WE23-13": {
     "name": "天真爛漫 ナナミ",
@@ -243,7 +255,8 @@
         "id": "DD/WE23-13SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-14": {
     "name": "若き獅子姫 レオ",
@@ -265,7 +278,8 @@
         "id": "DD/WE23-14SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE23-15": {
     "name": "リーフ・ラング・ド・シャー・ハルヴァー",
@@ -283,7 +297,8 @@
         "id": "DD/WE23-15",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-16": {
     "name": "好戦的 ガウル",
@@ -301,7 +316,8 @@
         "id": "DD/WE23-16",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE23-17": {
     "name": "リーフの親戚 ベール",
@@ -319,7 +335,8 @@
         "id": "DD/WE23-17",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-18": {
     "name": "勇者捜索 ガウル",
@@ -337,7 +354,8 @@
         "id": "DD/WE23-18",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-19": {
     "name": "勇者の休息 ナナミ",
@@ -355,7 +373,8 @@
         "id": "DD/WE23-19",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-20": {
     "name": "獅子のお見合い レオ",
@@ -373,7 +392,8 @@
         "id": "DD/WE23-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-21": {
     "name": "空海探索 ジョーヌ",
@@ -391,7 +411,8 @@
         "id": "DD/WE23-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-22": {
     "name": "ガウルの親衛隊 ノワール",
@@ -409,7 +430,8 @@
         "id": "DD/WE23-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE23-23": {
     "name": "獅子姫の見合い",
@@ -427,7 +449,8 @@
         "id": "DD/WE23-23",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-24": {
     "name": "道標",
@@ -445,7 +468,8 @@
         "id": "DD/WE23-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-25": {
     "name": "空海での決闘",
@@ -463,7 +487,8 @@
         "id": "DD/WE23-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DD/WE23-26": {
     "name": "優しい微笑み ミルヒ",
@@ -485,7 +510,8 @@
         "id": "DD/WE23-26SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-27": {
     "name": "木漏れ日の中 ヒナ",
@@ -503,7 +529,8 @@
         "id": "DD/WE23-27",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-28": {
     "name": "双剣の使い手 エクレ",
@@ -521,7 +548,8 @@
         "id": "DD/WE23-28",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-29": {
     "name": "姫様の休息 ミルヒ",
@@ -539,7 +567,8 @@
         "id": "DD/WE23-29",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE23-30": {
     "name": "ビスコッティの勇者 シンク",
@@ -557,7 +586,8 @@
         "id": "DD/WE23-30",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE23-31": {
     "name": "学術探索？リコ",
@@ -575,7 +605,8 @@
         "id": "DD/WE23-31",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-32": {
     "name": "通りすがりの腕自慢 ヒナ",
@@ -593,7 +624,8 @@
         "id": "DD/WE23-32",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-33": {
     "name": "フロニャルドの秋 ユキカゼ",
@@ -611,7 +643,8 @@
         "id": "DD/WE23-33",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE23-34": {
     "name": "勇者推参！シンク",
@@ -629,7 +662,8 @@
         "id": "DD/WE23-34",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-35": {
     "name": "通りすがりの腕自慢 イスカ",
@@ -647,7 +681,8 @@
         "id": "DD/WE23-35",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-36": {
     "name": "活発な性格 シンク",
@@ -665,7 +700,8 @@
         "id": "DD/WE23-36",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-37": {
     "name": "臨戦態勢 リコ",
@@ -683,7 +719,8 @@
         "id": "DD/WE23-37",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE23-38": {
     "name": "癒しの歌",
@@ -701,7 +738,8 @@
         "id": "DD/WE23-38",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DD/WE23-39": {
     "name": "英雄モード",
@@ -719,7 +757,8 @@
         "id": "DD/WE23-39",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-40": {
     "name": "竜を守る者 シャル",
@@ -737,7 +776,8 @@
         "id": "DD/WE23-40",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE23-41": {
     "name": "迷子の少女 アリア",
@@ -755,7 +795,8 @@
         "id": "DD/WE23-41",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-42": {
     "name": "人見知り シャル",
@@ -773,7 +814,8 @@
         "id": "DD/WE23-42",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-43": {
     "name": "竜の巫女 シャル",
@@ -791,7 +833,8 @@
         "id": "DD/WE23-43",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-44": {
     "name": "地上への憧れ アリア",
@@ -809,7 +852,8 @@
         "id": "DD/WE23-44",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-45": {
     "name": "巫女 ファリーヌ",
@@ -827,7 +871,8 @@
         "id": "DD/WE23-45",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-46": {
     "name": "空からの来訪 シャル",
@@ -845,7 +890,8 @@
         "id": "DD/WE23-46",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-47": {
     "name": "空海の歌姫 アリア",
@@ -863,7 +909,8 @@
         "id": "DD/WE23-47",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE23-48": {
     "name": "病の使徒 ベルデ",
@@ -881,7 +928,8 @@
         "id": "DD/WE23-48",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE23-49": {
     "name": "英雄結晶",
@@ -899,7 +947,8 @@
         "id": "DD/WE23-49",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE23-50": {
     "name": "竜の森",
@@ -917,6 +966,7 @@
         "id": "DD/WE23-50",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

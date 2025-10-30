@@ -19,7 +19,8 @@
         "id": "DG/S02-101P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-102": {
     "name": "ラハール＆エトナ＆フロン",
@@ -37,7 +38,8 @@
         "id": "DG/S02-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-105": {
     "name": "オレ様至上主義者ラハール",
@@ -55,7 +57,8 @@
         "id": "DG/S02-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-106": {
     "name": "風紀委員長ラズベリル＆王女サファイア",
@@ -73,7 +76,8 @@
         "id": "DG/S02-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-107": {
     "name": "お花畑フロン",
@@ -91,7 +95,8 @@
         "id": "DG/S02-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-108": {
     "name": "魔王の娘とご一行様",
@@ -109,7 +114,8 @@
         "id": "DG/S02-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/S02-109": {
     "name": "プリニー隊",
@@ -127,7 +133,8 @@
         "id": "DG/S02-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-110": {
     "name": "卒業生第一号ラズベリル",
@@ -145,7 +152,8 @@
         "id": "DG/S02-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/S02-111": {
     "name": "帰ってきた主人公 ラハール",
@@ -163,6 +171,7 @@
         "id": "DG/S02-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -23,7 +23,8 @@
         "id": "Sak/W123-071SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sak/W123-074": {
     "name": "暗殺者 ルーグ",
@@ -49,7 +50,8 @@
         "id": "Sak/W123-074SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Sak/W123-078": {
     "name": "助手兼専属メイド タルト",
@@ -75,7 +77,8 @@
         "id": "Sak/W123-078SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sak/W123-087": {
     "name": "【オルナ】代表代理 マーハ",
@@ -97,7 +100,8 @@
         "id": "Sak/W123-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sak/W123-097": {
     "name": "【一斉射撃】",
@@ -119,6 +123,7 @@
         "id": "Sak/W123-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

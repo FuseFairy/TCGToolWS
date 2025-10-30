@@ -15,7 +15,8 @@
         "id": "GG/S23-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-107": {
     "name": "ぷちチェインバー",
@@ -33,7 +34,8 @@
         "id": "GG/S23-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-108": {
     "name": "ぷちエイミー",
@@ -51,7 +53,8 @@
         "id": "GG/S23-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-109": {
     "name": "ぷちレド",
@@ -69,7 +72,8 @@
         "id": "GG/S23-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-P01": {
     "name": "漂流者 チェインバーくん",
@@ -87,7 +91,8 @@
         "id": "GG/S23-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GG/S23-P02": {
     "name": "問い詰められるエイミー",
@@ -105,7 +110,8 @@
         "id": "GG/S23-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GG/S23-P03": {
     "name": "水着のエイミー＆ベローズ",
@@ -123,6 +129,7 @@
         "id": "GG/S23-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

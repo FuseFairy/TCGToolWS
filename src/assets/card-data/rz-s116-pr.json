@@ -19,7 +19,8 @@
         "id": "RZ/S116-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S116-P02": {
     "name": "ネコミミをつけて ラム",
@@ -37,7 +38,8 @@
         "id": "RZ/S116-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S116-P03": {
     "name": "ミニラム",
@@ -55,7 +57,8 @@
         "id": "RZ/S116-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S116-P04": {
     "name": "ミニエミリア",
@@ -73,7 +76,8 @@
         "id": "RZ/S116-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S116-P05": {
     "name": "ネコミミをつけて エミリア",
@@ -91,7 +95,8 @@
         "id": "RZ/S116-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S116-P06": {
     "name": "ミニレム",
@@ -109,7 +114,8 @@
         "id": "RZ/S116-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S116-P07": {
     "name": "ネコミミをつけて レム",
@@ -127,7 +133,8 @@
         "id": "RZ/S116-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S116-P08": {
     "name": "パジャマパーティー エミリア",
@@ -145,7 +152,8 @@
         "id": "RZ/S116-P08EX",
         "rarity": "PR+"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S116-P09": {
     "name": "パジャマパーティー レム",
@@ -167,7 +175,8 @@
         "id": "RZ/S116-P09S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S116-P10": {
     "name": "予想外の切り替えし エミリア",
@@ -185,6 +194,7 @@
         "id": "RZ/S116-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

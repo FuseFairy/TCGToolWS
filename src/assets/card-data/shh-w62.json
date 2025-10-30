@@ -19,7 +19,8 @@
         "id": "Shh/W62-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Shh/W62-076": {
     "name": "グレイスと接続改装",
@@ -41,7 +42,8 @@
         "id": "Shh/W62-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Shh/W62-078": {
     "name": "究極改装 傷無＆愛音",
@@ -63,7 +65,8 @@
         "id": "Shh/W62-078SBR",
         "rarity": "SBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Shh/W62-080": {
     "name": "ハユルと接続改装",
@@ -85,7 +88,8 @@
         "id": "Shh/W62-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Shh/W62-082": {
     "name": "愛音と絶頂改装",
@@ -103,7 +107,8 @@
         "id": "Shh/W62-082",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Shh/W62-093": {
     "name": "怜悧と接続改装",
@@ -121,7 +126,8 @@
         "id": "Shh/W62-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Shh/W62-096": {
     "name": "ユリシアと接続改装",
@@ -139,7 +145,8 @@
         "id": "Shh/W62-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Shh/W62-098": {
     "name": "シルヴィアと絶頂改装",
@@ -157,7 +164,8 @@
         "id": "Shh/W62-098",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Shh/W62-101": {
     "name": "愛音とグレイスと連結改装",
@@ -175,7 +183,8 @@
         "id": "Shh/W62-101",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Shh/W62-103": {
     "name": "接続改装 ON!!",
@@ -197,6 +206,7 @@
         "id": "Shh/W62-103R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

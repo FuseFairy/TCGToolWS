@@ -19,7 +19,8 @@
         "id": "TSK/S70-001SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-002": {
     "name": "継ぐ者 リムル",
@@ -41,7 +42,8 @@
         "id": "TSK/S70-002SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-003": {
     "name": "雪辱を果たすシオン",
@@ -63,7 +65,8 @@
         "id": "TSK/S70-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-004": {
     "name": "居合の一撃 ハクロウ",
@@ -81,7 +84,8 @@
         "id": "TSK/S70-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-005": {
     "name": "尊敬の念 エレン",
@@ -99,7 +103,8 @@
         "id": "TSK/S70-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-006": {
     "name": "“大森林の管理者”トレイニー",
@@ -117,7 +122,8 @@
         "id": "TSK/S70-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-007": {
     "name": "“武士”シオン",
@@ -135,7 +141,8 @@
         "id": "TSK/S70-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-008": {
     "name": "一騎当千 シオン",
@@ -157,7 +164,8 @@
         "id": "TSK/S70-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-009": {
     "name": "共に歩む道 リムル",
@@ -179,7 +187,8 @@
         "id": "TSK/S70-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-010": {
     "name": "謎の悪魔 クロ",
@@ -201,7 +210,8 @@
         "id": "TSK/S70-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-011": {
     "name": "“豚頭魔王”ゲルド",
@@ -219,7 +229,8 @@
         "id": "TSK/S70-011",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-012": {
     "name": "“豚頭帝”ゲルド",
@@ -237,7 +248,8 @@
         "id": "TSK/S70-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-013": {
     "name": "精霊の守護像",
@@ -255,7 +267,8 @@
         "id": "TSK/S70-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-014": {
     "name": "“魔王”ラミリス",
@@ -273,7 +286,8 @@
         "id": "TSK/S70-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-015": {
     "name": "“指南役”ハクロウ",
@@ -291,7 +305,8 @@
         "id": "TSK/S70-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-016": {
     "name": "師匠 ハクロウ",
@@ -309,7 +324,8 @@
         "id": "TSK/S70-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-017": {
     "name": "“英雄王”ガゼル",
@@ -327,7 +343,8 @@
         "id": "TSK/S70-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-018": {
     "name": "狡猾な魔人 ゲルミュッド",
@@ -345,7 +362,8 @@
         "id": "TSK/S70-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-019": {
     "name": "豚頭族",
@@ -363,7 +381,8 @@
         "id": "TSK/S70-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-020": {
     "name": "鍛冶職人 カイジン",
@@ -381,7 +400,8 @@
         "id": "TSK/S70-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-021": {
     "name": "“自由組合総帥”ユウキ",
@@ -399,7 +419,8 @@
         "id": "TSK/S70-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-022": {
     "name": "豚頭将軍",
@@ -417,7 +438,8 @@
         "id": "TSK/S70-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-023": {
     "name": "トラブルメーカー カバル＆エレン＆ギド",
@@ -435,7 +457,8 @@
         "id": "TSK/S70-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-024": {
     "name": "豚頭魔王の遺志を継ぐ者 ゲルド",
@@ -453,7 +476,8 @@
         "id": "TSK/S70-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-025": {
     "name": "熾烈な争い シオン",
@@ -471,7 +495,8 @@
         "id": "TSK/S70-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-026": {
     "name": "シオンの手料理",
@@ -489,7 +514,8 @@
         "id": "TSK/S70-026",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-027": {
     "name": "テンペスト製の武器",
@@ -507,7 +533,8 @@
         "id": "TSK/S70-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-028": {
     "name": "メグルモノ",
@@ -529,7 +556,8 @@
         "id": "TSK/S70-028R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-029": {
     "name": "圧倒的な一撃",
@@ -551,7 +579,8 @@
         "id": "TSK/S70-029R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-030": {
     "name": "餓鬼之行進演舞",
@@ -569,7 +598,8 @@
         "id": "TSK/S70-030",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-031": {
     "name": "一族の姫 シュナ",
@@ -591,7 +621,8 @@
         "id": "TSK/S70-031SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-032": {
     "name": "中身は子供？ ミリム",
@@ -613,7 +644,8 @@
         "id": "TSK/S70-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-033": {
     "name": "“竜魔人”ミリム",
@@ -635,7 +667,8 @@
         "id": "TSK/S70-033SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-034": {
     "name": "鬼人の力 ベニマル",
@@ -657,7 +690,8 @@
         "id": "TSK/S70-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-035": {
     "name": "天からの一撃 リムル",
@@ -675,7 +709,8 @@
         "id": "TSK/S70-035",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-036": {
     "name": "戦意喪失 ミリム",
@@ -693,7 +728,8 @@
         "id": "TSK/S70-036",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-037": {
     "name": "共に歩む道 シズ",
@@ -715,7 +751,8 @@
         "id": "TSK/S70-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-038": {
     "name": "逆鱗 ミリム",
@@ -737,7 +774,8 @@
         "id": "TSK/S70-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-039": {
     "name": "睨みを利かせるリムル",
@@ -755,7 +793,8 @@
         "id": "TSK/S70-039",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-040": {
     "name": "みんなの為に シュナ",
@@ -777,7 +816,8 @@
         "id": "TSK/S70-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-041": {
     "name": "追撃 ミリム",
@@ -799,7 +839,8 @@
         "id": "TSK/S70-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-042": {
     "name": "日々の鍛錬 ベニマル",
@@ -817,7 +858,8 @@
         "id": "TSK/S70-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-043": {
     "name": "“刀鍛冶”クロベエ",
@@ -835,7 +877,8 @@
         "id": "TSK/S70-043",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-044": {
     "name": "みんなの先生 リムル",
@@ -853,7 +896,8 @@
         "id": "TSK/S70-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-045": {
     "name": "研ぎ澄まされた感覚 クロベエ",
@@ -871,7 +915,8 @@
         "id": "TSK/S70-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-046": {
     "name": "“巫女姫”シュナ",
@@ -889,7 +934,8 @@
         "id": "TSK/S70-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-047": {
     "name": "イフリート顕現 シズ",
@@ -907,7 +953,8 @@
         "id": "TSK/S70-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-048": {
     "name": "“炎の最上位精霊”イフリート",
@@ -925,7 +972,8 @@
         "id": "TSK/S70-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-049": {
     "name": "強い意志 ベニマル",
@@ -943,7 +991,8 @@
         "id": "TSK/S70-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-050": {
     "name": "満面の笑み ミリム",
@@ -961,7 +1010,8 @@
         "id": "TSK/S70-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-051": {
     "name": "どっちを選ぶ？ リムル",
@@ -979,7 +1029,8 @@
         "id": "TSK/S70-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-052": {
     "name": "温泉で一息 ミリム",
@@ -997,7 +1048,8 @@
         "id": "TSK/S70-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-053": {
     "name": "“黒稲妻”リムル",
@@ -1015,7 +1067,8 @@
         "id": "TSK/S70-053",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-054": {
     "name": "一緒にお世話 シズ",
@@ -1033,7 +1086,8 @@
         "id": "TSK/S70-054",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-055": {
     "name": "熾烈な争い シュナ",
@@ -1051,7 +1105,8 @@
         "id": "TSK/S70-055",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-056": {
     "name": "“侍大将”ベニマル",
@@ -1069,7 +1124,8 @@
         "id": "TSK/S70-056",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-057": {
     "name": "マブダチ宣言！",
@@ -1087,7 +1143,8 @@
         "id": "TSK/S70-057",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-058": {
     "name": "炎化爆獄陣",
@@ -1105,7 +1162,8 @@
         "id": "TSK/S70-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-059": {
     "name": "挨拶がわりに",
@@ -1127,7 +1185,8 @@
         "id": "TSK/S70-059R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-060": {
     "name": "新たなる力",
@@ -1149,7 +1208,8 @@
         "id": "TSK/S70-060R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-061": {
     "name": "魔王の力",
@@ -1167,7 +1227,8 @@
         "id": "TSK/S70-061",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-062": {
     "name": "共に見たい景色",
@@ -1185,7 +1246,8 @@
         "id": "TSK/S70-062",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-063": {
     "name": "目覚めし衝動",
@@ -1203,7 +1265,8 @@
         "id": "TSK/S70-063",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "TSK/S70-064": {
     "name": "魔物達のあるじ リムル",
@@ -1225,7 +1288,8 @@
         "id": "TSK/S70-064SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-065": {
     "name": "“爆炎の支配者”シズ",
@@ -1247,7 +1311,8 @@
         "id": "TSK/S70-065SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-066": {
     "name": "日本での記憶 シズ",
@@ -1269,7 +1334,8 @@
         "id": "TSK/S70-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-067": {
     "name": "フィルトウッド王国での一件 シズ",
@@ -1291,7 +1357,8 @@
         "id": "TSK/S70-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-068": {
     "name": "一心同体のパートナー リムル",
@@ -1313,7 +1380,8 @@
         "id": "TSK/S70-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-069": {
     "name": "仲間を守る力 リムル",
@@ -1331,7 +1399,8 @@
         "id": "TSK/S70-069",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-070": {
     "name": "“威圧”ランガ",
@@ -1353,7 +1422,8 @@
         "id": "TSK/S70-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-071": {
     "name": "受け継いだ想い リムル",
@@ -1371,7 +1441,8 @@
         "id": "TSK/S70-071",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-072": {
     "name": "秘策 リムル",
@@ -1393,7 +1464,8 @@
         "id": "TSK/S70-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-073": {
     "name": "静かなる怒り ソウエイ",
@@ -1415,7 +1487,8 @@
         "id": "TSK/S70-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-074": {
     "name": "“自動戦闘状態”リムル",
@@ -1433,7 +1506,8 @@
         "id": "TSK/S70-074",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-075": {
     "name": "最後の旅 シズ",
@@ -1455,7 +1529,8 @@
         "id": "TSK/S70-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-076": {
     "name": "聞き分けの良いリグル",
@@ -1473,7 +1548,8 @@
         "id": "TSK/S70-076",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-077": {
     "name": "独り占め クロエ",
@@ -1491,7 +1567,8 @@
         "id": "TSK/S70-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-078": {
     "name": "ポーション生成！リムル",
@@ -1509,7 +1586,8 @@
         "id": "TSK/S70-078",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-079": {
     "name": "“隠密”ソウエイ",
@@ -1527,7 +1605,8 @@
         "id": "TSK/S70-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-080": {
     "name": "“粘鋼糸”リムル",
@@ -1545,7 +1624,8 @@
         "id": "TSK/S70-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-081": {
     "name": "出欠確認 リムル",
@@ -1563,7 +1643,8 @@
         "id": "TSK/S70-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-082": {
     "name": "全てを喰らうリムル",
@@ -1581,7 +1662,8 @@
         "id": "TSK/S70-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-083": {
     "name": "英雄の力 シズ",
@@ -1599,7 +1681,8 @@
         "id": "TSK/S70-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-084": {
     "name": "任務を遂行 ソウエイ",
@@ -1617,7 +1700,8 @@
         "id": "TSK/S70-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-085": {
     "name": "戦乱の渦中へ ランガ",
@@ -1635,7 +1719,8 @@
         "id": "TSK/S70-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-086": {
     "name": "新たな配下 ソーカ",
@@ -1653,7 +1738,8 @@
         "id": "TSK/S70-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-087": {
     "name": "“渦槍水流撃”ガビル",
@@ -1671,7 +1757,8 @@
         "id": "TSK/S70-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-088": {
     "name": "分身 ソウエイ",
@@ -1689,7 +1776,8 @@
         "id": "TSK/S70-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-089": {
     "name": "決死の想い ゴブタ",
@@ -1707,7 +1795,8 @@
         "id": "TSK/S70-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-090": {
     "name": "名前の上書き ガビル",
@@ -1725,7 +1814,8 @@
         "id": "TSK/S70-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-091": {
     "name": "クロエ＆アリス＆ケンヤ＆リョウタ＆ゲイル",
@@ -1743,7 +1833,8 @@
         "id": "TSK/S70-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-092": {
     "name": "温泉で一息 リムル",
@@ -1761,7 +1852,8 @@
         "id": "TSK/S70-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-093": {
     "name": "“リグルドショック”リグルド",
@@ -1779,7 +1871,8 @@
         "id": "TSK/S70-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-094": {
     "name": "“影移動”ランガ",
@@ -1797,7 +1890,8 @@
         "id": "TSK/S70-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-095": {
     "name": "抗魔の仮面",
@@ -1819,7 +1913,8 @@
         "id": "TSK/S70-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-096": {
     "name": "ユニークスキル『大賢者』",
@@ -1837,7 +1932,8 @@
         "id": "TSK/S70-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-097": {
     "name": "伝説の英雄",
@@ -1859,7 +1955,8 @@
         "id": "TSK/S70-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-098": {
     "name": "張り巡らされた罠",
@@ -1877,7 +1974,8 @@
         "id": "TSK/S70-098",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-099": {
     "name": "窮余の一策",
@@ -1899,7 +1997,8 @@
         "id": "TSK/S70-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-100": {
     "name": "精霊との対峙",
@@ -1917,6 +2016,7 @@
         "id": "TSK/S70-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

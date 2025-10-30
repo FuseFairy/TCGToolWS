@@ -15,7 +15,8 @@
         "id": "TL/W37-T01SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-T06": {
     "name": "“心の迷い”芽亜",
@@ -33,7 +34,8 @@
         "id": "TL/W37-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-T09": {
     "name": "“ダークネス”ヤミ",
@@ -51,7 +53,8 @@
         "id": "TL/W37-T09S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-T13": {
     "name": "“純情可憐？な女の子”モモ",
@@ -69,7 +72,8 @@
         "id": "TL/W37-T13R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-001": {
     "name": "金色の闇",
@@ -91,7 +95,8 @@
         "id": "TL/W37-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-002": {
     "name": "黒咲 芽亜",
@@ -113,7 +118,8 @@
         "id": "TL/W37-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-003": {
     "name": "“ペロペロキャンディ”芽亜",
@@ -135,7 +141,8 @@
         "id": "TL/W37-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-004": {
     "name": "“お座り”芽亜",
@@ -157,7 +164,8 @@
         "id": "TL/W37-004R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-005": {
     "name": "“お座り”ヤミ",
@@ -179,7 +187,8 @@
         "id": "TL/W37-005R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-006": {
     "name": "“自分の心”ヤミ",
@@ -201,7 +210,8 @@
         "id": "TL/W37-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-007": {
     "name": "“リト抹殺指令”ヤミ",
@@ -219,7 +229,8 @@
         "id": "TL/W37-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-008": {
     "name": "“また、今までのように”ヤミ",
@@ -237,7 +248,8 @@
         "id": "TL/W37-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-009": {
     "name": "霧崎 恭子",
@@ -255,7 +267,8 @@
         "id": "TL/W37-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-010": {
     "name": "“リボンでラッピング”芽亜",
@@ -273,7 +286,8 @@
         "id": "TL/W37-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-011": {
     "name": "“明日につながる記憶”ヤミ",
@@ -291,7 +305,8 @@
         "id": "TL/W37-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-012": {
     "name": "“ドキドキバスタイム”芽亜",
@@ -309,7 +324,8 @@
         "id": "TL/W37-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-013": {
     "name": "“戦うために生まれた兵器”芽亜",
@@ -327,7 +343,8 @@
         "id": "TL/W37-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-014": {
     "name": "ティアーユ・ルナティーク",
@@ -345,7 +362,8 @@
         "id": "TL/W37-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-015": {
     "name": "“耐える教師”ティアーユ",
@@ -363,7 +381,8 @@
         "id": "TL/W37-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-016": {
     "name": "レン・エルシ・ジュエリア",
@@ -381,7 +400,8 @@
         "id": "TL/W37-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-017": {
     "name": "“精神侵入”芽亜",
@@ -399,7 +419,8 @@
         "id": "TL/W37-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-018": {
     "name": "“沈着冷静”ヤミ",
@@ -417,7 +438,8 @@
         "id": "TL/W37-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-019": {
     "name": "“南国ビーチリゾート”芽亜",
@@ -435,7 +457,8 @@
         "id": "TL/W37-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-020": {
     "name": "“南国ビーチリゾート”ヤミ",
@@ -453,7 +476,8 @@
         "id": "TL/W37-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-021": {
     "name": "“ブルーメタリア”ルン",
@@ -471,7 +495,8 @@
         "id": "TL/W37-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-022": {
     "name": "“ドキドキバスタイム”ヤミ",
@@ -489,7 +514,8 @@
         "id": "TL/W37-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-023": {
     "name": "“マスターに教わった考え”芽亜",
@@ -507,7 +533,8 @@
         "id": "TL/W37-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-024": {
     "name": "御門 涼子",
@@ -525,7 +552,8 @@
         "id": "TL/W37-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-025": {
     "name": "ルン・エルシ・ジュエリア",
@@ -543,7 +571,8 @@
         "id": "TL/W37-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-026": {
     "name": "安らぎの温もり",
@@ -561,7 +590,8 @@
         "id": "TL/W37-026",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-027": {
     "name": "ダークネス計画",
@@ -579,7 +609,8 @@
         "id": "TL/W37-027",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-028": {
     "name": "優しい時間",
@@ -597,7 +628,8 @@
         "id": "TL/W37-028",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-029": {
     "name": "たいやきのキーホルダー",
@@ -615,7 +647,8 @@
         "id": "TL/W37-029",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "TL/W37-030": {
     "name": "あたたかい街“彩南”",
@@ -633,7 +666,8 @@
         "id": "TL/W37-030",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-031": {
     "name": "“お座り”美柑",
@@ -655,7 +689,8 @@
         "id": "TL/W37-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-032": {
     "name": "結城 美柑",
@@ -677,7 +712,8 @@
         "id": "TL/W37-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-033": {
     "name": "古手川 唯",
@@ -699,7 +735,8 @@
         "id": "TL/W37-033SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-034": {
     "name": "“お座り”唯",
@@ -721,7 +758,8 @@
         "id": "TL/W37-034R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-035": {
     "name": "“可愛いパジャマ”美柑",
@@ -739,7 +777,8 @@
         "id": "TL/W37-035",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-036": {
     "name": "“裸Yシャツ”唯",
@@ -757,7 +796,8 @@
         "id": "TL/W37-036",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-037": {
     "name": "“恋心”唯",
@@ -775,7 +815,8 @@
         "id": "TL/W37-037",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-038": {
     "name": "“ちょっと後悔？”唯",
@@ -793,7 +834,8 @@
         "id": "TL/W37-038",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-039": {
     "name": "“おやすみタイム”美柑",
@@ -815,7 +857,8 @@
         "id": "TL/W37-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-040": {
     "name": "“衣服の整理”美柑",
@@ -833,7 +876,8 @@
         "id": "TL/W37-040",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-041": {
     "name": "藤崎 綾",
@@ -851,7 +895,8 @@
         "id": "TL/W37-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-042": {
     "name": "天条院 沙姫",
@@ -869,7 +914,8 @@
         "id": "TL/W37-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-043": {
     "name": "“朝食の準備”美柑",
@@ -887,7 +933,8 @@
         "id": "TL/W37-043",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-044": {
     "name": "“料理上手”美柑",
@@ -905,7 +952,8 @@
         "id": "TL/W37-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-045": {
     "name": "“不安な眼差し”美柑",
@@ -923,7 +971,8 @@
         "id": "TL/W37-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-046": {
     "name": "“二人でお話”唯",
@@ -941,7 +990,8 @@
         "id": "TL/W37-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-047": {
     "name": "“風紀委員会活動報告”唯",
@@ -959,7 +1009,8 @@
         "id": "TL/W37-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-048": {
     "name": "“いつもの日常”美柑",
@@ -977,7 +1028,8 @@
         "id": "TL/W37-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-049": {
     "name": "“猫の着信音”唯",
@@ -995,7 +1047,8 @@
         "id": "TL/W37-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-050": {
     "name": "“ハレンチハプニング”唯",
@@ -1013,7 +1066,8 @@
         "id": "TL/W37-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-051": {
     "name": "九条 凛",
@@ -1031,7 +1085,8 @@
         "id": "TL/W37-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-052": {
     "name": "くろねこモード",
@@ -1049,7 +1104,8 @@
         "id": "TL/W37-052",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-053": {
     "name": "たいやきのキーホルダー",
@@ -1067,7 +1123,8 @@
         "id": "TL/W37-053",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-054": {
     "name": "ドキドキボイス",
@@ -1085,7 +1142,8 @@
         "id": "TL/W37-054",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "TL/W37-055": {
     "name": "魅惑ボイス",
@@ -1103,7 +1161,8 @@
         "id": "TL/W37-055",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "TL/W37-056": {
     "name": "ララ・サタリン・デビルーク",
@@ -1125,7 +1184,8 @@
         "id": "TL/W37-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-057": {
     "name": "ナナ・アスタ・デビルーク",
@@ -1147,7 +1207,8 @@
         "id": "TL/W37-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-058": {
     "name": "モモ・ベリア・デビルーク",
@@ -1169,7 +1230,8 @@
         "id": "TL/W37-058SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-059": {
     "name": "“魅惑のパジャマ姿”モモ",
@@ -1191,7 +1253,8 @@
         "id": "TL/W37-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-060": {
     "name": "“お座り”モモ",
@@ -1213,7 +1276,8 @@
         "id": "TL/W37-060R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-061": {
     "name": "“信頼の眼差し”ララ",
@@ -1231,7 +1295,8 @@
         "id": "TL/W37-061",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-062": {
     "name": "“優しい温もり”ナナ",
@@ -1249,7 +1314,8 @@
         "id": "TL/W37-062",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-063": {
     "name": "“お座り”ララ",
@@ -1271,7 +1337,8 @@
         "id": "TL/W37-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-064": {
     "name": "“お座り”ナナ",
@@ -1293,7 +1360,8 @@
         "id": "TL/W37-064R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-065": {
     "name": "“仲良し？三姉妹”ララ",
@@ -1311,7 +1379,8 @@
         "id": "TL/W37-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-066": {
     "name": "“ささやかな応援”モモ",
@@ -1329,7 +1398,8 @@
         "id": "TL/W37-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-067": {
     "name": "“ホントの友達”ナナ",
@@ -1347,7 +1417,8 @@
         "id": "TL/W37-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-068": {
     "name": "“仲良し？三姉妹”モモ",
@@ -1365,7 +1436,8 @@
         "id": "TL/W37-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-069": {
     "name": "“仲良し？三姉妹”ナナ",
@@ -1383,7 +1455,8 @@
         "id": "TL/W37-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-070": {
     "name": "“ふりふりシャーペン”ララ",
@@ -1401,7 +1474,8 @@
         "id": "TL/W37-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-071": {
     "name": "“双子の姉妹”ナナ",
@@ -1419,7 +1493,8 @@
         "id": "TL/W37-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-072": {
     "name": "“テンタク星のお友達”ナナ",
@@ -1437,7 +1512,8 @@
         "id": "TL/W37-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-073": {
     "name": "“信頼の絆”ララ",
@@ -1455,7 +1531,8 @@
         "id": "TL/W37-073",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-074": {
     "name": "“意外と積極的”ナナ",
@@ -1473,7 +1550,8 @@
         "id": "TL/W37-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-075": {
     "name": "“発明品の整理”ララ",
@@ -1491,7 +1569,8 @@
         "id": "TL/W37-075",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-076": {
     "name": "“転送システム【デダイヤル】”モモ",
@@ -1509,7 +1588,8 @@
         "id": "TL/W37-076",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-077": {
     "name": "“腹黒策士”モモ",
@@ -1527,7 +1607,8 @@
         "id": "TL/W37-077",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-078": {
     "name": "心配するナナ",
@@ -1545,7 +1626,8 @@
         "id": "TL/W37-078",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-079": {
     "name": "“ドキドキバスタイム”モモ",
@@ -1563,7 +1645,8 @@
         "id": "TL/W37-079",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-080": {
     "name": "“南国ビーチリゾート”モモ",
@@ -1581,7 +1664,8 @@
         "id": "TL/W37-080",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-081": {
     "name": "楽園計画",
@@ -1599,7 +1683,8 @@
         "id": "TL/W37-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-082": {
     "name": "ドキドキアプローチ",
@@ -1617,7 +1702,8 @@
         "id": "TL/W37-082",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-083": {
     "name": "秘密の花園▽",
@@ -1635,7 +1721,8 @@
         "id": "TL/W37-083",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "TL/W37-084": {
     "name": "魅惑のポーズ",
@@ -1653,7 +1740,8 @@
         "id": "TL/W37-084",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "TL/W37-085": {
     "name": "本当の友達",
@@ -1671,7 +1759,8 @@
         "id": "TL/W37-085",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-086": {
     "name": "西連寺 春菜",
@@ -1689,7 +1778,8 @@
         "id": "TL/W37-086",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-087": {
     "name": "セリーヌ",
@@ -1707,7 +1797,8 @@
         "id": "TL/W37-087",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-088": {
     "name": "“お座り”春菜",
@@ -1725,7 +1816,8 @@
         "id": "TL/W37-088",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-089": {
     "name": "“裸エプロン”春菜",
@@ -1743,7 +1835,8 @@
         "id": "TL/W37-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-090": {
     "name": "沢田 未央",
@@ -1761,7 +1854,8 @@
         "id": "TL/W37-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-091": {
     "name": "籾岡 里紗",
@@ -1779,7 +1873,8 @@
         "id": "TL/W37-091",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-092": {
     "name": "“読書中”春菜",
@@ -1797,7 +1892,8 @@
         "id": "TL/W37-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-093": {
     "name": "“念力集中!!!”お静",
@@ -1815,7 +1911,8 @@
         "id": "TL/W37-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-094": {
     "name": "“ウェディングドレス”春菜",
@@ -1833,7 +1930,8 @@
         "id": "TL/W37-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-095": {
     "name": "“お片付け中”春菜？",
@@ -1851,7 +1949,8 @@
         "id": "TL/W37-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-096": {
     "name": "“大ピンチ”春菜",
@@ -1869,7 +1968,8 @@
         "id": "TL/W37-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-097": {
     "name": "お静",
@@ -1887,7 +1987,8 @@
         "id": "TL/W37-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-098": {
     "name": "しろねこモード",
@@ -1905,7 +2006,8 @@
         "id": "TL/W37-098",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-099": {
     "name": "ビリビリハプニング",
@@ -1923,7 +2025,8 @@
         "id": "TL/W37-099",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-100": {
     "name": "拘束ハプニング",
@@ -1941,6 +2044,7 @@
         "id": "TL/W37-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

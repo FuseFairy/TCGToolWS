@@ -23,7 +23,8 @@
         "id": "DC3/WE30-01SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WE30-02": {
     "name": "想いを紡ぐ恋心 立夏",
@@ -49,7 +50,8 @@
         "id": "DC3/WE30-02SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE30-03": {
     "name": "共に歩む未来 姫乃",
@@ -75,7 +77,8 @@
         "id": "DC3/WE30-03SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WE30-04": {
     "name": "大切な人の隣に さら",
@@ -101,7 +104,8 @@
         "id": "DC3/WE30-04SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WE30-05": {
     "name": "ウェディングドレスの美琴",
@@ -119,7 +123,8 @@
         "id": "DC3/WE30-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE30-11": {
     "name": "雪の日の登校 シャルル",
@@ -137,7 +142,8 @@
         "id": "DC3/WE30-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE30-12": {
     "name": "とっても幸せ 葵",
@@ -155,7 +161,8 @@
         "id": "DC3/WE30-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WE30-13": {
     "name": "“楽しい”時間 すもも",
@@ -173,6 +180,7 @@
         "id": "DC3/WE30-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

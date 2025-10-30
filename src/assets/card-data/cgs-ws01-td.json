@@ -15,7 +15,8 @@
         "id": "CGS/WS01-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CGS/WS01-T02": {
     "name": "お花見しよ子",
@@ -33,7 +34,8 @@
         "id": "CGS/WS01-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CGS/WS01-T03": {
     "name": "まだ見ぬ強敵(強敵ルビ：とも)たち",
@@ -51,7 +53,8 @@
         "id": "CGS/WS01-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CGS/WS01-T04": {
     "name": "マーライオン しよ子 SG",
@@ -69,7 +72,8 @@
         "id": "CGS/WS01-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CGS/WS01-T05": {
     "name": "しろくろランナー しよ子",
@@ -87,7 +91,8 @@
         "id": "CGS/WS01-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CGS/WS01-T06": {
     "name": "未年 しよ子",
@@ -105,7 +110,8 @@
         "id": "CGS/WS01-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CGS/WS01-T07": {
     "name": "申年 しよ子",
@@ -123,7 +129,8 @@
         "id": "CGS/WS01-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CGS/WS01-T08": {
     "name": "シュヴァルツしよ子",
@@ -141,7 +148,8 @@
         "id": "CGS/WS01-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CGS/WS01-T09": {
     "name": "おかえりなさい",
@@ -159,7 +167,8 @@
         "id": "CGS/WS01-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CGS/WS01-T10": {
     "name": "はじまりの日",
@@ -177,7 +186,8 @@
         "id": "CGS/WS01-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CGS/WS01-T11": {
     "name": "救命措置",
@@ -195,7 +205,8 @@
         "id": "CGS/WS01-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CGS/WS01-T12": {
     "name": "“Fiｒｓｔ Blｏｏd”怒りのしよ子",
@@ -213,7 +224,8 @@
         "id": "CGS/WS01-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CGS/WS01-T13": {
     "name": "ボーカル しよ子",
@@ -231,7 +243,8 @@
         "id": "CGS/WS01-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CGS/WS01-T14": {
     "name": "カードゲーム界の革命児 しよ子",
@@ -249,7 +262,8 @@
         "id": "CGS/WS01-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CGS/WS01-T15": {
     "name": "しましまビキニ しよ子",
@@ -267,7 +281,8 @@
         "id": "CGS/WS01-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CGS/WS01-T16": {
     "name": "アミーガ しよ子",
@@ -285,7 +300,8 @@
         "id": "CGS/WS01-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CGS/WS01-T17": {
     "name": "助太刀しよ子",
@@ -303,7 +319,8 @@
         "id": "CGS/WS01-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CGS/WS01-T18": {
     "name": "収録中のしよ子",
@@ -321,7 +338,8 @@
         "id": "CGS/WS01-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CGS/WS01-T19": {
     "name": "ヴァイスしよ子",
@@ -339,7 +357,8 @@
         "id": "CGS/WS01-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CGS/WS01-T20": {
     "name": "マナー啓蒙",
@@ -357,7 +376,8 @@
         "id": "CGS/WS01-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CGS/WS01-T21": {
     "name": "みんなでカードゲーム",
@@ -375,6 +395,7 @@
         "id": "CGS/WS01-T21",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

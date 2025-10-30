@@ -15,7 +15,8 @@
         "id": "ZM/WE13-T11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-T12": {
     "name": "サモン・サーヴァント",
@@ -33,7 +34,8 @@
         "id": "ZM/WE13-T12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/WE13-T13": {
     "name": "理想のお部屋 ルイズ",
@@ -51,7 +53,8 @@
         "id": "ZM/WE13-T13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-T14": {
     "name": "聖国のルイズ",
@@ -69,7 +72,8 @@
         "id": "ZM/WE13-T14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-T15": {
     "name": "ディスペル発動！",
@@ -87,7 +91,8 @@
         "id": "ZM/WE13-T15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-T16": {
     "name": "大いなる槍",
@@ -105,7 +110,8 @@
         "id": "ZM/WE13-T16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "ZM/WE13-01": {
     "name": "ガリアの王族 タバサ",
@@ -123,7 +129,8 @@
         "id": "ZM/WE13-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-02": {
     "name": "“風使い”タバサ",
@@ -141,7 +148,8 @@
         "id": "ZM/WE13-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-03": {
     "name": "ルイズの守り手 サイト",
@@ -159,7 +167,8 @@
         "id": "ZM/WE13-03",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-04": {
     "name": "揺るぎない信頼 ルイズ",
@@ -177,7 +186,8 @@
         "id": "ZM/WE13-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/WE13-05": {
     "name": "貴族の務め ルイズ",
@@ -195,7 +205,8 @@
         "id": "ZM/WE13-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/WE13-06": {
     "name": "入浴中のルイズ",
@@ -213,7 +224,8 @@
         "id": "ZM/WE13-06",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-07": {
     "name": "秘密兵器 イルククゥ",
@@ -231,7 +243,8 @@
         "id": "ZM/WE13-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-08": {
     "name": "デルフリンガーの相棒 サイト",
@@ -249,7 +262,8 @@
         "id": "ZM/WE13-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-09": {
     "name": "物静かなタバサ",
@@ -267,7 +281,8 @@
         "id": "ZM/WE13-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-10": {
     "name": "トリステインの騎士 サイト",
@@ -285,7 +300,8 @@
         "id": "ZM/WE13-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/WE13-11": {
     "name": "頼れる仲間 タバサ",
@@ -303,7 +319,8 @@
         "id": "ZM/WE13-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/WE13-12": {
     "name": "サモン・サーヴァント",
@@ -321,7 +338,8 @@
         "id": "ZM/WE13-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/WE13-13": {
     "name": "伝説の使い魔",
@@ -339,7 +357,8 @@
         "id": "ZM/WE13-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "ZM/WE13-14": {
     "name": "森の妖精 ティファニア",
@@ -357,7 +376,8 @@
         "id": "ZM/WE13-14",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-15": {
     "name": "優しい友達 ティファニア",
@@ -375,7 +395,8 @@
         "id": "ZM/WE13-15",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-16": {
     "name": "もう一人の担い手 ティファニア",
@@ -393,7 +414,8 @@
         "id": "ZM/WE13-16",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/WE13-17": {
     "name": "秘めた想い ティファニア",
@@ -411,7 +433,8 @@
         "id": "ZM/WE13-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-18": {
     "name": "入浴中のティファニア",
@@ -429,7 +452,8 @@
         "id": "ZM/WE13-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-19": {
     "name": "砂漠のエルフ ルクシャナ",
@@ -447,7 +471,8 @@
         "id": "ZM/WE13-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-20": {
     "name": "ルクシャナ＆モンモランシー",
@@ -465,7 +490,8 @@
         "id": "ZM/WE13-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-21": {
     "name": "ティファニア＆シエスタ",
@@ -483,7 +509,8 @@
         "id": "ZM/WE13-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/WE13-22": {
     "name": "“忘却の魔法”ティファニア",
@@ -501,7 +528,8 @@
         "id": "ZM/WE13-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/WE13-23": {
     "name": "忘却の魔法",
@@ -519,7 +547,8 @@
         "id": "ZM/WE13-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-24": {
     "name": "素直になれない ルイズ",
@@ -537,7 +566,8 @@
         "id": "ZM/WE13-24",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-25": {
     "name": "強い絆 ルイズ",
@@ -555,7 +585,8 @@
         "id": "ZM/WE13-25",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-26": {
     "name": "無意識の力 ルイズ",
@@ -573,7 +604,8 @@
         "id": "ZM/WE13-26",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/WE13-27": {
     "name": "途切れぬ想い サイト",
@@ -591,7 +623,8 @@
         "id": "ZM/WE13-27",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/WE13-28": {
     "name": "相思相愛 ルイズ",
@@ -609,7 +642,8 @@
         "id": "ZM/WE13-28",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/WE13-29": {
     "name": "理想のお部屋 ルイズ",
@@ -627,7 +661,8 @@
         "id": "ZM/WE13-29",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-30": {
     "name": "愛の狩人 キュルケ",
@@ -645,7 +680,8 @@
         "id": "ZM/WE13-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-31": {
     "name": "可愛い担い手 ルイズ",
@@ -663,7 +699,8 @@
         "id": "ZM/WE13-31",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-32": {
     "name": "笑顔の別れ ルイズ",
@@ -681,7 +718,8 @@
         "id": "ZM/WE13-32",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-33": {
     "name": "気丈なサイト",
@@ -699,7 +737,8 @@
         "id": "ZM/WE13-33",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-34": {
     "name": "コルベール先生",
@@ -717,7 +756,8 @@
         "id": "ZM/WE13-34",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/WE13-35": {
     "name": "聖国のルイズ",
@@ -735,7 +775,8 @@
         "id": "ZM/WE13-35",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-36": {
     "name": "“神の左手”サイト",
@@ -753,7 +794,8 @@
         "id": "ZM/WE13-36",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/WE13-37": {
     "name": "ディスペル発動！",
@@ -771,7 +813,8 @@
         "id": "ZM/WE13-37",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-38": {
     "name": "大いなる槍",
@@ -789,7 +832,8 @@
         "id": "ZM/WE13-38",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "ZM/WE13-39": {
     "name": "ワールドドア",
@@ -807,7 +851,8 @@
         "id": "ZM/WE13-39",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-40": {
     "name": "恋のライバル シエスタ",
@@ -825,7 +870,8 @@
         "id": "ZM/WE13-40",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-41": {
     "name": "司令官 アンリエッタ",
@@ -843,7 +889,8 @@
         "id": "ZM/WE13-41",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/WE13-42": {
     "name": "サイトへの想い アンリエッタ",
@@ -861,7 +908,8 @@
         "id": "ZM/WE13-42",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-43": {
     "name": "入浴中のアンリエッタ",
@@ -879,7 +927,8 @@
         "id": "ZM/WE13-43",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-44": {
     "name": "無能王 ジョゼフ",
@@ -897,7 +946,8 @@
         "id": "ZM/WE13-44",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-45": {
     "name": "真実の鏡",
@@ -915,6 +965,7 @@
         "id": "ZM/WE13-45",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

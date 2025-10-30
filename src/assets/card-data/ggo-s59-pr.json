@@ -15,7 +15,8 @@
         "id": "GGO/S59-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-P02": {
     "name": "足に自信あり！レン",
@@ -37,7 +38,8 @@
         "id": "GGO/S59-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-P03": {
     "name": "おしゃれしたいな！ レン",
@@ -55,7 +57,8 @@
         "id": "GGO/S59-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-P04": {
     "name": "フカ次郎＆レン＆ピトフーイ",
@@ -73,7 +76,8 @@
         "id": "GGO/S59-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-P05": {
     "name": "水着でも相棒！ レン&フカ次郎",
@@ -91,7 +95,8 @@
         "id": "GGO/S59-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-101": {
     "name": "憧憬の眼差し 咲",
@@ -109,7 +114,8 @@
         "id": "GGO/S59-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GGO/S59-102": {
     "name": "VRティータイム レン",
@@ -127,7 +133,8 @@
         "id": "GGO/S59-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-103": {
     "name": "VRティータイム フカ次郎",
@@ -145,7 +152,8 @@
         "id": "GGO/S59-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GGO/S59-104": {
     "name": "悠々自適 ピトフーイ",
@@ -163,6 +171,7 @@
         "id": "GGO/S59-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

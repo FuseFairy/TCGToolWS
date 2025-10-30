@@ -15,7 +15,8 @@
         "id": "IM/S21-081",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-082": {
     "name": "ALLSTAR LIVE 真",
@@ -33,7 +34,8 @@
         "id": "IM/S21-082",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-083": {
     "name": "絆を求めて 春香",
@@ -51,7 +53,8 @@
         "id": "IM/S21-083",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-084": {
     "name": "解き放たれた千早",
@@ -69,7 +72,8 @@
         "id": "IM/S21-084",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-085": {
     "name": "響チャレンジ！ 響",
@@ -87,7 +91,8 @@
         "id": "IM/S21-085",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-T01": {
     "name": "新人アイドル 春香",
@@ -109,7 +114,8 @@
         "id": "IM/S21-T01S",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-T02": {
     "name": "次世代の輝き 愛",
@@ -127,7 +133,8 @@
         "id": "IM/S21-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-T03": {
     "name": "再び舞台へ 美希",
@@ -145,7 +152,8 @@
         "id": "IM/S21-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-T04": {
     "name": "セクシーサンタ 美希",
@@ -163,7 +171,8 @@
         "id": "IM/S21-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-T05": {
     "name": "READY!!",
@@ -181,7 +190,8 @@
         "id": "IM/S21-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-T06": {
     "name": "ゲロゲロキッチン 千早",
@@ -199,7 +209,8 @@
         "id": "IM/S21-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-T07": {
     "name": "次世代の輝き 絵理",
@@ -217,7 +228,8 @@
         "id": "IM/S21-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-T08": {
     "name": "らあめんハンター 貴音",
@@ -235,7 +247,8 @@
         "id": "IM/S21-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-T09": {
     "name": "アクションスター！ 真",
@@ -253,7 +266,8 @@
         "id": "IM/S21-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-T10": {
     "name": "生っすか！？サンデー 千早",
@@ -271,7 +285,8 @@
         "id": "IM/S21-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-T11": {
     "name": "まっこまこりーん！ 真",
@@ -289,7 +304,8 @@
         "id": "IM/S21-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-T12": {
     "name": "ある日の風景",
@@ -307,7 +323,8 @@
         "id": "IM/S21-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-T13": {
     "name": "約束",
@@ -325,7 +342,8 @@
         "id": "IM/S21-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-T14": {
     "name": "CHANGE!!!!",
@@ -343,6 +361,7 @@
         "id": "IM/S21-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

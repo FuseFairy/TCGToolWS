@@ -15,7 +15,8 @@
         "id": "MR/W80-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-P02": {
     "name": "鶴乃＆いろは＆やちよ",
@@ -33,7 +34,8 @@
         "id": "MR/W80-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-101": {
     "name": "橋の上での再会 いろは",
@@ -51,7 +53,8 @@
         "id": "MR/W80-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-102": {
     "name": "橋の上での出会い やちよ",
@@ -69,7 +72,8 @@
         "id": "MR/W80-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-103": {
     "name": "プレゼントの相談 鶴乃",
@@ -87,7 +91,8 @@
         "id": "MR/W80-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-104": {
     "name": "食いしん坊 フェリシア",
@@ -105,7 +110,8 @@
         "id": "MR/W80-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-105": {
     "name": "突然の指名 さな",
@@ -123,6 +129,7 @@
         "id": "MR/W80-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

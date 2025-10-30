@@ -15,7 +15,8 @@
         "id": "KLK/S27-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-P02": {
     "name": "流子とデート 鮮血",
@@ -33,7 +34,8 @@
         "id": "KLK/S27-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-P03": {
     "name": "わけのわからない満艦飾一家",
@@ -51,7 +53,8 @@
         "id": "KLK/S27-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-101": {
     "name": "ちびマコ",
@@ -69,7 +72,8 @@
         "id": "KLK/S27-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-102": {
     "name": "ちび流子",
@@ -87,7 +91,8 @@
         "id": "KLK/S27-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-103": {
     "name": "ちび“人衣一体”流子",
@@ -105,7 +110,8 @@
         "id": "KLK/S27-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-104": {
     "name": "ちび皐月",
@@ -123,6 +129,7 @@
         "id": "KLK/S27-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

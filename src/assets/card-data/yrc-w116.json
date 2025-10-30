@@ -23,7 +23,8 @@
         "id": "YRC/W116-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-002": {
     "name": "薪割りすんぞ！ 千明",
@@ -49,7 +50,8 @@
         "id": "YRC/W116-002SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-003": {
     "name": "みずがき湖を眺めて あおい",
@@ -75,7 +77,8 @@
         "id": "YRC/W116-003SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-004": {
     "name": "トマト大量！ あおい",
@@ -97,7 +100,8 @@
         "id": "YRC/W116-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-005": {
     "name": "火を吹くスタッファー 千明",
@@ -123,7 +127,8 @@
         "id": "YRC/W116-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-006": {
     "name": "ダムシチュー実食！ なでしこ",
@@ -145,7 +150,8 @@
         "id": "YRC/W116-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-007": {
     "name": "孫☆ライダーズ リン",
@@ -167,7 +173,8 @@
         "id": "YRC/W116-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-008": {
     "name": "楽しいおしゃべり あおい",
@@ -193,7 +200,8 @@
         "id": "YRC/W116-008SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-009": {
     "name": "春の陽気に当てられて 恵那＆ちくわ",
@@ -215,7 +223,8 @@
         "id": "YRC/W116-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-010": {
     "name": "自家製ソーセージを作ろう 千明",
@@ -241,7 +250,8 @@
         "id": "YRC/W116-010SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-011": {
     "name": "ちくわといっしょ 恵那",
@@ -267,7 +277,8 @@
         "id": "YRC/W116-011SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-012": {
     "name": "テントin瑞牆山",
@@ -289,7 +300,8 @@
         "id": "YRC/W116-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-013": {
     "name": "つまみ作り 千明",
@@ -311,7 +323,8 @@
         "id": "YRC/W116-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-014": {
     "name": "グビ飲み 鳥羽先生",
@@ -333,7 +346,8 @@
         "id": "YRC/W116-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-015": {
     "name": "念願のピザ 千明",
@@ -355,7 +369,8 @@
         "id": "YRC/W116-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-016": {
     "name": "ピザクラストお好み焼き実食！ あおい",
@@ -377,7 +392,8 @@
         "id": "YRC/W116-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-017": {
     "name": "ピザクラストお好み焼き実食！ 恵那",
@@ -399,7 +415,8 @@
         "id": "YRC/W116-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-018": {
     "name": "見守る視線 鳥羽先生",
@@ -421,7 +438,8 @@
         "id": "YRC/W116-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-019": {
     "name": "回想キャンプ 千明",
@@ -443,7 +461,8 @@
         "id": "YRC/W116-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-020": {
     "name": "初めてのダム リン",
@@ -465,7 +484,8 @@
         "id": "YRC/W116-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-021": {
     "name": "回想キャンプ あおい",
@@ -487,7 +507,8 @@
         "id": "YRC/W116-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-022": {
     "name": "中津川メイ",
@@ -509,7 +530,8 @@
         "id": "YRC/W116-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-023": {
     "name": "ごちそうさまでした なでしこ",
@@ -531,7 +553,8 @@
         "id": "YRC/W116-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-024": {
     "name": "語り部 あおい",
@@ -553,7 +576,8 @@
         "id": "YRC/W116-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-025": {
     "name": "スヤスヤちくわ",
@@ -575,7 +599,8 @@
         "id": "YRC/W116-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-026": {
     "name": "みずがき湖のほとりから",
@@ -601,7 +626,8 @@
         "id": "YRC/W116-026R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-027": {
     "name": "ちくわとお花見さんぽ",
@@ -623,7 +649,8 @@
         "id": "YRC/W116-027R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-028": {
     "name": "ウマい店を目指して",
@@ -645,7 +672,8 @@
         "id": "YRC/W116-028R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-029": {
     "name": "プチソロキャン なでしこ",
@@ -671,7 +699,8 @@
         "id": "YRC/W116-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-030": {
     "name": "ご機嫌な挨拶 なでしこ",
@@ -697,7 +726,8 @@
         "id": "YRC/W116-030SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-031": {
     "name": "電車とツーショット なでしこ",
@@ -723,7 +753,8 @@
         "id": "YRC/W116-031SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-032": {
     "name": "プチソロキャン 千明",
@@ -745,7 +776,8 @@
         "id": "YRC/W116-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-033": {
     "name": "庭デイキャンの帰り道 あおい",
@@ -771,7 +803,8 @@
         "id": "YRC/W116-033SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-034": {
     "name": "ココアでプチキャンプ 綾乃",
@@ -797,7 +830,8 @@
         "id": "YRC/W116-034SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-035": {
     "name": "コンセプト力説 千明",
@@ -823,7 +857,8 @@
         "id": "YRC/W116-035SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-036": {
     "name": "ソーセージを頬張って なでしこ",
@@ -849,7 +884,8 @@
         "id": "YRC/W116-036SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-037": {
     "name": "花よりまんじゅう あおい",
@@ -875,7 +911,8 @@
         "id": "YRC/W116-037SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-038": {
     "name": "薪割りの達人 なでしこ",
@@ -897,7 +934,8 @@
         "id": "YRC/W116-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-039": {
     "name": "ダムシチュー実食！ 綾乃",
@@ -919,7 +957,8 @@
         "id": "YRC/W116-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-040": {
     "name": "残念なお知らせ あおい",
@@ -941,7 +980,8 @@
         "id": "YRC/W116-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-041": {
     "name": "メモメモ なでしこ",
@@ -963,7 +1003,8 @@
         "id": "YRC/W116-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-042": {
     "name": "感動の再会 なでしこ",
@@ -985,7 +1026,8 @@
         "id": "YRC/W116-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-043": {
     "name": "体力の限界 千明",
@@ -1007,7 +1049,8 @@
         "id": "YRC/W116-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-044": {
     "name": "テントin大井川",
@@ -1029,7 +1072,8 @@
         "id": "YRC/W116-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-045": {
     "name": "桜めぐり なでしこ",
@@ -1051,7 +1095,8 @@
         "id": "YRC/W116-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-046": {
     "name": "バイトガール 千明",
@@ -1073,7 +1118,8 @@
         "id": "YRC/W116-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-047": {
     "name": "家でダラダラ 桜",
@@ -1095,7 +1141,8 @@
         "id": "YRC/W116-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-048": {
     "name": "お先にどうぞ あおい",
@@ -1117,7 +1164,8 @@
         "id": "YRC/W116-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-049": {
     "name": "温泉を満喫 なでしこ",
@@ -1139,7 +1187,8 @@
         "id": "YRC/W116-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-050": {
     "name": "食後の川根茶ソフト なでしこ",
@@ -1161,7 +1210,8 @@
         "id": "YRC/W116-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-051": {
     "name": "桜めぐり 桜",
@@ -1183,7 +1233,8 @@
         "id": "YRC/W116-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-052": {
     "name": "車窓から見える景色 なでしこ",
@@ -1205,7 +1256,8 @@
         "id": "YRC/W116-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-053": {
     "name": "一人旅満喫 なでしこ",
@@ -1227,7 +1279,8 @@
         "id": "YRC/W116-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-054": {
     "name": "モグモグなでしこ",
@@ -1249,7 +1302,8 @@
         "id": "YRC/W116-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-055": {
     "name": "ふてくされるなでしこ",
@@ -1271,7 +1325,8 @@
         "id": "YRC/W116-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-056": {
     "name": "写真の見せ合いっこ なでしこ",
@@ -1293,7 +1348,8 @@
         "id": "YRC/W116-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-057": {
     "name": "聞き手 千明",
@@ -1315,7 +1371,8 @@
         "id": "YRC/W116-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-058": {
     "name": "温泉を満喫 綾乃",
@@ -1337,7 +1394,8 @@
         "id": "YRC/W116-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-059": {
     "name": "やきとりを頬張って あおい",
@@ -1359,7 +1417,8 @@
         "id": "YRC/W116-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-060": {
     "name": "慈雲寺でスリーショット！",
@@ -1381,7 +1440,8 @@
         "id": "YRC/W116-060R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-061": {
     "name": "はいチーズ！",
@@ -1407,7 +1467,8 @@
         "id": "YRC/W116-061R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-062": {
     "name": "ソロキャンの暇つぶし",
@@ -1429,7 +1490,8 @@
         "id": "YRC/W116-062R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-063": {
     "name": "春風の中で",
@@ -1451,7 +1513,8 @@
         "id": "YRC/W116-063R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-064": {
     "name": "吊り橋の上で",
@@ -1477,7 +1540,8 @@
         "id": "YRC/W116-064R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-065": {
     "name": "吊り橋の上から リン",
@@ -1503,7 +1567,8 @@
         "id": "YRC/W116-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-066": {
     "name": "バイク乗り 綾乃",
@@ -1529,7 +1594,8 @@
         "id": "YRC/W116-066SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-067": {
     "name": "険道を越えた先に リン",
@@ -1555,7 +1621,8 @@
         "id": "YRC/W116-067SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-068": {
     "name": "次のキャンプ リン",
@@ -1581,7 +1648,8 @@
         "id": "YRC/W116-068SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-069": {
     "name": "大きな伸び 恵那",
@@ -1607,7 +1675,8 @@
         "id": "YRC/W116-069SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-070": {
     "name": "ダムシチュー実食！ リン",
@@ -1629,7 +1698,8 @@
         "id": "YRC/W116-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-071": {
     "name": "のんびりソロキャンパー リン",
@@ -1655,7 +1725,8 @@
         "id": "YRC/W116-071SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-072": {
     "name": "ちくわ用キャンプセット設営中！ 恵那",
@@ -1681,7 +1752,8 @@
         "id": "YRC/W116-072SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-073": {
     "name": "険道を越えた先に 綾乃",
@@ -1707,7 +1779,8 @@
         "id": "YRC/W116-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-074": {
     "name": "孫☆ライダーズ 綾乃",
@@ -1729,7 +1802,8 @@
         "id": "YRC/W116-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-075": {
     "name": "満身創痍 綾乃",
@@ -1755,7 +1829,8 @@
         "id": "YRC/W116-075SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-076": {
     "name": "テントin大井川",
@@ -1777,7 +1852,8 @@
         "id": "YRC/W116-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-077": {
     "name": "土岐綾乃",
@@ -1799,7 +1875,8 @@
         "id": "YRC/W116-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-078": {
     "name": "お先にどうぞ 恵那",
@@ -1821,7 +1898,8 @@
         "id": "YRC/W116-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-079": {
     "name": "温泉を満喫 リン",
@@ -1843,7 +1921,8 @@
         "id": "YRC/W116-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-080": {
     "name": "控えめの挨拶 リン",
@@ -1865,7 +1944,8 @@
         "id": "YRC/W116-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-081": {
     "name": "真剣な眼差し 恵那",
@@ -1887,7 +1967,8 @@
         "id": "YRC/W116-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-082": {
     "name": "写真の見せ合いっこ リン",
@@ -1909,7 +1990,8 @@
         "id": "YRC/W116-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-083": {
     "name": "不覚の二度寝 リン",
@@ -1931,7 +2013,8 @@
         "id": "YRC/W116-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-084": {
     "name": "久々のソロキャン リン",
@@ -1953,7 +2036,8 @@
         "id": "YRC/W116-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-085": {
     "name": "キャンプに前向き リン",
@@ -1975,7 +2059,8 @@
         "id": "YRC/W116-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-086": {
     "name": "新城肇",
@@ -1997,7 +2082,8 @@
         "id": "YRC/W116-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-087": {
     "name": "車窓から見える景色 恵那",
@@ -2019,7 +2105,8 @@
         "id": "YRC/W116-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-088": {
     "name": "思い出の風景 リン",
@@ -2041,7 +2128,8 @@
         "id": "YRC/W116-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-089": {
     "name": "悩み中 リン",
@@ -2063,7 +2151,8 @@
         "id": "YRC/W116-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-090": {
     "name": "やきとりを頬張って 恵那",
@@ -2085,7 +2174,8 @@
         "id": "YRC/W116-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-091": {
     "name": "瑞浪絵真",
@@ -2107,7 +2197,8 @@
         "id": "YRC/W116-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-092": {
     "name": "下調べ 恵那",
@@ -2129,7 +2220,8 @@
         "id": "YRC/W116-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-093": {
     "name": "閉口するリン",
@@ -2151,7 +2243,8 @@
         "id": "YRC/W116-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-094": {
     "name": "意気揚々 リン",
@@ -2173,7 +2266,8 @@
         "id": "YRC/W116-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-095": {
     "name": "回想キャンプ 恵那",
@@ -2195,7 +2289,8 @@
         "id": "YRC/W116-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-096": {
     "name": "リンのバイク",
@@ -2217,7 +2312,8 @@
         "id": "YRC/W116-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-097": {
     "name": "桜を見上げて",
@@ -2239,7 +2335,8 @@
         "id": "YRC/W116-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-098": {
     "name": "あちあちパスタ",
@@ -2261,7 +2358,8 @@
         "id": "YRC/W116-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-099": {
     "name": "ツーリングキャンプ",
@@ -2283,7 +2381,8 @@
         "id": "YRC/W116-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-100": {
     "name": "温泉を目指して",
@@ -2305,7 +2404,8 @@
         "id": "YRC/W116-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-101": {
     "name": "たのしい、更新中。",
@@ -2323,6 +2423,7 @@
         "id": "YRC/W116-101A",
         "rarity": "AGR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

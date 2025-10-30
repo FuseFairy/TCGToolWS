@@ -15,7 +15,8 @@
         "id": "SS/W14-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/W14-107": {
     "name": "“偉大なる者”シャナ",
@@ -33,7 +34,8 @@
         "id": "SS/W14-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/W14-108": {
     "name": "エカテリーナと遊ぶシャナたん",
@@ -51,7 +53,8 @@
         "id": "SS/W14-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/W14-109": {
     "name": "頂のヘカテーたん",
@@ -69,7 +72,8 @@
         "id": "SS/W14-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/W14-110": {
     "name": "無類のメロンパン好き シャナ",
@@ -87,7 +91,8 @@
         "id": "SS/W14-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SS/W14-111": {
     "name": "メイド服のシャナ",
@@ -105,7 +110,8 @@
         "id": "SS/W14-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/W14-112": {
     "name": "おめかし シャナ",
@@ -123,7 +129,8 @@
         "id": "SS/W14-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/W14-113": {
     "name": "夏服のシャナ",
@@ -141,6 +148,7 @@
         "id": "SS/W14-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

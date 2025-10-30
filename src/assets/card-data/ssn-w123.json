@@ -23,7 +23,8 @@
         "id": "Ssn/W123-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ssn/W123-004": {
     "name": "幸せな日々 リット＆レッド",
@@ -49,7 +50,8 @@
         "id": "Ssn/W123-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssn/W123-008": {
     "name": "取り戻した幸せ ルーティ",
@@ -75,7 +77,8 @@
         "id": "Ssn/W123-008SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssn/W123-022": {
     "name": "「木の歌い手」 ヤランドララ",
@@ -97,6 +100,7 @@
         "id": "Ssn/W123-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -15,7 +15,8 @@
         "id": "DC3/W23-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W23-P06": {
     "name": "素敵な先輩 リッカ＆シャルル",
@@ -33,7 +34,8 @@
         "id": "DC3/W23-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W23-P09": {
     "name": "未来への架け橋 葵＆サラ",
@@ -51,7 +53,8 @@
         "id": "DC3/W23-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W23-P10": {
     "name": "Platinum Days",
@@ -69,6 +72,7 @@
         "id": "DC3/W23-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

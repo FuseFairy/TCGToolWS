@@ -15,7 +15,8 @@
         "id": "RW/W15-101",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-102": {
     "name": "“背比べ”静流",
@@ -33,7 +34,8 @@
         "id": "RW/W15-102",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-103": {
     "name": "天王寺 瑚太朗",
@@ -51,7 +53,8 @@
         "id": "RW/W15-103",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-104": {
     "name": "“至福のデザートタイム”ルチア",
@@ -69,7 +72,8 @@
         "id": "RW/W15-104",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-105": {
     "name": "みんなでガーデニング",
@@ -87,7 +91,8 @@
         "id": "RW/W15-105",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RW/W15-T01": {
     "name": "制服の小鳥",
@@ -105,7 +110,8 @@
         "id": "RW/W15-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-T02": {
     "name": "“スピード勝負！”瑚太朗",
@@ -123,7 +129,8 @@
         "id": "RW/W15-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-T03": {
     "name": "“カザコーのアウトロー”吉野",
@@ -141,7 +148,8 @@
         "id": "RW/W15-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-T04": {
     "name": "制服の朱音",
@@ -159,7 +167,8 @@
         "id": "RW/W15-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-T05": {
     "name": "“ちはやの執事”咲夜",
@@ -177,7 +186,8 @@
         "id": "RW/W15-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-T06": {
     "name": "制服のちはや",
@@ -195,7 +205,8 @@
         "id": "RW/W15-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-T07": {
     "name": "私服の朱音",
@@ -213,7 +224,8 @@
         "id": "RW/W15-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-T08": {
     "name": "私服の小鳥",
@@ -231,7 +243,8 @@
         "id": "RW/W15-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-T09": {
     "name": "私服のちはや",
@@ -249,7 +262,8 @@
         "id": "RW/W15-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-T10": {
     "name": "学園の魔女",
@@ -267,7 +281,8 @@
         "id": "RW/W15-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-T11": {
     "name": "迷子の転校生",
@@ -285,7 +300,8 @@
         "id": "RW/W15-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-T12": {
     "name": "制服の静流",
@@ -303,7 +319,8 @@
         "id": "RW/W15-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-T13": {
     "name": "制服のルチア",
@@ -321,7 +338,8 @@
         "id": "RW/W15-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-T14": {
     "name": "私服の静流",
@@ -339,7 +357,8 @@
         "id": "RW/W15-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-T15": {
     "name": "私服のルチア",
@@ -357,7 +376,8 @@
         "id": "RW/W15-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-T16": {
     "name": "失くした記憶",
@@ -375,6 +395,7 @@
         "id": "RW/W15-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

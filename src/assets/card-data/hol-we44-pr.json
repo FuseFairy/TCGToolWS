@@ -15,7 +15,8 @@
         "id": "HOL/WE44-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/WE44-P02": {
     "name": "一緒にトレーニング！ 天音かなた",
@@ -33,7 +34,8 @@
         "id": "HOL/WE44-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/WE44-P03": {
     "name": "一緒にトレーニング！ 大空スバル",
@@ -51,7 +53,8 @@
         "id": "HOL/WE44-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/WE44-P04": {
     "name": "この世のものは脆すぎる 天音かなた",
@@ -69,7 +72,8 @@
         "id": "HOL/WE44-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/WE44-P05": {
     "name": "一緒にトレーニング！ アキ・ローゼンタール",
@@ -87,7 +91,8 @@
         "id": "HOL/WE44-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/WE44-P06": {
     "name": "運動後の栄養補給 アキ・ローゼンタール",
@@ -105,7 +110,8 @@
         "id": "HOL/WE44-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/WE44-P07": {
     "name": "煌めく汗 大空スバル",
@@ -123,7 +129,8 @@
         "id": "HOL/WE44-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/WE44-P08": {
     "name": "一緒にトレーニング！ 白銀ノエル",
@@ -141,7 +148,8 @@
         "id": "HOL/WE44-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/WE44-P09": {
     "name": "ぶら下がり健康法 雪花ラミィ",
@@ -159,7 +167,8 @@
         "id": "HOL/WE44-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/WE44-P10": {
     "name": "一緒にトレーニング！ 雪花ラミィ",
@@ -177,7 +186,8 @@
         "id": "HOL/WE44-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/WE44-P11": {
     "name": "つよつよ団長 白銀ノエル",
@@ -195,7 +205,8 @@
         "id": "HOL/WE44-P11",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/WE44-P12": {
     "name": "Summer Splash Party!",
@@ -213,7 +224,8 @@
         "id": "HOL/WE44-P12S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/WE44-P13": {
     "name": "PalVerse ホロライブvol.1",
@@ -231,7 +243,8 @@
         "id": "HOL/WE44-P13",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/WE44-P14": {
     "name": "PalVerse Palé. ホロライブ さくらみこ&星街すいせい",
@@ -249,6 +262,7 @@
         "id": "HOL/WE44-P14",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

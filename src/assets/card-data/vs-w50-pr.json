@@ -15,7 +15,8 @@
         "id": "VS/W50-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-P03": {
     "name": "昔のように リンネ＆フーカ",
@@ -33,7 +34,8 @@
         "id": "VS/W50-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-101": {
     "name": "まっすぐな瞳 フーカ",
@@ -51,7 +53,8 @@
         "id": "VS/W50-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-102": {
     "name": "格闘技への誘い アインハルト",
@@ -69,7 +72,8 @@
         "id": "VS/W50-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-103": {
     "name": "試合観戦 ヴィヴィオ",
@@ -87,7 +91,8 @@
         "id": "VS/W50-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-104": {
     "name": "許せないもの リンネ",
@@ -105,6 +110,7 @@
         "id": "VS/W50-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

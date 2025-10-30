@@ -19,7 +19,8 @@
         "id": "LSS/WE27-01SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-02": {
     "name": "“MIRAI TICKET”黒澤 ルビィ",
@@ -41,7 +42,8 @@
         "id": "LSS/WE27-02SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE27-03": {
     "name": "“MIRAI TICKET”津島 善子",
@@ -63,7 +65,8 @@
         "id": "LSS/WE27-03SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE27-04": {
     "name": "“頑張ルビィ”黒澤 ルビィ",
@@ -81,7 +84,8 @@
         "id": "LSS/WE27-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-05": {
     "name": "“未熟DREAMER”国木田 花丸",
@@ -99,7 +103,8 @@
         "id": "LSS/WE27-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-06": {
     "name": "“未熟DREAMER”黒澤 ルビィ",
@@ -117,7 +122,8 @@
         "id": "LSS/WE27-06",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-07": {
     "name": "“未熟DREAMER”津島 善子",
@@ -135,7 +141,8 @@
         "id": "LSS/WE27-07",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-08": {
     "name": "“輝きを目指して”国木田 花丸",
@@ -153,7 +160,8 @@
         "id": "LSS/WE27-08",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-09": {
     "name": "“親愛なるお姉ちゃん”黒澤 ルビィ",
@@ -171,7 +179,8 @@
         "id": "LSS/WE27-09",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-10": {
     "name": "“堕天使の涙”津島 善子",
@@ -189,7 +198,8 @@
         "id": "LSS/WE27-10",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-11": {
     "name": "“本日のアルティメットラグナロク”津島 善子",
@@ -207,7 +217,8 @@
         "id": "LSS/WE27-11",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE27-12": {
     "name": "“みんなと一緒に”国木田 花丸",
@@ -225,7 +236,8 @@
         "id": "LSS/WE27-12",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE27-13": {
     "name": "“輝きを目指して”津島 善子",
@@ -243,7 +255,8 @@
         "id": "LSS/WE27-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-14": {
     "name": "“輝きを目指して”黒澤 ルビィ",
@@ -261,7 +274,8 @@
         "id": "LSS/WE27-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE27-15": {
     "name": "“未来との出会い”国木田 花丸",
@@ -279,7 +293,8 @@
         "id": "LSS/WE27-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE27-16": {
     "name": "こ、これが、パソコン！",
@@ -297,7 +312,8 @@
         "id": "LSS/WE27-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-17": {
     "name": "MIRAI TICKET",
@@ -315,7 +331,8 @@
         "id": "LSS/WE27-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE27-18": {
     "name": "未熟DREAMER",
@@ -333,7 +350,8 @@
         "id": "LSS/WE27-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LSS/WE27-19": {
     "name": "“MIRAI TICKET”桜内 梨子",
@@ -355,7 +373,8 @@
         "id": "LSS/WE27-19SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE27-20": {
     "name": "“MIRAI TICKET”高海 千歌",
@@ -377,7 +396,8 @@
         "id": "LSS/WE27-20SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE27-21": {
     "name": "“MIRAI TICKET”渡辺 曜",
@@ -399,7 +419,8 @@
         "id": "LSS/WE27-21SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE27-22": {
     "name": "“未熟DREAMER”渡辺 曜",
@@ -417,7 +438,8 @@
         "id": "LSS/WE27-22",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-23": {
     "name": "“未熟DREAMER”高海 千歌",
@@ -435,7 +457,8 @@
         "id": "LSS/WE27-23",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-24": {
     "name": "“輝きを目指して”渡辺 曜",
@@ -453,7 +476,8 @@
         "id": "LSS/WE27-24",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE27-25": {
     "name": "“未熟DREAMER”桜内 梨子",
@@ -471,7 +495,8 @@
         "id": "LSS/WE27-25",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE27-26": {
     "name": "“輝きを目指して”高海 千歌",
@@ -489,7 +514,8 @@
         "id": "LSS/WE27-26",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-27": {
     "name": "“みんなで一緒に輝く事”渡辺 曜",
@@ -507,7 +533,8 @@
         "id": "LSS/WE27-27",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-28": {
     "name": "“ゼロからいちへ！”桜内 梨子",
@@ -525,7 +552,8 @@
         "id": "LSS/WE27-28",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE27-29": {
     "name": "“ゼロからいちへ！”高海 千歌",
@@ -543,7 +571,8 @@
         "id": "LSS/WE27-29",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-30": {
     "name": "“輝きを目指して”桜内 梨子",
@@ -561,7 +590,8 @@
         "id": "LSS/WE27-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-31": {
     "name": "“ゼロからいちへ！”渡辺 曜",
@@ -579,7 +609,8 @@
         "id": "LSS/WE27-31",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-32": {
     "name": "“プール掃除”渡辺 曜",
@@ -597,7 +628,8 @@
         "id": "LSS/WE27-32",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-33": {
     "name": "“大切なもの”高海 千歌",
@@ -615,7 +647,8 @@
         "id": "LSS/WE27-33",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE27-34": {
     "name": "一人じゃとても作れない大きな輝き",
@@ -633,7 +666,8 @@
         "id": "LSS/WE27-34",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-35": {
     "name": "未熟DREAMER",
@@ -651,7 +685,8 @@
         "id": "LSS/WE27-35",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LSS/WE27-36": {
     "name": "想いよひとつになれ",
@@ -669,7 +704,8 @@
         "id": "LSS/WE27-36",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-37": {
     "name": "“MIRAI TICKET”小原 鞠莉",
@@ -691,7 +727,8 @@
         "id": "LSS/WE27-37SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-38": {
     "name": "“MIRAI TICKET”黒澤 ダイヤ",
@@ -713,7 +750,8 @@
         "id": "LSS/WE27-38SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-39": {
     "name": "“MIRAI TICKET”松浦 果南",
@@ -735,7 +773,8 @@
         "id": "LSS/WE27-39SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE27-40": {
     "name": "“未熟DREAMER”黒澤 ダイヤ",
@@ -753,7 +792,8 @@
         "id": "LSS/WE27-40",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-41": {
     "name": "“未熟DREAMER”松浦 果南",
@@ -771,7 +811,8 @@
         "id": "LSS/WE27-41",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE27-42": {
     "name": "“輝きを目指して”黒澤 ダイヤ",
@@ -789,7 +830,8 @@
         "id": "LSS/WE27-42",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE27-43": {
     "name": "“未熟DREAMER”小原 鞠莉",
@@ -807,7 +849,8 @@
         "id": "LSS/WE27-43",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE27-44": {
     "name": "“グッラ～マラスな水着姿”松浦 果南",
@@ -825,7 +868,8 @@
         "id": "LSS/WE27-44",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-45": {
     "name": "“輝きを目指して”小原 鞠莉",
@@ -843,7 +887,8 @@
         "id": "LSS/WE27-45",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE27-46": {
     "name": "“ようこそ、Aqoursへ！”黒澤 ダイヤ",
@@ -861,7 +906,8 @@
         "id": "LSS/WE27-46",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE27-47": {
     "name": "“思い出のハグ”松浦 果南",
@@ -879,7 +925,8 @@
         "id": "LSS/WE27-47",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-48": {
     "name": "“現実逃避”黒澤 ダイヤ",
@@ -897,7 +944,8 @@
         "id": "LSS/WE27-48",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-49": {
     "name": "“大好きな友達”小原 鞠莉",
@@ -915,7 +963,8 @@
         "id": "LSS/WE27-49",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-50": {
     "name": "“輝きを目指して”松浦 果南",
@@ -933,7 +982,8 @@
         "id": "LSS/WE27-50",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-51": {
     "name": "“シャイ煮”小原 鞠莉",
@@ -951,7 +1001,8 @@
         "id": "LSS/WE27-51",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE27-52": {
     "name": "互いを想う気持ち",
@@ -969,7 +1020,8 @@
         "id": "LSS/WE27-52",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-53": {
     "name": "MIRAI TICKET",
@@ -987,7 +1039,8 @@
         "id": "LSS/WE27-53",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE27-54": {
     "name": "未熟DREAMER",
@@ -1005,6 +1058,7 @@
         "id": "LSS/WE27-54",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

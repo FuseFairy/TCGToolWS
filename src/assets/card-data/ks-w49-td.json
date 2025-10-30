@@ -15,7 +15,8 @@
         "id": "KS/W49-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W49-T02": {
     "name": "“両親の名前”めぐみん",
@@ -37,7 +38,8 @@
         "id": "KS/W49-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W49-T03": {
     "name": "“爆裂魔法の誇り”めぐみん",
@@ -55,7 +57,8 @@
         "id": "KS/W49-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W49-T04": {
     "name": "“断る理由”めぐみん",
@@ -73,7 +76,8 @@
         "id": "KS/W49-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W49-T05": {
     "name": "“爆裂魔法準備”めぐみん",
@@ -95,7 +99,8 @@
         "id": "KS/W49-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W49-T06": {
     "name": "“紅魔族の少女”めぐみん",
@@ -113,7 +118,8 @@
         "id": "KS/W49-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W49-T07": {
     "name": "“究極の攻撃魔法”めぐみん",
@@ -131,7 +137,8 @@
         "id": "KS/W49-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W49-T08": {
     "name": "“疎まれし禁断の力”めぐみん",
@@ -149,7 +156,8 @@
         "id": "KS/W49-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W49-T09": {
     "name": "我が名はめぐみん",
@@ -167,7 +175,8 @@
         "id": "KS/W49-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W49-T10": {
     "name": "エクスプロージョン",
@@ -185,7 +194,8 @@
         "id": "KS/W49-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KS/W49-T11": {
     "name": "討伐クエスト開始！",
@@ -203,7 +213,8 @@
         "id": "KS/W49-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W49-T12": {
     "name": "“仲間急募！”アクア",
@@ -221,7 +232,8 @@
         "id": "KS/W49-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W49-T13": {
     "name": "“こういった世界でのお約束”アクア",
@@ -239,7 +251,8 @@
         "id": "KS/W49-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W49-T14": {
     "name": "“お調子者で能天気”アクア",
@@ -257,7 +270,8 @@
         "id": "KS/W49-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W49-T15": {
     "name": "“強制連行”アクア",
@@ -275,7 +289,8 @@
         "id": "KS/W49-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W49-T16": {
     "name": "“天国は素敵な所？”アクア",
@@ -293,7 +308,8 @@
         "id": "KS/W49-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W49-T17": {
     "name": "“女神の誇り”アクア",
@@ -315,7 +331,8 @@
         "id": "KS/W49-T17S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W49-T18": {
     "name": "“水を司る女神”アクア",
@@ -341,7 +358,8 @@
         "id": "KS/W49-T18SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W49-T19": {
     "name": "エリス教徒の同情",
@@ -359,7 +377,8 @@
         "id": "KS/W49-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W49-T20": {
     "name": "異世界転移の特典",
@@ -377,6 +396,7 @@
         "id": "KS/W49-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

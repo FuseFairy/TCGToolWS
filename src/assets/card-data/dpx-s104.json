@@ -19,7 +19,8 @@
         "id": "Dpx/S104-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dpx/S104-031": {
     "name": "バズ・ライトイヤー",
@@ -41,7 +42,8 @@
         "id": "Dpx/S104-031SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dpx/S104-066": {
     "name": "プリンセス メリダ",
@@ -63,7 +65,8 @@
         "id": "Dpx/S104-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dpx/S104-068": {
     "name": "ティーンエイジャー メイ",
@@ -85,7 +88,8 @@
         "id": "Dpx/S104-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dpx/S104-094": {
     "name": "がんばり屋の男の子 ニモ",
@@ -107,7 +111,8 @@
         "id": "Dpx/S104-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dpx/S104-095": {
     "name": "力を合わせて サリー＆マイク＆ブー",
@@ -129,7 +134,8 @@
         "id": "Dpx/S104-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dpx/S104-099": {
     "name": "ゆかいなモンスターたち",
@@ -151,6 +157,7 @@
         "id": "Dpx/S104-099HND",
         "rarity": "HND"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -19,7 +19,8 @@
         "id": "CTB/W118-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CTB/W118-P02": {
     "name": "天才キーパー 若林源三",
@@ -37,6 +38,7 @@
         "id": "CTB/W118-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

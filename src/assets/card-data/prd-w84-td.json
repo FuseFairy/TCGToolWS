@@ -19,7 +19,8 @@
         "id": "PRD/W84-T01SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W84-T02": {
     "name": "団欒の夕食 ペコリーヌ",
@@ -37,7 +38,8 @@
         "id": "PRD/W84-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W84-T03": {
     "name": "森での遭遇 コッコロ",
@@ -55,7 +57,8 @@
         "id": "PRD/W84-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W84-T04": {
     "name": "ギルドの勧誘 コッコロ",
@@ -73,7 +76,8 @@
         "id": "PRD/W84-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W84-T05": {
     "name": "ギルド結成！ ペコリーヌ",
@@ -99,7 +103,8 @@
         "id": "PRD/W84-T05SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W84-T06": {
     "name": "アメス様からの託宣 コッコロ",
@@ -117,7 +122,8 @@
         "id": "PRD/W84-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W84-T07": {
     "name": "COOKING START ペコリーヌ",
@@ -135,7 +141,8 @@
         "id": "PRD/W84-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W84-T08": {
     "name": "初めての採取クエスト コッコロ",
@@ -157,7 +164,8 @@
         "id": "PRD/W84-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W84-T09": {
     "name": "お腹ペコペコ ペコリーヌ",
@@ -175,7 +183,8 @@
         "id": "PRD/W84-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W84-T10": {
     "name": "美食の探求 ペコリーヌ",
@@ -197,7 +206,8 @@
         "id": "PRD/W84-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W84-T11": {
     "name": "その名も、美食殿！",
@@ -219,7 +229,8 @@
         "id": "PRD/W84-T11S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W84-T12": {
     "name": "目覚め",
@@ -237,7 +248,8 @@
         "id": "PRD/W84-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PRD/W84-T13": {
     "name": "ギルド結成！ ユウキ",
@@ -255,7 +267,8 @@
         "id": "PRD/W84-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W84-T14": {
     "name": "裏メニュー キャル",
@@ -273,7 +286,8 @@
         "id": "PRD/W84-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W84-T15": {
     "name": "ごはんの誘い キャル",
@@ -295,7 +309,8 @@
         "id": "PRD/W84-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W84-T16": {
     "name": "呆れと疑問 キャル",
@@ -313,7 +328,8 @@
         "id": "PRD/W84-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W84-T17": {
     "name": "団欒の夕食 キャル",
@@ -331,7 +347,8 @@
         "id": "PRD/W84-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W84-T18": {
     "name": "ギルド結成！ キャル",
@@ -353,7 +370,8 @@
         "id": "PRD/W84-T18SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W84-T19": {
     "name": "動き出した物語",
@@ -371,7 +389,8 @@
         "id": "PRD/W84-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W84-T20": {
     "name": "プリンセスナイトの力",
@@ -389,6 +408,7 @@
         "id": "PRD/W84-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

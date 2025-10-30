@@ -19,7 +19,8 @@
         "id": "KLK/SP03-01S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/SP03-02": {
     "name": "“人衣一体”鮮血",
@@ -41,7 +42,8 @@
         "id": "KLK/SP03-02S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/SP03-03": {
     "name": "片太刀鋏武滾流猛怒 流子",
@@ -63,7 +65,8 @@
         "id": "KLK/SP03-03S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/SP03-04": {
     "name": "“暴走”流子",
@@ -85,7 +88,8 @@
         "id": "KLK/SP03-04S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/SP03-05": {
     "name": "“鮮血更衣”流子",
@@ -107,7 +111,8 @@
         "id": "KLK/SP03-05S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/SP03-06": {
     "name": "“神衣純潔”皐月",
@@ -129,7 +134,8 @@
         "id": "KLK/SP03-06S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/SP03-07": {
     "name": "人類の生存のために 皐月",
@@ -151,7 +157,8 @@
         "id": "KLK/SP03-07S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/SP03-08": {
     "name": "迷いなき志 皐月",
@@ -173,6 +180,7 @@
         "id": "KLK/SP03-08S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

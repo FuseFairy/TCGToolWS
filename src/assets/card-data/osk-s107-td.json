@@ -19,7 +19,8 @@
         "id": "OSK/S107-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-T02": {
     "name": "ヲタ芸 ルビー",
@@ -41,7 +42,8 @@
         "id": "OSK/S107-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-T03": {
     "name": "苺プロ社長 斉藤壱護",
@@ -63,7 +65,8 @@
         "id": "OSK/S107-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-T04": {
     "name": "陽東高校芸能科 ルビー",
@@ -85,7 +88,8 @@
         "id": "OSK/S107-T04SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-T05": {
     "name": "アイドルの片鱗 ルビー",
@@ -107,7 +111,8 @@
         "id": "OSK/S107-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-T06": {
     "name": "父親との繋がり アイ",
@@ -129,7 +134,8 @@
         "id": "OSK/S107-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-T07": {
     "name": "嘘は愛 アイ",
@@ -151,7 +157,8 @@
         "id": "OSK/S107-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-T08": {
     "name": "自然な笑顔 アイ",
@@ -173,7 +180,8 @@
         "id": "OSK/S107-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-T09": {
     "name": "一緒に練習 ルビー&アイ",
@@ -195,7 +203,8 @@
         "id": "OSK/S107-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-T10": {
     "name": "絶対的センター アイ",
@@ -217,7 +226,8 @@
         "id": "OSK/S107-T10S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-T11": {
     "name": "憧れ続けた光",
@@ -239,7 +249,8 @@
         "id": "OSK/S107-T11OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-T12": {
     "name": "アイドル",
@@ -261,7 +272,8 @@
         "id": "OSK/S107-T12OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-T13": {
     "name": "気味の悪い子供 アクア",
@@ -283,7 +295,8 @@
         "id": "OSK/S107-T13R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-T14": {
     "name": "天才子役 有馬かな",
@@ -305,7 +318,8 @@
         "id": "OSK/S107-T14R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-T15": {
     "name": "復讐の炎 アクア",
@@ -327,7 +341,8 @@
         "id": "OSK/S107-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-T16": {
     "name": "ヲタ芸 アクア",
@@ -349,7 +364,8 @@
         "id": "OSK/S107-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-T17": {
     "name": "ゴロー&さりな",
@@ -371,7 +387,8 @@
         "id": "OSK/S107-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-T18": {
     "name": "陽東高校一般科 アクア",
@@ -393,7 +410,8 @@
         "id": "OSK/S107-T18SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S107-T19": {
     "name": "母から子へ",
@@ -415,7 +433,8 @@
         "id": "OSK/S107-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S107-T20": {
     "name": "夢のような日々",
@@ -437,6 +456,7 @@
         "id": "OSK/S107-T20OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

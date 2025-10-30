@@ -19,7 +19,8 @@
         "id": "SW/SE47-P01PIR",
         "rarity": "PIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE47-P02": {
     "name": "“熟練の操作技術”マンダロリアン",
@@ -41,7 +42,8 @@
         "id": "SW/SE47-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE47-P03": {
     "name": "“食べざかり”グローグー",
@@ -59,6 +61,7 @@
         "id": "SW/SE47-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

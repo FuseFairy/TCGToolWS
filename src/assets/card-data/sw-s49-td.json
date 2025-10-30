@@ -15,7 +15,8 @@
         "id": "SW/S49-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-T02": {
     "name": "“英雄”ハン・ソロ",
@@ -33,7 +34,8 @@
         "id": "SW/S49-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-T03": {
     "name": "“捕らわれのパイロット”ポー",
@@ -51,7 +53,8 @@
         "id": "SW/S49-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-T04": {
     "name": "“レジスタンスの来襲”ポー",
@@ -69,7 +72,8 @@
         "id": "SW/S49-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-T05": {
     "name": "“執拗な追跡”フィン",
@@ -87,7 +91,8 @@
         "id": "SW/S49-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-T06": {
     "name": "“新たなる決意を胸に”ハン・ソロ",
@@ -105,7 +110,8 @@
         "id": "SW/S49-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-T07": {
     "name": "“新たなる決意を胸に”チューバッカ",
@@ -123,7 +129,8 @@
         "id": "SW/S49-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-T08": {
     "name": "森の中の死闘",
@@ -141,7 +148,8 @@
         "id": "SW/S49-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-T09": {
     "name": "“冒険のはじまり”レイ",
@@ -163,7 +171,8 @@
         "id": "SW/S49-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-T10": {
     "name": "ロア・サン・テッカ",
@@ -181,7 +190,8 @@
         "id": "SW/S49-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-T11": {
     "name": "“ジャクーの地へ”BB-8",
@@ -199,7 +209,8 @@
         "id": "SW/S49-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-T12": {
     "name": "“再会”C-3PO",
@@ -217,7 +228,8 @@
         "id": "SW/S49-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-T13": {
     "name": "“長い眠り”R2-D2",
@@ -239,7 +251,8 @@
         "id": "SW/S49-T13R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-T14": {
     "name": "“ささやかな食事の為に”レイ",
@@ -261,7 +274,8 @@
         "id": "SW/S49-T14re",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-T15": {
     "name": "“廃品回収の日々”レイ",
@@ -279,7 +293,8 @@
         "id": "SW/S49-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-T16": {
     "name": "“守るべき存在”レイ",
@@ -301,7 +316,8 @@
         "id": "SW/S49-T16S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-T17": {
     "name": "BBユニット",
@@ -319,7 +335,8 @@
         "id": "SW/S49-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-T18": {
     "name": "ジャクーからの脱出",
@@ -341,7 +358,8 @@
         "id": "SW/S49-T18re",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SW/S49-T19": {
     "name": "フォースを持つ者",
@@ -363,7 +381,8 @@
         "id": "SW/S49-T19SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SW/S49-T01_": {
     "name": "“残されたジャケット”フィン",
@@ -381,7 +400,8 @@
         "id": "SW/S49-T01_",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-T02_": {
     "name": "“英雄”ハン・ソロ",
@@ -399,7 +419,8 @@
         "id": "SW/S49-T02_",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-T03_": {
     "name": "“捕らわれのパイロット”ポー",
@@ -417,7 +438,8 @@
         "id": "SW/S49-T03_",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-T04_": {
     "name": "“レジスタンスの来襲”ポー",
@@ -435,7 +457,8 @@
         "id": "SW/S49-T04_",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-T05_": {
     "name": "“執拗な追跡”フィン",
@@ -453,7 +476,8 @@
         "id": "SW/S49-T05_",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-T06_": {
     "name": "“新たなる決意を胸に”ハン・ソロ",
@@ -471,7 +495,8 @@
         "id": "SW/S49-T06_",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-T07_": {
     "name": "“新たなる決意を胸に”チューバッカ",
@@ -489,7 +514,8 @@
         "id": "SW/S49-T07_",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-T08_": {
     "name": "森の中の死闘",
@@ -507,7 +533,8 @@
         "id": "SW/S49-T08_",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-T09_": {
     "name": "“冒険のはじまり”レイ",
@@ -525,7 +552,8 @@
         "id": "SW/S49-T09_",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-T10_": {
     "name": "ロア・サン・テッカ",
@@ -543,7 +571,8 @@
         "id": "SW/S49-T10_",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-T11_": {
     "name": "“ジャクーの地へ”BB-8",
@@ -561,7 +590,8 @@
         "id": "SW/S49-T11_",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-T12_": {
     "name": "“再会”C-3PO",
@@ -579,7 +609,8 @@
         "id": "SW/S49-T12_",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-T13_": {
     "name": "“長い眠り”R2-D2",
@@ -597,7 +628,8 @@
         "id": "SW/S49-T13_",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-T15_": {
     "name": "“廃品回収の日々”レイ",
@@ -615,7 +647,8 @@
         "id": "SW/S49-T15_",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-T16_": {
     "name": "“守るべき存在”レイ",
@@ -633,7 +666,8 @@
         "id": "SW/S49-T16_",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/S49-T17_": {
     "name": "BBユニット",
@@ -651,7 +685,8 @@
         "id": "SW/S49-T17_",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/S49-T19_": {
     "name": "フォースを持つ者",
@@ -669,6 +704,7 @@
         "id": "SW/S49-T19_",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

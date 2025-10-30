@@ -19,7 +19,8 @@
         "id": "TSK/S82-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-002": {
     "name": "“断頭鬼刃” シオン",
@@ -41,7 +42,8 @@
         "id": "TSK/S82-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-003": {
     "name": "受け取った姿 リムル",
@@ -63,7 +65,8 @@
         "id": "TSK/S82-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-004": {
     "name": "一件落着 リムル",
@@ -85,7 +88,8 @@
         "id": "TSK/S82-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-005": {
     "name": "私の物です！ シオン",
@@ -107,7 +111,8 @@
         "id": "TSK/S82-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-006": {
     "name": "長引く戦い リムル",
@@ -125,7 +130,8 @@
         "id": "TSK/S82-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-007": {
     "name": "剣鬼 ハクロウ",
@@ -143,7 +149,8 @@
         "id": "TSK/S82-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-008": {
     "name": "秘書兼護衛役 シオン",
@@ -161,7 +168,8 @@
         "id": "TSK/S82-008",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-009": {
     "name": "クールビューティ シオン",
@@ -183,7 +191,8 @@
         "id": "TSK/S82-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-010": {
     "name": "大太刀の使い手 シオン",
@@ -201,7 +210,8 @@
         "id": "TSK/S82-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-011": {
     "name": "“水氷大魔槍” エレン",
@@ -219,7 +229,8 @@
         "id": "TSK/S82-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-012": {
     "name": "一閃 ハクロウ",
@@ -237,7 +248,8 @@
         "id": "TSK/S82-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-013": {
     "name": "咎める リムル",
@@ -255,7 +267,8 @@
         "id": "TSK/S82-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-014": {
     "name": "勘違い リムル",
@@ -273,7 +286,8 @@
         "id": "TSK/S82-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-015": {
     "name": "華麗な剣さばき ハクロウ",
@@ -291,7 +305,8 @@
         "id": "TSK/S82-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-016": {
     "name": "3つのルール リムル",
@@ -309,7 +324,8 @@
         "id": "TSK/S82-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-017": {
     "name": "イタズラ好き ラミリス",
@@ -327,7 +343,8 @@
         "id": "TSK/S82-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-018": {
     "name": "命の危機 リムル",
@@ -345,7 +362,8 @@
         "id": "TSK/S82-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-019": {
     "name": "不穏な空気 シオン",
@@ -363,7 +381,8 @@
         "id": "TSK/S82-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-020": {
     "name": "晩飯前 ハクロウ",
@@ -381,7 +400,8 @@
         "id": "TSK/S82-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-021": {
     "name": "お約束？ シオン",
@@ -399,7 +419,8 @@
         "id": "TSK/S82-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-022": {
     "name": "できる女 シオン",
@@ -417,7 +438,8 @@
         "id": "TSK/S82-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-023": {
     "name": "夕日の中で ゲルド",
@@ -435,7 +457,8 @@
         "id": "TSK/S82-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-024": {
     "name": "初めての友達",
@@ -453,7 +476,8 @@
         "id": "TSK/S82-024",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-025": {
     "name": "スリープモード",
@@ -471,7 +495,8 @@
         "id": "TSK/S82-025",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-026": {
     "name": "断頭鬼刃",
@@ -493,7 +518,8 @@
         "id": "TSK/S82-026R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-027": {
     "name": "Nameless Story",
@@ -515,7 +541,8 @@
         "id": "TSK/S82-027R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-028": {
     "name": "頼れる存在",
@@ -533,7 +560,8 @@
         "id": "TSK/S82-028",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-029": {
     "name": "うまいのだぁ！ ミリム",
@@ -555,7 +583,8 @@
         "id": "TSK/S82-029SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-030": {
     "name": "流されるまま リムル",
@@ -577,7 +606,8 @@
         "id": "TSK/S82-030SSP+",
         "rarity": "SSP+"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-031": {
     "name": "喜色満面 シュナ",
@@ -599,7 +629,8 @@
         "id": "TSK/S82-031SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-032": {
     "name": "“竜星拡散爆” ミリム",
@@ -621,7 +652,8 @@
         "id": "TSK/S82-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-033": {
     "name": "瞑想中？ ミリム",
@@ -643,7 +675,8 @@
         "id": "TSK/S82-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-034": {
     "name": "“破壊の暴君” ミリム",
@@ -665,7 +698,8 @@
         "id": "TSK/S82-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-035": {
     "name": "精霊の棲家へ リムル",
@@ -687,7 +721,8 @@
         "id": "TSK/S82-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-036": {
     "name": "会議中 シュナ",
@@ -709,7 +744,8 @@
         "id": "TSK/S82-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-037": {
     "name": "可憐な美貌 シュナ",
@@ -731,7 +767,8 @@
         "id": "TSK/S82-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-038": {
     "name": "手厚い歓迎 リムル",
@@ -753,7 +790,8 @@
         "id": "TSK/S82-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-039": {
     "name": "任せて！ ミリム",
@@ -775,7 +813,8 @@
         "id": "TSK/S82-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-040": {
     "name": "聞こえないなぁ？ リムル",
@@ -797,7 +836,8 @@
         "id": "TSK/S82-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-041": {
     "name": "先陣を切るベニマル",
@@ -815,7 +855,8 @@
         "id": "TSK/S82-041",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-042": {
     "name": "ゴブリン村の戦い リムル",
@@ -833,7 +874,8 @@
         "id": "TSK/S82-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-043": {
     "name": "多彩な才能 シュナ",
@@ -851,7 +893,8 @@
         "id": "TSK/S82-043",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-044": {
     "name": "器用な食事 シズ",
@@ -869,7 +912,8 @@
         "id": "TSK/S82-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-045": {
     "name": "見守るシュナ",
@@ -887,7 +931,8 @@
         "id": "TSK/S82-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-046": {
     "name": "大人のたしなみ リムル",
@@ -905,7 +950,8 @@
         "id": "TSK/S82-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-047": {
     "name": "上機嫌 ベニマル",
@@ -923,7 +969,8 @@
         "id": "TSK/S82-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-048": {
     "name": "できる女 シュナ",
@@ -941,7 +988,8 @@
         "id": "TSK/S82-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-049": {
     "name": "念願の出番 ミリム",
@@ -959,7 +1007,8 @@
         "id": "TSK/S82-049",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-050": {
     "name": "祝勝会 ベニマル",
@@ -977,7 +1026,8 @@
         "id": "TSK/S82-050",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-051": {
     "name": "子供たちを挑発 リムル",
@@ -995,7 +1045,8 @@
         "id": "TSK/S82-051",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-052": {
     "name": "可愛くお願い ミリム",
@@ -1013,7 +1064,8 @@
         "id": "TSK/S82-052",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-053": {
     "name": "祝勝会 クロベエ",
@@ -1031,7 +1083,8 @@
         "id": "TSK/S82-053",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-054": {
     "name": "マブダチだろ？ リムル",
@@ -1049,7 +1102,8 @@
         "id": "TSK/S82-054",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-055": {
     "name": "作戦会議 シュナ",
@@ -1067,7 +1121,8 @@
         "id": "TSK/S82-055",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-056": {
     "name": "大勝利！ ミリム",
@@ -1085,7 +1140,8 @@
         "id": "TSK/S82-056",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-057": {
     "name": "大漁！ ミリム",
@@ -1103,7 +1159,8 @@
         "id": "TSK/S82-057",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-058": {
     "name": "大号令 ベニマル",
@@ -1121,7 +1178,8 @@
         "id": "TSK/S82-058",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-059": {
     "name": "その身に宿すものは シズ",
@@ -1139,7 +1197,8 @@
         "id": "TSK/S82-059",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-060": {
     "name": "マブダチだからな！ ミリム",
@@ -1157,7 +1216,8 @@
         "id": "TSK/S82-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-061": {
     "name": "憂い顔 シュナ",
@@ -1175,7 +1235,8 @@
         "id": "TSK/S82-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-062": {
     "name": "協定を結ぶリムル",
@@ -1193,7 +1254,8 @@
         "id": "TSK/S82-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-063": {
     "name": "竜星拡散爆",
@@ -1211,7 +1273,8 @@
         "id": "TSK/S82-063",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-064": {
     "name": "災厄、暴風大妖渦",
@@ -1229,7 +1292,8 @@
         "id": "TSK/S82-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-065": {
     "name": "歴史が動いた日",
@@ -1251,7 +1315,8 @@
         "id": "TSK/S82-065R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-066": {
     "name": "最近学んだ手加減",
@@ -1273,7 +1338,8 @@
         "id": "TSK/S82-066R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-067": {
     "name": "笑顔の頬ずり",
@@ -1291,7 +1357,8 @@
         "id": "TSK/S82-067",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "TSK/S82-068": {
     "name": "もっと戦いたい！",
@@ -1309,7 +1376,8 @@
         "id": "TSK/S82-068",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-069": {
     "name": "イフリートの使役者 シズ",
@@ -1331,7 +1399,8 @@
         "id": "TSK/S82-069SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-070": {
     "name": "凱旋 リムル",
@@ -1353,7 +1422,8 @@
         "id": "TSK/S82-070SSP+",
         "rarity": "SSP+"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-071": {
     "name": "果敢に立ち向かうシズ",
@@ -1375,7 +1445,8 @@
         "id": "TSK/S82-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-072": {
     "name": "湯上りリムル",
@@ -1397,7 +1468,8 @@
         "id": "TSK/S82-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-073": {
     "name": "模擬戦 クロエ",
@@ -1415,7 +1487,8 @@
         "id": "TSK/S82-073",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-074": {
     "name": "運命の人 シズ",
@@ -1437,7 +1510,8 @@
         "id": "TSK/S82-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-075": {
     "name": "“黒嵐星狼” ランガ",
@@ -1455,7 +1529,8 @@
         "id": "TSK/S82-075",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-076": {
     "name": "ずっとそばに シズ",
@@ -1477,7 +1552,8 @@
         "id": "TSK/S82-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-077": {
     "name": "闇に潜む影 ソウエイ",
@@ -1495,7 +1571,8 @@
         "id": "TSK/S82-077",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-078": {
     "name": "沈着冷静 ソウエイ",
@@ -1513,7 +1590,8 @@
         "id": "TSK/S82-078",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-079": {
     "name": "神妙な面持ち リムル",
@@ -1531,7 +1609,8 @@
         "id": "TSK/S82-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-080": {
     "name": "最後の一押し リムル",
@@ -1549,7 +1628,8 @@
         "id": "TSK/S82-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-081": {
     "name": "一時撤退 ゴブタ",
@@ -1567,7 +1647,8 @@
         "id": "TSK/S82-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-082": {
     "name": "ちょっと休憩 リムル",
@@ -1585,7 +1666,8 @@
         "id": "TSK/S82-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-083": {
     "name": "物語の真実 シズ",
@@ -1603,7 +1685,8 @@
         "id": "TSK/S82-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-084": {
     "name": "やる時はやる男 ゴブタ",
@@ -1621,7 +1704,8 @@
         "id": "TSK/S82-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-085": {
     "name": "活躍の機会 ランガ",
@@ -1639,7 +1723,8 @@
         "id": "TSK/S82-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-086": {
     "name": "生き残るため ソウエイ",
@@ -1657,7 +1742,8 @@
         "id": "TSK/S82-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-087": {
     "name": "ゴブタとのコンビネーション 嵐牙狼族",
@@ -1675,7 +1761,8 @@
         "id": "TSK/S82-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-088": {
     "name": "幸せな夢の中で シズ",
@@ -1693,7 +1780,8 @@
         "id": "TSK/S82-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-089": {
     "name": "復讐心 フォビオ",
@@ -1711,7 +1799,8 @@
         "id": "TSK/S82-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-090": {
     "name": "忠実な部下 ソーカ",
@@ -1729,7 +1818,8 @@
         "id": "TSK/S82-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-091": {
     "name": "祝勝会 ソウエイ",
@@ -1747,7 +1837,8 @@
         "id": "TSK/S82-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-092": {
     "name": "“獅子王” カリオン",
@@ -1765,7 +1856,8 @@
         "id": "TSK/S82-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-093": {
     "name": "的確な指示 ガビル",
@@ -1783,7 +1875,8 @@
         "id": "TSK/S82-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-094": {
     "name": "叡智の結晶",
@@ -1801,7 +1894,8 @@
         "id": "TSK/S82-094",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-095": {
     "name": "未来との邂逅",
@@ -1819,7 +1913,8 @@
         "id": "TSK/S82-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-096": {
     "name": "爆炎の支配者",
@@ -1841,7 +1936,8 @@
         "id": "TSK/S82-096R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-097": {
     "name": "悪いスライムじゃないよ！",
@@ -1863,7 +1959,8 @@
         "id": "TSK/S82-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S82-098": {
     "name": "忍ぶ者達",
@@ -1881,7 +1978,8 @@
         "id": "TSK/S82-098",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "TSK/S82-099": {
     "name": "コンビネーションはばっちり！",
@@ -1899,7 +1997,8 @@
         "id": "TSK/S82-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S82-100": {
     "name": "“豚頭帝”対策会議",
@@ -1917,6 +2016,7 @@
         "id": "TSK/S82-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

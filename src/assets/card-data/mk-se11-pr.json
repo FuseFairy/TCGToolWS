@@ -15,7 +15,8 @@
         "id": "MK/SE11-37",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-38": {
     "name": "“夏のハプニング”コーデリア",
@@ -33,7 +34,8 @@
         "id": "MK/SE11-38",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-39": {
     "name": "夢への一歩 シャロ",
@@ -51,7 +53,8 @@
         "id": "MK/SE11-39",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-40": {
     "name": "“第2幕”アンリエット＆ミルキィホームズ",
@@ -69,7 +72,8 @@
         "id": "MK/SE11-40",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-41": {
     "name": "いつでも前向き 三森すずこ",
@@ -87,7 +91,8 @@
         "id": "MK/SE11-41",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-42": {
     "name": "豆まきシャロ",
@@ -105,7 +110,8 @@
         "id": "MK/SE11-42",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE11-43": {
     "name": "トラブルメーカー ミルキィホームズ",
@@ -123,7 +129,8 @@
         "id": "MK/SE11-43",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-44": {
     "name": "探偵見習 シャロ",
@@ -141,7 +148,8 @@
         "id": "MK/SE11-44",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-45": {
     "name": "探偵見習 エリー",
@@ -159,7 +167,8 @@
         "id": "MK/SE11-45",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-46": {
     "name": "探偵見習 ネロ",
@@ -177,7 +186,8 @@
         "id": "MK/SE11-46",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE11-47": {
     "name": "探偵見習 コーデリア",
@@ -195,7 +205,8 @@
         "id": "MK/SE11-47",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-48": {
     "name": "ヨコハマを去ったアルセーヌ",
@@ -213,7 +224,8 @@
         "id": "MK/SE11-48",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE11-49": {
     "name": "目指せ学院再建 ミルキィホームズ",
@@ -231,7 +243,8 @@
         "id": "MK/SE11-49",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-50": {
     "name": "探偵チーム ミルキィホームズ",
@@ -249,7 +262,8 @@
         "id": "MK/SE11-50",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-51": {
     "name": "徳井青空",
@@ -267,7 +281,8 @@
         "id": "MK/SE11-51",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-52": {
     "name": "佐々木未来",
@@ -285,7 +300,8 @@
         "id": "MK/SE11-52",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-53": {
     "name": "三森すずこ",
@@ -303,7 +319,8 @@
         "id": "MK/SE11-53",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-54": {
     "name": "橘田いずみ",
@@ -321,6 +338,7 @@
         "id": "MK/SE11-54",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "SY/WE09-28",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/WE09-29": {
     "name": "唯我独尊 ハルヒ",
@@ -33,7 +34,8 @@
         "id": "SY/WE09-29",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/WE09-30": {
     "name": "夏祭りの夜 ハルヒ",
@@ -51,7 +53,8 @@
         "id": "SY/WE09-30",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/WE09-31": {
     "name": "負けず嫌い ハルヒ",
@@ -69,7 +72,8 @@
         "id": "SY/WE09-31",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/WE09-32": {
     "name": "体育祭のハルヒ",
@@ -87,6 +91,7 @@
         "id": "SY/WE09-32",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

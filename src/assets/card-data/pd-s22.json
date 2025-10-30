@@ -15,7 +15,8 @@
         "id": "PD/S22-102X",
         "rarity": "XR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S22-105": {
     "name": "初音ミク“オリジナル”",
@@ -33,7 +34,8 @@
         "id": "PD/S22-105S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S22-106": {
     "name": "ブラック★ロックシューター",
@@ -51,7 +53,8 @@
         "id": "PD/S22-106R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PD/S22-107": {
     "name": "ODDS＆ENDS",
@@ -69,6 +72,7 @@
         "id": "PD/S22-107R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

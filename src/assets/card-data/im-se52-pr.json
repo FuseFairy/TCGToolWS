@@ -15,7 +15,8 @@
         "id": "IM/SE52-62BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE52-63": {
     "name": "ザ☆ワイルドストロベリー 如月千早",
@@ -33,7 +34,8 @@
         "id": "IM/SE52-63BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE52-64": {
     "name": "ザ☆ワイルドストロベリー 星井美希",
@@ -51,7 +53,8 @@
         "id": "IM/SE52-64BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SE52-65": {
     "name": "ザ☆ワイルドストロベリー 秋月律子",
@@ -69,7 +72,8 @@
         "id": "IM/SE52-65BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE52-66": {
     "name": "ザ☆ワイルドストロベリー 我那覇 響",
@@ -87,7 +91,8 @@
         "id": "IM/SE52-66BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE52-67": {
     "name": "ザ☆ワイルドストロベリー 菊地 真",
@@ -105,7 +110,8 @@
         "id": "IM/SE52-67BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SE52-68": {
     "name": "ザ☆ワイルドストロベリー 四条貴音",
@@ -123,7 +129,8 @@
         "id": "IM/SE52-68BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE52-69": {
     "name": "ザ☆ワイルドストロベリー 高槻やよい",
@@ -141,7 +148,8 @@
         "id": "IM/SE52-69BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE52-70": {
     "name": "ザ☆ワイルドストロベリー 萩原雪歩",
@@ -159,7 +167,8 @@
         "id": "IM/SE52-70BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE52-71": {
     "name": "ザ☆ワイルドストロベリー 双海亜美",
@@ -177,7 +186,8 @@
         "id": "IM/SE52-71BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SE52-72": {
     "name": "ザ☆ワイルドストロベリー 双海真美",
@@ -195,7 +205,8 @@
         "id": "IM/SE52-72BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE52-73": {
     "name": "ザ☆ワイルドストロベリー 三浦あずさ",
@@ -213,7 +224,8 @@
         "id": "IM/SE52-73BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SE52-74": {
     "name": "ザ☆ワイルドストロベリー 水瀬伊織",
@@ -231,6 +243,7 @@
         "id": "IM/SE52-74BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

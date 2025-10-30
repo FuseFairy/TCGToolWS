@@ -15,7 +15,8 @@
         "id": "KI/S44-T01SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-T11": {
     "name": "“独善ウザ”千鳥",
@@ -33,7 +34,8 @@
         "id": "KI/S44-T11SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-T16": {
     "name": "計画の先導者 園崎",
@@ -51,7 +53,8 @@
         "id": "KI/S44-T16SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-T18": {
     "name": "“愚鈍”勝平",
@@ -73,7 +76,8 @@
         "id": "KI/S44-T18SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-001": {
     "name": "胸の痛み 天河",
@@ -95,7 +99,8 @@
         "id": "KI/S44-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-002": {
     "name": "“不思議メンヘラ”仁子",
@@ -117,7 +122,8 @@
         "id": "KI/S44-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-003": {
     "name": "迷いに喝 天河",
@@ -135,7 +141,8 @@
         "id": "KI/S44-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-004": {
     "name": "反省できる子 仁子",
@@ -157,7 +164,8 @@
         "id": "KI/S44-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-005": {
     "name": "クラスの珍獣枠 仁子",
@@ -179,7 +187,8 @@
         "id": "KI/S44-005R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-006": {
     "name": "不安から確信へ 仁子",
@@ -197,7 +206,8 @@
         "id": "KI/S44-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-007": {
     "name": "真っすぐな性格 天河",
@@ -219,7 +229,8 @@
         "id": "KI/S44-007R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-008": {
     "name": "打ちひしがれた仁子",
@@ -237,7 +248,8 @@
         "id": "KI/S44-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-009": {
     "name": "黒いゴモリン",
@@ -255,7 +267,8 @@
         "id": "KI/S44-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-010": {
     "name": "合宿の夜 天河",
@@ -273,7 +286,8 @@
         "id": "KI/S44-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-011": {
     "name": "わりとカオスな仁子",
@@ -291,7 +305,8 @@
         "id": "KI/S44-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-012": {
     "name": "“狂犬”天河",
@@ -309,7 +324,8 @@
         "id": "KI/S44-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-013": {
     "name": "当惑する天河",
@@ -327,7 +343,8 @@
         "id": "KI/S44-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-014": {
     "name": "ぎこちない返事 天河",
@@ -345,7 +362,8 @@
         "id": "KI/S44-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-015": {
     "name": "ゴモリン",
@@ -363,7 +381,8 @@
         "id": "KI/S44-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-016": {
     "name": "嬉しい答え 仁子",
@@ -381,7 +400,8 @@
         "id": "KI/S44-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-017": {
     "name": "パジャマの仁子",
@@ -399,7 +419,8 @@
         "id": "KI/S44-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-018": {
     "name": "懲りない男 吉沢",
@@ -417,7 +438,8 @@
         "id": "KI/S44-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-019": {
     "name": "子分格 釜石",
@@ -435,7 +457,8 @@
         "id": "KI/S44-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-020": {
     "name": "接点のない4人 由多＆天河＆勝平＆日染",
@@ -453,7 +476,8 @@
         "id": "KI/S44-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-021": {
     "name": "一家言あり 仁子",
@@ -471,7 +495,8 @@
         "id": "KI/S44-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-022": {
     "name": "用心棒 天河",
@@ -489,7 +514,8 @@
         "id": "KI/S44-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-023": {
     "name": "ほのかちゃんあそぼ",
@@ -507,7 +533,8 @@
         "id": "KI/S44-023",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-024": {
     "name": "好きだとか好かれるとか",
@@ -525,7 +552,8 @@
         "id": "KI/S44-024",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-025": {
     "name": "友達だから",
@@ -543,7 +571,8 @@
         "id": "KI/S44-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-026": {
     "name": "Best Friends",
@@ -561,7 +590,8 @@
         "id": "KI/S44-026",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KI/S44-027": {
     "name": "“狡猾リア”由多",
@@ -583,7 +613,8 @@
         "id": "KI/S44-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-028": {
     "name": "“上から選民”穂乃香",
@@ -605,7 +636,8 @@
         "id": "KI/S44-028SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-029": {
     "name": "“友達”穂乃香",
@@ -627,7 +659,8 @@
         "id": "KI/S44-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-030": {
     "name": "寡黙な文系少女 穂乃香",
@@ -649,7 +682,8 @@
         "id": "KI/S44-030R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-031": {
     "name": "由多＆穂乃香",
@@ -667,7 +701,8 @@
         "id": "KI/S44-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-032": {
     "name": "勉強中 由多",
@@ -689,7 +724,8 @@
         "id": "KI/S44-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-033": {
     "name": "容姿のコンプレックス 由多",
@@ -711,7 +747,8 @@
         "id": "KI/S44-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-034": {
     "name": "気障な言動 由多",
@@ -729,7 +766,8 @@
         "id": "KI/S44-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-035": {
     "name": "“シャルル・ド・マッキング”瑠々",
@@ -747,7 +785,8 @@
         "id": "KI/S44-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-036": {
     "name": "独りを好む穂乃香",
@@ -765,7 +804,8 @@
         "id": "KI/S44-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-037": {
     "name": "焦るイケメン 由多",
@@ -783,7 +823,8 @@
         "id": "KI/S44-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-038": {
     "name": "照れる穂乃香",
@@ -801,7 +842,8 @@
         "id": "KI/S44-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-039": {
     "name": "舌戦 由多",
@@ -819,7 +861,8 @@
         "id": "KI/S44-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-040": {
     "name": "性格キツめ 穂乃香",
@@ -837,7 +880,8 @@
         "id": "KI/S44-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-041": {
     "name": "“シャルル・ド・マッキング”牧",
@@ -855,7 +899,8 @@
         "id": "KI/S44-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-042": {
     "name": "瑠々の幻影 穂乃香",
@@ -873,7 +918,8 @@
         "id": "KI/S44-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-043": {
     "name": "キラキラな由多",
@@ -891,7 +937,8 @@
         "id": "KI/S44-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-044": {
     "name": "翻弄される由多",
@@ -909,7 +956,8 @@
         "id": "KI/S44-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-045": {
     "name": "繋がるキズナ 穂乃香",
@@ -927,7 +975,8 @@
         "id": "KI/S44-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-046": {
     "name": "防虫クレープ",
@@ -945,7 +994,8 @@
         "id": "KI/S44-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-047": {
     "name": "持て余す夏",
@@ -963,7 +1013,8 @@
         "id": "KI/S44-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-048": {
     "name": "禁忌の過去",
@@ -981,7 +1032,8 @@
         "id": "KI/S44-048",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-049": {
     "name": "キズナイーバーでいいじゃない",
@@ -999,7 +1051,8 @@
         "id": "KI/S44-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KI/S44-050": {
     "name": "磯臭いやつら",
@@ -1017,7 +1070,8 @@
         "id": "KI/S44-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KI/S44-051": {
     "name": "“一人にはしない”勝平",
@@ -1039,7 +1093,8 @@
         "id": "KI/S44-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-052": {
     "name": "自信喪失 千鳥",
@@ -1061,7 +1116,8 @@
         "id": "KI/S44-052R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-053": {
     "name": "溢れる思い出 しおり＆あすか",
@@ -1079,7 +1135,8 @@
         "id": "KI/S44-053",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-054": {
     "name": "一方向の好意 千鳥",
@@ -1101,7 +1158,8 @@
         "id": "KI/S44-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-055": {
     "name": "無気力で無頓着 勝平",
@@ -1123,7 +1181,8 @@
         "id": "KI/S44-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-056": {
     "name": "沈痛な怒り 千鳥",
@@ -1145,7 +1204,8 @@
         "id": "KI/S44-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-057": {
     "name": "明かされる過去 勝平",
@@ -1167,7 +1227,8 @@
         "id": "KI/S44-057R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-058": {
     "name": "幼馴染のお隣さん 千鳥",
@@ -1185,7 +1246,8 @@
         "id": "KI/S44-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-059": {
     "name": "キズナの考察 勝平",
@@ -1203,7 +1265,8 @@
         "id": "KI/S44-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-060": {
     "name": "告白のあと 千鳥",
@@ -1221,7 +1284,8 @@
         "id": "KI/S44-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-061": {
     "name": "園崎との対峙 千鳥",
@@ -1239,7 +1303,8 @@
         "id": "KI/S44-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-062": {
     "name": "ふられた気持ち 千鳥",
@@ -1257,7 +1322,8 @@
         "id": "KI/S44-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-063": {
     "name": "積極的な勝平",
@@ -1275,7 +1341,8 @@
         "id": "KI/S44-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-064": {
     "name": "かわいい一面 千鳥",
@@ -1293,7 +1360,8 @@
         "id": "KI/S44-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-065": {
     "name": "無痛の体 勝平",
@@ -1311,7 +1379,8 @@
         "id": "KI/S44-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-066": {
     "name": "世話焼きな千鳥",
@@ -1329,7 +1398,8 @@
         "id": "KI/S44-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-067": {
     "name": "幼き日の勝平",
@@ -1347,7 +1417,8 @@
         "id": "KI/S44-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-068": {
     "name": "洲籠市長",
@@ -1365,7 +1436,8 @@
         "id": "KI/S44-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-069": {
     "name": "答え合わせ 勝平",
@@ -1383,7 +1455,8 @@
         "id": "KI/S44-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-070": {
     "name": "“忘却ぶりっ子”勝平",
@@ -1401,7 +1474,8 @@
         "id": "KI/S44-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-071": {
     "name": "気遣いへのお礼",
@@ -1419,7 +1493,8 @@
         "id": "KI/S44-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-072": {
     "name": "キズのキズナ",
@@ -1437,7 +1512,8 @@
         "id": "KI/S44-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-073": {
     "name": "取り戻した痛み",
@@ -1455,7 +1531,8 @@
         "id": "KI/S44-073",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-074": {
     "name": "蘇る記憶",
@@ -1473,7 +1550,8 @@
         "id": "KI/S44-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KI/S44-075": {
     "name": "好きな人の好きな人へ",
@@ -1491,7 +1569,8 @@
         "id": "KI/S44-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KI/S44-076": {
     "name": "“インモラル”日染",
@@ -1513,7 +1592,8 @@
         "id": "KI/S44-076SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-077": {
     "name": "“分かち合うこれから”園崎",
@@ -1535,7 +1615,8 @@
         "id": "KI/S44-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-078": {
     "name": "常にクール 園崎",
@@ -1557,7 +1638,8 @@
         "id": "KI/S44-078R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-079": {
     "name": "絆の会のアイドル 園崎",
@@ -1575,7 +1657,8 @@
         "id": "KI/S44-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-080": {
     "name": "寂しさを抱えた少女 園崎",
@@ -1597,7 +1680,8 @@
         "id": "KI/S44-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-081": {
     "name": "危険な美貌 日染",
@@ -1619,7 +1703,8 @@
         "id": "KI/S44-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-082": {
     "name": "“不満の麩まんじゅう”園崎",
@@ -1637,7 +1722,8 @@
         "id": "KI/S44-082",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-083": {
     "name": "七変化 園崎",
@@ -1655,7 +1741,8 @@
         "id": "KI/S44-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-084": {
     "name": "痛みへのこだわり 日染",
@@ -1673,7 +1760,8 @@
         "id": "KI/S44-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-085": {
     "name": "スクールカウンセラー“うるしー”",
@@ -1691,7 +1779,8 @@
         "id": "KI/S44-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-086": {
     "name": "見守る日染",
@@ -1709,7 +1798,8 @@
         "id": "KI/S44-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-087": {
     "name": "全てを知る者 園崎",
@@ -1727,7 +1817,8 @@
         "id": "KI/S44-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-088": {
     "name": "“それ系のアレ”日染",
@@ -1745,7 +1836,8 @@
         "id": "KI/S44-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-089": {
     "name": "2年A組担任“やーまだ”",
@@ -1763,7 +1855,8 @@
         "id": "KI/S44-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-090": {
     "name": "順応するタイプ 日染",
@@ -1781,7 +1874,8 @@
         "id": "KI/S44-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-091": {
     "name": "人気者計画 日染",
@@ -1799,7 +1893,8 @@
         "id": "KI/S44-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-092": {
     "name": "現場監督 園崎",
@@ -1817,7 +1912,8 @@
         "id": "KI/S44-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-093": {
     "name": "体育館のラブシーン 園崎",
@@ -1835,7 +1931,8 @@
         "id": "KI/S44-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-094": {
     "name": "養殖と天然 由多＆日染",
@@ -1853,7 +1950,8 @@
         "id": "KI/S44-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-095": {
     "name": "傷を見つめる日染",
@@ -1871,7 +1969,8 @@
         "id": "KI/S44-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-096": {
     "name": "危険な薪割り",
@@ -1889,7 +1988,8 @@
         "id": "KI/S44-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-097": {
     "name": "のりちゃんストラップ",
@@ -1907,7 +2007,8 @@
         "id": "KI/S44-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-098": {
     "name": "開放される痛み",
@@ -1925,7 +2026,8 @@
         "id": "KI/S44-098",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-099": {
     "name": "幸せな日々",
@@ -1943,7 +2045,8 @@
         "id": "KI/S44-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-100": {
     "name": "ドMの歓悦",
@@ -1961,6 +2064,7 @@
         "id": "KI/S44-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

@@ -15,7 +15,8 @@
         "id": "HLL/WE28-51",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-P01": {
     "name": "あまくち リオン",
@@ -33,7 +34,8 @@
         "id": "HLL/WE28-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-P02": {
     "name": "夢を叶えるひな鳥 リオン",
@@ -51,7 +53,8 @@
         "id": "HLL/WE28-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-P03": {
     "name": "羽ばたく少女 リオン",
@@ -69,7 +72,8 @@
         "id": "HLL/WE28-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE28-P04": {
     "name": "夢を叶えるひな鳥 ニーナ",
@@ -87,7 +91,8 @@
         "id": "HLL/WE28-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-P05": {
     "name": "羽ばたく少女 ニーナ",
@@ -105,7 +110,8 @@
         "id": "HLL/WE28-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-P06": {
     "name": "繋がる気持ち ニーナ＆リオン",
@@ -123,7 +129,8 @@
         "id": "HLL/WE28-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE28-P07": {
     "name": "二人で一緒に リオン＆ニーナ",
@@ -141,6 +148,7 @@
         "id": "HLL/WE28-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

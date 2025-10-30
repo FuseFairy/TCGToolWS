@@ -19,7 +19,8 @@
         "id": "TF/S32-T10SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-T14": {
     "name": "“バグズ２号の乗組員”ティン",
@@ -37,7 +38,8 @@
         "id": "TF/S32-T14R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-001": {
     "name": "“幹部乗組員”ジョセフ",
@@ -59,7 +61,8 @@
         "id": "TF/S32-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-002": {
     "name": "“幹部乗組員”アドルフ",
@@ -81,7 +84,8 @@
         "id": "TF/S32-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-003": {
     "name": "“五班の雷電”アドルフ",
@@ -99,7 +103,8 @@
         "id": "TF/S32-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-004": {
     "name": "“アネックス1号の乗組員”エヴァ",
@@ -121,7 +126,8 @@
         "id": "TF/S32-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-005": {
     "name": "“デンキウナギ”アドルフ",
@@ -139,7 +145,8 @@
         "id": "TF/S32-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-006": {
     "name": "“アネックス1号の乗組員”アドルフ",
@@ -161,7 +168,8 @@
         "id": "TF/S32-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-007": {
     "name": "“幹部乗組員”アシモフ",
@@ -179,7 +187,8 @@
         "id": "TF/S32-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-008": {
     "name": "“穏やかな微笑”エヴァ",
@@ -197,7 +206,8 @@
         "id": "TF/S32-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-009": {
     "name": "“アネックス1号の乗組員”ジョセフ",
@@ -215,7 +225,8 @@
         "id": "TF/S32-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-010": {
     "name": "“アネックス1号の乗組員”アレクサンドル",
@@ -233,7 +244,8 @@
         "id": "TF/S32-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-011": {
     "name": "“アネックス1号の乗組員”イワン",
@@ -251,7 +263,8 @@
         "id": "TF/S32-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-012": {
     "name": "“幹部乗組員”劉 翊武",
@@ -269,7 +282,8 @@
         "id": "TF/S32-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-013": {
     "name": "“アネックス1号の乗組員”ニーナ",
@@ -287,7 +301,8 @@
         "id": "TF/S32-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-014": {
     "name": "“アネックス1号の乗組員”エレナ",
@@ -305,7 +320,8 @@
         "id": "TF/S32-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-015": {
     "name": "“アネックス1号の乗組員”イザベラ",
@@ -323,7 +339,8 @@
         "id": "TF/S32-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-016": {
     "name": "“心優しき少女”エヴァ",
@@ -341,7 +358,8 @@
         "id": "TF/S32-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-017": {
     "name": "“出発”エヴァ",
@@ -359,7 +377,8 @@
         "id": "TF/S32-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-018": {
     "name": "“冷淡な横顔”アドルフ",
@@ -377,7 +396,8 @@
         "id": "TF/S32-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-019": {
     "name": "“大人しい性格”エヴァ",
@@ -395,7 +415,8 @@
         "id": "TF/S32-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-020": {
     "name": "“高い戦闘力”ジョセフ",
@@ -413,7 +434,8 @@
         "id": "TF/S32-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-021": {
     "name": "雷雨の一粒",
@@ -431,7 +453,8 @@
         "id": "TF/S32-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-022": {
     "name": "チョウセンアサガオの幻覚",
@@ -449,7 +472,8 @@
         "id": "TF/S32-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-023": {
     "name": "DESIRE 願い",
@@ -471,7 +495,8 @@
         "id": "TF/S32-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "TF/S32-024": {
     "name": "DER ZITTERAAL 電撃生物",
@@ -489,7 +514,8 @@
         "id": "TF/S32-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-025": {
     "name": "CRAB 猛士",
@@ -507,7 +533,8 @@
         "id": "TF/S32-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-026": {
     "name": "“幹部乗組員”小町 小吉",
@@ -525,7 +552,8 @@
         "id": "TF/S32-026",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-027": {
     "name": "“アネックス1号の艦長”小町 小吉",
@@ -547,7 +575,8 @@
         "id": "TF/S32-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-028": {
     "name": "“太陽のような明るさ”シーラ",
@@ -569,7 +598,8 @@
         "id": "TF/S32-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-029": {
     "name": "“アネックス1号の乗組員”鬼塚 慶次",
@@ -587,7 +617,8 @@
         "id": "TF/S32-029",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-030": {
     "name": "“気さくな青年”マルコス",
@@ -605,7 +636,8 @@
         "id": "TF/S32-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-031": {
     "name": "“火星への旅立ち”マルコス",
@@ -623,7 +655,8 @@
         "id": "TF/S32-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-032": {
     "name": "“アネックス1号の乗組員”マルコス",
@@ -645,7 +678,8 @@
         "id": "TF/S32-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-033": {
     "name": "“日本原産『大雀蜂』”小町 小吉",
@@ -663,7 +697,8 @@
         "id": "TF/S32-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-034": {
     "name": "“モンハナシャコ”鬼塚 慶次",
@@ -681,7 +716,8 @@
         "id": "TF/S32-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-035": {
     "name": "“アネックス1号の乗組員”三条 加奈子",
@@ -699,7 +735,8 @@
         "id": "TF/S32-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-036": {
     "name": "“アネックス1号の乗組員”シーラ",
@@ -717,7 +754,8 @@
         "id": "TF/S32-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-037": {
     "name": "“人類の脅威”テラフォーマー",
@@ -735,7 +773,8 @@
         "id": "TF/S32-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-038": {
     "name": "“クモイトカイコガ型”テラフォーマー",
@@ -753,7 +792,8 @@
         "id": "TF/S32-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-039": {
     "name": "“地球の未来”マルコス",
@@ -771,7 +811,8 @@
         "id": "TF/S32-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-040": {
     "name": "“存続を賭けた戦い”小町 小吉",
@@ -789,7 +830,8 @@
         "id": "TF/S32-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-041": {
     "name": "“アシダカグモ”マルコス",
@@ -807,7 +849,8 @@
         "id": "TF/S32-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-042": {
     "name": "“史上最悪の害虫”テラフォーマー",
@@ -825,7 +868,8 @@
         "id": "TF/S32-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-043": {
     "name": "“心優しき少女”シーラ",
@@ -843,7 +887,8 @@
         "id": "TF/S32-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-044": {
     "name": "“心優しきボクサー”鬼塚 慶次",
@@ -861,7 +906,8 @@
         "id": "TF/S32-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-045": {
     "name": "“U-NASA火星探索チーム総隊長”小町小吉",
@@ -879,7 +925,8 @@
         "id": "TF/S32-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-046": {
     "name": "バグズ手術",
@@ -897,7 +944,8 @@
         "id": "TF/S32-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-047": {
     "name": "火星に放たれたゴキブリ",
@@ -915,7 +963,8 @@
         "id": "TF/S32-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-048": {
     "name": "最期の言葉",
@@ -937,7 +986,8 @@
         "id": "TF/S32-048R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-049": {
     "name": "戦火の前線",
@@ -955,7 +1005,8 @@
         "id": "TF/S32-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "TF/S32-050": {
     "name": "ANIMA 憧れ",
@@ -973,7 +1024,8 @@
         "id": "TF/S32-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "TF/S32-051": {
     "name": "“アネックス1号の乗組員”アレックス",
@@ -995,7 +1047,8 @@
         "id": "TF/S32-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-052": {
     "name": "“アネックス1号の乗組員”膝丸 燈",
@@ -1017,7 +1070,8 @@
         "id": "TF/S32-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-053": {
     "name": "“火星への旅立ち”膝丸 燈",
@@ -1035,7 +1089,8 @@
         "id": "TF/S32-053",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-054": {
     "name": "“奇跡の子”ミッシェル",
@@ -1057,7 +1112,8 @@
         "id": "TF/S32-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-055": {
     "name": "“火星への旅立ち”アレックス",
@@ -1075,7 +1131,8 @@
         "id": "TF/S32-055",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-056": {
     "name": "“頼もしい乗組員”膝丸 燈",
@@ -1093,7 +1150,8 @@
         "id": "TF/S32-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-057": {
     "name": "“奇跡の子“膝丸 燈",
@@ -1115,7 +1173,8 @@
         "id": "TF/S32-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-058": {
     "name": "“U-NASA火星探索チーム副隊長”ミッシェル",
@@ -1133,7 +1192,8 @@
         "id": "TF/S32-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-059": {
     "name": "“戦う理由”膝丸 燈",
@@ -1151,7 +1211,8 @@
         "id": "TF/S32-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-060": {
     "name": "“出陣”膝丸 燈",
@@ -1169,7 +1230,8 @@
         "id": "TF/S32-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-061": {
     "name": "“戦いの序章”ミッシェル",
@@ -1187,7 +1249,8 @@
         "id": "TF/S32-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-062": {
     "name": "“オウギワシ”アレックス",
@@ -1205,7 +1268,8 @@
         "id": "TF/S32-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-063": {
     "name": "“気さくな青年”膝丸 燈",
@@ -1223,7 +1287,8 @@
         "id": "TF/S32-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-064": {
     "name": "“気さくな青年”アレックス",
@@ -1241,7 +1306,8 @@
         "id": "TF/S32-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-065": {
     "name": "“託された希望”ミッシェル",
@@ -1259,7 +1325,8 @@
         "id": "TF/S32-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-066": {
     "name": "“抜群の運動神経”アレックス",
@@ -1277,7 +1344,8 @@
         "id": "TF/S32-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-067": {
     "name": "“存続を賭けた戦い”ミッシェル",
@@ -1295,7 +1363,8 @@
         "id": "TF/S32-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-068": {
     "name": "“アネックス1号の乗組員”柳瀬川 八恵子",
@@ -1313,7 +1382,8 @@
         "id": "TF/S32-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-069": {
     "name": "“不穏な空気”ミッシェル",
@@ -1331,7 +1401,8 @@
         "id": "TF/S32-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-070": {
     "name": "“引き継いだ力”ミッシェル",
@@ -1349,7 +1420,8 @@
         "id": "TF/S32-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-071": {
     "name": "種の対立",
@@ -1367,7 +1439,8 @@
         "id": "TF/S32-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-072": {
     "name": "差し伸べられた手",
@@ -1385,7 +1458,8 @@
         "id": "TF/S32-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-073": {
     "name": "M.O.手術",
@@ -1407,7 +1481,8 @@
         "id": "TF/S32-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-074": {
     "name": "TERRAFORMARS 彼方と此方",
@@ -1425,7 +1500,8 @@
         "id": "TF/S32-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "TF/S32-075": {
     "name": "するべきこと",
@@ -1443,7 +1519,8 @@
         "id": "TF/S32-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "TF/S32-076": {
     "name": "“禍を生むもの”テラフォーマー",
@@ -1465,7 +1542,8 @@
         "id": "TF/S32-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-077": {
     "name": "“アネックス1号の乗組員”ミッシェル",
@@ -1487,7 +1565,8 @@
         "id": "TF/S32-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-078": {
     "name": "“頼もしい班長”ミッシェル",
@@ -1509,7 +1588,8 @@
         "id": "TF/S32-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-079": {
     "name": "“約束のために”膝丸 燈",
@@ -1527,7 +1607,8 @@
         "id": "TF/S32-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-080": {
     "name": "“部下を守る姿”小町 小吉",
@@ -1545,7 +1626,8 @@
         "id": "TF/S32-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-081": {
     "name": "“託された希望”膝丸 燈",
@@ -1563,7 +1645,8 @@
         "id": "TF/S32-081",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-082": {
     "name": "“幹部乗組員”ミッシェル",
@@ -1581,7 +1664,8 @@
         "id": "TF/S32-082",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-083": {
     "name": "“優しい艦長”小町 小吉",
@@ -1599,7 +1683,8 @@
         "id": "TF/S32-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-084": {
     "name": "“忌むべき存在”テラフォーマー",
@@ -1625,7 +1710,8 @@
         "id": "TF/S32-084c",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-085": {
     "name": "“バクダンオオアリ”ミッシェル",
@@ -1643,7 +1729,8 @@
         "id": "TF/S32-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-086": {
     "name": "“託された希望”小町 小吉",
@@ -1661,7 +1748,8 @@
         "id": "TF/S32-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-087": {
     "name": "“高い戦闘力”膝丸 燈",
@@ -1679,7 +1767,8 @@
         "id": "TF/S32-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-088": {
     "name": "“地球の未来”膝丸 燈",
@@ -1697,7 +1786,8 @@
         "id": "TF/S32-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-089": {
     "name": "“地球の未来”ミッシェル",
@@ -1715,7 +1805,8 @@
         "id": "TF/S32-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-090": {
     "name": "“スキンヘッド型”テラフォーマー",
@@ -1733,7 +1824,8 @@
         "id": "TF/S32-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-091": {
     "name": "“戦う理由”小町 小吉",
@@ -1751,7 +1843,8 @@
         "id": "TF/S32-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-092": {
     "name": "“強い精神”小町 小吉",
@@ -1769,7 +1862,8 @@
         "id": "TF/S32-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-093": {
     "name": "“オオミノガ”膝丸 燈",
@@ -1787,7 +1881,8 @@
         "id": "TF/S32-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-094": {
     "name": "“強い精神”ミッシェル",
@@ -1805,7 +1900,8 @@
         "id": "TF/S32-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-095": {
     "name": "“引き継いだ力”膝丸 燈",
@@ -1823,7 +1919,8 @@
         "id": "TF/S32-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-096": {
     "name": "悪魔の血脈",
@@ -1841,7 +1938,8 @@
         "id": "TF/S32-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-097": {
     "name": "投薬",
@@ -1859,7 +1957,8 @@
         "id": "TF/S32-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-098": {
     "name": "BLACK BEETLE 死者と蟲",
@@ -1881,7 +1980,8 @@
         "id": "TF/S32-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-099": {
     "name": "ザ・セカンド",
@@ -1899,7 +1999,8 @@
         "id": "TF/S32-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "TF/S32-100": {
     "name": "ザ・ファースト",
@@ -1917,6 +2018,7 @@
         "id": "TF/S32-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -23,7 +23,8 @@
         "id": "HLL/WE29-01SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-02": {
     "name": "力の証明 ニーナ",
@@ -49,7 +50,8 @@
         "id": "HLL/WE29-02SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE29-03": {
     "name": "学園祭へ向けて 華恋",
@@ -67,7 +69,8 @@
         "id": "HLL/WE29-03",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-04": {
     "name": "くつろぎの時間 ニーナ",
@@ -85,7 +88,8 @@
         "id": "HLL/WE29-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-05": {
     "name": "ニーナの新たな使者 ミカエル",
@@ -103,7 +107,8 @@
         "id": "HLL/WE29-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-06": {
     "name": "緊急事態 弥生",
@@ -121,7 +126,8 @@
         "id": "HLL/WE29-06",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-07": {
     "name": "乙女の恥じらい ニーナ",
@@ -139,7 +145,8 @@
         "id": "HLL/WE29-07",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE29-08": {
     "name": "学園祭へ向けて 華凛",
@@ -157,7 +164,8 @@
         "id": "HLL/WE29-08",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE29-09": {
     "name": "くつろぎの時間 弥生",
@@ -175,7 +183,8 @@
         "id": "HLL/WE29-09",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-10": {
     "name": "ALCA局長 ヴェロニカ",
@@ -193,7 +202,8 @@
         "id": "HLL/WE29-10",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-11": {
     "name": "見守る者 学園長",
@@ -211,7 +221,8 @@
         "id": "HLL/WE29-11",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-12": {
     "name": "大晦日の贅沢 梨乃",
@@ -229,7 +240,8 @@
         "id": "HLL/WE29-12",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-13": {
     "name": "美味しいもの 華凛",
@@ -247,7 +259,8 @@
         "id": "HLL/WE29-13",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE29-14": {
     "name": "二人だけの時間 ニーナ",
@@ -265,7 +278,8 @@
         "id": "HLL/WE29-14",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE29-15": {
     "name": "同じ素質 静葉",
@@ -283,7 +297,8 @@
         "id": "HLL/WE29-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-16": {
     "name": "弥生の新たな使者 凪",
@@ -301,7 +316,8 @@
         "id": "HLL/WE29-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-17": {
     "name": "学園祭へ向けて 弥生",
@@ -319,7 +335,8 @@
         "id": "HLL/WE29-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-18": {
     "name": "降参～ 華凛",
@@ -337,7 +354,8 @@
         "id": "HLL/WE29-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-19": {
     "name": "予想外のバレンタイン 弥生",
@@ -355,7 +373,8 @@
         "id": "HLL/WE29-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-20": {
     "name": "支える者 副学園長",
@@ -373,7 +392,8 @@
         "id": "HLL/WE29-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-21": {
     "name": "降参～ 華恋",
@@ -391,7 +411,8 @@
         "id": "HLL/WE29-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-22": {
     "name": "いつもの帰り道 ニーナ",
@@ -409,7 +430,8 @@
         "id": "HLL/WE29-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-23": {
     "name": "美味しいもの 華恋",
@@ -427,7 +449,8 @@
         "id": "HLL/WE29-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE29-24": {
     "name": "大事な友達",
@@ -445,7 +468,8 @@
         "id": "HLL/WE29-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-25": {
     "name": "花マルの笑顔",
@@ -463,7 +487,8 @@
         "id": "HLL/WE29-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "HLL/WE29-26": {
     "name": "模擬戦開始 リオン",
@@ -489,7 +514,8 @@
         "id": "HLL/WE29-26SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-27": {
     "name": "癒しの光 リオン",
@@ -515,7 +541,8 @@
         "id": "HLL/WE29-27SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE29-28": {
     "name": "おもてなし 夕子",
@@ -541,7 +568,8 @@
         "id": "HLL/WE29-28SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE29-29": {
     "name": "全弾発射！ 万博",
@@ -567,7 +595,8 @@
         "id": "HLL/WE29-29SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE29-30": {
     "name": "楽しい毎日 葵",
@@ -585,7 +614,8 @@
         "id": "HLL/WE29-30",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-31": {
     "name": "くつろぎの時間 リオン",
@@ -603,7 +633,8 @@
         "id": "HLL/WE29-31",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-32": {
     "name": "誓いのとき ベル",
@@ -621,7 +652,8 @@
         "id": "HLL/WE29-32",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-33": {
     "name": "大物監督 万博",
@@ -639,7 +671,8 @@
         "id": "HLL/WE29-33",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-34": {
     "name": "お祭り 万博",
@@ -657,7 +690,8 @@
         "id": "HLL/WE29-34",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE29-35": {
     "name": "卒業式 夕子",
@@ -675,7 +709,8 @@
         "id": "HLL/WE29-35",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE29-36": {
     "name": "楽しい毎日 アシュリー",
@@ -693,7 +728,8 @@
         "id": "HLL/WE29-36",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-37": {
     "name": "くつろぎの時間 夕子",
@@ -711,7 +747,8 @@
         "id": "HLL/WE29-37",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-38": {
     "name": "誓いのとき リオン",
@@ -729,7 +766,8 @@
         "id": "HLL/WE29-38",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE29-39": {
     "name": "二人だけの時間 リオン",
@@ -747,7 +785,8 @@
         "id": "HLL/WE29-39",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE29-40": {
     "name": "夕子の新たな使者 ステュクス",
@@ -765,7 +804,8 @@
         "id": "HLL/WE29-40",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-41": {
     "name": "リオンの新たな使者 ワッフル",
@@ -783,7 +823,8 @@
         "id": "HLL/WE29-41",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-42": {
     "name": "万博の新たな使者 ドレッド",
@@ -801,7 +842,8 @@
         "id": "HLL/WE29-42",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-43": {
     "name": "“ミスピラリ学園”夕子",
@@ -819,7 +861,8 @@
         "id": "HLL/WE29-43",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-44": {
     "name": "矢の効果 万博",
@@ -837,7 +880,8 @@
         "id": "HLL/WE29-44",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-45": {
     "name": "くつろぎの時間 万博",
@@ -855,7 +899,8 @@
         "id": "HLL/WE29-45",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-46": {
     "name": "適格なアドバイス 瑞希",
@@ -873,7 +918,8 @@
         "id": "HLL/WE29-46",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE29-47": {
     "name": "手作りバレンタイン",
@@ -891,7 +937,8 @@
         "id": "HLL/WE29-47",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-48": {
     "name": "成長の過程",
@@ -909,7 +956,8 @@
         "id": "HLL/WE29-48",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE29-49": {
     "name": "新たな生活へ",
@@ -927,7 +975,8 @@
         "id": "HLL/WE29-49",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE29-50": {
     "name": "定理者のヒナたち",
@@ -945,6 +994,7 @@
         "id": "HLL/WE29-50",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

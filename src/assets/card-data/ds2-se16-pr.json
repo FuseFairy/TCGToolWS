@@ -15,7 +15,8 @@
         "id": "DS2/SE16-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS2/SE16-P02": {
     "name": "水着のイオ",
@@ -33,6 +34,7 @@
         "id": "DS2/SE16-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

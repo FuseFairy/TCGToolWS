@@ -15,7 +15,8 @@
         "id": "IM/S14-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S14-107": {
     "name": "アニメ化ですよ！ 765プロ",
@@ -33,7 +34,8 @@
         "id": "IM/S14-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S14-108": {
     "name": "新たなる挑戦！765プロ",
@@ -51,7 +53,8 @@
         "id": "IM/S14-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S14-109": {
     "name": "スノーフレークリリパット 伊織＆やよい",
@@ -69,7 +72,8 @@
         "id": "IM/S14-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S14-114": {
     "name": "天使のミズギ！ 765プロ",
@@ -87,7 +91,8 @@
         "id": "IM/S14-114",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S14-115": {
     "name": "キャンペーンガール 美希＆春香",
@@ -105,7 +110,8 @@
         "id": "IM/S14-115",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S14-116": {
     "name": "“眠り姫”千早",
@@ -123,7 +129,8 @@
         "id": "IM/S14-116",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S14-117": {
     "name": "パレスオブドラゴン あずさ",
@@ -141,7 +148,8 @@
         "id": "IM/S14-117",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S14-118": {
     "name": "パレスオブドラゴン 伊織",
@@ -159,7 +167,8 @@
         "id": "IM/S14-118",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S14-119": {
     "name": "パレスオブドラゴン 亜美",
@@ -177,7 +186,8 @@
         "id": "IM/S14-119",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S14-120": {
     "name": "バイタルサンフラワー 律子",
@@ -195,7 +205,8 @@
         "id": "IM/S14-120",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S14-121": {
     "name": "Little Match Girl",
@@ -213,7 +224,8 @@
         "id": "IM/S14-121",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S14-122": {
     "name": "SWEETキャンペーンガール 響",
@@ -231,7 +243,8 @@
         "id": "IM/S14-122",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S14-123": {
     "name": "悪の天才! ハルシュタイン閣下",
@@ -249,7 +262,8 @@
         "id": "IM/S14-123",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S14-124": {
     "name": "IMR-765-S キサラギ",
@@ -267,7 +281,8 @@
         "id": "IM/S14-124",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S14-765": {
     "name": "新生765プロ",
@@ -285,7 +300,8 @@
         "id": "IM/S14-765",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S14-110": {
     "name": "Ｌ・Ｏ・Ｂ・Ｍ",
@@ -303,7 +319,8 @@
         "id": "IM/S14-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IM/S14-111": {
     "name": "きゅんっ！ヴァンパイアガール",
@@ -321,7 +338,8 @@
         "id": "IM/S14-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S14-112": {
     "name": "愛 LIKE ハンバーガー",
@@ -339,7 +357,8 @@
         "id": "IM/S14-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S14-113": {
     "name": "Honey Heartbeat",
@@ -357,6 +376,7 @@
         "id": "IM/S14-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

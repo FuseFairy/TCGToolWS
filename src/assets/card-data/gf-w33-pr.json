@@ -15,7 +15,8 @@
         "id": "GF/W33-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-P02": {
     "name": "ホワイトデー 櫻井明音",
@@ -33,7 +34,8 @@
         "id": "GF/W33-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-P03": {
     "name": "好機到来 椎名心実",
@@ -51,7 +53,8 @@
         "id": "GF/W33-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-165": {
     "name": "天真爛漫 クロエ・ルメール",
@@ -69,7 +72,8 @@
         "id": "GF/W33-165",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-166": {
     "name": "文武両道 椎名心実",
@@ -87,7 +91,8 @@
         "id": "GF/W33-166",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-167": {
     "name": "戦場レポート 櫻井明音",
@@ -105,7 +110,8 @@
         "id": "GF/W33-167",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-168": {
     "name": "ネットゲーム クロエ・ルメール",
@@ -123,7 +129,8 @@
         "id": "GF/W33-168",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-169": {
     "name": "ホームステイ 村上文緒",
@@ -141,7 +148,8 @@
         "id": "GF/W33-169",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-170": {
     "name": "台上遊戯 椎名心実",
@@ -159,6 +167,7 @@
         "id": "GF/W33-170",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

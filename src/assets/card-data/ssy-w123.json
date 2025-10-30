@@ -19,7 +19,8 @@
         "id": "Ssy/W123-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssy/W123-017": {
     "name": "雑用係 キョン",
@@ -41,7 +42,8 @@
         "id": "Ssy/W123-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssy/W123-027": {
     "name": "未来へつながる道 みくる",
@@ -67,7 +69,8 @@
         "id": "Ssy/W123-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssy/W123-044": {
     "name": "holiday みくる",
@@ -89,7 +92,8 @@
         "id": "Ssy/W123-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ssy/W123-045": {
     "name": "新年行事 長門＆ハルヒ＆みくる",
@@ -111,7 +115,8 @@
         "id": "Ssy/W123-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssy/W123-050": {
     "name": "SOS団への挑戦状 鶴屋",
@@ -133,7 +138,8 @@
         "id": "Ssy/W123-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssy/W123-063": {
     "name": "ハイテンション傍若無人エクスプレス ハルヒ",
@@ -159,7 +165,8 @@
         "id": "Ssy/W123-063SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ssy/W123-065": {
     "name": "次なる未知への探究 ハルヒ",
@@ -185,7 +192,8 @@
         "id": "Ssy/W123-065SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssy/W123-085": {
     "name": "始まりの季節 ハルヒ",
@@ -207,7 +215,8 @@
         "id": "Ssy/W123-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ssy/W123-090": {
     "name": "団長閣下 ハルヒ",
@@ -229,7 +238,8 @@
         "id": "Ssy/W123-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssy/W123-094": {
     "name": "SOS団",
@@ -255,7 +265,8 @@
         "id": "Ssy/W123-094R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ssy/W123-095": {
     "name": "オゾン層を越えて",
@@ -281,7 +292,8 @@
         "id": "Ssy/W123-095R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ssy/W123-099": {
     "name": "情報と感情 長門",
@@ -307,7 +319,8 @@
         "id": "Ssy/W123-099SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssy/W123-115": {
     "name": "holiday 長門",
@@ -329,7 +342,8 @@
         "id": "Ssy/W123-115S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ssy/W123-118": {
     "name": "夏休みの午後 みくる＆ハルヒ＆長門",
@@ -351,6 +365,7 @@
         "id": "Ssy/W123-118S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

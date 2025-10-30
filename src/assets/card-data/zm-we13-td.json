@@ -15,7 +15,8 @@
         "id": "ZM/WE13-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-T02": {
     "name": "真っ直ぐな目 サイト",
@@ -33,7 +34,8 @@
         "id": "ZM/WE13-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-T03": {
     "name": "友に赦された少女 タバサ",
@@ -51,7 +53,8 @@
         "id": "ZM/WE13-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-T04": {
     "name": "教皇 ヴィットーリオ",
@@ -69,7 +72,8 @@
         "id": "ZM/WE13-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-T05": {
     "name": "サイトの専属メイド シエスタ",
@@ -87,7 +91,8 @@
         "id": "ZM/WE13-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-T06": {
     "name": "勇者の“騎士” タバサ",
@@ -105,7 +110,8 @@
         "id": "ZM/WE13-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/WE13-T07": {
     "name": "シャルロット・エレーヌ・オルレアン",
@@ -123,7 +129,8 @@
         "id": "ZM/WE13-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/WE13-T08": {
     "name": "わたしのイーヴァルディ",
@@ -145,7 +152,8 @@
         "id": "ZM/WE13-T08b",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "ZM/WE13-T09": {
     "name": "一緒に買い物 ルイズ",
@@ -163,7 +171,8 @@
         "id": "ZM/WE13-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-T10": {
     "name": "ぺったんこなルイズ",
@@ -181,6 +190,7 @@
         "id": "ZM/WE13-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

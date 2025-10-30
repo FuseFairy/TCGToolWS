@@ -23,7 +23,8 @@
         "id": "Fgm/W120-046SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fgm/W120-054": {
     "name": "ゲーム部の誘い 花憐",
@@ -49,7 +50,8 @@
         "id": "Fgm/W120-054SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fgm/W120-056": {
     "name": "本当の初恋 千秋",
@@ -71,7 +73,8 @@
         "id": "Fgm/W120-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fgm/W120-062": {
     "name": "ウエディングコスチューム 花憐",
@@ -93,7 +96,8 @@
         "id": "Fgm/W120-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fgm/W120-075": {
     "name": "天道さんの華麗なる1日 AFTER",
@@ -115,6 +119,7 @@
         "id": "Fgm/W120-075R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "RZ/S68-001",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-002": {
     "name": "目指せニューヨーク？ ペトラ",
@@ -33,7 +34,8 @@
         "id": "RZ/S68-002",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-003": {
     "name": "雪うさぎとペトラ",
@@ -55,7 +57,8 @@
         "id": "RZ/S68-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-004": {
     "name": "“Memory Snow”スバル",
@@ -77,7 +80,8 @@
         "id": "RZ/S68-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-005": {
     "name": "目指せニューヨーク？ ダイン",
@@ -95,7 +99,8 @@
         "id": "RZ/S68-005",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-006": {
     "name": "目指せニューヨーク？ リュカ",
@@ -113,7 +118,8 @@
         "id": "RZ/S68-006",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-007": {
     "name": "アーラム村の少女 ペトラ",
@@ -131,7 +137,8 @@
         "id": "RZ/S68-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-008": {
     "name": "おいしいご褒美 ペトラ",
@@ -149,7 +156,8 @@
         "id": "RZ/S68-008",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-009": {
     "name": "目指せニューヨーク？ ミルド",
@@ -167,7 +175,8 @@
         "id": "RZ/S68-009",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-010": {
     "name": "異世界流？の扇動 スバル",
@@ -185,7 +194,8 @@
         "id": "RZ/S68-010",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-011": {
     "name": "飛行強襲型大火力決戦兵器YUKI-USAGI",
@@ -203,7 +213,8 @@
         "id": "RZ/S68-011",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-012": {
     "name": "第1回チキチキ雪まつり",
@@ -221,7 +232,8 @@
         "id": "RZ/S68-012",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-013": {
     "name": "季節外れの雪まつり",
@@ -243,7 +255,8 @@
         "id": "RZ/S68-013R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-014": {
     "name": "“Memory Snow”ラム&レム",
@@ -265,7 +278,8 @@
         "id": "RZ/S68-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-015": {
     "name": "神の視座 ラム",
@@ -287,7 +301,8 @@
         "id": "RZ/S68-015SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-016": {
     "name": "“Memory Snow”ベアトリス",
@@ -309,7 +324,8 @@
         "id": "RZ/S68-016SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-017": {
     "name": "酒豪 ラム",
@@ -331,7 +347,8 @@
         "id": "RZ/S68-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-018": {
     "name": "自力で頑張るベアトリス",
@@ -353,7 +370,8 @@
         "id": "RZ/S68-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-019": {
     "name": "寒さに弱いラム",
@@ -375,7 +393,8 @@
         "id": "RZ/S68-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-020": {
     "name": "固唾をのむラム",
@@ -393,7 +412,8 @@
         "id": "RZ/S68-020",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-021": {
     "name": "予想外の低評価 ラム",
@@ -415,7 +435,8 @@
         "id": "RZ/S68-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-022": {
     "name": "楽しい宴会 ラム",
@@ -433,7 +454,8 @@
         "id": "RZ/S68-022",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-023": {
     "name": "夜空に輝くスバル",
@@ -451,7 +473,8 @@
         "id": "RZ/S68-023",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-024": {
     "name": "ほんとは嬉しい？ ベアトリス",
@@ -473,7 +496,8 @@
         "id": "RZ/S68-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-025": {
     "name": "超芸術家 ラム",
@@ -495,7 +519,8 @@
         "id": "RZ/S68-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-026": {
     "name": "素晴らしきスバワール様像",
@@ -517,7 +542,8 @@
         "id": "RZ/S68-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-027": {
     "name": "冷たい不意打ち ベアトリス",
@@ -535,7 +561,8 @@
         "id": "RZ/S68-027",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-028": {
     "name": "発魔期対策会議 ベアトリス",
@@ -553,7 +580,8 @@
         "id": "RZ/S68-028",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-029": {
     "name": "かすかな兆候 ロズワール",
@@ -571,7 +599,8 @@
         "id": "RZ/S68-029",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-030": {
     "name": "俺プレゼンツ！ スバル",
@@ -589,7 +618,8 @@
         "id": "RZ/S68-030",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-031": {
     "name": "ジトっとした視線 ラム",
@@ -607,7 +637,8 @@
         "id": "RZ/S68-031",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-032": {
     "name": "やっぱり寒い ベアトリス",
@@ -625,7 +656,8 @@
         "id": "RZ/S68-032",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-033": {
     "name": "いつもより辛辣 ラム",
@@ -643,7 +675,8 @@
         "id": "RZ/S68-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-034": {
     "name": "晩酌 ロズワール",
@@ -661,7 +694,8 @@
         "id": "RZ/S68-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-035": {
     "name": "思い出に残る1日 ラム",
@@ -679,7 +713,8 @@
         "id": "RZ/S68-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-036": {
     "name": "“Memory Snow”ロズワール",
@@ -697,7 +732,8 @@
         "id": "RZ/S68-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-037": {
     "name": "嬉し気に毒を吐くラム",
@@ -715,7 +751,8 @@
         "id": "RZ/S68-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-038": {
     "name": "酔いどれの世話人 ラム",
@@ -733,7 +770,8 @@
         "id": "RZ/S68-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-039": {
     "name": "大忙し ベアトリス",
@@ -751,7 +789,8 @@
         "id": "RZ/S68-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-040": {
     "name": "異常気象？ スバル",
@@ -769,7 +808,8 @@
         "id": "RZ/S68-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-041": {
     "name": "宴席の片隅 ベアトリス",
@@ -787,7 +827,8 @@
         "id": "RZ/S68-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-042": {
     "name": "審査員 ロズワール",
@@ -805,7 +846,8 @@
         "id": "RZ/S68-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-043": {
     "name": "微かな異変 ラム",
@@ -823,7 +865,8 @@
         "id": "RZ/S68-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-044": {
     "name": "貴重なお酒 ラム",
@@ -841,7 +884,8 @@
         "id": "RZ/S68-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-045": {
     "name": "頬杖で傍観 ベアトリス",
@@ -859,7 +903,8 @@
         "id": "RZ/S68-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-046": {
     "name": "にーちゃにメロメロ ベアトリス",
@@ -877,7 +922,8 @@
         "id": "RZ/S68-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-047": {
     "name": "強敵(ルビ：ともだち) ロズワール",
@@ -895,7 +941,8 @@
         "id": "RZ/S68-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-048": {
     "name": "安らかなお迎え",
@@ -913,7 +960,8 @@
         "id": "RZ/S68-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-049": {
     "name": "日々のお勤め",
@@ -935,7 +983,8 @@
         "id": "RZ/S68-049R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RZ/S68-050": {
     "name": "雪まつりへ参戦！",
@@ -957,7 +1006,8 @@
         "id": "RZ/S68-050R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-051": {
     "name": "期待の眼差し",
@@ -979,7 +1029,8 @@
         "id": "RZ/S68-051R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-052": {
     "name": "悪くはなかった1日",
@@ -997,7 +1048,8 @@
         "id": "RZ/S68-052",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RZ/S68-053": {
     "name": "ひみつの花園 エミリア",
@@ -1019,7 +1071,8 @@
         "id": "RZ/S68-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-054": {
     "name": "何でもお任せ レム",
@@ -1041,7 +1094,8 @@
         "id": "RZ/S68-054SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-055": {
     "name": "そこじゃない レム",
@@ -1063,7 +1117,8 @@
         "id": "RZ/S68-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-056": {
     "name": "瞳に映る世界 エミリア",
@@ -1085,7 +1140,8 @@
         "id": "RZ/S68-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-057": {
     "name": "“Memory Snow”エミリア",
@@ -1107,7 +1163,8 @@
         "id": "RZ/S68-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-058": {
     "name": "楽しい宴会 レム",
@@ -1129,7 +1186,8 @@
         "id": "RZ/S68-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-059": {
     "name": "夢のような光景 レム&エミリア",
@@ -1147,7 +1205,8 @@
         "id": "RZ/S68-059",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-060": {
     "name": "頑張りました！ レム",
@@ -1165,7 +1224,8 @@
         "id": "RZ/S68-060",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-061": {
     "name": "未来のこと パック",
@@ -1187,7 +1247,8 @@
         "id": "RZ/S68-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-062": {
     "name": "ズルはだめ エミリア",
@@ -1209,7 +1270,8 @@
         "id": "RZ/S68-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-063": {
     "name": "不穏な発言 レム",
@@ -1227,7 +1289,8 @@
         "id": "RZ/S68-063",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-064": {
     "name": "認識阻害ローブ エミリア",
@@ -1249,7 +1312,8 @@
         "id": "RZ/S68-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-065": {
     "name": "発魔期対策会議 エミリア",
@@ -1267,7 +1331,8 @@
         "id": "RZ/S68-065",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-066": {
     "name": "でいとの朝 エミリア",
@@ -1285,7 +1350,8 @@
         "id": "RZ/S68-066",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-067": {
     "name": "理想の融合 レム",
@@ -1307,7 +1373,8 @@
         "id": "RZ/S68-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-068": {
     "name": "気に入った収まり パック",
@@ -1325,7 +1392,8 @@
         "id": "RZ/S68-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-069": {
     "name": "楽しい宴会 エミリア",
@@ -1343,7 +1411,8 @@
         "id": "RZ/S68-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-070": {
     "name": "大精霊の一撃 パック",
@@ -1361,7 +1430,8 @@
         "id": "RZ/S68-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-071": {
     "name": "ねっとりてらしい？ エミリア",
@@ -1379,7 +1449,8 @@
         "id": "RZ/S68-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-072": {
     "name": "しゃくれパック",
@@ -1397,7 +1468,8 @@
         "id": "RZ/S68-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-073": {
     "name": "ひたすら感服 レム",
@@ -1415,7 +1487,8 @@
         "id": "RZ/S68-073",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-074": {
     "name": "パックにメロメロ エミリア",
@@ -1433,7 +1506,8 @@
         "id": "RZ/S68-074",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-075": {
     "name": "温泉大作戦 スバル",
@@ -1451,7 +1525,8 @@
         "id": "RZ/S68-075",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-076": {
     "name": "発魔期対策会議 パック",
@@ -1469,7 +1544,8 @@
         "id": "RZ/S68-076",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-077": {
     "name": "よそよそしいエミリア",
@@ -1487,7 +1563,8 @@
         "id": "RZ/S68-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-078": {
     "name": "指示語だらけ パック",
@@ -1505,7 +1582,8 @@
         "id": "RZ/S68-078",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-079": {
     "name": "酔いどれエミリア",
@@ -1523,7 +1601,8 @@
         "id": "RZ/S68-079",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-080": {
     "name": "シークレットミッション スバル",
@@ -1541,7 +1620,8 @@
         "id": "RZ/S68-080",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-081": {
     "name": "気配り上手 パック",
@@ -1559,7 +1639,8 @@
         "id": "RZ/S68-081",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-082": {
     "name": "微かな異変 レム",
@@ -1577,7 +1658,8 @@
         "id": "RZ/S68-082",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-083": {
     "name": "たまらない状況 スバル",
@@ -1595,7 +1677,8 @@
         "id": "RZ/S68-083",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-084": {
     "name": "しゃかりき頑張るエミリア",
@@ -1613,7 +1696,8 @@
         "id": "RZ/S68-084",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-085": {
     "name": "発魔期対策会議 レム",
@@ -1631,7 +1715,8 @@
         "id": "RZ/S68-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-086": {
     "name": "氷季の給仕服 レム",
@@ -1649,7 +1734,8 @@
         "id": "RZ/S68-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-087": {
     "name": "評価に不満 エミリア",
@@ -1667,7 +1753,8 @@
         "id": "RZ/S68-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-088": {
     "name": "マナの放出 パック",
@@ -1685,7 +1772,8 @@
         "id": "RZ/S68-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-089": {
     "name": "実作業者 レム",
@@ -1703,7 +1791,8 @@
         "id": "RZ/S68-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-090": {
     "name": "ひみつの花園 スバル",
@@ -1721,7 +1810,8 @@
         "id": "RZ/S68-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-091": {
     "name": "すがる眼差し レム",
@@ -1739,7 +1829,8 @@
         "id": "RZ/S68-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-092": {
     "name": "酔いどれレム",
@@ -1757,7 +1848,8 @@
         "id": "RZ/S68-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-093": {
     "name": "怪奇！マヨ人間",
@@ -1775,7 +1867,8 @@
         "id": "RZ/S68-093",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-094": {
     "name": "前衛的な雪像",
@@ -1793,7 +1886,8 @@
         "id": "RZ/S68-094",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-095": {
     "name": "穏やかな時間",
@@ -1815,7 +1909,8 @@
         "id": "RZ/S68-095R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-096": {
     "name": "スバルくんのせいです",
@@ -1837,7 +1932,8 @@
         "id": "RZ/S68-096R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S68-097": {
     "name": "ほめてほめてオーラ",
@@ -1859,7 +1955,8 @@
         "id": "RZ/S68-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-098": {
     "name": "発魔期到来！",
@@ -1881,7 +1978,8 @@
         "id": "RZ/S68-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S68-099": {
     "name": "はじめてのお酒",
@@ -1899,7 +1997,8 @@
         "id": "RZ/S68-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RZ/S68-100": {
     "name": "たどり着いた朝",
@@ -1917,6 +2016,7 @@
         "id": "RZ/S68-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

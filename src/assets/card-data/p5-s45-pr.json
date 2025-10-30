@@ -15,7 +15,8 @@
         "id": "P5/S45-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-P01": {
     "name": "主人公＆竜司＆杏",
@@ -33,7 +34,8 @@
         "id": "P5/S45-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-P02": {
     "name": "来るべき運命 主人公 / JOKER",
@@ -51,7 +53,8 @@
         "id": "P5/S45-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-101": {
     "name": "心の怪盗団 主人公 / JOKER",
@@ -69,7 +72,8 @@
         "id": "P5/S45-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-102": {
     "name": "心の怪盗団 竜司",
@@ -87,7 +91,8 @@
         "id": "P5/S45-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-103": {
     "name": "心の怪盗団 杏",
@@ -105,7 +110,8 @@
         "id": "P5/S45-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-104": {
     "name": "心の怪盗団 モルガナ / MONA",
@@ -123,7 +129,8 @@
         "id": "P5/S45-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-105": {
     "name": "心の怪盗団 祐介",
@@ -141,7 +148,8 @@
         "id": "P5/S45-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-106": {
     "name": "心の怪盗団 真",
@@ -159,7 +167,8 @@
         "id": "P5/S45-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-107": {
     "name": "心の怪盗団 双葉",
@@ -177,7 +186,8 @@
         "id": "P5/S45-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-108": {
     "name": "心の怪盗団 春",
@@ -195,6 +205,7 @@
         "id": "P5/S45-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -19,7 +19,8 @@
         "id": "AZL/S119-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-P02": {
     "name": "駆逐艦 Z23",
@@ -37,7 +38,8 @@
         "id": "AZL/S119-P02EX",
         "rarity": "PR+"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-P03": {
     "name": "駆逐艦 ジャベリン",
@@ -59,6 +61,7 @@
         "id": "AZL/S119-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

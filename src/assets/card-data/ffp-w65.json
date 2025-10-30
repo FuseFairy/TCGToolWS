@@ -19,7 +19,8 @@
         "id": "Ffp/W65-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ffp/W65-028": {
     "name": "トゥアハー・デ・ダナン艦長 テレサ",
@@ -41,7 +42,8 @@
         "id": "Ffp/W65-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ffp/W65-030": {
     "name": "コールサイン ウルズ７ 宗介",
@@ -59,7 +61,8 @@
         "id": "Ffp/W65-030",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ffp/W65-031": {
     "name": "ARX－8 レーバテイン",
@@ -77,7 +80,8 @@
         "id": "Ffp/W65-031",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ffp/W65-041": {
     "name": "戦いの幕開け",
@@ -99,6 +103,7 @@
         "id": "Ffp/W65-041R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

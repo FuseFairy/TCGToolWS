@@ -15,7 +15,8 @@
         "id": "FH/SE03-046",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-047": {
     "name": "メイド服の凛",
@@ -33,7 +34,8 @@
         "id": "FH/SE03-047",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-048": {
     "name": "メイド服の桜",
@@ -51,7 +53,8 @@
         "id": "FH/SE03-048",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-049": {
     "name": "メイド服のライダー",
@@ -69,7 +72,8 @@
         "id": "FH/SE03-049",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-050": {
     "name": "“常に優雅たれ”凛",
@@ -87,7 +91,8 @@
         "id": "FH/SE03-050",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-051": {
     "name": "“常に優雅たれ”凛",
@@ -105,6 +110,7 @@
         "id": "FH/SE03-051",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

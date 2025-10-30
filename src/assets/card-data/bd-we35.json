@@ -19,7 +19,8 @@
         "id": "BD/WE35-01SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-02": {
     "name": "“Astral Harmony”市ヶ谷有咲",
@@ -41,7 +42,8 @@
         "id": "BD/WE35-02SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-03": {
     "name": "“Astral Harmony”牛込りみ",
@@ -63,7 +65,8 @@
         "id": "BD/WE35-03SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE35-04": {
     "name": "“Breakthrough!”花園たえ",
@@ -85,7 +88,8 @@
         "id": "BD/WE35-04OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-05": {
     "name": "“Breakthrough!”市ヶ谷有咲",
@@ -107,7 +111,8 @@
         "id": "BD/WE35-05OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-06": {
     "name": "“Astral Harmony”戸山香澄",
@@ -129,7 +134,8 @@
         "id": "BD/WE35-06SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-07": {
     "name": "“Breakthrough!”牛込りみ",
@@ -151,7 +157,8 @@
         "id": "BD/WE35-07OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-08": {
     "name": "“Breakthrough!”山吹沙綾",
@@ -173,7 +180,8 @@
         "id": "BD/WE35-08OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE35-09": {
     "name": "“Astral Harmony”花園たえ",
@@ -195,7 +203,8 @@
         "id": "BD/WE35-09SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE35-10": {
     "name": "“Breakthrough!”戸山香澄",
@@ -217,7 +226,8 @@
         "id": "BD/WE35-10OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE35-11": {
     "name": "“ミライトレイン”山吹沙綾",
@@ -235,7 +245,8 @@
         "id": "BD/WE35-11",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-12": {
     "name": "大会に向けて 市ヶ谷有咲",
@@ -253,7 +264,8 @@
         "id": "BD/WE35-12",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-13": {
     "name": "新曲決定 花園たえ",
@@ -271,7 +283,8 @@
         "id": "BD/WE35-13",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-14": {
     "name": "“夢を撃ち抜く瞬間に！”戸山香澄",
@@ -289,7 +302,8 @@
         "id": "BD/WE35-14",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-15": {
     "name": "大会に向けて 戸山香澄",
@@ -307,7 +321,8 @@
         "id": "BD/WE35-15",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-16": {
     "name": "“Step×Step！”牛込りみ",
@@ -325,7 +340,8 @@
         "id": "BD/WE35-16",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE35-17": {
     "name": "大会に向けて 花園たえ",
@@ -343,7 +359,8 @@
         "id": "BD/WE35-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-18": {
     "name": "“ミライトレイン”牛込りみ",
@@ -361,7 +378,8 @@
         "id": "BD/WE35-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-19": {
     "name": "キョトンとする 山吹沙綾",
@@ -379,7 +397,8 @@
         "id": "BD/WE35-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-20": {
     "name": "“Step×Step！”戸山香澄",
@@ -397,7 +416,8 @@
         "id": "BD/WE35-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE35-21": {
     "name": "温泉気分 市ヶ谷有咲",
@@ -415,7 +435,8 @@
         "id": "BD/WE35-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE35-22": {
     "name": "“Step×Step！”花園たえ",
@@ -433,7 +454,8 @@
         "id": "BD/WE35-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE35-23": {
     "name": "だいまんぞく",
@@ -451,7 +473,8 @@
         "id": "BD/WE35-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-24": {
     "name": "らぶらぶ",
@@ -469,7 +492,8 @@
         "id": "BD/WE35-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE35-25": {
     "name": "MV制作の日々",
@@ -487,7 +511,8 @@
         "id": "BD/WE35-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE35-26": {
     "name": "“Rausch und/and Craziness Ⅱ”宇田川あこ",
@@ -509,7 +534,8 @@
         "id": "BD/WE35-26SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-27": {
     "name": "“Rausch und/and Craziness Ⅱ”湊友希那",
@@ -531,7 +557,8 @@
         "id": "BD/WE35-27SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-28": {
     "name": "“Rausch und/and Craziness Ⅱ”今井リサ",
@@ -553,7 +580,8 @@
         "id": "BD/WE35-28SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE35-29": {
     "name": "“Rausch und/and Craziness Ⅱ”白金燐子",
@@ -575,7 +603,8 @@
         "id": "BD/WE35-29SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-30": {
     "name": "“Einheit”氷川紗夜",
@@ -597,7 +626,8 @@
         "id": "BD/WE35-30OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-31": {
     "name": "“Einheit”白金燐子",
@@ -619,7 +649,8 @@
         "id": "BD/WE35-31OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-32": {
     "name": "“Einheit”今井リサ",
@@ -641,7 +672,8 @@
         "id": "BD/WE35-32OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE35-33": {
     "name": "“Einheit”宇田川あこ",
@@ -663,7 +695,8 @@
         "id": "BD/WE35-33OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE35-34": {
     "name": "“Einheit”湊友希那",
@@ -685,7 +718,8 @@
         "id": "BD/WE35-34OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE35-35": {
     "name": "“Rausch und/and Craziness Ⅱ”氷川紗夜",
@@ -707,7 +741,8 @@
         "id": "BD/WE35-35SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE35-36": {
     "name": "バンド交流 今井リサ",
@@ -725,7 +760,8 @@
         "id": "BD/WE35-36",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-37": {
     "name": "大会に向けて 白金燐子",
@@ -743,7 +779,8 @@
         "id": "BD/WE35-37",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-38": {
     "name": "大会に向けて 湊友希那",
@@ -761,7 +798,8 @@
         "id": "BD/WE35-38",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-39": {
     "name": "ライブのフィナーレ 氷川紗夜",
@@ -779,7 +817,8 @@
         "id": "BD/WE35-39",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE35-40": {
     "name": "大会に向けて 氷川紗夜",
@@ -797,7 +836,8 @@
         "id": "BD/WE35-40",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE35-41": {
     "name": "“夢を撃ち抜く瞬間に！”湊友希那",
@@ -815,7 +855,8 @@
         "id": "BD/WE35-41",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE35-42": {
     "name": "“Avant-garde HISTORY”白金燐子",
@@ -833,7 +874,8 @@
         "id": "BD/WE35-42",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE35-43": {
     "name": "ライブに向けて 宇田川あこ",
@@ -851,7 +893,8 @@
         "id": "BD/WE35-43",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE35-44": {
     "name": "“Avant-garde HISTORY”湊友希那",
@@ -869,7 +912,8 @@
         "id": "BD/WE35-44",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-45": {
     "name": "ライブのフィナーレ 今井リサ",
@@ -887,7 +931,8 @@
         "id": "BD/WE35-45",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-46": {
     "name": "“Over The Future LIVE”宇田川あこ",
@@ -905,7 +950,8 @@
         "id": "BD/WE35-46",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-47": {
     "name": "Over The Future LIVE",
@@ -923,7 +969,8 @@
         "id": "BD/WE35-47",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE35-48": {
     "name": "盛り上がってきたね",
@@ -941,7 +988,8 @@
         "id": "BD/WE35-48",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE35-49": {
     "name": "みんなでプール",
@@ -959,7 +1007,8 @@
         "id": "BD/WE35-49",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE35-50": {
     "name": "バンド合宿の夜",
@@ -977,6 +1026,7 @@
         "id": "BD/WE35-50",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

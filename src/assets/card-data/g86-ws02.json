@@ -19,7 +19,8 @@
         "id": "G86/WS02-080SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "G86/WS02-098": {
     "name": "死者のいない戦場 シン＆レーナ",
@@ -41,7 +42,8 @@
         "id": "G86/WS02-098SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "G86/WS02-107": {
     "name": "共に戦場へ レーナ",
@@ -63,6 +65,7 @@
         "id": "G86/WS02-107SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

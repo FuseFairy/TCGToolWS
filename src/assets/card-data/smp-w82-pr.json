@@ -15,7 +15,8 @@
         "id": "SMP/W82-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W82-P02": {
     "name": "“おっぱいは正義”静久",
@@ -33,7 +34,8 @@
         "id": "SMP/W82-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W82-P03": {
     "name": "“鳥白島のスナイパー”美希",
@@ -51,7 +53,8 @@
         "id": "SMP/W82-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W82-P04": {
     "name": "“鬼を追う少女”識",
@@ -69,7 +72,8 @@
         "id": "SMP/W82-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W82-P05": {
     "name": "“チャーハン・ラプソディ”うみ",
@@ -87,7 +91,8 @@
         "id": "SMP/W82-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W82-101": {
     "name": "“一人遊びの達人”うみ",
@@ -105,7 +110,8 @@
         "id": "SMP/W82-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W82-102": {
     "name": "“ときめく乙女”識",
@@ -123,7 +129,8 @@
         "id": "SMP/W82-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W82-103": {
     "name": "“観光協会の会長”美希",
@@ -141,7 +148,8 @@
         "id": "SMP/W82-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W82-104": {
     "name": "“ウシの恩返し”静久",
@@ -159,6 +167,7 @@
         "id": "SMP/W82-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

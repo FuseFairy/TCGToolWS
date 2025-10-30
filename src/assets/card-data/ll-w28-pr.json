@@ -15,7 +15,8 @@
         "id": "LL/W28-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W28-081": {
     "name": "“スクールアイドルフェスティバル”絵里",
@@ -33,7 +34,8 @@
         "id": "LL/W28-081",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W28-082": {
     "name": "“スクールアイドルフェスティバル”凛",
@@ -51,7 +53,8 @@
         "id": "LL/W28-082",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W28-083": {
     "name": "“スクールアイドルフェスティバル”真姫",
@@ -69,7 +72,8 @@
         "id": "LL/W28-083",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W28-084": {
     "name": "“スクールアイドルフェスティバル”希",
@@ -87,7 +91,8 @@
         "id": "LL/W28-084",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W28-085": {
     "name": "“スクールアイドルフェスティバル”花陽",
@@ -105,7 +110,8 @@
         "id": "LL/W28-085",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W28-086": {
     "name": "“スクールアイドルフェスティバル”にこ",
@@ -123,6 +129,7 @@
         "id": "LL/W28-086",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

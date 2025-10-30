@@ -15,7 +15,8 @@
         "id": "TF/S32-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-T02": {
     "name": "“害虫の王”テラフォーマー",
@@ -41,7 +42,8 @@
         "id": "TF/S32-T02R",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-T03": {
     "name": "“ネムリユスリカ”蛭間 一郎",
@@ -59,7 +61,8 @@
         "id": "TF/S32-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-T04": {
     "name": "種の激変",
@@ -77,7 +80,8 @@
         "id": "TF/S32-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-T05": {
     "name": "会敵",
@@ -95,7 +99,8 @@
         "id": "TF/S32-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "TF/S32-T06": {
     "name": "“バグズ２号の乗組員”秋田 奈々緒",
@@ -113,7 +118,8 @@
         "id": "TF/S32-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-T07": {
     "name": "“サバクトビバッタ”ティン",
@@ -131,7 +137,8 @@
         "id": "TF/S32-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-T08": {
     "name": "“任務遂行”小町 小吉",
@@ -149,7 +156,8 @@
         "id": "TF/S32-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-T09": {
     "name": "“ミイデラゴミムシ”ゴッド・リー",
@@ -167,7 +175,8 @@
         "id": "TF/S32-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-T11": {
     "name": "“任務遂行”ティン",
@@ -185,7 +194,8 @@
         "id": "TF/S32-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-T12": {
     "name": "“バグズ２号の乗組員”チョウ・ミンミン",
@@ -203,7 +213,8 @@
         "id": "TF/S32-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-T13": {
     "name": "“人為変態”小町 小吉",
@@ -221,7 +232,8 @@
         "id": "TF/S32-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-T14": {
     "name": "“バグズ２号の乗組員”ティン",
@@ -239,7 +251,8 @@
         "id": "TF/S32-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-T15": {
     "name": "“ニジイロクワガタ”マリア・ビレン",
@@ -257,7 +270,8 @@
         "id": "TF/S32-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-T16": {
     "name": "“パラポネラ” ドナテロ・K・デイヴス",
@@ -275,7 +289,8 @@
         "id": "TF/S32-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-T17": {
     "name": "“オオスズメバチ”小町 小吉",
@@ -293,7 +308,8 @@
         "id": "TF/S32-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TF/S32-T18": {
     "name": "既知との遭遇",
@@ -311,7 +327,8 @@
         "id": "TF/S32-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TF/S32-T19": {
     "name": "敗れざる者たち",
@@ -329,6 +346,7 @@
         "id": "TF/S32-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

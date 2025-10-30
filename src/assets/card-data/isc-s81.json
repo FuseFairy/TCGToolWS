@@ -19,7 +19,8 @@
         "id": "ISC/S81-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-002": {
     "name": "事務所。静寂。大輪の華 大崎甜花",
@@ -45,7 +46,8 @@
         "id": "ISC/S81-002SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-003": {
     "name": "スタンバイオッケー 大崎甘奈",
@@ -71,7 +73,8 @@
         "id": "ISC/S81-003SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-004": {
     "name": "マイ・ピュア・ロマンス 桑山千雪",
@@ -93,7 +96,8 @@
         "id": "ISC/S81-004SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-005": {
     "name": "金色の元気いっぱいガール 八宮めぐる",
@@ -115,7 +119,8 @@
         "id": "ISC/S81-005SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-006": {
     "name": "マメ丸と一緒！ 小宮果穂",
@@ -137,7 +142,8 @@
         "id": "ISC/S81-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-007": {
     "name": "キネマ・リリックで夢見て 八宮めぐる",
@@ -159,7 +165,8 @@
         "id": "ISC/S81-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-008": {
     "name": "バッドガールの羽ばたき 西城樹里",
@@ -181,7 +188,8 @@
         "id": "ISC/S81-008SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-009": {
     "name": "サンセットスカイパッセージ 杜野凛世",
@@ -203,7 +211,8 @@
         "id": "ISC/S81-009WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-010": {
     "name": "サンセットスカイパッセージ 園田智代子",
@@ -225,7 +234,8 @@
         "id": "ISC/S81-010WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-011": {
     "name": "サンセットスカイパッセージ 有栖川夏葉",
@@ -247,7 +257,8 @@
         "id": "ISC/S81-011WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-012": {
     "name": "サンセットスカイパッセージ 風野灯織",
@@ -269,7 +280,8 @@
         "id": "ISC/S81-012WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-013": {
     "name": "サンセットスカイパッセージ 大崎甘奈",
@@ -291,7 +303,8 @@
         "id": "ISC/S81-013WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-014": {
     "name": "サンセットスカイパッセージ 西城樹里",
@@ -313,7 +326,8 @@
         "id": "ISC/S81-014WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-015": {
     "name": "サンセットスカイパッセージ 桑山千雪",
@@ -335,7 +349,8 @@
         "id": "ISC/S81-015WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-016": {
     "name": "リフレッシュサマー 大崎甜花",
@@ -357,7 +372,8 @@
         "id": "ISC/S81-016WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-017": {
     "name": "リフレッシュサマー 風野灯織",
@@ -379,7 +395,8 @@
         "id": "ISC/S81-017WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-018": {
     "name": "リフレッシュサマー 杜野凛世",
@@ -401,7 +418,8 @@
         "id": "ISC/S81-018WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-019": {
     "name": "リフレッシュサマー 有栖川夏葉",
@@ -423,7 +441,8 @@
         "id": "ISC/S81-019WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-020": {
     "name": "リフレッシュサマー 園田智代子",
@@ -445,7 +464,8 @@
         "id": "ISC/S81-020WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-021": {
     "name": "ちび放課後クライマックスガールズ",
@@ -467,7 +487,8 @@
         "id": "ISC/S81-021WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-022": {
     "name": "ちびイルミネーションスターズ",
@@ -489,7 +510,8 @@
         "id": "ISC/S81-022WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-023": {
     "name": "ハッピーの答えはどこに？",
@@ -511,7 +533,8 @@
         "id": "ISC/S81-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-024": {
     "name": "キャプテン★パンプキン",
@@ -533,7 +556,8 @@
         "id": "ISC/S81-024R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-025": {
     "name": "坂道だらけのこの街で",
@@ -555,7 +579,8 @@
         "id": "ISC/S81-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-026": {
     "name": "杜野凛世の印象派 杜野凛世",
@@ -577,7 +602,8 @@
         "id": "ISC/S81-026SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-027": {
     "name": "オ♡フ♡レ♡コ 黛冬優子",
@@ -599,7 +625,8 @@
         "id": "ISC/S81-027SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-028": {
     "name": "ストイックトレーニング 有栖川夏葉",
@@ -621,7 +648,8 @@
         "id": "ISC/S81-028SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-029": {
     "name": "ラムネ色の覚悟 西城樹里",
@@ -643,7 +671,8 @@
         "id": "ISC/S81-029SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-030": {
     "name": "ちょこ色×きらきらロマン 園田智代子",
@@ -665,7 +694,8 @@
         "id": "ISC/S81-030SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-031": {
     "name": "閑話 樋口円香",
@@ -687,7 +717,8 @@
         "id": "ISC/S81-031SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-032": {
     "name": "かっとばし党の逆襲 浅倉 透",
@@ -709,7 +740,8 @@
         "id": "ISC/S81-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-033": {
     "name": "アルティメットマーメイド 有栖川夏葉",
@@ -731,7 +763,8 @@
         "id": "ISC/S81-033SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-034": {
     "name": "想ひいろは 杜野凛世",
@@ -753,7 +786,8 @@
         "id": "ISC/S81-034SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-035": {
     "name": "ROOKIE! 市川雛菜",
@@ -775,7 +809,8 @@
         "id": "ISC/S81-035SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-036": {
     "name": "ちょっとあげる～ 和泉愛依",
@@ -797,7 +832,8 @@
         "id": "ISC/S81-036SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-037": {
     "name": "純真チョコレート 園田智代子",
@@ -819,7 +855,8 @@
         "id": "ISC/S81-037SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-038": {
     "name": "パーティーのやくそく 福丸小糸",
@@ -841,7 +878,8 @@
         "id": "ISC/S81-038SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-039": {
     "name": "サンセットスカイパッセージ 芹沢あさひ",
@@ -863,7 +901,8 @@
         "id": "ISC/S81-039WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-040": {
     "name": "サンセットスカイパッセージ 浅倉 透",
@@ -885,7 +924,8 @@
         "id": "ISC/S81-040WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-041": {
     "name": "サンセットスカイパッセージ 市川雛菜",
@@ -907,7 +947,8 @@
         "id": "ISC/S81-041WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-042": {
     "name": "サンセットスカイパッセージ 樋口円香",
@@ -929,7 +970,8 @@
         "id": "ISC/S81-042WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-043": {
     "name": "サンセットスカイパッセージ 小宮果穂",
@@ -951,7 +993,8 @@
         "id": "ISC/S81-043WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-044": {
     "name": "サンセットスカイパッセージ 和泉愛依",
@@ -973,7 +1016,8 @@
         "id": "ISC/S81-044WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-045": {
     "name": "リフレッシュサマー 小宮果穂",
@@ -995,7 +1039,8 @@
         "id": "ISC/S81-045WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-046": {
     "name": "リフレッシュサマー 黛冬優子",
@@ -1017,7 +1062,8 @@
         "id": "ISC/S81-046WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-047": {
     "name": "リフレッシュサマー 福丸小糸",
@@ -1039,7 +1085,8 @@
         "id": "ISC/S81-047WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-048": {
     "name": "リフレッシュサマー 西城樹里",
@@ -1061,7 +1108,8 @@
         "id": "ISC/S81-048WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-049": {
     "name": "リフレッシュサマー 芹沢あさひ",
@@ -1083,7 +1131,8 @@
         "id": "ISC/S81-049WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-050": {
     "name": "常夏CLIMAX",
@@ -1105,7 +1154,8 @@
         "id": "ISC/S81-050R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-051": {
     "name": "なるんじゃん？",
@@ -1127,7 +1177,8 @@
         "id": "ISC/S81-051R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-052": {
     "name": "きせつはアイスクリン",
@@ -1149,7 +1200,8 @@
         "id": "ISC/S81-052R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "ISC/S81-053": {
     "name": "ジャンプ！スタッグ！！！ 芹沢あさひ",
@@ -1171,7 +1223,8 @@
         "id": "ISC/S81-053SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-054": {
     "name": "ばりうまかブルース 月岡恋鐘",
@@ -1193,7 +1246,8 @@
         "id": "ISC/S81-054SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-055": {
     "name": "ほわっとスマイル 櫻木真乃",
@@ -1215,7 +1269,8 @@
         "id": "ISC/S81-055SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-056": {
     "name": "似合うかな？ 大崎甘奈",
@@ -1237,7 +1292,8 @@
         "id": "ISC/S81-056SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-057": {
     "name": "包・帯・組・曲 幽谷霧子",
@@ -1259,7 +1315,8 @@
         "id": "ISC/S81-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-058": {
     "name": "ナチュラルモード 櫻木真乃",
@@ -1281,7 +1338,8 @@
         "id": "ISC/S81-058SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-059": {
     "name": "ザ・冬優子イズム 黛冬優子",
@@ -1303,7 +1361,8 @@
         "id": "ISC/S81-059SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-060": {
     "name": "ばってん長崎恋岬 月岡恋鐘",
@@ -1325,7 +1384,8 @@
         "id": "ISC/S81-060SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-061": {
     "name": "お試し／みつゴコロ 三峰結華",
@@ -1347,7 +1407,8 @@
         "id": "ISC/S81-061SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-062": {
     "name": "マイフェイバリット 桑山千雪",
@@ -1369,7 +1430,8 @@
         "id": "ISC/S81-062SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-063": {
     "name": "霧・音・燦・燦 幽谷霧子",
@@ -1391,7 +1453,8 @@
         "id": "ISC/S81-063SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-064": {
     "name": "秘密のだらだらタイム 大崎甜花",
@@ -1413,7 +1476,8 @@
         "id": "ISC/S81-064SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-065": {
     "name": "気になる！？染めちゃう！？ 和泉愛依",
@@ -1435,7 +1499,8 @@
         "id": "ISC/S81-065SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-066": {
     "name": "さかさま世界 芹沢あさひ",
@@ -1457,7 +1522,8 @@
         "id": "ISC/S81-066SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-067": {
     "name": "サンセットスカイパッセージ 白瀬咲耶",
@@ -1479,7 +1545,8 @@
         "id": "ISC/S81-067WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-068": {
     "name": "サンセットスカイパッセージ 黛冬優子",
@@ -1501,7 +1568,8 @@
         "id": "ISC/S81-068WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-069": {
     "name": "サンセットスカイパッセージ 田中摩美々",
@@ -1523,7 +1591,8 @@
         "id": "ISC/S81-069WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-070": {
     "name": "サンセットスカイパッセージ 大崎甜花",
@@ -1545,7 +1614,8 @@
         "id": "ISC/S81-070WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-071": {
     "name": "サンセットスカイパッセージ 八宮めぐる",
@@ -1567,7 +1637,8 @@
         "id": "ISC/S81-071WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-072": {
     "name": "サンセットスカイパッセージ 三峰結華",
@@ -1589,7 +1660,8 @@
         "id": "ISC/S81-072WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-073": {
     "name": "リフレッシュサマー 桑山千雪",
@@ -1611,7 +1683,8 @@
         "id": "ISC/S81-073WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-074": {
     "name": "リフレッシュサマー 和泉愛依",
@@ -1633,7 +1706,8 @@
         "id": "ISC/S81-074WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-075": {
     "name": "リフレッシュサマー 八宮めぐる",
@@ -1655,7 +1729,8 @@
         "id": "ISC/S81-075WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-076": {
     "name": "リフレッシュサマー 白瀬咲耶",
@@ -1677,7 +1752,8 @@
         "id": "ISC/S81-076WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-077": {
     "name": "リフレッシュサマー 大崎甘奈",
@@ -1699,7 +1775,8 @@
         "id": "ISC/S81-077WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-078": {
     "name": "リフレッシュサマー 田中摩美々",
@@ -1721,7 +1798,8 @@
         "id": "ISC/S81-078WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-079": {
     "name": "ちびアルストロメリア",
@@ -1743,7 +1821,8 @@
         "id": "ISC/S81-079WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-080": {
     "name": "ちびストレイライト",
@@ -1765,7 +1844,8 @@
         "id": "ISC/S81-080WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-081": {
     "name": "はじまりのエピローグ",
@@ -1787,7 +1867,8 @@
         "id": "ISC/S81-081R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-082": {
     "name": "SIDE：K",
@@ -1809,7 +1890,8 @@
         "id": "ISC/S81-082R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-083": {
     "name": "トキ・メキ・タコさん",
@@ -1831,7 +1913,8 @@
         "id": "ISC/S81-083R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-084": {
     "name": "プレゼン・バトン！",
@@ -1853,7 +1936,8 @@
         "id": "ISC/S81-084R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-085": {
     "name": "柔らかな微笑み 風野灯織",
@@ -1875,7 +1959,8 @@
         "id": "ISC/S81-085SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-086": {
     "name": "10個、光 浅倉 透",
@@ -1897,7 +1982,8 @@
         "id": "ISC/S81-086SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-087": {
     "name": "カラカラカラ 樋口円香",
@@ -1919,7 +2005,8 @@
         "id": "ISC/S81-087SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-088": {
     "name": "トリッキーナイト 田中摩美々",
@@ -1941,7 +2028,8 @@
         "id": "ISC/S81-088SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-089": {
     "name": "秘めやかファンサービス 白瀬咲耶",
@@ -1963,7 +2051,8 @@
         "id": "ISC/S81-089SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-090": {
     "name": "裏腹あまのじゃく 田中摩美々",
@@ -1985,7 +2074,8 @@
         "id": "ISC/S81-090SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-091": {
     "name": "カラフルメタモルフォーゼ 三峰結華",
@@ -2007,7 +2097,8 @@
         "id": "ISC/S81-091SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-092": {
     "name": "ポシェットの中には 福丸小糸",
@@ -2029,7 +2120,8 @@
         "id": "ISC/S81-092SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-093": {
     "name": "HAPPY-!NG 市川雛菜",
@@ -2051,7 +2143,8 @@
         "id": "ISC/S81-093SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-094": {
     "name": "紺碧のボーダーライン 白瀬咲耶",
@@ -2073,7 +2166,8 @@
         "id": "ISC/S81-094SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-095": {
     "name": "手作りの心遣い 風野灯織",
@@ -2095,7 +2189,8 @@
         "id": "ISC/S81-095SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-096": {
     "name": "サンセットスカイパッセージ 櫻木真乃",
@@ -2117,7 +2212,8 @@
         "id": "ISC/S81-096WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-097": {
     "name": "サンセットスカイパッセージ 月岡恋鐘",
@@ -2139,7 +2235,8 @@
         "id": "ISC/S81-097WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-098": {
     "name": "サンセットスカイパッセージ 幽谷霧子",
@@ -2161,7 +2258,8 @@
         "id": "ISC/S81-098WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-099": {
     "name": "サンセットスカイパッセージ 福丸小糸",
@@ -2183,7 +2281,8 @@
         "id": "ISC/S81-099WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-100": {
     "name": "リフレッシュサマー 三峰結華",
@@ -2205,7 +2304,8 @@
         "id": "ISC/S81-100WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-101": {
     "name": "リフレッシュサマー 月岡恋鐘",
@@ -2227,7 +2327,8 @@
         "id": "ISC/S81-101WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-102": {
     "name": "リフレッシュサマー 幽谷霧子",
@@ -2249,7 +2350,8 @@
         "id": "ISC/S81-102WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-103": {
     "name": "リフレッシュサマー 樋口円香",
@@ -2271,7 +2373,8 @@
         "id": "ISC/S81-103WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-104": {
     "name": "リフレッシュサマー 櫻木真乃",
@@ -2293,7 +2396,8 @@
         "id": "ISC/S81-104WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-105": {
     "name": "リフレッシュサマー 市川雛菜",
@@ -2315,7 +2419,8 @@
         "id": "ISC/S81-105WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-106": {
     "name": "リフレッシュサマー 浅倉 透",
@@ -2337,7 +2442,8 @@
         "id": "ISC/S81-106WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-107": {
     "name": "ちびノクチル",
@@ -2359,7 +2465,8 @@
         "id": "ISC/S81-107WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-108": {
     "name": "ちびアンティーカ",
@@ -2381,7 +2488,8 @@
         "id": "ISC/S81-108WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-109": {
     "name": "デタラメハッシュタグ",
@@ -2403,7 +2511,8 @@
         "id": "ISC/S81-109R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-110": {
     "name": "游魚",
@@ -2425,6 +2534,7 @@
         "id": "ISC/S81-110R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

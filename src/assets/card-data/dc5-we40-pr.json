@@ -19,7 +19,8 @@
         "id": "DC5/WE40-P08S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC5/WE40-P10": {
     "name": "サクラの国の魔法使い 瑞花",
@@ -37,6 +38,7 @@
         "id": "DC5/WE40-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

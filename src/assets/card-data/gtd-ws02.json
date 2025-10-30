@@ -19,7 +19,8 @@
         "id": "Gtd/WS02-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gtd/WS02-009": {
     "name": "大食漢 大河",
@@ -41,7 +42,8 @@
         "id": "Gtd/WS02-009SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gtd/WS02-012": {
     "name": "ファッションモデル 亜美",
@@ -63,7 +65,8 @@
         "id": "Gtd/WS02-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gtd/WS02-017": {
     "name": "超マイペース娘 実乃梨",
@@ -85,7 +88,8 @@
         "id": "Gtd/WS02-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gtd/WS02-020": {
     "name": "共同戦線 竜児＆大河",
@@ -107,7 +111,8 @@
         "id": "Gtd/WS02-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gtd/WS02-023": {
     "name": "メガネ委員長 北村",
@@ -129,7 +134,8 @@
         "id": "Gtd/WS02-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gtd/WS02-025": {
     "name": "ハイパー勤労少女 実乃梨",
@@ -151,7 +157,8 @@
         "id": "Gtd/WS02-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gtd/WS02-026": {
     "name": "季節外れの転校生 亜美",
@@ -173,7 +180,8 @@
         "id": "Gtd/WS02-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gtd/WS02-038": {
     "name": "とらドラ！",
@@ -195,6 +203,7 @@
         "id": "Gtd/WS02-038SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

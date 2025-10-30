@@ -15,7 +15,8 @@
         "id": "DC/WE02-019",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE02-027": {
     "name": "制服のキリエ",
@@ -33,7 +34,8 @@
         "id": "DC/WE02-027",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE02-028": {
     "name": "制服のカイレイン",
@@ -51,7 +53,8 @@
         "id": "DC/WE02-028",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE02-029": {
     "name": "くつろぐカイレイン",
@@ -69,7 +72,8 @@
         "id": "DC/WE02-029",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE02-030": {
     "name": "制服のミコト",
@@ -87,7 +91,8 @@
         "id": "DC/WE02-030",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE02-031": {
     "name": "制服のエリス",
@@ -105,7 +110,8 @@
         "id": "DC/WE02-031",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE02-032": {
     "name": "小さな幼なじみ 小恋",
@@ -123,7 +129,8 @@
         "id": "DC/WE02-032",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE02-033": {
     "name": "佇むアイシア",
@@ -141,7 +148,8 @@
         "id": "DC/WE02-033",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE02-034": {
     "name": "D.C.toVC RADIO",
@@ -159,7 +167,8 @@
         "id": "DC/WE02-034",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/WE02-035": {
     "name": "おこたでみかん",
@@ -177,7 +186,8 @@
         "id": "DC/WE02-035",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE02-036": {
     "name": "駆け巡る思い出…",
@@ -195,6 +205,7 @@
         "id": "DC/WE02-036",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

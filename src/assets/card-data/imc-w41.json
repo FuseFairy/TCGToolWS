@@ -15,7 +15,8 @@
         "id": "IMC/W41-T12SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-T16": {
     "name": "WONDERFUL M@GIC!! 未央",
@@ -37,7 +38,8 @@
         "id": "IMC/W41-T16S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-T19": {
     "name": "最高の舞台",
@@ -55,7 +57,8 @@
         "id": "IMC/W41-T19bR",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-T24": {
     "name": "始まりの一歩 卯月",
@@ -73,7 +76,8 @@
         "id": "IMC/W41-T24SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T35": {
     "name": "WONDERFUL M@GIC!! 卯月",
@@ -95,7 +99,8 @@
         "id": "IMC/W41-T35S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-T38": {
     "name": "最高の舞台",
@@ -113,7 +118,8 @@
         "id": "IMC/W41-T38bR",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T41": {
     "name": "始まりの一歩 凛",
@@ -131,7 +137,8 @@
         "id": "IMC/W41-T41SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T54": {
     "name": "WONDERFUL M@GIC!! 凛",
@@ -153,7 +160,8 @@
         "id": "IMC/W41-T54S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-T57": {
     "name": "最高の舞台",
@@ -171,7 +179,8 @@
         "id": "IMC/W41-T57bR",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-001": {
     "name": "本田 未央",
@@ -193,7 +202,8 @@
         "id": "IMC/W41-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-002": {
     "name": "赤城 みりあ",
@@ -215,7 +225,8 @@
         "id": "IMC/W41-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-003": {
     "name": "城ヶ崎 莉嘉",
@@ -237,7 +248,8 @@
         "id": "IMC/W41-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-004": {
     "name": "諸星 きらり",
@@ -259,7 +271,8 @@
         "id": "IMC/W41-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-005": {
     "name": "城ヶ崎 美嘉",
@@ -281,7 +294,8 @@
         "id": "IMC/W41-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-006": {
     "name": "KBYDチーム 友紀",
@@ -299,7 +313,8 @@
         "id": "IMC/W41-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-007": {
     "name": "十時 愛梨",
@@ -317,7 +332,8 @@
         "id": "IMC/W41-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-008": {
     "name": "new generations 未央",
@@ -339,7 +355,8 @@
         "id": "IMC/W41-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-009": {
     "name": "頼れる先輩 美嘉",
@@ -361,7 +378,8 @@
         "id": "IMC/W41-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-010": {
     "name": "ハピハピ☆ きらり",
@@ -383,7 +401,8 @@
         "id": "IMC/W41-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-011": {
     "name": "凸レーション みりあ",
@@ -405,7 +424,8 @@
         "id": "IMC/W41-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-012": {
     "name": "凸レーション 莉嘉",
@@ -427,7 +447,8 @@
         "id": "IMC/W41-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-013": {
     "name": "星 輝子",
@@ -445,7 +466,8 @@
         "id": "IMC/W41-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-014": {
     "name": "もう一度前へ 未央",
@@ -463,7 +485,8 @@
         "id": "IMC/W41-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-015": {
     "name": "投げキッス 美嘉",
@@ -481,7 +504,8 @@
         "id": "IMC/W41-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-016": {
     "name": "高森 藍子",
@@ -499,7 +523,8 @@
         "id": "IMC/W41-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-017": {
     "name": "安部 菜々",
@@ -517,7 +542,8 @@
         "id": "IMC/W41-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-018": {
     "name": "お姉ちゃん大好き 莉嘉",
@@ -535,7 +561,8 @@
         "id": "IMC/W41-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-019": {
     "name": "みんなで合宿 みりあ",
@@ -553,7 +580,8 @@
         "id": "IMC/W41-019",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-020": {
     "name": "不安な気持ち きらり",
@@ -571,7 +599,8 @@
         "id": "IMC/W41-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-021": {
     "name": "クラスの人気者 未央",
@@ -589,7 +618,8 @@
         "id": "IMC/W41-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-022": {
     "name": "凸レーション きらり",
@@ -607,7 +637,8 @@
         "id": "IMC/W41-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-023": {
     "name": "笑顔は苦手？ プロデューサー",
@@ -625,7 +656,8 @@
         "id": "IMC/W41-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-024": {
     "name": "マイファーストスター みりあ",
@@ -643,7 +675,8 @@
         "id": "IMC/W41-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-025": {
     "name": "片桐 早苗",
@@ -661,7 +694,8 @@
         "id": "IMC/W41-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-026": {
     "name": "姫川 友紀",
@@ -679,7 +713,8 @@
         "id": "IMC/W41-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-027": {
     "name": "日野 茜",
@@ -697,7 +732,8 @@
         "id": "IMC/W41-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-028": {
     "name": "大槻 唯",
@@ -715,7 +751,8 @@
         "id": "IMC/W41-028",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-029": {
     "name": "夏服の未央",
@@ -733,7 +770,8 @@
         "id": "IMC/W41-029",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-030": {
     "name": "堀 裕子",
@@ -751,7 +789,8 @@
         "id": "IMC/W41-030",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-031": {
     "name": "優しいお姉ちゃん 美嘉",
@@ -769,7 +808,8 @@
         "id": "IMC/W41-031",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-032": {
     "name": "お揃いのライブTシャツ 莉嘉",
@@ -787,7 +827,8 @@
         "id": "IMC/W41-032",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-033": {
     "name": "及川 雫",
@@ -805,7 +846,8 @@
         "id": "IMC/W41-033",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-034": {
     "name": "無言の圧力",
@@ -823,7 +865,8 @@
         "id": "IMC/W41-034",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-035": {
     "name": "エナジードリンク",
@@ -841,7 +884,8 @@
         "id": "IMC/W41-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-036": {
     "name": "LET’S GO HAPPY!!",
@@ -867,7 +911,8 @@
         "id": "IMC/W41-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-037": {
     "name": "できたてEvo! Revo! Generation!",
@@ -893,7 +938,8 @@
         "id": "IMC/W41-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-038": {
     "name": "TOKIMEKIエスカレート",
@@ -915,7 +961,8 @@
         "id": "IMC/W41-038R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-039": {
     "name": "ファンレター",
@@ -937,7 +984,8 @@
         "id": "IMC/W41-039R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IMC/W41-040": {
     "name": "千川 ちひろ",
@@ -955,7 +1003,8 @@
         "id": "IMC/W41-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-041": {
     "name": "三村 かな子",
@@ -977,7 +1026,8 @@
         "id": "IMC/W41-041SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-042": {
     "name": "島村 卯月",
@@ -999,7 +1049,8 @@
         "id": "IMC/W41-042SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-043": {
     "name": "双葉 杏",
@@ -1021,7 +1072,8 @@
         "id": "IMC/W41-043SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-044": {
     "name": "前川 みく",
@@ -1043,7 +1095,8 @@
         "id": "IMC/W41-044SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-045": {
     "name": "緒方 智絵里",
@@ -1065,7 +1118,8 @@
         "id": "IMC/W41-045SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-046": {
     "name": "小早川 紗枝",
@@ -1083,7 +1137,8 @@
         "id": "IMC/W41-046",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-047": {
     "name": "営業モード 杏",
@@ -1105,7 +1160,8 @@
         "id": "IMC/W41-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-048": {
     "name": "CANDY ISLAND 智絵里",
@@ -1127,7 +1183,8 @@
         "id": "IMC/W41-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-049": {
     "name": "輿水 幸子",
@@ -1145,7 +1202,8 @@
         "id": "IMC/W41-049",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-050": {
     "name": "CANDY ISLAND かな子",
@@ -1167,7 +1225,8 @@
         "id": "IMC/W41-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-051": {
     "name": "自分たちの詞 みく",
@@ -1189,7 +1248,8 @@
         "id": "IMC/W41-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-052": {
     "name": "new generations 卯月",
@@ -1211,7 +1271,8 @@
         "id": "IMC/W41-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-053": {
     "name": "小日向 美穂",
@@ -1229,7 +1290,8 @@
         "id": "IMC/W41-053",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-054": {
     "name": "マイファーストスター かな子",
@@ -1247,7 +1309,8 @@
         "id": "IMC/W41-054",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-055": {
     "name": "満面の笑顔 卯月",
@@ -1265,7 +1328,8 @@
         "id": "IMC/W41-055",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-056": {
     "name": "ストライキ！ みく",
@@ -1283,7 +1347,8 @@
         "id": "IMC/W41-056",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-057": {
     "name": "マイファーストスター 智絵里",
@@ -1301,7 +1366,8 @@
         "id": "IMC/W41-057",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-058": {
     "name": "佐久間 まゆ",
@@ -1319,7 +1385,8 @@
         "id": "IMC/W41-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-059": {
     "name": "マイファーストスター 卯月",
@@ -1337,7 +1404,8 @@
         "id": "IMC/W41-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-060": {
     "name": "CANDY ISLAND 杏",
@@ -1355,7 +1423,8 @@
         "id": "IMC/W41-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-061": {
     "name": "くつろぎタイム 杏",
@@ -1373,7 +1442,8 @@
         "id": "IMC/W41-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-062": {
     "name": "仕事中 プロデューサー",
@@ -1391,7 +1461,8 @@
         "id": "IMC/W41-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-063": {
     "name": "マシュマロキャッチ かな子",
@@ -1409,7 +1480,8 @@
         "id": "IMC/W41-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-064": {
     "name": "＊(Asterisk)  みく",
@@ -1427,7 +1499,8 @@
         "id": "IMC/W41-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-065": {
     "name": "藤本 里奈",
@@ -1445,7 +1518,8 @@
         "id": "IMC/W41-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-066": {
     "name": "KBYDチーム 幸子",
@@ -1463,7 +1537,8 @@
         "id": "IMC/W41-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-067": {
     "name": "パジャマの卯月",
@@ -1481,7 +1556,8 @@
         "id": "IMC/W41-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-068": {
     "name": "KBYDチーム 紗枝",
@@ -1499,7 +1575,8 @@
         "id": "IMC/W41-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-069": {
     "name": "みんなで合宿 智絵里",
@@ -1517,7 +1594,8 @@
         "id": "IMC/W41-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-070": {
     "name": "スタミナドリンク",
@@ -1535,7 +1613,8 @@
         "id": "IMC/W41-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-071": {
     "name": "new generationsの絆",
@@ -1553,7 +1632,8 @@
         "id": "IMC/W41-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-072": {
     "name": "Happy×2 Days",
@@ -1579,7 +1659,8 @@
         "id": "IMC/W41-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-073": {
     "name": "ΦωΦver!!",
@@ -1605,7 +1686,8 @@
         "id": "IMC/W41-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IMC/W41-074": {
     "name": "Star!!",
@@ -1627,7 +1709,8 @@
         "id": "IMC/W41-074R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-075": {
     "name": "あこがれのステージ",
@@ -1649,7 +1732,8 @@
         "id": "IMC/W41-075R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IMC/W41-076": {
     "name": "本気を出した結果",
@@ -1671,7 +1755,8 @@
         "id": "IMC/W41-076R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IMC/W41-077": {
     "name": "多田 李衣菜",
@@ -1693,7 +1778,8 @@
         "id": "IMC/W41-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-078": {
     "name": "渋谷 凛",
@@ -1715,7 +1801,8 @@
         "id": "IMC/W41-078SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-079": {
     "name": "新田 美波",
@@ -1737,7 +1824,8 @@
         "id": "IMC/W41-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-080": {
     "name": "神崎 蘭子",
@@ -1759,7 +1847,8 @@
         "id": "IMC/W41-080SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-081": {
     "name": "アナスタシア",
@@ -1781,7 +1870,8 @@
         "id": "IMC/W41-081SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-082": {
     "name": "マイファーストスター アナスタシア",
@@ -1803,7 +1893,8 @@
         "id": "IMC/W41-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-083": {
     "name": "＊(Asterisk)  李衣菜",
@@ -1825,7 +1916,8 @@
         "id": "IMC/W41-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-084": {
     "name": "マイファーストスター 凛",
@@ -1847,7 +1939,8 @@
         "id": "IMC/W41-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-085": {
     "name": "漆黒の堕天使 蘭子",
@@ -1869,7 +1962,8 @@
         "id": "IMC/W41-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-086": {
     "name": "純白の天使 蘭子",
@@ -1891,7 +1985,8 @@
         "id": "IMC/W41-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-087": {
     "name": "マイファーストスター 美波",
@@ -1913,7 +2008,8 @@
         "id": "IMC/W41-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-088": {
     "name": "川島 瑞樹",
@@ -1931,7 +2027,8 @@
         "id": "IMC/W41-088",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-089": {
     "name": "高垣 楓",
@@ -1949,7 +2046,8 @@
         "id": "IMC/W41-089",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-090": {
     "name": "クールな女子高生 凛",
@@ -1967,7 +2065,8 @@
         "id": "IMC/W41-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-091": {
     "name": "白坂 小梅",
@@ -1985,7 +2084,8 @@
         "id": "IMC/W41-091",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-092": {
     "name": "みんなで合宿 アナスタシア",
@@ -2003,7 +2103,8 @@
         "id": "IMC/W41-092",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-093": {
     "name": "北条 加蓮",
@@ -2021,7 +2122,8 @@
         "id": "IMC/W41-093",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-094": {
     "name": "new generations 凛",
@@ -2039,7 +2141,8 @@
         "id": "IMC/W41-094",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-095": {
     "name": "自分たちの詞 李衣菜",
@@ -2057,7 +2160,8 @@
         "id": "IMC/W41-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-096": {
     "name": "LOVE LAIKA 美波",
@@ -2075,7 +2179,8 @@
         "id": "IMC/W41-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-097": {
     "name": "神谷 奈緒",
@@ -2093,7 +2198,8 @@
         "id": "IMC/W41-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-098": {
     "name": "LOVE LAIKA アナスタシア",
@@ -2111,7 +2217,8 @@
         "id": "IMC/W41-098",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-099": {
     "name": "佐々木 千枝",
@@ -2129,7 +2236,8 @@
         "id": "IMC/W41-099",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-100": {
     "name": "上条 春菜",
@@ -2147,7 +2255,8 @@
         "id": "IMC/W41-100",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-101": {
     "name": "大和 亜季",
@@ -2165,7 +2274,8 @@
         "id": "IMC/W41-101",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-102": {
     "name": "凛との出会い プロデューサー",
@@ -2183,7 +2293,8 @@
         "id": "IMC/W41-102",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-103": {
     "name": "覚醒の時 蘭子",
@@ -2201,7 +2312,8 @@
         "id": "IMC/W41-103",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-104": {
     "name": "Rockなアイドル 李衣菜",
@@ -2219,7 +2331,8 @@
         "id": "IMC/W41-104",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-105": {
     "name": "厳しい眼差し 凛",
@@ -2237,7 +2350,8 @@
         "id": "IMC/W41-105",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-106": {
     "name": "リーダーとして 美波",
@@ -2255,7 +2369,8 @@
         "id": "IMC/W41-106",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-107": {
     "name": "封印されし魔導書",
@@ -2273,7 +2388,8 @@
         "id": "IMC/W41-107",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-108": {
     "name": "合わない２人",
@@ -2291,7 +2407,8 @@
         "id": "IMC/W41-108",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-109": {
     "name": "Memories",
@@ -2317,7 +2434,8 @@
         "id": "IMC/W41-109S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IMC/W41-110": {
     "name": "#NAME?",
@@ -2343,7 +2461,8 @@
         "id": "IMC/W41-110S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-111": {
     "name": "一歩踏み出して",
@@ -2365,7 +2484,8 @@
         "id": "IMC/W41-111R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IMC/W41-112": {
     "name": "みんなのリーダー",
@@ -2387,6 +2507,7 @@
         "id": "IMC/W41-112R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

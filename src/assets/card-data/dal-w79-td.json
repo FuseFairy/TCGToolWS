@@ -15,7 +15,8 @@
         "id": "DAL/W79-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-T02": {
     "name": "最悪な起こされ方 琴里",
@@ -33,7 +34,8 @@
         "id": "DAL/W79-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-T03": {
     "name": "人間との対峙 十香",
@@ -55,7 +57,8 @@
         "id": "DAL/W79-T03SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-T04": {
     "name": "デートの待ち合わせ 狂三",
@@ -73,7 +76,8 @@
         "id": "DAL/W79-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-T05": {
     "name": "ラタトスクの司令官 琴里",
@@ -91,7 +95,8 @@
         "id": "DAL/W79-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-T06": {
     "name": "刻み込む絶望 狂三",
@@ -113,7 +118,8 @@
         "id": "DAL/W79-T06S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-T07": {
     "name": "デェト当日 十香",
@@ -131,7 +137,8 @@
         "id": "DAL/W79-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-T08": {
     "name": "最大限のサポート 琴里",
@@ -153,7 +160,8 @@
         "id": "DAL/W79-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-T09": {
     "name": "溢れる気持ち 狂三",
@@ -171,7 +179,8 @@
         "id": "DAL/W79-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-T10": {
     "name": "敵対心 十香",
@@ -193,7 +202,8 @@
         "id": "DAL/W79-T10S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-T11": {
     "name": "わたくしたち",
@@ -215,7 +225,8 @@
         "id": "DAL/W79-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-T12": {
     "name": "唐突な挨拶 折紙",
@@ -233,7 +244,8 @@
         "id": "DAL/W79-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-T13": {
     "name": "怯える四糸乃",
@@ -255,7 +267,8 @@
         "id": "DAL/W79-T13R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-T14": {
     "name": "ドクターストップ 四糸乃",
@@ -273,7 +286,8 @@
         "id": "DAL/W79-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-T15": {
     "name": "変わった会話 折紙",
@@ -291,7 +305,8 @@
         "id": "DAL/W79-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-T16": {
     "name": "かっこいい？ 四糸乃",
@@ -309,7 +324,8 @@
         "id": "DAL/W79-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-T17": {
     "name": "精霊との対峙 折紙",
@@ -331,7 +347,8 @@
         "id": "DAL/W79-T17SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-T18": {
     "name": "マイ・リトル・シドー",
@@ -349,7 +366,8 @@
         "id": "DAL/W79-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-T19": {
     "name": "戦闘開始",
@@ -367,7 +385,8 @@
         "id": "DAL/W79-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-T20": {
     "name": "よしのんを探して",
@@ -385,6 +404,7 @@
         "id": "DAL/W79-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

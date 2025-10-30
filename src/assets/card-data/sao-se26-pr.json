@@ -15,7 +15,8 @@
         "id": "SAO/SE26-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE26-P02": {
     "name": "夏祭り 明日奈",
@@ -33,6 +34,7 @@
         "id": "SAO/SE26-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "MK/S11-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-107": {
     "name": "衣装変更！？ シャロ＆由夢",
@@ -33,7 +34,8 @@
         "id": "MK/S11-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-108": {
     "name": "まっすぐな少女 シャロ",
@@ -51,7 +53,8 @@
         "id": "MK/S11-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-109": {
     "name": "解決への手がかり コーデリア",
@@ -69,7 +72,8 @@
         "id": "MK/S11-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-110": {
     "name": "探偵の卵 シャロ",
@@ -87,7 +91,8 @@
         "id": "MK/S11-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-111": {
     "name": "秘められた力 エリー",
@@ -105,7 +110,8 @@
         "id": "MK/S11-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-112": {
     "name": "未来の名探偵？ミルキィホームズ",
@@ -127,7 +133,8 @@
         "id": "MK/S11-112p",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-113": {
     "name": "才能の集合 Genius4",
@@ -149,7 +156,8 @@
         "id": "MK/S11-113p",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-114": {
     "name": "美学に生きる賊 怪盗帝国",
@@ -171,7 +179,8 @@
         "id": "MK/S11-114p",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-115": {
     "name": "のんきな自信 ネロ",
@@ -189,7 +198,8 @@
         "id": "MK/S11-115",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-116": {
     "name": "探偵学院のミルキィホームズ",
@@ -207,7 +217,8 @@
         "id": "MK/S11-116",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-117": {
     "name": "探偵学院のシャロ",
@@ -225,7 +236,8 @@
         "id": "MK/S11-117",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-118": {
     "name": "探偵学院のエリー",
@@ -243,7 +255,8 @@
         "id": "MK/S11-118",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-119": {
     "name": "探偵学院のコーデリア",
@@ -261,7 +274,8 @@
         "id": "MK/S11-119",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-120": {
     "name": "探偵学院のネロ",
@@ -279,7 +293,8 @@
         "id": "MK/S11-120",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-121": {
     "name": "アンリエット＆ミルキィホームズ",
@@ -297,7 +312,8 @@
         "id": "MK/S11-121",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-122": {
     "name": "大切なもの シャロ",
@@ -315,7 +331,8 @@
         "id": "MK/S11-122",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-123": {
     "name": "とっても元気 シャロ",
@@ -333,6 +350,7 @@
         "id": "MK/S11-123",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

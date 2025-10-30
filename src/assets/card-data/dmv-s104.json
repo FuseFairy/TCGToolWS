@@ -19,7 +19,8 @@
         "id": "Dmv/S104-053SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dmv/S104-058": {
     "name": "洗練されたアーマー アイアンマン",
@@ -41,7 +42,8 @@
         "id": "Dmv/S104-058SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dmv/S104-074": {
     "name": "何度も立ち上がる キャプテン・マーベル",
@@ -63,6 +65,7 @@
         "id": "Dmv/S104-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

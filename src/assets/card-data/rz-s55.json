@@ -19,7 +19,8 @@
         "id": "RZ/S55-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-002": {
     "name": "輝く竜歴石 フェルト",
@@ -37,7 +38,8 @@
         "id": "RZ/S55-002",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-003": {
     "name": "強気な性格 フェルト",
@@ -55,7 +57,8 @@
         "id": "RZ/S55-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-004": {
     "name": "徽章の価値 フェルト",
@@ -73,7 +76,8 @@
         "id": "RZ/S55-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-005": {
     "name": "呑み込めない状況 フェルト",
@@ -91,7 +95,8 @@
         "id": "RZ/S55-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-006": {
     "name": "ペテルギウス・ロマネコンティ",
@@ -109,7 +114,8 @@
         "id": "RZ/S55-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-007": {
     "name": "敵前の構え フェルト",
@@ -127,7 +133,8 @@
         "id": "RZ/S55-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-008": {
     "name": "見えざる手",
@@ -145,7 +152,8 @@
         "id": "RZ/S55-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-009": {
     "name": "一流の毛並み職人 スバル",
@@ -163,7 +171,8 @@
         "id": "RZ/S55-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-010": {
     "name": "見えざる脅威 ペテルギウス",
@@ -181,7 +190,8 @@
         "id": "RZ/S55-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-011": {
     "name": "落ち着いた所作 ラインハルト",
@@ -199,7 +209,8 @@
         "id": "RZ/S55-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-012": {
     "name": "王城での再会 ラインハルト",
@@ -217,7 +228,8 @@
         "id": "RZ/S55-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-013": {
     "name": "気丈な少女 フェルト",
@@ -235,7 +247,8 @@
         "id": "RZ/S55-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-014": {
     "name": "信頼の共闘 ユリウス",
@@ -253,7 +266,8 @@
         "id": "RZ/S55-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-015": {
     "name": "指先",
@@ -271,7 +285,8 @@
         "id": "RZ/S55-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-016": {
     "name": "男装の麗人 クルシュ",
@@ -289,7 +304,8 @@
         "id": "RZ/S55-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-017": {
     "name": "近衛騎士団 フェリス",
@@ -307,7 +323,8 @@
         "id": "RZ/S55-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-018": {
     "name": "歓喜の瞬間 フェリス",
@@ -325,7 +342,8 @@
         "id": "RZ/S55-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-019": {
     "name": "危機に向かう ヴィルヘルム",
@@ -343,7 +361,8 @@
         "id": "RZ/S55-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-020": {
     "name": "不敵な笑み ペテルギウス",
@@ -361,7 +380,8 @@
         "id": "RZ/S55-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-021": {
     "name": "勝利の叫び クルシュ",
@@ -379,7 +399,8 @@
         "id": "RZ/S55-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-022": {
     "name": "レンタルゴーア",
@@ -397,7 +418,8 @@
         "id": "RZ/S55-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-023": {
     "name": "やってやるよ、王選",
@@ -419,7 +441,8 @@
         "id": "RZ/S55-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-024": {
     "name": "寵愛の証",
@@ -437,7 +460,8 @@
         "id": "RZ/S55-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-025": {
     "name": "剣撃",
@@ -455,7 +479,8 @@
         "id": "RZ/S55-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RZ/S55-026": {
     "name": "異世界常夏生活 ベアトリス",
@@ -477,7 +502,8 @@
         "id": "RZ/S55-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-027": {
     "name": "異世界常夏生活 ラム",
@@ -499,7 +525,8 @@
         "id": "RZ/S55-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-028": {
     "name": "ロズワール邸の団欒 ラム",
@@ -521,7 +548,8 @@
         "id": "RZ/S55-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-029": {
     "name": "妹の危機 ラム",
@@ -543,7 +571,8 @@
         "id": "RZ/S55-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-030": {
     "name": "お勉強 ラム",
@@ -561,7 +590,8 @@
         "id": "RZ/S55-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-031": {
     "name": "メイド姉妹 レム＆ラム",
@@ -583,7 +613,8 @@
         "id": "RZ/S55-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-032": {
     "name": "にーちゃ大好き ベアトリス",
@@ -601,7 +632,8 @@
         "id": "RZ/S55-032",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-033": {
     "name": "イライラ ベアトリス",
@@ -619,7 +651,8 @@
         "id": "RZ/S55-033",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-034": {
     "name": "呆れ顔 ラム",
@@ -637,7 +670,8 @@
         "id": "RZ/S55-034",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-035": {
     "name": "不意のいたずら ベアトリス",
@@ -659,7 +693,8 @@
         "id": "RZ/S55-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-036": {
     "name": "落ち着き払った返答 ラム",
@@ -677,7 +712,8 @@
         "id": "RZ/S55-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-037": {
     "name": "おびえるラム",
@@ -695,7 +731,8 @@
         "id": "RZ/S55-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-038": {
     "name": "ロズワール邸からの刺客 ラム",
@@ -713,7 +750,8 @@
         "id": "RZ/S55-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-039": {
     "name": "魔女の匂い ベアトリス",
@@ -731,7 +769,8 @@
         "id": "RZ/S55-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-040": {
     "name": "不機嫌なベアトリス",
@@ -749,7 +788,8 @@
         "id": "RZ/S55-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-041": {
     "name": "軽蔑のまなざし ラム",
@@ -767,7 +807,8 @@
         "id": "RZ/S55-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-042": {
     "name": "心配するラム",
@@ -785,7 +826,8 @@
         "id": "RZ/S55-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-043": {
     "name": "ロズワールとの対峙 ベアトリス",
@@ -803,7 +845,8 @@
         "id": "RZ/S55-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-044": {
     "name": "裸の付き合い ロズワール",
@@ -821,7 +864,8 @@
         "id": "RZ/S55-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-045": {
     "name": "双子のメイド ラム",
@@ -839,7 +883,8 @@
         "id": "RZ/S55-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-046": {
     "name": "地団太を踏むベアトリス",
@@ -857,7 +902,8 @@
         "id": "RZ/S55-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-047": {
     "name": "風呂上りのスバル",
@@ -875,7 +921,8 @@
         "id": "RZ/S55-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-048": {
     "name": "ドリルっ子 ベアトリス",
@@ -893,7 +940,8 @@
         "id": "RZ/S55-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-049": {
     "name": "鬼の血族 ラム",
@@ -911,7 +959,8 @@
         "id": "RZ/S55-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-050": {
     "name": "呪術の元凶",
@@ -929,7 +978,8 @@
         "id": "RZ/S55-050",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-051": {
     "name": "禁書庫",
@@ -947,7 +997,8 @@
         "id": "RZ/S55-051",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-052": {
     "name": "自慢の料理",
@@ -969,7 +1020,8 @@
         "id": "RZ/S55-052R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-053": {
     "name": "魔女教襲来",
@@ -987,7 +1039,8 @@
         "id": "RZ/S55-053",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RZ/S55-054": {
     "name": "余命宣告",
@@ -1005,7 +1058,8 @@
         "id": "RZ/S55-054",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RZ/S55-055": {
     "name": "秘密の私室",
@@ -1027,7 +1081,8 @@
         "id": "RZ/S55-055R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-056": {
     "name": "純粋で無垢 エミリア",
@@ -1049,7 +1104,8 @@
         "id": "RZ/S55-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-057": {
     "name": "嬉しげなしぐさ レム",
@@ -1071,7 +1127,8 @@
         "id": "RZ/S55-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-058": {
     "name": "密かにくんくん レム",
@@ -1093,7 +1150,8 @@
         "id": "RZ/S55-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-059": {
     "name": "異世界常夏生活 エミリア",
@@ -1115,7 +1173,8 @@
         "id": "RZ/S55-059SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-060": {
     "name": "異世界常夏生活 レム",
@@ -1137,7 +1196,8 @@
         "id": "RZ/S55-060SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-061": {
     "name": "教えるぞ♪エミリア",
@@ -1159,7 +1219,8 @@
         "id": "RZ/S55-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-062": {
     "name": "もぐもぐパック",
@@ -1181,7 +1242,8 @@
         "id": "RZ/S55-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-063": {
     "name": "真っ直ぐな笑顔 レム",
@@ -1203,7 +1265,8 @@
         "id": "RZ/S55-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-064": {
     "name": "急いで登校 レム",
@@ -1225,7 +1288,8 @@
         "id": "RZ/S55-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-065": {
     "name": "ロズワール邸の団欒 エミリア",
@@ -1247,7 +1311,8 @@
         "id": "RZ/S55-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-066": {
     "name": "可愛い従者 ラム＆レム",
@@ -1269,7 +1334,8 @@
         "id": "RZ/S55-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-067": {
     "name": "穏やかな佇まい エミリア",
@@ -1291,7 +1357,8 @@
         "id": "RZ/S55-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-068": {
     "name": "最愛の導き レム",
@@ -1309,7 +1376,8 @@
         "id": "RZ/S55-068",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-069": {
     "name": "怒りの問い エミリア",
@@ -1327,7 +1395,8 @@
         "id": "RZ/S55-069",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-070": {
     "name": "見過ごせない性格 エミリア",
@@ -1349,7 +1418,8 @@
         "id": "RZ/S55-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-071": {
     "name": "ロズワール邸の団欒 レム",
@@ -1371,7 +1441,8 @@
         "id": "RZ/S55-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-072": {
     "name": "スバルとお仕事 レム",
@@ -1389,7 +1460,8 @@
         "id": "RZ/S55-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-073": {
     "name": "2度目の朝のエミリア",
@@ -1407,7 +1479,8 @@
         "id": "RZ/S55-073",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-074": {
     "name": "未来のこと レム",
@@ -1425,7 +1498,8 @@
         "id": "RZ/S55-074",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-075": {
     "name": "フェルトを庇うエミリア",
@@ -1443,7 +1517,8 @@
         "id": "RZ/S55-075",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-076": {
     "name": "怒鬼の一撃 レム",
@@ -1461,7 +1536,8 @@
         "id": "RZ/S55-076",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-077": {
     "name": "なんでもできるレム",
@@ -1479,7 +1555,8 @@
         "id": "RZ/S55-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-078": {
     "name": "白鯨討伐 レム",
@@ -1497,7 +1574,8 @@
         "id": "RZ/S55-078",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-079": {
     "name": "お見送り エミリア",
@@ -1515,7 +1593,8 @@
         "id": "RZ/S55-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-080": {
     "name": "信頼の共闘 スバル",
@@ -1533,7 +1612,8 @@
         "id": "RZ/S55-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-081": {
     "name": "喫緊の構え レム",
@@ -1551,7 +1631,8 @@
         "id": "RZ/S55-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-082": {
     "name": "鬼の血族 レム",
@@ -1569,7 +1650,8 @@
         "id": "RZ/S55-082",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-083": {
     "name": "溢れる涙 エミリア",
@@ -1587,7 +1669,8 @@
         "id": "RZ/S55-083",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-084": {
     "name": "巨大化 パック",
@@ -1605,7 +1688,8 @@
         "id": "RZ/S55-084",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-085": {
     "name": "急発進 レム",
@@ -1623,7 +1707,8 @@
         "id": "RZ/S55-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-086": {
     "name": "予想外の切り替えし エミリア",
@@ -1641,7 +1726,8 @@
         "id": "RZ/S55-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-087": {
     "name": "優しいお姉ちゃん エミリア",
@@ -1659,7 +1745,8 @@
         "id": "RZ/S55-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-088": {
     "name": "しょんぼり レム",
@@ -1677,7 +1764,8 @@
         "id": "RZ/S55-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-089": {
     "name": "膝枕するレム",
@@ -1695,7 +1783,8 @@
         "id": "RZ/S55-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-090": {
     "name": "おびえるレム",
@@ -1713,7 +1802,8 @@
         "id": "RZ/S55-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-091": {
     "name": "魔法解析 エミリア",
@@ -1731,7 +1821,8 @@
         "id": "RZ/S55-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-092": {
     "name": "悲しげな面差し エミリア",
@@ -1749,7 +1840,8 @@
         "id": "RZ/S55-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-093": {
     "name": "双子のメイド レム",
@@ -1767,7 +1859,8 @@
         "id": "RZ/S55-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-094": {
     "name": "ミーティア",
@@ -1785,7 +1878,8 @@
         "id": "RZ/S55-094",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-095": {
     "name": "贖罪の記憶",
@@ -1803,7 +1897,8 @@
         "id": "RZ/S55-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-096": {
     "name": "たまには二人だけ",
@@ -1825,7 +1920,8 @@
         "id": "RZ/S55-096R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-097": {
     "name": "世界一の英雄",
@@ -1847,7 +1943,8 @@
         "id": "RZ/S55-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-098": {
     "name": "嬉しい特別扱い",
@@ -1865,7 +1962,8 @@
         "id": "RZ/S55-098",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S55-099": {
     "name": "絶望に、抗え―。",
@@ -1887,7 +1985,8 @@
         "id": "RZ/S55-099SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S55-100": {
     "name": "驚愕の光景",
@@ -1905,6 +2004,7 @@
         "id": "RZ/S55-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

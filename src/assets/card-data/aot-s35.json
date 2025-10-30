@@ -15,7 +15,8 @@
         "id": "AOT/S35-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-T10": {
     "name": "エレン・イェーガー",
@@ -37,7 +38,8 @@
         "id": "AOT/S35-T10SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-T18": {
     "name": "ミカサ・アッカーマン",
@@ -55,7 +57,8 @@
         "id": "AOT/S35-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-001": {
     "name": "“城壁の彼方”エレン",
@@ -77,7 +80,8 @@
         "id": "AOT/S35-001R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-002": {
     "name": "“運命への抗い”アルミン",
@@ -99,7 +103,8 @@
         "id": "AOT/S35-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-003": {
     "name": "“運命への抗い”エレン",
@@ -121,7 +126,8 @@
         "id": "AOT/S35-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-004": {
     "name": "“入団式”アニ",
@@ -139,7 +145,8 @@
         "id": "AOT/S35-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-005": {
     "name": "“切り拓く未来”エレン",
@@ -161,7 +168,8 @@
         "id": "AOT/S35-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-006": {
     "name": "“切り拓く未来”アルミン",
@@ -179,7 +187,8 @@
         "id": "AOT/S35-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-007": {
     "name": "“出動準備”エレン",
@@ -197,7 +206,8 @@
         "id": "AOT/S35-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-008": {
     "name": "“確固たる意志”エレン巨人",
@@ -215,7 +225,8 @@
         "id": "AOT/S35-008",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-009": {
     "name": "“正解を導く力”アルミン",
@@ -233,7 +244,8 @@
         "id": "AOT/S35-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-010": {
     "name": "“惨劇の再来”エレン",
@@ -251,7 +263,8 @@
         "id": "AOT/S35-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-011": {
     "name": "“心優しい仲間”コニー",
@@ -269,7 +282,8 @@
         "id": "AOT/S35-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-012": {
     "name": "“人類の激昂”エレン巨人",
@@ -287,7 +301,8 @@
         "id": "AOT/S35-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-013": {
     "name": "“人類反撃の鍵”エレン",
@@ -305,7 +320,8 @@
         "id": "AOT/S35-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-014": {
     "name": "“心の呼びかけ”アルミン",
@@ -323,7 +339,8 @@
         "id": "AOT/S35-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-015": {
     "name": "“第104期訓練兵団”アニ",
@@ -341,7 +358,8 @@
         "id": "AOT/S35-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-016": {
     "name": "“複雑な胸中”アルミン",
@@ -359,7 +377,8 @@
         "id": "AOT/S35-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-017": {
     "name": "“第104期訓練兵団”エレン",
@@ -377,7 +396,8 @@
         "id": "AOT/S35-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-018": {
     "name": "“第104期訓練兵団”コニー",
@@ -395,7 +415,8 @@
         "id": "AOT/S35-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-019": {
     "name": "“駐屯兵団所属”ハンネス",
@@ -413,7 +434,8 @@
         "id": "AOT/S35-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-020": {
     "name": "“通過儀礼”アルミン",
@@ -431,7 +453,8 @@
         "id": "AOT/S35-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-021": {
     "name": "“思い出の日々”エレン",
@@ -449,7 +472,8 @@
         "id": "AOT/S35-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-022": {
     "name": "“駐屯兵団の司令官”ピクシス",
@@ -467,7 +491,8 @@
         "id": "AOT/S35-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-023": {
     "name": "“勇猛なる戦士”エレン",
@@ -485,7 +510,8 @@
         "id": "AOT/S35-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-024": {
     "name": "“戸惑い”アルミン",
@@ -503,7 +529,8 @@
         "id": "AOT/S35-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-025": {
     "name": "“巨人化能力”エレン巨人",
@@ -521,7 +548,8 @@
         "id": "AOT/S35-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-026": {
     "name": "対巨人戦用『立体機動装置』",
@@ -547,7 +575,8 @@
         "id": "AOT/S35-026c",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-027": {
     "name": "『巨人の力』",
@@ -565,7 +594,8 @@
         "id": "AOT/S35-027",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-028": {
     "name": "あの日から",
@@ -587,7 +617,8 @@
         "id": "AOT/S35-028R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AOT/S35-029": {
     "name": "今、何をすべきか",
@@ -609,7 +640,8 @@
         "id": "AOT/S35-029b",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-030": {
     "name": "鉄槌",
@@ -627,7 +659,8 @@
         "id": "AOT/S35-030",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-031": {
     "name": "“城壁の彼方”リヴァイ",
@@ -649,7 +682,8 @@
         "id": "AOT/S35-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-032": {
     "name": "“運命への抗い”リヴァイ",
@@ -671,7 +705,8 @@
         "id": "AOT/S35-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-033": {
     "name": "“荒ぶる波紋”リヴァイ",
@@ -693,7 +728,8 @@
         "id": "AOT/S35-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-034": {
     "name": "“穏やかな微笑”ペトラ",
@@ -711,7 +747,8 @@
         "id": "AOT/S35-034",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-035": {
     "name": "“潔癖すぎる性格”リヴァイ",
@@ -729,7 +766,8 @@
         "id": "AOT/S35-035",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-036": {
     "name": "“人類最強の兵士”リヴァイ",
@@ -747,7 +785,8 @@
         "id": "AOT/S35-036",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-037": {
     "name": "“気さくな人柄”ハンジ",
@@ -769,7 +808,8 @@
         "id": "AOT/S35-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-038": {
     "name": "“兵団いちの変わり者”ハンジ",
@@ -787,7 +827,8 @@
         "id": "AOT/S35-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-039": {
     "name": "“リヴァイ班の一員”ペトラ",
@@ -805,7 +846,8 @@
         "id": "AOT/S35-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-040": {
     "name": "“クールな性格”リヴァイ",
@@ -823,7 +865,8 @@
         "id": "AOT/S35-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-041": {
     "name": "“冷徹な眼差し”リヴァイ",
@@ -841,7 +884,8 @@
         "id": "AOT/S35-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-042": {
     "name": "“調査兵団長”エルヴィン",
@@ -859,7 +903,8 @@
         "id": "AOT/S35-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-043": {
     "name": "“リヴァイ班の一員”エルド",
@@ -877,7 +922,8 @@
         "id": "AOT/S35-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-044": {
     "name": "“リヴァイ班の一員”グンタ",
@@ -895,7 +941,8 @@
         "id": "AOT/S35-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-045": {
     "name": "“調査兵団の兵士長”リヴァイ",
@@ -913,7 +960,8 @@
         "id": "AOT/S35-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-046": {
     "name": "“高揚する瞬間”ハンジ",
@@ -931,7 +979,8 @@
         "id": "AOT/S35-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-047": {
     "name": "“リヴァイ班の一員”オルオ",
@@ -949,7 +998,8 @@
         "id": "AOT/S35-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-048": {
     "name": "“調査兵団分隊長”ハンジ",
@@ -967,7 +1017,8 @@
         "id": "AOT/S35-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-049": {
     "name": "“気高き兵士”リヴァイ",
@@ -985,7 +1036,8 @@
         "id": "AOT/S35-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-050": {
     "name": "“壁外調査”エルヴィン",
@@ -1003,7 +1055,8 @@
         "id": "AOT/S35-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-051": {
     "name": "生態調査",
@@ -1021,7 +1074,8 @@
         "id": "AOT/S35-051",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-052": {
     "name": "『教訓』",
@@ -1039,7 +1093,8 @@
         "id": "AOT/S35-052",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-053": {
     "name": "自由の翼",
@@ -1061,7 +1116,8 @@
         "id": "AOT/S35-053R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-054": {
     "name": "特別作戦班",
@@ -1079,7 +1135,8 @@
         "id": "AOT/S35-054",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AOT/S35-055": {
     "name": "真相",
@@ -1097,7 +1154,8 @@
         "id": "AOT/S35-055",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AOT/S35-056": {
     "name": "“第104期訓練兵団”クリスタ",
@@ -1119,7 +1177,8 @@
         "id": "AOT/S35-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-057": {
     "name": "“運命への抗い”ミカサ",
@@ -1141,7 +1200,8 @@
         "id": "AOT/S35-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-058": {
     "name": "“城壁の彼方”ミカサ",
@@ -1163,7 +1223,8 @@
         "id": "AOT/S35-058R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-059": {
     "name": "“戦闘態勢”ジャン",
@@ -1181,7 +1242,8 @@
         "id": "AOT/S35-059",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-060": {
     "name": "“切り拓く未来”ミカサ",
@@ -1203,7 +1265,8 @@
         "id": "AOT/S35-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-061": {
     "name": "“不器用な愛情”ミカサ",
@@ -1221,7 +1284,8 @@
         "id": "AOT/S35-061",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-062": {
     "name": "“第104期訓練兵団”サシャ",
@@ -1239,7 +1303,8 @@
         "id": "AOT/S35-062",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-063": {
     "name": "“迷いなき剣”ミカサ",
@@ -1257,7 +1322,8 @@
         "id": "AOT/S35-063",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-064": {
     "name": "“冷静沈着”ミカサ",
@@ -1275,7 +1341,8 @@
         "id": "AOT/S35-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-065": {
     "name": "“みなぎる殺気”ミカサ",
@@ -1293,7 +1360,8 @@
         "id": "AOT/S35-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-066": {
     "name": "“癒しの女神”クリスタ",
@@ -1311,7 +1379,8 @@
         "id": "AOT/S35-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-067": {
     "name": "“第104期訓練兵団”ミカサ",
@@ -1329,7 +1398,8 @@
         "id": "AOT/S35-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-068": {
     "name": "“第104期訓練兵団”ジャン",
@@ -1347,7 +1417,8 @@
         "id": "AOT/S35-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-069": {
     "name": "“大胆な犯行”サシャ",
@@ -1365,7 +1436,8 @@
         "id": "AOT/S35-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-070": {
     "name": "“第104期訓練兵団”ライナー",
@@ -1383,7 +1455,8 @@
         "id": "AOT/S35-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-071": {
     "name": "“強い精神”ライナー",
@@ -1401,7 +1474,8 @@
         "id": "AOT/S35-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-072": {
     "name": "“第104期訓練兵団”マルコ",
@@ -1419,7 +1493,8 @@
         "id": "AOT/S35-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-073": {
     "name": "“第104期訓練兵団”ユミル",
@@ -1437,7 +1512,8 @@
         "id": "AOT/S35-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-074": {
     "name": "“みなぎる食欲”サシャ",
@@ -1455,7 +1531,8 @@
         "id": "AOT/S35-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-075": {
     "name": "“陰る心”ミカサ",
@@ -1473,7 +1550,8 @@
         "id": "AOT/S35-075",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-076": {
     "name": "“第104期訓練兵団”ベルトルト",
@@ -1491,7 +1569,8 @@
         "id": "AOT/S35-076",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-077": {
     "name": "“戦闘態勢”ミカサ",
@@ -1509,7 +1588,8 @@
         "id": "AOT/S35-077",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-078": {
     "name": "“負けず嫌いな性格”ジャン",
@@ -1527,7 +1607,8 @@
         "id": "AOT/S35-078",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-079": {
     "name": "“寛容的な性格”マルコ",
@@ -1545,7 +1626,8 @@
         "id": "AOT/S35-079",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-080": {
     "name": "“毒舌家”ユミル",
@@ -1563,7 +1645,8 @@
         "id": "AOT/S35-080",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-081": {
     "name": "救いの手",
@@ -1581,7 +1664,8 @@
         "id": "AOT/S35-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-082": {
     "name": "対巨人兵器『半刃刀身』",
@@ -1607,7 +1691,8 @@
         "id": "AOT/S35-082c",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-083": {
     "name": "少女が見た世界",
@@ -1629,7 +1714,8 @@
         "id": "AOT/S35-083R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-084": {
     "name": "心臓の鼓動が聞こえる",
@@ -1647,7 +1733,8 @@
         "id": "AOT/S35-084",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AOT/S35-085": {
     "name": "同期",
@@ -1665,7 +1752,8 @@
         "id": "AOT/S35-085",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AOT/S35-086": {
     "name": "“立ち塞がる脅威”巨人",
@@ -1683,7 +1771,8 @@
         "id": "AOT/S35-086",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-087": {
     "name": "“生け捕りになった巨人”ソニー",
@@ -1701,7 +1790,8 @@
         "id": "AOT/S35-087",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-088": {
     "name": "“高い知性”女型の巨人",
@@ -1719,7 +1809,8 @@
         "id": "AOT/S35-088",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-089": {
     "name": "“捕獲作戦”女型の巨人",
@@ -1741,7 +1832,8 @@
         "id": "AOT/S35-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-090": {
     "name": "“巨大な体躯”超大型巨人",
@@ -1759,7 +1851,8 @@
         "id": "AOT/S35-090",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-091": {
     "name": "“硬い体表”鎧の巨人",
@@ -1777,7 +1870,8 @@
         "id": "AOT/S35-091",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-092": {
     "name": "“人類の脅威”超大型巨人",
@@ -1795,7 +1889,8 @@
         "id": "AOT/S35-092",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-093": {
     "name": "“突き破る壁”超大型巨人",
@@ -1813,7 +1908,8 @@
         "id": "AOT/S35-093",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-094": {
     "name": "“捕食”巨人",
@@ -1839,7 +1935,8 @@
         "id": "AOT/S35-094c",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-095": {
     "name": "“侵攻”巨人",
@@ -1865,7 +1962,8 @@
         "id": "AOT/S35-095c",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-096": {
     "name": "“圧倒的な戦闘力”女型の巨人",
@@ -1883,7 +1981,8 @@
         "id": "AOT/S35-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-097": {
     "name": "“残忍な笑み”巨人",
@@ -1901,7 +2000,8 @@
         "id": "AOT/S35-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-098": {
     "name": "巨大樹の森",
@@ -1919,7 +2019,8 @@
         "id": "AOT/S35-098",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-099": {
     "name": "そして、850年……",
@@ -1941,7 +2042,8 @@
         "id": "AOT/S35-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-100": {
     "name": "討伐",
@@ -1963,6 +2065,7 @@
         "id": "AOT/S35-100S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

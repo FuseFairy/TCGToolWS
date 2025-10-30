@@ -19,7 +19,8 @@
         "id": "SBY/W114-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W114-P02": {
     "name": "心揺れる未来 梓川 花楓",
@@ -37,7 +38,8 @@
         "id": "SBY/W114-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W114-P03": {
     "name": "制服姿 梓川 花楓",
@@ -55,6 +57,7 @@
         "id": "SBY/W114-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

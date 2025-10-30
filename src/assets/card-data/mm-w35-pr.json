@@ -15,7 +15,8 @@
         "id": "MM/W35-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-P02": {
     "name": "弓道衣のまどか",
@@ -33,7 +34,8 @@
         "id": "MM/W35-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-P03": {
     "name": "一緒の時間 ほむら＆まどか",
@@ -51,7 +53,8 @@
         "id": "MM/W35-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-101": {
     "name": "SDマミ",
@@ -69,7 +72,8 @@
         "id": "MM/W35-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-102": {
     "name": "SDなぎさ",
@@ -87,7 +91,8 @@
         "id": "MM/W35-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-103": {
     "name": "SDまどか",
@@ -105,7 +110,8 @@
         "id": "MM/W35-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-104": {
     "name": "SDほむら",
@@ -123,7 +129,8 @@
         "id": "MM/W35-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-105": {
     "name": "SD杏子",
@@ -141,7 +148,8 @@
         "id": "MM/W35-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-106": {
     "name": "SDさやか",
@@ -159,7 +167,8 @@
         "id": "MM/W35-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-107": {
     "name": "希望と諦念 ほむら",
@@ -177,6 +186,7 @@
         "id": "MM/W35-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

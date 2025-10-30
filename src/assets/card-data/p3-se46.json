@@ -19,7 +19,8 @@
         "id": "P3/SE46-01PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-02": {
     "name": "“S.E.E.S.”主人公",
@@ -41,7 +42,8 @@
         "id": "P3/SE46-02PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-03": {
     "name": "“S.E.E.S.”アイギス",
@@ -63,7 +65,8 @@
         "id": "P3/SE46-03PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-04": {
     "name": "臨戦態勢 主人公",
@@ -89,7 +92,8 @@
         "id": "P3/SE46-04SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-05": {
     "name": "アルカナ“戦車” アイギス",
@@ -111,7 +115,8 @@
         "id": "P3/SE46-05PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-06": {
     "name": "機械の少女 アイギス",
@@ -137,7 +142,8 @@
         "id": "P3/SE46-06SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-07": {
     "name": "隊員No.7 アイギス",
@@ -159,7 +165,8 @@
         "id": "P3/SE46-07PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-08": {
     "name": "ワイルドの力を持つ者 主人公",
@@ -185,7 +192,8 @@
         "id": "P3/SE46-08SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-09": {
     "name": "隊員No.3 主人公",
@@ -207,7 +215,8 @@
         "id": "P3/SE46-09PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-10": {
     "name": "“対シャドウ特別制圧兵装七式”アイギス",
@@ -229,7 +238,8 @@
         "id": "P3/SE46-10PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-11": {
     "name": "最後の戦い 主人公",
@@ -255,7 +265,8 @@
         "id": "P3/SE46-11SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SE46-12": {
     "name": "依頼人 エリザベス",
@@ -277,7 +288,8 @@
         "id": "P3/SE46-12PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SE46-13": {
     "name": "謎の少年 ファルロス",
@@ -299,7 +311,8 @@
         "id": "P3/SE46-13PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SE46-14": {
     "name": "主人公＆オルフェウス リロード",
@@ -321,7 +334,8 @@
         "id": "P3/SE46-14PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SE46-15": {
     "name": "アイギス＆パラディオン リロード",
@@ -343,7 +357,8 @@
         "id": "P3/SE46-15PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SE46-16": {
     "name": "主人公＆タナトス リロード",
@@ -369,7 +384,8 @@
         "id": "P3/SE46-16SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SE46-17": {
     "name": "心の力に目覚めし少年",
@@ -395,7 +411,8 @@
         "id": "P3/SE46-17SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-18": {
     "name": "TARGET NEUTRALIZED.",
@@ -417,7 +434,8 @@
         "id": "P3/SE46-18PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-19": {
     "name": "DONE AND DUSTED.",
@@ -443,7 +461,8 @@
         "id": "P3/SE46-19SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-20": {
     "name": "天田＆ネメシス リロード",
@@ -465,7 +484,8 @@
         "id": "P3/SE46-20PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-21": {
     "name": "“S.E.E.S.”伊織 順平",
@@ -487,7 +507,8 @@
         "id": "P3/SE46-21PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-22": {
     "name": "アルカナ“皇帝” 真田 明彦",
@@ -509,7 +530,8 @@
         "id": "P3/SE46-22PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-23": {
     "name": "“S.E.E.S.”天田 乾",
@@ -531,7 +553,8 @@
         "id": "P3/SE46-23PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-24": {
     "name": "“ストレガ”チドリ",
@@ -553,7 +576,8 @@
         "id": "P3/SE46-24PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-25": {
     "name": "アルカナ“正義” 天田 乾",
@@ -575,7 +599,8 @@
         "id": "P3/SE46-25PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-26": {
     "name": "“S.E.E.S.”荒垣 真次郎",
@@ -597,7 +622,8 @@
         "id": "P3/SE46-26PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-27": {
     "name": "アルカナ“法王” 荒垣 真次郎",
@@ -619,7 +645,8 @@
         "id": "P3/SE46-27PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-28": {
     "name": "明彦＆ポリデュークス リロード",
@@ -641,7 +668,8 @@
         "id": "P3/SE46-28PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-29": {
     "name": "隊員No.8 コロマル",
@@ -663,7 +691,8 @@
         "id": "P3/SE46-29PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-30": {
     "name": "“S.E.E.S.”コロマル",
@@ -685,7 +714,8 @@
         "id": "P3/SE46-30PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-31": {
     "name": "隊員No.9 天田 乾",
@@ -707,7 +737,8 @@
         "id": "P3/SE46-31PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-32": {
     "name": "隊員No.5 伊織 順平",
@@ -729,7 +760,8 @@
         "id": "P3/SE46-32PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-33": {
     "name": "コロマル＆ケルベロス リロード",
@@ -751,7 +783,8 @@
         "id": "P3/SE46-33PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-34": {
     "name": "隊員No.2 荒垣 真次郎",
@@ -773,7 +806,8 @@
         "id": "P3/SE46-34PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SE46-35": {
     "name": "“ストレガ”ジン",
@@ -795,7 +829,8 @@
         "id": "P3/SE46-35PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-36": {
     "name": "真次郎＆カストール リロード",
@@ -817,7 +852,8 @@
         "id": "P3/SE46-36PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SE46-37": {
     "name": "隊員No.1 真田 明彦",
@@ -839,7 +875,8 @@
         "id": "P3/SE46-37PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SE46-38": {
     "name": "アルカナ“魔術師” 伊織 順平",
@@ -861,7 +898,8 @@
         "id": "P3/SE46-38PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SE46-39": {
     "name": "アルカナ“剛毅” コロマル",
@@ -883,7 +921,8 @@
         "id": "P3/SE46-39PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SE46-40": {
     "name": "“S.E.E.S.”真田 明彦",
@@ -905,7 +944,8 @@
         "id": "P3/SE46-40PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SE46-41": {
     "name": "“ストレガ”タカヤ",
@@ -927,7 +967,8 @@
         "id": "P3/SE46-41PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SE46-42": {
     "name": "順平＆ヘルメス リロード",
@@ -949,7 +990,8 @@
         "id": "P3/SE46-42PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SE46-43": {
     "name": "THAT’S THE GAME！",
@@ -971,7 +1013,8 @@
         "id": "P3/SE46-43PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-44": {
     "name": "ON TO THE NEXT BOUT.",
@@ -993,7 +1036,8 @@
         "id": "P3/SE46-44PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-45": {
     "name": "“S.E.E.S.”岳羽 ゆかり",
@@ -1015,7 +1059,8 @@
         "id": "P3/SE46-45PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-46": {
     "name": "美鶴＆ペンテシレア リロード",
@@ -1037,7 +1082,8 @@
         "id": "P3/SE46-46PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-47": {
     "name": "アルカナ“女帝” 桐条 美鶴",
@@ -1059,7 +1105,8 @@
         "id": "P3/SE46-47PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-48": {
     "name": "風花＆ルキア リロード",
@@ -1081,7 +1128,8 @@
         "id": "P3/SE46-48PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-49": {
     "name": "アルカナ“恋愛” 岳羽 ゆかり",
@@ -1103,7 +1151,8 @@
         "id": "P3/SE46-49PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-50": {
     "name": "アルカナ“女教皇” 山岸 風花",
@@ -1125,7 +1174,8 @@
         "id": "P3/SE46-50PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-51": {
     "name": "隊員No.0 桐条 美鶴",
@@ -1147,7 +1197,8 @@
         "id": "P3/SE46-51PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-52": {
     "name": "隊員No.6 山岸 風花",
@@ -1169,7 +1220,8 @@
         "id": "P3/SE46-52PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SE46-53": {
     "name": "“S.E.E.S.”桐条 美鶴",
@@ -1191,7 +1243,8 @@
         "id": "P3/SE46-53PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SE46-54": {
     "name": "“S.E.E.S.”山岸 風花",
@@ -1213,7 +1266,8 @@
         "id": "P3/SE46-54PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SE46-55": {
     "name": "ゆかり＆イオ リロード",
@@ -1235,7 +1289,8 @@
         "id": "P3/SE46-55PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SE46-56": {
     "name": "隊員No.4 岳羽 ゆかり",
@@ -1257,7 +1312,8 @@
         "id": "P3/SE46-56PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-57": {
     "name": "精神と物質の狭間",
@@ -1279,7 +1335,8 @@
         "id": "P3/SE46-57PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-58": {
     "name": "月光館学園の生徒",
@@ -1305,7 +1362,8 @@
         "id": "P3/SE46-58SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-59": {
     "name": "KNEEL BEFORE ME.",
@@ -1327,7 +1385,8 @@
         "id": "P3/SE46-59PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SE46-60": {
     "name": "THERE YOU HAVE IT.",
@@ -1349,6 +1408,7 @@
         "id": "P3/SE46-60PER",
         "rarity": "PER"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

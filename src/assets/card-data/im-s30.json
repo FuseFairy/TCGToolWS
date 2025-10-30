@@ -19,7 +19,8 @@
         "id": "IM/S30-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-002": {
     "name": "“今を大切に”小鳥さん",
@@ -41,7 +42,8 @@
         "id": "IM/S30-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-003": {
     "name": "“今を大切に”やよい",
@@ -63,7 +65,8 @@
         "id": "IM/S30-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-004": {
     "name": "“今を大切に”雪歩",
@@ -85,7 +88,8 @@
         "id": "IM/S30-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-005": {
     "name": "“今を大切に”真美",
@@ -107,7 +111,8 @@
         "id": "IM/S30-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-006": {
     "name": "輝きの向こう側へ！ 真美",
@@ -129,7 +134,8 @@
         "id": "IM/S30-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-007": {
     "name": "輝きの向こう側へ！ やよい",
@@ -151,7 +157,8 @@
         "id": "IM/S30-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-008": {
     "name": "CM出演 やよい",
@@ -169,7 +176,8 @@
         "id": "IM/S30-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-009": {
     "name": "雨に想う小鳥さん",
@@ -187,7 +195,8 @@
         "id": "IM/S30-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-010": {
     "name": "先輩として雪歩",
@@ -205,7 +214,8 @@
         "id": "IM/S30-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-011": {
     "name": "心配する真美",
@@ -223,7 +233,8 @@
         "id": "IM/S30-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-012": {
     "name": "みんなとステージへ！ 765プロ",
@@ -249,7 +260,8 @@
         "id": "IM/S30-012c",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-013": {
     "name": "ステージへの決意 真美",
@@ -267,7 +279,8 @@
         "id": "IM/S30-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-014": {
     "name": "ステージへの決意 雪歩",
@@ -285,7 +298,8 @@
         "id": "IM/S30-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-015": {
     "name": "ステージへの決意 やよい",
@@ -303,7 +317,8 @@
         "id": "IM/S30-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-016": {
     "name": "いにしえからのおとぎ話 真美",
@@ -321,7 +336,8 @@
         "id": "IM/S30-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-017": {
     "name": "今日もお疲れ様 小鳥さん",
@@ -339,7 +355,8 @@
         "id": "IM/S30-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-018": {
     "name": "わくわくな合宿！ やよい",
@@ -357,7 +374,8 @@
         "id": "IM/S30-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-019": {
     "name": "成長を見守るプロデューサー",
@@ -375,7 +393,8 @@
         "id": "IM/S30-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-020": {
     "name": "舞台に出演 雪歩",
@@ -393,7 +412,8 @@
         "id": "IM/S30-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-021": {
     "name": "サインライト",
@@ -411,7 +431,8 @@
         "id": "IM/S30-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-022": {
     "name": "小鳥さん妄想中",
@@ -429,7 +450,8 @@
         "id": "IM/S30-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-023": {
     "name": "駆け抜ける小鳥さん",
@@ -447,7 +469,8 @@
         "id": "IM/S30-023",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-024": {
     "name": "M@STERPIECE",
@@ -465,7 +488,8 @@
         "id": "IM/S30-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-025": {
     "name": "夕食後はミーティング！",
@@ -483,7 +507,8 @@
         "id": "IM/S30-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IM/S30-026": {
     "name": "輝きの向こう側へ！ 律子",
@@ -505,7 +530,8 @@
         "id": "IM/S30-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-027": {
     "name": "輝きの向こう側へ！ 伊織",
@@ -527,7 +553,8 @@
         "id": "IM/S30-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-028": {
     "name": "輝きの向こう側へ！ あずさ",
@@ -549,7 +576,8 @@
         "id": "IM/S30-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-029": {
     "name": "輝きの向こう側へ！ 亜美",
@@ -571,7 +599,8 @@
         "id": "IM/S30-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-030": {
     "name": "“今を大切に”あずさ",
@@ -593,7 +622,8 @@
         "id": "IM/S30-030SP",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-031": {
     "name": "“今を大切に”伊織",
@@ -615,7 +645,8 @@
         "id": "IM/S30-031SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-032": {
     "name": "“今を大切に”亜美",
@@ -637,7 +668,8 @@
         "id": "IM/S30-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-033": {
     "name": "ずぶぬれ！ 伊織",
@@ -655,7 +687,8 @@
         "id": "IM/S30-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-034": {
     "name": "やっぱり迷子！ あずさ",
@@ -673,7 +706,8 @@
         "id": "IM/S30-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-035": {
     "name": "いにしえからのおとぎ話 亜美",
@@ -691,7 +725,8 @@
         "id": "IM/S30-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-036": {
     "name": "目指せトップアイドル！ 765プロ",
@@ -717,7 +752,8 @@
         "id": "IM/S30-036c",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-037": {
     "name": "弾けろ！ 765プロ",
@@ -743,7 +779,8 @@
         "id": "IM/S30-037c",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-038": {
     "name": "想いはひとつ 律子",
@@ -761,7 +798,8 @@
         "id": "IM/S30-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-039": {
     "name": "“今を大切に”律子",
@@ -783,7 +821,8 @@
         "id": "IM/S30-039SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-040": {
     "name": "スパルタ指導 律子",
@@ -801,7 +840,8 @@
         "id": "IM/S30-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-041": {
     "name": "ステージへの決意 亜美",
@@ -819,7 +859,8 @@
         "id": "IM/S30-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-042": {
     "name": "ステージへの決意 伊織",
@@ -837,7 +878,8 @@
         "id": "IM/S30-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-043": {
     "name": "ステージへの決意 あずさ",
@@ -855,7 +897,8 @@
         "id": "IM/S30-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-044": {
     "name": "女教師 律子",
@@ -873,7 +916,8 @@
         "id": "IM/S30-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-045": {
     "name": "変わり始める日常 伊織",
@@ -891,7 +935,8 @@
         "id": "IM/S30-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-046": {
     "name": "皆を想うあずさ",
@@ -909,7 +954,8 @@
         "id": "IM/S30-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-047": {
     "name": "別れを知る亜美",
@@ -927,7 +973,8 @@
         "id": "IM/S30-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-048": {
     "name": "GO MY WAY!!",
@@ -945,7 +992,8 @@
         "id": "IM/S30-048",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-049": {
     "name": "M@STERPIECE",
@@ -963,7 +1011,8 @@
         "id": "IM/S30-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IM/S30-050": {
     "name": "ラムネ色 青春",
@@ -989,7 +1038,8 @@
         "id": "IM/S30-050c",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IM/S30-051": {
     "name": "輝きの向こう側へ！ 春香",
@@ -1011,7 +1061,8 @@
         "id": "IM/S30-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-052": {
     "name": "輝きの向こう側へ！ 美希",
@@ -1033,7 +1084,8 @@
         "id": "IM/S30-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-053": {
     "name": "輝きの向こう側へ！ 響",
@@ -1055,7 +1107,8 @@
         "id": "IM/S30-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-054": {
     "name": "リーダーとして 春香",
@@ -1073,7 +1126,8 @@
         "id": "IM/S30-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-055": {
     "name": "“今を大切に”響",
@@ -1095,7 +1149,8 @@
         "id": "IM/S30-055SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-056": {
     "name": "“今を大切に”春香",
@@ -1117,7 +1172,8 @@
         "id": "IM/S30-056SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-057": {
     "name": "“今を大切に”美希",
@@ -1139,7 +1195,8 @@
         "id": "IM/S30-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-058": {
     "name": "合宿スタート！ 春香",
@@ -1157,7 +1214,8 @@
         "id": "IM/S30-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-059": {
     "name": "涙こらえて 響",
@@ -1175,7 +1233,8 @@
         "id": "IM/S30-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-060": {
     "name": "子供にも人気！ 響",
@@ -1193,7 +1252,8 @@
         "id": "IM/S30-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-061": {
     "name": "“自分らしく”美希",
@@ -1211,7 +1271,8 @@
         "id": "IM/S30-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-062": {
     "name": "心は一つ！ 765プロ",
@@ -1237,7 +1298,8 @@
         "id": "IM/S30-062c",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-063": {
     "name": "リーダー指名！ 春香",
@@ -1255,7 +1317,8 @@
         "id": "IM/S30-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-064": {
     "name": "ハリウッドデビュー！ 美希",
@@ -1273,7 +1336,8 @@
         "id": "IM/S30-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-065": {
     "name": "好物はひまわりの種！ ハム蔵",
@@ -1291,7 +1355,8 @@
         "id": "IM/S30-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-066": {
     "name": "ステージへの決意 美希",
@@ -1309,7 +1374,8 @@
         "id": "IM/S30-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-067": {
     "name": "ステージへの決意 響",
@@ -1327,7 +1393,8 @@
         "id": "IM/S30-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-068": {
     "name": "旅立つ日 プロデューサー",
@@ -1345,7 +1412,8 @@
         "id": "IM/S30-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-069": {
     "name": "旧友と高木社長",
@@ -1363,7 +1431,8 @@
         "id": "IM/S30-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-070": {
     "name": "明日を見すえる高木社長",
@@ -1381,7 +1450,8 @@
         "id": "IM/S30-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-071": {
     "name": "お揃いの練習着",
@@ -1399,7 +1469,8 @@
         "id": "IM/S30-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-072": {
     "name": "週刊芸能ラッシュ",
@@ -1417,7 +1488,8 @@
         "id": "IM/S30-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-073": {
     "name": "７６５プロ ファイトー！！",
@@ -1435,7 +1507,8 @@
         "id": "IM/S30-073",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-074": {
     "name": "M@STERPIECE",
@@ -1453,7 +1526,8 @@
         "id": "IM/S30-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IM/S30-075": {
     "name": "Fate of the World",
@@ -1471,7 +1545,8 @@
         "id": "IM/S30-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IM/S30-076": {
     "name": "輝きの向こう側へ！ 貴音",
@@ -1493,7 +1568,8 @@
         "id": "IM/S30-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-077": {
     "name": "輝きの向こう側へ！ 千早",
@@ -1515,7 +1591,8 @@
         "id": "IM/S30-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-078": {
     "name": "七色ストーリー 765プロ",
@@ -1533,7 +1610,8 @@
         "id": "IM/S30-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-079": {
     "name": "“今を大切に”貴音",
@@ -1555,7 +1633,8 @@
         "id": "IM/S30-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-080": {
     "name": "輝きの向こう側へ！ 真",
@@ -1577,7 +1656,8 @@
         "id": "IM/S30-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-081": {
     "name": "“今を大切に”真",
@@ -1599,7 +1679,8 @@
         "id": "IM/S30-081SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-082": {
     "name": "“今を大切に”千早",
@@ -1621,7 +1702,8 @@
         "id": "IM/S30-082SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-083": {
     "name": "海外レコーディングに向けて 千早",
@@ -1639,7 +1721,8 @@
         "id": "IM/S30-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-084": {
     "name": "おとぎ話を語る貴音",
@@ -1657,7 +1740,8 @@
         "id": "IM/S30-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-085": {
     "name": "夕食から登場！ 貴音",
@@ -1675,7 +1759,8 @@
         "id": "IM/S30-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-086": {
     "name": "光の海を渡って！ 765プロ",
@@ -1701,7 +1786,8 @@
         "id": "IM/S30-086c",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-087": {
     "name": "雨中の激闘！ 真",
@@ -1719,7 +1805,8 @@
         "id": "IM/S30-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-088": {
     "name": "練習後の水浴び 真",
@@ -1737,7 +1824,8 @@
         "id": "IM/S30-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-089": {
     "name": "前に向かって進む千早",
@@ -1755,7 +1843,8 @@
         "id": "IM/S30-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-090": {
     "name": "ステージへの決意 真",
@@ -1773,7 +1862,8 @@
         "id": "IM/S30-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-091": {
     "name": "自身を高めるために プロデューサー",
@@ -1791,7 +1881,8 @@
         "id": "IM/S30-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-092": {
     "name": "ステージへの決意 千早",
@@ -1809,7 +1900,8 @@
         "id": "IM/S30-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-093": {
     "name": "取材記者 善澤",
@@ -1827,7 +1919,8 @@
         "id": "IM/S30-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-094": {
     "name": "ステージへの決意 貴音",
@@ -1845,7 +1938,8 @@
         "id": "IM/S30-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-095": {
     "name": "偶然の再会 冬馬",
@@ -1863,7 +1957,8 @@
         "id": "IM/S30-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-096": {
     "name": "千早のカメラ",
@@ -1881,7 +1976,8 @@
         "id": "IM/S30-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-097": {
     "name": "小鳥さんのてるてる坊主",
@@ -1899,7 +1995,8 @@
         "id": "IM/S30-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S30-098": {
     "name": "映画『眠り姫』",
@@ -1917,7 +2014,8 @@
         "id": "IM/S30-098",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S30-099": {
     "name": "M@STERPIECE",
@@ -1935,7 +2033,8 @@
         "id": "IM/S30-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IM/S30-100": {
     "name": "虹色ミラクル",
@@ -1953,6 +2052,7 @@
         "id": "IM/S30-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

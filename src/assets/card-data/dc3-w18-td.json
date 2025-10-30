@@ -15,7 +15,8 @@
         "id": "DC3/W18-101",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-102": {
     "name": "花より団子 葵",
@@ -33,7 +34,8 @@
         "id": "DC3/W18-102",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-103": {
     "name": "恋する乙女 立夏",
@@ -51,7 +53,8 @@
         "id": "DC3/W18-103",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-104": {
     "name": "スキーウェアのさら",
@@ -69,7 +72,8 @@
         "id": "DC3/W18-104",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-105": {
     "name": "浴衣の姫乃",
@@ -87,7 +91,8 @@
         "id": "DC3/W18-105",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-T01": {
     "name": "ツンツン 姫乃",
@@ -105,7 +110,8 @@
         "id": "DC3/W18-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-T02": {
     "name": "意外とお子様 立夏",
@@ -123,7 +129,8 @@
         "id": "DC3/W18-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-T03": {
     "name": "ふんわりいたずら シャルル",
@@ -141,7 +148,8 @@
         "id": "DC3/W18-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-T04": {
     "name": "朝のハプニング シャルル",
@@ -159,7 +167,8 @@
         "id": "DC3/W18-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-T05": {
     "name": "部屋着の立夏",
@@ -177,7 +186,8 @@
         "id": "DC3/W18-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-T06": {
     "name": "初めての制服 姫乃",
@@ -195,7 +205,8 @@
         "id": "DC3/W18-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-T07": {
     "name": "体操着のシャルル",
@@ -213,7 +224,8 @@
         "id": "DC3/W18-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-T08": {
     "name": "はじめまして、るる姉。",
@@ -231,7 +243,8 @@
         "id": "DC3/W18-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-T09": {
     "name": "いつもの新聞部",
@@ -249,7 +262,8 @@
         "id": "DC3/W18-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC3/W18-T10": {
     "name": "海辺で語り合って",
@@ -267,7 +281,8 @@
         "id": "DC3/W18-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC3/W18-T11": {
     "name": "おひさま少女 葵",
@@ -285,7 +300,8 @@
         "id": "DC3/W18-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-T12": {
     "name": "神出鬼没な問題児 杉並",
@@ -303,7 +319,8 @@
         "id": "DC3/W18-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-T13": {
     "name": "ちょっぴり甘えん坊 さら",
@@ -321,7 +338,8 @@
         "id": "DC3/W18-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-T14": {
     "name": "元気いっぱい 葵",
@@ -339,7 +357,8 @@
         "id": "DC3/W18-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-T15": {
     "name": "年下のクラスメイト さら",
@@ -357,7 +376,8 @@
         "id": "DC3/W18-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-T16": {
     "name": "病弱ワンコ娘 葵",
@@ -375,7 +395,8 @@
         "id": "DC3/W18-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-T17": {
     "name": "ふぁ～すとれっすん",
@@ -393,6 +414,7 @@
         "id": "DC3/W18-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

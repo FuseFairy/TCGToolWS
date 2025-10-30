@@ -19,7 +19,8 @@
         "id": "Ggh/WS02-118SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ggh/WS02-123": {
     "name": "境界線上の二人 トーリ",
@@ -41,7 +42,8 @@
         "id": "Ggh/WS02-123SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ggh/WS02-135": {
     "name": "銀狼 ミトツダイラ",
@@ -63,7 +65,8 @@
         "id": "Ggh/WS02-135S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ggh/WS02-147": {
     "name": "不可能男",
@@ -93,6 +96,7 @@
         "id": "Ggh/WS02-147SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

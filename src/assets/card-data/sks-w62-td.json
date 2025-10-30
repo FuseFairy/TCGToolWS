@@ -19,7 +19,8 @@
         "id": "Sks/W62-T03R",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sks/W62-T18": {
     "name": "アクシズ教団の崇めるご神体 アクア",
@@ -41,6 +42,7 @@
         "id": "Sks/W62-T18SP",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

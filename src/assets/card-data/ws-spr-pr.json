@@ -15,7 +15,8 @@
         "id": "WS/SPR-004",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WS/SPR-005": {
     "name": "戸倉ミサキ役 橘田いずみ",
@@ -33,7 +34,8 @@
         "id": "WS/SPR-005",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "WS/SPR-P01": {
     "name": "『Love』愛美",
@@ -51,7 +53,8 @@
         "id": "WS/SPR-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "WS/SPR-P02": {
     "name": "愛美",
@@ -69,7 +72,8 @@
         "id": "WS/SPR-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "WS/SPR-P03": {
     "name": "“私服でお出かけ”三森すずこ",
@@ -87,7 +91,8 @@
         "id": "WS/SPR-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WS/SPR-P04": {
     "name": "爆騰!!",
@@ -105,7 +110,8 @@
         "id": "WS/SPR-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "WS/SPR-P05": {
     "name": "BUSHIROAD EXPO 2023 -ASIA-",
@@ -123,7 +129,8 @@
         "id": "WS/SPR-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "WS/SPR-P06": {
     "name": "TableCon Quest",
@@ -141,7 +148,8 @@
         "id": "WS/SPR-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "WS/SPR-P07": {
     "name": "レッツ！ヴァイスシュヴァルツ!! 西尾夕香",
@@ -159,7 +167,8 @@
         "id": "WS/SPR-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WS/SPR-P08": {
     "name": "レッツ！ヴァイスシュヴァルツ!! 深川瑠華",
@@ -177,7 +186,8 @@
         "id": "WS/SPR-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WS/SPR-P09": {
     "name": "レッツ！ヴァイスシュヴァルツ!! 千春",
@@ -195,6 +205,7 @@
         "id": "WS/SPR-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

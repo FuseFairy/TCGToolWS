@@ -23,7 +23,8 @@
         "id": "RKN/S115-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-002": {
     "name": "想いを乗せた渾身の一撃 明神弥彦",
@@ -49,7 +50,8 @@
         "id": "RKN/S115-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-003": {
     "name": "麗しき女医 高荷 恵",
@@ -75,7 +77,8 @@
         "id": "RKN/S115-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-004": {
     "name": "背中に刻む“悪一文字” 相楽左之助",
@@ -101,7 +104,8 @@
         "id": "RKN/S115-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-005": {
     "name": "強くなるために 明神弥彦",
@@ -123,7 +127,8 @@
         "id": "RKN/S115-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-006": {
     "name": "強い奴を求めて 相楽左之助",
@@ -145,7 +150,8 @@
         "id": "RKN/S115-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-007": {
     "name": "人助けの終わりに 緋村剣心",
@@ -167,7 +173,8 @@
         "id": "RKN/S115-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-008": {
     "name": "漢の信念 相楽左之助",
@@ -189,7 +196,8 @@
         "id": "RKN/S115-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-009": {
     "name": "内気な少女 三条 燕",
@@ -211,7 +219,8 @@
         "id": "RKN/S115-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-010": {
     "name": "凸凹コンビ 相楽左之助＆明神弥彦",
@@ -233,7 +242,8 @@
         "id": "RKN/S115-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-011": {
     "name": "謎多き美女 高荷 恵",
@@ -255,7 +265,8 @@
         "id": "RKN/S115-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-012": {
     "name": "暖かな日差し 緋村剣心",
@@ -277,7 +288,8 @@
         "id": "RKN/S115-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-013": {
     "name": "斬馬刀の使い手 相楽左之助",
@@ -299,7 +311,8 @@
         "id": "RKN/S115-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-014": {
     "name": "伝説の剣客 緋村剣心",
@@ -321,7 +334,8 @@
         "id": "RKN/S115-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-015": {
     "name": "楽勝？ 相楽左之助",
@@ -343,7 +357,8 @@
         "id": "RKN/S115-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-016": {
     "name": "頬に刻まれた十字傷 緋村剣心",
@@ -365,7 +380,8 @@
         "id": "RKN/S115-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-017": {
     "name": "不穏な光景 神谷 薫",
@@ -387,7 +403,8 @@
         "id": "RKN/S115-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-018": {
     "name": "喧嘩屋 相楽左之助",
@@ -409,7 +426,8 @@
         "id": "RKN/S115-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-019": {
     "name": "剣の道での好敵手 塚山由太郎",
@@ -431,7 +449,8 @@
         "id": "RKN/S115-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-020": {
     "name": "門下生の指導 神谷 薫",
@@ -453,7 +472,8 @@
         "id": "RKN/S115-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-021": {
     "name": "諦めきれぬ大願 月岡津南",
@@ -475,7 +495,8 @@
         "id": "RKN/S115-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-022": {
     "name": "逃走麗女 高荷 恵",
@@ -497,7 +518,8 @@
         "id": "RKN/S115-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-023": {
     "name": "生意気な弟子 塚山由太郎",
@@ -519,7 +541,8 @@
         "id": "RKN/S115-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-024": {
     "name": "お人好し 神谷 薫",
@@ -541,7 +564,8 @@
         "id": "RKN/S115-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-025": {
     "name": "十年の遺恨詰め込む炸裂弾 月岡津南",
@@ -563,7 +587,8 @@
         "id": "RKN/S115-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-026": {
     "name": "高き志 明神弥彦",
@@ -585,7 +610,8 @@
         "id": "RKN/S115-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-027": {
     "name": "溢れ出す怒り 相楽左之助",
@@ -607,7 +633,8 @@
         "id": "RKN/S115-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-028": {
     "name": "一筋縄ではいかない強敵 緋村剣心",
@@ -629,7 +656,8 @@
         "id": "RKN/S115-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-029": {
     "name": "人を導く 神谷 薫",
@@ -651,7 +679,8 @@
         "id": "RKN/S115-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-030": {
     "name": "踏みにじられた士族の誇り 明神弥彦",
@@ -673,7 +702,8 @@
         "id": "RKN/S115-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-031": {
     "name": "剣の道での好敵手 明神弥彦",
@@ -695,7 +725,8 @@
         "id": "RKN/S115-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-032": {
     "name": "弱き者を助け強き者を挫く 明神弥彦",
@@ -717,7 +748,8 @@
         "id": "RKN/S115-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-033": {
     "name": "紅葉舞う中あなたを見つける 緋村剣心",
@@ -739,7 +771,8 @@
         "id": "RKN/S115-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-034": {
     "name": "幼き日の“赤報隊”での思い出",
@@ -761,7 +794,8 @@
         "id": "RKN/S115-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-035": {
     "name": "革命の狼煙",
@@ -783,7 +817,8 @@
         "id": "RKN/S115-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-036": {
     "name": "正義の拳",
@@ -805,7 +840,8 @@
         "id": "RKN/S115-036R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-037": {
     "name": "守りきれる強さを",
@@ -827,7 +863,8 @@
         "id": "RKN/S115-037R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-038": {
     "name": "渾身の大技",
@@ -849,7 +886,8 @@
         "id": "RKN/S115-038R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RKN/S115-039": {
     "name": "己が剣に背負うもの",
@@ -871,7 +909,8 @@
         "id": "RKN/S115-039R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-040": {
     "name": "人斬り抜刀斎 緋村剣心",
@@ -893,7 +932,8 @@
         "id": "RKN/S115-040SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-041": {
     "name": "別れの言葉、溢れ出る涙 神谷 薫",
@@ -919,7 +959,8 @@
         "id": "RKN/S115-041SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-042": {
     "name": "桜舞い散る愛おしき日常 緋村剣心＆神谷 薫",
@@ -941,7 +982,8 @@
         "id": "RKN/S115-042SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-043": {
     "name": "神速の抜刀術 緋村剣心",
@@ -967,7 +1009,8 @@
         "id": "RKN/S115-043SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-044": {
     "name": "驚く緋村剣心",
@@ -989,7 +1032,8 @@
         "id": "RKN/S115-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-045": {
     "name": "内に秘めた正義感 明神弥彦",
@@ -1011,7 +1055,8 @@
         "id": "RKN/S115-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-046": {
     "name": "突然の宣戦布告 神谷 薫",
@@ -1033,7 +1078,8 @@
         "id": "RKN/S115-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-047": {
     "name": "不殺の信念 緋村剣心",
@@ -1055,7 +1101,8 @@
         "id": "RKN/S115-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-048": {
     "name": "東京府士族 明神弥彦",
@@ -1077,7 +1124,8 @@
         "id": "RKN/S115-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-049": {
     "name": "剣術小町 神谷 薫",
@@ -1099,7 +1147,8 @@
         "id": "RKN/S115-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-050": {
     "name": "“飛天御剣流”の使い手 緋村剣心",
@@ -1121,7 +1170,8 @@
         "id": "RKN/S115-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-051": {
     "name": "呼び起こされる過去 緋村剣心",
@@ -1143,7 +1193,8 @@
         "id": "RKN/S115-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-052": {
     "name": "囚われの身 神谷 薫",
@@ -1165,7 +1216,8 @@
         "id": "RKN/S115-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-053": {
     "name": "心優しき流浪人 緋村剣心",
@@ -1187,7 +1239,8 @@
         "id": "RKN/S115-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-054": {
     "name": "不殺して守りきる 緋村剣心",
@@ -1209,7 +1262,8 @@
         "id": "RKN/S115-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-055": {
     "name": "“活人剣”を志す者 神谷 薫",
@@ -1231,7 +1285,8 @@
         "id": "RKN/S115-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-056": {
     "name": "“神谷活心流”門下生 明神弥彦",
@@ -1253,7 +1308,8 @@
         "id": "RKN/S115-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-057": {
     "name": "紅葉舞う中あなたを見つめる 神谷 薫",
@@ -1275,7 +1331,8 @@
         "id": "RKN/S115-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-058": {
     "name": "蘇る気がかり 緋村剣心",
@@ -1297,7 +1354,8 @@
         "id": "RKN/S115-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-059": {
     "name": "“赤報隊”の生き残り 相楽左之助",
@@ -1319,7 +1377,8 @@
         "id": "RKN/S115-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-060": {
     "name": "不屈の闘志 相楽左之助",
@@ -1341,7 +1400,8 @@
         "id": "RKN/S115-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-061": {
     "name": "照れ顔 神谷 薫",
@@ -1363,7 +1423,8 @@
         "id": "RKN/S115-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-062": {
     "name": "闘志溢れる猛者 相楽左之助",
@@ -1385,7 +1446,8 @@
         "id": "RKN/S115-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-063": {
     "name": "止められない闘い 神谷 薫",
@@ -1407,7 +1469,8 @@
         "id": "RKN/S115-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-064": {
     "name": "爆炎背にして立つ者 緋村剣心",
@@ -1429,7 +1492,8 @@
         "id": "RKN/S115-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-065": {
     "name": "秋風になびく髪 神谷 薫",
@@ -1451,7 +1515,8 @@
         "id": "RKN/S115-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-066": {
     "name": "明治剣客浪漫譚",
@@ -1473,7 +1538,8 @@
         "id": "RKN/S115-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-067": {
     "name": "強敵達の襲来",
@@ -1495,7 +1561,8 @@
         "id": "RKN/S115-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-068": {
     "name": "春を告げる花の雲",
@@ -1517,7 +1584,8 @@
         "id": "RKN/S115-068R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-069": {
     "name": "揺るがない信念",
@@ -1547,7 +1615,8 @@
         "id": "RKN/S115-069OFRb",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-070": {
     "name": "桜の下での稽古",
@@ -1569,7 +1638,8 @@
         "id": "RKN/S115-070R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-071": {
     "name": "“飛天御剣流”",
@@ -1591,7 +1661,8 @@
         "id": "RKN/S115-071OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-072": {
     "name": "“牙突” 斎藤 一",
@@ -1617,7 +1688,8 @@
         "id": "RKN/S115-072SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-073": {
     "name": "“回天剣舞” 四乃森蒼紫",
@@ -1643,7 +1715,8 @@
         "id": "RKN/S115-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-074": {
     "name": "壬生の狼 斎藤 一",
@@ -1665,7 +1738,8 @@
         "id": "RKN/S115-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-075": {
     "name": "燻ぶる激情 四乃森蒼紫",
@@ -1687,7 +1761,8 @@
         "id": "RKN/S115-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-076": {
     "name": "天才隠密 四乃森蒼紫",
@@ -1709,7 +1784,8 @@
         "id": "RKN/S115-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-077": {
     "name": "政府直属の密偵 斎藤 一",
@@ -1731,7 +1807,8 @@
         "id": "RKN/S115-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-078": {
     "name": "修羅の忍び 四乃森蒼紫",
@@ -1753,7 +1830,8 @@
         "id": "RKN/S115-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-079": {
     "name": "新撰組三番隊組長 斎藤 一",
@@ -1775,7 +1853,8 @@
         "id": "RKN/S115-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-080": {
     "name": "御庭番衆 隠密 癋見",
@@ -1797,7 +1876,8 @@
         "id": "RKN/S115-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-081": {
     "name": "御庭番衆の火術使い 火男",
@@ -1819,7 +1899,8 @@
         "id": "RKN/S115-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-082": {
     "name": "御庭番衆警護担当 式尉",
@@ -1841,7 +1922,8 @@
         "id": "RKN/S115-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-083": {
     "name": "偽りの姿 斎藤 一",
@@ -1863,7 +1945,8 @@
         "id": "RKN/S115-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-084": {
     "name": "御庭番衆密偵方 般若",
@@ -1885,7 +1968,8 @@
         "id": "RKN/S115-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-085": {
     "name": "秘剣『飛飯綱』 石動雷十太",
@@ -1907,7 +1991,8 @@
         "id": "RKN/S115-085OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-086": {
     "name": "元・将軍直属の隠密 四乃森蒼紫",
@@ -1929,7 +2014,8 @@
         "id": "RKN/S115-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-087": {
     "name": "最強を墓前に添えるまで 四乃森蒼紫",
@@ -1951,7 +2037,8 @@
         "id": "RKN/S115-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-088": {
     "name": "月光に照らされし刃 斎藤 一",
@@ -1973,7 +2060,8 @@
         "id": "RKN/S115-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-089": {
     "name": "失った部下 四乃森蒼紫",
@@ -1995,7 +2083,8 @@
         "id": "RKN/S115-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-090": {
     "name": "制止された闘い 斎藤 一",
@@ -2017,7 +2106,8 @@
         "id": "RKN/S115-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-091": {
     "name": "底の見えぬ真意 斎藤 一",
@@ -2039,7 +2129,8 @@
         "id": "RKN/S115-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-092": {
     "name": "凶弾放つ愛しの奥の手 武田観柳",
@@ -2061,7 +2152,8 @@
         "id": "RKN/S115-092OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-093": {
     "name": "調査命令 四乃森蒼紫",
@@ -2083,7 +2175,8 @@
         "id": "RKN/S115-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-094": {
     "name": "新撰組一番隊組長 沖田総司",
@@ -2105,7 +2198,8 @@
         "id": "RKN/S115-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-095": {
     "name": "“真古流”師範 石動雷十太",
@@ -2127,7 +2221,8 @@
         "id": "RKN/S115-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-096": {
     "name": "最強の隠密集団",
@@ -2149,7 +2244,8 @@
         "id": "RKN/S115-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-097": {
     "name": "悪・即・斬",
@@ -2171,7 +2267,8 @@
         "id": "RKN/S115-097OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-098": {
     "name": "御庭番衆御頭の真髄",
@@ -2193,7 +2290,8 @@
         "id": "RKN/S115-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-099": {
     "name": "流水の動き",
@@ -2215,7 +2313,8 @@
         "id": "RKN/S115-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-100": {
     "name": "牙を剥く狼",
@@ -2237,6 +2336,7 @@
         "id": "RKN/S115-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

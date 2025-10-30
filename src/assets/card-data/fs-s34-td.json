@@ -15,7 +15,8 @@
         "id": "FS/S34-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-T02": {
     "name": "機械いじり 士郎",
@@ -33,7 +34,8 @@
         "id": "FS/S34-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-T03": {
     "name": "いつもの朝 士郎",
@@ -51,7 +53,8 @@
         "id": "FS/S34-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-T04": {
     "name": "過去の英雄 セイバー",
@@ -69,7 +72,8 @@
         "id": "FS/S34-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-T05": {
     "name": "お人好し 士郎",
@@ -87,7 +91,8 @@
         "id": "FS/S34-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-T06": {
     "name": "隠された武器 セイバー",
@@ -105,7 +110,8 @@
         "id": "FS/S34-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-T07": {
     "name": "自己鍛錬",
@@ -123,7 +129,8 @@
         "id": "FS/S34-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-T08": {
     "name": "運命の夜",
@@ -141,7 +148,8 @@
         "id": "FS/S34-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FS/S34-T09": {
     "name": "契約の証 凛",
@@ -159,7 +167,8 @@
         "id": "FS/S34-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-T10": {
     "name": "手荒な召喚 アーチャー",
@@ -177,7 +186,8 @@
         "id": "FS/S34-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-T11": {
     "name": "二刀使いの弓兵 アーチャー",
@@ -195,7 +205,8 @@
         "id": "FS/S34-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-T12": {
     "name": "いつもと違う朝 凛",
@@ -213,7 +224,8 @@
         "id": "FS/S34-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-T13": {
     "name": "召喚の儀 凛",
@@ -231,7 +243,8 @@
         "id": "FS/S34-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-T14": {
     "name": "召喚の儀式",
@@ -249,7 +262,8 @@
         "id": "FS/S34-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FS/S34-T15": {
     "name": "弓兵の本領",
@@ -267,7 +281,8 @@
         "id": "FS/S34-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-T16": {
     "name": "聖杯戦争への参戦 セイバー",
@@ -285,7 +300,8 @@
         "id": "FS/S34-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-T17": {
     "name": "使い魔の仕事 アーチャー",
@@ -303,7 +319,8 @@
         "id": "FS/S34-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-T18": {
     "name": "勝利のために 凛＆アーチャー",
@@ -321,7 +338,8 @@
         "id": "FS/S34-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-T19": {
     "name": "宝石魔術師 凛",
@@ -339,7 +357,8 @@
         "id": "FS/S34-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-T20": {
     "name": "強化の魔術 士郎",
@@ -357,6 +376,7 @@
         "id": "FS/S34-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

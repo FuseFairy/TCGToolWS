@@ -15,7 +15,8 @@
         "id": "PAD/S105-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-102": {
     "name": "バレンタインの夜女神・ノクタリア",
@@ -33,7 +34,8 @@
         "id": "PAD/S105-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-103": {
     "name": "連理の緋龍喚士・ツバキ",
@@ -51,7 +53,8 @@
         "id": "PAD/S105-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-104": {
     "name": "輝虹の花嫁・エスカマリ",
@@ -69,7 +72,8 @@
         "id": "PAD/S105-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-105": {
     "name": "洋館の大魔女・ネレ",
@@ -87,7 +91,8 @@
         "id": "PAD/S105-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-P01": {
     "name": "隠密忍者・ブラックバード",
@@ -109,7 +114,8 @@
         "id": "PAD/S105-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-P02": {
     "name": "元始の大魔女・ラフィーネ",
@@ -131,7 +137,8 @@
         "id": "PAD/S105-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-P03": {
     "name": "冷菓の氷雪王・ミアーダ",
@@ -149,7 +156,8 @@
         "id": "PAD/S105-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-P04": {
     "name": "初日の朱雀姫・レイラン",
@@ -167,6 +175,7 @@
         "id": "PAD/S105-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

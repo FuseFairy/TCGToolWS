@@ -19,7 +19,8 @@
         "id": "HBR/W103-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W103-P02": {
     "name": "湧き立つ音色 東城 つかさ",
@@ -41,7 +42,8 @@
         "id": "HBR/W103-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W103-106": {
     "name": "差し込む朝日。始まる一日。",
@@ -59,7 +61,8 @@
         "id": "HBR/W103-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W103-107": {
     "name": "差し込む朝日。始まる一日。",
@@ -77,7 +80,8 @@
         "id": "HBR/W103-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W103-108": {
     "name": "差し込む朝日。始まる一日。",
@@ -95,7 +99,8 @@
         "id": "HBR/W103-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W103-109": {
     "name": "差し込む朝日。始まる一日。",
@@ -113,7 +118,8 @@
         "id": "HBR/W103-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W103-110": {
     "name": "差し込む朝日。始まる一日。",
@@ -131,7 +137,8 @@
         "id": "HBR/W103-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W103-111": {
     "name": "差し込む朝日。始まる一日。",
@@ -149,7 +156,8 @@
         "id": "HBR/W103-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W103-P03": {
     "name": "支え合う希望 月歌＆ユキ",
@@ -167,6 +175,7 @@
         "id": "HBR/W103-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

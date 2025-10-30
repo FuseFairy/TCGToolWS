@@ -23,7 +23,8 @@
         "id": "Fvd/W120-120SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fvd/W120-128": {
     "name": "【ダイヤモンドダスト】淡雪＆晴",
@@ -45,7 +46,8 @@
         "id": "Fvd/W120-128S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fvd/W120-130": {
     "name": "清楚配信 淡雪",
@@ -71,7 +73,8 @@
         "id": "Fvd/W120-130SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fvd/W120-144": {
     "name": "漏れ出た本音 淡雪＆エーライ",
@@ -93,6 +96,7 @@
         "id": "Fvd/W120-144S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

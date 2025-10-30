@@ -15,7 +15,8 @@
         "id": "DC/WE08-74",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-75": {
     "name": "甘味な時間 由夢",
@@ -33,7 +34,8 @@
         "id": "DC/WE08-75",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-76": {
     "name": "黒サンタの杏",
@@ -51,7 +53,8 @@
         "id": "DC/WE08-76",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-77": {
     "name": "新しい制服 エリカ",
@@ -69,7 +72,8 @@
         "id": "DC/WE08-77",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-78": {
     "name": "おばけは苦手 まひる",
@@ -87,7 +91,8 @@
         "id": "DC/WE08-78",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-79": {
     "name": "水着のアイシア",
@@ -105,7 +110,8 @@
         "id": "DC/WE08-79",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-80": {
     "name": "料理中の音夢",
@@ -123,7 +129,8 @@
         "id": "DC/WE08-80",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-81": {
     "name": "サンタのことり",
@@ -141,7 +148,8 @@
         "id": "DC/WE08-81",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-82": {
     "name": "悪魔の手のひらの上で",
@@ -159,7 +167,8 @@
         "id": "DC/WE08-82",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-83": {
     "name": "夢見るレディー さくら",
@@ -177,6 +186,7 @@
         "id": "DC/WE08-83",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

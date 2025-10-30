@@ -19,7 +19,8 @@
         "id": "SB/S06-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-002": {
     "name": "“繚乱無比”濃姫",
@@ -41,7 +42,8 @@
         "id": "SB/S06-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-003": {
     "name": "“征天魔王”織田 信長",
@@ -63,7 +65,8 @@
         "id": "SB/S06-003R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-004": {
     "name": "“魔王の子”森 蘭丸",
@@ -81,7 +84,8 @@
         "id": "SB/S06-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-005": {
     "name": "“自然児”いつき",
@@ -99,7 +103,8 @@
         "id": "SB/S06-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-006": {
     "name": "“冷眼下瞰”明智 光秀",
@@ -117,7 +122,8 @@
         "id": "SB/S06-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-007": {
     "name": "“魔王の妹”お市",
@@ -135,7 +141,8 @@
         "id": "SB/S06-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-008": {
     "name": "“信義不倒”浅井 長政",
@@ -153,7 +160,8 @@
         "id": "SB/S06-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-009": {
     "name": "“幻妖言惑”お市",
@@ -171,7 +179,8 @@
         "id": "SB/S06-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-010": {
     "name": "“魔王の妻”濃姫",
@@ -189,7 +198,8 @@
         "id": "SB/S06-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-011": {
     "name": "“愛の対決！？”いつき＆ザビー",
@@ -207,7 +217,8 @@
         "id": "SB/S06-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-012": {
     "name": "“慟哭スル魂”織田 信長",
@@ -225,7 +236,8 @@
         "id": "SB/S06-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-013": {
     "name": "“信財成皇”本願寺 顕如",
@@ -243,7 +255,8 @@
         "id": "SB/S06-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-014": {
     "name": "“マムシの娘”濃姫",
@@ -261,7 +274,8 @@
         "id": "SB/S06-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-015": {
     "name": "“破邪清真”森 蘭丸",
@@ -279,7 +293,8 @@
         "id": "SB/S06-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-016": {
     "name": "“蹂躙”明智 光秀",
@@ -297,7 +312,8 @@
         "id": "SB/S06-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-017": {
     "name": "“第六天魔王”織田 信長",
@@ -315,7 +331,8 @@
         "id": "SB/S06-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-018": {
     "name": "“毒牙”明智 光秀",
@@ -333,7 +350,8 @@
         "id": "SB/S06-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-019": {
     "name": "“天我独尊”松永 久秀",
@@ -351,7 +369,8 @@
         "id": "SB/S06-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-020": {
     "name": "無言・即殺",
@@ -369,7 +388,8 @@
         "id": "SB/S06-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-021": {
     "name": "魔の血族",
@@ -387,7 +407,8 @@
         "id": "SB/S06-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-022": {
     "name": "謀反",
@@ -405,7 +426,8 @@
         "id": "SB/S06-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-023": {
     "name": "天下統一の野望",
@@ -427,7 +449,8 @@
         "id": "SB/S06-023SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-024": {
     "name": "愛の対決！？",
@@ -445,7 +468,8 @@
         "id": "SB/S06-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SB/S06-025": {
     "name": "花の誓い",
@@ -463,7 +487,8 @@
         "id": "SB/S06-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SB/S06-026": {
     "name": "“天才軍師”竹中 半兵衛",
@@ -481,7 +506,8 @@
         "id": "SB/S06-026",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-027": {
     "name": "“絢麗豪壮”前田 慶次",
@@ -503,7 +529,8 @@
         "id": "SB/S06-027R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-028": {
     "name": "“豪放磊落”前田 利家",
@@ -521,7 +548,8 @@
         "id": "SB/S06-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-029": {
     "name": "“詭計智将”毛利 元就",
@@ -539,7 +567,8 @@
         "id": "SB/S06-029",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-030": {
     "name": "“賢才瞬麗”まつ",
@@ -561,7 +590,8 @@
         "id": "SB/S06-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-031": {
     "name": "“東照権現”徳川 家康",
@@ -579,7 +609,8 @@
         "id": "SB/S06-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-032": {
     "name": "“裂界武帝”豊臣 秀吉",
@@ -601,7 +632,8 @@
         "id": "SB/S06-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-033": {
     "name": "“富国強兵”豊臣 秀吉",
@@ -619,7 +651,8 @@
         "id": "SB/S06-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-034": {
     "name": "“究極のめし”まつ",
@@ -637,7 +670,8 @@
         "id": "SB/S06-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-035": {
     "name": "“覇王”豊臣 秀吉",
@@ -655,7 +689,8 @@
         "id": "SB/S06-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-036": {
     "name": "“残された時間”竹中 半兵衛",
@@ -673,7 +708,8 @@
         "id": "SB/S06-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-037": {
     "name": "“戦国最強”本多 忠勝",
@@ -691,7 +727,8 @@
         "id": "SB/S06-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-038": {
     "name": "“風来坊”前田 慶次",
@@ -709,7 +746,8 @@
         "id": "SB/S06-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-039": {
     "name": "“氷の面”毛利 元就",
@@ -727,7 +765,8 @@
         "id": "SB/S06-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-040": {
     "name": "“虚張声勢”今川 義元",
@@ -745,7 +784,8 @@
         "id": "SB/S06-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-041": {
     "name": "“蒼烈瞬躙”竹中 半兵衛",
@@ -763,7 +803,8 @@
         "id": "SB/S06-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-042": {
     "name": "“恋の嵐”前田 慶次",
@@ -781,7 +822,8 @@
         "id": "SB/S06-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-043": {
     "name": "“冷酷な策略家”毛利 元就",
@@ -799,7 +841,8 @@
         "id": "SB/S06-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-044": {
     "name": "“恋の花道”前田 慶次",
@@ -817,7 +860,8 @@
         "id": "SB/S06-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-045": {
     "name": "伝説の舞台",
@@ -835,7 +879,8 @@
         "id": "SB/S06-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-046": {
     "name": "食通夫婦",
@@ -853,7 +898,8 @@
         "id": "SB/S06-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-047": {
     "name": "夢心地",
@@ -871,7 +917,8 @@
         "id": "SB/S06-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-048": {
     "name": "対決",
@@ -893,7 +940,8 @@
         "id": "SB/S06-048SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SB/S06-049": {
     "name": "佳人薄命",
@@ -911,7 +959,8 @@
         "id": "SB/S06-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SB/S06-050": {
     "name": "亀裂",
@@ -929,7 +978,8 @@
         "id": "SB/S06-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-051": {
     "name": "“海の男”長曾我部 元親",
@@ -951,7 +1001,8 @@
         "id": "SB/S06-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-052": {
     "name": "“蒼天疾駆”猿飛 佐助",
@@ -969,7 +1020,8 @@
         "id": "SB/S06-052",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-053": {
     "name": "“西海の鬼”長曾我部 元親",
@@ -987,7 +1039,8 @@
         "id": "SB/S06-053",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-054": {
     "name": "“空蝉の極意”猿飛 佐助",
@@ -1009,7 +1062,8 @@
         "id": "SB/S06-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-055": {
     "name": "“戦神覇王”武田 信玄",
@@ -1027,7 +1081,8 @@
         "id": "SB/S06-055",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-056": {
     "name": "“天覇絶槍”真田 幸村",
@@ -1049,7 +1104,8 @@
         "id": "SB/S06-056R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-057": {
     "name": "“武田最後の砦”信玄",
@@ -1067,7 +1123,8 @@
         "id": "SB/S06-057",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-058": {
     "name": "“風林火山”武田 信玄",
@@ -1085,7 +1142,8 @@
         "id": "SB/S06-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-059": {
     "name": "“冷酷な一面”猿飛 佐助",
@@ -1103,7 +1161,8 @@
         "id": "SB/S06-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-060": {
     "name": "“武田の若武者”真田 幸村",
@@ -1121,7 +1180,8 @@
         "id": "SB/S06-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-061": {
     "name": "“蒼紅”政宗＆幸村",
@@ -1139,7 +1199,8 @@
         "id": "SB/S06-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-062": {
     "name": "“天衣無縫”長曾我部 元親",
@@ -1157,7 +1218,8 @@
         "id": "SB/S06-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-063": {
     "name": "“熱血漢”真田 幸村",
@@ -1175,7 +1237,8 @@
         "id": "SB/S06-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-064": {
     "name": "“真田忍隊の長”猿飛 佐助",
@@ -1193,7 +1256,8 @@
         "id": "SB/S06-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-065": {
     "name": "“戦国の風雲児”長曾我部 元親",
@@ -1211,7 +1275,8 @@
         "id": "SB/S06-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-066": {
     "name": "“天驚動地”宮本 武蔵",
@@ -1229,7 +1294,8 @@
         "id": "SB/S06-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-067": {
     "name": "“闘魂絶唱”真田 幸村",
@@ -1247,7 +1313,8 @@
         "id": "SB/S06-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-068": {
     "name": "“頼れるアニキ”長曾我部 元親",
@@ -1265,7 +1332,8 @@
         "id": "SB/S06-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-069": {
     "name": "“一刀必殺”島津 義弘",
@@ -1283,7 +1351,8 @@
         "id": "SB/S06-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-070": {
     "name": "同郷",
@@ -1301,7 +1370,8 @@
         "id": "SB/S06-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-071": {
     "name": "川中島の合戦",
@@ -1319,7 +1389,8 @@
         "id": "SB/S06-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-072": {
     "name": "傾奇者",
@@ -1337,7 +1408,8 @@
         "id": "SB/S06-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-073": {
     "name": "日本一の兵",
@@ -1359,7 +1431,8 @@
         "id": "SB/S06-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-074": {
     "name": "二人の忍",
@@ -1377,7 +1450,8 @@
         "id": "SB/S06-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SB/S06-075": {
     "name": "鬼ヶ島の鬼",
@@ -1395,7 +1469,8 @@
         "id": "SB/S06-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SB/S06-076": {
     "name": "“月下為君”かすが",
@@ -1417,7 +1492,8 @@
         "id": "SB/S06-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-077": {
     "name": "“神速聖将”上杉 謙信",
@@ -1435,7 +1511,8 @@
         "id": "SB/S06-077",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-078": {
     "name": "“奥州の雄”伊達 政宗",
@@ -1453,7 +1530,8 @@
         "id": "SB/S06-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-079": {
     "name": "“竜の右目”片倉 小十郎",
@@ -1471,7 +1549,8 @@
         "id": "SB/S06-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-080": {
     "name": "“仁吼義侠”片倉 小十郎",
@@ -1493,7 +1572,8 @@
         "id": "SB/S06-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-081": {
     "name": "“老成剛毅”北条 氏政",
@@ -1511,7 +1591,8 @@
         "id": "SB/S06-081",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-082": {
     "name": "“粋な男”伊達 政宗",
@@ -1533,7 +1614,8 @@
         "id": "SB/S06-082R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-083": {
     "name": "“軍神”上杉 謙信",
@@ -1551,7 +1633,8 @@
         "id": "SB/S06-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-084": {
     "name": "“南蛮我道”ザビー",
@@ -1569,7 +1652,8 @@
         "id": "SB/S06-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-085": {
     "name": "“無限六爪流”伊達 政宗",
@@ -1587,7 +1671,8 @@
         "id": "SB/S06-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-086": {
     "name": "“政宗の腹心”片倉 小十郎",
@@ -1605,7 +1690,8 @@
         "id": "SB/S06-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-087": {
     "name": "“天下無双”伊達 政宗",
@@ -1623,7 +1709,8 @@
         "id": "SB/S06-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-088": {
     "name": "“独眼竜”伊達 政宗",
@@ -1641,7 +1728,8 @@
         "id": "SB/S06-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-089": {
     "name": "“副将”片倉 小十郎",
@@ -1659,7 +1747,8 @@
         "id": "SB/S06-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-090": {
     "name": "“美しき剣”かすが",
@@ -1677,7 +1766,8 @@
         "id": "SB/S06-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-091": {
     "name": "“愛ミナギル”ザビー",
@@ -1695,7 +1785,8 @@
         "id": "SB/S06-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-092": {
     "name": "“くの一”かすが",
@@ -1713,7 +1804,8 @@
         "id": "SB/S06-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-093": {
     "name": "“合戦の天才”上杉 謙信",
@@ -1731,7 +1823,8 @@
         "id": "SB/S06-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-094": {
     "name": "“疾風翔慟”風魔 小太郎",
@@ -1749,7 +1842,8 @@
         "id": "SB/S06-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SB/S06-095": {
     "name": "竜と右目",
@@ -1767,7 +1861,8 @@
         "id": "SB/S06-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-096": {
     "name": "推して参る…！",
@@ -1785,7 +1880,8 @@
         "id": "SB/S06-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-097": {
     "name": "伝説の忍",
@@ -1803,7 +1899,8 @@
         "id": "SB/S06-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SB/S06-098": {
     "name": "キング・オブ・伊達男",
@@ -1825,7 +1922,8 @@
         "id": "SB/S06-098SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SB/S06-099": {
     "name": "疾風迅雷",
@@ -1843,7 +1941,8 @@
         "id": "SB/S06-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SB/S06-100": {
     "name": "愛の戦士",
@@ -1861,6 +1960,7 @@
         "id": "SB/S06-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

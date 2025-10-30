@@ -15,7 +15,8 @@
         "id": "SIL/W109-139",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIL/W109-P02": {
     "name": "新作！動物モナカ 絢瀬 絵里",
@@ -33,7 +34,8 @@
         "id": "SIL/W109-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIL/W109-P06": {
     "name": "しろくろドレスアップ！ μ's",
@@ -91,6 +93,7 @@
         "id": "SIL/W109-P06jS",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

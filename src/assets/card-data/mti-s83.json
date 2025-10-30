@@ -19,7 +19,8 @@
         "id": "MTI/S83-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-002": {
     "name": "“本気で生きる”ルーデウス",
@@ -41,7 +42,8 @@
         "id": "MTI/S83-002SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-003": {
     "name": "“陽だまりの中で”ルーデウス",
@@ -63,7 +65,8 @@
         "id": "MTI/S83-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-004": {
     "name": "“冒険者パーティー デッドエンド”ルーデウス",
@@ -81,7 +84,8 @@
         "id": "MTI/S83-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-005": {
     "name": "“日々の成長”ルーデウス",
@@ -103,7 +107,8 @@
         "id": "MTI/S83-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-006": {
     "name": "“励ましの言葉”ルーデウス",
@@ -121,7 +126,8 @@
         "id": "MTI/S83-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-007": {
     "name": "“人生のスタートライン”ルーデウス",
@@ -143,7 +149,8 @@
         "id": "MTI/S83-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-008": {
     "name": "“勇敢な少年”ルーデウス",
@@ -161,7 +168,8 @@
         "id": "MTI/S83-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-009": {
     "name": "“子どもだもの”ルーデウス",
@@ -179,7 +187,8 @@
         "id": "MTI/S83-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-010": {
     "name": "“天才剣士”パウロ",
@@ -197,7 +206,8 @@
         "id": "MTI/S83-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-011": {
     "name": "“友達”ルーデウス",
@@ -215,7 +225,8 @@
         "id": "MTI/S83-011",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-012": {
     "name": "“打ち解ける心”リーリャ",
@@ -233,7 +244,8 @@
         "id": "MTI/S83-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-013": {
     "name": "“差し伸べた手”ルーデウス",
@@ -251,7 +263,8 @@
         "id": "MTI/S83-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-014": {
     "name": "アイシャ＆ノルン",
@@ -269,7 +282,8 @@
         "id": "MTI/S83-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-015": {
     "name": "“授かった命”ゼニス",
@@ -287,7 +301,8 @@
         "id": "MTI/S83-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-016": {
     "name": "御神体",
@@ -305,7 +320,8 @@
         "id": "MTI/S83-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-017": {
     "name": "人形作り",
@@ -331,7 +347,8 @@
         "id": "MTI/S83-017c",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-018": {
     "name": "ヒトガミ",
@@ -349,7 +366,8 @@
         "id": "MTI/S83-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-019": {
     "name": "傲慢なる水竜王",
@@ -371,7 +389,8 @@
         "id": "MTI/S83-019R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-020": {
     "name": "小さな魔術師",
@@ -393,7 +412,8 @@
         "id": "MTI/S83-020R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-021": {
     "name": "“守りたい笑顔”シルフィエット",
@@ -415,7 +435,8 @@
         "id": "MTI/S83-021SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-022": {
     "name": "“純真無垢な心”シルフィエット",
@@ -437,7 +458,8 @@
         "id": "MTI/S83-022SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-023": {
     "name": "“スペルド族の戦士”ルイジェルド",
@@ -459,7 +481,8 @@
         "id": "MTI/S83-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-024": {
     "name": "“天使の憩い”シルフィエット",
@@ -481,7 +504,8 @@
         "id": "MTI/S83-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-025": {
     "name": "“額の目”ルイジェルド",
@@ -503,7 +527,8 @@
         "id": "MTI/S83-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-026": {
     "name": "“冒険者パーティー デッドエンド”ルイジェルド",
@@ -521,7 +546,8 @@
         "id": "MTI/S83-026",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-027": {
     "name": "“ボクっ子幼馴染”シルフィエット",
@@ -543,7 +569,8 @@
         "id": "MTI/S83-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-028": {
     "name": "“戦闘態勢”ルイジェルド",
@@ -565,7 +592,8 @@
         "id": "MTI/S83-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-029": {
     "name": "“クォーターエルフの少女”シルフィエット",
@@ -587,7 +615,8 @@
         "id": "MTI/S83-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-030": {
     "name": "“美少年？”シルフィエット",
@@ -605,7 +634,8 @@
         "id": "MTI/S83-030",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-031": {
     "name": "冒険者ギルドの受付嬢",
@@ -623,7 +653,8 @@
         "id": "MTI/S83-031",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-032": {
     "name": "トクラブ村愚連隊",
@@ -649,7 +680,8 @@
         "id": "MTI/S83-032c",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-033": {
     "name": "ピーハンター",
@@ -671,7 +703,8 @@
         "id": "MTI/S83-033b",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-034": {
     "name": "“魔術の習得”シルフィエット",
@@ -689,7 +722,8 @@
         "id": "MTI/S83-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-035": {
     "name": "“輝く瞳”シルフィエット",
@@ -707,7 +741,8 @@
         "id": "MTI/S83-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-036": {
     "name": "“畏怖される種族”ルイジェルド",
@@ -725,7 +760,8 @@
         "id": "MTI/S83-036",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-037": {
     "name": "ノコパラ",
@@ -743,7 +779,8 @@
         "id": "MTI/S83-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-038": {
     "name": "“こぼれる涙”シルフィエット",
@@ -761,7 +798,8 @@
         "id": "MTI/S83-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-039": {
     "name": "“ふたりだけの時間”シルフィエット",
@@ -779,7 +817,8 @@
         "id": "MTI/S83-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-040": {
     "name": "“友達”シルフィエット",
@@ -797,7 +836,8 @@
         "id": "MTI/S83-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-041": {
     "name": "“激情の憤り”ルイジェルド",
@@ -815,7 +855,8 @@
         "id": "MTI/S83-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-042": {
     "name": "“ルディとお勉強”シルフィエット",
@@ -833,7 +874,8 @@
         "id": "MTI/S83-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-043": {
     "name": "“陽だまりの中で”シルフィエット",
@@ -851,7 +893,8 @@
         "id": "MTI/S83-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-044": {
     "name": "“傷だらけの誇り”ルイジェルド",
@@ -869,7 +912,8 @@
         "id": "MTI/S83-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-045": {
     "name": "スペルド族の魂",
@@ -887,7 +931,8 @@
         "id": "MTI/S83-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-046": {
     "name": "シルフ",
@@ -905,7 +950,8 @@
         "id": "MTI/S83-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-047": {
     "name": "君がくれた笑顔",
@@ -927,7 +973,8 @@
         "id": "MTI/S83-047R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-048": {
     "name": "出会えば死",
@@ -949,7 +996,8 @@
         "id": "MTI/S83-048R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-049": {
     "name": "将来の魔術師",
@@ -967,7 +1015,8 @@
         "id": "MTI/S83-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-050": {
     "name": "子供と戦士",
@@ -985,7 +1034,8 @@
         "id": "MTI/S83-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MTI/S83-051": {
     "name": "“麗しの剣士”エリス",
@@ -1007,7 +1057,8 @@
         "id": "MTI/S83-051SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-052": {
     "name": "“凶暴ツンデレお嬢様”エリス",
@@ -1029,7 +1080,8 @@
         "id": "MTI/S83-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-053": {
     "name": "“強き女剣士”ギレーヌ",
@@ -1051,7 +1103,8 @@
         "id": "MTI/S83-053SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-054": {
     "name": "“妖艶な誘い”エリス",
@@ -1073,7 +1126,8 @@
         "id": "MTI/S83-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-055": {
     "name": "“剣術指南役”ギレーヌ",
@@ -1095,7 +1149,8 @@
         "id": "MTI/S83-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-056": {
     "name": "“剣神流”ギレーヌ",
@@ -1117,7 +1172,8 @@
         "id": "MTI/S83-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-057": {
     "name": "“屈強な体”ギレーヌ",
@@ -1139,7 +1195,8 @@
         "id": "MTI/S83-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-058": {
     "name": "“ボレアス家の令嬢”エリス",
@@ -1161,7 +1218,8 @@
         "id": "MTI/S83-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-059": {
     "name": "“内に秘めた強さ”エリス",
@@ -1183,7 +1241,8 @@
         "id": "MTI/S83-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-060": {
     "name": "“冒険者パーティー デッドエンド”エリス",
@@ -1201,7 +1260,8 @@
         "id": "MTI/S83-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-061": {
     "name": "“天使のような寝顔”エリス",
@@ -1219,7 +1279,8 @@
         "id": "MTI/S83-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-062": {
     "name": "“魔術の習得”エリス",
@@ -1237,7 +1298,8 @@
         "id": "MTI/S83-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-063": {
     "name": "“ボレアス家の用心棒”ギレーヌ",
@@ -1259,7 +1321,8 @@
         "id": "MTI/S83-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-064": {
     "name": "“獣族”ギレーヌ",
@@ -1277,7 +1340,8 @@
         "id": "MTI/S83-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-065": {
     "name": "フィリップ・ボレアス・グレイラット",
@@ -1295,7 +1359,8 @@
         "id": "MTI/S83-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-066": {
     "name": "サウロス・ボレアス・グレイラット",
@@ -1313,7 +1378,8 @@
         "id": "MTI/S83-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-067": {
     "name": "ボレアス家の獣人メイド",
@@ -1339,7 +1405,8 @@
         "id": "MTI/S83-067c",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-068": {
     "name": "ヒルダ・ボレアス・グレイラット",
@@ -1357,7 +1424,8 @@
         "id": "MTI/S83-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-069": {
     "name": "“勉強の時間”エリス",
@@ -1375,7 +1443,8 @@
         "id": "MTI/S83-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-070": {
     "name": "“魔術の習得”ギレーヌ",
@@ -1393,7 +1462,8 @@
         "id": "MTI/S83-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-071": {
     "name": "“透徹した眼差し”エリス",
@@ -1411,7 +1481,8 @@
         "id": "MTI/S83-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-072": {
     "name": "“努力の先にあるもの”エリス",
@@ -1429,7 +1500,8 @@
         "id": "MTI/S83-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-073": {
     "name": "“馬子にも衣装”エリス",
@@ -1447,7 +1519,8 @@
         "id": "MTI/S83-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-074": {
     "name": "“傍若無人”エリス",
@@ -1465,7 +1538,8 @@
         "id": "MTI/S83-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-075": {
     "name": "黒狼の牙",
@@ -1483,7 +1557,8 @@
         "id": "MTI/S83-075",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-076": {
     "name": "金じゃデレは買えないんです！",
@@ -1501,7 +1576,8 @@
         "id": "MTI/S83-076",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-077": {
     "name": "エリスのお願い",
@@ -1523,7 +1599,8 @@
         "id": "MTI/S83-077R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-078": {
     "name": "魔眼の右目",
@@ -1545,7 +1622,8 @@
         "id": "MTI/S83-078R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-079": {
     "name": "特別",
@@ -1563,7 +1641,8 @@
         "id": "MTI/S83-079",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-080": {
     "name": "剣王ギレーヌ",
@@ -1581,7 +1660,8 @@
         "id": "MTI/S83-080",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-081": {
     "name": "“君にあげられるもの”ロキシー",
@@ -1603,7 +1683,8 @@
         "id": "MTI/S83-081SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-082": {
     "name": "“あたたかな眼差し”ロキシー",
@@ -1625,7 +1706,8 @@
         "id": "MTI/S83-082SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-083": {
     "name": "“漏れる吐息”ロキシー",
@@ -1643,7 +1725,8 @@
         "id": "MTI/S83-083",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-084": {
     "name": "“導く未来”ロキシー",
@@ -1665,7 +1748,8 @@
         "id": "MTI/S83-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-085": {
     "name": "“料理の習得”ロキシー",
@@ -1683,7 +1767,8 @@
         "id": "MTI/S83-085",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-086": {
     "name": "“陽だまりの中で”ロキシー",
@@ -1705,7 +1790,8 @@
         "id": "MTI/S83-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-087": {
     "name": "“ミグルド族の魔術師”ロキシー",
@@ -1727,7 +1813,8 @@
         "id": "MTI/S83-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-088": {
     "name": "“手紙をしたためる”ロキシー",
@@ -1745,7 +1832,8 @@
         "id": "MTI/S83-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-089": {
     "name": "光輝のアルマンフィ",
@@ -1763,7 +1851,8 @@
         "id": "MTI/S83-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-090": {
     "name": "パックス・シーローン",
@@ -1781,7 +1870,8 @@
         "id": "MTI/S83-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-091": {
     "name": "“ルディの家庭教師”ロキシー",
@@ -1799,7 +1889,8 @@
         "id": "MTI/S83-091",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-092": {
     "name": "キシリカ・キシリス",
@@ -1817,7 +1908,8 @@
         "id": "MTI/S83-092",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-093": {
     "name": "“意地悪な笑顔”ロキシー",
@@ -1835,7 +1927,8 @@
         "id": "MTI/S83-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-094": {
     "name": "ロカリー・ミグルディア",
@@ -1853,7 +1946,8 @@
         "id": "MTI/S83-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-095": {
     "name": "ロイン・ミグルディア",
@@ -1871,7 +1965,8 @@
         "id": "MTI/S83-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-096": {
     "name": "オルステッド",
@@ -1889,7 +1984,8 @@
         "id": "MTI/S83-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-097": {
     "name": "“ドン引き”ロキシー",
@@ -1907,7 +2003,8 @@
         "id": "MTI/S83-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-098": {
     "name": "ミグルド族のお守り",
@@ -1925,7 +2022,8 @@
         "id": "MTI/S83-098",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-099": {
     "name": "祝福",
@@ -1947,7 +2045,8 @@
         "id": "MTI/S83-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-100": {
     "name": "豪雷積層雲",
@@ -1969,6 +2068,7 @@
         "id": "MTI/S83-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

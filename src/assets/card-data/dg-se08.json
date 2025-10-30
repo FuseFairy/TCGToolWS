@@ -15,7 +15,8 @@
         "id": "DG/SE08-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/SE08-02": {
     "name": "“乙女の思い込み”フーカ",
@@ -33,7 +34,8 @@
         "id": "DG/SE08-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/SE08-03": {
     "name": "死神 エミーゼル",
@@ -51,7 +53,8 @@
         "id": "DG/SE08-03",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/SE08-04": {
     "name": "風祭 フーカ",
@@ -69,7 +72,8 @@
         "id": "DG/SE08-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/SE08-05": {
     "name": "“おねえさま”フーカ",
@@ -87,7 +91,8 @@
         "id": "DG/SE08-05",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-06": {
     "name": "生意気なお坊ちゃん エミーゼル",
@@ -105,7 +110,8 @@
         "id": "DG/SE08-06",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-07": {
     "name": "特殺任務部隊のリーダー エミーゼル",
@@ -123,7 +129,8 @@
         "id": "DG/SE08-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-08": {
     "name": "プリニー帽子の少女 フーカ",
@@ -141,7 +148,8 @@
         "id": "DG/SE08-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-09": {
     "name": "地獄に堕ちてきた中学生 フーカ",
@@ -159,7 +167,8 @@
         "id": "DG/SE08-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-10": {
     "name": "魔界大統領Jr エミーゼル",
@@ -177,7 +186,8 @@
         "id": "DG/SE08-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/SE08-11": {
     "name": "ラズベリル大統領閣下",
@@ -195,7 +205,8 @@
         "id": "DG/SE08-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/SE08-12": {
     "name": "プリニー・ウォーズ",
@@ -213,7 +224,8 @@
         "id": "DG/SE08-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DG/SE08-13": {
     "name": "不死鳥の誓い",
@@ -231,7 +243,8 @@
         "id": "DG/SE08-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/SE08-14": {
     "name": "怪盗天使 アルティナ",
@@ -249,7 +262,8 @@
         "id": "DG/SE08-14",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-15": {
     "name": "天使長 フロン",
@@ -267,7 +281,8 @@
         "id": "DG/SE08-15",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/SE08-16": {
     "name": "神出鬼没 アルティナ",
@@ -285,7 +300,8 @@
         "id": "DG/SE08-16",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/SE08-17": {
     "name": "看護師 アルティナ",
@@ -303,7 +319,8 @@
         "id": "DG/SE08-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-18": {
     "name": "断罪者 ネモ",
@@ -321,7 +338,8 @@
         "id": "DG/SE08-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-19": {
     "name": "“業欲の天使”ブルカノ（？）",
@@ -339,7 +357,8 @@
         "id": "DG/SE08-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-20": {
     "name": "ナイスバディ・エトナ",
@@ -357,7 +376,8 @@
         "id": "DG/SE08-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-21": {
     "name": "天界からの密入界者 アルティナ",
@@ -375,7 +395,8 @@
         "id": "DG/SE08-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-22": {
     "name": "超合金ロボ グレートフロンガーＸ",
@@ -393,7 +414,8 @@
         "id": "DG/SE08-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/SE08-23": {
     "name": "悪魔と天使の絆",
@@ -411,7 +433,8 @@
         "id": "DG/SE08-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-24": {
     "name": "プリニーの世話係 フェンリッヒ",
@@ -429,7 +452,8 @@
         "id": "DG/SE08-24",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-25": {
     "name": "“イワシのチカラ”ヴァルバトーゼ",
@@ -447,7 +471,8 @@
         "id": "DG/SE08-25",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-26": {
     "name": "悪の美学 ヴァルバトーゼ",
@@ -465,7 +490,8 @@
         "id": "DG/SE08-26",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-27": {
     "name": "暴君 ヴァルバトーゼ",
@@ -483,7 +509,8 @@
         "id": "DG/SE08-27",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/SE08-28": {
     "name": "ヴァル様の参謀 フェンリッヒ",
@@ -501,7 +528,8 @@
         "id": "DG/SE08-28",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/SE08-29": {
     "name": "プリニーの教育係 ヴァルバトーゼ",
@@ -519,7 +547,8 @@
         "id": "DG/SE08-29",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-30": {
     "name": "人狼族の執事 フェンリッヒ",
@@ -537,7 +566,8 @@
         "id": "DG/SE08-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-31": {
     "name": "絶対の忠誠 フェンリッヒ",
@@ -555,7 +585,8 @@
         "id": "DG/SE08-31",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-32": {
     "name": "魔王ラハール大統領閣下",
@@ -573,7 +604,8 @@
         "id": "DG/SE08-32",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-33": {
     "name": "誇り高き悪魔 ヴァルバトーゼ",
@@ -591,7 +623,8 @@
         "id": "DG/SE08-33",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/SE08-34": {
     "name": "神への反逆者 ヴァルバトーゼ",
@@ -609,7 +642,8 @@
         "id": "DG/SE08-34",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/SE08-35": {
     "name": "『絆』のチカラ",
@@ -627,7 +661,8 @@
         "id": "DG/SE08-35",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-36": {
     "name": "月の誓い",
@@ -645,7 +680,8 @@
         "id": "DG/SE08-36",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DG/SE08-37": {
     "name": "ラスボスを目指す乙女 デスコ",
@@ -663,7 +699,8 @@
         "id": "DG/SE08-37",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-38": {
     "name": "夢見がちでファンシー デスコ",
@@ -681,7 +718,8 @@
         "id": "DG/SE08-38",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-39": {
     "name": "“最終兵器ＤＥＳＣＯ”",
@@ -699,7 +737,8 @@
         "id": "DG/SE08-39",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/SE08-40": {
     "name": "特別房のヌシ デスコ",
@@ -717,7 +756,8 @@
         "id": "DG/SE08-40",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-41": {
     "name": "第６２代魔界大統領 アクターレ",
@@ -735,7 +775,8 @@
         "id": "DG/SE08-41",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-42": {
     "name": "地獄の獄長 アクターレ",
@@ -753,7 +794,8 @@
         "id": "DG/SE08-42",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DG/SE08-43": {
     "name": "ラスボス修行 デスコ",
@@ -771,7 +813,8 @@
         "id": "DG/SE08-43",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/SE08-44": {
     "name": "“パーフェクトバージョン”デスゼット",
@@ -789,7 +832,8 @@
         "id": "DG/SE08-44",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DG/SE08-45": {
     "name": "最終兵器、現る",
@@ -807,6 +851,7 @@
         "id": "DG/SE08-45",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

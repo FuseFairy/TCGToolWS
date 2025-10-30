@@ -15,7 +15,8 @@
         "id": "SG/W19-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-P02": {
     "name": "“一番あったかいところ”響＆未来",
@@ -33,7 +34,8 @@
         "id": "SG/W19-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-106": {
     "name": "FIRST LOVE SONG",
@@ -51,7 +53,8 @@
         "id": "SG/W19-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W19-107": {
     "name": "BILLION MAIDEN",
@@ -69,7 +72,8 @@
         "id": "SG/W19-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W19-108": {
     "name": "LAST∞METEOR",
@@ -87,7 +91,8 @@
         "id": "SG/W19-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W19-109": {
     "name": "影縫い",
@@ -105,6 +110,7 @@
         "id": "SG/W19-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

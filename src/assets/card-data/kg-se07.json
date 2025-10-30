@@ -15,7 +15,8 @@
         "id": "KG/SE07-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-02": {
     "name": "下酷城城主 宇練 銀閣",
@@ -33,7 +34,8 @@
         "id": "KG/SE07-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-03": {
     "name": "“日本最強の剣士”錆 白兵",
@@ -51,7 +53,8 @@
         "id": "KG/SE07-03",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-04": {
     "name": "仮面の男 右衛門左衛門",
@@ -69,7 +72,8 @@
         "id": "KG/SE07-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KG/SE07-05": {
     "name": "鎧海賊団船長 校倉 必",
@@ -87,7 +91,8 @@
         "id": "KG/SE07-05",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-06": {
     "name": "“否定姫の懐刀”左右田 右衛門左衛門",
@@ -105,7 +110,8 @@
         "id": "KG/SE07-06",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-07": {
     "name": "“心王一鞘流”汽口 慚愧",
@@ -123,7 +129,8 @@
         "id": "KG/SE07-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-08": {
     "name": "“仙人”彼我木 輪廻",
@@ -141,7 +148,8 @@
         "id": "KG/SE07-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-09": {
     "name": "とがめの宿敵 否定姫",
@@ -159,7 +167,8 @@
         "id": "KG/SE07-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-10": {
     "name": "千刀流 敦賀 迷彩",
@@ -177,7 +186,8 @@
         "id": "KG/SE07-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-11": {
     "name": "からくり人形 日和号",
@@ -195,7 +205,8 @@
         "id": "KG/SE07-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-12": {
     "name": "“否定する強さ”否定姫",
@@ -213,7 +224,8 @@
         "id": "KG/SE07-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KG/SE07-13": {
     "name": "“鞘となる一族”凍空 こなゆき",
@@ -231,7 +243,8 @@
         "id": "KG/SE07-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KG/SE07-14": {
     "name": "否定姫の悪巧み",
@@ -249,7 +262,8 @@
         "id": "KG/SE07-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KG/SE07-15": {
     "name": "冥土の蝙蝠",
@@ -267,7 +281,8 @@
         "id": "KG/SE07-15",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-16": {
     "name": "鎖縛の喰鮫",
@@ -285,7 +300,8 @@
         "id": "KG/SE07-16",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-17": {
     "name": "逆さ喋りの白鷺",
@@ -303,7 +319,8 @@
         "id": "KG/SE07-17",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-18": {
     "name": "真庭 鳳凰",
@@ -321,7 +338,8 @@
         "id": "KG/SE07-18",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KG/SE07-19": {
     "name": "読み調べの川獺",
@@ -339,7 +357,8 @@
         "id": "KG/SE07-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-20": {
     "name": "長寿の海亀",
@@ -357,7 +376,8 @@
         "id": "KG/SE07-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-21": {
     "name": "真庭忍軍 真庭虫組",
@@ -375,7 +395,8 @@
         "id": "KG/SE07-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-22": {
     "name": "増殖の人鳥",
@@ -393,7 +414,8 @@
         "id": "KG/SE07-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KG/SE07-23": {
     "name": "伝染の狂犬",
@@ -411,7 +433,8 @@
         "id": "KG/SE07-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KG/SE07-24": {
     "name": "神の鳳凰",
@@ -429,7 +452,8 @@
         "id": "KG/SE07-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KG/SE07-25": {
     "name": "巻き戻しの鴛鴦",
@@ -447,7 +471,8 @@
         "id": "KG/SE07-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KG/SE07-26": {
     "name": "忍法断罪円",
@@ -465,7 +490,8 @@
         "id": "KG/SE07-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KG/SE07-27": {
     "name": "七花との出会い とがめ",
@@ -483,7 +509,8 @@
         "id": "KG/SE07-27",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-28": {
     "name": "容赦姫",
@@ -501,7 +528,8 @@
         "id": "KG/SE07-28",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-29": {
     "name": "最後の命令 とがめ",
@@ -519,7 +547,8 @@
         "id": "KG/SE07-29",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KG/SE07-30": {
     "name": "“一の構え『鈴蘭』”鑢 七花",
@@ -537,7 +566,8 @@
         "id": "KG/SE07-30",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KG/SE07-31": {
     "name": "試練の旅 とがめ＆七花",
@@ -555,7 +585,8 @@
         "id": "KG/SE07-31",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KG/SE07-32": {
     "name": "虚刀『鑢』",
@@ -573,7 +604,8 @@
         "id": "KG/SE07-32",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KG/SE07-33": {
     "name": "鑢 七実",
@@ -591,7 +623,8 @@
         "id": "KG/SE07-33",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KG/SE07-34": {
     "name": "頭脳労働専門 とがめ",
@@ -609,7 +642,8 @@
         "id": "KG/SE07-34",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-35": {
     "name": "“鑢家家長”鑢 七実",
@@ -627,7 +661,8 @@
         "id": "KG/SE07-35",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-36": {
     "name": "奇策士 とがめ",
@@ -645,7 +680,8 @@
         "id": "KG/SE07-36",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-37": {
     "name": "“虚刀流七代目当主”鑢 七花",
@@ -663,7 +699,8 @@
         "id": "KG/SE07-37",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-38": {
     "name": "病弱にして天才 鑢 七実",
@@ -681,7 +718,8 @@
         "id": "KG/SE07-38",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-39": {
     "name": "“とがめの刀”鑢 七花",
@@ -699,7 +737,8 @@
         "id": "KG/SE07-39",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-40": {
     "name": "気合を入れるとがめ",
@@ -717,7 +756,8 @@
         "id": "KG/SE07-40",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-41": {
     "name": "智謀知略と手練手管 とがめ",
@@ -735,7 +775,8 @@
         "id": "KG/SE07-41",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KG/SE07-42": {
     "name": "ちぇりおー！",
@@ -753,7 +794,8 @@
         "id": "KG/SE07-42",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KG/SE07-43": {
     "name": "七花八裂（改）",
@@ -771,7 +813,8 @@
         "id": "KG/SE07-43",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KG/SE07-44": {
     "name": "対決 七実対七花",
@@ -789,7 +832,8 @@
         "id": "KG/SE07-44",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KG/SE07-45": {
     "name": "旅の終わり",
@@ -807,7 +851,8 @@
         "id": "KG/SE07-45",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-06_": {
     "name": "“否定姫の懐刀”左右田 右衛門左衛門",
@@ -825,7 +870,8 @@
         "id": "KG/SE07-06_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-07_": {
     "name": "“心王一鞘流”汽口 慚愧",
@@ -843,7 +889,8 @@
         "id": "KG/SE07-07_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-10_": {
     "name": "千刀流 敦賀 迷彩",
@@ -861,7 +908,8 @@
         "id": "KG/SE07-10_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-14_": {
     "name": "否定姫の悪巧み",
@@ -879,7 +927,8 @@
         "id": "KG/SE07-14_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KG/SE07-36_": {
     "name": "奇策士 とがめ",
@@ -897,7 +946,8 @@
         "id": "KG/SE07-36_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-41_": {
     "name": "智謀知略と手練手管 とがめ",
@@ -915,7 +965,8 @@
         "id": "KG/SE07-41_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KG/SE07-42_": {
     "name": "ちぇりおー！",
@@ -933,7 +984,8 @@
         "id": "KG/SE07-42_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KG/SE07-45_": {
     "name": "旅の終わり",
@@ -951,6 +1003,7 @@
         "id": "KG/SE07-45_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -19,7 +19,8 @@
         "id": "Dsw/S104-002SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dsw/S104-014": {
     "name": "フォースの力を秘めた孤児 グローグー",
@@ -41,7 +42,8 @@
         "id": "Dsw/S104-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dsw/S104-025": {
     "name": "マンダロリアン",
@@ -63,7 +65,8 @@
         "id": "Dsw/S104-025HND",
         "rarity": "HND"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dsw/S104-073": {
     "name": "“類稀なるフォース”アナキン",
@@ -85,7 +88,8 @@
         "id": "Dsw/S104-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dsw/S104-080": {
     "name": "“宇宙を救う定め”ルーク",
@@ -107,6 +111,7 @@
         "id": "Dsw/S104-080SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

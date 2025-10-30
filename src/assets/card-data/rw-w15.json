@@ -19,7 +19,8 @@
         "id": "RW/W15-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-002": {
     "name": "千里 朱音",
@@ -41,7 +42,8 @@
         "id": "RW/W15-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-003": {
     "name": "“オカ研会長”朱音",
@@ -59,7 +61,8 @@
         "id": "RW/W15-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-004": {
     "name": "“ドジっ子”ちはや",
@@ -77,7 +80,8 @@
         "id": "RW/W15-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-005": {
     "name": "“瑚太朗のライバル”井上",
@@ -95,7 +99,8 @@
         "id": "RW/W15-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-006": {
     "name": "“秘蔵のネタ”小鳥",
@@ -113,7 +118,8 @@
         "id": "RW/W15-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-007": {
     "name": "“昔なじみ”小鳥",
@@ -131,7 +137,8 @@
         "id": "RW/W15-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-008": {
     "name": "“守りの包帯”ちはや",
@@ -149,7 +156,8 @@
         "id": "RW/W15-008",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-009": {
     "name": "“わんぱく大食い娘”ちはや",
@@ -167,7 +175,8 @@
         "id": "RW/W15-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-010": {
     "name": "“スピード勝負！”瑚太朗",
@@ -185,7 +194,8 @@
         "id": "RW/W15-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-011": {
     "name": "ぎる＆ぱに",
@@ -203,7 +213,8 @@
         "id": "RW/W15-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-012": {
     "name": "“カザコーのアウトロー”吉野",
@@ -221,7 +232,8 @@
         "id": "RW/W15-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-013": {
     "name": "“ちはやの執事”咲夜",
@@ -239,7 +251,8 @@
         "id": "RW/W15-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-014": {
     "name": "“夢と現実”朱音",
@@ -257,7 +270,8 @@
         "id": "RW/W15-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-015": {
     "name": "鳳 咲夜",
@@ -275,7 +289,8 @@
         "id": "RW/W15-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-016": {
     "name": "制服の小鳥",
@@ -293,7 +308,8 @@
         "id": "RW/W15-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-017": {
     "name": "“緑を増やそう委員会”小鳥",
@@ -311,7 +327,8 @@
         "id": "RW/W15-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-018": {
     "name": "制服の朱音",
@@ -329,7 +346,8 @@
         "id": "RW/W15-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-019": {
     "name": "ちびもす",
@@ -347,7 +365,8 @@
         "id": "RW/W15-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-020": {
     "name": "“永遠のライバル”晴彦",
@@ -365,7 +384,8 @@
         "id": "RW/W15-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-021": {
     "name": "制服のちはや",
@@ -383,7 +403,8 @@
         "id": "RW/W15-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-022": {
     "name": "私服の朱音",
@@ -401,7 +422,8 @@
         "id": "RW/W15-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-023": {
     "name": "私服の小鳥",
@@ -419,7 +441,8 @@
         "id": "RW/W15-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-024": {
     "name": "私服のちはや",
@@ -437,7 +460,8 @@
         "id": "RW/W15-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-025": {
     "name": "木漏れ日サイクリング",
@@ -455,7 +479,8 @@
         "id": "RW/W15-025",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-026": {
     "name": "マッハナックル・コンマゼロ",
@@ -473,7 +498,8 @@
         "id": "RW/W15-026",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-027": {
     "name": "学園の魔女",
@@ -491,7 +517,8 @@
         "id": "RW/W15-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-028": {
     "name": "笑顔と涙",
@@ -513,7 +540,8 @@
         "id": "RW/W15-028R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RW/W15-029": {
     "name": "当たり前の楽しみ",
@@ -535,7 +563,8 @@
         "id": "RW/W15-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-030": {
     "name": "迷子の転校生",
@@ -553,7 +582,8 @@
         "id": "RW/W15-030",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-031": {
     "name": "メイド服の静流",
@@ -571,7 +601,8 @@
         "id": "RW/W15-031",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-032": {
     "name": "“初めてのデート”ルチア",
@@ -589,7 +620,8 @@
         "id": "RW/W15-032",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-033": {
     "name": "“地球委員長”ルチア",
@@ -611,7 +643,8 @@
         "id": "RW/W15-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-034": {
     "name": "迎撃する静流",
@@ -629,7 +662,8 @@
         "id": "RW/W15-034",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-035": {
     "name": "“さんま大好き”静流",
@@ -647,7 +681,8 @@
         "id": "RW/W15-035",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-036": {
     "name": "此花 ルチア",
@@ -669,7 +704,8 @@
         "id": "RW/W15-036SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-037": {
     "name": "西九条 灯花",
@@ -687,7 +723,8 @@
         "id": "RW/W15-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-038": {
     "name": "上目遣いの静流",
@@ -705,7 +742,8 @@
         "id": "RW/W15-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-039": {
     "name": "“書換能力者”瑚太朗",
@@ -723,7 +761,8 @@
         "id": "RW/W15-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-040": {
     "name": "ひまわり畑のルチア",
@@ -741,7 +780,8 @@
         "id": "RW/W15-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-041": {
     "name": "今宮 新",
@@ -759,7 +799,8 @@
         "id": "RW/W15-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-042": {
     "name": "“激辛界の現人神”ルチア",
@@ -777,7 +818,8 @@
         "id": "RW/W15-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-043": {
     "name": "戦闘服の静流",
@@ -795,7 +837,8 @@
         "id": "RW/W15-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-044": {
     "name": "“鉄拳制裁”ルチア",
@@ -813,7 +856,8 @@
         "id": "RW/W15-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-045": {
     "name": "江坂 宗源",
@@ -831,7 +875,8 @@
         "id": "RW/W15-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-046": {
     "name": "アサヒハルカの呪い",
@@ -849,7 +894,8 @@
         "id": "RW/W15-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-047": {
     "name": "ルチアVS静流",
@@ -867,7 +913,8 @@
         "id": "RW/W15-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-048": {
     "name": "二人きりの世界",
@@ -889,7 +936,8 @@
         "id": "RW/W15-048R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-049": {
     "name": "受け容れる力",
@@ -907,7 +955,8 @@
         "id": "RW/W15-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RW/W15-050": {
     "name": "ちっぽけな幸せ",
@@ -929,7 +978,8 @@
         "id": "RW/W15-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-051": {
     "name": "“無愛想っ子”朱音",
@@ -947,7 +997,8 @@
         "id": "RW/W15-051",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-052": {
     "name": "鳳 ちはや",
@@ -969,7 +1020,8 @@
         "id": "RW/W15-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-053": {
     "name": "水着のちはや",
@@ -991,7 +1043,8 @@
         "id": "RW/W15-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-054": {
     "name": "“最強の魔物”咲夜",
@@ -1009,7 +1062,8 @@
         "id": "RW/W15-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-055": {
     "name": "“滅びの歌”朱音",
@@ -1031,7 +1085,8 @@
         "id": "RW/W15-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-056": {
     "name": "“終わりのない転写”朱音",
@@ -1049,7 +1104,8 @@
         "id": "RW/W15-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-057": {
     "name": "“鳳家のお嬢さま”ちはや",
@@ -1067,7 +1123,8 @@
         "id": "RW/W15-057",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-058": {
     "name": "“マーテルの要人”朱音",
@@ -1085,7 +1142,8 @@
         "id": "RW/W15-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-059": {
     "name": "“喚起の法”ちはや",
@@ -1103,7 +1161,8 @@
         "id": "RW/W15-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-060": {
     "name": "“テメエの道と俺の道”ミドウ",
@@ -1121,7 +1180,8 @@
         "id": "RW/W15-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-061": {
     "name": "“聖女のしもべ”しまこ",
@@ -1139,7 +1199,8 @@
         "id": "RW/W15-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-062": {
     "name": "“オーロラ発現”瑚太朗",
@@ -1157,7 +1218,8 @@
         "id": "RW/W15-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-063": {
     "name": "“オオトリウィルス”ちはや",
@@ -1175,7 +1237,8 @@
         "id": "RW/W15-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-064": {
     "name": "秩序に叛逆する朱音",
@@ -1193,7 +1256,8 @@
         "id": "RW/W15-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-065": {
     "name": "“暗殺者”ミドウ",
@@ -1211,7 +1275,8 @@
         "id": "RW/W15-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-066": {
     "name": "魔物の誕生",
@@ -1229,7 +1294,8 @@
         "id": "RW/W15-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-067": {
     "name": "対峙",
@@ -1247,7 +1313,8 @@
         "id": "RW/W15-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-068": {
     "name": "贖罪",
@@ -1269,7 +1336,8 @@
         "id": "RW/W15-068R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RW/W15-069": {
     "name": "咲夜VS瑚太朗",
@@ -1287,7 +1355,8 @@
         "id": "RW/W15-069",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RW/W15-070": {
     "name": "仕返し",
@@ -1305,7 +1374,8 @@
         "id": "RW/W15-070",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-071": {
     "name": "“優しい言葉”篝",
@@ -1327,7 +1397,8 @@
         "id": "RW/W15-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-072": {
     "name": "神戸 小鳥",
@@ -1349,7 +1420,8 @@
         "id": "RW/W15-072SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-073": {
     "name": "“星を救うために”ルチア",
@@ -1367,7 +1439,8 @@
         "id": "RW/W15-073",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-074": {
     "name": "“月明かりの下で”瑚太朗＆篝",
@@ -1385,7 +1458,8 @@
         "id": "RW/W15-074",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-075": {
     "name": "“二人で一緒に”静流",
@@ -1407,7 +1481,8 @@
         "id": "RW/W15-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-076": {
     "name": "“宿り木の契約者”小鳥",
@@ -1425,7 +1500,8 @@
         "id": "RW/W15-076",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-077": {
     "name": "月夜に佇む篝",
@@ -1443,7 +1519,8 @@
         "id": "RW/W15-077",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-078": {
     "name": "中津 静流",
@@ -1465,7 +1542,8 @@
         "id": "RW/W15-078SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-079": {
     "name": "“散る桜の宿命”咲夜",
@@ -1483,7 +1561,8 @@
         "id": "RW/W15-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-080": {
     "name": "“模索する者”篝",
@@ -1501,7 +1580,8 @@
         "id": "RW/W15-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-081": {
     "name": "“『鍵』の少女”篝",
@@ -1519,7 +1599,8 @@
         "id": "RW/W15-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-082": {
     "name": "熟睡する小鳥",
@@ -1537,7 +1618,8 @@
         "id": "RW/W15-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-083": {
     "name": "“誰かのために”静流",
@@ -1555,7 +1637,8 @@
         "id": "RW/W15-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-084": {
     "name": "“たったひとり”の篝",
@@ -1573,7 +1656,8 @@
         "id": "RW/W15-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-085": {
     "name": "“森ガール”小鳥",
@@ -1591,7 +1675,8 @@
         "id": "RW/W15-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-086": {
     "name": "“似たもの同士”小鳥",
@@ -1609,7 +1694,8 @@
         "id": "RW/W15-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-087": {
     "name": "メイド服のルチア",
@@ -1627,7 +1713,8 @@
         "id": "RW/W15-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-088": {
     "name": "制服の静流",
@@ -1645,7 +1732,8 @@
         "id": "RW/W15-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-089": {
     "name": "“この夜での役目”瑚太朗",
@@ -1663,7 +1751,8 @@
         "id": "RW/W15-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-090": {
     "name": "“命の理論”篝",
@@ -1681,7 +1770,8 @@
         "id": "RW/W15-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-091": {
     "name": "制服のルチア",
@@ -1699,7 +1789,8 @@
         "id": "RW/W15-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-092": {
     "name": "“咲夜”という名の存在",
@@ -1717,7 +1808,8 @@
         "id": "RW/W15-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-093": {
     "name": "私服の静流",
@@ -1735,7 +1827,8 @@
         "id": "RW/W15-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-094": {
     "name": "私服のルチア",
@@ -1753,7 +1846,8 @@
         "id": "RW/W15-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W15-095": {
     "name": "可能性の系統樹",
@@ -1771,7 +1865,8 @@
         "id": "RW/W15-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-096": {
     "name": "終わる世界",
@@ -1789,7 +1884,8 @@
         "id": "RW/W15-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-097": {
     "name": "ほんの少しのお別れ",
@@ -1807,7 +1903,8 @@
         "id": "RW/W15-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-098": {
     "name": "出会い",
@@ -1829,7 +1926,8 @@
         "id": "RW/W15-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W15-099": {
     "name": "小鳥の心",
@@ -1847,7 +1945,8 @@
         "id": "RW/W15-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RW/W15-100": {
     "name": "失くした記憶",
@@ -1865,6 +1964,7 @@
         "id": "RW/W15-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

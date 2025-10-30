@@ -27,7 +27,8 @@
         "id": "Sde/W123-068SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sde/W123-070": {
     "name": "出涸らし皇子 アルノルト",
@@ -53,7 +54,8 @@
         "id": "Sde/W123-070SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sde/W123-083": {
     "name": "アムスベルグ勇爵家の神童 エルナ",
@@ -75,7 +77,8 @@
         "id": "Sde/W123-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Sde/W123-098": {
     "name": "シルヴァリー・エンド・セイバー",
@@ -97,6 +100,7 @@
         "id": "Sde/W123-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

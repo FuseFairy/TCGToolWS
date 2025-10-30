@@ -15,7 +15,8 @@
         "id": "BR/SPR-001",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BR/SPR-002": {
     "name": "デッドマスター",
@@ -33,6 +34,7 @@
         "id": "BR/SPR-002",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

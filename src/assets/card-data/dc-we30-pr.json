@@ -15,7 +15,8 @@
         "id": "DC/WE30-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE30-P05": {
     "name": "真夏の恋 小恋＆音夢＆ななか",
@@ -33,6 +34,7 @@
         "id": "DC/WE30-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

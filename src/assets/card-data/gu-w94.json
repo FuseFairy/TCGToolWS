@@ -19,7 +19,8 @@
         "id": "GU/W94-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-002": {
     "name": "“幼馴染同士”シャロ",
@@ -41,7 +42,8 @@
         "id": "GU/W94-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-003": {
     "name": "Sing For You シャロ＆リゼ",
@@ -63,7 +65,8 @@
         "id": "GU/W94-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-004": {
     "name": "Sing For You シャロ",
@@ -85,7 +88,8 @@
         "id": "GU/W94-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-005": {
     "name": "Welcome！ シャロ",
@@ -107,7 +111,8 @@
         "id": "GU/W94-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-006": {
     "name": "“プレゼント交換” シャロ",
@@ -129,7 +134,8 @@
         "id": "GU/W94-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-007": {
     "name": "照れ笑い シャロ",
@@ -151,7 +157,8 @@
         "id": "GU/W94-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-008": {
     "name": "“うさみみパーカー”シャロ",
@@ -169,7 +176,8 @@
         "id": "GU/W94-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-009": {
     "name": "お祭り気分 シャロ",
@@ -191,7 +199,8 @@
         "id": "GU/W94-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-010": {
     "name": "みんなで浴衣 シャロ",
@@ -209,7 +218,8 @@
         "id": "GU/W94-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-011": {
     "name": "For You！ シャロ",
@@ -227,7 +237,8 @@
         "id": "GU/W94-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-012": {
     "name": "先輩と一緒 シャロ",
@@ -249,7 +260,8 @@
         "id": "GU/W94-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-013": {
     "name": "幸せそうなシャロ",
@@ -271,7 +283,8 @@
         "id": "GU/W94-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-014": {
     "name": "お盆 de シャロ",
@@ -289,7 +302,8 @@
         "id": "GU/W94-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-015": {
     "name": "ポットでお届け シャロ",
@@ -311,7 +325,8 @@
         "id": "GU/W94-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-016": {
     "name": "“フルール・ド・ラパンのウェイトレス”シャロ",
@@ -333,7 +348,8 @@
         "id": "GU/W94-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-017": {
     "name": "一緒にお風呂",
@@ -355,7 +371,8 @@
         "id": "GU/W94-017OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-018": {
     "name": "ドレスアップ 千夜",
@@ -377,7 +394,8 @@
         "id": "GU/W94-018SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-019": {
     "name": "Welcome！ 千夜",
@@ -399,7 +417,8 @@
         "id": "GU/W94-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-020": {
     "name": "Sing For You 千夜",
@@ -421,7 +440,8 @@
         "id": "GU/W94-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-021": {
     "name": "“プレゼント交換” 千夜",
@@ -443,7 +463,8 @@
         "id": "GU/W94-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-022": {
     "name": "楽しければオッケー 千夜",
@@ -465,7 +486,8 @@
         "id": "GU/W94-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-023": {
     "name": "Sing For You 千夜＆ココア",
@@ -487,7 +509,8 @@
         "id": "GU/W94-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-024": {
     "name": "木組みの街で 千夜",
@@ -509,7 +532,8 @@
         "id": "GU/W94-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-025": {
     "name": "はんなり 千夜",
@@ -531,7 +555,8 @@
         "id": "GU/W94-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-026": {
     "name": "“マイペース”千夜",
@@ -553,7 +578,8 @@
         "id": "GU/W94-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-027": {
     "name": "“幼馴染同士”千夜",
@@ -571,7 +597,8 @@
         "id": "GU/W94-027",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-028": {
     "name": "みんなで浴衣 千夜",
@@ -589,7 +616,8 @@
         "id": "GU/W94-028",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-029": {
     "name": "商売上手 千夜",
@@ -607,7 +635,8 @@
         "id": "GU/W94-029",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-030": {
     "name": "“頭いいお姉ちゃんアピール”千夜",
@@ -625,7 +654,8 @@
         "id": "GU/W94-030",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-031": {
     "name": "ぷくー顔 千夜",
@@ -643,7 +673,8 @@
         "id": "GU/W94-031",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-032": {
     "name": "寂しんぼ 千夜",
@@ -661,7 +692,8 @@
         "id": "GU/W94-032",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-033": {
     "name": "For You！ 千夜",
@@ -679,7 +711,8 @@
         "id": "GU/W94-033",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-034": {
     "name": "買い物帰りの二人",
@@ -697,7 +730,8 @@
         "id": "GU/W94-034",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-035": {
     "name": "振り回され隊 リゼ",
@@ -719,7 +753,8 @@
         "id": "GU/W94-035SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-036": {
     "name": "“将来のユメ”ココア",
@@ -741,7 +776,8 @@
         "id": "GU/W94-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-037": {
     "name": "トリックオアトリート モカ＆チノ＆ココア",
@@ -763,7 +799,8 @@
         "id": "GU/W94-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-038": {
     "name": "ドレスアップ ココア",
@@ -785,7 +822,8 @@
         "id": "GU/W94-038SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-039": {
     "name": "出会えてよかった チノ&ココア",
@@ -807,7 +845,8 @@
         "id": "GU/W94-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-040": {
     "name": "Sing For You ココア",
@@ -829,7 +868,8 @@
         "id": "GU/W94-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-041": {
     "name": "“プレゼント交換” ココア",
@@ -851,7 +891,8 @@
         "id": "GU/W94-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-042": {
     "name": "私らしさ リゼ",
@@ -873,7 +914,8 @@
         "id": "GU/W94-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-043": {
     "name": "いっしょに行こう ココア",
@@ -891,7 +933,8 @@
         "id": "GU/W94-043",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-044": {
     "name": "Sing For You リゼ",
@@ -913,7 +956,8 @@
         "id": "GU/W94-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-045": {
     "name": "Welcome！ ココア",
@@ -935,7 +979,8 @@
         "id": "GU/W94-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-046": {
     "name": "“プレゼント交換” リゼ",
@@ -957,7 +1002,8 @@
         "id": "GU/W94-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-047": {
     "name": "Welcome！ リゼ",
@@ -979,7 +1025,8 @@
         "id": "GU/W94-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-048": {
     "name": "“いらっしゃいませ”モカ",
@@ -997,7 +1044,8 @@
         "id": "GU/W94-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-049": {
     "name": "“いつもの二人”ココア",
@@ -1019,7 +1067,8 @@
         "id": "GU/W94-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-050": {
     "name": "For You！ リゼ",
@@ -1037,7 +1086,8 @@
         "id": "GU/W94-050",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-051": {
     "name": "みんなで浴衣 リゼ",
@@ -1055,7 +1105,8 @@
         "id": "GU/W94-051",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-052": {
     "name": "ちょっとびっくり ココア",
@@ -1073,7 +1124,8 @@
         "id": "GU/W94-052",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-053": {
     "name": "“お姉ちゃん代理”リゼ",
@@ -1095,7 +1147,8 @@
         "id": "GU/W94-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-054": {
     "name": "みんなで浴衣 ココア&チノ",
@@ -1113,7 +1166,8 @@
         "id": "GU/W94-054",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-055": {
     "name": "“今も昔も優しい”リゼ",
@@ -1131,7 +1185,8 @@
         "id": "GU/W94-055",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-056": {
     "name": "お見舞い ココア",
@@ -1153,7 +1208,8 @@
         "id": "GU/W94-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-057": {
     "name": "“冬服”リゼ",
@@ -1175,7 +1231,8 @@
         "id": "GU/W94-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-058": {
     "name": "“お姉ちゃん”モカ",
@@ -1197,7 +1254,8 @@
         "id": "GU/W94-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-059": {
     "name": "“不思議の国”リゼ",
@@ -1215,7 +1273,8 @@
         "id": "GU/W94-059",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-060": {
     "name": "“凛々しく”リゼ",
@@ -1237,7 +1296,8 @@
         "id": "GU/W94-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-061": {
     "name": "ココア画伯",
@@ -1259,7 +1319,8 @@
         "id": "GU/W94-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-062": {
     "name": "“パン作り”モカ",
@@ -1277,7 +1338,8 @@
         "id": "GU/W94-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-063": {
     "name": "わんわんココア",
@@ -1295,7 +1357,8 @@
         "id": "GU/W94-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-064": {
     "name": "“バラと爆薬の番人”リゼ",
@@ -1317,7 +1380,8 @@
         "id": "GU/W94-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-065": {
     "name": "部活の助っ人！ リゼ",
@@ -1335,7 +1399,8 @@
         "id": "GU/W94-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-066": {
     "name": "手作りのぬいぐるみ リゼ",
@@ -1357,7 +1422,8 @@
         "id": "GU/W94-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-067": {
     "name": "枕投げ",
@@ -1379,7 +1445,8 @@
         "id": "GU/W94-067OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-068": {
     "name": "ただいま",
@@ -1401,7 +1468,8 @@
         "id": "GU/W94-068OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-069": {
     "name": "軍事機密だ",
@@ -1423,7 +1491,8 @@
         "id": "GU/W94-069OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GU/W94-070": {
     "name": "お茶目さん チノ",
@@ -1445,7 +1514,8 @@
         "id": "GU/W94-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-071": {
     "name": "Sing For You サキ",
@@ -1467,7 +1537,8 @@
         "id": "GU/W94-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-072": {
     "name": "Sing For You チノ",
@@ -1489,7 +1560,8 @@
         "id": "GU/W94-072SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-073": {
     "name": "Sing For You チマメ隊",
@@ -1511,7 +1583,8 @@
         "id": "GU/W94-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-074": {
     "name": "“ラビットハウスの制服”メグ",
@@ -1533,7 +1606,8 @@
         "id": "GU/W94-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-075": {
     "name": "“プレゼント交換” チノ",
@@ -1555,7 +1629,8 @@
         "id": "GU/W94-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-076": {
     "name": "振り回され隊 チノ",
@@ -1577,7 +1652,8 @@
         "id": "GU/W94-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-077": {
     "name": "リラックスタイム マヤ",
@@ -1599,7 +1675,8 @@
         "id": "GU/W94-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-078": {
     "name": "リラックスタイム メグ",
@@ -1621,7 +1698,8 @@
         "id": "GU/W94-078SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-079": {
     "name": "“いいセンス”マヤ",
@@ -1643,7 +1721,8 @@
         "id": "GU/W94-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-080": {
     "name": "Welcome！ チノ",
@@ -1665,7 +1744,8 @@
         "id": "GU/W94-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-081": {
     "name": "中学生 チノ",
@@ -1687,7 +1767,8 @@
         "id": "GU/W94-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-082": {
     "name": "Pyon-Pyon Music ココア&チノ",
@@ -1709,7 +1790,8 @@
         "id": "GU/W94-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-083": {
     "name": "メイド服姿のチノ",
@@ -1727,7 +1809,8 @@
         "id": "GU/W94-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-084": {
     "name": "“みんなで花火”チノ",
@@ -1745,7 +1828,8 @@
         "id": "GU/W94-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-085": {
     "name": "みんなで浴衣 メグ&マヤ",
@@ -1763,7 +1847,8 @@
         "id": "GU/W94-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-086": {
     "name": "“いつもの二人”チノ",
@@ -1785,7 +1870,8 @@
         "id": "GU/W94-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-087": {
     "name": "尾行ごっこ マヤ",
@@ -1803,7 +1889,8 @@
         "id": "GU/W94-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-088": {
     "name": "元気な妹 マヤ",
@@ -1821,7 +1908,8 @@
         "id": "GU/W94-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-089": {
     "name": "“自分探しの旅”青山ブルーマウンテン",
@@ -1843,7 +1931,8 @@
         "id": "GU/W94-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-090": {
     "name": "おっとりした妹 メグ",
@@ -1861,7 +1950,8 @@
         "id": "GU/W94-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-091": {
     "name": "“バレエが得意”メグ",
@@ -1879,7 +1969,8 @@
         "id": "GU/W94-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-092": {
     "name": "いつの日か チノ",
@@ -1901,7 +1992,8 @@
         "id": "GU/W94-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-093": {
     "name": "“きっかけのぬいぐるみ”チノ",
@@ -1923,7 +2015,8 @@
         "id": "GU/W94-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-094": {
     "name": "“一歩ずつ”チノ",
@@ -1941,7 +2034,8 @@
         "id": "GU/W94-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-095": {
     "name": "じゃんけん…",
@@ -1967,7 +2061,8 @@
         "id": "GU/W94-095c",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-096": {
     "name": "チマメ隊、敬礼！",
@@ -1993,7 +2088,8 @@
         "id": "GU/W94-096c",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-097": {
     "name": "怖い話",
@@ -2011,7 +2107,8 @@
         "id": "GU/W94-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-098": {
     "name": "Sing For You",
@@ -2033,7 +2130,8 @@
         "id": "GU/W94-098SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-099": {
     "name": "寝言むにゃむにゃ",
@@ -2055,7 +2153,8 @@
         "id": "GU/W94-099OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-100": {
     "name": "おかえりなさい",
@@ -2077,6 +2176,7 @@
         "id": "GU/W94-100OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

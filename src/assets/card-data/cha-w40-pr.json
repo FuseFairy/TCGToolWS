@@ -15,7 +15,8 @@
         "id": "CHA/W40-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-P02": {
     "name": "“大興奮！”乙坂 歩未",
@@ -33,7 +34,8 @@
         "id": "CHA/W40-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-P03": {
     "name": "“教室のなかで”友利 奈緒",
@@ -51,7 +53,8 @@
         "id": "CHA/W40-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-P04": {
     "name": "切り取った世界 友利 奈緒",
@@ -69,7 +72,8 @@
         "id": "CHA/W40-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-101": {
     "name": "“ゆかいな仲間たち”友利 奈緒",
@@ -87,7 +91,8 @@
         "id": "CHA/W40-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-102": {
     "name": "“ゆかいな仲間たち”乙坂 有宇",
@@ -105,7 +110,8 @@
         "id": "CHA/W40-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-103": {
     "name": "“ゆかいな仲間たち”西森 柚咲",
@@ -123,7 +129,8 @@
         "id": "CHA/W40-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-104": {
     "name": "“ゆかいな仲間たち”高城 丈士朗",
@@ -141,6 +148,7 @@
         "id": "CHA/W40-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

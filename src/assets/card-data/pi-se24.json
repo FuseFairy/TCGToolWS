@@ -19,7 +19,8 @@
         "id": "PI/SE24-01SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE24-02": {
     "name": "叶えたい願い クロ",
@@ -37,7 +38,8 @@
         "id": "PI/SE24-02",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE24-03": {
     "name": "スィーツバトル勃発！ クロ",
@@ -55,7 +57,8 @@
         "id": "PI/SE24-03",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-04": {
     "name": "一時撤退 クロ",
@@ -73,7 +76,8 @@
         "id": "PI/SE24-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-05": {
     "name": "もう一人の“イリヤ” クロ",
@@ -91,7 +95,8 @@
         "id": "PI/SE24-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-06": {
     "name": "“奇跡”？クロ",
@@ -109,7 +114,8 @@
         "id": "PI/SE24-06",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE24-07": {
     "name": "私服のルヴィア",
@@ -127,7 +133,8 @@
         "id": "PI/SE24-07",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-08": {
     "name": "体操着のクロ",
@@ -145,7 +152,8 @@
         "id": "PI/SE24-08",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-09": {
     "name": "メイドのお仕事 凛",
@@ -163,7 +171,8 @@
         "id": "PI/SE24-09",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-10": {
     "name": "大ピンチ！ クロ",
@@ -181,7 +190,8 @@
         "id": "PI/SE24-10",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-11": {
     "name": "制服の凛",
@@ -199,7 +209,8 @@
         "id": "PI/SE24-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-12": {
     "name": "“痛覚共有”クロ",
@@ -217,7 +228,8 @@
         "id": "PI/SE24-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-13": {
     "name": "穂群原学園の生徒 クロ",
@@ -235,7 +247,8 @@
         "id": "PI/SE24-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-14": {
     "name": "養護教諭 カレン",
@@ -253,7 +266,8 @@
         "id": "PI/SE24-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-15": {
     "name": "封印指定執行者 バゼット",
@@ -271,7 +285,8 @@
         "id": "PI/SE24-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE24-16": {
     "name": "制服のルヴィア",
@@ -289,7 +304,8 @@
         "id": "PI/SE24-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE24-17": {
     "name": "魔力供給",
@@ -307,7 +323,8 @@
         "id": "PI/SE24-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-18": {
     "name": "嘘と強がりの向こう側",
@@ -325,7 +342,8 @@
         "id": "PI/SE24-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PI/SE24-19": {
     "name": "“必然”？ イリヤ",
@@ -343,7 +361,8 @@
         "id": "PI/SE24-19",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-20": {
     "name": "結ばれた絆 美遊",
@@ -365,7 +384,8 @@
         "id": "PI/SE24-20SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-21": {
     "name": "守りたいもの 美遊",
@@ -383,7 +403,8 @@
         "id": "PI/SE24-21",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE24-22": {
     "name": "いつもの風景 イリヤ",
@@ -405,7 +426,8 @@
         "id": "PI/SE24-22SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE24-23": {
     "name": "大ピンチ！ イリヤ",
@@ -423,7 +445,8 @@
         "id": "PI/SE24-23",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-24": {
     "name": "魔法のステッキ ルビー",
@@ -441,7 +464,8 @@
         "id": "PI/SE24-24",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-25": {
     "name": "メイドのお仕事 美遊",
@@ -459,7 +483,8 @@
         "id": "PI/SE24-25",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-26": {
     "name": "翻弄されるイリヤ",
@@ -477,7 +502,8 @@
         "id": "PI/SE24-26",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-27": {
     "name": "“偶然”? 美遊",
@@ -495,7 +521,8 @@
         "id": "PI/SE24-27",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-28": {
     "name": "水着のイリヤ＆美遊",
@@ -513,7 +540,8 @@
         "id": "PI/SE24-28",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE24-29": {
     "name": "ルヴィア邸の大浴場で 美遊",
@@ -531,7 +559,8 @@
         "id": "PI/SE24-29",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE24-30": {
     "name": "守りたい日常 イリヤ",
@@ -549,7 +578,8 @@
         "id": "PI/SE24-30",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE24-31": {
     "name": "運勢最悪！？ イリヤ",
@@ -567,7 +597,8 @@
         "id": "PI/SE24-31",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-32": {
     "name": "“お兄ちゃん”士郎",
@@ -585,7 +616,8 @@
         "id": "PI/SE24-32",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-33": {
     "name": "穂群原学園の生徒 美遊",
@@ -603,7 +635,8 @@
         "id": "PI/SE24-33",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-34": {
     "name": "作戦失敗！？ 美遊",
@@ -621,7 +654,8 @@
         "id": "PI/SE24-34",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-35": {
     "name": "料理は愛情 イリヤ",
@@ -639,7 +673,8 @@
         "id": "PI/SE24-35",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-36": {
     "name": "親しみの証 リズ",
@@ -657,7 +692,8 @@
         "id": "PI/SE24-36",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-37": {
     "name": "魔法のステッキ サファイア",
@@ -675,7 +711,8 @@
         "id": "PI/SE24-37",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE24-38": {
     "name": "教育係 セラ",
@@ -693,7 +730,8 @@
         "id": "PI/SE24-38",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE24-39": {
     "name": "クラスメイト 美々",
@@ -711,7 +749,8 @@
         "id": "PI/SE24-39",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-40": {
     "name": "“母親のカン”アイリスフィール",
@@ -729,7 +768,8 @@
         "id": "PI/SE24-40",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-41": {
     "name": "クラスメイト 雀花",
@@ -747,7 +787,8 @@
         "id": "PI/SE24-41",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-42": {
     "name": "友達と一緒の放課後 イリヤ",
@@ -765,7 +806,8 @@
         "id": "PI/SE24-42",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-43": {
     "name": "友達と一緒の放課後 美遊",
@@ -783,7 +825,8 @@
         "id": "PI/SE24-43",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-44": {
     "name": "クラスの担任 大河",
@@ -801,7 +844,8 @@
         "id": "PI/SE24-44",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-45": {
     "name": "“セイバー”インストール 美遊",
@@ -819,7 +863,8 @@
         "id": "PI/SE24-45",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-46": {
     "name": "クラスメイト 龍子",
@@ -837,7 +882,8 @@
         "id": "PI/SE24-46",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-47": {
     "name": "ルヴィア邸の大浴場で イリヤ",
@@ -855,7 +901,8 @@
         "id": "PI/SE24-47",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE24-48": {
     "name": "クラスメイト 那奈亀",
@@ -873,7 +920,8 @@
         "id": "PI/SE24-48",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE24-49": {
     "name": "もう一人の私",
@@ -891,7 +939,8 @@
         "id": "PI/SE24-49",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE24-50": {
     "name": "クラスカード ライダー",
@@ -909,6 +958,7 @@
         "id": "PI/SE24-50",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

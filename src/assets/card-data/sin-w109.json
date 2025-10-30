@@ -19,7 +19,8 @@
         "id": "SIN/W109-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIN/W109-003": {
     "name": "レインボーコッペパン 中須 かすみ",
@@ -41,7 +42,8 @@
         "id": "SIN/W109-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-005": {
     "name": "お散歩役員のお世話 天王寺 璃奈",
@@ -63,7 +65,8 @@
         "id": "SIN/W109-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIN/W109-007": {
     "name": "素の自分で 桜坂 しずく",
@@ -85,7 +88,8 @@
         "id": "SIN/W109-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIN/W109-008": {
     "name": "璃奈ちゃんうちわ 天王寺 璃奈",
@@ -107,7 +111,8 @@
         "id": "SIN/W109-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-011": {
     "name": "そよぐ花萌葱 三船 栞子",
@@ -129,7 +134,8 @@
         "id": "SIN/W109-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-014": {
     "name": "お茶会でひとやすみ 桜坂 しずく",
@@ -151,7 +157,8 @@
         "id": "SIN/W109-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIN/W109-016": {
     "name": "かすみんと探そっ♪ 中須 かすみ",
@@ -173,7 +180,8 @@
         "id": "SIN/W109-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIN/W109-022": {
     "name": "金糸雀かすみん 中須 かすみ",
@@ -195,7 +203,8 @@
         "id": "SIN/W109-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-023": {
     "name": "紺碧のヒロイン 桜坂 しずく",
@@ -217,7 +226,8 @@
         "id": "SIN/W109-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-027": {
     "name": "復活の象徴 三船 栞子",
@@ -239,7 +249,8 @@
         "id": "SIN/W109-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-030": {
     "name": "イースターバルーン 天王寺 璃奈",
@@ -261,7 +272,8 @@
         "id": "SIN/W109-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIN/W109-031": {
     "name": "夢のライブを追いかけて",
@@ -283,7 +295,8 @@
         "id": "SIN/W109-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-039": {
     "name": "イースターの兎さん♡ 上原 歩夢",
@@ -305,7 +318,8 @@
         "id": "SIN/W109-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-051": {
     "name": "隣にいるよ 上原 歩夢",
@@ -331,7 +345,8 @@
         "id": "SIN/W109-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-055": {
     "name": "叶えたい夢 高咲 侑",
@@ -353,7 +368,8 @@
         "id": "SIN/W109-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-059": {
     "name": "チェンジオブペース 宮下 愛",
@@ -375,7 +391,8 @@
         "id": "SIN/W109-059SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-060": {
     "name": "大好きを伝えたい！ 優木 せつ菜",
@@ -397,7 +414,8 @@
         "id": "SIN/W109-060SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-063": {
     "name": "ミラクルライブ♡ 上原 歩夢",
@@ -419,7 +437,8 @@
         "id": "SIN/W109-063OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-066": {
     "name": "ライバルで仲間 鐘 嵐珠",
@@ -441,7 +460,8 @@
         "id": "SIN/W109-066SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIN/W109-075": {
     "name": "真夏の太陽 宮下 愛",
@@ -463,7 +483,8 @@
         "id": "SIN/W109-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIN/W109-077": {
     "name": "エッグ発見♪ 優木 せつ菜",
@@ -485,7 +506,8 @@
         "id": "SIN/W109-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIN/W109-078": {
     "name": "フルーツサンド 鐘 嵐珠",
@@ -507,7 +529,8 @@
         "id": "SIN/W109-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIN/W109-080": {
     "name": "夜空に咲く花 上原 歩夢",
@@ -529,7 +552,8 @@
         "id": "SIN/W109-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-082": {
     "name": "軽やかな足取り 鐘 嵐珠",
@@ -551,7 +575,8 @@
         "id": "SIN/W109-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-086": {
     "name": "太陽の下で輝いて 優木 せつ菜",
@@ -573,7 +598,8 @@
         "id": "SIN/W109-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-087": {
     "name": "ハッピーイースター 宮下 愛",
@@ -595,7 +621,8 @@
         "id": "SIN/W109-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIN/W109-091": {
     "name": "二人の１ページ",
@@ -617,7 +644,8 @@
         "id": "SIN/W109-091R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-094": {
     "name": "大好きだからこそ",
@@ -639,7 +667,8 @@
         "id": "SIN/W109-094R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-098": {
     "name": "クオリティの追求 朝香 果林",
@@ -661,7 +690,8 @@
         "id": "SIN/W109-098SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIN/W109-101": {
     "name": "姉妹の食卓 近江 彼方",
@@ -683,7 +713,8 @@
         "id": "SIN/W109-101SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-102": {
     "name": "渾身の作曲 ミア・テイラー",
@@ -705,7 +736,8 @@
         "id": "SIN/W109-102SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-109": {
     "name": "爽やかな木漏れ日 エマ・ヴェルデ",
@@ -727,7 +759,8 @@
         "id": "SIN/W109-109SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIN/W109-111": {
     "name": "可愛い卵見つけたよ エマ・ヴェルデ",
@@ -749,7 +782,8 @@
         "id": "SIN/W109-111S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-113": {
     "name": "たまにはキュートに 朝香 果林",
@@ -771,7 +805,8 @@
         "id": "SIN/W109-113S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-120": {
     "name": "浴衣に挑戦 ミア・テイラー",
@@ -793,7 +828,8 @@
         "id": "SIN/W109-120S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIN/W109-126": {
     "name": "夏だって夢の国へ 近江 彼方",
@@ -815,7 +851,8 @@
         "id": "SIN/W109-126S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-127": {
     "name": "夏の木漏れ日の下 エマ・ヴェルデ",
@@ -837,7 +874,8 @@
         "id": "SIN/W109-127S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-128": {
     "name": "エッグはどこに？ ミア・テイラー",
@@ -859,7 +897,8 @@
         "id": "SIN/W109-128S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIN/W109-129": {
     "name": "薫る夏扇子 朝香 果林",
@@ -881,7 +920,8 @@
         "id": "SIN/W109-129S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIN/W109-132": {
     "name": "うさぎさんがご案内 近江 彼方",
@@ -903,7 +943,8 @@
         "id": "SIN/W109-132S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIN/W109-138": {
     "name": "創り出されるメロディ",
@@ -925,6 +966,7 @@
         "id": "SIN/W109-138R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

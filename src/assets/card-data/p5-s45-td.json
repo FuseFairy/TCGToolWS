@@ -15,7 +15,8 @@
         "id": "P5/S45-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-T02": {
     "name": "バレー部員 三島",
@@ -33,7 +34,8 @@
         "id": "P5/S45-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-T03": {
     "name": "主人公（Ｐ５）",
@@ -51,7 +53,8 @@
         "id": "P5/S45-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-T04": {
     "name": "向き合う覚悟 竜司",
@@ -69,7 +72,8 @@
         "id": "P5/S45-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-T05": {
     "name": "囚われの身 主人公",
@@ -87,7 +91,8 @@
         "id": "P5/S45-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-T06": {
     "name": "反逆のドクロ 竜司",
@@ -105,7 +110,8 @@
         "id": "P5/S45-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-T07": {
     "name": "主人公 / JOKER",
@@ -123,7 +129,8 @@
         "id": "P5/S45-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-T08": {
     "name": "拭えぬ記憶",
@@ -141,7 +148,8 @@
         "id": "P5/S45-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-T09": {
     "name": "反逆する意志",
@@ -159,7 +167,8 @@
         "id": "P5/S45-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P5/S45-T10": {
     "name": "覚醒する力",
@@ -177,7 +186,8 @@
         "id": "P5/S45-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P5/S45-T11": {
     "name": "友達想い 杏",
@@ -195,7 +205,8 @@
         "id": "P5/S45-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-T12": {
     "name": "神出鬼没 モルガナ / MONA",
@@ -213,7 +224,8 @@
         "id": "P5/S45-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-T13": {
     "name": "鈴井 志帆",
@@ -231,7 +243,8 @@
         "id": "P5/S45-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-T14": {
     "name": "破綻する計画 モルガナ",
@@ -249,7 +262,8 @@
         "id": "P5/S45-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-T15": {
     "name": "初潜入 杏 / PANTHER",
@@ -267,7 +281,8 @@
         "id": "P5/S45-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-T16": {
     "name": "オタカラ発見！ モルガナ",
@@ -285,7 +300,8 @@
         "id": "P5/S45-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P5/S45-T17": {
     "name": "速やかに黙らせてやる！",
@@ -303,6 +319,7 @@
         "id": "P5/S45-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

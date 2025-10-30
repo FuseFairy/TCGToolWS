@@ -15,7 +15,8 @@
         "id": "GIM/W124-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-P02": {
     "name": "White Night! White Wish! 藤田ことね",
@@ -41,7 +42,8 @@
         "id": "GIM/W124-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-P03": {
     "name": "『かちドキ』 藤田ことね",
@@ -59,7 +61,8 @@
         "id": "GIM/W124-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-P04": {
     "name": "アナザーアイドル'24クリスマス 花海咲季",
@@ -81,7 +84,8 @@
         "id": "GIM/W124-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-P05": {
     "name": "夏を満喫するわよ！ 花海咲季",
@@ -99,7 +103,8 @@
         "id": "GIM/W124-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-P06": {
     "name": "アナザーアイドル’24クリスマス 月村手毬",
@@ -117,7 +122,8 @@
         "id": "GIM/W124-P06S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-P07": {
     "name": "Fighting My Way 花海咲季",
@@ -135,7 +141,8 @@
         "id": "GIM/W124-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-P08": {
     "name": "Luna say maybe 月村手毬",
@@ -153,7 +160,8 @@
         "id": "GIM/W124-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-P09": {
     "name": "世界一可愛い私 藤田ことね",
@@ -171,7 +179,8 @@
         "id": "GIM/W124-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-P10": {
     "name": "Fluorite 有村麻央",
@@ -189,7 +198,8 @@
         "id": "GIM/W124-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-P11": {
     "name": "白線 葛城リーリヤ",
@@ -207,7 +217,8 @@
         "id": "GIM/W124-P11",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-P12": {
     "name": "Wonder Scale 倉本千奈",
@@ -225,7 +236,8 @@
         "id": "GIM/W124-P12",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-P13": {
     "name": "Tame-Lie-One-Step 紫雲清夏",
@@ -243,7 +255,8 @@
         "id": "GIM/W124-P13",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-P14": {
     "name": "光景 篠澤 広",
@@ -261,7 +274,8 @@
         "id": "GIM/W124-P14",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-P15": {
     "name": "小さな野望 十王星南",
@@ -279,7 +293,8 @@
         "id": "GIM/W124-P15",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-P16": {
     "name": "また、あんなに無理をして 秦谷美鈴",
@@ -297,7 +312,8 @@
         "id": "GIM/W124-P16",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-P17": {
     "name": "The Rolling Riceball 花海佑芽",
@@ -315,7 +331,8 @@
         "id": "GIM/W124-P17",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-P18": {
     "name": "clumsy trick 姫崎莉波",
@@ -333,7 +350,8 @@
         "id": "GIM/W124-P18",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-P19": {
     "name": "Celebr@tion! 花海咲季",
@@ -355,6 +373,7 @@
         "id": "GIM/W124-P19S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

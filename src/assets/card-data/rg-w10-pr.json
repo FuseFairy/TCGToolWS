@@ -15,7 +15,8 @@
         "id": "RG/W10-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-107": {
     "name": "学園都市の初春＆佐天",
@@ -33,7 +34,8 @@
         "id": "RG/W10-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-109": {
     "name": "負けず嫌い 美琴",
@@ -51,7 +53,8 @@
         "id": "RG/W10-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-110": {
     "name": "メイド服の美琴",
@@ -69,7 +72,8 @@
         "id": "RG/W10-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W10-111": {
     "name": "メイド服の黒子",
@@ -87,7 +91,8 @@
         "id": "RG/W10-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W10-112": {
     "name": "ウインタースポーツ 美琴",
@@ -105,7 +110,8 @@
         "id": "RG/W10-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-113": {
     "name": "ウインタースポーツ 黒子",
@@ -123,7 +129,8 @@
         "id": "RG/W10-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-114": {
     "name": "ウインタースポーツ 初春",
@@ -141,7 +148,8 @@
         "id": "RG/W10-114",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W10-115": {
     "name": "ウインタースポーツ 佐天",
@@ -159,6 +167,7 @@
         "id": "RG/W10-115",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

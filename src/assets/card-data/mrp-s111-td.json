@@ -19,7 +19,8 @@
         "id": "MRp/S111-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRp/S111-T12": {
     "name": "“ミラー・ウォリアーズ”ドリー",
@@ -41,7 +42,8 @@
         "id": "MRp/S111-T12R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRp/S111-T16": {
     "name": "“ミラー・ウォリアーズ”サリー",
@@ -63,6 +65,7 @@
         "id": "MRp/S111-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

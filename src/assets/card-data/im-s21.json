@@ -19,7 +19,8 @@
         "id": "IM/S21-001R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-002": {
     "name": "情熱のスノーホワイト 雪歩",
@@ -41,7 +42,8 @@
         "id": "IM/S21-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-003": {
     "name": "どこでもサポート！ 小鳥さん",
@@ -63,7 +65,8 @@
         "id": "IM/S21-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-004": {
     "name": "一歩の勇気 雪歩",
@@ -85,7 +88,8 @@
         "id": "IM/S21-004R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-005": {
     "name": "REST@RT やよい",
@@ -107,7 +111,8 @@
         "id": "IM/S21-005R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-006": {
     "name": "お料理さしすせそ！ やよい",
@@ -129,7 +134,8 @@
         "id": "IM/S21-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-007": {
     "name": "ALLSTAR LIVE 真美",
@@ -147,7 +153,8 @@
         "id": "IM/S21-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-008": {
     "name": "ステーキいつか食べたいな！ やよい",
@@ -165,7 +172,8 @@
         "id": "IM/S21-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-009": {
     "name": "全力アイドル！ 真美",
@@ -187,7 +195,8 @@
         "id": "IM/S21-009SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-010": {
     "name": "楽屋の雪歩",
@@ -205,7 +214,8 @@
         "id": "IM/S21-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-011": {
     "name": "秘密の歌姫 小鳥",
@@ -223,7 +233,8 @@
         "id": "IM/S21-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-012": {
     "name": "参考人 小鳥",
@@ -241,7 +252,8 @@
         "id": "IM/S21-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-013": {
     "name": "もやし祭り！ やよい",
@@ -259,7 +271,8 @@
         "id": "IM/S21-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-014": {
     "name": "新幹少女 ひかり",
@@ -277,7 +290,8 @@
         "id": "IM/S21-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-015": {
     "name": "どてら 小鳥",
@@ -295,7 +309,8 @@
         "id": "IM/S21-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-016": {
     "name": "改造計画！ 雪歩",
@@ -313,7 +328,8 @@
         "id": "IM/S21-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-017": {
     "name": "“あみまみちゃん”真美",
@@ -331,7 +347,8 @@
         "id": "IM/S21-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-018": {
     "name": "衣装変更",
@@ -353,7 +370,8 @@
         "id": "IM/S21-018b",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-019": {
     "name": "Little Match Girl",
@@ -371,7 +389,8 @@
         "id": "IM/S21-019",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IM/S21-020": {
     "name": "自分REST@RT",
@@ -389,7 +408,8 @@
         "id": "IM/S21-020",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-021": {
     "name": "シーサイド あずさ",
@@ -407,7 +427,8 @@
         "id": "IM/S21-021",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-022": {
     "name": "アイドル復帰！ 律子",
@@ -429,7 +450,8 @@
         "id": "IM/S21-022SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-023": {
     "name": "OFFタイム 律子",
@@ -451,7 +473,8 @@
         "id": "IM/S21-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-024": {
     "name": "超！美少女アイドル 伊織",
@@ -473,7 +496,8 @@
         "id": "IM/S21-024SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-025": {
     "name": "OFFタイム あずさ",
@@ -495,7 +519,8 @@
         "id": "IM/S21-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-026": {
     "name": "走る！花嫁 あずさ",
@@ -517,7 +542,8 @@
         "id": "IM/S21-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-027": {
     "name": "ショートカット あずさ",
@@ -535,7 +561,8 @@
         "id": "IM/S21-027",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-028": {
     "name": "OFFタイム 伊織",
@@ -557,7 +584,8 @@
         "id": "IM/S21-028R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-029": {
     "name": "律子＆竜宮小町",
@@ -575,7 +603,8 @@
         "id": "IM/S21-029",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-030": {
     "name": "ツインドライブ 亜美",
@@ -593,7 +622,8 @@
         "id": "IM/S21-030",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-031": {
     "name": "アイドル全開！ 亜美",
@@ -615,7 +645,8 @@
         "id": "IM/S21-031SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-032": {
     "name": "独占インタビュー 亜美",
@@ -633,7 +664,8 @@
         "id": "IM/S21-032",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-033": {
     "name": "運動会の伊織",
@@ -651,7 +683,8 @@
         "id": "IM/S21-033",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-034": {
     "name": "次世代の輝き 涼",
@@ -669,7 +702,8 @@
         "id": "IM/S21-034",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-035": {
     "name": "きらきらキュート！ 伊織",
@@ -687,7 +721,8 @@
         "id": "IM/S21-035",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-036": {
     "name": "美人姉妹探偵団 亜美",
@@ -705,7 +740,8 @@
         "id": "IM/S21-036",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-037": {
     "name": "ためらう鬼軍曹 律子",
@@ -723,7 +759,8 @@
         "id": "IM/S21-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-038": {
     "name": "寄り道",
@@ -749,7 +786,8 @@
         "id": "IM/S21-038c",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-039": {
     "name": "七彩ボタン",
@@ -767,7 +805,8 @@
         "id": "IM/S21-039",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IM/S21-040": {
     "name": "SMOKY THRILL",
@@ -785,7 +824,8 @@
         "id": "IM/S21-040",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-041": {
     "name": "ゲットだぜ！ 響",
@@ -807,7 +847,8 @@
         "id": "IM/S21-041SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-042": {
     "name": "覚醒する天才 美希",
@@ -829,7 +870,8 @@
         "id": "IM/S21-042SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-043": {
     "name": "頼りになる！？ プロデューサー",
@@ -847,7 +889,8 @@
         "id": "IM/S21-043",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-044": {
     "name": "秘めた才能？ 美希",
@@ -869,7 +912,8 @@
         "id": "IM/S21-044R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-045": {
     "name": "次のステージへ！ 春香",
@@ -891,7 +935,8 @@
         "id": "IM/S21-045R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-046": {
     "name": "７６５プロのセンター 春香",
@@ -913,7 +958,8 @@
         "id": "IM/S21-046SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-047": {
     "name": "響の相棒 ハム蔵",
@@ -931,7 +977,8 @@
         "id": "IM/S21-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-048": {
     "name": "出張イベント 響",
@@ -949,7 +996,8 @@
         "id": "IM/S21-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-049": {
     "name": "放っておかない春香",
@@ -967,7 +1015,8 @@
         "id": "IM/S21-049",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-050": {
     "name": "生っすか！？サンデー 春香",
@@ -985,7 +1034,8 @@
         "id": "IM/S21-050",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-051": {
     "name": "みんなといっしょに！ 響",
@@ -1007,7 +1057,8 @@
         "id": "IM/S21-051R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-052": {
     "name": "新人アイドル 春香",
@@ -1025,7 +1076,8 @@
         "id": "IM/S21-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-053": {
     "name": "三輪車ダッシュ 響",
@@ -1043,7 +1095,8 @@
         "id": "IM/S21-053",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-054": {
     "name": "次世代の輝き 愛",
@@ -1061,7 +1114,8 @@
         "id": "IM/S21-054",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-055": {
     "name": "再び舞台へ 美希",
@@ -1079,7 +1133,8 @@
         "id": "IM/S21-055",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-056": {
     "name": "セクシーサンタ 美希",
@@ -1097,7 +1152,8 @@
         "id": "IM/S21-056",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-057": {
     "name": "謎の人物？ 高木社長",
@@ -1115,7 +1171,8 @@
         "id": "IM/S21-057",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-058": {
     "name": "プレゼント",
@@ -1137,7 +1194,8 @@
         "id": "IM/S21-058b",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-059": {
     "name": "マリオネットの心",
@@ -1155,7 +1213,8 @@
         "id": "IM/S21-059",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IM/S21-060": {
     "name": "READY!!",
@@ -1173,7 +1232,8 @@
         "id": "IM/S21-060",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-061": {
     "name": "新たなる約束 千早",
@@ -1195,7 +1255,8 @@
         "id": "IM/S21-061SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-062": {
     "name": "古き都の貴音",
@@ -1217,7 +1278,8 @@
         "id": "IM/S21-062SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-063": {
     "name": "OFFタイム 真",
@@ -1239,7 +1301,8 @@
         "id": "IM/S21-063R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-064": {
     "name": "OFFタイム 千早",
@@ -1261,7 +1324,8 @@
         "id": "IM/S21-064R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-065": {
     "name": "OFFタイム 貴音",
@@ -1283,7 +1347,8 @@
         "id": "IM/S21-065R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-066": {
     "name": "まことの王子様 真",
@@ -1305,7 +1370,8 @@
         "id": "IM/S21-066SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-067": {
     "name": "初仕事 プロデューサー",
@@ -1323,7 +1389,8 @@
         "id": "IM/S21-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-068": {
     "name": "ジュピターの黒幕 黒井社長",
@@ -1341,7 +1408,8 @@
         "id": "IM/S21-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-069": {
     "name": "アクションスター！ 真",
@@ -1359,7 +1427,8 @@
         "id": "IM/S21-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-070": {
     "name": "決別のジュピター 冬馬",
@@ -1377,7 +1446,8 @@
         "id": "IM/S21-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-071": {
     "name": "全員集合！765プロ",
@@ -1395,7 +1465,8 @@
         "id": "IM/S21-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-072": {
     "name": "ゲロゲロキッチン 千早",
@@ -1413,7 +1484,8 @@
         "id": "IM/S21-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-073": {
     "name": "次世代の輝き 絵理",
@@ -1431,7 +1503,8 @@
         "id": "IM/S21-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-074": {
     "name": "らあめんハンター 貴音",
@@ -1449,7 +1522,8 @@
         "id": "IM/S21-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-075": {
     "name": "一日署長 貴音",
@@ -1467,7 +1541,8 @@
         "id": "IM/S21-075",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-076": {
     "name": "生っすか！？サンデー 千早",
@@ -1485,7 +1560,8 @@
         "id": "IM/S21-076",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-077": {
     "name": "まっこまこりーん！ 真",
@@ -1503,7 +1579,8 @@
         "id": "IM/S21-077",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-078": {
     "name": "ある日の風景",
@@ -1525,7 +1602,8 @@
         "id": "IM/S21-078b",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-079": {
     "name": "約束",
@@ -1543,7 +1621,8 @@
         "id": "IM/S21-079",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-080": {
     "name": "CHANGE!!!!",
@@ -1561,7 +1640,8 @@
         "id": "IM/S21-080",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IM/S21-091": {
     "name": "Ｏ(≧◇≦)人(≧◇≦)Ｏ 亜美＆真美",
@@ -1579,7 +1659,8 @@
         "id": "IM/S21-091",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-092": {
     "name": "やさしい先輩 雪歩",
@@ -1597,7 +1678,8 @@
         "id": "IM/S21-092",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-093": {
     "name": "売れっ子アイドル伊織",
@@ -1615,7 +1697,8 @@
         "id": "IM/S21-093",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-094": {
     "name": "石川社長",
@@ -1633,7 +1716,8 @@
         "id": "IM/S21-094",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-095": {
     "name": "アイドルのいとこ涼",
@@ -1651,7 +1735,8 @@
         "id": "IM/S21-095",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-096": {
     "name": "夢への一歩 涼",
@@ -1669,7 +1754,8 @@
         "id": "IM/S21-096",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-097": {
     "name": "トロピカルガール響",
@@ -1687,7 +1773,8 @@
         "id": "IM/S21-097",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-098": {
     "name": "凸凹コンビ 涼＆夢子",
@@ -1705,7 +1792,8 @@
         "id": "IM/S21-098",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-099": {
     "name": "ビューティフルガール貴音",
@@ -1723,7 +1811,8 @@
         "id": "IM/S21-099",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-100": {
     "name": "大きな秘密 涼",
@@ -1741,7 +1830,8 @@
         "id": "IM/S21-100",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-101": {
     "name": "歌への自信 美希",
@@ -1759,7 +1849,8 @@
         "id": "IM/S21-101",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-102": {
     "name": "桜井 夢子",
@@ -1777,7 +1868,8 @@
         "id": "IM/S21-102",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-103": {
     "name": "夢をあきらめない涼",
@@ -1795,7 +1887,8 @@
         "id": "IM/S21-103",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-104": {
     "name": "Dazzling World",
@@ -1813,7 +1906,8 @@
         "id": "IM/S21-104",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-105": {
     "name": "スペシャルコーチ真",
@@ -1831,7 +1925,8 @@
         "id": "IM/S21-105",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-106": {
     "name": "サポート役まなみ",
@@ -1849,7 +1944,8 @@
         "id": "IM/S21-106",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-107": {
     "name": "明るい親子 愛＆舞",
@@ -1867,7 +1963,8 @@
         "id": "IM/S21-107",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-108": {
     "name": "どこまでもまっすぐな愛",
@@ -1885,7 +1982,8 @@
         "id": "IM/S21-108",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-109": {
     "name": "みんなのアイドルやよい",
@@ -1903,7 +2001,8 @@
         "id": "IM/S21-109",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-110": {
     "name": "“とつげき豆タンク”愛",
@@ -1921,7 +2020,8 @@
         "id": "IM/S21-110",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-111": {
     "name": "特別審査員 春香",
@@ -1939,7 +2039,8 @@
         "id": "IM/S21-111",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-112": {
     "name": "“限界にチャレンジ”愛",
@@ -1957,7 +2058,8 @@
         "id": "IM/S21-112",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-113": {
     "name": "伝説のアイドル舞",
@@ -1975,7 +2077,8 @@
         "id": "IM/S21-113",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-114": {
     "name": "アイドルとしての才能 愛",
@@ -1993,7 +2096,8 @@
         "id": "IM/S21-114",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-115": {
     "name": "ALIVE",
@@ -2011,7 +2115,8 @@
         "id": "IM/S21-115",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-116": {
     "name": "事件の予感 律子",
@@ -2029,7 +2134,8 @@
         "id": "IM/S21-116",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-117": {
     "name": "プロデューサー尾崎",
@@ -2047,7 +2153,8 @@
         "id": "IM/S21-117",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-118": {
     "name": "合同レッスン絵理",
@@ -2065,7 +2172,8 @@
         "id": "IM/S21-118",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-119": {
     "name": "ちょっぴり不思議 絵理",
@@ -2083,7 +2191,8 @@
         "id": "IM/S21-119",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-120": {
     "name": "マルチアーティスト絵理",
@@ -2101,7 +2210,8 @@
         "id": "IM/S21-120",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/S21-121": {
     "name": "夢を想う あずさ",
@@ -2119,7 +2229,8 @@
         "id": "IM/S21-121",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-122": {
     "name": "ネットアイドルCINERIA",
@@ -2137,7 +2248,8 @@
         "id": "IM/S21-122",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-123": {
     "name": "水谷 絵理",
@@ -2155,7 +2267,8 @@
         "id": "IM/S21-123",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-124": {
     "name": "受け継いだ夢 絵理",
@@ -2173,7 +2286,8 @@
         "id": "IM/S21-124",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-125": {
     "name": "歌の助言 千早",
@@ -2191,7 +2305,8 @@
         "id": "IM/S21-125",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/S21-126": {
     "name": "プリコグ",
@@ -2209,6 +2324,7 @@
         "id": "IM/S21-126",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

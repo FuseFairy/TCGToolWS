@@ -19,7 +19,8 @@
         "id": "FS/S36-001R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-002": {
     "name": "“約束された勝利の剣”セイバー",
@@ -41,7 +42,8 @@
         "id": "FS/S36-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-003": {
     "name": "“無限の剣製”士郎",
@@ -63,7 +65,8 @@
         "id": "FS/S36-003R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-004": {
     "name": "“令呪による召喚”士郎",
@@ -85,7 +88,8 @@
         "id": "FS/S36-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-005": {
     "name": "“契約完了”セイバー",
@@ -103,7 +107,8 @@
         "id": "FS/S36-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-006": {
     "name": "“王の自尊心”ギルガメッシュ",
@@ -121,7 +126,8 @@
         "id": "FS/S36-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-007": {
     "name": "“屈強な力”セイバー",
@@ -143,7 +149,8 @@
         "id": "FS/S36-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-008": {
     "name": "“王の財宝”ギルガメッシュ",
@@ -165,7 +172,8 @@
         "id": "FS/S36-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-009": {
     "name": "“本気の強襲”士郎",
@@ -183,7 +191,8 @@
         "id": "FS/S36-009",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-010": {
     "name": "“交わらぬ理想”士郎＆アーチャー",
@@ -201,7 +210,8 @@
         "id": "FS/S36-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-011": {
     "name": "“神造兵装”セイバー",
@@ -219,7 +229,8 @@
         "id": "FS/S36-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-012": {
     "name": "“純白のドレス”セイバー",
@@ -237,7 +248,8 @@
         "id": "FS/S36-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-013": {
     "name": "“最優のサーヴァント”セイバー",
@@ -255,7 +267,8 @@
         "id": "FS/S36-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-014": {
     "name": "“令呪の使用”士郎",
@@ -273,7 +286,8 @@
         "id": "FS/S36-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-015": {
     "name": "“怒りの拳”士郎",
@@ -291,7 +305,8 @@
         "id": "FS/S36-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-016": {
     "name": "“敗北の末路”ギルガメッシュ",
@@ -309,7 +324,8 @@
         "id": "FS/S36-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-017": {
     "name": "“神話の対決”ギルガメッシュ",
@@ -327,7 +343,8 @@
         "id": "FS/S36-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-018": {
     "name": "“最大の天敵”ギルガメッシュ",
@@ -345,7 +362,8 @@
         "id": "FS/S36-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-019": {
     "name": "“無限の剣”ギルガメッシュ",
@@ -363,7 +381,8 @@
         "id": "FS/S36-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-020": {
     "name": "“最上級の宝具”ギルガメッシュ",
@@ -381,7 +400,8 @@
         "id": "FS/S36-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-021": {
     "name": "“くじけぬ心”士郎",
@@ -399,7 +419,8 @@
         "id": "FS/S36-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-022": {
     "name": "“新たなる契約”セイバー",
@@ -417,7 +438,8 @@
         "id": "FS/S36-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-023": {
     "name": "“清楚な佇まい”セイバー",
@@ -435,7 +457,8 @@
         "id": "FS/S36-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-024": {
     "name": "“王への挑戦”ギルガメッシュ",
@@ -453,7 +476,8 @@
         "id": "FS/S36-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-025": {
     "name": "“究極の斬撃”セイバー",
@@ -471,7 +495,8 @@
         "id": "FS/S36-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-026": {
     "name": "反撃の狼煙",
@@ -489,7 +514,8 @@
         "id": "FS/S36-026",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-027": {
     "name": "理想の末路",
@@ -507,7 +533,8 @@
         "id": "FS/S36-027",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-028": {
     "name": "“無限の剣製”",
@@ -529,7 +556,8 @@
         "id": "FS/S36-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-029": {
     "name": "“王の財宝”",
@@ -547,7 +575,8 @@
         "id": "FS/S36-029",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FS/S36-030": {
     "name": "“約束された勝利の剣”",
@@ -565,7 +594,8 @@
         "id": "FS/S36-030",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-031": {
     "name": "“戦闘モード”ライダー",
@@ -587,7 +617,8 @@
         "id": "FS/S36-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-032": {
     "name": "“献身的な後輩”桜",
@@ -605,7 +636,8 @@
         "id": "FS/S36-032",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-033": {
     "name": "“冷酷かつ非情”ライダー",
@@ -623,7 +655,8 @@
         "id": "FS/S36-033",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-034": {
     "name": "“刺し穿つ死棘の槍”ランサー",
@@ -645,7 +678,8 @@
         "id": "FS/S36-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-035": {
     "name": "“突き穿つ死翔の槍”ランサー",
@@ -663,7 +697,8 @@
         "id": "FS/S36-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-036": {
     "name": "“必殺必中の一撃”ランサー",
@@ -681,7 +716,8 @@
         "id": "FS/S36-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-037": {
     "name": "“穏やかな性格”桜",
@@ -699,7 +735,8 @@
         "id": "FS/S36-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-038": {
     "name": "“戦闘続行”ランサー",
@@ -717,7 +754,8 @@
         "id": "FS/S36-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-039": {
     "name": "“護身術の授業”ルヴィア",
@@ -735,7 +773,8 @@
         "id": "FS/S36-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-040": {
     "name": "“複雑な想い”桜",
@@ -753,7 +792,8 @@
         "id": "FS/S36-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-041": {
     "name": "“不安が心をよぎる”桜",
@@ -771,7 +811,8 @@
         "id": "FS/S36-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-042": {
     "name": "“共同戦線”ランサー",
@@ -789,7 +830,8 @@
         "id": "FS/S36-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-043": {
     "name": "“拠点侵入”慎二",
@@ -807,7 +849,8 @@
         "id": "FS/S36-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-044": {
     "name": "動揺",
@@ -825,7 +868,8 @@
         "id": "FS/S36-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-045": {
     "name": "最後の別れ",
@@ -843,7 +887,8 @@
         "id": "FS/S36-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-046": {
     "name": "“刺し穿つ死棘の槍”",
@@ -861,7 +906,8 @@
         "id": "FS/S36-046",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-047": {
     "name": "毎日のお見舞い",
@@ -879,7 +925,8 @@
         "id": "FS/S36-047",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FS/S36-048": {
     "name": "“ロンドンへの誘い”凛",
@@ -901,7 +948,8 @@
         "id": "FS/S36-048SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-049": {
     "name": "“理想の絶望”アーチャー",
@@ -923,7 +971,8 @@
         "id": "FS/S36-049SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-050": {
     "name": "“主と従者”凛＆アーチャー",
@@ -945,7 +994,8 @@
         "id": "FS/S36-050R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-051": {
     "name": "“超一級の魔術師”凛",
@@ -967,7 +1017,8 @@
         "id": "FS/S36-051R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-052": {
     "name": "“遠坂の継承者”凛",
@@ -985,7 +1036,8 @@
         "id": "FS/S36-052",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-053": {
     "name": "“反撃の嵐”アーチャー",
@@ -1003,7 +1055,8 @@
         "id": "FS/S36-053",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-054": {
     "name": "“偽・螺旋剣”アーチャー",
@@ -1021,7 +1074,8 @@
         "id": "FS/S36-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-055": {
     "name": "“援護射撃”アーチャー",
@@ -1039,7 +1093,8 @@
         "id": "FS/S36-055",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-056": {
     "name": "“才色兼備の優等生”凛",
@@ -1057,7 +1112,8 @@
         "id": "FS/S36-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-057": {
     "name": "“二刀使い”アーチャー",
@@ -1079,7 +1135,8 @@
         "id": "FS/S36-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-058": {
     "name": "“理想の存在”アーチャー",
@@ -1097,7 +1154,8 @@
         "id": "FS/S36-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-059": {
     "name": "“宝石魔術”凛",
@@ -1115,7 +1173,8 @@
         "id": "FS/S36-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-060": {
     "name": "“複雑な想い”凛",
@@ -1133,7 +1192,8 @@
         "id": "FS/S36-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-061": {
     "name": "“さらなる追撃”アーチャー",
@@ -1151,7 +1211,8 @@
         "id": "FS/S36-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-062": {
     "name": "“戦いの果て”アーチャー",
@@ -1169,7 +1230,8 @@
         "id": "FS/S36-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-063": {
     "name": "“全力投球”凛",
@@ -1187,7 +1249,8 @@
         "id": "FS/S36-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-064": {
     "name": "“別れの時”凛",
@@ -1205,7 +1268,8 @@
         "id": "FS/S36-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-065": {
     "name": "“正面突破”凛",
@@ -1223,7 +1287,8 @@
         "id": "FS/S36-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-066": {
     "name": "“葛藤の中”アーチャー",
@@ -1241,7 +1306,8 @@
         "id": "FS/S36-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-067": {
     "name": "“偽・螺旋剣”",
@@ -1259,7 +1325,8 @@
         "id": "FS/S36-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-068": {
     "name": "戦いの終わり",
@@ -1277,7 +1344,8 @@
         "id": "FS/S36-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-069": {
     "name": "“熾天覆う七つの円環”",
@@ -1299,7 +1367,8 @@
         "id": "FS/S36-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FS/S36-070": {
     "name": "最後の言葉",
@@ -1317,7 +1386,8 @@
         "id": "FS/S36-070",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-071": {
     "name": "いたずらな微笑み",
@@ -1335,7 +1405,8 @@
         "id": "FS/S36-071",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FS/S36-072": {
     "name": "“雪の妖精”イリヤ",
@@ -1357,7 +1428,8 @@
         "id": "FS/S36-072SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-073": {
     "name": "“開戦の狼煙”イリヤ",
@@ -1379,7 +1451,8 @@
         "id": "FS/S36-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-074": {
     "name": "“神代の魔術師”キャスター",
@@ -1397,7 +1470,8 @@
         "id": "FS/S36-074",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-075": {
     "name": "“悲劇の魔術師”キャスター",
@@ -1415,7 +1489,8 @@
         "id": "FS/S36-075",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-076": {
     "name": "“信頼の関係”イリヤ＆バーサーカー",
@@ -1437,7 +1512,8 @@
         "id": "FS/S36-076R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-077": {
     "name": "“強固な絆”イリヤ",
@@ -1455,7 +1531,8 @@
         "id": "FS/S36-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-078": {
     "name": "“最強の戦士”バーサーカー",
@@ -1473,7 +1550,8 @@
         "id": "FS/S36-078",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-079": {
     "name": "“王との対峙”イリヤ",
@@ -1491,7 +1569,8 @@
         "id": "FS/S36-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-080": {
     "name": "“神話の対決”イリヤ",
@@ -1509,7 +1588,8 @@
         "id": "FS/S36-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-081": {
     "name": "“強靭な意思”バーサーカー",
@@ -1527,7 +1607,8 @@
         "id": "FS/S36-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-082": {
     "name": "“さらなる攻撃”葛木 宗一郎",
@@ -1545,7 +1626,8 @@
         "id": "FS/S36-082",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-083": {
     "name": "“大魔術”キャスター",
@@ -1563,7 +1645,8 @@
         "id": "FS/S36-083",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-084": {
     "name": "“魔術戦”キャスター",
@@ -1581,7 +1664,8 @@
         "id": "FS/S36-084",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-085": {
     "name": "“燕返し”アサシン",
@@ -1599,7 +1683,8 @@
         "id": "FS/S36-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-086": {
     "name": "“繰り出す追撃”葛木 宗一郎",
@@ -1617,7 +1702,8 @@
         "id": "FS/S36-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-087": {
     "name": "“束の間の休息”イリヤ",
@@ -1635,7 +1721,8 @@
         "id": "FS/S36-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-088": {
     "name": "“屈強なサーヴァント”バーサーカー",
@@ -1653,7 +1740,8 @@
         "id": "FS/S36-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-089": {
     "name": "“架空の英霊”アサシン",
@@ -1671,7 +1759,8 @@
         "id": "FS/S36-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-090": {
     "name": "“最終試験の途中”イリヤ",
@@ -1689,7 +1778,8 @@
         "id": "FS/S36-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-091": {
     "name": "“望みを果たす”葛木 宗一郎",
@@ -1707,7 +1797,8 @@
         "id": "FS/S36-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-092": {
     "name": "“来客の訪れ”イリヤ",
@@ -1725,7 +1816,8 @@
         "id": "FS/S36-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-093": {
     "name": "“冬木教会の神父”綺礼",
@@ -1743,7 +1835,8 @@
         "id": "FS/S36-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-094": {
     "name": "“敗北の余韻”アサシン",
@@ -1761,7 +1854,8 @@
         "id": "FS/S36-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-095": {
     "name": "雨の日の出会い",
@@ -1779,7 +1873,8 @@
         "id": "FS/S36-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-096": {
     "name": "バーサーカーの意志",
@@ -1797,7 +1892,8 @@
         "id": "FS/S36-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-097": {
     "name": "出会いと絆",
@@ -1815,7 +1911,8 @@
         "id": "FS/S36-097",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S36-098": {
     "name": "正式契約",
@@ -1833,7 +1930,8 @@
         "id": "FS/S36-098",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FS/S36-099": {
     "name": "叶っていた望み",
@@ -1851,7 +1949,8 @@
         "id": "FS/S36-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S36-100": {
     "name": "燕返し",
@@ -1869,6 +1968,7 @@
         "id": "FS/S36-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

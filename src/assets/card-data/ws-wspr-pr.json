@@ -15,7 +15,8 @@
         "id": "WS/WSPR-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WS/WSPR-P02": {
     "name": "Happy 14th Anniversary !!",
@@ -37,7 +38,8 @@
         "id": "WS/WSPR-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WS/WSPR-P03": {
     "name": "Happy 15th Anniversary !! [桜]",
@@ -55,7 +57,8 @@
         "id": "WS/WSPR-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WS/WSPR-P04": {
     "name": "Happy 15th Anniversary !! [Spring]",
@@ -73,7 +76,8 @@
         "id": "WS/WSPR-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WS/WSPR-P05": {
     "name": "Happy 15th Anniversary !! [愛]",
@@ -95,7 +99,8 @@
         "id": "WS/WSPR-P05S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WS/WSPR-P06": {
     "name": "Happy 63th Anniversary !! [社長]",
@@ -113,7 +118,8 @@
         "id": "WS/WSPR-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WS/WSPR-P07": {
     "name": "Happy 15th Anniversary !! [秋]",
@@ -131,7 +137,8 @@
         "id": "WS/WSPR-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WS/WSPR-P08": {
     "name": "Happy 15th Anniversary !! [祝]",
@@ -153,7 +160,8 @@
         "id": "WS/WSPR-P08S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "WS/WSPR-P09": {
     "name": "Happy 16th Anniversary !! [星]",
@@ -171,7 +179,8 @@
         "id": "WS/WSPR-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "WS/WSPR-P10": {
     "name": "Happy 16th Anniversary !! [春]",
@@ -189,7 +198,8 @@
         "id": "WS/WSPR-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "WS/WSPR-P11": {
     "name": "Happy 16th Anniversary !! [勝利]",
@@ -211,7 +221,8 @@
         "id": "WS/WSPR-P11S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "WS/WSPR-P12": {
     "name": "Happy 16th Anniversary !! [本]",
@@ -229,7 +240,8 @@
         "id": "WS/WSPR-P12",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WS/WSPR-P13": {
     "name": "Happy 16th Anniversary !! [紅]",
@@ -251,7 +263,8 @@
         "id": "WS/WSPR-P13S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WS/WSPR-P14": {
     "name": "BUSHIROAD CARD FIGHT 2025",
@@ -281,7 +294,8 @@
         "id": "WS/WSPR-P14d",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "WS/WSPR-P15": {
     "name": "Happy 17th Anniversary !! [水面下]",
@@ -303,7 +317,8 @@
         "id": "WS/WSPR-P15S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "WS/WSPR-P16": {
     "name": "Happy 17th Anniversary !! [異界]",
@@ -321,7 +336,8 @@
         "id": "WS/WSPR-P16",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "WS/WSPR-P17": {
     "name": "Happy 17th Anniversary !! [祭]",
@@ -339,7 +355,8 @@
         "id": "WS/WSPR-P17",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "WS/WSPR-P18": {
     "name": "Happy 17th Anniversary!![花園]",
@@ -361,7 +378,8 @@
         "id": "WS/WSPR-P18S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "WS/WSPR-P20": {
     "name": "WORLD GRAND PRIX 2025",
@@ -391,7 +409,8 @@
         "id": "WS/WSPR-P20d",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "WS/WSPR-P19": {
     "name": "Seoul Cardgame Party 2025",
@@ -409,6 +428,7 @@
         "id": "WS/WSPR-P19",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

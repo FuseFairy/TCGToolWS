@@ -19,7 +19,8 @@
         "id": "RSL/SE38-P08S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-P09": {
     "name": "無垢な原石 大賀美 詩呂",
@@ -41,7 +42,8 @@
         "id": "RSL/SE38-P09S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/SE38-P10": {
     "name": "無垢な原石 小鳩 良子",
@@ -63,7 +65,8 @@
         "id": "RSL/SE38-P10S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-P11": {
     "name": "無垢な原石 海辺 みんく",
@@ -85,7 +88,8 @@
         "id": "RSL/SE38-P11S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/SE38-P12": {
     "name": "無垢な原石 森保 クイナ",
@@ -107,7 +111,8 @@
         "id": "RSL/SE38-P12S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-P13": {
     "name": "Rebellion",
@@ -129,7 +134,8 @@
         "id": "RSL/SE38-P13S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/SE38-P01": {
     "name": "Delight 雪代 晶",
@@ -151,7 +157,8 @@
         "id": "RSL/SE38-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/SE38-P02": {
     "name": "Delight 鳳 ミチル",
@@ -173,7 +180,8 @@
         "id": "RSL/SE38-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-P03": {
     "name": "Delight リュウ・メイファン",
@@ -195,7 +203,8 @@
         "id": "RSL/SE38-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-P04": {
     "name": "Delight 夢大路 栞",
@@ -217,7 +226,8 @@
         "id": "RSL/SE38-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-P05": {
     "name": "Delight 鶴姫 やちよ",
@@ -239,7 +249,8 @@
         "id": "RSL/SE38-P05S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/SE38-P06": {
     "name": "ステラ＆詩呂＆良子＆みんく＆クイナ",
@@ -257,7 +268,8 @@
         "id": "RSL/SE38-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-P07": {
     "name": "Regalia -継承-",
@@ -275,7 +287,8 @@
         "id": "RSL/SE38-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/SE38-P14": {
     "name": "夢に見たのだから 高千穂 ステラ",
@@ -293,7 +306,8 @@
         "id": "RSL/SE38-P14",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-P15": {
     "name": "夢に見たのだから 大賀美 詩呂",
@@ -311,7 +325,8 @@
         "id": "RSL/SE38-P15",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-P16": {
     "name": "夢に見たのだから 小鳩 良子",
@@ -329,7 +344,8 @@
         "id": "RSL/SE38-P16",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-P17": {
     "name": "夢に見たのだから 海辺 みんく",
@@ -347,7 +363,8 @@
         "id": "RSL/SE38-P17",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-P18": {
     "name": "夢に見たのだから 森保 クイナ",
@@ -365,7 +382,8 @@
         "id": "RSL/SE38-P18",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/SE38-P19": {
     "name": "Remains/夢のプレリュード",
@@ -383,6 +401,7 @@
         "id": "RSL/SE38-P19",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

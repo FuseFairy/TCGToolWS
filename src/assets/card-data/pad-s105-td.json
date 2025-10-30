@@ -19,7 +19,8 @@
         "id": "PAD/S105-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-T02": {
     "name": "遊刻の時龍契士・ミル",
@@ -41,7 +42,8 @@
         "id": "PAD/S105-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-T03": {
     "name": "灼雲の月龍喚士サツキ",
@@ -63,7 +65,8 @@
         "id": "PAD/S105-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-T04": {
     "name": "戦乙女・プリンセスヴァルキリー",
@@ -85,7 +88,8 @@
         "id": "PAD/S105-T04R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-T05": {
     "name": "星翔の大魔女・ファスカ",
@@ -107,7 +111,8 @@
         "id": "PAD/S105-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-T06": {
     "name": "古城の幻想・龍喚士ソニア＝グラン",
@@ -129,7 +134,8 @@
         "id": "PAD/S105-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-T07": {
     "name": "聖典の管理者・メタトロン",
@@ -151,7 +157,8 @@
         "id": "PAD/S105-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-T08": {
     "name": "万天の全能神・ゼウス＝ヴァース",
@@ -173,7 +180,8 @@
         "id": "PAD/S105-T08SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-T09": {
     "name": "響想のボーカリスト・イデアル",
@@ -195,7 +203,8 @@
         "id": "PAD/S105-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-T10": {
     "name": "零次元の創造主・ビッグバン",
@@ -217,7 +226,8 @@
         "id": "PAD/S105-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-T11": {
     "name": "烈空の紅龍喚士・ソニア",
@@ -239,7 +249,8 @@
         "id": "PAD/S105-T11S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-T12": {
     "name": "淡雪の白虎・ハク",
@@ -261,7 +272,8 @@
         "id": "PAD/S105-T12R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-T13": {
     "name": "親愛の癒し手・アリナ",
@@ -283,7 +295,8 @@
         "id": "PAD/S105-T13SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-T14": {
     "name": "親愛の武闘家・ディーナ",
@@ -305,7 +318,8 @@
         "id": "PAD/S105-T14R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-T15": {
     "name": "メテオボルケーノドラゴン",
@@ -327,7 +341,8 @@
         "id": "PAD/S105-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-T16": {
     "name": "灼魔鍵の勇者・グレオン",
@@ -349,7 +364,8 @@
         "id": "PAD/S105-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-T17": {
     "name": "友愛の灰幻魔・イルミナ",
@@ -371,7 +387,8 @@
         "id": "PAD/S105-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-T18": {
     "name": "嬉戯の鬼龍契士・スオウ",
@@ -393,7 +410,8 @@
         "id": "PAD/S105-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-T19": {
     "name": "聖門の大魔女・サレーネ",
@@ -415,7 +433,8 @@
         "id": "PAD/S105-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-T20": {
     "name": "東雲の霊央神・カミムスビ",
@@ -437,7 +456,8 @@
         "id": "PAD/S105-T20R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-T21": {
     "name": "溌溂なドラマー・ヴァレリア",
@@ -459,6 +479,7 @@
         "id": "PAD/S105-T21R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

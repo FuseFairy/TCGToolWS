@@ -15,7 +15,8 @@
         "id": "SG/W70-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-P02": {
     "name": "輝きを放つ歌声 切歌",
@@ -33,7 +34,8 @@
         "id": "SG/W70-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-P03": {
     "name": "輝きを放つ歌声 調",
@@ -51,7 +53,8 @@
         "id": "SG/W70-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-P04": {
     "name": "輝きを放つ歌声 クリス",
@@ -69,7 +72,8 @@
         "id": "SG/W70-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-P05": {
     "name": "輝きを放つ歌声 マリア",
@@ -87,7 +91,8 @@
         "id": "SG/W70-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-P06": {
     "name": "輝きを放つ歌声 翼",
@@ -105,7 +110,8 @@
         "id": "SG/W70-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-P07": {
     "name": "休日のひととき 切歌&調",
@@ -123,7 +129,8 @@
         "id": "SG/W70-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-P08": {
     "name": "休日のひととき 響&クリス",
@@ -141,7 +148,8 @@
         "id": "SG/W70-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-P09": {
     "name": "決戦の時 響",
@@ -159,7 +167,8 @@
         "id": "SG/W70-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-P10": {
     "name": "“まんが DE 絶唱”シンフォギア装者",
@@ -177,7 +186,8 @@
         "id": "SG/W70-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-P11": {
     "name": "ドキドキお泊り会 調＆切歌",
@@ -195,7 +205,8 @@
         "id": "SG/W70-P11",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-101": {
     "name": "連携攻撃 響",
@@ -213,7 +224,8 @@
         "id": "SG/W70-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-102": {
     "name": "無茶な訓練 切歌",
@@ -231,7 +243,8 @@
         "id": "SG/W70-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-103": {
     "name": "無茶な訓練 調",
@@ -249,7 +262,8 @@
         "id": "SG/W70-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-104": {
     "name": "亜空間の檻の中で クリス",
@@ -267,7 +281,8 @@
         "id": "SG/W70-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-105": {
     "name": "あきらめない心 マリア",
@@ -285,7 +300,8 @@
         "id": "SG/W70-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-106": {
     "name": "連携攻撃 翼",
@@ -303,6 +319,7 @@
         "id": "SG/W70-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

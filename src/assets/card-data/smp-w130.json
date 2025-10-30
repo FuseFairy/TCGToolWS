@@ -23,7 +23,8 @@
         "id": "SMP/W130-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-002": {
     "name": "“夏の思い出”しろは",
@@ -49,7 +50,8 @@
         "id": "SMP/W130-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-003": {
     "name": "“夏の思い出”うみ",
@@ -75,7 +77,8 @@
         "id": "SMP/W130-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-004": {
     "name": "“夏の思い出”識",
@@ -101,7 +104,8 @@
         "id": "SMP/W130-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-005": {
     "name": "“ともだちの距離”しろは",
@@ -127,7 +131,8 @@
         "id": "SMP/W130-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-006": {
     "name": "加藤 うみ",
@@ -153,7 +158,8 @@
         "id": "SMP/W130-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-007": {
     "name": "“未来の羽音色”しろは",
@@ -175,7 +181,8 @@
         "id": "SMP/W130-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-008": {
     "name": "“お互いの場所”しろは",
@@ -197,7 +204,8 @@
         "id": "SMP/W130-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-009": {
     "name": "“私が出来ること”しろは",
@@ -219,7 +227,8 @@
         "id": "SMP/W130-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-010": {
     "name": "“スイカバー獲得作戦”しろは",
@@ -241,7 +250,8 @@
         "id": "SMP/W130-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-011": {
     "name": "“一人遊びの達人”うみ",
@@ -263,7 +273,8 @@
         "id": "SMP/W130-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-012": {
     "name": "“夏の迷い子”うみ",
@@ -285,7 +296,8 @@
         "id": "SMP/W130-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-013": {
     "name": "ちびうみ",
@@ -307,7 +319,8 @@
         "id": "SMP/W130-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-014": {
     "name": "“肝試しで獣話”しろは",
@@ -329,7 +342,8 @@
         "id": "SMP/W130-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-015": {
     "name": "ちびしろは",
@@ -351,7 +365,8 @@
         "id": "SMP/W130-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-016": {
     "name": "“もーいーよー”うみ",
@@ -373,7 +388,8 @@
         "id": "SMP/W130-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-017": {
     "name": "“もーいーかーい？”しろは",
@@ -395,7 +411,8 @@
         "id": "SMP/W130-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-018": {
     "name": "“振り返った先にある夏”うみ",
@@ -417,7 +434,8 @@
         "id": "SMP/W130-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-019": {
     "name": "“蝶番の儀”しろは",
@@ -439,7 +457,8 @@
         "id": "SMP/W130-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-020": {
     "name": "“共鳴する記憶”羽依里",
@@ -461,7 +480,8 @@
         "id": "SMP/W130-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-021": {
     "name": "“まぶしさの向こう側へ”しろは",
@@ -483,7 +503,8 @@
         "id": "SMP/W130-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-022": {
     "name": "“鬼の仲間入り”識",
@@ -505,7 +526,8 @@
         "id": "SMP/W130-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-023": {
     "name": "“二人で料理”しろは＆うみ",
@@ -527,7 +549,8 @@
         "id": "SMP/W130-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-024": {
     "name": "“夏の日差し”しろは",
@@ -549,7 +572,8 @@
         "id": "SMP/W130-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-025": {
     "name": "“ひまわり畑”しろは",
@@ -571,7 +595,8 @@
         "id": "SMP/W130-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-026": {
     "name": "Summer Pockets",
@@ -593,7 +618,8 @@
         "id": "SMP/W130-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-027": {
     "name": "一筋の光",
@@ -615,7 +641,8 @@
         "id": "SMP/W130-027R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-028": {
     "name": "最後に……君に逢いたかったな……",
@@ -637,7 +664,8 @@
         "id": "SMP/W130-028R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-029": {
     "name": "あたりまえのような懐かしさ",
@@ -659,7 +687,8 @@
         "id": "SMP/W130-029R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-030": {
     "name": "“サマードレス”鴎",
@@ -685,7 +714,8 @@
         "id": "SMP/W130-030SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-031": {
     "name": "“夏の思い出”紬",
@@ -711,7 +741,8 @@
         "id": "SMP/W130-031SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-032": {
     "name": "“サマードレス”紬",
@@ -737,7 +768,8 @@
         "id": "SMP/W130-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-033": {
     "name": "“夏の思い出”鴎",
@@ -763,7 +795,8 @@
         "id": "SMP/W130-033SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-034": {
     "name": "“働き者のメイドさん”鴎",
@@ -785,7 +818,8 @@
         "id": "SMP/W130-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-035": {
     "name": "“まぶしさの向こう側へ”紬",
@@ -807,7 +841,8 @@
         "id": "SMP/W130-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-036": {
     "name": "“祝福の紙吹雪”静久",
@@ -829,7 +864,8 @@
         "id": "SMP/W130-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-037": {
     "name": "“らくしょーで大好き”紬",
@@ -851,7 +887,8 @@
         "id": "SMP/W130-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-038": {
     "name": "“夏祭り”美希",
@@ -873,7 +910,8 @@
         "id": "SMP/W130-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-039": {
     "name": "ちび鴎",
@@ -895,7 +933,8 @@
         "id": "SMP/W130-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-040": {
     "name": "“二人でつくる歌詞”紬",
@@ -917,7 +956,8 @@
         "id": "SMP/W130-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-041": {
     "name": "ちび紬",
@@ -939,7 +979,8 @@
         "id": "SMP/W130-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-042": {
     "name": "“観光協会の会長”美希",
@@ -961,7 +1002,8 @@
         "id": "SMP/W130-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-043": {
     "name": "“おっぱいは正義”静久",
@@ -983,7 +1025,8 @@
         "id": "SMP/W130-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-044": {
     "name": "“攻めたファッション”静久",
@@ -1005,7 +1048,8 @@
         "id": "SMP/W130-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-045": {
     "name": "“私にはできなかった事”ツムギ",
@@ -1027,7 +1071,8 @@
         "id": "SMP/W130-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-046": {
     "name": "“夏のひととき”鴎",
@@ -1049,7 +1094,8 @@
         "id": "SMP/W130-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-047": {
     "name": "“思い出した記憶”鴎",
@@ -1071,7 +1117,8 @@
         "id": "SMP/W130-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-048": {
     "name": "“いつも見ていた夢”鴎",
@@ -1093,7 +1140,8 @@
         "id": "SMP/W130-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-049": {
     "name": "“夏の日差し”美希",
@@ -1115,7 +1163,8 @@
         "id": "SMP/W130-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-050": {
     "name": "“まぶしさの向こう側へ”鴎",
@@ -1137,7 +1186,8 @@
         "id": "SMP/W130-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-051": {
     "name": "たどりついた手紙",
@@ -1159,7 +1209,8 @@
         "id": "SMP/W130-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-052": {
     "name": "蔵で見つけた写真",
@@ -1181,7 +1232,8 @@
         "id": "SMP/W130-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-053": {
     "name": "いつまでも一緒に",
@@ -1203,7 +1255,8 @@
         "id": "SMP/W130-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-054": {
     "name": "スタート地点",
@@ -1225,7 +1278,8 @@
         "id": "SMP/W130-054R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-055": {
     "name": "恋人っぽいこと",
@@ -1247,7 +1301,8 @@
         "id": "SMP/W130-055R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-056": {
     "name": "お別れの挨拶",
@@ -1269,7 +1324,8 @@
         "id": "SMP/W130-056R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-057": {
     "name": "たくさんキスしような",
@@ -1291,7 +1347,8 @@
         "id": "SMP/W130-057R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-058": {
     "name": "明日に備えて",
@@ -1313,7 +1370,8 @@
         "id": "SMP/W130-058R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-059": {
     "name": "“手の繋ぎ方”識",
@@ -1335,7 +1393,8 @@
         "id": "SMP/W130-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-060": {
     "name": "“夏の思い出”美希",
@@ -1361,7 +1420,8 @@
         "id": "SMP/W130-060SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-061": {
     "name": "“夏の思い出”蒼",
@@ -1387,7 +1447,8 @@
         "id": "SMP/W130-061SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-062": {
     "name": "“夏の思い出”七海",
@@ -1413,7 +1474,8 @@
         "id": "SMP/W130-062SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-063": {
     "name": "“白羽の伝承”しろは",
@@ -1435,7 +1497,8 @@
         "id": "SMP/W130-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-064": {
     "name": "“ひまわり畑”うみ",
@@ -1457,7 +1520,8 @@
         "id": "SMP/W130-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-065": {
     "name": "“あの夏をもう一度”蒼",
@@ -1479,7 +1543,8 @@
         "id": "SMP/W130-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-066": {
     "name": "“君の手で”識",
@@ -1501,7 +1566,8 @@
         "id": "SMP/W130-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-067": {
     "name": "“いつか見る未来”うみ",
@@ -1523,7 +1589,8 @@
         "id": "SMP/W130-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-068": {
     "name": "“大人への抵抗”うみ",
@@ -1545,7 +1612,8 @@
         "id": "SMP/W130-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-069": {
     "name": "“鬼を追う少女”識",
@@ -1567,7 +1635,8 @@
         "id": "SMP/W130-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-070": {
     "name": "“ときめく乙女”識",
@@ -1589,7 +1658,8 @@
         "id": "SMP/W130-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-071": {
     "name": "“塗り替えていた記憶”美希",
@@ -1611,7 +1681,8 @@
         "id": "SMP/W130-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-072": {
     "name": "ちび蒼",
@@ -1633,7 +1704,8 @@
         "id": "SMP/W130-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-073": {
     "name": "“鳥白島のスナイパー”美希",
@@ -1655,7 +1727,8 @@
         "id": "SMP/W130-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-074": {
     "name": "“ハイドログラディエーター改”美希",
@@ -1677,7 +1750,8 @@
         "id": "SMP/W130-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-075": {
     "name": "“Seven's sea”美希＆うみ",
@@ -1699,7 +1773,8 @@
         "id": "SMP/W130-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-076": {
     "name": "“すでに惚れ直したぞ”美希＆羽依里",
@@ -1721,7 +1796,8 @@
         "id": "SMP/W130-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-077": {
     "name": "“お膝の上で”うみ＆しろは",
@@ -1743,7 +1819,8 @@
         "id": "SMP/W130-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-078": {
     "name": "“冗談話”蒼",
@@ -1765,7 +1842,8 @@
         "id": "SMP/W130-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-079": {
     "name": "“お姉ちゃんとの時間”蒼",
@@ -1787,7 +1865,8 @@
         "id": "SMP/W130-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-080": {
     "name": "“残された時間”蒼",
@@ -1809,7 +1888,8 @@
         "id": "SMP/W130-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-081": {
     "name": "“スボ手牡丹”識",
@@ -1831,7 +1911,8 @@
         "id": "SMP/W130-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-082": {
     "name": "“まぶしさの向こう側へ”蒼",
@@ -1853,7 +1934,8 @@
         "id": "SMP/W130-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-083": {
     "name": "ちょっとだけ、ばいばい……",
@@ -1875,7 +1957,8 @@
         "id": "SMP/W130-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-084": {
     "name": "Summer Pockets",
@@ -1897,7 +1980,8 @@
         "id": "SMP/W130-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-085": {
     "name": "ゆりかごの向こう側へ",
@@ -1919,7 +2003,8 @@
         "id": "SMP/W130-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-086": {
     "name": "縫い止められた未来",
@@ -1941,7 +2026,8 @@
         "id": "SMP/W130-086R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-087": {
     "name": "長い夢の終わり",
@@ -1963,7 +2049,8 @@
         "id": "SMP/W130-087R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-088": {
     "name": "お決まりの朝食",
@@ -1985,7 +2072,8 @@
         "id": "SMP/W130-088R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-089": {
     "name": "個性的ないびき",
@@ -2007,7 +2095,8 @@
         "id": "SMP/W130-089R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SMP/W130-090": {
     "name": "これは私の夢なんだろう",
@@ -2029,7 +2118,8 @@
         "id": "SMP/W130-090R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-091": {
     "name": "“サマードレス”蒼",
@@ -2055,7 +2145,8 @@
         "id": "SMP/W130-091SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-092": {
     "name": "“夏の思い出”静久",
@@ -2081,7 +2172,8 @@
         "id": "SMP/W130-092SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-093": {
     "name": "“わたしの作戦”紬",
@@ -2103,7 +2195,8 @@
         "id": "SMP/W130-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-094": {
     "name": "“妹想い”藍",
@@ -2125,7 +2218,8 @@
         "id": "SMP/W130-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-095": {
     "name": "“仲良しさん”静久",
@@ -2147,7 +2241,8 @@
         "id": "SMP/W130-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-096": {
     "name": "“無防備な寝顔”蒼",
@@ -2169,7 +2264,8 @@
         "id": "SMP/W130-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-097": {
     "name": "“神秘的な光景”蒼",
@@ -2191,7 +2287,8 @@
         "id": "SMP/W130-097S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-098": {
     "name": "空門 藍",
@@ -2213,7 +2310,8 @@
         "id": "SMP/W130-098S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-099": {
     "name": "“真夏の海辺”蒼",
@@ -2235,7 +2333,8 @@
         "id": "SMP/W130-099S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-100": {
     "name": "“お話したいこと”紬",
@@ -2257,7 +2356,8 @@
         "id": "SMP/W130-100S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-101": {
     "name": "“律の風”鴎",
@@ -2279,7 +2379,8 @@
         "id": "SMP/W130-101S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-102": {
     "name": "“夕暮れの灯台”紬",
@@ -2301,7 +2402,8 @@
         "id": "SMP/W130-102S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-103": {
     "name": "“ウシの恩返し”静久",
@@ -2323,7 +2425,8 @@
         "id": "SMP/W130-103S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-104": {
     "name": "“大きなスーツケース”鴎",
@@ -2345,7 +2448,8 @@
         "id": "SMP/W130-104S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-105": {
     "name": "“メリークリスマス”紬",
@@ -2367,7 +2471,8 @@
         "id": "SMP/W130-105S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-106": {
     "name": "“それは夏のせい”蒼",
@@ -2389,7 +2494,8 @@
         "id": "SMP/W130-106S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-107": {
     "name": "イナリ",
@@ -2411,7 +2517,8 @@
         "id": "SMP/W130-107S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-108": {
     "name": "“やっぱりチョロい”蒼",
@@ -2433,7 +2540,8 @@
         "id": "SMP/W130-108S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-109": {
     "name": "“打倒チャーハン”静久",
@@ -2455,7 +2563,8 @@
         "id": "SMP/W130-109S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-110": {
     "name": "“夏の日差し”鴎",
@@ -2477,7 +2586,8 @@
         "id": "SMP/W130-110S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-111": {
     "name": "“あの夏をもう一度”紬",
@@ -2499,7 +2609,8 @@
         "id": "SMP/W130-111S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-112": {
     "name": "“教わったおまじない”静久",
@@ -2521,7 +2632,8 @@
         "id": "SMP/W130-112S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-113": {
     "name": "“朝の水浴び”鴎",
@@ -2543,7 +2655,8 @@
         "id": "SMP/W130-113S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-114": {
     "name": "“叶えた現実”鴎",
@@ -2565,7 +2678,8 @@
         "id": "SMP/W130-114S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-115": {
     "name": "Summer Pockets",
@@ -2587,7 +2701,8 @@
         "id": "SMP/W130-115S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-116": {
     "name": "ある男の子の話",
@@ -2609,7 +2724,8 @@
         "id": "SMP/W130-116S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-117": {
     "name": "自分の罪",
@@ -2631,7 +2747,8 @@
         "id": "SMP/W130-117S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-118": {
     "name": "ラッキーアクシデント",
@@ -2657,7 +2774,8 @@
         "id": "SMP/W130-118SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SMP/W130-119": {
     "name": "たくさんの思い出",
@@ -2679,7 +2797,8 @@
         "id": "SMP/W130-119R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SMP/W130-120": {
     "name": "三人だけの結婚式",
@@ -2701,6 +2820,7 @@
         "id": "SMP/W130-120R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

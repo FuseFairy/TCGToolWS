@@ -19,7 +19,8 @@
         "id": "SFN/S108-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-T02": {
     "name": "次の仕事 ハイター",
@@ -41,7 +42,8 @@
         "id": "SFN/S108-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-T03": {
     "name": "次の仕事 アイゼン",
@@ -63,7 +65,8 @@
         "id": "SFN/S108-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-T04": {
     "name": "“勇者”ヒンメル",
@@ -85,7 +88,8 @@
         "id": "SFN/S108-T04SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-T05": {
     "name": "凱旋 ヒンメル",
@@ -107,7 +111,8 @@
         "id": "SFN/S108-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-T06": {
     "name": "“僧侶”ハイター",
@@ -129,7 +134,8 @@
         "id": "SFN/S108-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-T07": {
     "name": "“戦士”アイゼン",
@@ -151,7 +157,8 @@
         "id": "SFN/S108-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-T08": {
     "name": "今日の気分 ヒンメル",
@@ -173,7 +180,8 @@
         "id": "SFN/S108-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-T09": {
     "name": "僕達の冒険",
@@ -195,7 +203,8 @@
         "id": "SFN/S108-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-T10": {
     "name": "半世紀流星",
@@ -217,7 +226,8 @@
         "id": "SFN/S108-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SFN/S108-T11": {
     "name": "“魔法使い”フリーレン",
@@ -239,7 +249,8 @@
         "id": "SFN/S108-T11SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-T12": {
     "name": "頼み事 ハイター",
@@ -261,7 +272,8 @@
         "id": "SFN/S108-T12R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-T13": {
     "name": "蒼月草 ヒンメル",
@@ -283,7 +295,8 @@
         "id": "SFN/S108-T13R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-T14": {
     "name": "“見習い魔法使い”フェルン",
@@ -305,7 +318,8 @@
         "id": "SFN/S108-T14R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-T15": {
     "name": "清掃の依頼 フリーレン",
@@ -327,7 +341,8 @@
         "id": "SFN/S108-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-T16": {
     "name": "師匠のお世話 フェルン",
@@ -349,7 +364,8 @@
         "id": "SFN/S108-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-T17": {
     "name": "葬送のフリーレン",
@@ -375,7 +391,8 @@
         "id": "SFN/S108-T17S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-T18": {
     "name": "新年祭 フェルン",
@@ -397,7 +414,8 @@
         "id": "SFN/S108-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-T19": {
     "name": "防御魔法",
@@ -419,7 +437,8 @@
         "id": "SFN/S108-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-T20": {
     "name": "約束の蒼月草",
@@ -441,6 +460,7 @@
         "id": "SFN/S108-T20OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -19,7 +19,8 @@
         "id": "Gkb/WS02-126SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gkb/WS02-134": {
     "name": "人と二輪車 キノ＆エルメス",
@@ -41,7 +42,8 @@
         "id": "Gkb/WS02-134SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gkb/WS02-146": {
     "name": "キノの旅",
@@ -63,6 +65,7 @@
         "id": "Gkb/WS02-146SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "CGS/WS01-T08SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CGS/WS01-T10": {
     "name": "はじまりの日",
@@ -33,7 +34,8 @@
         "id": "CGS/WS01-T10SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CGS/WS01-T14": {
     "name": "カードゲーム界の革命児 しよ子",
@@ -51,7 +53,8 @@
         "id": "CGS/WS01-T14SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CGS/WS01-T19": {
     "name": "ヴァイスしよ子",
@@ -69,6 +72,7 @@
         "id": "CGS/WS01-T19SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

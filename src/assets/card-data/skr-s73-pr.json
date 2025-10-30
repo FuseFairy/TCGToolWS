@@ -15,7 +15,8 @@
         "id": "SKR/S73-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-P02": {
     "name": "奇跡の鐘 さくら",
@@ -33,7 +34,8 @@
         "id": "SKR/S73-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-P03": {
     "name": "帝国華撃団・花組 さくら",
@@ -51,7 +53,8 @@
         "id": "SKR/S73-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-101": {
     "name": "ちびあざみ",
@@ -69,7 +72,8 @@
         "id": "SKR/S73-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-102": {
     "name": "ちびクラリス",
@@ -87,7 +91,8 @@
         "id": "SKR/S73-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-103": {
     "name": "ちびさくら",
@@ -105,7 +110,8 @@
         "id": "SKR/S73-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-104": {
     "name": "ちび初穂",
@@ -123,7 +129,8 @@
         "id": "SKR/S73-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-105": {
     "name": "ちびアナスタシア",
@@ -141,6 +148,7 @@
         "id": "SKR/S73-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

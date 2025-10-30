@@ -15,7 +15,8 @@
         "id": "AOH/W127-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOH/W127-P02": {
     "name": "Self-Portrait 春雨麗女",
@@ -37,7 +38,8 @@
         "id": "AOH/W127-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOH/W127-P03": {
     "name": "Self-Portrait 山黒音玄",
@@ -63,6 +65,7 @@
         "id": "AOH/W127-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

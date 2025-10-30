@@ -15,7 +15,8 @@
         "id": "SIS/W109-140",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIS/W109-P01": {
     "name": "メガネ試着中 高海 千歌",
@@ -37,7 +38,8 @@
         "id": "SIS/W109-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIS/W109-P03": {
     "name": "ひとくちどうぞ 桜内 梨子",
@@ -55,6 +57,7 @@
         "id": "SIS/W109-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

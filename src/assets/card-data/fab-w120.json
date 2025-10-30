@@ -23,7 +23,8 @@
         "id": "Fab/W120-044SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fab/W120-049": {
     "name": "甘城ブリリアントパークの再建 いすず",
@@ -49,7 +50,8 @@
         "id": "Fab/W120-049SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fab/W120-051": {
     "name": "ひと夏の思い出 ラティファ＆いすず",
@@ -71,7 +73,8 @@
         "id": "Fab/W120-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fab/W120-058": {
     "name": "30周年大サービス ミュース＆いすず＆ラティファ",
@@ -93,7 +96,8 @@
         "id": "Fab/W120-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fab/W120-066": {
     "name": "メープルキッチン いすず",
@@ -119,6 +123,7 @@
         "id": "Fab/W120-066SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -15,7 +15,8 @@
         "id": "MK/SE09-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE09-02": {
     "name": "トイズで大活躍 ネロ",
@@ -33,7 +34,8 @@
         "id": "MK/SE09-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE09-03": {
     "name": "メアリー＆ケイト",
@@ -51,7 +53,8 @@
         "id": "MK/SE09-03",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE09-04": {
     "name": "お宝強奪 ストーンリバー",
@@ -69,7 +72,8 @@
         "id": "MK/SE09-04",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE09-05": {
     "name": "反逆のラット",
@@ -87,7 +91,8 @@
         "id": "MK/SE09-05",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE09-06": {
     "name": "トゥエンティ＆トゥエンティ",
@@ -105,7 +110,8 @@
         "id": "MK/SE09-06",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE09-07": {
     "name": "“いぶし銀”ストーンリバー",
@@ -123,7 +129,8 @@
         "id": "MK/SE09-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE09-08": {
     "name": "小麦色の素肌 ネロ",
@@ -141,7 +148,8 @@
         "id": "MK/SE09-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE09-09": {
     "name": "“自分大好き”トゥエンティ",
@@ -159,7 +167,8 @@
         "id": "MK/SE09-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE09-10": {
     "name": "空飛ぶネロ",
@@ -177,7 +186,8 @@
         "id": "MK/SE09-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK/SE09-11": {
     "name": "おどおどエリー",
@@ -195,7 +205,8 @@
         "id": "MK/SE09-11",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE09-12": {
     "name": "恥じらいの水着姿 エリー",
@@ -213,7 +224,8 @@
         "id": "MK/SE09-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE09-13": {
     "name": "6月のシャロ",
@@ -231,7 +243,8 @@
         "id": "MK/SE09-13",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE09-14": {
     "name": "幼児体型 シャロ",
@@ -249,7 +262,8 @@
         "id": "MK/SE09-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE09-15": {
     "name": "和服のアンリエット",
@@ -267,7 +281,8 @@
         "id": "MK/SE09-15",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE09-16": {
     "name": "うっかりお寝坊さん アンリエット",
@@ -285,7 +300,8 @@
         "id": "MK/SE09-16",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE09-17": {
     "name": "好敵手を求めるアルセーヌ",
@@ -303,7 +319,8 @@
         "id": "MK/SE09-17",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE09-18": {
     "name": "悲劇のヒロイン？ コーデリア",
@@ -321,7 +338,8 @@
         "id": "MK/SE09-18",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE09-19": {
     "name": "魅惑の怪盗 アルセーヌ",
@@ -339,7 +357,8 @@
         "id": "MK/SE09-19",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE09-20": {
     "name": "キュートな水着姿 コーデリア",
@@ -357,7 +376,8 @@
         "id": "MK/SE09-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE09-21": {
     "name": "挑発的な視線 アルセーヌ",
@@ -375,7 +395,8 @@
         "id": "MK/SE09-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE09-22": {
     "name": "ボヨヨンの女 アンリエット",
@@ -393,7 +414,8 @@
         "id": "MK/SE09-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE09-23": {
     "name": "悩殺の視線 アルセーヌ",
@@ -411,7 +433,8 @@
         "id": "MK/SE09-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE09-24": {
     "name": "ミステリアス・シャドウ",
@@ -429,7 +452,8 @@
         "id": "MK/SE09-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE09-25": {
     "name": "私がやりました",
@@ -447,7 +471,8 @@
         "id": "MK/SE09-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK/SE09-26": {
     "name": "決戦！怪盗VS探偵",
@@ -465,7 +490,8 @@
         "id": "MK/SE09-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK/SE09-27": {
     "name": "幻惑のトイズ",
@@ -483,6 +509,7 @@
         "id": "MK/SE09-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

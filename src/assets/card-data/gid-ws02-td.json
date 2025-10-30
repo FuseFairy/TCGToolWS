@@ -19,7 +19,8 @@
         "id": "Gid/WS02-T04SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gid/WS02-T06": {
     "name": "学園都市の日常 美琴＆インデックス＆当麻",
@@ -41,7 +42,8 @@
         "id": "Gid/WS02-T06S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gid/WS02-T10": {
     "name": "クリスマスパーティ",
@@ -63,6 +65,7 @@
         "id": "Gid/WS02-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

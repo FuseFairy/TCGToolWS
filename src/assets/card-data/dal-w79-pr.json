@@ -15,7 +15,8 @@
         "id": "DAL/W79-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-P02": {
     "name": "温泉で一息 四糸乃＆琴里＆十香",
@@ -33,7 +34,8 @@
         "id": "DAL/W79-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-P03": {
     "name": "“宵闇の邂逅”狂三",
@@ -51,7 +53,8 @@
         "id": "DAL/W79-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-101": {
     "name": "試着中 狂三",
@@ -69,7 +72,8 @@
         "id": "DAL/W79-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-102": {
     "name": "気持ちの確認 琴里",
@@ -87,7 +91,8 @@
         "id": "DAL/W79-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-103": {
     "name": "氷の結界の中で 四糸乃",
@@ -105,7 +110,8 @@
         "id": "DAL/W79-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-104": {
     "name": "複雑な心境 十香",
@@ -123,7 +129,8 @@
         "id": "DAL/W79-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-105": {
     "name": "デートの待ち合わせ 折紙",
@@ -141,6 +148,7 @@
         "id": "DAL/W79-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

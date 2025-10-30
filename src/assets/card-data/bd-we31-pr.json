@@ -19,7 +19,8 @@
         "id": "BD/WE31-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE31-P02": {
     "name": "“ロックな一体感”美竹蘭",
@@ -41,7 +42,8 @@
         "id": "BD/WE31-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE31-P03": {
     "name": "“憧れのお姉ちゃん”牛込ゆり",
@@ -63,7 +65,8 @@
         "id": "BD/WE31-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE31-P04": {
     "name": "“あたふたアドリブ”丸山彩",
@@ -85,7 +88,8 @@
         "id": "BD/WE31-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE31-P05": {
     "name": "“お揃いの衣装”戸山香澄",
@@ -107,7 +111,8 @@
         "id": "BD/WE31-P05S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE31-P06": {
     "name": "“進むべき道、共に歩む仲間”湊友希那",
@@ -129,7 +134,8 @@
         "id": "BD/WE31-P06S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE31-P07": {
     "name": "“あたしもペンギン！”弦巻こころ",
@@ -151,7 +157,8 @@
         "id": "BD/WE31-P07S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE31-P08": {
     "name": "“蘭のアイコンタクト”美竹蘭",
@@ -173,7 +180,8 @@
         "id": "BD/WE31-P08S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE31-P09": {
     "name": "“宣誓！花火大会！”戸山香澄",
@@ -195,7 +203,8 @@
         "id": "BD/WE31-P09S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE31-P10": {
     "name": "“初心者バード”湊友希那",
@@ -217,7 +226,8 @@
         "id": "BD/WE31-P10S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE31-P11": {
     "name": "“本気・待機……”丸山彩",
@@ -239,7 +249,8 @@
         "id": "BD/WE31-P11S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE31-P12": {
     "name": "“みんなでお花見”戸山香澄",
@@ -257,6 +268,7 @@
         "id": "BD/WE31-P12S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

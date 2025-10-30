@@ -15,7 +15,8 @@
         "id": "TL/W42-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W42-102": {
     "name": "ちび唯",
@@ -33,7 +34,8 @@
         "id": "TL/W42-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W42-103": {
     "name": "ちびモモ",
@@ -51,7 +53,8 @@
         "id": "TL/W42-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W42-104": {
     "name": "ちび春菜",
@@ -69,7 +72,8 @@
         "id": "TL/W42-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W42-P01": {
     "name": "“気まずい雰囲気”唯",
@@ -87,7 +91,8 @@
         "id": "TL/W42-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W42-P02": {
     "name": "“暴走するダークネス”ヤミ",
@@ -105,7 +110,8 @@
         "id": "TL/W42-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W42-P03": {
     "name": "“真夏のビーチサイド”唯",
@@ -123,6 +129,7 @@
         "id": "TL/W42-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -19,7 +19,8 @@
         "id": "SFN/S108-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-P01": {
     "name": "葬送のフリーレン",
@@ -37,7 +38,8 @@
         "id": "SFN/S108-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SFN/S108-P03": {
     "name": "しろくろ戦士 シュタルク",
@@ -59,7 +61,8 @@
         "id": "SFN/S108-P03b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-P04": {
     "name": "しろくろ魔法使い フェルン",
@@ -81,7 +84,8 @@
         "id": "SFN/S108-P04b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SFN/S108-P05": {
     "name": "しろくろ魔法使い フリーレン",
@@ -103,6 +107,7 @@
         "id": "SFN/S108-P05b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -23,7 +23,8 @@
         "id": "Srd/W123-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Srd/W123-009": {
     "name": "メイド服は戦闘服 綾乃",
@@ -45,7 +46,8 @@
         "id": "Srd/W123-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Srd/W123-013": {
     "name": "堕落への誘い 有希",
@@ -67,7 +69,8 @@
         "id": "Srd/W123-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Srd/W123-019": {
     "name": "アドケナリン 有希",
@@ -89,7 +92,8 @@
         "id": "Srd/W123-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Srd/W123-020": {
     "name": "パートナーの役目 政近",
@@ -111,7 +115,8 @@
         "id": "Srd/W123-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Srd/W123-021": {
     "name": "修行の成果 綾乃",
@@ -133,7 +138,8 @@
         "id": "Srd/W123-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Srd/W123-024": {
     "name": "可愛い妹による寝起きボディープレス",
@@ -159,7 +165,8 @@
         "id": "Srd/W123-024R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Srd/W123-100": {
     "name": "精神的露出狂 アーリャ",
@@ -185,7 +192,8 @@
         "id": "Srd/W123-100SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Srd/W123-103": {
     "name": "時々ボソッとロシア語でデレる隣のアーリャさん",
@@ -211,7 +219,8 @@
         "id": "Srd/W123-103SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Srd/W123-106": {
     "name": "学園の聖母 マーシャ",
@@ -237,7 +246,8 @@
         "id": "Srd/W123-106SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Srd/W123-112": {
     "name": "責任の取り方 アーリャ",
@@ -259,7 +269,8 @@
         "id": "Srd/W123-112S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Srd/W123-113": {
     "name": "運命の相手 マーシャ",
@@ -281,7 +292,8 @@
         "id": "Srd/W123-113S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Srd/W123-119": {
     "name": "姉として マーシャ",
@@ -303,7 +315,8 @@
         "id": "Srd/W123-119S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Srd/W123-120": {
     "name": "あなたに会えて アーリャ",
@@ -325,7 +338,8 @@
         "id": "Srd/W123-120S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Srd/W123-127": {
     "name": "全力ファッションショー",
@@ -355,6 +369,7 @@
         "id": "Srd/W123-127R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

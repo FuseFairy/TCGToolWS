@@ -19,7 +19,8 @@
         "id": "SY/W08-001R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-002": {
     "name": "サンタっ娘ハルヒ＆キョン",
@@ -37,7 +38,8 @@
         "id": "SY/W08-002",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-003": {
     "name": "Xmasパーティ キョンの妹",
@@ -59,7 +61,8 @@
         "id": "SY/W08-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-004": {
     "name": "謎の転校生 古泉",
@@ -81,7 +84,8 @@
         "id": "SY/W08-004R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-005": {
     "name": "見えざる信頼関係 ハルヒ＆キョン",
@@ -99,7 +103,8 @@
         "id": "SY/W08-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-006": {
     "name": "“いつも”のキョン",
@@ -117,7 +122,8 @@
         "id": "SY/W08-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-007": {
     "name": "浴衣のキョン",
@@ -139,7 +145,8 @@
         "id": "SY/W08-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-008": {
     "name": "森 園生",
@@ -157,7 +164,8 @@
         "id": "SY/W08-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-009": {
     "name": "水着のキョンの妹",
@@ -175,7 +183,8 @@
         "id": "SY/W08-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-010": {
     "name": "部室のキョン",
@@ -193,7 +202,8 @@
         "id": "SY/W08-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-011": {
     "name": "古泉 一樹",
@@ -211,7 +221,8 @@
         "id": "SY/W08-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-012": {
     "name": "部室の長門＆古泉",
@@ -229,7 +240,8 @@
         "id": "SY/W08-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-013": {
     "name": "クラスメイト国木田",
@@ -247,7 +259,8 @@
         "id": "SY/W08-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-014": {
     "name": "エプロン姿のキョン",
@@ -265,7 +278,8 @@
         "id": "SY/W08-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-015": {
     "name": "エプロン姿の古泉",
@@ -283,7 +297,8 @@
         "id": "SY/W08-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-016": {
     "name": "クラスメイト谷口",
@@ -301,7 +316,8 @@
         "id": "SY/W08-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-017": {
     "name": "がんばりすぎのみくる＆キョン",
@@ -319,7 +335,8 @@
         "id": "SY/W08-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-018": {
     "name": "ダンディな執事 新川",
@@ -337,7 +354,8 @@
         "id": "SY/W08-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-019": {
     "name": "キョンの妹＆朝倉",
@@ -355,7 +373,8 @@
         "id": "SY/W08-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-020": {
     "name": "合宿の夜",
@@ -373,7 +392,8 @@
         "id": "SY/W08-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-021": {
     "name": "雨の日の帰り道",
@@ -391,7 +411,8 @@
         "id": "SY/W08-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-022": {
     "name": "ふもっふ！",
@@ -409,7 +430,8 @@
         "id": "SY/W08-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-023": {
     "name": "涼宮ハルヒの朗報",
@@ -427,7 +449,8 @@
         "id": "SY/W08-023",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SY/W08-024": {
     "name": "sleeping beauty_",
@@ -445,7 +468,8 @@
         "id": "SY/W08-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-025": {
     "name": "閉鎖空間",
@@ -463,7 +487,8 @@
         "id": "SY/W08-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-026": {
     "name": "異時間同位体 みくる＆みくる（大）",
@@ -485,7 +510,8 @@
         "id": "SY/W08-026R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-027": {
     "name": "ドジっ娘みくる",
@@ -503,7 +529,8 @@
         "id": "SY/W08-027",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-028": {
     "name": "おめかし鶴屋さん",
@@ -525,7 +552,8 @@
         "id": "SY/W08-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-029": {
     "name": "朝比奈 みくる",
@@ -543,7 +571,8 @@
         "id": "SY/W08-029",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-030": {
     "name": "温泉の鶴屋さん",
@@ -561,7 +590,8 @@
         "id": "SY/W08-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-031": {
     "name": "時をかける少女みくる",
@@ -583,7 +613,8 @@
         "id": "SY/W08-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-032": {
     "name": "水着のハルヒ＆みくる",
@@ -605,7 +636,8 @@
         "id": "SY/W08-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-033": {
     "name": "おめかしみくる",
@@ -623,7 +655,8 @@
         "id": "SY/W08-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-034": {
     "name": "ネコミミ 鶴屋さん",
@@ -641,7 +674,8 @@
         "id": "SY/W08-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-035": {
     "name": "ビーチバレー みくる＆鶴屋さん",
@@ -659,7 +693,8 @@
         "id": "SY/W08-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-036": {
     "name": "ウェイトレス鶴屋さん",
@@ -677,7 +712,8 @@
         "id": "SY/W08-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-037": {
     "name": "ネコミミ みくる",
@@ -695,7 +731,8 @@
         "id": "SY/W08-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-038": {
     "name": "サイン会みくる",
@@ -713,7 +750,8 @@
         "id": "SY/W08-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-039": {
     "name": "SOS団のマスコットみくる",
@@ -731,7 +769,8 @@
         "id": "SY/W08-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-040": {
     "name": "ウェイトレスみくる",
@@ -749,7 +788,8 @@
         "id": "SY/W08-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-041": {
     "name": "バニーガール ハルヒ＆長門＆みくる",
@@ -767,7 +807,8 @@
         "id": "SY/W08-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-042": {
     "name": "未来から来たみくる",
@@ -785,7 +826,8 @@
         "id": "SY/W08-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-043": {
     "name": "Xmasパーティ 鶴屋さん＆みくる",
@@ -803,7 +845,8 @@
         "id": "SY/W08-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-044": {
     "name": "ミラクルガール みくる",
@@ -821,7 +864,8 @@
         "id": "SY/W08-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-045": {
     "name": "みくるビーム",
@@ -839,7 +883,8 @@
         "id": "SY/W08-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-046": {
     "name": "任意同行？",
@@ -857,7 +902,8 @@
         "id": "SY/W08-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-047": {
     "name": "野球大会",
@@ -875,7 +921,8 @@
         "id": "SY/W08-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-048": {
     "name": "涼宮ハルヒの日常",
@@ -893,7 +940,8 @@
         "id": "SY/W08-048",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-049": {
     "name": "禁則事項です",
@@ -911,7 +959,8 @@
         "id": "SY/W08-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-050": {
     "name": "もうボロ儲けだよっ！",
@@ -929,7 +978,8 @@
         "id": "SY/W08-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SY/W08-051": {
     "name": "Xmasパーティ ハルヒ＆キョン",
@@ -947,7 +997,8 @@
         "id": "SY/W08-051",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-052": {
     "name": "SOS団団長ハルヒ",
@@ -969,7 +1020,8 @@
         "id": "SY/W08-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-053": {
     "name": "浴衣のハルヒ",
@@ -991,7 +1043,8 @@
         "id": "SY/W08-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-054": {
     "name": "温泉のハルヒ",
@@ -1009,7 +1062,8 @@
         "id": "SY/W08-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-055": {
     "name": "世界の中心ハルヒ＆ちっぽけなハルヒ",
@@ -1031,7 +1085,8 @@
         "id": "SY/W08-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-056": {
     "name": "“いつも”のハルヒ",
@@ -1053,7 +1108,8 @@
         "id": "SY/W08-056SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-057": {
     "name": "ビーチバレー ハルヒ",
@@ -1071,7 +1127,8 @@
         "id": "SY/W08-057",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-058": {
     "name": "超編集長ハルヒ",
@@ -1089,7 +1146,8 @@
         "id": "SY/W08-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-059": {
     "name": "おめかしハルヒ",
@@ -1107,7 +1165,8 @@
         "id": "SY/W08-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-060": {
     "name": "退屈を嫌うハルヒ",
@@ -1125,7 +1184,8 @@
         "id": "SY/W08-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-061": {
     "name": "浴衣のハルヒ＆みくる",
@@ -1143,7 +1203,8 @@
         "id": "SY/W08-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-062": {
     "name": "Happy Valentineハルヒ",
@@ -1161,7 +1222,8 @@
         "id": "SY/W08-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-063": {
     "name": "両手いっぱいの花束ハルヒ",
@@ -1179,7 +1241,8 @@
         "id": "SY/W08-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-064": {
     "name": "涼宮 ハルヒ",
@@ -1197,7 +1260,8 @@
         "id": "SY/W08-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-065": {
     "name": "ボーカリスト ハルヒ",
@@ -1215,7 +1279,8 @@
         "id": "SY/W08-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-066": {
     "name": "勝利宣言ハルヒ",
@@ -1233,7 +1298,8 @@
         "id": "SY/W08-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-067": {
     "name": "ネコミミ ハルヒ",
@@ -1251,7 +1317,8 @@
         "id": "SY/W08-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-068": {
     "name": "クラッカー ハルヒ",
@@ -1269,7 +1336,8 @@
         "id": "SY/W08-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-069": {
     "name": "トラブルガール ハルヒ",
@@ -1287,7 +1355,8 @@
         "id": "SY/W08-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-070": {
     "name": "市内探索ツアー",
@@ -1305,7 +1374,8 @@
         "id": "SY/W08-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-071": {
     "name": "色褪せた世界",
@@ -1323,7 +1393,8 @@
         "id": "SY/W08-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-072": {
     "name": "ただの人間には興味ありません",
@@ -1341,7 +1412,8 @@
         "id": "SY/W08-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-073": {
     "name": "Happy Valentine",
@@ -1359,7 +1431,8 @@
         "id": "SY/W08-073",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SY/W08-074": {
     "name": "SOS団誕生！",
@@ -1377,7 +1450,8 @@
         "id": "SY/W08-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SY/W08-075": {
     "name": "サムデイ イン ザ レイン",
@@ -1395,7 +1469,8 @@
         "id": "SY/W08-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-076": {
     "name": "宇宙人 長門＆朝倉＆喜緑",
@@ -1417,7 +1492,8 @@
         "id": "SY/W08-076R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-077": {
     "name": "おめかし長門",
@@ -1439,7 +1515,8 @@
         "id": "SY/W08-077R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-078": {
     "name": "長門 有希",
@@ -1457,7 +1534,8 @@
         "id": "SY/W08-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-079": {
     "name": "眼鏡っ娘 長門",
@@ -1479,7 +1557,8 @@
         "id": "SY/W08-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-080": {
     "name": "朝倉 涼子",
@@ -1497,7 +1576,8 @@
         "id": "SY/W08-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-081": {
     "name": "無口キャラ長門",
@@ -1515,7 +1595,8 @@
         "id": "SY/W08-081",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-082": {
     "name": "チャイナドレスの長門",
@@ -1537,7 +1618,8 @@
         "id": "SY/W08-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-083": {
     "name": "水着のハルヒ＆長門",
@@ -1555,7 +1637,8 @@
         "id": "SY/W08-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-084": {
     "name": "温泉の長門＆みくる",
@@ -1573,7 +1656,8 @@
         "id": "SY/W08-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-085": {
     "name": "ビーチバレー 長門",
@@ -1591,7 +1675,8 @@
         "id": "SY/W08-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-086": {
     "name": "ギタリスト 長門",
@@ -1609,7 +1694,8 @@
         "id": "SY/W08-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-087": {
     "name": "情報統合思念体の端末 長門",
@@ -1627,7 +1713,8 @@
         "id": "SY/W08-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-088": {
     "name": "Xmasパーティ 長門",
@@ -1645,7 +1732,8 @@
         "id": "SY/W08-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-089": {
     "name": "浴衣の長門＆キョンの妹",
@@ -1663,7 +1751,8 @@
         "id": "SY/W08-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-090": {
     "name": "エプロン姿の長門",
@@ -1681,7 +1770,8 @@
         "id": "SY/W08-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-091": {
     "name": "スイカを食べる長門",
@@ -1699,7 +1789,8 @@
         "id": "SY/W08-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-092": {
     "name": "ネコミミ 長門",
@@ -1717,7 +1808,8 @@
         "id": "SY/W08-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-093": {
     "name": "依頼人第一号 喜緑",
@@ -1735,7 +1827,8 @@
         "id": "SY/W08-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-094": {
     "name": "クールガール 長門",
@@ -1753,7 +1846,8 @@
         "id": "SY/W08-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-095": {
     "name": "しおりの伝言",
@@ -1771,7 +1865,8 @@
         "id": "SY/W08-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-096": {
     "name": "離れないで",
@@ -1789,7 +1884,8 @@
         "id": "SY/W08-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-097": {
     "name": "情報連結解除",
@@ -1807,7 +1903,8 @@
         "id": "SY/W08-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-098": {
     "name": "私のこと、あなたに教えておく",
@@ -1825,7 +1922,8 @@
         "id": "SY/W08-098",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SY/W08-099": {
     "name": "情報制御空間の死闘",
@@ -1843,7 +1941,8 @@
         "id": "SY/W08-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-100": {
     "name": "うん、それ無理",
@@ -1861,6 +1960,7 @@
         "id": "SY/W08-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

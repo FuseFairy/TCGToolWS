@@ -19,7 +19,8 @@
         "id": "PJS/S109-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-002": {
     "name": "えむ隊員は調査中！ 鳳えむ",
@@ -41,7 +42,8 @@
         "id": "PJS/S109-002SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-003": {
     "name": "大丈夫だよ、みんな KAITO",
@@ -63,7 +65,8 @@
         "id": "PJS/S109-003SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-004": {
     "name": "星の旋律 天馬司",
@@ -85,7 +88,8 @@
         "id": "PJS/S109-004SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-005": {
     "name": "遊びのお礼に 草薙寧々",
@@ -107,7 +111,8 @@
         "id": "PJS/S109-005SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-006": {
     "name": "辿り着けた想い 天馬咲希",
@@ -129,7 +134,8 @@
         "id": "PJS/S109-006SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-007": {
     "name": "執念の追いかけっこ 天馬司",
@@ -151,7 +157,8 @@
         "id": "PJS/S109-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-008": {
     "name": "かけがえのない笑顔 鳳えむ",
@@ -173,7 +180,8 @@
         "id": "PJS/S109-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-009": {
     "name": "窓辺の語らい 天馬咲希",
@@ -195,7 +203,8 @@
         "id": "PJS/S109-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-010": {
     "name": "想いのメッセンジャー 草薙寧々",
@@ -217,7 +226,8 @@
         "id": "PJS/S109-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-011": {
     "name": "サバイバルチャレンジ！ 神代類",
@@ -235,7 +245,8 @@
         "id": "PJS/S109-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-012": {
     "name": "死ぬかと思った 草薙寧々",
@@ -257,7 +268,8 @@
         "id": "PJS/S109-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-013": {
     "name": "ニッコリ作戦大成功！ 鳳えむ",
@@ -279,7 +291,8 @@
         "id": "PJS/S109-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-014": {
     "name": "想いをぶつける強さ 鏡音レン",
@@ -297,7 +310,8 @@
         "id": "PJS/S109-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-015": {
     "name": "レインボー☆キャスト 神代類",
@@ -315,7 +329,8 @@
         "id": "PJS/S109-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-016": {
     "name": "クッキー・エール 天馬咲希",
@@ -333,7 +348,8 @@
         "id": "PJS/S109-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-017": {
     "name": "バルーンプレゼンター 天馬司",
@@ -351,7 +367,8 @@
         "id": "PJS/S109-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-018": {
     "name": "泣き声はどこから？",
@@ -373,7 +390,8 @@
         "id": "PJS/S109-018SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-019": {
     "name": "おっきな貝殻、どこかな？",
@@ -395,7 +413,8 @@
         "id": "PJS/S109-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-020": {
     "name": "いっちばん得意な方法で！",
@@ -417,7 +436,8 @@
         "id": "PJS/S109-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-021": {
     "name": "挑戦の心得",
@@ -439,7 +459,8 @@
         "id": "PJS/S109-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-022": {
     "name": "代役に挑戦！",
@@ -457,7 +478,8 @@
         "id": "PJS/S109-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-023": {
     "name": "屋上での語らい",
@@ -479,7 +501,8 @@
         "id": "PJS/S109-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-024": {
     "name": "次のライブのために！",
@@ -501,7 +524,8 @@
         "id": "PJS/S109-024R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-025": {
     "name": "ダンス！アンド！シング！",
@@ -523,7 +547,8 @@
         "id": "PJS/S109-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-026": {
     "name": "嵐の前のフィッシング",
@@ -545,7 +570,8 @@
         "id": "PJS/S109-026R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-027": {
     "name": "子リス達のお誘い",
@@ -567,7 +593,8 @@
         "id": "PJS/S109-027R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-028": {
     "name": "内なる烈火",
@@ -589,7 +616,8 @@
         "id": "PJS/S109-028R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-029": {
     "name": "“大好き”を前に 桐谷遥",
@@ -611,7 +639,8 @@
         "id": "PJS/S109-029SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-030": {
     "name": "手作りおにぎり召し上がれ♪ 日野森雫",
@@ -633,7 +662,8 @@
         "id": "PJS/S109-030SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-031": {
     "name": "見つけられた答え 日野森志歩",
@@ -655,7 +685,8 @@
         "id": "PJS/S109-031SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-032": {
     "name": "bloomy idol♪ 鏡音リン",
@@ -673,7 +704,8 @@
         "id": "PJS/S109-032",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-033": {
     "name": "“あなた”のために 花里みのり",
@@ -695,7 +727,8 @@
         "id": "PJS/S109-033SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-034": {
     "name": "ステージの王子様 鏡音レン",
@@ -717,7 +750,8 @@
         "id": "PJS/S109-034SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-035": {
     "name": "全力！ハッピーエブリデイ！ 桃井愛莉",
@@ -739,7 +773,8 @@
         "id": "PJS/S109-035SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-036": {
     "name": "後輩のためにできること 桃井愛莉",
@@ -757,7 +792,8 @@
         "id": "PJS/S109-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-037": {
     "name": "にゃ～ん？ 日野森雫",
@@ -779,7 +815,8 @@
         "id": "PJS/S109-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-038": {
     "name": "痛い言葉 日野森志歩",
@@ -801,7 +838,8 @@
         "id": "PJS/S109-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-039": {
     "name": "かるた界のトップアイドル？ 初音ミク",
@@ -823,7 +861,8 @@
         "id": "PJS/S109-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-040": {
     "name": "答えを探して MEIKO",
@@ -841,7 +880,8 @@
         "id": "PJS/S109-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-041": {
     "name": "レッツ・ファンミーティング！ 花里みのり",
@@ -863,7 +903,8 @@
         "id": "PJS/S109-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-042": {
     "name": "小さなファンと一緒に 桐谷遥",
@@ -885,7 +926,8 @@
         "id": "PJS/S109-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-043": {
     "name": "音で語るセッション KAITO",
@@ -907,7 +949,8 @@
         "id": "PJS/S109-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-044": {
     "name": "アイドルとしての心得 巡音ルカ",
@@ -929,7 +972,8 @@
         "id": "PJS/S109-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-045": {
     "name": "赤が似合うニューフェイス！ MEIKO",
@@ -951,7 +995,8 @@
         "id": "PJS/S109-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-046": {
     "name": "このあとは反省会 日野森志歩",
@@ -973,7 +1018,8 @@
         "id": "PJS/S109-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-047": {
     "name": "パーフェクト・スイーツ 桃井愛莉",
@@ -991,7 +1037,8 @@
         "id": "PJS/S109-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-048": {
     "name": "Present for you！ 桐谷遥",
@@ -1009,7 +1056,8 @@
         "id": "PJS/S109-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-049": {
     "name": "慌てんぼうなメッセンジャー 花里みのり",
@@ -1027,7 +1075,8 @@
         "id": "PJS/S109-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-050": {
     "name": "アイドル兼マネージャー！？ KAITO",
@@ -1049,7 +1098,8 @@
         "id": "PJS/S109-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-051": {
     "name": "リラックス・タイムのお誘い 日野森雫",
@@ -1071,7 +1121,8 @@
         "id": "PJS/S109-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-052": {
     "name": "フェアリーランタン♪",
@@ -1089,7 +1140,8 @@
         "id": "PJS/S109-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-053": {
     "name": "昼休みの語らい",
@@ -1111,7 +1163,8 @@
         "id": "PJS/S109-053R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-054": {
     "name": "熱烈コール！",
@@ -1133,7 +1186,8 @@
         "id": "PJS/S109-054R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-055": {
     "name": "頑張るあなたに",
@@ -1155,7 +1209,8 @@
         "id": "PJS/S109-055R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-056": {
     "name": "ファンと一緒に！",
@@ -1177,7 +1232,8 @@
         "id": "PJS/S109-056R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-057": {
     "name": "秘密の交渉",
@@ -1199,7 +1255,8 @@
         "id": "PJS/S109-057R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-058": {
     "name": "大切な友達だから 望月穂波",
@@ -1221,7 +1278,8 @@
         "id": "PJS/S109-058SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-059": {
     "name": "仲間だから 白石杏",
@@ -1243,7 +1301,8 @@
         "id": "PJS/S109-059SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-060": {
     "name": "アウトドアクッキング！ 青柳冬弥",
@@ -1265,7 +1324,8 @@
         "id": "PJS/S109-060SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-061": {
     "name": "春色スイーツに囲まれて 鏡音レン",
@@ -1287,7 +1347,8 @@
         "id": "PJS/S109-061SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-062": {
     "name": "陽気なDJ現る？ KAITO",
@@ -1309,7 +1370,8 @@
         "id": "PJS/S109-062SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-063": {
     "name": "おてんばなメロディー 鏡音リン",
@@ -1331,7 +1393,8 @@
         "id": "PJS/S109-063SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-064": {
     "name": "みんなも美味しいパンケーキ！ KAITO",
@@ -1353,7 +1416,8 @@
         "id": "PJS/S109-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-065": {
     "name": "そして知る『伝説』 小豆沢こはね",
@@ -1375,7 +1439,8 @@
         "id": "PJS/S109-065SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-066": {
     "name": "手にした熱気 東雲彰人",
@@ -1397,7 +1462,8 @@
         "id": "PJS/S109-066SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-067": {
     "name": "敗北の夜 東雲彰人",
@@ -1419,7 +1485,8 @@
         "id": "PJS/S109-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-068": {
     "name": "胸の高鳴りを言葉に 青柳冬弥",
@@ -1441,7 +1508,8 @@
         "id": "PJS/S109-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-069": {
     "name": "みんなでBBQ♪ 白石杏",
@@ -1463,7 +1531,8 @@
         "id": "PJS/S109-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-070": {
     "name": "褒められちゃった♪ 小豆沢こはね",
@@ -1485,7 +1554,8 @@
         "id": "PJS/S109-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-071": {
     "name": "見えない気持ち 望月穂波",
@@ -1507,7 +1577,8 @@
         "id": "PJS/S109-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-072": {
     "name": "春メニューの試食 MEIKO",
@@ -1529,7 +1600,8 @@
         "id": "PJS/S109-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-073": {
     "name": "Towards Legend 東雲彰人",
@@ -1547,7 +1619,8 @@
         "id": "PJS/S109-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-074": {
     "name": "相棒として 青柳冬弥",
@@ -1565,7 +1638,8 @@
         "id": "PJS/S109-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-075": {
     "name": "あったかキャンプスタイル 小豆沢こはね",
@@ -1583,7 +1657,8 @@
         "id": "PJS/S109-075",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-076": {
     "name": "ほんの少しの悔しさ 白石杏",
@@ -1601,7 +1676,8 @@
         "id": "PJS/S109-076",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-077": {
     "name": "仲間を想うということ 望月穂波",
@@ -1623,7 +1699,8 @@
         "id": "PJS/S109-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-078": {
     "name": "自由人参上！ 巡音ルカ",
@@ -1645,7 +1722,8 @@
         "id": "PJS/S109-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-079": {
     "name": "抑えきれない興味",
@@ -1667,7 +1745,8 @@
         "id": "PJS/S109-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-080": {
     "name": "できることを探して",
@@ -1689,7 +1768,8 @@
         "id": "PJS/S109-080R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PJS/S109-081": {
     "name": "一緒に成長したくて",
@@ -1711,7 +1791,8 @@
         "id": "PJS/S109-081R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-082": {
     "name": "これから開店！",
@@ -1733,7 +1814,8 @@
         "id": "PJS/S109-082R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-083": {
     "name": "冬の夜の語らい",
@@ -1755,7 +1837,8 @@
         "id": "PJS/S109-083R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-084": {
     "name": "お腹は正直",
@@ -1777,7 +1860,8 @@
         "id": "PJS/S109-084R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-085": {
     "name": "あたたかい愛情の記憶 朝比奈まふゆ",
@@ -1799,7 +1883,8 @@
         "id": "PJS/S109-085SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-086": {
     "name": "想いが重なる場所で 初音ミク",
@@ -1821,7 +1906,8 @@
         "id": "PJS/S109-086SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-087": {
     "name": "諦めたくないから 東雲絵名",
@@ -1843,7 +1929,8 @@
         "id": "PJS/S109-087SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-088": {
     "name": "気づいてしまった想い 暁山瑞希",
@@ -1865,7 +1952,8 @@
         "id": "PJS/S109-088SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-089": {
     "name": "想いをつなげるスターピース 星乃一歌",
@@ -1887,7 +1975,8 @@
         "id": "PJS/S109-089SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-090": {
     "name": "アルバムのあの子 鏡音リン",
@@ -1909,7 +1998,8 @@
         "id": "PJS/S109-090SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-091": {
     "name": "黒板に咲くサクラ 巡音ルカ",
@@ -1931,7 +2021,8 @@
         "id": "PJS/S109-091SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-092": {
     "name": "思い出の花壇 宵崎奏",
@@ -1953,7 +2044,8 @@
         "id": "PJS/S109-092SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-093": {
     "name": "風に舞う花びらの中で 初音ミク",
@@ -1975,7 +2067,8 @@
         "id": "PJS/S109-093SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-094": {
     "name": "ミステリーツアーの洗礼？ 東雲絵名",
@@ -1997,7 +2090,8 @@
         "id": "PJS/S109-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-095": {
     "name": "想いをメロディーに…… 宵崎奏",
@@ -2019,7 +2113,8 @@
         "id": "PJS/S109-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-096": {
     "name": "ひとときの安息 暁山瑞希",
@@ -2041,7 +2136,8 @@
         "id": "PJS/S109-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-097": {
     "name": "必要な距離 MEIKO",
@@ -2063,7 +2159,8 @@
         "id": "PJS/S109-097SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-098": {
     "name": "こぼれたほほ笑み 朝比奈まふゆ",
@@ -2085,7 +2182,8 @@
         "id": "PJS/S109-098S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-099": {
     "name": "新曲の方向性 星乃一歌",
@@ -2107,7 +2205,8 @@
         "id": "PJS/S109-099S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-100": {
     "name": "私は私のやりかたで 巡音ルカ",
@@ -2129,7 +2228,8 @@
         "id": "PJS/S109-100SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-101": {
     "name": "トラスト ユー 暁山瑞希",
@@ -2147,7 +2247,8 @@
         "id": "PJS/S109-101",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-102": {
     "name": "不器用なティータイム 宵崎奏",
@@ -2165,7 +2266,8 @@
         "id": "PJS/S109-102",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-103": {
     "name": "晴れを待つ雨傘 星乃一歌",
@@ -2183,7 +2285,8 @@
         "id": "PJS/S109-103",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-104": {
     "name": "言葉にしてほしくて 東雲絵名",
@@ -2201,7 +2304,8 @@
         "id": "PJS/S109-104",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-105": {
     "name": "廃校での出会い  朝比奈まふゆ",
@@ -2219,7 +2323,8 @@
         "id": "PJS/S109-105",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-106": {
     "name": "出会いの意味を探して",
@@ -2241,7 +2346,8 @@
         "id": "PJS/S109-106S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-107": {
     "name": "想いよ、届け",
@@ -2263,7 +2369,8 @@
         "id": "PJS/S109-107R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-108": {
     "name": "儚さと美しさ",
@@ -2285,7 +2392,8 @@
         "id": "PJS/S109-108R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-109": {
     "name": "投げかけた言葉",
@@ -2307,7 +2415,8 @@
         "id": "PJS/S109-109R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-110": {
     "name": "取り消したメッセージ",
@@ -2329,7 +2438,8 @@
         "id": "PJS/S109-110R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-111": {
     "name": "迷える手を引いて",
@@ -2351,7 +2461,8 @@
         "id": "PJS/S109-111R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-112": {
     "name": "ステージ裏での激励 天馬司",
@@ -2369,7 +2480,8 @@
         "id": "PJS/S109-112BP",
         "rarity": "BP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-113": {
     "name": "仲間達からの祝福 花里みのり",
@@ -2387,7 +2499,8 @@
         "id": "PJS/S109-113BP",
         "rarity": "BP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-114": {
     "name": "えむ流？ダンスの極意！ 小豆沢こはね",
@@ -2405,7 +2518,8 @@
         "id": "PJS/S109-114BP",
         "rarity": "BP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-115": {
     "name": "音楽が見せてくれる世界 宵崎奏",
@@ -2423,7 +2537,8 @@
         "id": "PJS/S109-115BP",
         "rarity": "BP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-116": {
     "name": "かつて見た星空 星乃一歌",
@@ -2441,6 +2556,7 @@
         "id": "PJS/S109-116BP",
         "rarity": "BP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

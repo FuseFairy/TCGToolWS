@@ -23,7 +23,8 @@
         "id": "Ssy/W62-T08SP",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ssy/W62-T13": {
     "name": "眼鏡っ娘 みくる",
@@ -41,7 +42,8 @@
         "id": "Ssy/W62-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssy/W62-T20": {
     "name": "残り二週間の夜",
@@ -63,6 +65,7 @@
         "id": "Ssy/W62-T20R",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

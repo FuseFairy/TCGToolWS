@@ -19,7 +19,8 @@
         "id": "LB/WE21-01SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE21-02": {
     "name": "幸せキャッチボール 小毬",
@@ -41,7 +42,8 @@
         "id": "LB/WE21-02SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE21-03": {
     "name": "ステージ・オン！ 恭介",
@@ -63,7 +65,8 @@
         "id": "LB/WE21-03SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE21-04": {
     "name": "どきどきどーなつ 小毬",
@@ -81,7 +84,8 @@
         "id": "LB/WE21-04",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE21-05": {
     "name": "雪の女王 唯湖",
@@ -99,7 +103,8 @@
         "id": "LB/WE21-05",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE21-06": {
     "name": "リトルチアガール 鈴",
@@ -117,7 +122,8 @@
         "id": "LB/WE21-06",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE21-07": {
     "name": "サーチング・ミステリー 理樹",
@@ -135,7 +141,8 @@
         "id": "LB/WE21-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE21-08": {
     "name": "あなたといるから 佐々美",
@@ -153,7 +160,8 @@
         "id": "LB/WE21-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE21-09": {
     "name": "うきうきなんかしてない！",
@@ -171,7 +179,8 @@
         "id": "LB/WE21-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE21-10": {
     "name": "出店めぐり 葉留佳",
@@ -189,7 +198,8 @@
         "id": "LB/WE21-10",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE21-11": {
     "name": "巫女神楽 佳奈多",
@@ -207,7 +217,8 @@
         "id": "LB/WE21-11",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE21-12": {
     "name": "夜空の大輪 鈴",
@@ -225,7 +236,8 @@
         "id": "LB/WE21-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE21-13": {
     "name": "枕できゃっちぼーる クド",
@@ -243,7 +255,8 @@
         "id": "LB/WE21-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE21-14": {
     "name": "秘密の自主練 佐々美",
@@ -261,7 +274,8 @@
         "id": "LB/WE21-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE21-15": {
     "name": "れっつ・ぷれい・べーすぼーる！ クド",
@@ -279,7 +293,8 @@
         "id": "LB/WE21-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE21-16": {
     "name": "母娘の夢",
@@ -297,7 +312,8 @@
         "id": "LB/WE21-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE21-17": {
     "name": "予告ホームラン 沙耶",
@@ -319,7 +335,8 @@
         "id": "LB/WE21-17SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE21-18": {
     "name": "妄想ウェディング 理樹",
@@ -341,7 +358,8 @@
         "id": "LB/WE21-18SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE21-19": {
     "name": "特盛カツ丼！ 真人",
@@ -363,7 +381,8 @@
         "id": "LB/WE21-19SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE21-20": {
     "name": "イージスの盾！？ 葉留佳",
@@ -381,7 +400,8 @@
         "id": "LB/WE21-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE21-21": {
     "name": "デイト・ラヴァーズ 佳奈多",
@@ -399,7 +419,8 @@
         "id": "LB/WE21-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE21-22": {
     "name": "男子禁制 唯湖",
@@ -417,7 +438,8 @@
         "id": "LB/WE21-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE21-23": {
     "name": "敏腕プロデューサー 美魚",
@@ -435,7 +457,8 @@
         "id": "LB/WE21-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE21-24": {
     "name": "変わらないうた、変わらないそら 美魚",
@@ -453,7 +476,8 @@
         "id": "LB/WE21-24",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE21-25": {
     "name": "破顔十笑 謙吾",
@@ -475,7 +499,8 @@
         "id": "LB/WE21-25SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE21-26": {
     "name": "炎の熱血鬼コーチ 恭介",
@@ -493,7 +518,8 @@
         "id": "LB/WE21-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE21-27": {
     "name": "はっぴー・はろうぃーん！ クド",
@@ -511,7 +537,8 @@
         "id": "LB/WE21-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE21-28": {
     "name": "エーススナイパー沙耶",
@@ -529,7 +556,8 @@
         "id": "LB/WE21-28",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/WE21-29": {
     "name": "天体観測 小毬",
@@ -547,7 +575,8 @@
         "id": "LB/WE21-29",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/WE21-30": {
     "name": "twinkle starlights",
@@ -565,6 +594,7 @@
         "id": "LB/WE21-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

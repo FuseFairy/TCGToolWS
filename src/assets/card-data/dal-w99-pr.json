@@ -19,7 +19,8 @@
         "id": "DAL/W99-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-P02": {
     "name": "誓った復讐 折紙",
@@ -37,7 +38,8 @@
         "id": "DAL/W99-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-P03": {
     "name": "興味深いこと 狂三",
@@ -55,7 +57,8 @@
         "id": "DAL/W99-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-P04": {
     "name": "しろくろメイド 狂三",
@@ -77,7 +80,8 @@
         "id": "DAL/W99-P04b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-P05": {
     "name": "しろくろメイド 折紙",
@@ -99,7 +103,8 @@
         "id": "DAL/W99-P05b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-P06": {
     "name": "しろくろメイド 十香",
@@ -121,7 +126,8 @@
         "id": "DAL/W99-P06b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-101": {
     "name": "デレさせドーム 夕弦&耶倶矢",
@@ -139,7 +145,8 @@
         "id": "DAL/W99-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-102": {
     "name": "デレさせドーム 琴里",
@@ -157,7 +164,8 @@
         "id": "DAL/W99-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-103": {
     "name": "デレさせドーム 七罪",
@@ -175,7 +183,8 @@
         "id": "DAL/W99-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W99-104": {
     "name": "デレさせドーム 十香",
@@ -193,7 +202,8 @@
         "id": "DAL/W99-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W99-105": {
     "name": "デレさせドーム 美九",
@@ -211,6 +221,7 @@
         "id": "DAL/W99-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

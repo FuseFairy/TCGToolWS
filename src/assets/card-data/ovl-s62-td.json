@@ -15,7 +15,8 @@
         "id": "OVL/S62-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-T02": {
     "name": "第6階層の守護者 アウラ",
@@ -33,7 +34,8 @@
         "id": "OVL/S62-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-T03": {
     "name": "権謀の悪魔 デミウルゴス",
@@ -51,7 +53,8 @@
         "id": "OVL/S62-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-T04": {
     "name": "お昼ご飯の時間 アウラ",
@@ -69,7 +72,8 @@
         "id": "OVL/S62-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-T05": {
     "name": "無垢なる悪意 マーレ",
@@ -87,7 +91,8 @@
         "id": "OVL/S62-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-T06": {
     "name": "ナザリック地下大墳墓の執事 セバス",
@@ -105,7 +110,8 @@
         "id": "OVL/S62-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-T07": {
     "name": "第7階層の守護者 デミウルゴス",
@@ -123,7 +129,8 @@
         "id": "OVL/S62-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-T08": {
     "name": "第5階層の守護者 コキュートス",
@@ -141,7 +148,8 @@
         "id": "OVL/S62-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-T09": {
     "name": "無窮の献身 アルベド",
@@ -163,7 +171,8 @@
         "id": "OVL/S62-T09SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-T10": {
     "name": "忠誠の儀",
@@ -181,7 +190,8 @@
         "id": "OVL/S62-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "OVL/S62-T11": {
     "name": "終わりと始まり モモンガ",
@@ -199,7 +209,8 @@
         "id": "OVL/S62-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-T12": {
     "name": "守護者統括 アルベド",
@@ -221,7 +232,8 @@
         "id": "OVL/S62-T12R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-T13": {
     "name": "第1～3階層の守護者 シャルティア",
@@ -239,7 +251,8 @@
         "id": "OVL/S62-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-T14": {
     "name": "慈悲深い統治者 アインズ",
@@ -261,7 +274,8 @@
         "id": "OVL/S62-T14R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-T15": {
     "name": "終わりと始まり アルベド",
@@ -279,7 +293,8 @@
         "id": "OVL/S62-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-T16": {
     "name": "深紅の蹂躙者 シャルティア",
@@ -301,7 +316,8 @@
         "id": "OVL/S62-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-T17": {
     "name": "死の支配者 アインズ",
@@ -327,7 +343,8 @@
         "id": "OVL/S62-T17SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-T18": {
     "name": "リング・オブ・アインズ・ウール・ゴウン",
@@ -345,7 +362,8 @@
         "id": "OVL/S62-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-T19": {
     "name": "終幕の時",
@@ -367,7 +385,8 @@
         "id": "OVL/S62-T19S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-T20": {
     "name": "スタッフ・オブ・アインズ・ウール・ゴウン",
@@ -385,6 +404,7 @@
         "id": "OVL/S62-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

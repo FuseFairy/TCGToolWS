@@ -19,7 +19,8 @@
         "id": "MR/W80-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-T02": {
     "name": "鎖の魔女探し レナ",
@@ -37,7 +38,8 @@
         "id": "MR/W80-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-T03": {
     "name": "助け合い ももこ",
@@ -55,7 +57,8 @@
         "id": "MR/W80-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-T04": {
     "name": "再会 レナ",
@@ -73,7 +76,8 @@
         "id": "MR/W80-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-T05": {
     "name": "夕暮れの帰り道 ももこ",
@@ -91,7 +95,8 @@
         "id": "MR/W80-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-T06": {
     "name": "再会 かえで",
@@ -109,7 +114,8 @@
         "id": "MR/W80-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-T07": {
     "name": "魔女に追われるかえで",
@@ -127,7 +133,8 @@
         "id": "MR/W80-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-T08": {
     "name": "仲直り レナ",
@@ -145,7 +152,8 @@
         "id": "MR/W80-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-T09": {
     "name": "メンバーのまとめ役 ももこ",
@@ -167,7 +175,8 @@
         "id": "MR/W80-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-T10": {
     "name": "絶交階段",
@@ -185,7 +194,8 @@
         "id": "MR/W80-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-T11": {
     "name": "神浜の三人チーム",
@@ -203,7 +213,8 @@
         "id": "MR/W80-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-T12": {
     "name": "自己紹介 いろは",
@@ -225,7 +236,8 @@
         "id": "MR/W80-T12S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-T13": {
     "name": "窮地の加勢 やちよ",
@@ -243,7 +255,8 @@
         "id": "MR/W80-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-T14": {
     "name": "ベテラン魔法少女 やちよ",
@@ -265,7 +278,8 @@
         "id": "MR/W80-T14SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-T15": {
     "name": "決意の屋上 いろは",
@@ -287,7 +301,8 @@
         "id": "MR/W80-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-T16": {
     "name": "ひと休み いろは",
@@ -305,7 +320,8 @@
         "id": "MR/W80-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-T17": {
     "name": "神浜西のテリトリー やちよ",
@@ -323,7 +339,8 @@
         "id": "MR/W80-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-T18": {
     "name": "“魔法少女のその噂”いろは",
@@ -345,7 +362,8 @@
         "id": "MR/W80-T18SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W80-T19": {
     "name": "叶えたい願い",
@@ -367,7 +385,8 @@
         "id": "MR/W80-T19S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W80-T20": {
     "name": "噂を追う少女",
@@ -385,6 +404,7 @@
         "id": "MR/W80-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

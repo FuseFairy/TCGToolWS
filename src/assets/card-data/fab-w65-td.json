@@ -15,7 +15,8 @@
         "id": "Fab/W65-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fab/W65-T08": {
     "name": "メープルキッチン ラティファ",
@@ -33,6 +34,7 @@
         "id": "Fab/W65-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -19,7 +19,8 @@
         "id": "RKN/S115-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-T02": {
     "name": "友が為に道を正す 緋村剣心",
@@ -41,7 +42,8 @@
         "id": "RKN/S115-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-T03": {
     "name": "飛び入り参戦 相楽左之助",
@@ -63,7 +65,8 @@
         "id": "RKN/S115-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-T04": {
     "name": "おいしいと言ってもらうために 神谷 薫",
@@ -85,7 +88,8 @@
         "id": "RKN/S115-T04R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-T05": {
     "name": "“神谷活心流”師範代 神谷 薫",
@@ -107,7 +111,8 @@
         "id": "RKN/S115-T05SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-T06": {
     "name": "“斬左” 相楽左之助",
@@ -129,7 +134,8 @@
         "id": "RKN/S115-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-T07": {
     "name": "秋空の下の鍛錬 明神弥彦",
@@ -151,7 +157,8 @@
         "id": "RKN/S115-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-T08": {
     "name": "友への義のために 相楽左之助",
@@ -173,7 +180,8 @@
         "id": "RKN/S115-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-T09": {
     "name": "確固たる決意 相楽左之助",
@@ -195,7 +203,8 @@
         "id": "RKN/S115-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-T10": {
     "name": "そして再び流れ行く",
@@ -217,7 +226,8 @@
         "id": "RKN/S115-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-T11": {
     "name": "十年の想いを乗せて",
@@ -239,7 +249,8 @@
         "id": "RKN/S115-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RKN/S115-T12": {
     "name": "放浪の剣客",
@@ -261,7 +272,8 @@
         "id": "RKN/S115-T12R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RKN/S115-T13": {
     "name": "流浪人 緋村剣心",
@@ -287,7 +299,8 @@
         "id": "RKN/S115-T13SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-T14": {
     "name": "お見通し 明神弥彦",
@@ -309,7 +322,8 @@
         "id": "RKN/S115-T14R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-T15": {
     "name": "襲い来る不安 神谷 薫",
@@ -331,7 +345,8 @@
         "id": "RKN/S115-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-T16": {
     "name": "士族としての誇り 明神弥彦",
@@ -353,7 +368,8 @@
         "id": "RKN/S115-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RKN/S115-T17": {
     "name": "家事手伝い 緋村剣心",
@@ -375,7 +391,8 @@
         "id": "RKN/S115-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-T18": {
     "name": "皆の帰りを待つ 神谷 薫",
@@ -397,7 +414,8 @@
         "id": "RKN/S115-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-T19": {
     "name": "黄昏時の決意 明神弥彦",
@@ -419,7 +437,8 @@
         "id": "RKN/S115-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-T20": {
     "name": "抜刀術の構え 緋村剣心",
@@ -441,7 +460,8 @@
         "id": "RKN/S115-T20R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-T21": {
     "name": "生死分ける刹那の抜刀",
@@ -463,6 +483,7 @@
         "id": "RKN/S115-T21R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -19,7 +19,8 @@
         "id": "BAV/W112-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-002": {
     "name": "白洲アズサ",
@@ -41,7 +42,8 @@
         "id": "BAV/W112-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-003": {
     "name": "聖園ミカ",
@@ -63,7 +65,8 @@
         "id": "BAV/W112-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-004": {
     "name": "阿慈谷ヒフミ（水着）",
@@ -85,7 +88,8 @@
         "id": "BAV/W112-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-005": {
     "name": "桐藤ナギサ",
@@ -107,7 +111,8 @@
         "id": "BAV/W112-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-006": {
     "name": "古関ウイ",
@@ -129,7 +134,8 @@
         "id": "BAV/W112-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-007": {
     "name": "伊落マリー（体操服）",
@@ -151,7 +157,8 @@
         "id": "BAV/W112-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-008": {
     "name": "静山マシロ（水着）",
@@ -173,7 +180,8 @@
         "id": "BAV/W112-008SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-009": {
     "name": "若葉ヒナタ",
@@ -195,7 +203,8 @@
         "id": "BAV/W112-009SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-010": {
     "name": "下江コハル",
@@ -217,7 +226,8 @@
         "id": "BAV/W112-010SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-011": {
     "name": "歌住サクラコ",
@@ -239,7 +249,8 @@
         "id": "BAV/W112-011SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-012": {
     "name": "静山マシロ",
@@ -261,7 +272,8 @@
         "id": "BAV/W112-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-013": {
     "name": "鷲見セリナ（クリスマス）",
@@ -283,7 +295,8 @@
         "id": "BAV/W112-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-014": {
     "name": "羽川ハスミ",
@@ -305,7 +318,8 @@
         "id": "BAV/W112-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-015": {
     "name": "守月スズミ",
@@ -327,7 +341,8 @@
         "id": "BAV/W112-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-016": {
     "name": "杏山カズサ",
@@ -349,7 +364,8 @@
         "id": "BAV/W112-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-017": {
     "name": "円堂シミコ",
@@ -371,7 +387,8 @@
         "id": "BAV/W112-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-018": {
     "name": "白洲アズサ（水着）",
@@ -393,7 +410,8 @@
         "id": "BAV/W112-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-019": {
     "name": "若葉ヒナタ（水着）",
@@ -415,7 +433,8 @@
         "id": "BAV/W112-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-020": {
     "name": "剣先ツルギ",
@@ -437,7 +456,8 @@
         "id": "BAV/W112-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-021": {
     "name": "古関ウイ（水着）",
@@ -459,7 +479,8 @@
         "id": "BAV/W112-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-022": {
     "name": "伊落マリー",
@@ -481,7 +502,8 @@
         "id": "BAV/W112-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-023": {
     "name": "鷲見セリナ",
@@ -503,7 +525,8 @@
         "id": "BAV/W112-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-024": {
     "name": "浦和ハナコ",
@@ -525,7 +548,8 @@
         "id": "BAV/W112-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-025": {
     "name": "伊原木ヨシミ",
@@ -547,7 +571,8 @@
         "id": "BAV/W112-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-026": {
     "name": "宇沢レイサ",
@@ -569,7 +594,8 @@
         "id": "BAV/W112-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-027": {
     "name": "阿慈谷ヒフミ",
@@ -591,7 +617,8 @@
         "id": "BAV/W112-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-028": {
     "name": "朝顔ハナエ（クリスマス）",
@@ -613,7 +640,8 @@
         "id": "BAV/W112-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-029": {
     "name": "栗村アイリ",
@@ -635,7 +663,8 @@
         "id": "BAV/W112-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-030": {
     "name": "柚鳥ナツ",
@@ -657,7 +686,8 @@
         "id": "BAV/W112-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-031": {
     "name": "朝顔ハナエ",
@@ -679,7 +709,8 @@
         "id": "BAV/W112-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-032": {
     "name": "蒼森ミネ",
@@ -701,7 +732,8 @@
         "id": "BAV/W112-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-033": {
     "name": "ティーパーティー",
@@ -723,7 +755,8 @@
         "id": "BAV/W112-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-034": {
     "name": "et omnia vanitas",
@@ -745,7 +778,8 @@
         "id": "BAV/W112-034R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-035": {
     "name": "夏空のウィッシュリスト",
@@ -767,7 +801,8 @@
         "id": "BAV/W112-035R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-036": {
     "name": "どたばたシスターと古書館の魔術師",
@@ -789,7 +824,8 @@
         "id": "BAV/W112-036R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BAV/W112-037": {
     "name": "シスターフッド",
@@ -811,7 +847,8 @@
         "id": "BAV/W112-037R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-038": {
     "name": "月雪ミヤコ（水着）",
@@ -833,7 +870,8 @@
         "id": "BAV/W112-038SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-039": {
     "name": "水羽ミモリ（水着）",
@@ -855,7 +893,8 @@
         "id": "BAV/W112-039SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-040": {
     "name": "久田イズナ",
@@ -877,7 +916,8 @@
         "id": "BAV/W112-040SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-041": {
     "name": "狐坂ワカモ",
@@ -899,7 +939,8 @@
         "id": "BAV/W112-041SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-042": {
     "name": "和楽チセ（水着）",
@@ -921,7 +962,8 @@
         "id": "BAV/W112-042SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-043": {
     "name": "尾刃カンナ",
@@ -943,7 +985,8 @@
         "id": "BAV/W112-043SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-044": {
     "name": "桑上カホ",
@@ -965,7 +1008,8 @@
         "id": "BAV/W112-044SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-045": {
     "name": "春原ココナ",
@@ -987,7 +1031,8 @@
         "id": "BAV/W112-045SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-046": {
     "name": "空井サキ（水着）",
@@ -1009,7 +1054,8 @@
         "id": "BAV/W112-046SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-047": {
     "name": "春原シュン",
@@ -1031,7 +1077,8 @@
         "id": "BAV/W112-047SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-048": {
     "name": "錠前サオリ",
@@ -1053,7 +1100,8 @@
         "id": "BAV/W112-048SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-049": {
     "name": "槌永ヒヨリ",
@@ -1075,7 +1123,8 @@
         "id": "BAV/W112-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-050": {
     "name": "大野ツクヨ",
@@ -1097,7 +1146,8 @@
         "id": "BAV/W112-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-051": {
     "name": "風倉モエ",
@@ -1119,7 +1169,8 @@
         "id": "BAV/W112-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-052": {
     "name": "久田イズナ（水着）",
@@ -1141,7 +1192,8 @@
         "id": "BAV/W112-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-053": {
     "name": "勇美カエデ",
@@ -1163,7 +1215,8 @@
         "id": "BAV/W112-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-054": {
     "name": "朱城ルミ",
@@ -1185,7 +1238,8 @@
         "id": "BAV/W112-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-055": {
     "name": "薬子サヤ（私服）",
@@ -1207,7 +1261,8 @@
         "id": "BAV/W112-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-056": {
     "name": "春日ツバキ",
@@ -1229,7 +1284,8 @@
         "id": "BAV/W112-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-057": {
     "name": "水羽ミモリ",
@@ -1251,7 +1307,8 @@
         "id": "BAV/W112-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-058": {
     "name": "秤アツコ",
@@ -1273,7 +1330,8 @@
         "id": "BAV/W112-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-059": {
     "name": "春原シュン（幼女）",
@@ -1295,7 +1353,8 @@
         "id": "BAV/W112-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-060": {
     "name": "和楽チセ",
@@ -1317,7 +1376,8 @@
         "id": "BAV/W112-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-061": {
     "name": "狐坂ワカモ（水着）",
@@ -1339,7 +1399,8 @@
         "id": "BAV/W112-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-062": {
     "name": "薬子サヤ",
@@ -1361,7 +1422,8 @@
         "id": "BAV/W112-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-063": {
     "name": "合歓垣フブキ",
@@ -1383,7 +1445,8 @@
         "id": "BAV/W112-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-064": {
     "name": "近衛ミナ",
@@ -1405,7 +1468,8 @@
         "id": "BAV/W112-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-065": {
     "name": "戒野ミサキ",
@@ -1427,7 +1491,8 @@
         "id": "BAV/W112-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-066": {
     "name": "霞沢ミユ",
@@ -1449,7 +1514,8 @@
         "id": "BAV/W112-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-067": {
     "name": "千鳥ミチル",
@@ -1471,7 +1537,8 @@
         "id": "BAV/W112-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-068": {
     "name": "中務キリノ",
@@ -1493,7 +1560,8 @@
         "id": "BAV/W112-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-069": {
     "name": "空井サキ",
@@ -1515,7 +1583,8 @@
         "id": "BAV/W112-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-070": {
     "name": "河和シズコ",
@@ -1537,7 +1606,8 @@
         "id": "BAV/W112-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-071": {
     "name": "月雪ミヤコ",
@@ -1559,7 +1629,8 @@
         "id": "BAV/W112-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-072": {
     "name": "朝比奈フィーナ",
@@ -1581,7 +1652,8 @@
         "id": "BAV/W112-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-073": {
     "name": "ネバーランドでつかまえて",
@@ -1603,7 +1675,8 @@
         "id": "BAV/W112-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-074": {
     "name": "桜花爛漫お祭り騒ぎ！",
@@ -1625,7 +1698,8 @@
         "id": "BAV/W112-074R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-075": {
     "name": "災厄の狐",
@@ -1647,7 +1721,8 @@
         "id": "BAV/W112-075R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-076": {
     "name": "アリウススクワッド",
@@ -1669,7 +1744,8 @@
         "id": "BAV/W112-076R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BAV/W112-077": {
     "name": "連河チェリノ",
@@ -1691,7 +1767,8 @@
         "id": "BAV/W112-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-078": {
     "name": "陸八魔アル",
@@ -1713,7 +1790,8 @@
         "id": "BAV/W112-078SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-079": {
     "name": "空崎ヒナ（水着）",
@@ -1735,7 +1813,8 @@
         "id": "BAV/W112-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-080": {
     "name": "鬼方カヨコ（正月）",
@@ -1757,7 +1836,8 @@
         "id": "BAV/W112-080SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-081": {
     "name": "銀鏡イオリ（水着）",
@@ -1779,7 +1859,8 @@
         "id": "BAV/W112-081SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-082": {
     "name": "安守ミノリ",
@@ -1801,7 +1882,8 @@
         "id": "BAV/W112-082SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-083": {
     "name": "浅黄ムツキ（正月）",
@@ -1823,7 +1905,8 @@
         "id": "BAV/W112-083SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-084": {
     "name": "愛清フウカ（正月）",
@@ -1845,7 +1928,8 @@
         "id": "BAV/W112-084SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-085": {
     "name": "黒舘ハルナ",
@@ -1867,7 +1951,8 @@
         "id": "BAV/W112-085SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-086": {
     "name": "棗イロハ",
@@ -1889,7 +1974,8 @@
         "id": "BAV/W112-086SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-087": {
     "name": "天雨アコ",
@@ -1911,7 +1997,8 @@
         "id": "BAV/W112-087SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-088": {
     "name": "伊草ハルカ（正月）",
@@ -1933,7 +2020,8 @@
         "id": "BAV/W112-088SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-089": {
     "name": "火宮チナツ（温泉）",
@@ -1955,7 +2043,8 @@
         "id": "BAV/W112-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-090": {
     "name": "天見ノドカ（温泉）",
@@ -1977,7 +2066,8 @@
         "id": "BAV/W112-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-091": {
     "name": "池倉マリナ",
@@ -1999,7 +2089,8 @@
         "id": "BAV/W112-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-092": {
     "name": "間宵シグレ",
@@ -2021,7 +2112,8 @@
         "id": "BAV/W112-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-093": {
     "name": "陸八魔アル（正月）",
@@ -2043,7 +2135,8 @@
         "id": "BAV/W112-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-094": {
     "name": "黒舘ハルナ（正月）",
@@ -2065,7 +2158,8 @@
         "id": "BAV/W112-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-095": {
     "name": "氷室セナ",
@@ -2087,7 +2181,8 @@
         "id": "BAV/W112-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-096": {
     "name": "獅子堂イズミ",
@@ -2109,7 +2204,8 @@
         "id": "BAV/W112-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-097": {
     "name": "佐城トモエ",
@@ -2131,7 +2227,8 @@
         "id": "BAV/W112-097S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-098": {
     "name": "銀鏡イオリ",
@@ -2153,7 +2250,8 @@
         "id": "BAV/W112-098S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-099": {
     "name": "鬼方カヨコ",
@@ -2175,7 +2273,8 @@
         "id": "BAV/W112-099S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-100": {
     "name": "連河チェリノ（温泉）",
@@ -2197,7 +2296,8 @@
         "id": "BAV/W112-100S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-101": {
     "name": "愛清フウカ",
@@ -2219,7 +2319,8 @@
         "id": "BAV/W112-101S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-102": {
     "name": "下倉メグ",
@@ -2241,7 +2342,8 @@
         "id": "BAV/W112-102S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-103": {
     "name": "風紀委員会",
@@ -2263,7 +2365,8 @@
         "id": "BAV/W112-103S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-104": {
     "name": "便利屋68",
@@ -2285,7 +2388,8 @@
         "id": "BAV/W112-104R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-105": {
     "name": "ハルナぁっ！もう車は良いから降ろして――っ！？",
@@ -2307,7 +2411,8 @@
         "id": "BAV/W112-105R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-106": {
     "name": "227号温泉郷の運営記録！",
@@ -2329,7 +2434,8 @@
         "id": "BAV/W112-106R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-107": {
     "name": "明星ヒマリ",
@@ -2351,7 +2457,8 @@
         "id": "BAV/W112-107SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-108": {
     "name": "飛鳥馬トキ",
@@ -2373,7 +2480,8 @@
         "id": "BAV/W112-108SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-109": {
     "name": "早瀬ユウカ（体操服）",
@@ -2395,7 +2503,8 @@
         "id": "BAV/W112-109SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-110": {
     "name": "小鳥遊ホシノ（水着）",
@@ -2417,7 +2526,8 @@
         "id": "BAV/W112-110SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-111": {
     "name": "生塩ノア",
@@ -2439,7 +2549,8 @@
         "id": "BAV/W112-111SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-112": {
     "name": "才羽モモイ",
@@ -2461,7 +2572,8 @@
         "id": "BAV/W112-112SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-113": {
     "name": "才羽ミドリ",
@@ -2483,7 +2595,8 @@
         "id": "BAV/W112-113SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-114": {
     "name": "砂狼シロコ（水着）",
@@ -2505,7 +2618,8 @@
         "id": "BAV/W112-114SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-115": {
     "name": "一之瀬アスナ（バニーガール）",
@@ -2527,7 +2641,8 @@
         "id": "BAV/W112-115SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-116": {
     "name": "美甘ネル",
@@ -2549,7 +2664,8 @@
         "id": "BAV/W112-116SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-117": {
     "name": "天童アリス",
@@ -2571,7 +2687,8 @@
         "id": "BAV/W112-117SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-118": {
     "name": "黒見セリカ（正月）",
@@ -2593,7 +2710,8 @@
         "id": "BAV/W112-118S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-119": {
     "name": "花岡ユズ",
@@ -2615,7 +2733,8 @@
         "id": "BAV/W112-119S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-120": {
     "name": "室笠アカネ（バニーガール）",
@@ -2637,7 +2756,8 @@
         "id": "BAV/W112-120S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-121": {
     "name": "砂狼シロコ（ライディング）",
@@ -2659,7 +2779,8 @@
         "id": "BAV/W112-121S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-122": {
     "name": "飛鳥馬トキ（バニーガール）",
@@ -2681,7 +2802,8 @@
         "id": "BAV/W112-122S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-123": {
     "name": "猫塚ヒビキ",
@@ -2703,7 +2825,8 @@
         "id": "BAV/W112-123S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-124": {
     "name": "黒崎コユキ",
@@ -2725,7 +2848,8 @@
         "id": "BAV/W112-124S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-125": {
     "name": "各務チヒロ",
@@ -2747,7 +2871,8 @@
         "id": "BAV/W112-125S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-126": {
     "name": "美甘ネル（バニーガール）",
@@ -2769,7 +2894,8 @@
         "id": "BAV/W112-126S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-127": {
     "name": "白石ウタハ",
@@ -2791,7 +2917,8 @@
         "id": "BAV/W112-127S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-128": {
     "name": "小鈎ハレ",
@@ -2813,7 +2940,8 @@
         "id": "BAV/W112-128S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-129": {
     "name": "和泉元エイミ",
@@ -2835,7 +2963,8 @@
         "id": "BAV/W112-129S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-130": {
     "name": "乙花スミレ",
@@ -2857,7 +2986,8 @@
         "id": "BAV/W112-130S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-131": {
     "name": "天童アリス（メイド）",
@@ -2879,7 +3009,8 @@
         "id": "BAV/W112-131S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-132": {
     "name": "白石ウタハ（応援団）",
@@ -2901,7 +3032,8 @@
         "id": "BAV/W112-132S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-133": {
     "name": "十六夜ノノミ（水着）",
@@ -2923,7 +3055,8 @@
         "id": "BAV/W112-133S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-134": {
     "name": "小塗マキ",
@@ -2945,7 +3078,8 @@
         "id": "BAV/W112-134S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-135": {
     "name": "室笠アカネ",
@@ -2967,7 +3101,8 @@
         "id": "BAV/W112-135S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-136": {
     "name": "角楯カリン",
@@ -2989,7 +3124,8 @@
         "id": "BAV/W112-136S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-137": {
     "name": "角楯カリン（バニーガール）",
@@ -3011,7 +3147,8 @@
         "id": "BAV/W112-137S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-138": {
     "name": "ゲーム開発部",
@@ -3033,7 +3170,8 @@
         "id": "BAV/W112-138S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-139": {
     "name": "アビドスリゾート復旧対策委員会",
@@ -3055,7 +3193,8 @@
         "id": "BAV/W112-139R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-140": {
     "name": "キヴォトス晄輪大祭",
@@ -3077,7 +3216,8 @@
         "id": "BAV/W112-140R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-141": {
     "name": "Cleaning & Clearing",
@@ -3099,7 +3239,8 @@
         "id": "BAV/W112-141R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-142": {
     "name": "友情と勇気と光のロマン",
@@ -3121,6 +3262,7 @@
         "id": "BAV/W112-142R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

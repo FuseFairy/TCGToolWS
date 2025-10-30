@@ -19,7 +19,8 @@
         "id": "KMD/W96-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMD/W96-T02": {
     "name": "恋路の応援 カンナ",
@@ -41,7 +42,8 @@
         "id": "KMD/W96-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMD/W96-T03": {
     "name": "プールサイドの誘惑 トール",
@@ -63,7 +65,8 @@
         "id": "KMD/W96-T03SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMD/W96-T04": {
     "name": "拾い食い カンナ",
@@ -85,7 +88,8 @@
         "id": "KMD/W96-T04R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMD/W96-T05": {
     "name": "自称最強メイド トール",
@@ -107,7 +111,8 @@
         "id": "KMD/W96-T05OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMD/W96-T06": {
     "name": "思春期の到来 イルル",
@@ -129,7 +134,8 @@
         "id": "KMD/W96-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMD/W96-T07": {
     "name": "モデルポーズ ルコア",
@@ -151,7 +157,8 @@
         "id": "KMD/W96-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMD/W96-T08": {
     "name": "あなただけの専属メイド トール",
@@ -173,7 +180,8 @@
         "id": "KMD/W96-T08S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMD/W96-T09": {
     "name": "見返り和装 カンナ",
@@ -195,7 +203,8 @@
         "id": "KMD/W96-T09OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMD/W96-T10": {
     "name": "最高の思い出作り",
@@ -217,7 +226,8 @@
         "id": "KMD/W96-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMD/W96-T11": {
     "name": "あなたと見た景色",
@@ -239,7 +249,8 @@
         "id": "KMD/W96-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KMD/W96-T12": {
     "name": "至福の時間 小林さん",
@@ -261,7 +272,8 @@
         "id": "KMD/W96-T12R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMD/W96-T13": {
     "name": "平穏な日常生活 小林さん",
@@ -283,7 +295,8 @@
         "id": "KMD/W96-T13R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMD/W96-T14": {
     "name": "聖海の巫女 エルマ",
@@ -305,7 +318,8 @@
         "id": "KMD/W96-T14R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMD/W96-T15": {
     "name": "はじめてのパソコン エルマ",
@@ -327,7 +341,8 @@
         "id": "KMD/W96-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMD/W96-T16": {
     "name": "友のために 小林さん",
@@ -349,7 +364,8 @@
         "id": "KMD/W96-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMD/W96-T17": {
     "name": "参戦！ ファフニール",
@@ -371,7 +387,8 @@
         "id": "KMD/W96-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMD/W96-T18": {
     "name": "調和勢 エルマ",
@@ -393,7 +410,8 @@
         "id": "KMD/W96-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMD/W96-T19": {
     "name": "信頼のハイタッチ",
@@ -415,7 +433,8 @@
         "id": "KMD/W96-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMD/W96-T20": {
     "name": "ドタバタショッピング",
@@ -437,6 +456,7 @@
         "id": "KMD/W96-T20R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

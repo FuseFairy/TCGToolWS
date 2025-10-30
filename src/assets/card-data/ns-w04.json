@@ -19,7 +19,8 @@
         "id": "NS/W04-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-002": {
     "name": "“真ソニックフォーム”フェイト",
@@ -41,7 +42,8 @@
         "id": "NS/W04-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-003": {
     "name": "槍騎士見習いエリオ",
@@ -59,7 +61,8 @@
         "id": "NS/W04-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-004": {
     "name": "竜召喚士キャロ",
@@ -77,7 +80,8 @@
         "id": "NS/W04-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-005": {
     "name": "キャロ＆フリードリヒ",
@@ -95,7 +99,8 @@
         "id": "NS/W04-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-006": {
     "name": "なのは＆フェイト",
@@ -117,7 +122,8 @@
         "id": "NS/W04-006R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-007": {
     "name": "使い魔アルフ",
@@ -135,7 +141,8 @@
         "id": "NS/W04-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-008": {
     "name": "エリオ・モンディアル",
@@ -153,7 +160,8 @@
         "id": "NS/W04-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-009": {
     "name": "金の閃光フェイト",
@@ -171,7 +179,8 @@
         "id": "NS/W04-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-010": {
     "name": "烈火の将シグナム",
@@ -189,7 +198,8 @@
         "id": "NS/W04-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-011": {
     "name": "キャロ＆ヴォルテール",
@@ -207,7 +217,8 @@
         "id": "NS/W04-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-012": {
     "name": "二児の母エイミィ",
@@ -225,7 +236,8 @@
         "id": "NS/W04-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-013": {
     "name": "フェイト＆アルフ",
@@ -243,7 +255,8 @@
         "id": "NS/W04-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-014": {
     "name": "副隊長シグナム",
@@ -261,7 +274,8 @@
         "id": "NS/W04-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-015": {
     "name": "総務統括官リンディ",
@@ -279,7 +293,8 @@
         "id": "NS/W04-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-016": {
     "name": "クラウディア艦長クロノ",
@@ -297,7 +312,8 @@
         "id": "NS/W04-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-017": {
     "name": "シグナム＆リイン",
@@ -315,7 +331,8 @@
         "id": "NS/W04-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-018": {
     "name": "エリオ＆キャロ",
@@ -333,7 +350,8 @@
         "id": "NS/W04-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-019": {
     "name": "早朝訓練",
@@ -351,7 +369,8 @@
         "id": "NS/W04-019",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-020": {
     "name": "Ｆの遺産",
@@ -369,7 +388,8 @@
         "id": "NS/W04-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-021": {
     "name": "ちょっと一工夫してまして",
@@ -387,7 +407,8 @@
         "id": "NS/W04-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-022": {
     "name": "着地失敗",
@@ -405,7 +426,8 @@
         "id": "NS/W04-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-023": {
     "name": "迷いが晴れた時",
@@ -423,7 +445,8 @@
         "id": "NS/W04-023",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NS/W04-024": {
     "name": "龍騎招来",
@@ -445,7 +468,8 @@
         "id": "NS/W04-024SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-025": {
     "name": "火龍・一閃",
@@ -463,7 +487,8 @@
         "id": "NS/W04-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NS/W04-026": {
     "name": "センターガード ティアナ",
@@ -485,7 +510,8 @@
         "id": "NS/W04-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-027": {
     "name": "フロントアタッカー スバル",
@@ -507,7 +533,8 @@
         "id": "NS/W04-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-028": {
     "name": "スバル・ナカジマ",
@@ -525,7 +552,8 @@
         "id": "NS/W04-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-029": {
     "name": "ルーテシア・アルピーノ",
@@ -543,7 +571,8 @@
         "id": "NS/W04-029",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-030": {
     "name": "スカリエッティの秘書ウーノ",
@@ -561,7 +590,8 @@
         "id": "NS/W04-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-031": {
     "name": "ギンガ・ナカジマ",
@@ -579,7 +609,8 @@
         "id": "NS/W04-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-032": {
     "name": "ゲンヤ・ナカジマ",
@@ -597,7 +628,8 @@
         "id": "NS/W04-032",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-033": {
     "name": "刃舞う爆撃手チンク",
@@ -615,7 +647,8 @@
         "id": "NS/W04-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-034": {
     "name": "無限書庫司書長ユーノ",
@@ -633,7 +666,8 @@
         "id": "NS/W04-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-035": {
     "name": "なのは＆スバル",
@@ -651,7 +685,8 @@
         "id": "NS/W04-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-036": {
     "name": "スバル＆ティアナ",
@@ -673,7 +708,8 @@
         "id": "NS/W04-036R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-037": {
     "name": "メカニックマイスター マリエル",
@@ -691,7 +727,8 @@
         "id": "NS/W04-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-038": {
     "name": "ティアナ・ランスター",
@@ -709,7 +746,8 @@
         "id": "NS/W04-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-039": {
     "name": "狙撃する砲撃手ディエチ",
@@ -727,7 +765,8 @@
         "id": "NS/W04-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-040": {
     "name": "オットー＆ディード",
@@ -745,7 +784,8 @@
         "id": "NS/W04-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-041": {
     "name": "キャリバーズ スバル＆ギンガ",
@@ -763,7 +803,8 @@
         "id": "NS/W04-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-042": {
     "name": "ルーテシア&白天王",
@@ -781,7 +822,8 @@
         "id": "NS/W04-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-043": {
     "name": "ノーヴェ＆ウェンディ",
@@ -799,7 +841,8 @@
         "id": "NS/W04-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-044": {
     "name": "ひとりぼっちはいやだ！",
@@ -817,7 +860,8 @@
         "id": "NS/W04-044",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-045": {
     "name": "勝手にすれば？",
@@ -835,7 +879,8 @@
         "id": "NS/W04-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-046": {
     "name": "ウィングロード",
@@ -853,7 +898,8 @@
         "id": "NS/W04-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-047": {
     "name": "『練習通りです』",
@@ -871,7 +917,8 @@
         "id": "NS/W04-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-048": {
     "name": "最後の模擬戦",
@@ -889,7 +936,8 @@
         "id": "NS/W04-048",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-049": {
     "name": "ディバインバスター",
@@ -911,7 +959,8 @@
         "id": "NS/W04-049SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NS/W04-050": {
     "name": "助けに来ました！",
@@ -929,7 +978,8 @@
         "id": "NS/W04-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NS/W04-051": {
     "name": "ヴィヴィオ",
@@ -951,7 +1001,8 @@
         "id": "NS/W04-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-052": {
     "name": "“エース・オブ・エース”なのは",
@@ -973,7 +1024,8 @@
         "id": "NS/W04-052R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-053": {
     "name": "高町 ヴィヴィオ",
@@ -991,7 +1043,8 @@
         "id": "NS/W04-053",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-054": {
     "name": "幻惑の使い手クアットロ",
@@ -1009,7 +1062,8 @@
         "id": "NS/W04-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-055": {
     "name": "次元犯罪者スカリエッティ",
@@ -1027,7 +1081,8 @@
         "id": "NS/W04-055",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-056": {
     "name": "鉄槌の騎士ヴィータ",
@@ -1049,7 +1104,8 @@
         "id": "NS/W04-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-057": {
     "name": "戦闘教官ヴィータ",
@@ -1067,7 +1123,8 @@
         "id": "NS/W04-057",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-058": {
     "name": "烈火の剣精アギト",
@@ -1085,7 +1142,8 @@
         "id": "NS/W04-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-059": {
     "name": "放浪の騎士ゼスト",
@@ -1103,7 +1161,8 @@
         "id": "NS/W04-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-060": {
     "name": "高町 なのは",
@@ -1121,7 +1180,8 @@
         "id": "NS/W04-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-061": {
     "name": "聖王ヴィヴィオ",
@@ -1139,7 +1199,8 @@
         "id": "NS/W04-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-062": {
     "name": "姿偽る諜報者ドゥーエ",
@@ -1157,7 +1218,8 @@
         "id": "NS/W04-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-063": {
     "name": "潜行する密偵セイン",
@@ -1175,7 +1237,8 @@
         "id": "NS/W04-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-064": {
     "name": "戦技教導官なのは",
@@ -1193,7 +1256,8 @@
         "id": "NS/W04-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-065": {
     "name": "トーレ＆セッテ",
@@ -1211,7 +1275,8 @@
         "id": "NS/W04-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-066": {
     "name": "なのは＆ヴィヴィオ",
@@ -1229,7 +1294,8 @@
         "id": "NS/W04-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-067": {
     "name": "なのは＆ヴィータ",
@@ -1247,7 +1313,8 @@
         "id": "NS/W04-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-068": {
     "name": "ゼスト・グランガイツ",
@@ -1265,7 +1332,8 @@
         "id": "NS/W04-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-069": {
     "name": "ＷＡＳ",
@@ -1283,7 +1351,8 @@
         "id": "NS/W04-069",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-070": {
     "name": "シルバーカーテン",
@@ -1301,7 +1370,8 @@
         "id": "NS/W04-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-071": {
     "name": "ユニゾンイン",
@@ -1319,7 +1389,8 @@
         "id": "NS/W04-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-072": {
     "name": "ママ、いい子",
@@ -1337,7 +1408,8 @@
         "id": "NS/W04-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-073": {
     "name": "スターライトブレイカー",
@@ -1359,7 +1431,8 @@
         "id": "NS/W04-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NS/W04-074": {
     "name": "ぶち抜けー！",
@@ -1377,7 +1450,8 @@
         "id": "NS/W04-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-075": {
     "name": "ママと約束ね",
@@ -1395,7 +1469,8 @@
         "id": "NS/W04-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NS/W04-076": {
     "name": "“祝福の風”リインフォースＩＩ",
@@ -1417,7 +1492,8 @@
         "id": "NS/W04-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-077": {
     "name": "はやて＆リイン",
@@ -1439,7 +1515,8 @@
         "id": "NS/W04-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-078": {
     "name": "風の癒し手シャマル",
@@ -1457,7 +1534,8 @@
         "id": "NS/W04-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-079": {
     "name": "カリム・グラシア",
@@ -1475,7 +1553,8 @@
         "id": "NS/W04-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-080": {
     "name": "守護騎士シャマル＆守護獣ザフィーラ",
@@ -1493,7 +1572,8 @@
         "id": "NS/W04-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-081": {
     "name": "“最後の夜天の主”はやて",
@@ -1515,7 +1595,8 @@
         "id": "NS/W04-081R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-082": {
     "name": "メカニックデザイナー シャリオ",
@@ -1533,7 +1614,8 @@
         "id": "NS/W04-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-083": {
     "name": "通信士 アルト＆ルキノ",
@@ -1551,7 +1633,8 @@
         "id": "NS/W04-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-084": {
     "name": "リインフォースＩＩ",
@@ -1569,7 +1652,8 @@
         "id": "NS/W04-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-085": {
     "name": "猛き守護獣ザフィーラ",
@@ -1587,7 +1671,8 @@
         "id": "NS/W04-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-086": {
     "name": "ヴェロッサ＆シャッハ",
@@ -1605,7 +1690,8 @@
         "id": "NS/W04-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-087": {
     "name": "ラグナ・グランセニック",
@@ -1623,7 +1709,8 @@
         "id": "NS/W04-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-088": {
     "name": "八神 はやて",
@@ -1641,7 +1728,8 @@
         "id": "NS/W04-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-089": {
     "name": "グリフィス・ロウラン",
@@ -1659,7 +1747,8 @@
         "id": "NS/W04-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-090": {
     "name": "狙撃手ヴァイス",
@@ -1677,7 +1766,8 @@
         "id": "NS/W04-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-091": {
     "name": "査察官ヴェロッサ",
@@ -1695,7 +1785,8 @@
         "id": "NS/W04-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-092": {
     "name": "シャッハ・ヌエラ",
@@ -1713,7 +1804,8 @@
         "id": "NS/W04-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-093": {
     "name": "修道女シャッハ",
@@ -1731,7 +1823,8 @@
         "id": "NS/W04-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NS/W04-094": {
     "name": "協力してくれへんかな？",
@@ -1749,7 +1842,8 @@
         "id": "NS/W04-094",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-095": {
     "name": "アルトの誓い",
@@ -1767,7 +1861,8 @@
         "id": "NS/W04-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-096": {
     "name": "守るべきもの",
@@ -1785,7 +1880,8 @@
         "id": "NS/W04-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-097": {
     "name": "預言者の著書",
@@ -1803,7 +1899,8 @@
         "id": "NS/W04-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-098": {
     "name": "フレースヴェルグ",
@@ -1825,7 +1922,8 @@
         "id": "NS/W04-098SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NS/W04-099": {
     "name": "砕けないものなんて",
@@ -1843,7 +1941,8 @@
         "id": "NS/W04-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NS/W04-100": {
     "name": "限定解除",
@@ -1861,6 +1960,7 @@
         "id": "NS/W04-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

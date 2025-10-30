@@ -15,7 +15,8 @@
         "id": "NIK/S117-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-P02": {
     "name": "“スネークバイト”バイパー",
@@ -33,7 +34,8 @@
         "id": "NIK/S117-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-P03": {
     "name": "作戦遂行 ラピ",
@@ -51,7 +53,8 @@
         "id": "NIK/S117-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-P04": {
     "name": "ムードメーカー アニス",
@@ -69,7 +72,8 @@
         "id": "NIK/S117-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-P05": {
     "name": "ブラン：ホワイトラビット",
@@ -87,7 +91,8 @@
         "id": "NIK/S117-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-P06": {
     "name": "ノワール：ブラックラビット",
@@ -105,7 +110,8 @@
         "id": "NIK/S117-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-P07": {
     "name": "ノイズ：クラシックディーバ",
@@ -123,7 +129,8 @@
         "id": "NIK/S117-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-P08": {
     "name": "“大掃除メイド”ソーダ",
@@ -141,7 +148,8 @@
         "id": "NIK/S117-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-P09": {
     "name": "“AZX”ブリッド",
@@ -159,7 +167,8 @@
         "id": "NIK/S117-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-P10": {
     "name": "ドロシー：ノスタルジア",
@@ -177,7 +186,8 @@
         "id": "NIK/S117-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NIK/S117-P11": {
     "name": "撃ち穿つ赤い牙",
@@ -199,7 +209,8 @@
         "id": "NIK/S117-P11S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NIK/S117-P12": {
     "name": "“ラストキングダム”クラウン",
@@ -225,6 +236,7 @@
         "id": "NIK/S117-P12S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

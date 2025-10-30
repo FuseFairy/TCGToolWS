@@ -19,7 +19,8 @@
         "id": "CS/S114-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-P02": {
     "name": "オラたちの恐竜日記 しんのすけ",
@@ -37,6 +38,7 @@
         "id": "CS/S114-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

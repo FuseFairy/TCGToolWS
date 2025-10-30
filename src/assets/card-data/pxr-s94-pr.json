@@ -15,7 +15,8 @@
         "id": "PXR/S94-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S94-P02": {
     "name": "モンスターズ・インク サリー＆マイク",
@@ -37,7 +38,8 @@
         "id": "PXR/S94-P02PIR",
         "rarity": "PIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S94-101": {
     "name": "新たな旅立ち ウッディ・プライド",
@@ -55,7 +57,8 @@
         "id": "PXR/S94-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S94-102": {
     "name": "未知なる宇宙へ WALL・E",
@@ -73,7 +76,8 @@
         "id": "PXR/S94-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S94-103": {
     "name": "新たな旅立ち バズ・ライトイヤー",
@@ -91,7 +95,8 @@
         "id": "PXR/S94-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S94-104": {
     "name": "モンスターズ・ユニバーシティ マイク",
@@ -109,7 +114,8 @@
         "id": "PXR/S94-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S94-105": {
     "name": "クロスロード マックィーン＆クルーズ",
@@ -127,7 +133,8 @@
         "id": "PXR/S94-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S94-106": {
     "name": "想像を超えた冒険 Mr. インクレディブル",
@@ -145,7 +152,8 @@
         "id": "PXR/S94-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S94-107": {
     "name": "感動の冒険 ドリー",
@@ -163,7 +171,8 @@
         "id": "PXR/S94-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S94-108": {
     "name": "友情の始まり サリー＆マイク",
@@ -181,7 +190,8 @@
         "id": "PXR/S94-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S94-109": {
     "name": "奇跡の冒険 マーリン＆ドリー",
@@ -199,6 +209,7 @@
         "id": "PXR/S94-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

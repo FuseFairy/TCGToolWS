@@ -19,7 +19,8 @@
         "id": "Srd/W123-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Srd/W123-P02": {
     "name": "時々ボソッとロシア語でデレる隣のアーリャさん",
@@ -37,6 +38,7 @@
         "id": "Srd/W123-P02EX",
         "rarity": "PR+"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

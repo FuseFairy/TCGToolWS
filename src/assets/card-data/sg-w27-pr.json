@@ -15,7 +15,8 @@
         "id": "SG/W27-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-P02": {
     "name": "信じる仲間 響",
@@ -33,7 +34,8 @@
         "id": "SG/W27-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-P03": {
     "name": "黒いガングニールの少女 マリア",
@@ -51,7 +53,8 @@
         "id": "SG/W27-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-P04": {
     "name": "信じる仲間 翼",
@@ -69,7 +72,8 @@
         "id": "SG/W27-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-P05": {
     "name": "シュルシャガナの装者 調",
@@ -87,7 +91,8 @@
         "id": "SG/W27-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-P06": {
     "name": "信じる仲間 クリス",
@@ -105,7 +110,8 @@
         "id": "SG/W27-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-P07": {
     "name": "イガリマの装者 切歌",
@@ -123,7 +129,8 @@
         "id": "SG/W27-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-P08": {
     "name": "シェンショウジンの装者 未来",
@@ -141,7 +148,8 @@
         "id": "SG/W27-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-P09": {
     "name": "信じる胸の歌 響",
@@ -159,7 +167,8 @@
         "id": "SG/W27-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-P10": {
     "name": "温泉で一息 調",
@@ -177,7 +186,8 @@
         "id": "SG/W27-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-101": {
     "name": "温泉で一息 響",
@@ -195,7 +205,8 @@
         "id": "SG/W27-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-102": {
     "name": "温泉で一息 クリス",
@@ -213,7 +224,8 @@
         "id": "SG/W27-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W27-103": {
     "name": "温泉で一息 マリア",
@@ -231,7 +243,8 @@
         "id": "SG/W27-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W27-104": {
     "name": "温泉で一息 翼",
@@ -249,6 +262,7 @@
         "id": "SG/W27-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

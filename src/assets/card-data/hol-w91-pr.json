@@ -15,7 +15,8 @@
         "id": "HOL/W91-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-P03": {
     "name": "ゆびゆび～ 戌神ころね",
@@ -33,7 +34,8 @@
         "id": "HOL/W91-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-P04": {
     "name": "#花咲くホロライブ",
@@ -51,7 +53,8 @@
         "id": "HOL/W91-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-P05": {
     "name": "一緒にファイト♪ ときのそら&獅白ぼたん",
@@ -69,7 +72,8 @@
         "id": "HOL/W91-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-P06": {
     "name": "こんばんみぉーん！ 大神ミオ",
@@ -87,7 +91,8 @@
         "id": "HOL/W91-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-P07": {
     "name": "一緒にファイト♪ 潤羽るしあ&兎田ぺこら&宝鐘マリン",
@@ -105,7 +110,8 @@
         "id": "HOL/W91-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-145": {
     "name": "ひと夏の恋",
@@ -127,7 +133,8 @@
         "id": "HOL/W91-145S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-146": {
     "name": "Summer memory",
@@ -149,7 +156,8 @@
         "id": "HOL/W91-146S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-147": {
     "name": "おうちデート",
@@ -171,7 +179,8 @@
         "id": "HOL/W91-147S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-148": {
     "name": "雪の降る街で",
@@ -193,7 +202,8 @@
         "id": "HOL/W91-148S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-149": {
     "name": "桐生会へようこそ",
@@ -215,7 +225,8 @@
         "id": "HOL/W91-149S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-150": {
     "name": "幸せのフルーツタルト",
@@ -237,7 +248,8 @@
         "id": "HOL/W91-150S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-151": {
     "name": "青空のシンフォニー",
@@ -259,7 +271,8 @@
         "id": "HOL/W91-151S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-152": {
     "name": "オンステージ!",
@@ -281,7 +294,8 @@
         "id": "HOL/W91-152S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-153": {
     "name": "可能性のキツネ",
@@ -303,7 +317,8 @@
         "id": "HOL/W91-153S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-154": {
     "name": "私だけを見て",
@@ -325,7 +340,8 @@
         "id": "HOL/W91-154S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-155": {
     "name": "流星の空",
@@ -347,7 +363,8 @@
         "id": "HOL/W91-155S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-156": {
     "name": "僕の秘密のお腹を触ってみますか？",
@@ -369,7 +386,8 @@
         "id": "HOL/W91-156S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-157": {
     "name": "今日だけはこのまま…",
@@ -391,7 +409,8 @@
         "id": "HOL/W91-157S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "HOL/W91-158": {
     "name": "小悪魔な瞳",
@@ -413,7 +432,8 @@
         "id": "HOL/W91-158S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-159": {
     "name": "あま～いお菓子のお姫様",
@@ -435,7 +455,8 @@
         "id": "HOL/W91-159S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "HOL/W91-160": {
     "name": "自然との共生",
@@ -457,7 +478,8 @@
         "id": "HOL/W91-160S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-161": {
     "name": "35Pとの待ち合わせ",
@@ -479,7 +501,8 @@
         "id": "HOL/W91-161S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-162": {
     "name": "先輩へ愛をこめて",
@@ -501,7 +524,8 @@
         "id": "HOL/W91-162S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-163": {
     "name": "一緒にお祝い",
@@ -523,7 +547,8 @@
         "id": "HOL/W91-163S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-164": {
     "name": "悪魔サンタのプレゼント",
@@ -545,7 +570,8 @@
         "id": "HOL/W91-164S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-165": {
     "name": "魅惑の視線",
@@ -567,7 +593,8 @@
         "id": "HOL/W91-165S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-166": {
     "name": "いざ夢のステージへ",
@@ -589,7 +616,8 @@
         "id": "HOL/W91-166S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-167": {
     "name": "降り注ぐ日差し",
@@ -611,7 +639,8 @@
         "id": "HOL/W91-167S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W91-168": {
     "name": "休日ゲーム",
@@ -633,7 +662,8 @@
         "id": "HOL/W91-168S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-169": {
     "name": "シオンの誕生日",
@@ -655,7 +685,8 @@
         "id": "HOL/W91-169S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-170": {
     "name": "向日葵の君に",
@@ -677,7 +708,8 @@
         "id": "HOL/W91-170S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-171": {
     "name": "団長と一緒",
@@ -699,7 +731,8 @@
         "id": "HOL/W91-171S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-172": {
     "name": "みんなと一緒の時間",
@@ -721,7 +754,8 @@
         "id": "HOL/W91-172S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-173": {
     "name": "どんな時でも一緒",
@@ -743,7 +777,8 @@
         "id": "HOL/W91-173S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-174": {
     "name": "添い寝デート",
@@ -765,7 +800,8 @@
         "id": "HOL/W91-174S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W91-175": {
     "name": "束の間の安らぎ",
@@ -787,6 +823,7 @@
         "id": "HOL/W91-175S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

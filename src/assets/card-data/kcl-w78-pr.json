@@ -19,7 +19,8 @@
         "id": "Kcl/W78-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kcl/W78-123": {
     "name": "快晴の下 杏",
@@ -37,6 +38,7 @@
         "id": "Kcl/W78-123",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

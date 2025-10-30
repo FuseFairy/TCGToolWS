@@ -15,7 +15,8 @@
         "id": "SAO/S51-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-P02": {
     "name": "的確な戦闘指揮 アスナ",
@@ -33,7 +34,8 @@
         "id": "SAO/S51-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-P03": {
     "name": "メイド服のアスナ",
@@ -51,7 +53,8 @@
         "id": "SAO/S51-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-P04": {
     "name": "水着の明日奈",
@@ -69,7 +72,8 @@
         "id": "SAO/S51-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-P05": {
     "name": "戦闘態勢 アスナ＆ユイ",
@@ -87,7 +91,8 @@
         "id": "SAO/S51-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-P06": {
     "name": "過ぎし日の姿 キリト＆アスナ",
@@ -109,7 +114,8 @@
         "id": "SAO/S51-P06S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-101": {
     "name": "2年ぶりの対面 アスナ",
@@ -127,7 +133,8 @@
         "id": "SAO/S51-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S51-102": {
     "name": "魅惑の渚 リーファ",
@@ -145,7 +152,8 @@
         "id": "SAO/S51-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-103": {
     "name": "ボーナスタイム！ ユナ",
@@ -163,7 +171,8 @@
         "id": "SAO/S51-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S51-104": {
     "name": "負けられない理由 キリト",
@@ -181,6 +190,7 @@
         "id": "SAO/S51-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

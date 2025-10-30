@@ -19,7 +19,8 @@
         "id": "Gso/WS02-T34SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gso/WS02-T36": {
     "name": "Anniversary アリス",
@@ -41,7 +42,8 @@
         "id": "Gso/WS02-T36R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gso/WS02-T37": {
     "name": "かけがえのない時間 アスナ＆ユウキ",
@@ -63,7 +65,8 @@
         "id": "Gso/WS02-T37R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gso/WS02-T40": {
     "name": "親睦会 キリト＆ロニエ",
@@ -85,6 +88,7 @@
         "id": "Gso/WS02-T40R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

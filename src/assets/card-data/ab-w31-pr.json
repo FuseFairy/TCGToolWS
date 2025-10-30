@@ -15,7 +15,8 @@
         "id": "AB/W31-118",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-119": {
     "name": "戦線の休息 ゆり",
@@ -33,7 +34,8 @@
         "id": "AB/W31-119",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-120": {
     "name": "これからのこと かなで",
@@ -51,7 +53,8 @@
         "id": "AB/W31-120",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-121": {
     "name": "おてんば娘 ユイ",
@@ -69,7 +72,8 @@
         "id": "AB/W31-121",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-122": {
     "name": "多生の絆 音無",
@@ -87,7 +91,8 @@
         "id": "AB/W31-122",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-123": {
     "name": "音無の親友 日向",
@@ -105,7 +110,8 @@
         "id": "AB/W31-123",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-P01": {
     "name": "死なない証明 かなで",
@@ -123,7 +129,8 @@
         "id": "AB/W31-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-P02": {
     "name": "秩序を守る存在 かなで",
@@ -141,7 +148,8 @@
         "id": "AB/W31-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-P03": {
     "name": "SSSを束ねるゆり",
@@ -159,7 +167,8 @@
         "id": "AB/W31-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-P04": {
     "name": "戦線の陽動班 ユイ",
@@ -181,7 +190,8 @@
         "id": "AB/W31-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W31-P05": {
     "name": "暖かな気持ち かなで",
@@ -203,7 +213,8 @@
         "id": "AB/W31-P05S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W31-P06": {
     "name": "世界への抵抗 ゆり",
@@ -221,6 +232,7 @@
         "id": "AB/W31-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

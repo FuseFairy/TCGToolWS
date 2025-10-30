@@ -15,7 +15,8 @@
         "id": "DC/W23-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/W23-107": {
     "name": "きっと、変わらない",
@@ -33,7 +34,8 @@
         "id": "DC/W23-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/W23-109": {
     "name": "答えを出したいか？",
@@ -51,7 +53,8 @@
         "id": "DC/W23-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/W23-P01": {
     "name": "満開の下 音夢＆美春＆アリス",
@@ -69,7 +72,8 @@
         "id": "DC/W23-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W23-P02": {
     "name": "行く年来る年 音姫＆由夢",
@@ -87,7 +91,8 @@
         "id": "DC/W23-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W23-P03": {
     "name": "夢のような日々 葵＆サラ",
@@ -105,7 +110,8 @@
         "id": "DC/W23-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W23-P04": {
     "name": "キミと一緒に 立夏",
@@ -123,7 +129,8 @@
         "id": "DC/W23-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W23-P05": {
     "name": "ベストフレンド ななか＆小恋",
@@ -141,7 +148,8 @@
         "id": "DC/W23-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W23-P07": {
     "name": "本物の笑顔 ことり",
@@ -159,7 +167,8 @@
         "id": "DC/W23-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W23-P08": {
     "name": "大切な約束 音姫",
@@ -177,6 +186,7 @@
         "id": "DC/W23-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

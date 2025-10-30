@@ -19,7 +19,8 @@
         "id": "AGS/W108-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-T02": {
     "name": "モデラーチーム すぐみ",
@@ -41,7 +42,8 @@
         "id": "AGS/W108-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-T03": {
     "name": "教官 シタラ",
@@ -63,7 +65,8 @@
         "id": "AGS/W108-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-T04": {
     "name": "“東京アクトレスニュース”杏奈",
@@ -85,7 +88,8 @@
         "id": "AGS/W108-T04R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-T05": {
     "name": "モデラーチーム 安里",
@@ -107,7 +111,8 @@
         "id": "AGS/W108-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-T06": {
     "name": "アーバン流忍術指導 来弥",
@@ -129,7 +134,8 @@
         "id": "AGS/W108-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-T07": {
     "name": "“成子坂製作所（仮）”シタラ",
@@ -151,7 +157,8 @@
         "id": "AGS/W108-T07SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-T08": {
     "name": "先輩アクトレス 愛花",
@@ -173,7 +180,8 @@
         "id": "AGS/W108-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-T09": {
     "name": "アイドル指導 桃歌",
@@ -195,7 +203,8 @@
         "id": "AGS/W108-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-T10": {
     "name": "新たな仲間 のどか",
@@ -217,7 +226,8 @@
         "id": "AGS/W108-T10SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-T11": {
     "name": "上流階級の嗜み指導 綾香",
@@ -239,7 +249,8 @@
         "id": "AGS/W108-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-T12": {
     "name": "鬼ごっこ リン",
@@ -261,7 +272,8 @@
         "id": "AGS/W108-T12R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-T13": {
     "name": "“成子坂製作所（仮）”夜露",
@@ -287,7 +299,8 @@
         "id": "AGS/W108-T13SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-T14": {
     "name": "のどかな日常",
@@ -309,7 +322,8 @@
         "id": "AGS/W108-T14R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-T15": {
     "name": "特訓、お付き合いしますよ！",
@@ -331,7 +345,8 @@
         "id": "AGS/W108-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-T16": {
     "name": "“成子坂製作所（仮）”文嘉",
@@ -353,7 +368,8 @@
         "id": "AGS/W108-T16SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-T17": {
     "name": "剣術指導 楓",
@@ -375,7 +391,8 @@
         "id": "AGS/W108-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-T18": {
     "name": "密着取材 真理",
@@ -397,7 +414,8 @@
         "id": "AGS/W108-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-T19": {
     "name": "セレブ姿 ゆみ",
@@ -419,7 +437,8 @@
         "id": "AGS/W108-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-T20": {
     "name": "アクトレス適性判定司会 芹菜",
@@ -441,7 +460,8 @@
         "id": "AGS/W108-T20R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-T21": {
     "name": "ベテランアクトレス 薫子",
@@ -463,7 +483,8 @@
         "id": "AGS/W108-T21R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-T22": {
     "name": "BAR Blue Moon",
@@ -485,7 +506,8 @@
         "id": "AGS/W108-T22R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-T23": {
     "name": "モフとの出会い",
@@ -507,6 +529,7 @@
         "id": "AGS/W108-T23R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

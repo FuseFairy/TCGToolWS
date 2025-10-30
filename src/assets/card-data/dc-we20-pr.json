@@ -15,7 +15,8 @@
         "id": "DC/WE20-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/WE20-P02": {
     "name": "体験実習！音姫&エリカ",
@@ -33,6 +34,7 @@
         "id": "DC/WE20-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -19,7 +19,8 @@
         "id": "Kdb/W102-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kdb/W102-068": {
     "name": "宝物になった日",
@@ -41,6 +42,7 @@
         "id": "Kdb/W102-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

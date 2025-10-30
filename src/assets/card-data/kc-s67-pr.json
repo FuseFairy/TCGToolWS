@@ -15,7 +15,8 @@
         "id": "KC/S67-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S67-P02": {
     "name": "陽炎型駆逐艦14番艦 谷風丁改",
@@ -33,7 +34,8 @@
         "id": "KC/S67-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S67-P03": {
     "name": "夕雲型駆逐艦2番艦 巻雲改二",
@@ -55,7 +57,8 @@
         "id": "KC/S67-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S67-106": {
     "name": "大鷹型軽空母1番艦 大鷹改",
@@ -73,7 +76,8 @@
         "id": "KC/S67-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S67-107": {
     "name": "巡潜乙型潜水空母7番艦 伊26改",
@@ -91,7 +95,8 @@
         "id": "KC/S67-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S67-108": {
     "name": "Guglielmo Marconi級潜水艦4番艦 UIT-25",
@@ -109,7 +114,8 @@
         "id": "KC/S67-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S67-109": {
     "name": "綾波型駆逐艦8番艦 曙改",
@@ -127,6 +133,7 @@
         "id": "KC/S67-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

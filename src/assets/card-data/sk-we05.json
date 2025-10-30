@@ -15,7 +15,8 @@
         "id": "SK/WE05-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SK/WE05-03": {
     "name": "ブレインコロニー レオパルド",
@@ -33,7 +34,8 @@
         "id": "SK/WE05-03",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SK/WE05-05": {
     "name": "願いを受け継ぐ者 秋葉",
@@ -51,7 +53,8 @@
         "id": "SK/WE05-05",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SK/WE05-07": {
     "name": "黄金銃",
@@ -69,7 +72,8 @@
         "id": "SK/WE05-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SK/WE05-10": {
     "name": "ミンタオ＆ブーゲンビリア",
@@ -87,7 +91,8 @@
         "id": "SK/WE05-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SK/WE05-11": {
     "name": "いつき＆ウル",
@@ -105,7 +110,8 @@
         "id": "SK/WE05-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SK/WE05-16": {
     "name": "不思議少女ほのか",
@@ -123,7 +129,8 @@
         "id": "SK/WE05-16",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SK/WE05-18": {
     "name": "獅子堂 妹子",
@@ -141,7 +148,8 @@
         "id": "SK/WE05-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SK/WE05-22": {
     "name": "獅子堂財団総帥 風音",
@@ -159,7 +167,8 @@
         "id": "SK/WE05-22",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SK/WE05-25": {
     "name": "獅子堂 ナミ",
@@ -177,7 +186,8 @@
         "id": "SK/WE05-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SK/WE05-26": {
     "name": "獅子堂 神楽",
@@ -195,7 +205,8 @@
         "id": "SK/WE05-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SK/WE05-27": {
     "name": "小川で遊ぼう！",
@@ -213,6 +224,7 @@
         "id": "SK/WE05-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "HOL/W104-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-P02": {
     "name": "溶けてなくなる前に IRyS",
@@ -37,7 +38,8 @@
         "id": "HOL/W104-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-P03": {
     "name": "決めポーズ☆ AZKi",
@@ -59,7 +61,8 @@
         "id": "HOL/W104-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-P04": {
     "name": "事務所スタッフ 友人A",
@@ -81,7 +84,8 @@
         "id": "HOL/W104-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-P06": {
     "name": "Vのすこんなオタ活なんだワ！",
@@ -99,7 +103,8 @@
         "id": "HOL/W104-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-P07": {
     "name": "星降る夜に",
@@ -121,7 +126,8 @@
         "id": "HOL/W104-P07S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-146": {
     "name": "太陽、きらめいて",
@@ -139,7 +145,8 @@
         "id": "HOL/W104-146",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-147": {
     "name": "両手いっぱいの幸せ",
@@ -157,7 +164,8 @@
         "id": "HOL/W104-147",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-148": {
     "name": "Your Mori.",
@@ -175,7 +183,8 @@
         "id": "HOL/W104-148",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-149": {
     "name": "白上の秘密基地",
@@ -193,7 +202,8 @@
         "id": "HOL/W104-149",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-150": {
     "name": "目覚めは一緒に",
@@ -211,7 +221,8 @@
         "id": "HOL/W104-150",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-151": {
     "name": "自然の番人",
@@ -229,7 +240,8 @@
         "id": "HOL/W104-151",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-152": {
     "name": "ありがチュー！",
@@ -247,7 +259,8 @@
         "id": "HOL/W104-152",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-153": {
     "name": "REPEAT THiS LiFE WiTH U",
@@ -265,7 +278,8 @@
         "id": "HOL/W104-153",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-154": {
     "name": "ジェラートをおひとつ",
@@ -283,7 +297,8 @@
         "id": "HOL/W104-154",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-155": {
     "name": "ふたりじめビーチ",
@@ -301,7 +316,8 @@
         "id": "HOL/W104-155",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-156": {
     "name": "一方、別の世界で…",
@@ -319,7 +335,8 @@
         "id": "HOL/W104-156",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-157": {
     "name": "COMET",
@@ -337,7 +354,8 @@
         "id": "HOL/W104-157",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-158": {
     "name": "魔法のレッスン",
@@ -355,7 +373,8 @@
         "id": "HOL/W104-158",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-159": {
     "name": "真夏の太陽",
@@ -373,7 +392,8 @@
         "id": "HOL/W104-159",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-160": {
     "name": "黄昏の丘で",
@@ -391,6 +411,7 @@
         "id": "HOL/W104-160",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

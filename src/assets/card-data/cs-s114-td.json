@@ -19,7 +19,8 @@
         "id": "CS/S114-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-T02": {
     "name": "宇宙人との遭遇 みさえ＆ひまわり",
@@ -41,7 +42,8 @@
         "id": "CS/S114-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-T03": {
     "name": "いざユメミーワールドへ！ しんのすけ",
@@ -63,7 +65,8 @@
         "id": "CS/S114-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-T04": {
     "name": "プリンセス ひまわり",
@@ -85,7 +88,8 @@
         "id": "CS/S114-T04R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-T05": {
     "name": "ゲッチュー成功 ひろし",
@@ -107,7 +111,8 @@
         "id": "CS/S114-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-T06": {
     "name": "家族の絆 しんのすけ＆シロ",
@@ -129,7 +134,8 @@
         "id": "CS/S114-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-T07": {
     "name": "ヒーローVSハイグレ魔王",
@@ -151,7 +157,8 @@
         "id": "CS/S114-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-T08": {
     "name": "おかえり しんのすけ！シロ！",
@@ -173,7 +180,8 @@
         "id": "CS/S114-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-T09": {
     "name": "母の愛情",
@@ -195,7 +203,8 @@
         "id": "CS/S114-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CS/S114-T10": {
     "name": "忍術修行中！ ネネちゃん",
@@ -217,7 +226,8 @@
         "id": "CS/S114-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-T11": {
     "name": "忍術修行中！ ボーちゃん",
@@ -239,7 +249,8 @@
         "id": "CS/S114-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-T12": {
     "name": "世界を救え しんのすけ",
@@ -261,7 +272,8 @@
         "id": "CS/S114-T12SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-T13": {
     "name": "忍術修行中！ 風間くん",
@@ -283,7 +295,8 @@
         "id": "CS/S114-T13R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-T14": {
     "name": "世界を救え ぶりぶりざえもん",
@@ -305,7 +318,8 @@
         "id": "CS/S114-T14SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-T15": {
     "name": "ぷにぷに拳 しんのすけ",
@@ -327,7 +341,8 @@
         "id": "CS/S114-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CS/S114-T16": {
     "name": "忍術修行中！ マサオくん",
@@ -349,7 +364,8 @@
         "id": "CS/S114-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-T17": {
     "name": "忍術修行中！ しんのすけ",
@@ -371,7 +387,8 @@
         "id": "CS/S114-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-T18": {
     "name": "ナナとの触れ合い しんのすけ",
@@ -393,7 +410,8 @@
         "id": "CS/S114-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-T19": {
     "name": "アクション仮面変身セット しんのすけ",
@@ -415,7 +433,8 @@
         "id": "CS/S114-T19S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CS/S114-T20": {
     "name": "アイヤータウンを守れ！",
@@ -437,6 +456,7 @@
         "id": "CS/S114-T20R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

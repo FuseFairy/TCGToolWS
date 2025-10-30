@@ -15,7 +15,8 @@
         "id": "SY/WE09-01",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/WE09-02": {
     "name": "星を語る古泉",
@@ -33,7 +34,8 @@
         "id": "SY/WE09-02",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/WE09-03": {
     "name": "夜空を見上げるキョン",
@@ -51,7 +53,8 @@
         "id": "SY/WE09-03",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/WE09-04": {
     "name": "小学五年生 キョンの妹",
@@ -69,7 +72,8 @@
         "id": "SY/WE09-04",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/WE09-05": {
     "name": "星に願うみくる",
@@ -87,7 +91,8 @@
         "id": "SY/WE09-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/WE09-06": {
     "name": "時間跳躍 キョン＆みくる",
@@ -105,7 +110,8 @@
         "id": "SY/WE09-06",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/WE09-07": {
     "name": "みくるとの出会い みくる(大)",
@@ -123,7 +129,8 @@
         "id": "SY/WE09-07",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/WE09-08": {
     "name": "元気な先輩 鶴屋さん",
@@ -141,7 +148,8 @@
         "id": "SY/WE09-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/WE09-09": {
     "name": "バイト中のみくる",
@@ -159,7 +167,8 @@
         "id": "SY/WE09-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/WE09-10": {
     "name": "お花見 みくる",
@@ -177,7 +186,8 @@
         "id": "SY/WE09-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/WE09-11": {
     "name": "セミ採り合戦 みくる",
@@ -195,7 +205,8 @@
         "id": "SY/WE09-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/WE09-12": {
     "name": "導く役目",
@@ -213,7 +224,8 @@
         "id": "SY/WE09-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/WE09-13": {
     "name": "“超監督”ハルヒ",
@@ -231,7 +243,8 @@
         "id": "SY/WE09-13",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/WE09-14": {
     "name": "お花見 ハルヒ",
@@ -249,7 +262,8 @@
         "id": "SY/WE09-14",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/WE09-15": {
     "name": "“笹の葉ラプソディ”ハルヒ",
@@ -267,7 +281,8 @@
         "id": "SY/WE09-15",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/WE09-16": {
     "name": "世界を変える少女 ハルヒ",
@@ -285,7 +300,8 @@
         "id": "SY/WE09-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/WE09-17": {
     "name": "水着のハルヒ",
@@ -303,7 +319,8 @@
         "id": "SY/WE09-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/WE09-18": {
     "name": "夏祭りのハルヒ",
@@ -321,7 +338,8 @@
         "id": "SY/WE09-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/WE09-19": {
     "name": "エンドレスエイト",
@@ -367,7 +385,8 @@
         "id": "SY/WE09-19h",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/WE09-20": {
     "name": "私はここにいる",
@@ -385,7 +404,8 @@
         "id": "SY/WE09-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SY/WE09-21": {
     "name": "夏の終わり",
@@ -403,7 +423,8 @@
         "id": "SY/WE09-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SY/WE09-22": {
     "name": "観察者 長門",
@@ -421,7 +442,8 @@
         "id": "SY/WE09-22",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/WE09-23": {
     "name": "魔法使い長門＆シャミセン",
@@ -439,7 +461,8 @@
         "id": "SY/WE09-23",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/WE09-24": {
     "name": "夏祭りの長門",
@@ -457,7 +480,8 @@
         "id": "SY/WE09-24",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/WE09-25": {
     "name": "待機モード 長門",
@@ -475,7 +499,8 @@
         "id": "SY/WE09-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/WE09-26": {
     "name": "お花見 長門",
@@ -493,7 +518,8 @@
         "id": "SY/WE09-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/WE09-27": {
     "name": "残り二週間の夜",
@@ -511,6 +537,7 @@
         "id": "SY/WE09-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

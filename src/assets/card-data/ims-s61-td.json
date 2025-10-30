@@ -15,7 +15,8 @@
         "id": "IMS/S61-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-T02": {
     "name": "自慢の肺活量 北上麗花",
@@ -33,7 +34,8 @@
         "id": "IMS/S61-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-T03": {
     "name": "ビビッと親指姫 望月杏奈",
@@ -51,7 +53,8 @@
         "id": "IMS/S61-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-T04": {
     "name": "歌声に囲まれて 桜守歌織",
@@ -69,7 +72,8 @@
         "id": "IMS/S61-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-T05": {
     "name": "おねだりエンジェル 伊吹 翼",
@@ -91,7 +95,8 @@
         "id": "IMS/S61-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-T06": {
     "name": "Angelic Parade♪",
@@ -113,7 +118,8 @@
         "id": "IMS/S61-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IMS/S61-T07": {
     "name": "歌のレッスン 矢吹可奈",
@@ -131,7 +137,8 @@
         "id": "IMS/S61-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-T08": {
     "name": "わくわく大和撫子 エミリー",
@@ -149,7 +156,8 @@
         "id": "IMS/S61-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-T09": {
     "name": "水着の姫君 徳川まつり",
@@ -167,7 +175,8 @@
         "id": "IMS/S61-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-T10": {
     "name": "いつでもオンステージ！ 春日未来",
@@ -193,7 +202,8 @@
         "id": "IMS/S61-T10SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-T11": {
     "name": "大好きな時間 七尾百合子",
@@ -211,7 +221,8 @@
         "id": "IMS/S61-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-T12": {
     "name": "Princess Be Ambitious!!",
@@ -233,7 +244,8 @@
         "id": "IMS/S61-T12S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-T13": {
     "name": "至福のひととき 白石 紬",
@@ -251,7 +263,8 @@
         "id": "IMS/S61-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-T14": {
     "name": "駆け込みセーフ！ 所 恵美",
@@ -269,7 +282,8 @@
         "id": "IMS/S61-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-T15": {
     "name": "響かせる音色 最上静香",
@@ -291,7 +305,8 @@
         "id": "IMS/S61-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-T16": {
     "name": "気合いで味見 ジュリア",
@@ -309,7 +324,8 @@
         "id": "IMS/S61-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-T17": {
     "name": "静かな情熱 北沢志保",
@@ -327,7 +343,8 @@
         "id": "IMS/S61-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-T18": {
     "name": "パピヨンマーク",
@@ -345,7 +362,8 @@
         "id": "IMS/S61-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-T19": {
     "name": "FairyTaleじゃいられない",
@@ -367,6 +385,7 @@
         "id": "IMS/S61-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

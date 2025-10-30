@@ -15,7 +15,8 @@
         "id": "BD/WE49-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE49-P02": {
     "name": "“Dreamer's Memory”Poppin'Party",
@@ -33,7 +34,8 @@
         "id": "BD/WE49-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE49-P03": {
     "name": "“POPIGENIC”Poppin'Party",
@@ -51,7 +53,8 @@
         "id": "BD/WE49-P03EX",
         "rarity": "PR+"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE49-P05": {
     "name": "“ホシノコドウ”りみ＆沙綾＆香澄＆有咲＆たえ",
@@ -77,7 +80,8 @@
         "id": "BD/WE49-P05S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE49-P11": {
     "name": "“私の居場所”長崎そよ",
@@ -95,6 +99,7 @@
         "id": "BD/WE49-P11",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

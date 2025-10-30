@@ -15,7 +15,8 @@
         "id": "IMC/W41-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T02": {
     "name": "ベテラントレーナー",
@@ -33,7 +34,8 @@
         "id": "IMC/W41-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T03": {
     "name": "レッスン中 きらり",
@@ -51,7 +53,8 @@
         "id": "IMC/W41-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T04": {
     "name": "もう一度前へ プロデューサー",
@@ -69,7 +72,8 @@
         "id": "IMC/W41-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T05": {
     "name": "14人での始まり みりあ",
@@ -87,7 +91,8 @@
         "id": "IMC/W41-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T06": {
     "name": "オーディション中 未央",
@@ -105,7 +110,8 @@
         "id": "IMC/W41-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T07": {
     "name": "はじめてのお仕事 みりあ",
@@ -123,7 +129,8 @@
         "id": "IMC/W41-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T08": {
     "name": "マイファーストスター みりあ",
@@ -141,7 +148,8 @@
         "id": "IMC/W41-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T09": {
     "name": "カリスマＪＫ 美嘉",
@@ -159,7 +167,8 @@
         "id": "IMC/W41-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T10": {
     "name": "はじめてのお仕事 莉嘉",
@@ -177,7 +186,8 @@
         "id": "IMC/W41-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T11": {
     "name": "マイファーストスター 莉嘉",
@@ -195,7 +205,8 @@
         "id": "IMC/W41-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T12": {
     "name": "始まりの一歩 未央",
@@ -213,7 +224,8 @@
         "id": "IMC/W41-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-T13": {
     "name": "杏ちゃんと一緒 きらり",
@@ -243,7 +255,8 @@
         "id": "IMC/W41-T13d",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-T14": {
     "name": "3人との出会い 美嘉",
@@ -261,7 +274,8 @@
         "id": "IMC/W41-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-T15": {
     "name": "はじめてのお仕事 きらり",
@@ -279,7 +293,8 @@
         "id": "IMC/W41-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-T16": {
     "name": "WONDERFUL M@GIC!! 未央",
@@ -297,7 +312,8 @@
         "id": "IMC/W41-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-T17": {
     "name": "すーぱーハピハピ☆キャンディーシャワー",
@@ -315,7 +331,8 @@
         "id": "IMC/W41-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T18": {
     "name": "お願い！シンデレラ",
@@ -345,7 +362,8 @@
         "id": "IMC/W41-T18d",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IMC/W41-T19": {
     "name": "最高の舞台",
@@ -367,7 +385,8 @@
         "id": "IMC/W41-T19b",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-T20": {
     "name": "優しい笑顔 智絵里",
@@ -385,7 +404,8 @@
         "id": "IMC/W41-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T21": {
     "name": "名刺を差し出すプロデューサー",
@@ -403,7 +423,8 @@
         "id": "IMC/W41-T21",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T22": {
     "name": "勝負を挑むみく",
@@ -421,7 +442,8 @@
         "id": "IMC/W41-T22",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T23": {
     "name": "勝利を掴んだ！？ みく",
@@ -439,7 +461,8 @@
         "id": "IMC/W41-T23",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T24": {
     "name": "始まりの一歩 卯月",
@@ -457,7 +480,8 @@
         "id": "IMC/W41-T24",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T25": {
     "name": "笑顔のダブルピース 卯月",
@@ -475,7 +499,8 @@
         "id": "IMC/W41-T25",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T26": {
     "name": "策を弄する杏",
@@ -493,7 +518,8 @@
         "id": "IMC/W41-T26",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T27": {
     "name": "特訓中！？ かな子",
@@ -511,7 +537,8 @@
         "id": "IMC/W41-T27",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T28": {
     "name": "14人での始まり かな子",
@@ -529,7 +556,8 @@
         "id": "IMC/W41-T28",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-T29": {
     "name": "働きたくない 杏",
@@ -559,7 +587,8 @@
         "id": "IMC/W41-T29d",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T30": {
     "name": "はじめてのお仕事 みく",
@@ -577,7 +606,8 @@
         "id": "IMC/W41-T30",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T31": {
     "name": "14人での始まり 智絵里",
@@ -595,7 +625,8 @@
         "id": "IMC/W41-T31",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T32": {
     "name": "働かないためには本気 杏",
@@ -613,7 +644,8 @@
         "id": "IMC/W41-T32",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-T33": {
     "name": "はじめてのお仕事 智絵里",
@@ -631,7 +663,8 @@
         "id": "IMC/W41-T33",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-T34": {
     "name": "はじめてのお仕事 かな子",
@@ -649,7 +682,8 @@
         "id": "IMC/W41-T34",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-T35": {
     "name": "WONDERFUL M@GIC!! 卯月",
@@ -667,7 +701,8 @@
         "id": "IMC/W41-T35",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-T36": {
     "name": "失敗！？",
@@ -685,7 +720,8 @@
         "id": "IMC/W41-T36",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T37": {
     "name": "お願い！シンデレラ",
@@ -715,7 +751,8 @@
         "id": "IMC/W41-T37d",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IMC/W41-T38": {
     "name": "最高の舞台",
@@ -737,7 +774,8 @@
         "id": "IMC/W41-T38b",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T39": {
     "name": "応援するアナスタシア",
@@ -755,7 +793,8 @@
         "id": "IMC/W41-T39",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T40": {
     "name": "同じ傘の下で プロデューサー",
@@ -773,7 +812,8 @@
         "id": "IMC/W41-T40",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T41": {
     "name": "始まりの一歩 凛",
@@ -791,7 +831,8 @@
         "id": "IMC/W41-T41",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T42": {
     "name": "マイファーストスター 美波",
@@ -809,7 +850,8 @@
         "id": "IMC/W41-T42",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T43": {
     "name": "プロデューサーとの出会い 凛",
@@ -827,7 +869,8 @@
         "id": "IMC/W41-T43",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T44": {
     "name": "素直になれない蘭子",
@@ -857,7 +900,8 @@
         "id": "IMC/W41-T44d",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T45": {
     "name": "ステージ前 李衣菜",
@@ -875,7 +919,8 @@
         "id": "IMC/W41-T45",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T46": {
     "name": "はじめてのお仕事 蘭子",
@@ -893,7 +938,8 @@
         "id": "IMC/W41-T46",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T47": {
     "name": "14人での始まり 李衣菜",
@@ -911,7 +957,8 @@
         "id": "IMC/W41-T47",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T48": {
     "name": "はじめてのお仕事 アナスタシア",
@@ -929,7 +976,8 @@
         "id": "IMC/W41-T48",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T49": {
     "name": "デビューに向けて 美波",
@@ -947,7 +995,8 @@
         "id": "IMC/W41-T49",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T50": {
     "name": "はじめてのお仕事 美波",
@@ -965,7 +1014,8 @@
         "id": "IMC/W41-T50",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-T51": {
     "name": "マイファーストスター 蘭子",
@@ -983,7 +1033,8 @@
         "id": "IMC/W41-T51",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-T52": {
     "name": "デビュー決定 アナスタシア",
@@ -1001,7 +1052,8 @@
         "id": "IMC/W41-T52",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-T53": {
     "name": "はじめてのお仕事 李衣菜",
@@ -1019,7 +1071,8 @@
         "id": "IMC/W41-T53",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-T54": {
     "name": "WONDERFUL M@GIC!! 凛",
@@ -1037,7 +1090,8 @@
         "id": "IMC/W41-T54",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W41-T55": {
     "name": "ハナコ",
@@ -1055,7 +1109,8 @@
         "id": "IMC/W41-T55",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W41-T56": {
     "name": "お願い！シンデレラ",
@@ -1085,7 +1140,8 @@
         "id": "IMC/W41-T56d",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IMC/W41-T57": {
     "name": "最高の舞台",
@@ -1107,6 +1163,7 @@
         "id": "IMC/W41-T57b",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "PP/SE14-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PP/SE14-P02": {
     "name": "執行官の流儀 狡噛",
@@ -33,7 +34,8 @@
         "id": "PP/SE14-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PP/SE14-P03": {
     "name": "精神的な調律 槙島",
@@ -51,6 +53,7 @@
         "id": "PP/SE14-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

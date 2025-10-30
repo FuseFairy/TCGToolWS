@@ -15,7 +15,8 @@
         "id": "TL/W37-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-T02": {
     "name": "“お着替え中”美柑",
@@ -33,7 +34,8 @@
         "id": "TL/W37-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-T03": {
     "name": "“お着替え中”唯",
@@ -51,7 +53,8 @@
         "id": "TL/W37-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-T04": {
     "name": "“ペロペロ大好き”芽亜",
@@ -69,7 +72,8 @@
         "id": "TL/W37-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-T05": {
     "name": "“真夏のプールサイド”唯",
@@ -87,7 +91,8 @@
         "id": "TL/W37-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-T06": {
     "name": "“心の迷い”芽亜",
@@ -105,7 +110,8 @@
         "id": "TL/W37-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-T07": {
     "name": "“結城家の食卓”美柑",
@@ -123,7 +129,8 @@
         "id": "TL/W37-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-T08": {
     "name": "“読書中”ヤミ",
@@ -141,7 +148,8 @@
         "id": "TL/W37-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-T09": {
     "name": "“ダークネス”ヤミ",
@@ -159,7 +167,8 @@
         "id": "TL/W37-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-T10": {
     "name": "ドキドキハプニング",
@@ -177,7 +186,8 @@
         "id": "TL/W37-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "TL/W37-T11": {
     "name": "たった一人の大事な妹",
@@ -195,7 +205,8 @@
         "id": "TL/W37-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-T12": {
     "name": "“夢の楽園計画”モモ",
@@ -213,7 +224,8 @@
         "id": "TL/W37-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-T13": {
     "name": "“純情可憐？な女の子”モモ",
@@ -231,7 +243,8 @@
         "id": "TL/W37-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-T14": {
     "name": "“真夏のプールサイド”春菜",
@@ -249,7 +262,8 @@
         "id": "TL/W37-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-T15": {
     "name": "“真夏のプールサイド”ナナ",
@@ -267,7 +281,8 @@
         "id": "TL/W37-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-T16": {
     "name": "“妹思いの姉”ララ",
@@ -285,7 +300,8 @@
         "id": "TL/W37-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-T17": {
     "name": "“ハプニング遭遇”春菜",
@@ -303,7 +319,8 @@
         "id": "TL/W37-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-T18": {
     "name": "“ドキドキバスタイム”ナナ",
@@ -321,7 +338,8 @@
         "id": "TL/W37-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-T19": {
     "name": "“発明少女”ララ",
@@ -339,7 +357,8 @@
         "id": "TL/W37-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-T20": {
     "name": "“優しく勇敢”リト",
@@ -357,7 +376,8 @@
         "id": "TL/W37-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-T21": {
     "name": "溶けかけのアイス",
@@ -375,7 +395,8 @@
         "id": "TL/W37-T21",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-T22": {
     "name": "友達",
@@ -393,6 +414,7 @@
         "id": "TL/W37-T22",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

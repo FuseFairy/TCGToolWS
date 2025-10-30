@@ -23,7 +23,8 @@
         "id": "PXR/S122-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-002": {
     "name": "“30年とその先も”ボー＆ビリー＆ゴート＆グラフ",
@@ -49,7 +50,8 @@
         "id": "PXR/S122-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-003": {
     "name": "“30年とその先も”ジェシー",
@@ -75,7 +77,8 @@
         "id": "PXR/S122-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-004": {
     "name": "“ウッディのラウンドアップ”ジェシー",
@@ -97,7 +100,8 @@
         "id": "PXR/S122-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-005": {
     "name": "“ハリネズミのぬいぐるみ”ミスター・プリックルパンツ",
@@ -119,7 +123,8 @@
         "id": "PXR/S122-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-006": {
     "name": "“30年とその先も”ウィージー",
@@ -145,7 +150,8 @@
         "id": "PXR/S122-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-007": {
     "name": "トリクシー＆レックス",
@@ -171,7 +177,8 @@
         "id": "PXR/S122-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-008": {
     "name": "“30年とその先も”ハム",
@@ -197,7 +204,8 @@
         "id": "PXR/S122-008SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-009": {
     "name": "エンジェル・キティ",
@@ -223,7 +231,8 @@
         "id": "PXR/S122-009SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-010": {
     "name": "“30年とその先も”スリンキー・ドッグ",
@@ -249,7 +258,8 @@
         "id": "PXR/S122-010SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-011": {
     "name": "“ウッディのラウンドアップ”ブルズアイ",
@@ -271,7 +281,8 @@
         "id": "PXR/S122-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-012": {
     "name": "“30年とその先も”おもちゃの仲間達",
@@ -297,7 +308,8 @@
         "id": "PXR/S122-012SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-013": {
     "name": "“ウッディのラウンドアップ”ウッディ・プライド",
@@ -319,7 +331,8 @@
         "id": "PXR/S122-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-014": {
     "name": "“30年とその先も”ブルズアイ",
@@ -345,7 +358,8 @@
         "id": "PXR/S122-014SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-015": {
     "name": "“謎の恐竜ワールド”トリクシー",
@@ -367,7 +381,8 @@
         "id": "PXR/S122-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-016": {
     "name": "チャターフォン",
@@ -389,7 +404,8 @@
         "id": "PXR/S122-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-017": {
     "name": "“胴がバネの犬”スリンキー・ドッグ",
@@ -411,7 +427,8 @@
         "id": "PXR/S122-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-018": {
     "name": "“終わりとはじまり”ウッディ・プライド",
@@ -433,7 +450,8 @@
         "id": "PXR/S122-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-019": {
     "name": "“IT'S TIME TO YEE-HAW”ジェシー",
@@ -455,7 +473,8 @@
         "id": "PXR/S122-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-020": {
     "name": "“ラジコン・カー”RC",
@@ -477,7 +496,8 @@
         "id": "PXR/S122-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-021": {
     "name": "“プラスチック製”ハム",
@@ -499,7 +519,8 @@
         "id": "PXR/S122-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-022": {
     "name": "“ユニコーンのぬいぐるみ”バターカップ",
@@ -521,7 +542,8 @@
         "id": "PXR/S122-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-023": {
     "name": "“無限のかなたへ！”ウッディ＆バズ",
@@ -543,7 +565,8 @@
         "id": "PXR/S122-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-024": {
     "name": "チャックルズ",
@@ -565,7 +588,8 @@
         "id": "PXR/S122-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-025": {
     "name": "“絶体絶命”ウッディ・プライド",
@@ -587,7 +611,8 @@
         "id": "PXR/S122-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-026": {
     "name": "“レトロなおもちゃ”ウッディ・プライド",
@@ -609,7 +634,8 @@
         "id": "PXR/S122-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-027": {
     "name": "“豆のぬいぐるみ”お豆3兄妹",
@@ -631,7 +657,8 @@
         "id": "PXR/S122-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-028": {
     "name": "“フェルトの髪の毛”ドーリー",
@@ -653,7 +680,8 @@
         "id": "PXR/S122-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-029": {
     "name": "“IT'LL BE FUN WHILE IT LASTS”ウッディ・プライド",
@@ -675,7 +703,8 @@
         "id": "PXR/S122-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-030": {
     "name": "ドクター・ポークチョップ",
@@ -697,7 +726,8 @@
         "id": "PXR/S122-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-031": {
     "name": "“スパニッシュダンス”ジェシー",
@@ -719,7 +749,8 @@
         "id": "PXR/S122-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-032": {
     "name": "ゴミ処理場からの脱出",
@@ -741,7 +772,8 @@
         "id": "PXR/S122-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-033": {
     "name": "僕の友達",
@@ -763,7 +795,8 @@
         "id": "PXR/S122-033R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-034": {
     "name": "仲間との絆",
@@ -785,7 +818,8 @@
         "id": "PXR/S122-034R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-035": {
     "name": "ボニーとおもちゃ達",
@@ -807,7 +841,8 @@
         "id": "PXR/S122-035R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-036": {
     "name": "恐ろしいネコサウルス",
@@ -829,7 +864,8 @@
         "id": "PXR/S122-036R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-037": {
     "name": "“30年とその先も”バズ・ライトイヤー",
@@ -855,7 +891,8 @@
         "id": "PXR/S122-037SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-038": {
     "name": "“30年とその先も”エイリアン",
@@ -881,7 +918,8 @@
         "id": "PXR/S122-038SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-039": {
     "name": "“30年とその先も”バズ＆ジェシー",
@@ -907,7 +945,8 @@
         "id": "PXR/S122-039SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-040": {
     "name": "“30年とその先も”ギャビー・ギャビー＆ベンソン",
@@ -933,7 +972,8 @@
         "id": "PXR/S122-040SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-041": {
     "name": "“30年とその先も”ギャビー・ギャビー",
@@ -959,7 +999,8 @@
         "id": "PXR/S122-041SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-042": {
     "name": "“30年とその先も”プロスペクター",
@@ -985,7 +1026,8 @@
         "id": "PXR/S122-042SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-043": {
     "name": "“30年とその先も”ザーグ",
@@ -1011,7 +1053,8 @@
         "id": "PXR/S122-043SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-044": {
     "name": "“30年とその先も”レックス",
@@ -1037,7 +1080,8 @@
         "id": "PXR/S122-044SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-045": {
     "name": "“30年とその先も”ロッツォ",
@@ -1063,7 +1107,8 @@
         "id": "PXR/S122-045SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-046": {
     "name": "“アクション・フィギュア”トゥイッチ",
@@ -1085,7 +1130,8 @@
         "id": "PXR/S122-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-047": {
     "name": "“ゴム製のタコのおもちゃ”ストレッチ",
@@ -1107,7 +1153,8 @@
         "id": "PXR/S122-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-048": {
     "name": "“赤ちゃん人形”ビッグ・ベビー",
@@ -1129,7 +1176,8 @@
         "id": "PXR/S122-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-049": {
     "name": "“気の置けない二人”バズ＆ウッディ",
@@ -1151,7 +1199,8 @@
         "id": "PXR/S122-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-050": {
     "name": "ロッツォ＆ビッグ・ベビー",
@@ -1173,7 +1222,8 @@
         "id": "PXR/S122-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-051": {
     "name": "“悪の帝王”ザーグ",
@@ -1195,7 +1245,8 @@
         "id": "PXR/S122-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-052": {
     "name": "“WHAT NOW，INNER VOICE？”バズ・ライトイヤー",
@@ -1217,7 +1268,8 @@
         "id": "PXR/S122-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-053": {
     "name": "“拾われたぬいぐるみ”ロッツォ",
@@ -1243,7 +1295,8 @@
         "id": "PXR/S122-053SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-054": {
     "name": "“GAME OVER”バズ＆レックス",
@@ -1265,7 +1318,8 @@
         "id": "PXR/S122-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-055": {
     "name": "“腹話術人形”ベンソン",
@@ -1287,7 +1341,8 @@
         "id": "PXR/S122-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-056": {
     "name": "“プラスチック製の岩の怪物”チャンク",
@@ -1309,7 +1364,8 @@
         "id": "PXR/S122-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-057": {
     "name": "“ロボットのおもちゃ”スパークス",
@@ -1331,7 +1387,8 @@
         "id": "PXR/S122-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-058": {
     "name": "“謎の恐竜ワールド”レックス",
@@ -1353,7 +1410,8 @@
         "id": "PXR/S122-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-059": {
     "name": "“サニーサイド保育園”ロッツォ",
@@ -1375,7 +1433,8 @@
         "id": "PXR/S122-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-060": {
     "name": "“アンディの空想の世界”バズ・ライトイヤー",
@@ -1397,7 +1456,8 @@
         "id": "PXR/S122-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-061": {
     "name": "“クレーンゲームの景品”エイリアン",
@@ -1419,7 +1479,8 @@
         "id": "PXR/S122-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-062": {
     "name": "“ミニチュア人形”グリーンアーミーソルジャー",
@@ -1441,7 +1502,8 @@
         "id": "PXR/S122-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-063": {
     "name": "“スパニッシュダンス”バズ・ライトイヤー",
@@ -1463,7 +1525,8 @@
         "id": "PXR/S122-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-064": {
     "name": "おもちゃの逆襲",
@@ -1489,7 +1552,8 @@
         "id": "PXR/S122-064SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-065": {
     "name": "近づく二人の距離",
@@ -1511,7 +1575,8 @@
         "id": "PXR/S122-065R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-066": {
     "name": "I am your father.",
@@ -1533,7 +1598,8 @@
         "id": "PXR/S122-066R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-067": {
     "name": "サニーサイドの独裁者",
@@ -1555,7 +1621,8 @@
         "id": "PXR/S122-067R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-068": {
     "name": "バズ・ライトイヤー参上！",
@@ -1577,7 +1644,8 @@
         "id": "PXR/S122-068R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-069": {
     "name": "“30年とその先も”ウッディ＆バズ",
@@ -1603,7 +1671,8 @@
         "id": "PXR/S122-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-070": {
     "name": "“30年とその先も”フォーキー",
@@ -1629,7 +1698,8 @@
         "id": "PXR/S122-070SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-071": {
     "name": "“30年とその先も”ダッキー＆バニー",
@@ -1655,7 +1725,8 @@
         "id": "PXR/S122-071SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-072": {
     "name": "“30年とその先も”ウッディ＆ボー",
@@ -1681,7 +1752,8 @@
         "id": "PXR/S122-072SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-073": {
     "name": "“30年とその先も”ボー・ピープ",
@@ -1707,7 +1779,8 @@
         "id": "PXR/S122-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-074": {
     "name": "“30年とその先も”ティニー",
@@ -1733,7 +1806,8 @@
         "id": "PXR/S122-074SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-075": {
     "name": "“小さな3人組”コンバット・カール・ジュニアズ",
@@ -1755,7 +1829,8 @@
         "id": "PXR/S122-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-076": {
     "name": "“おもちゃの仕事”ウッディ＆フォーキー",
@@ -1777,7 +1852,8 @@
         "id": "PXR/S122-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-077": {
     "name": "“スター・アドベンチャー”ダッキー＆バニー",
@@ -1799,7 +1875,8 @@
         "id": "PXR/S122-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-078": {
     "name": "“アンティークショップにて”ウッディ・プライド",
@@ -1821,7 +1898,8 @@
         "id": "PXR/S122-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-079": {
     "name": "“行動を共に”ボー＆ギグル",
@@ -1843,7 +1921,8 @@
         "id": "PXR/S122-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-080": {
     "name": "ギグル・マクディンプルズ",
@@ -1865,7 +1944,8 @@
         "id": "PXR/S122-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-081": {
     "name": "“アヒルとウサギのぬいぐるみ”ダッキー＆バニー",
@@ -1887,7 +1967,8 @@
         "id": "PXR/S122-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-082": {
     "name": "“I'M IN CHARGE”ボー・ピープ",
@@ -1909,7 +1990,8 @@
         "id": "PXR/S122-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-083": {
     "name": "“先割れスプーンで作られた人形”フォーキー",
@@ -1931,7 +2013,8 @@
         "id": "PXR/S122-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-084": {
     "name": "コンバット・カール・ジュニアズ",
@@ -1953,7 +2036,8 @@
         "id": "PXR/S122-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-085": {
     "name": "“偶然の再会”ウッディ・プライド",
@@ -1975,7 +2059,8 @@
         "id": "PXR/S122-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-086": {
     "name": "“ゴミ箱に入りたい”フォーキー",
@@ -1997,7 +2082,8 @@
         "id": "PXR/S122-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-087": {
     "name": "“陶器の人形”ビリー＆ゴート＆グラフ",
@@ -2019,7 +2105,8 @@
         "id": "PXR/S122-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-088": {
     "name": "“毒舌コンビ”ダッキー＆バニー",
@@ -2041,7 +2128,8 @@
         "id": "PXR/S122-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-089": {
     "name": "“アンティークショップにて”ボー・ピープ",
@@ -2063,7 +2151,8 @@
         "id": "PXR/S122-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-090": {
     "name": "“バイクスタントマンのおもちゃ”デューク・カブーン",
@@ -2085,7 +2174,8 @@
         "id": "PXR/S122-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-091": {
     "name": "“射的の景品”ダッキー＆バニー",
@@ -2107,7 +2197,8 @@
         "id": "PXR/S122-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-092": {
     "name": "フォーキー誕生！",
@@ -2129,7 +2220,8 @@
         "id": "PXR/S122-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-093": {
     "name": "公園での再会",
@@ -2151,7 +2243,8 @@
         "id": "PXR/S122-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-094": {
     "name": "受け継いだ保安官バッジ",
@@ -2173,7 +2266,8 @@
         "id": "PXR/S122-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-095": {
     "name": "カブーン！",
@@ -2195,7 +2289,8 @@
         "id": "PXR/S122-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-096": {
     "name": "ショーケースの外の世界へ",
@@ -2217,7 +2312,8 @@
         "id": "PXR/S122-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-097": {
     "name": "大怪獣のお出ましだ！",
@@ -2239,7 +2335,8 @@
         "id": "PXR/S122-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-098": {
     "name": "選択した未来",
@@ -2261,7 +2358,8 @@
         "id": "PXR/S122-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-099": {
     "name": "新たなドラマ",
@@ -2283,7 +2381,8 @@
         "id": "PXR/S122-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PXR/S122-100": {
     "name": "嵐の夜の出来事",
@@ -2305,6 +2404,7 @@
         "id": "PXR/S122-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

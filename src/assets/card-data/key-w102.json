@@ -19,7 +19,8 @@
         "id": "Key/W102-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Key/W102-046": {
     "name": "ルーパーズ ミア",
@@ -41,7 +42,8 @@
         "id": "Key/W102-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Key/W102-047": {
     "name": "想いを歌に乗せる少女 シオナ",
@@ -63,7 +65,8 @@
         "id": "Key/W102-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Key/W102-075": {
     "name": "星の語り手 ゆめみ",
@@ -85,7 +88,8 @@
         "id": "Key/W102-075SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Key/W102-090": {
     "name": "次の公演 屑屋",
@@ -103,6 +107,7 @@
         "id": "Key/W102-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

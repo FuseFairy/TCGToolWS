@@ -19,7 +19,8 @@
         "id": "PRD/W100-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-002": {
     "name": "取り戻すための戦い ペコリーヌ",
@@ -41,7 +42,8 @@
         "id": "PRD/W100-002SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-003": {
     "name": "次なる美食を求めて ペコリーヌ",
@@ -63,7 +65,8 @@
         "id": "PRD/W100-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-004": {
     "name": "可愛いボク ユキ",
@@ -85,7 +88,8 @@
         "id": "PRD/W100-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-005": {
     "name": "変態思考 クウカ",
@@ -107,7 +111,8 @@
         "id": "PRD/W100-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-006": {
     "name": "オモチャの賄賂 ニノン",
@@ -129,7 +134,8 @@
         "id": "PRD/W100-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-007": {
     "name": "幸せの味 ペコリーヌ",
@@ -151,7 +157,8 @@
         "id": "PRD/W100-007OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-008": {
     "name": "問題児のまとめ役 ルカ",
@@ -173,7 +180,8 @@
         "id": "PRD/W100-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-009": {
     "name": "冒険の続き ペコリーヌ",
@@ -191,7 +199,8 @@
         "id": "PRD/W100-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-010": {
     "name": "真の目的 エリコ",
@@ -213,7 +222,8 @@
         "id": "PRD/W100-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-011": {
     "name": "熾炎戦鬼煉獄血盟暗黒団団長 アンナ",
@@ -235,7 +245,8 @@
         "id": "PRD/W100-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-012": {
     "name": "王都決戦 シオリ",
@@ -257,7 +268,8 @@
         "id": "PRD/W100-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-013": {
     "name": "子ども扱い モニカ",
@@ -275,7 +287,8 @@
         "id": "PRD/W100-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-014": {
     "name": "祝いの花火 ニノン",
@@ -293,7 +306,8 @@
         "id": "PRD/W100-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-015": {
     "name": "踏み出す勇気 ペコリーヌ",
@@ -311,7 +325,8 @@
         "id": "PRD/W100-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-016": {
     "name": "責任の所在 モニカ",
@@ -329,7 +344,8 @@
         "id": "PRD/W100-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-017": {
     "name": "魔法少女 ナナカ",
@@ -351,7 +367,8 @@
         "id": "PRD/W100-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-018": {
     "name": "踏み外した道？ クウカ",
@@ -369,7 +386,8 @@
         "id": "PRD/W100-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-019": {
     "name": "城地下の死闘 ミツキ",
@@ -391,7 +409,8 @@
         "id": "PRD/W100-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-020": {
     "name": "一発逆転 ユキ",
@@ -409,7 +428,8 @@
         "id": "PRD/W100-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-021": {
     "name": "わたしの名前 ペコリーヌ",
@@ -427,7 +447,8 @@
         "id": "PRD/W100-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-022": {
     "name": "全力全開！プリンセスストライク！",
@@ -449,7 +470,8 @@
         "id": "PRD/W100-022R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-023": {
     "name": "沢山の仲間",
@@ -471,7 +493,8 @@
         "id": "PRD/W100-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-024": {
     "name": "零の太刀・水月鏡花",
@@ -493,7 +516,8 @@
         "id": "PRD/W100-024R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-025": {
     "name": "探偵として カスミ",
@@ -515,7 +539,8 @@
         "id": "PRD/W100-025SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-026": {
     "name": "ダウナー系の少女 クロエ",
@@ -537,7 +562,8 @@
         "id": "PRD/W100-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-027": {
     "name": "いつまでも、どこまでも コッコロ",
@@ -559,7 +585,8 @@
         "id": "PRD/W100-027SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-028": {
     "name": "自称世界の美少女 チエル",
@@ -581,7 +608,8 @@
         "id": "PRD/W100-028SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-029": {
     "name": "ひとつの真実 ユニ",
@@ -603,7 +631,8 @@
         "id": "PRD/W100-029SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-030": {
     "name": "笑顔が一番 カオリ",
@@ -625,7 +654,8 @@
         "id": "PRD/W100-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-031": {
     "name": "なかよし部 ユニ",
@@ -647,7 +677,8 @@
         "id": "PRD/W100-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-032": {
     "name": "幸せの味 コッコロ",
@@ -669,7 +700,8 @@
         "id": "PRD/W100-032OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-033": {
     "name": "ほんわかゆるふわ姫 マホ",
@@ -691,7 +723,8 @@
         "id": "PRD/W100-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-034": {
     "name": "男勝りな性格 マコト",
@@ -713,7 +746,8 @@
         "id": "PRD/W100-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-035": {
     "name": "次なる美食を求めて コッコロ",
@@ -735,7 +769,8 @@
         "id": "PRD/W100-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-036": {
     "name": "名探偵 カスミ",
@@ -757,7 +792,8 @@
         "id": "PRD/W100-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-037": {
     "name": "輝かしきアオハル アオイ",
@@ -779,7 +815,8 @@
         "id": "PRD/W100-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-038": {
     "name": "王都決戦 ハツネ",
@@ -801,7 +838,8 @@
         "id": "PRD/W100-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-039": {
     "name": "託された願い コッコロ",
@@ -819,7 +857,8 @@
         "id": "PRD/W100-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-040": {
     "name": "怪盗 タマキ",
@@ -841,7 +880,8 @@
         "id": "PRD/W100-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-041": {
     "name": "なかよし部 チエル",
@@ -859,7 +899,8 @@
         "id": "PRD/W100-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-042": {
     "name": "なかよし部 クロエ",
@@ -877,7 +918,8 @@
         "id": "PRD/W100-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-043": {
     "name": "恐怖体験 チエル",
@@ -895,7 +937,8 @@
         "id": "PRD/W100-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-044": {
     "name": "冒険の続き コッコロ",
@@ -913,7 +956,8 @@
         "id": "PRD/W100-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-045": {
     "name": "碧の守り人事件 クロエ",
@@ -931,7 +975,8 @@
         "id": "PRD/W100-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-046": {
     "name": "奪還作戦 カオリ",
@@ -949,7 +994,8 @@
         "id": "PRD/W100-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-047": {
     "name": "あられもない姿 コッコロ",
@@ -967,7 +1013,8 @@
         "id": "PRD/W100-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-048": {
     "name": "島の調査 カスミ",
@@ -985,7 +1032,8 @@
         "id": "PRD/W100-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-049": {
     "name": "シャドウの謎 マホ",
@@ -1003,7 +1051,8 @@
         "id": "PRD/W100-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-050": {
     "name": "ビースト族を守る自警団 マコト",
@@ -1021,7 +1070,8 @@
         "id": "PRD/W100-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-051": {
     "name": "探求心の赴くままに ユニ",
@@ -1039,7 +1089,8 @@
         "id": "PRD/W100-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-052": {
     "name": "愛玩鉱物ロゼッタ",
@@ -1057,7 +1108,8 @@
         "id": "PRD/W100-052",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-053": {
     "name": "虚構なる世界へ",
@@ -1079,7 +1131,8 @@
         "id": "PRD/W100-053R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-054": {
     "name": "血湧き肉躍る冒険",
@@ -1101,7 +1154,8 @@
         "id": "PRD/W100-054R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-055": {
     "name": "琉球犬ナックルアロー",
@@ -1123,7 +1177,8 @@
         "id": "PRD/W100-055R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-056": {
     "name": "手を差し伸べる勇気 キャル",
@@ -1145,7 +1200,8 @@
         "id": "PRD/W100-056SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-057": {
     "name": "変貌大妃 ネネカ",
@@ -1167,7 +1223,8 @@
         "id": "PRD/W100-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-058": {
     "name": "次なる美食を求めて キャル",
@@ -1189,7 +1246,8 @@
         "id": "PRD/W100-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-059": {
     "name": "仲間との絆 キャル",
@@ -1211,7 +1269,8 @@
         "id": "PRD/W100-059OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-060": {
     "name": "国の守護者 ジュン",
@@ -1233,7 +1292,8 @@
         "id": "PRD/W100-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-061": {
     "name": "生徒想いの優しい先生 イオ",
@@ -1255,7 +1315,8 @@
         "id": "PRD/W100-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-062": {
     "name": "ルーセント学院の落ちこぼれ スズナ",
@@ -1277,7 +1338,8 @@
         "id": "PRD/W100-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-063": {
     "name": "ルーセント学院の落ちこぼれ ミサキ",
@@ -1299,7 +1361,8 @@
         "id": "PRD/W100-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-064": {
     "name": "街の平和 マツリ",
@@ -1321,7 +1384,8 @@
         "id": "PRD/W100-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-065": {
     "name": "王都決戦 ミヤコ",
@@ -1343,7 +1407,8 @@
         "id": "PRD/W100-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-066": {
     "name": "守るべき人々 トモ",
@@ -1365,7 +1430,8 @@
         "id": "PRD/W100-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-067": {
     "name": "心の叫び キャル",
@@ -1383,7 +1449,8 @@
         "id": "PRD/W100-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-068": {
     "name": "宴の始まり クリスティーナ",
@@ -1405,7 +1472,8 @@
         "id": "PRD/W100-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-069": {
     "name": "前を向いて ジュン",
@@ -1423,7 +1491,8 @@
         "id": "PRD/W100-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-070": {
     "name": "逆転の一手 スズナ",
@@ -1441,7 +1510,8 @@
         "id": "PRD/W100-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-071": {
     "name": "幸せな時間 キャル",
@@ -1459,7 +1529,8 @@
         "id": "PRD/W100-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-072": {
     "name": "騎士道の教え トモ",
@@ -1477,7 +1548,8 @@
         "id": "PRD/W100-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-073": {
     "name": "誓約女君 クリスティーナ",
@@ -1495,7 +1567,8 @@
         "id": "PRD/W100-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-074": {
     "name": "騎士団の務め マツリ",
@@ -1513,7 +1586,8 @@
         "id": "PRD/W100-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-075": {
     "name": "大人の魅力？ ミサキ",
@@ -1531,7 +1605,8 @@
         "id": "PRD/W100-075",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-076": {
     "name": "冒険の続き キャル",
@@ -1549,7 +1624,8 @@
         "id": "PRD/W100-076",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-077": {
     "name": "奪われた理想郷",
@@ -1567,7 +1643,8 @@
         "id": "PRD/W100-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-078": {
     "name": "紡がれた絆",
@@ -1589,7 +1666,8 @@
         "id": "PRD/W100-078R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-079": {
     "name": "インフェルノシールド",
@@ -1611,7 +1689,8 @@
         "id": "PRD/W100-079R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-080": {
     "name": "迷宮女王 ラビリスタ",
@@ -1633,7 +1712,8 @@
         "id": "PRD/W100-080SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-081": {
     "name": "歌う喜び チカ",
@@ -1655,7 +1735,8 @@
         "id": "PRD/W100-081SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-082": {
     "name": "最高の衣装 ツムギ",
@@ -1677,7 +1758,8 @@
         "id": "PRD/W100-082SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-083": {
     "name": "みんなを笑顔に ノゾミ",
@@ -1699,7 +1781,8 @@
         "id": "PRD/W100-083SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-084": {
     "name": "子供っぽいお姉ちゃん アヤネ",
@@ -1721,7 +1804,8 @@
         "id": "PRD/W100-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-085": {
     "name": "誓い ユウキ",
@@ -1743,7 +1827,8 @@
         "id": "PRD/W100-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-086": {
     "name": "絆を信じて ラビリスタ",
@@ -1765,7 +1850,8 @@
         "id": "PRD/W100-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-087": {
     "name": "臆病な恥ずかしがり屋 クルミ",
@@ -1787,7 +1873,8 @@
         "id": "PRD/W100-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-088": {
     "name": "王都決戦 ミソギ",
@@ -1809,7 +1896,8 @@
         "id": "PRD/W100-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-089": {
     "name": "冒険の続き ユウキ",
@@ -1827,7 +1915,8 @@
         "id": "PRD/W100-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-090": {
     "name": "歌って踊って戦うアイドル ノゾミ",
@@ -1845,7 +1934,8 @@
         "id": "PRD/W100-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-091": {
     "name": "王都決戦 キョウカ",
@@ -1867,7 +1957,8 @@
         "id": "PRD/W100-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-092": {
     "name": "歌って踊って戦うアイドル チカ",
@@ -1885,7 +1976,8 @@
         "id": "PRD/W100-092",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-093": {
     "name": "新人ウェイター サレン",
@@ -1907,7 +1999,8 @@
         "id": "PRD/W100-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-094": {
     "name": "私の幸せ ツムギ",
@@ -1925,7 +2018,8 @@
         "id": "PRD/W100-094",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-095": {
     "name": "世界を構築する力 ラビリスタ",
@@ -1943,7 +2037,8 @@
         "id": "PRD/W100-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-096": {
     "name": "王都決戦 ミミ",
@@ -1965,7 +2060,8 @@
         "id": "PRD/W100-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-097": {
     "name": "青天の霹靂 リノ",
@@ -1987,7 +2083,8 @@
         "id": "PRD/W100-097S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-098": {
     "name": "二度と失わないために ユウキ",
@@ -2005,7 +2102,8 @@
         "id": "PRD/W100-098",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-099": {
     "name": "歌って踊って戦うアイドル ツムギ",
@@ -2023,7 +2121,8 @@
         "id": "PRD/W100-099",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-100": {
     "name": "本の記憶 クルミ",
@@ -2041,7 +2140,8 @@
         "id": "PRD/W100-100",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-101": {
     "name": "アイドルの神髄 ノゾミ",
@@ -2059,7 +2159,8 @@
         "id": "PRD/W100-101",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-102": {
     "name": "運命の出会い シズル",
@@ -2081,7 +2182,8 @@
         "id": "PRD/W100-102S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-103": {
     "name": "仲間との絆 ユウキ",
@@ -2099,7 +2201,8 @@
         "id": "PRD/W100-103",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-104": {
     "name": "記憶を求めて チカ",
@@ -2121,7 +2224,8 @@
         "id": "PRD/W100-104S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-105": {
     "name": "親友で家族 アヤネ",
@@ -2139,7 +2243,8 @@
         "id": "PRD/W100-105",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-106": {
     "name": "託した願い",
@@ -2157,7 +2262,8 @@
         "id": "PRD/W100-106",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-107": {
     "name": "カルミナ！オンステージ！",
@@ -2179,7 +2285,8 @@
         "id": "PRD/W100-107R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-108": {
     "name": "もう一度、キミとつながる物語",
@@ -2201,7 +2308,8 @@
         "id": "PRD/W100-108R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W100-109": {
     "name": "激闘の七冠",
@@ -2223,7 +2331,8 @@
         "id": "PRD/W100-109R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W100-110": {
     "name": "風纏う歌",
@@ -2245,6 +2354,7 @@
         "id": "PRD/W100-110R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -19,7 +19,8 @@
         "id": "DAL/WE33-001OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-002": {
     "name": "悪夢を纏いし少女 狂三",
@@ -41,7 +42,8 @@
         "id": "DAL/WE33-002OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-003": {
     "name": "黒衣の精霊  狂三",
@@ -59,7 +61,8 @@
         "id": "DAL/WE33-003",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/WE33-004": {
     "name": "“〈刻々帝〉”狂三",
@@ -81,7 +84,8 @@
         "id": "DAL/WE33-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/WE33-005": {
     "name": "突き付けた銃口 狂三",
@@ -99,7 +103,8 @@
         "id": "DAL/WE33-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-006": {
     "name": "来訪者 狂三",
@@ -117,7 +122,8 @@
         "id": "DAL/WE33-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-007": {
     "name": "格の違い 狂三",
@@ -135,7 +141,8 @@
         "id": "DAL/WE33-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/WE33-008": {
     "name": "元の姿 響",
@@ -153,7 +160,8 @@
         "id": "DAL/WE33-008",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-009": {
     "name": "泰然自若 狂三",
@@ -171,7 +179,8 @@
         "id": "DAL/WE33-009",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-010": {
     "name": "合理的な判断 狂三",
@@ -189,7 +198,8 @@
         "id": "DAL/WE33-010",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/WE33-011": {
     "name": "新たな物語 狂三&響",
@@ -207,7 +217,8 @@
         "id": "DAL/WE33-011",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/WE33-012": {
     "name": "“【一の弾】”狂三",
@@ -225,7 +236,8 @@
         "id": "DAL/WE33-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-013": {
     "name": "竜虎相搏 狂三",
@@ -243,7 +255,8 @@
         "id": "DAL/WE33-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-014": {
     "name": "精密射撃 狂三",
@@ -261,7 +274,8 @@
         "id": "DAL/WE33-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/WE33-015": {
     "name": "束の間の共闘 響",
@@ -279,7 +293,8 @@
         "id": "DAL/WE33-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/WE33-016": {
     "name": "色褪せない思い出 狂三",
@@ -297,7 +312,8 @@
         "id": "DAL/WE33-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-017": {
     "name": "追憶の中で 響",
@@ -315,7 +331,8 @@
         "id": "DAL/WE33-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-018": {
     "name": "問答無用 狂三",
@@ -333,7 +350,8 @@
         "id": "DAL/WE33-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-019": {
     "name": "抱えた白猫 狂三",
@@ -351,7 +369,8 @@
         "id": "DAL/WE33-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-020": {
     "name": "取り引き 狂三",
@@ -369,7 +388,8 @@
         "id": "DAL/WE33-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-021": {
     "name": "駆け抜ける凶弾 狂三",
@@ -387,7 +407,8 @@
         "id": "DAL/WE33-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/WE33-022": {
     "name": "居るはずのない影 狂三",
@@ -405,7 +426,8 @@
         "id": "DAL/WE33-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/WE33-023": {
     "name": "解き放たれた鎖",
@@ -423,7 +445,8 @@
         "id": "DAL/WE33-023",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-024": {
     "name": "対峙する黒白",
@@ -445,7 +468,8 @@
         "id": "DAL/WE33-024SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-025": {
     "name": "〈刻々帝〉",
@@ -463,7 +487,8 @@
         "id": "DAL/WE33-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-026": {
     "name": "白衣の精霊 白の女王",
@@ -481,7 +506,8 @@
         "id": "DAL/WE33-026",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-027": {
     "name": "“〈狂々帝〉”白の女王",
@@ -503,7 +529,8 @@
         "id": "DAL/WE33-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/WE33-028": {
     "name": "宣戦布告 白の女王",
@@ -521,7 +548,8 @@
         "id": "DAL/WE33-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-029": {
     "name": "辿り着くべき結末 白の女王",
@@ -539,7 +567,8 @@
         "id": "DAL/WE33-029",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-030": {
     "name": "白く沈む影 白の女王",
@@ -557,7 +586,8 @@
         "id": "DAL/WE33-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/WE33-031": {
     "name": "“人形遣い”パニエ",
@@ -575,7 +605,8 @@
         "id": "DAL/WE33-031",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-032": {
     "name": "幸せな日々 紗和",
@@ -593,7 +624,8 @@
         "id": "DAL/WE33-032",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-033": {
     "name": "くノ一 唯",
@@ -611,7 +643,8 @@
         "id": "DAL/WE33-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-034": {
     "name": "突き付けた銃口 白の女王",
@@ -629,7 +662,8 @@
         "id": "DAL/WE33-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-035": {
     "name": "色褪せない思い出 紗和",
@@ -647,7 +681,8 @@
         "id": "DAL/WE33-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-036": {
     "name": "弾く弾丸 白の女王",
@@ -665,7 +700,8 @@
         "id": "DAL/WE33-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-037": {
     "name": "追憶の中で 蒼",
@@ -683,7 +719,8 @@
         "id": "DAL/WE33-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-038": {
     "name": "“【天秤の弾】”白の女王",
@@ -701,7 +738,8 @@
         "id": "DAL/WE33-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-039": {
     "name": "親友の面影 白の女王",
@@ -719,7 +757,8 @@
         "id": "DAL/WE33-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-040": {
     "name": "致命の一手 白の女王",
@@ -737,7 +776,8 @@
         "id": "DAL/WE33-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-041": {
     "name": "追憶の中で イサミ",
@@ -755,7 +795,8 @@
         "id": "DAL/WE33-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-042": {
     "name": "白の空間 白の女王",
@@ -773,7 +814,8 @@
         "id": "DAL/WE33-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-043": {
     "name": "正しい剣 イサミ",
@@ -791,7 +833,8 @@
         "id": "DAL/WE33-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-044": {
     "name": "追憶の中で パニエ",
@@ -809,7 +852,8 @@
         "id": "DAL/WE33-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-045": {
     "name": "孤独の世界 白の女王",
@@ -827,7 +871,8 @@
         "id": "DAL/WE33-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/WE33-046": {
     "name": "圧倒的な差 白の女王",
@@ -845,7 +890,8 @@
         "id": "DAL/WE33-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/WE33-047": {
     "name": "追憶の中で 唯",
@@ -863,7 +909,8 @@
         "id": "DAL/WE33-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/WE33-048": {
     "name": "戦闘態勢 蒼",
@@ -881,7 +928,8 @@
         "id": "DAL/WE33-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/WE33-049": {
     "name": "ぶつかり合う思い",
@@ -903,7 +951,8 @@
         "id": "DAL/WE33-049SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/WE33-050": {
     "name": "〈狂々帝〉",
@@ -921,6 +970,7 @@
         "id": "DAL/WE33-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "5HY/W90-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "5HY/W90-P02": {
     "name": "新しい物語 中野 一花",
@@ -37,7 +38,8 @@
         "id": "5HY/W90-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W90-P03": {
     "name": "新しい物語 中野 二乃",
@@ -59,7 +61,8 @@
         "id": "5HY/W90-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W90-P04": {
     "name": "新しい物語 中野 三玖",
@@ -81,7 +84,8 @@
         "id": "5HY/W90-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W90-P05": {
     "name": "新しい物語 中野 四葉",
@@ -103,7 +107,8 @@
         "id": "5HY/W90-P05S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W90-P06": {
     "name": "新しい物語 中野 五月",
@@ -125,7 +130,8 @@
         "id": "5HY/W90-P06S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W90-P07": {
     "name": "絢爛華麗 中野 一花",
@@ -143,7 +149,8 @@
         "id": "5HY/W90-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "5HY/W90-P08": {
     "name": "絢爛華麗 中野 二乃",
@@ -161,7 +168,8 @@
         "id": "5HY/W90-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W90-P09": {
     "name": "絢爛華麗 中野 三玖",
@@ -179,7 +187,8 @@
         "id": "5HY/W90-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "5HY/W90-P10": {
     "name": "絢爛華麗 中野 四葉",
@@ -197,7 +206,8 @@
         "id": "5HY/W90-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W90-P11": {
     "name": "絢爛華麗 中野 五月",
@@ -215,7 +225,8 @@
         "id": "5HY/W90-P11",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W90-P12": {
     "name": "五つ子 一花＆二乃＆三玖＆四葉＆五月",
@@ -237,7 +248,8 @@
         "id": "5HY/W90-P12S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "5HY/W90-101": {
     "name": "お家賃 中野 一花",
@@ -255,7 +267,8 @@
         "id": "5HY/W90-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "5HY/W90-102": {
     "name": "守られないプライバシー 中野 二乃",
@@ -273,7 +286,8 @@
         "id": "5HY/W90-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W90-103": {
     "name": "困惑の眼差し 中野 三玖",
@@ -291,7 +305,8 @@
         "id": "5HY/W90-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W90-104": {
     "name": "スポーツ万能 中野 四葉",
@@ -309,7 +324,8 @@
         "id": "5HY/W90-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "5HY/W90-105": {
     "name": "超えた一線 中野 五月",
@@ -327,6 +343,7 @@
         "id": "5HY/W90-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

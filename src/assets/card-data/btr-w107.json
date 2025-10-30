@@ -19,7 +19,8 @@
         "id": "BTR/W107-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-002": {
     "name": "“ぼっちちゃん” 後藤ひとり",
@@ -41,7 +42,8 @@
         "id": "BTR/W107-002KBR",
         "rarity": "KBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-003": {
     "name": "夢への確信 伊地知虹夏",
@@ -63,7 +65,8 @@
         "id": "BTR/W107-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-004": {
     "name": "STARRYにかける思い 伊地知虹夏",
@@ -85,7 +88,8 @@
         "id": "BTR/W107-004SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-005": {
     "name": "重なる音 結束バンド",
@@ -107,7 +111,8 @@
         "id": "BTR/W107-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-006": {
     "name": "虹夏の夏休み 伊地知虹夏",
@@ -129,7 +134,8 @@
         "id": "BTR/W107-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-007": {
     "name": "海岸の景色 後藤ひとり",
@@ -151,7 +157,8 @@
         "id": "BTR/W107-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-008": {
     "name": "また明日 後藤ひとり",
@@ -173,7 +180,8 @@
         "id": "BTR/W107-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-009": {
     "name": "決壊 伊地知虹夏",
@@ -195,7 +203,8 @@
         "id": "BTR/W107-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-010": {
     "name": "世話焼きメイド 伊地知虹夏",
@@ -217,7 +226,8 @@
         "id": "BTR/W107-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-011": {
     "name": "秘密だよ！ 伊地知虹夏",
@@ -239,7 +249,8 @@
         "id": "BTR/W107-011KBR",
         "rarity": "KBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-012": {
     "name": "目を見て笑顔で 後藤ひとり",
@@ -261,7 +272,8 @@
         "id": "BTR/W107-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-013": {
     "name": "成長？ 後藤ひとり",
@@ -283,7 +295,8 @@
         "id": "BTR/W107-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-014": {
     "name": "通の流儀 山田リョウ",
@@ -305,7 +318,8 @@
         "id": "BTR/W107-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-015": {
     "name": "ひとりの世界 後藤ひとり",
@@ -327,7 +341,8 @@
         "id": "BTR/W107-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-016": {
     "name": "急展開なお願い 伊地知虹夏",
@@ -349,7 +364,8 @@
         "id": "BTR/W107-016KBR",
         "rarity": "KBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-017": {
     "name": "本当の夢 伊地知虹夏",
@@ -371,7 +387,8 @@
         "id": "BTR/W107-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-018": {
     "name": "露骨な態度 山田リョウ",
@@ -393,7 +410,8 @@
         "id": "BTR/W107-018KBR",
         "rarity": "KBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-019": {
     "name": "白に染まる 後藤ひとり",
@@ -415,7 +433,8 @@
         "id": "BTR/W107-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-020": {
     "name": "邪な計画 後藤ひとり",
@@ -437,7 +456,8 @@
         "id": "BTR/W107-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-021": {
     "name": "反省 山田リョウ",
@@ -459,7 +479,8 @@
         "id": "BTR/W107-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-022": {
     "name": "メンバー急募 伊地知虹夏",
@@ -481,7 +502,8 @@
         "id": "BTR/W107-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-023": {
     "name": "カラン、コロン 山田リョウ",
@@ -503,7 +525,8 @@
         "id": "BTR/W107-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-024": {
     "name": "リョウの夏休み 山田リョウ",
@@ -525,7 +548,8 @@
         "id": "BTR/W107-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-025": {
     "name": "驚愕 山田リョウ",
@@ -547,7 +571,8 @@
         "id": "BTR/W107-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-026": {
     "name": "見守る姿勢 伊地知星歌",
@@ -569,7 +594,8 @@
         "id": "BTR/W107-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-027": {
     "name": "具体性のない予定 伊地知虹夏",
@@ -591,7 +617,8 @@
         "id": "BTR/W107-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-028": {
     "name": "忘れていたカワイさ 後藤ひとり",
@@ -613,7 +640,8 @@
         "id": "BTR/W107-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-029": {
     "name": "みんなの為に 後藤ひとり",
@@ -635,7 +663,8 @@
         "id": "BTR/W107-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-030": {
     "name": "完熟マンゴー",
@@ -657,7 +686,8 @@
         "id": "BTR/W107-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-031": {
     "name": "私は陽キャ！",
@@ -683,7 +713,8 @@
         "id": "BTR/W107-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-032": {
     "name": "道を照らす光",
@@ -705,7 +736,8 @@
         "id": "BTR/W107-032OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-033": {
     "name": "武道館ライブの先",
@@ -727,7 +759,8 @@
         "id": "BTR/W107-033R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-034": {
     "name": "将来を憂う叫び",
@@ -749,7 +782,8 @@
         "id": "BTR/W107-034R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-035": {
     "name": "ミステリアスの真相",
@@ -771,7 +805,8 @@
         "id": "BTR/W107-035R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-036": {
     "name": "目指せ！ロックスター！ 喜多郁代",
@@ -793,7 +828,8 @@
         "id": "BTR/W107-036SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-037": {
     "name": "目指せ！ロックスター！ 山田リョウ",
@@ -815,7 +851,8 @@
         "id": "BTR/W107-037SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-038": {
     "name": "貫きたい音楽 山田リョウ",
@@ -837,7 +874,8 @@
         "id": "BTR/W107-038SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-039": {
     "name": "湧き出る自信 山田リョウ",
@@ -859,7 +897,8 @@
         "id": "BTR/W107-039SR",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-040": {
     "name": "肩を並べて 結束バンド",
@@ -881,7 +920,8 @@
         "id": "BTR/W107-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-041": {
     "name": "マッシュヘアー 山田リョウ",
@@ -903,7 +943,8 @@
         "id": "BTR/W107-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-042": {
     "name": "呆れ顔 伊地知虹夏",
@@ -925,7 +966,8 @@
         "id": "BTR/W107-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-043": {
     "name": "隠してた名前 喜多郁代",
@@ -947,7 +989,8 @@
         "id": "BTR/W107-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-044": {
     "name": "ベース換金術 山田リョウ",
@@ -969,7 +1012,8 @@
         "id": "BTR/W107-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-045": {
     "name": "金欠の末路 山田リョウ",
@@ -991,7 +1035,8 @@
         "id": "BTR/W107-045KBR",
         "rarity": "KBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-046": {
     "name": "イソスタ映え 喜多郁代",
@@ -1013,7 +1058,8 @@
         "id": "BTR/W107-046KBR",
         "rarity": "KBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-047": {
     "name": "一人気楽に 山田リョウ",
@@ -1035,7 +1081,8 @@
         "id": "BTR/W107-047KBR",
         "rarity": "KBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-048": {
     "name": "笑顔の接客 伊地知虹夏",
@@ -1057,7 +1104,8 @@
         "id": "BTR/W107-048KBR",
         "rarity": "KBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-049": {
     "name": "男装執事 山田リョウ",
@@ -1079,7 +1127,8 @@
         "id": "BTR/W107-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-050": {
     "name": "適当に…弾いただけ… 山田リョウ",
@@ -1101,7 +1150,8 @@
         "id": "BTR/W107-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-051": {
     "name": "郁代の夏休み 喜多郁代",
@@ -1123,7 +1173,8 @@
         "id": "BTR/W107-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-052": {
     "name": "形から 伊地知虹夏",
@@ -1145,7 +1196,8 @@
         "id": "BTR/W107-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-053": {
     "name": "アー写を撮ろう！ 伊地知虹夏",
@@ -1167,7 +1219,8 @@
         "id": "BTR/W107-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-054": {
     "name": "打ち解け懐かれ 伊地知虹夏",
@@ -1189,7 +1242,8 @@
         "id": "BTR/W107-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-055": {
     "name": "猛烈な好意 喜多郁代",
@@ -1211,7 +1265,8 @@
         "id": "BTR/W107-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-056": {
     "name": "振り回されても 喜多郁代",
@@ -1233,7 +1288,8 @@
         "id": "BTR/W107-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-057": {
     "name": "接客もバッチリ 喜多郁代",
@@ -1255,7 +1311,8 @@
         "id": "BTR/W107-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-058": {
     "name": "姉譲りの眼差し 伊地知虹夏",
@@ -1277,7 +1334,8 @@
         "id": "BTR/W107-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-059": {
     "name": "後輩への借金 山田リョウ",
@@ -1299,7 +1357,8 @@
         "id": "BTR/W107-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-060": {
     "name": "酒酔い天才ベーシスト 廣井きくり",
@@ -1321,7 +1380,8 @@
         "id": "BTR/W107-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-061": {
     "name": "ギラつく瞳 山田リョウ",
@@ -1343,7 +1403,8 @@
         "id": "BTR/W107-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-062": {
     "name": "陽の下でハイテンション！",
@@ -1365,7 +1426,8 @@
         "id": "BTR/W107-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-063": {
     "name": "止まらない飲酒",
@@ -1387,7 +1449,8 @@
         "id": "BTR/W107-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-064": {
     "name": "自分の色",
@@ -1409,7 +1472,8 @@
         "id": "BTR/W107-064OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-065": {
     "name": "バンドとしての成長？",
@@ -1431,7 +1495,8 @@
         "id": "BTR/W107-065R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-066": {
     "name": "ライブに向けて",
@@ -1453,7 +1518,8 @@
         "id": "BTR/W107-066R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-067": {
     "name": "心ときめく出会い",
@@ -1475,7 +1541,8 @@
         "id": "BTR/W107-067R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-068": {
     "name": "ギターヒーローの素顔 後藤ひとり",
@@ -1497,7 +1564,8 @@
         "id": "BTR/W107-068SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-069": {
     "name": "普通じゃないことへの憧れ 喜多郁代",
@@ -1519,7 +1587,8 @@
         "id": "BTR/W107-069SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-070": {
     "name": "目指せ！ロックスター！ 後藤ひとり",
@@ -1541,7 +1610,8 @@
         "id": "BTR/W107-070SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-071": {
     "name": "渾身のアドリブ 後藤ひとり",
@@ -1563,7 +1633,8 @@
         "id": "BTR/W107-071KBR",
         "rarity": "KBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-072": {
     "name": "4人で！ 結束バンド",
@@ -1585,7 +1656,8 @@
         "id": "BTR/W107-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-073": {
     "name": "褒められて有頂天 後藤ひとり",
@@ -1607,7 +1679,8 @@
         "id": "BTR/W107-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-074": {
     "name": "NO協調性！NOライフ！ 後藤ひとり",
@@ -1629,7 +1702,8 @@
         "id": "BTR/W107-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-075": {
     "name": "夕焼けの帰り道 喜多郁代",
@@ -1651,7 +1725,8 @@
         "id": "BTR/W107-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-076": {
     "name": "成長ストローク 喜多郁代",
@@ -1673,7 +1748,8 @@
         "id": "BTR/W107-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-077": {
     "name": "張りすぎた見栄 後藤ひとり",
@@ -1695,7 +1771,8 @@
         "id": "BTR/W107-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-078": {
     "name": "美味しくなる呪文 喜多郁代",
@@ -1717,7 +1794,8 @@
         "id": "BTR/W107-078KBR",
         "rarity": "KBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-079": {
     "name": "リミッター解除 喜多郁代",
@@ -1739,7 +1817,8 @@
         "id": "BTR/W107-079KBR",
         "rarity": "KBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-080": {
     "name": "チケットの行方 後藤ひとり",
@@ -1761,7 +1840,8 @@
         "id": "BTR/W107-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-081": {
     "name": "回想のギター少女 後藤ひとり",
@@ -1783,7 +1863,8 @@
         "id": "BTR/W107-081KBR",
         "rarity": "KBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-082": {
     "name": "プランクトン後藤 後藤ひとり",
@@ -1805,7 +1886,8 @@
         "id": "BTR/W107-082KBR",
         "rarity": "KBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-083": {
     "name": "王道メイド 喜多郁代",
@@ -1827,7 +1909,8 @@
         "id": "BTR/W107-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-084": {
     "name": "想像してごらん… 喜多郁代",
@@ -1849,7 +1932,8 @@
         "id": "BTR/W107-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-085": {
     "name": "へ？ 後藤ひとり",
@@ -1871,7 +1955,8 @@
         "id": "BTR/W107-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-086": {
     "name": "承認欲求モンスター 後藤ひとり",
@@ -1893,7 +1978,8 @@
         "id": "BTR/W107-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-087": {
     "name": "メイド服 後藤ひとり",
@@ -1915,7 +2001,8 @@
         "id": "BTR/W107-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-088": {
     "name": "歩む決意 喜多郁代",
@@ -1937,7 +2024,8 @@
         "id": "BTR/W107-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-089": {
     "name": "動き出す物語 後藤ひとり",
@@ -1959,7 +2047,8 @@
         "id": "BTR/W107-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-090": {
     "name": "避けたい展開 後藤ひとり",
@@ -1981,7 +2070,8 @@
         "id": "BTR/W107-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-091": {
     "name": "皆に知って欲しくて 喜多郁代",
@@ -2003,7 +2093,8 @@
         "id": "BTR/W107-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-092": {
     "name": "後藤ふたり",
@@ -2025,7 +2116,8 @@
         "id": "BTR/W107-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-093": {
     "name": "陽のオーラ 喜多郁代",
@@ -2047,7 +2139,8 @@
         "id": "BTR/W107-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-094": {
     "name": "迸るパワー 後藤ひとり",
@@ -2069,7 +2162,8 @@
         "id": "BTR/W107-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-095": {
     "name": "失態の歴史",
@@ -2095,7 +2189,8 @@
         "id": "BTR/W107-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-096": {
     "name": "失態の歴史",
@@ -2121,7 +2216,8 @@
         "id": "BTR/W107-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-097": {
     "name": "現状を壊すオーバードライブ",
@@ -2143,7 +2239,8 @@
         "id": "BTR/W107-097OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-098": {
     "name": "成長と信頼の8小節",
@@ -2165,7 +2262,8 @@
         "id": "BTR/W107-098OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-099": {
     "name": "幾度と見た妄想のライブ",
@@ -2187,7 +2285,8 @@
         "id": "BTR/W107-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-100": {
     "name": "増えていく思い出",
@@ -2209,6 +2308,7 @@
         "id": "BTR/W107-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

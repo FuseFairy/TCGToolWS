@@ -15,7 +15,8 @@
         "id": "Gid/WS02-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gid/WS02-P16": {
     "name": "虹の波長 インデックス",
@@ -33,6 +34,7 @@
         "id": "Gid/WS02-P16",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

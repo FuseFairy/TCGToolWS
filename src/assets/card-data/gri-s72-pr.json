@@ -15,7 +15,8 @@
         "id": "GRI/S72-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S72-P02": {
     "name": "バニーガール 由美子",
@@ -33,7 +34,8 @@
         "id": "GRI/S72-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S72-P03": {
     "name": "お姉ちゃんごっこ 天音",
@@ -51,7 +53,8 @@
         "id": "GRI/S72-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S72-101": {
     "name": "悲痛な覚悟 由美子",
@@ -69,7 +72,8 @@
         "id": "GRI/S72-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S72-102": {
     "name": "二人でお風呂 天音",
@@ -87,7 +91,8 @@
         "id": "GRI/S72-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S72-103": {
     "name": "終わりからの始まり みちる",
@@ -105,7 +110,8 @@
         "id": "GRI/S72-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S72-104": {
     "name": "うたたね 幸",
@@ -123,7 +129,8 @@
         "id": "GRI/S72-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S72-105": {
     "name": "不器用な感謝 蒔菜",
@@ -141,6 +148,7 @@
         "id": "GRI/S72-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

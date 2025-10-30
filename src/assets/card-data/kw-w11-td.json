@@ -15,7 +15,8 @@
         "id": "KW/W11-102",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KW/W11-105": {
     "name": "“ふらんくり～”クド",
@@ -33,7 +34,8 @@
         "id": "KW/W11-105",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KW/W11-T08": {
     "name": "科学部の部長 氷室",
@@ -51,7 +53,8 @@
         "id": "KW/W11-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KW/W11-T09": {
     "name": "家庭科部の部長 あーちゃん先輩",
@@ -69,7 +72,8 @@
         "id": "KW/W11-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KW/W11-T10": {
     "name": "湯上り 氷室",
@@ -87,7 +91,8 @@
         "id": "KW/W11-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KW/W11-T11": {
     "name": "お買いもの クド",
@@ -105,7 +110,8 @@
         "id": "KW/W11-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KW/W11-T12": {
     "name": "ご隠居 あーちゃん先輩",
@@ -123,7 +129,8 @@
         "id": "KW/W11-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KW/W11-T13": {
     "name": "プールサイドの遭遇",
@@ -141,7 +148,8 @@
         "id": "KW/W11-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KW/W11-T14": {
     "name": "えきぞちっくな誓い",
@@ -159,6 +167,7 @@
         "id": "KW/W11-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

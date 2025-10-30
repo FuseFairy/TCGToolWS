@@ -15,7 +15,8 @@
         "id": "MTI/S83-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-T02": {
     "name": "“卒業試験”ルーデウス",
@@ -37,7 +38,8 @@
         "id": "MTI/S83-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-T03": {
     "name": "パウロ・グレイラット",
@@ -55,7 +57,8 @@
         "id": "MTI/S83-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-T04": {
     "name": "ゼニス・グレイラット",
@@ -73,7 +76,8 @@
         "id": "MTI/S83-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-T05": {
     "name": "リーリャ・グレイラット",
@@ -91,7 +95,8 @@
         "id": "MTI/S83-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-T06": {
     "name": "“無職転生”ルーデウス",
@@ -113,7 +118,8 @@
         "id": "MTI/S83-T06SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-T07": {
     "name": "“新たな生の始まり”ルーデウス",
@@ -131,7 +137,8 @@
         "id": "MTI/S83-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-T08": {
     "name": "“魔術の習得”ルーデウス",
@@ -149,7 +156,8 @@
         "id": "MTI/S83-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-T09": {
     "name": "“剣の鍛錬”パウロ",
@@ -167,7 +175,8 @@
         "id": "MTI/S83-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-T10": {
     "name": "“詠唱”ルーデウス",
@@ -189,7 +198,8 @@
         "id": "MTI/S83-T10S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-T11": {
     "name": "前世のトラウマ",
@@ -207,7 +217,8 @@
         "id": "MTI/S83-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-T12": {
     "name": "師匠から弟子へ",
@@ -229,7 +240,8 @@
         "id": "MTI/S83-T12S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-T13": {
     "name": "流れる日々の中で",
@@ -247,7 +259,8 @@
         "id": "MTI/S83-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MTI/S83-T14": {
     "name": "“ロリ、ジト目、不愛想”ロキシー",
@@ -269,7 +282,8 @@
         "id": "MTI/S83-T14SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-T15": {
     "name": "“魔族”ロキシー",
@@ -287,7 +301,8 @@
         "id": "MTI/S83-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-T16": {
     "name": "“鬱屈した思い”ロキシー",
@@ -305,7 +320,8 @@
         "id": "MTI/S83-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-T17": {
     "name": "“歓迎会”ロキシー",
@@ -327,7 +343,8 @@
         "id": "MTI/S83-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-T18": {
     "name": "“思わぬ失敗”ロキシー",
@@ -345,7 +362,8 @@
         "id": "MTI/S83-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-T19": {
     "name": "“詠唱”ロキシー",
@@ -367,7 +385,8 @@
         "id": "MTI/S83-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-T20": {
     "name": "小さな師匠",
@@ -385,6 +404,7 @@
         "id": "MTI/S83-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

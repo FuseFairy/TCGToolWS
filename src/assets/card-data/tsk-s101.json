@@ -19,7 +19,8 @@
         "id": "TSK/S101-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-002": {
     "name": "全てを穿つ光 リムル",
@@ -41,7 +42,8 @@
         "id": "TSK/S101-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-003": {
     "name": "ドキドキクッキング シオン",
@@ -63,7 +65,8 @@
         "id": "TSK/S101-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-004": {
     "name": "3.14％の希望 リムル",
@@ -85,7 +88,8 @@
         "id": "TSK/S101-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-005": {
     "name": "忠実なる部下 ディアブロ",
@@ -107,7 +111,8 @@
         "id": "TSK/S101-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-006": {
     "name": "危機的状況 シオン",
@@ -129,7 +134,8 @@
         "id": "TSK/S101-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-007": {
     "name": "好戦的 シオン",
@@ -151,7 +157,8 @@
         "id": "TSK/S101-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-008": {
     "name": "絶体絶命 リムル",
@@ -173,7 +180,8 @@
         "id": "TSK/S101-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-009": {
     "name": "取り返しのつかない後悔 リムル",
@@ -195,7 +203,8 @@
         "id": "TSK/S101-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-010": {
     "name": "希望を託す者 エレン",
@@ -213,7 +222,8 @@
         "id": "TSK/S101-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-011": {
     "name": "逃さぬ鋭さ ハクロウ",
@@ -235,7 +245,8 @@
         "id": "TSK/S101-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-012": {
     "name": "圧倒的な実力差 クロ",
@@ -253,7 +264,8 @@
         "id": "TSK/S101-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-013": {
     "name": "ごはん中 ラミリス",
@@ -275,7 +287,8 @@
         "id": "TSK/S101-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-014": {
     "name": "突然の強襲 シオン",
@@ -293,7 +306,8 @@
         "id": "TSK/S101-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-015": {
     "name": "次への期待 ゲルド",
@@ -311,7 +325,8 @@
         "id": "TSK/S101-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-016": {
     "name": "溢れ出るカリスマ ディアブロ",
@@ -333,7 +348,8 @@
         "id": "TSK/S101-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-017": {
     "name": "駄々っ子 シオン",
@@ -351,7 +367,8 @@
         "id": "TSK/S101-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-018": {
     "name": "“朧流水斬” ハクロウ",
@@ -369,7 +386,8 @@
         "id": "TSK/S101-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-019": {
     "name": "底知れぬ男 ユウキ",
@@ -387,7 +405,8 @@
         "id": "TSK/S101-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-020": {
     "name": "有能な第二秘書 ディアブロ",
@@ -405,7 +424,8 @@
         "id": "TSK/S101-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-021": {
     "name": "無残に消えた日常",
@@ -423,7 +443,8 @@
         "id": "TSK/S101-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-022": {
     "name": "晴天に降る光の雨",
@@ -445,7 +466,8 @@
         "id": "TSK/S101-022R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-023": {
     "name": "天才的料理センス",
@@ -463,7 +485,8 @@
         "id": "TSK/S101-023",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-024": {
     "name": "配下になれる喜び",
@@ -481,7 +504,8 @@
         "id": "TSK/S101-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-025": {
     "name": "嬉し恥ずかしリムル",
@@ -503,7 +527,8 @@
         "id": "TSK/S101-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-026": {
     "name": "解き放たれた封印 ヴェルドラ",
@@ -525,7 +550,8 @@
         "id": "TSK/S101-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-027": {
     "name": "ドキドキ初対面 ヴェルドラ",
@@ -547,7 +573,8 @@
         "id": "TSK/S101-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-028": {
     "name": "華麗なる変身 ルミナス",
@@ -569,7 +596,8 @@
         "id": "TSK/S101-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-029": {
     "name": "時を超えた友情 リムル",
@@ -591,7 +619,8 @@
         "id": "TSK/S101-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-030": {
     "name": "固い友情 ヴェルドラ",
@@ -613,7 +642,8 @@
         "id": "TSK/S101-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-031": {
     "name": "冷静沈着な女剣士 ヒナタ",
@@ -635,7 +665,8 @@
         "id": "TSK/S101-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-032": {
     "name": "ハイテンション！ ヴェルドラ",
@@ -653,7 +684,8 @@
         "id": "TSK/S101-032",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-033": {
     "name": "友に授ける依り代 リムル",
@@ -675,7 +707,8 @@
         "id": "TSK/S101-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-034": {
     "name": "時を超えた友情 ヴェルドラ",
@@ -697,7 +730,8 @@
         "id": "TSK/S101-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-035": {
     "name": "隠れた才能 ヴェルドラ",
@@ -715,7 +749,8 @@
         "id": "TSK/S101-035",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-036": {
     "name": "予想外の助け リムル",
@@ -733,7 +768,8 @@
         "id": "TSK/S101-036",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-037": {
     "name": "突然の乱入 ヴェルドラ",
@@ -751,7 +787,8 @@
         "id": "TSK/S101-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-038": {
     "name": "漫画に夢中 ヴェルドラ",
@@ -769,7 +806,8 @@
         "id": "TSK/S101-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-039": {
     "name": "防戦一方 リムル",
@@ -787,7 +825,8 @@
         "id": "TSK/S101-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-040": {
     "name": "盟友宣言！",
@@ -805,7 +844,8 @@
         "id": "TSK/S101-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-041": {
     "name": "アルティメットスキル『智慧之王』",
@@ -823,7 +863,8 @@
         "id": "TSK/S101-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-042": {
     "name": "2年越しの邂逅",
@@ -845,7 +886,8 @@
         "id": "TSK/S101-042R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-043": {
     "name": "窮地の秘策",
@@ -863,7 +905,8 @@
         "id": "TSK/S101-043",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-044": {
     "name": "薄紅色の慈悲 シュナ",
@@ -885,7 +928,8 @@
         "id": "TSK/S101-044SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-045": {
     "name": "異次元の威力 ミリム",
@@ -907,7 +951,8 @@
         "id": "TSK/S101-045SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-046": {
     "name": "厄災をも燼滅せし黒炎 ベニマル",
@@ -929,7 +974,8 @@
         "id": "TSK/S101-046SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-047": {
     "name": "“新星”魔王リムル",
@@ -951,7 +997,8 @@
         "id": "TSK/S101-047SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-048": {
     "name": "作戦通り ミリム",
@@ -973,7 +1020,8 @@
         "id": "TSK/S101-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-049": {
     "name": "真なる魔王への覚醒 リムル",
@@ -995,7 +1043,8 @@
         "id": "TSK/S101-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-050": {
     "name": "新たなる門出 リムル",
@@ -1017,7 +1066,8 @@
         "id": "TSK/S101-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-051": {
     "name": "突然の申し出 シュナ",
@@ -1039,7 +1089,8 @@
         "id": "TSK/S101-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-052": {
     "name": "静かなる怒り シュナ",
@@ -1061,7 +1112,8 @@
         "id": "TSK/S101-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-053": {
     "name": "迫られた選択 ミリム",
@@ -1083,7 +1135,8 @@
         "id": "TSK/S101-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-054": {
     "name": "強者の元へ ベニマル",
@@ -1105,7 +1158,8 @@
         "id": "TSK/S101-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-055": {
     "name": "自慢したいお年頃 ミリム",
@@ -1123,7 +1177,8 @@
         "id": "TSK/S101-055",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-056": {
     "name": "ちょっとしたど忘れ ミリム",
@@ -1145,7 +1200,8 @@
         "id": "TSK/S101-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-057": {
     "name": "果たしたい目的 レオン",
@@ -1163,7 +1219,8 @@
         "id": "TSK/S101-057",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-058": {
     "name": "長い因縁の決着 リムル",
@@ -1185,7 +1242,8 @@
         "id": "TSK/S101-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-059": {
     "name": "最古の魔王 ギィ",
@@ -1203,7 +1261,8 @@
         "id": "TSK/S101-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-060": {
     "name": "確信した瞬間 リムル",
@@ -1221,7 +1280,8 @@
         "id": "TSK/S101-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-061": {
     "name": "妖艶な美貌 フレイ",
@@ -1239,7 +1299,8 @@
         "id": "TSK/S101-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-062": {
     "name": "魔王になる為の戦い リムル",
@@ -1257,7 +1318,8 @@
         "id": "TSK/S101-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-063": {
     "name": "使節団長 ベニマル",
@@ -1275,7 +1337,8 @@
         "id": "TSK/S101-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-064": {
     "name": "謀略に堕ちたマリオネット ミリム",
@@ -1293,7 +1356,8 @@
         "id": "TSK/S101-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-065": {
     "name": "未来へ繋ぐ話し合い シュナ",
@@ -1311,7 +1375,8 @@
         "id": "TSK/S101-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-066": {
     "name": "隠しきれない威圧感 シュナ",
@@ -1329,7 +1394,8 @@
         "id": "TSK/S101-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-067": {
     "name": "裏で糸を引く者 クレイマン",
@@ -1347,7 +1413,8 @@
         "id": "TSK/S101-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-068": {
     "name": "帰るべき大切な場所 ベニマル",
@@ -1365,7 +1432,8 @@
         "id": "TSK/S101-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-069": {
     "name": "反撃への準備 シュナ",
@@ -1383,7 +1451,8 @@
         "id": "TSK/S101-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-070": {
     "name": "3.14％の奇跡",
@@ -1405,7 +1474,8 @@
         "id": "TSK/S101-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-071": {
     "name": "“八星魔王”",
@@ -1423,7 +1493,8 @@
         "id": "TSK/S101-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-072": {
     "name": "魂復する奇跡の秘術",
@@ -1445,7 +1516,8 @@
         "id": "TSK/S101-072R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-073": {
     "name": "垣間見る本気",
@@ -1463,7 +1535,8 @@
         "id": "TSK/S101-073",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-074": {
     "name": "闇を照らす黒炎",
@@ -1485,7 +1558,8 @@
         "id": "TSK/S101-074R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-075": {
     "name": "抑えきれない怒り",
@@ -1503,7 +1577,8 @@
         "id": "TSK/S101-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-076": {
     "name": "笑って暮らせる世界の為に リムル",
@@ -1525,7 +1600,8 @@
         "id": "TSK/S101-076SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-077": {
     "name": "自由を告げる鼓動 ミュウラン",
@@ -1547,7 +1623,8 @@
         "id": "TSK/S101-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-078": {
     "name": "帰るべき大切な場所 ソウエイ",
@@ -1569,7 +1646,8 @@
         "id": "TSK/S101-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-079": {
     "name": "着せ替え大作戦 リムル",
@@ -1591,7 +1669,8 @@
         "id": "TSK/S101-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-080": {
     "name": "お熱い関係 ヨウム＆ミュウラン",
@@ -1613,7 +1692,8 @@
         "id": "TSK/S101-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-081": {
     "name": "影に潜む護衛 ランガ",
@@ -1635,7 +1715,8 @@
         "id": "TSK/S101-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-082": {
     "name": "大切な仲間の元へ リムル",
@@ -1657,7 +1738,8 @@
         "id": "TSK/S101-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-083": {
     "name": "優秀な右腕 ソーカ",
@@ -1679,7 +1761,8 @@
         "id": "TSK/S101-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-084": {
     "name": "超えられない実力差 カリオン",
@@ -1697,7 +1780,8 @@
         "id": "TSK/S101-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-085": {
     "name": "目指すは楽園！ リムル",
@@ -1715,7 +1799,8 @@
         "id": "TSK/S101-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-086": {
     "name": "窮地の知らせ ソウエイ",
@@ -1733,7 +1818,8 @@
         "id": "TSK/S101-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-087": {
     "name": "欲望に満ちた災厄の予兆 リムル",
@@ -1751,7 +1837,8 @@
         "id": "TSK/S101-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-088": {
     "name": "類い稀なる戦闘センス ゴブタ",
@@ -1773,7 +1860,8 @@
         "id": "TSK/S101-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-089": {
     "name": "濃霧の中での戦闘 ソウエイ",
@@ -1791,7 +1879,8 @@
         "id": "TSK/S101-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-090": {
     "name": "囚われの魔法使い ミュウラン",
@@ -1809,7 +1898,8 @@
         "id": "TSK/S101-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-091": {
     "name": "日常の一幕 ランガ",
@@ -1827,7 +1917,8 @@
         "id": "TSK/S101-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-092": {
     "name": "頼れる国のまとめ役 リグルド",
@@ -1845,7 +1936,8 @@
         "id": "TSK/S101-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-093": {
     "name": "“飛竜衆”の頼れるリーダー ガビル",
@@ -1863,7 +1955,8 @@
         "id": "TSK/S101-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-094": {
     "name": "未来へ繋ぐ話し合い リムル",
@@ -1881,7 +1974,8 @@
         "id": "TSK/S101-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-095": {
     "name": "心奪われるゴブタ",
@@ -1899,7 +1993,8 @@
         "id": "TSK/S101-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-096": {
     "name": "広がる友好 リムル",
@@ -1917,7 +2012,8 @@
         "id": "TSK/S101-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-097": {
     "name": "希望と災厄の結界",
@@ -1935,7 +2031,8 @@
         "id": "TSK/S101-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S101-098": {
     "name": "一生を捧げる愛の言葉",
@@ -1957,7 +2054,8 @@
         "id": "TSK/S101-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-099": {
     "name": "帰りを待つ仲間たちの元へ",
@@ -1979,7 +2077,8 @@
         "id": "TSK/S101-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S101-100": {
     "name": "魂をも切り裂く糸",
@@ -1997,6 +2096,7 @@
         "id": "TSK/S101-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

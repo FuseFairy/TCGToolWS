@@ -19,7 +19,8 @@
         "id": "AOT/S50-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-002": {
     "name": "“背負った宿命”エレン",
@@ -41,7 +42,8 @@
         "id": "AOT/S50-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-003": {
     "name": "“紅蓮の闘志”エレン",
@@ -63,7 +65,8 @@
         "id": "AOT/S50-003R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-004": {
     "name": "“一筋の光”アルミン",
@@ -85,7 +88,8 @@
         "id": "AOT/S50-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-005": {
     "name": "“鋭敏な頭脳”アルミン",
@@ -103,7 +107,8 @@
         "id": "AOT/S50-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-006": {
     "name": "“自由を掴むため”エレン",
@@ -125,7 +130,8 @@
         "id": "AOT/S50-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-007": {
     "name": "“命果てるまで”アルミン",
@@ -143,7 +149,8 @@
         "id": "AOT/S50-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-008": {
     "name": "“一筋の光”エレン巨人",
@@ -161,7 +168,8 @@
         "id": "AOT/S50-008",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-009": {
     "name": "“救援”エレン",
@@ -179,7 +187,8 @@
         "id": "AOT/S50-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-010": {
     "name": "“お掃除”エレン",
@@ -197,7 +206,8 @@
         "id": "AOT/S50-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-011": {
     "name": "“ラガコ村出身”コニー",
@@ -215,7 +225,8 @@
         "id": "AOT/S50-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-012": {
     "name": "“快進撃”エレン巨人",
@@ -233,7 +244,8 @@
         "id": "AOT/S50-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-013": {
     "name": "“あの日の記憶”アニ",
@@ -255,7 +267,8 @@
         "id": "AOT/S50-013b",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-014": {
     "name": "“とりとめのない日常”エレン",
@@ -273,7 +286,8 @@
         "id": "AOT/S50-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-015": {
     "name": "“エレンの奪還”アルミン",
@@ -291,7 +305,8 @@
         "id": "AOT/S50-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-016": {
     "name": "“命果てるまで”コニー",
@@ -309,7 +324,8 @@
         "id": "AOT/S50-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-017": {
     "name": "“復仇”ハンネス",
@@ -331,7 +347,8 @@
         "id": "AOT/S50-017b",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-018": {
     "name": "“囚われの身”エレン",
@@ -349,7 +366,8 @@
         "id": "AOT/S50-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-019": {
     "name": "“夕陽を背に”エレン巨人",
@@ -367,7 +385,8 @@
         "id": "AOT/S50-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-020": {
     "name": "対巨人戦用『立体機動装置』",
@@ -385,7 +404,8 @@
         "id": "AOT/S50-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-021": {
     "name": "座標",
@@ -403,7 +423,8 @@
         "id": "AOT/S50-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-022": {
     "name": "叫び",
@@ -425,7 +446,8 @@
         "id": "AOT/S50-022R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-023": {
     "name": "怒りの咆哮",
@@ -447,7 +469,8 @@
         "id": "AOT/S50-023b",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-024": {
     "name": "打・投・極",
@@ -469,7 +492,8 @@
         "id": "AOT/S50-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AOT/S50-025": {
     "name": "“静かなる激情”リヴァイ",
@@ -491,7 +515,8 @@
         "id": "AOT/S50-025SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-026": {
     "name": "“自由を掴むため”ハンジ",
@@ -513,7 +538,8 @@
         "id": "AOT/S50-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-027": {
     "name": "“命果てるまで”ハンジ",
@@ -531,7 +557,8 @@
         "id": "AOT/S50-027",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-028": {
     "name": "“命果てるまで”エルヴィン",
@@ -549,7 +576,8 @@
         "id": "AOT/S50-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-029": {
     "name": "“一筋の光”リヴァイ",
@@ -571,7 +599,8 @@
         "id": "AOT/S50-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-030": {
     "name": "“命果てるまで”リヴァイ",
@@ -589,7 +618,8 @@
         "id": "AOT/S50-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-031": {
     "name": "“自由を掴むため”リヴァイ",
@@ -611,7 +641,8 @@
         "id": "AOT/S50-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-032": {
     "name": "ニック司祭",
@@ -629,7 +660,8 @@
         "id": "AOT/S50-032",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-033": {
     "name": "“未知の解明”ハンジ",
@@ -647,7 +679,8 @@
         "id": "AOT/S50-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-034": {
     "name": "“自由を掴むため”エルヴィン",
@@ -665,7 +698,8 @@
         "id": "AOT/S50-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-035": {
     "name": "“お掃除”リヴァイ",
@@ -683,7 +717,8 @@
         "id": "AOT/S50-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-036": {
     "name": "“夕陽を背に”リヴァイ",
@@ -701,7 +736,8 @@
         "id": "AOT/S50-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-037": {
     "name": "“意思の疎通”ハンジ",
@@ -719,7 +755,8 @@
         "id": "AOT/S50-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-038": {
     "name": "“人類存亡の命運”エルヴィン",
@@ -737,7 +774,8 @@
         "id": "AOT/S50-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-039": {
     "name": "“調査兵団の古兵”ナナバ",
@@ -759,7 +797,8 @@
         "id": "AOT/S50-039b",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-040": {
     "name": "“調査兵団の古兵”ゲルガー",
@@ -781,7 +820,8 @@
         "id": "AOT/S50-040b",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-041": {
     "name": "モブリット",
@@ -799,7 +839,8 @@
         "id": "AOT/S50-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-042": {
     "name": "“これから起こること”ハンジ",
@@ -817,7 +858,8 @@
         "id": "AOT/S50-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-043": {
     "name": "“確実な一歩”ハンジ",
@@ -835,7 +877,8 @@
         "id": "AOT/S50-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-044": {
     "name": "“これから起こること”リヴァイ",
@@ -853,7 +896,8 @@
         "id": "AOT/S50-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-045": {
     "name": "“命果てるまで”ミケ",
@@ -875,7 +919,8 @@
         "id": "AOT/S50-045b",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-046": {
     "name": "お願いか…命令か…",
@@ -893,7 +938,8 @@
         "id": "AOT/S50-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-047": {
     "name": "安寧",
@@ -911,7 +957,8 @@
         "id": "AOT/S50-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-048": {
     "name": "絶望を切り裂く刃",
@@ -933,7 +980,8 @@
         "id": "AOT/S50-048R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AOT/S50-049": {
     "name": "反旗を翻す者",
@@ -955,7 +1003,8 @@
         "id": "AOT/S50-049b",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-050": {
     "name": "総員戦闘用意！",
@@ -977,7 +1026,8 @@
         "id": "AOT/S50-050b",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-051": {
     "name": "“女神の微笑”クリスタ",
@@ -999,7 +1049,8 @@
         "id": "AOT/S50-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-052": {
     "name": "“抱く思い”ミカサ",
@@ -1021,7 +1072,8 @@
         "id": "AOT/S50-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-053": {
     "name": "“自由を掴むため”サシャ",
@@ -1043,7 +1095,8 @@
         "id": "AOT/S50-053SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-054": {
     "name": "“一筋の光”ミカサ",
@@ -1065,7 +1118,8 @@
         "id": "AOT/S50-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-055": {
     "name": "“止まらぬ食欲”サシャ",
@@ -1083,7 +1137,8 @@
         "id": "AOT/S50-055",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-056": {
     "name": "“つかの間の休息”クリスタ",
@@ -1101,7 +1156,8 @@
         "id": "AOT/S50-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-057": {
     "name": "“夕陽を背に”ミカサ",
@@ -1119,7 +1175,8 @@
         "id": "AOT/S50-057",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-058": {
     "name": "“命果てるまで”サシャ",
@@ -1141,7 +1198,8 @@
         "id": "AOT/S50-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-059": {
     "name": "“自由を掴むため”ミカサ",
@@ -1163,7 +1221,8 @@
         "id": "AOT/S50-059R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-060": {
     "name": "“命果てるまで”クリスタ",
@@ -1185,7 +1244,8 @@
         "id": "AOT/S50-060R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-061": {
     "name": "“エレンの奪還”ミカサ",
@@ -1203,7 +1263,8 @@
         "id": "AOT/S50-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-062": {
     "name": "“恐怖を射抜いて”サシャ",
@@ -1221,7 +1282,8 @@
         "id": "AOT/S50-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-063": {
     "name": "“ありのままで”クリスタ",
@@ -1239,7 +1301,8 @@
         "id": "AOT/S50-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-064": {
     "name": "“知られざる真実”ユミル",
@@ -1261,7 +1324,8 @@
         "id": "AOT/S50-064b",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-065": {
     "name": "“命果てるまで”ベルトルト",
@@ -1279,7 +1343,8 @@
         "id": "AOT/S50-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-066": {
     "name": "“知られざる真実”ベルトルト",
@@ -1297,7 +1362,8 @@
         "id": "AOT/S50-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-067": {
     "name": "“ダウパー村出身”サシャ",
@@ -1315,7 +1381,8 @@
         "id": "AOT/S50-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-068": {
     "name": "“知られざる真実”ライナー",
@@ -1333,7 +1400,8 @@
         "id": "AOT/S50-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-069": {
     "name": "“守りたい笑顔”クリスタ",
@@ -1351,7 +1419,8 @@
         "id": "AOT/S50-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-070": {
     "name": "“命果てるまで”ジャン",
@@ -1369,7 +1438,8 @@
         "id": "AOT/S50-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-071": {
     "name": "“兵士と戦士”ライナー",
@@ -1387,7 +1457,8 @@
         "id": "AOT/S50-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-072": {
     "name": "“奪取”ベルトルト",
@@ -1405,7 +1476,8 @@
         "id": "AOT/S50-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-073": {
     "name": "“命果てるまで”ユミル",
@@ -1423,7 +1495,8 @@
         "id": "AOT/S50-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-074": {
     "name": "“命果てるまで”ライナー",
@@ -1441,7 +1514,8 @@
         "id": "AOT/S50-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-075": {
     "name": "“命果てるまで”ミカサ",
@@ -1459,7 +1533,8 @@
         "id": "AOT/S50-075",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-076": {
     "name": "“預かり物”サシャ",
@@ -1477,7 +1552,8 @@
         "id": "AOT/S50-076",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-077": {
     "name": "“自由を掴むため”ジャン",
@@ -1495,7 +1571,8 @@
         "id": "AOT/S50-077",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-078": {
     "name": "“救援”ミカサ",
@@ -1513,7 +1590,8 @@
         "id": "AOT/S50-078",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-079": {
     "name": "“貴族の出身”クリスタ",
@@ -1531,7 +1609,8 @@
         "id": "AOT/S50-079",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-080": {
     "name": "女神様",
@@ -1549,7 +1628,8 @@
         "id": "AOT/S50-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-081": {
     "name": "殺意の目",
@@ -1567,7 +1647,8 @@
         "id": "AOT/S50-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-082": {
     "name": "私の名前…",
@@ -1589,7 +1670,8 @@
         "id": "AOT/S50-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-083": {
     "name": "ありがとう…",
@@ -1611,7 +1693,8 @@
         "id": "AOT/S50-083R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AOT/S50-084": {
     "name": "走らんかい!!",
@@ -1633,7 +1716,8 @@
         "id": "AOT/S50-084b",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AOT/S50-085": {
     "name": "“威力偵察”獣の巨人",
@@ -1651,7 +1735,8 @@
         "id": "AOT/S50-085",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-086": {
     "name": "獣の巨人",
@@ -1673,7 +1758,8 @@
         "id": "AOT/S50-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-087": {
     "name": "“再襲”鎧の巨人",
@@ -1695,7 +1781,8 @@
         "id": "AOT/S50-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-088": {
     "name": "“追走”巨人",
@@ -1725,7 +1812,8 @@
         "id": "AOT/S50-088d",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-089": {
     "name": "“三度、決戦”超大型巨人",
@@ -1743,7 +1831,8 @@
         "id": "AOT/S50-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-090": {
     "name": "ユミル巨人",
@@ -1765,7 +1854,8 @@
         "id": "AOT/S50-090b",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-091": {
     "name": "“人類の仇”超大型巨人",
@@ -1783,7 +1873,8 @@
         "id": "AOT/S50-091",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-092": {
     "name": "“仇敵”巨人",
@@ -1801,7 +1892,8 @@
         "id": "AOT/S50-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-093": {
     "name": "“不可解”巨人",
@@ -1819,7 +1911,8 @@
         "id": "AOT/S50-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-094": {
     "name": "“目的を果たすまで”鎧の巨人",
@@ -1837,7 +1930,8 @@
         "id": "AOT/S50-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-095": {
     "name": "“捕食”巨人",
@@ -1867,7 +1961,8 @@
         "id": "AOT/S50-095d",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-096": {
     "name": "“世界を凌駕する存在”超大型巨人",
@@ -1885,7 +1980,8 @@
         "id": "AOT/S50-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-097": {
     "name": "“対峙”鎧の巨人",
@@ -1903,7 +1999,8 @@
         "id": "AOT/S50-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S50-098": {
     "name": "壁の中",
@@ -1921,7 +2018,8 @@
         "id": "AOT/S50-098",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-099": {
     "name": "叡智",
@@ -1943,7 +2041,8 @@
         "id": "AOT/S50-099b",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S50-100": {
     "name": "交戦",
@@ -1965,6 +2064,7 @@
         "id": "AOT/S50-100b",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

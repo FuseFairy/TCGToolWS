@@ -23,7 +23,8 @@
         "id": "Ffp/W120-038SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ffp/W120-040": {
     "name": "選択した未来 宗介＆かなめ",
@@ -49,7 +50,8 @@
         "id": "Ffp/W120-040SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ffp/W120-045": {
     "name": "友人として友達として かなめ＆テレサ",
@@ -71,7 +73,8 @@
         "id": "Ffp/W120-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ffp/W120-047": {
     "name": "ぬいぐるみの行方 テレサ",
@@ -97,7 +100,8 @@
         "id": "Ffp/W120-047SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ffp/W120-050": {
     "name": "5分間の激闘 カリーニンVS宗介",
@@ -119,7 +123,8 @@
         "id": "Ffp/W120-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ffp/W120-057": {
     "name": "『ささやかれた者』たち",
@@ -141,7 +146,8 @@
         "id": "Ffp/W120-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ffp/W120-059": {
     "name": "浜辺で戯れて テレサ",
@@ -163,7 +169,8 @@
         "id": "Ffp/W120-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ffp/W120-063": {
     "name": "不器用な叱咤激励 かなめ",
@@ -185,7 +192,8 @@
         "id": "Ffp/W120-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ffp/W120-065": {
     "name": "温泉旅行 テレサ＆かなめ",
@@ -207,7 +215,8 @@
         "id": "Ffp/W120-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ffp/W120-069": {
     "name": "浜辺で戯れて かなめ",
@@ -229,7 +238,8 @@
         "id": "Ffp/W120-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ffp/W120-070": {
     "name": "非常に複雑で有機的な事情",
@@ -251,7 +261,8 @@
         "id": "Ffp/W120-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ffp/W120-072": {
     "name": "戦うボーイ・ミーツ・ガール",
@@ -277,7 +288,8 @@
         "id": "Ffp/W120-072SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ffp/W120-074": {
     "name": "恋する少女たち",
@@ -299,6 +311,7 @@
         "id": "Ffp/W120-074R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

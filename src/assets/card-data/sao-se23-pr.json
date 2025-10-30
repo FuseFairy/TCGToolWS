@@ -15,7 +15,8 @@
         "id": "SAO/SE23-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-P02": {
     "name": "《死銃》に挑むキリト",
@@ -33,7 +34,8 @@
         "id": "SAO/SE23-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-P03": {
     "name": "優勝コンビ シノン&キリト",
@@ -51,7 +53,8 @@
         "id": "SAO/SE23-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-P04": {
     "name": "制服の和人&明日奈",
@@ -69,7 +72,8 @@
         "id": "SAO/SE23-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-P05": {
     "name": "《GGO》への潜入 キリト",
@@ -87,7 +91,8 @@
         "id": "SAO/SE23-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-P06": {
     "name": "《絶剣》に挑むアスナ",
@@ -105,7 +110,8 @@
         "id": "SAO/SE23-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-P07": {
     "name": "《ALO》の日常 リーファ",
@@ -123,7 +129,8 @@
         "id": "SAO/SE23-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-P08": {
     "name": "強者への挑戦 シノン",
@@ -141,7 +148,8 @@
         "id": "SAO/SE23-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-P09": {
     "name": "冴える剣技 ユウキ",
@@ -159,7 +167,8 @@
         "id": "SAO/SE23-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-P10": {
     "name": "端正な構え アスナ",
@@ -177,6 +186,7 @@
         "id": "SAO/SE23-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

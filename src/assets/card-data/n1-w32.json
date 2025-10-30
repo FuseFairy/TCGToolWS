@@ -19,7 +19,8 @@
         "id": "N1/W32-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/W32-002": {
     "name": "対等のパートナー アルフ",
@@ -37,7 +38,8 @@
         "id": "N1/W32-002",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/W32-003": {
     "name": "狼形態アルフ",
@@ -55,7 +57,8 @@
         "id": "N1/W32-003",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N1/W32-004": {
     "name": "母を想うフェイト",
@@ -73,7 +76,8 @@
         "id": "N1/W32-004",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N1/W32-005": {
     "name": "プレシア・テスタロッサ",
@@ -91,7 +95,8 @@
         "id": "N1/W32-005",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/W32-006": {
     "name": "教育係リニス",
@@ -109,7 +114,8 @@
         "id": "N1/W32-006",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/W32-007": {
     "name": "ひたすらに一途フェイト",
@@ -127,7 +133,8 @@
         "id": "N1/W32-007",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/W32-008": {
     "name": "もうひとりの魔法少女フェイト",
@@ -149,7 +156,8 @@
         "id": "N1/W32-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N1/W32-009": {
     "name": "失われた過去プレシア",
@@ -167,7 +175,8 @@
         "id": "N1/W32-009",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N1/W32-010": {
     "name": "ファランクスシフト",
@@ -185,7 +194,8 @@
         "id": "N1/W32-010",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "N1/W32-011": {
     "name": "意地っ張りアリサ",
@@ -203,7 +213,8 @@
         "id": "N1/W32-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/W32-012": {
     "name": "優しい少女すずか",
@@ -221,7 +232,8 @@
         "id": "N1/W32-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/W32-013": {
     "name": "アリサ・バニングス",
@@ -239,7 +251,8 @@
         "id": "N1/W32-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/W32-014": {
     "name": "月村 すずか",
@@ -257,7 +270,8 @@
         "id": "N1/W32-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/W32-015": {
     "name": "敏腕オペレータ エイミィ",
@@ -275,7 +289,8 @@
         "id": "N1/W32-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/W32-016": {
     "name": "時空管理局提督リンディ",
@@ -293,7 +308,8 @@
         "id": "N1/W32-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/W32-017": {
     "name": "アースラの切り札クロノ",
@@ -311,7 +327,8 @@
         "id": "N1/W32-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N1/W32-018": {
     "name": "自分の意思なのは",
@@ -333,7 +350,8 @@
         "id": "N1/W32-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N1/W32-019": {
     "name": "信じた思い なのは",
@@ -355,7 +373,8 @@
         "id": "N1/W32-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N1/W32-020": {
     "name": "全力全開なのは",
@@ -377,7 +396,8 @@
         "id": "N1/W32-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N1/W32-021": {
     "name": "分け合う気持ち なのは＆フェイト",
@@ -395,7 +415,8 @@
         "id": "N1/W32-021",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N1/W32-022": {
     "name": "フェレット形態ユーノ",
@@ -413,7 +434,8 @@
         "id": "N1/W32-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/W32-023": {
     "name": "制服のなのは",
@@ -431,7 +453,8 @@
         "id": "N1/W32-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/W32-024": {
     "name": "魔法の資質なのは",
@@ -449,7 +472,8 @@
         "id": "N1/W32-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/W32-025": {
     "name": "結界魔導師ユーノ",
@@ -467,7 +491,8 @@
         "id": "N1/W32-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/W32-026": {
     "name": "ディバインバスター",
@@ -485,7 +510,8 @@
         "id": "N1/W32-026",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "N1/W32-027": {
     "name": "スターライトブレイカー",
@@ -503,7 +529,8 @@
         "id": "N1/W32-027",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/W32-101": {
     "name": "最強のライバル フェイト",
@@ -525,7 +552,8 @@
         "id": "N1/W32-101R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N1/W32-102": {
     "name": "水着のフェイト",
@@ -547,7 +575,8 @@
         "id": "N1/W32-102R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/W32-103": {
     "name": "最強のライバル なのは",
@@ -569,7 +598,8 @@
         "id": "N1/W32-103R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N1/W32-104": {
     "name": "水着のなのは",
@@ -591,7 +621,8 @@
         "id": "N1/W32-104R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/W32-105": {
     "name": "激戦の攻防",
@@ -613,6 +644,7 @@
         "id": "N1/W32-105R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

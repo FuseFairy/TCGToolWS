@@ -19,7 +19,8 @@
         "id": "FH/SE03-001SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-002": {
     "name": "子供たちのアイドル ギルガメッシュ",
@@ -41,7 +42,8 @@
         "id": "FH/SE03-002SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FH/SE03-003": {
     "name": "“この世すべての悪”アヴェンジャー",
@@ -63,7 +65,8 @@
         "id": "FH/SE03-003SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FH/SE03-004": {
     "name": "反英雄アヴェンジャー",
@@ -85,7 +88,8 @@
         "id": "FH/SE03-004SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-005": {
     "name": "蛍塚 音子",
@@ -107,7 +111,8 @@
         "id": "FH/SE03-005SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-006": {
     "name": "巫女服のセイバー",
@@ -129,7 +134,8 @@
         "id": "FH/SE03-006SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-007": {
     "name": "平穏な日常セイバー",
@@ -151,7 +157,8 @@
         "id": "FH/SE03-007SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FH/SE03-008": {
     "name": "水辺の王様セイバー",
@@ -173,7 +180,8 @@
         "id": "FH/SE03-008SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FH/SE03-009": {
     "name": "決戦！ デッドブリッジ",
@@ -195,7 +203,8 @@
         "id": "FH/SE03-009SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FH/SE03-010": {
     "name": "天地乖離す開闢の星",
@@ -217,7 +226,8 @@
         "id": "FH/SE03-010SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FH/SE03-011": {
     "name": "終わりなき聖杯戦争バゼット",
@@ -239,7 +249,8 @@
         "id": "FH/SE03-011SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-012": {
     "name": "ステンノ＆エウリュアレ",
@@ -261,7 +272,8 @@
         "id": "FH/SE03-012SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-013": {
     "name": "同じ運命 桜＆ライダー",
@@ -283,7 +295,8 @@
         "id": "FH/SE03-013SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-014": {
     "name": "別れを惜しむバゼット",
@@ -305,7 +318,8 @@
         "id": "FH/SE03-014SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-015": {
     "name": "休日のランサー",
@@ -327,7 +341,8 @@
         "id": "FH/SE03-015SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FH/SE03-016": {
     "name": "過去の記憶 バゼット＆ランサー",
@@ -349,7 +364,8 @@
         "id": "FH/SE03-016SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FH/SE03-017": {
     "name": "水着の桜",
@@ -371,7 +387,8 @@
         "id": "FH/SE03-017SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-018": {
     "name": "バゼット・フラガ・マクレミッツ",
@@ -393,7 +410,8 @@
         "id": "FH/SE03-018SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-019": {
     "name": "水着のライダー",
@@ -415,7 +433,8 @@
         "id": "FH/SE03-019SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-020": {
     "name": "ドレス姿の桜",
@@ -437,7 +456,8 @@
         "id": "FH/SE03-020SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FH/SE03-021": {
     "name": "戦闘態勢バゼット",
@@ -459,7 +479,8 @@
         "id": "FH/SE03-021SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FH/SE03-022": {
     "name": "水着のセラ＆リズ",
@@ -481,7 +502,8 @@
         "id": "FH/SE03-022SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FH/SE03-023": {
     "name": "エスコート",
@@ -503,7 +525,8 @@
         "id": "FH/SE03-023SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FH/SE03-024": {
     "name": "大切な場所",
@@ -525,7 +548,8 @@
         "id": "FH/SE03-024SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FH/SE03-025": {
     "name": "斬り抉る戦神の剣",
@@ -547,7 +571,8 @@
         "id": "FH/SE03-025SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-026": {
     "name": "お気に入りの空間",
@@ -569,7 +594,8 @@
         "id": "FH/SE03-026SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FH/SE03-027": {
     "name": "エーデルフェルト姉妹",
@@ -591,7 +617,8 @@
         "id": "FH/SE03-027SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-028": {
     "name": "魔法少女カレイドルビー",
@@ -613,7 +640,8 @@
         "id": "FH/SE03-028SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-029": {
     "name": "“暴君”セイバーオルタ",
@@ -635,7 +663,8 @@
         "id": "FH/SE03-029SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FH/SE03-030": {
     "name": "遠坂神社の巫女 凛",
@@ -657,7 +686,8 @@
         "id": "FH/SE03-030SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-031": {
     "name": "遠坂神社の神主アーチャー",
@@ -679,7 +709,8 @@
         "id": "FH/SE03-031SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FH/SE03-032": {
     "name": "水着の凛",
@@ -701,7 +732,8 @@
         "id": "FH/SE03-032SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FH/SE03-033": {
     "name": "月下の紅 凛＆アーチャー",
@@ -723,7 +755,8 @@
         "id": "FH/SE03-033SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FH/SE03-034": {
     "name": "ミミック遠坂",
@@ -745,7 +778,8 @@
         "id": "FH/SE03-034SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-035": {
     "name": "謎の少女カレン",
@@ -767,7 +801,8 @@
         "id": "FH/SE03-035SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-036": {
     "name": "元気いっぱいのイリヤ",
@@ -789,7 +824,8 @@
         "id": "FH/SE03-036SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-037": {
     "name": "葛木メディア",
@@ -811,7 +847,8 @@
         "id": "FH/SE03-037SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FH/SE03-038": {
     "name": "水着のイリヤ",
@@ -833,7 +870,8 @@
         "id": "FH/SE03-038SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-039": {
     "name": "カレン・オルテンシア",
@@ -855,7 +893,8 @@
         "id": "FH/SE03-039SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-040": {
     "name": "マグダラの聖骸布カレン",
@@ -877,7 +916,8 @@
         "id": "FH/SE03-040SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-041": {
     "name": "悪魔憑きカレン",
@@ -899,7 +939,8 @@
         "id": "FH/SE03-041SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FH/SE03-042": {
     "name": "破城槌 イリヤ＆バーサーカー",
@@ -921,7 +962,8 @@
         "id": "FH/SE03-042SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FH/SE03-043": {
     "name": "おやすみの夜",
@@ -943,7 +985,8 @@
         "id": "FH/SE03-043SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FH/SE03-044": {
     "name": "スパイラル・ラダー",
@@ -965,7 +1008,8 @@
         "id": "FH/SE03-044SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FH/SE03-045": {
     "name": "魔女の鉄槌",
@@ -987,6 +1031,7 @@
         "id": "FH/SE03-045SP",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

@@ -23,7 +23,8 @@
         "id": "MKI/W126-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-002": {
     "name": "水道水研究中 知花",
@@ -49,7 +50,8 @@
         "id": "MKI/W126-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-003": {
     "name": "食いしん坊幽霊 杏菜",
@@ -75,7 +77,8 @@
         "id": "MKI/W126-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-004": {
     "name": "お兄様のジャケット 佳樹",
@@ -101,7 +104,8 @@
         "id": "MKI/W126-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-005": {
     "name": "“運命”で繋がってる妹 佳樹",
@@ -123,7 +127,8 @@
         "id": "MKI/W126-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-006": {
     "name": "健気な後輩 知花",
@@ -145,7 +150,8 @@
         "id": "MKI/W126-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-007": {
     "name": "いたずらっぽい笑み 佳樹",
@@ -167,7 +173,8 @@
         "id": "MKI/W126-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-008": {
     "name": "強力な助っ人 檸檬",
@@ -189,7 +196,8 @@
         "id": "MKI/W126-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-009": {
     "name": "パーフェクトな妹 佳樹",
@@ -211,7 +219,8 @@
         "id": "MKI/W126-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-010": {
     "name": "ダブルピース 杏菜",
@@ -233,7 +242,8 @@
         "id": "MKI/W126-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-011": {
     "name": "早合点 佳樹",
@@ -255,7 +265,8 @@
         "id": "MKI/W126-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-012": {
     "name": "温水和彦",
@@ -277,7 +288,8 @@
         "id": "MKI/W126-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-013": {
     "name": "お兄様ガチ勢 佳樹",
@@ -299,7 +311,8 @@
         "id": "MKI/W126-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-014": {
     "name": "カニポーズ 知花",
@@ -321,7 +334,8 @@
         "id": "MKI/W126-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-015": {
     "name": "権藤アサミ",
@@ -343,7 +357,8 @@
         "id": "MKI/W126-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-016": {
     "name": "不慣れなコミュニケーション 知花",
@@ -365,7 +380,8 @@
         "id": "MKI/W126-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-017": {
     "name": "姫宮華恋",
@@ -387,7 +403,8 @@
         "id": "MKI/W126-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-018": {
     "name": "理性ブレイク 檸檬",
@@ -409,7 +426,8 @@
         "id": "MKI/W126-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-019": {
     "name": "あわわわわ 佳樹",
@@ -431,7 +449,8 @@
         "id": "MKI/W126-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-020": {
     "name": "友達、改め振られ仲間 杏菜",
@@ -453,7 +472,8 @@
         "id": "MKI/W126-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-021": {
     "name": "特大な失言 檸檬",
@@ -475,7 +495,8 @@
         "id": "MKI/W126-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-022": {
     "name": "寂しげな眼差し 佳樹",
@@ -497,7 +518,8 @@
         "id": "MKI/W126-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-023": {
     "name": "月明かりに背を向けて 杏菜",
@@ -519,7 +541,8 @@
         "id": "MKI/W126-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-024": {
     "name": "放虎原ひばり",
@@ -541,7 +564,8 @@
         "id": "MKI/W126-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-025": {
     "name": "負けヒロイン 知花",
@@ -563,7 +587,8 @@
         "id": "MKI/W126-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-026": {
     "name": "捕食者 檸檬",
@@ -585,7 +610,8 @@
         "id": "MKI/W126-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-027": {
     "name": "絶体絶命のピンチ 杏菜",
@@ -607,7 +633,8 @@
         "id": "MKI/W126-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-028": {
     "name": "期待に満ちた瞳 佳樹",
@@ -629,7 +656,8 @@
         "id": "MKI/W126-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-029": {
     "name": "１年ぶり15回目のナイスバディ",
@@ -651,7 +679,8 @@
         "id": "MKI/W126-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-030": {
     "name": "食いしん坊幽霊のお悩み",
@@ -677,7 +706,8 @@
         "id": "MKI/W126-030R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-031": {
     "name": "お兄様と学園祭デートです",
@@ -703,7 +733,8 @@
         "id": "MKI/W126-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-032": {
     "name": "相合傘の本音は",
@@ -729,7 +760,8 @@
         "id": "MKI/W126-032R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-033": {
     "name": "告白は弾けた花火のように",
@@ -751,7 +783,8 @@
         "id": "MKI/W126-033R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-034": {
     "name": "ミイラ男コスチューム？ 檸檬",
@@ -777,7 +810,8 @@
         "id": "MKI/W126-034SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-035": {
     "name": "陸上ガール 檸檬",
@@ -803,7 +837,8 @@
         "id": "MKI/W126-035SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-036": {
     "name": "二人の思い出 光希＆檸檬",
@@ -825,7 +860,8 @@
         "id": "MKI/W126-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-037": {
     "name": "不思議な関係性 光希＆千早＆檸檬",
@@ -847,7 +883,8 @@
         "id": "MKI/W126-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-038": {
     "name": "元気な挨拶 檸檬",
@@ -873,7 +910,8 @@
         "id": "MKI/W126-038SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-039": {
     "name": "月明かりに背を向けて 檸檬",
@@ -895,7 +933,8 @@
         "id": "MKI/W126-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-040": {
     "name": "大はしゃぎ 檸檬",
@@ -917,7 +956,8 @@
         "id": "MKI/W126-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-041": {
     "name": "かわいく見られたい 檸檬",
@@ -939,7 +979,8 @@
         "id": "MKI/W126-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-042": {
     "name": "思いがけない鉢合わせ 檸檬",
@@ -961,7 +1002,8 @@
         "id": "MKI/W126-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-043": {
     "name": "その視線の先は 檸檬",
@@ -983,7 +1025,8 @@
         "id": "MKI/W126-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-044": {
     "name": "おいなりさんを頬張って 檸檬",
@@ -1005,7 +1048,8 @@
         "id": "MKI/W126-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-045": {
     "name": "寂しげな笑み 檸檬",
@@ -1027,7 +1071,8 @@
         "id": "MKI/W126-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-046": {
     "name": "興味津々 檸檬",
@@ -1049,7 +1094,8 @@
         "id": "MKI/W126-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-047": {
     "name": "自責の涙 檸檬",
@@ -1071,7 +1117,8 @@
         "id": "MKI/W126-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-048": {
     "name": "主人公のいないヒロイン 檸檬",
@@ -1093,7 +1140,8 @@
         "id": "MKI/W126-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-049": {
     "name": "最初で最後のわがまま",
@@ -1115,7 +1163,8 @@
         "id": "MKI/W126-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-050": {
     "name": "どう？怖いでしょ？",
@@ -1141,7 +1190,8 @@
         "id": "MKI/W126-050R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-051": {
     "name": "それでも走り出す",
@@ -1163,7 +1213,8 @@
         "id": "MKI/W126-051R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-052": {
     "name": "もしもの物語なら",
@@ -1189,7 +1240,8 @@
         "id": "MKI/W126-052R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-053": {
     "name": "金魚すくいに夢中 知花",
@@ -1215,7 +1267,8 @@
         "id": "MKI/W126-053SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-054": {
     "name": "引っ込み思案な女の子 知花",
@@ -1241,7 +1294,8 @@
         "id": "MKI/W126-054SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-055": {
     "name": "夕日に背を向けて 知花",
@@ -1263,7 +1317,8 @@
         "id": "MKI/W126-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-056": {
     "name": "文芸部ガール 知花",
@@ -1289,7 +1344,8 @@
         "id": "MKI/W126-056SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-057": {
     "name": "テンション低めギャルナース 夢子",
@@ -1311,7 +1367,8 @@
         "id": "MKI/W126-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-058": {
     "name": "悪巧み 古都",
@@ -1333,7 +1390,8 @@
         "id": "MKI/W126-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-059": {
     "name": "さようならの前に 知花",
@@ -1355,7 +1413,8 @@
         "id": "MKI/W126-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-060": {
     "name": "８Ｋヒロイン 華恋",
@@ -1377,7 +1436,8 @@
         "id": "MKI/W126-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-061": {
     "name": "その瞳に映るのは 知花",
@@ -1399,7 +1459,8 @@
         "id": "MKI/W126-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-062": {
     "name": "踏み出す覚悟 知花",
@@ -1421,7 +1482,8 @@
         "id": "MKI/W126-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-063": {
     "name": "大はしゃぎ 知花",
@@ -1443,7 +1505,8 @@
         "id": "MKI/W126-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-064": {
     "name": "怯える知花",
@@ -1465,7 +1528,8 @@
         "id": "MKI/W126-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-065": {
     "name": "興味津々 知花",
@@ -1487,7 +1551,8 @@
         "id": "MKI/W126-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-066": {
     "name": "しっかり者のお姉ちゃん 知花",
@@ -1509,7 +1574,8 @@
         "id": "MKI/W126-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-067": {
     "name": "ぎこちない笑顔 知花",
@@ -1531,7 +1597,8 @@
         "id": "MKI/W126-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-068": {
     "name": "甘夏古奈美",
@@ -1553,7 +1620,8 @@
         "id": "MKI/W126-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-069": {
     "name": "エロマンガ向きの性格 知花",
@@ -1575,7 +1643,8 @@
         "id": "MKI/W126-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-070": {
     "name": "うまうまカヌレ 知花",
@@ -1597,7 +1666,8 @@
         "id": "MKI/W126-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-071": {
     "name": "励ます知花",
@@ -1619,7 +1689,8 @@
         "id": "MKI/W126-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-072": {
     "name": "文芸部での日々",
@@ -1641,7 +1712,8 @@
         "id": "MKI/W126-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-073": {
     "name": "不本意な学園祭デート",
@@ -1663,7 +1735,8 @@
         "id": "MKI/W126-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-074": {
     "name": "恋する気持ちの行方",
@@ -1689,7 +1762,8 @@
         "id": "MKI/W126-074R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-075": {
     "name": "責任とれよ",
@@ -1715,7 +1789,8 @@
         "id": "MKI/W126-075R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-076": {
     "name": "天井知らずの食欲 杏菜",
@@ -1741,7 +1816,8 @@
         "id": "MKI/W126-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-077": {
     "name": "ナイスバディ 杏菜",
@@ -1767,7 +1843,8 @@
         "id": "MKI/W126-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-078": {
     "name": "はい、あーん 杏菜",
@@ -1793,7 +1870,8 @@
         "id": "MKI/W126-078SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-079": {
     "name": "浮気調査？ 千早",
@@ -1815,7 +1893,8 @@
         "id": "MKI/W126-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-080": {
     "name": "凍り付く笑顔 杏菜",
@@ -1837,7 +1916,8 @@
         "id": "MKI/W126-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-081": {
     "name": "缶詰め合宿の夜に 杏菜",
@@ -1859,7 +1939,8 @@
         "id": "MKI/W126-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-082": {
     "name": "食い意地だけは負けない 杏菜",
@@ -1881,7 +1962,8 @@
         "id": "MKI/W126-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-083": {
     "name": "馬剃天愛星",
@@ -1903,7 +1985,8 @@
         "id": "MKI/W126-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-084": {
     "name": "ラッコ系ヒロイン？ 杏菜",
@@ -1925,7 +2008,8 @@
         "id": "MKI/W126-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-085": {
     "name": "浮気疑惑 杏菜",
@@ -1947,7 +2031,8 @@
         "id": "MKI/W126-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-086": {
     "name": "ガバガバ変装 杏菜",
@@ -1969,7 +2054,8 @@
         "id": "MKI/W126-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-087": {
     "name": "小抜小夜",
@@ -1991,7 +2077,8 @@
         "id": "MKI/W126-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-088": {
     "name": "満足げな顔 杏菜",
@@ -2013,7 +2100,8 @@
         "id": "MKI/W126-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-089": {
     "name": "完璧な解決策 杏菜",
@@ -2035,7 +2123,8 @@
         "id": "MKI/W126-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-090": {
     "name": "寿司への執念 杏菜",
@@ -2057,7 +2146,8 @@
         "id": "MKI/W126-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-091": {
     "name": "菓子折り強奪 杏菜",
@@ -2079,7 +2169,8 @@
         "id": "MKI/W126-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-092": {
     "name": "腐のモノの思考実験 古都",
@@ -2101,7 +2192,8 @@
         "id": "MKI/W126-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-093": {
     "name": "必死の訴え 杏菜",
@@ -2123,7 +2215,8 @@
         "id": "MKI/W126-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-094": {
     "name": "猫耳メイド 天愛星",
@@ -2145,7 +2238,8 @@
         "id": "MKI/W126-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-095": {
     "name": "４Ｋヒロイン 杏菜",
@@ -2167,7 +2261,8 @@
         "id": "MKI/W126-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-096": {
     "name": "朝雲千早",
@@ -2189,7 +2284,8 @@
         "id": "MKI/W126-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-097": {
     "name": "志喜屋夢子",
@@ -2211,7 +2307,8 @@
         "id": "MKI/W126-097S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-098": {
     "name": "負けヒロインが多すぎる！",
@@ -2233,7 +2330,8 @@
         "id": "MKI/W126-098S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-099": {
     "name": "そういうとこだよ",
@@ -2263,7 +2361,8 @@
         "id": "MKI/W126-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-100": {
     "name": "浮気だよ!!",
@@ -2285,6 +2384,7 @@
         "id": "MKI/W126-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

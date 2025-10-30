@@ -15,7 +15,8 @@
         "id": "BFR/S78-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-P02": {
     "name": "新しいスキル メイプル",
@@ -33,7 +34,8 @@
         "id": "BFR/S78-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-111": {
     "name": "楽しい時間 メイプル",
@@ -51,7 +53,8 @@
         "id": "BFR/S78-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-112": {
     "name": "感恩報謝 カスミ",
@@ -69,7 +72,8 @@
         "id": "BFR/S78-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-113": {
     "name": "カリスマ ミィ",
@@ -87,7 +91,8 @@
         "id": "BFR/S78-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-114": {
     "name": "新装備 サリー",
@@ -105,6 +110,7 @@
         "id": "BFR/S78-114",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

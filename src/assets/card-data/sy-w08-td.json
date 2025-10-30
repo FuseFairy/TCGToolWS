@@ -15,7 +15,8 @@
         "id": "SY/W08-101",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-102": {
     "name": "いつもの長門",
@@ -33,7 +34,8 @@
         "id": "SY/W08-102",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-T01": {
     "name": "涼宮 ハルヒ",
@@ -51,7 +53,8 @@
         "id": "SY/W08-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-T02": {
     "name": "両手いっぱいの花束ハルヒ",
@@ -69,7 +72,8 @@
         "id": "SY/W08-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-T03": {
     "name": "浴衣のハルヒ＆みくる",
@@ -87,7 +91,8 @@
         "id": "SY/W08-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-T04": {
     "name": "ボーカリスト ハルヒ",
@@ -105,7 +110,8 @@
         "id": "SY/W08-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-T05": {
     "name": "ネコミミ ハルヒ",
@@ -123,7 +129,8 @@
         "id": "SY/W08-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-T06": {
     "name": "勝利宣言ハルヒ",
@@ -141,7 +148,8 @@
         "id": "SY/W08-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-T07": {
     "name": "クラッカー ハルヒ",
@@ -159,7 +167,8 @@
         "id": "SY/W08-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-T08": {
     "name": "トラブルガール ハルヒ",
@@ -177,7 +186,8 @@
         "id": "SY/W08-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-T09": {
     "name": "SOS団誕生！",
@@ -195,7 +205,8 @@
         "id": "SY/W08-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SY/W08-T10": {
     "name": "サムデイ イン ザ レイン",
@@ -213,7 +224,8 @@
         "id": "SY/W08-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-T11": {
     "name": "Xmasパーティ 長門",
@@ -231,7 +243,8 @@
         "id": "SY/W08-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-T12": {
     "name": "ネコミミ 長門",
@@ -249,7 +262,8 @@
         "id": "SY/W08-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-T13": {
     "name": "スイカを食べる長門",
@@ -267,7 +281,8 @@
         "id": "SY/W08-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-T14": {
     "name": "水着のハルヒ＆長門",
@@ -285,7 +300,8 @@
         "id": "SY/W08-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-T15": {
     "name": "温泉の長門＆みくる",
@@ -303,7 +319,8 @@
         "id": "SY/W08-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-T16": {
     "name": "情報連結解除",
@@ -321,7 +338,8 @@
         "id": "SY/W08-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-T17": {
     "name": "私のこと、あなたに教えておく",
@@ -339,6 +357,7 @@
         "id": "SY/W08-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

@@ -15,7 +15,8 @@
         "id": "SE/S04-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-106": {
     "name": "そっけないシリル",
@@ -33,7 +34,8 @@
         "id": "SE/S04-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-107": {
     "name": "本好きの少女シリル",
@@ -51,7 +53,8 @@
         "id": "SE/S04-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-108": {
     "name": "“呼び合う心”トウマ＆シリル",
@@ -69,6 +72,7 @@
         "id": "SE/S04-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

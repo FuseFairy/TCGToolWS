@@ -19,7 +19,8 @@
         "id": "AYT/W110-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-002": {
     "name": "常夏のひととき ルーシー",
@@ -41,7 +42,8 @@
         "id": "AYT/W110-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-003": {
     "name": "常夏のひととき 恋緒",
@@ -63,7 +65,8 @@
         "id": "AYT/W110-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-004": {
     "name": "果てなき研究欲 恋緒",
@@ -85,7 +88,8 @@
         "id": "AYT/W110-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-005": {
     "name": "滲み出る色気 祭里",
@@ -107,7 +111,8 @@
         "id": "AYT/W110-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-006": {
     "name": "マイペースなサブカル女子 ルーシー",
@@ -129,7 +134,8 @@
         "id": "AYT/W110-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-007": {
     "name": "“神速の祓忍”宗牙",
@@ -151,7 +157,8 @@
         "id": "AYT/W110-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-008": {
     "name": "“祓忍具職人”恋緒",
@@ -173,7 +180,8 @@
         "id": "AYT/W110-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-009": {
     "name": "“映えハンター”ルーシー",
@@ -195,7 +203,8 @@
         "id": "AYT/W110-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-010": {
     "name": "たっぷりの愛情をこめて 祭里",
@@ -217,7 +226,8 @@
         "id": "AYT/W110-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-011": {
     "name": "おぼろげな表情 祭里",
@@ -235,7 +245,8 @@
         "id": "AYT/W110-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-012": {
     "name": "封印術 祭里",
@@ -257,7 +268,8 @@
         "id": "AYT/W110-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-013": {
     "name": "戦闘態勢 宗牙",
@@ -275,7 +287,8 @@
         "id": "AYT/W110-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-014": {
     "name": "人の姿をした妖 画楽",
@@ -293,7 +306,8 @@
         "id": "AYT/W110-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-015": {
     "name": "装束着装 祭里",
@@ -315,7 +329,8 @@
         "id": "AYT/W110-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-016": {
     "name": "幼馴染みへの困惑 祭里",
@@ -333,7 +348,8 @@
         "id": "AYT/W110-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-017": {
     "name": "気合十分 ルーシー",
@@ -355,7 +371,8 @@
         "id": "AYT/W110-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-018": {
     "name": "ピカイチの才能 恋緒",
@@ -373,7 +390,8 @@
         "id": "AYT/W110-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-019": {
     "name": "ひとまずの日常 祭里",
@@ -391,7 +409,8 @@
         "id": "AYT/W110-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-020": {
     "name": "未知への怯え ルーシー",
@@ -409,7 +428,8 @@
         "id": "AYT/W110-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-021": {
     "name": "オカルト好きのお嬢様 ルーシー",
@@ -427,7 +447,8 @@
         "id": "AYT/W110-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-022": {
     "name": "女子生徒として 祭里",
@@ -445,7 +466,8 @@
         "id": "AYT/W110-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-023": {
     "name": "女子力アップ？ 祭里",
@@ -463,7 +485,8 @@
         "id": "AYT/W110-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-024": {
     "name": "影の立役者 恋緒",
@@ -481,7 +504,8 @@
         "id": "AYT/W110-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-025": {
     "name": "デリバリー配達員 祭里",
@@ -499,7 +523,8 @@
         "id": "AYT/W110-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-026": {
     "name": "前代未聞の決断 祭里",
@@ -517,7 +542,8 @@
         "id": "AYT/W110-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-027": {
     "name": "二人だけの思い出",
@@ -539,7 +565,8 @@
         "id": "AYT/W110-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-028": {
     "name": "慣れない光景",
@@ -561,7 +588,8 @@
         "id": "AYT/W110-028R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-029": {
     "name": "お宝ショット",
@@ -583,7 +611,8 @@
         "id": "AYT/W110-029R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-030": {
     "name": "予期せぬハレンチ",
@@ -605,7 +634,8 @@
         "id": "AYT/W110-030R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-031": {
     "name": "サブカル女子のコレクション",
@@ -623,7 +653,8 @@
         "id": "AYT/W110-031",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-032": {
     "name": "トモダチ以上 祭里＆すず",
@@ -645,7 +676,8 @@
         "id": "AYT/W110-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-033": {
     "name": "常夏のひととき 祭里",
@@ -667,7 +699,8 @@
         "id": "AYT/W110-033SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-034": {
     "name": "トクベツな関係 祭里",
@@ -689,7 +722,8 @@
         "id": "AYT/W110-034SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-035": {
     "name": "“妖の王”シロガネ",
@@ -711,7 +745,8 @@
         "id": "AYT/W110-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-036": {
     "name": "水着に覆われた秘密 祭里",
@@ -733,7 +768,8 @@
         "id": "AYT/W110-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-037": {
     "name": "無防備な時間 祭里",
@@ -755,7 +791,8 @@
         "id": "AYT/W110-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-038": {
     "name": "幼き日の思い出 すず",
@@ -777,7 +814,8 @@
         "id": "AYT/W110-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-039": {
     "name": "二人の甘い時間 すず＆祭里",
@@ -799,7 +837,8 @@
         "id": "AYT/W110-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-040": {
     "name": "羨望の眼差し すず",
@@ -821,7 +860,8 @@
         "id": "AYT/W110-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-041": {
     "name": "“硬派な熱血男子”祭里",
@@ -843,7 +883,8 @@
         "id": "AYT/W110-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-042": {
     "name": "“風の祓忍”祭里",
@@ -865,7 +906,8 @@
         "id": "AYT/W110-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-043": {
     "name": "体の隅まで測定を 恋緒",
@@ -887,7 +929,8 @@
         "id": "AYT/W110-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-044": {
     "name": "身近な幸せ すず",
@@ -905,7 +948,8 @@
         "id": "AYT/W110-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-045": {
     "name": "試しにいかが？ 恋緒",
@@ -923,7 +967,8 @@
         "id": "AYT/W110-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-046": {
     "name": "突然の呼び出し 祭里",
@@ -945,7 +990,8 @@
         "id": "AYT/W110-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-047": {
     "name": "メンテナンス終了 祭里",
@@ -963,7 +1009,8 @@
         "id": "AYT/W110-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-048": {
     "name": "意味深な笑み 恋緒",
@@ -981,7 +1028,8 @@
         "id": "AYT/W110-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-049": {
     "name": "溢れる想い すず",
@@ -999,7 +1047,8 @@
         "id": "AYT/W110-049",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-050": {
     "name": "抱えた不安 祭里",
@@ -1017,7 +1066,8 @@
         "id": "AYT/W110-050",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-051": {
     "name": "名案？ すず",
@@ -1035,7 +1085,8 @@
         "id": "AYT/W110-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-052": {
     "name": "職人としての喜び 恋緒",
@@ -1053,7 +1104,8 @@
         "id": "AYT/W110-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-053": {
     "name": "パジャマパーティーリベンジ すず",
@@ -1071,7 +1123,8 @@
         "id": "AYT/W110-053",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-054": {
     "name": "得意げな顔 シロガネ",
@@ -1089,7 +1142,8 @@
         "id": "AYT/W110-054",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-055": {
     "name": "匂いフェチの解析屋 恋緒",
@@ -1107,7 +1161,8 @@
         "id": "AYT/W110-055",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-056": {
     "name": "妖退治 祭里",
@@ -1129,7 +1184,8 @@
         "id": "AYT/W110-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-057": {
     "name": "幼馴染みの変貌 すず",
@@ -1147,7 +1203,8 @@
         "id": "AYT/W110-057",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-058": {
     "name": "一件落着？ 祭里",
@@ -1165,7 +1222,8 @@
         "id": "AYT/W110-058",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-059": {
     "name": "さらけ出した妖力 シロガネ",
@@ -1183,7 +1241,8 @@
         "id": "AYT/W110-059",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-060": {
     "name": "こじらせた恋愛観 祭里",
@@ -1201,7 +1260,8 @@
         "id": "AYT/W110-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-061": {
     "name": "恋のライバル 恋緒",
@@ -1219,7 +1279,8 @@
         "id": "AYT/W110-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-062": {
     "name": "糖分補給 すず",
@@ -1237,7 +1298,8 @@
         "id": "AYT/W110-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-063": {
     "name": "秘術「性醒流転」",
@@ -1259,7 +1321,8 @@
         "id": "AYT/W110-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-064": {
     "name": "君との思い出",
@@ -1281,7 +1344,8 @@
         "id": "AYT/W110-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-065": {
     "name": "本物？のキス",
@@ -1303,7 +1367,8 @@
         "id": "AYT/W110-065R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-066": {
     "name": "友達との距離感",
@@ -1325,7 +1390,8 @@
         "id": "AYT/W110-066R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-067": {
     "name": "託されたものに応えるために",
@@ -1347,7 +1413,8 @@
         "id": "AYT/W110-067R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-068": {
     "name": "改良の余地こそ私の大好物",
@@ -1365,7 +1432,8 @@
         "id": "AYT/W110-068",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AYT/W110-069": {
     "name": "トクベツな関係 すず",
@@ -1387,7 +1455,8 @@
         "id": "AYT/W110-069SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-070": {
     "name": "常夏のひととき すず",
@@ -1409,7 +1478,8 @@
         "id": "AYT/W110-070SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-071": {
     "name": "常夏のひととき 弥生",
@@ -1431,7 +1501,8 @@
         "id": "AYT/W110-071SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-072": {
     "name": "止まらない欲望 すず",
@@ -1453,7 +1524,8 @@
         "id": "AYT/W110-072SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-073": {
     "name": "宇宙との交信 ルーシー",
@@ -1475,7 +1547,8 @@
         "id": "AYT/W110-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-074": {
     "name": "大胆なスキンシップ 弥生",
@@ -1497,7 +1570,8 @@
         "id": "AYT/W110-074SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-075": {
     "name": "“妖巫女”すず",
@@ -1519,7 +1593,8 @@
         "id": "AYT/W110-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-076": {
     "name": "“気さくな乙女”弥生",
@@ -1541,7 +1616,8 @@
         "id": "AYT/W110-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-077": {
     "name": "大の甘党 すず",
@@ -1563,7 +1639,8 @@
         "id": "AYT/W110-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-078": {
     "name": "装束着装 すず",
@@ -1585,7 +1662,8 @@
         "id": "AYT/W110-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-079": {
     "name": "妖への対処 すず",
@@ -1603,7 +1681,8 @@
         "id": "AYT/W110-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-080": {
     "name": "ごちそう発見 シロガネ",
@@ -1625,7 +1704,8 @@
         "id": "AYT/W110-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-081": {
     "name": "一安心 すず",
@@ -1647,7 +1727,8 @@
         "id": "AYT/W110-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-082": {
     "name": "おだんご作り すず",
@@ -1669,7 +1750,8 @@
         "id": "AYT/W110-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-083": {
     "name": "恋バナの予感 弥生",
@@ -1687,7 +1769,8 @@
         "id": "AYT/W110-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-084": {
     "name": "大切な漫画 ルーシー",
@@ -1705,7 +1788,8 @@
         "id": "AYT/W110-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-085": {
     "name": "感じるロマンス すず",
@@ -1727,7 +1811,8 @@
         "id": "AYT/W110-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-086": {
     "name": "ふたりっきりの空間 すず",
@@ -1745,7 +1830,8 @@
         "id": "AYT/W110-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-087": {
     "name": "圧倒的防衛術 シロガネ",
@@ -1763,7 +1849,8 @@
         "id": "AYT/W110-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-088": {
     "name": "友達との談笑 弥生",
@@ -1781,7 +1868,8 @@
         "id": "AYT/W110-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-089": {
     "name": "繊細な心 弥生",
@@ -1799,7 +1887,8 @@
         "id": "AYT/W110-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-090": {
     "name": "ニンジャへの関心 ルーシー",
@@ -1817,7 +1906,8 @@
         "id": "AYT/W110-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-091": {
     "name": "ネコ目シンパシー 弥生",
@@ -1835,7 +1925,8 @@
         "id": "AYT/W110-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-092": {
     "name": "おもしろさへの探求 ルーシー",
@@ -1853,7 +1944,8 @@
         "id": "AYT/W110-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-093": {
     "name": "至福の時間 シロガネ",
@@ -1871,7 +1963,8 @@
         "id": "AYT/W110-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-094": {
     "name": "シャッターチャンス ルーシー",
@@ -1889,7 +1982,8 @@
         "id": "AYT/W110-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-095": {
     "name": "妖巫女の妙技 すず",
@@ -1907,7 +2001,8 @@
         "id": "AYT/W110-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-096": {
     "name": "すずだんご",
@@ -1929,7 +2024,8 @@
         "id": "AYT/W110-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-097": {
     "name": "夢の時間",
@@ -1951,7 +2047,8 @@
         "id": "AYT/W110-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-098": {
     "name": "止まらないハレンチ",
@@ -1973,7 +2070,8 @@
         "id": "AYT/W110-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-099": {
     "name": "幼馴染みとしての責務",
@@ -1995,7 +2093,8 @@
         "id": "AYT/W110-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-100": {
     "name": "女神のほほえみ",
@@ -2013,6 +2112,7 @@
         "id": "AYT/W110-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

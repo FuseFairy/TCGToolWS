@@ -23,7 +23,8 @@
         "id": "SW/SE39-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE39-002": {
     "name": "“激情を秘めた無頼漢”ハン・ソロ",
@@ -49,7 +50,8 @@
         "id": "SW/SE39-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE39-003": {
     "name": "“勇気あるリーダー”ポー・ダメロン",
@@ -75,7 +77,8 @@
         "id": "SW/SE39-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE39-004": {
     "name": "“レジスタンス”フィン",
@@ -101,7 +104,8 @@
         "id": "SW/SE39-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE39-005": {
     "name": "“伝説のウーキーの戦士”チューバッカ",
@@ -127,7 +131,8 @@
         "id": "SW/SE39-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE39-006": {
     "name": "“いつも傍に”C-3PO＆R2-D2",
@@ -153,7 +158,8 @@
         "id": "SW/SE39-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE39-007": {
     "name": "“強気な指導者”レイア",
@@ -179,7 +185,8 @@
         "id": "SW/SE39-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE39-008": {
     "name": "“反乱同盟軍将軍”ハン・ソロ",
@@ -205,7 +212,8 @@
         "id": "SW/SE39-008SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE39-009": {
     "name": "“タトゥイーンの犯罪王”ジャバ",
@@ -231,7 +239,8 @@
         "id": "SW/SE39-009SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE39-010": {
     "name": "“卓越した戦闘能力”ダース・モール",
@@ -257,7 +266,8 @@
         "id": "SW/SE39-010SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE39-011": {
     "name": "“スカイウォーカーの末裔”カイロ・レン",
@@ -283,7 +293,8 @@
         "id": "SW/SE39-011SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE39-012": {
     "name": "“究極の悪”ダース・ベイダー",
@@ -309,7 +320,8 @@
         "id": "SW/SE39-012SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE39-013": {
     "name": "“選ばれし者”アナキン",
@@ -335,7 +347,8 @@
         "id": "SW/SE39-013SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE39-014": {
     "name": "“帝国の指揮官”ダース・ベイダー",
@@ -361,7 +374,8 @@
         "id": "SW/SE39-014SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE39-015": {
     "name": "“力への渇望”アナキン",
@@ -387,7 +401,8 @@
         "id": "SW/SE39-015SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE39-016": {
     "name": "Attack of the Clones",
@@ -413,7 +428,8 @@
         "id": "SW/SE39-016SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE39-017": {
     "name": "“グランド・マスター”ヨーダ",
@@ -439,7 +455,8 @@
         "id": "SW/SE39-017SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE39-018": {
     "name": "“強い忠誠心”BB-8",
@@ -465,7 +482,8 @@
         "id": "SW/SE39-018SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE39-019": {
     "name": "“隠遁者”ヨーダ",
@@ -491,7 +509,8 @@
         "id": "SW/SE39-019SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE39-020": {
     "name": "“フォースの繋がり”レイ",
@@ -517,7 +536,8 @@
         "id": "SW/SE39-020SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE39-021": {
     "name": "“生けるフォース”クワイ=ガン",
@@ -543,7 +563,8 @@
         "id": "SW/SE39-021SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE39-022": {
     "name": "“真のジェダイ”ルーク",
@@ -569,7 +590,8 @@
         "id": "SW/SE39-022SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE39-023": {
     "name": "レイ・スカイウォーカー",
@@ -595,7 +617,8 @@
         "id": "SW/SE39-023SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE39-024": {
     "name": "“ソレスの熟練者”オビ=ワン",
@@ -621,7 +644,8 @@
         "id": "SW/SE39-024SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE39-025": {
     "name": "“生ける神話”ルーク",
@@ -647,7 +671,8 @@
         "id": "SW/SE39-025SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE39-026": {
     "name": "チアルート＆ベイズ",
@@ -673,7 +698,8 @@
         "id": "SW/SE39-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE39-027": {
     "name": "“ジェダイへの決意”ルーク",
@@ -699,7 +725,8 @@
         "id": "SW/SE39-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE39-028": {
     "name": "“伝説のジェダイ”オビ=ワン",
@@ -725,7 +752,8 @@
         "id": "SW/SE39-028SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE39-029": {
     "name": "Lightsaber",
@@ -751,7 +779,8 @@
         "id": "SW/SE39-029SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE39-030": {
     "name": "Duel on Mustafar",
@@ -777,6 +806,7 @@
         "id": "SW/SE39-030SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -15,7 +15,8 @@
         "id": "KLK/SP03-10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/SP03-09": {
     "name": "野望のために 縫",
@@ -33,6 +34,7 @@
         "id": "KLK/SP03-09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -15,7 +15,8 @@
         "id": "MF/S13-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-107": {
     "name": "ユニバーサル・ランカ",
@@ -33,7 +34,8 @@
         "id": "MF/S13-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-108": {
     "name": "ユニバーサル・シェリル",
@@ -51,7 +53,8 @@
         "id": "MF/S13-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-109": {
     "name": "ちびアルト",
@@ -69,7 +72,8 @@
         "id": "MF/S13-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-110": {
     "name": "ダイナム超合金 ランカ",
@@ -87,7 +91,8 @@
         "id": "MF/S13-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-111": {
     "name": "エルボックス シェリル",
@@ -105,7 +110,8 @@
         "id": "MF/S13-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-112": {
     "name": "エルボックス ランカ",
@@ -123,7 +129,8 @@
         "id": "MF/S13-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-113": {
     "name": "デビューショット シェリル",
@@ -141,7 +148,8 @@
         "id": "MF/S13-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-114": {
     "name": "射手座 シェリル",
@@ -159,7 +167,8 @@
         "id": "MF/S13-114",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-115": {
     "name": "ハートマーク ランカ",
@@ -177,7 +186,8 @@
         "id": "MF/S13-115",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-116": {
     "name": "思い出の歌 ランカ",
@@ -195,7 +205,8 @@
         "id": "MF/S13-116",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-117": {
     "name": "巫女装束のシェリル",
@@ -213,6 +224,7 @@
         "id": "MF/S13-117",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

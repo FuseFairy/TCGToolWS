@@ -19,7 +19,8 @@
         "id": "Gso/WS02-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gso/WS02-P03": {
     "name": "電撃文庫30周年記念 アスナ",
@@ -37,6 +38,7 @@
         "id": "Gso/WS02-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

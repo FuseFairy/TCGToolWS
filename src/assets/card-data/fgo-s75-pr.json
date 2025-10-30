@@ -15,7 +15,8 @@
         "id": "FGO/S75-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-P02": {
     "name": "しあわせの味 マシュ",
@@ -33,7 +34,8 @@
         "id": "FGO/S75-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-P03": {
     "name": "鋭い射撃 イシュタル",
@@ -51,7 +53,8 @@
         "id": "FGO/S75-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-P04": {
     "name": "賢王の秘策 ギルガメッシュ",
@@ -69,7 +72,8 @@
         "id": "FGO/S75-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-101": {
     "name": "SD マシュ",
@@ -87,7 +91,8 @@
         "id": "FGO/S75-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S75-102": {
     "name": "SD ギルガメッシュ",
@@ -105,7 +110,8 @@
         "id": "FGO/S75-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-103": {
     "name": "SD キングゥ",
@@ -123,7 +129,8 @@
         "id": "FGO/S75-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-104": {
     "name": "SD イシュタル",
@@ -141,7 +148,8 @@
         "id": "FGO/S75-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S75-105": {
     "name": "SD エレシュキガル",
@@ -159,6 +167,7 @@
         "id": "FGO/S75-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

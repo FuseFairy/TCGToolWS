@@ -15,7 +15,8 @@
         "id": "FS/S03-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S03-104": {
     "name": "ちびセイバー",
@@ -33,7 +34,8 @@
         "id": "FS/S03-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S03-105": {
     "name": "ちび凛",
@@ -51,7 +53,8 @@
         "id": "FS/S03-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S03-106": {
     "name": "ちび桜",
@@ -69,7 +72,8 @@
         "id": "FS/S03-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S03-107": {
     "name": "遠き日を想うセイバー",
@@ -87,7 +91,8 @@
         "id": "FS/S03-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S03-109": {
     "name": "真なる守り手 セイバー",
@@ -105,6 +110,7 @@
         "id": "FS/S03-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "SG/W72-124",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-125": {
     "name": "“アンリミ”翼",
@@ -33,7 +34,8 @@
         "id": "SG/W72-125",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-126": {
     "name": "“アンリミ”クリス",
@@ -51,7 +53,8 @@
         "id": "SG/W72-126",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-127": {
     "name": "“アンリミ”マリア",
@@ -69,7 +72,8 @@
         "id": "SG/W72-127",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-128": {
     "name": "“アンリミ”調",
@@ -87,7 +91,8 @@
         "id": "SG/W72-128",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-129": {
     "name": "“アンリミ”切歌",
@@ -105,6 +110,7 @@
         "id": "SG/W72-129",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

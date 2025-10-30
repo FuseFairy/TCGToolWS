@@ -19,7 +19,8 @@
         "id": "ISC/SE53-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/SE53-P02": {
     "name": "今日のおやつ 七草 はづき",
@@ -45,6 +46,7 @@
         "id": "ISC/SE53-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

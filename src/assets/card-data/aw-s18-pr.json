@@ -15,7 +15,8 @@
         "id": "AW/S18-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-P02": {
     "name": "水着の黒雪姫",
@@ -33,7 +34,8 @@
         "id": "AW/S18-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-P03": {
     "name": "下校中のチユリ",
@@ -51,7 +53,8 @@
         "id": "AW/S18-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-P04": {
     "name": "放課後デート 黒雪姫",
@@ -69,7 +72,8 @@
         "id": "AW/S18-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-P05": {
     "name": "可愛い対抗心 黒雪姫",
@@ -87,7 +91,8 @@
         "id": "AW/S18-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-P06": {
     "name": "真夏の昼下がり 黒雪姫",
@@ -105,7 +110,8 @@
         "id": "AW/S18-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-106": {
     "name": "ご褒美の条件 黒雪姫",
@@ -123,7 +129,8 @@
         "id": "AW/S18-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-107": {
     "name": "減らず口の応酬 黒雪姫",
@@ -141,7 +148,8 @@
         "id": "AW/S18-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-108": {
     "name": "ハルユキの《親》黒雪姫",
@@ -159,7 +167,8 @@
         "id": "AW/S18-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-110": {
     "name": "はじめての嫉妬 黒雪姫",
@@ -177,6 +186,7 @@
         "id": "AW/S18-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

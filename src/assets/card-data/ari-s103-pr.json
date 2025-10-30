@@ -15,7 +15,8 @@
         "id": "ARI/S103-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-P02": {
     "name": "バスタイム ユエ",
@@ -37,7 +38,8 @@
         "id": "ARI/S103-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-P03": {
     "name": "勝ってるところ シア",
@@ -59,7 +61,8 @@
         "id": "ARI/S103-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-101": {
     "name": "衣装交換会 ユエ",
@@ -77,7 +80,8 @@
         "id": "ARI/S103-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-102": {
     "name": "衣装交換会 シア",
@@ -95,7 +99,8 @@
         "id": "ARI/S103-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-103": {
     "name": "衣装交換会 ミュウ",
@@ -113,7 +118,8 @@
         "id": "ARI/S103-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-104": {
     "name": "衣装交換会 ティオ",
@@ -131,7 +137,8 @@
         "id": "ARI/S103-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-105": {
     "name": "衣装交換会 香織",
@@ -149,6 +156,7 @@
         "id": "ARI/S103-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

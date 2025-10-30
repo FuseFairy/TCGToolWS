@@ -19,7 +19,8 @@
         "id": "Klb/W78-008SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W78-013": {
     "name": "乙女達の安息 小毬",
@@ -41,7 +42,8 @@
         "id": "Klb/W78-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Klb/W78-013S_": {
     "name": "乙女達の安息 小毬",
@@ -59,7 +61,8 @@
         "id": "Klb/W78-013S_",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Klb/W78-020": {
     "name": "乙女達の安息 唯湖",
@@ -81,7 +84,8 @@
         "id": "Klb/W78-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W78-020S_": {
     "name": "乙女達の安息 唯湖",
@@ -99,7 +103,8 @@
         "id": "Klb/W78-020S_",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W78-025": {
     "name": "意外な優しさ 佐々美",
@@ -117,7 +122,8 @@
         "id": "Klb/W78-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W78-028": {
     "name": "乙女達の安息 鈴",
@@ -139,7 +145,8 @@
         "id": "Klb/W78-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W78-028S_": {
     "name": "乙女達の安息 鈴",
@@ -157,7 +164,8 @@
         "id": "Klb/W78-028S_",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W78-036": {
     "name": "Jumper 真人",
@@ -175,7 +183,8 @@
         "id": "Klb/W78-036",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Klb/W78-040": {
     "name": "あたしたちは、仲間だ",
@@ -197,7 +206,8 @@
         "id": "Klb/W78-040SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W78-042": {
     "name": "なかなか懐かない子猫 鈴",
@@ -219,7 +229,8 @@
         "id": "Klb/W78-042SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W78-046": {
     "name": "Jumper 理樹",
@@ -237,7 +248,8 @@
         "id": "Klb/W78-046",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W78-049": {
     "name": "幽霊部員 佳奈多",
@@ -255,7 +267,8 @@
         "id": "Klb/W78-049",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Klb/W78-053": {
     "name": "乙女達の安息 葉留佳",
@@ -277,7 +290,8 @@
         "id": "Klb/W78-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Klb/W78-053S_": {
     "name": "乙女達の安息 葉留佳",
@@ -295,7 +309,8 @@
         "id": "Klb/W78-053S_",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Klb/W78-054": {
     "name": "高飛車な黒猫 佐々美",
@@ -317,7 +332,8 @@
         "id": "Klb/W78-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Klb/W78-055": {
     "name": "乙女達の安息 クド",
@@ -339,7 +355,8 @@
         "id": "Klb/W78-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Klb/W78-055S_": {
     "name": "乙女達の安息 クド",
@@ -357,7 +374,8 @@
         "id": "Klb/W78-055S_",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Klb/W78-060": {
     "name": "Jumper 謙吾",
@@ -375,7 +393,8 @@
         "id": "Klb/W78-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W78-073": {
     "name": "アラビアンナイト 沙耶",
@@ -393,7 +412,8 @@
         "id": "Klb/W78-073",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Klb/W78-075": {
     "name": "紫電一閃 唯湖",
@@ -411,7 +431,8 @@
         "id": "Klb/W78-075",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W78-079": {
     "name": "体操服 葉留佳",
@@ -429,7 +450,8 @@
         "id": "Klb/W78-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Klb/W78-080": {
     "name": "優等生の仮面 佳奈多",
@@ -451,7 +473,8 @@
         "id": "Klb/W78-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Klb/W78-083": {
     "name": "体操服 美魚",
@@ -469,7 +492,8 @@
         "id": "Klb/W78-083",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W78-089": {
     "name": "Another Story",
@@ -487,7 +511,8 @@
         "id": "Klb/W78-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W78-093": {
     "name": "あたたかくて、やさしい世界",
@@ -509,7 +534,8 @@
         "id": "Klb/W78-093R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W78-094": {
     "name": "秘めた魅力 沙耶",
@@ -531,7 +557,8 @@
         "id": "Klb/W78-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W78-096": {
     "name": "えきぞちっく（自称）なマスコット クド",
@@ -553,7 +580,8 @@
         "id": "Klb/W78-096SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Klb/W78-101": {
     "name": "Jumper 恭介",
@@ -575,7 +603,8 @@
         "id": "Klb/W78-101S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W78-104": {
     "name": "二人のベストプレイス 小毬",
@@ -593,7 +622,8 @@
         "id": "Klb/W78-104",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W78-114": {
     "name": "乙女達の安息 美魚",
@@ -615,7 +645,8 @@
         "id": "Klb/W78-114S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Klb/W78-114S_": {
     "name": "乙女達の安息 美魚",
@@ -633,7 +664,8 @@
         "id": "Klb/W78-114S_",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Klb/W78-121": {
     "name": "誰よりも、誰よりもそばに",
@@ -655,6 +687,7 @@
         "id": "Klb/W78-121R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

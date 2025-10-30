@@ -19,7 +19,8 @@
         "id": "ZM/W03-101P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-102": {
     "name": "負けず嫌いなルイズ",
@@ -37,7 +38,8 @@
         "id": "ZM/W03-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-103": {
     "name": "虚無の担い手たち",
@@ -55,7 +57,8 @@
         "id": "ZM/W03-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-104": {
     "name": "負けず嫌いなルイズ",
@@ -73,7 +76,8 @@
         "id": "ZM/W03-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-105": {
     "name": "幼い頃の約束",
@@ -91,7 +95,8 @@
         "id": "ZM/W03-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-106": {
     "name": "意地っ張りなルイズ",
@@ -109,7 +114,8 @@
         "id": "ZM/W03-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-107": {
     "name": "高飛車ルイズ",
@@ -127,7 +133,8 @@
         "id": "ZM/W03-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-108": {
     "name": "ミス・ヴァリエール",
@@ -145,7 +152,8 @@
         "id": "ZM/W03-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-109": {
     "name": "お姫様 ティファニア＆アンリエッタ",
@@ -163,6 +171,7 @@
         "id": "ZM/W03-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

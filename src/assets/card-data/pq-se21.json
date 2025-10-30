@@ -15,7 +15,8 @@
         "id": "PQ/SE21-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PQ/SE21-02": {
     "name": "“月高組”Ｐ３主人公",
@@ -33,7 +34,8 @@
         "id": "PQ/SE21-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PQ/SE21-03": {
     "name": "“月高組”天田",
@@ -51,7 +53,8 @@
         "id": "PQ/SE21-03",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PQ/SE21-04": {
     "name": "“朝の時間”菜々子",
@@ -69,7 +72,8 @@
         "id": "PQ/SE21-04",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PQ/SE21-05": {
     "name": "“八高組”陽介",
@@ -87,7 +91,8 @@
         "id": "PQ/SE21-05",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PQ/SE21-06": {
     "name": "“月高組”コロマル",
@@ -105,7 +110,8 @@
         "id": "PQ/SE21-06",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PQ/SE21-07": {
     "name": "シャドウ オブ ザ ラビリンス",
@@ -123,7 +129,8 @@
         "id": "PQ/SE21-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PQ/SE21-08": {
     "name": "謎に挑む者たち",
@@ -141,7 +148,8 @@
         "id": "PQ/SE21-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PQ/SE21-09": {
     "name": "“月高組”風花",
@@ -159,7 +167,8 @@
         "id": "PQ/SE21-09",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PQ/SE21-10": {
     "name": "奪われた記憶 善＆玲",
@@ -181,7 +190,8 @@
         "id": "PQ/SE21-10SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PQ/SE21-11": {
     "name": "謎の二人 玲＆善",
@@ -203,7 +213,8 @@
         "id": "PQ/SE21-11SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PQ/SE21-12": {
     "name": "“八高組”千枝",
@@ -221,7 +232,8 @@
         "id": "PQ/SE21-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PQ/SE21-13": {
     "name": "“月高組”アイギス",
@@ -239,7 +251,8 @@
         "id": "PQ/SE21-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PQ/SE21-14": {
     "name": "“八高組”りせ",
@@ -257,7 +270,8 @@
         "id": "PQ/SE21-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PQ/SE21-15": {
     "name": "休息の時間",
@@ -275,7 +289,8 @@
         "id": "PQ/SE21-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PQ/SE21-16": {
     "name": "守りたい人",
@@ -293,7 +308,8 @@
         "id": "PQ/SE21-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PQ/SE21-17": {
     "name": "“八高組”完二",
@@ -311,7 +327,8 @@
         "id": "PQ/SE21-17",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PQ/SE21-18": {
     "name": "“月高組”順平",
@@ -329,7 +346,8 @@
         "id": "PQ/SE21-18",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PQ/SE21-19": {
     "name": "“八高組”雪子",
@@ -347,7 +365,8 @@
         "id": "PQ/SE21-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PQ/SE21-20": {
     "name": "“月高組”明彦",
@@ -365,7 +384,8 @@
         "id": "PQ/SE21-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PQ/SE21-21": {
     "name": "“月高組”真次郎",
@@ -383,7 +403,8 @@
         "id": "PQ/SE21-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PQ/SE21-22": {
     "name": "“八高組”クマ",
@@ -401,7 +422,8 @@
         "id": "PQ/SE21-22",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PQ/SE21-23": {
     "name": "“八高組”直斗",
@@ -419,7 +441,8 @@
         "id": "PQ/SE21-23",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PQ/SE21-24": {
     "name": "“ベルベットルームの住人”エリザベス",
@@ -437,7 +460,8 @@
         "id": "PQ/SE21-24",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PQ/SE21-25": {
     "name": "“月高組”ゆかり",
@@ -455,7 +479,8 @@
         "id": "PQ/SE21-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PQ/SE21-26": {
     "name": "“ベルベットルームの住人”テオドア",
@@ -473,7 +498,8 @@
         "id": "PQ/SE21-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PQ/SE21-27": {
     "name": "“月高組”美鶴",
@@ -491,7 +517,8 @@
         "id": "PQ/SE21-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PQ/SE21-28": {
     "name": "“ベルベットルームの住人”マリー",
@@ -509,7 +536,8 @@
         "id": "PQ/SE21-28",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PQ/SE21-29": {
     "name": "“ベルベットルームの住人”マーガレット",
@@ -527,7 +555,8 @@
         "id": "PQ/SE21-29",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PQ/SE21-30": {
     "name": "騒がしい食事",
@@ -545,6 +574,7 @@
         "id": "PQ/SE21-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

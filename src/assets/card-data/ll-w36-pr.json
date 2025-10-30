@@ -15,7 +15,8 @@
         "id": "LL/W36-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-P02": {
     "name": "“稽古中”園田 海未",
@@ -33,7 +34,8 @@
         "id": "LL/W36-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-P03": {
     "name": "”ひなまつり”矢澤 にこ",
@@ -51,7 +53,8 @@
         "id": "LL/W36-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-P04": {
     "name": "“ゆきんこ”星空 凛",
@@ -69,7 +72,8 @@
         "id": "LL/W36-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-P05": {
     "name": "“巫女服”東條 希",
@@ -87,7 +91,8 @@
         "id": "LL/W36-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-P06": {
     "name": "“潮干狩り”小泉 花陽",
@@ -105,7 +110,8 @@
         "id": "LL/W36-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-101": {
     "name": "“ハイキング”高坂 穂乃果",
@@ -123,7 +129,8 @@
         "id": "LL/W36-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W36-102": {
     "name": "“水色の傘”絢瀬 絵里",
@@ -141,7 +148,8 @@
         "id": "LL/W36-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W36-103": {
     "name": "“豆まき”西木野 真姫",
@@ -159,6 +167,7 @@
         "id": "LL/W36-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "GU/WE26-051",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-052": {
     "name": "いらっしゃいませ ミニ千夜",
@@ -33,7 +34,8 @@
         "id": "GU/WE26-052",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-053": {
     "name": "いらっしゃいませ ミニココア",
@@ -51,7 +53,8 @@
         "id": "GU/WE26-053",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-054": {
     "name": "いらっしゃいませ ミニリゼ",
@@ -69,7 +72,8 @@
         "id": "GU/WE26-054",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-055": {
     "name": "いらっしゃいませ ミニチノ",
@@ -87,7 +91,8 @@
         "id": "GU/WE26-055",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-P01": {
     "name": "気品オーラ シャロ",
@@ -105,7 +110,8 @@
         "id": "GU/WE26-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-P02": {
     "name": "しあわせ満面 千夜",
@@ -123,7 +129,8 @@
         "id": "GU/WE26-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-P03": {
     "name": "ハートに込めて シャロ",
@@ -141,7 +148,8 @@
         "id": "GU/WE26-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-P04": {
     "name": "ハートに込めて 千夜",
@@ -159,7 +167,8 @@
         "id": "GU/WE26-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-P05": {
     "name": "ハートに込めて リゼ",
@@ -177,7 +186,8 @@
         "id": "GU/WE26-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-P06": {
     "name": "ハートに込めて ココア",
@@ -195,7 +205,8 @@
         "id": "GU/WE26-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-P07": {
     "name": "ハートに込めて チノ",
@@ -213,7 +224,8 @@
         "id": "GU/WE26-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-P08": {
     "name": "もふもふあったかい チマメ隊",
@@ -235,7 +247,8 @@
         "id": "GU/WE26-P08S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-P09": {
     "name": "チマメ隊＆千マメ隊",
@@ -253,7 +266,8 @@
         "id": "GU/WE26-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-P10": {
     "name": "Petit Rabbit's with beans",
@@ -271,7 +285,8 @@
         "id": "GU/WE26-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-P11": {
     "name": "“洋風喫茶”チノ＆ココア＆リゼ＆シャロ",
@@ -289,7 +304,8 @@
         "id": "GU/WE26-P11",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-P12": {
     "name": "みんなでデュエット♪",
@@ -307,6 +323,7 @@
         "id": "GU/WE26-P12",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "FT/SE10-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-02": {
     "name": "愛する友と共に エルザ",
@@ -33,7 +34,8 @@
         "id": "FT/SE10-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-03": {
     "name": "幼き日のエルザ",
@@ -51,7 +53,8 @@
         "id": "FT/SE10-03",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-04": {
     "name": "ラクサス・ドレアー",
@@ -69,7 +72,8 @@
         "id": "FT/SE10-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-05": {
     "name": "“悠遠の衣”エルザ",
@@ -87,7 +91,8 @@
         "id": "FT/SE10-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/SE10-06": {
     "name": "“セイズ魔法【人形憑】”ビックスロー",
@@ -105,7 +110,8 @@
         "id": "FT/SE10-06",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-07": {
     "name": "“石化眼”エバーグリーン",
@@ -123,7 +129,8 @@
         "id": "FT/SE10-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-08": {
     "name": "“香り魔法”一夜",
@@ -141,7 +148,8 @@
         "id": "FT/SE10-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-09": {
     "name": "小さな妖精 レビィ",
@@ -159,7 +167,8 @@
         "id": "FT/SE10-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-10": {
     "name": "“闇の文字”フリード",
@@ -177,7 +186,8 @@
         "id": "FT/SE10-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-11": {
     "name": "とっておきの換装 エルザ",
@@ -195,7 +205,8 @@
         "id": "FT/SE10-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-12": {
     "name": "ラクサスの“じーじ”マカロフ",
@@ -213,7 +224,8 @@
         "id": "FT/SE10-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/SE10-13": {
     "name": "楽園の塔の支配者 ジェラール",
@@ -231,7 +243,8 @@
         "id": "FT/SE10-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/SE10-14": {
     "name": "そして常に優しくあれ",
@@ -249,7 +262,8 @@
         "id": "FT/SE10-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FT/SE10-15": {
     "name": "星霊魔導士 エンジェル",
@@ -267,7 +281,8 @@
         "id": "FT/SE10-15",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-16": {
     "name": "美しき絆 ルーシィ",
@@ -285,7 +300,8 @@
         "id": "FT/SE10-16",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/SE10-17": {
     "name": "“合体魔法”ルーシィ",
@@ -303,7 +319,8 @@
         "id": "FT/SE10-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-18": {
     "name": "大切な友達と共に ルーシィ",
@@ -321,7 +338,8 @@
         "id": "FT/SE10-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-19": {
     "name": "あたしの決意 ルーシィ",
@@ -339,7 +357,8 @@
         "id": "FT/SE10-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-20": {
     "name": "黄道十二門の星霊",
@@ -377,7 +396,8 @@
         "id": "FT/SE10-20Vir",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/SE10-21": {
     "name": "優しい笑顔 ミラジェーン",
@@ -395,7 +415,8 @@
         "id": "FT/SE10-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/SE10-22": {
     "name": "六魔の祈り",
@@ -413,7 +434,8 @@
         "id": "FT/SE10-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-23": {
     "name": "LOVE & LUCKY",
@@ -431,7 +453,8 @@
         "id": "FT/SE10-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-24": {
     "name": "罪なんかじゃない！",
@@ -449,7 +472,8 @@
         "id": "FT/SE10-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-25": {
     "name": "ネコマンダーのハッピー",
@@ -467,7 +491,8 @@
         "id": "FT/SE10-25",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-26": {
     "name": "ドラゴンフォース ナツ",
@@ -485,7 +510,8 @@
         "id": "FT/SE10-26",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-27": {
     "name": "オレたちの帰る場所 ナツ",
@@ -503,7 +529,8 @@
         "id": "FT/SE10-27",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/SE10-28": {
     "name": "仲間の力 ナツ",
@@ -521,7 +548,8 @@
         "id": "FT/SE10-28",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/SE10-29": {
     "name": "六魔将軍",
@@ -559,7 +587,8 @@
         "id": "FT/SE10-29Rac",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-30": {
     "name": "まさかの共闘 ガジル",
@@ -577,7 +606,8 @@
         "id": "FT/SE10-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-31": {
     "name": "六魔将軍のマスター ゼロ",
@@ -595,7 +625,8 @@
         "id": "FT/SE10-31",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/SE10-32": {
     "name": "炎のドラゴン イグニール",
@@ -613,7 +644,8 @@
         "id": "FT/SE10-32",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/SE10-33": {
     "name": "紅蓮鳳凰劍",
@@ -631,7 +663,8 @@
         "id": "FT/SE10-33",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-34": {
     "name": "ナツ vs. ゼロ",
@@ -649,7 +682,8 @@
         "id": "FT/SE10-34",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-35": {
     "name": "ウェンディ・マーベル",
@@ -667,7 +701,8 @@
         "id": "FT/SE10-35",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-36": {
     "name": "妖精の尻尾の魔導士 ジュビア",
@@ -685,7 +720,8 @@
         "id": "FT/SE10-36",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/SE10-37": {
     "name": "“治癒魔法”ウェンディ",
@@ -703,7 +739,8 @@
         "id": "FT/SE10-37",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/SE10-38": {
     "name": "天空の滅竜魔導士 ウェンディ",
@@ -721,7 +758,8 @@
         "id": "FT/SE10-38",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/SE10-39": {
     "name": "幼き日のウェンディ",
@@ -739,7 +777,8 @@
         "id": "FT/SE10-39",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-40": {
     "name": "化猫の宿のマスター ローバウル",
@@ -757,7 +796,8 @@
         "id": "FT/SE10-40",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-41": {
     "name": "氷の城壁 グレイ",
@@ -775,7 +815,8 @@
         "id": "FT/SE10-41",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-42": {
     "name": "素直で健気 ウェンディ",
@@ -793,7 +834,8 @@
         "id": "FT/SE10-42",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-43": {
     "name": "ウェンディの世話係 シャルル",
@@ -811,7 +853,8 @@
         "id": "FT/SE10-43",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-44": {
     "name": "“合体魔法”ジュビア",
@@ -829,7 +872,8 @@
         "id": "FT/SE10-44",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/SE10-45": {
     "name": "天竜の咆哮",
@@ -847,6 +891,7 @@
         "id": "FT/SE10-45",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

@@ -23,7 +23,8 @@
         "id": "NTA/WE48-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NTA/WE48-P02": {
     "name": "これからのこと フェイト",
@@ -45,7 +46,8 @@
         "id": "NTA/WE48-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NTA/WE48-P03": {
     "name": "願った時間 フェイト＆なのは",
@@ -63,6 +65,7 @@
         "id": "NTA/WE48-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

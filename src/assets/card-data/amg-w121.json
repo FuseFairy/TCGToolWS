@@ -19,7 +19,8 @@
         "id": "AMG/W121-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-002": {
     "name": "きせき園の幼馴染 白日",
@@ -41,7 +42,8 @@
         "id": "AMG/W121-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-003": {
     "name": "きせき園の寮母 舞昼",
@@ -63,7 +65,8 @@
         "id": "AMG/W121-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-004": {
     "name": "鶴山白日",
@@ -85,7 +88,8 @@
         "id": "AMG/W121-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-005": {
     "name": "ニヤニヤ顔 舞昼",
@@ -107,7 +111,8 @@
         "id": "AMG/W121-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-006": {
     "name": "いたずら好きなボクっ娘 白日",
@@ -129,7 +134,8 @@
         "id": "AMG/W121-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-007": {
     "name": "憧れの人 舞昼",
@@ -151,7 +157,8 @@
         "id": "AMG/W121-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-008": {
     "name": "その視線の先は 白日",
@@ -173,7 +180,8 @@
         "id": "AMG/W121-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-009": {
     "name": "月神宵深子",
@@ -195,7 +203,8 @@
         "id": "AMG/W121-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-010": {
     "name": "頼れる助っ人 舞昼",
@@ -217,7 +226,8 @@
         "id": "AMG/W121-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-011": {
     "name": "良き導き手 舞昼",
@@ -239,7 +249,8 @@
         "id": "AMG/W121-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-012": {
     "name": "ボクの特等席だった君の隣",
@@ -261,7 +272,8 @@
         "id": "AMG/W121-012R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-013": {
     "name": "白百合が見通すは胸の内",
@@ -283,7 +295,8 @@
         "id": "AMG/W121-013R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-014": {
     "name": "お茶目なお姉ちゃん 夜重",
@@ -309,7 +322,8 @@
         "id": "AMG/W121-014SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-015": {
     "name": "“恋”のお守り 夜重",
@@ -335,7 +349,8 @@
         "id": "AMG/W121-015SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-016": {
     "name": "君と縁を結んで 夜重",
@@ -361,7 +376,8 @@
         "id": "AMG/W121-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-017": {
     "name": "その視線の先は 夜重",
@@ -383,7 +399,8 @@
         "id": "AMG/W121-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-018": {
     "name": "穏やかな長女 夜重",
@@ -405,7 +422,8 @@
         "id": "AMG/W121-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-019": {
     "name": "本物の才能 夜重",
@@ -431,7 +449,8 @@
         "id": "AMG/W121-019SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-020": {
     "name": "お風呂女子会 夜重",
@@ -453,7 +472,8 @@
         "id": "AMG/W121-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-021": {
     "name": "内緒のやり取り 夜重",
@@ -475,7 +495,8 @@
         "id": "AMG/W121-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-022": {
     "name": "自由人な迷子 夜重",
@@ -497,7 +518,8 @@
         "id": "AMG/W121-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-023": {
     "name": "恋の三択問題 夜重",
@@ -519,7 +541,8 @@
         "id": "AMG/W121-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-024": {
     "name": "予想外の鉢合わせ 夜重",
@@ -541,7 +564,8 @@
         "id": "AMG/W121-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-025": {
     "name": "舞の奉納 夜重",
@@ -563,7 +587,8 @@
         "id": "AMG/W121-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-026": {
     "name": "一乗寺澪子",
@@ -585,7 +610,8 @@
         "id": "AMG/W121-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-027": {
     "name": "ニヤニヤ顔 夜重",
@@ -607,7 +633,8 @@
         "id": "AMG/W121-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-028": {
     "name": "寂しげな笑み 夜重",
@@ -629,7 +656,8 @@
         "id": "AMG/W121-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-029": {
     "name": "ぷんすかぷん 夜重",
@@ -651,7 +679,8 @@
         "id": "AMG/W121-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-030": {
     "name": "『失踪モード』 夜重",
@@ -673,7 +702,8 @@
         "id": "AMG/W121-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-031": {
     "name": "結ばれし縁 夜重",
@@ -695,7 +725,8 @@
         "id": "AMG/W121-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-032": {
     "name": "竹田真",
@@ -717,7 +748,8 @@
         "id": "AMG/W121-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-033": {
     "name": "衣替え 夜重",
@@ -739,7 +771,8 @@
         "id": "AMG/W121-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-034": {
     "name": "意思表明 夜重",
@@ -761,7 +794,8 @@
         "id": "AMG/W121-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-035": {
     "name": "舞い上がる気持ち 夜重",
@@ -783,7 +817,8 @@
         "id": "AMG/W121-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-036": {
     "name": "意味深な笑み 夜重",
@@ -805,7 +840,8 @@
         "id": "AMG/W121-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-037": {
     "name": "威圧する夜重",
@@ -827,7 +863,8 @@
         "id": "AMG/W121-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-038": {
     "name": "縁結びの組紐",
@@ -849,7 +886,8 @@
         "id": "AMG/W121-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-039": {
     "name": "夜ふかしの正体",
@@ -871,7 +909,8 @@
         "id": "AMG/W121-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-040": {
     "name": "気付いた気持ち",
@@ -897,7 +936,8 @@
         "id": "AMG/W121-040R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-041": {
     "name": "夜と狐",
@@ -923,7 +963,8 @@
         "id": "AMG/W121-041R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-042": {
     "name": "夜の舞",
@@ -945,7 +986,8 @@
         "id": "AMG/W121-042R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AMG/W121-043": {
     "name": "乙女の恥じらい 夕奈",
@@ -971,7 +1013,8 @@
         "id": "AMG/W121-043SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-044": {
     "name": "くらえっ！塩っ!! 夕奈",
@@ -997,7 +1040,8 @@
         "id": "AMG/W121-044SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-045": {
     "name": "君と縁を結んで 夕奈",
@@ -1023,7 +1067,8 @@
         "id": "AMG/W121-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-046": {
     "name": "気難しい次女 夕奈",
@@ -1045,7 +1090,8 @@
         "id": "AMG/W121-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-047": {
     "name": "ライバル宣言 夕奈",
@@ -1071,7 +1117,8 @@
         "id": "AMG/W121-047SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-048": {
     "name": "予想外のアクシデント 夕奈＆瓜生",
@@ -1093,7 +1140,8 @@
         "id": "AMG/W121-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-049": {
     "name": "完全復活 夕奈",
@@ -1115,7 +1163,8 @@
         "id": "AMG/W121-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-050": {
     "name": "コンビニ最高！ 夕奈",
@@ -1137,7 +1186,8 @@
         "id": "AMG/W121-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-051": {
     "name": "切ない笑み 夕奈",
@@ -1159,7 +1209,8 @@
         "id": "AMG/W121-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-052": {
     "name": "猫大好き 夕奈",
@@ -1181,7 +1232,8 @@
         "id": "AMG/W121-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-053": {
     "name": "『落ち込みモード』 夕奈",
@@ -1203,7 +1255,8 @@
         "id": "AMG/W121-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-054": {
     "name": "結ばれし縁 夕奈",
@@ -1225,7 +1278,8 @@
         "id": "AMG/W121-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-055": {
     "name": "衣替え 夕奈",
@@ -1247,7 +1301,8 @@
         "id": "AMG/W121-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-056": {
     "name": "舞の奉納 夕奈",
@@ -1269,7 +1324,8 @@
         "id": "AMG/W121-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-057": {
     "name": "ニヤニヤ顔 夕奈",
@@ -1291,7 +1347,8 @@
         "id": "AMG/W121-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-058": {
     "name": "見え隠れする本心 夕奈",
@@ -1313,7 +1370,8 @@
         "id": "AMG/W121-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-059": {
     "name": "梅ノ木みつ子",
@@ -1335,7 +1393,8 @@
         "id": "AMG/W121-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-060": {
     "name": "予想外の鉢合わせ 夕奈",
@@ -1357,7 +1416,8 @@
         "id": "AMG/W121-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-061": {
     "name": "かくれんぼの終わり 夕奈",
@@ -1379,7 +1439,8 @@
         "id": "AMG/W121-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-062": {
     "name": "意思表明 夕奈",
@@ -1401,7 +1462,8 @@
         "id": "AMG/W121-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-063": {
     "name": "あっかんべえ 夕奈",
@@ -1423,7 +1485,8 @@
         "id": "AMG/W121-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-064": {
     "name": "怯える夕奈",
@@ -1445,7 +1508,8 @@
         "id": "AMG/W121-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-065": {
     "name": "壊滅的な英語力 夕奈",
@@ -1467,7 +1531,8 @@
         "id": "AMG/W121-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-066": {
     "name": "縁結びの組紐",
@@ -1489,7 +1554,8 @@
         "id": "AMG/W121-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-067": {
     "name": "撫子のかくれんぼ",
@@ -1511,7 +1577,8 @@
         "id": "AMG/W121-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-068": {
     "name": "戸惑う気持ちの行方",
@@ -1537,7 +1604,8 @@
         "id": "AMG/W121-068R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-069": {
     "name": "夕焼けの猫",
@@ -1563,7 +1631,8 @@
         "id": "AMG/W121-069R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-070": {
     "name": "猫とたわむれ",
@@ -1585,7 +1654,8 @@
         "id": "AMG/W121-070R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-071": {
     "name": "夕の舞",
@@ -1607,7 +1677,8 @@
         "id": "AMG/W121-071R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-072": {
     "name": "放課後デート 朝姫",
@@ -1633,7 +1704,8 @@
         "id": "AMG/W121-072SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-073": {
     "name": "その应援に応えて 朝姫",
@@ -1659,7 +1731,8 @@
         "id": "AMG/W121-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-074": {
     "name": "君の一番になりたい 朝姫",
@@ -1685,7 +1758,8 @@
         "id": "AMG/W121-074SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-075": {
     "name": "君と縁を結んで 朝姫",
@@ -1711,7 +1785,8 @@
         "id": "AMG/W121-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-076": {
     "name": "甘えんぼな三女 朝姫",
@@ -1733,7 +1808,8 @@
         "id": "AMG/W121-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-077": {
     "name": "結ばれし縁 朝姫",
@@ -1755,7 +1831,8 @@
         "id": "AMG/W121-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-078": {
     "name": "たとえ蛍じゃなくても 朝姫",
@@ -1777,7 +1854,8 @@
         "id": "AMG/W121-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-079": {
     "name": "お風呂女子会 朝姫",
@@ -1799,7 +1877,8 @@
         "id": "AMG/W121-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-080": {
     "name": "そんなことないもん 朝姫",
@@ -1821,7 +1900,8 @@
         "id": "AMG/W121-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-081": {
     "name": "揺れ動く天秤 朝姫",
@@ -1843,7 +1923,8 @@
         "id": "AMG/W121-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-082": {
     "name": "道を示す標 朝姫",
@@ -1865,7 +1946,8 @@
         "id": "AMG/W121-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-083": {
     "name": "自称『薄明の走り姫』 朝姫",
@@ -1887,7 +1969,8 @@
         "id": "AMG/W121-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-084": {
     "name": "舞の奉納 朝姫",
@@ -1909,7 +1992,8 @@
         "id": "AMG/W121-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-085": {
     "name": "宣戦布告 朝姫",
@@ -1931,7 +2015,8 @@
         "id": "AMG/W121-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-086": {
     "name": "満面の笑み 瓜生＆朝姫",
@@ -1953,7 +2038,8 @@
         "id": "AMG/W121-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-087": {
     "name": "怯える朝姫",
@@ -1975,7 +2061,8 @@
         "id": "AMG/W121-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-088": {
     "name": "密かなお悩み 朝姫",
@@ -1997,7 +2084,8 @@
         "id": "AMG/W121-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-089": {
     "name": "松ヶ崎花蓮",
@@ -2019,7 +2107,8 @@
         "id": "AMG/W121-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-090": {
     "name": "予想外の鉢合わせ 朝姫",
@@ -2041,7 +2130,8 @@
         "id": "AMG/W121-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-091": {
     "name": "『マラソンモード』 朝姫",
@@ -2063,7 +2153,8 @@
         "id": "AMG/W121-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-092": {
     "name": "衣替え 朝姫",
@@ -2085,7 +2176,8 @@
         "id": "AMG/W121-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-093": {
     "name": "意思表明 朝姫",
@@ -2107,7 +2199,8 @@
         "id": "AMG/W121-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-094": {
     "name": "例大祭宣伝部長 朝姫",
@@ -2129,7 +2222,8 @@
         "id": "AMG/W121-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-095": {
     "name": "一喝する朝姫",
@@ -2151,7 +2245,8 @@
         "id": "AMG/W121-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-096": {
     "name": "願いをのせた天秤",
@@ -2173,7 +2268,8 @@
         "id": "AMG/W121-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-097": {
     "name": "甘神さんちの縁結び",
@@ -2195,7 +2291,8 @@
         "id": "AMG/W121-097S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-098": {
     "name": "朝の靴紐",
@@ -2221,7 +2318,8 @@
         "id": "AMG/W121-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-099": {
     "name": "「妹」のままではいられない",
@@ -2247,7 +2345,8 @@
         "id": "AMG/W121-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-100": {
     "name": "朝の舞",
@@ -2269,6 +2368,7 @@
         "id": "AMG/W121-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

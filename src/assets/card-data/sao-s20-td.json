@@ -15,7 +15,8 @@
         "id": "SAO/S20-101",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-102": {
     "name": "《攻略組》キリト",
@@ -33,7 +34,8 @@
         "id": "SAO/S20-102",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-103": {
     "name": "《ビーター》キリト",
@@ -51,7 +53,8 @@
         "id": "SAO/S20-103",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-104": {
     "name": "キリト＆アスナ",
@@ -69,7 +72,8 @@
         "id": "SAO/S20-104",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-105": {
     "name": "地下ダンジョンへの潜入 アスナ",
@@ -87,7 +91,8 @@
         "id": "SAO/S20-105",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-T01": {
     "name": "早とちり アスナ",
@@ -105,7 +110,8 @@
         "id": "SAO/S20-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-T02": {
     "name": "戦いのはじまり アスナ",
@@ -123,7 +129,8 @@
         "id": "SAO/S20-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-T03": {
     "name": "隠された正体 ヒースクリフ",
@@ -141,7 +148,8 @@
         "id": "SAO/S20-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-T04": {
     "name": "プロポーズの返事 アスナ",
@@ -159,7 +167,8 @@
         "id": "SAO/S20-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-T05": {
     "name": "熟練の料理スキル アスナ",
@@ -177,7 +186,8 @@
         "id": "SAO/S20-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-T06": {
     "name": "《スター・スプラッシュ》",
@@ -195,7 +205,8 @@
         "id": "SAO/S20-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-T07": {
     "name": "戦いのはじまり キリト",
@@ -213,7 +224,8 @@
         "id": "SAO/S20-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-T08": {
     "name": "ふたりの子供 ユイ",
@@ -231,7 +243,8 @@
         "id": "SAO/S20-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-T09": {
     "name": "愛らしい少女 ユイ",
@@ -249,7 +262,8 @@
         "id": "SAO/S20-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S20-T10": {
     "name": "血盟騎士団への入団 キリト",
@@ -267,7 +281,8 @@
         "id": "SAO/S20-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-T11": {
     "name": "斧戦士 エギル",
@@ -285,7 +300,8 @@
         "id": "SAO/S20-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-T12": {
     "name": "五十五層の雪山 キリト",
@@ -303,7 +319,8 @@
         "id": "SAO/S20-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S20-T13": {
     "name": "世界の終焉",
@@ -321,7 +338,8 @@
         "id": "SAO/S20-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SAO/S20-T14": {
     "name": "《二刀流》の使い手",
@@ -339,6 +357,7 @@
         "id": "SAO/S20-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

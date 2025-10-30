@@ -19,7 +19,8 @@
         "id": "Gny/WS02-046SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gny/WS02-054": {
     "name": "新生アレイキャッツ",
@@ -41,7 +42,8 @@
         "id": "Gny/WS02-054SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gny/WS02-068": {
     "name": "野良猫姫親衛隊",
@@ -63,6 +65,7 @@
         "id": "Gny/WS02-068SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

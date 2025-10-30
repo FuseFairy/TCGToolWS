@@ -19,7 +19,8 @@
         "id": "Smi/W62-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Smi/W62-009": {
     "name": "問題児 飛鳥",
@@ -41,7 +42,8 @@
         "id": "Smi/W62-009SBR",
         "rarity": "SBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Smi/W62-010": {
     "name": "視覚を惑わすミニスカート 黒ウサギ",
@@ -63,7 +65,8 @@
         "id": "Smi/W62-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Smi/W62-013": {
     "name": "お風呂女子会 飛鳥",
@@ -81,7 +84,8 @@
         "id": "Smi/W62-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Smi/W62-015": {
     "name": "問題児 耀",
@@ -103,7 +107,8 @@
         "id": "Smi/W62-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Smi/W62-016": {
     "name": "問題児 十六夜",
@@ -121,7 +126,8 @@
         "id": "Smi/W62-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Smi/W62-018": {
     "name": "お風呂女子会 耀",
@@ -139,7 +145,8 @@
         "id": "Smi/W62-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Smi/W62-019": {
     "name": "正体不明 十六夜",
@@ -157,7 +164,8 @@
         "id": "Smi/W62-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Smi/W62-024": {
     "name": "十六夜の手遊び",
@@ -175,7 +183,8 @@
         "id": "Smi/W62-024",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Smi/W62-026": {
     "name": "“月の兎”の伝承",
@@ -197,6 +206,7 @@
         "id": "Smi/W62-026R",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

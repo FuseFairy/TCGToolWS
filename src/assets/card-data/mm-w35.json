@@ -19,7 +19,8 @@
         "id": "MM/W35-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-002": {
     "name": "円環に導かれた者 なぎさ",
@@ -41,7 +42,8 @@
         "id": "MM/W35-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-003": {
     "name": "マミ＆なぎさ",
@@ -59,7 +61,8 @@
         "id": "MM/W35-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-004": {
     "name": "絶好調 マミ",
@@ -77,7 +80,8 @@
         "id": "MM/W35-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-005": {
     "name": "望んだあり方 マミ",
@@ -99,7 +103,8 @@
         "id": "MM/W35-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-006": {
     "name": "真実を知る者 なぎさ",
@@ -121,7 +126,8 @@
         "id": "MM/W35-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-007": {
     "name": "“今が幸せ”マミ",
@@ -143,7 +149,8 @@
         "id": "MM/W35-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-008": {
     "name": "夢に見た毎日 マミ",
@@ -161,7 +168,8 @@
         "id": "MM/W35-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-009": {
     "name": "賑やかな夕べ マミ",
@@ -179,7 +187,8 @@
         "id": "MM/W35-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-010": {
     "name": "朝焼けの丘 マミ",
@@ -197,7 +206,8 @@
         "id": "MM/W35-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-011": {
     "name": "優雅なる一撃 マミ",
@@ -215,7 +225,8 @@
         "id": "MM/W35-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-012": {
     "name": "“魔法少女たちのお茶会”マミ",
@@ -233,7 +244,8 @@
         "id": "MM/W35-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-013": {
     "name": "標的看破 なぎさ",
@@ -251,7 +263,8 @@
         "id": "MM/W35-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-014": {
     "name": "“Puella Magi Holy Quintet”マミ",
@@ -269,7 +282,8 @@
         "id": "MM/W35-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-015": {
     "name": "容姿端麗 マミ",
@@ -287,7 +301,8 @@
         "id": "MM/W35-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-016": {
     "name": "マミの友達ベベ",
@@ -305,7 +320,8 @@
         "id": "MM/W35-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-017": {
     "name": "現れたキュゥべえ",
@@ -323,7 +339,8 @@
         "id": "MM/W35-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-018": {
     "name": "無邪気な少女 なぎさ",
@@ -341,7 +358,8 @@
         "id": "MM/W35-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-019": {
     "name": "姿幼き魔法少女 なぎさ",
@@ -359,7 +377,8 @@
         "id": "MM/W35-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-020": {
     "name": "先輩と後輩 マミ＆まどか",
@@ -377,7 +396,8 @@
         "id": "MM/W35-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-021": {
     "name": "ナイトメア退治 マミ",
@@ -395,7 +415,8 @@
         "id": "MM/W35-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-022": {
     "name": "新しい出会い",
@@ -413,7 +434,8 @@
         "id": "MM/W35-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-023": {
     "name": "避けられぬ衝突",
@@ -435,7 +457,8 @@
         "id": "MM/W35-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MM/W35-024": {
     "name": "記憶の運び手",
@@ -457,7 +480,8 @@
         "id": "MM/W35-024R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-025": {
     "name": "ティロ・デュエット",
@@ -475,7 +499,8 @@
         "id": "MM/W35-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-026": {
     "name": "“まどかのために”ほむら",
@@ -497,7 +522,8 @@
         "id": "MM/W35-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-027": {
     "name": "“とても辛いこと”まどか",
@@ -519,7 +545,8 @@
         "id": "MM/W35-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-028": {
     "name": "“孤独な戦い”ほむら",
@@ -537,7 +564,8 @@
         "id": "MM/W35-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-029": {
     "name": "“真の記憶”ほむら",
@@ -559,7 +587,8 @@
         "id": "MM/W35-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-030": {
     "name": "新世界のまどか",
@@ -577,7 +606,8 @@
         "id": "MM/W35-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-031": {
     "name": "“誰かが望んだ姿”まどか",
@@ -599,7 +629,8 @@
         "id": "MM/W35-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-032": {
     "name": "ほむらを想うまどか",
@@ -621,7 +652,8 @@
         "id": "MM/W35-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-033": {
     "name": "変わらない笑顔 まどか",
@@ -639,7 +671,8 @@
         "id": "MM/W35-033",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-034": {
     "name": "悪魔となったほむら",
@@ -657,7 +690,8 @@
         "id": "MM/W35-034",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-035": {
     "name": "心配するまどか",
@@ -675,7 +709,8 @@
         "id": "MM/W35-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-036": {
     "name": "“Puella Magi Holy Quintet”ほむら",
@@ -693,7 +728,8 @@
         "id": "MM/W35-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-037": {
     "name": "朝焼けの丘 ほむら",
@@ -711,7 +747,8 @@
         "id": "MM/W35-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-038": {
     "name": "“いつも”のほむら",
@@ -729,7 +766,8 @@
         "id": "MM/W35-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-039": {
     "name": "魔女となる覚悟 ほむら",
@@ -747,7 +785,8 @@
         "id": "MM/W35-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-040": {
     "name": "“本当の力”まどか",
@@ -765,7 +804,8 @@
         "id": "MM/W35-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-041": {
     "name": "たった一つの希望 ほむら",
@@ -783,7 +823,8 @@
         "id": "MM/W35-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-042": {
     "name": "朝焼けの丘 まどか",
@@ -801,7 +842,8 @@
         "id": "MM/W35-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-043": {
     "name": "アルティメットまどか",
@@ -819,7 +861,8 @@
         "id": "MM/W35-043",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-044": {
     "name": "おっとり まどか",
@@ -837,7 +880,8 @@
         "id": "MM/W35-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-045": {
     "name": "ナイトメア退治 まどか",
@@ -855,7 +899,8 @@
         "id": "MM/W35-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-046": {
     "name": "二人は親友 ほむら＆まどか",
@@ -873,7 +918,8 @@
         "id": "MM/W35-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-047": {
     "name": "“叛逆者”ほむら",
@@ -891,7 +937,8 @@
         "id": "MM/W35-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-048": {
     "name": "戦う使命 ほむら＆まどか",
@@ -909,7 +956,8 @@
         "id": "MM/W35-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-049": {
     "name": "マミとの対峙 ほむら",
@@ -927,7 +975,8 @@
         "id": "MM/W35-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-050": {
     "name": "欺くほむら",
@@ -945,7 +994,8 @@
         "id": "MM/W35-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-051": {
     "name": "立場逆転 キュゥべえ",
@@ -963,7 +1013,8 @@
         "id": "MM/W35-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-052": {
     "name": "“Puella Magi Holy Quintet”まどか",
@@ -981,7 +1032,8 @@
         "id": "MM/W35-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-053": {
     "name": "“何があっても”まどか＆ほむら",
@@ -999,7 +1051,8 @@
         "id": "MM/W35-053",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-054": {
     "name": "“決意”のほむら",
@@ -1017,7 +1070,8 @@
         "id": "MM/W35-054",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-055": {
     "name": "恋しい気持ち 仁美",
@@ -1035,7 +1089,8 @@
         "id": "MM/W35-055",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-056": {
     "name": "ほむらの絶望",
@@ -1053,7 +1108,8 @@
         "id": "MM/W35-056",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-057": {
     "name": "結界の真実",
@@ -1075,7 +1131,8 @@
         "id": "MM/W35-057R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-058": {
     "name": "救済の導き",
@@ -1097,7 +1154,8 @@
         "id": "MM/W35-058R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MM/W35-059": {
     "name": "穏やかな毎日",
@@ -1115,7 +1173,8 @@
         "id": "MM/W35-059",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-060": {
     "name": "外の世界へ",
@@ -1133,7 +1192,8 @@
         "id": "MM/W35-060",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MM/W35-061": {
     "name": "世界への疑念 杏子",
@@ -1155,7 +1215,8 @@
         "id": "MM/W35-061SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-062": {
     "name": "直感的なタイプ 杏子",
@@ -1177,7 +1238,8 @@
         "id": "MM/W35-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-063": {
     "name": "穏やかな秋の日 杏子",
@@ -1199,7 +1261,8 @@
         "id": "MM/W35-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-064": {
     "name": "“魔法少女たちのお茶会”杏子",
@@ -1217,7 +1280,8 @@
         "id": "MM/W35-064",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-065": {
     "name": "ナイトメア退治 杏子",
@@ -1235,7 +1299,8 @@
         "id": "MM/W35-065",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-066": {
     "name": "勝気な少女 杏子",
@@ -1253,7 +1318,8 @@
         "id": "MM/W35-066",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-067": {
     "name": "“Puella Magi Holy Quintet”杏子",
@@ -1271,7 +1337,8 @@
         "id": "MM/W35-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-068": {
     "name": "マスコット？キュゥべえ",
@@ -1289,7 +1356,8 @@
         "id": "MM/W35-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-069": {
     "name": "朝の光景 杏子",
@@ -1307,7 +1375,8 @@
         "id": "MM/W35-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-070": {
     "name": "“悪夢にさよなら”杏子",
@@ -1325,7 +1394,8 @@
         "id": "MM/W35-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-071": {
     "name": "杏子＆ほむら",
@@ -1343,7 +1413,8 @@
         "id": "MM/W35-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-072": {
     "name": "朝焼けの丘 杏子",
@@ -1361,7 +1432,8 @@
         "id": "MM/W35-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-073": {
     "name": "実験者 キュゥべえ",
@@ -1379,7 +1451,8 @@
         "id": "MM/W35-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-074": {
     "name": "素朴な感想 杏子",
@@ -1397,7 +1470,8 @@
         "id": "MM/W35-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-075": {
     "name": "新しい朝 杏子",
@@ -1415,7 +1489,8 @@
         "id": "MM/W35-075",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-076": {
     "name": "改竄される世界",
@@ -1433,7 +1508,8 @@
         "id": "MM/W35-076",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-077": {
     "name": "出られない街",
@@ -1451,7 +1527,8 @@
         "id": "MM/W35-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-078": {
     "name": "再会と共闘",
@@ -1473,7 +1550,8 @@
         "id": "MM/W35-078R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-079": {
     "name": "新しい日常",
@@ -1491,7 +1569,8 @@
         "id": "MM/W35-079",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MM/W35-080": {
     "name": "円環の観測者",
@@ -1509,7 +1588,8 @@
         "id": "MM/W35-080",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MM/W35-081": {
     "name": "“あたしの役目”さやか",
@@ -1531,7 +1611,8 @@
         "id": "MM/W35-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-082": {
     "name": "円環に導かれた者 さやか",
@@ -1553,7 +1634,8 @@
         "id": "MM/W35-082SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-083": {
     "name": "魔女の記憶 さやか",
@@ -1571,7 +1653,8 @@
         "id": "MM/W35-083",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-084": {
     "name": "穏やかな秋の日 さやか",
@@ -1589,7 +1672,8 @@
         "id": "MM/W35-084",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-085": {
     "name": "“魔法少女たちのお茶会”さやか",
@@ -1607,7 +1691,8 @@
         "id": "MM/W35-085",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-086": {
     "name": "ナイトメア退治 さやか",
@@ -1625,7 +1710,8 @@
         "id": "MM/W35-086",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-087": {
     "name": "“悪夢にさよなら”さやか",
@@ -1643,7 +1729,8 @@
         "id": "MM/W35-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-088": {
     "name": "“Puella Magi Holy Quintet”さやか",
@@ -1661,7 +1748,8 @@
         "id": "MM/W35-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-089": {
     "name": "壮大な企み キュゥべえ",
@@ -1679,7 +1767,8 @@
         "id": "MM/W35-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-090": {
     "name": "コンビネーション さやか",
@@ -1697,7 +1786,8 @@
         "id": "MM/W35-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-091": {
     "name": "きゅうと鳴くキュゥべえ",
@@ -1715,7 +1805,8 @@
         "id": "MM/W35-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-092": {
     "name": "冬の日のさやか＆まどか",
@@ -1733,7 +1824,8 @@
         "id": "MM/W35-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-093": {
     "name": "“不思議ちゃん”さやか",
@@ -1751,7 +1843,8 @@
         "id": "MM/W35-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-094": {
     "name": "朝焼けの丘 さやか",
@@ -1769,7 +1862,8 @@
         "id": "MM/W35-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-095": {
     "name": "素直な疑問 さやか",
@@ -1787,7 +1881,8 @@
         "id": "MM/W35-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-096": {
     "name": "早乙女 和子",
@@ -1805,7 +1900,8 @@
         "id": "MM/W35-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-097": {
     "name": "仁美のナイトメア",
@@ -1823,7 +1919,8 @@
         "id": "MM/W35-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-098": {
     "name": "人魚の魔女現る",
@@ -1841,7 +1938,8 @@
         "id": "MM/W35-098",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MM/W35-099": {
     "name": "さやかの正体",
@@ -1863,7 +1961,8 @@
         "id": "MM/W35-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MM/W35-100": {
     "name": "真実の夢",
@@ -1881,7 +1980,8 @@
         "id": "MM/W35-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MM/W35-107": {
     "name": "希望と諦念 ほむら",
@@ -1899,6 +1999,7 @@
         "id": "MM/W35-107S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

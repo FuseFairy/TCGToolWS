@@ -19,7 +19,8 @@
         "id": "AGS/W108-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-002": {
     "name": "“自信過剰ツンデレお嬢様”綾香",
@@ -41,7 +42,8 @@
         "id": "AGS/W108-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-003": {
     "name": "“現代都市型JK忍者”来弥",
@@ -63,7 +65,8 @@
         "id": "AGS/W108-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-004": {
     "name": "“成子坂のかしましオタク”シタラ",
@@ -85,7 +88,8 @@
         "id": "AGS/W108-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-005": {
     "name": "“ツナギをまとった天使”リタ",
@@ -107,7 +111,8 @@
         "id": "AGS/W108-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-006": {
     "name": "蛙坂 来弥",
@@ -129,7 +134,8 @@
         "id": "AGS/W108-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-007": {
     "name": "ゲーム大好き シタラ",
@@ -151,7 +157,8 @@
         "id": "AGS/W108-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-008": {
     "name": "“ニュースでおなじみ！ アイドルアナウンサー”杏奈",
@@ -173,7 +180,8 @@
         "id": "AGS/W108-008SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-009": {
     "name": "相河 愛花",
@@ -195,7 +203,8 @@
         "id": "AGS/W108-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-010": {
     "name": "とつげきおしごと物語 リタ",
@@ -213,7 +222,8 @@
         "id": "AGS/W108-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-011": {
     "name": "実況担当 杏奈",
@@ -231,7 +241,8 @@
         "id": "AGS/W108-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-012": {
     "name": "兼志谷 シタラ",
@@ -249,7 +260,8 @@
         "id": "AGS/W108-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-013": {
     "name": "アクトレスカフェ 愛花",
@@ -267,7 +279,8 @@
         "id": "AGS/W108-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-014": {
     "name": "アクトレスカフェ 綾香",
@@ -285,7 +298,8 @@
         "id": "AGS/W108-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-015": {
     "name": "一条 綾香",
@@ -303,7 +317,8 @@
         "id": "AGS/W108-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-016": {
     "name": "宇佐元 杏奈",
@@ -321,7 +336,8 @@
         "id": "AGS/W108-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-017": {
     "name": "アクトレスカフェ シタラ",
@@ -339,7 +355,8 @@
         "id": "AGS/W108-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-018": {
     "name": "リタ・ヘンシェル",
@@ -357,7 +374,8 @@
         "id": "AGS/W108-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-019": {
     "name": "薫子からの逃亡 来弥",
@@ -375,7 +393,8 @@
         "id": "AGS/W108-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-020": {
     "name": "成子坂製作所（仮）整備部",
@@ -393,7 +412,8 @@
         "id": "AGS/W108-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-021": {
     "name": "夏の思い出 綾香",
@@ -411,7 +431,8 @@
         "id": "AGS/W108-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-022": {
     "name": "事務所にお泊り 愛花",
@@ -429,7 +450,8 @@
         "id": "AGS/W108-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-023": {
     "name": "危険な山登り リタ",
@@ -447,7 +469,8 @@
         "id": "AGS/W108-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-024": {
     "name": "私に出来ること 綾香",
@@ -465,7 +488,8 @@
         "id": "AGS/W108-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-025": {
     "name": "夏の思い出 愛花",
@@ -483,7 +507,8 @@
         "id": "AGS/W108-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-026": {
     "name": "私に出来ること 来弥",
@@ -501,7 +526,8 @@
         "id": "AGS/W108-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-027": {
     "name": "天使降臨",
@@ -519,7 +545,8 @@
         "id": "AGS/W108-027",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-028": {
     "name": "サバゲやろうぜ！",
@@ -541,7 +568,8 @@
         "id": "AGS/W108-028R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-029": {
     "name": "南国バカンス",
@@ -563,7 +591,8 @@
         "id": "AGS/W108-029R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-030": {
     "name": "ご当地アイスチャレンジ",
@@ -585,7 +614,8 @@
         "id": "AGS/W108-030R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-031": {
     "name": "サンドアートコンテスト",
@@ -607,7 +637,8 @@
         "id": "AGS/W108-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-032": {
     "name": "“ワイルド・ワイルド・ムードメーカー”リン",
@@ -629,7 +660,8 @@
         "id": "AGS/W108-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-033": {
     "name": "“江古田のアイドル♥”桃歌",
@@ -651,7 +683,8 @@
         "id": "AGS/W108-033SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-034": {
     "name": "私に出来ること 夜露",
@@ -673,7 +706,8 @@
         "id": "AGS/W108-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-035": {
     "name": "溢れ出る気持ち のどか",
@@ -695,7 +729,8 @@
         "id": "AGS/W108-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-036": {
     "name": "“ボランティア愚連隊”夜露",
@@ -717,7 +752,8 @@
         "id": "AGS/W108-036SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-037": {
     "name": "日向 リン",
@@ -739,7 +775,8 @@
         "id": "AGS/W108-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-038": {
     "name": "暴走 のどか",
@@ -761,7 +798,8 @@
         "id": "AGS/W108-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-039": {
     "name": "“バスタードファイル”安里",
@@ -783,7 +821,8 @@
         "id": "AGS/W108-039SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-040": {
     "name": "下落合 桃歌",
@@ -805,7 +844,8 @@
         "id": "AGS/W108-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-041": {
     "name": "高幡 のどか",
@@ -827,7 +867,8 @@
         "id": "AGS/W108-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-042": {
     "name": "人助けの連鎖 夜露",
@@ -849,7 +890,8 @@
         "id": "AGS/W108-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-043": {
     "name": "“モデルメタフィジックス”すぐみ",
@@ -871,7 +913,8 @@
         "id": "AGS/W108-043SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-044": {
     "name": "憧れの人に追いつくため のどか",
@@ -889,7 +932,8 @@
         "id": "AGS/W108-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-045": {
     "name": "金潟 すぐみ",
@@ -907,7 +951,8 @@
         "id": "AGS/W108-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-046": {
     "name": "仲間として 夜露",
@@ -925,7 +970,8 @@
         "id": "AGS/W108-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-047": {
     "name": "スペシャルライブ 桃歌",
@@ -943,7 +989,8 @@
         "id": "AGS/W108-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-048": {
     "name": "真夏のサンドアート すぐみ",
@@ -961,7 +1008,8 @@
         "id": "AGS/W108-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-049": {
     "name": "北落師門（シモン）",
@@ -979,7 +1027,8 @@
         "id": "AGS/W108-049",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-050": {
     "name": "特別シード枠 すぐみ",
@@ -997,7 +1046,8 @@
         "id": "AGS/W108-050",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-051": {
     "name": "辺見 江里子",
@@ -1015,7 +1065,8 @@
         "id": "AGS/W108-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-052": {
     "name": "比良坂 夜露",
@@ -1033,7 +1084,8 @@
         "id": "AGS/W108-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-053": {
     "name": "立場逆転 リン",
@@ -1051,7 +1103,8 @@
         "id": "AGS/W108-053",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-054": {
     "name": "真夏のサンドアート 安里",
@@ -1069,7 +1122,8 @@
         "id": "AGS/W108-054",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-055": {
     "name": "“仲間”との絆 のどか",
@@ -1087,7 +1141,8 @@
         "id": "AGS/W108-055",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-056": {
     "name": "新居目 安里",
@@ -1105,7 +1160,8 @@
         "id": "AGS/W108-056",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-057": {
     "name": "“中野慕情”桃歌",
@@ -1123,7 +1179,8 @@
         "id": "AGS/W108-057",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-058": {
     "name": "意味のない道標 リン",
@@ -1141,7 +1198,8 @@
         "id": "AGS/W108-058",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-059": {
     "name": "特別シード枠 安里",
@@ -1159,7 +1217,8 @@
         "id": "AGS/W108-059",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-060": {
     "name": "憧れの人からのプレゼント",
@@ -1177,7 +1236,8 @@
         "id": "AGS/W108-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-061": {
     "name": "帰ろう、一緒に",
@@ -1199,7 +1259,8 @@
         "id": "AGS/W108-061R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-062": {
     "name": "憧れの人と一緒に",
@@ -1221,7 +1282,8 @@
         "id": "AGS/W108-062SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-063": {
     "name": "ブレイクしちゃいました～☆",
@@ -1243,7 +1305,8 @@
         "id": "AGS/W108-063R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-064": {
     "name": "リンちゃん探検隊",
@@ -1265,7 +1328,8 @@
         "id": "AGS/W108-064R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-065": {
     "name": "“甘い誘惑、辛い散財”ゆみ",
@@ -1287,7 +1351,8 @@
         "id": "AGS/W108-065SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-066": {
     "name": "“アメとムチと百科事典”文嘉",
@@ -1309,7 +1374,8 @@
         "id": "AGS/W108-066SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-067": {
     "name": "山野 薫子",
@@ -1331,7 +1397,8 @@
         "id": "AGS/W108-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-068": {
     "name": "冷静沈着 文嘉",
@@ -1353,7 +1420,8 @@
         "id": "AGS/W108-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-069": {
     "name": "“断罪大和撫子”楓",
@@ -1375,7 +1443,8 @@
         "id": "AGS/W108-069SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-070": {
     "name": "新谷 芹菜",
@@ -1397,7 +1466,8 @@
         "id": "AGS/W108-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-071": {
     "name": "“ふたつの顔を持つアクトレス”芹菜",
@@ -1419,7 +1489,8 @@
         "id": "AGS/W108-071SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-072": {
     "name": "“バレル・イン・ブルームーン”アオイ",
@@ -1441,7 +1512,8 @@
         "id": "AGS/W108-072SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-073": {
     "name": "“熟れたてスーパーバイザー”薫子",
@@ -1463,7 +1535,8 @@
         "id": "AGS/W108-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-074": {
     "name": "四谷 ゆみ",
@@ -1485,7 +1558,8 @@
         "id": "AGS/W108-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-075": {
     "name": "“宇宙を駆け巡るフォトジャーナリスト”真理",
@@ -1507,7 +1581,8 @@
         "id": "AGS/W108-075SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-076": {
     "name": "神宮寺 真理",
@@ -1525,7 +1600,8 @@
         "id": "AGS/W108-076",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-077": {
     "name": "“怪盗シャノアール”芹菜",
@@ -1543,7 +1619,8 @@
         "id": "AGS/W108-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-078": {
     "name": "夏を満喫 ゆみ",
@@ -1561,7 +1638,8 @@
         "id": "AGS/W108-078",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-079": {
     "name": "的場 アオイ",
@@ -1579,7 +1657,8 @@
         "id": "AGS/W108-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-080": {
     "name": "不敵な笑み 真理",
@@ -1597,7 +1676,8 @@
         "id": "AGS/W108-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-081": {
     "name": "ヴェイパーヘイズ役 楓",
@@ -1615,7 +1695,8 @@
         "id": "AGS/W108-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-082": {
     "name": "吾妻 楓",
@@ -1633,7 +1714,8 @@
         "id": "AGS/W108-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-083": {
     "name": "最後の隔壁 文嘉",
@@ -1651,7 +1733,8 @@
         "id": "AGS/W108-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-084": {
     "name": "モフの餌食 アオイ",
@@ -1669,7 +1752,8 @@
         "id": "AGS/W108-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-085": {
     "name": "差し出されたカセット アオイ",
@@ -1687,7 +1771,8 @@
         "id": "AGS/W108-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-086": {
     "name": "アドバイス 真理",
@@ -1705,7 +1790,8 @@
         "id": "AGS/W108-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-087": {
     "name": "やるべき仕事 芹菜",
@@ -1723,7 +1809,8 @@
         "id": "AGS/W108-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-088": {
     "name": "みんなのお世話役 薫子",
@@ -1741,7 +1828,8 @@
         "id": "AGS/W108-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-089": {
     "name": "証拠集め 薫子",
@@ -1759,7 +1847,8 @@
         "id": "AGS/W108-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-090": {
     "name": "アクトレスカフェ ゆみ",
@@ -1777,7 +1866,8 @@
         "id": "AGS/W108-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-091": {
     "name": "宣伝用撮影 真理",
@@ -1795,7 +1885,8 @@
         "id": "AGS/W108-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-092": {
     "name": "百科 文嘉",
@@ -1813,7 +1904,8 @@
         "id": "AGS/W108-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-093": {
     "name": "とつげきおしごと物語 芹菜",
@@ -1831,7 +1923,8 @@
         "id": "AGS/W108-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-094": {
     "name": "潜入作戦 楓",
@@ -1849,7 +1942,8 @@
         "id": "AGS/W108-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-095": {
     "name": "作戦開始 薫子",
@@ -1867,7 +1961,8 @@
         "id": "AGS/W108-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-096": {
     "name": "お一ついかがですか",
@@ -1885,7 +1980,8 @@
         "id": "AGS/W108-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AGS/W108-097": {
     "name": "キレイさっぱりお終いよッ！",
@@ -1907,7 +2003,8 @@
         "id": "AGS/W108-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AGS/W108-098": {
     "name": "これで終わり！？",
@@ -1929,7 +2026,8 @@
         "id": "AGS/W108-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AGS/W108-099": {
     "name": "勝利の秘策",
@@ -1951,7 +2049,8 @@
         "id": "AGS/W108-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AGS/W108-100": {
     "name": "アリスギアを纏いし少女達",
@@ -1973,6 +2072,7 @@
         "id": "AGS/W108-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

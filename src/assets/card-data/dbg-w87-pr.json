@@ -15,7 +15,8 @@
         "id": "DBG/W87-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DBG/W87-P02": {
     "name": "伝わる思い",
@@ -33,7 +34,8 @@
         "id": "DBG/W87-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DBG/W87-P03": {
     "name": "人類の選択",
@@ -51,7 +53,8 @@
         "id": "DBG/W87-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DBG/W87-101": {
     "name": "秩序への抵抗 成神 空",
@@ -69,7 +72,8 @@
         "id": "DBG/W87-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DBG/W87-102": {
     "name": "秩序への抵抗 伊座並 杏子",
@@ -87,7 +91,8 @@
         "id": "DBG/W87-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DBG/W87-103": {
     "name": "人類の選択 ひな",
@@ -105,7 +110,8 @@
         "id": "DBG/W87-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DBG/W87-104": {
     "name": "秩序への抵抗 天願 賀子",
@@ -123,7 +129,8 @@
         "id": "DBG/W87-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DBG/W87-105": {
     "name": "秩序への抵抗 神宮司 ひかり",
@@ -141,6 +148,7 @@
         "id": "DBG/W87-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

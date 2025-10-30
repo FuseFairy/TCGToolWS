@@ -23,7 +23,8 @@
         "id": "Fsi/W120-080SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsi/W120-085": {
     "name": "続く生徒会 くりむ",
@@ -49,7 +50,8 @@
         "id": "Fsi/W120-085SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fsi/W120-089": {
     "name": "碧陽学園新旧生徒会長 くりむ＆つくし",
@@ -71,7 +73,8 @@
         "id": "Fsi/W120-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsi/W120-090": {
     "name": "碧陽学園第三十三代生徒会 北斗＆東子",
@@ -93,7 +96,8 @@
         "id": "Fsi/W120-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsi/W120-094": {
     "name": "お嬢様姉妹 エリス＆リリシア",
@@ -115,7 +119,8 @@
         "id": "Fsi/W120-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fsi/W120-100": {
     "name": "卒業式の挨拶 知弦",
@@ -137,7 +142,8 @@
         "id": "Fsi/W120-100S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsi/W120-102": {
     "name": "碧陽学園第三十三代生徒会 流南&つくし",
@@ -159,7 +165,8 @@
         "id": "Fsi/W120-102S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsi/W120-106": {
     "name": "趣味の次に大事な人 真冬",
@@ -181,7 +188,8 @@
         "id": "Fsi/W120-106S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fsi/W120-111": {
     "name": "生徒会の快進撃はまだまだ続くのよ！",
@@ -207,6 +215,7 @@
         "id": "Fsi/W120-111SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

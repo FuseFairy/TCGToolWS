@@ -15,7 +15,8 @@
         "id": "SBY/W64-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-P02": {
     "name": "夏の思い出 桜島 麻衣",
@@ -33,7 +34,8 @@
         "id": "SBY/W64-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-P03": {
     "name": "秋の訪れ 桜島 麻衣",
@@ -51,7 +53,8 @@
         "id": "SBY/W64-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-101": {
     "name": "SD 豊浜 のどか",
@@ -69,7 +72,8 @@
         "id": "SBY/W64-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-102": {
     "name": "SD 梓川 かえで",
@@ -87,7 +91,8 @@
         "id": "SBY/W64-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-103": {
     "name": "SD 古賀 朋絵",
@@ -105,7 +110,8 @@
         "id": "SBY/W64-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-104": {
     "name": "SD 桜島 麻衣",
@@ -123,7 +129,8 @@
         "id": "SBY/W64-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-105": {
     "name": "SD 双葉 理央",
@@ -141,7 +148,8 @@
         "id": "SBY/W64-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-106": {
     "name": "SD 牧之原 翔子",
@@ -159,6 +167,7 @@
         "id": "SBY/W64-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

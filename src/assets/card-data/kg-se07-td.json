@@ -15,7 +15,8 @@
         "id": "KG/SE07-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KG/SE07-T02": {
     "name": "“三途神社の長”敦賀 迷彩",
@@ -33,7 +34,8 @@
         "id": "KG/SE07-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-T03": {
     "name": "堕剣士 錆 白兵",
@@ -51,7 +53,8 @@
         "id": "KG/SE07-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KG/SE07-T04": {
     "name": "幼い日の七実＆七花",
@@ -69,7 +72,8 @@
         "id": "KG/SE07-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-T05": {
     "name": "ふたり旅 とがめ＆七花",
@@ -87,7 +91,8 @@
         "id": "KG/SE07-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-T06": {
     "name": "悪刀七実",
@@ -105,7 +110,8 @@
         "id": "KG/SE07-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KG/SE07-T07": {
     "name": "“一本の日本刀”鑢 七花",
@@ -123,6 +129,7 @@
         "id": "KG/SE07-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

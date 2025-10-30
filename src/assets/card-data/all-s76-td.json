@@ -15,7 +15,8 @@
         "id": "ALL/S76-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T02": {
     "name": "物静かなリリィ 雨嘉",
@@ -37,7 +38,8 @@
         "id": "ALL/S76-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T03": {
     "name": "安藤 鶴紗",
@@ -55,7 +57,8 @@
         "id": "ALL/S76-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T04": {
     "name": "強い正義感 神琳",
@@ -77,7 +80,8 @@
         "id": "ALL/S76-T04R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T05": {
     "name": "王 雨嘉",
@@ -95,7 +99,8 @@
         "id": "ALL/S76-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T06": {
     "name": "強化リリィ 鶴紗",
@@ -117,7 +122,8 @@
         "id": "ALL/S76-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-T07": {
     "name": "二川 二水",
@@ -135,7 +141,8 @@
         "id": "ALL/S76-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T08": {
     "name": "聡明なお嬢様 楓",
@@ -157,7 +164,8 @@
         "id": "ALL/S76-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T09": {
     "name": "楓・J・ヌーベル",
@@ -175,7 +183,8 @@
         "id": "ALL/S76-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T10": {
     "name": "一柳 梨璃",
@@ -197,7 +206,8 @@
         "id": "ALL/S76-T10S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T11": {
     "name": "リリィオタク 二水",
@@ -219,7 +229,8 @@
         "id": "ALL/S76-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-T12": {
     "name": "元気いっぱい！ 梨璃",
@@ -241,7 +252,8 @@
         "id": "ALL/S76-T12SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-T13": {
     "name": "入学式の朝",
@@ -259,7 +271,8 @@
         "id": "ALL/S76-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T14": {
     "name": "チャームとの契約",
@@ -277,7 +290,8 @@
         "id": "ALL/S76-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T15": {
     "name": "夢結様…！",
@@ -295,7 +309,8 @@
         "id": "ALL/S76-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "ALL/S76-T16": {
     "name": "孤高のリリィ 夢結",
@@ -317,7 +332,8 @@
         "id": "ALL/S76-T16SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T17": {
     "name": "ムードメーカー 梅",
@@ -339,7 +355,8 @@
         "id": "ALL/S76-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T18": {
     "name": "おしゃべり大好き ミリアム",
@@ -361,7 +378,8 @@
         "id": "ALL/S76-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T19": {
     "name": "ミリアム・ヒルデガルド・v・グロピウス",
@@ -379,7 +397,8 @@
         "id": "ALL/S76-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-T20": {
     "name": "吉村・Thi・梅",
@@ -397,7 +416,8 @@
         "id": "ALL/S76-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-T21": {
     "name": "白井 夢結",
@@ -419,7 +439,8 @@
         "id": "ALL/S76-T21S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-T22": {
     "name": "ヒュージ強襲",
@@ -437,7 +458,8 @@
         "id": "ALL/S76-T22",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-T23": {
     "name": "物静かなリリィ 雨嘉",
@@ -455,7 +477,8 @@
         "id": "ALL/S76-T23",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T24": {
     "name": "とある提案 神琳",
@@ -477,7 +500,8 @@
         "id": "ALL/S76-T24R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T25": {
     "name": "話が気になる雨嘉",
@@ -499,7 +523,8 @@
         "id": "ALL/S76-T25R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T26": {
     "name": "強い正義感 神琳",
@@ -517,7 +542,8 @@
         "id": "ALL/S76-T26",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T27": {
     "name": "意外な一面 鶴紗",
@@ -539,7 +565,8 @@
         "id": "ALL/S76-T27R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-T28": {
     "name": "強化リリィ 鶴紗",
@@ -557,7 +584,8 @@
         "id": "ALL/S76-T28",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-T29": {
     "name": "“守護天使の契り” 夢結&梨璃",
@@ -583,7 +611,8 @@
         "id": "ALL/S76-T29SPb",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T30": {
     "name": "聡明なお嬢様 楓",
@@ -601,7 +630,8 @@
         "id": "ALL/S76-T30",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T31": {
     "name": "世界一の自信 楓",
@@ -623,7 +653,8 @@
         "id": "ALL/S76-T31R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T32": {
     "name": "瞳を輝かせる二水",
@@ -645,7 +676,8 @@
         "id": "ALL/S76-T32R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T33": {
     "name": "リリィオタク 二水",
@@ -663,7 +695,8 @@
         "id": "ALL/S76-T33",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-T34": {
     "name": "元気いっぱい！ 梨璃",
@@ -681,7 +714,8 @@
         "id": "ALL/S76-T34",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-T35": {
     "name": "入学式の朝",
@@ -699,7 +733,8 @@
         "id": "ALL/S76-T35",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T36": {
     "name": "チャームとの契約",
@@ -717,7 +752,8 @@
         "id": "ALL/S76-T36",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T37": {
     "name": "夢結様…！",
@@ -735,7 +771,8 @@
         "id": "ALL/S76-T37",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "ALL/S76-T38": {
     "name": "鋭い観察眼 梅",
@@ -757,7 +794,8 @@
         "id": "ALL/S76-T38R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T39": {
     "name": "孤高のリリィ 夢結",
@@ -775,7 +813,8 @@
         "id": "ALL/S76-T39",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T40": {
     "name": "ムードメーカー 梅",
@@ -793,7 +832,8 @@
         "id": "ALL/S76-T40",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T41": {
     "name": "おしゃべり大好き ミリアム",
@@ -811,7 +851,8 @@
         "id": "ALL/S76-T41",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/S76-T42": {
     "name": "CHARMの鑑定 ミリアム",
@@ -833,7 +874,8 @@
         "id": "ALL/S76-T42R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-T43": {
     "name": "夢結&梨璃",
@@ -855,7 +897,8 @@
         "id": "ALL/S76-T43S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ALL/S76-T44": {
     "name": "ヒュージ強襲",
@@ -877,6 +920,7 @@
         "id": "ALL/S76-T44S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

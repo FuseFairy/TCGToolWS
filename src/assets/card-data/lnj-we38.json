@@ -23,7 +23,8 @@
         "id": "LNJ/WE38-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/WE38-003": {
     "name": "素敵な旅へご案内♪ 中須 かすみ",
@@ -49,7 +50,8 @@
         "id": "LNJ/WE38-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/WE38-006": {
     "name": "素敵な旅へご案内♪ 天王寺 璃奈",
@@ -75,7 +77,8 @@
         "id": "LNJ/WE38-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/WE38-010": {
     "name": "素敵な旅へご案内♪ 桜坂 しずく",
@@ -101,7 +104,8 @@
         "id": "LNJ/WE38-010SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/WE38-015": {
     "name": "素敵な旅へご案内♪ 優木 せつ菜",
@@ -127,7 +131,8 @@
         "id": "LNJ/WE38-015SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/WE38-022": {
     "name": "素敵な旅へご案内♪ 上原 歩夢",
@@ -153,7 +158,8 @@
         "id": "LNJ/WE38-022SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/WE38-025": {
     "name": "素敵な旅へご案内♪ 鐘 嵐珠",
@@ -179,7 +185,8 @@
         "id": "LNJ/WE38-025SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/WE38-026": {
     "name": "素敵な旅へご案内♪ 宮下 愛",
@@ -205,7 +212,8 @@
         "id": "LNJ/WE38-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/WE38-031": {
     "name": "素敵な旅へご案内♪ 近江 彼方",
@@ -231,7 +239,8 @@
         "id": "LNJ/WE38-031SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/WE38-033": {
     "name": "素敵な旅へご案内♪ 朝香 果林",
@@ -257,7 +266,8 @@
         "id": "LNJ/WE38-033SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/WE38-036": {
     "name": "素敵な旅へご案内♪ ミア・テイラー",
@@ -283,7 +293,8 @@
         "id": "LNJ/WE38-036SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/WE38-039": {
     "name": "素敵な旅へご案内♪ エマ・ヴェルデ",
@@ -309,6 +320,7 @@
         "id": "LNJ/WE38-039SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

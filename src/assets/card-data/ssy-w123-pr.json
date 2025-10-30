@@ -19,7 +19,8 @@
         "id": "Ssy/W123-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ssy/W123-P04": {
     "name": "情報と感情 長門",
@@ -37,6 +38,7 @@
         "id": "Ssy/W123-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "MB/S10-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MB/S10-107": {
     "name": "生粋のお嬢様 秋葉",
@@ -33,7 +34,8 @@
         "id": "MB/S10-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MB/S10-108": {
     "name": "知識の研鑽 シオン",
@@ -51,7 +53,8 @@
         "id": "MB/S10-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MB/S10-109": {
     "name": "夢魔 白レン",
@@ -69,7 +72,8 @@
         "id": "MB/S10-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MB/S10-110": {
     "name": "“新しいタタリ”吸血鬼シオン",
@@ -87,7 +91,8 @@
         "id": "MB/S10-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MB/S10-111": {
     "name": "お屋敷の秩序 翡翠",
@@ -105,6 +110,7 @@
         "id": "MB/S10-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

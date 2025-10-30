@@ -23,7 +23,8 @@
         "id": "Fsl/W120-078SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsl/W120-082": {
     "name": "天才美少女魔道士 リナ",
@@ -45,7 +46,8 @@
         "id": "Fsl/W120-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsl/W120-087": {
     "name": "魔を滅する者たち ガウリイ＆リナ",
@@ -67,7 +69,8 @@
         "id": "Fsl/W120-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fsl/W120-088": {
     "name": "ドラまたリナ",
@@ -93,7 +96,8 @@
         "id": "Fsl/W120-088SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsl/W120-095": {
     "name": "蘇った王との対峙 リナ",
@@ -115,7 +119,8 @@
         "id": "Fsl/W120-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fsl/W120-101": {
     "name": "大胆不敵 リナ",
@@ -137,7 +142,8 @@
         "id": "Fsl/W120-101S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsl/W120-107": {
     "name": "あくなき食欲",
@@ -159,7 +165,8 @@
         "id": "Fsl/W120-107S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsl/W120-108": {
     "name": "竜破斬",
@@ -185,6 +192,7 @@
         "id": "Fsl/W120-108SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

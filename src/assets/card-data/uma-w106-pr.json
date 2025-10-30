@@ -15,7 +15,8 @@
         "id": "UMA/W106-036S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W106-037": {
     "name": "Gigue.",
@@ -33,7 +34,8 @@
         "id": "UMA/W106-037S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W106-038": {
     "name": "登場、暴走、団長",
@@ -51,7 +53,8 @@
         "id": "UMA/W106-038S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W106-039": {
     "name": "いつだって一緒だよ！",
@@ -69,7 +72,8 @@
         "id": "UMA/W106-039S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "UMA/W106-075": {
     "name": "夢を目指す二人三脚",
@@ -87,7 +91,8 @@
         "id": "UMA/W106-075S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W106-076": {
     "name": "紅葉の賀は賑わいて",
@@ -105,7 +110,8 @@
         "id": "UMA/W106-076S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W106-112": {
     "name": "ライバルの背中のその先へ",
@@ -123,7 +129,8 @@
         "id": "UMA/W106-112S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W106-113": {
     "name": "『友』と書いて『ライバル』",
@@ -141,7 +148,8 @@
         "id": "UMA/W106-113S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W106-114": {
     "name": "才能の塊",
@@ -159,7 +167,8 @@
         "id": "UMA/W106-114S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W106-115": {
     "name": "そしてビューティーなエンディング",
@@ -177,7 +186,8 @@
         "id": "UMA/W106-115S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W106-116": {
     "name": "スクラップ・メドレー",
@@ -195,7 +205,8 @@
         "id": "UMA/W106-116S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W106-117": {
     "name": "おもいかけ",
@@ -213,7 +224,8 @@
         "id": "UMA/W106-117S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W106-151": {
     "name": "おかえり、チームのエース",
@@ -231,7 +243,8 @@
         "id": "UMA/W106-151S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W106-152": {
     "name": "第1回ファンタジー記念",
@@ -249,7 +262,8 @@
         "id": "UMA/W106-152S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W106-153": {
     "name": "ラッシュ→バーニング",
@@ -267,7 +281,8 @@
         "id": "UMA/W106-153S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "UMA/W106-154": {
     "name": "ゆかいな旅路",
@@ -285,7 +300,8 @@
         "id": "UMA/W106-154S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W106-155": {
     "name": "彼女のワガママ",
@@ -303,7 +319,8 @@
         "id": "UMA/W106-155S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W106-156": {
     "name": "天衣無縫の陽気なウマ娘 ミスターシービー",
@@ -321,7 +338,8 @@
         "id": "UMA/W106-156",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W106-157": {
     "name": "君臨する“皇帝” シンボリルドルフ",
@@ -339,7 +357,8 @@
         "id": "UMA/W106-157",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W106-P01": {
     "name": "私たちと夢、掴みましょう！ スペシャルウィーク",
@@ -361,7 +380,8 @@
         "id": "UMA/W106-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W106-P02": {
     "name": "まだ見ぬ景色を求めて サイレンススズカ",
@@ -383,6 +403,7 @@
         "id": "UMA/W106-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

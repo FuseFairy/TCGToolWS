@@ -19,7 +19,8 @@
         "id": "BFR/S78-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-002": {
     "name": "身捧ぐ慈愛 メイプル",
@@ -41,7 +42,8 @@
         "id": "BFR/S78-002SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-003": {
     "name": "大物喰らい マイ&ユイ",
@@ -67,7 +69,8 @@
         "id": "BFR/S78-003SPb",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-004": {
     "name": "二人の時間 メイプル",
@@ -89,7 +92,8 @@
         "id": "BFR/S78-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-005": {
     "name": "初心者プレイヤー マイ＆ユイ",
@@ -111,7 +115,8 @@
         "id": "BFR/S78-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-006": {
     "name": "無限の探求 イズ",
@@ -133,7 +138,8 @@
         "id": "BFR/S78-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-007": {
     "name": "ギルドマスター メイプル",
@@ -151,7 +157,8 @@
         "id": "BFR/S78-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-008": {
     "name": "即戦力 マイ",
@@ -173,7 +180,8 @@
         "id": "BFR/S78-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-009": {
     "name": "即戦力 ユイ",
@@ -195,7 +203,8 @@
         "id": "BFR/S78-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-010": {
     "name": "白雪 メイプル",
@@ -217,7 +226,8 @@
         "id": "BFR/S78-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-011": {
     "name": "水着姿 ユイ",
@@ -235,7 +245,8 @@
         "id": "BFR/S78-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-012": {
     "name": "イベント三位 メイプル",
@@ -253,7 +264,8 @@
         "id": "BFR/S78-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-013": {
     "name": "水着姿 マイ",
@@ -271,7 +283,8 @@
         "id": "BFR/S78-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-014": {
     "name": "堅実な戦い方 クロム",
@@ -289,7 +302,8 @@
         "id": "BFR/S78-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-015": {
     "name": "双子の妹 ユイ",
@@ -307,7 +321,8 @@
         "id": "BFR/S78-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-016": {
     "name": "アンバランス メイプル",
@@ -325,7 +340,8 @@
         "id": "BFR/S78-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-017": {
     "name": "双子の姉 マイ",
@@ -343,7 +359,8 @@
         "id": "BFR/S78-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-018": {
     "name": "錬金術師のロングコート イズ",
@@ -361,7 +378,8 @@
         "id": "BFR/S78-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-019": {
     "name": "双子の少女 マイ",
@@ -379,7 +397,8 @@
         "id": "BFR/S78-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-020": {
     "name": "大人の対応 イズ",
@@ -397,7 +416,8 @@
         "id": "BFR/S78-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-021": {
     "name": "双子の少女 ユイ",
@@ -415,7 +435,8 @@
         "id": "BFR/S78-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-022": {
     "name": "カウンター メイプル",
@@ -433,7 +454,8 @@
         "id": "BFR/S78-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-023": {
     "name": "極振り マイ",
@@ -451,7 +473,8 @@
         "id": "BFR/S78-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-024": {
     "name": "極振り ユイ",
@@ -469,7 +492,8 @@
         "id": "BFR/S78-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-025": {
     "name": "血染めの白鎧 クロム",
@@ -487,7 +511,8 @@
         "id": "BFR/S78-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-026": {
     "name": "嬉しい誤算",
@@ -505,7 +530,8 @@
         "id": "BFR/S78-026",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-027": {
     "name": "身捧ぐ慈愛",
@@ -527,7 +553,8 @@
         "id": "BFR/S78-027R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-028": {
     "name": "楓の木",
@@ -545,7 +572,8 @@
         "id": "BFR/S78-028",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-029": {
     "name": "破壊王",
@@ -567,7 +595,8 @@
         "id": "BFR/S78-029R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BFR/S78-030": {
     "name": "イズ工房",
@@ -585,7 +614,8 @@
         "id": "BFR/S78-030",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-031": {
     "name": "多種多彩 サリー",
@@ -607,7 +637,8 @@
         "id": "BFR/S78-031SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-032": {
     "name": "一ノ太刀 カスミ",
@@ -629,7 +660,8 @@
         "id": "BFR/S78-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-033": {
     "name": "イベントボーナス カスミ",
@@ -651,7 +683,8 @@
         "id": "BFR/S78-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-034": {
     "name": "最強初心者 メイプル",
@@ -673,7 +706,8 @@
         "id": "BFR/S78-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-035": {
     "name": "イベントボーナス メイプル",
@@ -695,7 +729,8 @@
         "id": "BFR/S78-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-036": {
     "name": "イベントボーナス サリー",
@@ -717,7 +752,8 @@
         "id": "BFR/S78-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-037": {
     "name": "大冒険 メイプル＆サリー",
@@ -739,7 +775,8 @@
         "id": "BFR/S78-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-038": {
     "name": "話題の青服 サリー",
@@ -761,7 +798,8 @@
         "id": "BFR/S78-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-039": {
     "name": "超加速 サリー",
@@ -779,7 +817,8 @@
         "id": "BFR/S78-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-040": {
     "name": "休眠と覚醒 メイプル",
@@ -797,7 +836,8 @@
         "id": "BFR/S78-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-041": {
     "name": "覚醒 シロップ",
@@ -815,7 +855,8 @@
         "id": "BFR/S78-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-042": {
     "name": "守護天使 メイプル",
@@ -833,7 +874,8 @@
         "id": "BFR/S78-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-043": {
     "name": "千紫万紅 カスミ",
@@ -851,7 +893,8 @@
         "id": "BFR/S78-043",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-044": {
     "name": "新米冒険者 メイプル",
@@ -869,7 +912,8 @@
         "id": "BFR/S78-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-045": {
     "name": "確かな実力 サリー",
@@ -887,7 +931,8 @@
         "id": "BFR/S78-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-046": {
     "name": "影分身 サリー",
@@ -909,7 +954,8 @@
         "id": "BFR/S78-046b",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-047": {
     "name": "メダル集め メイプル",
@@ -927,7 +973,8 @@
         "id": "BFR/S78-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-048": {
     "name": "リラクゼーション メイプル",
@@ -945,7 +992,8 @@
         "id": "BFR/S78-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-049": {
     "name": "時期尚早 カスミ",
@@ -963,7 +1011,8 @@
         "id": "BFR/S78-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-050": {
     "name": "リラクゼーション サリー",
@@ -981,7 +1030,8 @@
         "id": "BFR/S78-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-051": {
     "name": "雲外蒼天 カスミ",
@@ -999,7 +1049,8 @@
         "id": "BFR/S78-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-052": {
     "name": "発毛",
@@ -1017,7 +1068,8 @@
         "id": "BFR/S78-052",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-053": {
     "name": "普通でなくなる",
@@ -1039,7 +1091,8 @@
         "id": "BFR/S78-053R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-054": {
     "name": "瞳の中の青",
@@ -1057,7 +1110,8 @@
         "id": "BFR/S78-054",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BFR/S78-055": {
     "name": "困ったら食べればなんとかなる",
@@ -1075,7 +1129,8 @@
         "id": "BFR/S78-055",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BFR/S78-056": {
     "name": "心の裏表 ミィ",
@@ -1097,7 +1152,8 @@
         "id": "BFR/S78-056SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-057": {
     "name": "歩く要塞 メイプル",
@@ -1119,7 +1175,8 @@
         "id": "BFR/S78-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-058": {
     "name": "聖女ミザリー",
@@ -1141,7 +1198,8 @@
         "id": "BFR/S78-058SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-059": {
     "name": "重要な位置取り メイプル",
@@ -1159,7 +1217,8 @@
         "id": "BFR/S78-059",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-060": {
     "name": "フレアアクセル ミィ",
@@ -1181,7 +1240,8 @@
         "id": "BFR/S78-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-061": {
     "name": "作戦変更 ミザリー",
@@ -1199,7 +1259,8 @@
         "id": "BFR/S78-061",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-062": {
     "name": "がぶがぶはむはむ メイプル",
@@ -1221,7 +1282,8 @@
         "id": "BFR/S78-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-063": {
     "name": "暴虐 メイプル",
@@ -1243,7 +1305,8 @@
         "id": "BFR/S78-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-064": {
     "name": "炎帝 ミィ",
@@ -1265,7 +1328,8 @@
         "id": "BFR/S78-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-065": {
     "name": "トラッパーマルクス",
@@ -1283,7 +1347,8 @@
         "id": "BFR/S78-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-066": {
     "name": "崩剣のシン",
@@ -1301,7 +1366,8 @@
         "id": "BFR/S78-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-067": {
     "name": "各々の役割 ミザリー",
@@ -1319,7 +1385,8 @@
         "id": "BFR/S78-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-068": {
     "name": "ノーダメージ メイプル",
@@ -1337,7 +1404,8 @@
         "id": "BFR/S78-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-069": {
     "name": "託された命 ミィ",
@@ -1355,7 +1423,8 @@
         "id": "BFR/S78-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-070": {
     "name": "黒薔薇ノ鎧 メイプル",
@@ -1373,7 +1442,8 @@
         "id": "BFR/S78-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-071": {
     "name": "ギルドマスター ミィ",
@@ -1391,7 +1461,8 @@
         "id": "BFR/S78-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-072": {
     "name": "火炎牢 ミィ",
@@ -1409,7 +1480,8 @@
         "id": "BFR/S78-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-073": {
     "name": "不屈の守護者 メイプル",
@@ -1427,7 +1499,8 @@
         "id": "BFR/S78-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-074": {
     "name": "【毒竜】 メイプル",
@@ -1445,7 +1518,8 @@
         "id": "BFR/S78-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-075": {
     "name": "ユニークシリーズ",
@@ -1463,7 +1537,8 @@
         "id": "BFR/S78-075",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-076": {
     "name": "ギルドマスター同士の対決",
@@ -1485,7 +1560,8 @@
         "id": "BFR/S78-076R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-077": {
     "name": "ボスモンスター",
@@ -1507,7 +1583,8 @@
         "id": "BFR/S78-077R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-078": {
     "name": "炎帝ノ国のギルドマスター",
@@ -1529,7 +1606,8 @@
         "id": "BFR/S78-078R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-079": {
     "name": "多重詠唱 フレデリカ",
@@ -1551,7 +1629,8 @@
         "id": "BFR/S78-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-080": {
     "name": "二人の時間 サリー",
@@ -1573,7 +1652,8 @@
         "id": "BFR/S78-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-081": {
     "name": "天才少年 カナデ",
@@ -1595,7 +1675,8 @@
         "id": "BFR/S78-081SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-082": {
     "name": "機械神 メイプル",
@@ -1617,7 +1698,8 @@
         "id": "BFR/S78-082SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-083": {
     "name": "情報戦 サリー",
@@ -1639,7 +1721,8 @@
         "id": "BFR/S78-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-084": {
     "name": "極振り サリー",
@@ -1661,7 +1744,8 @@
         "id": "BFR/S78-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-085": {
     "name": "多種多彩 カナデ",
@@ -1683,7 +1767,8 @@
         "id": "BFR/S78-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-086": {
     "name": "万能型 フレデリカ",
@@ -1705,7 +1790,8 @@
         "id": "BFR/S78-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-087": {
     "name": "盾と盾 メイプル＆サリー",
@@ -1723,7 +1809,8 @@
         "id": "BFR/S78-087",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-088": {
     "name": "情報戦 フレデリカ",
@@ -1745,7 +1832,8 @@
         "id": "BFR/S78-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-089": {
     "name": "大親友 メイプル＆サリー",
@@ -1767,7 +1855,8 @@
         "id": "BFR/S78-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-090": {
     "name": "バーサーク ドラグ",
@@ -1785,7 +1874,8 @@
         "id": "BFR/S78-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-091": {
     "name": "青ク静カナ海 メイプル",
@@ -1803,7 +1893,8 @@
         "id": "BFR/S78-091",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-092": {
     "name": "魔導書庫 カナデ",
@@ -1821,7 +1912,8 @@
         "id": "BFR/S78-092",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-093": {
     "name": "覚醒 朧",
@@ -1839,7 +1931,8 @@
         "id": "BFR/S78-093",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-094": {
     "name": "悪食 メイプル",
@@ -1857,7 +1950,8 @@
         "id": "BFR/S78-094",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-095": {
     "name": "ギルドマスター ペイン",
@@ -1875,7 +1969,8 @@
         "id": "BFR/S78-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-096": {
     "name": "大海の衣 サリー",
@@ -1893,7 +1988,8 @@
         "id": "BFR/S78-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-097": {
     "name": "超加速 ドレッド",
@@ -1911,7 +2007,8 @@
         "id": "BFR/S78-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-098": {
     "name": "嘘のスキル サリー",
@@ -1929,7 +2026,8 @@
         "id": "BFR/S78-098",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-099": {
     "name": "好奇心 メイプル",
@@ -1947,7 +2045,8 @@
         "id": "BFR/S78-099",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-100": {
     "name": "呪縛 メイプル",
@@ -1965,7 +2064,8 @@
         "id": "BFR/S78-100",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-101": {
     "name": "休眠と覚醒 サリー",
@@ -1983,7 +2083,8 @@
         "id": "BFR/S78-101",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-102": {
     "name": "勝利への方程式 メイプル",
@@ -2001,7 +2102,8 @@
         "id": "BFR/S78-102",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-103": {
     "name": "勝利の為に カナデ",
@@ -2019,7 +2121,8 @@
         "id": "BFR/S78-103",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-104": {
     "name": "極振り メイプル",
@@ -2037,7 +2140,8 @@
         "id": "BFR/S78-104",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-105": {
     "name": "剣の舞 サリー",
@@ -2055,7 +2159,8 @@
         "id": "BFR/S78-105",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-106": {
     "name": "魔導書庫",
@@ -2073,7 +2178,8 @@
         "id": "BFR/S78-106",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BFR/S78-107": {
     "name": "展開・左手",
@@ -2095,7 +2201,8 @@
         "id": "BFR/S78-107R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-108": {
     "name": "おわらない夕焼けのエリア",
@@ -2117,7 +2224,8 @@
         "id": "BFR/S78-108R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BFR/S78-109": {
     "name": "決闘システム",
@@ -2135,7 +2243,8 @@
         "id": "BFR/S78-109",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BFR/S78-110": {
     "name": "神界書庫",
@@ -2153,6 +2262,7 @@
         "id": "BFR/S78-110",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

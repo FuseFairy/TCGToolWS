@@ -23,7 +23,8 @@
         "id": "PXR/S122-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-P02": {
     "name": "“30 YEARS OF FAN”おもちゃの仲間達",
@@ -41,7 +42,8 @@
         "id": "PXR/S122-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PXR/S122-P03": {
     "name": "“KEEP YOUR EYES”エイリアン",
@@ -63,6 +65,7 @@
         "id": "PXR/S122-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

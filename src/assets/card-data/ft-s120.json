@@ -23,7 +23,8 @@
         "id": "FT/S120-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-002": {
     "name": "天輪・繚乱の剣 エルザ",
@@ -49,7 +50,8 @@
         "id": "FT/S120-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-003": {
     "name": "暗躍 ジェラール",
@@ -71,7 +73,8 @@
         "id": "FT/S120-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-004": {
     "name": "変幻自在 エルザ",
@@ -93,7 +96,8 @@
         "id": "FT/S120-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-005": {
     "name": "赤い雷 ラクサス",
@@ -119,7 +123,8 @@
         "id": "FT/S120-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-006": {
     "name": "100年クエスト エルザ・スカーレット",
@@ -145,7 +150,8 @@
         "id": "FT/S120-006SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-007": {
     "name": "戦いの外の日々 エルザ",
@@ -171,7 +177,8 @@
         "id": "FT/S120-007SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-008": {
     "name": "白滅 ラクサス",
@@ -193,7 +200,8 @@
         "id": "FT/S120-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-009": {
     "name": "七星剣 ジェラール",
@@ -219,7 +227,8 @@
         "id": "FT/S120-009SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-010": {
     "name": "法竜 エレフセリア",
@@ -241,7 +250,8 @@
         "id": "FT/S120-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-011": {
     "name": "竜の海 エルザ",
@@ -263,7 +273,8 @@
         "id": "FT/S120-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-012": {
     "name": "白の教義 白魔導士",
@@ -285,7 +296,8 @@
         "id": "FT/S120-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-013": {
     "name": "月神竜 セレーネ",
@@ -307,7 +319,8 @@
         "id": "FT/S120-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-014": {
     "name": "変容する人格 白魔導士",
@@ -329,7 +342,8 @@
         "id": "FT/S120-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-015": {
     "name": "マカロフ",
@@ -351,7 +365,8 @@
         "id": "FT/S120-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-016": {
     "name": "白滅 ビックスロー",
@@ -373,7 +388,8 @@
         "id": "FT/S120-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-017": {
     "name": "白滅後のティータイム 白魔導士",
@@ -395,7 +411,8 @@
         "id": "FT/S120-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-018": {
     "name": "刃竜との邂逅 エルザ",
@@ -417,7 +434,8 @@
         "id": "FT/S120-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-019": {
     "name": "白滅 フリード",
@@ -439,7 +457,8 @@
         "id": "FT/S120-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-020": {
     "name": "白滅 ジェラール",
@@ -461,7 +480,8 @@
         "id": "FT/S120-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-021": {
     "name": "白滅 エバーグリーン",
@@ -483,7 +503,8 @@
         "id": "FT/S120-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-022": {
     "name": "アットホームなギルド ラクサス",
@@ -505,7 +526,8 @@
         "id": "FT/S120-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-023": {
     "name": "エルミナのウェルカムドリンク",
@@ -527,7 +549,8 @@
         "id": "FT/S120-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-024": {
     "name": "雪辱の火花",
@@ -553,7 +576,8 @@
         "id": "FT/S120-024R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-025": {
     "name": "エルザの誘惑",
@@ -575,7 +599,8 @@
         "id": "FT/S120-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-026": {
     "name": "白の支配",
@@ -597,7 +622,8 @@
         "id": "FT/S120-026R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-027": {
     "name": "煌めく星霊の力 ルーシィ",
@@ -623,7 +649,8 @@
         "id": "FT/S120-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-028": {
     "name": "星霊衣合成 ルーシィ",
@@ -649,7 +676,8 @@
         "id": "FT/S120-028SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-029": {
     "name": "アニマルソウル リサーナ",
@@ -671,7 +699,8 @@
         "id": "FT/S120-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-030": {
     "name": "秘密の笑顔 ミラジェーン",
@@ -697,7 +726,8 @@
         "id": "FT/S120-030SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-031": {
     "name": "永遠に褪せない笑顔 ルーシィ",
@@ -723,7 +753,8 @@
         "id": "FT/S120-031SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-032": {
     "name": "星々が交わる時 ルーシィ",
@@ -745,7 +776,8 @@
         "id": "FT/S120-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-033": {
     "name": "サタンソウル ミラジェーン",
@@ -767,7 +799,8 @@
         "id": "FT/S120-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-034": {
     "name": "100年クエスト ルーシィ・ハートフィリア",
@@ -793,7 +826,8 @@
         "id": "FT/S120-034SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-035": {
     "name": "タウロスフォーム ルーシィ",
@@ -815,7 +849,8 @@
         "id": "FT/S120-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-036": {
     "name": "斬心の悪魔 キリア",
@@ -837,7 +872,8 @@
         "id": "FT/S120-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-037": {
     "name": "伝説の依頼 ルーシィ",
@@ -859,7 +895,8 @@
         "id": "FT/S120-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-038": {
     "name": "骸竜 スカリオン",
@@ -881,7 +918,8 @@
         "id": "FT/S120-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-039": {
     "name": "鎧竜 マッドモール",
@@ -903,7 +941,8 @@
         "id": "FT/S120-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-040": {
     "name": "ディアボロス ギルドマスター ゲオルグ",
@@ -925,7 +964,8 @@
         "id": "FT/S120-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-041": {
     "name": "刃竜のキリア",
@@ -947,7 +987,8 @@
         "id": "FT/S120-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-042": {
     "name": "粘竜のネバル",
@@ -969,7 +1010,8 @@
         "id": "FT/S120-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-043": {
     "name": "霊竜のレイス",
@@ -991,7 +1033,8 @@
         "id": "FT/S120-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-044": {
     "name": "灰の魔法 スカリオン",
@@ -1013,7 +1056,8 @@
         "id": "FT/S120-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-045": {
     "name": "ビーストソウル エルフマン",
@@ -1035,7 +1079,8 @@
         "id": "FT/S120-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-046": {
     "name": "星霊の鍵のさらなる力",
@@ -1057,7 +1102,8 @@
         "id": "FT/S120-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-047": {
     "name": "木神竜アルドロンの目覚め",
@@ -1079,7 +1125,8 @@
         "id": "FT/S120-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-048": {
     "name": "レグルスの光 スピカの輝き",
@@ -1105,7 +1152,8 @@
         "id": "FT/S120-048R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-049": {
     "name": "星霊衣の輝き",
@@ -1127,7 +1175,8 @@
         "id": "FT/S120-049R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-050": {
     "name": "魔導士ギルド ディアボロス",
@@ -1149,7 +1198,8 @@
         "id": "FT/S120-050R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-051": {
     "name": "ブラックアッシュ",
@@ -1171,7 +1221,8 @@
         "id": "FT/S120-051R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-052": {
     "name": "焼き尽くす炎 ナツ",
@@ -1197,7 +1248,8 @@
         "id": "FT/S120-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-053": {
     "name": "あなた想う トウカ",
@@ -1223,7 +1275,8 @@
         "id": "FT/S120-053SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-054": {
     "name": "受け継がれる炎 ナツ",
@@ -1249,7 +1302,8 @@
         "id": "FT/S120-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-055": {
     "name": "そう遠くない未来 レビィ",
@@ -1275,7 +1329,8 @@
         "id": "FT/S120-055SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-056": {
     "name": "黒鉄の刃 ガジル",
@@ -1301,7 +1356,8 @@
         "id": "FT/S120-056SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-057": {
     "name": "100年クエスト ナツ・ドラグニル",
@@ -1327,7 +1383,8 @@
         "id": "FT/S120-057SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-058": {
     "name": "滾る炎の滅竜魔導士 ナツ",
@@ -1353,7 +1410,8 @@
         "id": "FT/S120-058SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-059": {
     "name": "追跡するガジル",
@@ -1375,7 +1433,8 @@
         "id": "FT/S120-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-060": {
     "name": "炎神竜 イグニア",
@@ -1401,7 +1460,8 @@
         "id": "FT/S120-060SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-061": {
     "name": "相棒の暴走 ハッピー",
@@ -1423,7 +1483,8 @@
         "id": "FT/S120-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-062": {
     "name": "家族喧嘩上等 ナツ",
@@ -1445,7 +1506,8 @@
         "id": "FT/S120-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-063": {
     "name": "100年クエスト ハッピー",
@@ -1467,7 +1529,8 @@
         "id": "FT/S120-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-064": {
     "name": "トレンチコート リリー",
@@ -1489,7 +1552,8 @@
         "id": "FT/S120-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-065": {
     "name": "嫌な雨 トウカ",
@@ -1511,7 +1575,8 @@
         "id": "FT/S120-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-066": {
     "name": "相棒と大はしゃぎ ナツ",
@@ -1533,7 +1598,8 @@
         "id": "FT/S120-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-067": {
     "name": "妖精の尻尾の新入り トウカ",
@@ -1555,7 +1621,8 @@
         "id": "FT/S120-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-068": {
     "name": "白滅 ガジル",
@@ -1577,7 +1644,8 @@
         "id": "FT/S120-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-069": {
     "name": "竜の海 ナツ",
@@ -1599,7 +1667,8 @@
         "id": "FT/S120-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-070": {
     "name": "炎の系譜 イグニア",
@@ -1621,7 +1690,8 @@
         "id": "FT/S120-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-071": {
     "name": "世界最古の魔導士ギルド 魔陣の竜",
@@ -1643,7 +1713,8 @@
         "id": "FT/S120-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-072": {
     "name": "炎竜王の崩拳",
@@ -1673,7 +1744,8 @@
         "id": "FT/S120-072R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-073": {
     "name": "燃え盛る炎の魔法",
@@ -1695,7 +1767,8 @@
         "id": "FT/S120-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-074": {
     "name": "天竜の力 ウェンディ",
@@ -1721,7 +1794,8 @@
         "id": "FT/S120-074SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-075": {
     "name": "天を穿つ ウェンディ",
@@ -1747,7 +1821,8 @@
         "id": "FT/S120-075SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-076": {
     "name": "凍てつく魔法 グレイ",
@@ -1773,7 +1848,8 @@
         "id": "FT/S120-076SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-077": {
     "name": "100年クエスト ウェンディ・マーベル",
@@ -1799,7 +1875,8 @@
         "id": "FT/S120-077SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-078": {
     "name": "100年クエスト グレイ・フルバスター",
@@ -1825,7 +1902,8 @@
         "id": "FT/S120-078SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-079": {
     "name": "氷魔零ノ太刀 グレイ",
@@ -1851,7 +1929,8 @@
         "id": "FT/S120-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-080": {
     "name": "命を懸けた冒険 グレイ",
@@ -1873,7 +1952,8 @@
         "id": "FT/S120-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-081": {
     "name": "神の名を冠する竜の脅威 ウェンディ",
@@ -1895,7 +1975,8 @@
         "id": "FT/S120-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-082": {
     "name": "竜の海 ウェンディ",
@@ -1917,7 +1998,8 @@
         "id": "FT/S120-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-083": {
     "name": "100年クエスト シャルル",
@@ -1939,7 +2021,8 @@
         "id": "FT/S120-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-084": {
     "name": "飲んで歌って飲んで食べて飲む!! カナ",
@@ -1961,7 +2044,8 @@
         "id": "FT/S120-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-085": {
     "name": "アイスメイク グレイ",
@@ -1983,7 +2067,8 @@
         "id": "FT/S120-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-086": {
     "name": "あなた想う ジュビア",
@@ -2009,7 +2094,8 @@
         "id": "FT/S120-086SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-087": {
     "name": "煉獄の巻き添え ウェンディ",
@@ -2031,7 +2117,8 @@
         "id": "FT/S120-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-088": {
     "name": "滅悪魔法 グレイ",
@@ -2053,7 +2140,8 @@
         "id": "FT/S120-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-089": {
     "name": "未知の大陸 ウェンディ",
@@ -2075,7 +2163,8 @@
         "id": "FT/S120-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-090": {
     "name": "水神竜 メルクフォビア",
@@ -2101,7 +2190,8 @@
         "id": "FT/S120-090SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-091": {
     "name": "恋する魔導士 ジュビア",
@@ -2123,7 +2213,8 @@
         "id": "FT/S120-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-092": {
     "name": "失いつつある力 メルクフォビア",
@@ -2145,7 +2236,8 @@
         "id": "FT/S120-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-093": {
     "name": "世話係 カラミール",
@@ -2167,7 +2259,8 @@
         "id": "FT/S120-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S120-094": {
     "name": "オフの日 グレイ",
@@ -2189,7 +2282,8 @@
         "id": "FT/S120-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-095": {
     "name": "悲しい願い カラミール",
@@ -2211,7 +2305,8 @@
         "id": "FT/S120-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-096": {
     "name": "依頼人兼引受人 ジュビア",
@@ -2233,7 +2328,8 @@
         "id": "FT/S120-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-097": {
     "name": "天竜のドラゴンフォース",
@@ -2255,7 +2351,8 @@
         "id": "FT/S120-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-098": {
     "name": "滅悪魔法の悪魔の部分",
@@ -2277,7 +2374,8 @@
         "id": "FT/S120-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-099": {
     "name": "いい加減にしてください!!!",
@@ -2299,7 +2397,8 @@
         "id": "FT/S120-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S120-100": {
     "name": "生きる力",
@@ -2321,6 +2420,7 @@
         "id": "FT/S120-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

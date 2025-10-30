@@ -19,7 +19,8 @@
         "id": "NM/S24-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-002": {
     "name": "主従関係 忍野忍",
@@ -41,7 +42,8 @@
         "id": "NM/S24-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-003": {
     "name": "帰路 忍野忍",
@@ -59,7 +61,8 @@
         "id": "NM/S24-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-004": {
     "name": "月の恩恵 忍野忍",
@@ -81,7 +84,8 @@
         "id": "NM/S24-004R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-005": {
     "name": "“勇気”という言葉 八九寺真宵",
@@ -99,7 +103,8 @@
         "id": "NM/S24-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-006": {
     "name": "本気モード 忍野忍",
@@ -117,7 +122,8 @@
         "id": "NM/S24-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-007": {
     "name": "協力のため 忍野忍",
@@ -135,7 +141,8 @@
         "id": "NM/S24-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-008": {
     "name": "おめかし千石撫子",
@@ -153,7 +160,8 @@
         "id": "NM/S24-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-009": {
     "name": "吸血鬼の貫禄 忍野忍",
@@ -171,7 +179,8 @@
         "id": "NM/S24-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-010": {
     "name": "影の住人 忍野忍",
@@ -189,7 +198,8 @@
         "id": "NM/S24-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-011": {
     "name": "お花畑の忍野忍",
@@ -207,7 +217,8 @@
         "id": "NM/S24-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-012": {
     "name": "突然の襲撃 阿良々木暦",
@@ -225,7 +236,8 @@
         "id": "NM/S24-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-013": {
     "name": "影の中の忍野忍",
@@ -243,7 +255,8 @@
         "id": "NM/S24-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-014": {
     "name": "初めての来客 千石撫子",
@@ -261,7 +274,8 @@
         "id": "NM/S24-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-015": {
     "name": "機嫌の良い忍野忍",
@@ -279,7 +293,8 @@
         "id": "NM/S24-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-016": {
     "name": "金髪金眼 忍野忍",
@@ -297,7 +312,8 @@
         "id": "NM/S24-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-017": {
     "name": "はにかむ八九寺真宵",
@@ -315,7 +331,8 @@
         "id": "NM/S24-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-018": {
     "name": "一段階上の儀式",
@@ -333,7 +350,8 @@
         "id": "NM/S24-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-019": {
     "name": "廃墟の邂逅",
@@ -351,7 +369,8 @@
         "id": "NM/S24-019",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NM/S24-020": {
     "name": "お出迎え",
@@ -369,7 +388,8 @@
         "id": "NM/S24-020",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-021": {
     "name": "“ファイヤーシスターズ”阿良々木火憐",
@@ -391,7 +411,8 @@
         "id": "NM/S24-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-022": {
     "name": "恋人として 戦場ヶ原ひたぎ",
@@ -413,7 +434,8 @@
         "id": "NM/S24-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-023": {
     "name": "実戦担当 阿良々木火憐",
@@ -435,7 +457,8 @@
         "id": "NM/S24-023SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-024": {
     "name": "恩人の忠告 羽川翼",
@@ -457,7 +480,8 @@
         "id": "NM/S24-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-025": {
     "name": "蜂を贈られた少女 阿良々木火憐",
@@ -479,7 +503,8 @@
         "id": "NM/S24-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-026": {
     "name": "守りたい人 戦場ヶ原ひたぎ",
@@ -501,7 +526,8 @@
         "id": "NM/S24-026R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-027": {
     "name": "“囲い火蜂”阿良々木火憐",
@@ -523,7 +549,8 @@
         "id": "NM/S24-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-028": {
     "name": "でっかいほうの妹 阿良々木火憐",
@@ -541,7 +568,8 @@
         "id": "NM/S24-028",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-029": {
     "name": "“偽物”貝木泥舟",
@@ -559,7 +587,8 @@
         "id": "NM/S24-029",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-030": {
     "name": "鋭い勘 戦場ヶ原ひたぎ",
@@ -577,7 +606,8 @@
         "id": "NM/S24-030",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-031": {
     "name": "歯みがき中 阿良々木火憐",
@@ -595,7 +625,8 @@
         "id": "NM/S24-031",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-032": {
     "name": "軽い気持ち 阿良々木火憐",
@@ -613,7 +644,8 @@
         "id": "NM/S24-032",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-033": {
     "name": "花札遊び 神原駿河",
@@ -631,7 +663,8 @@
         "id": "NM/S24-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-034": {
     "name": "朝の光景 阿良々木火憐",
@@ -649,7 +682,8 @@
         "id": "NM/S24-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-035": {
     "name": "家庭教師 羽川翼",
@@ -667,7 +701,8 @@
         "id": "NM/S24-035",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-036": {
     "name": "兄の誇り 阿良々木暦",
@@ -685,7 +720,8 @@
         "id": "NM/S24-036",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-037": {
     "name": "栂の木二中の有名人 阿良々木火憐",
@@ -703,7 +739,8 @@
         "id": "NM/S24-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-038": {
     "name": "“正義とは”阿良々木火憐",
@@ -721,7 +758,8 @@
         "id": "NM/S24-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-039": {
     "name": "家族の絆 阿良々木火憐",
@@ -739,7 +777,8 @@
         "id": "NM/S24-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-040": {
     "name": "身の潔白 神原駿河",
@@ -757,7 +796,8 @@
         "id": "NM/S24-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-041": {
     "name": "いたずら心 羽川翼",
@@ -775,7 +815,8 @@
         "id": "NM/S24-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-042": {
     "name": "歯みがきタイム",
@@ -793,7 +834,8 @@
         "id": "NM/S24-042",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-043": {
     "name": "二人の砂浜",
@@ -811,7 +853,8 @@
         "id": "NM/S24-043",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NM/S24-044": {
     "name": "なんでも知っている少女",
@@ -829,7 +872,8 @@
         "id": "NM/S24-044",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NM/S24-045": {
     "name": "かれんビー",
@@ -847,7 +891,8 @@
         "id": "NM/S24-045",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NM/S24-046": {
     "name": "ホトトギスの少女 阿良々木月火",
@@ -869,7 +914,8 @@
         "id": "NM/S24-046SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-047": {
     "name": "不死の怪異 阿良々木月火",
@@ -891,7 +937,8 @@
         "id": "NM/S24-047SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-048": {
     "name": "過去との決別 戦場ヶ原ひたぎ",
@@ -909,7 +956,8 @@
         "id": "NM/S24-048",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-049": {
     "name": "“しでの鳥”阿良々木月火",
@@ -931,7 +979,8 @@
         "id": "NM/S24-049R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-050": {
     "name": "開放感 神原駿河",
@@ -953,7 +1002,8 @@
         "id": "NM/S24-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-051": {
     "name": "栂の木二中の有名人 阿良々木月火",
@@ -975,7 +1025,8 @@
         "id": "NM/S24-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-052": {
     "name": "いつもの別れ 八九寺真宵",
@@ -997,7 +1048,8 @@
         "id": "NM/S24-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-053": {
     "name": "交わす約束 八九寺真宵",
@@ -1015,7 +1067,8 @@
         "id": "NM/S24-053",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-054": {
     "name": "加速装置 神原駿河",
@@ -1033,7 +1086,8 @@
         "id": "NM/S24-054",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-055": {
     "name": "妹のこと 阿良々木暦",
@@ -1051,7 +1105,8 @@
         "id": "NM/S24-055",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-056": {
     "name": "“ファイヤーシスターズ”阿良々木月火",
@@ -1069,7 +1124,8 @@
         "id": "NM/S24-056",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-057": {
     "name": "参謀担当 阿良々木月火",
@@ -1087,7 +1143,8 @@
         "id": "NM/S24-057",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-058": {
     "name": "激情的な性格 阿良々木月火",
@@ -1105,7 +1162,8 @@
         "id": "NM/S24-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-059": {
     "name": "着物好き 阿良々木月火",
@@ -1123,7 +1181,8 @@
         "id": "NM/S24-059",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-060": {
     "name": "ちっちゃいほうの妹 阿良々木月火",
@@ -1141,7 +1200,8 @@
         "id": "NM/S24-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-061": {
     "name": "茶道部 阿良々木月火",
@@ -1159,7 +1219,8 @@
         "id": "NM/S24-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-062": {
     "name": "朝の光景 阿良々木月火",
@@ -1177,7 +1238,8 @@
         "id": "NM/S24-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-063": {
     "name": "不意の言葉 戦場ヶ原ひたぎ",
@@ -1195,7 +1257,8 @@
         "id": "NM/S24-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-064": {
     "name": "ヒミツの話 八九寺真宵",
@@ -1213,7 +1276,8 @@
         "id": "NM/S24-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-065": {
     "name": "“変態”神原駿河",
@@ -1231,7 +1295,8 @@
         "id": "NM/S24-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-066": {
     "name": "お約束",
@@ -1249,7 +1314,8 @@
         "id": "NM/S24-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-067": {
     "name": "つきひフェニックス",
@@ -1267,7 +1333,8 @@
         "id": "NM/S24-067",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-068": {
     "name": "かみましたっ！",
@@ -1285,7 +1352,8 @@
         "id": "NM/S24-068",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NM/S24-069": {
     "name": "思い出の扱い",
@@ -1303,7 +1371,8 @@
         "id": "NM/S24-069",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NM/S24-070": {
     "name": "プラチナむかつく",
@@ -1321,7 +1390,8 @@
         "id": "NM/S24-070",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NM/S24-071": {
     "name": "戦いに赴く阿良々木暦",
@@ -1339,7 +1409,8 @@
         "id": "NM/S24-071",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-072": {
     "name": "カチューシャ 千石撫子",
@@ -1357,7 +1428,8 @@
         "id": "NM/S24-072",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-073": {
     "name": "妹たちの助け人 羽川翼",
@@ -1375,7 +1447,8 @@
         "id": "NM/S24-073",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-074": {
     "name": "憑藻神 斧乃木余接",
@@ -1393,7 +1466,8 @@
         "id": "NM/S24-074",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-075": {
     "name": "“例外のほうが多い規則”斧乃木余接",
@@ -1411,7 +1485,8 @@
         "id": "NM/S24-075",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-076": {
     "name": "帰り道 羽川翼",
@@ -1429,7 +1504,8 @@
         "id": "NM/S24-076",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-077": {
     "name": "二人の遊び 千石撫子",
@@ -1447,7 +1523,8 @@
         "id": "NM/S24-077",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-078": {
     "name": "陰陽師 影縫余弦",
@@ -1465,7 +1542,8 @@
         "id": "NM/S24-078",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-079": {
     "name": "敗者の強がり",
@@ -1483,7 +1561,8 @@
         "id": "NM/S24-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-080": {
     "name": "家族のこと",
@@ -1501,6 +1580,7 @@
         "id": "NM/S24-080",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

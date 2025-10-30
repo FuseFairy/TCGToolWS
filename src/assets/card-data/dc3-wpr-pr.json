@@ -15,7 +15,8 @@
         "id": "DC3/WPR-001",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WPR-002": {
     "name": "やれやれ シャルル",
@@ -33,7 +34,8 @@
         "id": "DC3/WPR-002",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WPR-003": {
     "name": "花咲く恋話 姫乃",
@@ -51,7 +53,8 @@
         "id": "DC3/WPR-003",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WPR-004": {
     "name": "花咲く恋話 さら",
@@ -69,7 +72,8 @@
         "id": "DC3/WPR-004",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WPR-005": {
     "name": "いつもの質問 葵",
@@ -87,7 +91,8 @@
         "id": "DC3/WPR-005",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WPR-006": {
     "name": "学園のアイドル 立夏",
@@ -105,7 +110,8 @@
         "id": "DC3/WPR-006",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WPR-007": {
     "name": "甘やかしお姉さん シャルル",
@@ -123,7 +129,8 @@
         "id": "DC3/WPR-007",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WPR-008": {
     "name": "素直になれない幼なじみ 姫乃",
@@ -141,7 +148,8 @@
         "id": "DC3/WPR-008",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WPR-009": {
     "name": "真面目で頑張り屋さん さら",
@@ -159,7 +167,8 @@
         "id": "DC3/WPR-009",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WPR-010": {
     "name": "いつでも笑顔 葵",
@@ -177,7 +186,8 @@
         "id": "DC3/WPR-010",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WPR-021": {
     "name": "自信たっぷり 立夏",
@@ -195,7 +205,8 @@
         "id": "DC3/WPR-021",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WPR-P11": {
     "name": "黒ビキニ 立夏",
@@ -213,7 +224,8 @@
         "id": "DC3/WPR-P11",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WPR-P12": {
     "name": "白ビキニ シャルル",
@@ -231,7 +243,8 @@
         "id": "DC3/WPR-P12",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WPR-P13": {
     "name": "ピンクのフリフリ水着 姫乃",
@@ -249,7 +262,8 @@
         "id": "DC3/WPR-P13",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WPR-P14": {
     "name": "スクール水着 さら",
@@ -267,7 +281,8 @@
         "id": "DC3/WPR-P14",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WPR-P15": {
     "name": "オレンジビキニ 葵",
@@ -285,7 +300,8 @@
         "id": "DC3/WPR-P15",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WPR-P22": {
     "name": "いつもの通学路 姫乃",
@@ -303,7 +319,8 @@
         "id": "DC3/WPR-P22",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WPR-P23": {
     "name": "先輩とお勉強 さら",
@@ -321,7 +338,8 @@
         "id": "DC3/WPR-P23",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WPR-P24": {
     "name": "女の子スキル満載？ 葵",
@@ -339,7 +357,8 @@
         "id": "DC3/WPR-P24",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WPR-P25": {
     "name": "薄紅色の景色 シャルル",
@@ -357,7 +376,8 @@
         "id": "DC3/WPR-P25",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WPR-P26": {
     "name": "ひとつの約束 さくら",
@@ -375,6 +395,7 @@
         "id": "DC3/WPR-P26",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -19,7 +19,8 @@
         "id": "SAO/S71-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-P02": {
     "name": "アイドルデビュー!? アスナ",
@@ -37,7 +38,8 @@
         "id": "SAO/S71-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-P03": {
     "name": "ラグー・ラビットとアスナ",
@@ -55,7 +57,8 @@
         "id": "SAO/S71-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-P04": {
     "name": "身もだえる直葉",
@@ -73,7 +76,8 @@
         "id": "SAO/S71-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-P05": {
     "name": "拡張現実の死闘",
@@ -91,7 +95,8 @@
         "id": "SAO/S71-P05S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-P06": {
     "name": "朝のトレーニング キリト",
@@ -109,7 +114,8 @@
         "id": "SAO/S71-P06S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-101": {
     "name": "SD アリス",
@@ -127,7 +133,8 @@
         "id": "SAO/S71-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-102": {
     "name": "SD アスナ&ユウキ",
@@ -145,7 +152,8 @@
         "id": "SAO/S71-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-103": {
     "name": "SD 直葉&リーファ",
@@ -163,7 +171,8 @@
         "id": "SAO/S71-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-104": {
     "name": "SD キリト&ユイ&アスナ",
@@ -181,6 +190,7 @@
         "id": "SAO/S71-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

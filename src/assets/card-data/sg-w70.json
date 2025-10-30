@@ -19,7 +19,8 @@
         "id": "SG/W70-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-002": {
     "name": "“Alchemic Gold”響",
@@ -41,7 +42,8 @@
         "id": "SG/W70-002SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-003": {
     "name": "緊急参戦 響",
@@ -59,7 +61,8 @@
         "id": "SG/W70-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-004": {
     "name": "呼び戻す声 未来",
@@ -81,7 +84,8 @@
         "id": "SG/W70-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-005": {
     "name": "みんなのアームドギア 響",
@@ -103,7 +107,8 @@
         "id": "SG/W70-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-006": {
     "name": "繋ぐ力 響",
@@ -125,7 +130,8 @@
         "id": "SG/W70-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-007": {
     "name": "二人の時間 響＆未来",
@@ -147,7 +153,8 @@
         "id": "SG/W70-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-008": {
     "name": "それぞれの正義 響",
@@ -165,7 +172,8 @@
         "id": "SG/W70-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-009": {
     "name": "終わりなき闘争 響",
@@ -187,7 +195,8 @@
         "id": "SG/W70-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-010": {
     "name": "錬金術師との対峙 響",
@@ -205,7 +214,8 @@
         "id": "SG/W70-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-011": {
     "name": "差し伸べた手 響",
@@ -223,7 +233,8 @@
         "id": "SG/W70-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-012": {
     "name": "絆のユニゾン 響",
@@ -241,7 +252,8 @@
         "id": "SG/W70-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-013": {
     "name": "統制局長 アダム",
@@ -259,7 +271,8 @@
         "id": "SG/W70-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-014": {
     "name": "課題の約束 未来",
@@ -277,7 +290,8 @@
         "id": "SG/W70-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-015": {
     "name": "再起動 ティキ",
@@ -295,7 +309,8 @@
         "id": "SG/W70-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-016": {
     "name": "神の力 ティキ",
@@ -313,7 +328,8 @@
         "id": "SG/W70-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-017": {
     "name": "真の姿 アダム",
@@ -331,7 +347,8 @@
         "id": "SG/W70-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-018": {
     "name": "ディバインウェポン アダム",
@@ -349,7 +366,8 @@
         "id": "SG/W70-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-019": {
     "name": "神力顕現 ティキ",
@@ -367,7 +385,8 @@
         "id": "SG/W70-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-020": {
     "name": "もうひとりの少女 未来",
@@ -385,7 +404,8 @@
         "id": "SG/W70-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-021": {
     "name": "出撃！ 響",
@@ -403,7 +423,8 @@
         "id": "SG/W70-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-022": {
     "name": "イグナイトモジュール",
@@ -421,7 +442,8 @@
         "id": "SG/W70-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-023": {
     "name": "TESTAMENT",
@@ -443,7 +465,8 @@
         "id": "SG/W70-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-024": {
     "name": "必愛デュオシャウト",
@@ -461,7 +484,8 @@
         "id": "SG/W70-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W70-025": {
     "name": "黄金錬成",
@@ -479,7 +503,8 @@
         "id": "SG/W70-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-026": {
     "name": "想いを束ねて 調",
@@ -501,7 +526,8 @@
         "id": "SG/W70-026SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-027": {
     "name": "二人の時間 調＆切歌",
@@ -523,7 +549,8 @@
         "id": "SG/W70-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-028": {
     "name": "想いを束ねて 切歌",
@@ -545,7 +572,8 @@
         "id": "SG/W70-028SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-029": {
     "name": "終わりなき闘争 切歌",
@@ -567,7 +595,8 @@
         "id": "SG/W70-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-030": {
     "name": "終わりなき闘争 調",
@@ -589,7 +618,8 @@
         "id": "SG/W70-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-031": {
     "name": "新たな戦い 調",
@@ -611,7 +641,8 @@
         "id": "SG/W70-031SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-032": {
     "name": "新たな戦い 切歌",
@@ -633,7 +664,8 @@
         "id": "SG/W70-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-033": {
     "name": "異様な光景 調",
@@ -651,7 +683,8 @@
         "id": "SG/W70-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-034": {
     "name": "無償の想い 調",
@@ -669,7 +702,8 @@
         "id": "SG/W70-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-035": {
     "name": "不退転の覚悟 切歌",
@@ -687,7 +721,8 @@
         "id": "SG/W70-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-036": {
     "name": "不退転の覚悟 調",
@@ -705,7 +740,8 @@
         "id": "SG/W70-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-037": {
     "name": "力の使い方 調",
@@ -723,7 +759,8 @@
         "id": "SG/W70-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-038": {
     "name": "絆のユニゾン 切歌",
@@ -741,7 +778,8 @@
         "id": "SG/W70-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-039": {
     "name": "見回り中 調",
@@ -759,7 +797,8 @@
         "id": "SG/W70-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-040": {
     "name": "受け継がれる伝承 切歌",
@@ -777,7 +816,8 @@
         "id": "SG/W70-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-041": {
     "name": "絆のユニゾン 調",
@@ -795,7 +835,8 @@
         "id": "SG/W70-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-042": {
     "name": "見回り中 切歌",
@@ -813,7 +854,8 @@
         "id": "SG/W70-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-043": {
     "name": "突然の強襲 アルカ・ノイズ",
@@ -831,7 +873,8 @@
         "id": "SG/W70-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-044": {
     "name": "イグナイトモジュール",
@@ -849,7 +892,8 @@
         "id": "SG/W70-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-045": {
     "name": "切・呪りeッTぉ",
@@ -871,7 +915,8 @@
         "id": "SG/W70-045R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-046": {
     "name": "α式百輪廻",
@@ -893,7 +938,8 @@
         "id": "SG/W70-046R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-047": {
     "name": "風月ノ疾双",
@@ -911,7 +957,8 @@
         "id": "SG/W70-047",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W70-048": {
     "name": "想いを束ねて クリス",
@@ -933,7 +980,8 @@
         "id": "SG/W70-048SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-049": {
     "name": "想いを束ねて マリア",
@@ -955,7 +1003,8 @@
         "id": "SG/W70-049SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-050": {
     "name": "新たな戦い クリス",
@@ -977,7 +1026,8 @@
         "id": "SG/W70-050SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-051": {
     "name": "狙い撃ち クリス",
@@ -999,7 +1049,8 @@
         "id": "SG/W70-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-052": {
     "name": "二人の時間 マリア＆翼",
@@ -1021,7 +1072,8 @@
         "id": "SG/W70-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-053": {
     "name": "スイカ割り マリア",
@@ -1043,7 +1095,8 @@
         "id": "SG/W70-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-054": {
     "name": "新たな戦い マリア",
@@ -1065,7 +1118,8 @@
         "id": "SG/W70-054SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-055": {
     "name": "繋ぐ力 クリス",
@@ -1087,7 +1141,8 @@
         "id": "SG/W70-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-056": {
     "name": "終わりなき闘争 クリス",
@@ -1109,7 +1164,8 @@
         "id": "SG/W70-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-057": {
     "name": "ぶっつけ本番 クリス",
@@ -1127,7 +1183,8 @@
         "id": "SG/W70-057",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-058": {
     "name": "終わりなき闘争 マリア",
@@ -1149,7 +1206,8 @@
         "id": "SG/W70-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-059": {
     "name": "絆のユニゾン マリア",
@@ -1167,7 +1225,8 @@
         "id": "SG/W70-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-060": {
     "name": "踏み込むべき一歩 クリス",
@@ -1185,7 +1244,8 @@
         "id": "SG/W70-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-061": {
     "name": "絆のユニゾン クリス",
@@ -1203,7 +1263,8 @@
         "id": "SG/W70-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-062": {
     "name": "不退転の覚悟 マリア",
@@ -1221,7 +1282,8 @@
         "id": "SG/W70-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-063": {
     "name": "厳しさを耐えた先に マリア",
@@ -1239,7 +1301,8 @@
         "id": "SG/W70-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-064": {
     "name": "バースディ・パーティ マリア",
@@ -1257,7 +1320,8 @@
         "id": "SG/W70-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-065": {
     "name": "抜剣封殺 マリア",
@@ -1275,7 +1339,8 @@
         "id": "SG/W70-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-066": {
     "name": "隠しきれない気持ち クリス",
@@ -1293,7 +1358,8 @@
         "id": "SG/W70-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-067": {
     "name": "イグナイトモジュール",
@@ -1311,7 +1377,8 @@
         "id": "SG/W70-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-068": {
     "name": "QUEEN's INFERNO",
@@ -1333,7 +1400,8 @@
         "id": "SG/W70-068R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-069": {
     "name": "HORIZON†CANNON",
@@ -1355,7 +1423,8 @@
         "id": "SG/W70-069R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-070": {
     "name": "Change the Future",
@@ -1373,7 +1442,8 @@
         "id": "SG/W70-070",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W70-071": {
     "name": "想いを束ねて 翼",
@@ -1395,7 +1465,8 @@
         "id": "SG/W70-071SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-072": {
     "name": "新たな戦い 翼",
@@ -1417,7 +1488,8 @@
         "id": "SG/W70-072SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-073": {
     "name": "シンフォギア装者との対峙 カリオストロ",
@@ -1435,7 +1507,8 @@
         "id": "SG/W70-073",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-074": {
     "name": "シンフォギア装者との対峙 プレラーティ",
@@ -1453,7 +1526,8 @@
         "id": "SG/W70-074",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-075": {
     "name": "繋ぐ力 翼",
@@ -1475,7 +1549,8 @@
         "id": "SG/W70-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-076": {
     "name": "スイカ割り 翼",
@@ -1497,7 +1572,8 @@
         "id": "SG/W70-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-077": {
     "name": "終わりなき闘争 翼",
@@ -1519,7 +1595,8 @@
         "id": "SG/W70-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-078": {
     "name": "支配からの解放 サンジェルマン",
@@ -1537,7 +1614,8 @@
         "id": "SG/W70-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-079": {
     "name": "サンジェルマン＆プレラーティ＆カリオストロ",
@@ -1559,7 +1637,8 @@
         "id": "SG/W70-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-080": {
     "name": "シンフォギア装者との対峙 サンジェルマン",
@@ -1577,7 +1656,8 @@
         "id": "SG/W70-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-081": {
     "name": "パヴァリア光明結社 サンジェルマン",
@@ -1595,7 +1675,8 @@
         "id": "SG/W70-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-082": {
     "name": "それぞれの正義 サンジェルマン",
@@ -1613,7 +1694,8 @@
         "id": "SG/W70-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-083": {
     "name": "譲れない胸の張り合い カリオストロ",
@@ -1631,7 +1713,8 @@
         "id": "SG/W70-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-084": {
     "name": "忠告する翼",
@@ -1649,7 +1732,8 @@
         "id": "SG/W70-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-085": {
     "name": "待機中 カリオストロ",
@@ -1667,7 +1751,8 @@
         "id": "SG/W70-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-086": {
     "name": "余裕の表情 カリオストロ",
@@ -1685,7 +1770,8 @@
         "id": "SG/W70-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-087": {
     "name": "バースディ・パーティ 翼",
@@ -1703,7 +1789,8 @@
         "id": "SG/W70-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-088": {
     "name": "S.O.N.G.への情報提供 サンジェルマン",
@@ -1721,7 +1808,8 @@
         "id": "SG/W70-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-089": {
     "name": "LiNKER完成のために エルフナイン",
@@ -1739,7 +1827,8 @@
         "id": "SG/W70-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-090": {
     "name": "余裕の表情 プレラーティ",
@@ -1757,7 +1846,8 @@
         "id": "SG/W70-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-091": {
     "name": "疾駆するプレラーティ",
@@ -1775,7 +1865,8 @@
         "id": "SG/W70-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-092": {
     "name": "パヴァリア光明結社 プレラーティ",
@@ -1793,7 +1884,8 @@
         "id": "SG/W70-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-093": {
     "name": "一網打尽 翼",
@@ -1811,7 +1903,8 @@
         "id": "SG/W70-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-094": {
     "name": "不信感 プレラーティ",
@@ -1829,7 +1922,8 @@
         "id": "SG/W70-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-095": {
     "name": "パヴァリア光明結社 カリオストロ",
@@ -1847,7 +1941,8 @@
         "id": "SG/W70-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-096": {
     "name": "絆のユニゾン 翼",
@@ -1865,7 +1960,8 @@
         "id": "SG/W70-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-097": {
     "name": "最後の歌",
@@ -1883,7 +1979,8 @@
         "id": "SG/W70-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-098": {
     "name": "逆羅刹",
@@ -1905,7 +2002,8 @@
         "id": "SG/W70-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W70-099": {
     "name": "誰かのために",
@@ -1923,7 +2021,8 @@
         "id": "SG/W70-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W70-100": {
     "name": "理想を追い求める者",
@@ -1941,6 +2040,7 @@
         "id": "SG/W70-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -19,7 +19,8 @@
         "id": "BTR/W107-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-T02": {
     "name": "バンドのまとめ役 伊地知虹夏",
@@ -41,7 +42,8 @@
         "id": "BTR/W107-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-T03": {
     "name": "とっておきのアイテム 山田リョウ",
@@ -63,7 +65,8 @@
         "id": "BTR/W107-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-T04": {
     "name": "リードギター 後藤ひとり",
@@ -85,7 +88,8 @@
         "id": "BTR/W107-T04R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-T05": {
     "name": "ベース 山田リョウ",
@@ -107,7 +111,8 @@
         "id": "BTR/W107-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-T06": {
     "name": "オトバナ～ 伊地知虹夏",
@@ -129,7 +134,8 @@
         "id": "BTR/W107-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-T07": {
     "name": "ドラム 伊地知虹夏",
@@ -151,7 +157,8 @@
         "id": "BTR/W107-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-T08": {
     "name": "クールで孤高 山田リョウ",
@@ -173,7 +180,8 @@
         "id": "BTR/W107-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-T09": {
     "name": "山田リョウ",
@@ -195,7 +203,8 @@
         "id": "BTR/W107-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-T10": {
     "name": "バンド名「結束バンド」",
@@ -217,7 +226,8 @@
         "id": "BTR/W107-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-T11": {
     "name": "憧れたバンド活動",
@@ -243,7 +253,8 @@
         "id": "BTR/W107-T11SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-T12": {
     "name": "初めて撮った皆との写真",
@@ -265,7 +276,8 @@
         "id": "BTR/W107-T12R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BTR/W107-T13": {
     "name": "バンド女子？ 後藤ひとり",
@@ -287,7 +299,8 @@
         "id": "BTR/W107-T13R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-T14": {
     "name": "後藤ひとり",
@@ -313,7 +326,8 @@
         "id": "BTR/W107-T14SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-T15": {
     "name": "陽キャ 喜多郁代",
@@ -335,7 +349,8 @@
         "id": "BTR/W107-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-T16": {
     "name": "ギターボーカル 喜多郁代",
@@ -357,7 +372,8 @@
         "id": "BTR/W107-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-T17": {
     "name": "人気者 喜多郁代",
@@ -379,7 +395,8 @@
         "id": "BTR/W107-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BTR/W107-T18": {
     "name": "喜多郁代",
@@ -401,7 +418,8 @@
         "id": "BTR/W107-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-T19": {
     "name": "新しいあだ名 後藤ひとり",
@@ -423,7 +441,8 @@
         "id": "BTR/W107-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BTR/W107-T20": {
     "name": "史上最低のアー写",
@@ -445,6 +464,7 @@
         "id": "BTR/W107-T20R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

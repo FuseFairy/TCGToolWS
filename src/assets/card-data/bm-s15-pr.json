@@ -15,7 +15,8 @@
         "id": "BM/S15-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-107": {
     "name": "体育会系 神原駿河",
@@ -33,7 +34,8 @@
         "id": "BM/S15-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-108": {
     "name": "新種の怪異 ブラック羽川",
@@ -51,7 +53,8 @@
         "id": "BM/S15-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-109": {
     "name": "清らかな服装 戦場ヶ原ひたぎ",
@@ -69,7 +72,8 @@
         "id": "BM/S15-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-110": {
     "name": "ぐるぐる 千石撫子",
@@ -87,7 +91,8 @@
         "id": "BM/S15-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-111": {
     "name": "威嚇する戦場ヶ原ひたぎ",
@@ -105,7 +110,8 @@
         "id": "BM/S15-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-112": {
     "name": "“言葉の針”戦場ヶ原ひたぎ",
@@ -123,7 +129,8 @@
         "id": "BM/S15-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BM/S15-113": {
     "name": "引っ込み思案 千石撫子",
@@ -141,6 +148,7 @@
         "id": "BM/S15-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

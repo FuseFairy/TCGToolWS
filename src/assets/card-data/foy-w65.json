@@ -19,7 +19,8 @@
         "id": "Foy/W65-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Foy/W65-004": {
     "name": "か弱き陰陽師 半兵衛",
@@ -41,7 +42,8 @@
         "id": "Foy/W65-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Foy/W65-009": {
     "name": "ジパングのクイーン 信奈",
@@ -59,7 +61,8 @@
         "id": "Foy/W65-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Foy/W65-010": {
     "name": "乱世の渦中 信奈",
@@ -77,7 +80,8 @@
         "id": "Foy/W65-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Foy/W65-013": {
     "name": "天上天下唯我独尊 政宗",
@@ -95,7 +99,8 @@
         "id": "Foy/W65-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Foy/W65-022": {
     "name": "野望を叶える者",
@@ -117,6 +122,7 @@
         "id": "Foy/W65-022R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

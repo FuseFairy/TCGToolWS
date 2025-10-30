@@ -15,7 +15,8 @@
         "id": "STG/S60-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "STG/S60-T02": {
     "name": "“ネコミミメイド”牧瀬 紅莉栖",
@@ -37,7 +38,8 @@
         "id": "STG/S60-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "STG/S60-T03": {
     "name": "“ラボメンNo.008”阿万音 鈴羽",
@@ -55,7 +57,8 @@
         "id": "STG/S60-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "STG/S60-T04": {
     "name": "“ラボメンNo.004”牧瀬 紅莉栖",
@@ -77,7 +80,8 @@
         "id": "STG/S60-T04S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "STG/S60-T05": {
     "name": "“ラボメンNo.001”岡部 倫太郎",
@@ -99,7 +103,8 @@
         "id": "STG/S60-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "STG/S60-T06": {
     "name": "“抗える者たち”岡部 倫太郎",
@@ -117,7 +122,8 @@
         "id": "STG/S60-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "STG/S60-T07": {
     "name": "“抗える者たち”牧瀬 紅莉栖",
@@ -135,7 +141,8 @@
         "id": "STG/S60-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "STG/S60-T08": {
     "name": "“ラボメンNo.005” 桐生 萌郁",
@@ -153,7 +160,8 @@
         "id": "STG/S60-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "STG/S60-T09": {
     "name": "“ラボメンNo.007”フェイリス・ニャンニャン",
@@ -171,7 +179,8 @@
         "id": "STG/S60-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "STG/S60-T10": {
     "name": "“美しき天才少女”牧瀬 紅莉栖",
@@ -193,7 +202,8 @@
         "id": "STG/S60-T10SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "STG/S60-T11": {
     "name": "エル・プサイ・コングルゥ",
@@ -211,7 +221,8 @@
         "id": "STG/S60-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "STG/S60-T12": {
     "name": "存在と時間",
@@ -229,7 +240,8 @@
         "id": "STG/S60-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "STG/S60-T13": {
     "name": "“抗える者たち”椎名 まゆり",
@@ -247,7 +259,8 @@
         "id": "STG/S60-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "STG/S60-T14": {
     "name": "“癒やしの天然少女”椎名 まゆり",
@@ -269,7 +282,8 @@
         "id": "STG/S60-T14SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "STG/S60-T15": {
     "name": "“ラボメンNo.006”漆原 るか",
@@ -287,7 +301,8 @@
         "id": "STG/S60-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "STG/S60-T16": {
     "name": "“選ばれし者の知的飲料”椎名 まゆり",
@@ -305,7 +320,8 @@
         "id": "STG/S60-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "STG/S60-T17": {
     "name": "“ネコミミメイド”椎名 まゆり",
@@ -327,7 +343,8 @@
         "id": "STG/S60-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "STG/S60-T18": {
     "name": "“ラボメンNo.002”椎名 まゆり",
@@ -349,7 +366,8 @@
         "id": "STG/S60-T18S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "STG/S60-T19": {
     "name": "メタルうーぱ",
@@ -371,7 +389,8 @@
         "id": "STG/S60-T19b",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "STG/S60-T20": {
     "name": "存在の証明",
@@ -389,6 +408,7 @@
         "id": "STG/S60-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

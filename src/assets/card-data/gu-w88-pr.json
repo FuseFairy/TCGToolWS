@@ -15,7 +15,8 @@
         "id": "GU/W88-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W88-P02": {
     "name": "Thank You, BLOOM！ 千夜",
@@ -33,7 +34,8 @@
         "id": "GU/W88-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W88-P03": {
     "name": "Thank You, BLOOM！ ココア",
@@ -51,7 +53,8 @@
         "id": "GU/W88-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W88-P04": {
     "name": "Thank You, BLOOM！ リゼ",
@@ -69,7 +72,8 @@
         "id": "GU/W88-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W88-P05": {
     "name": "Thank You, BLOOM！ モカ",
@@ -87,7 +91,8 @@
         "id": "GU/W88-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W88-P06": {
     "name": "Thank You, BLOOM！ チノ",
@@ -105,7 +110,8 @@
         "id": "GU/W88-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W88-P07": {
     "name": "Thank You, BLOOM！ マヤ",
@@ -123,7 +129,8 @@
         "id": "GU/W88-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W88-P08": {
     "name": "Thank You, BLOOM！ メグ",
@@ -141,7 +148,8 @@
         "id": "GU/W88-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W88-P09": {
     "name": "Thank You, BLOOM！ 青山ブルーマウンテン",
@@ -159,7 +167,8 @@
         "id": "GU/W88-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W88-P10": {
     "name": "Thank You, BLOOM！ 真手凛",
@@ -177,7 +186,8 @@
         "id": "GU/W88-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W88-P11": {
     "name": "“遊びに行こうよ” チノ＆ココア＆シャロ",
@@ -199,7 +209,8 @@
         "id": "GU/W88-P11S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W88-P12": {
     "name": "“ラビットハウスの歌姫” チノ＆サキ",
@@ -217,7 +228,8 @@
         "id": "GU/W88-P12",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W88-P13": {
     "name": "“イースターバニー” ココア＆チノ",
@@ -235,7 +247,8 @@
         "id": "GU/W88-P13",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W88-P14": {
     "name": "“ブレイクタイム” 千夜＆シャロ",
@@ -253,7 +266,8 @@
         "id": "GU/W88-P14S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W88-P15": {
     "name": "“ブレイクタイム” リゼ＆ココア",
@@ -271,7 +285,8 @@
         "id": "GU/W88-P15S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W88-P16": {
     "name": "いっしょに行こう ココア",
@@ -289,7 +304,8 @@
         "id": "GU/W88-P16S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W88-P17": {
     "name": "“ブレイクタイム” 真手凛＆チノ＆青山ブルーマウンテン",
@@ -307,7 +323,8 @@
         "id": "GU/W88-P17S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W88-111": {
     "name": "“飲みたい気分” シャロ",
@@ -325,7 +342,8 @@
         "id": "GU/W88-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W88-112": {
     "name": "“凛々しく” 千夜",
@@ -343,7 +361,8 @@
         "id": "GU/W88-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W88-113": {
     "name": "“10年後にはナイスバディ” ココア",
@@ -361,7 +380,8 @@
         "id": "GU/W88-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W88-114": {
     "name": "“お目覚めのCQC” リゼ",
@@ -379,7 +399,8 @@
         "id": "GU/W88-114",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W88-115": {
     "name": "“おねだり上手” チノ",
@@ -397,6 +418,7 @@
         "id": "GU/W88-115",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -19,7 +19,8 @@
         "id": "LL/W68-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-002": {
     "name": "“心からのメッセージ”矢澤 にこ",
@@ -41,7 +42,8 @@
         "id": "LL/W68-002SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-003": {
     "name": "“あなたにテレパシー”東條 希",
@@ -63,7 +65,8 @@
         "id": "LL/W68-003SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-004": {
     "name": "“モンスターと狩人”絢瀬 絵里",
@@ -85,7 +88,8 @@
         "id": "LL/W68-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-005": {
     "name": "“サプライズ希望☆”東條 希",
@@ -107,7 +111,8 @@
         "id": "LL/W68-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-006": {
     "name": "“陰の努力”矢澤 にこ",
@@ -129,7 +134,8 @@
         "id": "LL/W68-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-007": {
     "name": "“迎えに行くからね”東條 希",
@@ -151,7 +157,8 @@
         "id": "LL/W68-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-008": {
     "name": "“占わなくても”東條 希",
@@ -173,7 +180,8 @@
         "id": "LL/W68-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-009": {
     "name": "“会場案内☆”絢瀬 絵里",
@@ -195,7 +203,8 @@
         "id": "LL/W68-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-010": {
     "name": "“憧れの……！”矢澤 にこ",
@@ -217,7 +226,8 @@
         "id": "LL/W68-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-011": {
     "name": "“μ's海賊物語”絢瀬 絵里",
@@ -239,7 +249,8 @@
         "id": "LL/W68-011SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-012": {
     "name": "“スペクタクルな仕掛け”矢澤 にこ",
@@ -261,7 +272,8 @@
         "id": "LL/W68-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-013": {
     "name": "“ハートの女王”絢瀬 絵里",
@@ -283,7 +295,8 @@
         "id": "LL/W68-013A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-014": {
     "name": "“優雅な時間”絢瀬 絵里",
@@ -305,7 +318,8 @@
         "id": "LL/W68-014A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-015": {
     "name": "“希のセット☆”東條 希",
@@ -327,7 +341,8 @@
         "id": "LL/W68-015A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-016": {
     "name": "“ターゲットはキミ♪”絢瀬 絵里",
@@ -349,7 +364,8 @@
         "id": "LL/W68-016A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-017": {
     "name": "“にこのマジックショー”矢澤 にこ",
@@ -371,7 +387,8 @@
         "id": "LL/W68-017A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-018": {
     "name": "“納得できる役は”矢澤 にこ",
@@ -393,7 +410,8 @@
         "id": "LL/W68-018A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-019": {
     "name": "“新しいμ'sの力”真姫＆にこ＆絵里",
@@ -415,7 +433,8 @@
         "id": "LL/W68-019A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-020": {
     "name": "“魔導師のぞみん”東條 希",
@@ -437,7 +456,8 @@
         "id": "LL/W68-020A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-021": {
     "name": "“美しい花”矢澤 にこ",
@@ -459,7 +479,8 @@
         "id": "LL/W68-021A",
         "rarity": "CA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-022": {
     "name": "“手品です！”東條 希",
@@ -481,7 +502,8 @@
         "id": "LL/W68-022A",
         "rarity": "CA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-023": {
     "name": "“素敵なシルクハット”絢瀬 絵里",
@@ -503,7 +525,8 @@
         "id": "LL/W68-023A",
         "rarity": "CA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-024": {
     "name": "“突撃☆希海賊”東條 希",
@@ -525,7 +548,8 @@
         "id": "LL/W68-024A",
         "rarity": "CA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-025": {
     "name": "“ふさわしい姿”矢澤 にこ",
@@ -547,7 +571,8 @@
         "id": "LL/W68-025A",
         "rarity": "CA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-026": {
     "name": "“にこの役は”矢澤 にこ",
@@ -569,7 +594,8 @@
         "id": "LL/W68-026A",
         "rarity": "CA"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-027": {
     "name": "“あったかいでしょ”絢瀬 絵里",
@@ -591,7 +617,8 @@
         "id": "LL/W68-027A",
         "rarity": "CA"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-028": {
     "name": "“あなたの守護星”東條 希",
@@ -613,7 +640,8 @@
         "id": "LL/W68-028A",
         "rarity": "CA"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-029": {
     "name": "素直な本音",
@@ -635,7 +663,8 @@
         "id": "LL/W68-029A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-030": {
     "name": "パワフルなステージ",
@@ -657,7 +686,8 @@
         "id": "LL/W68-030R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-031": {
     "name": "伝えたい言葉",
@@ -679,7 +709,8 @@
         "id": "LL/W68-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-032": {
     "name": "心通わせて",
@@ -701,7 +732,8 @@
         "id": "LL/W68-032R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-033": {
     "name": "笑顔を届けて",
@@ -723,7 +755,8 @@
         "id": "LL/W68-033R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LL/W68-034": {
     "name": "“満天星空”高坂 穂乃果",
@@ -745,7 +778,8 @@
         "id": "LL/W68-034SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-035": {
     "name": "“あなたに届け”南 ことり",
@@ -767,7 +801,8 @@
         "id": "LL/W68-035SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-036": {
     "name": "“高まる気持ち”園田 海未",
@@ -789,7 +824,8 @@
         "id": "LL/W68-036SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-037": {
     "name": "“伝えたい気持ち”高坂 穂乃果",
@@ -811,7 +847,8 @@
         "id": "LL/W68-037SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-038": {
     "name": "“清楚なイメージ”園田 海未",
@@ -833,7 +870,8 @@
         "id": "LL/W68-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-039": {
     "name": "“衣装のおかげです”園田 海未",
@@ -855,7 +893,8 @@
         "id": "LL/W68-039SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-040": {
     "name": "“獣使い☆ことり”南 ことり",
@@ -877,7 +916,8 @@
         "id": "LL/W68-040SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-041": {
     "name": "“あなたのことだけ”高坂 穂乃果",
@@ -899,7 +939,8 @@
         "id": "LL/W68-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-042": {
     "name": "“幸せのおすそわけ”南 ことり",
@@ -921,7 +962,8 @@
         "id": "LL/W68-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-043": {
     "name": "“間違えないで～！”南 ことり",
@@ -943,7 +985,8 @@
         "id": "LL/W68-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-044": {
     "name": "“あなたの分も☆”高坂 穂乃果",
@@ -965,7 +1008,8 @@
         "id": "LL/W68-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-045": {
     "name": "“９人のアリス！？”園田 海未",
@@ -987,7 +1031,8 @@
         "id": "LL/W68-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-046": {
     "name": "“三人のステージ”花陽＆穂乃果＆ことり",
@@ -1009,7 +1054,8 @@
         "id": "LL/W68-046A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-047": {
     "name": "“早口言葉もまかせて！”高坂 穂乃果",
@@ -1031,7 +1077,8 @@
         "id": "LL/W68-047A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-048": {
     "name": "“わくわく手品”園田 海未",
@@ -1053,7 +1100,8 @@
         "id": "LL/W68-048A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-049": {
     "name": "“シスター体験”園田 海未",
@@ -1075,7 +1123,8 @@
         "id": "LL/W68-049A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-050": {
     "name": "“期待に応えたい！”園田 海未",
@@ -1097,7 +1146,8 @@
         "id": "LL/W68-050A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-051": {
     "name": "“必要な小道具”南 ことり",
@@ -1119,7 +1169,8 @@
         "id": "LL/W68-051A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-052": {
     "name": "“ステキな空の旅へ”高坂 穂乃果",
@@ -1141,7 +1192,8 @@
         "id": "LL/W68-052A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-053": {
     "name": "“捕まえちゃいます♪”南 ことり",
@@ -1163,7 +1215,8 @@
         "id": "LL/W68-053A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-054": {
     "name": "“マジシャンことり”南 ことり",
@@ -1185,7 +1238,8 @@
         "id": "LL/W68-054A",
         "rarity": "CA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-055": {
     "name": "“おまんじゅうも合う？”高坂 穂乃果",
@@ -1207,7 +1261,8 @@
         "id": "LL/W68-055A",
         "rarity": "CA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-056": {
     "name": "“μ'sセット☆”園田 海未",
@@ -1229,7 +1284,8 @@
         "id": "LL/W68-056A",
         "rarity": "CA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-057": {
     "name": "“うさぎの行方”南 ことり",
@@ -1251,7 +1307,8 @@
         "id": "LL/W68-057A",
         "rarity": "CA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-058": {
     "name": "“お姫さまより……”園田 海未",
@@ -1273,7 +1330,8 @@
         "id": "LL/W68-058A",
         "rarity": "CA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-059": {
     "name": "“ことりセットは”南 ことり",
@@ -1295,7 +1353,8 @@
         "id": "LL/W68-059A",
         "rarity": "CA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-060": {
     "name": "“海賊団の冒険譚”高坂 穂乃果",
@@ -1317,7 +1376,8 @@
         "id": "LL/W68-060A",
         "rarity": "CA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-061": {
     "name": "“剣士になったよ☆”高坂 穂乃果",
@@ -1339,7 +1399,8 @@
         "id": "LL/W68-061A",
         "rarity": "CA"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-062": {
     "name": "スクールアイドルとして",
@@ -1361,7 +1422,8 @@
         "id": "LL/W68-062A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-063": {
     "name": "“6周年おめでとう！”μ's",
@@ -1383,7 +1445,8 @@
         "id": "LL/W68-063A",
         "rarity": "CA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-064": {
     "name": "あなたへの感謝",
@@ -1405,7 +1468,8 @@
         "id": "LL/W68-064R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LL/W68-065": {
     "name": "ウキウキわくわくのステージ",
@@ -1427,7 +1491,8 @@
         "id": "LL/W68-065R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-066": {
     "name": "優しく見つめて",
@@ -1449,7 +1514,8 @@
         "id": "LL/W68-066R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-067": {
     "name": "いつも全力で",
@@ -1471,7 +1537,8 @@
         "id": "LL/W68-067R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-068": {
     "name": "“あなたを応援”星空 凛",
@@ -1493,7 +1560,8 @@
         "id": "LL/W68-068SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-069": {
     "name": "“時には素直に”西木野 真姫",
@@ -1515,7 +1583,8 @@
         "id": "LL/W68-069SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-070": {
     "name": "“披露しちゃいます♪”小泉 花陽",
@@ -1537,7 +1606,8 @@
         "id": "LL/W68-070SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-071": {
     "name": "“２人でなら”西木野 真姫",
@@ -1559,7 +1629,8 @@
         "id": "LL/W68-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-072": {
     "name": "“ポーカーフェイスで！”小泉 花陽",
@@ -1581,7 +1652,8 @@
         "id": "LL/W68-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-073": {
     "name": "“舞台挨拶ぅぅ！？”小泉 花陽",
@@ -1603,7 +1675,8 @@
         "id": "LL/W68-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-074": {
     "name": "“いっつも一緒♪”西木野 真姫",
@@ -1625,7 +1698,8 @@
         "id": "LL/W68-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-075": {
     "name": "“星空は特別☆”星空 凛",
@@ -1647,7 +1721,8 @@
         "id": "LL/W68-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-076": {
     "name": "“ことりのためにも”西木野 真姫",
@@ -1669,7 +1744,8 @@
         "id": "LL/W68-076SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-077": {
     "name": "“おにぎりはお菓子？”小泉 花陽",
@@ -1691,7 +1767,8 @@
         "id": "LL/W68-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-078": {
     "name": "“いつものクセで”星空 凛",
@@ -1713,7 +1790,8 @@
         "id": "LL/W68-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-079": {
     "name": "“凛の悩み”星空 凛",
@@ -1735,7 +1813,8 @@
         "id": "LL/W68-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-080": {
     "name": "“ご案内しますっ”小泉 花陽",
@@ -1757,7 +1836,8 @@
         "id": "LL/W68-080A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-081": {
     "name": "“ウチら三人のステージ”海未＆希＆凛",
@@ -1779,7 +1859,8 @@
         "id": "LL/W68-081A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-082": {
     "name": "“凛のマジックショー”星空 凛",
@@ -1801,7 +1882,8 @@
         "id": "LL/W68-082A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-083": {
     "name": "“真姫のお気に入り”西木野 真姫",
@@ -1823,7 +1905,8 @@
         "id": "LL/W68-083A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-084": {
     "name": "“結束力アップ☆”西木野 真姫",
@@ -1845,7 +1928,8 @@
         "id": "LL/W68-084A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-085": {
     "name": "“少しだけの息抜き”星空 凛",
@@ -1867,7 +1951,8 @@
         "id": "LL/W68-085A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-086": {
     "name": "“私にできること”小泉 花陽",
@@ -1889,7 +1974,8 @@
         "id": "LL/W68-086A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-087": {
     "name": "“本格的な劇には”西木野 真姫",
@@ -1911,7 +1997,8 @@
         "id": "LL/W68-087A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-088": {
     "name": "“おでこコッツン”星空 凛",
@@ -1933,7 +2020,8 @@
         "id": "LL/W68-088A",
         "rarity": "CA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-089": {
     "name": "“あなたのためだけに”星空 凛",
@@ -1955,7 +2043,8 @@
         "id": "LL/W68-089A",
         "rarity": "CA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-090": {
     "name": "“あなたの旅をサポート”西木野 真姫",
@@ -1977,7 +2066,8 @@
         "id": "LL/W68-090A",
         "rarity": "CA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-091": {
     "name": "“単純ね”西木野 真姫",
@@ -1999,7 +2089,8 @@
         "id": "LL/W68-091A",
         "rarity": "CA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-092": {
     "name": "“飛行機雲”小泉 花陽",
@@ -2021,7 +2112,8 @@
         "id": "LL/W68-092A",
         "rarity": "CA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-093": {
     "name": "“神官の役割”小泉 花陽",
@@ -2043,7 +2135,8 @@
         "id": "LL/W68-093A",
         "rarity": "CA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-094": {
     "name": "“華麗に登場”星空 凛",
@@ -2065,7 +2158,8 @@
         "id": "LL/W68-094A",
         "rarity": "CA"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-095": {
     "name": "“星と同じ輝き”小泉 花陽",
@@ -2087,7 +2181,8 @@
         "id": "LL/W68-095A",
         "rarity": "CA"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-096": {
     "name": "改めて見てみると",
@@ -2109,7 +2204,8 @@
         "id": "LL/W68-096A",
         "rarity": "UA"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-097": {
     "name": "リラックスして楽しいステージ",
@@ -2131,7 +2227,8 @@
         "id": "LL/W68-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-098": {
     "name": "凛の絶好調",
@@ -2153,7 +2250,8 @@
         "id": "LL/W68-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LL/W68-099": {
     "name": "あなたに贈りたい曲",
@@ -2175,7 +2273,8 @@
         "id": "LL/W68-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-100": {
     "name": "晴れの衣装",
@@ -2197,6 +2296,7 @@
         "id": "LL/W68-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

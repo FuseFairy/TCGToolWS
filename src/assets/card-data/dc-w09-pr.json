@@ -15,7 +15,8 @@
         "id": "DC/W09-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W09-107": {
     "name": "意地っ張り由夢",
@@ -33,7 +34,8 @@
         "id": "DC/W09-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W09-108": {
     "name": "由夢＆はりまお",
@@ -51,7 +53,8 @@
         "id": "DC/W09-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W09-109": {
     "name": "朝倉家 由夢＆由姫＆音姫",
@@ -69,7 +72,8 @@
         "id": "DC/W09-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W09-110": {
     "name": "仲良し姉妹 由夢＆音姫",
@@ -87,7 +91,8 @@
         "id": "DC/W09-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W09-111": {
     "name": "にゃむ先輩",
@@ -105,7 +110,8 @@
         "id": "DC/W09-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W09-112": {
     "name": "気配り上手な奥さん ことり",
@@ -123,6 +129,7 @@
         "id": "DC/W09-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "FZ/SE13-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/SE13-02": {
     "name": "鋼色の疾風 セイバー",
@@ -33,7 +34,8 @@
         "id": "FZ/SE13-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/SE13-03": {
     "name": "“器の護り手”アイリスフィール",
@@ -51,7 +53,8 @@
         "id": "FZ/SE13-03",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/SE13-04": {
     "name": "女兵士 舞弥",
@@ -69,7 +72,8 @@
         "id": "FZ/SE13-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/SE13-05": {
     "name": "アインツベルンの切り札 切嗣",
@@ -87,7 +91,8 @@
         "id": "FZ/SE13-05",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/SE13-06": {
     "name": "英霊の少女 セイバー",
@@ -105,7 +110,8 @@
         "id": "FZ/SE13-06",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/SE13-07": {
     "name": "高貴な宝石 アイリスフィール",
@@ -123,7 +129,8 @@
         "id": "FZ/SE13-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/SE13-08": {
     "name": "冷酷非情の猟犬 切嗣",
@@ -141,7 +148,8 @@
         "id": "FZ/SE13-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/SE13-09": {
     "name": "風王鉄槌",
@@ -159,7 +167,8 @@
         "id": "FZ/SE13-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/SE13-10": {
     "name": "二本の魔槍 ランサー",
@@ -177,7 +186,8 @@
         "id": "FZ/SE13-10",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/SE13-11": {
     "name": "呪いの黄槍 ランサー",
@@ -195,7 +205,8 @@
         "id": "FZ/SE13-11",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/SE13-12": {
     "name": "伝説の征服王 ライダー",
@@ -213,7 +224,8 @@
         "id": "FZ/SE13-12",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/SE13-13": {
     "name": "世界征服の野望 ライダー",
@@ -231,7 +243,8 @@
         "id": "FZ/SE13-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/SE13-14": {
     "name": "生まれついての貴族 ケイネス",
@@ -249,7 +262,8 @@
         "id": "FZ/SE13-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/SE13-15": {
     "name": "“月霊髄液”ケイネス",
@@ -267,7 +281,8 @@
         "id": "FZ/SE13-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/SE13-16": {
     "name": "自称天才魔術師 ウェイバー",
@@ -285,7 +300,8 @@
         "id": "FZ/SE13-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/SE13-17": {
     "name": "我が王道 ライダー",
@@ -303,7 +319,8 @@
         "id": "FZ/SE13-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/SE13-18": {
     "name": "聖杯問答",
@@ -321,7 +338,8 @@
         "id": "FZ/SE13-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/SE13-19": {
     "name": "必滅の黄薔薇",
@@ -339,7 +357,8 @@
         "id": "FZ/SE13-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FZ/SE13-20": {
     "name": "葛藤を抱える神父 綺礼",
@@ -357,7 +376,8 @@
         "id": "FZ/SE13-20",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/SE13-21": {
     "name": "聖堂教会の求道者 綺礼",
@@ -375,7 +395,8 @@
         "id": "FZ/SE13-21",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/SE13-22": {
     "name": "龍之介の師 キャスター",
@@ -393,7 +414,8 @@
         "id": "FZ/SE13-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/SE13-23": {
     "name": "“アーティスト”龍之介",
@@ -411,7 +433,8 @@
         "id": "FZ/SE13-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/SE13-24": {
     "name": "“妄想幻像”アサシン",
@@ -429,7 +452,8 @@
         "id": "FZ/SE13-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FZ/SE13-25": {
     "name": "言峰 璃正",
@@ -447,7 +471,8 @@
         "id": "FZ/SE13-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/SE13-26": {
     "name": "“妄想幻像”アサシン",
@@ -465,7 +490,8 @@
         "id": "FZ/SE13-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FZ/SE13-27": {
     "name": "雨生 龍之介",
@@ -483,6 +509,7 @@
         "id": "FZ/SE13-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

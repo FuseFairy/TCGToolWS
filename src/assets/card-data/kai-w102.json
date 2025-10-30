@@ -19,7 +19,8 @@
         "id": "Kai/W102-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kai/W102-077": {
     "name": "最後の夏やすみ 観鈴",
@@ -41,7 +42,8 @@
         "id": "Kai/W102-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kai/W102-083": {
     "name": "旅路の終着点 往人",
@@ -63,7 +65,8 @@
         "id": "Kai/W102-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kai/W102-084": {
     "name": "どこまでも続く夏の空 観鈴",
@@ -85,7 +88,8 @@
         "id": "Kai/W102-084SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kai/W102-085": {
     "name": "儚い夢の中 美凪",
@@ -107,7 +111,8 @@
         "id": "Kai/W102-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kai/W102-086": {
     "name": "国崎最高！ 往人",
@@ -125,7 +130,8 @@
         "id": "Kai/W102-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kai/W102-087": {
     "name": "家族の意味 晴子",
@@ -147,7 +153,8 @@
         "id": "Kai/W102-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kai/W102-091": {
     "name": "秘めた願い 佳乃",
@@ -169,7 +176,8 @@
         "id": "Kai/W102-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kai/W102-094": {
     "name": "夏の風物詩 みちる",
@@ -187,7 +195,8 @@
         "id": "Kai/W102-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kai/W102-097": {
     "name": "出会うはずのなかった二人 神奈＆観鈴",
@@ -205,7 +214,8 @@
         "id": "Kai/W102-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kai/W102-098": {
     "name": "封印されし魔法使い 佳乃",
@@ -223,7 +233,8 @@
         "id": "Kai/W102-098",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kai/W102-101": {
     "name": "袖下のお米券 美凪",
@@ -241,7 +252,8 @@
         "id": "Kai/W102-101",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kai/W102-103": {
     "name": "人形劇",
@@ -259,7 +271,8 @@
         "id": "Kai/W102-103",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kai/W102-104": {
     "name": "たどりついた幸せ",
@@ -285,7 +298,8 @@
         "id": "Kai/W102-104R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kai/W102-106": {
     "name": "もう一度そばに",
@@ -307,6 +321,7 @@
         "id": "Kai/W102-106R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

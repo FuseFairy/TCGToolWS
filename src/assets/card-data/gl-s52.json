@@ -19,7 +19,8 @@
         "id": "GL/S52-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-002": {
     "name": "カミナ",
@@ -45,7 +46,8 @@
         "id": "GL/S52-002SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-003": {
     "name": "ヨーコ",
@@ -71,7 +73,8 @@
         "id": "GL/S52-003SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-004": {
     "name": "行ってくるぜ！野郎ども！ キタン",
@@ -93,7 +96,8 @@
         "id": "GL/S52-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-005": {
     "name": "超銀河大グレン団 ヨーコ",
@@ -115,7 +119,8 @@
         "id": "GL/S52-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-006": {
     "name": "キッド＆アイラック",
@@ -133,7 +138,8 @@
         "id": "GL/S52-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-007": {
     "name": "キングキタン",
@@ -155,7 +161,8 @@
         "id": "GL/S52-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-008": {
     "name": "生活感溢れる剣豪 マッケン",
@@ -173,7 +180,8 @@
         "id": "GL/S52-008",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-009": {
     "name": "狙撃手 ヨーコ",
@@ -191,7 +199,8 @@
         "id": "GL/S52-009",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-010": {
     "name": "ゾーシィ",
@@ -209,7 +218,8 @@
         "id": "GL/S52-010",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-011": {
     "name": "科学局長官 リーロン",
@@ -227,7 +237,8 @@
         "id": "GL/S52-011",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-012": {
     "name": "補佐官秘書 キノン",
@@ -245,7 +256,8 @@
         "id": "GL/S52-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-013": {
     "name": "アーテンボロー",
@@ -263,7 +275,8 @@
         "id": "GL/S52-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-014": {
     "name": "アダイ村からの旅立ち ロシウ",
@@ -281,7 +294,8 @@
         "id": "GL/S52-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-015": {
     "name": "お前が迷ったら カミナ",
@@ -299,7 +313,8 @@
         "id": "GL/S52-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-016": {
     "name": "ジョーガン＆バリンボー",
@@ -317,7 +332,8 @@
         "id": "GL/S52-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-017": {
     "name": "艦長 ダヤッカ",
@@ -335,7 +351,8 @@
         "id": "GL/S52-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-018": {
     "name": "無理を通して道理を蹴っ飛ばす！ カミナ",
@@ -353,7 +370,8 @@
         "id": "GL/S52-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-019": {
     "name": "特別授業 ヨマコ",
@@ -371,7 +389,8 @@
         "id": "GL/S52-019",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-020": {
     "name": "黒の兄妹 キノン&キヨウ&キヤル",
@@ -389,7 +408,8 @@
         "id": "GL/S52-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-021": {
     "name": "返事が気になる～！ キヤル&キヨウ",
@@ -407,7 +427,8 @@
         "id": "GL/S52-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-022": {
     "name": "ヨマコの教え子 マオシャ＆ナキム",
@@ -425,7 +446,8 @@
         "id": "GL/S52-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-023": {
     "name": "乙女心 リーロン",
@@ -443,7 +465,8 @@
         "id": "GL/S52-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-024": {
     "name": "新政府新総司令 ロシウ",
@@ -461,7 +484,8 @@
         "id": "GL/S52-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-025": {
     "name": "頼れるメカニック レイテ",
@@ -479,7 +503,8 @@
         "id": "GL/S52-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-026": {
     "name": "漢は気合！ カミナ",
@@ -497,7 +522,8 @@
         "id": "GL/S52-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-027": {
     "name": "黒の兄妹 キタン",
@@ -515,7 +541,8 @@
         "id": "GL/S52-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-028": {
     "name": "新任教師 ヨマコ",
@@ -533,7 +560,8 @@
         "id": "GL/S52-028",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-029": {
     "name": "大グレン団の旗",
@@ -551,7 +579,8 @@
         "id": "GL/S52-029",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-030": {
     "name": "あばよダチ公",
@@ -573,7 +602,8 @@
         "id": "GL/S52-030R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-031": {
     "name": "大切な子供達のために",
@@ -591,7 +621,8 @@
         "id": "GL/S52-031",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GL/S52-032": {
     "name": "これが螺旋の力かよ…",
@@ -613,7 +644,8 @@
         "id": "GL/S52-032R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-033": {
     "name": "ニア",
@@ -639,7 +671,8 @@
         "id": "GL/S52-033SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-034": {
     "name": "獣人 ヴィラル",
@@ -661,7 +694,8 @@
         "id": "GL/S52-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-035": {
     "name": "人間掃討軍極東方面部隊長 ヴィラル",
@@ -679,7 +713,8 @@
         "id": "GL/S52-035",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-036": {
     "name": "大グレン団調理主任 ニア",
@@ -701,7 +736,8 @@
         "id": "GL/S52-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-037": {
     "name": "螺旋王四天王 神速のシトマンドラ",
@@ -719,7 +755,8 @@
         "id": "GL/S52-037",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-038": {
     "name": "信じる心 ニア",
@@ -741,7 +778,8 @@
         "id": "GL/S52-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-039": {
     "name": "ラゼンガン",
@@ -759,7 +797,8 @@
         "id": "GL/S52-039",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-040": {
     "name": "螺旋王 ロージェノム",
@@ -777,7 +816,8 @@
         "id": "GL/S52-040",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-041": {
     "name": "神出鬼没 ココ爺",
@@ -795,7 +835,8 @@
         "id": "GL/S52-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-042": {
     "name": "私の気持ち ニア",
@@ -813,7 +854,8 @@
         "id": "GL/S52-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-043": {
     "name": "テッペリンの主 ロージェノム",
@@ -831,7 +873,8 @@
         "id": "GL/S52-043",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-044": {
     "name": "因縁の対決 エンキドゥ",
@@ -849,7 +892,8 @@
         "id": "GL/S52-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-045": {
     "name": "移動要塞型ガンメン・ダイガンザン",
@@ -867,7 +911,8 @@
         "id": "GL/S52-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-046": {
     "name": "かつてのライバルの特等席 ヴィラル",
@@ -885,7 +930,8 @@
         "id": "GL/S52-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-047": {
     "name": "初めての水着 ニア",
@@ -903,7 +949,8 @@
         "id": "GL/S52-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-048": {
     "name": "螺旋王四天王 怒涛のチミルフ",
@@ -921,7 +968,8 @@
         "id": "GL/S52-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-049": {
     "name": "顔二つ エンキ",
@@ -939,7 +987,8 @@
         "id": "GL/S52-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-050": {
     "name": "生体コンピュータ ロージェノム・ヘッド",
@@ -957,7 +1006,8 @@
         "id": "GL/S52-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-051": {
     "name": "謎の巨大メカ ガンメン",
@@ -975,7 +1025,8 @@
         "id": "GL/S52-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-052": {
     "name": "螺旋王四天王 流麗のアディーネ",
@@ -993,7 +1044,8 @@
         "id": "GL/S52-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-053": {
     "name": "立ちはだかるヴィラル",
@@ -1011,7 +1063,8 @@
         "id": "GL/S52-053",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-054": {
     "name": "螺旋王四天王 不動のグアーム",
@@ -1029,7 +1082,8 @@
         "id": "GL/S52-054",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-055": {
     "name": "螺旋エネルギー",
@@ -1047,7 +1101,8 @@
         "id": "GL/S52-055",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-056": {
     "name": "それを…待っていた！！",
@@ -1065,7 +1120,8 @@
         "id": "GL/S52-056",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-057": {
     "name": "宿命合体グレンラガン",
@@ -1083,7 +1139,8 @@
         "id": "GL/S52-057",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-058": {
     "name": "今度こそ終わりだ…",
@@ -1101,7 +1158,8 @@
         "id": "GL/S52-058",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GL/S52-059": {
     "name": "獣人を統べる者",
@@ -1119,7 +1177,8 @@
         "id": "GL/S52-059",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-060": {
     "name": "愛する女を救うため シモン",
@@ -1141,7 +1200,8 @@
         "id": "GL/S52-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-061": {
     "name": "グレンラガン ダブルブーメランスパイラル",
@@ -1163,7 +1223,8 @@
         "id": "GL/S52-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-062": {
     "name": "大グレン団リーダー シモン",
@@ -1189,7 +1250,8 @@
         "id": "GL/S52-062SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-063": {
     "name": "天元突破グレンラガン",
@@ -1211,7 +1273,8 @@
         "id": "GL/S52-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-064": {
     "name": "立派な大グレン団の一員 ブータ",
@@ -1229,7 +1292,8 @@
         "id": "GL/S52-064",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-065": {
     "name": "ドリルの力 ラガン",
@@ -1247,7 +1311,8 @@
         "id": "GL/S52-065",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-066": {
     "name": "強い意志 シモン",
@@ -1265,7 +1330,8 @@
         "id": "GL/S52-066",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-067": {
     "name": "超銀河大グレン団リーダー シモン",
@@ -1283,7 +1349,8 @@
         "id": "GL/S52-067",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-068": {
     "name": "グレンラガン",
@@ -1301,7 +1368,8 @@
         "id": "GL/S52-068",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-069": {
     "name": "超銀河ダイグレン",
@@ -1319,7 +1387,8 @@
         "id": "GL/S52-069",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-070": {
     "name": "超銀河グレンラガン",
@@ -1337,7 +1406,8 @@
         "id": "GL/S52-070",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-071": {
     "name": "新政府総司令 シモン",
@@ -1355,7 +1425,8 @@
         "id": "GL/S52-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-072": {
     "name": "ダイグレン",
@@ -1373,7 +1444,8 @@
         "id": "GL/S52-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-073": {
     "name": "螺旋の力による進化 ブータ",
@@ -1391,7 +1463,8 @@
         "id": "GL/S52-073",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-074": {
     "name": "貫き通す想い シモン&ニア",
@@ -1409,7 +1482,8 @@
         "id": "GL/S52-074",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-075": {
     "name": "カミナの相棒 シモン",
@@ -1427,7 +1501,8 @@
         "id": "GL/S52-075",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-076": {
     "name": "アークグレンラガン",
@@ -1445,7 +1520,8 @@
         "id": "GL/S52-076",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-077": {
     "name": "グラパール(ギミー&ダリー専用機)",
@@ -1463,7 +1539,8 @@
         "id": "GL/S52-077",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-078": {
     "name": "ラガンインパクト！ ラガン",
@@ -1481,7 +1558,8 @@
         "id": "GL/S52-078",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-079": {
     "name": "量産機 グラパール",
@@ -1499,7 +1577,8 @@
         "id": "GL/S52-079",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-080": {
     "name": "失意のシモン",
@@ -1517,7 +1596,8 @@
         "id": "GL/S52-080",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-081": {
     "name": "新政府防衛隊のエース ギミー",
@@ -1535,7 +1615,8 @@
         "id": "GL/S52-081",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-082": {
     "name": "射撃の腕は超一流 ダリー",
@@ -1553,7 +1634,8 @@
         "id": "GL/S52-082",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-083": {
     "name": "アークグレン",
@@ -1571,7 +1653,8 @@
         "id": "GL/S52-083",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-084": {
     "name": "コアドリル",
@@ -1589,7 +1672,8 @@
         "id": "GL/S52-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-085": {
     "name": "ギガドリルブレイク",
@@ -1607,7 +1691,8 @@
         "id": "GL/S52-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-086": {
     "name": "俺の背中に、この胸に、",
@@ -1629,7 +1714,8 @@
         "id": "GL/S52-086R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-087": {
     "name": "月との決戦",
@@ -1647,7 +1733,8 @@
         "id": "GL/S52-087",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GL/S52-088": {
     "name": "俺のドリルは！天を創るドリルだァ！！！！",
@@ -1669,7 +1756,8 @@
         "id": "GL/S52-088R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-089": {
     "name": "大グレン団だ！！",
@@ -1687,7 +1775,8 @@
         "id": "GL/S52-089",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GL/S52-090": {
     "name": "メッセンジャー・ニア",
@@ -1705,7 +1794,8 @@
         "id": "GL/S52-090",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-091": {
     "name": "究極的宇宙魔神 グランゼボーマ",
@@ -1723,7 +1813,8 @@
         "id": "GL/S52-091",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-092": {
     "name": "反螺旋族 アンチスパイラル",
@@ -1741,7 +1832,8 @@
         "id": "GL/S52-092",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-093": {
     "name": "アシュタンガ級",
@@ -1759,7 +1851,8 @@
         "id": "GL/S52-093",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-094": {
     "name": "ムガン",
@@ -1777,7 +1870,8 @@
         "id": "GL/S52-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-095": {
     "name": "上級ムガン",
@@ -1795,7 +1889,8 @@
         "id": "GL/S52-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-096": {
     "name": "クウムガン",
@@ -1813,7 +1908,8 @@
         "id": "GL/S52-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-097": {
     "name": "キョムガン",
@@ -1831,7 +1927,8 @@
         "id": "GL/S52-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-098": {
     "name": "デススパイラルマシン",
@@ -1849,7 +1946,8 @@
         "id": "GL/S52-098",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-099": {
     "name": "進化の果ては、宇宙の崩壊―",
@@ -1867,7 +1965,8 @@
         "id": "GL/S52-099",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-100": {
     "name": "人類殲滅システム",
@@ -1885,6 +1984,7 @@
         "id": "GL/S52-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

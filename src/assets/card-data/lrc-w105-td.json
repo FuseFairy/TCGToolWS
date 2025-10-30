@@ -19,7 +19,8 @@
         "id": "LRC/W105-T01SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-T02": {
     "name": "送り迎え ミズキ",
@@ -41,7 +42,8 @@
         "id": "LRC/W105-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-T03": {
     "name": "喫茶リコリコinハワイ ミズキ",
@@ -63,7 +65,8 @@
         "id": "LRC/W105-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-T04": {
     "name": "私の生き方 千束",
@@ -85,7 +88,8 @@
         "id": "LRC/W105-T04R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-T05": {
     "name": "拘りのコーヒー ミカ",
@@ -107,7 +111,8 @@
         "id": "LRC/W105-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-T06": {
     "name": "一緒に生活 千束",
@@ -129,7 +134,8 @@
         "id": "LRC/W105-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-T07": {
     "name": "おいしく楽しく 千束",
@@ -151,7 +157,8 @@
         "id": "LRC/W105-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-T08": {
     "name": "ワイハの迷彩服 千束",
@@ -173,7 +180,8 @@
         "id": "LRC/W105-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-T09": {
     "name": "アランチルドレンの証",
@@ -195,7 +203,8 @@
         "id": "LRC/W105-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-T10": {
     "name": "響かない鼓動",
@@ -217,7 +226,8 @@
         "id": "LRC/W105-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-T11": {
     "name": "良好な変化 たきな",
@@ -239,7 +249,8 @@
         "id": "LRC/W105-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-T12": {
     "name": "共同生活 たきな",
@@ -261,7 +272,8 @@
         "id": "LRC/W105-T12R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-T13": {
     "name": "謎多きハッカー クルミ",
@@ -283,7 +295,8 @@
         "id": "LRC/W105-T13R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-T14": {
     "name": "遊びに行こう たきな",
@@ -305,7 +318,8 @@
         "id": "LRC/W105-T14SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-T15": {
     "name": "仲間を救うため クルミ",
@@ -327,7 +341,8 @@
         "id": "LRC/W105-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-T16": {
     "name": "仲間を救うため たきな",
@@ -349,7 +364,8 @@
         "id": "LRC/W105-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-T17": {
     "name": "リコリス たきな＆千束",
@@ -375,7 +391,8 @@
         "id": "LRC/W105-T17S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-T18": {
     "name": "久々の再会 たきな",
@@ -397,7 +414,8 @@
         "id": "LRC/W105-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-T19": {
     "name": "力を合わせて",
@@ -419,7 +437,8 @@
         "id": "LRC/W105-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-T20": {
     "name": "困っている人を助ける仕事",
@@ -441,6 +460,7 @@
         "id": "LRC/W105-T20R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

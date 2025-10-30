@@ -15,7 +15,8 @@
         "id": "OSK/S121-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OSK/S121-P02": {
     "name": "黄昏のプレリュード 黒川あかね",
@@ -41,7 +42,8 @@
         "id": "OSK/S121-P02S",
         "rarity": "PR+"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OSK/S121-P03": {
     "name": "黄昏のプレリュード 有馬かな",
@@ -63,6 +65,7 @@
         "id": "OSK/S121-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

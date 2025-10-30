@@ -15,7 +15,8 @@
         "id": "KI/S44-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-P02": {
     "name": "過去にとらわれる園崎",
@@ -33,7 +34,8 @@
         "id": "KI/S44-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-101": {
     "name": "SD天河",
@@ -51,7 +53,8 @@
         "id": "KI/S44-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-102": {
     "name": "SD千鳥",
@@ -69,7 +72,8 @@
         "id": "KI/S44-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KI/S44-103": {
     "name": "SD勝平",
@@ -87,7 +91,8 @@
         "id": "KI/S44-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KI/S44-104": {
     "name": "SD園崎",
@@ -105,6 +110,7 @@
         "id": "KI/S44-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

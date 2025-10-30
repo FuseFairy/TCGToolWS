@@ -15,7 +15,8 @@
         "id": "JJ/S66-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-T02": {
     "name": "優しい教え フーゴ",
@@ -33,7 +34,8 @@
         "id": "JJ/S66-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-T03": {
     "name": "ギャング入門 ジョルノ",
@@ -55,7 +57,8 @@
         "id": "JJ/S66-T03SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-T04": {
     "name": "ギャングの洗礼 アバッキオ",
@@ -73,7 +76,8 @@
         "id": "JJ/S66-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-T05": {
     "name": "正確な射撃 ミスタ",
@@ -91,7 +95,8 @@
         "id": "JJ/S66-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-T06": {
     "name": "黄金体験 G･E",
@@ -113,7 +118,8 @@
         "id": "JJ/S66-T06S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-T07": {
     "name": "黄金の意思 ジョルノ",
@@ -135,7 +141,8 @@
         "id": "JJ/S66-T07S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-T08": {
     "name": "溢れ出る生命力",
@@ -153,7 +160,8 @@
         "id": "JJ/S66-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-T09": {
     "name": "黄金体験",
@@ -175,7 +183,8 @@
         "id": "JJ/S66-T09J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-T10": {
     "name": "最後の弾丸",
@@ -193,7 +202,8 @@
         "id": "JJ/S66-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "JJ/S66-T11": {
     "name": "始末する覚悟 ブチャラティ",
@@ -211,7 +221,8 @@
         "id": "JJ/S66-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-T12": {
     "name": "新入りへの興味 アバッキオ",
@@ -229,7 +240,8 @@
         "id": "JJ/S66-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-T13": {
     "name": "ムードメイカー ミスタ",
@@ -247,7 +259,8 @@
         "id": "JJ/S66-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-T14": {
     "name": "突如の激昂 フーゴ",
@@ -265,7 +278,8 @@
         "id": "JJ/S66-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-T15": {
     "name": "S･F",
@@ -287,7 +301,8 @@
         "id": "JJ/S66-T15J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-T16": {
     "name": "純粋で無邪気 ナランチャ",
@@ -305,7 +320,8 @@
         "id": "JJ/S66-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/S66-T17": {
     "name": "見えない攻撃 ブチャラティ",
@@ -323,7 +339,8 @@
         "id": "JJ/S66-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-T18": {
     "name": "突然の攻撃 ブチャラティ",
@@ -345,7 +362,8 @@
         "id": "JJ/S66-T18J",
         "rarity": "JJR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-T19": {
     "name": "未来の仲間 ジョルノ",
@@ -363,7 +381,8 @@
         "id": "JJ/S66-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "JJ/S66-T20": {
     "name": "許可された入門",
@@ -381,6 +400,7 @@
         "id": "JJ/S66-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

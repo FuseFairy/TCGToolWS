@@ -15,7 +15,8 @@
         "id": "KNK/W86-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-102": {
     "name": "千鶴の後輩 墨",
@@ -33,7 +34,8 @@
         "id": "KNK/W86-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-103": {
     "name": "S級彼女 千鶴",
@@ -51,7 +53,8 @@
         "id": "KNK/W86-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-104": {
     "name": "次の作戦 瑠夏",
@@ -69,7 +72,8 @@
         "id": "KNK/W86-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-P01": {
     "name": "麻美＆墨＆千鶴＆瑠夏",
@@ -87,7 +91,8 @@
         "id": "KNK/W86-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-P02": {
     "name": "新しいバイト 瑠夏",
@@ -105,6 +110,7 @@
         "id": "KNK/W86-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -23,7 +23,8 @@
         "id": "Sst/W123-067SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sst/W123-072": {
     "name": "永遠の誓い 澪",
@@ -49,7 +50,8 @@
         "id": "Sst/W123-072SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sst/W123-079": {
     "name": "主従契約 柚希＆胡桃",
@@ -75,7 +77,8 @@
         "id": "Sst/W123-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sst/W123-089": {
     "name": "深まる絆 澪＆柚希",
@@ -97,7 +100,8 @@
         "id": "Sst/W123-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sst/W123-091": {
     "name": "サプライズクリスマス 澪＆万理亜＆柚希",
@@ -119,6 +123,7 @@
         "id": "Sst/W123-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

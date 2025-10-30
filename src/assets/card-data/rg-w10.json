@@ -15,7 +15,8 @@
         "id": "RG/W10-026",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-027": {
     "name": "水着の初春",
@@ -33,7 +34,8 @@
         "id": "RG/W10-027",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W10-028": {
     "name": "初春 飾利",
@@ -55,7 +57,8 @@
         "id": "RG/W10-028R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-029": {
     "name": "“無能力者”佐天",
@@ -77,7 +80,8 @@
         "id": "RG/W10-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-030": {
     "name": "水着の固法",
@@ -95,7 +99,8 @@
         "id": "RG/W10-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-031": {
     "name": "“多才能力者”木山",
@@ -113,7 +118,8 @@
         "id": "RG/W10-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W10-032": {
     "name": "初春＆佐天",
@@ -135,7 +141,8 @@
         "id": "RG/W10-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W10-033": {
     "name": "佐天 涙子",
@@ -153,7 +160,8 @@
         "id": "RG/W10-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-034": {
     "name": "花飾り 初春",
@@ -171,7 +179,8 @@
         "id": "RG/W10-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-035": {
     "name": "黒子のパートナー 初春",
@@ -189,7 +198,8 @@
         "id": "RG/W10-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-036": {
     "name": "初春の親友 佐天",
@@ -207,7 +217,8 @@
         "id": "RG/W10-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W10-037": {
     "name": "“風紀委員”初春",
@@ -225,7 +236,8 @@
         "id": "RG/W10-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W10-038": {
     "name": "“警備員”鉄装",
@@ -243,7 +255,8 @@
         "id": "RG/W10-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-039": {
     "name": "木山 春生",
@@ -261,7 +274,8 @@
         "id": "RG/W10-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-040": {
     "name": "“視覚阻害”重福",
@@ -279,7 +293,8 @@
         "id": "RG/W10-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-041": {
     "name": "水泳部 泡浮",
@@ -297,7 +312,8 @@
         "id": "RG/W10-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-042": {
     "name": "幻想御手開発者 木山",
@@ -315,7 +331,8 @@
         "id": "RG/W10-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-043": {
     "name": "水泳部 湾内",
@@ -333,7 +350,8 @@
         "id": "RG/W10-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W10-044": {
     "name": "固法 美偉",
@@ -351,7 +369,8 @@
         "id": "RG/W10-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W10-045": {
     "name": "幻想御手使用者 佐天",
@@ -369,7 +388,8 @@
         "id": "RG/W10-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W10-046": {
     "name": "スカートめくり",
@@ -387,7 +407,8 @@
         "id": "RG/W10-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-047": {
     "name": "幻想猛獣",
@@ -405,7 +426,8 @@
         "id": "RG/W10-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-048": {
     "name": "風紀委員の覚悟",
@@ -423,7 +445,8 @@
         "id": "RG/W10-048",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RG/W10-049": {
     "name": "最高の友達",
@@ -441,7 +464,8 @@
         "id": "RG/W10-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-050": {
     "name": "せんせいの執念",
@@ -459,7 +483,8 @@
         "id": "RG/W10-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-051": {
     "name": "“超電磁砲”美琴",
@@ -481,7 +506,8 @@
         "id": "RG/W10-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-052": {
     "name": "“空間移動能力者”黒子",
@@ -503,7 +529,8 @@
         "id": "RG/W10-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W10-053": {
     "name": "“風紀委員”黒子",
@@ -525,7 +552,8 @@
         "id": "RG/W10-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-054": {
     "name": "御坂 美琴",
@@ -547,7 +575,8 @@
         "id": "RG/W10-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-055": {
     "name": "先輩と後輩 美琴＆黒子",
@@ -569,7 +598,8 @@
         "id": "RG/W10-055R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W10-056": {
     "name": "“風紀委員？”美琴",
@@ -587,7 +617,8 @@
         "id": "RG/W10-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W10-057": {
     "name": "“超能力者”美琴",
@@ -605,7 +636,8 @@
         "id": "RG/W10-057",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W10-058": {
     "name": "信じた正義 黒子",
@@ -623,7 +655,8 @@
         "id": "RG/W10-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-059": {
     "name": "白井 黒子",
@@ -641,7 +674,8 @@
         "id": "RG/W10-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-060": {
     "name": "“大能力者”黒子",
@@ -659,7 +693,8 @@
         "id": "RG/W10-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-061": {
     "name": "水着の美琴＆黒子",
@@ -677,7 +712,8 @@
         "id": "RG/W10-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W10-062": {
     "name": "“最強無敵の電撃姫”美琴",
@@ -695,7 +731,8 @@
         "id": "RG/W10-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W10-063": {
     "name": "常盤台のエース 美琴",
@@ -713,7 +750,8 @@
         "id": "RG/W10-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-064": {
     "name": "婚后 光子",
@@ -731,7 +769,8 @@
         "id": "RG/W10-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-065": {
     "name": "“電撃使い”美琴",
@@ -749,7 +788,8 @@
         "id": "RG/W10-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-066": {
     "name": "学園都市の第三位 美琴",
@@ -767,7 +807,8 @@
         "id": "RG/W10-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-067": {
     "name": "アグレッシブな黒子",
@@ -785,7 +826,8 @@
         "id": "RG/W10-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-068": {
     "name": "スキンシップ 美琴＆黒子",
@@ -803,7 +845,8 @@
         "id": "RG/W10-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-069": {
     "name": "どんな能力もきかない能力 当麻",
@@ -821,7 +864,8 @@
         "id": "RG/W10-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W10-070": {
     "name": "美琴のパートナー 黒子",
@@ -839,7 +883,8 @@
         "id": "RG/W10-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W10-071": {
     "name": "プール掃除",
@@ -857,7 +902,8 @@
         "id": "RG/W10-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-072": {
     "name": "ちぇいさーっ",
@@ -875,7 +921,8 @@
         "id": "RG/W10-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-073": {
     "name": "能力とちから",
@@ -893,7 +940,8 @@
         "id": "RG/W10-073",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W10-074": {
     "name": "超電磁砲",
@@ -911,7 +959,8 @@
         "id": "RG/W10-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RG/W10-075": {
     "name": "風紀委員のお仕事",
@@ -929,6 +978,7 @@
         "id": "RG/W10-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

@@ -19,7 +19,8 @@
         "id": "AMG/W121-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-T02": {
     "name": "お祈り中 夜重",
@@ -41,7 +42,8 @@
         "id": "AMG/W121-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-T03": {
     "name": "甘神夜重",
@@ -67,7 +69,8 @@
         "id": "AMG/W121-T03SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-T04": {
     "name": "甘神神社の長女 夜重",
@@ -89,7 +92,8 @@
         "id": "AMG/W121-T04R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-T05": {
     "name": "おっとりマイペースな長女",
@@ -111,7 +115,8 @@
         "id": "AMG/W121-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AMG/W121-T06": {
     "name": "姉小路舞昼",
@@ -133,7 +138,8 @@
         "id": "AMG/W121-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-T07": {
     "name": "甘神夕奈",
@@ -159,7 +165,8 @@
         "id": "AMG/W121-T07SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-T08": {
     "name": "甘神神社へようこそ 夜重＆夕奈＆朝姫",
@@ -181,7 +188,8 @@
         "id": "AMG/W121-T08S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-T09": {
     "name": "お祈り中 夕奈",
@@ -203,7 +211,8 @@
         "id": "AMG/W121-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-T10": {
     "name": "思いがけない初対面 夕奈",
@@ -225,7 +234,8 @@
         "id": "AMG/W121-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-T11": {
     "name": "甘神神社の次女 夕奈",
@@ -247,7 +257,8 @@
         "id": "AMG/W121-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AMG/W121-T12": {
     "name": "真面目で頑固な次女",
@@ -269,7 +280,8 @@
         "id": "AMG/W121-T12R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AMG/W121-T13": {
     "name": "お祈り中 朝姫",
@@ -291,7 +303,8 @@
         "id": "AMG/W121-T13R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-T14": {
     "name": "上終瓜生",
@@ -313,7 +326,8 @@
         "id": "AMG/W121-T14R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-T15": {
     "name": "思いがけない初対面 朝姫",
@@ -335,7 +349,8 @@
         "id": "AMG/W121-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-T16": {
     "name": "甘神神社の三女 朝姫",
@@ -357,7 +372,8 @@
         "id": "AMG/W121-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-T17": {
     "name": "甘神朝姫",
@@ -383,7 +399,8 @@
         "id": "AMG/W121-T17SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-T18": {
     "name": "縁結びの組紐",
@@ -405,7 +422,8 @@
         "id": "AMG/W121-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AMG/W121-T19": {
     "name": "あざとい小悪魔系三女",
@@ -427,6 +445,7 @@
         "id": "AMG/W121-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

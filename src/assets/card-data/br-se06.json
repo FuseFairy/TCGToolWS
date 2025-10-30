@@ -15,7 +15,8 @@
         "id": "BR/SE06-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BR/SE06-02": {
     "name": "ストレングス",
@@ -33,7 +34,8 @@
         "id": "BR/SE06-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BR/SE06-03": {
     "name": "優秀なマネージャー ユウ",
@@ -51,7 +53,8 @@
         "id": "BR/SE06-03",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BR/SE06-04": {
     "name": "無明の刃 ブラックゴールドソー",
@@ -69,7 +72,8 @@
         "id": "BR/SE06-04",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BR/SE06-05": {
     "name": "ユウ",
@@ -87,7 +91,8 @@
         "id": "BR/SE06-05",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BR/SE06-06": {
     "name": "ブラックゴールドソー",
@@ -105,7 +110,8 @@
         "id": "BR/SE06-06",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BR/SE06-07": {
     "name": "帰国子女 ヨミ",
@@ -123,7 +129,8 @@
         "id": "BR/SE06-07",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BR/SE06-08": {
     "name": "“冷笑”デッドマスター",
@@ -141,7 +148,8 @@
         "id": "BR/SE06-08",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BR/SE06-09": {
     "name": "翠緑の瞳 デッドマスター",
@@ -159,7 +167,8 @@
         "id": "BR/SE06-09",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BR/SE06-10": {
     "name": "“Dead Scythe”デッドマスター",
@@ -177,7 +186,8 @@
         "id": "BR/SE06-10",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BR/SE06-11": {
     "name": "常闇の主 デッドマスター",
@@ -195,7 +205,8 @@
         "id": "BR/SE06-11",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BR/SE06-12": {
     "name": "異世界の少女 デッドマスター",
@@ -213,7 +224,8 @@
         "id": "BR/SE06-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BR/SE06-13": {
     "name": "空虚なる者 デッドマスター",
@@ -231,7 +243,8 @@
         "id": "BR/SE06-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BR/SE06-14": {
     "name": "バレー部のホープ ヨミ",
@@ -249,7 +262,8 @@
         "id": "BR/SE06-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BR/SE06-15": {
     "name": "小鳥遊 ヨミ",
@@ -267,7 +281,8 @@
         "id": "BR/SE06-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BR/SE06-16": {
     "name": "大人びた美少女 ヨミ",
@@ -285,7 +300,8 @@
         "id": "BR/SE06-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BR/SE06-17": {
     "name": "闇を舞うデッドマスター",
@@ -303,7 +319,8 @@
         "id": "BR/SE06-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BR/SE06-18": {
     "name": "黒の玉座 デッドマスター",
@@ -321,7 +338,8 @@
         "id": "BR/SE06-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BR/SE06-19": {
     "name": "星型のストラップ",
@@ -339,7 +357,8 @@
         "id": "BR/SE06-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BR/SE06-20": {
     "name": "闇に浮かぶ影",
@@ -357,7 +376,8 @@
         "id": "BR/SE06-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BR/SE06-21": {
     "name": "天真爛漫 マト",
@@ -375,7 +395,8 @@
         "id": "BR/SE06-21",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BR/SE06-22": {
     "name": "異世界の少女 ブラック★ロックシューター",
@@ -393,7 +414,8 @@
         "id": "BR/SE06-22",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BR/SE06-23": {
     "name": "対照的な二人 マト＆ヨミ",
@@ -411,7 +433,8 @@
         "id": "BR/SE06-23",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BR/SE06-24": {
     "name": "青い衝撃 ブラック★ロックシューター",
@@ -429,7 +452,8 @@
         "id": "BR/SE06-24",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BR/SE06-25": {
     "name": "闇を駆けるブラック★ロックシューター",
@@ -447,7 +471,8 @@
         "id": "BR/SE06-25",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BR/SE06-26": {
     "name": "佇むブラック★ロックシューター",
@@ -465,7 +490,8 @@
         "id": "BR/SE06-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BR/SE06-27": {
     "name": "“Black blade”ブラック★ロックシューター",
@@ -483,7 +509,8 @@
         "id": "BR/SE06-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BR/SE06-28": {
     "name": "期待の一年生エース マト",
@@ -501,7 +528,8 @@
         "id": "BR/SE06-28",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BR/SE06-29": {
     "name": "黒衣 マト",
@@ -519,7 +547,8 @@
         "id": "BR/SE06-29",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BR/SE06-30": {
     "name": "“★Rock Cannon”ブラック★ロックシューター",
@@ -537,7 +566,8 @@
         "id": "BR/SE06-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BR/SE06-31": {
     "name": "青き炎の瞳 ブラック★ロックシューター",
@@ -555,7 +585,8 @@
         "id": "BR/SE06-31",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BR/SE06-32": {
     "name": "友達を想うマト",
@@ -573,7 +604,8 @@
         "id": "BR/SE06-32",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BR/SE06-33": {
     "name": "“邂逅”ブラック★ロックシューター＆デッドマスター",
@@ -591,7 +623,8 @@
         "id": "BR/SE06-33",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BR/SE06-34": {
     "name": "“流星”ブラック★ロックシューター",
@@ -609,7 +642,8 @@
         "id": "BR/SE06-34",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BR/SE06-35": {
     "name": "★Rock Cannon",
@@ -627,7 +661,8 @@
         "id": "BR/SE06-35",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BR/SE06-36": {
     "name": "アナタは誰？",
@@ -645,6 +680,7 @@
         "id": "BR/SE06-36",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "DC3/WE16-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE16-P02": {
     "name": "ドッキリ！葵",
@@ -33,6 +34,7 @@
         "id": "DC3/WE16-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

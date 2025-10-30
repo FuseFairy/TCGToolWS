@@ -15,7 +15,8 @@
         "id": "DC/WE02-001",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE02-002": {
     "name": "お雛様 音姫",
@@ -33,7 +34,8 @@
         "id": "DC/WE02-002",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE02-003": {
     "name": "魂を送るまひる",
@@ -51,7 +53,8 @@
         "id": "DC/WE02-003",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE02-004": {
     "name": "贅沢な悩み",
@@ -69,7 +72,8 @@
         "id": "DC/WE02-004",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE02-005": {
     "name": "我がままなアイシア",
@@ -87,7 +91,8 @@
         "id": "DC/WE02-005",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/WE02-006": {
     "name": "旅立つ茜",
@@ -105,7 +110,8 @@
         "id": "DC/WE02-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE02-007": {
     "name": "歌姫 ななか",
@@ -123,7 +129,8 @@
         "id": "DC/WE02-007",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE02-008": {
     "name": "ハロウィン小恋",
@@ -141,7 +148,8 @@
         "id": "DC/WE02-008",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE02-009": {
     "name": "一緒に食べよ♪",
@@ -159,7 +167,8 @@
         "id": "DC/WE02-009",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/WE02-010": {
     "name": "水着のエリカ",
@@ -177,7 +186,8 @@
         "id": "DC/WE02-010",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE02-011": {
     "name": "豆まき美夏",
@@ -195,7 +205,8 @@
         "id": "DC/WE02-011",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE02-012": {
     "name": "お月見 由夢",
@@ -213,7 +224,8 @@
         "id": "DC/WE02-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE02-013": {
     "name": "寝ぼけるエリカ",
@@ -231,7 +243,8 @@
         "id": "DC/WE02-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE02-014": {
     "name": "星に願う杏",
@@ -249,7 +262,8 @@
         "id": "DC/WE02-014",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE02-015": {
     "name": "ボランティア巫女 麻耶",
@@ -267,7 +281,8 @@
         "id": "DC/WE02-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE02-016": {
     "name": "アジサイ畑のまゆき",
@@ -285,7 +300,8 @@
         "id": "DC/WE02-016",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE02-017": {
     "name": "ごめんね。そして、ありがとう",
@@ -303,7 +319,8 @@
         "id": "DC/WE02-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE02-018": {
     "name": "委員長の巫女姿",
@@ -321,6 +338,7 @@
         "id": "DC/WE02-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

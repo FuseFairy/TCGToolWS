@@ -15,7 +15,8 @@
         "id": "SR/SE25-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-02": {
     "name": "ユーマ・イルバーン",
@@ -37,7 +38,8 @@
         "id": "SR/SE25-02SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-03": {
     "name": "アグナム・ブレットハート",
@@ -55,7 +57,8 @@
         "id": "SR/SE25-03",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-04": {
     "name": "黄金の雷撃姫 ソニア",
@@ -73,7 +76,8 @@
         "id": "SR/SE25-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-05": {
     "name": "竜を導く稲妻王女 ソニア",
@@ -91,7 +95,8 @@
         "id": "SR/SE25-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SR/SE25-06": {
     "name": "ソニア・ブランシュ",
@@ -113,7 +118,8 @@
         "id": "SR/SE25-06SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SR/SE25-07": {
     "name": "竜の心を持つ少年 ユーマ",
@@ -131,7 +137,8 @@
         "id": "SR/SE25-07",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SR/SE25-08": {
     "name": "煌竜 覚醒体",
@@ -149,7 +156,8 @@
         "id": "SR/SE25-08",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SR/SE25-09": {
     "name": "感謝の言葉 ソニア",
@@ -167,7 +175,8 @@
         "id": "SR/SE25-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-10": {
     "name": "熱いビート アグナム",
@@ -185,7 +194,8 @@
         "id": "SR/SE25-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-11": {
     "name": "冷徹な狙撃手 エト",
@@ -203,7 +213,8 @@
         "id": "SR/SE25-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-12": {
     "name": "ゼスト・グレアム",
@@ -221,7 +232,8 @@
         "id": "SR/SE25-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-13": {
     "name": "一途な女の子 マリオン",
@@ -239,7 +251,8 @@
         "id": "SR/SE25-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-14": {
     "name": "成長する心 ユーマ",
@@ -257,7 +270,8 @@
         "id": "SR/SE25-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-15": {
     "name": "爆音の炎術師 アグナム",
@@ -275,7 +289,8 @@
         "id": "SR/SE25-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-16": {
     "name": "ジーナス・アイオーン",
@@ -293,7 +308,8 @@
         "id": "SR/SE25-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-17": {
     "name": "流浪の魔術師 アグナム",
@@ -311,7 +327,8 @@
         "id": "SR/SE25-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SR/SE25-18": {
     "name": "開放された心 マリオン",
@@ -329,7 +346,8 @@
         "id": "SR/SE25-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SR/SE25-19": {
     "name": "B.A.N.D",
@@ -355,7 +373,8 @@
         "id": "SR/SE25-19c",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-20": {
     "name": "母なる遺志",
@@ -373,7 +392,8 @@
         "id": "SR/SE25-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SR/SE25-21": {
     "name": "姫様の初恋",
@@ -391,7 +411,8 @@
         "id": "SR/SE25-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SR/SE25-22": {
     "name": "キリカ・トワ・アルマ",
@@ -409,7 +430,8 @@
         "id": "SR/SE25-22",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-23": {
     "name": "リンナ・メイフィールド",
@@ -427,7 +449,8 @@
         "id": "SR/SE25-23",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-24": {
     "name": "リンナ＆フロマージュ",
@@ -445,7 +468,8 @@
         "id": "SR/SE25-24",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-25": {
     "name": "神曲の竜騎士姫 エクセラ",
@@ -467,7 +491,8 @@
         "id": "SR/SE25-25SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-26": {
     "name": "ウェルラント王国の騎士団長 レスティ",
@@ -485,7 +510,8 @@
         "id": "SR/SE25-26",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SR/SE25-27": {
     "name": "祝福を与える歌 キリカ",
@@ -507,7 +533,8 @@
         "id": "SR/SE25-27SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SR/SE25-28": {
     "name": "レスティ・セラ・アルマ",
@@ -525,7 +552,8 @@
         "id": "SR/SE25-28",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-29": {
     "name": "フロマージュ",
@@ -543,7 +571,8 @@
         "id": "SR/SE25-29",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-30": {
     "name": "エクセラ・ノア・アウラ",
@@ -561,7 +590,8 @@
         "id": "SR/SE25-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-31": {
     "name": "妹想い レスティ",
@@ -579,7 +609,8 @@
         "id": "SR/SE25-31",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-32": {
     "name": "ヨアヒム・ルーベンス",
@@ -597,7 +628,8 @@
         "id": "SR/SE25-32",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-33": {
     "name": "聖印の歌巫女 キリカ",
@@ -627,7 +659,8 @@
         "id": "SR/SE25-33d",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-34": {
     "name": "古の歌を継ぐ少女 キリカ",
@@ -653,7 +686,8 @@
         "id": "SR/SE25-34c",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-35": {
     "name": "ベアトリス・イルマ",
@@ -671,7 +705,8 @@
         "id": "SR/SE25-35",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-36": {
     "name": "疾風の精霊使い リンナ",
@@ -689,7 +724,8 @@
         "id": "SR/SE25-36",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-37": {
     "name": "氷牙の妖精騎士 レスティ",
@@ -707,7 +743,8 @@
         "id": "SR/SE25-37",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SR/SE25-38": {
     "name": "ムードメーカー リンナ",
@@ -725,7 +762,8 @@
         "id": "SR/SE25-38",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SR/SE25-39": {
     "name": "ゲオルグ・ザルバード",
@@ -743,7 +781,8 @@
         "id": "SR/SE25-39",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SR/SE25-40": {
     "name": "魂の共鳴",
@@ -761,6 +800,7 @@
         "id": "SR/SE25-40",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

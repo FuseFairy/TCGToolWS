@@ -15,7 +15,8 @@
         "id": "FS/S64-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-P02": {
     "name": "EGOISTIC 桜",
@@ -33,7 +34,8 @@
         "id": "FS/S64-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-P03": {
     "name": "間桐のマスター 桜",
@@ -51,7 +53,8 @@
         "id": "FS/S64-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-101": {
     "name": "petit 士郎",
@@ -69,7 +72,8 @@
         "id": "FS/S64-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-102": {
     "name": "petit 桜",
@@ -87,7 +91,8 @@
         "id": "FS/S64-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S64-103": {
     "name": "petit 凛",
@@ -105,7 +110,8 @@
         "id": "FS/S64-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S64-104": {
     "name": "petit イリヤスフィール",
@@ -123,6 +129,7 @@
         "id": "FS/S64-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -23,7 +23,8 @@
         "id": "Fra/W120-113SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fra/W120-114": {
     "name": "譲れない夢 システィーナ",
@@ -49,7 +50,8 @@
         "id": "Fra/W120-114SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fra/W120-118": {
     "name": "幸せになる道 ルミア",
@@ -71,7 +73,8 @@
         "id": "Fra/W120-118S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fra/W120-119": {
     "name": "立ち向かう選択 システィーナ",
@@ -93,7 +96,8 @@
         "id": "Fra/W120-119S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fra/W120-121": {
     "name": "《愚者》のグレン",
@@ -115,7 +119,8 @@
         "id": "Fra/W120-121S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fra/W120-123": {
     "name": "《魔術師》のイヴ",
@@ -141,7 +146,8 @@
         "id": "Fra/W120-123SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fra/W120-136": {
     "name": "《女帝》のセラ",
@@ -163,7 +169,8 @@
         "id": "Fra/W120-136S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fra/W120-143": {
     "name": "成長の兆し リィエル",
@@ -185,7 +192,8 @@
         "id": "Fra/W120-143S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fra/W120-145": {
     "name": "孤独だった魔女 セリカ",
@@ -207,7 +215,8 @@
         "id": "Fra/W120-145S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fra/W120-146": {
     "name": "異形の翼の少女",
@@ -229,7 +238,8 @@
         "id": "Fra/W120-146S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fra/W120-147": {
     "name": "受け継いだ夢",
@@ -255,7 +265,8 @@
         "id": "Fra/W120-147SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fra/W120-149": {
     "name": "命を捧げた攻略法",
@@ -277,6 +288,7 @@
         "id": "Fra/W120-149R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

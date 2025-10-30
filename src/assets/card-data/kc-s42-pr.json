@@ -15,7 +15,8 @@
         "id": "KC/S42-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-P02": {
     "name": "朝潮型駆逐艦2番艦 大潮改ニ",
@@ -33,7 +34,8 @@
         "id": "KC/S42-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-P03": {
     "name": "第八艦隊の旗艦 鳥海改二",
@@ -51,7 +53,8 @@
         "id": "KC/S42-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-101": {
     "name": "陽炎型駆逐艦3番艦 黒潮改",
@@ -69,7 +72,8 @@
         "id": "KC/S42-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-102": {
     "name": "睦月型駆逐艦8番艦 長月改",
@@ -87,7 +91,8 @@
         "id": "KC/S42-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-103": {
     "name": "金剛型戦艦2番艦 比叡改",
@@ -105,7 +110,8 @@
         "id": "KC/S42-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-104": {
     "name": "白露型駆逐艦10番艦 涼風改",
@@ -123,7 +129,8 @@
         "id": "KC/S42-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-105": {
     "name": "陽炎型駆逐艦7番艦 初風",
@@ -141,7 +148,8 @@
         "id": "KC/S42-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-106": {
     "name": "暁型駆逐艦1番艦 暁改",
@@ -159,7 +167,8 @@
         "id": "KC/S42-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-107": {
     "name": "新造工作艦 明石",
@@ -177,6 +186,7 @@
         "id": "KC/S42-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

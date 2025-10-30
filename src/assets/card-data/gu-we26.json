@@ -19,7 +19,8 @@
         "id": "GU/WE26-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-002": {
     "name": "照れ笑い シャロ",
@@ -37,7 +38,8 @@
         "id": "GU/WE26-002",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-003": {
     "name": "毎日が宝物 シャロ",
@@ -55,7 +57,8 @@
         "id": "GU/WE26-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-004": {
     "name": "お盆 de シャロ",
@@ -73,7 +76,8 @@
         "id": "GU/WE26-004",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-005": {
     "name": "うさぎは苦手 シャロ",
@@ -91,7 +95,8 @@
         "id": "GU/WE26-005",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-006": {
     "name": "楽しい時間が宝物 シャロ",
@@ -109,7 +114,8 @@
         "id": "GU/WE26-006",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-007": {
     "name": "部活の助っ人？ シャロ",
@@ -127,7 +133,8 @@
         "id": "GU/WE26-007",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-008": {
     "name": "百発百中",
@@ -145,7 +152,8 @@
         "id": "GU/WE26-008",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-009": {
     "name": "“プレゼント交換” 千夜",
@@ -167,7 +175,8 @@
         "id": "GU/WE26-009SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-010": {
     "name": "楽しければオッケー 千夜",
@@ -185,7 +194,8 @@
         "id": "GU/WE26-010",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-011": {
     "name": "ハプニング 千夜",
@@ -203,7 +213,8 @@
         "id": "GU/WE26-011",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-012": {
     "name": "毎日が宝物 千夜",
@@ -221,7 +232,8 @@
         "id": "GU/WE26-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-013": {
     "name": "ぷくー顔 千夜",
@@ -239,7 +251,8 @@
         "id": "GU/WE26-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-014": {
     "name": "大切な宝物 千夜",
@@ -257,7 +270,8 @@
         "id": "GU/WE26-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-015": {
     "name": "お嬢様!?ゲーム 千夜",
@@ -275,7 +289,8 @@
         "id": "GU/WE26-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-016": {
     "name": "苦しゅうない、面をあげい",
@@ -293,7 +308,8 @@
         "id": "GU/WE26-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GU/WE26-017": {
     "name": "“プレゼント交換” ココア",
@@ -311,7 +327,8 @@
         "id": "GU/WE26-017",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-018": {
     "name": "出会えてよかった チノ&ココア",
@@ -337,7 +354,8 @@
         "id": "GU/WE26-018SPb",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-019": {
     "name": "“プレゼント交換” リゼ",
@@ -359,7 +377,8 @@
         "id": "GU/WE26-019SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-020": {
     "name": "私らしさ リゼ",
@@ -377,7 +396,8 @@
         "id": "GU/WE26-020",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-021": {
     "name": "いっしょに行こう ココア",
@@ -395,7 +415,8 @@
         "id": "GU/WE26-021",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-022": {
     "name": "おしとやかに リゼ",
@@ -413,7 +434,8 @@
         "id": "GU/WE26-022",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-023": {
     "name": "お見舞い ココア",
@@ -431,7 +453,8 @@
         "id": "GU/WE26-023",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-024": {
     "name": "毎日が宝物 ココア",
@@ -449,7 +472,8 @@
         "id": "GU/WE26-024",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-025": {
     "name": "毎日が宝物 リゼ",
@@ -467,7 +491,8 @@
         "id": "GU/WE26-025",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-026": {
     "name": "大変身！ リゼ",
@@ -485,7 +510,8 @@
         "id": "GU/WE26-026",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-027": {
     "name": "ビッグニュース モカ",
@@ -503,7 +529,8 @@
         "id": "GU/WE26-027",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-028": {
     "name": "夏の宝物 ココア",
@@ -521,7 +548,8 @@
         "id": "GU/WE26-028",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-029": {
     "name": "休憩中も宝物 リゼ",
@@ -539,7 +567,8 @@
         "id": "GU/WE26-029",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-030": {
     "name": "部活の助っ人！ リゼ",
@@ -557,7 +586,8 @@
         "id": "GU/WE26-030",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-031": {
     "name": "姉の座をかけて ココア",
@@ -575,7 +605,8 @@
         "id": "GU/WE26-031",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-032": {
     "name": "枕投げ",
@@ -593,7 +624,8 @@
         "id": "GU/WE26-032",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-033": {
     "name": "超訳オペラ座の怪人",
@@ -611,7 +643,8 @@
         "id": "GU/WE26-033",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GU/WE26-034": {
     "name": "“プレゼント交換” チノ",
@@ -629,7 +662,8 @@
         "id": "GU/WE26-034",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-035": {
     "name": "お茶目さん チノ",
@@ -647,7 +681,8 @@
         "id": "GU/WE26-035",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-036": {
     "name": "尾行ごっこ マヤ",
@@ -665,7 +700,8 @@
         "id": "GU/WE26-036",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-037": {
     "name": "毎日が宝物 チノ",
@@ -683,7 +719,8 @@
         "id": "GU/WE26-037",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-038": {
     "name": "現代アーティスト チノ",
@@ -701,7 +738,8 @@
         "id": "GU/WE26-038",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-039": {
     "name": "二羽兎の刑事 メグ",
@@ -719,7 +757,8 @@
         "id": "GU/WE26-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-040": {
     "name": "先輩ウェイトレス チノ",
@@ -737,7 +776,8 @@
         "id": "GU/WE26-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-041": {
     "name": "盤上の真剣勝負 チノ",
@@ -755,7 +795,8 @@
         "id": "GU/WE26-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-042": {
     "name": "いつの日か チノ",
@@ -773,7 +814,8 @@
         "id": "GU/WE26-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-043": {
     "name": "宝物探し マヤ",
@@ -791,7 +833,8 @@
         "id": "GU/WE26-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-044": {
     "name": "宝物探し メグ",
@@ -809,7 +852,8 @@
         "id": "GU/WE26-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-045": {
     "name": "締め切り直前 青山ブルーマウンテン",
@@ -827,7 +871,8 @@
         "id": "GU/WE26-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/WE26-046": {
     "name": "みんなで宝物 チノ",
@@ -845,7 +890,8 @@
         "id": "GU/WE26-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-047": {
     "name": "手漕ぎボート チノ",
@@ -863,7 +909,8 @@
         "id": "GU/WE26-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-048": {
     "name": "寝言むにゃむにゃ",
@@ -881,7 +928,8 @@
         "id": "GU/WE26-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/WE26-049": {
     "name": "キュビズム！",
@@ -899,7 +947,8 @@
         "id": "GU/WE26-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GU/WE26-050": {
     "name": "宝物がいっぱい",
@@ -925,6 +974,7 @@
         "id": "GU/WE26-050c",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

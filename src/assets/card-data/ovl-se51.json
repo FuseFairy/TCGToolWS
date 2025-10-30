@@ -23,7 +23,8 @@
         "id": "OVL/SE51-01SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-02": {
     "name": "底見えぬ実力 ヤルダバオト",
@@ -45,7 +46,8 @@
         "id": "OVL/SE51-02H",
         "rarity": "HR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-03": {
     "name": "蠢く陰謀 デミウルゴス",
@@ -67,7 +69,8 @@
         "id": "OVL/SE51-03H",
         "rarity": "HR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-04": {
     "name": "仮面の大悪魔 ヤルダバオト",
@@ -89,7 +92,8 @@
         "id": "OVL/SE51-04H",
         "rarity": "HR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-05": {
     "name": "清廉の聖王女 カルカ・ベサーレス",
@@ -111,7 +115,8 @@
         "id": "OVL/SE51-05H",
         "rarity": "HU"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-06": {
     "name": "聖王国神官団団長 ケラルト・カストディオ",
@@ -133,7 +138,8 @@
         "id": "OVL/SE51-06H",
         "rarity": "HU"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-07": {
     "name": "聖王国騎士団団長 レメディオス・カストディオ",
@@ -155,7 +161,8 @@
         "id": "OVL/SE51-07H",
         "rarity": "HU"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-08": {
     "name": "余裕の問答 ヤルダバオト",
@@ -177,7 +184,8 @@
         "id": "OVL/SE51-08H",
         "rarity": "HU"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/SE51-09": {
     "name": "邪悪の体現者 ヤルダバオト",
@@ -199,7 +207,8 @@
         "id": "OVL/SE51-09H",
         "rarity": "HU"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/SE51-10": {
     "name": "本来の姿 憤怒の魔将",
@@ -221,7 +230,8 @@
         "id": "OVL/SE51-10H",
         "rarity": "HU"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/SE51-11": {
     "name": "亜人の軍勢",
@@ -267,7 +277,8 @@
         "id": "OVL/SE51-11Hd",
         "rarity": "HC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-12": {
     "name": "死闘の結末 憤怒の魔将",
@@ -289,7 +300,8 @@
         "id": "OVL/SE51-12H",
         "rarity": "HC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-13": {
     "name": "届かない攻撃 ヤルダバオト",
@@ -311,7 +323,8 @@
         "id": "OVL/SE51-13H",
         "rarity": "HC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/SE51-14": {
     "name": "2つのアクセサリー 頭冠の悪魔",
@@ -333,7 +346,8 @@
         "id": "OVL/SE51-14H",
         "rarity": "HC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/SE51-15": {
     "name": "亜人侵攻",
@@ -355,7 +369,8 @@
         "id": "OVL/SE51-15H",
         "rarity": "HU"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-16": {
     "name": "第十位階魔法〈隕石落下〉",
@@ -377,7 +392,8 @@
         "id": "OVL/SE51-16H",
         "rarity": "HC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-17": {
     "name": "甘美な悲鳴を響かせましょう",
@@ -399,7 +415,8 @@
         "id": "OVL/SE51-17H",
         "rarity": "HC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-18": {
     "name": "メイド悪魔 シズ",
@@ -421,7 +438,8 @@
         "id": "OVL/SE51-18H",
         "rarity": "HRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-19": {
     "name": "凶眼の狂信者 ネイア",
@@ -447,7 +465,8 @@
         "id": "OVL/SE51-19SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/SE51-20": {
     "name": "お気に入りの味 シズ",
@@ -469,7 +488,8 @@
         "id": "OVL/SE51-20H",
         "rarity": "HR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-21": {
     "name": "聖騎士団従者 ネイア",
@@ -491,7 +511,8 @@
         "id": "OVL/SE51-21H",
         "rarity": "HR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-22": {
     "name": "狂眼の射手 ネイア",
@@ -513,7 +534,8 @@
         "id": "OVL/SE51-22H",
         "rarity": "HR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-23": {
     "name": "惜しみない助力 アインズ",
@@ -535,7 +557,8 @@
         "id": "OVL/SE51-23H",
         "rarity": "HR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/SE51-24": {
     "name": "身を潜める シズ",
@@ -557,7 +580,8 @@
         "id": "OVL/SE51-24H",
         "rarity": "HR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/SE51-25": {
     "name": "アインズ・ウール・ゴウン魔導国君主 アインズ",
@@ -579,7 +603,8 @@
         "id": "OVL/SE51-25H",
         "rarity": "HR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/SE51-26": {
     "name": "番人との邂逅 シズ",
@@ -601,7 +626,8 @@
         "id": "OVL/SE51-26H",
         "rarity": "HR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/SE51-27": {
     "name": "他愛もない話 ネイア",
@@ -623,7 +649,8 @@
         "id": "OVL/SE51-27H",
         "rarity": "HU"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-28": {
     "name": "盲目的信仰 ネイア",
@@ -645,7 +672,8 @@
         "id": "OVL/SE51-28H",
         "rarity": "HU"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-29": {
     "name": "隠せぬ苛立ち アインズ",
@@ -667,7 +695,8 @@
         "id": "OVL/SE51-29H",
         "rarity": "HU"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-30": {
     "name": "お別れの時 シズ",
@@ -689,7 +718,8 @@
         "id": "OVL/SE51-30H",
         "rarity": "HU"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/SE51-31": {
     "name": "痛感する無力さ ネイア",
@@ -711,7 +741,8 @@
         "id": "OVL/SE51-31H",
         "rarity": "HC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-32": {
     "name": "先輩としての務め シズ",
@@ -733,7 +764,8 @@
         "id": "OVL/SE51-32H",
         "rarity": "HC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-33": {
     "name": "一度きりの奥の手 シズ",
@@ -755,7 +787,8 @@
         "id": "OVL/SE51-33H",
         "rarity": "HC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-34": {
     "name": "無謀な進言 ネイア",
@@ -777,7 +810,8 @@
         "id": "OVL/SE51-34H",
         "rarity": "HC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-35": {
     "name": "魔導王側近 アルベド",
@@ -799,7 +833,8 @@
         "id": "OVL/SE51-35H",
         "rarity": "HC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-36": {
     "name": "絶好のタイミング アインズ",
@@ -821,7 +856,8 @@
         "id": "OVL/SE51-36H",
         "rarity": "HC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-37": {
     "name": "振るわぬ結果 アインズ",
@@ -843,7 +879,8 @@
         "id": "OVL/SE51-37H",
         "rarity": "HC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-38": {
     "name": "番人との邂逅 ネイア",
@@ -865,7 +902,8 @@
         "id": "OVL/SE51-38H",
         "rarity": "HC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/SE51-39": {
     "name": "潜入ミッション ネイア",
@@ -887,7 +925,8 @@
         "id": "OVL/SE51-39H",
         "rarity": "HC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/SE51-40": {
     "name": "潜入ミッション シズ",
@@ -909,7 +948,8 @@
         "id": "OVL/SE51-40H",
         "rarity": "HC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-41": {
     "name": "初めての味 ネイア",
@@ -931,7 +971,8 @@
         "id": "OVL/SE51-41H",
         "rarity": "HC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/SE51-42": {
     "name": "王への謁見 ネイア",
@@ -953,7 +994,8 @@
         "id": "OVL/SE51-42H",
         "rarity": "HC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/SE51-43": {
     "name": "最凶の正義、光臨",
@@ -975,7 +1017,8 @@
         "id": "OVL/SE51-43H",
         "rarity": "HU"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-44": {
     "name": "先制攻撃",
@@ -997,7 +1040,8 @@
         "id": "OVL/SE51-44H",
         "rarity": "HC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-45": {
     "name": "“正義”を知った日",
@@ -1019,7 +1063,8 @@
         "id": "OVL/SE51-45H",
         "rarity": "HC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-46": {
     "name": "冷酷無比な支配者 アインズ",
@@ -1041,7 +1086,8 @@
         "id": "OVL/SE51-46H",
         "rarity": "HRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-47": {
     "name": "貴方だけに捧ぐ アルベド",
@@ -1071,7 +1117,8 @@
         "id": "OVL/SE51-47SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-48": {
     "name": "王の矜持 アインズ",
@@ -1101,7 +1148,8 @@
         "id": "OVL/SE51-48SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-49": {
     "name": "絶対なる忠誠 アルベド",
@@ -1127,7 +1175,8 @@
         "id": "OVL/SE51-49SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/SE51-50": {
     "name": "全ては理想郷のために アインズ",
@@ -1157,7 +1206,8 @@
         "id": "OVL/SE51-50SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/SE51-51": {
     "name": "作戦会議 アルベド",
@@ -1179,7 +1229,8 @@
         "id": "OVL/SE51-51H",
         "rarity": "HR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-52": {
     "name": "蘇りし王 アインズ",
@@ -1201,7 +1252,8 @@
         "id": "OVL/SE51-52H",
         "rarity": "HR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/SE51-53": {
     "name": "この世界の理 アインズ",
@@ -1223,7 +1275,8 @@
         "id": "OVL/SE51-53H",
         "rarity": "HR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/SE51-54": {
     "name": "秘密裏の交渉 アインズ",
@@ -1245,7 +1298,8 @@
         "id": "OVL/SE51-54H",
         "rarity": "HU"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-55": {
     "name": "一進一退の攻防 アインズ",
@@ -1267,7 +1321,8 @@
         "id": "OVL/SE51-55H",
         "rarity": "HU"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-56": {
     "name": "目的はただ一つ アインズ",
@@ -1289,7 +1344,8 @@
         "id": "OVL/SE51-56H",
         "rarity": "HU"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/SE51-57": {
     "name": "作戦遂行 アインズ",
@@ -1311,7 +1367,8 @@
         "id": "OVL/SE51-57H",
         "rarity": "HC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-58": {
     "name": "堕ちゆく王 アインズ",
@@ -1333,7 +1390,8 @@
         "id": "OVL/SE51-58H",
         "rarity": "HC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-59": {
     "name": "それでは少し遊んでやろう",
@@ -1355,7 +1413,8 @@
         "id": "OVL/SE51-59H",
         "rarity": "HC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-60": {
     "name": "救国の英雄",
@@ -1377,7 +1436,8 @@
         "id": "OVL/SE51-60H",
         "rarity": "HC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/SE51-61": {
     "name": "抑えきれない感情",
@@ -1395,6 +1455,7 @@
         "id": "OVL/SE51-61A",
         "rarity": "AGR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -15,7 +15,8 @@
         "id": "DC/WE08-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-02": {
     "name": "帰って来たカノジョ まひる",
@@ -33,7 +34,8 @@
         "id": "DC/WE08-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-03": {
     "name": "世界が忘れた少女 アイシア",
@@ -51,7 +53,8 @@
         "id": "DC/WE08-03",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-04": {
     "name": "噂の転入生 さくら",
@@ -69,7 +72,8 @@
         "id": "DC/WE08-04",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-05": {
     "name": "へーよーぶらざー",
@@ -87,7 +91,8 @@
         "id": "DC/WE08-05",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/WE08-06": {
     "name": "聖歌隊のことり",
@@ -105,7 +110,8 @@
         "id": "DC/WE08-06",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-07": {
     "name": "ちょっとだけ、おもいで 茜",
@@ -123,7 +129,8 @@
         "id": "DC/WE08-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-08": {
     "name": "軽音楽部 小恋",
@@ -141,7 +148,8 @@
         "id": "DC/WE08-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-09": {
     "name": "素直になれる勇気 ななか",
@@ -159,7 +167,8 @@
         "id": "DC/WE08-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-10": {
     "name": "素直になれない妹 由夢",
@@ -177,7 +186,8 @@
         "id": "DC/WE08-10",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-11": {
     "name": "風見学園の生徒 美夏",
@@ -195,7 +205,8 @@
         "id": "DC/WE08-11",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-12": {
     "name": "若き生徒会長 エリカ",
@@ -213,7 +224,8 @@
         "id": "DC/WE08-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-13": {
     "name": "“裏モード”音夢",
@@ -231,7 +243,8 @@
         "id": "DC/WE08-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-14": {
     "name": "おめかし 麻耶",
@@ -249,7 +262,8 @@
         "id": "DC/WE08-14",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-15": {
     "name": "恥ずかしがり屋 まゆき",
@@ -267,7 +281,8 @@
         "id": "DC/WE08-15",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-16": {
     "name": "水着の眞子＆萌",
@@ -285,7 +300,8 @@
         "id": "DC/WE08-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-17": {
     "name": "知略と謀略 杏",
@@ -303,7 +319,8 @@
         "id": "DC/WE08-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-18": {
     "name": "ロマンチックなキス",
@@ -321,7 +338,8 @@
         "id": "DC/WE08-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/WE08-19": {
     "name": "芳乃家の居候 アイシア",
@@ -339,7 +357,8 @@
         "id": "DC/WE08-19",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-20": {
     "name": "たとえ好きな恋人 まひる",
@@ -357,7 +376,8 @@
         "id": "DC/WE08-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-21": {
     "name": "夢じゃない",
@@ -375,7 +395,8 @@
         "id": "DC/WE08-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/WE08-22": {
     "name": "沢井 美秋",
@@ -393,7 +414,8 @@
         "id": "DC/WE08-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-23": {
     "name": "デートを楽しむエリカ",
@@ -411,7 +433,8 @@
         "id": "DC/WE08-23",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-24": {
     "name": "バナナフッズエンド",
@@ -429,7 +452,8 @@
         "id": "DC/WE08-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/WE08-25": {
     "name": "優等生の委員長 沢井麻耶",
@@ -447,7 +471,8 @@
         "id": "DC/WE08-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-26": {
     "name": "結婚式の歌姫",
@@ -465,7 +490,8 @@
         "id": "DC/WE08-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-27": {
     "name": "迷子の夢",
@@ -483,7 +509,8 @@
         "id": "DC/WE08-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/WE08-28": {
     "name": "水着の音姫",
@@ -501,7 +528,8 @@
         "id": "DC/WE08-28",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-29": {
     "name": "水着の音夢＆さくら",
@@ -519,7 +547,8 @@
         "id": "DC/WE08-29",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-30": {
     "name": "水着の由夢＆さくら",
@@ -537,7 +566,8 @@
         "id": "DC/WE08-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-31": {
     "name": "水着の和泉子",
@@ -555,7 +585,8 @@
         "id": "DC/WE08-31",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-32": {
     "name": "水着のななか",
@@ -573,7 +604,8 @@
         "id": "DC/WE08-32",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-33": {
     "name": "水着のことり",
@@ -591,7 +623,8 @@
         "id": "DC/WE08-33",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-34": {
     "name": "水着の小恋",
@@ -609,7 +642,8 @@
         "id": "DC/WE08-34",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-35": {
     "name": "水着のななか＆由夢",
@@ -627,7 +661,8 @@
         "id": "DC/WE08-35",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-36": {
     "name": "水着の環",
@@ -645,7 +680,8 @@
         "id": "DC/WE08-36",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-37": {
     "name": "スイカ割り",
@@ -663,7 +699,8 @@
         "id": "DC/WE08-37",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-38": {
     "name": "水着の音夢",
@@ -681,7 +718,8 @@
         "id": "DC/WE08-38",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-39": {
     "name": "水着の美春",
@@ -699,7 +737,8 @@
         "id": "DC/WE08-39",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-40": {
     "name": "水着の由夢",
@@ -717,7 +756,8 @@
         "id": "DC/WE08-40",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-41": {
     "name": "ねことお風呂で",
@@ -735,7 +775,8 @@
         "id": "DC/WE08-41",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/WE08-42": {
     "name": "小悪魔 杏",
@@ -753,7 +794,8 @@
         "id": "DC/WE08-42",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-43": {
     "name": "水着のアリス",
@@ -771,7 +813,8 @@
         "id": "DC/WE08-43",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-44": {
     "name": "水着の麻耶",
@@ -789,7 +832,8 @@
         "id": "DC/WE08-44",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-45": {
     "name": "小川で遊ぼう！",
@@ -807,7 +851,8 @@
         "id": "DC/WE08-45",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-46": {
     "name": "サンタのアイシア",
@@ -825,7 +870,8 @@
         "id": "DC/WE08-46",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-47": {
     "name": "お雛様 音姫",
@@ -843,7 +889,8 @@
         "id": "DC/WE08-47",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-48": {
     "name": "魂を送るまひる",
@@ -861,7 +908,8 @@
         "id": "DC/WE08-48",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-49": {
     "name": "贅沢な悩み",
@@ -879,7 +927,8 @@
         "id": "DC/WE08-49",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-50": {
     "name": "我がままなアイシア",
@@ -897,7 +946,8 @@
         "id": "DC/WE08-50",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/WE08-51": {
     "name": "旅立つ茜",
@@ -915,7 +965,8 @@
         "id": "DC/WE08-51",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-52": {
     "name": "歌姫ななか",
@@ -933,7 +984,8 @@
         "id": "DC/WE08-52",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-53": {
     "name": "ハロウィン小恋",
@@ -951,7 +1003,8 @@
         "id": "DC/WE08-53",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-54": {
     "name": "一緒に食べよ♪",
@@ -969,7 +1022,8 @@
         "id": "DC/WE08-54",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/WE08-55": {
     "name": "水着のエリカ",
@@ -987,7 +1041,8 @@
         "id": "DC/WE08-55",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-56": {
     "name": "豆まき美夏",
@@ -1005,7 +1060,8 @@
         "id": "DC/WE08-56",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-57": {
     "name": "お月見 由夢",
@@ -1023,7 +1079,8 @@
         "id": "DC/WE08-57",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-58": {
     "name": "寝ぼけるエリカ",
@@ -1041,7 +1098,8 @@
         "id": "DC/WE08-58",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-59": {
     "name": "星に願う杏",
@@ -1059,7 +1117,8 @@
         "id": "DC/WE08-59",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-60": {
     "name": "ボランティア巫女 麻耶",
@@ -1077,7 +1136,8 @@
         "id": "DC/WE08-60",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-61": {
     "name": "アジサイ畑のまゆき",
@@ -1095,7 +1155,8 @@
         "id": "DC/WE08-61",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-62": {
     "name": "ごめんね。そして、ありがとう",
@@ -1113,7 +1174,8 @@
         "id": "DC/WE08-62",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-63": {
     "name": "委員長の巫女姿",
@@ -1131,7 +1193,8 @@
         "id": "DC/WE08-63",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/WE08-64": {
     "name": "芳乃 さくら",
@@ -1149,7 +1212,8 @@
         "id": "DC/WE08-64",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-65": {
     "name": "決意",
@@ -1167,7 +1231,8 @@
         "id": "DC/WE08-65",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-66": {
     "name": "花咲 茜",
@@ -1185,7 +1250,8 @@
         "id": "DC/WE08-66",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-67": {
     "name": "ミス風見学園コンテスト",
@@ -1203,7 +1269,8 @@
         "id": "DC/WE08-67",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-68": {
     "name": "ロボ美春",
@@ -1221,7 +1288,8 @@
         "id": "DC/WE08-68",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-69": {
     "name": "美春＆音夢",
@@ -1239,7 +1307,8 @@
         "id": "DC/WE08-69",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE08-70": {
     "name": "ホワイトクリスマス",
@@ -1257,7 +1326,8 @@
         "id": "DC/WE08-70",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-71": {
     "name": "バナナパフェ",
@@ -1275,7 +1345,8 @@
         "id": "DC/WE08-71",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE08-72": {
     "name": "人形劇",
@@ -1293,6 +1364,7 @@
         "id": "DC/WE08-72",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

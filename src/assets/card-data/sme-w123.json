@@ -23,7 +23,8 @@
         "id": "Sme/W123-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sme/W123-006": {
     "name": "エルフの国のお嬢様 リュディ",
@@ -53,7 +54,8 @@
         "id": "Sme/W123-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Sme/W123-014": {
     "name": "風紀会の副会長 雪音",
@@ -75,7 +77,8 @@
         "id": "Sme/W123-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Sme/W123-025": {
     "name": "九頭竜",
@@ -97,6 +100,7 @@
         "id": "Sme/W123-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

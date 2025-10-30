@@ -19,7 +19,8 @@
         "id": "DCT/S86-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-002": {
     "name": "最高のアイドル ありや",
@@ -41,7 +42,8 @@
         "id": "DCT/S86-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-003": {
     "name": "ありやとお手伝い隊 ありや",
@@ -63,7 +65,8 @@
         "id": "DCT/S86-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-004": {
     "name": "無双の御曹司 周一",
@@ -85,7 +88,8 @@
         "id": "DCT/S86-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-005": {
     "name": "決意のために ありや",
@@ -107,7 +111,8 @@
         "id": "DCT/S86-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-006": {
     "name": "“夢見る人” ありや",
@@ -129,7 +134,8 @@
         "id": "DCT/S86-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-007": {
     "name": "戦場だってステージ ありや",
@@ -151,7 +157,8 @@
         "id": "DCT/S86-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-008": {
     "name": "生徒会選挙 周一",
@@ -173,7 +180,8 @@
         "id": "DCT/S86-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-009": {
     "name": "あふれ出る母性 茉莉亜",
@@ -195,7 +203,8 @@
         "id": "DCT/S86-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-010": {
     "name": "診察中 凌久",
@@ -217,7 +226,8 @@
         "id": "DCT/S86-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-011": {
     "name": "神社の娘 ありや",
@@ -235,7 +245,8 @@
         "id": "DCT/S86-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-012": {
     "name": "聖なる国語教師 茉莉亜",
@@ -257,7 +268,8 @@
         "id": "DCT/S86-012SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-013": {
     "name": "気まぐれな保健医 凌久",
@@ -279,7 +291,8 @@
         "id": "DCT/S86-013SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-014": {
     "name": "グータラ美術教師 無弦",
@@ -301,7 +314,8 @@
         "id": "DCT/S86-014SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-015": {
     "name": "冷静沈着な生徒会長 周一",
@@ -319,7 +333,8 @@
         "id": "DCT/S86-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-016": {
     "name": "思い出の場所 無弦",
@@ -341,7 +356,8 @@
         "id": "DCT/S86-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-017": {
     "name": "気合い十分！ ありや",
@@ -359,7 +375,8 @@
         "id": "DCT/S86-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-018": {
     "name": "孤高の騎士 周一",
@@ -377,7 +394,8 @@
         "id": "DCT/S86-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-019": {
     "name": "ドラマチック・ジェントル",
@@ -395,7 +413,8 @@
         "id": "DCT/S86-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-020": {
     "name": "全身全霊",
@@ -413,7 +432,8 @@
         "id": "DCT/S86-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-021": {
     "name": "星が繋ぐ絆",
@@ -435,7 +455,8 @@
         "id": "DCT/S86-021R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-022": {
     "name": "ようこそ楽園へ",
@@ -453,7 +474,8 @@
         "id": "DCT/S86-022",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-023": {
     "name": "剣戟",
@@ -475,7 +497,8 @@
         "id": "DCT/S86-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-024": {
     "name": "本当の強さ 愛莉",
@@ -497,7 +520,8 @@
         "id": "DCT/S86-024SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-025": {
     "name": "れっきとした大人 ジェシカ",
@@ -519,7 +543,8 @@
         "id": "DCT/S86-025SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-026": {
     "name": "まだまだ成長期 ジェシカ",
@@ -541,7 +566,8 @@
         "id": "DCT/S86-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-027": {
     "name": "吹っ切れたお嬢様 愛莉",
@@ -563,7 +589,8 @@
         "id": "DCT/S86-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-028": {
     "name": "賑やかなお茶会 愛莉",
@@ -585,7 +612,8 @@
         "id": "DCT/S86-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-029": {
     "name": "天文台の天才エンジニア 花菜",
@@ -607,7 +635,8 @@
         "id": "DCT/S86-029SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-030": {
     "name": "覚醒 愛莉",
@@ -629,7 +658,8 @@
         "id": "DCT/S86-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-031": {
     "name": "“夢見る人” 花菜＆まろん＆樹理",
@@ -647,7 +677,8 @@
         "id": "DCT/S86-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-032": {
     "name": "夜の大捜査線 まろん",
@@ -669,7 +700,8 @@
         "id": "DCT/S86-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-033": {
     "name": "天然な新米警官 まろん",
@@ -691,7 +723,8 @@
         "id": "DCT/S86-033SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-034": {
     "name": "令嬢警官 樹理",
@@ -713,7 +746,8 @@
         "id": "DCT/S86-034SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-035": {
     "name": "魅惑のルージュ 愛莉",
@@ -731,7 +765,8 @@
         "id": "DCT/S86-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-036": {
     "name": "今日も巡回中 樹理",
@@ -753,7 +788,8 @@
         "id": "DCT/S86-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-037": {
     "name": "“夢見る人” 愛莉",
@@ -771,7 +807,8 @@
         "id": "DCT/S86-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-038": {
     "name": "準備はまかせて 愛莉",
@@ -789,7 +826,8 @@
         "id": "DCT/S86-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-039": {
     "name": "“夢見る人” ジェシカ",
@@ -807,7 +845,8 @@
         "id": "DCT/S86-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-040": {
     "name": "世紀の大発見 花菜",
@@ -829,7 +868,8 @@
         "id": "DCT/S86-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-041": {
     "name": "賑やかなのも悪くない ジェシカ",
@@ -847,7 +887,8 @@
         "id": "DCT/S86-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-042": {
     "name": "イタズラしちゃうぞ！ ジェシカ",
@@ -865,7 +906,8 @@
         "id": "DCT/S86-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-043": {
     "name": "ジェシカ・クレイボーン",
@@ -883,7 +925,8 @@
         "id": "DCT/S86-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-044": {
     "name": "休憩タイム ジェシカ",
@@ -901,7 +944,8 @@
         "id": "DCT/S86-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-045": {
     "name": "女王様的魅力 愛莉",
@@ -919,7 +963,8 @@
         "id": "DCT/S86-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-046": {
     "name": "極楽宝船",
@@ -937,7 +982,8 @@
         "id": "DCT/S86-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-047": {
     "name": "夢をお届け！",
@@ -955,7 +1001,8 @@
         "id": "DCT/S86-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-048": {
     "name": "最強タッグ",
@@ -977,7 +1024,8 @@
         "id": "DCT/S86-048R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-049": {
     "name": "サンセットアクション",
@@ -995,7 +1043,8 @@
         "id": "DCT/S86-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-050": {
     "name": "仲良しの孔雀さん",
@@ -1013,7 +1062,8 @@
         "id": "DCT/S86-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-051": {
     "name": "熱き高校生ファイター 龍平",
@@ -1035,7 +1085,8 @@
         "id": "DCT/S86-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-052": {
     "name": "友達思い 玲菜",
@@ -1057,7 +1108,8 @@
         "id": "DCT/S86-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-053": {
     "name": "魅惑のルージュ 玲菜",
@@ -1079,7 +1131,8 @@
         "id": "DCT/S86-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-054": {
     "name": "電光石火 或斗",
@@ -1101,7 +1154,8 @@
         "id": "DCT/S86-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-055": {
     "name": "ランニング中 龍平",
@@ -1123,7 +1177,8 @@
         "id": "DCT/S86-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-056": {
     "name": "天才プロゲーマー 或斗",
@@ -1145,7 +1200,8 @@
         "id": "DCT/S86-056SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-057": {
     "name": "“夢見る人” 龍平",
@@ -1167,7 +1223,8 @@
         "id": "DCT/S86-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-058": {
     "name": "閉店後 瑛士",
@@ -1189,7 +1246,8 @@
         "id": "DCT/S86-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-059": {
     "name": "ポジティブインフルエンサー 玲菜",
@@ -1207,7 +1265,8 @@
         "id": "DCT/S86-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-060": {
     "name": "インラインスケート 或斗",
@@ -1229,7 +1288,8 @@
         "id": "DCT/S86-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-061": {
     "name": "ぽん太とお昼寝 葉月",
@@ -1251,7 +1311,8 @@
         "id": "DCT/S86-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-062": {
     "name": "謎のバーマスター 瑛士",
@@ -1273,7 +1334,8 @@
         "id": "DCT/S86-062SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-063": {
     "name": "小さなチャンピオン 葉月",
@@ -1295,7 +1357,8 @@
         "id": "DCT/S86-063SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-064": {
     "name": "楽勝 玲菜",
@@ -1313,7 +1376,8 @@
         "id": "DCT/S86-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-065": {
     "name": "ガジェット少年 或斗",
@@ -1331,7 +1395,8 @@
         "id": "DCT/S86-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-066": {
     "name": "カリスマノッカーアップ 玲菜",
@@ -1349,7 +1414,8 @@
         "id": "DCT/S86-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-067": {
     "name": "“夢見る人” 玲菜",
@@ -1367,7 +1433,8 @@
         "id": "DCT/S86-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-068": {
     "name": "正義の鉄拳 龍平",
@@ -1385,7 +1452,8 @@
         "id": "DCT/S86-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-069": {
     "name": "愛されギャル 玲菜",
@@ -1403,7 +1471,8 @@
         "id": "DCT/S86-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-070": {
     "name": "若き獅子王 龍平",
@@ -1421,7 +1490,8 @@
         "id": "DCT/S86-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-071": {
     "name": "あいあむうぃなー！",
@@ -1439,7 +1509,8 @@
         "id": "DCT/S86-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-072": {
     "name": "オトナの本気",
@@ -1457,7 +1528,8 @@
         "id": "DCT/S86-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-073": {
     "name": "たこ焼きパーティ",
@@ -1479,7 +1551,8 @@
         "id": "DCT/S86-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-074": {
     "name": "プリン争奪戦",
@@ -1501,7 +1574,8 @@
         "id": "DCT/S86-074R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-075": {
     "name": "らんちぱーてぃ！",
@@ -1519,7 +1593,8 @@
         "id": "DCT/S86-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-076": {
     "name": "気付いた感情 える",
@@ -1541,7 +1616,8 @@
         "id": "DCT/S86-076SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-077": {
     "name": "慣れないお出迎え える",
@@ -1563,7 +1639,8 @@
         "id": "DCT/S86-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-078": {
     "name": "ミステリアス転校生 える",
@@ -1585,7 +1662,8 @@
         "id": "DCT/S86-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-079": {
     "name": "夢見る高校生 蘭堂",
@@ -1607,7 +1685,8 @@
         "id": "DCT/S86-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-080": {
     "name": "深めた絆 蘭堂",
@@ -1625,7 +1704,8 @@
         "id": "DCT/S86-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-081": {
     "name": "明日の約束 亞希",
@@ -1647,7 +1727,8 @@
         "id": "DCT/S86-081SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-082": {
     "name": "内緒のサンタクロース える",
@@ -1669,7 +1750,8 @@
         "id": "DCT/S86-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-083": {
     "name": "ミステリアスメイド える",
@@ -1691,7 +1773,8 @@
         "id": "DCT/S86-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-084": {
     "name": "虹がかかるひととき 蘭堂",
@@ -1713,7 +1796,8 @@
         "id": "DCT/S86-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-085": {
     "name": "恋する少女 凛",
@@ -1735,7 +1819,8 @@
         "id": "DCT/S86-085SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-086": {
     "name": "慣れないお出迎え 蘭堂",
@@ -1753,7 +1838,8 @@
         "id": "DCT/S86-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-087": {
     "name": "下校の時間 凛",
@@ -1775,7 +1861,8 @@
         "id": "DCT/S86-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-088": {
     "name": "不思議な転校生 える",
@@ -1793,7 +1880,8 @@
         "id": "DCT/S86-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-089": {
     "name": "運命の夜明け える",
@@ -1815,7 +1903,8 @@
         "id": "DCT/S86-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-090": {
     "name": "“夢見る人” える",
@@ -1833,7 +1922,8 @@
         "id": "DCT/S86-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-091": {
     "name": "海神の力 える",
@@ -1851,7 +1941,8 @@
         "id": "DCT/S86-091",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-092": {
     "name": "優しき美術部員 蘭堂",
@@ -1869,7 +1960,8 @@
         "id": "DCT/S86-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-093": {
     "name": "“夢見る人” 蘭堂",
@@ -1887,7 +1979,8 @@
         "id": "DCT/S86-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-094": {
     "name": "神の使い トリス",
@@ -1905,7 +1998,8 @@
         "id": "DCT/S86-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-095": {
     "name": "復讐のため える",
@@ -1923,7 +2017,8 @@
         "id": "DCT/S86-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-096": {
     "name": "馳せる想い",
@@ -1941,7 +2036,8 @@
         "id": "DCT/S86-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-097": {
     "name": "友と並び立つ",
@@ -1959,7 +2055,8 @@
         "id": "DCT/S86-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-098": {
     "name": "怒りを胸に",
@@ -1981,7 +2078,8 @@
         "id": "DCT/S86-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-099": {
     "name": "友情の萌芽",
@@ -2003,7 +2101,8 @@
         "id": "DCT/S86-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-100": {
     "name": "恋のライバルでも",
@@ -2025,6 +2124,7 @@
         "id": "DCT/S86-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

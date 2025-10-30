@@ -15,7 +15,8 @@
         "id": "P4/S08-101",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-102": {
     "name": "ペラペラ クマ",
@@ -33,7 +34,8 @@
         "id": "P4/S08-102",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-T01": {
     "name": "吹奏楽部 松永綾音",
@@ -51,7 +53,8 @@
         "id": "P4/S08-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-T02": {
     "name": "ミスコン？主人公ちゃん",
@@ -69,7 +72,8 @@
         "id": "P4/S08-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-T03": {
     "name": "主人公の相棒 陽介",
@@ -87,7 +91,8 @@
         "id": "P4/S08-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-T04": {
     "name": "浴衣の菜々子",
@@ -105,7 +110,8 @@
         "id": "P4/S08-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-T05": {
     "name": "友情の絆創膏 陽介",
@@ -123,7 +129,8 @@
         "id": "P4/S08-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-T06": {
     "name": "父親の誓い 堂島",
@@ -141,7 +148,8 @@
         "id": "P4/S08-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-T07": {
     "name": "リーダー主人公",
@@ -159,7 +167,8 @@
         "id": "P4/S08-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-T08": {
     "name": "陽介＆スサノオ",
@@ -177,7 +186,8 @@
         "id": "P4/S08-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-T09": {
     "name": "Never More",
@@ -195,7 +205,8 @@
         "id": "P4/S08-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P4/S08-T10": {
     "name": "ブレイブザッパー",
@@ -213,7 +224,8 @@
         "id": "P4/S08-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-T11": {
     "name": "マネージャー海老原あい",
@@ -231,7 +243,8 @@
         "id": "P4/S08-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-T12": {
     "name": "“青春の主張”クマ",
@@ -249,7 +262,8 @@
         "id": "P4/S08-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-T13": {
     "name": "名探偵 直斗",
@@ -267,7 +281,8 @@
         "id": "P4/S08-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-T14": {
     "name": "“熊田”ちゃん",
@@ -285,7 +300,8 @@
         "id": "P4/S08-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-T15": {
     "name": "すべての人の魂の詩",
@@ -303,7 +319,8 @@
         "id": "P4/S08-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-T16": {
     "name": "マハブフダイン",
@@ -321,6 +338,7 @@
         "id": "P4/S08-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

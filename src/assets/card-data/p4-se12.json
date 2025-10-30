@@ -15,7 +15,8 @@
         "id": "P4/SE12-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-02": {
     "name": "“切り札”となる力 悠",
@@ -33,7 +34,8 @@
         "id": "P4/SE12-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-03": {
     "name": "フードコートの菜々子",
@@ -51,7 +53,8 @@
         "id": "P4/SE12-03",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/SE12-04": {
     "name": "“お兄ちゃん”悠",
@@ -69,7 +72,8 @@
         "id": "P4/SE12-04",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-05": {
     "name": "しっかり者の小学生 菜々子",
@@ -87,7 +91,8 @@
         "id": "P4/SE12-05",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-06": {
     "name": "陽気なクラスメイト 陽介",
@@ -105,7 +110,8 @@
         "id": "P4/SE12-06",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-07": {
     "name": "お出迎え 堂島",
@@ -123,7 +129,8 @@
         "id": "P4/SE12-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/SE12-08": {
     "name": "面倒見のいいムードメーカー 陽介",
@@ -141,7 +148,8 @@
         "id": "P4/SE12-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/SE12-09": {
     "name": "悠＆イザナギ",
@@ -159,7 +167,8 @@
         "id": "P4/SE12-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/SE12-10": {
     "name": "ペルソナ",
@@ -177,7 +186,8 @@
         "id": "P4/SE12-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-11": {
     "name": "ジライヤ発動",
@@ -195,7 +205,8 @@
         "id": "P4/SE12-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P4/SE12-12": {
     "name": "新たな仲間 りせ",
@@ -213,7 +224,8 @@
         "id": "P4/SE12-12",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-13": {
     "name": "自称特別捜査隊 千枝",
@@ -231,7 +243,8 @@
         "id": "P4/SE12-13",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/SE12-14": {
     "name": "揺れる気持ち りせ",
@@ -249,7 +262,8 @@
         "id": "P4/SE12-14",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/SE12-15": {
     "name": "雪子の味方 千枝",
@@ -267,7 +281,8 @@
         "id": "P4/SE12-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-16": {
     "name": "どこでも出前！ あいか",
@@ -285,7 +300,8 @@
         "id": "P4/SE12-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-17": {
     "name": "“必殺の蹴り”千枝",
@@ -303,7 +319,8 @@
         "id": "P4/SE12-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-18": {
     "name": "女子高生アイドル りせ",
@@ -321,7 +338,8 @@
         "id": "P4/SE12-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/SE12-19": {
     "name": "千枝の覚醒",
@@ -339,7 +357,8 @@
         "id": "P4/SE12-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-20": {
     "name": "大ショック！ 完二",
@@ -357,7 +376,8 @@
         "id": "P4/SE12-20",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-21": {
     "name": "自称特別捜査隊 雪子",
@@ -375,7 +395,8 @@
         "id": "P4/SE12-21",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-22": {
     "name": "一件落着 雪子",
@@ -393,7 +414,8 @@
         "id": "P4/SE12-22",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/SE12-23": {
     "name": "自称特別捜査隊 完二",
@@ -411,7 +433,8 @@
         "id": "P4/SE12-23",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/SE12-24": {
     "name": "生田目 太郎",
@@ -429,7 +452,8 @@
         "id": "P4/SE12-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-25": {
     "name": "一刀両断 雪子",
@@ -447,7 +471,8 @@
         "id": "P4/SE12-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-26": {
     "name": "本当はいい奴 完二",
@@ -465,7 +490,8 @@
         "id": "P4/SE12-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-27": {
     "name": "お調子者 足立",
@@ -483,7 +509,8 @@
         "id": "P4/SE12-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-28": {
     "name": "コノハナサクヤ発動",
@@ -501,7 +528,8 @@
         "id": "P4/SE12-28",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-29": {
     "name": "頭脳明晰 直斗",
@@ -519,7 +547,8 @@
         "id": "P4/SE12-29",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-30": {
     "name": "アンチエイジング クマ",
@@ -537,7 +566,8 @@
         "id": "P4/SE12-30",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/SE12-31": {
     "name": "ミスコンは無理！？ 直斗",
@@ -555,7 +585,8 @@
         "id": "P4/SE12-31",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-32": {
     "name": "タロットの報せ マーガレット",
@@ -573,7 +604,8 @@
         "id": "P4/SE12-32",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-33": {
     "name": "霧を見通すメガネ クマ",
@@ -591,7 +623,8 @@
         "id": "P4/SE12-33",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-34": {
     "name": "ブリリアント クマ",
@@ -609,7 +642,8 @@
         "id": "P4/SE12-34",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-35": {
     "name": "自称特別捜査隊 直斗",
@@ -627,7 +661,8 @@
         "id": "P4/SE12-35",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/SE12-36": {
     "name": "キントキドウジ発動",
@@ -645,7 +680,8 @@
         "id": "P4/SE12-36",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-37": {
     "name": "堂島 菜々子",
@@ -663,7 +699,8 @@
         "id": "P4/SE12-37",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-38": {
     "name": "花村 陽介",
@@ -681,7 +718,8 @@
         "id": "P4/SE12-38",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-39": {
     "name": "“契約の鍵”主人公",
@@ -699,7 +737,8 @@
         "id": "P4/SE12-39",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-40": {
     "name": "堂島 遼太郎",
@@ -717,7 +756,8 @@
         "id": "P4/SE12-40",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/SE12-41": {
     "name": "陽介＆ジライヤ",
@@ -735,7 +775,8 @@
         "id": "P4/SE12-41",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/SE12-42": {
     "name": "主人公（Ｐ４）",
@@ -753,7 +794,8 @@
         "id": "P4/SE12-42",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/SE12-43": {
     "name": "イザナギ覚醒",
@@ -771,7 +813,8 @@
         "id": "P4/SE12-43",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P4/SE12-44": {
     "name": "里中 千枝",
@@ -789,7 +832,8 @@
         "id": "P4/SE12-44",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-45": {
     "name": "久慈川 りせ",
@@ -807,7 +851,8 @@
         "id": "P4/SE12-45",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/SE12-46": {
     "name": "千枝＆トモエ",
@@ -825,7 +870,8 @@
         "id": "P4/SE12-46",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-47": {
     "name": "現役美少女アイドル",
@@ -843,7 +889,8 @@
         "id": "P4/SE12-47",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P4/SE12-48": {
     "name": "天城 雪子",
@@ -861,7 +908,8 @@
         "id": "P4/SE12-48",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-49": {
     "name": "巽 完二",
@@ -879,7 +927,8 @@
         "id": "P4/SE12-49",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-50": {
     "name": "完二＆タケミカヅチ",
@@ -897,7 +946,8 @@
         "id": "P4/SE12-50",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-51": {
     "name": "雪子＆コノハナサクヤ",
@@ -915,7 +965,8 @@
         "id": "P4/SE12-51",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/SE12-52": {
     "name": "オレの出番ッス！",
@@ -933,7 +984,8 @@
         "id": "P4/SE12-52",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-53": {
     "name": "突撃逆ナン大作戦",
@@ -951,7 +1003,8 @@
         "id": "P4/SE12-53",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-54": {
     "name": "クマ",
@@ -969,7 +1022,8 @@
         "id": "P4/SE12-54",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-55": {
     "name": "ペラペラ クマ",
@@ -987,7 +1041,8 @@
         "id": "P4/SE12-55",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/SE12-56": {
     "name": "白鐘 直斗",
@@ -1005,6 +1060,7 @@
         "id": "P4/SE12-56",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -15,7 +15,8 @@
         "id": "KC/SE28-01",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-02": {
     "name": "北方棲姫",
@@ -37,7 +38,8 @@
         "id": "KC/SE28-02SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-03": {
     "name": "最終形態 北方棲姫",
@@ -59,7 +61,8 @@
         "id": "KC/SE28-03SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/SE28-04": {
     "name": "重巡ネ級",
@@ -77,7 +80,8 @@
         "id": "KC/SE28-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-05": {
     "name": "中間棲姫",
@@ -99,7 +103,8 @@
         "id": "KC/SE28-05SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-06": {
     "name": "空母棲鬼",
@@ -117,7 +122,8 @@
         "id": "KC/SE28-06",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-07": {
     "name": "装甲空母鬼",
@@ -135,7 +141,8 @@
         "id": "KC/SE28-07",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-08": {
     "name": "装甲空母姫",
@@ -153,7 +160,8 @@
         "id": "KC/SE28-08",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-09": {
     "name": "飛行場姫",
@@ -175,7 +183,8 @@
         "id": "KC/SE28-09SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/SE28-10": {
     "name": "軽巡ツ級",
@@ -193,7 +202,8 @@
         "id": "KC/SE28-10",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-11": {
     "name": "駆逐ニ級",
@@ -211,7 +221,8 @@
         "id": "KC/SE28-11",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-12": {
     "name": "港湾水鬼",
@@ -229,7 +240,8 @@
         "id": "KC/SE28-12",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/SE28-13": {
     "name": "空母水鬼",
@@ -251,7 +263,8 @@
         "id": "KC/SE28-13SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/SE28-14": {
     "name": "空母棲姫",
@@ -273,7 +286,8 @@
         "id": "KC/SE28-14SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/SE28-15": {
     "name": "バーサーカーモード 港湾棲姫",
@@ -295,7 +309,8 @@
         "id": "KC/SE28-15SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/SE28-16": {
     "name": "浮遊要塞",
@@ -313,7 +328,8 @@
         "id": "KC/SE28-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-17": {
     "name": "駆逐イ級",
@@ -331,7 +347,8 @@
         "id": "KC/SE28-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-18": {
     "name": "潜水ソ級",
@@ -349,7 +366,8 @@
         "id": "KC/SE28-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-19": {
     "name": "雷巡チ級",
@@ -367,7 +385,8 @@
         "id": "KC/SE28-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-20": {
     "name": "戦艦ル級",
@@ -385,7 +404,8 @@
         "id": "KC/SE28-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-21": {
     "name": "港湾棲姫",
@@ -403,7 +423,8 @@
         "id": "KC/SE28-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-22": {
     "name": "最終形態 中間棲姫",
@@ -421,7 +442,8 @@
         "id": "KC/SE28-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/SE28-23": {
     "name": "シズンデェ！",
@@ -439,7 +461,8 @@
         "id": "KC/SE28-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-24": {
     "name": "ナニモ…ワカッテイナイ…",
@@ -457,7 +480,8 @@
         "id": "KC/SE28-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-25": {
     "name": "ダカラ…ムリナノヨ…",
@@ -475,7 +499,8 @@
         "id": "KC/SE28-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KC/SE28-26": {
     "name": "泊地棲鬼",
@@ -497,7 +522,8 @@
         "id": "KC/SE28-26SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-27": {
     "name": "最終形態 軽巡棲鬼",
@@ -519,7 +545,8 @@
         "id": "KC/SE28-27SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-28": {
     "name": "戦艦水鬼",
@@ -537,7 +564,8 @@
         "id": "KC/SE28-28",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/SE28-29": {
     "name": "南方棲戦姫",
@@ -555,7 +583,8 @@
         "id": "KC/SE28-29",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-30": {
     "name": "南方棲鬼",
@@ -573,7 +602,8 @@
         "id": "KC/SE28-30",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-31": {
     "name": "泊地棲姫",
@@ -591,7 +621,8 @@
         "id": "KC/SE28-31",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-32": {
     "name": "水母棲姫",
@@ -613,7 +644,8 @@
         "id": "KC/SE28-32SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/SE28-33": {
     "name": "離島棲鬼",
@@ -635,7 +667,8 @@
         "id": "KC/SE28-33SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/SE28-34": {
     "name": "防空棲姫",
@@ -657,7 +690,8 @@
         "id": "KC/SE28-34SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/SE28-35": {
     "name": "輸送ワ級",
@@ -675,7 +709,8 @@
         "id": "KC/SE28-35",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-36": {
     "name": "潜水カ級",
@@ -693,7 +728,8 @@
         "id": "KC/SE28-36",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-37": {
     "name": "軽巡棲鬼",
@@ -711,7 +747,8 @@
         "id": "KC/SE28-37",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-38": {
     "name": "軽母ヌ級",
@@ -729,7 +766,8 @@
         "id": "KC/SE28-38",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-39": {
     "name": "戦艦レ級",
@@ -747,7 +785,8 @@
         "id": "KC/SE28-39",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/SE28-40": {
     "name": "戦艦棲姫",
@@ -769,7 +808,8 @@
         "id": "KC/SE28-40SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/SE28-41": {
     "name": "駆逐棲姫",
@@ -791,7 +831,8 @@
         "id": "KC/SE28-41SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-42": {
     "name": "重巡リ級",
@@ -809,7 +850,8 @@
         "id": "KC/SE28-42",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-43": {
     "name": "駆逐ハ級",
@@ -827,7 +869,8 @@
         "id": "KC/SE28-43",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-44": {
     "name": "軽巡ホ級",
@@ -845,7 +888,8 @@
         "id": "KC/SE28-44",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-45": {
     "name": "戦艦タ級",
@@ -863,7 +907,8 @@
         "id": "KC/SE28-45",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-46": {
     "name": "南方棲戦鬼",
@@ -881,7 +926,8 @@
         "id": "KC/SE28-46",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-47": {
     "name": "泊地水鬼",
@@ -903,7 +949,8 @@
         "id": "KC/SE28-47SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/SE28-48": {
     "name": "オチロッ！",
@@ -921,7 +968,8 @@
         "id": "KC/SE28-48",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KC/SE28-49": {
     "name": "シズミナサイ！",
@@ -939,7 +987,8 @@
         "id": "KC/SE28-49",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/SE28-50": {
     "name": "ウッフフ…ドオ？ イタイ？",
@@ -957,6 +1006,7 @@
         "id": "KC/SE28-50",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

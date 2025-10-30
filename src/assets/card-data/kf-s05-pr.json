@@ -15,7 +15,8 @@
         "id": "KF/S05-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KF/S05-104": {
     "name": "永遠のサイキックアイドル アテナ",
@@ -33,7 +34,8 @@
         "id": "KF/S05-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KF/S05-105": {
     "name": "最強の称号 KOF",
@@ -51,7 +53,8 @@
         "id": "KF/S05-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KF/S05-106": {
     "name": "ムエタイマジック キング",
@@ -69,7 +72,8 @@
         "id": "KF/S05-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KF/S05-107": {
     "name": "サイコソルジャー アテナ",
@@ -87,7 +91,8 @@
         "id": "KF/S05-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KF/S05-108": {
     "name": "極限小町 ユリ",
@@ -105,6 +110,7 @@
         "id": "KF/S05-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

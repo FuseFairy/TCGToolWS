@@ -19,7 +19,8 @@
         "id": "5HY/WE43-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/WE43-P02": {
     "name": "五つ子の夏 一花＆二乃＆三玖＆四葉＆五月",
@@ -37,7 +38,8 @@
         "id": "5HY/WE43-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/WE43-P03": {
     "name": "放課後グルメ探訪 中野 一花",
@@ -55,7 +57,8 @@
         "id": "5HY/WE43-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "5HY/WE43-P04": {
     "name": "放課後グルメ探訪 中野 二乃",
@@ -73,7 +76,8 @@
         "id": "5HY/WE43-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/WE43-P05": {
     "name": "放課後グルメ探訪 中野 三玖",
@@ -91,7 +95,8 @@
         "id": "5HY/WE43-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/WE43-P06": {
     "name": "放課後グルメ探訪 中野 四葉",
@@ -109,7 +114,8 @@
         "id": "5HY/WE43-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/WE43-P07": {
     "name": "放課後グルメ探訪 中野 五月",
@@ -127,6 +133,7 @@
         "id": "5HY/WE43-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

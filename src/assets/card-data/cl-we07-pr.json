@@ -15,7 +15,8 @@
         "id": "CL/WE07-73",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-74": {
     "name": "ことみ＆渚＆風子",
@@ -33,7 +34,8 @@
         "id": "CL/WE07-74",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-75": {
     "name": "朋也のクラスメート 杏",
@@ -51,7 +53,8 @@
         "id": "CL/WE07-75",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-76": {
     "name": "まじめな女の子 智代",
@@ -69,7 +72,8 @@
         "id": "CL/WE07-76",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-77": {
     "name": "“部員募集中！”渚",
@@ -87,7 +91,8 @@
         "id": "CL/WE07-77",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WE07-78": {
     "name": "仲良し夫婦 渚＆朋也",
@@ -105,6 +110,7 @@
         "id": "CL/WE07-78",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

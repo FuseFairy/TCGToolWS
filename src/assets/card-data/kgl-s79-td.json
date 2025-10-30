@@ -15,7 +15,8 @@
         "id": "KGL/S79-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-T02": {
     "name": "生徒会長 御行",
@@ -33,7 +34,8 @@
         "id": "KGL/S79-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-T03": {
     "name": "とっとり鳥の助 千花",
@@ -51,7 +53,8 @@
         "id": "KGL/S79-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-T04": {
     "name": "書記 千花",
@@ -69,7 +72,8 @@
         "id": "KGL/S79-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-T05": {
     "name": "恋愛相談 御行",
@@ -87,7 +91,8 @@
         "id": "KGL/S79-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-T06": {
     "name": "TG部 千花",
@@ -105,7 +110,8 @@
         "id": "KGL/S79-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-T07": {
     "name": "お年頃 千花",
@@ -127,7 +133,8 @@
         "id": "KGL/S79-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-T08": {
     "name": "生徒会の二人",
@@ -145,7 +152,8 @@
         "id": "KGL/S79-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-T09": {
     "name": "秀知院生徒会",
@@ -163,7 +171,8 @@
         "id": "KGL/S79-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KGL/S79-T10": {
     "name": "ベッドに腰掛ける愛",
@@ -181,7 +190,8 @@
         "id": "KGL/S79-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-T11": {
     "name": "ご機嫌なかぐや",
@@ -199,7 +209,8 @@
         "id": "KGL/S79-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-T12": {
     "name": "近侍 愛",
@@ -221,7 +232,8 @@
         "id": "KGL/S79-T12R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-T13": {
     "name": "不安と期待 かぐや",
@@ -243,7 +255,8 @@
         "id": "KGL/S79-T13S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-T14": {
     "name": "現場検証 愛",
@@ -261,7 +274,8 @@
         "id": "KGL/S79-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-T15": {
     "name": "コーディネート 愛",
@@ -279,7 +293,8 @@
         "id": "KGL/S79-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-T16": {
     "name": "白銀系？ 圭",
@@ -301,7 +316,8 @@
         "id": "KGL/S79-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-T17": {
     "name": "副会長 かぐや",
@@ -323,7 +339,8 @@
         "id": "KGL/S79-T17SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-T18": {
     "name": "恋愛頭脳戦",
@@ -341,7 +358,8 @@
         "id": "KGL/S79-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-T19": {
     "name": "恵まれた私",
@@ -363,6 +381,7 @@
         "id": "KGL/S79-T19S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

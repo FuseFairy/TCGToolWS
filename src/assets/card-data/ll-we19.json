@@ -19,7 +19,8 @@
         "id": "LL/WE19-01SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE19-02": {
     "name": "“それは僕たちの奇跡”南 ことり",
@@ -41,7 +42,8 @@
         "id": "LL/WE19-02SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE19-03": {
     "name": "“それは僕たちの奇跡”高坂 穂乃果",
@@ -63,7 +65,8 @@
         "id": "LL/WE19-03SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE19-04": {
     "name": "“それは僕たちの奇跡”西木野 真姫",
@@ -85,7 +88,8 @@
         "id": "LL/WE19-04SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE19-05": {
     "name": "“それは僕たちの奇跡”東條 希",
@@ -107,7 +111,8 @@
         "id": "LL/WE19-05SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE19-06": {
     "name": "“それは僕たちの奇跡”園田 海未",
@@ -129,7 +134,8 @@
         "id": "LL/WE19-06SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE19-07": {
     "name": "“それは僕たちの奇跡”小泉 花陽",
@@ -151,7 +157,8 @@
         "id": "LL/WE19-07SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE19-08": {
     "name": "“それは僕たちの奇跡”星空 凛",
@@ -173,7 +180,8 @@
         "id": "LL/WE19-08SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE19-09": {
     "name": "“それは僕たちの奇跡”絢瀬 絵里",
@@ -195,7 +203,8 @@
         "id": "LL/WE19-09SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE19-10": {
     "name": "統堂 英玲奈",
@@ -213,7 +222,8 @@
         "id": "LL/WE19-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE19-11": {
     "name": "優木 あんじゅ",
@@ -231,7 +241,8 @@
         "id": "LL/WE19-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE19-12": {
     "name": "綺羅 ツバサ",
@@ -249,7 +260,8 @@
         "id": "LL/WE19-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE19-13": {
     "name": "“夢に向かって”μ's",
@@ -267,7 +279,8 @@
         "id": "LL/WE19-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE19-14": {
     "name": "スランプ",
@@ -285,7 +298,8 @@
         "id": "LL/WE19-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE19-15": {
     "name": "それは僕たちの奇跡",
@@ -303,7 +317,8 @@
         "id": "LL/WE19-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LL/WE19-16": {
     "name": "どんなときもずっと",
@@ -321,7 +336,8 @@
         "id": "LL/WE19-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LL/WE19-17": {
     "name": "ユメノトビラ",
@@ -339,7 +355,8 @@
         "id": "LL/WE19-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE19-18": {
     "name": "Shocking Party",
@@ -357,7 +374,8 @@
         "id": "LL/WE19-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE19-19": {
     "name": "生徒会長 穂乃果",
@@ -375,7 +393,8 @@
         "id": "LL/WE19-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE19-20": {
     "name": "デザイナー ことり",
@@ -393,7 +412,8 @@
         "id": "LL/WE19-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE19-21": {
     "name": "山頂アタック 海未",
@@ -411,7 +431,8 @@
         "id": "LL/WE19-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE19-22": {
     "name": "“名案”絵里",
@@ -429,7 +450,8 @@
         "id": "LL/WE19-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE19-23": {
     "name": "後輩想いの希",
@@ -447,7 +469,8 @@
         "id": "LL/WE19-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE19-24": {
     "name": "自慢の作詞 にこ",
@@ -465,7 +488,8 @@
         "id": "LL/WE19-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE19-25": {
     "name": "アイドル発見！ 花陽",
@@ -483,7 +507,8 @@
         "id": "LL/WE19-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE19-26": {
     "name": "作曲中 真姫",
@@ -501,7 +526,8 @@
         "id": "LL/WE19-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE19-27": {
     "name": "大号泣 凛",
@@ -519,6 +545,7 @@
         "id": "LL/WE19-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

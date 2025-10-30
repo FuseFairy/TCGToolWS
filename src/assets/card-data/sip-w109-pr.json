@@ -15,7 +15,8 @@
         "id": "SIP/W109-142",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIP/W109-P05": {
     "name": "くるくるアイス 唐 可可",
@@ -33,7 +34,8 @@
         "id": "SIP/W109-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIP/W109-P19": {
     "name": "幸せのアップルパイ 澁谷 かのん",
@@ -51,7 +53,8 @@
         "id": "SIP/W109-P19",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIP/W109-P20": {
     "name": "サニパサプライズ 唐 可可",
@@ -69,7 +72,8 @@
         "id": "SIP/W109-P20",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIP/W109-P21": {
     "name": "マルをめぐった一日 嵐 千砂都",
@@ -87,7 +91,8 @@
         "id": "SIP/W109-P21",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIP/W109-P22": {
     "name": "メロンにめろめろ♡ 平安名 すみれ",
@@ -105,7 +110,8 @@
         "id": "SIP/W109-P22",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIP/W109-P23": {
     "name": "苺スイーツビュッフェ 葉月 恋",
@@ -123,7 +129,8 @@
         "id": "SIP/W109-P23",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIP/W109-P24": {
     "name": "東京フライドポテト 桜小路 きな子",
@@ -141,7 +148,8 @@
         "id": "SIP/W109-P24",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIP/W109-P25": {
     "name": "猫カフェ日和 米女 メイ",
@@ -159,7 +167,8 @@
         "id": "SIP/W109-P25",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIP/W109-P26": {
     "name": "クワガタケーキ 若菜 四季",
@@ -177,7 +186,8 @@
         "id": "SIP/W109-P26",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIP/W109-P27": {
     "name": "長いお鼻に掴まって 鬼塚 夏美",
@@ -195,7 +205,8 @@
         "id": "SIP/W109-P27",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIP/W109-P28": {
     "name": "デュエット ウィーン・マルガレーテ",
@@ -213,7 +224,8 @@
         "id": "SIP/W109-P28",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIP/W109-P29": {
     "name": "Jellyfish 鬼塚 冬毬",
@@ -231,6 +243,7 @@
         "id": "SIP/W109-P29",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

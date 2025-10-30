@@ -15,7 +15,8 @@
         "id": "APO/S53-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "APO/S53-P02": {
     "name": "“聖杯大戦”ルーラー",
@@ -33,7 +34,8 @@
         "id": "APO/S53-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "APO/S53-101": {
     "name": "ぷちルーラー",
@@ -51,7 +53,8 @@
         "id": "APO/S53-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "APO/S53-102": {
     "name": "ぷち赤のセイバー",
@@ -69,7 +72,8 @@
         "id": "APO/S53-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "APO/S53-103": {
     "name": "ぷち黒のライダー",
@@ -87,7 +91,8 @@
         "id": "APO/S53-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "APO/S53-104": {
     "name": "ぷち黒のアサシン",
@@ -105,6 +110,7 @@
         "id": "APO/S53-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

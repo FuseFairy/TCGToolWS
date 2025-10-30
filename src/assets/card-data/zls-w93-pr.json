@@ -15,7 +15,8 @@
         "id": "ZLS/W93-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-P02": {
     "name": "今も昔もアイドル 愛＆純子",
@@ -33,7 +34,8 @@
         "id": "ZLS/W93-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-P03": {
     "name": "ゾンビィ１号 さくら",
@@ -55,7 +57,8 @@
         "id": "ZLS/W93-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-101": {
     "name": "“REVENGE”さくら",
@@ -73,7 +76,8 @@
         "id": "ZLS/W93-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-102": {
     "name": "“REVENGE”サキ",
@@ -91,7 +95,8 @@
         "id": "ZLS/W93-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-103": {
     "name": "“REVENGE”愛",
@@ -109,7 +114,8 @@
         "id": "ZLS/W93-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-104": {
     "name": "“REVENGE”純子",
@@ -127,7 +133,8 @@
         "id": "ZLS/W93-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-105": {
     "name": "“佐賀事変”ゆうぎり",
@@ -145,7 +152,8 @@
         "id": "ZLS/W93-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-106": {
     "name": "残すは本番 リリィ",
@@ -163,7 +171,8 @@
         "id": "ZLS/W93-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-107": {
     "name": "“REVENGE”たえ",
@@ -181,6 +190,7 @@
         "id": "ZLS/W93-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

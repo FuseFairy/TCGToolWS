@@ -19,7 +19,8 @@
         "id": "RG/WP03-01S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/WP03-02": {
     "name": "放課後の佐天",
@@ -41,7 +42,8 @@
         "id": "RG/WP03-02S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/WP03-03": {
     "name": "夏の楽しみ 黒子",
@@ -63,7 +65,8 @@
         "id": "RG/WP03-03S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/WP03-04": {
     "name": "息の合った二人 美琴＆黒子",
@@ -85,7 +88,8 @@
         "id": "RG/WP03-04S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/WP03-05": {
     "name": "夏の楽しみ 美琴",
@@ -107,7 +111,8 @@
         "id": "RG/WP03-05S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/WP03-06": {
     "name": "素直になれない美琴",
@@ -129,7 +134,8 @@
         "id": "RG/WP03-06S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/WP03-07": {
     "name": "“ただそれだけ”美琴",
@@ -151,7 +157,8 @@
         "id": "RG/WP03-07S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/WP03-08": {
     "name": "取り戻した日常",
@@ -173,6 +180,7 @@
         "id": "RG/WP03-08S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

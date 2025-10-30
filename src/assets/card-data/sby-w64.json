@@ -19,7 +19,8 @@
         "id": "SBY/W64-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-002": {
     "name": "おるすばん妹 梓川 かえで",
@@ -41,7 +42,8 @@
         "id": "SBY/W64-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-003": {
     "name": "溜め込んだ想い 豊浜 のどか",
@@ -59,7 +61,8 @@
         "id": "SBY/W64-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-004": {
     "name": "才色兼備 桜島 麻衣",
@@ -81,7 +84,8 @@
         "id": "SBY/W64-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-005": {
     "name": "汲み取る気持ち 桜島 麻衣",
@@ -99,7 +103,8 @@
         "id": "SBY/W64-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-006": {
     "name": "黄昏の夕空 桜島 麻衣",
@@ -121,7 +126,8 @@
         "id": "SBY/W64-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-007": {
     "name": "ブラコン妹 梓川 かえで",
@@ -143,7 +149,8 @@
         "id": "SBY/W64-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-008": {
     "name": "憧れと重み 豊浜 のどか",
@@ -161,7 +168,8 @@
         "id": "SBY/W64-008",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-009": {
     "name": "おうち大好き少女 梓川 かえで",
@@ -179,7 +187,8 @@
         "id": "SBY/W64-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-010": {
     "name": "踏み出す一歩 梓川 花楓",
@@ -197,7 +206,8 @@
         "id": "SBY/W64-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-011": {
     "name": "姉想い 豊浜 のどか",
@@ -215,7 +225,8 @@
         "id": "SBY/W64-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-012": {
     "name": "記者会見 桜島 麻衣",
@@ -233,7 +244,8 @@
         "id": "SBY/W64-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-013": {
     "name": "強烈な追撃 桜島 麻衣",
@@ -251,7 +263,8 @@
         "id": "SBY/W64-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-014": {
     "name": "不器用な優しさ 梓川 咲太",
@@ -269,7 +282,8 @@
         "id": "SBY/W64-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-015": {
     "name": "複雑な心境 桜島 麻衣",
@@ -287,7 +301,8 @@
         "id": "SBY/W64-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-016": {
     "name": "羞恥心 桜島 麻衣",
@@ -305,7 +320,8 @@
         "id": "SBY/W64-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-017": {
     "name": "記憶の秘密 桜島 麻衣",
@@ -323,7 +339,8 @@
         "id": "SBY/W64-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-018": {
     "name": "妹としての危機 梓川 かえで",
@@ -341,7 +358,8 @@
         "id": "SBY/W64-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-019": {
     "name": "アナウンサー 南条 文香",
@@ -359,7 +377,8 @@
         "id": "SBY/W64-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-020": {
     "name": "進む勇気 梓川 かえで",
@@ -377,7 +396,8 @@
         "id": "SBY/W64-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-021": {
     "name": "パンダのパジャマ",
@@ -395,7 +415,8 @@
         "id": "SBY/W64-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-022": {
     "name": "秘密の宝物",
@@ -413,7 +434,8 @@
         "id": "SBY/W64-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-023": {
     "name": "狙い撃ちする心",
@@ -431,7 +453,8 @@
         "id": "SBY/W64-023",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SBY/W64-024": {
     "name": "シスターパニック",
@@ -449,7 +472,8 @@
         "id": "SBY/W64-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-025": {
     "name": "かえでクエスト",
@@ -471,7 +495,8 @@
         "id": "SBY/W64-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-026": {
     "name": "ゆめみる少女 牧之原 翔子",
@@ -493,7 +518,8 @@
         "id": "SBY/W64-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-027": {
     "name": "観測理論 双葉 理央",
@@ -515,7 +541,8 @@
         "id": "SBY/W64-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-028": {
     "name": "澄み渡る青空 古賀 朋絵",
@@ -533,7 +560,8 @@
         "id": "SBY/W64-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-029": {
     "name": "神出鬼没のお姉さん 牧之原 翔子",
@@ -555,7 +583,8 @@
         "id": "SBY/W64-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-030": {
     "name": "黄昏の夕空 牧之原 翔子",
@@ -577,7 +606,8 @@
         "id": "SBY/W64-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-031": {
     "name": "黄昏の夕空 双葉 理央",
@@ -599,7 +629,8 @@
         "id": "SBY/W64-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-032": {
     "name": "冷静沈着 双葉 理央",
@@ -621,7 +652,8 @@
         "id": "SBY/W64-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-033": {
     "name": "水着姿 古賀 朋絵",
@@ -643,7 +675,8 @@
         "id": "SBY/W64-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-034": {
     "name": "偶然の再会 古賀 朋絵",
@@ -661,7 +694,8 @@
         "id": "SBY/W64-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-035": {
     "name": "ラプラスの悪魔 古賀 朋絵",
@@ -679,7 +713,8 @@
         "id": "SBY/W64-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-036": {
     "name": "遠回しな披露 古賀 朋絵",
@@ -697,7 +732,8 @@
         "id": "SBY/W64-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-037": {
     "name": "痛烈な一言 双葉 理央",
@@ -715,7 +751,8 @@
         "id": "SBY/W64-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-038": {
     "name": "見つめる先は 双葉 理央",
@@ -733,7 +770,8 @@
         "id": "SBY/W64-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-039": {
     "name": "迷いの中で 梓川 咲太",
@@ -751,7 +789,8 @@
         "id": "SBY/W64-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-040": {
     "name": "ふたりの自分 双葉 理央",
@@ -769,7 +808,8 @@
         "id": "SBY/W64-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-041": {
     "name": "素直な感想 牧之原 翔子",
@@ -787,7 +827,8 @@
         "id": "SBY/W64-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-042": {
     "name": "おうち訪問 牧之原 翔子",
@@ -805,7 +846,8 @@
         "id": "SBY/W64-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-043": {
     "name": "決別の雨 梓川 咲太",
@@ -823,7 +865,8 @@
         "id": "SBY/W64-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-044": {
     "name": "残された想い 牧之原 翔子",
@@ -841,7 +884,8 @@
         "id": "SBY/W64-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-045": {
     "name": "お見舞い 古賀 朋絵",
@@ -859,7 +903,8 @@
         "id": "SBY/W64-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-046": {
     "name": "初恋の理由",
@@ -877,7 +922,8 @@
         "id": "SBY/W64-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-047": {
     "name": "繰り返す世界",
@@ -895,7 +941,8 @@
         "id": "SBY/W64-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-048": {
     "name": "ありったけの嘘を君に",
@@ -917,7 +964,8 @@
         "id": "SBY/W64-048R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-049": {
     "name": "怜悧な頭脳",
@@ -935,7 +983,8 @@
         "id": "SBY/W64-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SBY/W64-050": {
     "name": "悲痛な雨の中で",
@@ -953,7 +1002,8 @@
         "id": "SBY/W64-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-051": {
     "name": "バニーガール先輩 桜島 麻衣",
@@ -975,7 +1025,8 @@
         "id": "SBY/W64-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-052": {
     "name": "黄昏の夕空 梓川 かえで",
@@ -997,7 +1048,8 @@
         "id": "SBY/W64-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-053": {
     "name": "かけがえのない存在 桜島 麻衣",
@@ -1019,7 +1071,8 @@
         "id": "SBY/W64-053SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-054": {
     "name": "黄昏の夕空 豊浜 のどか",
@@ -1041,7 +1094,8 @@
         "id": "SBY/W64-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-055": {
     "name": "お兄ちゃん大好きっ子 梓川 かえで",
@@ -1063,7 +1117,8 @@
         "id": "SBY/W64-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-056": {
     "name": "なすのとお出迎え 梓川 かえで",
@@ -1081,7 +1136,8 @@
         "id": "SBY/W64-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-057": {
     "name": "現役女子高校生アイドル 豊浜 のどか",
@@ -1103,7 +1159,8 @@
         "id": "SBY/W64-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-058": {
     "name": "自己嫌悪 豊浜 のどか",
@@ -1121,7 +1178,8 @@
         "id": "SBY/W64-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-059": {
     "name": "希薄な存在 桜島 麻衣",
@@ -1139,7 +1197,8 @@
         "id": "SBY/W64-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-060": {
     "name": "プレゼント？ 梓川 かえで",
@@ -1157,7 +1216,8 @@
         "id": "SBY/W64-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-061": {
     "name": "恋人として 桜島 麻衣",
@@ -1175,7 +1235,8 @@
         "id": "SBY/W64-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-062": {
     "name": "青春ブタ野郎 梓川 咲太",
@@ -1193,7 +1254,8 @@
         "id": "SBY/W64-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-063": {
     "name": "家出少女 豊浜 のどか",
@@ -1211,7 +1273,8 @@
         "id": "SBY/W64-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-064": {
     "name": "記憶の秘密 豊浜 のどか",
@@ -1229,7 +1292,8 @@
         "id": "SBY/W64-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-065": {
     "name": "募る気持ち 桜島 麻衣",
@@ -1247,7 +1311,8 @@
         "id": "SBY/W64-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-066": {
     "name": "オトナな魅力 桜島 麻衣",
@@ -1265,7 +1330,8 @@
         "id": "SBY/W64-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-067": {
     "name": "お着換え 梓川 かえで",
@@ -1283,7 +1349,8 @@
         "id": "SBY/W64-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-068": {
     "name": "ふわふわな朝ごはん 梓川 かえで",
@@ -1301,7 +1368,8 @@
         "id": "SBY/W64-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-069": {
     "name": "地方ロケ 桜島 麻衣",
@@ -1319,7 +1387,8 @@
         "id": "SBY/W64-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-070": {
     "name": "明日への自信 梓川 かえで",
@@ -1337,7 +1406,8 @@
         "id": "SBY/W64-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-071": {
     "name": "傷跡",
@@ -1355,7 +1425,8 @@
         "id": "SBY/W64-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-072": {
     "name": "繋がる想い",
@@ -1373,7 +1444,8 @@
         "id": "SBY/W64-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-073": {
     "name": "君だけがいない世界",
@@ -1395,7 +1467,8 @@
         "id": "SBY/W64-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-074": {
     "name": "煌めくステージへ",
@@ -1417,7 +1490,8 @@
         "id": "SBY/W64-074R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-075": {
     "name": "なすのと一緒",
@@ -1435,7 +1509,8 @@
         "id": "SBY/W64-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-076": {
     "name": "謎多き少女 牧之原 翔子",
@@ -1457,7 +1532,8 @@
         "id": "SBY/W64-076SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-077": {
     "name": "プチデビル後輩 古賀 朋絵",
@@ -1479,7 +1555,8 @@
         "id": "SBY/W64-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-078": {
     "name": "小悪魔な後輩 古賀 朋絵",
@@ -1501,7 +1578,8 @@
         "id": "SBY/W64-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-079": {
     "name": "ロジカルウィッチ 双葉 理央",
@@ -1523,7 +1601,8 @@
         "id": "SBY/W64-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-080": {
     "name": "胸に抱く意味 牧之原 翔子",
@@ -1545,7 +1624,8 @@
         "id": "SBY/W64-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-081": {
     "name": "恋煩い 双葉 理央",
@@ -1563,7 +1643,8 @@
         "id": "SBY/W64-081",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-082": {
     "name": "黄昏の夕空 古賀 朋絵",
@@ -1585,7 +1666,8 @@
         "id": "SBY/W64-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-083": {
     "name": "健気な中学生 牧之原 翔子",
@@ -1607,7 +1689,8 @@
         "id": "SBY/W64-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-084": {
     "name": "お勉強会 牧之原 翔子",
@@ -1625,7 +1708,8 @@
         "id": "SBY/W64-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-085": {
     "name": "邪まな視線 古賀 朋絵",
@@ -1643,7 +1727,8 @@
         "id": "SBY/W64-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-086": {
     "name": "掴んだ現在 古賀 朋絵",
@@ -1661,7 +1746,8 @@
         "id": "SBY/W64-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-087": {
     "name": "バスケットボール部 国見 佑真",
@@ -1679,7 +1765,8 @@
         "id": "SBY/W64-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-088": {
     "name": "クラスメイト 上里 沙希",
@@ -1697,7 +1784,8 @@
         "id": "SBY/W64-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-089": {
     "name": "はやてと一緒 牧之原 翔子",
@@ -1715,7 +1803,8 @@
         "id": "SBY/W64-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-090": {
     "name": "見守る陰 双葉 理央",
@@ -1733,7 +1822,8 @@
         "id": "SBY/W64-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-091": {
     "name": "お勉強会 双葉 理央",
@@ -1751,7 +1841,8 @@
         "id": "SBY/W64-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-092": {
     "name": "買い物帰り 双葉 理央",
@@ -1769,7 +1860,8 @@
         "id": "SBY/W64-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-093": {
     "name": "支える心 牧之原 翔子",
@@ -1787,7 +1879,8 @@
         "id": "SBY/W64-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-094": {
     "name": "遠回りな解決法 梓川 咲太",
@@ -1805,7 +1898,8 @@
         "id": "SBY/W64-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-095": {
     "name": "気怠げな応対 双葉 理央",
@@ -1823,7 +1917,8 @@
         "id": "SBY/W64-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-096": {
     "name": "読心術？ 古賀 朋絵",
@@ -1841,7 +1936,8 @@
         "id": "SBY/W64-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-097": {
     "name": "なすのとはやて",
@@ -1859,7 +1955,8 @@
         "id": "SBY/W64-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-098": {
     "name": "青春はパラドックス",
@@ -1881,7 +1978,8 @@
         "id": "SBY/W64-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W64-099": {
     "name": "戻る世界、戻らない想い",
@@ -1903,7 +2001,8 @@
         "id": "SBY/W64-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W64-100": {
     "name": "どこまでも青く",
@@ -1925,6 +2024,7 @@
         "id": "SBY/W64-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

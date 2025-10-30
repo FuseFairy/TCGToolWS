@@ -15,7 +15,8 @@
         "id": "AB/W11-101",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W11-103": {
     "name": "運命に立ち向かう少女",
@@ -33,7 +34,8 @@
         "id": "AB/W11-103",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W11-104": {
     "name": "ガルデモの大ファン ユイ",
@@ -51,7 +53,8 @@
         "id": "AB/W11-104",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W11-T01": {
     "name": "カリスマボーカル 岩沢",
@@ -69,7 +72,8 @@
         "id": "AB/W11-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W11-T02": {
     "name": "姉御肌 ひさ子",
@@ -87,7 +91,8 @@
         "id": "AB/W11-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W11-T03": {
     "name": "岩沢の後継者 ユイ",
@@ -105,7 +110,8 @@
         "id": "AB/W11-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/W11-T04": {
     "name": "戦線の敵 天使",
@@ -123,7 +129,8 @@
         "id": "AB/W11-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W11-T05": {
     "name": "ガルデモのリーダー 岩沢",
@@ -141,7 +148,8 @@
         "id": "AB/W11-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W11-T06": {
     "name": "生前の記憶のない音無",
@@ -159,7 +167,8 @@
         "id": "AB/W11-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/W11-T07": {
     "name": "女の最高の幸せ",
@@ -177,6 +186,7 @@
         "id": "AB/W11-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

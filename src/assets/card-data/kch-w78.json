@@ -19,7 +19,8 @@
         "id": "Kch/W78-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kch/W78-006": {
     "name": "浜辺の姉妹 西森 柚咲&美砂",
@@ -37,7 +38,8 @@
         "id": "Kch/W78-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kch/W78-012": {
     "name": "ミステリアスな生徒会長 友利 奈緒",
@@ -59,7 +61,8 @@
         "id": "Kch/W78-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kch/W78-048": {
     "name": "約束 乙坂 有宇&友利 奈緒",
@@ -77,7 +80,8 @@
         "id": "Kch/W78-048",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kch/W78-051": {
     "name": "家族の絆 乙坂 歩未&乙坂 有宇",
@@ -95,7 +99,8 @@
         "id": "Kch/W78-051",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kch/W78-052": {
     "name": "差し伸べられた手 乙坂 有宇",
@@ -117,7 +122,8 @@
         "id": "Kch/W78-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kch/W78-057": {
     "name": "親友 熊耳&隼翼",
@@ -135,7 +141,8 @@
         "id": "Kch/W78-057",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kch/W78-063": {
     "name": "あまーい手料理 乙坂 歩未",
@@ -153,7 +160,8 @@
         "id": "Kch/W78-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kch/W78-065": {
     "name": "目指した世界",
@@ -175,7 +183,8 @@
         "id": "Kch/W78-065R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kch/W78-069": {
     "name": "もう1人の少女 美砂",
@@ -197,7 +206,8 @@
         "id": "Kch/W78-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kch/W78-084": {
     "name": "見守る 西森 柚咲&乙坂 歩未&高城 丈士朗",
@@ -215,7 +225,8 @@
         "id": "Kch/W78-084",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kch/W78-085": {
     "name": "幸せな日常 西森 柚咲",
@@ -233,7 +244,8 @@
         "id": "Kch/W78-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kch/W78-088": {
     "name": "着痩せするタイプ 高城 丈士朗",
@@ -251,7 +263,8 @@
         "id": "Kch/W78-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kch/W78-095": {
     "name": "撮りたかった景色 友利 奈緒",
@@ -273,7 +286,8 @@
         "id": "Kch/W78-095SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kch/W78-097": {
     "name": "幸せな日常 友利 奈緒",
@@ -291,7 +305,8 @@
         "id": "Kch/W78-097",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kch/W78-099": {
     "name": "幸せな日常 乙坂 歩未",
@@ -313,7 +328,8 @@
         "id": "Kch/W78-099S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kch/W78-105": {
     "name": "幸せな日常 高城 丈士朗",
@@ -331,7 +347,8 @@
         "id": "Kch/W78-105",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kch/W78-115": {
     "name": "幸せな日常 乙坂 有宇",
@@ -349,7 +366,8 @@
         "id": "Kch/W78-115",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kch/W78-117": {
     "name": "迎春 友利 奈緒&西森 柚咲",
@@ -367,7 +385,8 @@
         "id": "Kch/W78-117",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kch/W78-119": {
     "name": "奇跡の歌",
@@ -389,6 +408,7 @@
         "id": "Kch/W78-119R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

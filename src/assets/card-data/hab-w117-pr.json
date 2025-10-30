@@ -15,7 +15,8 @@
         "id": "Hab/W117-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Hab/W117-P03": {
     "name": "Earth Angel 立華 かなで",
@@ -33,7 +34,8 @@
         "id": "Hab/W117-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Hab/W117-P04": {
     "name": "Faraway Eden 入江 みゆき",
@@ -51,6 +53,7 @@
         "id": "Hab/W117-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "RZ/S46-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T11": {
     "name": "純白の花嫁 レム",
@@ -33,7 +34,8 @@
         "id": "RZ/S46-T11SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-T17": {
     "name": "殺意の瞳 レム",
@@ -51,7 +53,8 @@
         "id": "RZ/S46-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-T19": {
     "name": "精霊使い エミリア",
@@ -73,7 +76,8 @@
         "id": "RZ/S46-T19SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-T21": {
     "name": "微精霊との対話",
@@ -91,7 +95,8 @@
         "id": "RZ/S46-T21R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-001": {
     "name": "王選候補者 フェルト",
@@ -113,7 +118,8 @@
         "id": "RZ/S46-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-002": {
     "name": "先代剣聖 テレシア",
@@ -131,7 +137,8 @@
         "id": "RZ/S46-002",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-003": {
     "name": "公爵家当主 クルシュ",
@@ -149,7 +156,8 @@
         "id": "RZ/S46-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-004": {
     "name": "若き剣士 ヴィルヘルム",
@@ -167,7 +175,8 @@
         "id": "RZ/S46-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-005": {
     "name": "宣戦布告 フェルト",
@@ -189,7 +198,8 @@
         "id": "RZ/S46-005R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-006": {
     "name": "最優の騎士 ユリウス",
@@ -207,7 +217,8 @@
         "id": "RZ/S46-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-007": {
     "name": "剣聖 ラインハルト",
@@ -225,7 +236,8 @@
         "id": "RZ/S46-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-008": {
     "name": "交渉上手 アナスタシア",
@@ -243,7 +255,8 @@
         "id": "RZ/S46-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-009": {
     "name": "治癒術師 フェリックス",
@@ -261,7 +274,8 @@
         "id": "RZ/S46-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-010": {
     "name": "白鯨討伐 クルシュ",
@@ -279,7 +293,8 @@
         "id": "RZ/S46-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-011": {
     "name": "フェルトの騎士 ラインハルト",
@@ -297,7 +312,8 @@
         "id": "RZ/S46-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-012": {
     "name": "ロム爺",
@@ -315,7 +331,8 @@
         "id": "RZ/S46-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-013": {
     "name": "貧民街のプライド フェルト",
@@ -333,7 +350,8 @@
         "id": "RZ/S46-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-014": {
     "name": "ヴィルヘルム・ヴァン・アストレア",
@@ -351,7 +369,8 @@
         "id": "RZ/S46-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-015": {
     "name": "見えざる手 ペテルギウス",
@@ -369,7 +388,8 @@
         "id": "RZ/S46-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-016": {
     "name": "大罪司教「怠惰」担当 ペテルギウス",
@@ -387,7 +407,8 @@
         "id": "RZ/S46-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-017": {
     "name": "感謝の気持ち フェルト",
@@ -405,7 +426,8 @@
         "id": "RZ/S46-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-018": {
     "name": "「鉄の牙」副団長 ミミ",
@@ -423,7 +445,8 @@
         "id": "RZ/S46-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-019": {
     "name": "「鉄の牙」副団長 ヘータロー",
@@ -441,7 +464,8 @@
         "id": "RZ/S46-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-020": {
     "name": "プリシラの騎士 アルデバラン",
@@ -459,7 +483,8 @@
         "id": "RZ/S46-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-021": {
     "name": "王選候補者 アナスタシア",
@@ -477,7 +502,8 @@
         "id": "RZ/S46-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-022": {
     "name": "王選候補者 プリシラ",
@@ -495,7 +521,8 @@
         "id": "RZ/S46-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-023": {
     "name": "同盟への交渉 クルシュ",
@@ -513,7 +540,8 @@
         "id": "RZ/S46-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-024": {
     "name": "女王の風格 プリシラ",
@@ -531,7 +559,8 @@
         "id": "RZ/S46-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-025": {
     "name": "腸狩り エルザ",
@@ -549,7 +578,8 @@
         "id": "RZ/S46-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-026": {
     "name": "「鉄の牙」団長 リカード",
@@ -567,7 +597,8 @@
         "id": "RZ/S46-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-027": {
     "name": "王選",
@@ -601,7 +632,8 @@
         "id": "RZ/S46-027e",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-028": {
     "name": "疾風の少女",
@@ -623,7 +655,8 @@
         "id": "RZ/S46-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RZ/S46-029": {
     "name": "百人一太刀",
@@ -641,7 +674,8 @@
         "id": "RZ/S46-029",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-030": {
     "name": "桃色髪のメイド ラム",
@@ -663,7 +697,8 @@
         "id": "RZ/S46-030SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-031": {
     "name": "可憐な少女 ベアトリス",
@@ -685,7 +720,8 @@
         "id": "RZ/S46-031SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-032": {
     "name": "ロズワール邸のメイド ラム",
@@ -707,7 +743,8 @@
         "id": "RZ/S46-032R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-033": {
     "name": "千里眼の力 ラム",
@@ -725,7 +762,8 @@
         "id": "RZ/S46-033",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-034": {
     "name": "メイドは見た！ ラム",
@@ -743,7 +781,8 @@
         "id": "RZ/S46-034",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-035": {
     "name": "木漏れ日の下で レム&ラム",
@@ -765,7 +804,8 @@
         "id": "RZ/S46-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-036": {
     "name": "夕日の射す丘で ベアトリス",
@@ -787,7 +827,8 @@
         "id": "RZ/S46-036R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-037": {
     "name": "禁書庫の番人 ベアトリス",
@@ -805,7 +846,8 @@
         "id": "RZ/S46-037",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-038": {
     "name": "バスタイム！ レム&ラム",
@@ -823,7 +865,8 @@
         "id": "RZ/S46-038",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-039": {
     "name": "パックと一緒 スバル",
@@ -841,7 +884,8 @@
         "id": "RZ/S46-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-040": {
     "name": "宮廷魔導士 ロズワール",
@@ -859,7 +903,8 @@
         "id": "RZ/S46-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-041": {
     "name": "禁書庫の司書 ベアトリス",
@@ -877,7 +922,8 @@
         "id": "RZ/S46-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-042": {
     "name": "鬼族の神童 ラム",
@@ -895,7 +941,8 @@
         "id": "RZ/S46-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-043": {
     "name": "パックと一緒 ベアトリス",
@@ -913,7 +960,8 @@
         "id": "RZ/S46-043",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-044": {
     "name": "自画自賛 ラム",
@@ -931,7 +979,8 @@
         "id": "RZ/S46-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-045": {
     "name": "にーちゃにべったり ベアトリス",
@@ -949,7 +998,8 @@
         "id": "RZ/S46-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-046": {
     "name": "無邪気な少女 ペトラ",
@@ -967,7 +1017,8 @@
         "id": "RZ/S46-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-047": {
     "name": "扉渡り ベアトリス",
@@ -985,7 +1036,8 @@
         "id": "RZ/S46-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-048": {
     "name": "ふくれっ面のベアトリス",
@@ -1003,7 +1055,8 @@
         "id": "RZ/S46-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-049": {
     "name": "両手に花 ラム",
@@ -1021,7 +1074,8 @@
         "id": "RZ/S46-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-050": {
     "name": "異世界へ挑む スバル",
@@ -1039,7 +1093,8 @@
         "id": "RZ/S46-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-051": {
     "name": "妹敵 ラム",
@@ -1057,7 +1112,8 @@
         "id": "RZ/S46-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-052": {
     "name": "辺境伯 ロズワール",
@@ -1075,7 +1131,8 @@
         "id": "RZ/S46-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-053": {
     "name": "禁書庫",
@@ -1093,7 +1150,8 @@
         "id": "RZ/S46-053",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-054": {
     "name": "ナツキ・スバル囮大作戦",
@@ -1115,7 +1173,8 @@
         "id": "RZ/S46-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-055": {
     "name": "姉として",
@@ -1137,7 +1196,8 @@
         "id": "RZ/S46-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RZ/S46-056": {
     "name": "マナドレイン",
@@ -1155,7 +1215,8 @@
         "id": "RZ/S46-056",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RZ/S46-057": {
     "name": "術式の破壊",
@@ -1173,7 +1234,8 @@
         "id": "RZ/S46-057",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-058": {
     "name": "穏やかな日常 レム",
@@ -1195,7 +1257,8 @@
         "id": "RZ/S46-058R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-059": {
     "name": "銀髪の美少女 エミリア",
@@ -1221,7 +1284,8 @@
         "id": "RZ/S46-059SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-060": {
     "name": "青色髪のメイド レム",
@@ -1243,7 +1307,8 @@
         "id": "RZ/S46-060SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-061": {
     "name": "ハーフエルフの少女 エミリア",
@@ -1265,7 +1330,8 @@
         "id": "RZ/S46-061R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-062": {
     "name": "天使の微笑 エミリア",
@@ -1287,7 +1353,8 @@
         "id": "RZ/S46-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-063": {
     "name": "幸せな夢想 レム",
@@ -1309,7 +1376,8 @@
         "id": "RZ/S46-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-064": {
     "name": "無垢な美少女 エミリア",
@@ -1331,7 +1399,8 @@
         "id": "RZ/S46-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-065": {
     "name": "無条件の信頼 レム",
@@ -1349,7 +1418,8 @@
         "id": "RZ/S46-065",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-066": {
     "name": "バスタイム！ エミリア",
@@ -1367,7 +1437,8 @@
         "id": "RZ/S46-066",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-067": {
     "name": "鬼の形相 レム",
@@ -1389,7 +1460,8 @@
         "id": "RZ/S46-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-068": {
     "name": "ナツキ・スバル",
@@ -1411,7 +1483,8 @@
         "id": "RZ/S46-068SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-069": {
     "name": "ささやかなお願い レム",
@@ -1433,7 +1506,8 @@
         "id": "RZ/S46-069R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-070": {
     "name": "制服姿 レム&ラム",
@@ -1451,7 +1525,8 @@
         "id": "RZ/S46-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-071": {
     "name": "呆れ顔 エミリア",
@@ -1469,7 +1544,8 @@
         "id": "RZ/S46-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-072": {
     "name": "笑いながら未来の話をしよう レム",
@@ -1487,7 +1563,8 @@
         "id": "RZ/S46-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-073": {
     "name": "笑いながら未来の話をしよう スバル",
@@ -1505,7 +1582,8 @@
         "id": "RZ/S46-073",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-074": {
     "name": "憧れの眼差し レム",
@@ -1523,7 +1601,8 @@
         "id": "RZ/S46-074",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-075": {
     "name": "大精霊 パック",
@@ -1541,7 +1620,8 @@
         "id": "RZ/S46-075",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-076": {
     "name": "深夜の来訪 レム",
@@ -1559,7 +1639,8 @@
         "id": "RZ/S46-076",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-077": {
     "name": "穏やかな日常 エミリア",
@@ -1577,7 +1658,8 @@
         "id": "RZ/S46-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-078": {
     "name": "素直じゃない エミリア",
@@ -1595,7 +1677,8 @@
         "id": "RZ/S46-078",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-079": {
     "name": "その目に見たかすかな光 レム",
@@ -1613,7 +1696,8 @@
         "id": "RZ/S46-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-080": {
     "name": "激しい怒り パック",
@@ -1631,7 +1715,8 @@
         "id": "RZ/S46-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-081": {
     "name": "王都の果物屋 カドモン",
@@ -1649,7 +1734,8 @@
         "id": "RZ/S46-081",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-082": {
     "name": "運命の出会い スバル",
@@ -1667,7 +1753,8 @@
         "id": "RZ/S46-082",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-083": {
     "name": "地竜 パトラッシュ",
@@ -1685,7 +1772,8 @@
         "id": "RZ/S46-083",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-084": {
     "name": "英雄の腕の中 レム",
@@ -1703,7 +1791,8 @@
         "id": "RZ/S46-084",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-085": {
     "name": "この暗い世界の片隅で エミリア",
@@ -1721,7 +1810,8 @@
         "id": "RZ/S46-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-086": {
     "name": "火の精霊 パック",
@@ -1739,7 +1829,8 @@
         "id": "RZ/S46-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-087": {
     "name": "朝の一コマ エミリア",
@@ -1757,7 +1848,8 @@
         "id": "RZ/S46-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-088": {
     "name": "両手に花 レム",
@@ -1775,7 +1867,8 @@
         "id": "RZ/S46-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-089": {
     "name": "有能なメイド レム",
@@ -1793,7 +1886,8 @@
         "id": "RZ/S46-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-090": {
     "name": "地竜に二人乗り レム",
@@ -1811,7 +1905,8 @@
         "id": "RZ/S46-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-091": {
     "name": "行商人 オットー",
@@ -1829,7 +1924,8 @@
         "id": "RZ/S46-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-092": {
     "name": "優しい罵倒 エミリア",
@@ -1847,7 +1943,8 @@
         "id": "RZ/S46-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-093": {
     "name": "心配するエミリア",
@@ -1865,7 +1962,8 @@
         "id": "RZ/S46-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-094": {
     "name": "死に戻り",
@@ -1883,7 +1981,8 @@
         "id": "RZ/S46-094",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-095": {
     "name": "鬼の微笑",
@@ -1901,7 +2000,8 @@
         "id": "RZ/S46-095",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/S46-096": {
     "name": "ゼロから始める異世界生活",
@@ -1923,7 +2023,8 @@
         "id": "RZ/S46-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-097": {
     "name": "ぼうやの夢よ",
@@ -1941,7 +2042,8 @@
         "id": "RZ/S46-097",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RZ/S46-098": {
     "name": "鬼の正体",
@@ -1959,7 +2061,8 @@
         "id": "RZ/S46-098",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RZ/S46-099": {
     "name": "Wishing",
@@ -1981,7 +2084,8 @@
         "id": "RZ/S46-099S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/S46-100": {
     "name": "鬼がかったやり方",
@@ -1999,6 +2103,7 @@
         "id": "RZ/S46-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

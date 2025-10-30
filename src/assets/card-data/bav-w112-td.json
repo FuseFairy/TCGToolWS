@@ -19,7 +19,8 @@
         "id": "BAV/W112-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-T02": {
     "name": "牛牧ジュリ",
@@ -41,7 +42,8 @@
         "id": "BAV/W112-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-T03": {
     "name": "赤司ジュンコ",
@@ -63,7 +65,8 @@
         "id": "BAV/W112-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-T04": {
     "name": "鰐渕アカリ",
@@ -85,7 +88,8 @@
         "id": "BAV/W112-T04R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-T05": {
     "name": "浅黄ムツキ",
@@ -107,7 +111,8 @@
         "id": "BAV/W112-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-T06": {
     "name": "火宮チナツ",
@@ -129,7 +134,8 @@
         "id": "BAV/W112-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-T07": {
     "name": "空崎ヒナ",
@@ -151,7 +157,8 @@
         "id": "BAV/W112-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-T08": {
     "name": "ゲヘナ学園風紀委員長",
@@ -173,7 +180,8 @@
         "id": "BAV/W112-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-T09": {
     "name": "学園の日常を小さな奇跡へ",
@@ -195,7 +203,8 @@
         "id": "BAV/W112-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BAV/W112-T10": {
     "name": "奥空アヤネ",
@@ -217,7 +226,8 @@
         "id": "BAV/W112-T10SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-T11": {
     "name": "一之瀬アスナ",
@@ -239,7 +249,8 @@
         "id": "BAV/W112-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-T12": {
     "name": "音瀬コタマ",
@@ -261,7 +272,8 @@
         "id": "BAV/W112-T12R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-T13": {
     "name": "黒見セリカ",
@@ -283,7 +295,8 @@
         "id": "BAV/W112-T13SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-T14": {
     "name": "早瀬ユウカ",
@@ -305,7 +318,8 @@
         "id": "BAV/W112-T14R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-T15": {
     "name": "砂狼シロコ",
@@ -331,7 +345,8 @@
         "id": "BAV/W112-T15SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-T16": {
     "name": "豊見コトリ",
@@ -353,7 +368,8 @@
         "id": "BAV/W112-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-T17": {
     "name": "十六夜ノノミ",
@@ -375,7 +391,8 @@
         "id": "BAV/W112-T17SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-T18": {
     "name": "小鳥遊ホシノ",
@@ -397,7 +414,8 @@
         "id": "BAV/W112-T18SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W112-T19": {
     "name": "アロナ",
@@ -419,7 +437,8 @@
         "id": "BAV/W112-T19SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BAV/W112-T20": {
     "name": "対策委員会へようこそ！",
@@ -441,6 +460,7 @@
         "id": "BAV/W112-T20R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

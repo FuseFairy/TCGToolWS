@@ -19,7 +19,8 @@
         "id": "KC/S42-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-002": {
     "name": "大鳳型装甲空母 大鳳改",
@@ -41,7 +42,8 @@
         "id": "KC/S42-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-003": {
     "name": "祭りの最中 浦風",
@@ -63,7 +65,8 @@
         "id": "KC/S42-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-004": {
     "name": "大鳳型装甲空母 大鳳",
@@ -85,7 +88,8 @@
         "id": "KC/S42-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-005": {
     "name": "翔鶴型正規空母1番艦 翔鶴改二",
@@ -107,7 +111,8 @@
         "id": "KC/S42-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-006": {
     "name": "翔鶴型正規空母2番艦 瑞鶴改二",
@@ -129,7 +134,8 @@
         "id": "KC/S42-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-007": {
     "name": "翔鶴型装甲空母1番艦 翔鶴改二甲",
@@ -147,7 +153,8 @@
         "id": "KC/S42-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-008": {
     "name": "翔鶴型装甲空母2番艦 瑞鶴改二甲",
@@ -165,7 +172,8 @@
         "id": "KC/S42-008",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-009": {
     "name": "夕雲型駆逐艦3番艦 風雲",
@@ -183,7 +191,8 @@
         "id": "KC/S42-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-010": {
     "name": "陽炎型駆逐艦16番艦 嵐",
@@ -201,7 +210,8 @@
         "id": "KC/S42-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-011": {
     "name": "陽炎型駆逐艦17番艦 萩風",
@@ -219,7 +229,8 @@
         "id": "KC/S42-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-012": {
     "name": "夕雲型駆逐艦14番艦 沖波",
@@ -237,7 +248,8 @@
         "id": "KC/S42-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-013": {
     "name": "雲龍型正規空母3番艦 葛城",
@@ -255,7 +267,8 @@
         "id": "KC/S42-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-014": {
     "name": "秋月型駆逐艦2番艦 照月",
@@ -273,7 +286,8 @@
         "id": "KC/S42-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-015": {
     "name": "陽炎型駆逐艦15番艦 野分",
@@ -291,7 +305,8 @@
         "id": "KC/S42-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-016": {
     "name": "美味しい季節 磯風",
@@ -309,7 +324,8 @@
         "id": "KC/S42-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-017": {
     "name": "夕雲型駆逐艦6番艦 高波",
@@ -327,7 +343,8 @@
         "id": "KC/S42-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-018": {
     "name": "夕雲型駆逐艦16番艦 朝霜",
@@ -345,7 +362,8 @@
         "id": "KC/S42-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-019": {
     "name": "雲龍型正規空母2番艦 天城改",
@@ -363,7 +381,8 @@
         "id": "KC/S42-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-020": {
     "name": "夕雲型駆逐艦6番艦 高波改",
@@ -381,7 +400,8 @@
         "id": "KC/S42-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-021": {
     "name": "祭りの最中 浜風",
@@ -399,7 +419,8 @@
         "id": "KC/S42-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-022": {
     "name": "夕雲型駆逐艦16番艦 朝霜改",
@@ -417,7 +438,8 @@
         "id": "KC/S42-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-023": {
     "name": "雲龍型正規空母3番艦 葛城改",
@@ -435,7 +457,8 @@
         "id": "KC/S42-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-024": {
     "name": "秋月型駆逐艦4番艦 初月",
@@ -453,7 +476,8 @@
         "id": "KC/S42-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-025": {
     "name": "菱餅",
@@ -471,7 +495,8 @@
         "id": "KC/S42-025",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-026": {
     "name": "第一機動部隊、出撃！",
@@ -493,7 +518,8 @@
         "id": "KC/S42-026R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-027": {
     "name": "改飛龍型の本当の力、見せてあげる！！",
@@ -511,7 +537,8 @@
         "id": "KC/S42-027",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KC/S42-028": {
     "name": "主砲、対空戦闘よーい！",
@@ -529,7 +556,8 @@
         "id": "KC/S42-028",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-029": {
     "name": "姉さん、ここは任せて",
@@ -547,7 +575,8 @@
         "id": "KC/S42-029",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KC/S42-030": {
     "name": "Admiral Hipper級重巡3番艦 Prinz Eugen",
@@ -569,7 +598,8 @@
         "id": "KC/S42-030SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-031": {
     "name": "Bismarck級戦艦1番艦 Bismarck drei",
@@ -591,7 +621,8 @@
         "id": "KC/S42-031SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-032": {
     "name": "Bismarck級戦艦1番艦 Bismarck",
@@ -613,7 +644,8 @@
         "id": "KC/S42-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-033": {
     "name": "UボートIXC型潜水艦 U-511",
@@ -635,7 +667,8 @@
         "id": "KC/S42-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-034": {
     "name": "Graf Zeppelin級正規空母1番艦 Graf Zeppelin改",
@@ -657,7 +690,8 @@
         "id": "KC/S42-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-035": {
     "name": "呂号潜水艦 呂500",
@@ -679,7 +713,8 @@
         "id": "KC/S42-035SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-036": {
     "name": "Admiral Hipper級重巡3番艦 Prinz Eugen改",
@@ -697,7 +732,8 @@
         "id": "KC/S42-036",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-037": {
     "name": "Z1型駆逐艦3番艦 Z3",
@@ -715,7 +751,8 @@
         "id": "KC/S42-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-038": {
     "name": "祭りの最中 神通改二",
@@ -733,7 +770,8 @@
         "id": "KC/S42-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-039": {
     "name": "高雄型重巡3番艦 摩耶改二",
@@ -751,7 +789,8 @@
         "id": "KC/S42-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-040": {
     "name": "Bismarck級戦艦1番艦 Bismarck zwei",
@@ -769,7 +808,8 @@
         "id": "KC/S42-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-041": {
     "name": "暁型駆逐艦1番艦 暁改二",
@@ -787,7 +827,8 @@
         "id": "KC/S42-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-042": {
     "name": "Z1型駆逐艦1番艦 Z1 zwei",
@@ -805,7 +846,8 @@
         "id": "KC/S42-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-043": {
     "name": "Z1型駆逐艦1番艦 Z1",
@@ -823,7 +865,8 @@
         "id": "KC/S42-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-044": {
     "name": "古鷹型重巡1番艦 古鷹改二",
@@ -841,7 +884,8 @@
         "id": "KC/S42-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-045": {
     "name": "高雄型重巡4番艦 鳥海改二",
@@ -859,7 +903,8 @@
         "id": "KC/S42-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-046": {
     "name": "綾波型駆逐艦7番艦 朧改",
@@ -877,7 +922,8 @@
         "id": "KC/S42-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-047": {
     "name": "綾波型駆逐艦10番艦 潮改二",
@@ -895,7 +941,8 @@
         "id": "KC/S42-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-048": {
     "name": "真夏のひととき 曙",
@@ -913,7 +960,8 @@
         "id": "KC/S42-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-049": {
     "name": "Z1型駆逐艦3番艦 Z3 zwei",
@@ -931,7 +979,8 @@
         "id": "KC/S42-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-050": {
     "name": "初春型駆逐艦4番艦 初霜改二",
@@ -949,7 +998,8 @@
         "id": "KC/S42-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-051": {
     "name": "Bismarck級戦艦1番艦 Bismarck改",
@@ -967,7 +1017,8 @@
         "id": "KC/S42-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-052": {
     "name": "古鷹型重巡2番艦 加古改二",
@@ -985,7 +1036,8 @@
         "id": "KC/S42-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-053": {
     "name": "Graf Zeppelin級正規空母1番艦 Graf Zeppelin",
@@ -1003,7 +1055,8 @@
         "id": "KC/S42-053",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-054": {
     "name": "甲種勲章",
@@ -1021,7 +1074,8 @@
         "id": "KC/S42-054",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-055": {
     "name": "艦隊戦か…腕が鳴るわね！",
@@ -1039,7 +1093,8 @@
         "id": "KC/S42-055",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-056": {
     "name": "よく狙って……Feuer！",
@@ -1061,7 +1116,8 @@
         "id": "KC/S42-056R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KC/S42-057": {
     "name": "呂号潜水艦、出撃します！",
@@ -1079,7 +1135,8 @@
         "id": "KC/S42-057",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-058": {
     "name": "秋津洲型水上機母艦 秋津洲改",
@@ -1097,7 +1154,8 @@
         "id": "KC/S42-058",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-059": {
     "name": "香取型練習巡洋艦2番艦 鹿島",
@@ -1119,7 +1177,8 @@
         "id": "KC/S42-059SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-060": {
     "name": "吹雪型駆逐艦1番艦 吹雪改二",
@@ -1141,7 +1200,8 @@
         "id": "KC/S42-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-061": {
     "name": "風早型運送艦2番艦 速吸",
@@ -1163,7 +1223,8 @@
         "id": "KC/S42-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-062": {
     "name": "秋津洲型水上機母艦 秋津洲",
@@ -1181,7 +1242,8 @@
         "id": "KC/S42-062",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-063": {
     "name": "長良型軽巡6番艦 阿武隈改二",
@@ -1199,7 +1261,8 @@
         "id": "KC/S42-063",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-064": {
     "name": "扶桑型航空戦艦1番艦 扶桑改二",
@@ -1221,7 +1284,8 @@
         "id": "KC/S42-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-065": {
     "name": "扶桑型航空戦艦2番艦 山城改二",
@@ -1243,7 +1307,8 @@
         "id": "KC/S42-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-066": {
     "name": "香取型練習巡洋艦1番艦 香取",
@@ -1261,7 +1326,8 @@
         "id": "KC/S42-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-067": {
     "name": "風早型運送艦2番艦 速吸改",
@@ -1279,7 +1345,8 @@
         "id": "KC/S42-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-068": {
     "name": "睦月型駆逐艦1番艦 睦月改二",
@@ -1297,7 +1364,8 @@
         "id": "KC/S42-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-069": {
     "name": "睦月型駆逐艦2番艦 如月改二",
@@ -1315,7 +1383,8 @@
         "id": "KC/S42-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-070": {
     "name": "吹雪型駆逐艦5番艦 叢雲改二",
@@ -1333,7 +1402,8 @@
         "id": "KC/S42-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-071": {
     "name": "瑞穂型水上機母艦 瑞穂",
@@ -1351,7 +1421,8 @@
         "id": "KC/S42-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-072": {
     "name": "洋上補給",
@@ -1369,7 +1440,8 @@
         "id": "KC/S42-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-073": {
     "name": "海上護衛総隊、旗艦、鹿島、抜錨します",
@@ -1391,7 +1463,8 @@
         "id": "KC/S42-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-074": {
     "name": "見つけたかもっ！",
@@ -1409,7 +1482,8 @@
         "id": "KC/S42-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KC/S42-075": {
     "name": "Vittorio Veneto級戦艦2番艦 Italia",
@@ -1431,7 +1505,8 @@
         "id": "KC/S42-075SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-076": {
     "name": "白露型駆逐艦9番艦 江風",
@@ -1453,7 +1528,8 @@
         "id": "KC/S42-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-077": {
     "name": "真夏のひととき Littorio",
@@ -1475,7 +1551,8 @@
         "id": "KC/S42-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-078": {
     "name": "Maestrale級駆逐艦3番艦 Libeccio",
@@ -1493,7 +1570,8 @@
         "id": "KC/S42-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-079": {
     "name": "雨の合間 村雨改",
@@ -1515,7 +1593,8 @@
         "id": "KC/S42-079SR",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-080": {
     "name": "朝潮型駆逐艦6番艦 山雲",
@@ -1533,7 +1612,8 @@
         "id": "KC/S42-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-081": {
     "name": "Zara級重巡1番艦 Zara",
@@ -1551,7 +1631,8 @@
         "id": "KC/S42-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-082": {
     "name": "妙高型重巡3番艦 足柄改二",
@@ -1569,7 +1650,8 @@
         "id": "KC/S42-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-083": {
     "name": "朝潮型駆逐艦10番艦 霞改二",
@@ -1587,7 +1669,8 @@
         "id": "KC/S42-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-084": {
     "name": "朝潮型駆逐艦10番艦 霞改二乙",
@@ -1605,7 +1688,8 @@
         "id": "KC/S42-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-085": {
     "name": "妙高型重巡2番艦 那智改二",
@@ -1623,7 +1707,8 @@
         "id": "KC/S42-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-086": {
     "name": "Vittorio Veneto級戦艦2番艦 Littorio",
@@ -1641,7 +1726,8 @@
         "id": "KC/S42-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-087": {
     "name": "Vittorio Veneto級戦艦4番艦 Roma改",
@@ -1659,7 +1745,8 @@
         "id": "KC/S42-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-088": {
     "name": "祥鳳型軽空母1番艦 祥鳳改",
@@ -1677,7 +1764,8 @@
         "id": "KC/S42-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-089": {
     "name": "Happy Halloween Roma",
@@ -1695,7 +1783,8 @@
         "id": "KC/S42-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-090": {
     "name": "Happy Halloween Libeccio",
@@ -1713,7 +1802,8 @@
         "id": "KC/S42-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-091": {
     "name": "朝潮型駆逐艦5番艦 朝雲改",
@@ -1731,7 +1821,8 @@
         "id": "KC/S42-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-092": {
     "name": "朝潮型駆逐艦6番艦 山雲改",
@@ -1749,7 +1840,8 @@
         "id": "KC/S42-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-093": {
     "name": "白露型駆逐艦5番艦 春雨改",
@@ -1767,7 +1859,8 @@
         "id": "KC/S42-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-094": {
     "name": "白露型駆逐艦7番艦 海風",
@@ -1785,7 +1878,8 @@
         "id": "KC/S42-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-095": {
     "name": "Vittorio Veneto級戦艦4番艦 Roma",
@@ -1803,7 +1897,8 @@
         "id": "KC/S42-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-096": {
     "name": "真夏のひととき 夕立改二",
@@ -1821,7 +1916,8 @@
         "id": "KC/S42-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-097": {
     "name": "戦闘糧食",
@@ -1839,7 +1935,8 @@
         "id": "KC/S42-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S42-098": {
     "name": "イタリアの本当の力、お見せします！",
@@ -1861,7 +1958,8 @@
         "id": "KC/S42-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S42-099": {
     "name": "霞、抜錨よ！ついてらっしゃい！",
@@ -1879,7 +1977,8 @@
         "id": "KC/S42-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KC/S42-100": {
     "name": "本気で行くわ、ついてきて！",
@@ -1897,6 +1996,7 @@
         "id": "KC/S42-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

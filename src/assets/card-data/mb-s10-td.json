@@ -15,7 +15,8 @@
         "id": "MB/S10-101",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MB/S10-102": {
     "name": "使い魔 レン",
@@ -33,7 +34,8 @@
         "id": "MB/S10-102",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MB/S10-103": {
     "name": "すこしばかり戯れようか？",
@@ -51,7 +53,8 @@
         "id": "MB/S10-103",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MB/S10-104": {
     "name": "錬金術師 シオン",
@@ -69,7 +72,8 @@
         "id": "MB/S10-104",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MB/S10-105": {
     "name": "使い魔 白レン",
@@ -87,7 +91,8 @@
         "id": "MB/S10-105",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MB/S10-T01": {
     "name": "吸血鬼 アルクェイド",
@@ -105,7 +110,8 @@
         "id": "MB/S10-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MB/S10-T02": {
     "name": "遠野 志貴",
@@ -123,7 +129,8 @@
         "id": "MB/S10-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MB/S10-T03": {
     "name": "レン",
@@ -141,7 +148,8 @@
         "id": "MB/S10-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MB/S10-T04": {
     "name": "アルクェイド・ブリュンスタッド",
@@ -159,7 +167,8 @@
         "id": "MB/S10-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MB/S10-T05": {
     "name": "真祖の姫 アルクェイド",
@@ -177,7 +186,8 @@
         "id": "MB/S10-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MB/S10-T06": {
     "name": "十七分割",
@@ -195,7 +205,8 @@
         "id": "MB/S10-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MB/S10-T07": {
     "name": "有間 都古",
@@ -213,7 +224,8 @@
         "id": "MB/S10-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MB/S10-T08": {
     "name": "リーズバイフェ・ストリンドヴァリ",
@@ -231,7 +243,8 @@
         "id": "MB/S10-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MB/S10-T09": {
     "name": "アトラス院所属 シオン",
@@ -249,7 +262,8 @@
         "id": "MB/S10-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MB/S10-T10": {
     "name": "吸血鬼シオン",
@@ -267,7 +281,8 @@
         "id": "MB/S10-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MB/S10-T11": {
     "name": "八極拳士 都古",
@@ -285,7 +300,8 @@
         "id": "MB/S10-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MB/S10-T12": {
     "name": "タタリの後継 吸血鬼シオン",
@@ -303,7 +319,8 @@
         "id": "MB/S10-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MB/S10-T13": {
     "name": "バレルレプリカ",
@@ -321,6 +338,7 @@
         "id": "MB/S10-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -19,7 +19,8 @@
         "id": "KF/SE43-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KF/SE43-P02": {
     "name": "不知火 舞",
@@ -37,6 +38,7 @@
         "id": "KF/SE43-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

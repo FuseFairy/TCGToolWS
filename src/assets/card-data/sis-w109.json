@@ -19,7 +19,8 @@
         "id": "SIS/W109-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIS/W109-004": {
     "name": "堕天使じゃんけん 津島 善子",
@@ -41,7 +42,8 @@
         "id": "SIS/W109-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIS/W109-006": {
     "name": "アフターランチ 国木田 花丸",
@@ -63,7 +65,8 @@
         "id": "SIS/W109-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIS/W109-009": {
     "name": "暗黒魔術 津島 善子",
@@ -85,7 +88,8 @@
         "id": "SIS/W109-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIS/W109-010": {
     "name": "ボールを四角く 国木田 花丸",
@@ -107,7 +111,8 @@
         "id": "SIS/W109-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIS/W109-015": {
     "name": "極上堕天使の応援 津島 善子",
@@ -129,7 +134,8 @@
         "id": "SIS/W109-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIS/W109-017": {
     "name": "ルビィの勇気 黒澤 ルビィ",
@@ -151,7 +157,8 @@
         "id": "SIS/W109-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIS/W109-024": {
     "name": "毎日が大冒険♪ 国木田 花丸",
@@ -173,7 +180,8 @@
         "id": "SIS/W109-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIS/W109-026": {
     "name": "目指せチアガールさん 黒澤 ルビィ",
@@ -195,7 +203,8 @@
         "id": "SIS/W109-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIS/W109-032": {
     "name": "放たれし闇の力",
@@ -217,7 +226,8 @@
         "id": "SIS/W109-032R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIS/W109-033": {
     "name": "やわらかな陽だまりの中",
@@ -239,7 +249,8 @@
         "id": "SIS/W109-033R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIS/W109-040": {
     "name": "コアラの眠り 高海 千歌",
@@ -261,7 +272,8 @@
         "id": "SIS/W109-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIS/W109-054": {
     "name": "練習帰りの談笑 高海 千歌",
@@ -287,7 +299,8 @@
         "id": "SIS/W109-054SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIS/W109-057": {
     "name": "耀う水面 渡辺 曜",
@@ -309,7 +322,8 @@
         "id": "SIS/W109-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIS/W109-062": {
     "name": "ミラクルライブ☆ 高海 千歌",
@@ -331,7 +345,8 @@
         "id": "SIS/W109-062OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIS/W109-064": {
     "name": "トリオの旋律 桜内 梨子",
@@ -353,7 +368,8 @@
         "id": "SIS/W109-064SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIS/W109-072": {
     "name": "お注射の時間 桜内 梨子",
@@ -375,7 +391,8 @@
         "id": "SIS/W109-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIS/W109-076": {
     "name": "ショーの相棒 桜内 梨子",
@@ -397,7 +414,8 @@
         "id": "SIS/W109-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIS/W109-079": {
     "name": "近くで寄り添って 渡辺 曜",
@@ -419,7 +437,8 @@
         "id": "SIS/W109-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIS/W109-081": {
     "name": "犯人は、お前だ！ 渡辺 曜",
@@ -441,7 +460,8 @@
         "id": "SIS/W109-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIS/W109-088": {
     "name": "ブラッシングタイム！ 高海 千歌",
@@ -463,7 +483,8 @@
         "id": "SIS/W109-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIS/W109-092": {
     "name": "夕焼けにきらめく海",
@@ -485,7 +506,8 @@
         "id": "SIS/W109-092R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIS/W109-096": {
     "name": "姉の日課 黒澤 ダイヤ",
@@ -507,7 +529,8 @@
         "id": "SIS/W109-096SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIS/W109-100": {
     "name": "風光明媚 小原 鞠莉",
@@ -529,7 +552,8 @@
         "id": "SIS/W109-100SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIS/W109-108": {
     "name": "頬を撫でる潮風 松浦 果南",
@@ -551,7 +575,8 @@
         "id": "SIS/W109-108SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIS/W109-115": {
     "name": "自然に惹かれて 松浦 果南",
@@ -573,7 +598,8 @@
         "id": "SIS/W109-115S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIS/W109-119": {
     "name": "熱いパッション 小原 鞠莉",
@@ -595,7 +621,8 @@
         "id": "SIS/W109-119S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIS/W109-121": {
     "name": "Aqoursと申しますわ！ 黒澤 ダイヤ",
@@ -617,7 +644,8 @@
         "id": "SIS/W109-121S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIS/W109-125": {
     "name": "歴史のねじれ 黒澤 ダイヤ",
@@ -639,7 +667,8 @@
         "id": "SIS/W109-125S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIS/W109-130": {
     "name": "愛の調剤 小原 鞠莉",
@@ -661,7 +690,8 @@
         "id": "SIS/W109-130S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIS/W109-131": {
     "name": "何度でも頑張ろう♪ 松浦 果南",
@@ -683,7 +713,8 @@
         "id": "SIS/W109-131S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIS/W109-137": {
     "name": "空を映す青い海",
@@ -705,6 +736,7 @@
         "id": "SIS/W109-137R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

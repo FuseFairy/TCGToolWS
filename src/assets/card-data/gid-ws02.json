@@ -19,7 +19,8 @@
         "id": "Gid/WS02-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gid/WS02-018": {
     "name": "常盤台の超能力者 食蜂＆美琴",
@@ -41,7 +42,8 @@
         "id": "Gid/WS02-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gid/WS02-032": {
     "name": "大切な存在 滝壺＆浜面",
@@ -63,7 +65,8 @@
         "id": "Gid/WS02-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gid/WS02-116": {
     "name": "純白のシスター インデックス",
@@ -85,7 +88,8 @@
         "id": "Gid/WS02-116SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gid/WS02-127": {
     "name": "大切な存在 当麻＆インデックス",
@@ -107,7 +111,8 @@
         "id": "Gid/WS02-127SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gid/WS02-129": {
     "name": "英国の魔術師 レッサー＆インデックス",
@@ -129,7 +134,8 @@
         "id": "Gid/WS02-129S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gid/WS02-136": {
     "name": "アレイスター＝クロウリー",
@@ -151,7 +157,8 @@
         "id": "Gid/WS02-136S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gid/WS02-143": {
     "name": "『魔神』 オティヌス",
@@ -173,7 +180,8 @@
         "id": "Gid/WS02-143S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gid/WS02-148": {
     "name": "一〇万三〇〇〇冊の魔道書図書館",
@@ -195,6 +203,7 @@
         "id": "Gid/WS02-148SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

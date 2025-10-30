@@ -15,7 +15,8 @@
         "id": "KC/S67-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S67-T02": {
     "name": "しっかり者 雷",
@@ -33,7 +34,8 @@
         "id": "KC/S67-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S67-T03": {
     "name": "暁型駆逐艦1番艦 暁改",
@@ -51,7 +53,8 @@
         "id": "KC/S67-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S67-T04": {
     "name": "ドジっ娘 電",
@@ -69,7 +72,8 @@
         "id": "KC/S67-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S67-T05": {
     "name": "神威型補給艦1番艦 神威",
@@ -91,7 +95,8 @@
         "id": "KC/S67-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S67-T06": {
     "name": "綾波が、守ります！",
@@ -109,7 +114,8 @@
         "id": "KC/S67-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KC/S67-T07": {
     "name": "白露型駆逐艦5番艦 春雨",
@@ -127,7 +133,8 @@
         "id": "KC/S67-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S67-T08": {
     "name": "白露型駆逐艦9番艦 江風改二",
@@ -149,7 +156,8 @@
         "id": "KC/S67-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S67-T09": {
     "name": "Maestrale級駆逐艦1番艦 Maestrale",
@@ -175,7 +183,8 @@
         "id": "KC/S67-T09SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S67-T10": {
     "name": "朝潮型駆逐艦10番艦 霞",
@@ -193,7 +202,8 @@
         "id": "KC/S67-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S67-T11": {
     "name": "新造工作艦 明石",
@@ -211,7 +221,8 @@
         "id": "KC/S67-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S67-T12": {
     "name": "補給艦艇 大鯨",
@@ -229,7 +240,8 @@
         "id": "KC/S67-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S67-T13": {
     "name": "C.Teste級水上機母艦1番艦 Commandant Teste",
@@ -251,7 +263,8 @@
         "id": "KC/S67-T13R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S67-T14": {
     "name": "妙高型重巡3番艦 足柄",
@@ -269,7 +282,8 @@
         "id": "KC/S67-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S67-T15": {
     "name": "妙高型重巡4番艦 羽黒改二",
@@ -287,7 +301,8 @@
         "id": "KC/S67-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S67-T16": {
     "name": "長門型戦艦1番艦 長門改二",
@@ -313,7 +328,8 @@
         "id": "KC/S67-T16S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S67-T17": {
     "name": "長門型戦艦2番艦 陸奥改",
@@ -331,7 +347,8 @@
         "id": "KC/S67-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KC/S67-T18": {
     "name": "ドラム缶（輸送用）",
@@ -349,7 +366,8 @@
         "id": "KC/S67-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KC/S67-T19": {
     "name": "二航戦出撃します！",
@@ -367,7 +385,8 @@
         "id": "KC/S67-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KC/S67-T20": {
     "name": "第五戦隊、羽黒。出撃します！",
@@ -385,6 +404,7 @@
         "id": "KC/S67-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

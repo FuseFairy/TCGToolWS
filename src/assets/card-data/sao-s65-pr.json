@@ -15,7 +15,8 @@
         "id": "SAO/S65-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-P02": {
     "name": "凛乎の騎士 アリス",
@@ -33,7 +34,8 @@
         "id": "SAO/S65-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-P03": {
     "name": "“二人だったから”キリト＆ユージオ",
@@ -51,7 +53,8 @@
         "id": "SAO/S65-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-P04": {
     "name": "三十番目の整合騎士 アリス",
@@ -73,7 +76,8 @@
         "id": "SAO/S65-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-P05": {
     "name": "晴れ着の明日奈",
@@ -95,7 +99,8 @@
         "id": "SAO/S65-P05S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-101": {
     "name": "水面のきらめき 明日奈",
@@ -113,7 +118,8 @@
         "id": "SAO/S65-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-102": {
     "name": "水面のきらめき アリス",
@@ -131,7 +137,8 @@
         "id": "SAO/S65-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-103": {
     "name": "貴族の在り方 ティーゼ＆ロニエ",
@@ -149,7 +156,8 @@
         "id": "SAO/S65-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-104": {
     "name": "“もうひとりの最高司祭”カーディナル",
@@ -167,7 +175,8 @@
         "id": "SAO/S65-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-105": {
     "name": "嫋やかな肢体 アドミニストレータ",
@@ -185,7 +194,8 @@
         "id": "SAO/S65-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-106": {
     "name": "水面のきらめき ユージオ＆キリト",
@@ -203,6 +213,7 @@
         "id": "SAO/S65-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -19,7 +19,8 @@
         "id": "PAD/S105-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-002": {
     "name": "繋想の彩龍喚士・イデアル",
@@ -41,7 +42,8 @@
         "id": "PAD/S105-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-003": {
     "name": "甘美の零龍喚士・ネイ",
@@ -63,7 +65,8 @@
         "id": "PAD/S105-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-004": {
     "name": "交響の花嫁・吹龍楽士フェノン",
@@ -85,7 +88,8 @@
         "id": "PAD/S105-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-005": {
     "name": "サッカー部のストライカー・キオ",
@@ -107,7 +111,8 @@
         "id": "PAD/S105-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-006": {
     "name": "天極の黄龍帝・ファガン -RAI-",
@@ -129,7 +134,8 @@
         "id": "PAD/S105-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-007": {
     "name": "初雪の大魔女・リーチェ",
@@ -151,7 +157,8 @@
         "id": "PAD/S105-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-008": {
     "name": "麒麟の化身・サクヤ",
@@ -169,7 +176,8 @@
         "id": "PAD/S105-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-009": {
     "name": "聖夜の兄妹・ポルックス＆カストル",
@@ -187,7 +195,8 @@
         "id": "PAD/S105-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-010": {
     "name": "柔和なキーボーディスト・ミル",
@@ -205,7 +214,8 @@
         "id": "PAD/S105-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-011": {
     "name": "正月の傾奇神・前田慶次",
@@ -223,7 +233,8 @@
         "id": "PAD/S105-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-012": {
     "name": "歓楽の玩龍喚士・コットン",
@@ -241,7 +252,8 @@
         "id": "PAD/S105-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-013": {
     "name": "賀正の天陽神・アテン",
@@ -259,7 +271,8 @@
         "id": "PAD/S105-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-014": {
     "name": "聖焔の花嫁・ブリギッド",
@@ -277,7 +290,8 @@
         "id": "PAD/S105-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-015": {
     "name": "ヒカりん",
@@ -295,7 +309,8 @@
         "id": "PAD/S105-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-016": {
     "name": "ゴールドドラゴン",
@@ -313,7 +328,8 @@
         "id": "PAD/S105-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-017": {
     "name": "超転生ハトホル",
@@ -331,7 +347,8 @@
         "id": "PAD/S105-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-018": {
     "name": "エンジェリオン",
@@ -349,7 +366,8 @@
         "id": "PAD/S105-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-019": {
     "name": "仮装祭の天使・イーリア",
@@ -367,7 +385,8 @@
         "id": "PAD/S105-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-020": {
     "name": "超転生孫悟空",
@@ -385,7 +404,8 @@
         "id": "PAD/S105-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-021": {
     "name": "転生貂蝉",
@@ -403,7 +423,8 @@
         "id": "PAD/S105-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-022": {
     "name": "彩龍喚士の子・アルトゥラ",
@@ -425,7 +446,8 @@
         "id": "PAD/S105-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-023": {
     "name": "望外の灰幻魔・イルミナ",
@@ -447,7 +469,8 @@
         "id": "PAD/S105-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-024": {
     "name": "超転生ラー＝ドラゴン",
@@ -469,7 +492,8 @@
         "id": "PAD/S105-024R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-025": {
     "name": "銀翼の白迅帝・デイトナ",
@@ -491,7 +515,8 @@
         "id": "PAD/S105-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-026": {
     "name": "ダイヤ＆ゴールド＆グリーンガチャドラ",
@@ -513,7 +538,8 @@
         "id": "PAD/S105-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-027": {
     "name": "遠征のアレキサンダー",
@@ -535,7 +561,8 @@
         "id": "PAD/S105-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-028": {
     "name": "森衣の大魔女・アルジェ",
@@ -557,7 +584,8 @@
         "id": "PAD/S105-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-029": {
     "name": "孤峰の花嫁・ゼラ",
@@ -579,7 +607,8 @@
         "id": "PAD/S105-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-030": {
     "name": "迎春の狩猟姫・アルテミス",
@@ -601,7 +630,8 @@
         "id": "PAD/S105-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-031": {
     "name": "彩妖精の水彩幻画師・アトリ",
@@ -623,7 +653,8 @@
         "id": "PAD/S105-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-032": {
     "name": "樹望龍の癒し手・アリナ",
@@ -645,7 +676,8 @@
         "id": "PAD/S105-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-033": {
     "name": "伝承・エンシェントドラゴンナイト -REX-",
@@ -667,7 +699,8 @@
         "id": "PAD/S105-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-034": {
     "name": "聖夜の灼冥魔・スカーレット",
@@ -685,7 +718,8 @@
         "id": "PAD/S105-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-035": {
     "name": "帰り道の学級委員長・アテナ",
@@ -703,7 +737,8 @@
         "id": "PAD/S105-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-036": {
     "name": "北方の親愛神・メイメイ",
@@ -721,7 +756,8 @@
         "id": "PAD/S105-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-037": {
     "name": "聖宴のメイド妖精・パティ",
@@ -739,7 +775,8 @@
         "id": "PAD/S105-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-038": {
     "name": "遍照の花嫁・ルシャナ",
@@ -757,7 +794,8 @@
         "id": "PAD/S105-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-039": {
     "name": "聖祝の獄幻姫・ロミア",
@@ -775,7 +813,8 @@
         "id": "PAD/S105-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-040": {
     "name": "エメラルドドラゴン",
@@ -793,7 +832,8 @@
         "id": "PAD/S105-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-041": {
     "name": "大樹の精霊・アルラウネ",
@@ -811,7 +851,8 @@
         "id": "PAD/S105-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-042": {
     "name": "モリりん",
@@ -829,7 +870,8 @@
         "id": "PAD/S105-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-043": {
     "name": "甘党の幻龍王・ゼローグ∞",
@@ -847,7 +889,8 @@
         "id": "PAD/S105-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-044": {
     "name": "古城の守り猫・バステト",
@@ -865,7 +908,8 @@
         "id": "PAD/S105-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-045": {
     "name": "転生お市",
@@ -883,7 +927,8 @@
         "id": "PAD/S105-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-046": {
     "name": "超転生オシリス",
@@ -901,7 +946,8 @@
         "id": "PAD/S105-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-047": {
     "name": "熱狂のベーシスト・ロシェ",
@@ -919,7 +965,8 @@
         "id": "PAD/S105-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-048": {
     "name": "極醒の威女神・カーリー",
@@ -941,7 +988,8 @@
         "id": "PAD/S105-048R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-049": {
     "name": "穿槍の翠戦帝・ノーチラス",
@@ -963,7 +1011,8 @@
         "id": "PAD/S105-049R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-050": {
     "name": "陰陽省の宗主・ミカゲ",
@@ -981,7 +1030,8 @@
         "id": "PAD/S105-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-051": {
     "name": "城下の大魔女・マドゥ",
@@ -1003,7 +1053,8 @@
         "id": "PAD/S105-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-052": {
     "name": "ラー＆ホルス",
@@ -1025,7 +1076,8 @@
         "id": "PAD/S105-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-053": {
     "name": "恩讐の退魔師・セイナ",
@@ -1047,7 +1099,8 @@
         "id": "PAD/S105-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-054": {
     "name": "競合の龍契士・リクウ＆ディステル",
@@ -1069,7 +1122,8 @@
         "id": "PAD/S105-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-055": {
     "name": "夢獣の大魔女・レムゥ",
@@ -1091,7 +1145,8 @@
         "id": "PAD/S105-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-056": {
     "name": "極醒の霊央神・カミムスビ",
@@ -1113,7 +1168,8 @@
         "id": "PAD/S105-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-057": {
     "name": "聖夜の歓迎者・グレモリー",
@@ -1135,7 +1191,8 @@
         "id": "PAD/S105-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-058": {
     "name": "海祠の獣姫・ルカ＆ミツキ",
@@ -1157,7 +1214,8 @@
         "id": "PAD/S105-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-059": {
     "name": "初日の朱雀姫・レイラン",
@@ -1175,7 +1233,8 @@
         "id": "PAD/S105-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-060": {
     "name": "聖夜の翠龍刀士・セリカ",
@@ -1193,7 +1252,8 @@
         "id": "PAD/S105-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-061": {
     "name": "仮装祭の吸血姫・稲姫",
@@ -1211,7 +1271,8 @@
         "id": "PAD/S105-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-062": {
     "name": "親愛の紅龍刀士・アキネ",
@@ -1229,7 +1290,8 @@
         "id": "PAD/S105-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-063": {
     "name": "甘味処の狛犬姫・センリ",
@@ -1247,7 +1309,8 @@
         "id": "PAD/S105-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-064": {
     "name": "親愛の赤龍喚士・ソニア",
@@ -1265,7 +1328,8 @@
         "id": "PAD/S105-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-065": {
     "name": "ルビードラゴン",
@@ -1283,7 +1347,8 @@
         "id": "PAD/S105-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-066": {
     "name": "森の元気娘・赤ずきん",
@@ -1301,7 +1366,8 @@
         "id": "PAD/S105-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-067": {
     "name": "覚醒ヘラ・ウルズ↑↑",
@@ -1319,7 +1385,8 @@
         "id": "PAD/S105-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-068": {
     "name": "激動の監視者・レイワ",
@@ -1337,7 +1404,8 @@
         "id": "PAD/S105-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-069": {
     "name": "ホノりん",
@@ -1355,7 +1423,8 @@
         "id": "PAD/S105-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-070": {
     "name": "超転生ヒノカグツチ",
@@ -1373,7 +1442,8 @@
         "id": "PAD/S105-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-071": {
     "name": "爆進の魔神卿・ベリアル",
@@ -1391,7 +1461,8 @@
         "id": "PAD/S105-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-072": {
     "name": "春紅蘭の君子・シャンメイ",
@@ -1409,7 +1480,8 @@
         "id": "PAD/S105-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-073": {
     "name": "超転生シヴァ＝ドラゴン",
@@ -1431,7 +1503,8 @@
         "id": "PAD/S105-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-074": {
     "name": "烈腕の紅戦帝・シーウルフ",
@@ -1453,7 +1526,8 @@
         "id": "PAD/S105-074R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-075": {
     "name": "灼那華の女帝・エキドナ -SARA-",
@@ -1475,7 +1549,8 @@
         "id": "PAD/S105-075R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-076": {
     "name": "カラット＆シルク＆カメオ",
@@ -1497,7 +1572,8 @@
         "id": "PAD/S105-076SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-077": {
     "name": "納涼の箏龍楽士・ミナカ",
@@ -1519,7 +1595,8 @@
         "id": "PAD/S105-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-078": {
     "name": "堕天使ルシファー＆熾天使ルシファー",
@@ -1541,7 +1618,8 @@
         "id": "PAD/S105-078SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-079": {
     "name": "悠然のギタリスト・ソニア＝クレア",
@@ -1563,7 +1641,8 @@
         "id": "PAD/S105-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-080": {
     "name": "冥星の喜女神・ウルカ",
@@ -1585,7 +1664,8 @@
         "id": "PAD/S105-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-081": {
     "name": "部活のマネージャー・チィリン",
@@ -1607,7 +1687,8 @@
         "id": "PAD/S105-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-082": {
     "name": "溟夜の奏姫・セイレーン＆リリス",
@@ -1629,7 +1710,8 @@
         "id": "PAD/S105-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-083": {
     "name": "浜辺の大魔女・ヴェロア",
@@ -1651,7 +1733,8 @@
         "id": "PAD/S105-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-084": {
     "name": "演舞の青龍姫・カリン",
@@ -1669,7 +1752,8 @@
         "id": "PAD/S105-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-085": {
     "name": "冷刀の花嫁・ユウリ",
@@ -1687,7 +1771,8 @@
         "id": "PAD/S105-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-086": {
     "name": "夏休みの約束・バーバラ＆ジュリ",
@@ -1705,7 +1790,8 @@
         "id": "PAD/S105-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-087": {
     "name": "楽園の観察者・メタトロン",
@@ -1723,7 +1809,8 @@
         "id": "PAD/S105-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-088": {
     "name": "争奪の海賊龍・黒髭ティーチ",
@@ -1741,7 +1828,8 @@
         "id": "PAD/S105-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-089": {
     "name": "相克の陰陽龍・リュウウンサイ",
@@ -1759,7 +1847,8 @@
         "id": "PAD/S105-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-090": {
     "name": "蒼の海賊龍・アルビダ",
@@ -1777,7 +1866,8 @@
         "id": "PAD/S105-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-091": {
     "name": "サファイアドラゴン",
@@ -1795,7 +1885,8 @@
         "id": "PAD/S105-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-092": {
     "name": "ワルりん",
@@ -1813,7 +1904,8 @@
         "id": "PAD/S105-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-093": {
     "name": "ドラウンジョーカー",
@@ -1831,7 +1923,8 @@
         "id": "PAD/S105-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-094": {
     "name": "ダークレディ",
@@ -1849,7 +1942,8 @@
         "id": "PAD/S105-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-095": {
     "name": "超転生ヌト",
@@ -1867,7 +1961,8 @@
         "id": "PAD/S105-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-096": {
     "name": "海王神・ネプチューン",
@@ -1885,7 +1980,8 @@
         "id": "PAD/S105-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-097": {
     "name": "魔輝の神王妃ヘラ",
@@ -1903,7 +1999,8 @@
         "id": "PAD/S105-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PAD/S105-098": {
     "name": "波際の管龍楽士・マリエル",
@@ -1925,7 +2022,8 @@
         "id": "PAD/S105-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-099": {
     "name": "剛剣の蒼戦帝・ロイヤルオーク",
@@ -1947,7 +2045,8 @@
         "id": "PAD/S105-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PAD/S105-100": {
     "name": "千手龍・センキョウ",
@@ -1965,6 +2064,7 @@
         "id": "PAD/S105-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

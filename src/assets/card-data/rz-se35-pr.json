@@ -15,7 +15,8 @@
         "id": "RZ/SE35-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-P02": {
     "name": "ぷっくりエミリア",
@@ -33,7 +34,8 @@
         "id": "RZ/SE35-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-P03": {
     "name": "しろくろアニマル ラム",
@@ -55,7 +57,8 @@
         "id": "RZ/SE35-P03b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-P04": {
     "name": "しろくろアニマル エミリア",
@@ -77,7 +80,8 @@
         "id": "RZ/SE35-P04b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-P05": {
     "name": "しろくろアニマル レム",
@@ -99,6 +103,7 @@
         "id": "RZ/SE35-P05b",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

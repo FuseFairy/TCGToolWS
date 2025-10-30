@@ -15,7 +15,8 @@
         "id": "FS/S03-102",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S03-103": {
     "name": "衛宮家の居候",
@@ -33,7 +34,8 @@
         "id": "FS/S03-103",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S03-T01": {
     "name": "湯上りセイバー",
@@ -51,7 +53,8 @@
         "id": "FS/S03-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S03-T02": {
     "name": "美綴 綾子",
@@ -69,7 +72,8 @@
         "id": "FS/S03-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S03-T03": {
     "name": "柳洞 一成",
@@ -87,7 +91,8 @@
         "id": "FS/S03-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S03-T04": {
     "name": "最優の英霊セイバー",
@@ -105,7 +110,8 @@
         "id": "FS/S03-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S03-T05": {
     "name": "黄金の英雄王ギルガメッシュ",
@@ -123,7 +129,8 @@
         "id": "FS/S03-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S03-T06": {
     "name": "藤師しょー",
@@ -141,7 +148,8 @@
         "id": "FS/S03-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S03-T07": {
     "name": "聖剣の担い手セイバー",
@@ -159,7 +167,8 @@
         "id": "FS/S03-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S03-T08": {
     "name": "セイバー召喚",
@@ -177,7 +186,8 @@
         "id": "FS/S03-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S03-T09": {
     "name": "ファニーライオン",
@@ -195,7 +205,8 @@
         "id": "FS/S03-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S03-T10": {
     "name": "約束された勝利の剣",
@@ -213,7 +224,8 @@
         "id": "FS/S03-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FS/S03-T11": {
     "name": "赤い騎士アーチャー",
@@ -231,7 +243,8 @@
         "id": "FS/S03-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S03-T12": {
     "name": "あかいあくま凛",
@@ -249,7 +262,8 @@
         "id": "FS/S03-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S03-T13": {
     "name": "遠坂 凛",
@@ -267,7 +281,8 @@
         "id": "FS/S03-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S03-T14": {
     "name": "宝石魔術の血脈 凛",
@@ -285,7 +300,8 @@
         "id": "FS/S03-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S03-T15": {
     "name": "錬鉄の英霊アーチャー",
@@ -303,7 +319,8 @@
         "id": "FS/S03-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S03-T16": {
     "name": "黒き聖杯 桜",
@@ -321,7 +338,8 @@
         "id": "FS/S03-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S03-T17": {
     "name": "別れの言葉",
@@ -339,7 +357,8 @@
         "id": "FS/S03-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FS/S03-T18": {
     "name": "いたずらな微笑み",
@@ -357,6 +376,7 @@
         "id": "FS/S03-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

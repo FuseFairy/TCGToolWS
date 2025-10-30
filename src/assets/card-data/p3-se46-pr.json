@@ -19,7 +19,8 @@
         "id": "P3/SE46-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SE46-P02": {
     "name": "ジャックブラザーズ",
@@ -37,6 +38,7 @@
         "id": "P3/SE46-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

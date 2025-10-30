@@ -19,7 +19,8 @@
         "id": "Fsh/W120-T03S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsh/W120-T04": {
     "name": "猫かぶりのオタク 英梨々",
@@ -41,6 +42,7 @@
         "id": "Fsh/W120-T04SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

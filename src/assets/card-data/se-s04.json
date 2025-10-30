@@ -19,7 +19,8 @@
         "id": "SE/S04-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-002": {
     "name": "トウマ＆ゼナス",
@@ -37,7 +38,8 @@
         "id": "SE/S04-002",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-003": {
     "name": "アウトロー トウマ",
@@ -55,7 +57,8 @@
         "id": "SE/S04-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-004": {
     "name": "野生児トウマ",
@@ -77,7 +80,8 @@
         "id": "SE/S04-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-005": {
     "name": "ケンタウロスの騎士ガドフォール",
@@ -95,7 +99,8 @@
         "id": "SE/S04-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-006": {
     "name": "ウィッチハットのシリル",
@@ -113,7 +118,8 @@
         "id": "SE/S04-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-007": {
     "name": "選ばれし者トウマ",
@@ -135,7 +141,8 @@
         "id": "SE/S04-007R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-008": {
     "name": "シリル＆ジラ",
@@ -153,7 +160,8 @@
         "id": "SE/S04-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-009": {
     "name": "“騎士道”ガドフォール",
@@ -171,7 +179,8 @@
         "id": "SE/S04-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-010": {
     "name": "仲良し シリル＆ジラ",
@@ -189,7 +198,8 @@
         "id": "SE/S04-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-011": {
     "name": "伝説の英雄アバロン",
@@ -207,7 +217,8 @@
         "id": "SE/S04-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-012": {
     "name": "マスター・トウマ",
@@ -225,7 +236,8 @@
         "id": "SE/S04-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-013": {
     "name": "怒ったシリル",
@@ -243,7 +255,8 @@
         "id": "SE/S04-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-014": {
     "name": "笑顔のシリル",
@@ -261,7 +274,8 @@
         "id": "SE/S04-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-015": {
     "name": "ギルナ＆ヒカネ",
@@ -279,7 +293,8 @@
         "id": "SE/S04-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-016": {
     "name": "トウマ＆シリル",
@@ -297,7 +312,8 @@
         "id": "SE/S04-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-017": {
     "name": "黄金の騎士アバロン",
@@ -315,7 +331,8 @@
         "id": "SE/S04-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-018": {
     "name": "心優しき騎士ガドフォール",
@@ -333,7 +350,8 @@
         "id": "SE/S04-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-019": {
     "name": "“聖剣の呪い”トウマ＆シリル",
@@ -351,7 +369,8 @@
         "id": "SE/S04-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-020": {
     "name": "ジオフォートの守護者",
@@ -369,7 +388,8 @@
         "id": "SE/S04-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-021": {
     "name": "もう一つの聖剣",
@@ -387,7 +407,8 @@
         "id": "SE/S04-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-022": {
     "name": "トウマの意地",
@@ -405,7 +426,8 @@
         "id": "SE/S04-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-023": {
     "name": "ＶＳイノブタ",
@@ -423,7 +445,8 @@
         "id": "SE/S04-023",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SE/S04-024": {
     "name": "聖剣シャイニングフォース",
@@ -445,7 +468,8 @@
         "id": "SE/S04-024SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-025": {
     "name": "シリルの想い",
@@ -463,7 +487,8 @@
         "id": "SE/S04-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SE/S04-026": {
     "name": "食いしん坊メーベル",
@@ -481,7 +506,8 @@
         "id": "SE/S04-026",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-027": {
     "name": "迷子のファークリン",
@@ -503,7 +529,8 @@
         "id": "SE/S04-027R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-028": {
     "name": "魔族の少女アミタリリ",
@@ -525,7 +552,8 @@
         "id": "SE/S04-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-029": {
     "name": "“クイントール族”ファークリン",
@@ -547,7 +575,8 @@
         "id": "SE/S04-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-030": {
     "name": "若獅子帝ラグナダーム",
@@ -565,7 +594,8 @@
         "id": "SE/S04-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-031": {
     "name": "獣人族の少年ファークリン",
@@ -583,7 +613,8 @@
         "id": "SE/S04-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-032": {
     "name": "森の民メーベル",
@@ -601,7 +632,8 @@
         "id": "SE/S04-032",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-033": {
     "name": "名工ガンテツ",
@@ -619,7 +651,8 @@
         "id": "SE/S04-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-034": {
     "name": "誇り高き人狼ドゥーガ",
@@ -637,7 +670,8 @@
         "id": "SE/S04-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-035": {
     "name": "アミタリリ＆ファークリン",
@@ -655,7 +689,8 @@
         "id": "SE/S04-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-036": {
     "name": "自称天才魔女っ子アミタリリ",
@@ -673,7 +708,8 @@
         "id": "SE/S04-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-037": {
     "name": "天を目指す王ラグナダーム",
@@ -691,7 +727,8 @@
         "id": "SE/S04-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-038": {
     "name": "“ポワポワシッポ”ファークリン",
@@ -709,7 +746,8 @@
         "id": "SE/S04-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-039": {
     "name": "帝王の唯一の理解者カティーナ",
@@ -727,7 +765,8 @@
         "id": "SE/S04-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-040": {
     "name": "爆弾娘アミタリリ",
@@ -745,7 +784,8 @@
         "id": "SE/S04-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-041": {
     "name": "“いい加減で自信過剰”アミタリリ",
@@ -763,7 +803,8 @@
         "id": "SE/S04-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-042": {
     "name": "アーチャー メーベル",
@@ -781,7 +822,8 @@
         "id": "SE/S04-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-043": {
     "name": "ラグナダームⅢ世",
@@ -799,7 +841,8 @@
         "id": "SE/S04-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-044": {
     "name": "野獣ドゥーガ",
@@ -817,7 +860,8 @@
         "id": "SE/S04-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-045": {
     "name": "追いかけっこ",
@@ -835,7 +879,8 @@
         "id": "SE/S04-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-046": {
     "name": "魔導の城",
@@ -853,7 +898,8 @@
         "id": "SE/S04-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-047": {
     "name": "王の威厳",
@@ -871,7 +917,8 @@
         "id": "SE/S04-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-048": {
     "name": "目指せ！ラ・ヴァース",
@@ -893,7 +940,8 @@
         "id": "SE/S04-048SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SE/S04-049": {
     "name": "ファークリンの自己紹介",
@@ -911,7 +959,8 @@
         "id": "SE/S04-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-050": {
     "name": "エルフ族の戦士",
@@ -929,7 +978,8 @@
         "id": "SE/S04-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SE/S04-051": {
     "name": "リームシアン・ラ・ヴァース",
@@ -951,7 +1001,8 @@
         "id": "SE/S04-051R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-052": {
     "name": "美少女ヒロイン アミタリリ",
@@ -973,7 +1024,8 @@
         "id": "SE/S04-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-053": {
     "name": "気分屋アミタリリ",
@@ -991,7 +1043,8 @@
         "id": "SE/S04-053",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-054": {
     "name": "魔女アミタリリ",
@@ -1009,7 +1062,8 @@
         "id": "SE/S04-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-055": {
     "name": "アミタリリの付き人ファークリン",
@@ -1027,7 +1081,8 @@
         "id": "SE/S04-055",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-056": {
     "name": "不死鳥使いアミタリリ",
@@ -1045,7 +1100,8 @@
         "id": "SE/S04-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-057": {
     "name": "フィアランドの女王リームシアン",
@@ -1067,7 +1123,8 @@
         "id": "SE/S04-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-058": {
     "name": "“球体防御最強理論”アダム",
@@ -1085,7 +1142,8 @@
         "id": "SE/S04-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-059": {
     "name": "忠犬ファークリン",
@@ -1103,7 +1161,8 @@
         "id": "SE/S04-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-060": {
     "name": "煉獄の業火リームシアン",
@@ -1121,7 +1180,8 @@
         "id": "SE/S04-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-061": {
     "name": "誘惑するリームシアン",
@@ -1139,7 +1199,8 @@
         "id": "SE/S04-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-062": {
     "name": "驚愕するアミタリリ",
@@ -1157,7 +1218,8 @@
         "id": "SE/S04-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-063": {
     "name": "水着のシリル＆アミタリリ",
@@ -1175,7 +1237,8 @@
         "id": "SE/S04-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-064": {
     "name": "ラ・ヴァースの名を継ぐ者リームシアン",
@@ -1193,7 +1256,8 @@
         "id": "SE/S04-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-065": {
     "name": "怖がりファークリン",
@@ -1211,7 +1275,8 @@
         "id": "SE/S04-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-066": {
     "name": "女王の副官ルルネーゼル",
@@ -1229,7 +1294,8 @@
         "id": "SE/S04-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-067": {
     "name": "泣き虫ファークリン",
@@ -1247,7 +1313,8 @@
         "id": "SE/S04-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-068": {
     "name": "魔族の長リームシアン",
@@ -1265,7 +1332,8 @@
         "id": "SE/S04-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-069": {
     "name": "“ライバル”シリル＆アミタリリ",
@@ -1283,7 +1351,8 @@
         "id": "SE/S04-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-070": {
     "name": "解き放たれた天空船",
@@ -1301,7 +1370,8 @@
         "id": "SE/S04-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-071": {
     "name": "若獅子王VSラ・ヴァース",
@@ -1319,7 +1389,8 @@
         "id": "SE/S04-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-072": {
     "name": "クリムゾンパレス",
@@ -1337,7 +1408,8 @@
         "id": "SE/S04-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-073": {
     "name": "ラ・ヴァースの誘惑",
@@ -1359,7 +1431,8 @@
         "id": "SE/S04-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SE/S04-074": {
     "name": "いつかラ・ヴァースになる！",
@@ -1377,7 +1450,8 @@
         "id": "SE/S04-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SE/S04-075": {
     "name": "それは私の物だ",
@@ -1395,7 +1469,8 @@
         "id": "SE/S04-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-076": {
     "name": "聖剣の主シリル",
@@ -1417,7 +1492,8 @@
         "id": "SE/S04-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-077": {
     "name": "キャットイヤーのシリル",
@@ -1439,7 +1515,8 @@
         "id": "SE/S04-077R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-078": {
     "name": "聖剣の主トウマ",
@@ -1461,7 +1538,8 @@
         "id": "SE/S04-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-079": {
     "name": "料理人シリル",
@@ -1479,7 +1557,8 @@
         "id": "SE/S04-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-080": {
     "name": "着替え中のシリル",
@@ -1497,7 +1576,8 @@
         "id": "SE/S04-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-081": {
     "name": "正義感溢れるトウマ",
@@ -1515,7 +1595,8 @@
         "id": "SE/S04-081",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-082": {
     "name": "運命を知るもの シリル＆ジラ",
@@ -1533,7 +1614,8 @@
         "id": "SE/S04-082",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-083": {
     "name": "熱血漢トウマ",
@@ -1551,7 +1633,8 @@
         "id": "SE/S04-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-084": {
     "name": "ゼナス＆ジラ",
@@ -1569,7 +1652,8 @@
         "id": "SE/S04-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-085": {
     "name": "古龍ガリュウ",
@@ -1587,7 +1671,8 @@
         "id": "SE/S04-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-086": {
     "name": "“２本の聖剣”トウマ＆シリル",
@@ -1605,7 +1690,8 @@
         "id": "SE/S04-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-087": {
     "name": "マスター・シリル",
@@ -1623,7 +1709,8 @@
         "id": "SE/S04-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-088": {
     "name": "“命よりお金”ボルネ",
@@ -1641,7 +1728,8 @@
         "id": "SE/S04-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-089": {
     "name": "指揮官フィリップ",
@@ -1659,7 +1747,8 @@
         "id": "SE/S04-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-090": {
     "name": "ジオフォートの主トウマ",
@@ -1677,7 +1766,8 @@
         "id": "SE/S04-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-091": {
     "name": "照れ怒りシリル",
@@ -1695,7 +1785,8 @@
         "id": "SE/S04-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-092": {
     "name": "水着のシリル",
@@ -1713,7 +1804,8 @@
         "id": "SE/S04-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-093": {
     "name": "優等生シリル",
@@ -1731,7 +1823,8 @@
         "id": "SE/S04-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-094": {
     "name": "“片角”ガリュウ",
@@ -1749,7 +1842,8 @@
         "id": "SE/S04-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SE/S04-095": {
     "name": "拍子抜け",
@@ -1767,7 +1861,8 @@
         "id": "SE/S04-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-096": {
     "name": "ジオフォートの目覚め",
@@ -1785,7 +1880,8 @@
         "id": "SE/S04-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-097": {
     "name": "もう一度勝負だ！",
@@ -1803,7 +1899,8 @@
         "id": "SE/S04-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SE/S04-098": {
     "name": "聖剣の力",
@@ -1821,7 +1918,8 @@
         "id": "SE/S04-098",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SE/S04-099": {
     "name": "運命の刃",
@@ -1843,7 +1941,8 @@
         "id": "SE/S04-099SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SE/S04-100": {
     "name": "シリルの真実",
@@ -1861,6 +1960,7 @@
         "id": "SE/S04-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "PI/S40-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/S40-P02": {
     "name": "“二人は仲良し★”美遊＆イリヤ",
@@ -33,7 +34,8 @@
         "id": "PI/S40-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/S40-P03": {
     "name": "“決意の時”イリヤ",
@@ -51,7 +53,8 @@
         "id": "PI/S40-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/S40-P04": {
     "name": "“真夏のビーチ”クロ＆美遊＆イリヤ",
@@ -69,7 +72,8 @@
         "id": "PI/S40-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/S40-101": {
     "name": "ぷちクロ",
@@ -87,7 +91,8 @@
         "id": "PI/S40-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/S40-102": {
     "name": "ぷち美遊",
@@ -105,7 +110,8 @@
         "id": "PI/S40-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/S40-103": {
     "name": "ぷちイリヤ",
@@ -123,6 +129,7 @@
         "id": "PI/S40-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

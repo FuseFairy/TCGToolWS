@@ -19,7 +19,8 @@
         "id": "SAO/S71-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-002": {
     "name": "Alicization Dividing キリト&アリス",
@@ -41,7 +42,8 @@
         "id": "SAO/S71-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-003": {
     "name": "アインクラッド キリト&アスナ",
@@ -63,7 +65,8 @@
         "id": "SAO/S71-003SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-004": {
     "name": "打ち解けた微笑 アスナ",
@@ -85,7 +88,8 @@
         "id": "SAO/S71-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-005": {
     "name": "《光剣》の使い手 アスナ",
@@ -107,7 +111,8 @@
         "id": "SAO/S71-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-006": {
     "name": "Alicization Exploding キリト&アスナ",
@@ -129,7 +134,8 @@
         "id": "SAO/S71-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-007": {
     "name": "水妖精族の魔法使い アスナ",
@@ -151,7 +157,8 @@
         "id": "SAO/S71-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-008": {
     "name": "生存確認 アスナ",
@@ -173,7 +180,8 @@
         "id": "SAO/S71-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-009": {
     "name": "天然色の二人",
@@ -195,7 +203,8 @@
         "id": "SAO/S71-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-010": {
     "name": "レイピアの名手 アスナ",
@@ -217,7 +226,8 @@
         "id": "SAO/S71-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-011": {
     "name": "Alicization Invading アリス&キリト",
@@ -239,7 +249,8 @@
         "id": "SAO/S71-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-012": {
     "name": "《血盟騎士団》ギルドリーダー ヒースクリフ",
@@ -261,7 +272,8 @@
         "id": "SAO/S71-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-013": {
     "name": "遠来のお客様",
@@ -283,7 +295,8 @@
         "id": "SAO/S71-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-014": {
     "name": "子供時代 アリス",
@@ -305,7 +318,8 @@
         "id": "SAO/S71-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-015": {
     "name": "必要な存在 アスナ",
@@ -327,7 +341,8 @@
         "id": "SAO/S71-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-016": {
     "name": "さすらいの一座",
@@ -349,7 +364,8 @@
         "id": "SAO/S71-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-017": {
     "name": "冬の聖域 詩乃&明日奈&ユウキ",
@@ -371,7 +387,8 @@
         "id": "SAO/S71-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-018": {
     "name": "Alicization Lasting キリト&アスナ",
@@ -393,7 +410,8 @@
         "id": "SAO/S71-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-019": {
     "name": "《オーディナル・スケール》  アスナ",
@@ -415,7 +433,8 @@
         "id": "SAO/S71-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-020": {
     "name": "フェアリィ・ダンス アスナ&キリト",
@@ -437,7 +456,8 @@
         "id": "SAO/S71-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-021": {
     "name": "束の間の休息 アスナ&キリト",
@@ -459,7 +479,8 @@
         "id": "SAO/S71-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-022": {
     "name": "コンビ結成 アスナ&キリト",
@@ -481,7 +502,8 @@
         "id": "SAO/S71-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-023": {
     "name": "囚われの身 アスナ",
@@ -503,7 +525,8 @@
         "id": "SAO/S71-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-024": {
     "name": "幕屋の姫君",
@@ -525,7 +548,8 @@
         "id": "SAO/S71-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-025": {
     "name": "囚われの身 明日奈",
@@ -547,7 +571,8 @@
         "id": "SAO/S71-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-026": {
     "name": "《圏内事件》を追う キリト&アスナ",
@@ -569,7 +594,8 @@
         "id": "SAO/S71-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-027": {
     "name": "ラーメン……？",
@@ -591,7 +617,8 @@
         "id": "SAO/S71-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-028": {
     "name": "今夜は一緒に",
@@ -613,7 +640,8 @@
         "id": "SAO/S71-028SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-029": {
     "name": "Childhood",
@@ -635,7 +663,8 @@
         "id": "SAO/S71-029R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-030": {
     "name": "砂漠の宴",
@@ -657,7 +686,8 @@
         "id": "SAO/S71-030R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-031": {
     "name": "次の世界へ ユウキ",
@@ -679,7 +709,8 @@
         "id": "SAO/S71-031SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-032": {
     "name": "フェアリィ・ダンス キリト&リーファ",
@@ -701,7 +732,8 @@
         "id": "SAO/S71-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-033": {
     "name": "Alicization Awakening シノン&リーファ",
@@ -723,7 +755,8 @@
         "id": "SAO/S71-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-034": {
     "name": "冬の聖域 ロニエ&ティーゼ&アリス",
@@ -745,7 +778,8 @@
         "id": "SAO/S71-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-035": {
     "name": "晴れた笑顔 直葉&和人",
@@ -767,7 +801,8 @@
         "id": "SAO/S71-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-036": {
     "name": "素敵な館のメイドたち",
@@ -789,7 +824,8 @@
         "id": "SAO/S71-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-037": {
     "name": "マザーズ・ロザリオ キリト&アスナ&ユウキ",
@@ -811,7 +847,8 @@
         "id": "SAO/S71-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-038": {
     "name": "天真爛漫 ユウキ",
@@ -833,7 +870,8 @@
         "id": "SAO/S71-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-039": {
     "name": "目指せ聖剣 ユイ&クライン&リーファ&アスナ",
@@ -855,7 +893,8 @@
         "id": "SAO/S71-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-040": {
     "name": "《オーディナル・スケール》 ユナ",
@@ -877,7 +916,8 @@
         "id": "SAO/S71-040SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-041": {
     "name": "大地の過客",
@@ -899,7 +939,8 @@
         "id": "SAO/S71-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-042": {
     "name": "Alicization Turning キリト&ティーゼ&ロニエ",
@@ -921,7 +962,8 @@
         "id": "SAO/S71-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-043": {
     "name": "Eternal Weavers",
@@ -943,7 +985,8 @@
         "id": "SAO/S71-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-044": {
     "name": "Infinite Weavers",
@@ -965,7 +1008,8 @@
         "id": "SAO/S71-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-045": {
     "name": "夜更かしの代償 直葉",
@@ -987,7 +1031,8 @@
         "id": "SAO/S71-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-046": {
     "name": "《世界樹》で待つ者 オベイロン",
@@ -1009,7 +1054,8 @@
         "id": "SAO/S71-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-047": {
     "name": "Alicization Rising キリト&フィゼル&リネル",
@@ -1031,7 +1077,8 @@
         "id": "SAO/S71-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-048": {
     "name": "《オーディナル・スケール》  エイジ",
@@ -1053,7 +1100,8 @@
         "id": "SAO/S71-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-049": {
     "name": "不思議なパーティー《スリーピング・ナイツ》",
@@ -1075,7 +1123,8 @@
         "id": "SAO/S71-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-050": {
     "name": "残照の空中散歩 リーファ",
@@ -1097,7 +1146,8 @@
         "id": "SAO/S71-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-051": {
     "name": "眠気を催すアレ アスナ&リーファ",
@@ -1119,7 +1169,8 @@
         "id": "SAO/S71-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-052": {
     "name": "二人の正体",
@@ -1141,7 +1192,8 @@
         "id": "SAO/S71-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-053": {
     "name": "世界樹のもとへ",
@@ -1163,7 +1215,8 @@
         "id": "SAO/S71-053R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-054": {
     "name": "Hearty party",
@@ -1185,7 +1238,8 @@
         "id": "SAO/S71-054R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-055": {
     "name": "雨宿り",
@@ -1207,7 +1261,8 @@
         "id": "SAO/S71-055R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-056": {
     "name": "アインクラッド シリカ&キリト",
@@ -1229,7 +1284,8 @@
         "id": "SAO/S71-056SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-057": {
     "name": "目指せ聖剣 リズベット&シリカ",
@@ -1251,7 +1307,8 @@
         "id": "SAO/S71-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-058": {
     "name": "眠気を催すアレ リズベット&シリカ",
@@ -1273,7 +1330,8 @@
         "id": "SAO/S71-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-059": {
     "name": "冬の聖域 直葉&珪子&里香",
@@ -1295,7 +1353,8 @@
         "id": "SAO/S71-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-060": {
     "name": "真夏の妖精",
@@ -1317,7 +1376,8 @@
         "id": "SAO/S71-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-061": {
     "name": "Urban young generations",
@@ -1339,7 +1399,8 @@
         "id": "SAO/S71-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-062": {
     "name": "みんなで観戦 リーファ&シリカ",
@@ -1361,7 +1422,8 @@
         "id": "SAO/S71-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-063": {
     "name": "謎のアバター 《死銃》",
@@ -1383,7 +1445,8 @@
         "id": "SAO/S71-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-064": {
     "name": "そろって冒険 アスナ&リズベット&シリカ",
@@ -1405,7 +1468,8 @@
         "id": "SAO/S71-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-065": {
     "name": "みんなで観戦 ユイ&アスナ&クライン&リズベット",
@@ -1427,7 +1491,8 @@
         "id": "SAO/S71-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-066": {
     "name": "真の殺人者《死銃》",
@@ -1449,7 +1514,8 @@
         "id": "SAO/S71-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-067": {
     "name": "四季を彩る少女たち",
@@ -1471,7 +1537,8 @@
         "id": "SAO/S71-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-068": {
     "name": "《サラマンダー》の襲撃",
@@ -1493,7 +1560,8 @@
         "id": "SAO/S71-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-069": {
     "name": "MORE DEBAN！",
@@ -1515,7 +1583,8 @@
         "id": "SAO/S71-069R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-070": {
     "name": "東の果ての桃源郷",
@@ -1537,7 +1606,8 @@
         "id": "SAO/S71-070R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-071": {
     "name": "再会の時 キリト",
@@ -1559,7 +1629,8 @@
         "id": "SAO/S71-071SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-072": {
     "name": "黄昏のイノセンス",
@@ -1581,7 +1652,8 @@
         "id": "SAO/S71-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-073": {
     "name": "Alicization Uniting キリト&ユージオ",
@@ -1603,7 +1675,8 @@
         "id": "SAO/S71-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-074": {
     "name": "静かな闘志 シノン",
@@ -1625,7 +1698,8 @@
         "id": "SAO/S71-074SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-075": {
     "name": "《スプリガン》の剣士 キリト",
@@ -1647,7 +1721,8 @@
         "id": "SAO/S71-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-076": {
     "name": "《オーディナル・スケール》  キリト",
@@ -1669,7 +1744,8 @@
         "id": "SAO/S71-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-077": {
     "name": "子供時代 キリト",
@@ -1691,7 +1767,8 @@
         "id": "SAO/S71-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-078": {
     "name": "Alicization Beginning キリト&ユージオ",
@@ -1713,7 +1790,8 @@
         "id": "SAO/S71-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-079": {
     "name": "子供時代 ユージオ",
@@ -1735,7 +1813,8 @@
         "id": "SAO/S71-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-080": {
     "name": "そろって冒険 キリト",
@@ -1757,7 +1836,8 @@
         "id": "SAO/S71-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-081": {
     "name": "怖がりな女の子 サチ",
@@ -1779,7 +1859,8 @@
         "id": "SAO/S71-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-082": {
     "name": "《剣》へのこだわり キリト",
@@ -1801,7 +1882,8 @@
         "id": "SAO/S71-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-083": {
     "name": "記憶の無い少女 ユイ",
@@ -1823,7 +1905,8 @@
         "id": "SAO/S71-083SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-084": {
     "name": "ファントム・バレット キリト&シノン",
@@ -1845,7 +1928,8 @@
         "id": "SAO/S71-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-085": {
     "name": "アーリー・アンド・レイト キリト&ヒースクリフ",
@@ -1867,7 +1951,8 @@
         "id": "SAO/S71-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-086": {
     "name": "花の都の4人衆",
@@ -1889,7 +1974,8 @@
         "id": "SAO/S71-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-087": {
     "name": "強きシノンと弱き詩乃",
@@ -1911,7 +1997,8 @@
         "id": "SAO/S71-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-088": {
     "name": "最強の《ソロプレイヤー》 キリト",
@@ -1933,7 +2020,8 @@
         "id": "SAO/S71-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-089": {
     "name": "残照の空中散歩 キリト&ユイ",
@@ -1955,7 +2043,8 @@
         "id": "SAO/S71-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-090": {
     "name": "ファントム・バレット キリト",
@@ -1977,7 +2066,8 @@
         "id": "SAO/S71-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-091": {
     "name": "灼熱のキャラバン",
@@ -1999,7 +2089,8 @@
         "id": "SAO/S71-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-092": {
     "name": "当主様ご一行",
@@ -2021,7 +2112,8 @@
         "id": "SAO/S71-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-093": {
     "name": "Alicization Running キリト&ソルティリーナ",
@@ -2043,7 +2135,8 @@
         "id": "SAO/S71-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-094": {
     "name": "釣り人と青猫",
@@ -2065,7 +2158,8 @@
         "id": "SAO/S71-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-095": {
     "name": "街に迷う猫たち",
@@ -2087,7 +2181,8 @@
         "id": "SAO/S71-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-096": {
     "name": "後ろに注意",
@@ -2109,7 +2204,8 @@
         "id": "SAO/S71-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-097": {
     "name": "目指せ《エクスキャリバー》",
@@ -2131,7 +2227,8 @@
         "id": "SAO/S71-097S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S71-098": {
     "name": "薄明のギルド",
@@ -2153,7 +2250,8 @@
         "id": "SAO/S71-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-099": {
     "name": "過去に立ち向かう二人",
@@ -2175,7 +2273,8 @@
         "id": "SAO/S71-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S71-100": {
     "name": "ソーダ色のパノラマ",
@@ -2197,6 +2296,7 @@
         "id": "SAO/S71-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

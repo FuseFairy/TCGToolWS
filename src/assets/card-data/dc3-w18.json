@@ -19,7 +19,8 @@
         "id": "DC3/W18-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-002": {
     "name": "かけがえのない魔法 リッカ",
@@ -41,7 +42,8 @@
         "id": "DC3/W18-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-003": {
     "name": "プカプカデート リッカ",
@@ -59,7 +61,8 @@
         "id": "DC3/W18-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-004": {
     "name": "夢見る未来へ リッカ",
@@ -81,7 +84,8 @@
         "id": "DC3/W18-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-005": {
     "name": "風見鶏の生徒会長 シャルル",
@@ -99,7 +103,8 @@
         "id": "DC3/W18-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-006": {
     "name": "“サンタの初恋 ”シャルル",
@@ -117,7 +122,8 @@
         "id": "DC3/W18-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-007": {
     "name": "監督生 リッカ",
@@ -135,7 +141,8 @@
         "id": "DC3/W18-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-008": {
     "name": "学園の風物詩 巴",
@@ -153,7 +160,8 @@
         "id": "DC3/W18-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-009": {
     "name": "“エトの願い”シャルル",
@@ -171,7 +179,8 @@
         "id": "DC3/W18-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-010": {
     "name": "皆の力で リッカ",
@@ -189,7 +198,8 @@
         "id": "DC3/W18-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-011": {
     "name": "のびのび シャルル",
@@ -207,7 +217,8 @@
         "id": "DC3/W18-011",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-012": {
     "name": "不器用なヤツ イアン＆瑠璃香",
@@ -225,7 +236,8 @@
         "id": "DC3/W18-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-013": {
     "name": "霧を排除する禁呪 リッカ",
@@ -243,7 +255,8 @@
         "id": "DC3/W18-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-014": {
     "name": "無邪気なさくら",
@@ -261,7 +274,8 @@
         "id": "DC3/W18-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-015": {
     "name": "ドキドキお風呂掃除 シャルル",
@@ -279,7 +293,8 @@
         "id": "DC3/W18-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-016": {
     "name": "風見鶏の学園長 エリザベス",
@@ -297,7 +312,8 @@
         "id": "DC3/W18-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-017": {
     "name": "カテゴリー５",
@@ -315,7 +331,8 @@
         "id": "DC3/W18-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-018": {
     "name": "聖夜の贈り物",
@@ -333,7 +350,8 @@
         "id": "DC3/W18-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-019": {
     "name": "幸せの魔法",
@@ -355,7 +373,8 @@
         "id": "DC3/W18-019R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC3/W18-020": {
     "name": "咲き続ける花",
@@ -377,7 +396,8 @@
         "id": "DC3/W18-020R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-021": {
     "name": "とびっきりの笑顔 サラ",
@@ -399,7 +419,8 @@
         "id": "DC3/W18-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-022": {
     "name": "ふたりの幸せ 姫乃",
@@ -421,7 +442,8 @@
         "id": "DC3/W18-022SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-023": {
     "name": "息抜きデート サラ",
@@ -439,7 +461,8 @@
         "id": "DC3/W18-023",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-024": {
     "name": "“正義の魔法使い”姫乃",
@@ -461,7 +484,8 @@
         "id": "DC3/W18-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-025": {
     "name": "ふたりの記念 サラ",
@@ -479,7 +503,8 @@
         "id": "DC3/W18-025",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-026": {
     "name": "兄妹水入らず 姫乃",
@@ -497,7 +522,8 @@
         "id": "DC3/W18-026",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-027": {
     "name": "幼馴染み メアリー＆エドワード",
@@ -515,7 +541,8 @@
         "id": "DC3/W18-027",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-028": {
     "name": "練習中のサラ",
@@ -533,7 +560,8 @@
         "id": "DC3/W18-028",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-029": {
     "name": "兄さんとお出かけ 姫乃",
@@ -551,7 +579,8 @@
         "id": "DC3/W18-029",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-030": {
     "name": "伝えたい気持ち 姫乃",
@@ -569,7 +598,8 @@
         "id": "DC3/W18-030",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-031": {
     "name": "守りたい笑顔 姫乃",
@@ -587,7 +617,8 @@
         "id": "DC3/W18-031",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-032": {
     "name": "壊滅的な画力 姫乃",
@@ -605,7 +636,8 @@
         "id": "DC3/W18-032",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-033": {
     "name": "ジタバタ サラ",
@@ -623,7 +655,8 @@
         "id": "DC3/W18-033",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-034": {
     "name": "面白いヤツ 耕助＆四季",
@@ -641,7 +674,8 @@
         "id": "DC3/W18-034",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-035": {
     "name": "通じあった心 清隆＆姫乃",
@@ -659,7 +693,8 @@
         "id": "DC3/W18-035",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-036": {
     "name": "ずっとそばに サラ",
@@ -677,7 +712,8 @@
         "id": "DC3/W18-036",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-037": {
     "name": "愛する恋人のために",
@@ -695,7 +731,8 @@
         "id": "DC3/W18-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-038": {
     "name": "こころのばしょ",
@@ -713,7 +750,8 @@
         "id": "DC3/W18-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-039": {
     "name": "“大好き”の証拠",
@@ -735,7 +773,8 @@
         "id": "DC3/W18-039R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC3/W18-040": {
     "name": "心を繋げる魔法",
@@ -757,7 +796,8 @@
         "id": "DC3/W18-040R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-041": {
     "name": "膝枕の上で シャルル",
@@ -779,7 +819,8 @@
         "id": "DC3/W18-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-042": {
     "name": "お寝坊 姫乃",
@@ -801,7 +842,8 @@
         "id": "DC3/W18-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-043": {
     "name": "内なる想い 姫乃",
@@ -819,7 +861,8 @@
         "id": "DC3/W18-043",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-044": {
     "name": "溢れる想い 立夏",
@@ -837,7 +880,8 @@
         "id": "DC3/W18-044",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-045": {
     "name": "ガチガチ 姫乃",
@@ -855,7 +899,8 @@
         "id": "DC3/W18-045",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-046": {
     "name": "公式新聞部部長 立夏",
@@ -877,7 +922,8 @@
         "id": "DC3/W18-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-047": {
     "name": "聖夜の告白 リッカ",
@@ -895,7 +941,8 @@
         "id": "DC3/W18-047",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-048": {
     "name": "守りたい笑顔 シャルル",
@@ -917,7 +964,8 @@
         "id": "DC3/W18-048SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-049": {
     "name": "伝える言葉 清隆",
@@ -935,7 +983,8 @@
         "id": "DC3/W18-049",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-050": {
     "name": "“好き”の気持ち 立夏",
@@ -953,7 +1002,8 @@
         "id": "DC3/W18-050",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-051": {
     "name": "初デートの後に シャルル",
@@ -971,7 +1021,8 @@
         "id": "DC3/W18-051",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-052": {
     "name": "拭えぬ過去 シャルル",
@@ -989,7 +1040,8 @@
         "id": "DC3/W18-052",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-053": {
     "name": "ロボット所長さん 美夏",
@@ -1007,7 +1059,8 @@
         "id": "DC3/W18-053",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-054": {
     "name": "天才美少女魔法使い リッカ",
@@ -1025,7 +1078,8 @@
         "id": "DC3/W18-054",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-055": {
     "name": "ツンツン 姫乃",
@@ -1043,7 +1097,8 @@
         "id": "DC3/W18-055",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-056": {
     "name": "意外とお子様 立夏",
@@ -1061,7 +1116,8 @@
         "id": "DC3/W18-056",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-057": {
     "name": "ふんわりいたずら シャルル",
@@ -1079,7 +1135,8 @@
         "id": "DC3/W18-057",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-058": {
     "name": "朝のハプニング シャルル",
@@ -1097,7 +1154,8 @@
         "id": "DC3/W18-058",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-059": {
     "name": "のんきなアシスタント ゆず＆夕陽",
@@ -1115,7 +1173,8 @@
         "id": "DC3/W18-059",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-060": {
     "name": "部屋着の立夏",
@@ -1133,7 +1192,8 @@
         "id": "DC3/W18-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-061": {
     "name": "昔みたいに 姫乃",
@@ -1151,7 +1211,8 @@
         "id": "DC3/W18-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-062": {
     "name": "初めての制服 姫乃",
@@ -1169,7 +1230,8 @@
         "id": "DC3/W18-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-063": {
     "name": "体操着のシャルル",
@@ -1187,7 +1249,8 @@
         "id": "DC3/W18-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-064": {
     "name": "部員一号 美琴",
@@ -1205,7 +1268,8 @@
         "id": "DC3/W18-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-065": {
     "name": "はじめまして、るる姉。",
@@ -1223,7 +1287,8 @@
         "id": "DC3/W18-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-066": {
     "name": "年越しキス",
@@ -1241,7 +1306,8 @@
         "id": "DC3/W18-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-067": {
     "name": "孤高のカトレア",
@@ -1263,7 +1329,8 @@
         "id": "DC3/W18-067R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-068": {
     "name": "終わりのプレゼント",
@@ -1281,7 +1348,8 @@
         "id": "DC3/W18-068",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC3/W18-069": {
     "name": "海辺で語り合って",
@@ -1299,7 +1367,8 @@
         "id": "DC3/W18-069",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC3/W18-070": {
     "name": "いつもの新聞部",
@@ -1317,7 +1386,8 @@
         "id": "DC3/W18-070",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC3/W18-071": {
     "name": "フラワーズは大忙し！ 葵",
@@ -1339,7 +1409,8 @@
         "id": "DC3/W18-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-072": {
     "name": "進みだした未来 葵",
@@ -1361,7 +1432,8 @@
         "id": "DC3/W18-072SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-073": {
     "name": "大切なこと さくら",
@@ -1383,7 +1455,8 @@
         "id": "DC3/W18-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-074": {
     "name": "柔らかな休日 さら",
@@ -1405,7 +1478,8 @@
         "id": "DC3/W18-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-075": {
     "name": "真夜中デート 葵",
@@ -1423,7 +1497,8 @@
         "id": "DC3/W18-075",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-076": {
     "name": "甘えんぼうモード 葵",
@@ -1445,7 +1520,8 @@
         "id": "DC3/W18-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-077": {
     "name": "巡り来るキセキ さくら",
@@ -1467,7 +1543,8 @@
         "id": "DC3/W18-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-078": {
     "name": "本当の想い 葵",
@@ -1485,7 +1562,8 @@
         "id": "DC3/W18-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-079": {
     "name": "永遠の約束 サラ",
@@ -1507,7 +1585,8 @@
         "id": "DC3/W18-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-080": {
     "name": "わたわた 葵",
@@ -1525,7 +1604,8 @@
         "id": "DC3/W18-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-081": {
     "name": "大切な時間 葵",
@@ -1543,7 +1623,8 @@
         "id": "DC3/W18-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-082": {
     "name": "体操着のさら",
@@ -1561,7 +1642,8 @@
         "id": "DC3/W18-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-083": {
     "name": "星明かりの下で 葵",
@@ -1579,7 +1661,8 @@
         "id": "DC3/W18-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-084": {
     "name": "大ピンチ！ さら",
@@ -1597,7 +1680,8 @@
         "id": "DC3/W18-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-085": {
     "name": "重なる鼓動 サラ",
@@ -1615,7 +1699,8 @@
         "id": "DC3/W18-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-086": {
     "name": "おひさま少女 葵",
@@ -1633,7 +1718,8 @@
         "id": "DC3/W18-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-087": {
     "name": "神出鬼没な問題児 杉並",
@@ -1651,7 +1737,8 @@
         "id": "DC3/W18-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-088": {
     "name": "ちょっぴり甘えん坊 さら",
@@ -1669,7 +1756,8 @@
         "id": "DC3/W18-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-089": {
     "name": "天性のトラブルメイカー 杉並",
@@ -1687,7 +1775,8 @@
         "id": "DC3/W18-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-090": {
     "name": "元気いっぱい 葵",
@@ -1705,7 +1794,8 @@
         "id": "DC3/W18-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-091": {
     "name": "年下のクラスメイト さら",
@@ -1723,7 +1813,8 @@
         "id": "DC3/W18-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-092": {
     "name": "お風呂上りの葵",
@@ -1741,7 +1832,8 @@
         "id": "DC3/W18-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-093": {
     "name": "病弱ワンコ娘 葵",
@@ -1759,7 +1851,8 @@
         "id": "DC3/W18-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-094": {
     "name": "勤労少女 葵",
@@ -1777,7 +1870,8 @@
         "id": "DC3/W18-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-095": {
     "name": "小さな身体",
@@ -1795,7 +1889,8 @@
         "id": "DC3/W18-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-096": {
     "name": "枯れない桜の奇跡",
@@ -1813,7 +1908,8 @@
         "id": "DC3/W18-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-097": {
     "name": "友達の証",
@@ -1835,7 +1931,8 @@
         "id": "DC3/W18-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC3/W18-098": {
     "name": "ふぁ～すとれっすん",
@@ -1853,7 +1950,8 @@
         "id": "DC3/W18-098",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC3/W18-099": {
     "name": "夢いっぱい",
@@ -1871,7 +1969,8 @@
         "id": "DC3/W18-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-100": {
     "name": "魔法の霧",
@@ -1893,6 +1992,7 @@
         "id": "DC3/W18-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

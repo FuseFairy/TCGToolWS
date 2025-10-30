@@ -15,7 +15,8 @@
         "id": "ZM/WE13-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/WE13-P02": {
     "name": "担い手と使い魔 ルイズ＆サイト",
@@ -33,7 +34,8 @@
         "id": "ZM/WE13-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/WE13-P03": {
     "name": "見返りタバサ",
@@ -51,6 +53,7 @@
         "id": "ZM/WE13-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

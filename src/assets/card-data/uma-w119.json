@@ -19,7 +19,8 @@
         "id": "UMA/W119-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-002": {
     "name": "漆黒のエンターテイナー フジキセキ",
@@ -41,7 +42,8 @@
         "id": "UMA/W119-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-003": {
     "name": "限界を越えた先 ジャングルポケット",
@@ -63,7 +65,8 @@
         "id": "UMA/W119-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-004": {
     "name": "ひたむきな努力 ダンツフレーム",
@@ -85,7 +88,8 @@
         "id": "UMA/W119-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-005": {
     "name": "トレセン学園 ジャングルポケット",
@@ -107,7 +111,8 @@
         "id": "UMA/W119-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-006": {
     "name": "誰からも慕われているウマ娘 フジキセキ",
@@ -129,7 +134,8 @@
         "id": "UMA/W119-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-007": {
     "name": "お人よしなウマ娘 ダンツフレーム",
@@ -151,7 +157,8 @@
         "id": "UMA/W119-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-008": {
     "name": "託した願い フジキセキ",
@@ -173,7 +180,8 @@
         "id": "UMA/W119-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-009": {
     "name": "信頼の証 フジキセキ",
@@ -195,7 +203,8 @@
         "id": "UMA/W119-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-010": {
     "name": "先輩ウマ娘 フジキセキ",
@@ -217,7 +226,8 @@
         "id": "UMA/W119-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-011": {
     "name": "新時代 ジャングルポケット",
@@ -239,7 +249,8 @@
         "id": "UMA/W119-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-012": {
     "name": "託された願い ジャングルポケット",
@@ -261,7 +272,8 @@
         "id": "UMA/W119-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-013": {
     "name": "始まりの一戦 ダンツフレーム",
@@ -283,7 +295,8 @@
         "id": "UMA/W119-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-014": {
     "name": "帰ってきたエンターテイナー フジキセキ",
@@ -305,7 +318,8 @@
         "id": "UMA/W119-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-015": {
     "name": "写真撮影 ハルウララ",
@@ -327,7 +341,8 @@
         "id": "UMA/W119-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-016": {
     "name": "宣戦布告 ジャングルポケット",
@@ -349,7 +364,8 @@
         "id": "UMA/W119-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-017": {
     "name": "フリースタイル・レースのカリスマ ジャングルポケット",
@@ -371,7 +387,8 @@
         "id": "UMA/W119-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-018": {
     "name": "願いの成就 フジキセキ",
@@ -393,7 +410,8 @@
         "id": "UMA/W119-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-019": {
     "name": "光を追って ダンツフレーム",
@@ -415,7 +433,8 @@
         "id": "UMA/W119-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-020": {
     "name": "新たな時代の幕開け フジキセキ",
@@ -437,7 +456,8 @@
         "id": "UMA/W119-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-021": {
     "name": "オレのライブ ジャングルポケット",
@@ -459,7 +479,8 @@
         "id": "UMA/W119-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-022": {
     "name": "不穏な気配 ジャングルポケット",
@@ -481,7 +502,8 @@
         "id": "UMA/W119-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-023": {
     "name": "光を追って ジャングルポケット",
@@ -503,7 +525,8 @@
         "id": "UMA/W119-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-024": {
     "name": "ベテラントレーナー タナベ",
@@ -525,7 +548,8 @@
         "id": "UMA/W119-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-025": {
     "name": "先に行くぜ",
@@ -547,7 +571,8 @@
         "id": "UMA/W119-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-026": {
     "name": "勝利の雄叫び",
@@ -569,7 +594,8 @@
         "id": "UMA/W119-026R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-027": {
     "name": "夢の続き",
@@ -591,7 +617,8 @@
         "id": "UMA/W119-027R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-028": {
     "name": "憧れに並ぶ為に メイショウドトウ",
@@ -613,7 +640,8 @@
         "id": "UMA/W119-028SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-029": {
     "name": "勝利の栄光へ テイエムオペラオー",
@@ -635,7 +663,8 @@
         "id": "UMA/W119-029SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-030": {
     "name": "想いを背負って ナリタトップロード",
@@ -657,7 +686,8 @@
         "id": "UMA/W119-030SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-031": {
     "name": "百戦錬磨の絶対王者 テイエムオペラオー",
@@ -679,7 +709,8 @@
         "id": "UMA/W119-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-032": {
     "name": "頂きへの道 ナリタトップロード",
@@ -701,7 +732,8 @@
         "id": "UMA/W119-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-033": {
     "name": "世紀末覇王 テイエムオペラオー",
@@ -723,7 +755,8 @@
         "id": "UMA/W119-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-034": {
     "name": "トレセン学園 アグネスタキオン",
@@ -745,7 +778,8 @@
         "id": "UMA/W119-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-035": {
     "name": "頂きへの道 テイエムオペラオー",
@@ -767,7 +801,8 @@
         "id": "UMA/W119-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-036": {
     "name": "頂きへの道 メイショウドトウ",
@@ -789,7 +824,8 @@
         "id": "UMA/W119-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-037": {
     "name": "狂気の光 アグネスタキオン",
@@ -811,7 +847,8 @@
         "id": "UMA/W119-037SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-038": {
     "name": "負けられない戦い メイショウドトウ",
@@ -833,7 +870,8 @@
         "id": "UMA/W119-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-039": {
     "name": "可能性の探究 アグネスタキオン",
@@ -855,7 +893,8 @@
         "id": "UMA/W119-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-040": {
     "name": "覇王の意地 テイエムオペラオー",
@@ -877,7 +916,8 @@
         "id": "UMA/W119-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-041": {
     "name": "ルームメイト ナリタトップロード",
@@ -899,7 +939,8 @@
         "id": "UMA/W119-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-042": {
     "name": "プランB アグネスタキオン",
@@ -921,7 +962,8 @@
         "id": "UMA/W119-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-043": {
     "name": "私のライブ アグネスタキオン",
@@ -943,7 +985,8 @@
         "id": "UMA/W119-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-044": {
     "name": "写真撮影 アドマイヤベガ＆カレンチャン",
@@ -965,7 +1008,8 @@
         "id": "UMA/W119-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-045": {
     "name": "データ収集 アグネスタキオン",
@@ -987,7 +1031,8 @@
         "id": "UMA/W119-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-046": {
     "name": "まだ見ぬ偉業 テイエムオペラオー",
@@ -1009,7 +1054,8 @@
         "id": "UMA/W119-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-047": {
     "name": "負けられない戦い ナリタトップロード",
@@ -1031,7 +1077,8 @@
         "id": "UMA/W119-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-048": {
     "name": "ドジっ子ウマ娘 メイショウドトウ",
@@ -1053,7 +1100,8 @@
         "id": "UMA/W119-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-049": {
     "name": "観察対象への興味 アグネスタキオン",
@@ -1075,7 +1123,8 @@
         "id": "UMA/W119-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-050": {
     "name": "爽やか優等生 ナリタトップロード",
@@ -1097,7 +1146,8 @@
         "id": "UMA/W119-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-051": {
     "name": "実証実験 アグネスタキオン",
@@ -1119,7 +1169,8 @@
         "id": "UMA/W119-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-052": {
     "name": "覇道の軌跡",
@@ -1141,7 +1192,8 @@
         "id": "UMA/W119-052R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-053": {
     "name": "歴史に刻まれた偉業",
@@ -1163,7 +1215,8 @@
         "id": "UMA/W119-053R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-054": {
     "name": "残光の輝き",
@@ -1185,7 +1238,8 @@
         "id": "UMA/W119-054R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-055": {
     "name": "“お友だち”を追って マンハッタンカフェ",
@@ -1207,7 +1261,8 @@
         "id": "UMA/W119-055SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-056": {
     "name": "可能性のその先へ アグネスタキオン",
@@ -1229,7 +1284,8 @@
         "id": "UMA/W119-056SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-057": {
     "name": "変わり者なウマ娘 アグネスタキオン",
@@ -1251,7 +1307,8 @@
         "id": "UMA/W119-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-058": {
     "name": "トレセン学園 マンハッタンカフェ",
@@ -1273,7 +1330,8 @@
         "id": "UMA/W119-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-059": {
     "name": "ミステリアスなウマ娘 マンハッタンカフェ",
@@ -1295,7 +1353,8 @@
         "id": "UMA/W119-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-060": {
     "name": "秘めた思い マンハッタンカフェ",
@@ -1317,7 +1376,8 @@
         "id": "UMA/W119-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-061": {
     "name": "マッドサイエンティスト アグネスタキオン",
@@ -1339,7 +1399,8 @@
         "id": "UMA/W119-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-062": {
     "name": "いつか必ず マンハッタンカフェ",
@@ -1361,7 +1422,8 @@
         "id": "UMA/W119-062SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-063": {
     "name": "私のライブ マンハッタンカフェ",
@@ -1383,7 +1445,8 @@
         "id": "UMA/W119-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-064": {
     "name": "ただ前を見据えて マンハッタンカフェ",
@@ -1405,7 +1468,8 @@
         "id": "UMA/W119-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-065": {
     "name": "お手製ドリンク アグネスタキオン",
@@ -1427,7 +1491,8 @@
         "id": "UMA/W119-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-066": {
     "name": "プランA アグネスタキオン",
@@ -1449,7 +1514,8 @@
         "id": "UMA/W119-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-067": {
     "name": "新時代 マンハッタンカフェ",
@@ -1471,7 +1537,8 @@
         "id": "UMA/W119-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-068": {
     "name": "写真撮影 ライスシャワー",
@@ -1493,7 +1560,8 @@
         "id": "UMA/W119-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-069": {
     "name": "追いつく為に マンハッタンカフェ",
@@ -1515,7 +1583,8 @@
         "id": "UMA/W119-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-070": {
     "name": "復帰に向けて マンハッタンカフェ",
@@ -1537,7 +1606,8 @@
         "id": "UMA/W119-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-071": {
     "name": "新時代 アグネスタキオン",
@@ -1559,7 +1629,8 @@
         "id": "UMA/W119-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-072": {
     "name": "冷たい憤怒 マンハッタンカフェ",
@@ -1581,7 +1652,8 @@
         "id": "UMA/W119-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-073": {
     "name": "実力派アナウンサー 泉本奈々",
@@ -1603,7 +1675,8 @@
         "id": "UMA/W119-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-074": {
     "name": "滋養強壮ドリンク",
@@ -1625,7 +1698,8 @@
         "id": "UMA/W119-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-075": {
     "name": "本能のままに",
@@ -1647,7 +1721,8 @@
         "id": "UMA/W119-075R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-076": {
     "name": "私は追いつく、必ず",
@@ -1669,7 +1744,8 @@
         "id": "UMA/W119-076R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-077": {
     "name": "焼き付けられた残光",
@@ -1691,7 +1767,8 @@
         "id": "UMA/W119-077R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-078": {
     "name": "「最強」を目指して ジャングルポケット",
@@ -1713,7 +1790,8 @@
         "id": "UMA/W119-078SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-079": {
     "name": "舞台の真ん中に ダンツフレーム",
@@ -1735,7 +1813,8 @@
         "id": "UMA/W119-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-080": {
     "name": "勝利を目指して ダンツフレーム",
@@ -1757,7 +1836,8 @@
         "id": "UMA/W119-080SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-081": {
     "name": "トレセン学園 フジキセキ",
@@ -1779,7 +1859,8 @@
         "id": "UMA/W119-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-082": {
     "name": "トレセン学園 ダンツフレーム",
@@ -1801,7 +1882,8 @@
         "id": "UMA/W119-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-083": {
     "name": "最強への挑戦 ジャングルポケット",
@@ -1823,7 +1905,8 @@
         "id": "UMA/W119-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-084": {
     "name": "天真爛漫なウマ娘 ジャングルポケット",
@@ -1845,7 +1928,8 @@
         "id": "UMA/W119-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-085": {
     "name": "憧れに向かって ジャングルポケット",
@@ -1867,7 +1951,8 @@
         "id": "UMA/W119-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-086": {
     "name": "感謝の言葉 フジキセキ",
@@ -1889,7 +1974,8 @@
         "id": "UMA/W119-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-087": {
     "name": "私のライブ ダンツフレーム",
@@ -1911,7 +1997,8 @@
         "id": "UMA/W119-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-088": {
     "name": "私だって ダンツフレーム",
@@ -1933,7 +2020,8 @@
         "id": "UMA/W119-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-089": {
     "name": "負けっぱなしじゃいらんねぇ！ ジャングルポケット",
@@ -1955,7 +2043,8 @@
         "id": "UMA/W119-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-090": {
     "name": "消えない幻影 ジャングルポケット",
@@ -1977,7 +2066,8 @@
         "id": "UMA/W119-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-091": {
     "name": "振り回され役 ダンツフレーム",
@@ -1999,7 +2089,8 @@
         "id": "UMA/W119-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-092": {
     "name": "迷いの中 ジャングルポケット",
@@ -2021,7 +2112,8 @@
         "id": "UMA/W119-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-093": {
     "name": "新時代 ダンツフレーム",
@@ -2043,7 +2135,8 @@
         "id": "UMA/W119-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-094": {
     "name": "次はレースで フジキセキ",
@@ -2065,7 +2158,8 @@
         "id": "UMA/W119-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-095": {
     "name": "夏合宿 ジャングルポケット",
@@ -2087,7 +2181,8 @@
         "id": "UMA/W119-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-096": {
     "name": "プリズム",
@@ -2109,7 +2204,8 @@
         "id": "UMA/W119-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-097": {
     "name": "BEGINNING OF A NEW ERA",
@@ -2131,7 +2227,8 @@
         "id": "UMA/W119-097S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-098": {
     "name": "最強の証明",
@@ -2153,7 +2250,8 @@
         "id": "UMA/W119-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W119-099": {
     "name": "思い出した想い",
@@ -2175,7 +2273,8 @@
         "id": "UMA/W119-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "UMA/W119-100": {
     "name": "勝利への執念",
@@ -2197,6 +2296,7 @@
         "id": "UMA/W119-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

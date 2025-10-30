@@ -15,7 +15,8 @@
         "id": "LL/W24-101",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-102": {
     "name": "“Wonderful Rush”園田 海未",
@@ -33,7 +34,8 @@
         "id": "LL/W24-102",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-103": {
     "name": "“Wonderful Rush”絢瀬 絵里",
@@ -51,7 +53,8 @@
         "id": "LL/W24-103",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-104": {
     "name": "“Wonderful Rush”西木野 真姫",
@@ -69,7 +72,8 @@
         "id": "LL/W24-104",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-105": {
     "name": "“Wonderful Rush”東條 希",
@@ -87,7 +91,8 @@
         "id": "LL/W24-105",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W24-106": {
     "name": "“Wonderful Rush”小泉 花陽",
@@ -105,7 +110,8 @@
         "id": "LL/W24-106",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W24-107": {
     "name": "“Wonderful Rush”星空 凛",
@@ -123,7 +129,8 @@
         "id": "LL/W24-107",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W24-108": {
     "name": "“Wonderful Rush”南 ことり",
@@ -141,7 +148,8 @@
         "id": "LL/W24-108",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W24-109": {
     "name": "“Wonderful Rush”高坂 穂乃果",
@@ -159,7 +167,8 @@
         "id": "LL/W24-109",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W24-110": {
     "name": "“Oh,Love&Peace!”μ's",
@@ -177,7 +186,8 @@
         "id": "LL/W24-110",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-111": {
     "name": "Wonderful Rush",
@@ -195,7 +205,8 @@
         "id": "LL/W24-111",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LL/W24-112": {
     "name": "僕らは今のなかで",
@@ -221,7 +232,8 @@
         "id": "LL/W24-112c",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LL/W24-T01": {
     "name": "妄想爆発中 海未",
@@ -239,7 +251,8 @@
         "id": "LL/W24-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-T02": {
     "name": "和菓子屋の娘 穂乃果",
@@ -257,7 +270,8 @@
         "id": "LL/W24-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-T03": {
     "name": "理事長の娘 ことり",
@@ -275,7 +289,8 @@
         "id": "LL/W24-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-T04": {
     "name": "弓道部 海未",
@@ -293,7 +308,8 @@
         "id": "LL/W24-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-T05": {
     "name": "音ノ木坂学院２年生 穂乃果",
@@ -311,7 +327,8 @@
         "id": "LL/W24-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W24-T06": {
     "name": "“ずるい”ことり",
@@ -329,7 +346,8 @@
         "id": "LL/W24-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W24-T07": {
     "name": "みんなで木登り",
@@ -347,7 +365,8 @@
         "id": "LL/W24-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-T08": {
     "name": "はじまりの想い",
@@ -365,6 +384,7 @@
         "id": "LL/W24-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

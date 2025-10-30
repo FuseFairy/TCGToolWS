@@ -15,7 +15,8 @@
         "id": "N1/W32-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/W32-P02": {
     "name": "“また会う日まで”フェイト",
@@ -33,7 +34,8 @@
         "id": "N1/W32-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/W32-119": {
     "name": "定めの魔法少女 フェイト",
@@ -51,7 +53,8 @@
         "id": "N1/W32-119",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N1/W32-120": {
     "name": "運命の戦い なのは",
@@ -69,6 +72,7 @@
         "id": "N1/W32-120",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

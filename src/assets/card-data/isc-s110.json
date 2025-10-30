@@ -19,7 +19,8 @@
         "id": "ISC/S110-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-002": {
     "name": "約束ペタル 大崎甘奈",
@@ -41,7 +42,8 @@
         "id": "ISC/S110-002SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-003": {
     "name": "Noisy Rush 斑鳩ルカ",
@@ -67,7 +69,8 @@
         "id": "ISC/S110-003SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-004": {
     "name": "たそかれスワッグ 八宮めぐる",
@@ -93,7 +96,8 @@
         "id": "ISC/S110-004SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-005": {
     "name": "broken shout 斑鳩ルカ",
@@ -115,7 +119,8 @@
         "id": "ISC/S110-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-006": {
     "name": "曲がり角のランウェイ 西城樹里",
@@ -137,7 +142,8 @@
         "id": "ISC/S110-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-007": {
     "name": "水色感情 杜野凛世",
@@ -159,7 +165,8 @@
         "id": "ISC/S110-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-008": {
     "name": "バス・タイムの気分で 大崎甜花",
@@ -181,7 +188,8 @@
         "id": "ISC/S110-008SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-009": {
     "name": "伸ばす手に乗せるのは 風野灯織",
@@ -203,7 +211,8 @@
         "id": "ISC/S110-009SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-010": {
     "name": "かきまぜたら＊ミルク 園田智代子",
@@ -225,7 +234,8 @@
         "id": "ISC/S110-010SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-011": {
     "name": "Ring a bell 有栖川夏葉",
@@ -247,7 +257,8 @@
         "id": "ISC/S110-011SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-012": {
     "name": "サマーハニー・シーズン 桑山千雪",
@@ -269,7 +280,8 @@
         "id": "ISC/S110-012SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-013": {
     "name": "バイトゥデイレストラント 風野灯織",
@@ -291,7 +303,8 @@
         "id": "ISC/S110-013WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-014": {
     "name": "クラシカルマドモアゼル 大崎甜花",
@@ -313,7 +326,8 @@
         "id": "ISC/S110-014WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-015": {
     "name": "コメティックノート 斑鳩ルカ",
@@ -335,7 +349,8 @@
         "id": "ISC/S110-015WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-016": {
     "name": "エレガンスオブホワイト 小宮果穂",
@@ -357,7 +372,8 @@
         "id": "ISC/S110-016WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-017": {
     "name": "クラシカルメイド 大崎甘奈",
@@ -379,7 +395,8 @@
         "id": "ISC/S110-017WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-018": {
     "name": "エレガンスオブホワイト 西城樹里",
@@ -401,7 +418,8 @@
         "id": "ISC/S110-018WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-019": {
     "name": "ラン！ラン！ドッグラン！ 小宮果穂",
@@ -423,7 +441,8 @@
         "id": "ISC/S110-019WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-020": {
     "name": "ほっぺ落下予報 園田智代子",
@@ -445,7 +464,8 @@
         "id": "ISC/S110-020WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-021": {
     "name": "voc-ation 斑鳩ルカ",
@@ -467,7 +487,8 @@
         "id": "ISC/S110-021WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-022": {
     "name": "約束ショッピング 有栖川夏葉",
@@ -489,7 +510,8 @@
         "id": "ISC/S110-022WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-023": {
     "name": "ハピネス♡コネクト 八宮めぐる",
@@ -511,7 +533,8 @@
         "id": "ISC/S110-023WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-024": {
     "name": "エレガンスオブホワイト 杜野凛世",
@@ -533,7 +556,8 @@
         "id": "ISC/S110-024WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-025": {
     "name": "Cherry Jelly",
@@ -555,7 +579,8 @@
         "id": "ISC/S110-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-026": {
     "name": "杖たちの足跡",
@@ -577,7 +602,8 @@
         "id": "ISC/S110-026R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-027": {
     "name": "おあがり←くらいまっくす",
@@ -599,7 +625,8 @@
         "id": "ISC/S110-027R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-028": {
     "name": "日刊ウィズ・ユー！ 小宮果穂",
@@ -621,7 +648,8 @@
         "id": "ISC/S110-028SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-029": {
     "name": "Housekeeping! 芹沢あさひ",
@@ -643,7 +671,8 @@
         "id": "ISC/S110-029SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-030": {
     "name": "cheer＋ 有栖川夏葉",
@@ -665,7 +694,8 @@
         "id": "ISC/S110-030SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-031": {
     "name": "↓ろウTea 七草にちか",
@@ -691,7 +721,8 @@
         "id": "ISC/S110-031SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-032": {
     "name": "われにかへれ 杜野凛世",
@@ -713,7 +744,8 @@
         "id": "ISC/S110-032SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-033": {
     "name": "夜よこノ窓は塗らないデ 七草にちか",
@@ -735,7 +767,8 @@
         "id": "ISC/S110-033SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-034": {
     "name": "DE-S!GN 市川雛菜",
@@ -757,7 +790,8 @@
         "id": "ISC/S110-034SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-035": {
     "name": "秋陽のスケッチ 西城樹里",
@@ -779,7 +813,8 @@
         "id": "ISC/S110-035SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-036": {
     "name": "ギンコ・ビローバ 樋口円香",
@@ -801,7 +836,8 @@
         "id": "ISC/S110-036SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-037": {
     "name": "空と青とアイツ 芹沢あさひ",
@@ -823,7 +859,8 @@
         "id": "ISC/S110-037SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-038": {
     "name": "アンシーン・ダブルキャスト 黛 冬優子",
@@ -845,7 +882,8 @@
         "id": "ISC/S110-038SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-039": {
     "name": "潮騒のシーショア 小宮果穂",
@@ -867,7 +905,8 @@
         "id": "ISC/S110-039SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-040": {
     "name": "プリティ・スイート 園田智代子",
@@ -889,7 +928,8 @@
         "id": "ISC/S110-040SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-041": {
     "name": "メイ・ビー 和泉愛依",
@@ -911,7 +951,8 @@
         "id": "ISC/S110-041SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-042": {
     "name": "街頭で 七草にちか",
@@ -933,7 +974,8 @@
         "id": "ISC/S110-042WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-043": {
     "name": "昼休み 浅倉 透",
@@ -955,7 +997,8 @@
         "id": "ISC/S110-043WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-044": {
     "name": "エレガンスオブホワイト 有栖川夏葉",
@@ -977,7 +1020,8 @@
         "id": "ISC/S110-044WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-045": {
     "name": "欲張り 黛 冬優子",
@@ -999,7 +1043,8 @@
         "id": "ISC/S110-045WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-046": {
     "name": "ラブラフラビッツ 福丸小糸",
@@ -1021,7 +1066,8 @@
         "id": "ISC/S110-046WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-047": {
     "name": "エレガンスオブホワイト 園田智代子",
@@ -1043,7 +1089,8 @@
         "id": "ISC/S110-047WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-048": {
     "name": "ととのうってヤツ 西城樹里",
@@ -1065,7 +1112,8 @@
         "id": "ISC/S110-048WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-049": {
     "name": "ほっとひといき 杜野凛世",
@@ -1087,7 +1135,8 @@
         "id": "ISC/S110-049WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-050": {
     "name": "10円 福丸小糸",
@@ -1109,7 +1158,8 @@
         "id": "ISC/S110-050WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-051": {
     "name": "或日 樋口円香",
@@ -1131,7 +1181,8 @@
         "id": "ISC/S110-051WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-052": {
     "name": "ラブラフラビッツ 浅倉 透",
@@ -1153,7 +1204,8 @@
         "id": "ISC/S110-052WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-053": {
     "name": "ラブラフラビッツ 市川雛菜",
@@ -1175,7 +1227,8 @@
         "id": "ISC/S110-053WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-054": {
     "name": "セットアップクレイジー 七草にちか",
@@ -1197,7 +1250,8 @@
         "id": "ISC/S110-054WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-055": {
     "name": "フリーサイドジェイケー 和泉愛依",
@@ -1219,7 +1273,8 @@
         "id": "ISC/S110-055WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-056": {
     "name": "秋の実りの配達係",
@@ -1241,7 +1296,8 @@
         "id": "ISC/S110-056R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-057": {
     "name": "短二度、一番線",
@@ -1263,7 +1319,8 @@
         "id": "ISC/S110-057R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-058": {
     "name": "グロウン・メイク・アップ！",
@@ -1285,7 +1342,8 @@
         "id": "ISC/S110-058R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-059": {
     "name": "THE W♡RLD",
@@ -1307,7 +1365,8 @@
         "id": "ISC/S110-059R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-060": {
     "name": "DIVA 緋田美琴",
@@ -1333,7 +1392,8 @@
         "id": "ISC/S110-060SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-061": {
     "name": "interStellar-Stella 櫻木真乃",
@@ -1359,7 +1419,8 @@
         "id": "ISC/S110-061SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-062": {
     "name": "今のうちは走らない 和泉愛依",
@@ -1381,7 +1442,8 @@
         "id": "ISC/S110-062SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-063": {
     "name": "縷・縷・屡・来 幽谷霧子",
@@ -1403,7 +1465,8 @@
         "id": "ISC/S110-063SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-064": {
     "name": "Hopeland 郁田はるき",
@@ -1429,7 +1492,8 @@
         "id": "ISC/S110-064SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-065": {
     "name": "今日のマストバイ 郁田はるき",
@@ -1451,7 +1515,8 @@
         "id": "ISC/S110-065SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-066": {
     "name": "シュカのまにまに 八宮めぐる",
@@ -1473,7 +1538,8 @@
         "id": "ISC/S110-066SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-067": {
     "name": "ないしょのスイーツ 大崎甘奈",
@@ -1495,7 +1561,8 @@
         "id": "ISC/S110-067SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-068": {
     "name": "I♡DOLL 大崎甜花",
@@ -1517,7 +1584,8 @@
         "id": "ISC/S110-068SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-069": {
     "name": "ONSTAGE？ 黛 冬優子",
@@ -1539,7 +1607,8 @@
         "id": "ISC/S110-069SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-070": {
     "name": "CONTRAIL 緋田美琴",
@@ -1561,7 +1630,8 @@
         "id": "ISC/S110-070SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-071": {
     "name": "Have a bad day♥ 田中摩美々",
@@ -1583,7 +1653,8 @@
         "id": "ISC/S110-071SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-072": {
     "name": "バイトゥデイレストラント 八宮めぐる",
@@ -1605,7 +1676,8 @@
         "id": "ISC/S110-072WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-073": {
     "name": "とどけることつながるもの 郁田はるき",
@@ -1627,7 +1699,8 @@
         "id": "ISC/S110-073WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-074": {
     "name": "リフレクションテーマパーク 白瀬咲耶",
@@ -1649,7 +1722,8 @@
         "id": "ISC/S110-074WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-075": {
     "name": "アスレチック 緋田美琴",
@@ -1671,7 +1745,8 @@
         "id": "ISC/S110-075WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-076": {
     "name": "サクサクの縁側～ 和泉愛依",
@@ -1693,7 +1768,8 @@
         "id": "ISC/S110-076WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-077": {
     "name": "リフレクションテーマパーク 月岡恋鐘",
@@ -1715,7 +1791,8 @@
         "id": "ISC/S110-077WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-078": {
     "name": "恋鐘ちゃんと 幽谷霧子",
@@ -1737,7 +1814,8 @@
         "id": "ISC/S110-078WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-079": {
     "name": "永遠を抱きしめて 桑山千雪",
@@ -1759,7 +1837,8 @@
         "id": "ISC/S110-079WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-080": {
     "name": "リフレクションテーマパーク 田中摩美々",
@@ -1781,7 +1860,8 @@
         "id": "ISC/S110-080WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-081": {
     "name": "うらうらクルル 櫻木真乃",
@@ -1803,7 +1883,8 @@
         "id": "ISC/S110-081WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-082": {
     "name": "リフレクションテーマパーク 三峰結華",
@@ -1825,7 +1906,8 @@
         "id": "ISC/S110-082WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-083": {
     "name": "確認は必須 芹沢あさひ",
@@ -1847,7 +1929,8 @@
         "id": "ISC/S110-083WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-084": {
     "name": "パペットトーク 三峰結華",
@@ -1869,7 +1952,8 @@
         "id": "ISC/S110-084WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-085": {
     "name": "フリーサイドジェイケー 黛 冬優子",
@@ -1891,7 +1975,8 @@
         "id": "ISC/S110-085WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-086": {
     "name": "もしもし、イルカさん 大崎甘奈",
@@ -1913,7 +1998,8 @@
         "id": "ISC/S110-086WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-087": {
     "name": "セットアップクレイジー 緋田美琴",
@@ -1935,7 +2021,8 @@
         "id": "ISC/S110-087WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-088": {
     "name": "うちにまかせとって！ 月岡恋鐘",
@@ -1957,7 +2044,8 @@
         "id": "ISC/S110-088WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-089": {
     "name": "フリーサイドジェイケー 芹沢あさひ",
@@ -1979,7 +2067,8 @@
         "id": "ISC/S110-089WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-090": {
     "name": "クラシカルメイド 桑山千雪",
@@ -2001,7 +2090,8 @@
         "id": "ISC/S110-090WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-091": {
     "name": "コメティックノート 郁田はるき",
@@ -2023,7 +2113,8 @@
         "id": "ISC/S110-091WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-092": {
     "name": "陽だまりぼっこ 大崎甜花",
@@ -2045,7 +2136,8 @@
         "id": "ISC/S110-092WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-093": {
     "name": "Beautiful Sunset 白瀬咲耶",
@@ -2067,7 +2159,8 @@
         "id": "ISC/S110-093WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-094": {
     "name": "泡沫の石たちに乾杯",
@@ -2089,7 +2182,8 @@
         "id": "ISC/S110-094R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-095": {
     "name": "煌・煌・星・娘",
@@ -2111,7 +2205,8 @@
         "id": "ISC/S110-095R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-096": {
     "name": "＜IF＞",
@@ -2133,7 +2228,8 @@
         "id": "ISC/S110-096R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-097": {
     "name": "A",
@@ -2155,7 +2251,8 @@
         "id": "ISC/S110-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-098": {
     "name": "キュン！とwith us",
@@ -2177,7 +2274,8 @@
         "id": "ISC/S110-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-099": {
     "name": "セピア色の孤独 福丸小糸",
@@ -2199,7 +2297,8 @@
         "id": "ISC/S110-099SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-100": {
     "name": "あなたと、月の満ちる頃 月岡恋鐘",
@@ -2221,7 +2320,8 @@
         "id": "ISC/S110-100SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-101": {
     "name": "夜はなにいろ 浅倉 透",
@@ -2243,7 +2343,8 @@
         "id": "ISC/S110-101SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-102": {
     "name": "おみくじ結びますか 福丸小糸",
@@ -2265,7 +2366,8 @@
         "id": "ISC/S110-102SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-103": {
     "name": "はらりひらり結ぶ 白瀬咲耶",
@@ -2287,7 +2389,8 @@
         "id": "ISC/S110-103SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-104": {
     "name": "鱗・鱗・謹・賀 幽谷霧子",
@@ -2309,7 +2412,8 @@
         "id": "ISC/S110-104SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-105": {
     "name": "フィドル・ファドル 田中摩美々",
@@ -2331,7 +2435,8 @@
         "id": "ISC/S110-105SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-106": {
     "name": "途方もない午後 浅倉 透",
@@ -2353,7 +2458,8 @@
         "id": "ISC/S110-106SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-107": {
     "name": "Lesson² 鈴木羽那",
@@ -2375,7 +2481,8 @@
         "id": "ISC/S110-107SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-108": {
     "name": "kaleidoscope-pinball 三峰結華",
@@ -2397,7 +2504,8 @@
         "id": "ISC/S110-108SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-109": {
     "name": "Eyes On You 鈴木羽那",
@@ -2423,7 +2531,8 @@
         "id": "ISC/S110-109SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-110": {
     "name": "く ら く ら 三峰結華",
@@ -2445,7 +2554,8 @@
         "id": "ISC/S110-110SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-111": {
     "name": "海と太陽のプロメッサ 白瀬咲耶",
@@ -2467,7 +2577,8 @@
         "id": "ISC/S110-111SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-112": {
     "name": "Merry 樋口円香",
@@ -2489,7 +2600,8 @@
         "id": "ISC/S110-112SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-113": {
     "name": "うちのリボンは恋結び 月岡恋鐘",
@@ -2511,7 +2623,8 @@
         "id": "ISC/S110-113SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-114": {
     "name": "はじけてスマイル 櫻木真乃",
@@ -2533,7 +2646,8 @@
         "id": "ISC/S110-114SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-115": {
     "name": "♡LOG 市川雛菜",
@@ -2555,7 +2669,8 @@
         "id": "ISC/S110-115SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-116": {
     "name": "ひとりじゃない夜のこと 風野灯織",
@@ -2581,7 +2696,8 @@
         "id": "ISC/S110-116SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-117": {
     "name": "ラブラフラビッツ 樋口円香",
@@ -2603,7 +2719,8 @@
         "id": "ISC/S110-117WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-118": {
     "name": "準備OK 市川雛菜",
@@ -2625,7 +2742,8 @@
         "id": "ISC/S110-118WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-119": {
     "name": "純白領域 鈴木羽那",
@@ -2647,7 +2765,8 @@
         "id": "ISC/S110-119WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-120": {
     "name": "コメティックノート 鈴木羽那",
@@ -2669,7 +2788,8 @@
         "id": "ISC/S110-120WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-121": {
     "name": "まどろみのひ 田中摩美々",
@@ -2691,7 +2811,8 @@
         "id": "ISC/S110-121WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-122": {
     "name": "リフレクションテーマパーク 幽谷霧子",
@@ -2713,7 +2834,8 @@
         "id": "ISC/S110-122WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S110-123": {
     "name": "バイトゥデイレストラント 櫻木真乃",
@@ -2735,7 +2857,8 @@
         "id": "ISC/S110-123WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-124": {
     "name": "一筆入魂 風野灯織",
@@ -2757,7 +2880,8 @@
         "id": "ISC/S110-124WIR",
         "rarity": "WIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-125": {
     "name": "floooat",
@@ -2779,7 +2903,8 @@
         "id": "ISC/S110-125R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-126": {
     "name": "黒色彗星",
@@ -2801,7 +2926,8 @@
         "id": "ISC/S110-126R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-127": {
     "name": "prince×princess",
@@ -2823,7 +2949,8 @@
         "id": "ISC/S110-127R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-128": {
     "name": "星掬い藍仰ぐ",
@@ -2845,7 +2972,8 @@
         "id": "ISC/S110-128R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S110-E01": {
     "name": "YOU AND アイ！ 櫻木真乃",
@@ -2863,6 +2991,7 @@
         "id": "ISC/S110-E01",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

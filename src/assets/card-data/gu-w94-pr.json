@@ -15,7 +15,8 @@
         "id": "GU/W94-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-102": {
     "name": "“マイペース”千夜",
@@ -33,7 +34,8 @@
         "id": "GU/W94-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-103": {
     "name": "“いつもの二人”ココア",
@@ -51,7 +53,8 @@
         "id": "GU/W94-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-104": {
     "name": "手作りのぬいぐるみ リゼ",
@@ -69,7 +72,8 @@
         "id": "GU/W94-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W94-105": {
     "name": "“いつもの二人”チノ",
@@ -87,7 +91,8 @@
         "id": "GU/W94-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-P01": {
     "name": "チノ＆ココア＆千夜＆シャロ＆リゼ",
@@ -109,7 +114,8 @@
         "id": "GU/W94-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W94-P02": {
     "name": "ドレスアップ チマメ隊",
@@ -127,6 +133,7 @@
         "id": "GU/W94-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "DD/WE12-53",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-54": {
     "name": "メイド服のリコ",
@@ -33,7 +34,8 @@
         "id": "DD/WE12-54",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-55": {
     "name": "ビスコッティの歌姫 ミルヒ",
@@ -51,6 +53,7 @@
         "id": "DD/WE12-55",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

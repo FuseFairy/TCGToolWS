@@ -15,7 +15,8 @@
         "id": "CSM/S96-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-102": {
     "name": "新人歓迎会後 デンジ",
@@ -33,7 +34,8 @@
         "id": "CSM/S96-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-103": {
     "name": "酩酊状態 姫野",
@@ -51,7 +53,8 @@
         "id": "CSM/S96-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-104": {
     "name": "新人歓迎会後 マキマ",
@@ -69,7 +72,8 @@
         "id": "CSM/S96-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-105": {
     "name": "激戦後の日常 早川アキ",
@@ -87,7 +91,8 @@
         "id": "CSM/S96-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-P01": {
     "name": "公安対魔特異4課 デンジ",
@@ -109,7 +114,8 @@
         "id": "CSM/S96-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-P02": {
     "name": "チェンソーマン",
@@ -131,6 +137,7 @@
         "id": "CSM/S96-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

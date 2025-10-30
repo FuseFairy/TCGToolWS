@@ -19,7 +19,8 @@
         "id": "Sst/W62-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Sst/W62-056": {
     "name": "柚希と主従契約",
@@ -41,7 +42,8 @@
         "id": "Sst/W62-056SBR",
         "rarity": "SBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Sst/W62-057": {
     "name": "先代魔王ウィルベルトの娘 澪",
@@ -59,7 +61,8 @@
         "id": "Sst/W62-057",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sst/W62-058": {
     "name": "胡桃と主従契約",
@@ -81,7 +84,8 @@
         "id": "Sst/W62-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sst/W62-059": {
     "name": "秘密の関係 千里",
@@ -99,7 +103,8 @@
         "id": "Sst/W62-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sst/W62-061": {
     "name": "ロリエロサキュバス 万理亜",
@@ -121,7 +126,8 @@
         "id": "Sst/W62-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sst/W62-063": {
     "name": "三種の混血 刃更",
@@ -139,7 +145,8 @@
         "id": "Sst/W62-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Sst/W62-068": {
     "name": "ゼストと主従契約",
@@ -157,7 +164,8 @@
         "id": "Sst/W62-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sst/W62-070": {
     "name": "東城家の団欒",
@@ -175,7 +183,8 @@
         "id": "Sst/W62-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sst/W62-071": {
     "name": "澪の悦び",
@@ -197,6 +206,7 @@
         "id": "Sst/W62-071R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

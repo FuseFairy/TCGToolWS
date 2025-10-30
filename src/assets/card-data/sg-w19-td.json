@@ -15,7 +15,8 @@
         "id": "SG/W19-101",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-102": {
     "name": "戦いに身を置く翼",
@@ -33,7 +34,8 @@
         "id": "SG/W19-102",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-103": {
     "name": "シンフォギアの装者 響",
@@ -51,7 +53,8 @@
         "id": "SG/W19-103",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-104": {
     "name": "シンフォギアの装者 翼",
@@ -69,7 +72,8 @@
         "id": "SG/W19-104",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-105": {
     "name": "トップアーティスト 翼",
@@ -87,7 +91,8 @@
         "id": "SG/W19-105",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-T01": {
     "name": "いつものおせっかい 響",
@@ -105,7 +110,8 @@
         "id": "SG/W19-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-T02": {
     "name": "重要参考人 響",
@@ -123,7 +129,8 @@
         "id": "SG/W19-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-T03": {
     "name": "初めてのライブ 響",
@@ -141,7 +148,8 @@
         "id": "SG/W19-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-T04": {
     "name": "覚醒の鼓動 響",
@@ -159,7 +167,8 @@
         "id": "SG/W19-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-T05": {
     "name": "一生懸命な響",
@@ -177,7 +186,8 @@
         "id": "SG/W19-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-T06": {
     "name": "流されやすいタイプ 響",
@@ -195,7 +205,8 @@
         "id": "SG/W19-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-T07": {
     "name": "守りたいものがあるんです！",
@@ -213,7 +224,8 @@
         "id": "SG/W19-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-T08": {
     "name": "冷徹な態度 翼",
@@ -231,7 +243,8 @@
         "id": "SG/W19-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-T09": {
     "name": "奏を想う翼",
@@ -249,7 +262,8 @@
         "id": "SG/W19-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-T10": {
     "name": "ノイズに立ち向かう翼",
@@ -267,7 +281,8 @@
         "id": "SG/W19-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-T11": {
     "name": "防人の生き様 翼",
@@ -285,7 +300,8 @@
         "id": "SG/W19-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W19-T12": {
     "name": "“ツヴァイウィング”奏＆翼",
@@ -303,7 +319,8 @@
         "id": "SG/W19-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W19-T13": {
     "name": "あの頃は二人だった",
@@ -321,7 +338,8 @@
         "id": "SG/W19-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W19-T14": {
     "name": "蒼ノ一閃",
@@ -339,6 +357,7 @@
         "id": "SG/W19-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

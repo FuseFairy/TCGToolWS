@@ -15,7 +15,8 @@
         "id": "DD/WE12-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-02": {
     "name": "ガレット王子 ガウ",
@@ -33,7 +34,8 @@
         "id": "DD/WE12-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-03": {
     "name": "正々堂々 レオ",
@@ -51,7 +53,8 @@
         "id": "DD/WE12-03",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-04": {
     "name": "戦無双 レオ",
@@ -69,7 +72,8 @@
         "id": "DD/WE12-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-05": {
     "name": "“獅子王”レオ",
@@ -87,7 +91,8 @@
         "id": "DD/WE12-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE12-06": {
     "name": "単騎突入 レオ",
@@ -105,7 +110,8 @@
         "id": "DD/WE12-06",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-07": {
     "name": "“ジェノワーズ”ジョーヌ",
@@ -123,7 +129,8 @@
         "id": "DD/WE12-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-08": {
     "name": "“ジェノワーズ”ベール",
@@ -141,7 +148,8 @@
         "id": "DD/WE12-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-09": {
     "name": "ガウル・ガレット・デ・ロワ",
@@ -159,7 +167,8 @@
         "id": "DD/WE12-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-10": {
     "name": "静かな決意 レオ",
@@ -177,7 +186,8 @@
         "id": "DD/WE12-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE12-11": {
     "name": "お側役 ビオレ",
@@ -195,7 +205,8 @@
         "id": "DD/WE12-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE12-12": {
     "name": "突然の宣戦布告 レオ",
@@ -213,7 +224,8 @@
         "id": "DD/WE12-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE12-13": {
     "name": "魔戦斧グランヴェール",
@@ -231,7 +243,8 @@
         "id": "DD/WE12-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-14": {
     "name": "獅子王炎陣大爆破",
@@ -249,7 +262,8 @@
         "id": "DD/WE12-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DD/WE12-15": {
     "name": "魔神旋光破",
@@ -267,7 +281,8 @@
         "id": "DD/WE12-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-16": {
     "name": "“勇者超特急”シンク",
@@ -285,7 +300,8 @@
         "id": "DD/WE12-16",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-17": {
     "name": "召喚主 ミルヒ",
@@ -303,7 +319,8 @@
         "id": "DD/WE12-17",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-18": {
     "name": "自由騎士 ダルキアン",
@@ -321,7 +338,8 @@
         "id": "DD/WE12-18",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE12-19": {
     "name": "領主の覚悟 ミルヒ",
@@ -339,7 +357,8 @@
         "id": "DD/WE12-19",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE12-20": {
     "name": "リコッタ・エルマール",
@@ -357,7 +376,8 @@
         "id": "DD/WE12-20",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE12-21": {
     "name": "エクレール・マルティノッジ",
@@ -375,7 +395,8 @@
         "id": "DD/WE12-21",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE12-22": {
     "name": "ミルヒオーレ・フィリアンノ・ビスコッティ",
@@ -393,7 +414,8 @@
         "id": "DD/WE12-22",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE12-23": {
     "name": "ビスコッティ領主 ミルヒ",
@@ -411,7 +433,8 @@
         "id": "DD/WE12-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-24": {
     "name": "オンミツ部隊筆頭 ユキカゼ",
@@ -429,7 +452,8 @@
         "id": "DD/WE12-24",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-25": {
     "name": "タレミミ隊長 エクレ",
@@ -447,7 +471,8 @@
         "id": "DD/WE12-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-26": {
     "name": "機械大好き！ リコ",
@@ -465,7 +490,8 @@
         "id": "DD/WE12-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-27": {
     "name": "替え玉作戦 ミルヒ",
@@ -483,7 +509,8 @@
         "id": "DD/WE12-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-28": {
     "name": "見つめるミルヒ",
@@ -501,7 +528,8 @@
         "id": "DD/WE12-28",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-29": {
     "name": "主席研究士 リコ",
@@ -519,7 +547,8 @@
         "id": "DD/WE12-29",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-30": {
     "name": "召喚勇者 シンク",
@@ -537,7 +566,8 @@
         "id": "DD/WE12-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-31": {
     "name": "親衛隊長 エクレ",
@@ -555,7 +585,8 @@
         "id": "DD/WE12-31",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-32": {
     "name": "お風呂で遭遇！ ミルヒ",
@@ -573,7 +604,8 @@
         "id": "DD/WE12-32",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-33": {
     "name": "シンク・イズミ",
@@ -591,7 +623,8 @@
         "id": "DD/WE12-33",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE12-34": {
     "name": "ケモノダマ",
@@ -609,7 +642,8 @@
         "id": "DD/WE12-34",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-35": {
     "name": "勇者降臨！",
@@ -627,7 +661,8 @@
         "id": "DD/WE12-35",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-36": {
     "name": "リコのサポート",
@@ -645,7 +680,8 @@
         "id": "DD/WE12-36",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DD/WE12-07_": {
     "name": "“ジェノワーズ”ジョーヌ",
@@ -663,7 +699,8 @@
         "id": "DD/WE12-07_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-10_": {
     "name": "静かな決意 レオ",
@@ -681,7 +718,8 @@
         "id": "DD/WE12-10_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE12-11_": {
     "name": "お側役 ビオレ",
@@ -699,7 +737,8 @@
         "id": "DD/WE12-11_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DD/WE12-23_": {
     "name": "ビスコッティ領主 ミルヒ",
@@ -717,7 +756,8 @@
         "id": "DD/WE12-23_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-28_": {
     "name": "見つめるミルヒ",
@@ -735,7 +775,8 @@
         "id": "DD/WE12-28_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-30_": {
     "name": "召喚勇者 シンク",
@@ -753,7 +794,8 @@
         "id": "DD/WE12-30_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-31_": {
     "name": "親衛隊長 エクレ",
@@ -771,7 +813,8 @@
         "id": "DD/WE12-31_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE12-34_": {
     "name": "ケモノダマ",
@@ -789,6 +832,7 @@
         "id": "DD/WE12-34_",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

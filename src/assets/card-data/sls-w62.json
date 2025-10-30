@@ -19,7 +19,8 @@
         "id": "Sls/W62-030SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Sls/W62-032": {
     "name": "ディードリット＆ロードスの騎士 パーン",
@@ -41,7 +42,8 @@
         "id": "Sls/W62-032SBR",
         "rarity": "SBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sls/W62-033": {
     "name": "帰らずの森の妖精 ディードリット",
@@ -63,7 +65,8 @@
         "id": "Sls/W62-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sls/W62-038": {
     "name": "ロードスの騎士 パーン",
@@ -85,7 +88,8 @@
         "id": "Sls/W62-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sls/W62-039": {
     "name": "精霊使い ディードリット",
@@ -103,7 +107,8 @@
         "id": "Sls/W62-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Sls/W62-040": {
     "name": "ディードリット＆パーン",
@@ -121,7 +126,8 @@
         "id": "Sls/W62-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sls/W62-044": {
     "name": "花とディードリット",
@@ -139,7 +145,8 @@
         "id": "Sls/W62-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sls/W62-046": {
     "name": "戦いの前の一時",
@@ -157,7 +164,8 @@
         "id": "Sls/W62-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sls/W62-047": {
     "name": "風の精霊への呼びかけ",
@@ -179,7 +187,8 @@
         "id": "Sls/W62-047R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sls/W62-048": {
     "name": "伝説の自由騎士",
@@ -201,6 +210,7 @@
         "id": "Sls/W62-048R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

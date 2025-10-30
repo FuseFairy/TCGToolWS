@@ -19,7 +19,8 @@
         "id": "RW/W20-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-002": {
     "name": "“いたずらなキス”ちはや",
@@ -41,7 +42,8 @@
         "id": "RW/W20-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-003": {
     "name": "“公認カップル”ちはや",
@@ -59,7 +61,8 @@
         "id": "RW/W20-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-004": {
     "name": "“カリスマ魔女様”朱音",
@@ -81,7 +84,8 @@
         "id": "RW/W20-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-005": {
     "name": "“最高の祝福”小鳥",
@@ -99,7 +103,8 @@
         "id": "RW/W20-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-006": {
     "name": "“目覚めの一杯”咲夜",
@@ -117,7 +122,8 @@
         "id": "RW/W20-006",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-007": {
     "name": "水着の井上",
@@ -135,7 +141,8 @@
         "id": "RW/W20-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-008": {
     "name": "“敏腕高校生記者”イノウェイ",
@@ -153,7 +160,8 @@
         "id": "RW/W20-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-009": {
     "name": "“正直な気持ち”小鳥",
@@ -171,7 +179,8 @@
         "id": "RW/W20-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-010": {
     "name": "“バカンス気分！”小鳥",
@@ -189,7 +198,8 @@
         "id": "RW/W20-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-011": {
     "name": "“ニートのこころ”朱音",
@@ -207,7 +217,8 @@
         "id": "RW/W20-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-012": {
     "name": "“ヨッシーノの理想”スーパー吉野",
@@ -225,7 +236,8 @@
         "id": "RW/W20-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-013": {
     "name": "“まさかの不覚”ちはや＆咲夜",
@@ -243,7 +255,8 @@
         "id": "RW/W20-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-014": {
     "name": "“二人の未来”瑚太朗",
@@ -261,7 +274,8 @@
         "id": "RW/W20-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-015": {
     "name": "“二人の未来”ちはや",
@@ -279,7 +293,8 @@
         "id": "RW/W20-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-016": {
     "name": "水着の小鳥",
@@ -297,7 +312,8 @@
         "id": "RW/W20-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-017": {
     "name": "水着の朱音",
@@ -315,7 +331,8 @@
         "id": "RW/W20-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-018": {
     "name": "“小さなしやわせ”小鳥",
@@ -333,7 +350,8 @@
         "id": "RW/W20-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-019": {
     "name": "“みんなとお揃い”ちはや",
@@ -351,7 +369,8 @@
         "id": "RW/W20-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-020": {
     "name": "“一番の理由”小鳥",
@@ -369,7 +388,8 @@
         "id": "RW/W20-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-021": {
     "name": "“人為的な奇跡”瑚太朗",
@@ -387,7 +407,8 @@
         "id": "RW/W20-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-022": {
     "name": "魚人ヨッシーノ捕獲！",
@@ -405,7 +426,8 @@
         "id": "RW/W20-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-023": {
     "name": "この良き日に、真心こめて。",
@@ -423,7 +445,8 @@
         "id": "RW/W20-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-024": {
     "name": "みんなで水遊び",
@@ -441,7 +464,8 @@
         "id": "RW/W20-024",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RW/W20-025": {
     "name": "交わった気持ち",
@@ -463,7 +487,8 @@
         "id": "RW/W20-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RW/W20-026": {
     "name": "“親愛なる探求者”静流",
@@ -485,7 +510,8 @@
         "id": "RW/W20-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-027": {
     "name": "“親愛なる探求者”ルチア",
@@ -507,7 +533,8 @@
         "id": "RW/W20-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-028": {
     "name": "“旅立ちの日”ルチア",
@@ -529,7 +556,8 @@
         "id": "RW/W20-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-029": {
     "name": "“最強の座”静流",
@@ -547,7 +575,8 @@
         "id": "RW/W20-029",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-030": {
     "name": "“神速攻撃！”静流",
@@ -569,7 +598,8 @@
         "id": "RW/W20-030SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-031": {
     "name": "“けんてきひっさつ”静流",
@@ -587,7 +617,8 @@
         "id": "RW/W20-031",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-032": {
     "name": "水着のルチア",
@@ -605,7 +636,8 @@
         "id": "RW/W20-032",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-033": {
     "name": "“ルチアの代弁者”瑚太朗",
@@ -623,7 +655,8 @@
         "id": "RW/W20-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-034": {
     "name": "“もう一人のルチア”アカリ",
@@ -641,7 +674,8 @@
         "id": "RW/W20-034",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-035": {
     "name": "手を引く静流",
@@ -659,7 +693,8 @@
         "id": "RW/W20-035",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-036": {
     "name": "“過去を絶ち未来へ”西九条",
@@ -677,7 +712,8 @@
         "id": "RW/W20-036",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-037": {
     "name": "水着の静流",
@@ -695,7 +731,8 @@
         "id": "RW/W20-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-038": {
     "name": "奇跡と温もりの中で",
@@ -713,7 +750,8 @@
         "id": "RW/W20-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-039": {
     "name": "守られた約束",
@@ -735,7 +773,8 @@
         "id": "RW/W20-039R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-040": {
     "name": "アカリの決意",
@@ -757,7 +796,8 @@
         "id": "RW/W20-040R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RW/W20-041": {
     "name": "お風呂上りの朱音",
@@ -779,7 +819,8 @@
         "id": "RW/W20-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-042": {
     "name": "“親愛なる探求者”ちはや",
@@ -801,7 +842,8 @@
         "id": "RW/W20-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-043": {
     "name": "“せいいっぱいの力”朱音",
@@ -819,7 +861,8 @@
         "id": "RW/W20-043",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-044": {
     "name": "“一緒に歩く道”ちはや",
@@ -841,7 +884,8 @@
         "id": "RW/W20-044SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-045": {
     "name": "“親愛なる探求者”朱音",
@@ -863,7 +907,8 @@
         "id": "RW/W20-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-046": {
     "name": "“紅く染まる夜に”朱音",
@@ -881,7 +926,8 @@
         "id": "RW/W20-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-047": {
     "name": "“輝く青空の下で”ちはや",
@@ -899,7 +945,8 @@
         "id": "RW/W20-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-048": {
     "name": "“花弁の騎士”咲夜",
@@ -917,7 +964,8 @@
         "id": "RW/W20-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-049": {
     "name": "“興味津々”しまこ",
@@ -935,7 +983,8 @@
         "id": "RW/W20-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-050": {
     "name": "“立ち向かう勇気”朱音",
@@ -953,7 +1002,8 @@
         "id": "RW/W20-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-051": {
     "name": "“■■■？”ちはや",
@@ -971,7 +1021,8 @@
         "id": "RW/W20-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-052": {
     "name": "“生徒会長”スージィ・ミドウ",
@@ -989,7 +1040,8 @@
         "id": "RW/W20-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-053": {
     "name": "プラチナチケット",
@@ -1007,7 +1059,8 @@
         "id": "RW/W20-053",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-054": {
     "name": "守るべき人",
@@ -1029,7 +1082,8 @@
         "id": "RW/W20-054R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-055": {
     "name": "竜神の祭壇",
@@ -1051,7 +1105,8 @@
         "id": "RW/W20-055R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RW/W20-056": {
     "name": "“魔法の第三惑精”クリーミィ☆かがりん",
@@ -1073,7 +1128,8 @@
         "id": "RW/W20-056SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-057": {
     "name": "“最良の記憶”篝",
@@ -1095,7 +1151,8 @@
         "id": "RW/W20-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-058": {
     "name": "“親愛なる探求者”篝",
@@ -1117,7 +1174,8 @@
         "id": "RW/W20-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-059": {
     "name": "“祝福の花冠”小鳥",
@@ -1139,7 +1197,8 @@
         "id": "RW/W20-059SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-060": {
     "name": "“書き換わる運命”篝",
@@ -1161,7 +1220,8 @@
         "id": "RW/W20-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-061": {
     "name": "“激辛仲直り”ルチア",
@@ -1179,7 +1239,8 @@
         "id": "RW/W20-061",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-062": {
     "name": "“レッツクエスト！”静流",
@@ -1201,7 +1262,8 @@
         "id": "RW/W20-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-063": {
     "name": "“書き換える運命”小鳥",
@@ -1223,7 +1285,8 @@
         "id": "RW/W20-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-064": {
     "name": "“ひとつの目標”ルチア",
@@ -1245,7 +1308,8 @@
         "id": "RW/W20-064SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-065": {
     "name": "未来来 篝",
@@ -1263,7 +1327,8 @@
         "id": "RW/W20-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-066": {
     "name": "“バカンス気分！”静流",
@@ -1281,7 +1346,8 @@
         "id": "RW/W20-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-067": {
     "name": "“違いがわかる生徒”篝",
@@ -1299,7 +1365,8 @@
         "id": "RW/W20-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-068": {
     "name": "“いつかどこか”の篝",
@@ -1317,7 +1384,8 @@
         "id": "RW/W20-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-069": {
     "name": "“感情の発露”篝",
@@ -1335,7 +1403,8 @@
         "id": "RW/W20-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-070": {
     "name": "“良い記憶を求めて”篝",
@@ -1353,7 +1422,8 @@
         "id": "RW/W20-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-071": {
     "name": "“オカ研集合！”ルチア",
@@ -1371,7 +1441,8 @@
         "id": "RW/W20-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-072": {
     "name": "“白銀の世界の中で”ルチア",
@@ -1389,7 +1460,8 @@
         "id": "RW/W20-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-073": {
     "name": "“ミラクルガール”篝",
@@ -1407,7 +1479,8 @@
         "id": "RW/W20-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-074": {
     "name": "“平穏な時間”ルチア",
@@ -1425,7 +1498,8 @@
         "id": "RW/W20-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-075": {
     "name": "“世界の希望”篝",
@@ -1443,7 +1517,8 @@
         "id": "RW/W20-075",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-076": {
     "name": "“げんなじーのめんらー”静流",
@@ -1461,7 +1536,8 @@
         "id": "RW/W20-076",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-077": {
     "name": "可能性の系統樹",
@@ -1479,7 +1555,8 @@
         "id": "RW/W20-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-078": {
     "name": "篝火を掲げし者",
@@ -1497,7 +1574,8 @@
         "id": "RW/W20-078",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-079": {
     "name": "いっときの夢",
@@ -1519,7 +1597,8 @@
         "id": "RW/W20-079R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RW/W20-080": {
     "name": "残された可能性",
@@ -1537,6 +1616,7 @@
         "id": "RW/W20-080",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

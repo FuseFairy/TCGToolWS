@@ -15,7 +15,8 @@
         "id": "IMC/W43-006PR",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W43-011": {
     "name": "市原 仁奈",
@@ -33,7 +34,8 @@
         "id": "IMC/W43-011PR",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W43-046": {
     "name": "櫻井 桃華",
@@ -51,7 +53,8 @@
         "id": "IMC/W43-046PR",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W43-047": {
     "name": "ピンクチェックスクール 美穂",
@@ -69,7 +72,8 @@
         "id": "IMC/W43-047PR",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W43-086": {
     "name": "ホラー大好き 小梅",
@@ -87,7 +91,8 @@
         "id": "IMC/W43-086PR",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W43-091": {
     "name": "Project:Krone 文香",
@@ -105,7 +110,8 @@
         "id": "IMC/W43-091PR",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W43-128": {
     "name": "LET’S GO HAPPY!!",
@@ -123,7 +129,8 @@
         "id": "IMC/W43-128",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W43-129": {
     "name": "できたてEvo! Revo! Generation!",
@@ -141,7 +148,8 @@
         "id": "IMC/W43-129",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W43-130": {
     "name": "Happy×2 Days",
@@ -159,7 +167,8 @@
         "id": "IMC/W43-130",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W43-131": {
     "name": "ΦωΦver!!",
@@ -177,7 +186,8 @@
         "id": "IMC/W43-131",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IMC/W43-132": {
     "name": "Memories",
@@ -195,7 +205,8 @@
         "id": "IMC/W43-132",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IMC/W43-133": {
     "name": "#NAME?",
@@ -213,7 +224,8 @@
         "id": "IMC/W43-133",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W43-P01": {
     "name": "待ち合わせ 卯月",
@@ -231,7 +243,8 @@
         "id": "IMC/W43-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W43-P02": {
     "name": "照れ屋な奈緒",
@@ -249,7 +262,8 @@
         "id": "IMC/W43-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W43-P03": {
     "name": "ステージ脇で 小梅＆飛鳥",
@@ -267,7 +281,8 @@
         "id": "IMC/W43-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W43-P04": {
     "name": "待ち合わせ 未央",
@@ -285,7 +300,8 @@
         "id": "IMC/W43-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W43-P05": {
     "name": "五十嵐 響子",
@@ -303,7 +319,8 @@
         "id": "IMC/W43-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMC/W43-P06": {
     "name": "ファミリアツイン 美嘉&莉嘉",
@@ -325,7 +342,8 @@
         "id": "IMC/W43-P06S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMC/W43-P07": {
     "name": "スターリー・フューチャーズ 島村卯月",
@@ -347,6 +365,7 @@
         "id": "IMC/W43-P07S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -19,7 +19,8 @@
         "id": "AW/S43-001R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-002": {
     "name": "《加速世界》の絆 黒雪姫",
@@ -41,7 +42,8 @@
         "id": "AW/S43-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-003": {
     "name": "巡る思い 黒雪姫",
@@ -63,7 +65,8 @@
         "id": "AW/S43-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-004": {
     "name": "夏祭り 黒雪姫",
@@ -85,7 +88,8 @@
         "id": "AW/S43-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-005": {
     "name": "《銀の鴉》シルバー・クロウ",
@@ -107,7 +111,8 @@
         "id": "AW/S43-005R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-006": {
     "name": "風に舞うドレス 黒雪姫",
@@ -125,7 +130,8 @@
         "id": "AW/S43-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-007": {
     "name": "蹶起の鬨 黒雪姫",
@@ -143,7 +149,8 @@
         "id": "AW/S43-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-008": {
     "name": "《黒き死の睡蓮》ブラック・ロータス",
@@ -165,7 +172,8 @@
         "id": "AW/S43-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-009": {
     "name": "火照る湯上り 黒雪姫",
@@ -183,7 +191,8 @@
         "id": "AW/S43-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-010": {
     "name": "反撃の狼煙 ブラック・ロータス",
@@ -201,7 +210,8 @@
         "id": "AW/S43-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-011": {
     "name": "不測の事態 黒雪姫",
@@ -219,7 +229,8 @@
         "id": "AW/S43-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-012": {
     "name": "不穏な予感 黒雪姫",
@@ -237,7 +248,8 @@
         "id": "AW/S43-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-013": {
     "name": "料理は苦手 黒雪姫",
@@ -255,7 +267,8 @@
         "id": "AW/S43-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-014": {
     "name": "夏の1コマ 黒雪姫",
@@ -273,7 +286,8 @@
         "id": "AW/S43-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-015": {
     "name": "立ち向かう意思 ハルユキ",
@@ -291,7 +305,8 @@
         "id": "AW/S43-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-016": {
     "name": "王を抱くシルバー・クロウ",
@@ -309,7 +324,8 @@
         "id": "AW/S43-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-017": {
     "name": "辛辣な忠告 メタトロン",
@@ -327,7 +343,8 @@
         "id": "AW/S43-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-018": {
     "name": "午睡からの覚醒 黒雪姫",
@@ -345,7 +362,8 @@
         "id": "AW/S43-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-019": {
     "name": "イエロー・レディオ",
@@ -363,7 +381,8 @@
         "id": "AW/S43-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-020": {
     "name": "約束の褒賞 黒雪姫",
@@ -381,7 +400,8 @@
         "id": "AW/S43-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-021": {
     "name": "重武装 ハルユキ",
@@ -399,7 +419,8 @@
         "id": "AW/S43-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-022": {
     "name": "《加速》の適正 ハルユキ",
@@ -417,7 +438,8 @@
         "id": "AW/S43-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-023": {
     "name": "独断専行 ブラック・ロータス",
@@ -435,7 +457,8 @@
         "id": "AW/S43-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-024": {
     "name": "成長への助言 黒雪姫",
@@ -453,7 +476,8 @@
         "id": "AW/S43-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-025": {
     "name": "立体アイコン",
@@ -471,7 +495,8 @@
         "id": "AW/S43-025",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-026": {
     "name": "夏祭りの出来事",
@@ -489,7 +514,8 @@
         "id": "AW/S43-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-027": {
     "name": "Nega Nebulas",
@@ -507,7 +533,8 @@
         "id": "AW/S43-027",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-028": {
     "name": "二人の飛翔",
@@ -525,7 +552,8 @@
         "id": "AW/S43-028",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AW/S43-029": {
     "name": "ヴォーパル・ストライク",
@@ -543,7 +571,8 @@
         "id": "AW/S43-029",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-030": {
     "name": "海辺のバカンス チユリ",
@@ -565,7 +594,8 @@
         "id": "AW/S43-030R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-031": {
     "name": "元気いっぱい チユリ",
@@ -587,7 +617,8 @@
         "id": "AW/S43-031SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-032": {
     "name": "静かな恋心 リン",
@@ -609,7 +640,8 @@
         "id": "AW/S43-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-033": {
     "name": "《時計の魔女》ライム・ベル",
@@ -631,7 +663,8 @@
         "id": "AW/S43-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-034": {
     "name": "グリーン・グランデ",
@@ -649,7 +682,8 @@
         "id": "AW/S43-034",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-035": {
     "name": "顧みぬ男 アッシュ・ローラー",
@@ -667,7 +701,8 @@
         "id": "AW/S43-035",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-036": {
     "name": "鼻歌交じり ライム・ベル",
@@ -685,7 +720,8 @@
         "id": "AW/S43-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-037": {
     "name": "猫の仕草 チユリ",
@@ -703,7 +739,8 @@
         "id": "AW/S43-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-038": {
     "name": "黒雲内の走行 ライム・ベル",
@@ -721,7 +758,8 @@
         "id": "AW/S43-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-039": {
     "name": "ニュクス&リサ",
@@ -739,7 +777,8 @@
         "id": "AW/S43-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-040": {
     "name": "夜の女神 ニュクス",
@@ -757,7 +796,8 @@
         "id": "AW/S43-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-041": {
     "name": "渋谷が地元 アッシュ・ローラー",
@@ -775,7 +815,8 @@
         "id": "AW/S43-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-042": {
     "name": "円盤形のエネミー",
@@ -793,7 +834,8 @@
         "id": "AW/S43-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-043": {
     "name": "白いデュエルアバター",
@@ -811,7 +853,8 @@
         "id": "AW/S43-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-044": {
     "name": "ノックスコーア",
@@ -829,7 +872,8 @@
         "id": "AW/S43-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-045": {
     "name": "夏祭り リン",
@@ -847,7 +891,8 @@
         "id": "AW/S43-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-046": {
     "name": "夏祭り チユリ",
@@ -865,7 +910,8 @@
         "id": "AW/S43-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-047": {
     "name": "ネメシス&タナトス",
@@ -883,7 +929,8 @@
         "id": "AW/S43-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-048": {
     "name": "作戦会議 チユリ",
@@ -901,7 +948,8 @@
         "id": "AW/S43-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-049": {
     "name": "噂の《治癒師》スキル",
@@ -919,7 +967,8 @@
         "id": "AW/S43-049",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-050": {
     "name": "現実への帰還",
@@ -937,7 +986,8 @@
         "id": "AW/S43-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-051": {
     "name": "幼馴染特別法",
@@ -955,7 +1005,8 @@
         "id": "AW/S43-051",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-052": {
     "name": "シトロン・コール",
@@ -973,7 +1024,8 @@
         "id": "AW/S43-052",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-053": {
     "name": "兄の制裁",
@@ -991,7 +1043,8 @@
         "id": "AW/S43-053",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AW/S43-054": {
     "name": "夏の1コマ ニコ",
@@ -1013,7 +1066,8 @@
         "id": "AW/S43-054SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-055": {
     "name": "アーダー・メイデン",
@@ -1035,7 +1089,8 @@
         "id": "AW/S43-055R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-056": {
     "name": "運転中 スカーレット・レイン",
@@ -1053,7 +1108,8 @@
         "id": "AW/S43-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-057": {
     "name": "夏祭り ウタイ",
@@ -1075,7 +1131,8 @@
         "id": "AW/S43-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-058": {
     "name": "和む光景 ニコ&パド",
@@ -1097,7 +1154,8 @@
         "id": "AW/S43-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-059": {
     "name": "冬の日のニコ",
@@ -1119,7 +1177,8 @@
         "id": "AW/S43-059R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-060": {
     "name": "夏の1コマ パド",
@@ -1137,7 +1196,8 @@
         "id": "AW/S43-060",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-061": {
     "name": "対抗意識 スカーレット・レイン",
@@ -1159,7 +1219,8 @@
         "id": "AW/S43-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-062": {
     "name": "神宮の戦闘 アーダー・メイデン",
@@ -1177,7 +1238,8 @@
         "id": "AW/S43-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-063": {
     "name": "策の実行 ブラッド・レパード",
@@ -1195,7 +1257,8 @@
         "id": "AW/S43-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-064": {
     "name": "《血まみれ仔猫》ブラッド・レパード",
@@ -1213,7 +1276,8 @@
         "id": "AW/S43-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-065": {
     "name": "松乃木学園初等部 ウタイ",
@@ -1231,7 +1295,8 @@
         "id": "AW/S43-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-066": {
     "name": "クールな佇い パド",
@@ -1249,7 +1314,8 @@
         "id": "AW/S43-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-067": {
     "name": "着装コマンド スカーレット・レイン",
@@ -1267,7 +1333,8 @@
         "id": "AW/S43-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-068": {
     "name": "強制ログアウト ニコ",
@@ -1285,7 +1352,8 @@
         "id": "AW/S43-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-069": {
     "name": "口が達者 ニコ",
@@ -1303,7 +1371,8 @@
         "id": "AW/S43-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-070": {
     "name": "笑顔で料理 ニコ",
@@ -1321,7 +1390,8 @@
         "id": "AW/S43-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-071": {
     "name": "しっかり者 ウタイ",
@@ -1339,7 +1409,8 @@
         "id": "AW/S43-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-072": {
     "name": "戦闘中 ウタイ",
@@ -1357,7 +1428,8 @@
         "id": "AW/S43-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-073": {
     "name": "《拠点》",
@@ -1375,7 +1447,8 @@
         "id": "AW/S43-073",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-074": {
     "name": "乱暴な運転",
@@ -1393,7 +1466,8 @@
         "id": "AW/S43-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-075": {
     "name": "夏の楽しみ",
@@ -1411,7 +1485,8 @@
         "id": "AW/S43-075",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-076": {
     "name": "ヒートブラスト・サチュレーション",
@@ -1429,7 +1504,8 @@
         "id": "AW/S43-076",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AW/S43-077": {
     "name": "火焔豪雨",
@@ -1447,7 +1523,8 @@
         "id": "AW/S43-077",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-078": {
     "name": "《超空の流星》スカイ・レイカー",
@@ -1469,7 +1546,8 @@
         "id": "AW/S43-078R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-079": {
     "name": "意志のこもる瞳 フーコ",
@@ -1491,7 +1569,8 @@
         "id": "AW/S43-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-080": {
     "name": "空を目指した少女 フーコ",
@@ -1513,7 +1592,8 @@
         "id": "AW/S43-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-081": {
     "name": "氷見 あきら",
@@ -1535,7 +1615,8 @@
         "id": "AW/S43-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-082": {
     "name": "夏祭り フーコ",
@@ -1553,7 +1634,8 @@
         "id": "AW/S43-082",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-083": {
     "name": "黒雲内の走行 スカイ・レイカー",
@@ -1571,7 +1653,8 @@
         "id": "AW/S43-083",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-084": {
     "name": "ブルー・ナイト",
@@ -1589,7 +1672,8 @@
         "id": "AW/S43-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-085": {
     "name": "《純水無色》アクア・カレント",
@@ -1607,7 +1691,8 @@
         "id": "AW/S43-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-086": {
     "name": "着替え中 フーコ",
@@ -1625,7 +1710,8 @@
         "id": "AW/S43-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-087": {
     "name": "《ネガ・ネビュラス》副長 フーコ",
@@ -1643,7 +1729,8 @@
         "id": "AW/S43-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-088": {
     "name": "近接戦形態 アクア・カレント",
@@ -1661,7 +1748,8 @@
         "id": "AW/S43-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-089": {
     "name": "夏祭り あきら",
@@ -1679,7 +1767,8 @@
         "id": "AW/S43-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-090": {
     "name": "パープル・ソーン",
@@ -1697,7 +1786,8 @@
         "id": "AW/S43-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-091": {
     "name": "軍師ポジション タクム",
@@ -1715,7 +1805,8 @@
         "id": "AW/S43-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-092": {
     "name": "盾となるシアン・パイル",
@@ -1733,7 +1824,8 @@
         "id": "AW/S43-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-093": {
     "name": "親友になれた二人 タクム&ハルユキ",
@@ -1751,7 +1843,8 @@
         "id": "AW/S43-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-094": {
     "name": "神宮の戦闘 スカイ・レイカー",
@@ -1769,7 +1862,8 @@
         "id": "AW/S43-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-095": {
     "name": "《穿孔》アビリティ シアン・パイル",
@@ -1787,7 +1881,8 @@
         "id": "AW/S43-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-096": {
     "name": "死亡マーカー",
@@ -1805,7 +1900,8 @@
         "id": "AW/S43-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-097": {
     "name": "ゲイルスラスター",
@@ -1823,7 +1919,8 @@
         "id": "AW/S43-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-098": {
     "name": "夏の宵のまどろみ",
@@ -1841,7 +1938,8 @@
         "id": "AW/S43-098",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S43-099": {
     "name": "コンビネーション？",
@@ -1859,7 +1957,8 @@
         "id": "AW/S43-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S43-100": {
     "name": "ライトニング・シアン・スパイク",
@@ -1877,6 +1976,7 @@
         "id": "AW/S43-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

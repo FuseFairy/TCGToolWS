@@ -19,7 +19,8 @@
         "id": "HBR/W117-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-002": {
     "name": "真夏のジャンダルム 白河 ユイナ",
@@ -41,7 +42,8 @@
         "id": "HBR/W117-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-003": {
     "name": "氷花のHexerei 神崎 アーデルハイド",
@@ -63,7 +65,8 @@
         "id": "HBR/W117-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-004": {
     "name": "対決！！エア・ステージ 桜庭 星羅",
@@ -85,7 +88,8 @@
         "id": "HBR/W117-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-005": {
     "name": "アサシン忍法大繁盛 佐月 マリ",
@@ -107,7 +111,8 @@
         "id": "HBR/W117-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-006": {
     "name": "Happy Legion 豊後 弥生",
@@ -129,7 +134,8 @@
         "id": "HBR/W117-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-007": {
     "name": "若女将の日々 蔵 里見",
@@ -151,7 +157,8 @@
         "id": "HBR/W117-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-008": {
     "name": "亡国の純心 菅原 千恵",
@@ -173,7 +180,8 @@
         "id": "HBR/W117-008SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-009": {
     "name": "山脇様の手下：マジカルにゃん 天音 巫呼",
@@ -195,7 +203,8 @@
         "id": "HBR/W117-009SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-010": {
     "name": "掩蔽された暇 月城 最中",
@@ -217,7 +226,8 @@
         "id": "HBR/W117-010SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-011": {
     "name": "Holy Knight 山脇・ボン・イヴァール",
@@ -239,7 +249,8 @@
         "id": "HBR/W117-011SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-012": {
     "name": "希求と渇仰 小笠原 緋雨",
@@ -261,7 +272,8 @@
         "id": "HBR/W117-012SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-013": {
     "name": "静寂閑雅のレスト 小笠原 緋雨",
@@ -283,7 +295,8 @@
         "id": "HBR/W117-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-014": {
     "name": "Sign 白河 ユイナ",
@@ -305,7 +318,8 @@
         "id": "HBR/W117-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-015": {
     "name": "清流に坐す 蔵 里見",
@@ -327,7 +341,8 @@
         "id": "HBR/W117-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-016": {
     "name": "雨模様、心そうそう 桜庭 星羅",
@@ -349,7 +364,8 @@
         "id": "HBR/W117-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-017": {
     "name": "神祠見舞う儚さかな 桐生 美也",
@@ -371,7 +387,8 @@
         "id": "HBR/W117-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-018": {
     "name": "はにかむ、心かき集め 佐月 マリ",
@@ -393,7 +410,8 @@
         "id": "HBR/W117-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-019": {
     "name": "夢浮橋辿る赤 天音 巫呼",
@@ -415,7 +433,8 @@
         "id": "HBR/W117-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-020": {
     "name": "魔王の帰還 山脇・ボン・イヴァール",
@@ -437,7 +456,8 @@
         "id": "HBR/W117-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-021": {
     "name": "手のひらのパーフェクション 豊後 弥生",
@@ -459,7 +479,8 @@
         "id": "HBR/W117-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-022": {
     "name": "微光の兆し 神崎 アーデルハイド",
@@ -481,7 +502,8 @@
         "id": "HBR/W117-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-023": {
     "name": "黄昏、久遠の夢 月城 最中",
@@ -503,7 +525,8 @@
         "id": "HBR/W117-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-024": {
     "name": "気まぐれのアンニュイ 菅原 千恵",
@@ -525,7 +548,8 @@
         "id": "HBR/W117-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-025": {
     "name": "君に読む憧れ",
@@ -547,7 +571,8 @@
         "id": "HBR/W117-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-026": {
     "name": "緋に染まる袖時雨",
@@ -569,7 +594,8 @@
         "id": "HBR/W117-026R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-027": {
     "name": "きみはこの夏のFairy、ぼくはその姿を瞳の奥にRec.",
@@ -591,7 +617,8 @@
         "id": "HBR/W117-027R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-028": {
     "name": "優しさと切なさと心強さと",
@@ -613,7 +640,8 @@
         "id": "HBR/W117-028R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-029": {
     "name": "無上の終局 二階堂 三郷",
@@ -635,7 +663,8 @@
         "id": "HBR/W117-029SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-030": {
     "name": "撃砕の無彩色 石井 色葉",
@@ -657,7 +686,8 @@
         "id": "HBR/W117-030SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-031": {
     "name": "Sweet Phantasy 大島 一千子",
@@ -679,7 +709,8 @@
         "id": "HBR/W117-031SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-032": {
     "name": "破られたアンニュイ 大島 四ツ葉",
@@ -701,7 +732,8 @@
         "id": "HBR/W117-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-033": {
     "name": "ロックアップオルカ 瑞原 あいな",
@@ -723,7 +755,8 @@
         "id": "HBR/W117-033SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-034": {
     "name": "テニスコートの悪魔 伊達 朱里",
@@ -745,7 +778,8 @@
         "id": "HBR/W117-034SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-035": {
     "name": "湯上がり夢現郷 大島 五十鈴",
@@ -767,7 +801,8 @@
         "id": "HBR/W117-035SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-036": {
     "name": "韋駄天配達人 大島 三野里",
@@ -789,7 +824,8 @@
         "id": "HBR/W117-036SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-037": {
     "name": "早くおうちに帰りましょ 室伏 理沙",
@@ -811,7 +847,8 @@
         "id": "HBR/W117-037SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-038": {
     "name": "心緒、昂る温泉郷 大島 二以奈",
@@ -833,7 +870,8 @@
         "id": "HBR/W117-038SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-039": {
     "name": "終末なにする？ 命 吹雪",
@@ -855,7 +893,8 @@
         "id": "HBR/W117-039SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-040": {
     "name": "ピンチで最高 大島 六宇亜",
@@ -877,7 +916,8 @@
         "id": "HBR/W117-040SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-041": {
     "name": "グルーヴィーなロール 大島 六宇亜",
@@ -899,7 +939,8 @@
         "id": "HBR/W117-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-042": {
     "name": "多彩なるインスピレーション 石井 色葉",
@@ -921,7 +962,8 @@
         "id": "HBR/W117-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-043": {
     "name": "今昔の感、想いは徃きて 二階堂 三郷",
@@ -943,7 +985,8 @@
         "id": "HBR/W117-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-044": {
     "name": "痛いの痛いの飛んでけ〜♪ 室伏 理沙",
@@ -965,7 +1008,8 @@
         "id": "HBR/W117-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-045": {
     "name": "マーベルアプローチ 伊達 朱里",
@@ -987,7 +1031,8 @@
         "id": "HBR/W117-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-046": {
     "name": "戦線キャットウォーク 大島 二以奈",
@@ -1009,7 +1054,8 @@
         "id": "HBR/W117-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-047": {
     "name": "Silent Reverberations 命 吹雪",
@@ -1031,7 +1077,8 @@
         "id": "HBR/W117-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-048": {
     "name": "同床異夢明けて 大島 一千子",
@@ -1053,7 +1100,8 @@
         "id": "HBR/W117-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-049": {
     "name": "ぐうたらパジャマナイト 大島 四ツ葉",
@@ -1075,7 +1123,8 @@
         "id": "HBR/W117-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-050": {
     "name": "ピースフルフレーバー 大島 五十鈴",
@@ -1097,7 +1146,8 @@
         "id": "HBR/W117-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-051": {
     "name": "奥深い味わいを 瑞原 あいな",
@@ -1119,7 +1169,8 @@
         "id": "HBR/W117-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-052": {
     "name": "遠い海の色",
@@ -1141,7 +1192,8 @@
         "id": "HBR/W117-052R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-053": {
     "name": "大島屋物語",
@@ -1163,7 +1215,8 @@
         "id": "HBR/W117-053R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-054": {
     "name": "Letters on The Back",
@@ -1185,7 +1238,8 @@
         "id": "HBR/W117-054R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-055": {
     "name": "美人温泉物語 湯けむり千紫万紅",
@@ -1207,7 +1261,8 @@
         "id": "HBR/W117-055R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-056": {
     "name": "ナイトクルーズ・エスコート 茅森 月歌",
@@ -1233,7 +1288,8 @@
         "id": "HBR/W117-056SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-057": {
     "name": "木漏れ日の庭 丸山 奏多",
@@ -1255,7 +1311,8 @@
         "id": "HBR/W117-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-058": {
     "name": "トワイライト・グロース 逢川 めぐみ",
@@ -1277,7 +1334,8 @@
         "id": "HBR/W117-058SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-059": {
     "name": "唯我独尊 黒沢 真希",
@@ -1299,7 +1357,8 @@
         "id": "HBR/W117-059SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-060": {
     "name": "夜風のChill Time 柳 美音",
@@ -1321,7 +1380,8 @@
         "id": "HBR/W117-060SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-061": {
     "name": "秘めたる努力 松岡 チロル",
@@ -1343,7 +1403,8 @@
         "id": "HBR/W117-061SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-062": {
     "name": "ナイトクルーズ・アテンダント 和泉 ユキ",
@@ -1365,7 +1426,8 @@
         "id": "HBR/W117-062SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-063": {
     "name": "シークレットサービス・サイレンス 東城 つかさ",
@@ -1387,7 +1449,8 @@
         "id": "HBR/W117-063SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-064": {
     "name": "木漏れ日のソナタ 華村 詩紀",
@@ -1409,7 +1472,8 @@
         "id": "HBR/W117-064SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-065": {
     "name": "トワイライト・メモリーズ 國見 タマ",
@@ -1431,7 +1495,8 @@
         "id": "HBR/W117-065SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-066": {
     "name": "薫衣香る夢見鳥 夏目 祈",
@@ -1453,7 +1518,8 @@
         "id": "HBR/W117-066SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-067": {
     "name": "シークレットサービス・デモリッシュ 朝倉 可憐",
@@ -1475,7 +1541,8 @@
         "id": "HBR/W117-067SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-068": {
     "name": "残響のカルディナル 茅森 月歌",
@@ -1497,7 +1564,8 @@
         "id": "HBR/W117-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-069": {
     "name": "揺るがない確かなこと 七瀬 七海",
@@ -1519,7 +1587,8 @@
         "id": "HBR/W117-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-070": {
     "name": "お嬢様は端麗 丸山 奏多",
@@ -1541,7 +1610,8 @@
         "id": "HBR/W117-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-071": {
     "name": "未来を紡ぐ誓い 浅見 真紀子",
@@ -1563,7 +1633,8 @@
         "id": "HBR/W117-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-072": {
     "name": "スカーレット・リベリオン 朝倉 可憐",
@@ -1585,7 +1656,8 @@
         "id": "HBR/W117-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-073": {
     "name": "滅私奉公のトラスト 柳 美音",
@@ -1607,7 +1679,8 @@
         "id": "HBR/W117-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-074": {
     "name": "魔法の国のエレメンタル 國見 タマ",
@@ -1629,7 +1702,8 @@
         "id": "HBR/W117-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-075": {
     "name": "真夏のPrayer 東城 つかさ",
@@ -1651,7 +1725,8 @@
         "id": "HBR/W117-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-076": {
     "name": "彼岸の人斬り 夏目 祈",
@@ -1673,7 +1748,8 @@
         "id": "HBR/W117-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-077": {
     "name": "一夜の夢 逢川 めぐみ",
@@ -1695,7 +1771,8 @@
         "id": "HBR/W117-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-078": {
     "name": "語られる真実 手塚 咲",
@@ -1717,7 +1794,8 @@
         "id": "HBR/W117-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-079": {
     "name": "夏椿、けうらなる夜光星 和泉 ユキ",
@@ -1739,7 +1817,8 @@
         "id": "HBR/W117-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-080": {
     "name": "ルミとの最高の夏",
@@ -1761,7 +1840,8 @@
         "id": "HBR/W117-080SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-081": {
     "name": "魂の仕組みと幾億光年の旅",
@@ -1783,7 +1863,8 @@
         "id": "HBR/W117-081R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-082": {
     "name": "溢れ出る感情",
@@ -1805,7 +1886,8 @@
         "id": "HBR/W117-082R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-083": {
     "name": "セラフ剣刀武術祭",
@@ -1827,7 +1909,8 @@
         "id": "HBR/W117-083R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-084": {
     "name": "小さき帝と穏やかな朝食",
@@ -1849,7 +1932,8 @@
         "id": "HBR/W117-084R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-085": {
     "name": "摩天楼のダークヒーロー キャロル・リーパー",
@@ -1871,7 +1955,8 @@
         "id": "HBR/W117-085SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-086": {
     "name": "トドケ・Miracle 蒼井 えりか",
@@ -1893,7 +1978,8 @@
         "id": "HBR/W117-086SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-087": {
     "name": "逆境に咲く華 シャルロッタ・スコポフスカヤ",
@@ -1915,7 +2001,8 @@
         "id": "HBR/W117-087SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-088": {
     "name": "宙の探究、星の眩耀 樋口 聖華",
@@ -1937,7 +2024,8 @@
         "id": "HBR/W117-088SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-089": {
     "name": "我、勇ならざるは将なきに同じ 李 映夏",
@@ -1959,7 +2047,8 @@
         "id": "HBR/W117-089SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-090": {
     "name": "のもけいしさや ビャッコ",
@@ -1981,7 +2070,8 @@
         "id": "HBR/W117-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-091": {
     "name": "終劇のナイトフォール 柊木 梢",
@@ -2003,7 +2093,8 @@
         "id": "HBR/W117-091SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-092": {
     "name": "君の瞳にコロしてる 水瀬 いちご",
@@ -2025,7 +2116,8 @@
         "id": "HBR/W117-092SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-093": {
     "name": "碧いカーヴァンクル アイリーン・レドメイン",
@@ -2047,7 +2139,8 @@
         "id": "HBR/W117-093SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-094": {
     "name": "茹だるアサシン 水瀬 すもも",
@@ -2069,7 +2162,8 @@
         "id": "HBR/W117-094SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-095": {
     "name": "凛々しきドゥルガー ヴリティカ・バラクリシュナン",
@@ -2091,7 +2185,8 @@
         "id": "HBR/W117-095SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-096": {
     "name": "ブラッド・レリーフ マリア・デ・アンジェリス",
@@ -2113,7 +2208,8 @@
         "id": "HBR/W117-096SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-097": {
     "name": "罪と栄光 マリア・デ・アンジェリス",
@@ -2135,7 +2231,8 @@
         "id": "HBR/W117-097S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-098": {
     "name": "雪華ノスタルジア シャルロッタ・スコポフスカヤ",
@@ -2157,7 +2254,8 @@
         "id": "HBR/W117-098S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-099": {
     "name": "青春の発露 樋口 聖華",
@@ -2179,7 +2277,8 @@
         "id": "HBR/W117-099S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-100": {
     "name": "心の風景 キャロル・リーパー",
@@ -2201,7 +2300,8 @@
         "id": "HBR/W117-100S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-101": {
     "name": "在りし日の雑踏 柊木 梢",
@@ -2223,7 +2323,8 @@
         "id": "HBR/W117-101S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-102": {
     "name": "キララ・究極のアイドル 蒼井 えりか",
@@ -2245,7 +2346,8 @@
         "id": "HBR/W117-102S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-103": {
     "name": "未知数なヴェーダーンガ ヴリティカ・バラクリシュナン",
@@ -2267,7 +2369,8 @@
         "id": "HBR/W117-103S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-104": {
     "name": "あなたのために 水瀬 いちご",
@@ -2289,7 +2392,8 @@
         "id": "HBR/W117-104S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-105": {
     "name": "積乱雲 水瀬 すもも",
@@ -2311,7 +2415,8 @@
         "id": "HBR/W117-105S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-106": {
     "name": "武を成すは天に在り 李 映夏",
@@ -2333,7 +2438,8 @@
         "id": "HBR/W117-106S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HBR/W117-107": {
     "name": "リラックスサイン ビャッコ",
@@ -2355,7 +2461,8 @@
         "id": "HBR/W117-107S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-108": {
     "name": "ベイカー街の軌跡 アイリーン・レドメイン",
@@ -2377,7 +2484,8 @@
         "id": "HBR/W117-108S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-109": {
     "name": "罪と罰と愛と",
@@ -2399,7 +2507,8 @@
         "id": "HBR/W117-109R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-110": {
     "name": "That day's Friend",
@@ -2421,7 +2530,8 @@
         "id": "HBR/W117-110R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HBR/W117-111": {
     "name": "アイリーン・レドメインの事件簿 －名探偵と森の魔女－",
@@ -2443,7 +2553,8 @@
         "id": "HBR/W117-111R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "HBR/W117-112": {
     "name": "私立セラフィム学園 ～蒼井、アイドルになります！～",
@@ -2465,6 +2576,7 @@
         "id": "HBR/W117-112R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

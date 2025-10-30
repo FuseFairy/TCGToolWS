@@ -15,7 +15,8 @@
         "id": "Snk/W62-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Snk/W62-T17": {
     "name": "恋を知ったショコラ",
@@ -33,7 +34,8 @@
         "id": "Snk/W62-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Snk/W62-T19": {
     "name": "毒舌ツンデレ＆ペチャパイ ふらの",
@@ -51,6 +53,7 @@
         "id": "Snk/W62-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

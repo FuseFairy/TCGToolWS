@@ -15,7 +15,8 @@
         "id": "SAO/S26-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-P02": {
     "name": "木漏れ日の中 アスナ＆キリト",
@@ -33,7 +34,8 @@
         "id": "SAO/S26-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-081": {
     "name": "《スター・スプラッシュ》",
@@ -51,7 +53,8 @@
         "id": "SAO/S26-081",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-082": {
     "name": "スペル詠唱",
@@ -69,7 +72,8 @@
         "id": "SAO/S26-082",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-083": {
     "name": "気づいた本当の気持ち",
@@ -87,7 +91,8 @@
         "id": "SAO/S26-083",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-084": {
     "name": "初めての冒険",
@@ -105,7 +110,8 @@
         "id": "SAO/S26-084",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SAO/S26-085": {
     "name": "突然の別れ",
@@ -123,7 +129,8 @@
         "id": "SAO/S26-085",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-086": {
     "name": "《二刀流》の使い手",
@@ -141,6 +148,7 @@
         "id": "SAO/S26-086",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

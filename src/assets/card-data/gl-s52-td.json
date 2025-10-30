@@ -19,7 +19,8 @@
         "id": "GL/S52-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-T02": {
     "name": "地上から来た女 ヨーコ",
@@ -41,7 +42,8 @@
         "id": "GL/S52-T02SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-T03": {
     "name": "“アニキ” カミナ",
@@ -59,7 +61,8 @@
         "id": "GL/S52-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-T04": {
     "name": "巨大なライフル ヨーコ",
@@ -77,7 +80,8 @@
         "id": "GL/S52-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-T05": {
     "name": "不撓不屈の鬼リーダー カミナ",
@@ -95,7 +99,8 @@
         "id": "GL/S52-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-T06": {
     "name": "過酷な地上で ヨーコ",
@@ -117,7 +122,8 @@
         "id": "GL/S52-T06S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-T07": {
     "name": "グレン団リーダー カミナ",
@@ -139,7 +145,8 @@
         "id": "GL/S52-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-T08": {
     "name": "俺を誰だと思っていやがる!!",
@@ -157,7 +164,8 @@
         "id": "GL/S52-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-T09": {
     "name": "チビブタモグラ ブータ",
@@ -175,7 +183,8 @@
         "id": "GL/S52-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-T10": {
     "name": "穴掘りシモン",
@@ -193,7 +202,8 @@
         "id": "GL/S52-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-T11": {
     "name": "ラガン",
@@ -215,7 +225,8 @@
         "id": "GL/S52-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-T12": {
     "name": "天を突くドリル ラガン",
@@ -233,7 +244,8 @@
         "id": "GL/S52-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-T13": {
     "name": "ジーハ村の少年 シモン",
@@ -251,7 +263,8 @@
         "id": "GL/S52-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-T14": {
     "name": "コイツの名前は グレン",
@@ -269,7 +282,8 @@
         "id": "GL/S52-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-T15": {
     "name": "グレン",
@@ -287,7 +301,8 @@
         "id": "GL/S52-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-T16": {
     "name": "アニキを救え！ シモン",
@@ -305,7 +320,8 @@
         "id": "GL/S52-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-T17": {
     "name": "合体！グレンラガン",
@@ -327,7 +343,8 @@
         "id": "GL/S52-T17S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-T18": {
     "name": "クロスカウンター",
@@ -345,7 +362,8 @@
         "id": "GL/S52-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-T19": {
     "name": "お前のドリルで天を突け！！",
@@ -363,7 +381,8 @@
         "id": "GL/S52-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GL/S52-T20": {
     "name": "やっぱり地上はあったんじゃねぇか！",
@@ -381,6 +400,7 @@
         "id": "GL/S52-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

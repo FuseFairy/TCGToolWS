@@ -15,7 +15,8 @@
         "id": "MK/S11-001",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-002": {
     "name": "制服のネロ",
@@ -33,7 +34,8 @@
         "id": "MK/S11-002",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-003": {
     "name": "小林 オペラ",
@@ -51,7 +53,8 @@
         "id": "MK/S11-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-004": {
     "name": "運動会のネロ＆エリー",
@@ -69,7 +72,8 @@
         "id": "MK/S11-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-005": {
     "name": "譲崎 ネロ",
@@ -91,7 +95,8 @@
         "id": "MK/S11-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-006": {
     "name": "浴衣のシャロ",
@@ -109,7 +114,8 @@
         "id": "MK/S11-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-007": {
     "name": "ネコミミ ネロ",
@@ -131,7 +137,8 @@
         "id": "MK/S11-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-008": {
     "name": "調理長 石流さん",
@@ -149,7 +156,8 @@
         "id": "MK/S11-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-009": {
     "name": "“スリーカード”ラット",
@@ -171,7 +179,8 @@
         "id": "MK/S11-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-010": {
     "name": "ナルシスト 二十里先生",
@@ -189,7 +198,8 @@
         "id": "MK/S11-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-011": {
     "name": "糖分補給 ネロ",
@@ -207,7 +217,8 @@
         "id": "MK/S11-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-012": {
     "name": "いつも笑顔 シャロ",
@@ -225,7 +236,8 @@
         "id": "MK/S11-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-013": {
     "name": "シャロ＆かまぼこ",
@@ -243,7 +255,8 @@
         "id": "MK/S11-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-014": {
     "name": "コンソール操作 ネロ",
@@ -261,7 +274,8 @@
         "id": "MK/S11-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-015": {
     "name": "“スリーカード”トゥエンティ",
@@ -283,7 +297,8 @@
         "id": "MK/S11-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-016": {
     "name": "浴衣のネロ",
@@ -301,7 +316,8 @@
         "id": "MK/S11-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-017": {
     "name": "ネロ＆シャロ",
@@ -319,7 +335,8 @@
         "id": "MK/S11-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-018": {
     "name": "クラスメイト 根津くん",
@@ -337,7 +354,8 @@
         "id": "MK/S11-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-019": {
     "name": "“スリーカード”ストーンリバー",
@@ -359,7 +377,8 @@
         "id": "MK/S11-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-020": {
     "name": "万能のトイズ？",
@@ -377,7 +396,8 @@
         "id": "MK/S11-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-021": {
     "name": "お菓子な探偵",
@@ -395,7 +415,8 @@
         "id": "MK/S11-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-022": {
     "name": "食料集め",
@@ -413,7 +434,8 @@
         "id": "MK/S11-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-023": {
     "name": "こっそりとトイズ",
@@ -431,7 +453,8 @@
         "id": "MK/S11-023",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-024": {
     "name": "ふたりっきりのデート",
@@ -449,7 +472,8 @@
         "id": "MK/S11-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-025": {
     "name": "オペラとの出会い",
@@ -467,7 +491,8 @@
         "id": "MK/S11-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK/S11-026": {
     "name": "本好きなエリー",
@@ -489,7 +514,8 @@
         "id": "MK/S11-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-027": {
     "name": "恥ずかしがり屋 エリー",
@@ -507,7 +533,8 @@
         "id": "MK/S11-027",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-028": {
     "name": "早とちり コーデリア",
@@ -525,7 +552,8 @@
         "id": "MK/S11-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-029": {
     "name": "エリー＆ネロ",
@@ -543,7 +571,8 @@
         "id": "MK/S11-029",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-030": {
     "name": "平乃＆咲",
@@ -561,7 +590,8 @@
         "id": "MK/S11-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-031": {
     "name": "エルキュール・バートン",
@@ -579,7 +609,8 @@
         "id": "MK/S11-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-032": {
     "name": "ハロウィンナイト エリー",
@@ -601,7 +632,8 @@
         "id": "MK/S11-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-033": {
     "name": "神津 玲",
@@ -619,7 +651,8 @@
         "id": "MK/S11-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-034": {
     "name": "そうじ好きなコーデリア",
@@ -637,7 +670,8 @@
         "id": "MK/S11-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-035": {
     "name": "遠山 咲",
@@ -659,7 +693,8 @@
         "id": "MK/S11-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-036": {
     "name": "ダメダメなコーデリア",
@@ -677,7 +712,8 @@
         "id": "MK/S11-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-037": {
     "name": "長谷川 平乃",
@@ -699,7 +735,8 @@
         "id": "MK/S11-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-038": {
     "name": "浴衣のエリー",
@@ -717,7 +754,8 @@
         "id": "MK/S11-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-039": {
     "name": "マイペース 咲",
@@ -735,7 +773,8 @@
         "id": "MK/S11-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-040": {
     "name": "接近戦担当 平乃",
@@ -753,7 +792,8 @@
         "id": "MK/S11-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-041": {
     "name": "私服のエリー",
@@ -771,7 +811,8 @@
         "id": "MK/S11-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-042": {
     "name": "制服のエリー",
@@ -789,7 +830,8 @@
         "id": "MK/S11-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-043": {
     "name": "頑張り屋 コーデリア",
@@ -807,7 +849,8 @@
         "id": "MK/S11-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-044": {
     "name": "情報収集担当 咲",
@@ -825,7 +868,8 @@
         "id": "MK/S11-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-045": {
     "name": "理想の部屋",
@@ -843,7 +887,8 @@
         "id": "MK/S11-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-046": {
     "name": "とつぜんの目眩",
@@ -861,7 +906,8 @@
         "id": "MK/S11-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-047": {
     "name": "こじ開けられたドア",
@@ -879,7 +925,8 @@
         "id": "MK/S11-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-048": {
     "name": "トライアセンド",
@@ -897,7 +944,8 @@
         "id": "MK/S11-048",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK/S11-049": {
     "name": "ヌイグルミとエルキュール",
@@ -915,7 +963,8 @@
         "id": "MK/S11-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-050": {
     "name": "メリーゴーランド",
@@ -933,7 +982,8 @@
         "id": "MK/S11-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-051": {
     "name": "シャーロック・シェリンフォード",
@@ -955,7 +1005,8 @@
         "id": "MK/S11-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-052": {
     "name": "ドジっ子探偵 シャロ",
@@ -977,7 +1028,8 @@
         "id": "MK/S11-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-053": {
     "name": "“IQ1300？”小衣",
@@ -995,7 +1047,8 @@
         "id": "MK/S11-053",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-054": {
     "name": "お菓子を差し出すネロ",
@@ -1013,7 +1066,8 @@
         "id": "MK/S11-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-055": {
     "name": "天然少女 シャロ",
@@ -1031,7 +1085,8 @@
         "id": "MK/S11-055",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-056": {
     "name": "銭形 次子",
@@ -1053,7 +1108,8 @@
         "id": "MK/S11-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-057": {
     "name": "明智 小衣",
@@ -1075,7 +1131,8 @@
         "id": "MK/S11-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-058": {
     "name": "活発なネロ",
@@ -1093,7 +1150,8 @@
         "id": "MK/S11-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-059": {
     "name": "収録中のシャロ",
@@ -1111,7 +1169,8 @@
         "id": "MK/S11-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-060": {
     "name": "小林のライバル 神津",
@@ -1133,7 +1192,8 @@
         "id": "MK/S11-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-061": {
     "name": "お姉さん役 次子",
@@ -1151,7 +1211,8 @@
         "id": "MK/S11-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-062": {
     "name": "けなげでひたむき シャロ",
@@ -1169,7 +1230,8 @@
         "id": "MK/S11-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-063": {
     "name": "フォーチュンクッキー 次子",
@@ -1187,7 +1249,8 @@
         "id": "MK/S11-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-064": {
     "name": "合同捜査 小衣＆シャロ",
@@ -1205,7 +1268,8 @@
         "id": "MK/S11-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-065": {
     "name": "桜並木のシャロ",
@@ -1223,7 +1287,8 @@
         "id": "MK/S11-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-066": {
     "name": "困った子 ネロ",
@@ -1241,7 +1306,8 @@
         "id": "MK/S11-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-067": {
     "name": "Ｇ４のリーダー 小衣",
@@ -1259,7 +1325,8 @@
         "id": "MK/S11-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-068": {
     "name": "トイズ発動！ シャロ",
@@ -1277,7 +1344,8 @@
         "id": "MK/S11-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-069": {
     "name": "とても食いしん坊 ネロ",
@@ -1295,7 +1363,8 @@
         "id": "MK/S11-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-070": {
     "name": "吸いましょう！",
@@ -1313,7 +1382,8 @@
         "id": "MK/S11-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-071": {
     "name": "会心のチョップ",
@@ -1331,7 +1401,8 @@
         "id": "MK/S11-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-072": {
     "name": "PDA",
@@ -1349,7 +1420,8 @@
         "id": "MK/S11-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-073": {
     "name": "サイコキネシス",
@@ -1367,7 +1439,8 @@
         "id": "MK/S11-073",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-074": {
     "name": "シャーロックの膝枕",
@@ -1385,7 +1458,8 @@
         "id": "MK/S11-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK/S11-075": {
     "name": "ダイレクトハック",
@@ -1403,7 +1477,8 @@
         "id": "MK/S11-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK/S11-076": {
     "name": "制服のコーデリア",
@@ -1425,7 +1500,8 @@
         "id": "MK/S11-076SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-077": {
     "name": "チームのまとめ役 コーデリア",
@@ -1443,7 +1519,8 @@
         "id": "MK/S11-077",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-078": {
     "name": "ハロウィンナイト アンリエット",
@@ -1465,7 +1542,8 @@
         "id": "MK/S11-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-079": {
     "name": "慌てるコーデリア",
@@ -1483,7 +1561,8 @@
         "id": "MK/S11-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-080": {
     "name": "怖がりなエリー",
@@ -1501,7 +1580,8 @@
         "id": "MK/S11-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-081": {
     "name": "紅茶好き コーデリア",
@@ -1519,7 +1599,8 @@
         "id": "MK/S11-081",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-082": {
     "name": "深い溜息 コーデリア",
@@ -1537,7 +1618,8 @@
         "id": "MK/S11-082",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-083": {
     "name": "会長への憧れ エリー",
@@ -1555,7 +1637,8 @@
         "id": "MK/S11-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-084": {
     "name": "怪盗帝国の首領 アルセーヌ",
@@ -1573,7 +1656,8 @@
         "id": "MK/S11-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-085": {
     "name": "完璧な執事 舘",
@@ -1591,7 +1675,8 @@
         "id": "MK/S11-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-086": {
     "name": "生徒会長 アンリエット",
@@ -1609,7 +1694,8 @@
         "id": "MK/S11-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-087": {
     "name": "頼れるお姉さん コーデリア",
@@ -1631,7 +1717,8 @@
         "id": "MK/S11-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-088": {
     "name": "アルセーヌの執事 ユタカ",
@@ -1649,7 +1736,8 @@
         "id": "MK/S11-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-089": {
     "name": "コーデリア＆エリー",
@@ -1667,7 +1755,8 @@
         "id": "MK/S11-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-090": {
     "name": "コーデリア・グラウカ",
@@ -1685,7 +1774,8 @@
         "id": "MK/S11-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-091": {
     "name": "引っこみ思案 エリー",
@@ -1703,7 +1793,8 @@
         "id": "MK/S11-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-092": {
     "name": "怪盗 アルセーヌ",
@@ -1721,7 +1812,8 @@
         "id": "MK/S11-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-093": {
     "name": "元名探偵 小林",
@@ -1743,7 +1835,8 @@
         "id": "MK/S11-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-094": {
     "name": "内気な少女 エリー",
@@ -1761,7 +1854,8 @@
         "id": "MK/S11-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/S11-095": {
     "name": "恩を仇で返す",
@@ -1779,7 +1873,8 @@
         "id": "MK/S11-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-096": {
     "name": "コーデリアのお花畑",
@@ -1797,7 +1892,8 @@
         "id": "MK/S11-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-097": {
     "name": "ネコミミ虫メガネ",
@@ -1815,7 +1911,8 @@
         "id": "MK/S11-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/S11-098": {
     "name": "ハイパーセンシティブ",
@@ -1833,7 +1930,8 @@
         "id": "MK/S11-098",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK/S11-099": {
     "name": "コーデリアの告白",
@@ -1851,7 +1949,8 @@
         "id": "MK/S11-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK/S11-100": {
     "name": "黒猫のしおり",
@@ -1869,6 +1968,7 @@
         "id": "MK/S11-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

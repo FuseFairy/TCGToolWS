@@ -15,7 +15,8 @@
         "id": "DD/WE17-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DD/WE17-P02": {
     "name": "ほんわか犬姫様 ミルヒ",
@@ -33,6 +34,7 @@
         "id": "DD/WE17-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

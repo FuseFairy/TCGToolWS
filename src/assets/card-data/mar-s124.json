@@ -23,7 +23,8 @@
         "id": "MAR/S124-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-002": {
     "name": "ラブ＆サンダー ソー",
@@ -49,7 +50,8 @@
         "id": "MAR/S124-002SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-003": {
     "name": "待ち受ける運命 ロキ",
@@ -71,7 +73,8 @@
         "id": "MAR/S124-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-004": {
     "name": "落ちこぼれヒーローチーム ガーディアンズ・オブ・ギャラクシー",
@@ -97,7 +100,8 @@
         "id": "MAR/S124-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-005": {
     "name": "世界の危機 アベンジャーズ",
@@ -119,7 +123,8 @@
         "id": "MAR/S124-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-006": {
     "name": "地球最大の守護者 ソー",
@@ -141,7 +146,8 @@
         "id": "MAR/S124-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-007": {
     "name": "邪神 ロキ",
@@ -167,7 +173,8 @@
         "id": "MAR/S124-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-008": {
     "name": "ラブ＆サンダー ジェーン・フォスター",
@@ -189,7 +196,8 @@
         "id": "MAR/S124-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-009": {
     "name": "“インフィニティ・サーガ”ソー",
@@ -211,7 +219,8 @@
         "id": "MAR/S124-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-010": {
     "name": "銀河を守る最強チーム ガーディアンズ・オブ・ギャラクシー",
@@ -233,7 +242,8 @@
         "id": "MAR/S124-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-011": {
     "name": "家族を超えた絆 ガーディアンズ・オブ・ギャラクシー",
@@ -255,7 +265,8 @@
         "id": "MAR/S124-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-012": {
     "name": "サンダーボルツ*",
@@ -277,7 +288,8 @@
         "id": "MAR/S124-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-013": {
     "name": "MASTER OF MISCHIEF ロキ",
@@ -299,7 +311,8 @@
         "id": "MAR/S124-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-014": {
     "name": "高校生ヒーロー ミズ・マーベル",
@@ -321,7 +334,8 @@
         "id": "MAR/S124-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-015": {
     "name": "“アベンジャーズオタク”ミズ・マーベル",
@@ -343,7 +357,8 @@
         "id": "MAR/S124-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-016": {
     "name": "最強のハンマー《ムジョルニア》を手に ジェーン・フォスター",
@@ -365,7 +380,8 @@
         "id": "MAR/S124-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-017": {
     "name": "“インフィニティ・サーガ”アベンジャーズ",
@@ -387,7 +403,8 @@
         "id": "MAR/S124-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-018": {
     "name": "力に隠された謎 ミズ・マーベル",
@@ -409,7 +426,8 @@
         "id": "MAR/S124-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-019": {
     "name": "宇宙の秩序を取り戻すための戦い ソー",
@@ -431,7 +449,8 @@
         "id": "MAR/S124-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-020": {
     "name": "ガーディアンズ・オブ・ギャラクシー",
@@ -453,7 +472,8 @@
         "id": "MAR/S124-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-021": {
     "name": "型破りな新チーム サンダーボルツ*",
@@ -475,7 +495,8 @@
         "id": "MAR/S124-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-022": {
     "name": "WORTHY",
@@ -497,7 +518,8 @@
         "id": "MAR/S124-022R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-023": {
     "name": "大いなる目的",
@@ -519,7 +541,8 @@
         "id": "MAR/S124-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-024": {
     "name": "銀河の守護者",
@@ -541,7 +564,8 @@
         "id": "MAR/S124-024R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-025": {
     "name": "X-MEN '97 ウルヴァリン",
@@ -567,7 +591,8 @@
         "id": "MAR/S124-025SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-026": {
     "name": "X-MEN '97 マグニートー",
@@ -593,7 +618,8 @@
         "id": "MAR/S124-026SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-027": {
     "name": "X-MEN '97 サイクロップス",
@@ -615,7 +641,8 @@
         "id": "MAR/S124-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-028": {
     "name": "史上空前の戦い ハルク",
@@ -637,7 +664,8 @@
         "id": "MAR/S124-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-029": {
     "name": "X-MEN '97 ビショップ",
@@ -659,7 +687,8 @@
         "id": "MAR/S124-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-030": {
     "name": "素晴らしき4人の“家族”ファンタスティック・フォー",
@@ -685,7 +714,8 @@
         "id": "MAR/S124-030SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-031": {
     "name": "X-MEN '97 ストーム",
@@ -707,7 +737,8 @@
         "id": "MAR/S124-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-032": {
     "name": "遺伝子的な“突然変異体”X-MEN",
@@ -733,7 +764,8 @@
         "id": "MAR/S124-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-033": {
     "name": "正義のミュータント・チーム X-MEN",
@@ -755,7 +787,8 @@
         "id": "MAR/S124-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-034": {
     "name": "X-MEN '97 ジーン・グレイ",
@@ -777,7 +810,8 @@
         "id": "MAR/S124-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-035": {
     "name": "X-MEN '97 ローグ",
@@ -799,7 +833,8 @@
         "id": "MAR/S124-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-036": {
     "name": "ウェアウルフ・バイ・ナイト ウェアウルフ",
@@ -825,7 +860,8 @@
         "id": "MAR/S124-036SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-037": {
     "name": "New Episodes. New Era. X-MEN",
@@ -847,7 +883,8 @@
         "id": "MAR/S124-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-038": {
     "name": "RAMPAGES ON! ハルク",
@@ -869,7 +906,8 @@
         "id": "MAR/S124-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-039": {
     "name": "最強の超人 ハルク",
@@ -891,7 +929,8 @@
         "id": "MAR/S124-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-040": {
     "name": "“もう一人の自分”ムーンナイト",
@@ -913,7 +952,8 @@
         "id": "MAR/S124-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-041": {
     "name": "“ファンタスティック・フォー”ザ・シング",
@@ -935,7 +975,8 @@
         "id": "MAR/S124-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-042": {
     "name": "ザ・アト―ニー シー・ハルク",
@@ -957,7 +998,8 @@
         "id": "MAR/S124-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-043": {
     "name": "SUMMON THE SUIT ムーンナイト",
@@ -979,7 +1021,8 @@
         "id": "MAR/S124-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-044": {
     "name": "不思議な能力を持つミュータント集団 X-MEN",
@@ -1001,7 +1044,8 @@
         "id": "MAR/S124-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-045": {
     "name": "“ファンタスティック・フォー”ヒューマン・トーチ",
@@ -1023,7 +1067,8 @@
         "id": "MAR/S124-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-046": {
     "name": "“ファンタスティック・フォー”ミスター・ファンタスティック",
@@ -1045,7 +1090,8 @@
         "id": "MAR/S124-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-047": {
     "name": "“ファンタスティック・フォー”インビジブル・ウーマン",
@@ -1067,7 +1113,8 @@
         "id": "MAR/S124-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-048": {
     "name": "超人的な力",
@@ -1089,7 +1136,8 @@
         "id": "MAR/S124-048R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-049": {
     "name": "磁力を支配し金属を自在に操る能力",
@@ -1111,7 +1159,8 @@
         "id": "MAR/S124-049R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-050": {
     "name": "襲い来る脅威",
@@ -1133,7 +1182,8 @@
         "id": "MAR/S124-050R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-051": {
     "name": "フレンドリー・ネイバーフッド スパイダーマン",
@@ -1159,7 +1209,8 @@
         "id": "MAR/S124-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-052": {
     "name": "暴走する⼈⼯知能との戦い アイアンマン",
@@ -1185,7 +1236,8 @@
         "id": "MAR/S124-052SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-053": {
     "name": "生きたハイテク・ウェポン アイアンマン",
@@ -1211,7 +1263,8 @@
         "id": "MAR/S124-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-054": {
     "name": "孤独な暗殺者 ブラック・ウィドウ",
@@ -1233,7 +1286,8 @@
         "id": "MAR/S124-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-055": {
     "name": "アベンジャーズ アイアンマン",
@@ -1255,7 +1309,8 @@
         "id": "MAR/S124-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-056": {
     "name": "ヒーローになるまでの道のり スパイダーマン",
@@ -1277,7 +1332,8 @@
         "id": "MAR/S124-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-057": {
     "name": "街中を跳びまわる スパイダーマン",
@@ -1299,7 +1355,8 @@
         "id": "MAR/S124-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-058": {
     "name": "史上空前の戦い アイアンマン",
@@ -1321,7 +1378,8 @@
         "id": "MAR/S124-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-059": {
     "name": "白いスパイダースーツ スパイダーマン",
@@ -1343,7 +1401,8 @@
         "id": "MAR/S124-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-060": {
     "name": "ワカンダ・フォーエバー ブラックパンサー",
@@ -1369,7 +1428,8 @@
         "id": "MAR/S124-060SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-061": {
     "name": "マルチバース・オブ・マッドネス ドクター・ストレンジ",
@@ -1395,7 +1455,8 @@
         "id": "MAR/S124-061SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-062": {
     "name": "強敵に立ち向かう アイアンマン",
@@ -1417,7 +1478,8 @@
         "id": "MAR/S124-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-063": {
     "name": "強大な力 キャプテン・マーベル",
@@ -1439,7 +1501,8 @@
         "id": "MAR/S124-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-064": {
     "name": "人々を守れる力 スパイダーマン",
@@ -1461,7 +1524,8 @@
         "id": "MAR/S124-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-065": {
     "name": "“インフィニティ・サーガ”キャプテン・マーベル",
@@ -1483,7 +1547,8 @@
         "id": "MAR/S124-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-066": {
     "name": "THANOS IS COMING サノス",
@@ -1505,7 +1570,8 @@
         "id": "MAR/S124-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-067": {
     "name": "人工知能 ウルトロン",
@@ -1527,7 +1593,8 @@
         "id": "MAR/S124-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-068": {
     "name": "テン・リングスの伝説 シャン・チー",
@@ -1549,7 +1616,8 @@
         "id": "MAR/S124-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-069": {
     "name": "美しき最強のスパイ ブラック・ウィドウ",
@@ -1571,7 +1639,8 @@
         "id": "MAR/S124-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-070": {
     "name": "“インフィニティ・サーガ”ドクター・ストレンジ",
@@ -1593,7 +1662,8 @@
         "id": "MAR/S124-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-071": {
     "name": "レッドハルク",
@@ -1615,7 +1685,8 @@
         "id": "MAR/S124-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-072": {
     "name": "ニック・フューリー",
@@ -1637,7 +1708,8 @@
         "id": "MAR/S124-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-073": {
     "name": "偉大な王 ブラックパンサー",
@@ -1659,7 +1731,8 @@
         "id": "MAR/S124-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-074": {
     "name": "エンドゲーム",
@@ -1685,7 +1758,8 @@
         "id": "MAR/S124-074SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-075": {
     "name": "世界と仲間を守るために",
@@ -1707,7 +1781,8 @@
         "id": "MAR/S124-075R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-076": {
     "name": "最後にして最大の逆襲",
@@ -1729,7 +1804,8 @@
         "id": "MAR/S124-076R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-077": {
     "name": "新ヒーロー参上",
@@ -1751,7 +1827,8 @@
         "id": "MAR/S124-077R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-078": {
     "name": "ブレイブ・ニュー・ワールド キャプテン・アメリカ",
@@ -1777,7 +1854,8 @@
         "id": "MAR/S124-078SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-079": {
     "name": "ファルコン&ウィンター・ソルジャー",
@@ -1803,7 +1881,8 @@
         "id": "MAR/S124-079SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-080": {
     "name": "世界最高のスーパーヒーローの一人 キャプテン・アメリカ",
@@ -1829,7 +1908,8 @@
         "id": "MAR/S124-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-081": {
     "name": "“キャプテン・アメリカ”ジョン・ウォーカー",
@@ -1851,7 +1931,8 @@
         "id": "MAR/S124-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-082": {
     "name": "暴走する⼈⼯知能との戦い キャプテン・アメリカ",
@@ -1873,7 +1954,8 @@
         "id": "MAR/S124-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-083": {
     "name": "再びヒーローとして ホークアイ",
@@ -1899,7 +1981,8 @@
         "id": "MAR/S124-083SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-084": {
     "name": "謎の暗殺者 ウィンター・ソルジャー",
@@ -1921,7 +2004,8 @@
         "id": "MAR/S124-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-085": {
     "name": "“インフィニティ・サーガ”キャプテン・アメリカ",
@@ -1943,7 +2027,8 @@
         "id": "MAR/S124-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-086": {
     "name": "新たな“キャプテン・アメリカ”ファルコン",
@@ -1965,7 +2050,8 @@
         "id": "MAR/S124-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-087": {
     "name": "シルバーサーファー",
@@ -1987,7 +2073,8 @@
         "id": "MAR/S124-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-088": {
     "name": "2代目ファルコン ホアキン・トレス",
@@ -2009,7 +2096,8 @@
         "id": "MAR/S124-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-089": {
     "name": "X-MEN '97 ガンビット",
@@ -2031,7 +2119,8 @@
         "id": "MAR/S124-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-090": {
     "name": "金属製メタルアーム ウィンター・ソルジャー",
@@ -2053,7 +2142,8 @@
         "id": "MAR/S124-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-091": {
     "name": "ギャラクタス",
@@ -2075,7 +2165,8 @@
         "id": "MAR/S124-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-092": {
     "name": "“普通すぎる男”アントマン",
@@ -2101,7 +2192,8 @@
         "id": "MAR/S124-092SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-093": {
     "name": "ヘルズキッチンの悪魔 デアデビル",
@@ -2123,7 +2215,8 @@
         "id": "MAR/S124-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-094": {
     "name": "史上空前の戦い キャプテン・アメリカ",
@@ -2145,7 +2238,8 @@
         "id": "MAR/S124-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-095": {
     "name": "クアントマニア アントマン",
@@ -2167,7 +2261,8 @@
         "id": "MAR/S124-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-096": {
     "name": "ボーン・アゲイン デアデビル",
@@ -2193,7 +2288,8 @@
         "id": "MAR/S124-096SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-097": {
     "name": "生み出された超人 スカーレット・ウィッチ",
@@ -2215,7 +2311,8 @@
         "id": "MAR/S124-097S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-098": {
     "name": "最強の絆",
@@ -2237,7 +2334,8 @@
         "id": "MAR/S124-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-099": {
     "name": "正義をかけた究極の戦い",
@@ -2259,7 +2357,8 @@
         "id": "MAR/S124-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S124-100": {
     "name": "託された“正義の象徴”",
@@ -2281,6 +2380,7 @@
         "id": "MAR/S124-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

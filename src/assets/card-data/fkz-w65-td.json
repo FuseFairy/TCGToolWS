@@ -15,7 +15,8 @@
         "id": "Fkz/W65-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fkz/W65-T05": {
     "name": "リフレイン年ライジング組 ハルナ",
@@ -37,6 +38,7 @@
         "id": "Fkz/W65-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

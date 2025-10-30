@@ -19,7 +19,8 @@
         "id": "ARI/S103-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-002": {
     "name": "絶大な力 ユエ",
@@ -41,7 +42,8 @@
         "id": "ARI/S103-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-003": {
     "name": "可愛いメイド ユエ＆ミュウ＆香織",
@@ -59,7 +61,8 @@
         "id": "ARI/S103-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-004": {
     "name": "サマービーチ ユエ",
@@ -81,7 +84,8 @@
         "id": "ARI/S103-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-005": {
     "name": "正妻の余裕 ユエ",
@@ -103,7 +107,8 @@
         "id": "ARI/S103-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-006": {
     "name": "惚れたきっかけ 香織",
@@ -121,7 +126,8 @@
         "id": "ARI/S103-006",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-007": {
     "name": "穏やかな朝 香織",
@@ -139,7 +145,8 @@
         "id": "ARI/S103-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-008": {
     "name": "水着のユエ",
@@ -157,7 +164,8 @@
         "id": "ARI/S103-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-009": {
     "name": "おねだり ユエ",
@@ -175,7 +183,8 @@
         "id": "ARI/S103-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-010": {
     "name": "新しい力 香織",
@@ -193,7 +202,8 @@
         "id": "ARI/S103-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-011": {
     "name": "深夜の訪問 香織",
@@ -211,7 +221,8 @@
         "id": "ARI/S103-011",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-012": {
     "name": "死なない女 ユエ",
@@ -229,7 +240,8 @@
         "id": "ARI/S103-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-013": {
     "name": "魂魄魔法 ユエ",
@@ -247,7 +259,8 @@
         "id": "ARI/S103-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-014": {
     "name": "神の使徒 ノイント",
@@ -265,7 +278,8 @@
         "id": "ARI/S103-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-015": {
     "name": "戦闘訓練 ユエ",
@@ -283,7 +297,8 @@
         "id": "ARI/S103-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-016": {
     "name": "重力魔法",
@@ -305,7 +320,8 @@
         "id": "ARI/S103-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-017": {
     "name": "黄金の吸血姫",
@@ -327,7 +343,8 @@
         "id": "ARI/S103-017R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-018": {
     "name": "キスの余韻",
@@ -345,7 +362,8 @@
         "id": "ARI/S103-018",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "ARI/S103-019": {
     "name": "愛くるしい少女 ミュウ",
@@ -367,7 +385,8 @@
         "id": "ARI/S103-019SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-020": {
     "name": "全力パワー シア",
@@ -389,7 +408,8 @@
         "id": "ARI/S103-020SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-021": {
     "name": "新しき世界へ ティオ",
@@ -411,7 +431,8 @@
         "id": "ARI/S103-021SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-022": {
     "name": "プリプリラビット シア",
@@ -429,7 +450,8 @@
         "id": "ARI/S103-022",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-023": {
     "name": "身体強化 シア",
@@ -451,7 +473,8 @@
         "id": "ARI/S103-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-024": {
     "name": "【守護者】ティオ",
@@ -473,7 +496,8 @@
         "id": "ARI/S103-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-025": {
     "name": "痛覚変換 ティオ",
@@ -491,7 +515,8 @@
         "id": "ARI/S103-025",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-026": {
     "name": "認めてもらうために シア",
@@ -513,7 +538,8 @@
         "id": "ARI/S103-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-027": {
     "name": "ご褒美デート シア",
@@ -531,7 +557,8 @@
         "id": "ARI/S103-027",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-028": {
     "name": "水着のティオ",
@@ -549,7 +576,8 @@
         "id": "ARI/S103-028",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-029": {
     "name": "水着のミュウ",
@@ -567,7 +595,8 @@
         "id": "ARI/S103-029",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-030": {
     "name": "おっとり美人 レミア",
@@ -585,7 +614,8 @@
         "id": "ARI/S103-030",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-031": {
     "name": "グリューエン大火山攻略 ティオ",
@@ -603,7 +633,8 @@
         "id": "ARI/S103-031",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-032": {
     "name": "興味津々 ミュウ",
@@ -621,7 +652,8 @@
         "id": "ARI/S103-032",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-033": {
     "name": "ド変態 ティオ",
@@ -639,7 +671,8 @@
         "id": "ARI/S103-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-034": {
     "name": "魔法の練習 ミュウ",
@@ -657,7 +690,8 @@
         "id": "ARI/S103-034",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-035": {
     "name": "ハウリア族との約束 ハジメ",
@@ -675,7 +709,8 @@
         "id": "ARI/S103-035",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-036": {
     "name": "【錬成師】ハジメ",
@@ -693,7 +728,8 @@
         "id": "ARI/S103-036",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-037": {
     "name": "ライセン大迷宮攻略 ハジメ",
@@ -711,7 +747,8 @@
         "id": "ARI/S103-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-038": {
     "name": "ライセン大迷宮攻略 シア",
@@ -729,7 +766,8 @@
         "id": "ARI/S103-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-039": {
     "name": "【占術師】シア",
@@ -747,7 +785,8 @@
         "id": "ARI/S103-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-040": {
     "name": "水着のシア",
@@ -765,7 +804,8 @@
         "id": "ARI/S103-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-041": {
     "name": "オルクス大迷宮攻略 ハジメ",
@@ -783,7 +823,8 @@
         "id": "ARI/S103-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-042": {
     "name": "竜の尻を蹴り飛ばす",
@@ -801,7 +842,8 @@
         "id": "ARI/S103-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-043": {
     "name": "ただのウサミミ少女ですっ！",
@@ -823,7 +865,8 @@
         "id": "ARI/S103-043R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-044": {
     "name": "黒竜の正体",
@@ -845,7 +888,8 @@
         "id": "ARI/S103-044R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-045": {
     "name": "初めての快感",
@@ -863,7 +907,8 @@
         "id": "ARI/S103-045",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "ARI/S103-046": {
     "name": "揺るぎない信念 ハジメ",
@@ -885,7 +930,8 @@
         "id": "ARI/S103-046SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-047": {
     "name": "ずっと一緒に ユエ",
@@ -907,7 +953,8 @@
         "id": "ARI/S103-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-048": {
     "name": "聡明な一面 ティオ",
@@ -929,7 +976,8 @@
         "id": "ARI/S103-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-049": {
     "name": "アーティファクト ハジメ",
@@ -951,7 +999,8 @@
         "id": "ARI/S103-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-050": {
     "name": "身の上話 ユエ",
@@ -973,7 +1022,8 @@
         "id": "ARI/S103-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-051": {
     "name": "見つけた居場所 ユエ",
@@ -995,7 +1045,8 @@
         "id": "ARI/S103-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-052": {
     "name": "イレギュラー ハジメ",
@@ -1017,7 +1068,8 @@
         "id": "ARI/S103-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-053": {
     "name": "奈落から這い出た者 ハジメ",
@@ -1039,7 +1091,8 @@
         "id": "ARI/S103-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-054": {
     "name": "ありふれた職業 ハジメ",
@@ -1057,7 +1110,8 @@
         "id": "ARI/S103-054",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-055": {
     "name": "大迷宮の記録 ユエ",
@@ -1075,7 +1129,8 @@
         "id": "ARI/S103-055",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-056": {
     "name": "封印されていた少女 ユエ",
@@ -1093,7 +1148,8 @@
         "id": "ARI/S103-056",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-057": {
     "name": "ナイスショット ハジメ",
@@ -1111,7 +1167,8 @@
         "id": "ARI/S103-057",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-058": {
     "name": "迎撃体勢 ティオ",
@@ -1129,7 +1186,8 @@
         "id": "ARI/S103-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-059": {
     "name": "取り込んだ力 ハジメ",
@@ -1147,7 +1205,8 @@
         "id": "ARI/S103-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-060": {
     "name": "攻略達成 ユエ",
@@ -1165,7 +1224,8 @@
         "id": "ARI/S103-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-061": {
     "name": "獣皮を被るユエ",
@@ -1183,7 +1243,8 @@
         "id": "ARI/S103-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-062": {
     "name": "最奥での死闘 ハジメ",
@@ -1201,7 +1262,8 @@
         "id": "ARI/S103-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-063": {
     "name": "最奥での死闘 ユエ",
@@ -1219,7 +1281,8 @@
         "id": "ARI/S103-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-064": {
     "name": "介抱するユエ",
@@ -1237,7 +1300,8 @@
         "id": "ARI/S103-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-065": {
     "name": "拒絶されても… ティオ",
@@ -1255,7 +1319,8 @@
         "id": "ARI/S103-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-066": {
     "name": "味を堪能 ティオ",
@@ -1273,7 +1338,8 @@
         "id": "ARI/S103-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-067": {
     "name": "宝物庫の指輪",
@@ -1291,7 +1357,8 @@
         "id": "ARI/S103-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-068": {
     "name": "プロポーズ？",
@@ -1313,7 +1380,8 @@
         "id": "ARI/S103-068R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-069": {
     "name": "神山での決戦",
@@ -1331,7 +1399,8 @@
         "id": "ARI/S103-069",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-070": {
     "name": "無能の無双",
@@ -1353,7 +1422,8 @@
         "id": "ARI/S103-070R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-071": {
     "name": "戦いの覚悟 雫",
@@ -1375,7 +1445,8 @@
         "id": "ARI/S103-071SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-072": {
     "name": "皆を守る先生 愛子",
@@ -1397,7 +1468,8 @@
         "id": "ARI/S103-072SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-073": {
     "name": "素敵な出会い シア",
@@ -1419,7 +1491,8 @@
         "id": "ARI/S103-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-074": {
     "name": "恋のライバル 香織＆ユエ",
@@ -1441,7 +1514,8 @@
         "id": "ARI/S103-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-075": {
     "name": "メルジーネ海底遺跡攻略 香織",
@@ -1459,7 +1533,8 @@
         "id": "ARI/S103-075",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-076": {
     "name": "セクシービキニ ユエ＆シア",
@@ -1477,7 +1552,8 @@
         "id": "ARI/S103-076",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-077": {
     "name": "湧き上がる気持ち 愛子",
@@ -1499,7 +1575,8 @@
         "id": "ARI/S103-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-078": {
     "name": "サマービーチ シア",
@@ -1521,7 +1598,8 @@
         "id": "ARI/S103-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-079": {
     "name": "【治癒師】香織",
@@ -1543,7 +1621,8 @@
         "id": "ARI/S103-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-080": {
     "name": "【剣士】雫",
@@ -1565,7 +1644,8 @@
         "id": "ARI/S103-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-081": {
     "name": "【作農師】愛子",
@@ -1583,7 +1663,8 @@
         "id": "ARI/S103-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-082": {
     "name": "残念ウサギ シア",
@@ -1601,7 +1682,8 @@
         "id": "ARI/S103-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-083": {
     "name": "【勇者】光輝",
@@ -1619,7 +1701,8 @@
         "id": "ARI/S103-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-084": {
     "name": "八重樫流の剣術 雫",
@@ -1641,7 +1724,8 @@
         "id": "ARI/S103-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-085": {
     "name": "固い決意 香織",
@@ -1659,7 +1743,8 @@
         "id": "ARI/S103-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-086": {
     "name": "患者の治療 香織",
@@ -1677,7 +1762,8 @@
         "id": "ARI/S103-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-087": {
     "name": "自主練 雫",
@@ -1695,7 +1781,8 @@
         "id": "ARI/S103-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-088": {
     "name": "万事休す 香織",
@@ -1713,7 +1800,8 @@
         "id": "ARI/S103-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-089": {
     "name": "王宮への帰還 雫",
@@ -1731,7 +1819,8 @@
         "id": "ARI/S103-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-090": {
     "name": "水着の香織",
@@ -1749,7 +1838,8 @@
         "id": "ARI/S103-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-091": {
     "name": "王都防衛 シア",
@@ -1767,7 +1857,8 @@
         "id": "ARI/S103-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-092": {
     "name": "王女 リリアーナ",
@@ -1785,7 +1876,8 @@
         "id": "ARI/S103-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-093": {
     "name": "人類のために 雫",
@@ -1803,7 +1895,8 @@
         "id": "ARI/S103-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-094": {
     "name": "トドメの一撃 シア",
@@ -1821,7 +1914,8 @@
         "id": "ARI/S103-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-095": {
     "name": "豊穣の女神 愛子",
@@ -1839,7 +1933,8 @@
         "id": "ARI/S103-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-096": {
     "name": "人命救助",
@@ -1857,7 +1952,8 @@
         "id": "ARI/S103-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ARI/S103-097": {
     "name": "譲り受けた刀",
@@ -1879,7 +1975,8 @@
         "id": "ARI/S103-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-098": {
     "name": "一世一代の頼み事",
@@ -1901,7 +1998,8 @@
         "id": "ARI/S103-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ARI/S103-099": {
     "name": "治癒師の務め",
@@ -1919,7 +2017,8 @@
         "id": "ARI/S103-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "ARI/S103-100": {
     "name": "慈愛の心",
@@ -1941,6 +2040,7 @@
         "id": "ARI/S103-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

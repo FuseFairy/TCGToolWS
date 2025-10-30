@@ -15,7 +15,8 @@
         "id": "PI/SE36-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE36-01": {
     "name": "“みんなのお兄ちゃん”士郎",
@@ -33,7 +34,8 @@
         "id": "PI/SE36-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE36-02": {
     "name": "“真人間修業”慎二",
@@ -51,7 +53,8 @@
         "id": "PI/SE36-02",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE36-03": {
     "name": "エリカ",
@@ -69,7 +72,8 @@
         "id": "PI/SE36-03",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE36-04": {
     "name": "はっちゃけ少女 田中",
@@ -87,7 +91,8 @@
         "id": "PI/SE36-04",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE36-05": {
     "name": "満点スマイル 桜",
@@ -105,7 +110,8 @@
         "id": "PI/SE36-05",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE36-06": {
     "name": "ベアトリス",
@@ -123,7 +129,8 @@
         "id": "PI/SE36-06",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE36-07": {
     "name": "アンジェリカ",
@@ -141,7 +148,8 @@
         "id": "PI/SE36-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE36-08": {
     "name": "“悪戯っ子”クロエ",
@@ -163,7 +171,8 @@
         "id": "PI/SE36-08SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE36-09": {
     "name": "“先輩魔術師”凛",
@@ -181,7 +190,8 @@
         "id": "PI/SE36-09",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE36-10": {
     "name": "“先輩魔術師”ルヴィア",
@@ -199,7 +209,8 @@
         "id": "PI/SE36-10",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE36-11": {
     "name": "“クロの陣営”クロエ",
@@ -217,7 +228,8 @@
         "id": "PI/SE36-11",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE36-12": {
     "name": "これが私のお仕事 カレン",
@@ -235,7 +247,8 @@
         "id": "PI/SE36-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE36-13": {
     "name": "生活のために バゼット",
@@ -253,7 +266,8 @@
         "id": "PI/SE36-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE36-14": {
     "name": "高みの見物 ギルガメッシュ",
@@ -271,7 +285,8 @@
         "id": "PI/SE36-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE36-15": {
     "name": "プリズマ☆缶蹴り勝負",
@@ -289,7 +304,8 @@
         "id": "PI/SE36-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE36-16": {
     "name": "“赤の陣営”イリヤ",
@@ -307,7 +323,8 @@
         "id": "PI/SE36-16",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE36-17": {
     "name": "“クロの陣営”美遊",
@@ -329,7 +346,8 @@
         "id": "PI/SE36-17SP",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE36-18": {
     "name": "クールな少女 美遊",
@@ -347,7 +365,8 @@
         "id": "PI/SE36-18",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE36-19": {
     "name": "元気いっぱい イリヤ",
@@ -369,7 +388,8 @@
         "id": "PI/SE36-19SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE36-20": {
     "name": "いつでも一緒 美々",
@@ -387,7 +407,8 @@
         "id": "PI/SE36-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE36-21": {
     "name": "いつでも一緒 那奈亀",
@@ -405,7 +426,8 @@
         "id": "PI/SE36-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE36-22": {
     "name": "最初の犠牲者 アイリスフィール",
@@ -423,7 +445,8 @@
         "id": "PI/SE36-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE36-23": {
     "name": "家事スキル セラ",
@@ -441,7 +464,8 @@
         "id": "PI/SE36-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE36-24": {
     "name": "いつでも一緒 龍子",
@@ -459,7 +483,8 @@
         "id": "PI/SE36-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE36-25": {
     "name": "自由な虎 大河",
@@ -477,7 +502,8 @@
         "id": "PI/SE36-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE36-26": {
     "name": "いつでも一緒 雀花",
@@ -495,7 +521,8 @@
         "id": "PI/SE36-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE36-27": {
     "name": "逃亡監視役 リーゼリット",
@@ -513,7 +540,8 @@
         "id": "PI/SE36-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE36-28": {
     "name": "“熱烈歓迎”綺礼",
@@ -531,7 +559,8 @@
         "id": "PI/SE36-28",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE36-29": {
     "name": "挑戦者求む",
@@ -557,7 +586,8 @@
         "id": "PI/SE36-29c",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE36-30": {
     "name": "勝負の結末",
@@ -575,7 +605,8 @@
         "id": "PI/SE36-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE36-31": {
     "name": "祭りの終わり",
@@ -593,7 +624,8 @@
         "id": "PI/SE36-31",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE36-32": {
     "name": "“未来の花嫁”イリヤ",
@@ -615,7 +647,8 @@
         "id": "PI/SE36-32OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE36-33": {
     "name": "“ルビー海賊団”イリヤ",
@@ -637,7 +670,8 @@
         "id": "PI/SE36-33OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE36-34": {
     "name": "“月下の忍”イリヤ",
@@ -659,7 +693,8 @@
         "id": "PI/SE36-34OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE36-35": {
     "name": "“お泊まり会”美遊＆クロエ＆イリヤ",
@@ -681,7 +716,8 @@
         "id": "PI/SE36-35OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE36-36": {
     "name": "ずっとこのままで",
@@ -703,7 +739,8 @@
         "id": "PI/SE36-36OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE36-37": {
     "name": "“真夏の日差し”イリヤ",
@@ -725,7 +762,8 @@
         "id": "PI/SE36-37SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE36-38": {
     "name": "“長閑な時間”イリヤ",
@@ -747,7 +785,8 @@
         "id": "PI/SE36-38OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE36-39": {
     "name": "“悴む寒さ”イリヤ",
@@ -769,7 +808,8 @@
         "id": "PI/SE36-39OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE36-40": {
     "name": "“チアガール”イリヤ",
@@ -791,6 +831,7 @@
         "id": "PI/SE36-40OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

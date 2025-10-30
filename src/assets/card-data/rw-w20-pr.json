@@ -15,7 +15,8 @@
         "id": "RW/W20-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-P02": {
     "name": "“美しい友情”静流",
@@ -33,7 +34,8 @@
         "id": "RW/W20-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-P03": {
     "name": "“没落お嬢様”朱音",
@@ -51,7 +53,8 @@
         "id": "RW/W20-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-P04": {
     "name": "“大人の階段”ちはや",
@@ -69,7 +72,8 @@
         "id": "RW/W20-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-P05": {
     "name": "“朝の挨拶”小鳥",
@@ -87,7 +91,8 @@
         "id": "RW/W20-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-P06": {
     "name": "“おしゃれ泥棒”篝",
@@ -105,7 +110,8 @@
         "id": "RW/W20-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-P07": {
     "name": "いつも一緒に 朱音＆ちはや",
@@ -123,7 +129,8 @@
         "id": "RW/W20-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-P08": {
     "name": "交わった心 篝＆小鳥",
@@ -141,7 +148,8 @@
         "id": "RW/W20-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-081": {
     "name": "収穫を祝うちびもす",
@@ -159,7 +167,8 @@
         "id": "RW/W20-081",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RW/W20-082": {
     "name": "どきどき☆宣戦布告",
@@ -177,7 +186,8 @@
         "id": "RW/W20-082",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RW/W20-083": {
     "name": "真・暗黒狼竜フェンリルドラグーンと愉快な魔物たち",
@@ -195,7 +205,8 @@
         "id": "RW/W20-083",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RW/W20-084": {
     "name": "“レッツミキシ～ン♪”小鳥",
@@ -213,6 +224,7 @@
         "id": "RW/W20-084",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

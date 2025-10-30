@@ -19,7 +19,8 @@
         "id": "CL/WP01-01S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WP01-02": {
     "name": "あの日の誓い 秋生",
@@ -41,7 +42,8 @@
         "id": "CL/WP01-02S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WP01-03": {
     "name": "共に歩む道程 渚",
@@ -63,7 +65,8 @@
         "id": "CL/WP01-03S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WP01-04": {
     "name": "だんご大家族 汐＆渚",
@@ -85,7 +88,8 @@
         "id": "CL/WP01-04S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WP01-05": {
     "name": "やりたい演劇 渚",
@@ -107,7 +111,8 @@
         "id": "CL/WP01-05S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CL/WP01-06": {
     "name": "元気な挨拶 渚",
@@ -129,7 +134,8 @@
         "id": "CL/WP01-06S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WP01-07": {
     "name": "仲の良い家族 渚＆早苗",
@@ -151,7 +157,8 @@
         "id": "CL/WP01-07S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WP01-08": {
     "name": "逞しい命",
@@ -173,6 +180,7 @@
         "id": "CL/WP01-08S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

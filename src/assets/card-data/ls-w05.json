@@ -15,7 +15,8 @@
         "id": "LS/W05-001",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-002": {
     "name": "やりこみ大将みゆき",
@@ -37,7 +38,8 @@
         "id": "LS/W05-002R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-003": {
     "name": "趣味の人ひより",
@@ -59,7 +61,8 @@
         "id": "LS/W05-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-004": {
     "name": "ゆたか＆みなみ",
@@ -77,7 +80,8 @@
         "id": "LS/W05-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-005": {
     "name": "アニ研部長こう",
@@ -95,7 +99,8 @@
         "id": "LS/W05-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-006": {
     "name": "名探偵みゆき",
@@ -113,7 +118,8 @@
         "id": "LS/W05-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-007": {
     "name": "天然つかさ",
@@ -135,7 +141,8 @@
         "id": "LS/W05-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-008": {
     "name": "クールでカッコいい みなみ",
@@ -153,7 +160,8 @@
         "id": "LS/W05-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-009": {
     "name": "みゆき＆みなみ",
@@ -171,7 +179,8 @@
         "id": "LS/W05-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-010": {
     "name": "名前が呼べたゆたか",
@@ -189,7 +198,8 @@
         "id": "LS/W05-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-011": {
     "name": "保健委員のみなみ",
@@ -207,7 +217,8 @@
         "id": "LS/W05-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-012": {
     "name": "甘えん坊つかさ",
@@ -225,7 +236,8 @@
         "id": "LS/W05-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-013": {
     "name": "八坂 こう",
@@ -243,7 +255,8 @@
         "id": "LS/W05-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-014": {
     "name": "夢見る乙女つかさ",
@@ -261,7 +274,8 @@
         "id": "LS/W05-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-015": {
     "name": "小早川 ゆたか",
@@ -279,7 +293,8 @@
         "id": "LS/W05-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-016": {
     "name": "幼少時のみゆき",
@@ -297,7 +312,8 @@
         "id": "LS/W05-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-017": {
     "name": "高良 みゆき",
@@ -315,7 +331,8 @@
         "id": "LS/W05-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-018": {
     "name": "アウトローひより",
@@ -333,7 +350,8 @@
         "id": "LS/W05-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-019": {
     "name": "ゆたか＆みなみ＆ひより",
@@ -351,7 +369,8 @@
         "id": "LS/W05-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-020": {
     "name": "戦闘モード",
@@ -369,7 +388,8 @@
         "id": "LS/W05-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-021": {
     "name": "痛恨の一撃",
@@ -387,7 +407,8 @@
         "id": "LS/W05-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-022": {
     "name": "夢のような生活",
@@ -405,7 +426,8 @@
         "id": "LS/W05-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-023": {
     "name": "夏休み明け",
@@ -423,7 +445,8 @@
         "id": "LS/W05-023",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LS/W05-024": {
     "name": "卒業式",
@@ -445,7 +468,8 @@
         "id": "LS/W05-024SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LS/W05-025": {
     "name": "名案",
@@ -463,7 +487,8 @@
         "id": "LS/W05-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-026": {
     "name": "こなた＆かがみ＆つかさ",
@@ -481,7 +506,8 @@
         "id": "LS/W05-026",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-027": {
     "name": "小神 あきら",
@@ -499,7 +525,8 @@
         "id": "LS/W05-027",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-028": {
     "name": "おめかしつかさ",
@@ -521,7 +548,8 @@
         "id": "LS/W05-028R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-029": {
     "name": "日下部 みさお",
@@ -543,7 +571,8 @@
         "id": "LS/W05-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-030": {
     "name": "双子の姉かがみ",
@@ -565,7 +594,8 @@
         "id": "LS/W05-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-031": {
     "name": "桜庭 ひかる",
@@ -583,7 +613,8 @@
         "id": "LS/W05-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-032": {
     "name": "柊 かがみ",
@@ -601,7 +632,8 @@
         "id": "LS/W05-032",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-033": {
     "name": "３秒ルールみさお",
@@ -619,7 +651,8 @@
         "id": "LS/W05-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-034": {
     "name": "世話好きあやの",
@@ -637,7 +670,8 @@
         "id": "LS/W05-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-035": {
     "name": "峰岸 あやの",
@@ -655,7 +689,8 @@
         "id": "LS/W05-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-036": {
     "name": "可愛さ百倍かがみ",
@@ -673,7 +708,8 @@
         "id": "LS/W05-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-037": {
     "name": "かがみ様",
@@ -691,7 +727,8 @@
         "id": "LS/W05-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-038": {
     "name": "かがみ＆つかさ",
@@ -709,7 +746,8 @@
         "id": "LS/W05-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-039": {
     "name": "頑張ちゃったつかさ",
@@ -727,7 +765,8 @@
         "id": "LS/W05-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-040": {
     "name": "伏兵のつかさ",
@@ -745,7 +784,8 @@
         "id": "LS/W05-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-041": {
     "name": "天原 ふゆき",
@@ -763,7 +803,8 @@
         "id": "LS/W05-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-042": {
     "name": "異文化の人あやの",
@@ -781,7 +822,8 @@
         "id": "LS/W05-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-043": {
     "name": "元気っ娘みさお",
@@ -799,7 +841,8 @@
         "id": "LS/W05-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-044": {
     "name": "お菓子好き つかさ",
@@ -817,7 +860,8 @@
         "id": "LS/W05-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-045": {
     "name": "もっとも自然なこと",
@@ -835,7 +879,8 @@
         "id": "LS/W05-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-046": {
     "name": "ツインテール",
@@ -853,7 +898,8 @@
         "id": "LS/W05-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-047": {
     "name": "おやくそくっ",
@@ -871,7 +917,8 @@
         "id": "LS/W05-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-048": {
     "name": "夏祭り",
@@ -893,7 +940,8 @@
         "id": "LS/W05-048SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-049": {
     "name": "金魚すくい",
@@ -911,7 +959,8 @@
         "id": "LS/W05-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LS/W05-050": {
     "name": "らっきー☆ちゃんねる",
@@ -929,7 +978,8 @@
         "id": "LS/W05-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LS/W05-051": {
     "name": "ゆたか＆ゆい",
@@ -951,7 +1001,8 @@
         "id": "LS/W05-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-052": {
     "name": "ツンデレ特急かがみ",
@@ -973,7 +1024,8 @@
         "id": "LS/W05-052R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-053": {
     "name": "泉 こなた",
@@ -991,7 +1043,8 @@
         "id": "LS/W05-053",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-054": {
     "name": "黒井先生",
@@ -1009,7 +1062,8 @@
         "id": "LS/W05-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-055": {
     "name": "マイペースこなた",
@@ -1027,7 +1081,8 @@
         "id": "LS/W05-055",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-056": {
     "name": "岩崎 みなみ",
@@ -1045,7 +1100,8 @@
         "id": "LS/W05-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-057": {
     "name": "恥じらうこなた",
@@ -1067,7 +1123,8 @@
         "id": "LS/W05-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-058": {
     "name": "もふもふ みなみ",
@@ -1085,7 +1142,8 @@
         "id": "LS/W05-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-059": {
     "name": "パティシエかがみ",
@@ -1103,7 +1161,8 @@
         "id": "LS/W05-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-060": {
     "name": "歩く萌え要素ゆたか",
@@ -1121,7 +1180,8 @@
         "id": "LS/W05-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-061": {
     "name": "素敵素材ゆたか",
@@ -1139,7 +1199,8 @@
         "id": "LS/W05-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-062": {
     "name": "メルヘンチックゆたか",
@@ -1157,7 +1218,8 @@
         "id": "LS/W05-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-063": {
     "name": "お守りを買うゆたか",
@@ -1175,7 +1237,8 @@
         "id": "LS/W05-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-064": {
     "name": "成実 ゆい",
@@ -1193,7 +1256,8 @@
         "id": "LS/W05-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-065": {
     "name": "こなた＆ゆたか",
@@ -1211,7 +1275,8 @@
         "id": "LS/W05-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-066": {
     "name": "パジャマの柊姉妹",
@@ -1229,7 +1294,8 @@
         "id": "LS/W05-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-067": {
     "name": "ループシューターゆいちゃん",
@@ -1247,7 +1313,8 @@
         "id": "LS/W05-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-068": {
     "name": "誤解されるタイプみなみ",
@@ -1265,7 +1332,8 @@
         "id": "LS/W05-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-069": {
     "name": "こなた＆かがみ",
@@ -1283,7 +1351,8 @@
         "id": "LS/W05-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-070": {
     "name": "ダイエット",
@@ -1301,7 +1370,8 @@
         "id": "LS/W05-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-071": {
     "name": "保存用と宣伝用",
@@ -1319,7 +1389,8 @@
         "id": "LS/W05-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-072": {
     "name": "わんことみなみ",
@@ -1337,7 +1408,8 @@
         "id": "LS/W05-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-073": {
     "name": "何気ない幸せ",
@@ -1359,7 +1431,8 @@
         "id": "LS/W05-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LS/W05-074": {
     "name": "チョココロネ",
@@ -1377,7 +1450,8 @@
         "id": "LS/W05-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LS/W05-075": {
     "name": "バレンタイン",
@@ -1395,7 +1469,8 @@
         "id": "LS/W05-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-076": {
     "name": "戦場のこなた",
@@ -1417,7 +1492,8 @@
         "id": "LS/W05-076R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-077": {
     "name": "つっぱしる女こなた",
@@ -1435,7 +1511,8 @@
         "id": "LS/W05-077",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-078": {
     "name": "パトリシア＝マーティン",
@@ -1453,7 +1530,8 @@
         "id": "LS/W05-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-079": {
     "name": "泉 そうじろう",
@@ -1471,7 +1549,8 @@
         "id": "LS/W05-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-080": {
     "name": "熱い国のパトリシア",
@@ -1493,7 +1572,8 @@
         "id": "LS/W05-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-081": {
     "name": "そうじろう＆かなた",
@@ -1515,7 +1595,8 @@
         "id": "LS/W05-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-082": {
     "name": "最強キャラみゆき",
@@ -1533,7 +1614,8 @@
         "id": "LS/W05-082",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-083": {
     "name": "泉 かなた",
@@ -1551,7 +1633,8 @@
         "id": "LS/W05-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-084": {
     "name": "眼鏡っ子激ＬＯＶＥこなた",
@@ -1569,7 +1652,8 @@
         "id": "LS/W05-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-085": {
     "name": "オンラインゲーマーななこ",
@@ -1587,7 +1671,8 @@
         "id": "LS/W05-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-086": {
     "name": "そっち思考のひより",
@@ -1605,7 +1690,8 @@
         "id": "LS/W05-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-087": {
     "name": "高スペックみゆき",
@@ -1623,7 +1709,8 @@
         "id": "LS/W05-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-088": {
     "name": "委員長キャラみゆき",
@@ -1641,7 +1728,8 @@
         "id": "LS/W05-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-089": {
     "name": "こなた＆ひより＆パティ",
@@ -1659,7 +1747,8 @@
         "id": "LS/W05-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-090": {
     "name": "湯上りのこなた",
@@ -1677,7 +1766,8 @@
         "id": "LS/W05-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-091": {
     "name": "歯が痛いみゆき",
@@ -1695,7 +1785,8 @@
         "id": "LS/W05-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-092": {
     "name": "高良 ゆかり",
@@ -1713,7 +1804,8 @@
         "id": "LS/W05-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-093": {
     "name": "黒井 ななこ",
@@ -1731,7 +1823,8 @@
         "id": "LS/W05-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-094": {
     "name": "田村 ひより",
@@ -1749,7 +1842,8 @@
         "id": "LS/W05-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-095": {
     "name": "100Mショック",
@@ -1767,7 +1861,8 @@
         "id": "LS/W05-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-096": {
     "name": "Ｂｏｏｏｏ！！",
@@ -1785,7 +1880,8 @@
         "id": "LS/W05-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-097": {
     "name": "決戦は大晦日",
@@ -1803,7 +1899,8 @@
         "id": "LS/W05-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-098": {
     "name": "貧乳はステータスだ希少価値だ",
@@ -1821,7 +1918,8 @@
         "id": "LS/W05-098",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-099": {
     "name": "ひより始まる",
@@ -1839,7 +1937,8 @@
         "id": "LS/W05-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LS/W05-100": {
     "name": "私が一番安心できる場所",
@@ -1861,6 +1960,7 @@
         "id": "LS/W05-100SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

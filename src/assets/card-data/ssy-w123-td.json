@@ -23,7 +23,8 @@
         "id": "Ssy/W123-T03SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssy/W123-T07": {
     "name": "35th Anniversary ハルヒ",
@@ -49,7 +50,8 @@
         "id": "Ssy/W123-T07SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ssy/W123-T08": {
     "name": "SOS団入団試験！",
@@ -71,6 +73,7 @@
         "id": "Ssy/W123-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

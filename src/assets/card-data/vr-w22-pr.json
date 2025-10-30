@@ -15,7 +15,8 @@
         "id": "VR/W22-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-107": {
     "name": "新大島中学2年生 わかば",
@@ -33,7 +34,8 @@
         "id": "VR/W22-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-108": {
     "name": "新大島中学2年生 あかね",
@@ -51,7 +53,8 @@
         "id": "VR/W22-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-109": {
     "name": "新大島中学2年生 れい",
@@ -69,7 +72,8 @@
         "id": "VR/W22-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-110": {
     "name": "新大島中学2年生 あおい",
@@ -87,7 +91,8 @@
         "id": "VR/W22-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-P01": {
     "name": "大島の元気娘 あかね",
@@ -105,7 +110,8 @@
         "id": "VR/W22-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-P02": {
     "name": "大好きな友達 あかね＆あおい",
@@ -123,7 +129,8 @@
         "id": "VR/W22-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-P03": {
     "name": "ビビッときた二人 あかね&あおい",
@@ -141,7 +148,8 @@
         "id": "VR/W22-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-P04": {
     "name": "幼い頃のあかね",
@@ -159,7 +167,8 @@
         "id": "VR/W22-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VR/W22-P05": {
     "name": "真夏の海辺 ひまわり",
@@ -177,7 +186,8 @@
         "id": "VR/W22-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VR/W22-P06": {
     "name": "ビビッときた二人 あかね＆わかば",
@@ -195,6 +205,7 @@
         "id": "VR/W22-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

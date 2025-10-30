@@ -19,7 +19,8 @@
         "id": "AYT/W110-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-T02": {
     "name": "女子としての生活 祭里",
@@ -41,7 +42,8 @@
         "id": "AYT/W110-T02SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-T03": {
     "name": "待ちわびた時 シロガネ",
@@ -63,7 +65,8 @@
         "id": "AYT/W110-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-T04": {
     "name": "肉体への順応 祭里",
@@ -85,7 +88,8 @@
         "id": "AYT/W110-T04R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-T05": {
     "name": "担当職人として 恋緒",
@@ -107,7 +111,8 @@
         "id": "AYT/W110-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-T06": {
     "name": "花鳥風月 祭里",
@@ -129,7 +134,8 @@
         "id": "AYT/W110-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-T07": {
     "name": "予期せぬ暴走 恋緒",
@@ -151,7 +157,8 @@
         "id": "AYT/W110-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-T08": {
     "name": "家庭的な一面 祭里",
@@ -173,7 +180,8 @@
         "id": "AYT/W110-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-T09": {
     "name": "あやかし恋愛ファンタジー",
@@ -195,7 +203,8 @@
         "id": "AYT/W110-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-T10": {
     "name": "男を捨てる覚悟",
@@ -217,7 +226,8 @@
         "id": "AYT/W110-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-T11": {
     "name": "女の子の部屋 すず",
@@ -239,7 +249,8 @@
         "id": "AYT/W110-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-T12": {
     "name": "花鳥風月 すず",
@@ -261,7 +272,8 @@
         "id": "AYT/W110-T12R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-T13": {
     "name": "花鳥風月 ルーシー",
@@ -283,7 +295,8 @@
         "id": "AYT/W110-T13R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-T14": {
     "name": "“超ハイカロリーの悪魔的限定スイーツ”すず",
@@ -305,7 +318,8 @@
         "id": "AYT/W110-T14SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-T15": {
     "name": "期待するお年頃 すず",
@@ -327,7 +341,8 @@
         "id": "AYT/W110-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-T16": {
     "name": "花鳥風月 弥生",
@@ -349,7 +364,8 @@
         "id": "AYT/W110-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-T17": {
     "name": "“女友達”祭里＆すず",
@@ -371,7 +387,8 @@
         "id": "AYT/W110-T17S",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-T18": {
     "name": "女の子同士 すず",
@@ -393,7 +410,8 @@
         "id": "AYT/W110-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-T19": {
     "name": "祓忍と妖巫女",
@@ -415,7 +433,8 @@
         "id": "AYT/W110-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-T20": {
     "name": "訪れた新生活",
@@ -437,6 +456,7 @@
         "id": "AYT/W110-T20R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

@@ -15,7 +15,8 @@
         "id": "SG/W39-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W39-P02": {
     "name": "みなぎる闘志 響",
@@ -33,7 +34,8 @@
         "id": "SG/W39-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W39-P03": {
     "name": "清冽な構え 翼",
@@ -51,7 +53,8 @@
         "id": "SG/W39-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W39-P04": {
     "name": "赫たる猛攻 クリス",
@@ -69,7 +72,8 @@
         "id": "SG/W39-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W39-P05": {
     "name": "刈り取る一撃 切歌",
@@ -87,7 +91,8 @@
         "id": "SG/W39-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W39-P06": {
     "name": "伐り裂く回転 調",
@@ -105,7 +110,8 @@
         "id": "SG/W39-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W39-P07": {
     "name": "澄んだ眼光 マリア",
@@ -123,7 +129,8 @@
         "id": "SG/W39-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W39-P08": {
     "name": "錬金術の深奥 キャロル",
@@ -141,7 +148,8 @@
         "id": "SG/W39-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W39-P09": {
     "name": "“皆のために歌う”響",
@@ -159,7 +167,8 @@
         "id": "SG/W39-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W39-P10": {
     "name": "不敵な微笑 クリス",
@@ -177,7 +186,8 @@
         "id": "SG/W39-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W39-P11": {
     "name": "夢の途中 翼",
@@ -195,7 +205,8 @@
         "id": "SG/W39-P11",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W39-P12": {
     "name": "脅威に立ち向かう響",
@@ -213,7 +224,8 @@
         "id": "SG/W39-P12",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W39-P13": {
     "name": "新たな歌と共に 響",
@@ -231,7 +243,8 @@
         "id": "SG/W39-P13",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W39-P14": {
     "name": "新たな歌と共に マリア",
@@ -249,7 +262,8 @@
         "id": "SG/W39-P14",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W39-P15": {
     "name": "新たな歌と共に 翼",
@@ -267,7 +281,8 @@
         "id": "SG/W39-P15",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W39-P16": {
     "name": "新たな歌と共に クリス",
@@ -285,7 +300,8 @@
         "id": "SG/W39-P16",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W39-P17": {
     "name": "新たな歌と共に 切歌",
@@ -303,7 +319,8 @@
         "id": "SG/W39-P17",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W39-P18": {
     "name": "新たな歌と共に 調",
@@ -321,7 +338,8 @@
         "id": "SG/W39-P18",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W39-P19": {
     "name": "“まんが DE 絶唱”響",
@@ -339,7 +357,8 @@
         "id": "SG/W39-P19",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W39-101": {
     "name": "守りたいものがあるんです！",
@@ -357,7 +376,8 @@
         "id": "SG/W39-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W39-102": {
     "name": "MEGA DETH QUARTET",
@@ -375,7 +395,8 @@
         "id": "SG/W39-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W39-103": {
     "name": "HORIZON†SPEAR",
@@ -393,7 +414,8 @@
         "id": "SG/W39-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W39-104": {
     "name": "蒼ノ一閃",
@@ -411,6 +433,7 @@
         "id": "SG/W39-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

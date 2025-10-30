@@ -15,7 +15,8 @@
         "id": "Snk/W62-003P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Snk/W62-107": {
     "name": "となりにいたい ショコラ",
@@ -33,6 +34,7 @@
         "id": "Snk/W62-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

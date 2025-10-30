@@ -15,7 +15,8 @@
         "id": "Sst/W62-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sst/W62-T06": {
     "name": "勇者の一族 柚希",
@@ -37,7 +38,8 @@
         "id": "Sst/W62-T06R",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sst/W62-T09": {
     "name": "柚希の下僕記念日",
@@ -59,6 +61,7 @@
         "id": "Sst/W62-T09S",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "DS/W46-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-P03": {
     "name": "ホログラムの天",
@@ -33,7 +34,8 @@
         "id": "DS/W46-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-111": {
     "name": "ちびひまり",
@@ -51,7 +53,8 @@
         "id": "DS/W46-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-112": {
     "name": "ちび遥月",
@@ -69,7 +72,8 @@
         "id": "DS/W46-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W46-113": {
     "name": "ちび乃絵里",
@@ -87,7 +91,8 @@
         "id": "DS/W46-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-114": {
     "name": "ちび依愛",
@@ -105,7 +110,8 @@
         "id": "DS/W46-114",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W46-115": {
     "name": "ちび天",
@@ -123,7 +129,8 @@
         "id": "DS/W46-115",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-116": {
     "name": "小川で遊ぼう！",
@@ -141,7 +148,8 @@
         "id": "DS/W46-116",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-117": {
     "name": "ホラーは苦手",
@@ -159,6 +167,7 @@
         "id": "DS/W46-117",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

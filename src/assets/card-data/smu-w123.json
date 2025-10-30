@@ -27,7 +27,8 @@
         "id": "Smu/W123-029SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Smu/W123-033": {
     "name": "必要としてくれる居場所 かっこう",
@@ -53,7 +54,8 @@
         "id": "Smu/W123-033SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Smu/W123-037": {
     "name": "夢の続き 眠り姫",
@@ -79,7 +81,8 @@
         "id": "Smu/W123-037SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Smu/W123-053": {
     "name": "シアワセになれる居場所 レイディー・バード",
@@ -101,7 +104,8 @@
         "id": "Smu/W123-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Smu/W123-059": {
     "name": "最後の戦い",
@@ -123,6 +127,7 @@
         "id": "Smu/W123-059R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

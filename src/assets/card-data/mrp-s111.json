@@ -19,7 +19,8 @@
         "id": "MRp/S111-008SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRp/S111-012": {
     "name": "“Fiery Arbiter of Justice”イカリ",
@@ -41,7 +42,8 @@
         "id": "MRp/S111-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRp/S111-015": {
     "name": "“Bomb-bastic Battle-saurus”レックス",
@@ -63,7 +65,8 @@
         "id": "MRp/S111-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRp/S111-023": {
     "name": "“Prototypical Space Ranger”バズ",
@@ -85,7 +88,8 @@
         "id": "MRp/S111-023MSP",
         "rarity": "MSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRp/S111-025": {
     "name": "“Tyrant of the Timelines”ザーグ",
@@ -107,7 +111,8 @@
         "id": "MRp/S111-025SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRp/S111-026": {
     "name": "“Terraformer of Planets”WALL・E",
@@ -129,7 +134,8 @@
         "id": "MRp/S111-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRp/S111-028": {
     "name": "“Planetary Security Sentry”EVE",
@@ -151,7 +157,8 @@
         "id": "MRp/S111-028SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRp/S111-032": {
     "name": "“Monstrous Mechanized Pal”マイク",
@@ -173,7 +180,8 @@
         "id": "MRp/S111-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRp/S111-035": {
     "name": "“ミラー・ウォリアーズ”ザーグ",
@@ -195,7 +203,8 @@
         "id": "MRp/S111-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRp/S111-044": {
     "name": "“ミラー・ウォリアーズ”マイク",
@@ -217,7 +226,8 @@
         "id": "MRp/S111-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRp/S111-048": {
     "name": "“ミラー・ウォリアーズ”WALL・E",
@@ -239,7 +249,8 @@
         "id": "MRp/S111-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRp/S111-049": {
     "name": "“ミラー・ウォリアーズ”EVE",
@@ -261,7 +272,8 @@
         "id": "MRp/S111-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRp/S111-050": {
     "name": "Disruptor Cannon",
@@ -283,7 +295,8 @@
         "id": "MRp/S111-050R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRp/S111-054": {
     "name": "“Rebellious Wisp Archer”メリダ",
@@ -305,7 +318,8 @@
         "id": "MRp/S111-054MSP",
         "rarity": "MSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRp/S111-055": {
     "name": "“A Forcefield for Justice”ヴァイオレット",
@@ -327,7 +341,8 @@
         "id": "MRp/S111-055SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRp/S111-056": {
     "name": "“Justice Reforged”Mr.インクレディブル",
@@ -349,7 +364,8 @@
         "id": "MRp/S111-056SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRp/S111-060": {
     "name": "“ミラー・ウォリアーズ”ヴァイオレット",
@@ -371,7 +387,8 @@
         "id": "MRp/S111-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRp/S111-066": {
     "name": "“ミラー・ウォリアーズ”Mr.インクレディブル",
@@ -393,7 +410,8 @@
         "id": "MRp/S111-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRp/S111-068": {
     "name": "Bear Spirit",
@@ -415,7 +433,8 @@
         "id": "MRp/S111-068R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRp/S111-075": {
     "name": "“Master Mage of New Mushroomton High”イアン",
@@ -437,7 +456,8 @@
         "id": "MRp/S111-075SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRp/S111-091": {
     "name": "“Low Tech Fish in a High Tech Sub”ドリー",
@@ -459,7 +479,8 @@
         "id": "MRp/S111-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRp/S111-092": {
     "name": "“ミラー・ウォリアーズ”イアン",
@@ -481,7 +502,8 @@
         "id": "MRp/S111-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRp/S111-094": {
     "name": "“Fearsome Protector”サリー",
@@ -503,6 +525,7 @@
         "id": "MRp/S111-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

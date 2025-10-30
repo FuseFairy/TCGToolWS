@@ -15,7 +15,8 @@
         "id": "LL/WE25-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE25-P02": {
     "name": "“サーカスのステージ”高坂 穂乃果",
@@ -33,6 +34,7 @@
         "id": "LL/WE25-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "LL/W24-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-P02": {
     "name": "活動開始！ μ's",
@@ -33,7 +34,8 @@
         "id": "LL/W24-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-P03": {
     "name": "クリスマスの準備 ことり＆穂乃果＆海未",
@@ -51,7 +53,8 @@
         "id": "LL/W24-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-P04": {
     "name": "μ'sのリーダー 穂乃果",
@@ -69,7 +72,8 @@
         "id": "LL/W24-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-P05": {
     "name": "ネイルのお手入れ にこ",
@@ -87,7 +91,8 @@
         "id": "LL/W24-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-P06": {
     "name": "メイド服の海未",
@@ -105,7 +110,8 @@
         "id": "LL/W24-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-P07": {
     "name": "水着のことり",
@@ -123,7 +129,8 @@
         "id": "LL/W24-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W24-P08": {
     "name": "“秘密の顔”真姫",
@@ -141,7 +148,8 @@
         "id": "LL/W24-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-P09": {
     "name": "最初の一歩 穂乃果",
@@ -159,7 +167,8 @@
         "id": "LL/W24-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-P10": {
     "name": "学校のこと 絵里",
@@ -177,7 +186,8 @@
         "id": "LL/W24-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W24-P11": {
     "name": "おやつの時間 希＆にこ",
@@ -195,7 +205,8 @@
         "id": "LL/W24-P11",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-P12": {
     "name": "ティータイム ことり＆花陽",
@@ -213,7 +224,8 @@
         "id": "LL/W24-P12",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-P13": {
     "name": "収録中！ 凛＆花陽",
@@ -231,7 +243,8 @@
         "id": "LL/W24-P13",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-113": {
     "name": "ちび穂乃果",
@@ -249,7 +262,8 @@
         "id": "LL/W24-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-114": {
     "name": "ちび絵里",
@@ -267,7 +281,8 @@
         "id": "LL/W24-114",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-115": {
     "name": "ちびことり",
@@ -285,7 +300,8 @@
         "id": "LL/W24-115",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W24-116": {
     "name": "ちび海未",
@@ -303,7 +319,8 @@
         "id": "LL/W24-116",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W24-117": {
     "name": "ちび凛",
@@ -321,7 +338,8 @@
         "id": "LL/W24-117",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-118": {
     "name": "ちび真姫",
@@ -339,7 +357,8 @@
         "id": "LL/W24-118",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W24-119": {
     "name": "ちび希",
@@ -357,7 +376,8 @@
         "id": "LL/W24-119",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-120": {
     "name": "ちび花陽",
@@ -375,7 +395,8 @@
         "id": "LL/W24-120",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W24-121": {
     "name": "ちびにこ",
@@ -393,6 +414,7 @@
         "id": "LL/W24-121",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

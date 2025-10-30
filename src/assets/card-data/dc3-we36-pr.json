@@ -19,7 +19,8 @@
         "id": "DC3/WE36-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WE36-P02": {
     "name": "“君と旅する時の魔法”シャルル",
@@ -41,7 +42,8 @@
         "id": "DC3/WE36-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WE36-P03": {
     "name": "“君と旅する時の魔法”姫乃",
@@ -63,7 +65,8 @@
         "id": "DC3/WE36-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE36-P04": {
     "name": "“君と旅する時の魔法”さら",
@@ -85,7 +88,8 @@
         "id": "DC3/WE36-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE36-P05": {
     "name": "“君と旅する時の魔法”葵",
@@ -107,6 +111,7 @@
         "id": "DC3/WE36-P05S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

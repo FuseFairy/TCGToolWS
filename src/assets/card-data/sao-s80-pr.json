@@ -15,7 +15,8 @@
         "id": "SAO/S80-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S80-P02": {
     "name": "マリンルック アスナ",
@@ -33,7 +34,8 @@
         "id": "SAO/S80-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-P03": {
     "name": "キリトの元へ アスナ",
@@ -51,7 +53,8 @@
         "id": "SAO/S80-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-P04": {
     "name": "故郷の空 アリス",
@@ -69,7 +72,8 @@
         "id": "SAO/S80-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-P05": {
     "name": "リアルワールドへの帰還 和人",
@@ -87,7 +91,8 @@
         "id": "SAO/S80-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-101": {
     "name": "スイーツクッキング アリス",
@@ -105,7 +110,8 @@
         "id": "SAO/S80-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-102": {
     "name": "スイーツクッキング アスナ",
@@ -123,7 +129,8 @@
         "id": "SAO/S80-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-103": {
     "name": "さあ召し上がれ キリト",
@@ -141,7 +148,8 @@
         "id": "SAO/S80-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S80-104": {
     "name": "さあ召し上がれ ユージオ",
@@ -159,6 +167,7 @@
         "id": "SAO/S80-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

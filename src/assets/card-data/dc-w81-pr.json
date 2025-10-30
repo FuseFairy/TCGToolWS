@@ -15,7 +15,8 @@
         "id": "DC/W81-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-P02": {
     "name": "水着の杏",
@@ -33,7 +34,8 @@
         "id": "DC/W81-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W81-116": {
     "name": "美春＆音夢",
@@ -51,7 +53,8 @@
         "id": "DC/W81-116",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W81-117": {
     "name": "ネコ耳メイドさん",
@@ -69,7 +72,8 @@
         "id": "DC/W81-117",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-118": {
     "name": "記憶消去",
@@ -87,7 +91,8 @@
         "id": "DC/W81-118",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-119": {
     "name": "胡ノ宮 環",
@@ -105,7 +110,8 @@
         "id": "DC/W81-119",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W81-120": {
     "name": "転入生",
@@ -123,7 +129,8 @@
         "id": "DC/W81-120",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-121": {
     "name": "ななことヤギ",
@@ -141,7 +148,8 @@
         "id": "DC/W81-121",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-122": {
     "name": "ポーカーフェイス アリス",
@@ -159,7 +167,8 @@
         "id": "DC/W81-122",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-123": {
     "name": "ずっと一緒に、ずっと笑顔で。",
@@ -177,7 +186,8 @@
         "id": "DC/W81-123",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-124": {
     "name": "個人指導",
@@ -195,6 +205,7 @@
         "id": "DC/W81-124",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

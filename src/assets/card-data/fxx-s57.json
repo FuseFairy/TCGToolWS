@@ -19,7 +19,8 @@
         "id": "FXX/S57-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-002": {
     "name": "天真爛漫 ミク",
@@ -41,7 +42,8 @@
         "id": "FXX/S57-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-003": {
     "name": "アルジェンティアのステイメン ゾロメ",
@@ -59,7 +61,8 @@
         "id": "FXX/S57-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-004": {
     "name": "はじめての海 ミク",
@@ -77,7 +80,8 @@
         "id": "FXX/S57-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-005": {
     "name": "オトナへの憧れ ゾロメ",
@@ -95,7 +99,8 @@
         "id": "FXX/S57-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-006": {
     "name": "アルジェンティアのピスティル ミク",
@@ -117,7 +122,8 @@
         "id": "FXX/S57-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-007": {
     "name": "謎めいた魅力 ゼロツー",
@@ -135,7 +141,8 @@
         "id": "FXX/S57-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-008": {
     "name": "アルジェンティア",
@@ -157,7 +164,8 @@
         "id": "FXX/S57-008FX",
         "rarity": "FXR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-009": {
     "name": "感情の爆発 ゼロツー",
@@ -175,7 +183,8 @@
         "id": "FXX/S57-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-010": {
     "name": "フランクス博士",
@@ -193,7 +202,8 @@
         "id": "FXX/S57-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-011": {
     "name": "９’α",
@@ -211,7 +221,8 @@
         "id": "FXX/S57-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-012": {
     "name": "七賢人",
@@ -229,7 +240,8 @@
         "id": "FXX/S57-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-013": {
     "name": "叫竜の姫",
@@ -247,7 +259,8 @@
         "id": "FXX/S57-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-014": {
     "name": "量産型フランクス",
@@ -265,7 +278,8 @@
         "id": "FXX/S57-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-015": {
     "name": "プレゼントを探して ヒロ",
@@ -283,7 +297,8 @@
         "id": "FXX/S57-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-016": {
     "name": "手作りのツノ飾り ゼロツー",
@@ -301,7 +316,8 @@
         "id": "FXX/S57-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-017": {
     "name": "運命の共有 ヒロ",
@@ -319,7 +335,8 @@
         "id": "FXX/S57-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-018": {
     "name": "トラブルメーカー ゾロメ",
@@ -337,7 +354,8 @@
         "id": "FXX/S57-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-019": {
     "name": "九式",
@@ -355,7 +373,8 @@
         "id": "FXX/S57-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-020": {
     "name": "お調子者 ゾロメ",
@@ -373,7 +392,8 @@
         "id": "FXX/S57-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-021": {
     "name": "キミへのプレゼント",
@@ -391,7 +411,8 @@
         "id": "FXX/S57-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-022": {
     "name": "独りきりの立てこもり",
@@ -409,7 +430,8 @@
         "id": "FXX/S57-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-023": {
     "name": "乙女のたしなみ",
@@ -431,7 +453,8 @@
         "id": "FXX/S57-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-024": {
     "name": "青い海、輝く太陽",
@@ -449,7 +472,8 @@
         "id": "FXX/S57-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-025": {
     "name": "ナイトクロウ",
@@ -467,7 +491,8 @@
         "id": "FXX/S57-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-026": {
     "name": "幸せな未来へ ココロ",
@@ -489,7 +514,8 @@
         "id": "FXX/S57-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-027": {
     "name": "幼馴染の少女 イチゴ",
@@ -511,7 +537,8 @@
         "id": "FXX/S57-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-028": {
     "name": "一途な思い ゴロー",
@@ -529,7 +556,8 @@
         "id": "FXX/S57-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-029": {
     "name": "ジェニスタのステイメン フトシ",
@@ -547,7 +575,8 @@
         "id": "FXX/S57-029",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-030": {
     "name": "ささやかな祝福 イクノ",
@@ -565,7 +594,8 @@
         "id": "FXX/S57-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-031": {
     "name": "パートナーシャッフル ミツル",
@@ -583,7 +613,8 @@
         "id": "FXX/S57-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-032": {
     "name": "ジェニスタのピスティル ココロ",
@@ -605,7 +636,8 @@
         "id": "FXX/S57-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-033": {
     "name": "ジェニスタ",
@@ -627,7 +659,8 @@
         "id": "FXX/S57-033FX",
         "rarity": "FXR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-034": {
     "name": "ほとばしる感情 イクノ",
@@ -645,7 +678,8 @@
         "id": "FXX/S57-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-035": {
     "name": "震えるキス イチゴ",
@@ -663,7 +697,8 @@
         "id": "FXX/S57-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-036": {
     "name": "パートナーへの想い フトシ",
@@ -681,7 +716,8 @@
         "id": "FXX/S57-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-037": {
     "name": "手作りの結婚式 ミツル",
@@ -699,7 +735,8 @@
         "id": "FXX/S57-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-038": {
     "name": "感情の吐露 ココロ",
@@ -717,7 +754,8 @@
         "id": "FXX/S57-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-039": {
     "name": "出撃待機 イクノ",
@@ -735,7 +773,8 @@
         "id": "FXX/S57-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-040": {
     "name": "チームとして イチゴ",
@@ -753,7 +792,8 @@
         "id": "FXX/S57-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-041": {
     "name": "不意の口づけ ココロ",
@@ -771,7 +811,8 @@
         "id": "FXX/S57-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-042": {
     "name": "はじめての海 ココロ",
@@ -789,7 +830,8 @@
         "id": "FXX/S57-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-043": {
     "name": "遠い約束 ミツル",
@@ -807,7 +849,8 @@
         "id": "FXX/S57-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-044": {
     "name": "叱咤激励 ゴロー",
@@ -825,7 +868,8 @@
         "id": "FXX/S57-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-045": {
     "name": "眼福 フトシ",
@@ -843,7 +887,8 @@
         "id": "FXX/S57-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-046": {
     "name": "楽園のキス",
@@ -865,7 +910,8 @@
         "id": "FXX/S57-046b",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-047": {
     "name": "スタンピード・モード",
@@ -883,7 +929,8 @@
         "id": "FXX/S57-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-048": {
     "name": "桜の花が咲く頃に",
@@ -905,7 +952,8 @@
         "id": "FXX/S57-048R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-049": {
     "name": "行き場のないキモチ",
@@ -923,7 +971,8 @@
         "id": "FXX/S57-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FXX/S57-050": {
     "name": "ルークスパロウ",
@@ -941,7 +990,8 @@
         "id": "FXX/S57-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-051": {
     "name": "運命のコドモ ヒロ",
@@ -963,7 +1013,8 @@
         "id": "FXX/S57-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-052": {
     "name": "エリートパラサイト ゼロツー",
@@ -985,7 +1036,8 @@
         "id": "FXX/S57-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-053": {
     "name": "ストレリチア",
@@ -1007,7 +1059,8 @@
         "id": "FXX/S57-053FX",
         "rarity": "FXR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-054": {
     "name": "恥ずかしい告白 ヒロ",
@@ -1029,7 +1082,8 @@
         "id": "FXX/S57-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-055": {
     "name": "つかの間の平穏 ゼロツー",
@@ -1051,7 +1105,8 @@
         "id": "FXX/S57-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-056": {
     "name": "絵本のような物語 ゼロツー",
@@ -1073,7 +1128,8 @@
         "id": "FXX/S57-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-057": {
     "name": "恥ずかしい告白 ゼロツー",
@@ -1095,7 +1151,8 @@
         "id": "FXX/S57-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-058": {
     "name": "ストレリチア・アパス",
@@ -1117,7 +1174,8 @@
         "id": "FXX/S57-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-059": {
     "name": "ムードメーカー ミク",
@@ -1135,7 +1193,8 @@
         "id": "FXX/S57-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-060": {
     "name": "甘いもの好き ゼロツー",
@@ -1153,7 +1212,8 @@
         "id": "FXX/S57-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-061": {
     "name": "繋がる想い ヒロ",
@@ -1171,7 +1231,8 @@
         "id": "FXX/S57-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-062": {
     "name": "満開の桜の下 ゼロツー",
@@ -1189,7 +1250,8 @@
         "id": "FXX/S57-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-063": {
     "name": "パラサイト管理官 ナナ",
@@ -1207,7 +1269,8 @@
         "id": "FXX/S57-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-064": {
     "name": "きれいなもの ゼロツー",
@@ -1225,7 +1288,8 @@
         "id": "FXX/S57-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-065": {
     "name": "挑発するゾロメ",
@@ -1243,7 +1307,8 @@
         "id": "FXX/S57-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-066": {
     "name": "手作りの結婚式 ミク",
@@ -1261,7 +1326,8 @@
         "id": "FXX/S57-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-067": {
     "name": "はじめての同調 ゼロツー",
@@ -1279,7 +1345,8 @@
         "id": "FXX/S57-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-068": {
     "name": "小さな王子様 ヒロ",
@@ -1297,7 +1364,8 @@
         "id": "FXX/S57-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-069": {
     "name": "悲しい事件 ミク",
@@ -1315,7 +1383,8 @@
         "id": "FXX/S57-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-070": {
     "name": "舞い上がるゾロメ",
@@ -1333,7 +1402,8 @@
         "id": "FXX/S57-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-071": {
     "name": "まものと王子様",
@@ -1351,7 +1421,8 @@
         "id": "FXX/S57-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-072": {
     "name": "運命の時",
@@ -1369,7 +1440,8 @@
         "id": "FXX/S57-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-073": {
     "name": "クイーンパイク",
@@ -1391,7 +1463,8 @@
         "id": "FXX/S57-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-074": {
     "name": "比翼の鳥",
@@ -1413,7 +1486,8 @@
         "id": "FXX/S57-074R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-075": {
     "name": "温かな手",
@@ -1431,7 +1505,8 @@
         "id": "FXX/S57-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FXX/S57-076": {
     "name": "揺れ動く気持ち イチゴ",
@@ -1453,7 +1528,8 @@
         "id": "FXX/S57-076SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-077": {
     "name": "秘めた想い イクノ",
@@ -1475,7 +1551,8 @@
         "id": "FXX/S57-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-078": {
     "name": "デルフィニウム",
@@ -1497,7 +1574,8 @@
         "id": "FXX/S57-078FX",
         "rarity": "FXR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-079": {
     "name": "食べるの大好き フトシ",
@@ -1515,7 +1593,8 @@
         "id": "FXX/S57-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-080": {
     "name": "希望と興味 ココロ",
@@ -1537,7 +1616,8 @@
         "id": "FXX/S57-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-081": {
     "name": "クロロフィッツのピスティル イクノ",
@@ -1559,7 +1639,8 @@
         "id": "FXX/S57-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-082": {
     "name": "デルフィニウムのピスティル イチゴ",
@@ -1581,7 +1662,8 @@
         "id": "FXX/S57-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-083": {
     "name": "クロロフィッツ",
@@ -1603,7 +1685,8 @@
         "id": "FXX/S57-083FX",
         "rarity": "FXR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-084": {
     "name": "クロロフィッツのステイメン ミツル",
@@ -1621,7 +1704,8 @@
         "id": "FXX/S57-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-085": {
     "name": "精いっぱいの主張 ココロ",
@@ -1639,7 +1723,8 @@
         "id": "FXX/S57-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-086": {
     "name": "髪飾りの贈り物 イチゴ",
@@ -1657,7 +1742,8 @@
         "id": "FXX/S57-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-087": {
     "name": "星空の下 イチゴ",
@@ -1675,7 +1761,8 @@
         "id": "FXX/S57-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-088": {
     "name": "都市防衛作戦司令官 ハチ",
@@ -1693,7 +1780,8 @@
         "id": "FXX/S57-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-089": {
     "name": "渡せなかった髪飾り ゴロー",
@@ -1711,7 +1799,8 @@
         "id": "FXX/S57-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-090": {
     "name": "デルフィニウムのステイメン ゴロー",
@@ -1729,7 +1818,8 @@
         "id": "FXX/S57-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-091": {
     "name": "パートナーシャッフル フトシ",
@@ -1747,7 +1837,8 @@
         "id": "FXX/S57-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-092": {
     "name": "はじめての海 イクノ",
@@ -1765,7 +1856,8 @@
         "id": "FXX/S57-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-093": {
     "name": "送り出すゴロー",
@@ -1783,7 +1875,8 @@
         "id": "FXX/S57-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-094": {
     "name": "憧れと対抗心 ミツル",
@@ -1801,7 +1894,8 @@
         "id": "FXX/S57-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-095": {
     "name": "はじめての海 ゴロー",
@@ -1819,7 +1913,8 @@
         "id": "FXX/S57-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-096": {
     "name": "キミへのプレゼント",
@@ -1837,7 +1932,8 @@
         "id": "FXX/S57-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-097": {
     "name": "隠した感情",
@@ -1855,7 +1951,8 @@
         "id": "FXX/S57-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-098": {
     "name": "エンビショップ",
@@ -1877,7 +1974,8 @@
         "id": "FXX/S57-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FXX/S57-099": {
     "name": "流星モラトリアム",
@@ -1895,7 +1993,8 @@
         "id": "FXX/S57-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FXX/S57-100": {
     "name": "ウイングスパン",
@@ -1917,6 +2016,7 @@
         "id": "FXX/S57-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

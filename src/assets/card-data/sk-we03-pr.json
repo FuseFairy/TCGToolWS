@@ -15,7 +15,8 @@
         "id": "SK/WE03-001",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SK/WE03-020": {
     "name": "“クイーン”秋葉",
@@ -33,7 +34,8 @@
         "id": "SK/WE03-020",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SK/WE03-021": {
     "name": "Qテクター秋葉",
@@ -51,7 +53,8 @@
         "id": "SK/WE03-021",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SK/WE03-022": {
     "name": "秋葉と愉快な仲間たち",
@@ -69,7 +72,8 @@
         "id": "SK/WE03-022",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SK/WE03-023": {
     "name": "“怪奇課”いつき",
@@ -87,7 +91,8 @@
         "id": "SK/WE03-023",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SK/WE03-024": {
     "name": "“守護者”ほのか",
@@ -105,6 +110,7 @@
         "id": "SK/WE03-024",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

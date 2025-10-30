@@ -15,7 +15,8 @@
         "id": "LL/WE19-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE19-P02": {
     "name": "水着の二人 穂乃果＆海未",
@@ -33,7 +34,8 @@
         "id": "LL/WE19-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE19-P03": {
     "name": "家庭科の時間",
@@ -51,7 +53,8 @@
         "id": "LL/WE19-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE19-P04": {
     "name": "これからのSomeday 真姫＆にこ＆凛",
@@ -69,6 +72,7 @@
         "id": "LL/WE19-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "GF/W33-T16SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-T17": {
     "name": "放課後 椎名心実",
@@ -33,7 +34,8 @@
         "id": "GF/W33-T17SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-T18": {
     "name": "戦場激写 望月エレナ",
@@ -51,7 +53,8 @@
         "id": "GF/W33-T18SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-T20": {
     "name": "皆の居場所 クロエ・ルメール",
@@ -69,7 +72,8 @@
         "id": "GF/W33-T20SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-001": {
     "name": "素顔の私を 櫻井明音",
@@ -91,7 +95,8 @@
         "id": "GF/W33-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-002": {
     "name": "今日の役割 櫻井明音",
@@ -113,7 +118,8 @@
         "id": "GF/W33-002R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-003": {
     "name": "君との静寂 玉井麗巳",
@@ -135,7 +141,8 @@
         "id": "GF/W33-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-004": {
     "name": "茸ノ目ニモ涙 姫島木乃子",
@@ -157,7 +164,8 @@
         "id": "GF/W33-004R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-005": {
     "name": "モデル探し 時谷小瑠璃",
@@ -183,7 +191,8 @@
         "id": "GF/W33-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-006": {
     "name": "ゾンビハンター 甘利燈",
@@ -205,7 +214,8 @@
         "id": "GF/W33-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-007": {
     "name": "Yシャツ＋エプロン 葉月柚子",
@@ -227,7 +237,8 @@
         "id": "GF/W33-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-008": {
     "name": "個人レッスン 九重忍",
@@ -249,7 +260,8 @@
         "id": "GF/W33-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-009": {
     "name": "現場監督 螺子川来夢",
@@ -271,7 +283,8 @@
         "id": "GF/W33-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-010": {
     "name": "照れ隠し味 春宮つぐみ",
@@ -293,7 +306,8 @@
         "id": "GF/W33-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-011": {
     "name": "晴れ舞台 戸村美知留",
@@ -315,7 +329,8 @@
         "id": "GF/W33-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-012": {
     "name": "背水の陣 玉井麗巳",
@@ -337,7 +352,8 @@
         "id": "GF/W33-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-013": {
     "name": "海水浴 櫻井明音",
@@ -355,7 +371,8 @@
         "id": "GF/W33-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-014": {
     "name": "職業体験 戸村美知留",
@@ -373,7 +390,8 @@
         "id": "GF/W33-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-015": {
     "name": "ゴーストマシーンズ 螺子川来夢",
@@ -391,7 +409,8 @@
         "id": "GF/W33-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-016": {
     "name": "振袖 九重忍",
@@ -409,7 +428,8 @@
         "id": "GF/W33-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-017": {
     "name": "節分大会 姫島木乃子",
@@ -427,7 +447,8 @@
         "id": "GF/W33-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-018": {
     "name": "屍の宴 甘利燈",
@@ -445,7 +466,8 @@
         "id": "GF/W33-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-019": {
     "name": "雪の日 葉月柚子",
@@ -463,7 +485,8 @@
         "id": "GF/W33-019",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-020": {
     "name": "ジューンブライド 春宮つぐみ",
@@ -481,7 +504,8 @@
         "id": "GF/W33-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-021": {
     "name": "お菓子作り 玉井麗巳",
@@ -499,7 +523,8 @@
         "id": "GF/W33-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-022": {
     "name": "チャイナドレス 玉井麗巳",
@@ -517,7 +542,8 @@
         "id": "GF/W33-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-023": {
     "name": "ホワイトデー 時谷小瑠璃",
@@ -535,7 +561,8 @@
         "id": "GF/W33-023",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-024": {
     "name": "夕涼み 櫻井明音",
@@ -553,7 +580,8 @@
         "id": "GF/W33-024",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-025": {
     "name": "姫の風格 時谷小瑠璃",
@@ -571,7 +599,8 @@
         "id": "GF/W33-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-026": {
     "name": "健康健啖 春宮つぐみ",
@@ -589,7 +618,8 @@
         "id": "GF/W33-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-027": {
     "name": "体育祭 玉井麗巳",
@@ -607,7 +637,8 @@
         "id": "GF/W33-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-028": {
     "name": "ファッションショー 玉井麗巳",
@@ -625,7 +656,8 @@
         "id": "GF/W33-028",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-029": {
     "name": "どろんこ 螺子川来夢",
@@ -643,7 +675,8 @@
         "id": "GF/W33-029",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-030": {
     "name": "芸術鑑賞 姫島木乃子",
@@ -661,7 +694,8 @@
         "id": "GF/W33-030",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-031": {
     "name": "太陽回避 戸村美知留",
@@ -679,7 +713,8 @@
         "id": "GF/W33-031",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-032": {
     "name": "試着モデル 戸村美知留",
@@ -697,7 +732,8 @@
         "id": "GF/W33-032",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-033": {
     "name": "スプラッタドール 甘利燈",
@@ -715,7 +751,8 @@
         "id": "GF/W33-033",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-034": {
     "name": "海辺の迷子 時谷小瑠璃",
@@ -733,7 +770,8 @@
         "id": "GF/W33-034",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-035": {
     "name": "笑顔快晴 葉月柚子",
@@ -751,7 +789,8 @@
         "id": "GF/W33-035",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-036": {
     "name": "明るい新年 櫻井明音",
@@ -769,7 +808,8 @@
         "id": "GF/W33-036",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-037": {
     "name": "ジューンブライド 櫻井明音",
@@ -787,7 +827,8 @@
         "id": "GF/W33-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-038": {
     "name": "お礼を一つ 九重忍",
@@ -805,7 +846,8 @@
         "id": "GF/W33-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-039": {
     "name": "猫カフェ 螺子川来夢",
@@ -823,7 +865,8 @@
         "id": "GF/W33-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-040": {
     "name": "新歓 姫島木乃子",
@@ -841,7 +884,8 @@
         "id": "GF/W33-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-041": {
     "name": "創作教室 葉月柚子",
@@ -859,7 +903,8 @@
         "id": "GF/W33-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-042": {
     "name": "創作教室 甘利燈",
@@ -877,7 +922,8 @@
         "id": "GF/W33-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-043": {
     "name": "天体観測 春宮つぐみ",
@@ -895,7 +941,8 @@
         "id": "GF/W33-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-044": {
     "name": "レディハスラー 九重忍",
@@ -913,7 +960,8 @@
         "id": "GF/W33-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-045": {
     "name": "肝試し",
@@ -931,7 +979,8 @@
         "id": "GF/W33-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-046": {
     "name": "白熱実況",
@@ -949,7 +998,8 @@
         "id": "GF/W33-046",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-047": {
     "name": "自由研究",
@@ -971,7 +1021,8 @@
         "id": "GF/W33-047SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GF/W33-048": {
     "name": "服飾姫",
@@ -989,7 +1040,8 @@
         "id": "GF/W33-048",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GF/W33-049": {
     "name": "頭を使え",
@@ -1007,7 +1059,8 @@
         "id": "GF/W33-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GF/W33-050": {
     "name": "さあコレを！",
@@ -1025,7 +1078,8 @@
         "id": "GF/W33-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-051": {
     "name": "プリティドール 朝比奈桃子",
@@ -1047,7 +1101,8 @@
         "id": "GF/W33-051SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-052": {
     "name": "いつもの輝き クロエ・ルメール",
@@ -1069,7 +1124,8 @@
         "id": "GF/W33-052SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-053": {
     "name": "兎を狙う兎 望月エレナ",
@@ -1091,7 +1147,8 @@
         "id": "GF/W33-053SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-054": {
     "name": "バレンタイン 加賀美茉莉",
@@ -1113,7 +1170,8 @@
         "id": "GF/W33-054SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-055": {
     "name": "似合の二人 笹原野々花",
@@ -1135,7 +1193,8 @@
         "id": "GF/W33-055SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-056": {
     "name": "金色に輝く クロエ・ルメール",
@@ -1157,7 +1216,8 @@
         "id": "GF/W33-056R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-057": {
     "name": "似顔絵さん 小日向いちご",
@@ -1179,7 +1239,8 @@
         "id": "GF/W33-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-058": {
     "name": "緊張ストロベリー 優木苗",
@@ -1201,7 +1262,8 @@
         "id": "GF/W33-058SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-059": {
     "name": "スィーツデコ 小日向いちご",
@@ -1227,7 +1289,8 @@
         "id": "GF/W33-059SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-060": {
     "name": "南国植彩 夢前春瑚",
@@ -1249,7 +1312,8 @@
         "id": "GF/W33-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-061": {
     "name": "歌います 風町陽歌",
@@ -1271,7 +1335,8 @@
         "id": "GF/W33-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-062": {
     "name": "風の悪戯 望月エレナ",
@@ -1293,7 +1358,8 @@
         "id": "GF/W33-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-063": {
     "name": "幽玄の舞台 森園芽以",
@@ -1315,7 +1381,8 @@
         "id": "GF/W33-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-064": {
     "name": "品行方正 加賀美茉莉",
@@ -1337,7 +1404,8 @@
         "id": "GF/W33-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-065": {
     "name": "ウッカリマーメイド 笹原野々花",
@@ -1359,7 +1427,8 @@
         "id": "GF/W33-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-066": {
     "name": "海水浴 優木苗",
@@ -1381,7 +1450,8 @@
         "id": "GF/W33-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-067": {
     "name": "夏準備 朝比奈桃子",
@@ -1403,7 +1473,8 @@
         "id": "GF/W33-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-068": {
     "name": "ハロウィン 優木苗",
@@ -1421,7 +1492,8 @@
         "id": "GF/W33-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-069": {
     "name": "努力賞 朝比奈桃子",
@@ -1439,7 +1511,8 @@
         "id": "GF/W33-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-070": {
     "name": "夕涼み 笹原野々花",
@@ -1457,7 +1530,8 @@
         "id": "GF/W33-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-071": {
     "name": "トロピカル クロエ・ルメール",
@@ -1475,7 +1549,8 @@
         "id": "GF/W33-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-072": {
     "name": "水泳大会 望月エレナ",
@@ -1493,7 +1568,8 @@
         "id": "GF/W33-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-073": {
     "name": "手を引いて 小日向いちご",
@@ -1511,7 +1587,8 @@
         "id": "GF/W33-073",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-074": {
     "name": "白日贈答 森園芽以",
@@ -1529,7 +1606,8 @@
         "id": "GF/W33-074",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-075": {
     "name": "浮き立つ心 加賀美茉莉",
@@ -1547,7 +1625,8 @@
         "id": "GF/W33-075",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-076": {
     "name": "雨宿り 望月エレナ",
@@ -1565,7 +1644,8 @@
         "id": "GF/W33-076",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-077": {
     "name": "スキー教室 朝比奈桃子",
@@ -1583,7 +1663,8 @@
         "id": "GF/W33-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-078": {
     "name": "職業体験 風町陽歌",
@@ -1601,7 +1682,8 @@
         "id": "GF/W33-078",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-079": {
     "name": "エンジョイサマー 加賀美茉莉",
@@ -1619,7 +1701,8 @@
         "id": "GF/W33-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-080": {
     "name": "日本文化 夢前春瑚",
@@ -1637,7 +1720,8 @@
         "id": "GF/W33-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-081": {
     "name": "願い飾り 小日向いちご",
@@ -1655,7 +1739,8 @@
         "id": "GF/W33-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-082": {
     "name": "林間学校 クロエ・ルメール",
@@ -1673,7 +1758,8 @@
         "id": "GF/W33-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-083": {
     "name": "雪見で一杯 笹原野々花",
@@ -1691,7 +1777,8 @@
         "id": "GF/W33-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-084": {
     "name": "姫様おねむ 優木苗",
@@ -1709,7 +1796,8 @@
         "id": "GF/W33-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-085": {
     "name": "振袖 朝比奈桃子",
@@ -1727,7 +1815,8 @@
         "id": "GF/W33-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-086": {
     "name": "アミューズメント 望月エレナ",
@@ -1745,7 +1834,8 @@
         "id": "GF/W33-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-087": {
     "name": "紅葉デート 夢前春瑚",
@@ -1763,7 +1853,8 @@
         "id": "GF/W33-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-088": {
     "name": "乗馬体験 クロエ・ルメール",
@@ -1781,7 +1872,8 @@
         "id": "GF/W33-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-089": {
     "name": "上達祈願 笹原野々花",
@@ -1799,7 +1891,8 @@
         "id": "GF/W33-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-090": {
     "name": "清純巫女子 森園芽以",
@@ -1817,7 +1910,8 @@
         "id": "GF/W33-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-091": {
     "name": "スケート 小日向いちご",
@@ -1835,7 +1929,8 @@
         "id": "GF/W33-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-092": {
     "name": "日本文化 クロエ・ルメール",
@@ -1853,7 +1948,8 @@
         "id": "GF/W33-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-093": {
     "name": "裏方も主役 優木苗",
@@ -1871,7 +1967,8 @@
         "id": "GF/W33-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-094": {
     "name": "繊細技巧 加賀美茉莉",
@@ -1889,7 +1986,8 @@
         "id": "GF/W33-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-095": {
     "name": "教えます 小日向いちご",
@@ -1907,7 +2005,8 @@
         "id": "GF/W33-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-096": {
     "name": "フワフワキーボード 朝比奈桃子",
@@ -1925,7 +2024,8 @@
         "id": "GF/W33-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-097": {
     "name": "タペストリ？ 優木苗",
@@ -1943,7 +2043,8 @@
         "id": "GF/W33-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-098": {
     "name": "山盛アップリケ 風町陽歌",
@@ -1961,7 +2062,8 @@
         "id": "GF/W33-098",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-099": {
     "name": "巫女怖がり 森園芽以",
@@ -1979,7 +2081,8 @@
         "id": "GF/W33-099",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-100": {
     "name": "お花見 夢前春瑚",
@@ -1997,7 +2100,8 @@
         "id": "GF/W33-100",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-101": {
     "name": "誰かの悪戯 笹原野々花",
@@ -2015,7 +2119,8 @@
         "id": "GF/W33-101",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-102": {
     "name": "チャイナドレス 風町陽歌",
@@ -2033,7 +2138,8 @@
         "id": "GF/W33-102",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-103": {
     "name": "読書中 加賀美茉莉",
@@ -2051,7 +2157,8 @@
         "id": "GF/W33-103",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-104": {
     "name": "ミニスカサンタ 望月エレナ",
@@ -2069,7 +2176,8 @@
         "id": "GF/W33-104",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-105": {
     "name": "体力測定",
@@ -2087,7 +2195,8 @@
         "id": "GF/W33-105",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-106": {
     "name": "応援休憩",
@@ -2105,7 +2214,8 @@
         "id": "GF/W33-106",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-107": {
     "name": "エンジョイサマー",
@@ -2123,7 +2233,8 @@
         "id": "GF/W33-107",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GF/W33-108": {
     "name": "運動合宿",
@@ -2141,7 +2252,8 @@
         "id": "GF/W33-108",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GF/W33-109": {
     "name": "チハヤナントカ",
@@ -2163,7 +2275,8 @@
         "id": "GF/W33-109SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-110": {
     "name": "ストライク！",
@@ -2181,7 +2294,8 @@
         "id": "GF/W33-110",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GF/W33-111": {
     "name": "エール",
@@ -2199,7 +2313,8 @@
         "id": "GF/W33-111",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GF/W33-112": {
     "name": "ど忘れ少女 村上文緒",
@@ -2221,7 +2336,8 @@
         "id": "GF/W33-112SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-113": {
     "name": "彼女の日常 椎名心実",
@@ -2243,7 +2359,8 @@
         "id": "GF/W33-113SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-114": {
     "name": "彼女の童心 椎名心実",
@@ -2265,7 +2382,8 @@
         "id": "GF/W33-114R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-115": {
     "name": "夕涼み 村上文緒",
@@ -2287,7 +2405,8 @@
         "id": "GF/W33-115R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-116": {
     "name": "怜悧な輝き 神楽坂砂夜",
@@ -2309,7 +2428,8 @@
         "id": "GF/W33-116SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-117": {
     "name": "探索電気街 東雲レイ",
@@ -2331,7 +2451,8 @@
         "id": "GF/W33-117S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-118": {
     "name": "休日小姫 不知火五十鈴",
@@ -2353,7 +2474,8 @@
         "id": "GF/W33-118S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-119": {
     "name": "楽しむ姿 鴫野睦",
@@ -2379,7 +2501,8 @@
         "id": "GF/W33-119SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-120": {
     "name": "自信の表情 飛原鋭子",
@@ -2401,7 +2524,8 @@
         "id": "GF/W33-120S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-121": {
     "name": "レディコンダクター 神楽坂砂夜",
@@ -2423,7 +2547,8 @@
         "id": "GF/W33-121S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-122": {
     "name": "海辺の輝き 見吉奈央",
@@ -2445,7 +2570,8 @@
         "id": "GF/W33-122S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-123": {
     "name": "休日謳歌 夏目真尋",
@@ -2467,7 +2593,8 @@
         "id": "GF/W33-123S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-124": {
     "name": "近く咲く花 上条るい",
@@ -2489,7 +2616,8 @@
         "id": "GF/W33-124S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-125": {
     "name": "素直が一番 鴫野睦",
@@ -2507,7 +2635,8 @@
         "id": "GF/W33-125",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-126": {
     "name": "マニュアル派 村上文緒",
@@ -2525,7 +2654,8 @@
         "id": "GF/W33-126",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-127": {
     "name": "私の精一杯 村上文緒",
@@ -2543,7 +2673,8 @@
         "id": "GF/W33-127",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-128": {
     "name": "寝起き 見吉奈央",
@@ -2561,7 +2692,8 @@
         "id": "GF/W33-128",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-129": {
     "name": "熟考配置 飛原鋭子",
@@ -2579,7 +2711,8 @@
         "id": "GF/W33-129",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-130": {
     "name": "釣果上出来 神楽坂砂夜",
@@ -2597,7 +2730,8 @@
         "id": "GF/W33-130",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-131": {
     "name": "海水浴 椎名心実",
@@ -2615,7 +2749,8 @@
         "id": "GF/W33-131",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-132": {
     "name": "海水浴 不知火五十鈴",
@@ -2633,7 +2768,8 @@
         "id": "GF/W33-132",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-133": {
     "name": "嬉し涙 上条るい",
@@ -2651,7 +2787,8 @@
         "id": "GF/W33-133",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-134": {
     "name": "照れサンタ 夏目真尋",
@@ -2669,7 +2806,8 @@
         "id": "GF/W33-134",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-135": {
     "name": "意外な動き 東雲レイ",
@@ -2687,7 +2825,8 @@
         "id": "GF/W33-135",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-136": {
     "name": "隣の織姫 椎名心実",
@@ -2705,7 +2844,8 @@
         "id": "GF/W33-136",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-137": {
     "name": "一時の休息 神楽坂砂夜",
@@ -2723,7 +2863,8 @@
         "id": "GF/W33-137",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-138": {
     "name": "二人の海 神楽坂砂夜",
@@ -2741,7 +2882,8 @@
         "id": "GF/W33-138",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-139": {
     "name": "猫コス 夏目真尋",
@@ -2759,7 +2901,8 @@
         "id": "GF/W33-139",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-140": {
     "name": "真剣修練 椎名心実",
@@ -2777,7 +2920,8 @@
         "id": "GF/W33-140",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-141": {
     "name": "幼馴染弁当 上条るい",
@@ -2795,7 +2939,8 @@
         "id": "GF/W33-141",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-142": {
     "name": "奈央の本気 見吉奈央",
@@ -2813,7 +2958,8 @@
         "id": "GF/W33-142",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-143": {
     "name": "宴席の一花 飛原鋭子",
@@ -2831,7 +2977,8 @@
         "id": "GF/W33-143",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-144": {
     "name": "緊張の代役 村上文緒",
@@ -2849,7 +2996,8 @@
         "id": "GF/W33-144",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-145": {
     "name": "逆取材 神楽坂砂夜",
@@ -2867,7 +3015,8 @@
         "id": "GF/W33-145",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-146": {
     "name": "辛辣指揮官 東雲レイ",
@@ -2885,7 +3034,8 @@
         "id": "GF/W33-146",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-147": {
     "name": "天の光河 東雲レイ",
@@ -2903,7 +3053,8 @@
         "id": "GF/W33-147",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-148": {
     "name": "緊張の訪問 不知火五十鈴",
@@ -2921,7 +3072,8 @@
         "id": "GF/W33-148",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-149": {
     "name": "チャイナドレス 見吉奈央",
@@ -2939,7 +3091,8 @@
         "id": "GF/W33-149",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-150": {
     "name": "出来る限り 夏目真尋",
@@ -2957,7 +3110,8 @@
         "id": "GF/W33-150",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-151": {
     "name": "等価交換？ 鴫野睦",
@@ -2975,7 +3129,8 @@
         "id": "GF/W33-151",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-152": {
     "name": "運動合宿 椎名心実",
@@ -2993,7 +3148,8 @@
         "id": "GF/W33-152",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-153": {
     "name": "クリスマスギフト 村上文緒",
@@ -3011,7 +3167,8 @@
         "id": "GF/W33-153",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-154": {
     "name": "猫コス 鴫野睦",
@@ -3029,7 +3186,8 @@
         "id": "GF/W33-154",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-155": {
     "name": "気迫の花 上条るい",
@@ -3047,7 +3205,8 @@
         "id": "GF/W33-155",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-156": {
     "name": "腕試し 飛原鋭子",
@@ -3065,7 +3224,8 @@
         "id": "GF/W33-156",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-157": {
     "name": "思いやり 不知火五十鈴",
@@ -3083,7 +3243,8 @@
         "id": "GF/W33-157",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-158": {
     "name": "ホワイトデーのお返し",
@@ -3101,7 +3262,8 @@
         "id": "GF/W33-158",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-159": {
     "name": "クールメイド",
@@ -3123,7 +3285,8 @@
         "id": "GF/W33-159SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GF/W33-160": {
     "name": "体験取材",
@@ -3141,7 +3304,8 @@
         "id": "GF/W33-160",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GF/W33-161": {
     "name": "星の思い出",
@@ -3159,7 +3323,8 @@
         "id": "GF/W33-161",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GF/W33-162": {
     "name": "ナイスシュート",
@@ -3177,7 +3342,8 @@
         "id": "GF/W33-162",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GF/W33-163": {
     "name": "芸術の困惑",
@@ -3195,7 +3361,8 @@
         "id": "GF/W33-163",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GF/W33-164": {
     "name": "猫も休憩",
@@ -3213,6 +3380,7 @@
         "id": "GF/W33-164",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

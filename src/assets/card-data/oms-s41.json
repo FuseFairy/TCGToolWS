@@ -15,7 +15,8 @@
         "id": "OMS/S41-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-T02": {
     "name": "“松野家の長男”おそ松",
@@ -33,7 +34,8 @@
         "id": "OMS/S41-T02SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-T19": {
     "name": "“成長してもやっぱりバカ”松野兄弟",
@@ -51,7 +53,8 @@
         "id": "OMS/S41-T19SR",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-T24": {
     "name": "６つの顔に６つの個性",
@@ -69,7 +72,8 @@
         "id": "OMS/S41-T24R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-001": {
     "name": "“一緒にチェキ”橋本にゃー",
@@ -91,7 +95,8 @@
         "id": "OMS/S41-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-002": {
     "name": "“超絶かわいいヒロイン”トト子",
@@ -113,7 +118,8 @@
         "id": "OMS/S41-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-003": {
     "name": "“主役争奪レース”トト子",
@@ -135,7 +141,8 @@
         "id": "OMS/S41-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-004": {
     "name": "赤塚不二夫",
@@ -153,7 +160,8 @@
         "id": "OMS/S41-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-005": {
     "name": "“主役争奪レース”イヤミ",
@@ -171,7 +179,8 @@
         "id": "OMS/S41-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-006": {
     "name": "十四松の好きな人",
@@ -189,7 +198,8 @@
         "id": "OMS/S41-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-007": {
     "name": "“レンタル彼女”チビ美",
@@ -207,7 +217,8 @@
         "id": "OMS/S41-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-008": {
     "name": "“サンタ服”トト子",
@@ -225,7 +236,8 @@
         "id": "OMS/S41-008",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-009": {
     "name": "“みんなのアイドル”橋本にゃー",
@@ -247,7 +259,8 @@
         "id": "OMS/S41-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-010": {
     "name": "イヤミ",
@@ -269,7 +282,8 @@
         "id": "OMS/S41-010a",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-011": {
     "name": "“科学者”デカパン博士",
@@ -287,7 +301,8 @@
         "id": "OMS/S41-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-012": {
     "name": "橋本にゃー",
@@ -305,7 +320,8 @@
         "id": "OMS/S41-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-013": {
     "name": "ハタ坊",
@@ -327,7 +343,8 @@
         "id": "OMS/S41-013a",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-014": {
     "name": "“ミスターフラッグ”ハタ坊",
@@ -345,7 +362,8 @@
         "id": "OMS/S41-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-015": {
     "name": "“レンタル彼女”イヤ代",
@@ -363,7 +381,8 @@
         "id": "OMS/S41-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-016": {
     "name": "ダヨーン",
@@ -385,7 +404,8 @@
         "id": "OMS/S41-016a",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-017": {
     "name": "“おでん屋”チビ太",
@@ -403,7 +423,8 @@
         "id": "OMS/S41-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-018": {
     "name": "“クリスマスの奇跡”トト子",
@@ -421,7 +442,8 @@
         "id": "OMS/S41-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-019": {
     "name": "デカパン",
@@ -443,7 +465,8 @@
         "id": "OMS/S41-019a",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-020": {
     "name": "“くノ一”トト子",
@@ -461,7 +484,8 @@
         "id": "OMS/S41-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-021": {
     "name": "聖澤庄之助",
@@ -479,7 +503,8 @@
         "id": "OMS/S41-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-022": {
     "name": "チビ太",
@@ -501,7 +526,8 @@
         "id": "OMS/S41-022a",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-023": {
     "name": "“ハッピーデビューコンサート”トト子",
@@ -519,7 +545,8 @@
         "id": "OMS/S41-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-024": {
     "name": "お魚アイドル",
@@ -537,7 +564,8 @@
         "id": "OMS/S41-024",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-025": {
     "name": "トト子の夢",
@@ -555,7 +583,8 @@
         "id": "OMS/S41-025",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-026": {
     "name": "ニャンとニャイト",
@@ -573,7 +602,8 @@
         "id": "OMS/S41-026",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "OMS/S41-027": {
     "name": "逆襲のイヤミ",
@@ -591,7 +621,8 @@
         "id": "OMS/S41-027",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "OMS/S41-028": {
     "name": "仕込みの極意",
@@ -609,7 +640,8 @@
         "id": "OMS/S41-028",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-029": {
     "name": "“お気に入りの一枚”チョロ松",
@@ -631,7 +663,8 @@
         "id": "OMS/S41-029SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-030": {
     "name": "“お気に入りの一枚”カラ松",
@@ -653,7 +686,8 @@
         "id": "OMS/S41-030SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-031": {
     "name": "“お気に入りの一枚”おそ松",
@@ -675,7 +709,8 @@
         "id": "OMS/S41-031SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-032": {
     "name": "“スイーツ男子”おそ松",
@@ -697,7 +732,8 @@
         "id": "OMS/S41-032R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-033": {
     "name": "“F６”カラ松",
@@ -719,7 +755,8 @@
         "id": "OMS/S41-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-034": {
     "name": "“F６”おそ松",
@@ -741,7 +778,8 @@
         "id": "OMS/S41-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-035": {
     "name": "“ライジングシコースキー”チョロ松",
@@ -759,7 +797,8 @@
         "id": "OMS/S41-035",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-036": {
     "name": "“スイーツ男子”カラ松",
@@ -781,7 +820,8 @@
         "id": "OMS/S41-036R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-037": {
     "name": "“スイーツ男子”チョロ松",
@@ -803,7 +843,8 @@
         "id": "OMS/S41-037R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-038": {
     "name": "“F６”チョロ松",
@@ -825,7 +866,8 @@
         "id": "OMS/S41-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-039": {
     "name": "“罵詈雑言”おそ松",
@@ -843,7 +885,8 @@
         "id": "OMS/S41-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-040": {
     "name": "“お祭り男”カラ松",
@@ -861,7 +904,8 @@
         "id": "OMS/S41-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-041": {
     "name": "“お祭り男”チョロ松",
@@ -879,7 +923,8 @@
         "id": "OMS/S41-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-042": {
     "name": "“なごみ探偵”おそ松",
@@ -897,7 +942,8 @@
         "id": "OMS/S41-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-043": {
     "name": "“罪な男”カラ松",
@@ -915,7 +961,8 @@
         "id": "OMS/S41-043",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-044": {
     "name": "“アイドルオタク”チョロ松",
@@ -933,7 +980,8 @@
         "id": "OMS/S41-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-045": {
     "name": "松野松代＆松野松造",
@@ -951,7 +999,8 @@
         "id": "OMS/S41-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-046": {
     "name": "“罵詈雑言”カラ松",
@@ -969,7 +1018,8 @@
         "id": "OMS/S41-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-047": {
     "name": "“お祭り男”おそ松",
@@ -987,7 +1037,8 @@
         "id": "OMS/S41-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-048": {
     "name": "“じょし松さん”カラ子",
@@ -1005,7 +1056,8 @@
         "id": "OMS/S41-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-049": {
     "name": "“長男の悩み”おそ松",
@@ -1023,7 +1075,8 @@
         "id": "OMS/S41-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-050": {
     "name": "“バスローブ姿”カラ松",
@@ -1041,7 +1094,8 @@
         "id": "OMS/S41-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-051": {
     "name": "“忍者シコ松”チョロ松",
@@ -1059,7 +1113,8 @@
         "id": "OMS/S41-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-052": {
     "name": "“じょし松さん”おそ子",
@@ -1077,7 +1132,8 @@
         "id": "OMS/S41-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-053": {
     "name": "“ずっと一緒に”松野兄弟",
@@ -1095,7 +1151,8 @@
         "id": "OMS/S41-053",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-054": {
     "name": "“一松事変”カラ松",
@@ -1113,7 +1170,8 @@
         "id": "OMS/S41-054",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-055": {
     "name": "“じょし松さん”チョロ子",
@@ -1131,7 +1189,8 @@
         "id": "OMS/S41-055",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-056": {
     "name": "“弟思いのお兄ちゃん”おそ松",
@@ -1149,7 +1208,8 @@
         "id": "OMS/S41-056",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-057": {
     "name": "“罵詈雑言”チョロ松",
@@ -1167,7 +1227,8 @@
         "id": "OMS/S41-057",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-058": {
     "name": "なごみ",
@@ -1185,7 +1246,8 @@
         "id": "OMS/S41-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-059": {
     "name": "自意識",
@@ -1203,7 +1265,8 @@
         "id": "OMS/S41-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-060": {
     "name": "握手券",
@@ -1221,7 +1284,8 @@
         "id": "OMS/S41-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-061": {
     "name": "伝説の６つ子",
@@ -1239,7 +1303,8 @@
         "id": "OMS/S41-061",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "OMS/S41-062": {
     "name": "なごみのおそ松",
@@ -1261,7 +1326,8 @@
         "id": "OMS/S41-062MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-063": {
     "name": "ハリネズミのジレンマ",
@@ -1283,7 +1349,8 @@
         "id": "OMS/S41-063MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-064": {
     "name": "チョロ松ライジング",
@@ -1305,7 +1372,8 @@
         "id": "OMS/S41-064MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-065": {
     "name": "“お気に入りの一枚”十四松",
@@ -1327,7 +1395,8 @@
         "id": "OMS/S41-065SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-066": {
     "name": "“お気に入りの一枚”一松",
@@ -1349,7 +1418,8 @@
         "id": "OMS/S41-066SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-067": {
     "name": "“お気に入りの一枚”トド松",
@@ -1371,7 +1441,8 @@
         "id": "OMS/S41-067SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-068": {
     "name": "“スイーツ男子”トド松",
@@ -1393,7 +1464,8 @@
         "id": "OMS/S41-068R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-069": {
     "name": "“スイーツ男子”一松",
@@ -1415,7 +1487,8 @@
         "id": "OMS/S41-069R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-070": {
     "name": "“F６”一松",
@@ -1437,7 +1510,8 @@
         "id": "OMS/S41-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-071": {
     "name": "“F６”十四松",
@@ -1459,7 +1533,8 @@
         "id": "OMS/S41-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-072": {
     "name": "“F６”トド松",
@@ -1481,7 +1556,8 @@
         "id": "OMS/S41-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-073": {
     "name": "“スイーツ男子”十四松",
@@ -1503,7 +1579,8 @@
         "id": "OMS/S41-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-074": {
     "name": "“隠れた優しさ”一松",
@@ -1521,7 +1598,8 @@
         "id": "OMS/S41-074",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-075": {
     "name": "“お祭り男”十四松",
@@ -1539,7 +1617,8 @@
         "id": "OMS/S41-075",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-076": {
     "name": "“悲劇のヒロイン!?”トド松",
@@ -1557,7 +1636,8 @@
         "id": "OMS/S41-076",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-077": {
     "name": "“お祭り男”トド松",
@@ -1575,7 +1655,8 @@
         "id": "OMS/S41-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-078": {
     "name": "“あたたかな家族”十四松",
@@ -1593,7 +1674,8 @@
         "id": "OMS/S41-078",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-079": {
     "name": "“お祭り男”一松",
@@ -1611,7 +1693,8 @@
         "id": "OMS/S41-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-080": {
     "name": "“隠れた一面”十四松",
@@ -1629,7 +1712,8 @@
         "id": "OMS/S41-080",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-081": {
     "name": "“罵詈雑言”一松",
@@ -1647,7 +1731,8 @@
         "id": "OMS/S41-081",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-082": {
     "name": "エスパーニャンコ",
@@ -1669,7 +1754,8 @@
         "id": "OMS/S41-082a",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-083": {
     "name": "“カフェの店員”トド松",
@@ -1687,7 +1773,8 @@
         "id": "OMS/S41-083",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-084": {
     "name": "“じょし松さん”トド子",
@@ -1705,7 +1792,8 @@
         "id": "OMS/S41-084",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-085": {
     "name": "“罵詈雑言”十四松",
@@ -1723,7 +1811,8 @@
         "id": "OMS/S41-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-086": {
     "name": "“カラ松のパーフェクトファッション”一松",
@@ -1741,7 +1830,8 @@
         "id": "OMS/S41-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-087": {
     "name": "“ドライモンスター”トド松",
@@ -1759,7 +1849,8 @@
         "id": "OMS/S41-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-088": {
     "name": "“こぼれる涙”十四松",
@@ -1777,7 +1868,8 @@
         "id": "OMS/S41-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-089": {
     "name": "“ドライブデート”松野兄弟",
@@ -1795,7 +1887,8 @@
         "id": "OMS/S41-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-090": {
     "name": "“じょし松さん”一子",
@@ -1813,7 +1906,8 @@
         "id": "OMS/S41-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-091": {
     "name": "“素直になれない”一松",
@@ -1831,7 +1925,8 @@
         "id": "OMS/S41-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-092": {
     "name": "“罵詈雑言”トド松",
@@ -1849,7 +1944,8 @@
         "id": "OMS/S41-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-093": {
     "name": "“じょし松さん”十四子",
@@ -1867,7 +1963,8 @@
         "id": "OMS/S41-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-094": {
     "name": "トッティ",
@@ -1885,7 +1982,8 @@
         "id": "OMS/S41-094",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-095": {
     "name": "我々のような雄豚共の火照った体をお冷ましください一松様",
@@ -1903,7 +2001,8 @@
         "id": "OMS/S41-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-096": {
     "name": "新ギャグ",
@@ -1921,7 +2020,8 @@
         "id": "OMS/S41-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-097": {
     "name": "フラッグ・コーポレーション",
@@ -1943,7 +2043,8 @@
         "id": "OMS/S41-097a",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "OMS/S41-098": {
     "name": "トド松と５人の悪魔",
@@ -1965,7 +2066,8 @@
         "id": "OMS/S41-098MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "OMS/S41-099": {
     "name": "ホントの気持ち",
@@ -1987,7 +2089,8 @@
         "id": "OMS/S41-099MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-100": {
     "name": "恋する十四松",
@@ -2009,6 +2112,7 @@
         "id": "OMS/S41-100MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

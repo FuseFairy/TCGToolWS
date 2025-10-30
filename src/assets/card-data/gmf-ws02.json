@@ -19,7 +19,8 @@
         "id": "Gmf/WS02-076SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gmf/WS02-086": {
     "name": "二千年の約束 レイ＆アノス",
@@ -41,7 +42,8 @@
         "id": "Gmf/WS02-086SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gmf/WS02-105": {
     "name": "Anniversary ミーシャ",
@@ -63,7 +65,8 @@
         "id": "Gmf/WS02-105S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gmf/WS02-111": {
     "name": "平和な時代へ",
@@ -85,6 +88,7 @@
         "id": "Gmf/WS02-111SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

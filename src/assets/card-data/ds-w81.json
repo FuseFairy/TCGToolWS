@@ -19,7 +19,8 @@
         "id": "DS/W81-097S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W81-098": {
     "name": "わたしの答え ひまり",
@@ -37,7 +38,8 @@
         "id": "DS/W81-098",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W81-099": {
     "name": "お昼寝の時間 ひまり",
@@ -55,7 +57,8 @@
         "id": "DS/W81-099",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W81-100": {
     "name": "ひまりのお友達",
@@ -77,7 +80,8 @@
         "id": "DS/W81-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W81-101": {
     "name": "一緒に過ごす時間 遥月",
@@ -99,7 +103,8 @@
         "id": "DS/W81-101S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W81-102": {
     "name": "大切なパートナー 遥月",
@@ -117,7 +122,8 @@
         "id": "DS/W81-102",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W81-103": {
     "name": "楽園システム",
@@ -135,7 +141,8 @@
         "id": "DS/W81-103",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W81-104": {
     "name": "妹キャラのこだわり 乃絵里",
@@ -157,7 +164,8 @@
         "id": "DS/W81-104S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W81-105": {
     "name": "寝ぼける乃絵里",
@@ -175,7 +183,8 @@
         "id": "DS/W81-105",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W81-106": {
     "name": "家族になろう 鳴",
@@ -193,7 +202,8 @@
         "id": "DS/W81-106",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W81-107": {
     "name": "家族になろう 乃絵里",
@@ -211,7 +221,8 @@
         "id": "DS/W81-107",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W81-108": {
     "name": "曇りなき思い 依愛",
@@ -233,7 +244,8 @@
         "id": "DS/W81-108S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W81-109": {
     "name": "雪蛍の奇跡 天",
@@ -255,7 +267,8 @@
         "id": "DS/W81-109S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W81-110": {
     "name": "待っていました！ 天",
@@ -273,7 +286,8 @@
         "id": "DS/W81-110",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W81-111": {
     "name": "“永遠鬼ごっこ” 大和＆藍",
@@ -291,7 +305,8 @@
         "id": "DS/W81-111",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W81-112": {
     "name": "凜とした瞳 依愛",
@@ -309,7 +324,8 @@
         "id": "DS/W81-112",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W81-113": {
     "name": "デートの帰り道 依愛",
@@ -327,7 +343,8 @@
         "id": "DS/W81-113",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W81-114": {
     "name": "風南島の管理人 奏",
@@ -345,7 +362,8 @@
         "id": "DS/W81-114",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W81-115": {
     "name": "奇跡の再会",
@@ -367,6 +385,7 @@
         "id": "DS/W81-115R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

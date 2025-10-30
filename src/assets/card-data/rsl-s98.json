@@ -19,7 +19,8 @@
         "id": "RSL/S98-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-002": {
     "name": "道を飾るは花桜 花柳 香子",
@@ -41,7 +42,8 @@
         "id": "RSL/S98-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-003": {
     "name": "銀幕の舞台少女 大場 なな",
@@ -63,7 +65,8 @@
         "id": "RSL/S98-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-004": {
     "name": "銀幕の舞台少女 花柳 香子",
@@ -85,7 +88,8 @@
         "id": "RSL/S98-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-005": {
     "name": "私たちの進む先 花柳 香子",
@@ -107,7 +111,8 @@
         "id": "RSL/S98-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-006": {
     "name": "狩りのレヴュー 大場 なな",
@@ -129,7 +134,8 @@
         "id": "RSL/S98-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-007": {
     "name": "私たちの進む先 大場 なな",
@@ -151,7 +157,8 @@
         "id": "RSL/S98-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-008": {
     "name": "わがままハイウェイ 花柳 香子",
@@ -173,7 +180,8 @@
         "id": "RSL/S98-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-009": {
     "name": "切り捨てる言葉 大場 なな",
@@ -191,7 +199,8 @@
         "id": "RSL/S98-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-010": {
     "name": "舞台少女に魅せられた者 キリン",
@@ -209,7 +218,8 @@
         "id": "RSL/S98-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-011": {
     "name": "舞い踊る刀 大場 なな",
@@ -231,7 +241,8 @@
         "id": "RSL/S98-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-012": {
     "name": "縁切り 花柳 香子",
@@ -249,7 +260,8 @@
         "id": "RSL/S98-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-013": {
     "name": "怨みのレヴュー 花柳 香子",
@@ -271,7 +283,8 @@
         "id": "RSL/S98-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-014": {
     "name": "お前のためにも……？ 花柳 香子",
@@ -289,7 +302,8 @@
         "id": "RSL/S98-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-015": {
     "name": "今こそ、塔を降りる時 大場 なな",
@@ -307,7 +321,8 @@
         "id": "RSL/S98-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-016": {
     "name": "疾走する列車の上 大場 なな",
@@ -325,7 +340,8 @@
         "id": "RSL/S98-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-017": {
     "name": "現実の自分 花柳 香子",
@@ -343,7 +359,8 @@
         "id": "RSL/S98-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-018": {
     "name": "賭場の華 花柳 香子",
@@ -361,7 +378,8 @@
         "id": "RSL/S98-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-019": {
     "name": "追想 大場 なな",
@@ -379,7 +397,8 @@
         "id": "RSL/S98-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-020": {
     "name": "美しかった君へ",
@@ -397,7 +416,8 @@
         "id": "RSL/S98-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-021": {
     "name": "皆殺しのレヴュー",
@@ -419,7 +439,8 @@
         "id": "RSL/S98-021SCC",
         "rarity": "SCC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-022": {
     "name": "あなたを待って",
@@ -441,7 +462,8 @@
         "id": "RSL/S98-022SCC",
         "rarity": "SCC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-023": {
     "name": "花咲く怒り",
@@ -463,7 +485,8 @@
         "id": "RSL/S98-023SCC",
         "rarity": "SCC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-024": {
     "name": "舞台に生きていく 露崎 まひる",
@@ -485,7 +508,8 @@
         "id": "RSL/S98-024SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-025": {
     "name": "翠の光 星見 純那",
@@ -507,7 +531,8 @@
         "id": "RSL/S98-025SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-026": {
     "name": "狩りのレヴュー 星見 純那",
@@ -529,7 +554,8 @@
         "id": "RSL/S98-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-027": {
     "name": "銀幕の舞台少女 星見 純那",
@@ -551,7 +577,8 @@
         "id": "RSL/S98-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-028": {
     "name": "私たちの進む先 星見 純那",
@@ -573,7 +600,8 @@
         "id": "RSL/S98-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-029": {
     "name": "私たちの進む先 露崎 まひる",
@@ -595,7 +623,8 @@
         "id": "RSL/S98-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-030": {
     "name": "銀幕の舞台少女 露崎 まひる",
@@ -617,7 +646,8 @@
         "id": "RSL/S98-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-031": {
     "name": "舞台で演じないのなら 露崎 まひる",
@@ -639,7 +669,8 @@
         "id": "RSL/S98-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-032": {
     "name": "私との舞台でしょ？ 露崎 まひる",
@@ -661,7 +692,8 @@
         "id": "RSL/S98-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-033": {
     "name": "素直な気持ち 露崎 まひる",
@@ -679,7 +711,8 @@
         "id": "RSL/S98-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-034": {
     "name": "不撓不屈 星見 純那",
@@ -697,7 +730,8 @@
         "id": "RSL/S98-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-035": {
     "name": "自分の言葉 星見 純那",
@@ -719,7 +753,8 @@
         "id": "RSL/S98-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-036": {
     "name": "今は未完成の脚本 星見 純那",
@@ -737,7 +772,8 @@
         "id": "RSL/S98-036",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-037": {
     "name": "いつかまた新しい舞台で 星見 純那",
@@ -755,7 +791,8 @@
         "id": "RSL/S98-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-038": {
     "name": "エール 露崎 まひる",
@@ -773,7 +810,8 @@
         "id": "RSL/S98-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-039": {
     "name": "金メダルを目指して 露崎 まひる",
@@ -791,7 +829,8 @@
         "id": "RSL/S98-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-040": {
     "name": "見学会に向けて 露崎 まひる",
@@ -809,7 +848,8 @@
         "id": "RSL/S98-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-041": {
     "name": "気圧される迫力 星見 純那",
@@ -827,7 +867,8 @@
         "id": "RSL/S98-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-042": {
     "name": "もっと……もっと……もっと",
@@ -845,7 +886,8 @@
         "id": "RSL/S98-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-043": {
     "name": "特製の金メダル",
@@ -863,7 +905,8 @@
         "id": "RSL/S98-043",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-044": {
     "name": "私が主役の舞台",
@@ -885,7 +928,8 @@
         "id": "RSL/S98-044SCC",
         "rarity": "SCC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-045": {
     "name": "あなたと私の舞台",
@@ -907,7 +951,8 @@
         "id": "RSL/S98-045SCC",
         "rarity": "SCC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-046": {
     "name": "競演のレヴュー",
@@ -929,7 +974,8 @@
         "id": "RSL/S98-046SCC",
         "rarity": "SCC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-047": {
     "name": "道を飾るは花桜 石動 双葉",
@@ -951,7 +997,8 @@
         "id": "RSL/S98-047SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-048": {
     "name": "私たちは ともに、 西條 クロディーヌ",
@@ -973,7 +1020,8 @@
         "id": "RSL/S98-048SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-049": {
     "name": "次の舞台、次の役ヘ 愛城 華恋",
@@ -995,7 +1043,8 @@
         "id": "RSL/S98-049SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-050": {
     "name": "銀幕の舞台少女 西條 クロディーヌ",
@@ -1017,7 +1066,8 @@
         "id": "RSL/S98-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-051": {
     "name": "【RIVAL】 西條 クロディーヌ",
@@ -1039,7 +1089,8 @@
         "id": "RSL/S98-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-052": {
     "name": "わがままハイウェイ 石動 双葉",
@@ -1061,7 +1112,8 @@
         "id": "RSL/S98-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-053": {
     "name": "銀幕の舞台少女 愛城 華恋",
@@ -1083,7 +1135,8 @@
         "id": "RSL/S98-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-054": {
     "name": "再会 愛城 華恋",
@@ -1105,7 +1158,8 @@
         "id": "RSL/S98-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-055": {
     "name": "銀幕の舞台少女 石動 双葉",
@@ -1127,7 +1181,8 @@
         "id": "RSL/S98-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-056": {
     "name": "私たちの進む先 石動 双葉",
@@ -1149,7 +1204,8 @@
         "id": "RSL/S98-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-057": {
     "name": "私たちの進む先 西條 クロディーヌ",
@@ -1171,7 +1227,8 @@
         "id": "RSL/S98-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-058": {
     "name": "私たちの進む先 愛城 華恋",
@@ -1193,7 +1250,8 @@
         "id": "RSL/S98-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-059": {
     "name": "最後のセリフ 愛城 華恋",
@@ -1215,7 +1273,8 @@
         "id": "RSL/S98-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-060": {
     "name": "鉄火場 西條 クロディーヌ",
@@ -1233,7 +1292,8 @@
         "id": "RSL/S98-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-061": {
     "name": "ごあいさつ 愛城 華恋",
@@ -1251,7 +1311,8 @@
         "id": "RSL/S98-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-062": {
     "name": "呆気にとられる石動 双葉",
@@ -1269,7 +1330,8 @@
         "id": "RSL/S98-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-063": {
     "name": "悪魔の甘言 西條 クロディーヌ",
@@ -1291,7 +1353,8 @@
         "id": "RSL/S98-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-064": {
     "name": "割り込み乱入 石動 双葉",
@@ -1313,7 +1376,8 @@
         "id": "RSL/S98-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-065": {
     "name": "『スタァライト』を演じた後 愛城 華恋",
@@ -1331,7 +1395,8 @@
         "id": "RSL/S98-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-066": {
     "name": "みんなの進路 西條 クロディーヌ",
@@ -1349,7 +1414,8 @@
         "id": "RSL/S98-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-067": {
     "name": "盤上での腕前 西條 クロディーヌ",
@@ -1367,7 +1433,8 @@
         "id": "RSL/S98-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-068": {
     "name": "どうして！ 石動 双葉",
@@ -1385,7 +1452,8 @@
         "id": "RSL/S98-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-069": {
     "name": "わかってくれるはず 石動 双葉",
@@ -1403,7 +1471,8 @@
         "id": "RSL/S98-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-070": {
     "name": "見つからない理由 愛城 華恋",
@@ -1421,7 +1490,8 @@
         "id": "RSL/S98-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-071": {
     "name": "想いが漏れる台詞 愛城 華恋",
@@ -1439,7 +1509,8 @@
         "id": "RSL/S98-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-072": {
     "name": "見学会前日 石動 双葉",
@@ -1457,7 +1528,8 @@
         "id": "RSL/S98-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-073": {
     "name": "迫真の剣撃 西條 クロディーヌ",
@@ -1475,7 +1547,8 @@
         "id": "RSL/S98-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-074": {
     "name": "再生産列車",
@@ -1493,7 +1566,8 @@
         "id": "RSL/S98-074",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-075": {
     "name": "アタシ再生産",
@@ -1515,7 +1589,8 @@
         "id": "RSL/S98-075SCC",
         "rarity": "SCC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-076": {
     "name": "君を待たせて",
@@ -1537,7 +1612,8 @@
         "id": "RSL/S98-076SCC",
         "rarity": "SCC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-077": {
     "name": "美しき決着",
@@ -1559,7 +1635,8 @@
         "id": "RSL/S98-077SCC",
         "rarity": "SCC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RSL/S98-078": {
     "name": "私たちの進む先 神楽 ひかり",
@@ -1581,7 +1658,8 @@
         "id": "RSL/S98-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-079": {
     "name": "いってらっしゃい 神楽 ひかり",
@@ -1603,7 +1681,8 @@
         "id": "RSL/S98-079SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-080": {
     "name": "私たちは ともに、 天堂 真矢",
@@ -1625,7 +1704,8 @@
         "id": "RSL/S98-080SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-081": {
     "name": "銀幕の舞台少女 神楽 ひかり",
@@ -1647,7 +1727,8 @@
         "id": "RSL/S98-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-082": {
     "name": "私たちの進む先 天堂 真矢",
@@ -1669,7 +1750,8 @@
         "id": "RSL/S98-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-083": {
     "name": "銀幕の舞台少女 天堂 真矢",
@@ -1691,7 +1773,8 @@
         "id": "RSL/S98-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-084": {
     "name": "無限を映す神の器 天堂 真矢",
@@ -1713,7 +1796,8 @@
         "id": "RSL/S98-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-085": {
     "name": "再会 神楽 ひかり",
@@ -1735,7 +1819,8 @@
         "id": "RSL/S98-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-086": {
     "name": "盤上での性分 天堂 真矢",
@@ -1753,7 +1838,8 @@
         "id": "RSL/S98-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-087": {
     "name": "別れの時 神楽 ひかり",
@@ -1775,7 +1861,8 @@
         "id": "RSL/S98-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-088": {
     "name": "【RIVAL】 天堂 真矢",
@@ -1797,7 +1884,8 @@
         "id": "RSL/S98-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-089": {
     "name": "金メダルを目指して 神楽 ひかり",
@@ -1815,7 +1903,8 @@
         "id": "RSL/S98-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-090": {
     "name": "遠く海を見つめて 神楽 ひかり",
@@ -1833,7 +1922,8 @@
         "id": "RSL/S98-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-091": {
     "name": "麗しき舞台人 天堂 真矢",
@@ -1851,7 +1941,8 @@
         "id": "RSL/S98-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-092": {
     "name": "ごあいさつ 神楽 ひかり",
@@ -1869,7 +1960,8 @@
         "id": "RSL/S98-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-093": {
     "name": "新たな舞台を求めて 天堂 真矢",
@@ -1887,7 +1979,8 @@
         "id": "RSL/S98-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-094": {
     "name": "迫真の剣撃 天堂 真矢",
@@ -1905,7 +1998,8 @@
         "id": "RSL/S98-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-095": {
     "name": "走れ！ 神楽 ひかり",
@@ -1923,7 +2017,8 @@
         "id": "RSL/S98-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-096": {
     "name": "魂のレヴュー",
@@ -1941,7 +2036,8 @@
         "id": "RSL/S98-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-097": {
     "name": "熟れたトマト",
@@ -1959,7 +2055,8 @@
         "id": "RSL/S98-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-098": {
     "name": "終幕――そして",
@@ -1981,7 +2078,8 @@
         "id": "RSL/S98-098SCC",
         "rarity": "SCC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-099": {
     "name": "あなただから全てを",
@@ -2003,7 +2101,8 @@
         "id": "RSL/S98-099SCC",
         "rarity": "SCC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-100": {
     "name": "再びこの舞台で会いましょう",
@@ -2025,6 +2124,7 @@
         "id": "RSL/S98-100SCC",
         "rarity": "SCC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "SAO/SE23-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-T14": {
     "name": "“銃世界の剣士”キリト",
@@ -37,7 +38,8 @@
         "id": "SAO/SE23-T14SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-T15": {
     "name": "“氷の機械”シノン",
@@ -59,7 +61,8 @@
         "id": "SAO/SE23-T15SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-T17": {
     "name": "優秀な狙撃手 シノン",
@@ -77,7 +80,8 @@
         "id": "SAO/SE23-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-01": {
     "name": "穏やかな時 アスナ",
@@ -95,7 +99,8 @@
         "id": "SAO/SE23-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-02": {
     "name": "苦い記憶 アスナ",
@@ -113,7 +118,8 @@
         "id": "SAO/SE23-02",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-03": {
     "name": "《ALO》の日常 アスナ",
@@ -131,7 +137,8 @@
         "id": "SAO/SE23-03",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-04": {
     "name": "秋の散策 明日奈",
@@ -149,7 +156,8 @@
         "id": "SAO/SE23-04",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-05": {
     "name": "兄妹のひと時 直葉",
@@ -167,7 +175,8 @@
         "id": "SAO/SE23-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-06": {
     "name": "素材採集 リーファ",
@@ -185,7 +194,8 @@
         "id": "SAO/SE23-06",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-07": {
     "name": "素材採集 シリカ",
@@ -203,7 +213,8 @@
         "id": "SAO/SE23-07",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-08": {
     "name": "新川 昌一",
@@ -221,7 +232,8 @@
         "id": "SAO/SE23-08",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-09": {
     "name": "Sterben《死銃》",
@@ -239,7 +251,8 @@
         "id": "SAO/SE23-09",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-10": {
     "name": "みんなで観戦 リズベット",
@@ -257,7 +270,8 @@
         "id": "SAO/SE23-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-11": {
     "name": "レッドプレイヤー《死銃》",
@@ -275,7 +289,8 @@
         "id": "SAO/SE23-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-12": {
     "name": "現れた死神《死銃》",
@@ -293,7 +308,8 @@
         "id": "SAO/SE23-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-13": {
     "name": "過剰な執着 恭二",
@@ -311,7 +327,8 @@
         "id": "SAO/SE23-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-14": {
     "name": "みんなでMob狩り リズベット",
@@ -329,7 +346,8 @@
         "id": "SAO/SE23-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-15": {
     "name": "死に至る弾丸《死銃》",
@@ -347,7 +365,8 @@
         "id": "SAO/SE23-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-16": {
     "name": "いつものシリカ",
@@ -365,7 +384,8 @@
         "id": "SAO/SE23-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-17": {
     "name": "因縁の刺剣使い",
@@ -383,7 +403,8 @@
         "id": "SAO/SE23-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SAO/SE23-18": {
     "name": "理想の自分 シノン",
@@ -401,7 +422,8 @@
         "id": "SAO/SE23-18",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-19": {
     "name": "木漏れ日の中 シノン",
@@ -419,7 +441,8 @@
         "id": "SAO/SE23-19",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-20": {
     "name": "一時的な共闘 キリト",
@@ -437,7 +460,8 @@
         "id": "SAO/SE23-20",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-21": {
     "name": "一時的な共闘 シノン",
@@ -455,7 +479,8 @@
         "id": "SAO/SE23-21",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-22": {
     "name": "強くあるべき存在 シノン",
@@ -473,7 +498,8 @@
         "id": "SAO/SE23-22",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-23": {
     "name": "因縁の果て キリト",
@@ -495,7 +521,8 @@
         "id": "SAO/SE23-23SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-24": {
     "name": "最後の一撃 シノン",
@@ -517,7 +544,8 @@
         "id": "SAO/SE23-24SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-25": {
     "name": "銃の基礎知識 シノン",
@@ -535,7 +563,8 @@
         "id": "SAO/SE23-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-26": {
     "name": "潜行のキリト",
@@ -553,7 +582,8 @@
         "id": "SAO/SE23-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-27": {
     "name": "秋の散策 和人",
@@ -571,7 +601,8 @@
         "id": "SAO/SE23-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-28": {
     "name": "強くなりたい詩乃",
@@ -589,7 +620,8 @@
         "id": "SAO/SE23-28",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-29": {
     "name": "戦う選択 キリト",
@@ -607,7 +639,8 @@
         "id": "SAO/SE23-29",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-30": {
     "name": "麗しのアバター キリト",
@@ -625,7 +658,8 @@
         "id": "SAO/SE23-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-31": {
     "name": "お怒りシノン",
@@ -643,7 +677,8 @@
         "id": "SAO/SE23-31",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-32": {
     "name": "“後ろに注意”シノン",
@@ -661,7 +696,8 @@
         "id": "SAO/SE23-32",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-33": {
     "name": "《死銃》との対峙 キリト",
@@ -679,7 +715,8 @@
         "id": "SAO/SE23-33",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-34": {
     "name": "かつての名前",
@@ -697,7 +734,8 @@
         "id": "SAO/SE23-34",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE23-35": {
     "name": "幻影の一弾",
@@ -715,7 +753,8 @@
         "id": "SAO/SE23-35",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE23-36": {
     "name": "小さな一歩",
@@ -733,6 +772,7 @@
         "id": "SAO/SE23-36",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

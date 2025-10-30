@@ -15,7 +15,8 @@
         "id": "N1/WE06-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/WE06-02": {
     "name": "対等のパートナー アルフ",
@@ -33,7 +34,8 @@
         "id": "N1/WE06-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/WE06-03": {
     "name": "もうひとりの魔法少女フェイト",
@@ -51,7 +53,8 @@
         "id": "N1/WE06-03",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N1/WE06-04": {
     "name": "失われた過去プレシア",
@@ -69,7 +72,8 @@
         "id": "N1/WE06-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N1/WE06-05": {
     "name": "プレシア・テスタロッサ",
@@ -87,7 +91,8 @@
         "id": "N1/WE06-05",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/WE06-06": {
     "name": "教育係リニス",
@@ -105,7 +110,8 @@
         "id": "N1/WE06-06",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/WE06-07": {
     "name": "ひたすらに一途フェイト",
@@ -123,7 +129,8 @@
         "id": "N1/WE06-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/WE06-08": {
     "name": "狼形態アルフ",
@@ -141,7 +148,8 @@
         "id": "N1/WE06-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N1/WE06-09": {
     "name": "母を想うフェイト",
@@ -159,7 +167,8 @@
         "id": "N1/WE06-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N1/WE06-10": {
     "name": "ファランクスシフト",
@@ -177,7 +186,8 @@
         "id": "N1/WE06-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "N1/WE06-11": {
     "name": "意地っ張りアリサ",
@@ -195,7 +205,8 @@
         "id": "N1/WE06-11",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/WE06-12": {
     "name": "自分の意思なのは",
@@ -213,7 +224,8 @@
         "id": "N1/WE06-12",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N1/WE06-13": {
     "name": "月村 すずか",
@@ -231,7 +243,8 @@
         "id": "N1/WE06-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/WE06-14": {
     "name": "敏腕オペレータ エイミィ",
@@ -249,7 +262,8 @@
         "id": "N1/WE06-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/WE06-15": {
     "name": "優しい少女すずか",
@@ -267,7 +281,8 @@
         "id": "N1/WE06-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/WE06-16": {
     "name": "アリサ・バニングス",
@@ -285,7 +300,8 @@
         "id": "N1/WE06-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/WE06-17": {
     "name": "時空管理局提督リンディ",
@@ -303,7 +319,8 @@
         "id": "N1/WE06-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/WE06-18": {
     "name": "アースラの切り札クロノ",
@@ -321,7 +338,8 @@
         "id": "N1/WE06-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N1/WE06-19": {
     "name": "信じた思い なのは",
@@ -339,7 +357,8 @@
         "id": "N1/WE06-19",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N1/WE06-20": {
     "name": "全力全開なのは",
@@ -357,7 +376,8 @@
         "id": "N1/WE06-20",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N1/WE06-21": {
     "name": "分け合う気持ち なのは＆フェイト",
@@ -375,7 +395,8 @@
         "id": "N1/WE06-21",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "N1/WE06-22": {
     "name": "制服のなのは",
@@ -393,7 +414,8 @@
         "id": "N1/WE06-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/WE06-23": {
     "name": "フェレット形態ユーノ",
@@ -411,7 +433,8 @@
         "id": "N1/WE06-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/WE06-24": {
     "name": "魔法の資質なのは",
@@ -429,7 +452,8 @@
         "id": "N1/WE06-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/WE06-25": {
     "name": "結界魔導師ユーノ",
@@ -447,7 +471,8 @@
         "id": "N1/WE06-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "N1/WE06-26": {
     "name": "ディバインバスター",
@@ -465,7 +490,8 @@
         "id": "N1/WE06-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "N1/WE06-27": {
     "name": "スターライトブレイカー",
@@ -483,6 +509,7 @@
         "id": "N1/WE06-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

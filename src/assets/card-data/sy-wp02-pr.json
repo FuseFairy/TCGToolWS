@@ -15,7 +15,8 @@
         "id": "SY/WP02-10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/WP02-09": {
     "name": "夏の眼福 ハルヒ＆みくる",
@@ -33,6 +34,7 @@
         "id": "SY/WP02-09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

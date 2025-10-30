@@ -19,7 +19,8 @@
         "id": "CSM/S96-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-T02": {
     "name": "デビルハンター パワー",
@@ -41,7 +42,8 @@
         "id": "CSM/S96-T02SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-T03": {
     "name": "チェンソーの悪魔 ポチタ",
@@ -63,7 +65,8 @@
         "id": "CSM/S96-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-T04": {
     "name": "好きなタイプ？ マキマ",
@@ -85,7 +88,8 @@
         "id": "CSM/S96-T04R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-T05": {
     "name": "血の匂い パワー",
@@ -107,7 +111,8 @@
         "id": "CSM/S96-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-T06": {
     "name": "悪魔の名前 マキマ",
@@ -129,7 +134,8 @@
         "id": "CSM/S96-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-T07": {
     "name": "仕事への覚悟 早川アキ",
@@ -151,7 +157,8 @@
         "id": "CSM/S96-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-T08": {
     "name": "最強のパン",
@@ -173,7 +180,8 @@
         "id": "CSM/S96-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-T09": {
     "name": "犬と主人",
@@ -195,7 +203,8 @@
         "id": "CSM/S96-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-T10": {
     "name": "初めての出会い パワー",
@@ -217,7 +226,8 @@
         "id": "CSM/S96-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-T11": {
     "name": "不思議な匂い マキマ",
@@ -239,7 +249,8 @@
         "id": "CSM/S96-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-T12": {
     "name": "電ノコ悪魔 チェンソーマン",
@@ -261,7 +272,8 @@
         "id": "CSM/S96-T12R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-T13": {
     "name": "デビルハンター デンジ",
@@ -287,7 +299,8 @@
         "id": "CSM/S96-T13SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-T14": {
     "name": "急所狙い デンジ",
@@ -309,7 +322,8 @@
         "id": "CSM/S96-T14R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-T15": {
     "name": "本気の動機 マキマ",
@@ -331,7 +345,8 @@
         "id": "CSM/S96-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-T16": {
     "name": "心臓の秘密 デンジ",
@@ -353,7 +368,8 @@
         "id": "CSM/S96-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-T17": {
     "name": "悪魔を狩る悪魔 チェンソーマン",
@@ -375,7 +391,8 @@
         "id": "CSM/S96-T17OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-T18": {
     "name": "愚かじゃな！ パワー",
@@ -397,7 +414,8 @@
         "id": "CSM/S96-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-T19": {
     "name": "ゴミ箱での契約",
@@ -419,7 +437,8 @@
         "id": "CSM/S96-T19OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-T20": {
     "name": "悪魔の咆哮",
@@ -441,6 +460,7 @@
         "id": "CSM/S96-T20R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

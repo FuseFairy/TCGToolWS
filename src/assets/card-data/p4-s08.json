@@ -15,7 +15,8 @@
         "id": "P4/S08-001",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-002": {
     "name": "主人公＆伊邪那岐大神",
@@ -37,7 +38,8 @@
         "id": "P4/S08-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-003": {
     "name": "家族の証 堂島",
@@ -55,7 +57,8 @@
         "id": "P4/S08-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-004": {
     "name": "WILDの力 主人公",
@@ -73,7 +76,8 @@
         "id": "P4/S08-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-005": {
     "name": "酒屋の娘 小西早紀",
@@ -91,7 +95,8 @@
         "id": "P4/S08-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-006": {
     "name": "ジュネス大好き！ 菜々子",
@@ -113,7 +118,8 @@
         "id": "P4/S08-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-007": {
     "name": "仲良し兄妹 主人公＆菜々子",
@@ -131,7 +137,8 @@
         "id": "P4/S08-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-008": {
     "name": "ガッカリ王子 陽介ちゃん",
@@ -149,7 +156,8 @@
         "id": "P4/S08-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-009": {
     "name": "演劇部 小沢結実",
@@ -167,7 +175,8 @@
         "id": "P4/S08-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-010": {
     "name": "浴衣の菜々子",
@@ -185,7 +194,8 @@
         "id": "P4/S08-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-011": {
     "name": "リーダー主人公",
@@ -203,7 +213,8 @@
         "id": "P4/S08-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-012": {
     "name": "店長の息子 陽介",
@@ -221,7 +232,8 @@
         "id": "P4/S08-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-013": {
     "name": "吹奏楽部 松永綾音",
@@ -239,7 +251,8 @@
         "id": "P4/S08-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-014": {
     "name": "結婚宣言 菜々子",
@@ -257,7 +270,8 @@
         "id": "P4/S08-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-015": {
     "name": "ミスコン？主人公ちゃん",
@@ -275,7 +289,8 @@
         "id": "P4/S08-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-016": {
     "name": "主人公の相棒 陽介",
@@ -293,7 +308,8 @@
         "id": "P4/S08-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-017": {
     "name": "友情の絆創膏 陽介",
@@ -311,7 +327,8 @@
         "id": "P4/S08-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-018": {
     "name": "父親の誓い 堂島",
@@ -329,7 +346,8 @@
         "id": "P4/S08-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-019": {
     "name": "陽介＆スサノオ",
@@ -347,7 +365,8 @@
         "id": "P4/S08-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-020": {
     "name": "マヨナカテレビ",
@@ -365,7 +384,8 @@
         "id": "P4/S08-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-021": {
     "name": "ジュネス",
@@ -383,7 +403,8 @@
         "id": "P4/S08-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-022": {
     "name": "熱い抱擁",
@@ -401,7 +422,8 @@
         "id": "P4/S08-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-023": {
     "name": "幾万の真言",
@@ -423,7 +445,8 @@
         "id": "P4/S08-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P4/S08-024": {
     "name": "Never More",
@@ -441,7 +464,8 @@
         "id": "P4/S08-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P4/S08-025": {
     "name": "ブレイブザッパー",
@@ -463,7 +487,8 @@
         "id": "P4/S08-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-026": {
     "name": "本当の自分りせ",
@@ -481,7 +506,8 @@
         "id": "P4/S08-026",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-027": {
     "name": "自称カンフー研究会 千枝",
@@ -499,7 +525,8 @@
         "id": "P4/S08-027",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-028": {
     "name": "死神 黒田ひさ乃",
@@ -517,7 +544,8 @@
         "id": "P4/S08-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-029": {
     "name": "芸能人りせ",
@@ -539,7 +567,8 @@
         "id": "P4/S08-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-030": {
     "name": "バスケ部 一条康",
@@ -557,7 +586,8 @@
         "id": "P4/S08-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-031": {
     "name": "りせ＆ヒミコ",
@@ -579,7 +609,8 @@
         "id": "P4/S08-031SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-032": {
     "name": "千枝＆スズカゴンゲン",
@@ -601,7 +632,8 @@
         "id": "P4/S08-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-033": {
     "name": "学童保育の母 南絵里",
@@ -619,7 +651,8 @@
         "id": "P4/S08-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-034": {
     "name": "水着の千枝",
@@ -637,7 +670,8 @@
         "id": "P4/S08-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-035": {
     "name": "黄金の右脚 千枝",
@@ -655,7 +689,8 @@
         "id": "P4/S08-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-036": {
     "name": "辰姫神社のキツネ",
@@ -673,7 +708,8 @@
         "id": "P4/S08-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-037": {
     "name": "りせ＆カンゼオン",
@@ -691,7 +727,8 @@
         "id": "P4/S08-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-038": {
     "name": "頼れる王子様 千枝",
@@ -709,7 +746,8 @@
         "id": "P4/S08-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-039": {
     "name": "癒しの波動りせ",
@@ -727,7 +765,8 @@
         "id": "P4/S08-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-040": {
     "name": "浴衣の千枝",
@@ -745,7 +784,8 @@
         "id": "P4/S08-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-041": {
     "name": "浴衣のりせ",
@@ -763,7 +803,8 @@
         "id": "P4/S08-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-042": {
     "name": "サッカー部 長瀬大輔",
@@ -781,7 +822,8 @@
         "id": "P4/S08-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-043": {
     "name": "大切な友達 千枝＆雪子",
@@ -799,7 +841,8 @@
         "id": "P4/S08-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-044": {
     "name": "水着のりせちー",
@@ -817,7 +860,8 @@
         "id": "P4/S08-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-045": {
     "name": "自称特別捜査隊",
@@ -835,7 +879,8 @@
         "id": "P4/S08-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-046": {
     "name": "王様ゲーム",
@@ -853,7 +898,8 @@
         "id": "P4/S08-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-047": {
     "name": "川のヌシ釣り",
@@ -871,7 +917,8 @@
         "id": "P4/S08-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-048": {
     "name": "ゴッドハンド",
@@ -893,7 +940,8 @@
         "id": "P4/S08-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-049": {
     "name": "千枝の追撃",
@@ -911,7 +959,8 @@
         "id": "P4/S08-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P4/S08-050": {
     "name": "ハイ・アナライズ",
@@ -933,7 +982,8 @@
         "id": "P4/S08-050R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P4/S08-051": {
     "name": "完二＆ロクテンマオウ",
@@ -951,7 +1001,8 @@
         "id": "P4/S08-051",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-052": {
     "name": "浴衣の雪子",
@@ -969,7 +1020,8 @@
         "id": "P4/S08-052",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-053": {
     "name": "本当の強さ完二",
@@ -987,7 +1039,8 @@
         "id": "P4/S08-053",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-054": {
     "name": "水着の雪子",
@@ -1005,7 +1058,8 @@
         "id": "P4/S08-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-055": {
     "name": "爆笑スイッチ雪子",
@@ -1027,7 +1081,8 @@
         "id": "P4/S08-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-056": {
     "name": "ゲーム感覚 足立",
@@ -1045,7 +1100,8 @@
         "id": "P4/S08-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-057": {
     "name": "若女将 雪子",
@@ -1063,7 +1119,8 @@
         "id": "P4/S08-057",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-058": {
     "name": "頼るお姫様 雪子",
@@ -1081,7 +1138,8 @@
         "id": "P4/S08-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-059": {
     "name": "被害者の弟 小西尚紀",
@@ -1099,7 +1157,8 @@
         "id": "P4/S08-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-060": {
     "name": "一撃でしとめる雪子",
@@ -1117,7 +1176,8 @@
         "id": "P4/S08-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-061": {
     "name": "伝説の男 完二",
@@ -1135,7 +1195,8 @@
         "id": "P4/S08-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-062": {
     "name": "雪子＆アマテラス",
@@ -1153,7 +1214,8 @@
         "id": "P4/S08-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-063": {
     "name": "ジュネスでサボる足立",
@@ -1171,7 +1233,8 @@
         "id": "P4/S08-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-064": {
     "name": "ガソスタの店員",
@@ -1189,7 +1252,8 @@
         "id": "P4/S08-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-065": {
     "name": "浴衣の完二",
@@ -1207,7 +1271,8 @@
         "id": "P4/S08-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-066": {
     "name": "ナース上原小夜子",
@@ -1225,7 +1290,8 @@
         "id": "P4/S08-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-067": {
     "name": "署内一の頭脳派 足立",
@@ -1243,7 +1309,8 @@
         "id": "P4/S08-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-068": {
     "name": "ひどすぎる完二ちゃん",
@@ -1261,7 +1328,8 @@
         "id": "P4/S08-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-069": {
     "name": "あみぐるみマスター完二",
@@ -1279,7 +1347,8 @@
         "id": "P4/S08-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-070": {
     "name": "食べられないカレー",
@@ -1297,7 +1366,8 @@
         "id": "P4/S08-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-071": {
     "name": "中間テスト",
@@ -1315,7 +1385,8 @@
         "id": "P4/S08-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-072": {
     "name": "一撃",
@@ -1333,7 +1404,8 @@
         "id": "P4/S08-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-073": {
     "name": "メシアライザー",
@@ -1355,7 +1427,8 @@
         "id": "P4/S08-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-074": {
     "name": "剛殺斬",
@@ -1377,7 +1450,8 @@
         "id": "P4/S08-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P4/S08-075": {
     "name": "世界の意思",
@@ -1395,7 +1469,8 @@
         "id": "P4/S08-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P4/S08-076": {
     "name": "浴衣のクマ",
@@ -1413,7 +1488,8 @@
         "id": "P4/S08-076",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-077": {
     "name": "旅のお供マーガレット",
@@ -1435,7 +1511,8 @@
         "id": "P4/S08-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-078": {
     "name": "全力でフォロー直斗",
@@ -1453,7 +1530,8 @@
         "id": "P4/S08-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-079": {
     "name": "クマ＆キントキドウジ",
@@ -1471,7 +1549,8 @@
         "id": "P4/S08-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-080": {
     "name": "生徒会長 伏見千尋",
@@ -1489,7 +1568,8 @@
         "id": "P4/S08-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-081": {
     "name": "直斗＆ヤマトタケル",
@@ -1511,7 +1591,8 @@
         "id": "P4/S08-081SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-082": {
     "name": "クマ＆カムイ",
@@ -1529,7 +1610,8 @@
         "id": "P4/S08-082",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-083": {
     "name": "“青春の主張”クマ",
@@ -1547,7 +1629,8 @@
         "id": "P4/S08-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-084": {
     "name": "探偵王子 直斗",
@@ -1565,7 +1648,8 @@
         "id": "P4/S08-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-085": {
     "name": "直斗＆スクナヒコナ",
@@ -1583,7 +1667,8 @@
         "id": "P4/S08-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-086": {
     "name": "ジュネスのアイドル クマ",
@@ -1601,7 +1686,8 @@
         "id": "P4/S08-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-087": {
     "name": "力を司る者マーガレット",
@@ -1619,7 +1705,8 @@
         "id": "P4/S08-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-088": {
     "name": "マネージャー海老原あい",
@@ -1637,7 +1724,8 @@
         "id": "P4/S08-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-089": {
     "name": "名探偵 直斗",
@@ -1655,7 +1743,8 @@
         "id": "P4/S08-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-090": {
     "name": "教え子 中島秀",
@@ -1673,7 +1762,8 @@
         "id": "P4/S08-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-091": {
     "name": "無限の可能性 直斗",
@@ -1691,7 +1781,8 @@
         "id": "P4/S08-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-092": {
     "name": "“熊田”ちゃん",
@@ -1709,7 +1800,8 @@
         "id": "P4/S08-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-093": {
     "name": "クマ・スペック２",
@@ -1727,7 +1819,8 @@
         "id": "P4/S08-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-094": {
     "name": "セーラー服の直斗",
@@ -1745,7 +1838,8 @@
         "id": "P4/S08-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-095": {
     "name": "すべての人の魂の詩",
@@ -1763,7 +1857,8 @@
         "id": "P4/S08-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-096": {
     "name": "マギーのタロット占い",
@@ -1781,7 +1876,8 @@
         "id": "P4/S08-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-097": {
     "name": "クマ登場！",
@@ -1799,7 +1895,8 @@
         "id": "P4/S08-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P4/S08-098": {
     "name": "私のクリスマスイブ",
@@ -1821,7 +1918,8 @@
         "id": "P4/S08-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P4/S08-099": {
     "name": "マハブフダイン",
@@ -1843,7 +1941,8 @@
         "id": "P4/S08-099S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P4/S08-100": {
     "name": "メギドラオン",
@@ -1861,6 +1960,7 @@
         "id": "P4/S08-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

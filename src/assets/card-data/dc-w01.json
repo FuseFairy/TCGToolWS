@@ -15,7 +15,8 @@
         "id": "DC/W01-001",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-002": {
     "name": "朝倉 音姫",
@@ -33,7 +34,8 @@
         "id": "DC/W01-002",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-003": {
     "name": "音夢＆さくら",
@@ -51,7 +53,8 @@
         "id": "DC/W01-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-004": {
     "name": "霧羽 明日美",
@@ -69,7 +72,8 @@
         "id": "DC/W01-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-005": {
     "name": "鷺澤 頼子",
@@ -87,7 +91,8 @@
         "id": "DC/W01-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-006": {
     "name": "由夢＆音姫",
@@ -109,7 +114,8 @@
         "id": "DC/W01-006R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-007": {
     "name": "鷺澤 美咲",
@@ -127,7 +133,8 @@
         "id": "DC/W01-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-008": {
     "name": "簡易スーツの和泉子",
@@ -145,7 +152,8 @@
         "id": "DC/W01-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-009": {
     "name": "桜内 義之",
@@ -163,7 +171,8 @@
         "id": "DC/W01-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-010": {
     "name": "巫女装束の音姫",
@@ -181,7 +190,8 @@
         "id": "DC/W01-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-011": {
     "name": "水着のさくら",
@@ -199,7 +209,8 @@
         "id": "DC/W01-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-012": {
     "name": "うたまる",
@@ -217,7 +228,8 @@
         "id": "DC/W01-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-013": {
     "name": "はりまお",
@@ -235,7 +247,8 @@
         "id": "DC/W01-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-014": {
     "name": "紫 和泉子",
@@ -253,7 +266,8 @@
         "id": "DC/W01-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-015": {
     "name": "芳乃 さくら",
@@ -271,7 +285,8 @@
         "id": "DC/W01-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-016": {
     "name": "霧羽 香澄",
@@ -289,7 +304,8 @@
         "id": "DC/W01-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-017": {
     "name": "才色兼備の生徒会長 音姫",
@@ -307,7 +323,8 @@
         "id": "DC/W01-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-018": {
     "name": "記憶消去",
@@ -325,7 +342,8 @@
         "id": "DC/W01-018",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-019": {
     "name": "決意",
@@ -343,7 +361,8 @@
         "id": "DC/W01-019",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-020": {
     "name": "ネコ耳メイドさん",
@@ -361,7 +380,8 @@
         "id": "DC/W01-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-021": {
     "name": "着ぐるみの中の人",
@@ -379,7 +399,8 @@
         "id": "DC/W01-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-022": {
     "name": "朝倉姉妹のお料理",
@@ -397,7 +418,8 @@
         "id": "DC/W01-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-023": {
     "name": "存在のなくなる日",
@@ -419,7 +441,8 @@
         "id": "DC/W01-023S",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-024": {
     "name": "魔法使いの見る夢",
@@ -437,7 +460,8 @@
         "id": "DC/W01-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/W01-025": {
     "name": "あたし……そろそろ行かなきゃ……",
@@ -455,7 +479,8 @@
         "id": "DC/W01-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/W01-026": {
     "name": "晴れ着のななか",
@@ -473,7 +498,8 @@
         "id": "DC/W01-026",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-027": {
     "name": "晴れ着の小恋",
@@ -491,7 +517,8 @@
         "id": "DC/W01-027",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-028": {
     "name": "胡ノ宮 環",
@@ -509,7 +536,8 @@
         "id": "DC/W01-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-029": {
     "name": "パジャマの茜",
@@ -527,7 +555,8 @@
         "id": "DC/W01-029",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-030": {
     "name": "月島 小恋",
@@ -549,7 +578,8 @@
         "id": "DC/W01-030R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-031": {
     "name": "学園のアイドル ことり",
@@ -567,7 +597,8 @@
         "id": "DC/W01-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-032": {
     "name": "工藤 叶",
@@ -585,7 +616,8 @@
         "id": "DC/W01-032",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-033": {
     "name": "みっくん＆ともちゃん",
@@ -603,7 +635,8 @@
         "id": "DC/W01-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-034": {
     "name": "スキーウェアのななか",
@@ -621,7 +654,8 @@
         "id": "DC/W01-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-035": {
     "name": "朝倉 純一",
@@ -639,7 +673,8 @@
         "id": "DC/W01-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-036": {
     "name": "私服のことり",
@@ -657,7 +692,8 @@
         "id": "DC/W01-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-037": {
     "name": "板橋 渉",
@@ -675,7 +711,8 @@
         "id": "DC/W01-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-038": {
     "name": "花咲 茜",
@@ -693,7 +730,8 @@
         "id": "DC/W01-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-039": {
     "name": "学生服の工藤",
@@ -711,7 +749,8 @@
         "id": "DC/W01-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-040": {
     "name": "雪月花三人娘",
@@ -729,7 +768,8 @@
         "id": "DC/W01-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-041": {
     "name": "小恋＆ななか",
@@ -747,7 +787,8 @@
         "id": "DC/W01-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-042": {
     "name": "大和撫子 環",
@@ -765,7 +806,8 @@
         "id": "DC/W01-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-043": {
     "name": "耳かき",
@@ -783,7 +825,8 @@
         "id": "DC/W01-043",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-044": {
     "name": "ミス風見学園コンテスト",
@@ -801,7 +844,8 @@
         "id": "DC/W01-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-045": {
     "name": "仲間と大切な人に",
@@ -819,7 +863,8 @@
         "id": "DC/W01-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-046": {
     "name": "音夢のお弁当",
@@ -837,7 +882,8 @@
         "id": "DC/W01-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-047": {
     "name": "転入生",
@@ -855,7 +901,8 @@
         "id": "DC/W01-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-048": {
     "name": "伝わる温もり",
@@ -877,7 +924,8 @@
         "id": "DC/W01-048S",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-049": {
     "name": "結婚式の歌姫",
@@ -895,7 +943,8 @@
         "id": "DC/W01-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/W01-050": {
     "name": "わたくしの大切な人のために……",
@@ -913,7 +962,8 @@
         "id": "DC/W01-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/W01-051": {
     "name": "ゴキゲンな由夢",
@@ -931,7 +981,8 @@
         "id": "DC/W01-051",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-052": {
     "name": "お手製弁当を持つ音夢と由夢",
@@ -949,7 +1000,8 @@
         "id": "DC/W01-052",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-053": {
     "name": "天枷 美春",
@@ -967,7 +1019,8 @@
         "id": "DC/W01-053",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-054": {
     "name": "Ｙシャツの美夏",
@@ -985,7 +1038,8 @@
         "id": "DC/W01-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-055": {
     "name": "漫画家のななこ",
@@ -1003,7 +1057,8 @@
         "id": "DC/W01-055",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-056": {
     "name": "朝倉 音夢",
@@ -1025,7 +1080,8 @@
         "id": "DC/W01-056R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-057": {
     "name": "彩珠 ななこ",
@@ -1043,7 +1099,8 @@
         "id": "DC/W01-057",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-058": {
     "name": "白河 暦",
@@ -1061,7 +1118,8 @@
         "id": "DC/W01-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-059": {
     "name": "ロボ美春",
@@ -1079,7 +1137,8 @@
         "id": "DC/W01-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-060": {
     "name": "美春＆音夢",
@@ -1097,7 +1156,8 @@
         "id": "DC/W01-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-061": {
     "name": "水越 舞佳",
@@ -1115,7 +1175,8 @@
         "id": "DC/W01-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-062": {
     "name": "μ(ミュー）",
@@ -1133,7 +1194,8 @@
         "id": "DC/W01-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-063": {
     "name": "HM-A06型 ミナツ",
@@ -1151,7 +1213,8 @@
         "id": "DC/W01-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-064": {
     "name": "浴衣の音夢",
@@ -1169,7 +1232,8 @@
         "id": "DC/W01-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-065": {
     "name": "体操着の由夢",
@@ -1187,7 +1251,8 @@
         "id": "DC/W01-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-066": {
     "name": "ゆず＆慎",
@@ -1205,7 +1270,8 @@
         "id": "DC/W01-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-067": {
     "name": "パジャマの由夢",
@@ -1223,7 +1289,8 @@
         "id": "DC/W01-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-068": {
     "name": "美夏、覚醒！",
@@ -1241,7 +1308,8 @@
         "id": "DC/W01-068",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-069": {
     "name": "かけがえのない仲間",
@@ -1259,7 +1327,8 @@
         "id": "DC/W01-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-070": {
     "name": "見事なカウンター",
@@ -1277,7 +1346,8 @@
         "id": "DC/W01-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-071": {
     "name": "ななことヤギ",
@@ -1295,7 +1365,8 @@
         "id": "DC/W01-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-072": {
     "name": "バナナパフェ",
@@ -1313,7 +1384,8 @@
         "id": "DC/W01-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-073": {
     "name": "迷子の夢",
@@ -1335,7 +1407,8 @@
         "id": "DC/W01-073S",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/W01-074": {
     "name": "美春のオルゴール",
@@ -1353,7 +1426,8 @@
         "id": "DC/W01-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-075": {
     "name": "おかえりなさい",
@@ -1371,7 +1445,8 @@
         "id": "DC/W01-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/W01-076": {
     "name": "水越 萌",
@@ -1389,7 +1464,8 @@
         "id": "DC/W01-076",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-077": {
     "name": "水越 眞子",
@@ -1407,7 +1483,8 @@
         "id": "DC/W01-077",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-078": {
     "name": "高坂 まゆき",
@@ -1425,7 +1502,8 @@
         "id": "DC/W01-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-079": {
     "name": "雪村 杏",
@@ -1443,7 +1521,8 @@
         "id": "DC/W01-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-080": {
     "name": "ピロスを抱くアリス",
@@ -1461,7 +1540,8 @@
         "id": "DC/W01-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-081": {
     "name": "美夏＆麻耶",
@@ -1483,7 +1563,8 @@
         "id": "DC/W01-081R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-082": {
     "name": "八木ブリッヂ長官",
@@ -1501,7 +1582,8 @@
         "id": "DC/W01-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-083": {
     "name": "瀬場",
@@ -1519,7 +1601,8 @@
         "id": "DC/W01-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-084": {
     "name": "杉並",
@@ -1537,7 +1620,8 @@
         "id": "DC/W01-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-085": {
     "name": "沢井 麻耶",
@@ -1555,7 +1639,8 @@
         "id": "DC/W01-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-086": {
     "name": "美夏＆杏＆小恋",
@@ -1573,7 +1658,8 @@
         "id": "DC/W01-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-087": {
     "name": "月城 アリス",
@@ -1591,7 +1677,8 @@
         "id": "DC/W01-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-088": {
     "name": "音楽部の眞子",
@@ -1609,7 +1696,8 @@
         "id": "DC/W01-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-089": {
     "name": "眞子＆萌",
@@ -1627,7 +1715,8 @@
         "id": "DC/W01-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-090": {
     "name": "非公式新聞部 杉並",
@@ -1645,7 +1734,8 @@
         "id": "DC/W01-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-091": {
     "name": "水着の杏",
@@ -1663,7 +1753,8 @@
         "id": "DC/W01-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-092": {
     "name": "おねむな萌",
@@ -1681,7 +1772,8 @@
         "id": "DC/W01-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-093": {
     "name": "ホラーは苦手",
@@ -1699,7 +1791,8 @@
         "id": "DC/W01-093",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-094": {
     "name": "人形劇",
@@ -1717,7 +1810,8 @@
         "id": "DC/W01-094",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-095": {
     "name": "木琴占い",
@@ -1735,7 +1829,8 @@
         "id": "DC/W01-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-096": {
     "name": "集合写真",
@@ -1753,7 +1848,8 @@
         "id": "DC/W01-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-097": {
     "name": "個人指導",
@@ -1771,7 +1867,8 @@
         "id": "DC/W01-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-098": {
     "name": "アリスの願い",
@@ -1789,7 +1886,8 @@
         "id": "DC/W01-098",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/W01-099": {
     "name": "もう、忘れない",
@@ -1811,7 +1909,8 @@
         "id": "DC/W01-099S",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-100": {
     "name": "思い出の……品なんです",
@@ -1829,7 +1928,8 @@
         "id": "DC/W01-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/W01-01": {
     "name": "胡ノ宮 環",
@@ -1847,7 +1947,8 @@
         "id": "DC/W01-01T",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-02": {
     "name": "私服のことり",
@@ -1865,7 +1966,8 @@
         "id": "DC/W01-02T",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-03": {
     "name": "ミス風見学園コンテスト",
@@ -1883,7 +1985,8 @@
         "id": "DC/W01-03T",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-04": {
     "name": "花咲 茜",
@@ -1901,7 +2004,8 @@
         "id": "DC/W01-04T",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-05": {
     "name": "小恋＆ななか",
@@ -1919,7 +2023,8 @@
         "id": "DC/W01-05T",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/W01-06": {
     "name": "結婚式の歌姫",
@@ -1937,7 +2042,8 @@
         "id": "DC/W01-06T",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-07": {
     "name": "漫画家のななこ",
@@ -1955,7 +2061,8 @@
         "id": "DC/W01-07T",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-08": {
     "name": "彩珠 ななこ",
@@ -1973,7 +2080,8 @@
         "id": "DC/W01-08T",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-09": {
     "name": "白河 暦",
@@ -1991,7 +2099,8 @@
         "id": "DC/W01-09T",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-10": {
     "name": "ロボ美春",
@@ -2009,7 +2118,8 @@
         "id": "DC/W01-10T",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/W01-11": {
     "name": "美春＆音夢",
@@ -2027,7 +2137,8 @@
         "id": "DC/W01-11T",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-12": {
     "name": "かけがえのない仲間",
@@ -2045,7 +2156,8 @@
         "id": "DC/W01-12T",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-13": {
     "name": "HM-A06型 ミナツ",
@@ -2063,7 +2175,8 @@
         "id": "DC/W01-13T",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-14": {
     "name": "浴衣の音夢",
@@ -2081,7 +2194,8 @@
         "id": "DC/W01-14T",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-15": {
     "name": "体操着の由夢",
@@ -2099,7 +2213,8 @@
         "id": "DC/W01-15T",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-16": {
     "name": "ゆず＆慎",
@@ -2117,7 +2232,8 @@
         "id": "DC/W01-16T",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-17": {
     "name": "パジャマの由夢",
@@ -2135,7 +2251,8 @@
         "id": "DC/W01-17T",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-18": {
     "name": "ななことヤギ",
@@ -2153,7 +2270,8 @@
         "id": "DC/W01-18T",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-19": {
     "name": "美春のオルゴール",
@@ -2171,7 +2289,8 @@
         "id": "DC/W01-19T",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-20": {
     "name": "おかえりなさい",
@@ -2189,7 +2308,8 @@
         "id": "DC/W01-20T",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/W01-E01": {
     "name": "水着の音姫",
@@ -2207,7 +2327,8 @@
         "id": "DC/W01-E01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-E02": {
     "name": "水着の音夢＆さくら",
@@ -2225,7 +2346,8 @@
         "id": "DC/W01-E02",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-E03": {
     "name": "水着の由夢＆さくら",
@@ -2243,7 +2365,8 @@
         "id": "DC/W01-E03",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-E04": {
     "name": "水着の和泉子",
@@ -2261,7 +2384,8 @@
         "id": "DC/W01-E04",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-E05": {
     "name": "水着のななか",
@@ -2279,7 +2403,8 @@
         "id": "DC/W01-E05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-E06": {
     "name": "水着のことり",
@@ -2297,7 +2422,8 @@
         "id": "DC/W01-E06",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-E07": {
     "name": "水着の小恋",
@@ -2315,7 +2441,8 @@
         "id": "DC/W01-E07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-E08": {
     "name": "水着のななか＆由夢",
@@ -2333,7 +2460,8 @@
         "id": "DC/W01-E08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-E09": {
     "name": "水着の環",
@@ -2351,7 +2479,8 @@
         "id": "DC/W01-E09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-E10": {
     "name": "スイカ割り",
@@ -2369,7 +2498,8 @@
         "id": "DC/W01-E10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-E11": {
     "name": "水着の音夢",
@@ -2387,7 +2517,8 @@
         "id": "DC/W01-E11",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-E12": {
     "name": "水着の美春",
@@ -2405,7 +2536,8 @@
         "id": "DC/W01-E12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-E13": {
     "name": "水着の由夢",
@@ -2423,7 +2555,8 @@
         "id": "DC/W01-E13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-E14": {
     "name": "ねことお風呂で",
@@ -2441,7 +2574,8 @@
         "id": "DC/W01-E14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/W01-E15": {
     "name": "小悪魔 杏",
@@ -2459,7 +2593,8 @@
         "id": "DC/W01-E15",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W01-E16": {
     "name": "水着のアリス",
@@ -2477,7 +2612,8 @@
         "id": "DC/W01-E16",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-E17": {
     "name": "水着の麻耶",
@@ -2495,7 +2631,8 @@
         "id": "DC/W01-E17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W01-E18": {
     "name": "小川で遊ぼう！",
@@ -2513,6 +2650,7 @@
         "id": "DC/W01-E18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

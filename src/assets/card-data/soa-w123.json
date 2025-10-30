@@ -27,7 +27,8 @@
         "id": "Soa/W123-034SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Soa/W123-038": {
     "name": "本当の婚約者 愛理沙",
@@ -53,7 +54,8 @@
         "id": "Soa/W123-038SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Soa/W123-047": {
     "name": "バレンタインの季節 愛理沙",
@@ -75,7 +77,8 @@
         "id": "Soa/W123-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Soa/W123-056": {
     "name": "ハッピー結婚式",
@@ -101,6 +104,7 @@
         "id": "Soa/W123-056SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

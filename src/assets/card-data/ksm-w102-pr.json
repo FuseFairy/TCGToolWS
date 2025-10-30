@@ -15,7 +15,8 @@
         "id": "Ksm/W102-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ksm/W102-P04": {
     "name": "夏の眩しさの中で しろは＆識",
@@ -33,6 +34,7 @@
         "id": "Ksm/W102-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

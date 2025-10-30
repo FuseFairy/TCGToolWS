@@ -15,7 +15,8 @@
         "id": "SS/WE41-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/WE41-P02": {
     "name": "闘争の渦 シャナ",
@@ -37,7 +38,8 @@
         "id": "SS/WE41-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/WE41-P03": {
     "name": "悠二と歩む道 シャナ",
@@ -55,6 +57,7 @@
         "id": "SS/WE41-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

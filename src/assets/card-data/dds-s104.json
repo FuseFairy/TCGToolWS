@@ -19,7 +19,8 @@
         "id": "Dds/S104-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-003": {
     "name": "好奇心いっぱい アリス",
@@ -41,7 +42,8 @@
         "id": "Dds/S104-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-004": {
     "name": "くまのぬいぐるみ プー",
@@ -63,7 +65,8 @@
         "id": "Dds/S104-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-005": {
     "name": "美しい髪 ラプンツェル",
@@ -85,7 +88,8 @@
         "id": "Dds/S104-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-006": {
     "name": "父の教え ムファサ＆シンバ",
@@ -107,7 +111,8 @@
         "id": "Dds/S104-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-007": {
     "name": "ブタのぬいぐるみ ピグレット",
@@ -129,7 +134,8 @@
         "id": "Dds/S104-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-008": {
     "name": "赤ちゃんゾウ ダンボ",
@@ -151,7 +157,8 @@
         "id": "Dds/S104-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-009": {
     "name": "トラのぬいぐるみ ティガー",
@@ -173,7 +180,8 @@
         "id": "Dds/S104-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-010": {
     "name": "ポンゴ＆パディータ",
@@ -195,7 +203,8 @@
         "id": "Dds/S104-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-011": {
     "name": "美女と野獣 ベル＆王子",
@@ -217,7 +226,8 @@
         "id": "Dds/S104-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-012": {
     "name": "冒険の旅 ラプンツェル",
@@ -239,7 +249,8 @@
         "id": "Dds/S104-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-013": {
     "name": "ダッチェス＆トーマス・オマリー",
@@ -261,7 +272,8 @@
         "id": "Dds/S104-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-015": {
     "name": "大ジカの子ども バンビ",
@@ -283,7 +295,8 @@
         "id": "Dds/S104-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-016": {
     "name": "ポンゴとパディータの子どもたち",
@@ -305,7 +318,8 @@
         "id": "Dds/S104-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-017": {
     "name": "ムファサの弟 スカー",
@@ -327,7 +341,8 @@
         "id": "Dds/S104-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-018": {
     "name": "ライオンの王子 シンバ",
@@ -349,7 +364,8 @@
         "id": "Dds/S104-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-020": {
     "name": "マリー＆ベルリオーズ＆トゥルーズ",
@@ -371,7 +387,8 @@
         "id": "Dds/S104-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-021": {
     "name": "わんわん物語 レディ＆トランプ",
@@ -393,7 +410,8 @@
         "id": "Dds/S104-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-022": {
     "name": "野獣の姿 王子",
@@ -415,7 +433,8 @@
         "id": "Dds/S104-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-023": {
     "name": "冒険の旅 フリン・ライダー",
@@ -437,7 +456,8 @@
         "id": "Dds/S104-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-024": {
     "name": "ふしぎの国のアリス",
@@ -459,7 +479,8 @@
         "id": "Dds/S104-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-026": {
     "name": "くまのプーさん",
@@ -481,7 +502,8 @@
         "id": "Dds/S104-026HND",
         "rarity": "HND"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-027": {
     "name": "ライオン・キング",
@@ -503,7 +525,8 @@
         "id": "Dds/S104-027HND",
         "rarity": "HND"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-028": {
     "name": "\"美しい心\" 白雪姫",
@@ -525,7 +548,8 @@
         "id": "Dds/S104-028SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-029": {
     "name": "\"自由への憧れ\" ジャスミン",
@@ -547,7 +571,8 @@
         "id": "Dds/S104-029SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-030": {
     "name": "空飛ぶ少年 ピーター・パン",
@@ -569,7 +594,8 @@
         "id": "Dds/S104-030SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-032": {
     "name": "ダマしダマされ ジュディ＆ニック",
@@ -591,7 +617,8 @@
         "id": "Dds/S104-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-033": {
     "name": "身分違いの恋 アラジン",
@@ -613,7 +640,8 @@
         "id": "Dds/S104-033SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-034": {
     "name": "初めての友だち リロ＆スティッチ",
@@ -635,7 +663,8 @@
         "id": "Dds/S104-034SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-035": {
     "name": "アグラバー王国の王女 ジャスミン",
@@ -657,7 +686,8 @@
         "id": "Dds/S104-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-036": {
     "name": "ネバーランドへの冒険 ピーター・パン",
@@ -679,7 +709,8 @@
         "id": "Dds/S104-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-037": {
     "name": "首長の娘 ポカホンタス",
@@ -701,7 +732,8 @@
         "id": "Dds/S104-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-038": {
     "name": "３つの願い ジーニー",
@@ -723,7 +755,8 @@
         "id": "Dds/S104-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-039": {
     "name": "自由な心 ムーラン",
@@ -745,7 +778,8 @@
         "id": "Dds/S104-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-040": {
     "name": "ピノキオ＆フィガロ",
@@ -767,7 +801,8 @@
         "id": "Dds/S104-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-041": {
     "name": "みんなで一緒に リロ＆スティッチ",
@@ -789,7 +824,8 @@
         "id": "Dds/S104-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-042": {
     "name": "”最後の希望” ラーヤ＆シスー",
@@ -811,7 +847,8 @@
         "id": "Dds/S104-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-043": {
     "name": "ジュディ＆ニック＆フラッシュ",
@@ -833,7 +870,8 @@
         "id": "Dds/S104-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-044": {
     "name": "試作品626号 スティッチ",
@@ -855,7 +893,8 @@
         "id": "Dds/S104-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-045": {
     "name": "ゲームの裏側 ヴァネロペ＆ラルフ",
@@ -877,7 +916,8 @@
         "id": "Dds/S104-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-046": {
     "name": "美しい妖精 ティンカー・ベル",
@@ -899,7 +939,8 @@
         "id": "Dds/S104-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-047": {
     "name": "普通の女の子 ミラベル",
@@ -921,7 +962,8 @@
         "id": "Dds/S104-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-048": {
     "name": "人間の子どもになるため ピノキオ",
@@ -943,7 +985,8 @@
         "id": "Dds/S104-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-049": {
     "name": "ネバーランドにいる海賊 フック船長",
@@ -965,7 +1008,8 @@
         "id": "Dds/S104-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-050": {
     "name": "アラジン",
@@ -987,7 +1031,8 @@
         "id": "Dds/S104-050HND",
         "rarity": "HND"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-051": {
     "name": "ズートピア",
@@ -1009,7 +1054,8 @@
         "id": "Dds/S104-051HND",
         "rarity": "HND"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-052": {
     "name": "オハナはいつもいっしょだよ",
@@ -1031,7 +1077,8 @@
         "id": "Dds/S104-052HND",
         "rarity": "HND"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-054": {
     "name": "ミッキーマウス＆ドナルドダック＆グーフィー",
@@ -1053,7 +1100,8 @@
         "id": "Dds/S104-054SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-055": {
     "name": "ミニーマウス＆デイジーダック",
@@ -1075,7 +1123,8 @@
         "id": "Dds/S104-055SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-056": {
     "name": "ミッキーマウス",
@@ -1097,7 +1146,8 @@
         "id": "Dds/S104-056SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-057": {
     "name": "美しい魔法使い メリー・ポピンズ",
@@ -1119,7 +1169,8 @@
         "id": "Dds/S104-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-059": {
     "name": "かわいいシマリス チップ＆デール",
@@ -1141,7 +1192,8 @@
         "id": "Dds/S104-059SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-060": {
     "name": "のんびり屋さん グーフィー",
@@ -1163,7 +1215,8 @@
         "id": "Dds/S104-060SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-061": {
     "name": "孤高の海賊 ジャック・スパロウ",
@@ -1185,7 +1238,8 @@
         "id": "Dds/S104-061SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-062": {
     "name": "ミニーマウス",
@@ -1207,7 +1261,8 @@
         "id": "Dds/S104-062SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-063": {
     "name": "負けず嫌い ドナルドダック",
@@ -1229,7 +1284,8 @@
         "id": "Dds/S104-063SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-064": {
     "name": "ミッキーの愛犬 プルート",
@@ -1251,7 +1307,8 @@
         "id": "Dds/S104-064SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-065": {
     "name": "ヒロ＆ベイマックス",
@@ -1273,7 +1330,8 @@
         "id": "Dds/S104-065SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-067": {
     "name": "永遠の恋人 ドナルドダック＆デイジーダック",
@@ -1295,7 +1353,8 @@
         "id": "Dds/S104-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-069": {
     "name": "おしゃれが大好き ミニーマウス",
@@ -1317,7 +1376,8 @@
         "id": "Dds/S104-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-070": {
     "name": "Disney100 ミッキーマウス＆ミニーマウス",
@@ -1339,7 +1399,8 @@
         "id": "Dds/S104-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-071": {
     "name": "Dancing  デイジーダック",
@@ -1361,7 +1422,8 @@
         "id": "Dds/S104-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-072": {
     "name": "マウスケティアーズ",
@@ -1383,7 +1445,8 @@
         "id": "Dds/S104-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-075": {
     "name": "Dancing Celebration",
@@ -1405,7 +1468,8 @@
         "id": "Dds/S104-075HND",
         "rarity": "HND"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-076": {
     "name": "これからの物語も、一緒に。",
@@ -1427,7 +1491,8 @@
         "id": "Dds/S104-076HND",
         "rarity": "HND"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-077": {
     "name": "Disney 100 Years of Wonder",
@@ -1449,7 +1514,8 @@
         "id": "Dds/S104-077HND",
         "rarity": "HND"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-078": {
     "name": "\"人魚のプリンセス\" アリエル",
@@ -1471,7 +1537,8 @@
         "id": "Dds/S104-078SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-079": {
     "name": "\"憧れの舞踏会\" シンデレラ",
@@ -1493,7 +1560,8 @@
         "id": "Dds/S104-079SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-081": {
     "name": "オズワルド・ザ・ラッキー・ラビット",
@@ -1515,7 +1583,8 @@
         "id": "Dds/S104-081SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-082": {
     "name": "呪いをかける魔女 マレフィセント",
@@ -1537,7 +1606,8 @@
         "id": "Dds/S104-082SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-083": {
     "name": "雪の女王 エルサ",
@@ -1559,7 +1629,8 @@
         "id": "Dds/S104-083SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-084": {
     "name": "眠れる森の美女 オーロラ姫",
@@ -1581,7 +1652,8 @@
         "id": "Dds/S104-084SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-085": {
     "name": "アリエル＆エリック王子",
@@ -1603,7 +1675,8 @@
         "id": "Dds/S104-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-086": {
     "name": "モアナと海の仲間達",
@@ -1625,7 +1698,8 @@
         "id": "Dds/S104-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-087": {
     "name": "いつか幸せに シンデレラ",
@@ -1647,7 +1721,8 @@
         "id": "Dds/S104-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-088": {
     "name": "亡き父との夢 ティアナ",
@@ -1669,7 +1744,8 @@
         "id": "Dds/S104-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-089": {
     "name": "フェアリーゴッドマザー",
@@ -1691,7 +1767,8 @@
         "id": "Dds/S104-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-090": {
     "name": "フランダー＆セバスチャン",
@@ -1713,7 +1790,8 @@
         "id": "Dds/S104-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-091": {
     "name": "情熱的な女の子 アナ",
@@ -1735,7 +1813,8 @@
         "id": "Dds/S104-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-092": {
     "name": "雪だるま オラフ",
@@ -1757,7 +1836,8 @@
         "id": "Dds/S104-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-093": {
     "name": "復讐のために アースラ",
@@ -1779,7 +1859,8 @@
         "id": "Dds/S104-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-096": {
     "name": "ティアナ＆ナヴィーン王子＆ルイス",
@@ -1801,7 +1882,8 @@
         "id": "Dds/S104-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-097": {
     "name": "魔法の呪文",
@@ -1823,7 +1905,8 @@
         "id": "Dds/S104-097HND",
         "rarity": "HND"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-098": {
     "name": "アナと雪の女王",
@@ -1845,7 +1928,8 @@
         "id": "Dds/S104-098HND",
         "rarity": "HND"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-100": {
     "name": "\"蒸気船ウィリー\" ミッキーマウス",
@@ -1867,6 +1951,7 @@
         "id": "Dds/S104-100OR",
         "rarity": "OR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "KMD/W96-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMD/W96-P02": {
     "name": "ドタバタな日常 トール＆イルル＆小林さん",
@@ -37,7 +38,8 @@
         "id": "KMD/W96-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMD/W96-P03": {
     "name": "デコボコなふたり トール＆小林さん",
@@ -55,7 +57,8 @@
         "id": "KMD/W96-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMD/W96-P04": {
     "name": "最高の思い出作り",
@@ -73,7 +76,8 @@
         "id": "KMD/W96-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMD/W96-P05": {
     "name": "これからも一緒に トール＆小林さん",
@@ -91,7 +95,8 @@
         "id": "KMD/W96-P05S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMD/W96-101": {
     "name": "演奏もおまかせ トール",
@@ -109,7 +114,8 @@
         "id": "KMD/W96-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMD/W96-102": {
     "name": "人間の覚悟 小林さん",
@@ -127,7 +133,8 @@
         "id": "KMD/W96-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMD/W96-103": {
     "name": "焦燥 カンナ",
@@ -145,7 +152,8 @@
         "id": "KMD/W96-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMD/W96-104": {
     "name": "知らなかった世界 イルル",
@@ -163,6 +171,7 @@
         "id": "KMD/W96-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

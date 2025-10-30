@@ -15,7 +15,8 @@
         "id": "AOT/S35-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-P02": {
     "name": "撒き散らす戦火 超大型巨人",
@@ -33,7 +34,8 @@
         "id": "AOT/S35-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-P03": {
     "name": "“夏場の訓練”ミカサ＆クリスタ",
@@ -51,7 +53,8 @@
         "id": "AOT/S35-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-P04": {
     "name": "真夏のスイカ割り",
@@ -69,7 +72,8 @@
         "id": "AOT/S35-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-T21": {
     "name": "鎧の巨人",
@@ -87,7 +91,8 @@
         "id": "AOT/S35-T21",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-T22": {
     "name": "超大型巨人",
@@ -105,7 +110,8 @@
         "id": "AOT/S35-T22",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-101": {
     "name": "ちみアルミン",
@@ -123,7 +129,8 @@
         "id": "AOT/S35-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-102": {
     "name": "ちみコニー",
@@ -141,7 +148,8 @@
         "id": "AOT/S35-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-103": {
     "name": "ちみエレン",
@@ -159,7 +167,8 @@
         "id": "AOT/S35-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-104": {
     "name": "ちみアニ",
@@ -177,7 +186,8 @@
         "id": "AOT/S35-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-105": {
     "name": "ちみハンジ",
@@ -195,7 +205,8 @@
         "id": "AOT/S35-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-106": {
     "name": "ちみリヴァイ",
@@ -213,7 +224,8 @@
         "id": "AOT/S35-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-107": {
     "name": "ちみサシャ",
@@ -231,7 +243,8 @@
         "id": "AOT/S35-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-108": {
     "name": "ちみクリスタ",
@@ -249,7 +262,8 @@
         "id": "AOT/S35-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-109": {
     "name": "ちみミカサ",
@@ -267,7 +281,8 @@
         "id": "AOT/S35-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-110": {
     "name": "ちみジャン",
@@ -285,7 +300,8 @@
         "id": "AOT/S35-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AOT/S35-111": {
     "name": "ちみライナー",
@@ -303,7 +319,8 @@
         "id": "AOT/S35-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AOT/S35-112": {
     "name": "ちみ超大型巨人",
@@ -321,6 +338,7 @@
         "id": "AOT/S35-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

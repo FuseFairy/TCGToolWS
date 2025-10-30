@@ -15,7 +15,8 @@
         "id": "YYS/W61-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YYS/W61-P02": {
     "name": "素敵なおっぱい 千紗希",
@@ -33,7 +34,8 @@
         "id": "YYS/W61-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YYS/W61-P03": {
     "name": "Bed Time Romance 幽奈&千紗希",
@@ -51,7 +53,8 @@
         "id": "YYS/W61-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YYS/W61-P04": {
     "name": "みんなでお風呂 幽奈&狭霧",
@@ -69,7 +72,8 @@
         "id": "YYS/W61-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YYS/W61-P05": {
     "name": "みんなでお風呂 千紗希&こゆず",
@@ -87,7 +91,8 @@
         "id": "YYS/W61-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YYS/W61-P06": {
     "name": "みんなでお風呂 夜々&朧",
@@ -105,7 +110,8 @@
         "id": "YYS/W61-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YYS/W61-101": {
     "name": "モテモテ先生 千紗希",
@@ -123,7 +129,8 @@
         "id": "YYS/W61-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YYS/W61-102": {
     "name": "お姉さん属性 呑子",
@@ -141,7 +148,8 @@
         "id": "YYS/W61-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YYS/W61-103": {
     "name": "おそるおそる 夜々",
@@ -159,7 +167,8 @@
         "id": "YYS/W61-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YYS/W61-104": {
     "name": "どきどき恋獄 幽奈",
@@ -177,7 +186,8 @@
         "id": "YYS/W61-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YYS/W61-105": {
     "name": "囚人服 狭霧",
@@ -195,6 +205,7 @@
         "id": "YYS/W61-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

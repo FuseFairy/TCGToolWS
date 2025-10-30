@@ -19,7 +19,8 @@
         "id": "FS/S34-T16SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-T18": {
     "name": "勝利のために 凛＆アーチャー",
@@ -37,7 +38,8 @@
         "id": "FS/S34-T18S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-T19": {
     "name": "宝石魔術師 凛",
@@ -59,7 +61,8 @@
         "id": "FS/S34-T19SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-001": {
     "name": "騎士の風格 セイバー",
@@ -81,7 +84,8 @@
         "id": "FS/S34-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-002": {
     "name": "“セイバーのマスター”士郎",
@@ -103,7 +107,8 @@
         "id": "FS/S34-002R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-003": {
     "name": "騎士の誓い セイバー",
@@ -125,7 +130,8 @@
         "id": "FS/S34-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-004": {
     "name": "共に戦う覚悟 士郎",
@@ -147,7 +153,8 @@
         "id": "FS/S34-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-005": {
     "name": "“英霊”セイバー",
@@ -169,7 +176,8 @@
         "id": "FS/S34-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-006": {
     "name": "共に戦う覚悟 セイバー",
@@ -191,7 +199,8 @@
         "id": "FS/S34-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-007": {
     "name": "不戦の覚悟 士郎",
@@ -209,7 +218,8 @@
         "id": "FS/S34-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-008": {
     "name": "宗一郎との戦い セイバー",
@@ -227,7 +237,8 @@
         "id": "FS/S34-008",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-009": {
     "name": "朝焼けの中で 士郎",
@@ -245,7 +256,8 @@
         "id": "FS/S34-009",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-010": {
     "name": "結界内の攻防 セイバー",
@@ -263,7 +275,8 @@
         "id": "FS/S34-010",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-011": {
     "name": "放課後の戦い 士郎",
@@ -281,7 +294,8 @@
         "id": "FS/S34-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-012": {
     "name": "過去の英雄 セイバー",
@@ -299,7 +313,8 @@
         "id": "FS/S34-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-013": {
     "name": "サーヴァントとの対峙 士郎",
@@ -317,7 +332,8 @@
         "id": "FS/S34-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-014": {
     "name": "救出へ向かう セイバー",
@@ -335,7 +351,8 @@
         "id": "FS/S34-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-015": {
     "name": "悪戯な微笑 大河",
@@ -353,7 +370,8 @@
         "id": "FS/S34-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-016": {
     "name": "“サーヴァント”ギルガメッシュ",
@@ -371,7 +389,8 @@
         "id": "FS/S34-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-017": {
     "name": "お人好し 士郎",
@@ -389,7 +408,8 @@
         "id": "FS/S34-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-018": {
     "name": "弓道部部長 美綴",
@@ -407,7 +427,8 @@
         "id": "FS/S34-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-019": {
     "name": "凛とした空気 セイバー",
@@ -425,7 +446,8 @@
         "id": "FS/S34-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-020": {
     "name": "学食にて 美綴",
@@ -443,7 +465,8 @@
         "id": "FS/S34-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-021": {
     "name": "士郎の親友 一成",
@@ -461,7 +484,8 @@
         "id": "FS/S34-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-022": {
     "name": "機械いじり 士郎",
@@ -479,7 +503,8 @@
         "id": "FS/S34-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-023": {
     "name": "朝練中 美綴",
@@ -497,7 +522,8 @@
         "id": "FS/S34-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-024": {
     "name": "いつもの朝 士郎",
@@ -515,7 +541,8 @@
         "id": "FS/S34-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-025": {
     "name": "生徒会長 一成",
@@ -533,7 +560,8 @@
         "id": "FS/S34-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-026": {
     "name": "いつもの朝 大河",
@@ -551,7 +579,8 @@
         "id": "FS/S34-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-027": {
     "name": "令呪の発動 士郎",
@@ -569,7 +598,8 @@
         "id": "FS/S34-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-028": {
     "name": "金髪のサーヴァント",
@@ -587,7 +617,8 @@
         "id": "FS/S34-028",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-029": {
     "name": "隠された武器 セイバー",
@@ -605,7 +636,8 @@
         "id": "FS/S34-029",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-030": {
     "name": "一時休息",
@@ -623,7 +655,8 @@
         "id": "FS/S34-030",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-031": {
     "name": "自己鍛錬",
@@ -641,7 +674,8 @@
         "id": "FS/S34-031",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-032": {
     "name": "武装の開放",
@@ -659,7 +693,8 @@
         "id": "FS/S34-032",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-033": {
     "name": "運命の夜",
@@ -677,7 +712,8 @@
         "id": "FS/S34-033",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FS/S34-034": {
     "name": "悪への怒り",
@@ -695,7 +731,8 @@
         "id": "FS/S34-034",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-035": {
     "name": "セイバーの召喚",
@@ -713,7 +750,8 @@
         "id": "FS/S34-035",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-036": {
     "name": "“英霊”ライダー",
@@ -735,7 +773,8 @@
         "id": "FS/S34-036R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-037": {
     "name": "日常の象徴 桜",
@@ -757,7 +796,8 @@
         "id": "FS/S34-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-038": {
     "name": "妖艶な美女 ライダー",
@@ -775,7 +815,8 @@
         "id": "FS/S34-038",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-039": {
     "name": "“英霊”ランサー",
@@ -793,7 +834,8 @@
         "id": "FS/S34-039",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-040": {
     "name": "朝の挨拶 桜",
@@ -811,7 +853,8 @@
         "id": "FS/S34-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-041": {
     "name": "弓道部員 桜",
@@ -829,7 +872,8 @@
         "id": "FS/S34-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-042": {
     "name": "傍観者 ランサー",
@@ -847,7 +891,8 @@
         "id": "FS/S34-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-043": {
     "name": "自意識過剰 慎二",
@@ -865,7 +910,8 @@
         "id": "FS/S34-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-044": {
     "name": "弓道部副部長 慎二",
@@ -883,7 +929,8 @@
         "id": "FS/S34-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-045": {
     "name": "獣の如き動き ランサー",
@@ -901,7 +948,8 @@
         "id": "FS/S34-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-046": {
     "name": "いつもの朝 桜",
@@ -919,7 +967,8 @@
         "id": "FS/S34-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-047": {
     "name": "慎二のサーヴァント ライダー",
@@ -937,7 +986,8 @@
         "id": "FS/S34-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-048": {
     "name": "宝具開放",
@@ -955,7 +1005,8 @@
         "id": "FS/S34-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-049": {
     "name": "放課後に踊る",
@@ -973,7 +1024,8 @@
         "id": "FS/S34-049",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FS/S34-050": {
     "name": "魂喰いの結界",
@@ -991,7 +1043,8 @@
         "id": "FS/S34-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-051": {
     "name": "勝利のために 凛",
@@ -1013,7 +1066,8 @@
         "id": "FS/S34-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-052": {
     "name": "デート日和 凛",
@@ -1035,7 +1089,8 @@
         "id": "FS/S34-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-053": {
     "name": "“英霊”アーチャー",
@@ -1057,7 +1112,8 @@
         "id": "FS/S34-053R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-054": {
     "name": "小悪魔的微笑み 凛",
@@ -1079,7 +1135,8 @@
         "id": "FS/S34-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-055": {
     "name": "魔術師として 凛",
@@ -1101,7 +1158,8 @@
         "id": "FS/S34-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-056": {
     "name": "凛のサーヴァント アーチャー",
@@ -1123,7 +1181,8 @@
         "id": "FS/S34-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-057": {
     "name": "遅参する アーチャー",
@@ -1141,7 +1200,8 @@
         "id": "FS/S34-057",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-058": {
     "name": "呪いの魔弾 凛",
@@ -1159,7 +1219,8 @@
         "id": "FS/S34-058",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-059": {
     "name": "マスターの心構え 凛",
@@ -1177,7 +1238,8 @@
         "id": "FS/S34-059",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-060": {
     "name": "弓兵の真価 アーチャー",
@@ -1195,7 +1257,8 @@
         "id": "FS/S34-060",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-061": {
     "name": "契約の証 凛",
@@ -1213,7 +1276,8 @@
         "id": "FS/S34-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-062": {
     "name": "伊達眼鏡 凛",
@@ -1231,7 +1295,8 @@
         "id": "FS/S34-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-063": {
     "name": "契約の証 アーチャー",
@@ -1249,7 +1314,8 @@
         "id": "FS/S34-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-064": {
     "name": "奇襲するアーチャー",
@@ -1267,7 +1333,8 @@
         "id": "FS/S34-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-065": {
     "name": "弓兵の本領 アーチャー",
@@ -1285,7 +1352,8 @@
         "id": "FS/S34-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-066": {
     "name": "皮肉屋 アーチャー",
@@ -1303,7 +1371,8 @@
         "id": "FS/S34-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-067": {
     "name": "手荒な召喚 アーチャー",
@@ -1321,7 +1390,8 @@
         "id": "FS/S34-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-068": {
     "name": "二刀使いの弓兵 アーチャー",
@@ -1339,7 +1409,8 @@
         "id": "FS/S34-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-069": {
     "name": "いつもと違う朝 凛",
@@ -1357,7 +1428,8 @@
         "id": "FS/S34-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-070": {
     "name": "召喚の儀 凛",
@@ -1375,7 +1447,8 @@
         "id": "FS/S34-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-071": {
     "name": "父の形見",
@@ -1393,7 +1466,8 @@
         "id": "FS/S34-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-072": {
     "name": "遠坂の魔術刻印",
@@ -1411,7 +1485,8 @@
         "id": "FS/S34-072",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-073": {
     "name": "召喚の儀式",
@@ -1429,7 +1504,8 @@
         "id": "FS/S34-073",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FS/S34-074": {
     "name": "狙い穿つ",
@@ -1447,7 +1523,8 @@
         "id": "FS/S34-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FS/S34-075": {
     "name": "弓兵の本領",
@@ -1465,7 +1542,8 @@
         "id": "FS/S34-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-076": {
     "name": "“英霊”キャスター",
@@ -1487,7 +1565,8 @@
         "id": "FS/S34-076R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-077": {
     "name": "魔術師の戦い方 キャスター",
@@ -1505,7 +1584,8 @@
         "id": "FS/S34-077",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-078": {
     "name": "銀糸錬金 天使の詩 イリヤ",
@@ -1527,7 +1607,8 @@
         "id": "FS/S34-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-079": {
     "name": "“英霊”アサシン",
@@ -1545,7 +1626,8 @@
         "id": "FS/S34-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-080": {
     "name": "“キャスターのマスター”葛木 宗一郎",
@@ -1563,7 +1645,8 @@
         "id": "FS/S34-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-081": {
     "name": "凛のクラスメイト 氷室 鐘",
@@ -1581,7 +1664,8 @@
         "id": "FS/S34-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-082": {
     "name": "圧倒的な暴力 バーサーカー",
@@ -1599,7 +1683,8 @@
         "id": "FS/S34-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-083": {
     "name": "淑女 イリヤ",
@@ -1617,7 +1702,8 @@
         "id": "FS/S34-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-084": {
     "name": "慇懃無礼 綺礼",
@@ -1635,7 +1721,8 @@
         "id": "FS/S34-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-085": {
     "name": "“必殺”の技 アサシン",
@@ -1653,7 +1740,8 @@
         "id": "FS/S34-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-086": {
     "name": "策略家 キャスター",
@@ -1671,7 +1759,8 @@
         "id": "FS/S34-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-087": {
     "name": "戦いの前の忠告 イリヤ",
@@ -1689,7 +1778,8 @@
         "id": "FS/S34-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-088": {
     "name": "現代の実力者 綺礼",
@@ -1707,7 +1797,8 @@
         "id": "FS/S34-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-089": {
     "name": "“英霊”バーサーカー",
@@ -1725,7 +1816,8 @@
         "id": "FS/S34-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-090": {
     "name": "凛のクラスメイト 三枝 由紀香",
@@ -1743,7 +1835,8 @@
         "id": "FS/S34-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-091": {
     "name": "“バーサーカーのマスター”イリヤ",
@@ -1761,7 +1854,8 @@
         "id": "FS/S34-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-092": {
     "name": "凛のクラスメイト 蒔寺 楓",
@@ -1779,7 +1873,8 @@
         "id": "FS/S34-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-093": {
     "name": "破戒の宝具 キャスター",
@@ -1797,7 +1892,8 @@
         "id": "FS/S34-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-094": {
     "name": "聖杯戦争の監督役 綺礼",
@@ -1815,7 +1911,8 @@
         "id": "FS/S34-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-095": {
     "name": "無口な教師 葛木 宗一郎",
@@ -1833,7 +1930,8 @@
         "id": "FS/S34-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-096": {
     "name": "幻影魔術",
@@ -1851,7 +1949,8 @@
         "id": "FS/S34-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-097": {
     "name": "略奪",
@@ -1869,7 +1968,8 @@
         "id": "FS/S34-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-098": {
     "name": "強大な力",
@@ -1887,7 +1987,8 @@
         "id": "FS/S34-098",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FS/S34-099": {
     "name": "イリヤの魔術 シュトルヒリッター",
@@ -1905,7 +2006,8 @@
         "id": "FS/S34-099",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FS/S34-100": {
     "name": "破戒の宝具",
@@ -1923,6 +2025,7 @@
         "id": "FS/S34-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

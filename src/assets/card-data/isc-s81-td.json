@@ -15,7 +15,8 @@
         "id": "ISC/S81-T001",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T002": {
     "name": "スパークルイルミネーション 八宮めぐる",
@@ -37,7 +38,8 @@
         "id": "ISC/S81-T002R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T003": {
     "name": "283プロのヒナ 風野灯織",
@@ -55,7 +57,8 @@
         "id": "ISC/S81-T003",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T004": {
     "name": "ビヨンドザブルースカイ 八宮めぐる",
@@ -73,7 +76,8 @@
         "id": "ISC/S81-T004",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T005": {
     "name": "イルミネーションスターズ",
@@ -91,7 +95,8 @@
         "id": "ISC/S81-T005",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T006": {
     "name": "白いツバサ 八宮めぐる",
@@ -109,7 +114,8 @@
         "id": "ISC/S81-T006",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T007": {
     "name": "スパークルイルミネーション 櫻木真乃",
@@ -135,7 +141,8 @@
         "id": "ISC/S81-T007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T008": {
     "name": "283プロのヒナ 八宮めぐる",
@@ -153,7 +160,8 @@
         "id": "ISC/S81-T008",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T009": {
     "name": "ビヨンドザブルースカイ 櫻木真乃",
@@ -171,7 +179,8 @@
         "id": "ISC/S81-T009",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T010": {
     "name": "駅線上の日常",
@@ -197,7 +206,8 @@
         "id": "ISC/S81-T010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T011": {
     "name": "283プロのヒナ 櫻木真乃",
@@ -215,7 +225,8 @@
         "id": "ISC/S81-T011",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T012": {
     "name": "白いツバサ 櫻木真乃",
@@ -233,7 +244,8 @@
         "id": "ISC/S81-T012",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T013": {
     "name": "ビヨンドザブルースカイ 風野灯織",
@@ -251,7 +263,8 @@
         "id": "ISC/S81-T013",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T014": {
     "name": "スパークルイルミネーション 風野灯織",
@@ -273,7 +286,8 @@
         "id": "ISC/S81-T014R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T015": {
     "name": "283プロダクション",
@@ -291,7 +305,8 @@
         "id": "ISC/S81-T015",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T016": {
     "name": "白いツバサ 月岡恋鐘",
@@ -309,7 +324,8 @@
         "id": "ISC/S81-T016",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T017": {
     "name": "白いツバサ 田中摩美々",
@@ -327,7 +343,8 @@
         "id": "ISC/S81-T017",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T018": {
     "name": "283プロのヒナ 幽谷霧子",
@@ -345,7 +362,8 @@
         "id": "ISC/S81-T018",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T019": {
     "name": "白いツバサ 三峰結華",
@@ -363,7 +381,8 @@
         "id": "ISC/S81-T019",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T020": {
     "name": "白いツバサ 白瀬咲耶",
@@ -381,7 +400,8 @@
         "id": "ISC/S81-T020",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T021": {
     "name": "白いツバサ 幽谷霧子",
@@ -399,7 +419,8 @@
         "id": "ISC/S81-T021",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T022": {
     "name": "283プロのヒナ 田中摩美々",
@@ -417,7 +438,8 @@
         "id": "ISC/S81-T022",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T023": {
     "name": "283プロのヒナ 月岡恋鐘",
@@ -435,7 +457,8 @@
         "id": "ISC/S81-T023",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T024": {
     "name": "283プロのヒナ 三峰結華",
@@ -453,7 +476,8 @@
         "id": "ISC/S81-T024",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T025": {
     "name": "283プロのヒナ 白瀬咲耶",
@@ -471,7 +495,8 @@
         "id": "ISC/S81-T025",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T026": {
     "name": "これ、なんの話～？",
@@ -497,7 +522,8 @@
         "id": "ISC/S81-T026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T027": {
     "name": "シンフォニックスチーム 幽谷霧子",
@@ -519,7 +545,8 @@
         "id": "ISC/S81-T027R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T028": {
     "name": "ビヨンドザブルースカイ 三峰結華",
@@ -537,7 +564,8 @@
         "id": "ISC/S81-T028",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T029": {
     "name": "シンフォニックスチーム 月岡恋鐘",
@@ -563,7 +591,8 @@
         "id": "ISC/S81-T029SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T030": {
     "name": "シンフォニックスチーム 田中摩美々",
@@ -585,7 +614,8 @@
         "id": "ISC/S81-T030R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T031": {
     "name": "シンフォニックスチーム 白瀬咲耶",
@@ -607,7 +637,8 @@
         "id": "ISC/S81-T031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T032": {
     "name": "ビヨンドザブルースカイ 田中摩美々",
@@ -625,7 +656,8 @@
         "id": "ISC/S81-T032",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T033": {
     "name": "ビヨンドザブルースカイ 白瀬咲耶",
@@ -643,7 +675,8 @@
         "id": "ISC/S81-T033",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T034": {
     "name": "シンフォニックスチーム 三峰結華",
@@ -665,7 +698,8 @@
         "id": "ISC/S81-T034R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T035": {
     "name": "ビヨンドザブルースカイ 月岡恋鐘",
@@ -683,7 +717,8 @@
         "id": "ISC/S81-T035",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T036": {
     "name": "ビヨンドザブルースカイ 幽谷霧子",
@@ -701,7 +736,8 @@
         "id": "ISC/S81-T036",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T037": {
     "name": "283プロダクション",
@@ -719,7 +755,8 @@
         "id": "ISC/S81-T037",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T038": {
     "name": "アンティーカ",
@@ -737,7 +774,8 @@
         "id": "ISC/S81-T038",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T039": {
     "name": "283プロのヒナ 西城樹里",
@@ -755,7 +793,8 @@
         "id": "ISC/S81-T039",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T040": {
     "name": "ビヨンドザブルースカイ 有栖川夏葉",
@@ -773,7 +812,8 @@
         "id": "ISC/S81-T040",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T041": {
     "name": "283プロのヒナ 杜野凛世",
@@ -791,7 +831,8 @@
         "id": "ISC/S81-T041",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T042": {
     "name": "283プロのヒナ 園田智代子",
@@ -809,7 +850,8 @@
         "id": "ISC/S81-T042",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T043": {
     "name": "ブレイブヒーロージャージ 小宮果穂",
@@ -835,7 +877,8 @@
         "id": "ISC/S81-T043SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T044": {
     "name": "ビヨンドザブルースカイ 杜野凛世",
@@ -853,7 +896,8 @@
         "id": "ISC/S81-T044",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T045": {
     "name": "ビヨンドザブルースカイ 園田智代子",
@@ -871,7 +915,8 @@
         "id": "ISC/S81-T045",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T046": {
     "name": "ビヨンドザブルースカイ 小宮果穂",
@@ -889,7 +934,8 @@
         "id": "ISC/S81-T046",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T047": {
     "name": "ブレイブヒーロージャージ 西城樹里",
@@ -911,7 +957,8 @@
         "id": "ISC/S81-T047R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T048": {
     "name": "ブレイブヒーロージャージ 有栖川夏葉",
@@ -933,7 +980,8 @@
         "id": "ISC/S81-T048R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T049": {
     "name": "283プロダクション",
@@ -951,7 +999,8 @@
         "id": "ISC/S81-T049",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T050": {
     "name": "雨のち、マイヒーロー",
@@ -977,7 +1026,8 @@
         "id": "ISC/S81-T050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T051": {
     "name": "白いツバサ 有栖川夏葉",
@@ -995,7 +1045,8 @@
         "id": "ISC/S81-T051",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T052": {
     "name": "ブレイブヒーロージャージ 杜野凛世",
@@ -1017,7 +1068,8 @@
         "id": "ISC/S81-T052R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T053": {
     "name": "白いツバサ 小宮果穂",
@@ -1035,7 +1087,8 @@
         "id": "ISC/S81-T053",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T054": {
     "name": "白いツバサ 園田智代子",
@@ -1053,7 +1106,8 @@
         "id": "ISC/S81-T054",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T055": {
     "name": "白いツバサ 西城樹里",
@@ -1071,7 +1125,8 @@
         "id": "ISC/S81-T055",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T056": {
     "name": "ビヨンドザブルースカイ 西城樹里",
@@ -1089,7 +1144,8 @@
         "id": "ISC/S81-T056",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T057": {
     "name": "ブレイブヒーロージャージ 園田智代子",
@@ -1111,7 +1167,8 @@
         "id": "ISC/S81-T057R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T058": {
     "name": "白いツバサ 杜野凛世",
@@ -1129,7 +1186,8 @@
         "id": "ISC/S81-T058",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T059": {
     "name": "283プロのヒナ 有栖川夏葉",
@@ -1147,7 +1205,8 @@
         "id": "ISC/S81-T059",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T060": {
     "name": "283プロのヒナ 小宮果穂",
@@ -1165,7 +1224,8 @@
         "id": "ISC/S81-T060",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T061": {
     "name": "放課後クライマックスガールズ",
@@ -1183,7 +1243,8 @@
         "id": "ISC/S81-T061",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T062": {
     "name": "283プロのヒナ 大崎甜花",
@@ -1201,7 +1262,8 @@
         "id": "ISC/S81-T062",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T063": {
     "name": "白いツバサ 大崎甜花",
@@ -1219,7 +1281,8 @@
         "id": "ISC/S81-T063",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T064": {
     "name": "283プロのヒナ 大崎甘奈",
@@ -1237,7 +1300,8 @@
         "id": "ISC/S81-T064",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T065": {
     "name": "白いツバサ 桑山千雪",
@@ -1255,7 +1319,8 @@
         "id": "ISC/S81-T065",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T066": {
     "name": "白いツバサ 大崎甘奈",
@@ -1273,7 +1338,8 @@
         "id": "ISC/S81-T066",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T067": {
     "name": "283プロのヒナ 桑山千雪",
@@ -1291,7 +1357,8 @@
         "id": "ISC/S81-T067",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T068": {
     "name": "まだ……寝ないから……",
@@ -1317,7 +1384,8 @@
         "id": "ISC/S81-T068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T069": {
     "name": "ビヨンドザブルースカイ 桑山千雪",
@@ -1335,7 +1403,8 @@
         "id": "ISC/S81-T069",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T070": {
     "name": "ウィッシュフルリリー 大崎甘奈",
@@ -1361,7 +1430,8 @@
         "id": "ISC/S81-T070SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T071": {
     "name": "ウィッシュフルリリー 大崎甜花",
@@ -1383,7 +1453,8 @@
         "id": "ISC/S81-T071R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T072": {
     "name": "ウィッシュフルリリー 桑山千雪",
@@ -1405,7 +1476,8 @@
         "id": "ISC/S81-T072R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T073": {
     "name": "ビヨンドザブルースカイ 大崎甘奈",
@@ -1423,7 +1495,8 @@
         "id": "ISC/S81-T073",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T074": {
     "name": "ビヨンドザブルースカイ 大崎甜花",
@@ -1441,7 +1514,8 @@
         "id": "ISC/S81-T074",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T075": {
     "name": "283プロダクション",
@@ -1459,7 +1533,8 @@
         "id": "ISC/S81-T075",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T076": {
     "name": "アルストロメリア",
@@ -1477,7 +1552,8 @@
         "id": "ISC/S81-T076",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T077": {
     "name": "白いツバサ 和泉愛依",
@@ -1495,7 +1571,8 @@
         "id": "ISC/S81-T077",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T078": {
     "name": "白いツバサ 芹沢あさひ",
@@ -1513,7 +1590,8 @@
         "id": "ISC/S81-T078",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T079": {
     "name": "283プロのヒナ 芹沢あさひ",
@@ -1531,7 +1609,8 @@
         "id": "ISC/S81-T079",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T080": {
     "name": "ビヨンドザブルースカイ 和泉愛依",
@@ -1549,7 +1628,8 @@
         "id": "ISC/S81-T080",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T081": {
     "name": "白いツバサ 黛冬優子",
@@ -1567,7 +1647,8 @@
         "id": "ISC/S81-T081",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T082": {
     "name": "ネオンライトロマンサー 黛冬優子",
@@ -1589,7 +1670,8 @@
         "id": "ISC/S81-T082R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T083": {
     "name": "ストレイライト",
@@ -1607,7 +1689,8 @@
         "id": "ISC/S81-T083",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T084": {
     "name": "283プロのヒナ 黛冬優子",
@@ -1625,7 +1708,8 @@
         "id": "ISC/S81-T084",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T085": {
     "name": "283プロのヒナ 和泉愛依",
@@ -1643,7 +1727,8 @@
         "id": "ISC/S81-T085",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T086": {
     "name": "ネオンライトロマンサー 芹沢あさひ",
@@ -1669,7 +1754,8 @@
         "id": "ISC/S81-T086SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T087": {
     "name": "ビヨンドザブルースカイ 黛冬優子",
@@ -1687,7 +1773,8 @@
         "id": "ISC/S81-T087",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T088": {
     "name": "ネオンライトロマンサー 和泉愛依",
@@ -1709,7 +1796,8 @@
         "id": "ISC/S81-T088R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T089": {
     "name": "ビヨンドザブルースカイ 芹沢あさひ",
@@ -1727,7 +1815,8 @@
         "id": "ISC/S81-T089",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T090": {
     "name": "283プロダクション",
@@ -1745,7 +1834,8 @@
         "id": "ISC/S81-T090",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T091": {
     "name": "あめ、ゆき、はれ",
@@ -1771,7 +1861,8 @@
         "id": "ISC/S81-T091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T092": {
     "name": "ビヨンドザブルースカイ 樋口円香",
@@ -1789,7 +1880,8 @@
         "id": "ISC/S81-T092",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T093": {
     "name": "283プロのヒナ 市川雛菜",
@@ -1807,7 +1899,8 @@
         "id": "ISC/S81-T093",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T094": {
     "name": "ビヨンドザブルースカイ 浅倉 透",
@@ -1825,7 +1918,8 @@
         "id": "ISC/S81-T094",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T095": {
     "name": "283プロのヒナ 樋口円香",
@@ -1843,7 +1937,8 @@
         "id": "ISC/S81-T095",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T096": {
     "name": "283プロのヒナ 浅倉 透",
@@ -1861,7 +1956,8 @@
         "id": "ISC/S81-T096",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T097": {
     "name": "283プロのヒナ 福丸小糸",
@@ -1879,7 +1975,8 @@
         "id": "ISC/S81-T097",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T098": {
     "name": "ビヨンドザブルースカイ 市川雛菜",
@@ -1897,7 +1994,8 @@
         "id": "ISC/S81-T098",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T099": {
     "name": "ビヨンドザブルースカイ 福丸小糸",
@@ -1915,7 +2013,8 @@
         "id": "ISC/S81-T099",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T100": {
     "name": "ノクチル",
@@ -1933,7 +2032,8 @@
         "id": "ISC/S81-T100",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T101": {
     "name": "白いツバサ 福丸小糸",
@@ -1951,7 +2051,8 @@
         "id": "ISC/S81-T101",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T102": {
     "name": "クリアマリンカーム 福丸小糸",
@@ -1973,7 +2074,8 @@
         "id": "ISC/S81-T102R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T103": {
     "name": "クリアマリンカーム 市川雛菜",
@@ -1995,7 +2097,8 @@
         "id": "ISC/S81-T103R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T104": {
     "name": "白いツバサ 樋口円香",
@@ -2013,7 +2116,8 @@
         "id": "ISC/S81-T104",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T105": {
     "name": "白いツバサ 浅倉 透",
@@ -2031,7 +2135,8 @@
         "id": "ISC/S81-T105",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T106": {
     "name": "白いツバサ 市川雛菜",
@@ -2049,7 +2154,8 @@
         "id": "ISC/S81-T106",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T107": {
     "name": "クリアマリンカーム 樋口円香",
@@ -2071,7 +2177,8 @@
         "id": "ISC/S81-T107R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T108": {
     "name": "クリアマリンカーム 浅倉 透",
@@ -2097,7 +2204,8 @@
         "id": "ISC/S81-T108SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ISC/S81-T109": {
     "name": "283プロダクション",
@@ -2115,7 +2223,8 @@
         "id": "ISC/S81-T109",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ISC/S81-T110": {
     "name": "ハウ・アー・UFO",
@@ -2141,6 +2250,7 @@
         "id": "ISC/S81-T110S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

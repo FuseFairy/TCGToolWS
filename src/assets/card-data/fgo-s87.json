@@ -19,7 +19,8 @@
         "id": "FGO/S87-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-002": {
     "name": "神霊 獅子王",
@@ -41,7 +42,8 @@
         "id": "FGO/S87-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-003": {
     "name": "獅子王の補佐官 アグラヴェイン",
@@ -63,7 +65,8 @@
         "id": "FGO/S87-003RTR",
         "rarity": "RTR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-004": {
     "name": "ゆるがぬ忠義 ガウェイン＆獅子王",
@@ -85,7 +88,8 @@
         "id": "FGO/S87-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-005": {
     "name": "嘆きの騎士 トリスタン",
@@ -107,7 +111,8 @@
         "id": "FGO/S87-005RTR",
         "rarity": "RTR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-006": {
     "name": "日輪の輝く限り ガウェイン",
@@ -129,7 +134,8 @@
         "id": "FGO/S87-006RTR",
         "rarity": "RTR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-007": {
     "name": "嵐の王の名の下に 獅子王",
@@ -151,7 +157,8 @@
         "id": "FGO/S87-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-008": {
     "name": "祝福された暴走 モードレッド",
@@ -173,7 +180,8 @@
         "id": "FGO/S87-008RTR",
         "rarity": "RTR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-009": {
     "name": "怪物に成りはてる トリスタン",
@@ -191,7 +199,8 @@
         "id": "FGO/S87-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-010": {
     "name": "獣の心を持つ悪鬼 トリスタン",
@@ -213,7 +222,8 @@
         "id": "FGO/S87-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-011": {
     "name": "聖都を治める王 獅子王",
@@ -231,7 +241,8 @@
         "id": "FGO/S87-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-012": {
     "name": "鉄の騎士 アグラヴェイン",
@@ -249,7 +260,8 @@
         "id": "FGO/S87-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-013": {
     "name": "鉄のアグラヴェイン",
@@ -271,7 +283,8 @@
         "id": "FGO/S87-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-014": {
     "name": "遊撃騎士 モードレッド",
@@ -293,7 +306,8 @@
         "id": "FGO/S87-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-015": {
     "name": "滅びゆく最果ての塔 アグラヴェイン",
@@ -311,7 +325,8 @@
         "id": "FGO/S87-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-016": {
     "name": "叛逆の騎士 モードレッド",
@@ -329,7 +344,8 @@
         "id": "FGO/S87-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-017": {
     "name": "不夜の聖罰 ガウェイン",
@@ -347,7 +363,8 @@
         "id": "FGO/S87-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-018": {
     "name": "聖剣返還 獅子王",
@@ -365,7 +382,8 @@
         "id": "FGO/S87-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-019": {
     "name": "御仏の慈悲 モードレッド",
@@ -383,7 +401,8 @@
         "id": "FGO/S87-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-020": {
     "name": "落日 ガウェイン",
@@ -401,7 +420,8 @@
         "id": "FGO/S87-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-021": {
     "name": "反転した妖弦使い トリスタン",
@@ -419,7 +439,8 @@
         "id": "FGO/S87-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-022": {
     "name": "太陽の騎士 ガウェイン",
@@ -437,7 +458,8 @@
         "id": "FGO/S87-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-023": {
     "name": "聖抜の儀",
@@ -455,7 +477,8 @@
         "id": "FGO/S87-023",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-024": {
     "name": "最果てにて輝ける槍",
@@ -477,7 +500,8 @@
         "id": "FGO/S87-024R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-025": {
     "name": "転輪する勝利の剣",
@@ -499,7 +523,8 @@
         "id": "FGO/S87-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-026": {
     "name": "我が麗しき父への叛逆",
@@ -517,7 +542,8 @@
         "id": "FGO/S87-026",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FGO/S87-027": {
     "name": "痛哭の幻奏",
@@ -535,7 +561,8 @@
         "id": "FGO/S87-027",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "FGO/S87-028": {
     "name": "古き天空の女王 ニトクリス",
@@ -557,7 +584,8 @@
         "id": "FGO/S87-028SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-029": {
     "name": "荒廃の地を往く法師 玄奘三蔵",
@@ -579,7 +607,8 @@
         "id": "FGO/S87-029SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-030": {
     "name": "太陽王 オジマンディアス",
@@ -601,7 +630,8 @@
         "id": "FGO/S87-030SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-031": {
     "name": "世界の救済 オジマンディアス",
@@ -623,7 +653,8 @@
         "id": "FGO/S87-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-032": {
     "name": "御仏の慈悲 玄奘三蔵",
@@ -645,7 +676,8 @@
         "id": "FGO/S87-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-033": {
     "name": "ファラオとして ニトクリス",
@@ -667,7 +699,8 @@
         "id": "FGO/S87-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-034": {
     "name": "神王 オジマンディアス",
@@ -689,7 +722,8 @@
         "id": "FGO/S87-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-035": {
     "name": "心優しき魔術女王 ニトクリス",
@@ -711,7 +745,8 @@
         "id": "FGO/S87-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-036": {
     "name": "魔術女王の威光 ニトクリス",
@@ -729,7 +764,8 @@
         "id": "FGO/S87-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-037": {
     "name": "正義の所在 玄奘三蔵",
@@ -747,7 +783,8 @@
         "id": "FGO/S87-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-038": {
     "name": "太陽のような寛大さ オジマンディアス",
@@ -765,7 +802,8 @@
         "id": "FGO/S87-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-039": {
     "name": "同盟の条件 オジマンディアス",
@@ -783,7 +821,8 @@
         "id": "FGO/S87-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-040": {
     "name": "身外心の法 玄奘三蔵",
@@ -801,7 +840,8 @@
         "id": "FGO/S87-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-041": {
     "name": "エジプト領の守護 ニトクリス",
@@ -819,7 +859,8 @@
         "id": "FGO/S87-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-042": {
     "name": "挑発的な視線 ニトクリス",
@@ -837,7 +878,8 @@
         "id": "FGO/S87-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-043": {
     "name": "反攻勢力との合流 玄奘三蔵",
@@ -855,7 +897,8 @@
         "id": "FGO/S87-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-044": {
     "name": "王の中の王 オジマンディアス",
@@ -873,7 +916,8 @@
         "id": "FGO/S87-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-045": {
     "name": "強者との対峙 玄奘三蔵",
@@ -891,7 +935,8 @@
         "id": "FGO/S87-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-046": {
     "name": "ファラオの神威 オジマンディアス",
@@ -909,7 +954,8 @@
         "id": "FGO/S87-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-047": {
     "name": "用なき物の受け渡し ニトクリス",
@@ -927,7 +973,8 @@
         "id": "FGO/S87-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-048": {
     "name": "太陽王の聖杯",
@@ -945,7 +992,8 @@
         "id": "FGO/S87-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-049": {
     "name": "光輝の大複合神殿",
@@ -967,7 +1015,8 @@
         "id": "FGO/S87-049R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-050": {
     "name": "永遠の国へ",
@@ -985,7 +1034,8 @@
         "id": "FGO/S87-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-051": {
     "name": "五行山・釈迦如来掌",
@@ -1007,7 +1057,8 @@
         "id": "FGO/S87-051R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-052": {
     "name": "毒の娘 静謐のハサン",
@@ -1029,7 +1080,8 @@
         "id": "FGO/S87-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-053": {
     "name": "輝けるアガートラム ベディヴィエール",
@@ -1051,7 +1103,8 @@
         "id": "FGO/S87-053SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-054": {
     "name": "菫色の銀騎士 ベディヴィエール",
@@ -1073,7 +1126,8 @@
         "id": "FGO/S87-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-055": {
     "name": "決戦前夜 静謐のハサン",
@@ -1091,7 +1145,8 @@
         "id": "FGO/S87-055",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-056": {
     "name": "忠節の騎士 ベディヴィエール",
@@ -1113,7 +1168,8 @@
         "id": "FGO/S87-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-057": {
     "name": "レプリカ ベディヴィエール",
@@ -1131,7 +1187,8 @@
         "id": "FGO/S87-057",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-058": {
     "name": "渾身の一射 アーラシュ",
@@ -1153,7 +1210,8 @@
         "id": "FGO/S87-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-059": {
     "name": "孤高の騎士 ランスロット",
@@ -1175,7 +1233,8 @@
         "id": "FGO/S87-059RTR",
         "rarity": "RTR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-060": {
     "name": "初代ハサン・サッバーハ“山の翁”",
@@ -1197,7 +1256,8 @@
         "id": "FGO/S87-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-061": {
     "name": "アーラシュ・カマンガー",
@@ -1215,7 +1275,8 @@
         "id": "FGO/S87-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-062": {
     "name": "グランドアサシン“山の翁”",
@@ -1233,7 +1294,8 @@
         "id": "FGO/S87-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-063": {
     "name": "円卓の騎士道 ランスロット",
@@ -1255,7 +1317,8 @@
         "id": "FGO/S87-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-064": {
     "name": "青ざめた死の舞踏 静謐のハサン",
@@ -1273,7 +1336,8 @@
         "id": "FGO/S87-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-065": {
     "name": "強者との対峙 ランスロット",
@@ -1291,7 +1355,8 @@
         "id": "FGO/S87-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-066": {
     "name": "聖剣返還 ベディヴィエール",
@@ -1309,7 +1374,8 @@
         "id": "FGO/S87-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-067": {
     "name": "妄想毒身 静謐のハサン",
@@ -1327,7 +1393,8 @@
         "id": "FGO/S87-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-068": {
     "name": "誰かのための旅路 ベディヴィエール",
@@ -1345,7 +1412,8 @@
         "id": "FGO/S87-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-069": {
     "name": "原初の掟 呪腕のハサン",
@@ -1363,7 +1431,8 @@
         "id": "FGO/S87-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-070": {
     "name": "ペルシャの大英雄 アーラシュ",
@@ -1381,7 +1450,8 @@
         "id": "FGO/S87-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-071": {
     "name": "落日 ベディヴィエール",
@@ -1399,7 +1469,8 @@
         "id": "FGO/S87-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-072": {
     "name": "誇り高き暗殺者 呪腕のハサン",
@@ -1417,7 +1488,8 @@
         "id": "FGO/S87-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-073": {
     "name": "聖槍の真実 ベディヴィエール",
@@ -1435,7 +1507,8 @@
         "id": "FGO/S87-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-074": {
     "name": "凄烈なる湖の騎士 ランスロット",
@@ -1453,7 +1526,8 @@
         "id": "FGO/S87-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-075": {
     "name": "晩鐘",
@@ -1471,7 +1545,8 @@
         "id": "FGO/S87-075",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-076": {
     "name": "第六特異点の探索",
@@ -1489,7 +1564,8 @@
         "id": "FGO/S87-076",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-077": {
     "name": "剣を摂れ、銀色の腕",
@@ -1511,7 +1587,8 @@
         "id": "FGO/S87-077R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-078": {
     "name": "湖光のランスロット",
@@ -1533,7 +1610,8 @@
         "id": "FGO/S87-078R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-079": {
     "name": "流星一条",
@@ -1555,7 +1633,8 @@
         "id": "FGO/S87-079R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-080": {
     "name": "この霊基にかけて マシュ・キリエライト",
@@ -1577,7 +1656,8 @@
         "id": "FGO/S87-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-081": {
     "name": "大天才 レオナルド・ダ・ヴィンチ",
@@ -1599,7 +1679,8 @@
         "id": "FGO/S87-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-082": {
     "name": "聖なる盾の騎士 マシュ・キリエライト",
@@ -1621,7 +1702,8 @@
         "id": "FGO/S87-082SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-083": {
     "name": "奮い立つ決意 マシュ・キリエライト",
@@ -1639,7 +1721,8 @@
         "id": "FGO/S87-083",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-084": {
     "name": "由来を知る資格 マシュ・キリエライト",
@@ -1661,7 +1744,8 @@
         "id": "FGO/S87-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-085": {
     "name": "不滅の天才 レオナルド・ダ・ヴィンチ",
@@ -1679,7 +1763,8 @@
         "id": "FGO/S87-085",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-086": {
     "name": "円卓の騎士道 マシュ・キリエライト",
@@ -1701,7 +1786,8 @@
         "id": "FGO/S87-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-087": {
     "name": "チ・ヴェディアーモ レオナルド・ダ・ヴィンチ",
@@ -1719,7 +1805,8 @@
         "id": "FGO/S87-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-088": {
     "name": "ご機嫌の理由 レオナルド・ダ・ヴィンチ",
@@ -1737,7 +1824,8 @@
         "id": "FGO/S87-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-089": {
     "name": "誰かのための旅路 藤丸立香",
@@ -1755,7 +1843,8 @@
         "id": "FGO/S87-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-090": {
     "name": "私の中の英霊 マシュ・キリエライト",
@@ -1773,7 +1862,8 @@
         "id": "FGO/S87-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-091": {
     "name": "聖抜の真相 レオナルド・ダ・ヴィンチ",
@@ -1791,7 +1881,8 @@
         "id": "FGO/S87-091",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-092": {
     "name": "誰かのための旅路 マシュ・キリエライト",
@@ -1809,7 +1900,8 @@
         "id": "FGO/S87-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-093": {
     "name": "カルデアのマスター 藤丸立香",
@@ -1827,7 +1919,8 @@
         "id": "FGO/S87-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-094": {
     "name": "委ねられた善性 マシュ・キリエライト",
@@ -1845,7 +1938,8 @@
         "id": "FGO/S87-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-095": {
     "name": "聖抜の真相 マシュ・キリエライト",
@@ -1863,7 +1957,8 @@
         "id": "FGO/S87-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-096": {
     "name": "天才の出番 レオナルド・ダ・ヴィンチ",
@@ -1881,7 +1976,8 @@
         "id": "FGO/S87-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-097": {
     "name": "聖杯の行方 ロマニ・アーキマン",
@@ -1899,7 +1995,8 @@
         "id": "FGO/S87-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-098": {
     "name": "人間の『善性』",
@@ -1917,7 +2014,8 @@
         "id": "FGO/S87-098",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-099": {
     "name": "いまは遙か理想の城",
@@ -1939,7 +2037,8 @@
         "id": "FGO/S87-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FGO/S87-100": {
     "name": "ついてきた甲斐",
@@ -1957,6 +2056,7 @@
         "id": "FGO/S87-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -15,7 +15,8 @@
         "id": "MK2/S19-101",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-102": {
     "name": "捜査再開！ ネロ",
@@ -33,7 +34,8 @@
         "id": "MK2/S19-102",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-103": {
     "name": "新たな指揮官 姫百合",
@@ -51,7 +53,8 @@
         "id": "MK2/S19-103",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-104": {
     "name": "捜査再開！ シャロ",
@@ -69,7 +72,8 @@
         "id": "MK2/S19-104",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-105": {
     "name": "捜査再開！ コーデリア",
@@ -87,7 +91,8 @@
         "id": "MK2/S19-105",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-T01": {
     "name": "“優柔不断”姫百合",
@@ -105,7 +110,8 @@
         "id": "MK2/S19-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-T02": {
     "name": "メガネっ娘 咲",
@@ -123,7 +129,8 @@
         "id": "MK2/S19-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-T03": {
     "name": "農業娘 エリー",
@@ -141,7 +148,8 @@
         "id": "MK2/S19-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-T04": {
     "name": "小林への関心 姫百合",
@@ -159,7 +167,8 @@
         "id": "MK2/S19-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-T05": {
     "name": "農業娘 コーデリア",
@@ -177,7 +186,8 @@
         "id": "MK2/S19-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-T06": {
     "name": "古武術家 平乃",
@@ -195,7 +205,8 @@
         "id": "MK2/S19-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-T07": {
     "name": "実演",
@@ -213,7 +224,8 @@
         "id": "MK2/S19-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-T08": {
     "name": "G3の休日",
@@ -231,7 +243,8 @@
         "id": "MK2/S19-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK2/S19-T09": {
     "name": "プロの腕前 次子",
@@ -249,7 +262,8 @@
         "id": "MK2/S19-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-T10": {
     "name": "農業娘 ネロ",
@@ -267,7 +281,8 @@
         "id": "MK2/S19-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-T11": {
     "name": "チューリップ組 小衣",
@@ -285,7 +300,8 @@
         "id": "MK2/S19-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK2/S19-T12": {
     "name": "農業娘 シャロ",
@@ -303,7 +319,8 @@
         "id": "MK2/S19-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-T13": {
     "name": "本家バリツ",
@@ -321,7 +338,8 @@
         "id": "MK2/S19-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK2/S19-T14": {
     "name": "初めてのダンス",
@@ -339,6 +357,7 @@
         "id": "MK2/S19-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

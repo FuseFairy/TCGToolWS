@@ -15,7 +15,8 @@
         "id": "LL/WE24-01",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-02": {
     "name": "“Angelic Angel”絢瀬 絵里",
@@ -33,7 +34,8 @@
         "id": "LL/WE24-02",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE24-03": {
     "name": "“僕たちはひとつの光”矢澤 にこ",
@@ -51,7 +53,8 @@
         "id": "LL/WE24-03",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE24-04": {
     "name": "“Angelic Angel”矢澤 にこ",
@@ -69,7 +72,8 @@
         "id": "LL/WE24-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-05": {
     "name": "“？←HEARTBEAT”絢瀬 絵里",
@@ -87,7 +91,8 @@
         "id": "LL/WE24-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-06": {
     "name": "“？←HEARTBEAT”東條 希",
@@ -105,7 +110,8 @@
         "id": "LL/WE24-06",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-07": {
     "name": "音ノ木坂学院の生徒 亜里沙",
@@ -123,7 +129,8 @@
         "id": "LL/WE24-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-08": {
     "name": "“SUNNY DAY SONG”絢瀬 絵里",
@@ -141,7 +148,8 @@
         "id": "LL/WE24-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-09": {
     "name": "“SUNNY DAY SONG”絢瀬 亜里沙",
@@ -159,7 +167,8 @@
         "id": "LL/WE24-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-10": {
     "name": "“SUNNY DAY SONG”矢澤 にこ",
@@ -177,7 +186,8 @@
         "id": "LL/WE24-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE24-11": {
     "name": "“SUNNY DAY SONG”東條 希",
@@ -195,7 +205,8 @@
         "id": "LL/WE24-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE24-12": {
     "name": "僕たちはひとつの光",
@@ -233,7 +244,8 @@
         "id": "LL/WE24-12cSP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-13": {
     "name": "？←HEARTBEAT",
@@ -251,7 +263,8 @@
         "id": "LL/WE24-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LL/WE24-14": {
     "name": "Angelic Angel",
@@ -269,7 +282,8 @@
         "id": "LL/WE24-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LL/WE24-15": {
     "name": "“僕たちはひとつの光”南 ことり",
@@ -287,7 +301,8 @@
         "id": "LL/WE24-15",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-16": {
     "name": "“Angelic Angel”園田 海未",
@@ -305,7 +320,8 @@
         "id": "LL/WE24-16",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-17": {
     "name": "“SUNNY DAY SONG”高坂 穂乃果",
@@ -323,7 +339,8 @@
         "id": "LL/WE24-17",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE24-18": {
     "name": "“SUNNY DAY SONG”園田 海未",
@@ -341,7 +358,8 @@
         "id": "LL/WE24-18",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE24-19": {
     "name": "“Angelic Angel”高坂 穂乃果",
@@ -359,7 +377,8 @@
         "id": "LL/WE24-19",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE24-20": {
     "name": "“Angelic Angel”南 ことり",
@@ -377,7 +396,8 @@
         "id": "LL/WE24-20",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE24-21": {
     "name": "“SUNNY DAY SONG”南 ことり",
@@ -395,7 +415,8 @@
         "id": "LL/WE24-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-22": {
     "name": "“SUNNY DAY SONG”高坂 雪穂",
@@ -413,7 +434,8 @@
         "id": "LL/WE24-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-23": {
     "name": "音ノ木坂学院の生徒 雪穂",
@@ -431,7 +453,8 @@
         "id": "LL/WE24-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-24": {
     "name": "“SUNNY DAY SONG”綺羅 ツバサ",
@@ -449,7 +472,8 @@
         "id": "LL/WE24-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-25": {
     "name": "“SUNNY DAY SONG”統堂 英玲奈",
@@ -467,7 +491,8 @@
         "id": "LL/WE24-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-26": {
     "name": "“SUNNY DAY SONG”優木 あんじゅ",
@@ -485,7 +510,8 @@
         "id": "LL/WE24-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-27": {
     "name": "“Future style”高坂 穂乃果",
@@ -503,7 +529,8 @@
         "id": "LL/WE24-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-28": {
     "name": "“Future style”園田 海未",
@@ -521,7 +548,8 @@
         "id": "LL/WE24-28",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-29": {
     "name": "女性シンガー",
@@ -539,7 +567,8 @@
         "id": "LL/WE24-29",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE24-30": {
     "name": "答えを見つけて",
@@ -557,7 +586,8 @@
         "id": "LL/WE24-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-31": {
     "name": "僕たちはひとつの光",
@@ -595,7 +625,8 @@
         "id": "LL/WE24-31cSP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-32": {
     "name": "Future style",
@@ -613,7 +644,8 @@
         "id": "LL/WE24-32",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LL/WE24-33": {
     "name": "SUNNY DAY SONG",
@@ -631,7 +663,8 @@
         "id": "LL/WE24-33",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LL/WE24-34": {
     "name": "“Hello,星を数えて”星空 凛",
@@ -649,7 +682,8 @@
         "id": "LL/WE24-34",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-35": {
     "name": "“僕たちはひとつの光”西木野 真姫",
@@ -667,7 +701,8 @@
         "id": "LL/WE24-35",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-36": {
     "name": "“Angelic Angel”小泉 花陽",
@@ -685,7 +720,8 @@
         "id": "LL/WE24-36",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE24-37": {
     "name": "“SUNNY DAY SONG”小泉 花陽",
@@ -703,7 +739,8 @@
         "id": "LL/WE24-37",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-38": {
     "name": "“Angelic Angel”西木野 真姫",
@@ -721,7 +758,8 @@
         "id": "LL/WE24-38",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-39": {
     "name": "“Angelic Angel”星空 凛",
@@ -739,7 +777,8 @@
         "id": "LL/WE24-39",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE24-40": {
     "name": "“SUNNY DAY SONG”星空 凛",
@@ -757,7 +796,8 @@
         "id": "LL/WE24-40",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-41": {
     "name": "ふわふわなアルパカさん",
@@ -775,7 +815,8 @@
         "id": "LL/WE24-41",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-42": {
     "name": "“SUNNY DAY SONG”西木野 真姫",
@@ -793,7 +834,8 @@
         "id": "LL/WE24-42",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE24-43": {
     "name": "“Hello,星を数えて”小泉 花陽",
@@ -811,7 +853,8 @@
         "id": "LL/WE24-43",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE24-44": {
     "name": "僕たちはひとつの光",
@@ -849,7 +892,8 @@
         "id": "LL/WE24-44cSP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE24-45": {
     "name": "Hello,星を数えて",
@@ -867,6 +911,7 @@
         "id": "LL/WE24-45",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

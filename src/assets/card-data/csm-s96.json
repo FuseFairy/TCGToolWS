@@ -19,7 +19,8 @@
         "id": "CSM/S96-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-002": {
     "name": "公安対魔特異4課 パワー",
@@ -41,7 +42,8 @@
         "id": "CSM/S96-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-003": {
     "name": "悪魔が恐れるデビルハンター チェンソーマン",
@@ -63,7 +65,8 @@
         "id": "CSM/S96-003CSMR",
         "rarity": "CSMR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-004": {
     "name": "いつもいっしょ ポチタ",
@@ -85,7 +88,8 @@
         "id": "CSM/S96-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-005": {
     "name": "特異4課のリーダー マキマ",
@@ -107,7 +111,8 @@
         "id": "CSM/S96-005OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-006": {
     "name": "魔人の約束 パワー",
@@ -129,7 +134,8 @@
         "id": "CSM/S96-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-007": {
     "name": "戦闘開始 デンジ",
@@ -151,7 +157,8 @@
         "id": "CSM/S96-007OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-008": {
     "name": "天使の誘惑 パワー",
@@ -173,7 +180,8 @@
         "id": "CSM/S96-008OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-009": {
     "name": "上司のお願い マキマ",
@@ -195,7 +203,8 @@
         "id": "CSM/S96-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-010": {
     "name": "激闘の後 デンジ",
@@ -213,7 +222,8 @@
         "id": "CSM/S96-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-011": {
     "name": "昨日のお酒 マキマ",
@@ -231,7 +241,8 @@
         "id": "CSM/S96-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-012": {
     "name": "間接キスだ！ デンジ",
@@ -249,7 +260,8 @@
         "id": "CSM/S96-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-013": {
     "name": "乱戦 チェンソーマン",
@@ -267,7 +279,8 @@
         "id": "CSM/S96-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-014": {
     "name": "悪魔との戦い チェンソーマン",
@@ -285,7 +298,8 @@
         "id": "CSM/S96-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-015": {
     "name": "新たな目標 デンジ",
@@ -307,7 +321,8 @@
         "id": "CSM/S96-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-016": {
     "name": "頭脳戦 パワー",
@@ -329,7 +344,8 @@
         "id": "CSM/S96-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-017": {
     "name": "新人歓迎会 デンジ",
@@ -347,7 +363,8 @@
         "id": "CSM/S96-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-018": {
     "name": "突然の辞表 マキマ",
@@ -365,7 +382,8 @@
         "id": "CSM/S96-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-019": {
     "name": "新人歓迎会 マキマ",
@@ -383,7 +401,8 @@
         "id": "CSM/S96-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-020": {
     "name": "ニャーコ",
@@ -401,7 +420,8 @@
         "id": "CSM/S96-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-021": {
     "name": "新人歓迎会 パワー",
@@ -419,7 +439,8 @@
         "id": "CSM/S96-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-022": {
     "name": "日常の一幕 パワー",
@@ -437,7 +458,8 @@
         "id": "CSM/S96-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-023": {
     "name": "一つ叶えてあげる マキマ",
@@ -455,7 +477,8 @@
         "id": "CSM/S96-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-024": {
     "name": "騒がしい生活",
@@ -473,7 +496,8 @@
         "id": "CSM/S96-024",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-025": {
     "name": "血塗れの宣戦布告",
@@ -495,7 +519,8 @@
         "id": "CSM/S96-025OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-026": {
     "name": "魔人の日常",
@@ -517,7 +542,8 @@
         "id": "CSM/S96-026R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-027": {
     "name": "魔人の暴走",
@@ -539,7 +565,8 @@
         "id": "CSM/S96-027R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-028": {
     "name": "デビルハンター 姫野",
@@ -561,7 +588,8 @@
         "id": "CSM/S96-028SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-029": {
     "name": "公安対魔特異4課 早川アキ",
@@ -583,7 +611,8 @@
         "id": "CSM/S96-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-030": {
     "name": "デビルハンター コベニ",
@@ -605,7 +634,8 @@
         "id": "CSM/S96-030SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-031": {
     "name": "新人歓迎会 コベニ",
@@ -627,7 +657,8 @@
         "id": "CSM/S96-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-032": {
     "name": "デビルハンター 岸辺",
@@ -649,7 +680,8 @@
         "id": "CSM/S96-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-033": {
     "name": "狐の悪魔との契約 早川アキ",
@@ -671,7 +703,8 @@
         "id": "CSM/S96-033OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-034": {
     "name": "タバコの誘い 姫野",
@@ -693,7 +726,8 @@
         "id": "CSM/S96-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-035": {
     "name": "悪魔の心臓を持つもの サムライソード",
@@ -715,7 +749,8 @@
         "id": "CSM/S96-035SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-036": {
     "name": "先輩デビルハンター 姫野",
@@ -737,7 +772,8 @@
         "id": "CSM/S96-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-037": {
     "name": "最後のタバコ 姫野",
@@ -755,7 +791,8 @@
         "id": "CSM/S96-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-038": {
     "name": "突然の襲撃 コベニ",
@@ -777,7 +814,8 @@
         "id": "CSM/S96-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-039": {
     "name": "ヘビの悪魔との契約 沢渡",
@@ -795,7 +833,8 @@
         "id": "CSM/S96-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-040": {
     "name": "公安対魔特異4課隊長 岸辺",
@@ -813,7 +852,8 @@
         "id": "CSM/S96-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-041": {
     "name": "狂乱 コベニ",
@@ -831,7 +871,8 @@
         "id": "CSM/S96-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-042": {
     "name": "激闘の後 早川アキ",
@@ -849,7 +890,8 @@
         "id": "CSM/S96-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-043": {
     "name": "一刀両断 サムライソード",
@@ -871,7 +913,8 @@
         "id": "CSM/S96-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-044": {
     "name": "高速の斬撃 サムライソード",
@@ -889,7 +932,8 @@
         "id": "CSM/S96-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-045": {
     "name": "日常の一幕 早川アキ",
@@ -907,7 +951,8 @@
         "id": "CSM/S96-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-046": {
     "name": "至福の時間 コベニ",
@@ -925,7 +970,8 @@
         "id": "CSM/S96-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-047": {
     "name": "新人歓迎会後 姫野",
@@ -943,7 +989,8 @@
         "id": "CSM/S96-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-048": {
     "name": "修行開始 岸辺",
@@ -961,7 +1008,8 @@
         "id": "CSM/S96-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-049": {
     "name": "引っ込み思案 コベニ",
@@ -979,7 +1027,8 @@
         "id": "CSM/S96-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-050": {
     "name": "銃の悪魔の肉片",
@@ -997,7 +1046,8 @@
         "id": "CSM/S96-050",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-051": {
     "name": "覚悟の抜刀",
@@ -1019,7 +1069,8 @@
         "id": "CSM/S96-051R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-052": {
     "name": "刀での一撃",
@@ -1041,7 +1092,8 @@
         "id": "CSM/S96-052OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-053": {
     "name": "夢みたいな生活 デンジ",
@@ -1063,7 +1115,8 @@
         "id": "CSM/S96-053SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-054": {
     "name": "初めての味 マキマ",
@@ -1085,7 +1138,8 @@
         "id": "CSM/S96-054CSMR",
         "rarity": "CSMR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-055": {
     "name": "公安対魔特異4課 マキマ",
@@ -1107,7 +1161,8 @@
         "id": "CSM/S96-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-056": {
     "name": "決意表明 デンジ",
@@ -1129,7 +1184,8 @@
         "id": "CSM/S96-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-057": {
     "name": "血塗れの悪魔 チェンソーマン",
@@ -1151,7 +1207,8 @@
         "id": "CSM/S96-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-058": {
     "name": "デビルハンター マキマ",
@@ -1173,7 +1230,8 @@
         "id": "CSM/S96-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-059": {
     "name": "狭い家じゃのお～ パワー",
@@ -1195,7 +1253,8 @@
         "id": "CSM/S96-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-060": {
     "name": "悪魔の心臓を持つもの チェンソーマン",
@@ -1217,7 +1276,8 @@
         "id": "CSM/S96-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-061": {
     "name": "突然の告白 マキマ",
@@ -1235,7 +1295,8 @@
         "id": "CSM/S96-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-062": {
     "name": "激闘の後 パワー",
@@ -1253,7 +1314,8 @@
         "id": "CSM/S96-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-063": {
     "name": "無邪気な魔人 パワー",
@@ -1271,7 +1333,8 @@
         "id": "CSM/S96-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-064": {
     "name": "内閣官房長官直属 マキマ",
@@ -1289,7 +1352,8 @@
         "id": "CSM/S96-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-065": {
     "name": "負け犬の声 デンジ",
@@ -1307,7 +1371,8 @@
         "id": "CSM/S96-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-066": {
     "name": "予想外の出来事 デンジ",
@@ -1325,7 +1390,8 @@
         "id": "CSM/S96-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-067": {
     "name": "繊細じゃのお～ パワー",
@@ -1343,7 +1409,8 @@
         "id": "CSM/S96-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-068": {
     "name": "私は撃たれなかった マキマ",
@@ -1361,7 +1428,8 @@
         "id": "CSM/S96-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-069": {
     "name": "バディの異変 デンジ",
@@ -1379,7 +1447,8 @@
         "id": "CSM/S96-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-070": {
     "name": "超インテリ作戦 パワー",
@@ -1397,7 +1466,8 @@
         "id": "CSM/S96-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-071": {
     "name": "超インテリ作戦 デンジ",
@@ -1415,7 +1485,8 @@
         "id": "CSM/S96-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-072": {
     "name": "不死身の悪魔 チェンソーマン",
@@ -1433,7 +1504,8 @@
         "id": "CSM/S96-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-073": {
     "name": "新幹線での襲撃 マキマ",
@@ -1451,7 +1523,8 @@
         "id": "CSM/S96-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-074": {
     "name": "帰り道のひととき パワー",
@@ -1469,7 +1542,8 @@
         "id": "CSM/S96-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-075": {
     "name": "ファースト間接キス",
@@ -1487,7 +1561,8 @@
         "id": "CSM/S96-075",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-076": {
     "name": "秘められた力",
@@ -1509,7 +1584,8 @@
         "id": "CSM/S96-076OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-077": {
     "name": "秘匿された能力",
@@ -1531,7 +1607,8 @@
         "id": "CSM/S96-077R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-078": {
     "name": "特別なお願い",
@@ -1549,7 +1626,8 @@
         "id": "CSM/S96-078",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-079": {
     "name": "最強の大会",
@@ -1567,7 +1645,8 @@
         "id": "CSM/S96-079",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-080": {
     "name": "特異4課のお目付役 早川アキ",
@@ -1589,7 +1668,8 @@
         "id": "CSM/S96-080SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-081": {
     "name": "公安対魔特異4課 姫野",
@@ -1611,7 +1691,8 @@
         "id": "CSM/S96-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-082": {
     "name": "デビルハンター 早川アキ",
@@ -1633,7 +1714,8 @@
         "id": "CSM/S96-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-083": {
     "name": "敵討ち 早川アキ",
@@ -1655,7 +1737,8 @@
         "id": "CSM/S96-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-084": {
     "name": "最初のタバコ 姫野",
@@ -1677,7 +1760,8 @@
         "id": "CSM/S96-084OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-085": {
     "name": "同盟結成 姫野",
@@ -1695,7 +1779,8 @@
         "id": "CSM/S96-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-086": {
     "name": "休憩中 姫野",
@@ -1717,7 +1802,8 @@
         "id": "CSM/S96-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-087": {
     "name": "未来の悪魔",
@@ -1735,7 +1821,8 @@
         "id": "CSM/S96-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-088": {
     "name": "朝の習慣 早川アキ",
@@ -1753,7 +1840,8 @@
         "id": "CSM/S96-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-089": {
     "name": "最後のタバコ 早川アキ",
@@ -1775,7 +1863,8 @@
         "id": "CSM/S96-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-090": {
     "name": "天国への鎮魂歌 早川アキ",
@@ -1793,7 +1882,8 @@
         "id": "CSM/S96-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-091": {
     "name": "ホテルでの一幕 早川アキ",
@@ -1811,7 +1901,8 @@
         "id": "CSM/S96-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-092": {
     "name": "悪魔の駆除要請 姫野",
@@ -1829,7 +1920,8 @@
         "id": "CSM/S96-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-093": {
     "name": "正直な疑問 姫野",
@@ -1847,7 +1939,8 @@
         "id": "CSM/S96-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-094": {
     "name": "最初のタバコ 早川アキ",
@@ -1865,7 +1958,8 @@
         "id": "CSM/S96-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-095": {
     "name": "仕事のご褒美 姫野",
@@ -1883,7 +1977,8 @@
         "id": "CSM/S96-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-096": {
     "name": "キャリア相談 早川アキ",
@@ -1901,7 +1996,8 @@
         "id": "CSM/S96-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-097": {
     "name": "Easy revenge!",
@@ -1923,7 +2019,8 @@
         "id": "CSM/S96-097S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CSM/S96-098": {
     "name": "悪魔狩りの原点",
@@ -1945,7 +2042,8 @@
         "id": "CSM/S96-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-099": {
     "name": "ゴーストの右手",
@@ -1967,7 +2065,8 @@
         "id": "CSM/S96-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CSM/S96-100": {
     "name": "極秘の同盟",
@@ -1989,6 +2088,7 @@
         "id": "CSM/S96-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

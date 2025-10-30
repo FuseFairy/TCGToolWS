@@ -23,7 +23,8 @@
         "id": "DC4/WE40-04SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/WE40-21": {
     "name": "甘いご褒美 諳子",
@@ -49,7 +50,8 @@
         "id": "DC4/WE40-21SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/WE40-25": {
     "name": "メイド体験 ちよ子",
@@ -71,7 +73,8 @@
         "id": "DC4/WE40-25DCP",
         "rarity": "DCP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC4/WE40-26": {
     "name": "指輪の交換 二乃",
@@ -97,7 +100,8 @@
         "id": "DC4/WE40-26SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC4/WE40-34": {
     "name": "新たなる高みへ！ ひより",
@@ -123,7 +127,8 @@
         "id": "DC4/WE40-34SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC4/WE40-35": {
     "name": "夜の学園探索 未羽",
@@ -145,7 +150,8 @@
         "id": "DC4/WE40-35DCP",
         "rarity": "DCP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC4/WE40-40": {
     "name": "波長を合わせる特訓 詩名",
@@ -171,7 +177,8 @@
         "id": "DC4/WE40-40SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/WE40-41": {
     "name": "これからの未来の話 有里栖",
@@ -197,7 +204,8 @@
         "id": "DC4/WE40-41SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC4/WE40-44": {
     "name": "ふたりの思い出の１ページ",
@@ -219,6 +227,7 @@
         "id": "DC4/WE40-44DCP",
         "rarity": "DCP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

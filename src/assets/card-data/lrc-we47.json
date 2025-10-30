@@ -23,7 +23,8 @@
         "id": "LRC/WE47-01SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-02": {
     "name": "体操着の千束",
@@ -45,7 +46,8 @@
         "id": "LRC/WE47-02LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-03": {
     "name": "営業準備中 千束",
@@ -67,7 +69,8 @@
         "id": "LRC/WE47-03LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-04": {
     "name": "期待の新人経理 たきな",
@@ -89,7 +92,8 @@
         "id": "LRC/WE47-04LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-05": {
     "name": "寝起きの千束",
@@ -111,7 +115,8 @@
         "id": "LRC/WE47-05LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-06": {
     "name": "ご賞味あれ♪ たきな",
@@ -137,7 +142,8 @@
         "id": "LRC/WE47-06SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/WE47-07": {
     "name": "いってらっしゃい たきな",
@@ -159,7 +165,8 @@
         "id": "LRC/WE47-07LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-08": {
     "name": "悲劇の一秒前 クルミ",
@@ -181,7 +188,8 @@
         "id": "LRC/WE47-08LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/WE47-09": {
     "name": "レディの嗜み ミズキ",
@@ -203,7 +211,8 @@
         "id": "LRC/WE47-09LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/WE47-10": {
     "name": "渾身の新メニュー たきな",
@@ -225,7 +234,8 @@
         "id": "LRC/WE47-10LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/WE47-11": {
     "name": "最期の役目 千束",
@@ -243,7 +253,8 @@
         "id": "LRC/WE47-11SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-12": {
     "name": "リコリスの使命 千束",
@@ -269,7 +280,8 @@
         "id": "LRC/WE47-12SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/WE47-13": {
     "name": "“山葵のりこ”千束",
@@ -291,7 +303,8 @@
         "id": "LRC/WE47-13LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-14": {
     "name": "夏祭り満喫中 千束",
@@ -317,7 +330,8 @@
         "id": "LRC/WE47-14SIR",
         "rarity": "SIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-15": {
     "name": "小さな幸せとの出会い 千束",
@@ -339,7 +353,8 @@
         "id": "LRC/WE47-15LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-16": {
     "name": "“Are you in trouble?”千束",
@@ -361,7 +376,8 @@
         "id": "LRC/WE47-16LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-17": {
     "name": "晩酌ルーティーン ミズキ",
@@ -383,7 +399,8 @@
         "id": "LRC/WE47-17LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-18": {
     "name": "巡る季節 千束",
@@ -409,7 +426,8 @@
         "id": "LRC/WE47-18SIR",
         "rarity": "SIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-19": {
     "name": "桜舞う空の下 たきな＆千束",
@@ -431,7 +449,8 @@
         "id": "LRC/WE47-19LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-20": {
     "name": "夏をおすそわけ 千束",
@@ -457,7 +476,8 @@
         "id": "LRC/WE47-20SIR",
         "rarity": "SIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-21": {
     "name": "ハロウィン・コスチューム 千束",
@@ -479,7 +499,8 @@
         "id": "LRC/WE47-21LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-22": {
     "name": "水族館の一幕 千束",
@@ -501,7 +522,8 @@
         "id": "LRC/WE47-22LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-23": {
     "name": "シーサーポーズ 千束",
@@ -523,7 +545,8 @@
         "id": "LRC/WE47-23LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/WE47-24": {
     "name": "なんでも解決しちゃいます！ 千束",
@@ -545,7 +568,8 @@
         "id": "LRC/WE47-24LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/WE47-25": {
     "name": "応えるワケ 千束",
@@ -563,7 +587,8 @@
         "id": "LRC/WE47-25SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/WE47-26": {
     "name": "最期の戦い 千束",
@@ -585,7 +610,8 @@
         "id": "LRC/WE47-26LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/WE47-27": {
     "name": "トロピカルガール 千束",
@@ -611,7 +637,8 @@
         "id": "LRC/WE47-27SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/WE47-28": {
     "name": "花火大会 千束＆たきな",
@@ -633,7 +660,8 @@
         "id": "LRC/WE47-28LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/WE47-29": {
     "name": "在るべき世界のために 真島",
@@ -655,7 +683,8 @@
         "id": "LRC/WE47-29LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/WE47-30": {
     "name": "守り抜いた日常",
@@ -677,7 +706,8 @@
         "id": "LRC/WE47-30LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-31": {
     "name": "桜花爛漫",
@@ -699,7 +729,8 @@
         "id": "LRC/WE47-31LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-32": {
     "name": "2人の射的名人",
@@ -721,7 +752,8 @@
         "id": "LRC/WE47-32LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/WE47-33": {
     "name": "私の役目 たきな",
@@ -739,7 +771,8 @@
         "id": "LRC/WE47-33SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-34": {
     "name": "リコリスの使命 たきな",
@@ -765,7 +798,8 @@
         "id": "LRC/WE47-34SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-35": {
     "name": "平和な日常 たきな",
@@ -787,7 +821,8 @@
         "id": "LRC/WE47-35LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-36": {
     "name": "ボクの全て クルミ",
@@ -809,7 +844,8 @@
         "id": "LRC/WE47-36LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-37": {
     "name": "トロピカルガール たきな",
@@ -835,7 +871,8 @@
         "id": "LRC/WE47-37SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-38": {
     "name": "捕縛体勢 たきな",
@@ -857,7 +894,8 @@
         "id": "LRC/WE47-38LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-39": {
     "name": "“蒲焼太郎”たきな",
@@ -879,7 +917,8 @@
         "id": "LRC/WE47-39LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-40": {
     "name": "待ち合わせ たきな",
@@ -905,7 +944,8 @@
         "id": "LRC/WE47-40SIR",
         "rarity": "SIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-41": {
     "name": "秋を彩る紅葉 たきな＆千束",
@@ -927,7 +967,8 @@
         "id": "LRC/WE47-41LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-42": {
     "name": "黄昏時 たきな",
@@ -949,7 +990,8 @@
         "id": "LRC/WE47-42LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-43": {
     "name": "ハロウィン・コスチューム たきな",
@@ -971,7 +1013,8 @@
         "id": "LRC/WE47-43LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-44": {
     "name": "巡る季節 たきな",
@@ -997,7 +1040,8 @@
         "id": "LRC/WE47-44SIR",
         "rarity": "SIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/WE47-45": {
     "name": "戦うワケ たきな",
@@ -1015,7 +1059,8 @@
         "id": "LRC/WE47-45SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/WE47-46": {
     "name": "初めてのおめかし たきな",
@@ -1037,7 +1082,8 @@
         "id": "LRC/WE47-46LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/WE47-47": {
     "name": "着慣れない制服 たきな",
@@ -1059,7 +1105,8 @@
         "id": "LRC/WE47-47LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/WE47-48": {
     "name": "食事当番 たきな",
@@ -1081,7 +1128,8 @@
         "id": "LRC/WE47-48LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/WE47-49": {
     "name": "夏祭り満喫中 たきな",
@@ -1107,7 +1155,8 @@
         "id": "LRC/WE47-49SIR",
         "rarity": "SIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/WE47-50": {
     "name": "雪降る夜に 千束＆たきな",
@@ -1129,7 +1178,8 @@
         "id": "LRC/WE47-50LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/WE47-51": {
     "name": "横取りチャンス！ たきな＆千束",
@@ -1151,7 +1201,8 @@
         "id": "LRC/WE47-51LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-52": {
     "name": "凸凹コンビの1ページ",
@@ -1173,7 +1224,8 @@
         "id": "LRC/WE47-52LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/WE47-53": {
     "name": "絶好のキャンプ日和",
@@ -1195,7 +1247,8 @@
         "id": "LRC/WE47-53LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/WE47-54": {
     "name": "星空探索",
@@ -1217,6 +1270,7 @@
         "id": "LRC/WE47-54LRP",
         "rarity": "LRP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

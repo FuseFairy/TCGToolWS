@@ -19,7 +19,8 @@
         "id": "KMN/W51-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-002": {
     "name": "アイデアいっぱい かばんちゃん",
@@ -41,7 +42,8 @@
         "id": "KMN/W51-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-003": {
     "name": "“ガイド”ハ マカセテ ラッキービースト",
@@ -63,7 +65,8 @@
         "id": "KMN/W51-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-004": {
     "name": "セルリアンハンター キンシコウ",
@@ -85,7 +88,8 @@
         "id": "KMN/W51-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-005": {
     "name": "おめでとうの会 かばんちゃん",
@@ -103,7 +107,8 @@
         "id": "KMN/W51-005",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-006": {
     "name": "うー！がおー！ サーバル",
@@ -125,7 +130,8 @@
         "id": "KMN/W51-006R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-007": {
     "name": "マイペース フェネック",
@@ -147,7 +153,8 @@
         "id": "KMN/W51-007X",
         "rarity": "XR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-008": {
     "name": "ドジっ娘健在 サーバル",
@@ -165,7 +172,8 @@
         "id": "KMN/W51-008",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-009": {
     "name": "フレンズとこんにちは サーバル",
@@ -183,7 +191,8 @@
         "id": "KMN/W51-009",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-010": {
     "name": "さばくツアー中 かばんちゃん",
@@ -201,7 +210,8 @@
         "id": "KMN/W51-010",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-011": {
     "name": "ガイドマップ発見！ かばんちゃん",
@@ -219,7 +229,8 @@
         "id": "KMN/W51-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-012": {
     "name": "お手伝い サーバル",
@@ -237,7 +248,8 @@
         "id": "KMN/W51-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-013": {
     "name": "大口勝負 カバ",
@@ -255,7 +267,8 @@
         "id": "KMN/W51-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-014": {
     "name": "興味津々？ スナネコ",
@@ -273,7 +286,8 @@
         "id": "KMN/W51-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-015": {
     "name": "救出作戦 サーバル",
@@ -291,7 +305,8 @@
         "id": "KMN/W51-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-016": {
     "name": "やる気いっぱい サーバル",
@@ -309,7 +324,8 @@
         "id": "KMN/W51-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-017": {
     "name": "じゃぱり図書館へ かばんちゃん",
@@ -327,7 +343,8 @@
         "id": "KMN/W51-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-018": {
     "name": "セルリアンハンター ヒグマ",
@@ -345,7 +362,8 @@
         "id": "KMN/W51-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-019": {
     "name": "ヒジョウジタイ ラッキービースト",
@@ -363,7 +381,8 @@
         "id": "KMN/W51-019",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-020": {
     "name": "食べちゃうぞー！ サーバル",
@@ -381,7 +400,8 @@
         "id": "KMN/W51-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-021": {
     "name": "運転中 サーバル",
@@ -399,7 +419,8 @@
         "id": "KMN/W51-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-022": {
     "name": "外の空気の匂いがわかる ツチノコ",
@@ -417,7 +438,8 @@
         "id": "KMN/W51-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-023": {
     "name": "フリーズ ラッキービースト",
@@ -435,7 +457,8 @@
         "id": "KMN/W51-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-024": {
     "name": "突然の涙 サーバル",
@@ -453,7 +476,8 @@
         "id": "KMN/W51-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-025": {
     "name": "セルリアンハンター リカオン",
@@ -471,7 +495,8 @@
         "id": "KMN/W51-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-026": {
     "name": "うー！がおー！ フェネック",
@@ -489,7 +514,8 @@
         "id": "KMN/W51-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-027": {
     "name": "活躍？ サーバル",
@@ -507,7 +533,8 @@
         "id": "KMN/W51-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-028": {
     "name": "追跡開始！ フェネック",
@@ -525,7 +552,8 @@
         "id": "KMN/W51-028",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-029": {
     "name": "今までのこと かばんちゃん",
@@ -543,7 +571,8 @@
         "id": "KMN/W51-029",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-030": {
     "name": "未確認生物 ツチノコ",
@@ -561,7 +590,8 @@
         "id": "KMN/W51-030",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-031": {
     "name": "耳がいいよ サーバル",
@@ -579,7 +609,8 @@
         "id": "KMN/W51-031",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-032": {
     "name": "じゃぱりまん",
@@ -597,7 +628,8 @@
         "id": "KMN/W51-032",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-033": {
     "name": "紙ヒコーキ",
@@ -615,7 +647,8 @@
         "id": "KMN/W51-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-034": {
     "name": "元の姿へ……",
@@ -633,7 +666,8 @@
         "id": "KMN/W51-034",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KMN/W51-035": {
     "name": "まだ見ぬ先へ",
@@ -651,7 +685,8 @@
         "id": "KMN/W51-035",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KMN/W51-036": {
     "name": "ハンターの一撃",
@@ -669,7 +704,8 @@
         "id": "KMN/W51-036",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-037": {
     "name": "旅立ちの日に",
@@ -687,7 +723,8 @@
         "id": "KMN/W51-037",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KMN/W51-038": {
     "name": "遊びの天才 コツメカワウソ",
@@ -709,7 +746,8 @@
         "id": "KMN/W51-038SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-039": {
     "name": "ジャングル人生 エリマキキツネザル",
@@ -731,7 +769,8 @@
         "id": "KMN/W51-039SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-040": {
     "name": "いつも全力 アライグマ",
@@ -753,7 +792,8 @@
         "id": "KMN/W51-040X",
         "rarity": "XR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-041": {
     "name": "この島の長 アフリカオオコノハズク＆ワシミミズク",
@@ -775,7 +815,8 @@
         "id": "KMN/W51-041R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-042": {
     "name": "虫眼鏡 かばんちゃん",
@@ -793,7 +834,8 @@
         "id": "KMN/W51-042",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-043": {
     "name": "枝をかじかじ アメリカビーバー",
@@ -811,7 +853,8 @@
         "id": "KMN/W51-043",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-044": {
     "name": "うー！がおー！ アライグマ",
@@ -829,7 +872,8 @@
         "id": "KMN/W51-044",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-045": {
     "name": "見守る ジャガー",
@@ -847,7 +891,8 @@
         "id": "KMN/W51-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-046": {
     "name": "ロッジのオーナー アリツカゲラ",
@@ -865,7 +910,8 @@
         "id": "KMN/W51-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-047": {
     "name": "ホラー作家 タイリクオオカミ",
@@ -883,7 +929,8 @@
         "id": "KMN/W51-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-048": {
     "name": "ノンビリしてられない アライグマ",
@@ -901,7 +948,8 @@
         "id": "KMN/W51-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-049": {
     "name": "博士の助手 ワシミミズク",
@@ -919,7 +967,8 @@
         "id": "KMN/W51-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-050": {
     "name": "迷探偵 アミメキリン",
@@ -937,7 +986,8 @@
         "id": "KMN/W51-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-051": {
     "name": "嘘か真か タイリクオオカミ",
@@ -955,7 +1005,8 @@
         "id": "KMN/W51-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-052": {
     "name": "博士 アフリカオオコノハズク",
@@ -973,7 +1024,8 @@
         "id": "KMN/W51-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-053": {
     "name": "すぐ行動派 オグロプレーリードッグ",
@@ -991,7 +1043,8 @@
         "id": "KMN/W51-053",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-054": {
     "name": "お手伝い かばんちゃん",
@@ -1009,7 +1062,8 @@
         "id": "KMN/W51-054",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-055": {
     "name": "かまどの火",
@@ -1027,7 +1081,8 @@
         "id": "KMN/W51-055",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-056": {
     "name": "力をあわせてどっこいしょ",
@@ -1045,7 +1100,8 @@
         "id": "KMN/W51-056",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-057": {
     "name": "捕獲完了？",
@@ -1063,7 +1119,8 @@
         "id": "KMN/W51-057",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-058": {
     "name": "野生部分の解放",
@@ -1081,7 +1138,8 @@
         "id": "KMN/W51-058",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KMN/W51-059": {
     "name": "フレンズ総攻撃",
@@ -1099,7 +1157,8 @@
         "id": "KMN/W51-059",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KMN/W51-060": {
     "name": "実は奥ゆかしい？ ハシビロコウ",
@@ -1121,7 +1180,8 @@
         "id": "KMN/W51-060SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-061": {
     "name": "じゃぱりまんの歌 かばんちゃん",
@@ -1143,7 +1203,8 @@
         "id": "KMN/W51-061R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-062": {
     "name": "脅威の歌声？ トキ",
@@ -1165,7 +1226,8 @@
         "id": "KMN/W51-062X",
         "rarity": "XR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-063": {
     "name": "カフェの店員 アルパカ・スリ",
@@ -1183,7 +1245,8 @@
         "id": "KMN/W51-063",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-064": {
     "name": "百獣の王 ライオン",
@@ -1205,7 +1268,8 @@
         "id": "KMN/W51-064R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-065": {
     "name": "森の王 ヘラジカ",
@@ -1223,7 +1287,8 @@
         "id": "KMN/W51-065",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-066": {
     "name": "ポカーン アフリカタテガミヤマアラシ",
@@ -1241,7 +1306,8 @@
         "id": "KMN/W51-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-067": {
     "name": "鉄壁の守り オオアルマジロ",
@@ -1259,7 +1325,8 @@
         "id": "KMN/W51-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-068": {
     "name": "大将戦 ヘラジカ",
@@ -1277,7 +1344,8 @@
         "id": "KMN/W51-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-069": {
     "name": "見張り役 ツキノワグマ",
@@ -1295,7 +1363,8 @@
         "id": "KMN/W51-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-070": {
     "name": "カフェでゆっくり かばんちゃん",
@@ -1313,7 +1382,8 @@
         "id": "KMN/W51-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-071": {
     "name": "お茶をどうぞ アルパカ・スリ",
@@ -1331,7 +1401,8 @@
         "id": "KMN/W51-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-072": {
     "name": "合戦開始 アラビアオリックス",
@@ -1349,7 +1420,8 @@
         "id": "KMN/W51-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-073": {
     "name": "鉄壁の守り シロサイ",
@@ -1367,7 +1439,8 @@
         "id": "KMN/W51-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-074": {
     "name": "大将戦 ライオン",
@@ -1385,7 +1458,8 @@
         "id": "KMN/W51-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-075": {
     "name": "合戦開始 オーロックス",
@@ -1403,7 +1477,8 @@
         "id": "KMN/W51-075",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-076": {
     "name": "仲間を探して トキ",
@@ -1421,7 +1496,8 @@
         "id": "KMN/W51-076",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-077": {
     "name": "忍者でござる パンサーカメレオン",
@@ -1439,7 +1515,8 @@
         "id": "KMN/W51-077",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-078": {
     "name": "目印づくり",
@@ -1457,7 +1534,8 @@
         "id": "KMN/W51-078",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-079": {
     "name": "ジャパリバス",
@@ -1475,7 +1553,8 @@
         "id": "KMN/W51-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-080": {
     "name": "本気の勝負",
@@ -1493,7 +1572,8 @@
         "id": "KMN/W51-080",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-081": {
     "name": "雲の上の山頂まで",
@@ -1511,7 +1591,8 @@
         "id": "KMN/W51-081",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-082": {
     "name": "いざ、勝負だ！",
@@ -1529,7 +1610,8 @@
         "id": "KMN/W51-082",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KMN/W51-083": {
     "name": "あそぶの大好き！イロワケイルカ",
@@ -1551,7 +1633,8 @@
         "id": "KMN/W51-083SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-084": {
     "name": "ゲーム大好き キタキツネ",
@@ -1573,7 +1656,8 @@
         "id": "KMN/W51-084X",
         "rarity": "XR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-085": {
     "name": "“PPP”ロイヤルペンギン",
@@ -1595,7 +1679,8 @@
         "id": "KMN/W51-085X",
         "rarity": "XR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-086": {
     "name": "“PPP”フンボルトペンギン",
@@ -1617,7 +1702,8 @@
         "id": "KMN/W51-086X",
         "rarity": "XR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-087": {
     "name": "“PPP”ジェンツーペンギン",
@@ -1639,7 +1725,8 @@
         "id": "KMN/W51-087X",
         "rarity": "XR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-088": {
     "name": "“PPP”イワトビペンギン",
@@ -1661,7 +1748,8 @@
         "id": "KMN/W51-088X",
         "rarity": "XR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-089": {
     "name": "“PPP”コウテイペンギン",
@@ -1683,7 +1771,8 @@
         "id": "KMN/W51-089X",
         "rarity": "XR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-090": {
     "name": "アイドル大好き マーゲイ",
@@ -1701,7 +1790,8 @@
         "id": "KMN/W51-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-091": {
     "name": "温泉管理人 ギンギツネ",
@@ -1719,7 +1809,8 @@
         "id": "KMN/W51-091",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-092": {
     "name": "木登り上手 かばんちゃん",
@@ -1737,7 +1828,8 @@
         "id": "KMN/W51-092",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-093": {
     "name": "天性の勢い イワビー",
@@ -1755,7 +1847,8 @@
         "id": "KMN/W51-093",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-094": {
     "name": "新たなリーダー観？ コウテイ",
@@ -1773,7 +1866,8 @@
         "id": "KMN/W51-094",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-095": {
     "name": "正統派アイドル ジェーン",
@@ -1791,7 +1885,8 @@
         "id": "KMN/W51-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-096": {
     "name": "ちょっと休憩 ジェーン",
@@ -1809,7 +1904,8 @@
         "id": "KMN/W51-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-097": {
     "name": "ちょっと休憩 イワビー",
@@ -1827,7 +1923,8 @@
         "id": "KMN/W51-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-098": {
     "name": "みんなを鼓舞する プリンセス",
@@ -1845,7 +1942,8 @@
         "id": "KMN/W51-098",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-099": {
     "name": "引っ込み思案 キタキツネ",
@@ -1863,7 +1961,8 @@
         "id": "KMN/W51-099",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-100": {
     "name": "ちょっと休憩 コウテイ",
@@ -1881,7 +1980,8 @@
         "id": "KMN/W51-100",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-101": {
     "name": "癒しの天然キャラ フルル",
@@ -1899,7 +1999,8 @@
         "id": "KMN/W51-101",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-102": {
     "name": "“PPP”を引っ張る プリンセス",
@@ -1917,7 +2018,8 @@
         "id": "KMN/W51-102",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-103": {
     "name": "ちょっと休憩 フルル",
@@ -1935,7 +2037,8 @@
         "id": "KMN/W51-103",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-104": {
     "name": "影にびっくり かばんちゃん",
@@ -1953,7 +2056,8 @@
         "id": "KMN/W51-104",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-105": {
     "name": "しっかり者 ギンギツネ",
@@ -1971,7 +2075,8 @@
         "id": "KMN/W51-105",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-106": {
     "name": "“PPP”プラチナチケット",
@@ -1989,7 +2094,8 @@
         "id": "KMN/W51-106",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-107": {
     "name": "セルリアン（弱）",
@@ -2007,7 +2113,8 @@
         "id": "KMN/W51-107",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-108": {
     "name": "アイドルオーラ",
@@ -2025,7 +2132,8 @@
         "id": "KMN/W51-108",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KMN/W51-109": {
     "name": "雪そりで猛ダッシュ",
@@ -2043,7 +2151,8 @@
         "id": "KMN/W51-109",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KMN/W51-110": {
     "name": "大空ドリーマー",
@@ -2061,6 +2170,7 @@
         "id": "KMN/W51-110",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

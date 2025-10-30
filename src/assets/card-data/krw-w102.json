@@ -19,7 +19,8 @@
         "id": "Krw/W102-076SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Krw/W102-078": {
     "name": "聖女 しまこ＆朱音",
@@ -41,7 +42,8 @@
         "id": "Krw/W102-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Krw/W102-080": {
     "name": "狩人 ルチア＆江坂",
@@ -63,7 +65,8 @@
         "id": "Krw/W102-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Krw/W102-082": {
     "name": "幾星霜の果てに ちはや＆咲夜",
@@ -85,7 +88,8 @@
         "id": "Krw/W102-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Krw/W102-088": {
     "name": "庶民派の守銭奴 小鳥",
@@ -103,7 +107,8 @@
         "id": "Krw/W102-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Krw/W102-089": {
     "name": "良い記憶？ 篝",
@@ -121,7 +126,8 @@
         "id": "Krw/W102-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Krw/W102-092": {
     "name": "人類の守護者 西九条＆静流",
@@ -143,7 +149,8 @@
         "id": "Krw/W102-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Krw/W102-093": {
     "name": "持てる者 朱音",
@@ -161,7 +168,8 @@
         "id": "Krw/W102-093",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Krw/W102-095": {
     "name": "最強の魔物使い ちはや",
@@ -179,7 +187,8 @@
         "id": "Krw/W102-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Krw/W102-099": {
     "name": "夏真っ盛り ルチア",
@@ -197,7 +206,8 @@
         "id": "Krw/W102-099",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Krw/W102-100": {
     "name": "空白の時間 瑚太朗",
@@ -215,7 +225,8 @@
         "id": "Krw/W102-100",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Krw/W102-102": {
     "name": "殿堂入り 静流",
@@ -233,7 +244,8 @@
         "id": "Krw/W102-102",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Krw/W102-105": {
     "name": "祝福",
@@ -259,7 +271,8 @@
         "id": "Krw/W102-105R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Krw/W102-107": {
     "name": "ソウルメイト",
@@ -281,6 +294,7 @@
         "id": "Krw/W102-107R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

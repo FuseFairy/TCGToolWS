@@ -15,7 +15,8 @@
         "id": "P4/S08-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-104": {
     "name": "聖夜のマーガレット＆エリザベス",
@@ -33,7 +34,8 @@
         "id": "P4/S08-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P4/S08-105": {
     "name": "休業中のアイドルりせちー",
@@ -51,6 +53,7 @@
         "id": "P4/S08-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

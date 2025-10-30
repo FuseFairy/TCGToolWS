@@ -19,7 +19,8 @@
         "id": "Kch/W78-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kch/W78-125": {
     "name": "あまーい手料理 西森 柚咲",
@@ -37,6 +38,7 @@
         "id": "Kch/W78-125",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

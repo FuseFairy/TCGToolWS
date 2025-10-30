@@ -15,7 +15,8 @@
         "id": "Dpx/S104-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dpx/S104-P04": {
     "name": "保安官 ウッディ",
@@ -33,7 +34,8 @@
         "id": "Dpx/S104-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dpx/S104-P06": {
     "name": "バズ・ライトイヤー",
@@ -51,7 +53,8 @@
         "id": "Dpx/S104-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dpx/S104-P10": {
     "name": "プリンセス メリダ",
@@ -69,6 +72,7 @@
         "id": "Dpx/S104-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

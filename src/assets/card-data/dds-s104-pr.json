@@ -15,7 +15,8 @@
         "id": "Dds/S104-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-103": {
     "name": "ライオン・キング",
@@ -33,7 +34,8 @@
         "id": "Dds/S104-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-104": {
     "name": "アラジン",
@@ -51,7 +53,8 @@
         "id": "Dds/S104-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-105": {
     "name": "ズートピア",
@@ -69,7 +72,8 @@
         "id": "Dds/S104-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-106": {
     "name": "オハナはいつもいっしょだよ",
@@ -87,7 +91,8 @@
         "id": "Dds/S104-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-107": {
     "name": "Dancing Celebration",
@@ -105,7 +110,8 @@
         "id": "Dds/S104-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-108": {
     "name": "これからの物語も、一緒に。",
@@ -123,7 +129,8 @@
         "id": "Dds/S104-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-109": {
     "name": "Disney 100 Years of Wonder",
@@ -141,7 +148,8 @@
         "id": "Dds/S104-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-110": {
     "name": "魔法の呪文",
@@ -159,7 +167,8 @@
         "id": "Dds/S104-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-111": {
     "name": "アナと雪の女王",
@@ -177,7 +186,8 @@
         "id": "Dds/S104-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-D100": {
     "name": "\"100 YEARS OF WONDER\" ミッキーマウス",
@@ -195,7 +205,8 @@
         "id": "Dds/S104-D100N",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-P01": {
     "name": "くまのぬいぐるみ プー",
@@ -213,7 +224,8 @@
         "id": "Dds/S104-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-P02": {
     "name": "美しい髪 ラプンツェル",
@@ -231,7 +243,8 @@
         "id": "Dds/S104-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-P03": {
     "name": "美女と野獣 ベル＆王子",
@@ -249,7 +262,8 @@
         "id": "Dds/S104-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-P05": {
     "name": "\"美しい心\" 白雪姫",
@@ -267,7 +281,8 @@
         "id": "Dds/S104-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-P07": {
     "name": "アグラバー王国の王女 ジャスミン",
@@ -285,7 +300,8 @@
         "id": "Dds/S104-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-P08": {
     "name": "ミッキーマウス",
@@ -303,7 +319,8 @@
         "id": "Dds/S104-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-P09": {
     "name": "ミニーマウス",
@@ -321,7 +338,8 @@
         "id": "Dds/S104-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-P100": {
     "name": "\"蒸気船ウィリー\" ミッキーマウス",
@@ -339,7 +357,8 @@
         "id": "Dds/S104-P100",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-P11": {
     "name": "Disney100 ミッキーマウス＆ミニーマウス",
@@ -357,7 +376,8 @@
         "id": "Dds/S104-P11",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-P12": {
     "name": "\"憧れの舞踏会\" シンデレラ",
@@ -375,7 +395,8 @@
         "id": "Dds/S104-P12",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-P13": {
     "name": "雪の女王 エルサ",
@@ -393,7 +414,8 @@
         "id": "Dds/S104-P13",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-P14": {
     "name": "眠れる森の美女 オーロラ姫",
@@ -411,7 +433,8 @@
         "id": "Dds/S104-P14",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-P15": {
     "name": "アリエル＆エリック王子",
@@ -429,7 +452,8 @@
         "id": "Dds/S104-P15",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Dds/S104-P16": {
     "name": "ずっと一緒 ミッキーマウス＆ミニーマウス",
@@ -451,7 +475,8 @@
         "id": "Dds/S104-P16S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-P17": {
     "name": "ずっと一緒 ドナルドダック＆デイジーダック",
@@ -473,7 +498,8 @@
         "id": "Dds/S104-P17S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Dds/S104-P18": {
     "name": "ミッキー＆フレンズ ミッキーマウス",
@@ -495,6 +521,7 @@
         "id": "Dds/S104-P18PIR",
         "rarity": "PIR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

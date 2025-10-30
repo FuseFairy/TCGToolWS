@@ -19,7 +19,8 @@
         "id": "SPY/S106-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-P02": {
     "name": "私服姿 ヨル",
@@ -37,7 +38,8 @@
         "id": "SPY/S106-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-101": {
     "name": "自慢気な微笑み アーニャ",
@@ -55,7 +57,8 @@
         "id": "SPY/S106-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-102": {
     "name": "朝のひととき ヨル",
@@ -73,7 +76,8 @@
         "id": "SPY/S106-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-103": {
     "name": "真剣な表情 アーニャ",
@@ -91,7 +95,8 @@
         "id": "SPY/S106-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-104": {
     "name": "立ち上がる ロイド",
@@ -109,7 +114,8 @@
         "id": "SPY/S106-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-105": {
     "name": "蹴り上げる ヨル",
@@ -127,7 +133,8 @@
         "id": "SPY/S106-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-106": {
     "name": "仲間との電話 ロイド",
@@ -145,6 +152,7 @@
         "id": "SPY/S106-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

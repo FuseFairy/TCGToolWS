@@ -15,7 +15,8 @@
         "id": "Sks/W62-049P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sks/W62-P02": {
     "name": "ゆんゆん＆めぐみん",
@@ -33,7 +34,8 @@
         "id": "Sks/W62-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Sks/W62-P03": {
     "name": "アクア＆ハルヒ",
@@ -51,6 +53,7 @@
         "id": "Sks/W62-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

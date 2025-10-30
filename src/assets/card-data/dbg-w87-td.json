@@ -15,7 +15,8 @@
         "id": "DBG/W87-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DBG/W87-T02": {
     "name": "辛辣な言葉 伊座並 杏子",
@@ -33,7 +34,8 @@
         "id": "DBG/W87-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DBG/W87-T03": {
     "name": "バスケ少年 国宝 阿修羅",
@@ -51,7 +53,8 @@
         "id": "DBG/W87-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DBG/W87-T04": {
     "name": "かわいい妹 成神 空",
@@ -69,7 +72,8 @@
         "id": "DBG/W87-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DBG/W87-T05": {
     "name": "告白の時 伊座並 杏子",
@@ -87,7 +91,8 @@
         "id": "DBG/W87-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DBG/W87-T06": {
     "name": "神との遭遇 成神 空",
@@ -109,7 +114,8 @@
         "id": "DBG/W87-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DBG/W87-T07": {
     "name": "神との邂逅 伊座並 杏子",
@@ -131,7 +137,8 @@
         "id": "DBG/W87-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DBG/W87-T08": {
     "name": "果てしない伸びしろ",
@@ -149,7 +156,8 @@
         "id": "DBG/W87-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DBG/W87-T09": {
     "name": "風吹く丘の告白",
@@ -167,7 +175,8 @@
         "id": "DBG/W87-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DBG/W87-T10": {
     "name": "調べの教授 ひな",
@@ -185,7 +194,8 @@
         "id": "DBG/W87-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DBG/W87-T11": {
     "name": "最後の夏 成神 陽太",
@@ -203,7 +213,8 @@
         "id": "DBG/W87-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DBG/W87-T12": {
     "name": "最後の夏 ひな",
@@ -225,7 +236,8 @@
         "id": "DBG/W87-T12SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DBG/W87-T13": {
     "name": "降臨の日 ひな",
@@ -247,7 +259,8 @@
         "id": "DBG/W87-T13S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DBG/W87-T14": {
     "name": "練習の成果 成神 陽太",
@@ -265,7 +278,8 @@
         "id": "DBG/W87-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DBG/W87-T15": {
     "name": "決意の願い 成神 陽太",
@@ -283,7 +297,8 @@
         "id": "DBG/W87-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DBG/W87-T16": {
     "name": "俗世への興味 ひな",
@@ -301,7 +316,8 @@
         "id": "DBG/W87-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DBG/W87-T17": {
     "name": "全知の神 ひな",
@@ -323,7 +339,8 @@
         "id": "DBG/W87-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DBG/W87-T18": {
     "name": "神の宣託",
@@ -345,7 +362,8 @@
         "id": "DBG/W87-T18S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DBG/W87-T19": {
     "name": "邪悪な笑み",
@@ -363,6 +381,7 @@
         "id": "DBG/W87-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

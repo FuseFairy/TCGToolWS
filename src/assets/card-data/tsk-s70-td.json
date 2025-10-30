@@ -19,7 +19,8 @@
         "id": "TSK/S70-T01SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-T02": {
     "name": "もうすぐ賢者 三上悟",
@@ -37,7 +38,8 @@
         "id": "TSK/S70-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-T03": {
     "name": "友達の絆 ヴェルドラ",
@@ -55,7 +57,8 @@
         "id": "TSK/S70-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-T04": {
     "name": "異世界からの転生者 リムル",
@@ -77,7 +80,8 @@
         "id": "TSK/S70-T04S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-T05": {
     "name": "“自由組合の冒険者”ギド",
@@ -95,7 +99,8 @@
         "id": "TSK/S70-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-T06": {
     "name": "“自由組合の冒険者”カバル",
@@ -113,7 +118,8 @@
         "id": "TSK/S70-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-T07": {
     "name": "“自由組合の冒険者”エレン",
@@ -131,7 +137,8 @@
         "id": "TSK/S70-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-T08": {
     "name": "“捕食者”リムル",
@@ -153,7 +160,8 @@
         "id": "TSK/S70-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-T09": {
     "name": "名付け",
@@ -175,7 +183,8 @@
         "id": "TSK/S70-T09S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-T10": {
     "name": "誓いと感謝",
@@ -193,7 +202,8 @@
         "id": "TSK/S70-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "TSK/S70-T11": {
     "name": "仲間を求めて シズ",
@@ -215,7 +225,8 @@
         "id": "TSK/S70-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-T12": {
     "name": "“水刃”リムル",
@@ -233,7 +244,8 @@
         "id": "TSK/S70-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-T13": {
     "name": "筋骨隆々 リグルド",
@@ -251,7 +263,8 @@
         "id": "TSK/S70-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-T14": {
     "name": "孤独に進む道 シズ",
@@ -269,7 +282,8 @@
         "id": "TSK/S70-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-T15": {
     "name": "嵐牙狼族召喚！ ゴブタ",
@@ -287,7 +301,8 @@
         "id": "TSK/S70-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-T16": {
     "name": "忠誠心 ランガ",
@@ -309,7 +324,8 @@
         "id": "TSK/S70-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-T17": {
     "name": "友達の絆 リムル",
@@ -327,7 +343,8 @@
         "id": "TSK/S70-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-T18": {
     "name": "迸る炎 シズ",
@@ -349,7 +366,8 @@
         "id": "TSK/S70-T18SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TSK/S70-T19": {
     "name": "抗魔の仮面",
@@ -367,7 +385,8 @@
         "id": "TSK/S70-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TSK/S70-T20": {
     "name": "運命の人",
@@ -385,6 +404,7 @@
         "id": "TSK/S70-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

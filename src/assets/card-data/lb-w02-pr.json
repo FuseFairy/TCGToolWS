@@ -19,7 +19,8 @@
         "id": "LB/W02-101e",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LB/W02-102": {
     "name": "“いつも仲良し”鈴と小毬",
@@ -37,7 +38,8 @@
         "id": "LB/W02-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-103": {
     "name": "“わんこ娘”クド",
@@ -55,7 +57,8 @@
         "id": "LB/W02-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-104": {
     "name": "黄昏の街を見下ろす鈴と小毬",
@@ -73,7 +76,8 @@
         "id": "LB/W02-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-105": {
     "name": "“天然ほわほわガール”小毬",
@@ -91,7 +95,8 @@
         "id": "LB/W02-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-106": {
     "name": "“ライバル”佐々美",
@@ -109,7 +114,8 @@
         "id": "LB/W02-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-107": {
     "name": "“人見知り”鈴",
@@ -127,7 +133,8 @@
         "id": "LB/W02-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-108": {
     "name": "“素っ気無し 愛想無し 配慮無し”佳奈多",
@@ -145,7 +152,8 @@
         "id": "LB/W02-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-109": {
     "name": "“イタズラっ子”葉留佳",
@@ -163,7 +171,8 @@
         "id": "LB/W02-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-110": {
     "name": "“エレガント”唯湖",
@@ -181,7 +190,8 @@
         "id": "LB/W02-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-111": {
     "name": "“ボケまくり”沙耶",
@@ -199,7 +209,8 @@
         "id": "LB/W02-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-112": {
     "name": "“がんばり担当”クド",
@@ -217,7 +228,8 @@
         "id": "LB/W02-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-113": {
     "name": "“物静か”美魚",
@@ -235,7 +247,8 @@
         "id": "LB/W02-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-114": {
     "name": "“非情な諜報員”沙耶",
@@ -253,7 +266,8 @@
         "id": "LB/W02-114",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-115": {
     "name": "“わかりやすい”佳奈多",
@@ -271,7 +285,8 @@
         "id": "LB/W02-115",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-116": {
     "name": "“闇の執行部部長”時風",
@@ -289,7 +304,8 @@
         "id": "LB/W02-116",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-117": {
     "name": "鈴＆佐々美",
@@ -307,7 +323,8 @@
         "id": "LB/W02-117",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-118": {
     "name": "不思議の国のクド",
@@ -325,7 +342,8 @@
         "id": "LB/W02-118",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-119": {
     "name": "“おめかし”小毬",
@@ -343,7 +361,8 @@
         "id": "LB/W02-119",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-120": {
     "name": "“トラブルメーカー”葉留佳",
@@ -361,7 +380,8 @@
         "id": "LB/W02-120",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-121": {
     "name": "“犬まみれ”佐々美",
@@ -379,7 +399,8 @@
         "id": "LB/W02-121",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-122": {
     "name": "水着の鈴",
@@ -397,6 +418,7 @@
         "id": "LB/W02-122",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

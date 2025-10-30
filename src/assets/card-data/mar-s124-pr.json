@@ -23,7 +23,8 @@
         "id": "MAR/S124-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-P02": {
     "name": "アベンジャーズ アイアンマン",
@@ -45,7 +46,8 @@
         "id": "MAR/S124-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S124-P03": {
     "name": "Cyberpunk アイアンマン",
@@ -63,6 +65,7 @@
         "id": "MAR/S124-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

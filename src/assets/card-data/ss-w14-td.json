@@ -15,7 +15,8 @@
         "id": "SS/W14-101",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/W14-102": {
     "name": "養育係 ヴィルヘルミナ",
@@ -33,7 +34,8 @@
         "id": "SS/W14-102",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SS/W14-103": {
     "name": "御崎高校の生徒 シャナ",
@@ -51,7 +53,8 @@
         "id": "SS/W14-103",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/W14-104": {
     "name": "翻る黒衣 シャナ",
@@ -69,7 +72,8 @@
         "id": "SS/W14-104",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SS/W14-105": {
     "name": "“フレイムヘイズ”シャナ",
@@ -87,7 +91,8 @@
         "id": "SS/W14-105",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SS/W14-T01": {
     "name": "メロンパン大好き シャナ",
@@ -105,7 +110,8 @@
         "id": "SS/W14-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/W14-T02": {
     "name": "戸惑うシャナ",
@@ -123,7 +129,8 @@
         "id": "SS/W14-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/W14-T03": {
     "name": "どうしようもない気持ち",
@@ -141,7 +148,8 @@
         "id": "SS/W14-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SS/W14-T04": {
     "name": "ヴィルヘルミナ・カルメル",
@@ -159,7 +167,8 @@
         "id": "SS/W14-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/W14-T05": {
     "name": "マージョリー・ドー",
@@ -177,7 +186,8 @@
         "id": "SS/W14-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/W14-T06": {
     "name": "『炎髪灼眼の討ち手』シャナ",
@@ -195,7 +205,8 @@
         "id": "SS/W14-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/W14-T07": {
     "name": "“屠殺の即興詩”マージョリー",
@@ -213,7 +224,8 @@
         "id": "SS/W14-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/W14-T08": {
     "name": "守るべきもの シャナ",
@@ -231,7 +243,8 @@
         "id": "SS/W14-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/W14-T09": {
     "name": "『万条の仕手』ヴィルヘルミナ・カルメル",
@@ -249,7 +262,8 @@
         "id": "SS/W14-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/W14-T10": {
     "name": "アラストールの契約者 シャナ",
@@ -267,7 +281,8 @@
         "id": "SS/W14-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/W14-T11": {
     "name": "『儀装の駆り手』カムシン・ネブハーウ",
@@ -285,7 +300,8 @@
         "id": "SS/W14-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SS/W14-T12": {
     "name": "トーチとフレイムヘイズ",
@@ -303,7 +319,8 @@
         "id": "SS/W14-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/W14-T13": {
     "name": "想いの力",
@@ -321,7 +338,8 @@
         "id": "SS/W14-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SS/W14-T14": {
     "name": "何でもできる",
@@ -339,6 +357,7 @@
         "id": "SS/W14-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

@@ -15,7 +15,8 @@
         "id": "LL/W68-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-P02": {
     "name": "“私の好きなもの。”真姫＆にこ＆絵里",
@@ -33,7 +34,8 @@
         "id": "LL/W68-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-P03": {
     "name": "“好きだからこそ。”海未＆希＆凛",
@@ -51,7 +53,8 @@
         "id": "LL/W68-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-P04": {
     "name": "“素敵なお姫さま”μ's",
@@ -69,7 +72,8 @@
         "id": "LL/W68-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-P05": {
     "name": "“紅葉に囲まれて”矢澤 にこ",
@@ -87,7 +91,8 @@
         "id": "LL/W68-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-P06": {
     "name": "“ここ掘れ、わんわん♪”高坂 穂乃果",
@@ -105,7 +110,8 @@
         "id": "LL/W68-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-101": {
     "name": "“虹の妖精エリーチカ”絢瀬 絵里",
@@ -123,7 +129,8 @@
         "id": "LL/W68-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-102": {
     "name": "“もこもこうさぎにこ”矢澤 にこ",
@@ -141,7 +148,8 @@
         "id": "LL/W68-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-103": {
     "name": "“心の叫び？”東條 希",
@@ -159,7 +167,8 @@
         "id": "LL/W68-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-104": {
     "name": "“懐かしのりんご飴”園田 海未",
@@ -177,7 +186,8 @@
         "id": "LL/W68-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-105": {
     "name": "“イチゴショートケーキ”高坂 穂乃果",
@@ -195,7 +205,8 @@
         "id": "LL/W68-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-106": {
     "name": "“乗り越えて、雪”南 ことり",
@@ -213,7 +224,8 @@
         "id": "LL/W68-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-107": {
     "name": "“トリックオアおにぎり”小泉 花陽",
@@ -231,7 +243,8 @@
         "id": "LL/W68-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W68-108": {
     "name": "“１番好きなもの”星空 凛",
@@ -249,7 +262,8 @@
         "id": "LL/W68-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W68-109": {
     "name": "“真心をあなたに”西木野 真姫",
@@ -267,6 +281,7 @@
         "id": "LL/W68-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

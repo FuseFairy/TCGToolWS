@@ -15,7 +15,8 @@
         "id": "SHS/W71-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-P02": {
     "name": "女の子的にNG 恵＆英梨々＆詩羽",
@@ -33,7 +34,8 @@
         "id": "SHS/W71-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-P03": {
     "name": "水辺の戦い 詩羽＆英梨々",
@@ -51,7 +53,8 @@
         "id": "SHS/W71-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W71-101": {
     "name": "新たなスタート 出海",
@@ -69,7 +72,8 @@
         "id": "SHS/W71-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-102": {
     "name": "新たなスタート 英梨々",
@@ -87,7 +91,8 @@
         "id": "SHS/W71-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-103": {
     "name": "新たなスタート 恵",
@@ -105,7 +110,8 @@
         "id": "SHS/W71-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-104": {
     "name": "新たなスタート 詩羽",
@@ -123,7 +129,8 @@
         "id": "SHS/W71-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W71-105": {
     "name": "新たなスタート 美智留",
@@ -141,6 +148,7 @@
         "id": "SHS/W71-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -19,7 +19,8 @@
         "id": "Fra/W65-T18S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fra/W65-T20": {
     "name": "銀の鍵",
@@ -37,6 +38,7 @@
         "id": "Fra/W65-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

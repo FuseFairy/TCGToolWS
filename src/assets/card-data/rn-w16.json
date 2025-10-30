@@ -15,7 +15,8 @@
         "id": "RN/W16-001",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-002": {
     "name": "瀬乃宮 あき穂",
@@ -37,7 +38,8 @@
         "id": "RN/W16-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-003": {
     "name": "おさんぽ 愛理",
@@ -55,7 +57,8 @@
         "id": "RN/W16-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-004": {
     "name": "新入部員歓迎会 海翔",
@@ -73,7 +76,8 @@
         "id": "RN/W16-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-005": {
     "name": "命の恩人 あき穂",
@@ -91,7 +95,8 @@
         "id": "RN/W16-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-006": {
     "name": "火のついた闘志 海翔",
@@ -109,7 +114,8 @@
         "id": "RN/W16-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-007": {
     "name": "最終決戦 海翔",
@@ -127,7 +133,8 @@
         "id": "RN/W16-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-008": {
     "name": "新入部員歓迎会 あき穂",
@@ -145,7 +152,8 @@
         "id": "RN/W16-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-009": {
     "name": "支えあう仲間 海翔＆あき穂",
@@ -167,7 +175,8 @@
         "id": "RN/W16-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-010": {
     "name": "放課後の海翔",
@@ -185,7 +194,8 @@
         "id": "RN/W16-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-011": {
     "name": "ある夏の日 海翔",
@@ -203,7 +213,8 @@
         "id": "RN/W16-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-012": {
     "name": "キルバラ対決！ 海翔",
@@ -221,7 +232,8 @@
         "id": "RN/W16-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-013": {
     "name": "“拡張プレイス”あき穂",
@@ -243,7 +255,8 @@
         "id": "RN/W16-013R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-014": {
     "name": "ロボ部部長 あき穂",
@@ -261,7 +274,8 @@
         "id": "RN/W16-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-015": {
     "name": "タネガシマシン３改",
@@ -279,7 +293,8 @@
         "id": "RN/W16-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-016": {
     "name": "儚げな美少女 愛理",
@@ -297,7 +312,8 @@
         "id": "RN/W16-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-017": {
     "name": "猪突猛進！ あき穂",
@@ -315,7 +331,8 @@
         "id": "RN/W16-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-018": {
     "name": "青空の下 愛理",
@@ -337,7 +354,8 @@
         "id": "RN/W16-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-019": {
     "name": "格闘ゲーマー 海翔",
@@ -355,7 +373,8 @@
         "id": "RN/W16-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-020": {
     "name": "メンテ中 あき穂",
@@ -373,7 +392,8 @@
         "id": "RN/W16-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-021": {
     "name": "スーパーガンつく１",
@@ -391,7 +411,8 @@
         "id": "RN/W16-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-022": {
     "name": "正義の象徴 ガンヴァレル",
@@ -409,7 +430,8 @@
         "id": "RN/W16-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-023": {
     "name": "ロボットが世界を救う！",
@@ -427,7 +449,8 @@
         "id": "RN/W16-023",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RN/W16-024": {
     "name": "追い続ける夢",
@@ -445,7 +468,8 @@
         "id": "RN/W16-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-025": {
     "name": "決意の円陣",
@@ -463,7 +487,8 @@
         "id": "RN/W16-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-026": {
     "name": "過去のトラウマ 淳和",
@@ -481,7 +506,8 @@
         "id": "RN/W16-026",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-027": {
     "name": "水着のフラウ",
@@ -503,7 +529,8 @@
         "id": "RN/W16-027R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-028": {
     "name": "天王寺 綯",
@@ -521,7 +548,8 @@
         "id": "RN/W16-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-029": {
     "name": "自殺未遂！？ フラウ",
@@ -539,7 +567,8 @@
         "id": "RN/W16-029",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-030": {
     "name": "初めての対戦 綯",
@@ -557,7 +586,8 @@
         "id": "RN/W16-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-031": {
     "name": "吹っ切れた思い 淳和",
@@ -575,7 +605,8 @@
         "id": "RN/W16-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-032": {
     "name": "大徳 淳和",
@@ -593,7 +624,8 @@
         "id": "RN/W16-032",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-033": {
     "name": "不思議な関係 フラウ＆淳和",
@@ -615,7 +647,8 @@
         "id": "RN/W16-033R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-034": {
     "name": "藤田 鉄治",
@@ -633,7 +666,8 @@
         "id": "RN/W16-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-035": {
     "name": "瀬乃宮 健一郎",
@@ -651,7 +685,8 @@
         "id": "RN/W16-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-036": {
     "name": "よいら～いき祭り 淳和",
@@ -669,7 +704,8 @@
         "id": "RN/W16-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-037": {
     "name": "悩める年頃 淳和",
@@ -687,7 +723,8 @@
         "id": "RN/W16-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-038": {
     "name": "禁断の妄想 フラウ",
@@ -705,7 +742,8 @@
         "id": "RN/W16-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-039": {
     "name": "長深田 充彦",
@@ -723,7 +761,8 @@
         "id": "RN/W16-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-040": {
     "name": "よいら～いき祭り 綯",
@@ -741,7 +780,8 @@
         "id": "RN/W16-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-041": {
     "name": "浴衣の淳和",
@@ -763,7 +803,8 @@
         "id": "RN/W16-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-042": {
     "name": "長深田 澄夫",
@@ -781,7 +822,8 @@
         "id": "RN/W16-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-043": {
     "name": "本当の気持ち フラウ",
@@ -799,7 +841,8 @@
         "id": "RN/W16-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-044": {
     "name": "与四郎くん",
@@ -817,7 +860,8 @@
         "id": "RN/W16-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-045": {
     "name": "臼井 薫子",
@@ -835,7 +879,8 @@
         "id": "RN/W16-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-046": {
     "name": "閃光の一撃",
@@ -853,7 +898,8 @@
         "id": "RN/W16-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-047": {
     "name": "スーパーリンペイ",
@@ -871,7 +917,8 @@
         "id": "RN/W16-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-048": {
     "name": "踏み出せた一歩",
@@ -889,7 +936,8 @@
         "id": "RN/W16-048",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-049": {
     "name": "差し伸べた手",
@@ -907,7 +955,8 @@
         "id": "RN/W16-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-050": {
     "name": "ひと夏のアバンチュール",
@@ -925,7 +974,8 @@
         "id": "RN/W16-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RN/W16-051": {
     "name": "小さくても力持ち 淳和",
@@ -947,7 +997,8 @@
         "id": "RN/W16-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-052": {
     "name": "神代 フラウ",
@@ -969,7 +1020,8 @@
         "id": "RN/W16-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-053": {
     "name": "不安げな眼差し 淳和",
@@ -987,7 +1039,8 @@
         "id": "RN/W16-053",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-054": {
     "name": "キルバラ対決！ フラウ",
@@ -1009,7 +1062,8 @@
         "id": "RN/W16-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-055": {
     "name": "諦めた夢 昴",
@@ -1027,7 +1081,8 @@
         "id": "RN/W16-055",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-056": {
     "name": "浴衣のフラウ",
@@ -1049,7 +1104,8 @@
         "id": "RN/W16-056SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-057": {
     "name": "家庭的な一面 淳和",
@@ -1071,7 +1127,8 @@
         "id": "RN/W16-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-058": {
     "name": "ライフはゼロ フラウ",
@@ -1089,7 +1146,8 @@
         "id": "RN/W16-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-059": {
     "name": "ミスター・プレアデス",
@@ -1107,7 +1165,8 @@
         "id": "RN/W16-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-060": {
     "name": "日高 宏武",
@@ -1125,7 +1184,8 @@
         "id": "RN/W16-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-061": {
     "name": "廃墟の訪問者 昴",
@@ -1143,7 +1203,8 @@
         "id": "RN/W16-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-062": {
     "name": "秘密の共有 フラウ",
@@ -1161,7 +1222,8 @@
         "id": "RN/W16-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-063": {
     "name": "Ｍ４５",
@@ -1179,7 +1241,8 @@
         "id": "RN/W16-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-064": {
     "name": "気弱な空手少女 淳和",
@@ -1197,7 +1260,8 @@
         "id": "RN/W16-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-065": {
     "name": "不遜な態度 昴",
@@ -1215,7 +1279,8 @@
         "id": "RN/W16-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-066": {
     "name": "新入部員歓迎会 昴",
@@ -1233,7 +1298,8 @@
         "id": "RN/W16-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-067": {
     "name": "よいら～いき祭り 昴",
@@ -1251,7 +1317,8 @@
         "id": "RN/W16-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-068": {
     "name": "モーションアクトレス 淳和",
@@ -1269,7 +1336,8 @@
         "id": "RN/W16-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-069": {
     "name": "天才プログラマー フラウ",
@@ -1287,7 +1355,8 @@
         "id": "RN/W16-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-070": {
     "name": "ハンガーに全員集合！ 昴",
@@ -1305,7 +1374,8 @@
         "id": "RN/W16-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-071": {
     "name": "密室でふたりきり",
@@ -1323,7 +1393,8 @@
         "id": "RN/W16-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-072": {
     "name": "ゲンキ＆ロゼッタ",
@@ -1341,7 +1412,8 @@
         "id": "RN/W16-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-073": {
     "name": "ガンヴァレルを輝かせるために",
@@ -1359,7 +1431,8 @@
         "id": "RN/W16-073",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-074": {
     "name": "子供たちの良きお姉さん",
@@ -1377,7 +1450,8 @@
         "id": "RN/W16-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RN/W16-075": {
     "name": "父親との軋轢",
@@ -1395,7 +1469,8 @@
         "id": "RN/W16-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RN/W16-076": {
     "name": "“空の下の相関図”愛理",
@@ -1417,7 +1492,8 @@
         "id": "RN/W16-076SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-077": {
     "name": "愛理",
@@ -1439,7 +1515,8 @@
         "id": "RN/W16-077R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-078": {
     "name": "高校時代のみさ希",
@@ -1457,7 +1534,8 @@
         "id": "RN/W16-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-079": {
     "name": "ロボットオタク あき穂",
@@ -1475,7 +1553,8 @@
         "id": "RN/W16-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-080": {
     "name": "夏祭り 愛理",
@@ -1497,7 +1576,8 @@
         "id": "RN/W16-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-081": {
     "name": "ゲジ姉",
@@ -1515,7 +1595,8 @@
         "id": "RN/W16-081",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-082": {
     "name": "大好物の差し入れ あき穂",
@@ -1537,7 +1618,8 @@
         "id": "RN/W16-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-083": {
     "name": "HUGの暴走 瑞榎",
@@ -1555,7 +1637,8 @@
         "id": "RN/W16-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-084": {
     "name": "呪縛からの解放 みさ希",
@@ -1573,7 +1656,8 @@
         "id": "RN/W16-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-085": {
     "name": "モード移行 愛理",
@@ -1591,7 +1675,8 @@
         "id": "RN/W16-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-086": {
     "name": "陰謀の黒幕 君島コウ",
@@ -1609,7 +1694,8 @@
         "id": "RN/W16-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-087": {
     "name": "行舟 愛理",
@@ -1627,7 +1713,8 @@
         "id": "RN/W16-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-088": {
     "name": "愛理の半身 ゲジ姉",
@@ -1645,7 +1732,8 @@
         "id": "RN/W16-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-089": {
     "name": "君島 コウ",
@@ -1663,7 +1751,8 @@
         "id": "RN/W16-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-090": {
     "name": "澤田 敏行",
@@ -1681,7 +1770,8 @@
         "id": "RN/W16-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-091": {
     "name": "ネコミミメイド あき穂",
@@ -1699,7 +1789,8 @@
         "id": "RN/W16-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-092": {
     "name": "伊禮 瑞榎",
@@ -1717,7 +1808,8 @@
         "id": "RN/W16-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-093": {
     "name": "元気いっぱい 愛理",
@@ -1735,7 +1827,8 @@
         "id": "RN/W16-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-094": {
     "name": "モード移行 ゲジ姉",
@@ -1753,7 +1846,8 @@
         "id": "RN/W16-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-095": {
     "name": "瀬乃宮 みさ希",
@@ -1771,7 +1865,8 @@
         "id": "RN/W16-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RN/W16-096": {
     "name": "「あねもね」号集団失神事件",
@@ -1789,7 +1884,8 @@
         "id": "RN/W16-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-097": {
     "name": "居ル夫。",
@@ -1807,7 +1903,8 @@
         "id": "RN/W16-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-098": {
     "name": "コールドスリープ",
@@ -1825,7 +1922,8 @@
         "id": "RN/W16-098",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RN/W16-099": {
     "name": "ホワイト・クリスマス・イヴ",
@@ -1843,7 +1941,8 @@
         "id": "RN/W16-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RN/W16-100": {
     "name": "かけがえのない思い出",
@@ -1861,6 +1960,7 @@
         "id": "RN/W16-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

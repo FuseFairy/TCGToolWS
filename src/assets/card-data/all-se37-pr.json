@@ -15,7 +15,8 @@
         "id": "ALL/SE37-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/SE37-P02": {
     "name": "“レギオン、集結”一葉",
@@ -33,7 +34,8 @@
         "id": "ALL/SE37-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ALL/SE37-P03": {
     "name": "“レギオン、集結”叶星",
@@ -51,6 +53,7 @@
         "id": "ALL/SE37-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

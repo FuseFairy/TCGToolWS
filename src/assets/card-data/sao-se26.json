@@ -15,7 +15,8 @@
         "id": "SAO/SE26-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE26-02": {
     "name": "姉の面影 アスナ",
@@ -37,7 +38,8 @@
         "id": "SAO/SE26-02SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE26-03": {
     "name": "憩いの散策 アスナ",
@@ -55,7 +57,8 @@
         "id": "SAO/SE26-03",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE26-04": {
     "name": "幼い頃の明日奈",
@@ -73,7 +76,8 @@
         "id": "SAO/SE26-04",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE26-05": {
     "name": "《バーサクヒーラー》アスナ",
@@ -91,7 +95,8 @@
         "id": "SAO/SE26-05",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE26-06": {
     "name": "《絶剣》の最期",
@@ -109,7 +114,8 @@
         "id": "SAO/SE26-06",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE26-07": {
     "name": "不敗の超剣士 ユウキ",
@@ -127,7 +133,8 @@
         "id": "SAO/SE26-07",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE26-08": {
     "name": "《剣技伝承》ユウキ",
@@ -145,7 +152,8 @@
         "id": "SAO/SE26-08",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE26-09": {
     "name": "《スリーピング・ナイツ》タルケン＆ノリ＆ジュン",
@@ -163,7 +171,8 @@
         "id": "SAO/SE26-09",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE26-10": {
     "name": "《絶剣》ユウキ",
@@ -181,7 +190,8 @@
         "id": "SAO/SE26-10",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE26-11": {
     "name": "楽しかった記憶 ユウキ",
@@ -203,7 +213,8 @@
         "id": "SAO/SE26-11SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE26-12": {
     "name": "ぴぴっときたユウキ",
@@ -221,7 +232,8 @@
         "id": "SAO/SE26-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE26-13": {
     "name": "《スリーピング・ナイツ》ユウキ",
@@ -239,7 +251,8 @@
         "id": "SAO/SE26-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE26-14": {
     "name": "一斉攻撃 リーファ",
@@ -257,7 +270,8 @@
         "id": "SAO/SE26-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE26-15": {
     "name": "タイムリミット リーファ",
@@ -275,7 +289,8 @@
         "id": "SAO/SE26-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE26-16": {
     "name": "《インプ》の少女 ユウキ",
@@ -293,7 +308,8 @@
         "id": "SAO/SE26-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE26-17": {
     "name": "無邪気で奔放 ユウキ",
@@ -311,7 +327,8 @@
         "id": "SAO/SE26-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE26-18": {
     "name": "アスナ＆ユウキ",
@@ -329,7 +346,8 @@
         "id": "SAO/SE26-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE26-19": {
     "name": "《スリーピング・ナイツ》シウネー＆テッチ",
@@ -347,7 +365,8 @@
         "id": "SAO/SE26-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE26-20": {
     "name": "《マザーズ・ロザリオ》",
@@ -365,7 +384,8 @@
         "id": "SAO/SE26-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE26-21": {
     "name": "Braves of 27th floor",
@@ -383,7 +403,8 @@
         "id": "SAO/SE26-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SAO/SE26-22": {
     "name": "強気で気丈 リズベット",
@@ -401,7 +422,8 @@
         "id": "SAO/SE26-22",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE26-23": {
     "name": "信頼の腕前 リズベット",
@@ -419,7 +441,8 @@
         "id": "SAO/SE26-23",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE26-24": {
     "name": "不吉な眼光《死銃》",
@@ -437,7 +460,8 @@
         "id": "SAO/SE26-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE26-25": {
     "name": "頭上にふわふわ シリカ",
@@ -455,7 +479,8 @@
         "id": "SAO/SE26-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE26-26": {
     "name": "戦闘態勢 シリカ",
@@ -473,7 +498,8 @@
         "id": "SAO/SE26-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE26-27": {
     "name": "《SAO生還者》キリト",
@@ -491,7 +517,8 @@
         "id": "SAO/SE26-27",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE26-28": {
     "name": "パーティーの頭脳 ユイ",
@@ -509,7 +536,8 @@
         "id": "SAO/SE26-28",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE26-29": {
     "name": "聖剣獲得へ キリト",
@@ -531,7 +559,8 @@
         "id": "SAO/SE26-29SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE26-30": {
     "name": "ヤマネコ少女 シノン",
@@ -549,7 +578,8 @@
         "id": "SAO/SE26-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE26-31": {
     "name": "多勢への挑戦 キリト",
@@ -567,7 +597,8 @@
         "id": "SAO/SE26-31",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE26-32": {
     "name": "情報提供 ユイ",
@@ -585,7 +616,8 @@
         "id": "SAO/SE26-32",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/SE26-33": {
     "name": "目前に迫る“死” キリト＆シノン",
@@ -603,7 +635,8 @@
         "id": "SAO/SE26-33",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE26-34": {
     "name": "《ケットシー》の弓使い シノン",
@@ -621,7 +654,8 @@
         "id": "SAO/SE26-34",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE26-35": {
     "name": "《剣技連携》キリト",
@@ -639,7 +673,8 @@
         "id": "SAO/SE26-35",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/SE26-36": {
     "name": "《エクスキャリバー》獲得クエスト",
@@ -657,6 +692,7 @@
         "id": "SAO/SE26-36",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

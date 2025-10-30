@@ -23,7 +23,8 @@
         "id": "AZL/S119-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-002": {
     "name": "重巡洋艦 チェシャー",
@@ -49,7 +50,8 @@
         "id": "AZL/S119-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-003": {
     "name": "軽巡洋艦 ベルファスト",
@@ -75,7 +77,8 @@
         "id": "AZL/S119-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-004": {
     "name": "軽空母 ユニコーン",
@@ -105,7 +108,8 @@
         "id": "AZL/S119-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-005": {
     "name": "鎮海",
@@ -131,7 +135,8 @@
         "id": "AZL/S119-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-006": {
     "name": "ジョッフル",
@@ -157,7 +162,8 @@
         "id": "AZL/S119-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-007": {
     "name": "プリマス",
@@ -183,7 +189,8 @@
         "id": "AZL/S119-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-008": {
     "name": "シラ",
@@ -209,7 +216,8 @@
         "id": "AZL/S119-008SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-009": {
     "name": "ジェーナス",
@@ -235,7 +243,8 @@
         "id": "AZL/S119-009SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-010": {
     "name": "ブレスト",
@@ -261,7 +270,8 @@
         "id": "AZL/S119-010SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-011": {
     "name": "マンチェスター",
@@ -287,7 +297,8 @@
         "id": "AZL/S119-011SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-012": {
     "name": "インプラカブル",
@@ -313,7 +324,8 @@
         "id": "AZL/S119-012SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-013": {
     "name": "シュルクーフ",
@@ -335,7 +347,8 @@
         "id": "AZL/S119-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-014": {
     "name": "ロイヤル・オーク",
@@ -357,7 +370,8 @@
         "id": "AZL/S119-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-015": {
     "name": "ヴァリアント",
@@ -379,7 +393,8 @@
         "id": "AZL/S119-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-016": {
     "name": "アルビオン",
@@ -401,7 +416,8 @@
         "id": "AZL/S119-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-017": {
     "name": "アバークロンビー",
@@ -423,7 +439,8 @@
         "id": "AZL/S119-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-018": {
     "name": "フランドル",
@@ -445,7 +462,8 @@
         "id": "AZL/S119-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-019": {
     "name": "カリブディス",
@@ -467,7 +485,8 @@
         "id": "AZL/S119-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-020": {
     "name": "ヴァンガード",
@@ -489,7 +508,8 @@
         "id": "AZL/S119-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-021": {
     "name": "シーシュース",
@@ -511,7 +531,8 @@
         "id": "AZL/S119-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-022": {
     "name": "アーガス",
@@ -533,7 +554,8 @@
         "id": "AZL/S119-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-023": {
     "name": "アルザス",
@@ -555,7 +577,8 @@
         "id": "AZL/S119-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-024": {
     "name": "龍武",
@@ -577,7 +600,8 @@
         "id": "AZL/S119-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-025": {
     "name": "インドミタブル",
@@ -599,7 +623,8 @@
         "id": "AZL/S119-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-026": {
     "name": "モガドール",
@@ -621,7 +646,8 @@
         "id": "AZL/S119-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-027": {
     "name": "ヴァンパイア",
@@ -643,7 +669,8 @@
         "id": "AZL/S119-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-028": {
     "name": "フォーチュン",
@@ -665,7 +692,8 @@
         "id": "AZL/S119-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-029": {
     "name": "Curia of Vichya",
@@ -687,7 +715,8 @@
         "id": "AZL/S119-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-030": {
     "name": "Dragon Empery",
@@ -709,7 +738,8 @@
         "id": "AZL/S119-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-031": {
     "name": "Iris Libre",
@@ -731,7 +761,8 @@
         "id": "AZL/S119-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-032": {
     "name": "見逃しちゃメっ、だよ…？",
@@ -757,7 +788,8 @@
         "id": "AZL/S119-032R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-033": {
     "name": "みんなで記念撮影",
@@ -779,7 +811,8 @@
         "id": "AZL/S119-033R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-034": {
     "name": "わたしたちに勝てると思う？",
@@ -801,7 +834,8 @@
         "id": "AZL/S119-034R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-035": {
     "name": "戦艦 長門",
@@ -827,7 +861,8 @@
         "id": "AZL/S119-035SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-036": {
     "name": "駆逐艦 島風",
@@ -853,7 +888,8 @@
         "id": "AZL/S119-036SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-037": {
     "name": "軽巡洋艦 能代",
@@ -879,7 +915,8 @@
         "id": "AZL/S119-037SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-038": {
     "name": "航空母艦 信濃",
@@ -909,7 +946,8 @@
         "id": "AZL/S119-038SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-039": {
     "name": "駆逐艦 綾波",
@@ -935,7 +973,8 @@
         "id": "AZL/S119-039SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-040": {
     "name": "初月",
@@ -961,7 +1000,8 @@
         "id": "AZL/S119-040SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-041": {
     "name": "夕暮",
@@ -987,7 +1027,8 @@
         "id": "AZL/S119-041SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-042": {
     "name": "土佐",
@@ -1013,7 +1054,8 @@
         "id": "AZL/S119-042SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-043": {
     "name": "四万十",
@@ -1039,7 +1081,8 @@
         "id": "AZL/S119-043SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-044": {
     "name": "雲仙",
@@ -1065,7 +1108,8 @@
         "id": "AZL/S119-044SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-045": {
     "name": "武蔵",
@@ -1091,7 +1135,8 @@
         "id": "AZL/S119-045SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-046": {
     "name": "千歳",
@@ -1113,7 +1158,8 @@
         "id": "AZL/S119-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-047": {
     "name": "龍鳳",
@@ -1135,7 +1181,8 @@
         "id": "AZL/S119-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-048": {
     "name": "千代田",
@@ -1157,7 +1204,8 @@
         "id": "AZL/S119-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-049": {
     "name": "朝凪",
@@ -1179,7 +1227,8 @@
         "id": "AZL/S119-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-050": {
     "name": "酒匂",
@@ -1201,7 +1250,8 @@
         "id": "AZL/S119-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-051": {
     "name": "榛名",
@@ -1223,7 +1273,8 @@
         "id": "AZL/S119-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-052": {
     "name": "名取",
@@ -1245,7 +1296,8 @@
         "id": "AZL/S119-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-053": {
     "name": "羽黒",
@@ -1267,7 +1319,8 @@
         "id": "AZL/S119-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-054": {
     "name": "風雲",
@@ -1289,7 +1342,8 @@
         "id": "AZL/S119-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-055": {
     "name": "出雲",
@@ -1311,7 +1365,8 @@
         "id": "AZL/S119-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-056": {
     "name": "龍驤",
@@ -1333,7 +1388,8 @@
         "id": "AZL/S119-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-057": {
     "name": "深雪",
@@ -1355,7 +1411,8 @@
         "id": "AZL/S119-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-058": {
     "name": "伊26",
@@ -1377,7 +1434,8 @@
         "id": "AZL/S119-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-059": {
     "name": "霧島",
@@ -1399,7 +1457,8 @@
         "id": "AZL/S119-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-060": {
     "name": "三笠",
@@ -1421,7 +1480,8 @@
         "id": "AZL/S119-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-061": {
     "name": "尾張",
@@ -1443,7 +1503,8 @@
         "id": "AZL/S119-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-062": {
     "name": "暁",
@@ -1465,7 +1526,8 @@
         "id": "AZL/S119-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-063": {
     "name": "姉妹の共闘",
@@ -1491,7 +1553,8 @@
         "id": "AZL/S119-063R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-064": {
     "name": "ダンスは勉強中？",
@@ -1517,7 +1580,8 @@
         "id": "AZL/S119-064R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-065": {
     "name": "龍神の神威",
@@ -1539,7 +1603,8 @@
         "id": "AZL/S119-065R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-066": {
     "name": "諸悪調伏、人の世のために",
@@ -1561,7 +1626,8 @@
         "id": "AZL/S119-066R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-067": {
     "name": "重巡洋艦 ローン",
@@ -1591,7 +1657,8 @@
         "id": "AZL/S119-067SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-068": {
     "name": "超巡洋艦 エーギル",
@@ -1617,7 +1684,8 @@
         "id": "AZL/S119-068SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-069": {
     "name": "フィリックス・シュルツ",
@@ -1643,7 +1711,8 @@
         "id": "AZL/S119-069SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-070": {
     "name": "プリンツ・ループレヒト",
@@ -1669,7 +1738,8 @@
         "id": "AZL/S119-070SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-071": {
     "name": "オットー・フォン・アルフェンスレーベン",
@@ -1695,7 +1765,8 @@
         "id": "AZL/S119-071SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-072": {
     "name": "レーゲンスブルク",
@@ -1721,7 +1792,8 @@
         "id": "AZL/S119-072SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-073": {
     "name": "マルコ・ポーロ",
@@ -1747,7 +1819,8 @@
         "id": "AZL/S119-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-074": {
     "name": "ゴールデン・ハインド",
@@ -1773,7 +1846,8 @@
         "id": "AZL/S119-074SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-075": {
     "name": "ヒンデンブルク",
@@ -1799,7 +1873,8 @@
         "id": "AZL/S119-075SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-076": {
     "name": "ブリュンヒルデ",
@@ -1821,7 +1896,8 @@
         "id": "AZL/S119-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-077": {
     "name": "マクデブルク",
@@ -1843,7 +1919,8 @@
         "id": "AZL/S119-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-078": {
     "name": "ヨルク",
@@ -1865,7 +1942,8 @@
         "id": "AZL/S119-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-079": {
     "name": "リュッツォウ",
@@ -1887,7 +1965,8 @@
         "id": "AZL/S119-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-080": {
     "name": "Z35",
@@ -1909,7 +1988,8 @@
         "id": "AZL/S119-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-081": {
     "name": "ヤーデ",
@@ -1931,7 +2011,8 @@
         "id": "AZL/S119-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-082": {
     "name": "Z28",
@@ -1953,7 +2034,8 @@
         "id": "AZL/S119-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-083": {
     "name": "ブリュッヒャー",
@@ -1975,7 +2057,8 @@
         "id": "AZL/S119-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-084": {
     "name": "U-37",
@@ -1997,7 +2080,8 @@
         "id": "AZL/S119-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-085": {
     "name": "U-410",
@@ -2019,7 +2103,8 @@
         "id": "AZL/S119-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-086": {
     "name": "フリードリヒ・カール",
@@ -2041,7 +2126,8 @@
         "id": "AZL/S119-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-087": {
     "name": "テューリンゲン",
@@ -2063,7 +2149,8 @@
         "id": "AZL/S119-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-088": {
     "name": "ポーラ",
@@ -2085,7 +2172,8 @@
         "id": "AZL/S119-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-089": {
     "name": "アッティリオ・レゴロ",
@@ -2107,7 +2195,8 @@
         "id": "AZL/S119-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-090": {
     "name": "マインツ",
@@ -2129,7 +2218,8 @@
         "id": "AZL/S119-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-091": {
     "name": "リットリオ",
@@ -2151,7 +2241,8 @@
         "id": "AZL/S119-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-092": {
     "name": "ロイヤル・フォーチュン",
@@ -2173,7 +2264,8 @@
         "id": "AZL/S119-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-093": {
     "name": "Sardegna Empire",
@@ -2195,7 +2287,8 @@
         "id": "AZL/S119-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-094": {
     "name": "お祝いに一杯飲もうじゃない",
@@ -2221,7 +2314,8 @@
         "id": "AZL/S119-094R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-095": {
     "name": "一緒にくつろぎましょう",
@@ -2243,7 +2337,8 @@
         "id": "AZL/S119-095R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-096": {
     "name": "あなた自身が選ぶ道よ",
@@ -2265,7 +2360,8 @@
         "id": "AZL/S119-096R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-097": {
     "name": "戦艦 ニュージャージー",
@@ -2291,7 +2387,8 @@
         "id": "AZL/S119-097SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-098": {
     "name": "軽巡洋艦 パーミャチ・メルクーリヤ",
@@ -2317,7 +2414,8 @@
         "id": "AZL/S119-098SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-099": {
     "name": "航空母艦 エンタープライズ",
@@ -2347,7 +2445,8 @@
         "id": "AZL/S119-099SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-100": {
     "name": "ブリストル",
@@ -2373,7 +2472,8 @@
         "id": "AZL/S119-100SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-101": {
     "name": "ヨークタウンⅡ",
@@ -2399,7 +2499,8 @@
         "id": "AZL/S119-101SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-102": {
     "name": "グロズヌイ",
@@ -2425,7 +2526,8 @@
         "id": "AZL/S119-102SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-103": {
     "name": "ハムマンII",
@@ -2451,7 +2553,8 @@
         "id": "AZL/S119-103SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-104": {
     "name": "ラフィーⅡ",
@@ -2477,7 +2580,8 @@
         "id": "AZL/S119-104SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-105": {
     "name": "キアサージ",
@@ -2503,7 +2607,8 @@
         "id": "AZL/S119-105SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-106": {
     "name": "ホーネットⅡ",
@@ -2525,7 +2630,8 @@
         "id": "AZL/S119-106S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-107": {
     "name": "サン・ジャシント",
@@ -2547,7 +2653,8 @@
         "id": "AZL/S119-107S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-108": {
     "name": "コンステレーション",
@@ -2569,7 +2676,8 @@
         "id": "AZL/S119-108S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-109": {
     "name": "シアトル",
@@ -2591,7 +2699,8 @@
         "id": "AZL/S119-109S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-110": {
     "name": "ヒューストンⅡ",
@@ -2613,7 +2722,8 @@
         "id": "AZL/S119-110S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-111": {
     "name": "アンカレッジ",
@@ -2635,7 +2745,8 @@
         "id": "AZL/S119-111S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-112": {
     "name": "チャパエフ",
@@ -2657,7 +2768,8 @@
         "id": "AZL/S119-112S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-113": {
     "name": "ウェストバージニア",
@@ -2679,7 +2791,8 @@
         "id": "AZL/S119-113S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-114": {
     "name": "フラッシャー",
@@ -2701,7 +2814,8 @@
         "id": "AZL/S119-114S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-115": {
     "name": "グアム",
@@ -2723,7 +2837,8 @@
         "id": "AZL/S119-115S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-116": {
     "name": "モントピリア",
@@ -2745,7 +2860,8 @@
         "id": "AZL/S119-116S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-117": {
     "name": "ハルゼー・パウエル",
@@ -2767,7 +2883,8 @@
         "id": "AZL/S119-117S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-118": {
     "name": "アラバマ",
@@ -2789,7 +2906,8 @@
         "id": "AZL/S119-118S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-119": {
     "name": "モリソン",
@@ -2811,7 +2929,8 @@
         "id": "AZL/S119-119S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-120": {
     "name": "アストリア",
@@ -2833,7 +2952,8 @@
         "id": "AZL/S119-120S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-121": {
     "name": "ノーチラス",
@@ -2855,7 +2975,8 @@
         "id": "AZL/S119-121S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-122": {
     "name": "デューイ",
@@ -2877,7 +2998,8 @@
         "id": "AZL/S119-122S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-123": {
     "name": "ビロクシ",
@@ -2899,7 +3021,8 @@
         "id": "AZL/S119-123S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-124": {
     "name": "ルイビル",
@@ -2921,7 +3044,8 @@
         "id": "AZL/S119-124S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-125": {
     "name": "チカロフ",
@@ -2943,7 +3067,8 @@
         "id": "AZL/S119-125S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-126": {
     "name": "Northern Parliament",
@@ -2965,7 +3090,8 @@
         "id": "AZL/S119-126S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S119-127": {
     "name": "ご褒美もーらい♪",
@@ -2991,7 +3117,8 @@
         "id": "AZL/S119-127R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-128": {
     "name": "ユニオンの戦士たち、命を燃やせ！",
@@ -3013,7 +3140,8 @@
         "id": "AZL/S119-128R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-129": {
     "name": "ハイブリッド・イマジン",
@@ -3035,7 +3163,8 @@
         "id": "AZL/S119-129R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-130": {
     "name": "中秋のおつきさま",
@@ -3057,7 +3186,8 @@
         "id": "AZL/S119-130R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S119-131": {
     "name": "グレイゴースト",
@@ -3075,6 +3205,7 @@
         "id": "AZL/S119-131A",
         "rarity": "AGR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

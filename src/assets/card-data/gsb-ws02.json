@@ -19,7 +19,8 @@
         "id": "Gsb/WS02-117SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gsb/WS02-121": {
     "name": "世界最強の吸血鬼 古城",
@@ -41,7 +42,8 @@
         "id": "Gsb/WS02-121S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gsb/WS02-139": {
     "name": "“電子の女帝” 浅葱",
@@ -63,7 +65,8 @@
         "id": "Gsb/WS02-139SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gsb/WS02-150": {
     "name": "第四真祖と監視役",
@@ -85,6 +88,7 @@
         "id": "Gsb/WS02-150SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

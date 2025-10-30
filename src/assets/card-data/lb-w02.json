@@ -15,7 +15,8 @@
         "id": "LB/W02-001",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-002": {
     "name": "鈴＆理樹",
@@ -33,7 +34,8 @@
         "id": "LB/W02-002",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-003": {
     "name": "“気高き子猫”鈴",
@@ -55,7 +57,8 @@
         "id": "LB/W02-003R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-004": {
     "name": "“リーダー”恭介",
@@ -73,7 +76,8 @@
         "id": "LB/W02-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-005": {
     "name": "“ナース服”小毬",
@@ -91,7 +95,8 @@
         "id": "LB/W02-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-006": {
     "name": "“バニーガール”唯湖",
@@ -109,7 +114,8 @@
         "id": "LB/W02-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-007": {
     "name": "来ヶ谷 唯湖",
@@ -127,7 +133,8 @@
         "id": "LB/W02-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-008": {
     "name": "ソフト部三人組",
@@ -145,7 +152,8 @@
         "id": "LB/W02-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-009": {
     "name": "“ウェディングドレス”鈴",
@@ -163,7 +171,8 @@
         "id": "LB/W02-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-010": {
     "name": "鈴＆佐々美",
@@ -181,7 +190,8 @@
         "id": "LB/W02-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-011": {
     "name": "“お菓子好き”小毬",
@@ -199,7 +209,8 @@
         "id": "LB/W02-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-012": {
     "name": "神北 小毬",
@@ -217,7 +228,8 @@
         "id": "LB/W02-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-013": {
     "name": "井ノ原 真人",
@@ -235,7 +247,8 @@
         "id": "LB/W02-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-014": {
     "name": "鈴＆小毬",
@@ -253,7 +266,8 @@
         "id": "LB/W02-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-015": {
     "name": "“深窓のクイーンオブハート”唯湖",
@@ -271,7 +285,8 @@
         "id": "LB/W02-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-016": {
     "name": "恭介＆鈴",
@@ -289,7 +304,8 @@
         "id": "LB/W02-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-017": {
     "name": "“神なるノーコン”鈴",
@@ -307,7 +323,8 @@
         "id": "LB/W02-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-018": {
     "name": "猫使いの秘密兵器",
@@ -325,7 +342,8 @@
         "id": "LB/W02-018",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-019": {
     "name": "夢の中へ",
@@ -343,7 +361,8 @@
         "id": "LB/W02-019",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-020": {
     "name": "お背中流しますよー",
@@ -361,7 +380,8 @@
         "id": "LB/W02-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-021": {
     "name": "コールドゲームだ",
@@ -379,7 +399,8 @@
         "id": "LB/W02-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-022": {
     "name": "相合傘",
@@ -397,7 +418,8 @@
         "id": "LB/W02-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-023": {
     "name": "鈴と共にある日々",
@@ -415,7 +437,8 @@
         "id": "LB/W02-023",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-024": {
     "name": "リーダーの帰還",
@@ -433,7 +456,8 @@
         "id": "LB/W02-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LB/W02-025": {
     "name": "二人だけの観測会",
@@ -455,7 +479,8 @@
         "id": "LB/W02-025S",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LB/W02-026": {
     "name": "“猫まみれ”鈴",
@@ -473,7 +498,8 @@
         "id": "LB/W02-026",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-027": {
     "name": "“着ぐるみ”クド",
@@ -491,7 +517,8 @@
         "id": "LB/W02-027",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-028": {
     "name": "棗 鈴",
@@ -513,7 +540,8 @@
         "id": "LB/W02-028R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-029": {
     "name": "“マスコット”クド",
@@ -531,7 +559,8 @@
         "id": "LB/W02-029",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-030": {
     "name": "クド＆佐々美",
@@ -549,7 +578,8 @@
         "id": "LB/W02-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-031": {
     "name": "三枝 葉留佳",
@@ -567,7 +597,8 @@
         "id": "LB/W02-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-032": {
     "name": "“トラブルメーカー”葉留佳",
@@ -585,7 +616,8 @@
         "id": "LB/W02-032",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-033": {
     "name": "神北 小次郎",
@@ -603,7 +635,8 @@
         "id": "LB/W02-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-034": {
     "name": "“風紀の番人”佳奈多",
@@ -621,7 +654,8 @@
         "id": "LB/W02-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-035": {
     "name": "真人＆謙吾",
@@ -639,7 +673,8 @@
         "id": "LB/W02-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-036": {
     "name": "“ポニーガール”鈴",
@@ -657,7 +692,8 @@
         "id": "LB/W02-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-037": {
     "name": "能美 クドリャフカ",
@@ -675,7 +711,8 @@
         "id": "LB/W02-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-038": {
     "name": "クド＆佳奈多",
@@ -693,7 +730,8 @@
         "id": "LB/W02-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-039": {
     "name": "“普通の少年”理樹",
@@ -711,7 +749,8 @@
         "id": "LB/W02-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-040": {
     "name": "“女王猫”佐々美",
@@ -729,7 +768,8 @@
         "id": "LB/W02-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-041": {
     "name": "“エプロン”葉留佳",
@@ -747,7 +787,8 @@
         "id": "LB/W02-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-042": {
     "name": "“最強の男児”謙吾",
@@ -765,7 +806,8 @@
         "id": "LB/W02-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-043": {
     "name": "新たな挑戦者",
@@ -783,7 +825,8 @@
         "id": "LB/W02-043",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-044": {
     "name": "緊急事態",
@@ -801,7 +844,8 @@
         "id": "LB/W02-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-045": {
     "name": "お掃除大すき♪",
@@ -819,7 +863,8 @@
         "id": "LB/W02-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-046": {
     "name": "ぶらっくほわいと",
@@ -837,7 +882,8 @@
         "id": "LB/W02-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-047": {
     "name": "勉強会",
@@ -855,7 +901,8 @@
         "id": "LB/W02-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-048": {
     "name": "たった一つの取り柄",
@@ -877,7 +924,8 @@
         "id": "LB/W02-048S",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LB/W02-049": {
     "name": "そよ風のハミング",
@@ -895,7 +943,8 @@
         "id": "LB/W02-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-050": {
     "name": "優等生のフリをした偽善者",
@@ -913,7 +962,8 @@
         "id": "LB/W02-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LB/W02-051": {
     "name": "“華麗なる剣聖”唯湖",
@@ -931,7 +981,8 @@
         "id": "LB/W02-051",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-052": {
     "name": "“捜査官”葉留佳",
@@ -949,7 +1000,8 @@
         "id": "LB/W02-052",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-053": {
     "name": "西園 美魚",
@@ -971,7 +1023,8 @@
         "id": "LB/W02-053R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-054": {
     "name": "棗＆直枝",
@@ -989,7 +1042,8 @@
         "id": "LB/W02-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-055": {
     "name": "直枝 理樹",
@@ -1007,7 +1061,8 @@
         "id": "LB/W02-055",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-056": {
     "name": "“姉御肌”唯湖",
@@ -1025,7 +1080,8 @@
         "id": "LB/W02-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-057": {
     "name": "“赤ずきん”美魚",
@@ -1043,7 +1099,8 @@
         "id": "LB/W02-057",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-058": {
     "name": "二木 佳奈多",
@@ -1061,7 +1118,8 @@
         "id": "LB/W02-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-059": {
     "name": "夏服の葉留佳",
@@ -1079,7 +1137,8 @@
         "id": "LB/W02-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-060": {
     "name": "西園 美鳥",
@@ -1097,7 +1156,8 @@
         "id": "LB/W02-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-061": {
     "name": "葉留佳＆佳奈多",
@@ -1115,7 +1175,8 @@
         "id": "LB/W02-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-062": {
     "name": "“騒がし乙女”葉留佳",
@@ -1133,7 +1194,8 @@
         "id": "LB/W02-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-063": {
     "name": "葉留佳＆美魚",
@@ -1151,7 +1213,8 @@
         "id": "LB/W02-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-064": {
     "name": "“名探偵”唯湖",
@@ -1169,7 +1232,8 @@
         "id": "LB/W02-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-065": {
     "name": "“筋肉馬鹿”真人",
@@ -1187,7 +1251,8 @@
         "id": "LB/W02-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-066": {
     "name": "唯湖＆葉留佳",
@@ -1205,7 +1270,8 @@
         "id": "LB/W02-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-067": {
     "name": "“文学少女”美魚",
@@ -1223,7 +1289,8 @@
         "id": "LB/W02-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-068": {
     "name": "鏡よ、鏡",
@@ -1241,7 +1308,8 @@
         "id": "LB/W02-068",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-069": {
     "name": "朝焼けに眠る",
@@ -1259,7 +1327,8 @@
         "id": "LB/W02-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-070": {
     "name": "非現実的な光景",
@@ -1277,7 +1346,8 @@
         "id": "LB/W02-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-071": {
     "name": "クリムゾンレッドの腕章",
@@ -1295,7 +1365,8 @@
         "id": "LB/W02-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-072": {
     "name": "耳掃除",
@@ -1313,7 +1384,8 @@
         "id": "LB/W02-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-073": {
     "name": "リトルバスターズ！",
@@ -1331,7 +1403,8 @@
         "id": "LB/W02-073",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LB/W02-074": {
     "name": "いつかの未来のために",
@@ -1353,7 +1426,8 @@
         "id": "LB/W02-074S",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-075": {
     "name": "託されるもの",
@@ -1371,7 +1445,8 @@
         "id": "LB/W02-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LB/W02-076": {
     "name": "“メルヘン少女”小毬",
@@ -1389,7 +1464,8 @@
         "id": "LB/W02-076",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-077": {
     "name": "“天然素材”美魚",
@@ -1407,7 +1483,8 @@
         "id": "LB/W02-077",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-078": {
     "name": "古式 みゆき",
@@ -1425,7 +1502,8 @@
         "id": "LB/W02-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-079": {
     "name": "“ほんわかきゅーと”小毬",
@@ -1447,7 +1525,8 @@
         "id": "LB/W02-079R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-080": {
     "name": "宮沢 謙吾",
@@ -1465,7 +1544,8 @@
         "id": "LB/W02-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-081": {
     "name": "“小悪魔少女”美鳥",
@@ -1483,7 +1563,8 @@
         "id": "LB/W02-081",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-082": {
     "name": "“ミステリックブルー”美魚",
@@ -1501,7 +1582,8 @@
         "id": "LB/W02-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-083": {
     "name": "クド＆小毬",
@@ -1519,7 +1601,8 @@
         "id": "LB/W02-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-084": {
     "name": "棗 恭介",
@@ -1537,7 +1620,8 @@
         "id": "LB/W02-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-085": {
     "name": "マスク・ザ・斉藤",
@@ -1555,7 +1639,8 @@
         "id": "LB/W02-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-086": {
     "name": "クドリャフカ・アナトリエヴナ・ストルガツカヤ",
@@ -1573,7 +1658,8 @@
         "id": "LB/W02-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-087": {
     "name": "“３姉妹”クド",
@@ -1591,7 +1677,8 @@
         "id": "LB/W02-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-088": {
     "name": "不思議の国のクド",
@@ -1609,7 +1696,8 @@
         "id": "LB/W02-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-089": {
     "name": "美魚＆美鳥",
@@ -1627,7 +1715,8 @@
         "id": "LB/W02-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-090": {
     "name": "クド＆ストレルカ",
@@ -1645,7 +1734,8 @@
         "id": "LB/W02-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-091": {
     "name": "“マネージャー”美魚",
@@ -1663,7 +1753,8 @@
         "id": "LB/W02-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-092": {
     "name": "“おめかし”小毬",
@@ -1681,7 +1772,8 @@
         "id": "LB/W02-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-093": {
     "name": "あめりかんな遊び",
@@ -1699,7 +1791,8 @@
         "id": "LB/W02-093",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-094": {
     "name": "ロイヤルプリンセスパフェ",
@@ -1717,7 +1810,8 @@
         "id": "LB/W02-094",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-095": {
     "name": "両手いっぱいの本",
@@ -1735,7 +1829,8 @@
         "id": "LB/W02-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-096": {
     "name": "鮮やかなしまぱん",
@@ -1753,7 +1848,8 @@
         "id": "LB/W02-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-097": {
     "name": "友情の証",
@@ -1771,7 +1867,8 @@
         "id": "LB/W02-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-098": {
     "name": "危機一髪！",
@@ -1789,7 +1886,8 @@
         "id": "LB/W02-098",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-099": {
     "name": "深夜の儀式",
@@ -1811,7 +1909,8 @@
         "id": "LB/W02-099S",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LB/W02-100": {
     "name": "２つの長い影",
@@ -1829,7 +1928,8 @@
         "id": "LB/W02-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LB/W02-01": {
     "name": "“マスコット”クド",
@@ -1847,7 +1947,8 @@
         "id": "LB/W02-01T",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-02": {
     "name": "神北 小次郎",
@@ -1865,7 +1966,8 @@
         "id": "LB/W02-02T",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-03": {
     "name": "“ポニーガール”鈴",
@@ -1883,7 +1985,8 @@
         "id": "LB/W02-03T",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-04": {
     "name": "緊急事態",
@@ -1901,7 +2004,8 @@
         "id": "LB/W02-04T",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-05": {
     "name": "能美 クドリャフカ",
@@ -1919,7 +2023,8 @@
         "id": "LB/W02-05T",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LB/W02-06": {
     "name": "“普通の少年”理樹",
@@ -1937,7 +2042,8 @@
         "id": "LB/W02-06T",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-07": {
     "name": "“女王猫”佐々美",
@@ -1955,7 +2061,8 @@
         "id": "LB/W02-07T",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-08": {
     "name": "“エプロン”葉留佳",
@@ -1973,7 +2080,8 @@
         "id": "LB/W02-08T",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-09": {
     "name": "“最強の男児”謙吾",
@@ -1991,7 +2099,8 @@
         "id": "LB/W02-09T",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-10": {
     "name": "そよ風のハミング",
@@ -2009,7 +2118,8 @@
         "id": "LB/W02-10T",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LB/W02-11": {
     "name": "優等生のフリをした偽善者",
@@ -2027,7 +2137,8 @@
         "id": "LB/W02-11T",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LB/W02-12": {
     "name": "あめりかんな遊び",
@@ -2045,7 +2156,8 @@
         "id": "LB/W02-12T",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-13": {
     "name": "“ミステリックブルー”美魚",
@@ -2063,7 +2175,8 @@
         "id": "LB/W02-13T",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-14": {
     "name": "クド＆小毬",
@@ -2081,7 +2194,8 @@
         "id": "LB/W02-14T",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-15": {
     "name": "棗 恭介",
@@ -2099,7 +2213,8 @@
         "id": "LB/W02-15T",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-16": {
     "name": "ロイヤルプリンセスパフェ",
@@ -2117,7 +2232,8 @@
         "id": "LB/W02-16T",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-17": {
     "name": "“３姉妹”クド",
@@ -2135,7 +2251,8 @@
         "id": "LB/W02-17T",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-18": {
     "name": "美魚＆美鳥",
@@ -2153,7 +2270,8 @@
         "id": "LB/W02-18T",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-19": {
     "name": "“おめかし”小毬",
@@ -2171,7 +2289,8 @@
         "id": "LB/W02-19T",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-20": {
     "name": "２つの長い影",
@@ -2189,7 +2308,8 @@
         "id": "LB/W02-20T",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LB/W02-E01": {
     "name": "“世話焼き”佐々美",
@@ -2207,7 +2327,8 @@
         "id": "LB/W02-E01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-E02": {
     "name": "“新リーダー”理樹",
@@ -2225,7 +2346,8 @@
         "id": "LB/W02-E02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-E03": {
     "name": "“前向きマジック”小毬",
@@ -2243,7 +2365,8 @@
         "id": "LB/W02-E03",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-E04": {
     "name": "“兄貴分”恭介",
@@ -2261,7 +2384,8 @@
         "id": "LB/W02-E04",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-E05": {
     "name": "佐々美の手料理",
@@ -2279,7 +2403,8 @@
         "id": "LB/W02-E05",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LB/W02-E06": {
     "name": "“マウンド上の精密機械”鈴",
@@ -2297,7 +2422,8 @@
         "id": "LB/W02-E06",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-E07": {
     "name": "“アホの子”葉留佳",
@@ -2315,7 +2441,8 @@
         "id": "LB/W02-E07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-E08": {
     "name": "“ソフト部のエース” 佐々美",
@@ -2333,7 +2460,8 @@
         "id": "LB/W02-E08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-E09": {
     "name": "“掛け持ち委員長”佳奈多",
@@ -2351,7 +2479,8 @@
         "id": "LB/W02-E09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-E10": {
     "name": "朱鷺戸 沙耶",
@@ -2369,7 +2498,8 @@
         "id": "LB/W02-E10",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-E11": {
     "name": "“無表情で無愛想”佳奈多",
@@ -2387,7 +2517,8 @@
         "id": "LB/W02-E11",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-E12": {
     "name": "“大胆不敵”唯湖",
@@ -2405,7 +2536,8 @@
         "id": "LB/W02-E12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-E13": {
     "name": "“筋肉の革命児”真人",
@@ -2423,7 +2555,8 @@
         "id": "LB/W02-E13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-E14": {
     "name": "クレーンゲーム",
@@ -2441,7 +2574,8 @@
         "id": "LB/W02-E14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LB/W02-E15": {
     "name": "“エキゾチック”クド",
@@ -2459,7 +2593,8 @@
         "id": "LB/W02-E15",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LB/W02-E16": {
     "name": "“女スパイ”沙耶",
@@ -2477,7 +2612,8 @@
         "id": "LB/W02-E16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-E17": {
     "name": "“読書好き”美魚",
@@ -2495,7 +2631,8 @@
         "id": "LB/W02-E17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LB/W02-E18": {
     "name": "“単純馬鹿”謙吾",
@@ -2513,6 +2650,7 @@
         "id": "LB/W02-E18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

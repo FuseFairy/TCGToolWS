@@ -15,7 +15,8 @@
         "id": "NK/WE22-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-02": {
     "name": "パジャマパーティー 千棘",
@@ -37,7 +38,8 @@
         "id": "NK/WE22-02SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NK/WE22-03": {
     "name": "マジカルゴリラ千棘ちゃん",
@@ -55,7 +57,8 @@
         "id": "NK/WE22-03",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-04": {
     "name": "登下校 楽",
@@ -73,7 +76,8 @@
         "id": "NK/WE22-04",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-05": {
     "name": "新生活！ 千棘",
@@ -91,7 +95,8 @@
         "id": "NK/WE22-05",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-06": {
     "name": "スタイル抜群！ 千棘",
@@ -109,7 +114,8 @@
         "id": "NK/WE22-06",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NK/WE22-07": {
     "name": "ただキミのことばかり",
@@ -127,7 +133,8 @@
         "id": "NK/WE22-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NK/WE22-08": {
     "name": "オトナリ 春",
@@ -145,7 +152,8 @@
         "id": "NK/WE22-08",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-09": {
     "name": "新生活！ 春",
@@ -163,7 +171,8 @@
         "id": "NK/WE22-09",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-10": {
     "name": "ツグミャー",
@@ -181,7 +190,8 @@
         "id": "NK/WE22-10",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-11": {
     "name": "水着の春",
@@ -199,7 +209,8 @@
         "id": "NK/WE22-11",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NK/WE22-12": {
     "name": "パジャマパーティー 春",
@@ -221,7 +232,8 @@
         "id": "NK/WE22-12SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NK/WE22-13": {
     "name": "新生活！ 誠士郎",
@@ -239,7 +251,8 @@
         "id": "NK/WE22-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-14": {
     "name": "春のトモダチ 風",
@@ -257,7 +270,8 @@
         "id": "NK/WE22-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-15": {
     "name": "テガカリ 春",
@@ -275,7 +289,8 @@
         "id": "NK/WE22-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-16": {
     "name": "ポーラ・マッコイ",
@@ -293,7 +308,8 @@
         "id": "NK/WE22-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-17": {
     "name": "コレカラ 誠士郎",
@@ -311,7 +327,8 @@
         "id": "NK/WE22-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-18": {
     "name": "小野寺 春",
@@ -329,7 +346,8 @@
         "id": "NK/WE22-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-19": {
     "name": "ビーハイブの“白牙” ポーラ",
@@ -347,7 +365,8 @@
         "id": "NK/WE22-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-20": {
     "name": "いつかまた王子様が……",
@@ -365,7 +384,8 @@
         "id": "NK/WE22-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-21": {
     "name": "マジカルポリス万里花ちゃん",
@@ -383,7 +403,8 @@
         "id": "NK/WE22-21",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-22": {
     "name": "ドレス姿の万里花",
@@ -401,7 +422,8 @@
         "id": "NK/WE22-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-23": {
     "name": "新生活！ 万里花",
@@ -419,7 +441,8 @@
         "id": "NK/WE22-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NK/WE22-24": {
     "name": "店の看板娘 春",
@@ -437,7 +460,8 @@
         "id": "NK/WE22-24",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-25": {
     "name": "新入生 春",
@@ -455,7 +479,8 @@
         "id": "NK/WE22-25",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-26": {
     "name": "マジカルパティシエ小咲ちゃん",
@@ -473,7 +498,8 @@
         "id": "NK/WE22-26",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NK/WE22-27": {
     "name": "パジャマパーティー 小咲",
@@ -495,7 +521,8 @@
         "id": "NK/WE22-27SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NK/WE22-28": {
     "name": "姉妹でお風呂 小咲",
@@ -513,7 +540,8 @@
         "id": "NK/WE22-28",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-29": {
     "name": "ルーリン",
@@ -531,7 +559,8 @@
         "id": "NK/WE22-29",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-30": {
     "name": "風のイタズラ 春",
@@ -549,7 +578,8 @@
         "id": "NK/WE22-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-31": {
     "name": "姉妹でお風呂 春",
@@ -567,7 +597,8 @@
         "id": "NK/WE22-31",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-32": {
     "name": "１万回に１回のキセキ 小咲",
@@ -585,7 +616,8 @@
         "id": "NK/WE22-32",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-33": {
     "name": "新生活！ 小咲",
@@ -603,7 +635,8 @@
         "id": "NK/WE22-33",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NK/WE22-34": {
     "name": "首をかしげる春",
@@ -621,7 +654,8 @@
         "id": "NK/WE22-34",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NK/WE22-35": {
     "name": "新生活！ るり",
@@ -639,7 +673,8 @@
         "id": "NK/WE22-35",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NK/WE22-36": {
     "name": "契約完了☆",
@@ -657,6 +692,7 @@
         "id": "NK/WE22-36",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

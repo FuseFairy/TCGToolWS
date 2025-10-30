@@ -15,7 +15,8 @@
         "id": "SBY/W77-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-P02": {
     "name": "浴衣姿 桜島 麻衣",
@@ -33,7 +34,8 @@
         "id": "SBY/W77-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-P03": {
     "name": "“シュレディンガーの翔子さん”牧之原 翔子",
@@ -51,7 +53,8 @@
         "id": "SBY/W77-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-101": {
     "name": "ちびのどか",
@@ -69,7 +72,8 @@
         "id": "SBY/W77-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-102": {
     "name": "ちび朋絵",
@@ -87,7 +91,8 @@
         "id": "SBY/W77-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-103": {
     "name": "ちび麻衣",
@@ -105,7 +110,8 @@
         "id": "SBY/W77-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-104": {
     "name": "ちびかえで",
@@ -123,7 +129,8 @@
         "id": "SBY/W77-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-105": {
     "name": "ちび翔子",
@@ -141,7 +148,8 @@
         "id": "SBY/W77-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-106": {
     "name": "ちび双葉",
@@ -159,6 +167,7 @@
         "id": "SBY/W77-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -23,7 +23,8 @@
         "id": "DC3/WE40-10SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE40-11": {
     "name": "魅惑のお誘い シャルル",
@@ -49,7 +50,8 @@
         "id": "DC3/WE40-11SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WE40-15": {
     "name": "輝く未来",
@@ -71,7 +73,8 @@
         "id": "DC3/WE40-15DCP",
         "rarity": "DCP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE40-20": {
     "name": "やまとなでしこ 姫乃",
@@ -97,7 +100,8 @@
         "id": "DC3/WE40-20SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE40-24": {
     "name": "はにかみツインテール サラ",
@@ -127,7 +131,8 @@
         "id": "DC3/WE40-24SPb",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WE40-32": {
     "name": "異世界転生勇者参上！ 美琴",
@@ -149,7 +154,8 @@
         "id": "DC3/WE40-32DCP",
         "rarity": "DCP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE40-36": {
     "name": "ジル・ハサウェイ",
@@ -171,7 +177,8 @@
         "id": "DC3/WE40-36DCP",
         "rarity": "DCP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WE40-39": {
     "name": "幸せを抱きしめて 葵",
@@ -197,6 +204,7 @@
         "id": "DC3/WE40-39SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "LNJ/W85-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-P02": {
     "name": "みんなにありがとう 上原 歩夢",
@@ -33,7 +34,8 @@
         "id": "LNJ/W85-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-P03": {
     "name": "虹ヶ咲学園1年生 かすみ&しずく&璃奈&栞子",
@@ -51,7 +53,8 @@
         "id": "LNJ/W85-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-P04": {
     "name": "虹ヶ咲学園3年生 果林&彼方&エマ",
@@ -69,7 +72,8 @@
         "id": "LNJ/W85-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-P05": {
     "name": "トキメキ。あなたがいてくれたから",
@@ -99,7 +103,8 @@
         "id": "LNJ/W85-P05d",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-P06": {
     "name": "トキメキ。大切な時間",
@@ -129,7 +134,8 @@
         "id": "LNJ/W85-P06d",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-P07": {
     "name": "トキメキ。この先も、ずっと",
@@ -159,7 +165,8 @@
         "id": "LNJ/W85-P07d",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-101": {
     "name": "そして幕が上がる 桜坂 しずく",
@@ -177,7 +184,8 @@
         "id": "LNJ/W85-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-102": {
     "name": "秘密の先にあったもの 三船 栞子",
@@ -195,7 +203,8 @@
         "id": "LNJ/W85-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-103": {
     "name": "webに乗ってどこまでも！ 天王寺 璃奈",
@@ -213,7 +222,8 @@
         "id": "LNJ/W85-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-104": {
     "name": "尋ねるまでもないことだけど！ 中須 かすみ",
@@ -231,7 +241,8 @@
         "id": "LNJ/W85-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-105": {
     "name": "元気を届けろ！ 宮下 愛",
@@ -249,7 +260,8 @@
         "id": "LNJ/W85-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-106": {
     "name": "私が作る世界！ 優木 せつ菜",
@@ -267,7 +279,8 @@
         "id": "LNJ/W85-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-107": {
     "name": "新しい仲間と、新しい旅立ち！ 上原 歩夢",
@@ -285,7 +298,8 @@
         "id": "LNJ/W85-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-108": {
     "name": "面白いじゃない 朝香 果林",
@@ -303,7 +317,8 @@
         "id": "LNJ/W85-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-109": {
     "name": "それぞれに、踏み出す時 エマ・ヴェルデ",
@@ -321,7 +336,8 @@
         "id": "LNJ/W85-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-110": {
     "name": "私のための遊び場 近江 彼方",
@@ -339,6 +355,7 @@
         "id": "LNJ/W85-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

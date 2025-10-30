@@ -23,7 +23,8 @@
         "id": "Fma/W120-125SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fma/W120-133": {
     "name": "新たな時代の魔王 ベルトール",
@@ -49,7 +50,8 @@
         "id": "Fma/W120-133SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fma/W120-134": {
     "name": "完璧なメイドモード 緋月",
@@ -71,7 +73,8 @@
         "id": "Fma/W120-134S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fma/W120-138": {
     "name": "幸運と不運を司る女神 メルディア",
@@ -93,7 +96,8 @@
         "id": "Fma/W120-138S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fma/W120-141": {
     "name": "煌灼侯 マキナ",
@@ -119,6 +123,7 @@
         "id": "Fma/W120-141SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

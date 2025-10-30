@@ -23,7 +23,8 @@
         "id": "MKI/W126-T01SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-T02": {
     "name": "体育倉庫イベ？ 檸檬",
@@ -45,7 +46,8 @@
         "id": "MKI/W126-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-T03": {
     "name": "進捗管理 佳樹",
@@ -67,7 +69,8 @@
         "id": "MKI/W126-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-T04": {
     "name": "泥棒猫？ 華恋",
@@ -89,7 +92,8 @@
         "id": "MKI/W126-T04R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-T05": {
     "name": "温水佳樹",
@@ -111,7 +115,8 @@
         "id": "MKI/W126-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-T06": {
     "name": "玉木慎太郎",
@@ -133,7 +138,8 @@
         "id": "MKI/W126-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-T07": {
     "name": "焼塩檸檬",
@@ -159,7 +165,8 @@
         "id": "MKI/W126-T07SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-T08": {
     "name": "その視線の先は 知花",
@@ -181,7 +188,8 @@
         "id": "MKI/W126-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-T09": {
     "name": "至福のひと時 知花",
@@ -203,7 +211,8 @@
         "id": "MKI/W126-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-T10": {
     "name": "負けヒロイン 檸檬",
@@ -225,7 +234,8 @@
         "id": "MKI/W126-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-T11": {
     "name": "アンタが新入部員！",
@@ -247,7 +257,8 @@
         "id": "MKI/W126-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-T12": {
     "name": "プロ幼馴染の負けっぷり",
@@ -269,7 +280,8 @@
         "id": "MKI/W126-T12R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MKI/W126-T13": {
     "name": "八奈見杏菜",
@@ -295,7 +307,8 @@
         "id": "MKI/W126-T13SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-T14": {
     "name": "文芸部副部長 古都",
@@ -317,7 +330,8 @@
         "id": "MKI/W126-T14R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-T15": {
     "name": "お迎え 千早",
@@ -339,7 +353,8 @@
         "id": "MKI/W126-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-T16": {
     "name": "負けヒロイン 杏菜",
@@ -361,7 +376,8 @@
         "id": "MKI/W126-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-T17": {
     "name": "幼馴染 杏菜",
@@ -383,7 +399,8 @@
         "id": "MKI/W126-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-T18": {
     "name": "袴田草介",
@@ -405,7 +422,8 @@
         "id": "MKI/W126-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-T19": {
     "name": "綾野光希",
@@ -427,7 +445,8 @@
         "id": "MKI/W126-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MKI/W126-T20": {
     "name": "驚異的な金額",
@@ -449,7 +468,8 @@
         "id": "MKI/W126-T20R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MKI/W126-T21": {
     "name": "MAKEINEエンゲージ！",
@@ -471,6 +491,7 @@
         "id": "MKI/W126-T21R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

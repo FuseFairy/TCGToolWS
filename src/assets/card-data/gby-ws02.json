@@ -19,7 +19,8 @@
         "id": "Gby/WS02-048SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gby/WS02-051": {
     "name": "やさしさにたどり着くため 翔子",
@@ -41,7 +42,8 @@
         "id": "Gby/WS02-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gby/WS02-071": {
     "name": "スイートでフレッシュな最終兵器",
@@ -63,6 +65,7 @@
         "id": "Gby/WS02-071SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

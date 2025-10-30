@@ -19,7 +19,8 @@
         "id": "DAL/W79-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-002": {
     "name": "頼れる妹 琴里",
@@ -41,7 +42,8 @@
         "id": "DAL/W79-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-003": {
     "name": "時崎 狂三",
@@ -63,7 +65,8 @@
         "id": "DAL/W79-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-004": {
     "name": "転校生 狂三",
@@ -85,7 +88,8 @@
         "id": "DAL/W79-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-005": {
     "name": "“時喰みの城”狂三",
@@ -107,7 +111,8 @@
         "id": "DAL/W79-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-006": {
     "name": "水着姿 狂三",
@@ -129,7 +134,8 @@
         "id": "DAL/W79-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-007": {
     "name": "精霊を救うために 琴里",
@@ -151,7 +157,8 @@
         "id": "DAL/W79-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-008": {
     "name": "青空の下で 狂三",
@@ -173,7 +180,8 @@
         "id": "DAL/W79-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-009": {
     "name": "我慢のとき 琴里",
@@ -191,7 +199,8 @@
         "id": "DAL/W79-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-010": {
     "name": "五河 士道",
@@ -209,7 +218,8 @@
         "id": "DAL/W79-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-011": {
     "name": "“各自、選択！”琴里",
@@ -227,7 +237,8 @@
         "id": "DAL/W79-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-012": {
     "name": "青空の下で 琴里",
@@ -245,7 +256,8 @@
         "id": "DAL/W79-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-013": {
     "name": "“この頃のわたくし”狂三",
@@ -263,7 +275,8 @@
         "id": "DAL/W79-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-014": {
     "name": "積極的なアプローチ 狂三",
@@ -281,7 +294,8 @@
         "id": "DAL/W79-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-015": {
     "name": "嬉し気な表情 琴里",
@@ -299,7 +313,8 @@
         "id": "DAL/W79-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-016": {
     "name": "デート翌日 狂三",
@@ -317,7 +332,8 @@
         "id": "DAL/W79-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-017": {
     "name": "疑いの眼差し 琴里",
@@ -335,7 +351,8 @@
         "id": "DAL/W79-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-018": {
     "name": "分身体 狂三",
@@ -357,7 +374,8 @@
         "id": "DAL/W79-018b",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-019": {
     "name": "遊園地を堪能 琴里",
@@ -375,7 +393,8 @@
         "id": "DAL/W79-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-020": {
     "name": "休養の提案 神無月",
@@ -393,7 +412,8 @@
         "id": "DAL/W79-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-021": {
     "name": "強がりの言葉 琴里",
@@ -411,7 +431,8 @@
         "id": "DAL/W79-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-022": {
     "name": "マイ・リトル・シドー",
@@ -429,7 +450,8 @@
         "id": "DAL/W79-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-023": {
     "name": "キャンディを片手に",
@@ -451,7 +473,8 @@
         "id": "DAL/W79-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-024": {
     "name": "特別な存在",
@@ -473,7 +496,8 @@
         "id": "DAL/W79-024R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-025": {
     "name": "立ちはだかる存在",
@@ -491,7 +515,8 @@
         "id": "DAL/W79-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DAL/W79-026": {
     "name": "ミステリアスなクラスメイト 折紙",
@@ -513,7 +538,8 @@
         "id": "DAL/W79-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-027": {
     "name": "四糸乃＆よしのん",
@@ -535,7 +561,8 @@
         "id": "DAL/W79-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-028": {
     "name": "水着姿 四糸乃",
@@ -553,7 +580,8 @@
         "id": "DAL/W79-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-029": {
     "name": "学校への復帰 折紙",
@@ -571,7 +599,8 @@
         "id": "DAL/W79-029",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-030": {
     "name": "水着姿 折紙",
@@ -589,7 +618,8 @@
         "id": "DAL/W79-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-031": {
     "name": "よしのんを失った四糸乃",
@@ -607,7 +637,8 @@
         "id": "DAL/W79-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-032": {
     "name": "臨戦態勢 折紙",
@@ -629,7 +660,8 @@
         "id": "DAL/W79-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-033": {
     "name": "お見舞い 四糸乃",
@@ -647,7 +679,8 @@
         "id": "DAL/W79-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-034": {
     "name": "嬉しい着信 折紙",
@@ -665,7 +698,8 @@
         "id": "DAL/W79-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-035": {
     "name": "二人っきりにしたい理由 四糸乃",
@@ -683,7 +717,8 @@
         "id": "DAL/W79-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-036": {
     "name": "崇宮 真那",
@@ -701,7 +736,8 @@
         "id": "DAL/W79-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-037": {
     "name": "街中でバッタリ 折紙",
@@ -719,7 +755,8 @@
         "id": "DAL/W79-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-038": {
     "name": "天使顕現 四糸乃",
@@ -737,7 +774,8 @@
         "id": "DAL/W79-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-039": {
     "name": "咄嗟の判断 折紙",
@@ -755,7 +793,8 @@
         "id": "DAL/W79-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-040": {
     "name": "情報収集 折紙",
@@ -773,7 +812,8 @@
         "id": "DAL/W79-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-041": {
     "name": "押し倒される士道",
@@ -791,7 +831,8 @@
         "id": "DAL/W79-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-042": {
     "name": "危険な予感 四糸乃",
@@ -809,7 +850,8 @@
         "id": "DAL/W79-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-043": {
     "name": "デートのサポート 四糸乃",
@@ -827,7 +869,8 @@
         "id": "DAL/W79-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-044": {
     "name": "交換条件 折紙",
@@ -845,7 +888,8 @@
         "id": "DAL/W79-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-045": {
     "name": "一刀両断 日下部",
@@ -863,7 +907,8 @@
         "id": "DAL/W79-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-046": {
     "name": "水着選び 四糸乃",
@@ -881,7 +926,8 @@
         "id": "DAL/W79-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-047": {
     "name": "基礎顕現装置",
@@ -899,7 +945,8 @@
         "id": "DAL/W79-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-048": {
     "name": "凍て付く大地",
@@ -921,7 +968,8 @@
         "id": "DAL/W79-048R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-049": {
     "name": "超天才の謝罪",
@@ -939,7 +987,8 @@
         "id": "DAL/W79-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DAL/W79-050": {
     "name": "大粒の涙",
@@ -957,7 +1006,8 @@
         "id": "DAL/W79-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-051": {
     "name": "五河 琴里",
@@ -979,7 +1029,8 @@
         "id": "DAL/W79-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-052": {
     "name": "凛とした佇まい 十香",
@@ -1001,7 +1052,8 @@
         "id": "DAL/W79-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-053": {
     "name": "“最悪の精霊”狂三",
@@ -1023,7 +1075,8 @@
         "id": "DAL/W79-053SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-054": {
     "name": "水着姿 琴里",
@@ -1041,7 +1094,8 @@
         "id": "DAL/W79-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-055": {
     "name": "時を巻き戻す力 狂三",
@@ -1063,7 +1117,8 @@
         "id": "DAL/W79-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-056": {
     "name": "春のひととき 十香",
@@ -1085,7 +1140,8 @@
         "id": "DAL/W79-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-057": {
     "name": "夜刀神 十香",
@@ -1107,7 +1163,8 @@
         "id": "DAL/W79-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-058": {
     "name": "殺意に満ちた表情 琴里",
@@ -1125,7 +1182,8 @@
         "id": "DAL/W79-058",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-059": {
     "name": "“炎の精霊”琴里",
@@ -1147,7 +1205,8 @@
         "id": "DAL/W79-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-060": {
     "name": "強き想い 十香",
@@ -1165,7 +1224,8 @@
         "id": "DAL/W79-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-061": {
     "name": "残酷な現実 十香",
@@ -1183,7 +1243,8 @@
         "id": "DAL/W79-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-062": {
     "name": "災厄の降臨 十香",
@@ -1201,7 +1262,8 @@
         "id": "DAL/W79-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-063": {
     "name": "ラタトスクの解析官 令音",
@@ -1219,7 +1281,8 @@
         "id": "DAL/W79-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-064": {
     "name": "時を止める力 狂三",
@@ -1237,7 +1300,8 @@
         "id": "DAL/W79-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-065": {
     "name": "揺らぐ心 狂三",
@@ -1255,7 +1319,8 @@
         "id": "DAL/W79-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-066": {
     "name": "少し残念 狂三",
@@ -1273,7 +1338,8 @@
         "id": "DAL/W79-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-067": {
     "name": "まんじゅう屋で監視？ 琴里",
@@ -1291,7 +1357,8 @@
         "id": "DAL/W79-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-068": {
     "name": "デェトの待ち合わせ 十香",
@@ -1309,7 +1376,8 @@
         "id": "DAL/W79-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-069": {
     "name": "興味深いこと 狂三",
@@ -1327,7 +1395,8 @@
         "id": "DAL/W79-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-070": {
     "name": "絶体絶命 狂三",
@@ -1345,7 +1414,8 @@
         "id": "DAL/W79-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-071": {
     "name": "スペシャルこれでもかコース",
@@ -1363,7 +1433,8 @@
         "id": "DAL/W79-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-072": {
     "name": "実践＝先生を口説く",
@@ -1381,7 +1452,8 @@
         "id": "DAL/W79-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-073": {
     "name": "不敵な笑み",
@@ -1403,7 +1475,8 @@
         "id": "DAL/W79-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-074": {
     "name": "怒りの矛先",
@@ -1421,7 +1494,8 @@
         "id": "DAL/W79-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-075": {
     "name": "時穿つ焔",
@@ -1439,7 +1513,8 @@
         "id": "DAL/W79-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-076": {
     "name": "“レイニー・ガール”四糸乃",
@@ -1461,7 +1536,8 @@
         "id": "DAL/W79-076SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-077": {
     "name": "大切な約束 十香",
@@ -1483,7 +1559,8 @@
         "id": "DAL/W79-077SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-078": {
     "name": "遊園地を堪能 士道",
@@ -1501,7 +1578,8 @@
         "id": "DAL/W79-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-079": {
     "name": "“空分かつ剣”十香",
@@ -1523,7 +1601,8 @@
         "id": "DAL/W79-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-080": {
     "name": "寂しげな瞳 四糸乃",
@@ -1545,7 +1624,8 @@
         "id": "DAL/W79-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-081": {
     "name": "天真爛漫な少女 十香",
@@ -1567,7 +1647,8 @@
         "id": "DAL/W79-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-082": {
     "name": "“不機嫌な雨”四糸乃",
@@ -1589,7 +1670,8 @@
         "id": "DAL/W79-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-083": {
     "name": "鳶一 折紙",
@@ -1611,7 +1693,8 @@
         "id": "DAL/W79-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-084": {
     "name": "街中でバッタリ 十香",
@@ -1629,7 +1712,8 @@
         "id": "DAL/W79-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-085": {
     "name": "春のひととき 折紙",
@@ -1647,7 +1731,8 @@
         "id": "DAL/W79-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-086": {
     "name": "制服姿 十香",
@@ -1665,7 +1750,8 @@
         "id": "DAL/W79-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-087": {
     "name": "遠距離射撃 折紙",
@@ -1683,7 +1769,8 @@
         "id": "DAL/W79-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-088": {
     "name": "春のひととき 四糸乃",
@@ -1701,7 +1788,8 @@
         "id": "DAL/W79-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-089": {
     "name": "守るための戦い 十香",
@@ -1719,7 +1807,8 @@
         "id": "DAL/W79-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-090": {
     "name": "激化する戦場？ 折紙",
@@ -1737,7 +1826,8 @@
         "id": "DAL/W79-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-091": {
     "name": "青空の下で 十香",
@@ -1755,7 +1845,8 @@
         "id": "DAL/W79-091",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-092": {
     "name": "お風呂上り 折紙",
@@ -1773,7 +1864,8 @@
         "id": "DAL/W79-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-093": {
     "name": "精霊の結界 十香",
@@ -1791,7 +1883,8 @@
         "id": "DAL/W79-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-094": {
     "name": "ふくれっ面 十香",
@@ -1809,7 +1902,8 @@
         "id": "DAL/W79-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-095": {
     "name": "青空の下で 四糸乃",
@@ -1827,7 +1921,8 @@
         "id": "DAL/W79-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-096": {
     "name": "水着姿 十香",
@@ -1845,7 +1940,8 @@
         "id": "DAL/W79-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-097": {
     "name": "マジ引くわー",
@@ -1863,7 +1959,8 @@
         "id": "DAL/W79-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-098": {
     "name": "夕暮れに染まるこの街で",
@@ -1885,7 +1982,8 @@
         "id": "DAL/W79-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W79-099": {
     "name": "美味しいデェト",
@@ -1907,7 +2005,8 @@
         "id": "DAL/W79-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W79-100": {
     "name": "五年前の復讐",
@@ -1929,6 +2028,7 @@
         "id": "DAL/W79-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

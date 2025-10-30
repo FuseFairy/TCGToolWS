@@ -19,7 +19,8 @@
         "id": "Ghm/WS02-039SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ghm/WS02-043": {
     "name": "六畳一間の魔王軍 真奥",
@@ -41,7 +42,8 @@
         "id": "Ghm/WS02-043SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ghm/WS02-055": {
     "name": "2つの世界の架け橋 鈴乃＆千穂",
@@ -63,7 +65,8 @@
         "id": "Ghm/WS02-055SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ghm/WS02-070": {
     "name": "六畳一間の魔王軍 漆原＆芦屋",
@@ -85,6 +88,7 @@
         "id": "Ghm/WS02-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

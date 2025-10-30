@@ -19,7 +19,8 @@
         "id": "SBY/W77-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-002": {
     "name": "それぞれの選択 桜島 麻衣",
@@ -41,7 +42,8 @@
         "id": "SBY/W77-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-003": {
     "name": "クリスマスプレゼント 豊浜 のどか",
@@ -63,7 +65,8 @@
         "id": "SBY/W77-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-004": {
     "name": "お兄ちゃんと一緒に 梓川 花楓",
@@ -85,7 +88,8 @@
         "id": "SBY/W77-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-005": {
     "name": "時を超えた再会 桜島 麻衣",
@@ -107,7 +111,8 @@
         "id": "SBY/W77-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-006": {
     "name": "常夏デート 桜島 麻衣",
@@ -129,7 +134,8 @@
         "id": "SBY/W77-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-007": {
     "name": "くつろぎの時間 桜島 麻衣",
@@ -151,7 +157,8 @@
         "id": "SBY/W77-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-008": {
     "name": "決意の一言 桜島 麻衣",
@@ -169,7 +176,8 @@
         "id": "SBY/W77-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-009": {
     "name": "仲良し姉妹 豊浜 のどか",
@@ -187,7 +195,8 @@
         "id": "SBY/W77-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-010": {
     "name": "仲良し姉妹 桜島 麻衣",
@@ -205,7 +214,8 @@
         "id": "SBY/W77-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-011": {
     "name": "折衷案 桜島 麻衣",
@@ -223,7 +233,8 @@
         "id": "SBY/W77-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-012": {
     "name": "分岐点 梓川 咲太",
@@ -245,7 +256,8 @@
         "id": "SBY/W77-012b",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-013": {
     "name": "事故回避 梓川 咲太",
@@ -263,7 +275,8 @@
         "id": "SBY/W77-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-014": {
     "name": "一緒に下校 桜島 麻衣",
@@ -281,7 +294,8 @@
         "id": "SBY/W77-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-015": {
     "name": "冬の醍醐味 梓川 花楓",
@@ -299,7 +313,8 @@
         "id": "SBY/W77-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-016": {
     "name": "妹からの忠告 豊浜 のどか",
@@ -317,7 +332,8 @@
         "id": "SBY/W77-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-017": {
     "name": "夕食の準備 桜島 麻衣",
@@ -335,7 +351,8 @@
         "id": "SBY/W77-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-018": {
     "name": "父親からの電話 梓川 花楓",
@@ -353,7 +370,8 @@
         "id": "SBY/W77-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-019": {
     "name": "思い出の数々",
@@ -371,7 +389,8 @@
         "id": "SBY/W77-019",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-020": {
     "name": "助けを求めて",
@@ -389,7 +408,8 @@
         "id": "SBY/W77-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-021": {
     "name": "幸せにしたい人",
@@ -411,7 +431,8 @@
         "id": "SBY/W77-021R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-022": {
     "name": "ミニライブ！",
@@ -433,7 +454,8 @@
         "id": "SBY/W77-022R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-023": {
     "name": "不穏な空気",
@@ -451,7 +473,8 @@
         "id": "SBY/W77-023",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-024": {
     "name": "小悪魔の悩み 古賀 朋絵",
@@ -473,7 +496,8 @@
         "id": "SBY/W77-024SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-025": {
     "name": "時間と記憶 牧之原 翔子",
@@ -495,7 +519,8 @@
         "id": "SBY/W77-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-026": {
     "name": "お見舞い 双葉 理央",
@@ -513,7 +538,8 @@
         "id": "SBY/W77-026",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-027": {
     "name": "偶然の一致 牧之原 翔子",
@@ -531,7 +557,8 @@
         "id": "SBY/W77-027",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-028": {
     "name": "電話の取り次ぎ 双葉 理央",
@@ -553,7 +580,8 @@
         "id": "SBY/W77-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-029": {
     "name": "“私の立てた仮説”双葉 理央",
@@ -575,7 +603,8 @@
         "id": "SBY/W77-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-030": {
     "name": "憧れのウエディングドレス 牧之原 翔子",
@@ -597,7 +626,8 @@
         "id": "SBY/W77-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-031": {
     "name": "いつものやりとり 双葉 理央",
@@ -619,7 +649,8 @@
         "id": "SBY/W77-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-032": {
     "name": "同棲生活 牧之原 翔子",
@@ -637,7 +668,8 @@
         "id": "SBY/W77-032",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-033": {
     "name": "夢の中の出来事 古賀 朋絵",
@@ -655,7 +687,8 @@
         "id": "SBY/W77-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-034": {
     "name": "安堵の表情 双葉 理央",
@@ -673,7 +706,8 @@
         "id": "SBY/W77-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-035": {
     "name": "“どっちの先輩？”古賀 朋絵",
@@ -691,7 +725,8 @@
         "id": "SBY/W77-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-036": {
     "name": "目的地に到着！ 牧之原 翔子",
@@ -709,7 +744,8 @@
         "id": "SBY/W77-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-037": {
     "name": "思わぬ目的地 梓川 咲太",
@@ -727,7 +763,8 @@
         "id": "SBY/W77-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-038": {
     "name": "好きな言葉 牧之原 翔子",
@@ -745,7 +782,8 @@
         "id": "SBY/W77-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-039": {
     "name": "“今、書きたいこと”牧之原 翔子",
@@ -763,7 +801,8 @@
         "id": "SBY/W77-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-040": {
     "name": "病院でバッタリ 牧之原 翔子",
@@ -781,7 +820,8 @@
         "id": "SBY/W77-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-041": {
     "name": "容態急変 梓川 咲太",
@@ -799,7 +839,8 @@
         "id": "SBY/W77-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-042": {
     "name": "容態急変 牧之原 翔子",
@@ -817,7 +858,8 @@
         "id": "SBY/W77-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-043": {
     "name": "掃除中 牧之原 翔子",
@@ -835,7 +877,8 @@
         "id": "SBY/W77-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-044": {
     "name": "夢の中の出来事 双葉 理央",
@@ -853,7 +896,8 @@
         "id": "SBY/W77-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-045": {
     "name": "存在の理由 牧之原 翔子",
@@ -871,7 +915,8 @@
         "id": "SBY/W77-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-046": {
     "name": "12月24日",
@@ -889,7 +934,8 @@
         "id": "SBY/W77-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-047": {
     "name": "巡る言葉",
@@ -907,7 +953,8 @@
         "id": "SBY/W77-047",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SBY/W77-048": {
     "name": "ありえない現象",
@@ -925,7 +972,8 @@
         "id": "SBY/W77-048",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-049": {
     "name": "海辺の結婚式場",
@@ -943,7 +991,8 @@
         "id": "SBY/W77-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-050": {
     "name": "おかしな出来事 桜島 麻衣",
@@ -965,7 +1014,8 @@
         "id": "SBY/W77-050SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-051": {
     "name": "新たな一歩 梓川 花楓",
@@ -987,7 +1037,8 @@
         "id": "SBY/W77-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-052": {
     "name": "大切な妹 梓川 花楓",
@@ -1009,7 +1060,8 @@
         "id": "SBY/W77-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-053": {
     "name": "二人のサンタクロース 桜島 麻衣",
@@ -1031,7 +1083,8 @@
         "id": "SBY/W77-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-054": {
     "name": "同棲生活 桜島 麻衣",
@@ -1049,7 +1102,8 @@
         "id": "SBY/W77-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-055": {
     "name": "二人のサンタクロース 豊浜 のどか",
@@ -1071,7 +1125,8 @@
         "id": "SBY/W77-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-056": {
     "name": "水着姿 桜島 麻衣",
@@ -1093,7 +1148,8 @@
         "id": "SBY/W77-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-057": {
     "name": "デートの誘い 桜島 麻衣",
@@ -1111,7 +1167,8 @@
         "id": "SBY/W77-057",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-058": {
     "name": "一人きりの楽屋 桜島 麻衣",
@@ -1129,7 +1186,8 @@
         "id": "SBY/W77-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-059": {
     "name": "満足度の確認 桜島 麻衣",
@@ -1147,7 +1205,8 @@
         "id": "SBY/W77-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-060": {
     "name": "修羅場から退散 梓川 花楓",
@@ -1165,7 +1224,8 @@
         "id": "SBY/W77-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-061": {
     "name": "嫌な詮索 桜島 麻衣",
@@ -1183,7 +1243,8 @@
         "id": "SBY/W77-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-062": {
     "name": "苦渋の決断 梓川 咲太",
@@ -1201,7 +1262,8 @@
         "id": "SBY/W77-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-063": {
     "name": "夢の中の出来事 豊浜 のどか",
@@ -1219,7 +1281,8 @@
         "id": "SBY/W77-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-064": {
     "name": "お見舞い 桜島 麻衣",
@@ -1237,7 +1300,8 @@
         "id": "SBY/W77-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-065": {
     "name": "おかしな出来事 梓川 咲太",
@@ -1255,7 +1319,8 @@
         "id": "SBY/W77-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-066": {
     "name": "夢の中の出来事 桜島 麻衣",
@@ -1273,7 +1338,8 @@
         "id": "SBY/W77-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-067": {
     "name": "家出中 豊浜 のどか",
@@ -1291,7 +1357,8 @@
         "id": "SBY/W77-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-068": {
     "name": "ドナーカード",
@@ -1309,7 +1376,8 @@
         "id": "SBY/W77-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-069": {
     "name": "おはようのチュー",
@@ -1331,7 +1399,8 @@
         "id": "SBY/W77-069R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-070": {
     "name": "明かされる真実",
@@ -1349,7 +1418,8 @@
         "id": "SBY/W77-070",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SBY/W77-071": {
     "name": "3人だけの空間",
@@ -1367,7 +1437,8 @@
         "id": "SBY/W77-071",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-072": {
     "name": "それぞれの選択 牧之原 翔子",
@@ -1389,7 +1460,8 @@
         "id": "SBY/W77-072SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-073": {
     "name": "頼れる友人 双葉 理央",
@@ -1411,7 +1483,8 @@
         "id": "SBY/W77-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-074": {
     "name": "かけがえのない存在 牧之原 翔子",
@@ -1433,7 +1506,8 @@
         "id": "SBY/W77-074SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-075": {
     "name": "将来の夢 牧之原 翔子",
@@ -1455,7 +1529,8 @@
         "id": "SBY/W77-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-076": {
     "name": "特別な存在 牧之原 翔子",
@@ -1477,7 +1552,8 @@
         "id": "SBY/W77-076S",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-077": {
     "name": "突然の告白 牧之原 翔子",
@@ -1499,7 +1575,8 @@
         "id": "SBY/W77-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-078": {
     "name": "デートの誘い 牧之原 翔子",
@@ -1517,7 +1594,8 @@
         "id": "SBY/W77-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-079": {
     "name": "傷の考察  双葉 理央",
@@ -1535,7 +1613,8 @@
         "id": "SBY/W77-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-080": {
     "name": "惹かれる理由 牧之原 翔子",
@@ -1557,7 +1636,8 @@
         "id": "SBY/W77-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-081": {
     "name": "デートの計画 古賀 朋絵",
@@ -1579,7 +1659,8 @@
         "id": "SBY/W77-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-082": {
     "name": "懐かしい話 牧之原 翔子",
@@ -1597,7 +1678,8 @@
         "id": "SBY/W77-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-083": {
     "name": "プリントの内容 双葉 理央",
@@ -1615,7 +1697,8 @@
         "id": "SBY/W77-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-084": {
     "name": "ドレスの試着 牧之原 翔子",
@@ -1633,7 +1716,8 @@
         "id": "SBY/W77-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-085": {
     "name": "現在に戻るために 牧之原 翔子",
@@ -1651,7 +1735,8 @@
         "id": "SBY/W77-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-086": {
     "name": "やり残した宿題 牧之原 翔子",
@@ -1669,7 +1754,8 @@
         "id": "SBY/W77-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-087": {
     "name": "“超ひも理論を紐解く”双葉 理央",
@@ -1687,7 +1773,8 @@
         "id": "SBY/W77-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-088": {
     "name": "“量子もつれ”古賀 朋絵",
@@ -1705,7 +1792,8 @@
         "id": "SBY/W77-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-089": {
     "name": "プリントの確認 梓川 咲太",
@@ -1723,7 +1811,8 @@
         "id": "SBY/W77-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-090": {
     "name": "何気ない日常 双葉 理央",
@@ -1741,7 +1830,8 @@
         "id": "SBY/W77-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-091": {
     "name": "はやてをシャンプー 牧之原 翔子",
@@ -1759,7 +1849,8 @@
         "id": "SBY/W77-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-092": {
     "name": "“量子もつれ”梓川 咲太",
@@ -1777,7 +1868,8 @@
         "id": "SBY/W77-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-093": {
     "name": "いつものやりとり 古賀 朋絵",
@@ -1795,7 +1887,8 @@
         "id": "SBY/W77-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-094": {
     "name": "夢の中の出来事 牧之原 翔子",
@@ -1813,7 +1906,8 @@
         "id": "SBY/W77-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-095": {
     "name": "友人の心配 国見 佑真",
@@ -1831,7 +1925,8 @@
         "id": "SBY/W77-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-096": {
     "name": "将来のスケジュール",
@@ -1853,7 +1948,8 @@
         "id": "SBY/W77-096b",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-097": {
     "name": "宿題の採点",
@@ -1871,7 +1967,8 @@
         "id": "SBY/W77-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-098": {
     "name": "複雑な心境",
@@ -1893,7 +1990,8 @@
         "id": "SBY/W77-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SBY/W77-099": {
     "name": "初恋の思い出",
@@ -1915,7 +2013,8 @@
         "id": "SBY/W77-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SBY/W77-100": {
     "name": "たどり着いた未来",
@@ -1937,6 +2036,7 @@
         "id": "SBY/W77-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

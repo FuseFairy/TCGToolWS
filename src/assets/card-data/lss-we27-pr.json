@@ -15,7 +15,8 @@
         "id": "LSS/WE27-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-P02": {
     "name": "“歌ってみよういっしょにね！”千歌＆梨子＆曜",
@@ -33,7 +34,8 @@
         "id": "LSS/WE27-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-P03": {
     "name": "“歌ってみよういっしょにね！”善子＆花丸＆ルビィ",
@@ -51,7 +53,8 @@
         "id": "LSS/WE27-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-55": {
     "name": "ミニ善子",
@@ -69,7 +72,8 @@
         "id": "LSS/WE27-55",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-56": {
     "name": "ミニルビィ",
@@ -87,7 +91,8 @@
         "id": "LSS/WE27-56",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-57": {
     "name": "ミニ花丸",
@@ -105,7 +110,8 @@
         "id": "LSS/WE27-57",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE27-58": {
     "name": "ミニ曜",
@@ -123,7 +129,8 @@
         "id": "LSS/WE27-58",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-59": {
     "name": "ミニ千歌",
@@ -141,7 +148,8 @@
         "id": "LSS/WE27-59",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-60": {
     "name": "ミニ梨子",
@@ -159,7 +167,8 @@
         "id": "LSS/WE27-60",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-61": {
     "name": "ミニ果南",
@@ -177,7 +186,8 @@
         "id": "LSS/WE27-61",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-62": {
     "name": "ミニ鞠莉",
@@ -195,7 +205,8 @@
         "id": "LSS/WE27-62",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE27-63": {
     "name": "ミニダイヤ",
@@ -213,6 +224,7 @@
         "id": "LSS/WE27-63",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -19,7 +19,8 @@
         "id": "Kka/W102-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kka/W102-003": {
     "name": "思い出とたい焼き あゆ",
@@ -41,7 +42,8 @@
         "id": "Kka/W102-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kka/W102-005": {
     "name": "小さな奇跡の物語 あゆ",
@@ -63,7 +65,8 @@
         "id": "Kka/W102-005SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kka/W102-009": {
     "name": "求めた温もり 真琴",
@@ -85,7 +88,8 @@
         "id": "Kka/W102-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kka/W102-013": {
     "name": "了承です 秋子",
@@ -103,7 +107,8 @@
         "id": "Kka/W102-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kka/W102-015": {
     "name": "最後の言葉 あゆ",
@@ -121,7 +126,8 @@
         "id": "Kka/W102-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kka/W102-016": {
     "name": "空気の読めない初代主人公 祐一",
@@ -139,7 +145,8 @@
         "id": "Kka/W102-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kka/W102-017": {
     "name": "元祖居候先の娘 名雪",
@@ -157,7 +164,8 @@
         "id": "Kka/W102-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kka/W102-018": {
     "name": "真冬のアイスクリーム 栞",
@@ -179,7 +187,8 @@
         "id": "Kka/W102-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kka/W102-020": {
     "name": "持てる者 香里",
@@ -197,7 +206,8 @@
         "id": "Kka/W102-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kka/W102-024": {
     "name": "旅立ちの日に 佐祐理",
@@ -219,7 +229,8 @@
         "id": "Kka/W102-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kka/W102-025": {
     "name": "魔物を討つ者 舞",
@@ -241,7 +252,8 @@
         "id": "Kka/W102-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kka/W102-026": {
     "name": "在りし日の約束",
@@ -259,7 +271,8 @@
         "id": "Kka/W102-026",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kka/W102-028": {
     "name": "最後の願い",
@@ -285,7 +298,8 @@
         "id": "Kka/W102-028R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kka/W102-030": {
     "name": "丘の結婚式",
@@ -307,6 +321,7 @@
         "id": "Kka/W102-030R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

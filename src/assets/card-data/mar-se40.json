@@ -23,7 +23,8 @@
         "id": "MAR/SE40-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/SE40-002": {
     "name": "ガーディアンズ・オブ・ギャラクシー：リミックス",
@@ -49,7 +50,8 @@
         "id": "MAR/SE40-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/SE40-003": {
     "name": "敵か味方か ロキ",
@@ -75,7 +77,8 @@
         "id": "MAR/SE40-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/SE40-004": {
     "name": "宇宙一の裏切り王子 ロキ",
@@ -101,7 +104,8 @@
         "id": "MAR/SE40-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/SE40-005": {
     "name": "宇宙最凶チーム ガーディアンズ・オブ・ギャラクシー",
@@ -127,7 +131,8 @@
         "id": "MAR/SE40-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/SE40-006": {
     "name": "マイティ・ソー",
@@ -153,7 +158,8 @@
         "id": "MAR/SE40-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/SE40-007": {
     "name": "ソー＆ロキ",
@@ -179,7 +185,8 @@
         "id": "MAR/SE40-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/SE40-008": {
     "name": "RAGNAROK",
@@ -205,7 +212,8 @@
         "id": "MAR/SE40-008SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/SE40-009": {
     "name": "覚醒 ドクター・ストレンジ",
@@ -231,7 +239,8 @@
         "id": "MAR/SE40-009SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/SE40-010": {
     "name": "ワカンダよ 永遠に ブラックパンサー",
@@ -257,7 +266,8 @@
         "id": "MAR/SE40-010SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/SE40-011": {
     "name": "次なる試練 アイアンマン＆ウォーマシン",
@@ -283,7 +293,8 @@
         "id": "MAR/SE40-011SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/SE40-012": {
     "name": "インフィニティ・ウォー アベンジャーズ",
@@ -309,7 +320,8 @@
         "id": "MAR/SE40-012SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/SE40-013": {
     "name": "“秘密”を守る使命 ブラックパンサー",
@@ -335,7 +347,8 @@
         "id": "MAR/SE40-013SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/SE40-014": {
     "name": "規格外のパワー キャプテン・マーベル",
@@ -361,7 +374,8 @@
         "id": "MAR/SE40-014SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/SE40-015": {
     "name": "見えざる敵の脅威 アイアンマン",
@@ -387,7 +401,8 @@
         "id": "MAR/SE40-015SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/SE40-016": {
     "name": "“闇の魔術”との戦い ドクター・ストレンジ",
@@ -413,7 +428,8 @@
         "id": "MAR/SE40-016SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/SE40-017": {
     "name": "“最強”の力 アベンジャーズ",
@@ -439,7 +455,8 @@
         "id": "MAR/SE40-017SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/SE40-018": {
     "name": "\"I am Iron Man.\" アイアンマン",
@@ -465,7 +482,8 @@
         "id": "MAR/SE40-018SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/SE40-019": {
     "name": "無限大の力 サノス",
@@ -491,7 +509,8 @@
         "id": "MAR/SE40-019SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/SE40-020": {
     "name": "“最後”にして“最大”の戦い",
@@ -517,7 +536,8 @@
         "id": "MAR/SE40-020SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/SE40-021": {
     "name": "最愛の娘のために アントマン",
@@ -543,7 +563,8 @@
         "id": "MAR/SE40-021SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/SE40-022": {
     "name": "シビル・ウォー キャプテン・アメリカ＆アイアンマン",
@@ -569,7 +590,8 @@
         "id": "MAR/SE40-022SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/SE40-023": {
     "name": "アントマン＆ワスプ",
@@ -595,7 +617,8 @@
         "id": "MAR/SE40-023SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/SE40-024": {
     "name": "“禁断の戦い” キャプテン・アメリカ＆アイアンマン",
@@ -621,7 +644,8 @@
         "id": "MAR/SE40-024SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/SE40-025": {
     "name": "究極の戦い キャプテン・アメリカ",
@@ -647,7 +671,8 @@
         "id": "MAR/SE40-025SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/SE40-026": {
     "name": "仲間を救うため キャプテン・アメリカ",
@@ -673,7 +698,8 @@
         "id": "MAR/SE40-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/SE40-027": {
     "name": "ザ・ファースト・アベンジャー キャプテン・アメリカ",
@@ -699,7 +725,8 @@
         "id": "MAR/SE40-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/SE40-028": {
     "name": "エイジ・オブ・ウルトロン アベンジャーズ",
@@ -725,7 +752,8 @@
         "id": "MAR/SE40-028SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/SE40-029": {
     "name": "Avengers assemble.",
@@ -751,7 +779,8 @@
         "id": "MAR/SE40-029SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/SE40-030": {
     "name": "時を超えた対峙",
@@ -777,6 +806,7 @@
         "id": "MAR/SE40-030SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

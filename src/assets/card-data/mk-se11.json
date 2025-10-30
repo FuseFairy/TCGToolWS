@@ -15,7 +15,8 @@
         "id": "MK/SE11-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-02": {
     "name": "目ざといネロ",
@@ -33,7 +34,8 @@
         "id": "MK/SE11-02",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-03": {
     "name": "やる気のネロ",
@@ -51,7 +53,8 @@
         "id": "MK/SE11-03",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE11-04": {
     "name": "サンタのエリー",
@@ -69,7 +72,8 @@
         "id": "MK/SE11-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-05": {
     "name": "お宝発見なう 咲",
@@ -87,7 +91,8 @@
         "id": "MK/SE11-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-06": {
     "name": "やまとなでしこ 平乃",
@@ -105,7 +110,8 @@
         "id": "MK/SE11-06",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-07": {
     "name": "待ちぼうけ 平乃",
@@ -123,7 +129,8 @@
         "id": "MK/SE11-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-08": {
     "name": "いいカンジな咲",
@@ -141,7 +148,8 @@
         "id": "MK/SE11-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-09": {
     "name": "“マシンガン”エリー",
@@ -159,7 +167,8 @@
         "id": "MK/SE11-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-10": {
     "name": "お願いするエリー",
@@ -177,7 +186,8 @@
         "id": "MK/SE11-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE11-11": {
     "name": "不敵な微笑 平乃",
@@ -195,7 +205,8 @@
         "id": "MK/SE11-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE11-12": {
     "name": "いたずら好きな魔女 咲",
@@ -213,7 +224,8 @@
         "id": "MK/SE11-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE11-13": {
     "name": "棺桶の恐怖",
@@ -231,7 +243,8 @@
         "id": "MK/SE11-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK/SE11-14": {
     "name": "G4の司令塔 小衣",
@@ -249,7 +262,8 @@
         "id": "MK/SE11-14",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-15": {
     "name": "ドレス姿の小衣",
@@ -267,7 +281,8 @@
         "id": "MK/SE11-15",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-16": {
     "name": "“出席番号G-4”小衣",
@@ -285,7 +300,8 @@
         "id": "MK/SE11-16",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-17": {
     "name": "昼下がりの次子",
@@ -303,7 +319,8 @@
         "id": "MK/SE11-17",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-18": {
     "name": "ドレス姿のシャロ",
@@ -321,7 +338,8 @@
         "id": "MK/SE11-18",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE11-19": {
     "name": "“ヨコハマの守護者”小衣",
@@ -339,7 +357,8 @@
         "id": "MK/SE11-19",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE11-20": {
     "name": "正義の“警察官”小衣",
@@ -357,7 +376,8 @@
         "id": "MK/SE11-20",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE11-21": {
     "name": "アイリーン・ドアラー",
@@ -375,7 +395,8 @@
         "id": "MK/SE11-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-22": {
     "name": "ネコミミメイド シャロ",
@@ -393,7 +414,8 @@
         "id": "MK/SE11-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-23": {
     "name": "駄々っ子 小衣",
@@ -411,7 +433,8 @@
         "id": "MK/SE11-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-24": {
     "name": "マーロ国の王女 クラリス",
@@ -429,7 +452,8 @@
         "id": "MK/SE11-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-25": {
     "name": "江戸っ子 次子",
@@ -447,7 +471,8 @@
         "id": "MK/SE11-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-26": {
     "name": "“滅びの言葉”シャロ",
@@ -465,7 +490,8 @@
         "id": "MK/SE11-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-27": {
     "name": "トランス系アイドル KoKoRo",
@@ -483,7 +509,8 @@
         "id": "MK/SE11-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-28": {
     "name": "来栖 ソニア",
@@ -501,7 +528,8 @@
         "id": "MK/SE11-28",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE11-29": {
     "name": "おねだり 小衣",
@@ -519,7 +547,8 @@
         "id": "MK/SE11-29",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-30": {
     "name": "グラマー娘 次子",
@@ -537,7 +566,8 @@
         "id": "MK/SE11-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE11-31": {
     "name": "バリツの秘密",
@@ -555,7 +585,8 @@
         "id": "MK/SE11-31",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK/SE11-32": {
     "name": "ココロノエデン",
@@ -573,7 +604,8 @@
         "id": "MK/SE11-32",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK/SE11-33": {
     "name": "最新Ｇ型シールド",
@@ -591,7 +623,8 @@
         "id": "MK/SE11-33",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-34": {
     "name": "お料理講師 コーデリア",
@@ -609,7 +642,8 @@
         "id": "MK/SE11-34",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE11-35": {
     "name": "謎に詰め寄るコーデリア",
@@ -627,7 +661,8 @@
         "id": "MK/SE11-35",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE11-36": {
     "name": "武闘派探偵 コーデリア",
@@ -645,6 +680,7 @@
         "id": "MK/SE11-36",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

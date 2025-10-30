@@ -15,7 +15,8 @@
         "id": "PP/SE14-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PP/SE14-02": {
     "name": "追い求める先 狡噛",
@@ -33,7 +34,8 @@
         "id": "PP/SE14-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PP/SE14-03": {
     "name": "“潜在犯”狡噛",
@@ -51,7 +53,8 @@
         "id": "PP/SE14-03",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PP/SE14-04": {
     "name": "常守 朱",
@@ -69,7 +72,8 @@
         "id": "PP/SE14-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PP/SE14-05": {
     "name": "狡噛 慎也",
@@ -87,7 +91,8 @@
         "id": "PP/SE14-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PP/SE14-06": {
     "name": "宜野座 伸元",
@@ -105,7 +110,8 @@
         "id": "PP/SE14-06",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PP/SE14-07": {
     "name": "“レモネードキャンディ”朱",
@@ -123,7 +129,8 @@
         "id": "PP/SE14-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PP/SE14-08": {
     "name": "六合塚 弥生",
@@ -141,7 +148,8 @@
         "id": "PP/SE14-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PP/SE14-09": {
     "name": "唐之杜 志恩",
@@ -159,7 +167,8 @@
         "id": "PP/SE14-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PP/SE14-10": {
     "name": "執行官 狡噛",
@@ -177,7 +186,8 @@
         "id": "PP/SE14-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PP/SE14-11": {
     "name": "“ハウンドthree”狡噛",
@@ -195,7 +205,8 @@
         "id": "PP/SE14-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PP/SE14-12": {
     "name": "トレーニング中の狡噛",
@@ -213,7 +224,8 @@
         "id": "PP/SE14-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PP/SE14-13": {
     "name": "縢 秀星",
@@ -231,7 +243,8 @@
         "id": "PP/SE14-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PP/SE14-14": {
     "name": "捜査への執念 狡噛",
@@ -249,7 +262,8 @@
         "id": "PP/SE14-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PP/SE14-15": {
     "name": "監視官としての資質 朱",
@@ -267,7 +281,8 @@
         "id": "PP/SE14-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PP/SE14-16": {
     "name": "監視官時代の狡噛",
@@ -285,7 +300,8 @@
         "id": "PP/SE14-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PP/SE14-17": {
     "name": "征陸 智己",
@@ -303,7 +319,8 @@
         "id": "PP/SE14-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PP/SE14-18": {
     "name": "深淵を見つめる狡噛",
@@ -321,7 +338,8 @@
         "id": "PP/SE14-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PP/SE14-19": {
     "name": "薔薇の花束 狡噛",
@@ -339,7 +357,8 @@
         "id": "PP/SE14-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PP/SE14-20": {
     "name": "選ばれた存在",
@@ -357,7 +376,8 @@
         "id": "PP/SE14-20",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PP/SE14-21": {
     "name": "運命的な邂逅",
@@ -375,7 +395,8 @@
         "id": "PP/SE14-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PP/SE14-22": {
     "name": "公安局刑事課一係",
@@ -393,7 +414,8 @@
         "id": "PP/SE14-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PP/SE14-23": {
     "name": "冷徹な眼差し 槙島",
@@ -411,7 +433,8 @@
         "id": "PP/SE14-23",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PP/SE14-24": {
     "name": "“聖者の微笑”槙島",
@@ -429,7 +452,8 @@
         "id": "PP/SE14-24",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PP/SE14-25": {
     "name": "チェ・グソン",
@@ -447,7 +471,8 @@
         "id": "PP/SE14-25",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PP/SE14-26": {
     "name": "“免罪体質者”槙島",
@@ -465,7 +490,8 @@
         "id": "PP/SE14-26",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PP/SE14-27": {
     "name": "槙島 聖護",
@@ -483,7 +509,8 @@
         "id": "PP/SE14-27",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PP/SE14-28": {
     "name": "研ぎ澄まされた知性 槙島",
@@ -501,7 +528,8 @@
         "id": "PP/SE14-28",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PP/SE14-29": {
     "name": "謎の男 槙島",
@@ -519,7 +547,8 @@
         "id": "PP/SE14-29",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PP/SE14-30": {
     "name": "管理社会への反抗 槙島",
@@ -537,7 +566,8 @@
         "id": "PP/SE14-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PP/SE14-31": {
     "name": "一輪の薔薇 槙島",
@@ -555,7 +585,8 @@
         "id": "PP/SE14-31",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PP/SE14-32": {
     "name": "美術教師に紛れた槙島",
@@ -573,7 +604,8 @@
         "id": "PP/SE14-32",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PP/SE14-33": {
     "name": "深淵なる洞察力 槙島",
@@ -591,7 +623,8 @@
         "id": "PP/SE14-33",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PP/SE14-34": {
     "name": "シビュラシステム",
@@ -609,7 +642,8 @@
         "id": "PP/SE14-34",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PP/SE14-35": {
     "name": "対峙するふたり",
@@ -627,7 +661,8 @@
         "id": "PP/SE14-35",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PP/SE14-36": {
     "name": "裁けない罪",
@@ -645,6 +680,7 @@
         "id": "PP/SE14-36",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

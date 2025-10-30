@@ -19,7 +19,8 @@
         "id": "ND/W67-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-002": {
     "name": "結界防衛戦 フェイト",
@@ -41,7 +42,8 @@
         "id": "ND/W67-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-003": {
     "name": "バニーガール フェイト",
@@ -63,7 +65,8 @@
         "id": "ND/W67-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-004": {
     "name": "時空管理局嘱託 フェイト",
@@ -85,7 +88,8 @@
         "id": "ND/W67-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-005": {
     "name": "戦いの行方 フェイト",
@@ -107,7 +111,8 @@
         "id": "ND/W67-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-006": {
     "name": "それぞれの戦い フェイト",
@@ -129,7 +134,8 @@
         "id": "ND/W67-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-007": {
     "name": "友達の元へ フェイト",
@@ -147,7 +153,8 @@
         "id": "ND/W67-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-008": {
     "name": "空戦魔導師 フェイト",
@@ -165,7 +172,8 @@
         "id": "ND/W67-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-009": {
     "name": "お別れの挨拶 フェイト",
@@ -183,7 +191,8 @@
         "id": "ND/W67-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-010": {
     "name": "頼れる助っ人 フェイト",
@@ -201,7 +210,8 @@
         "id": "ND/W67-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-011": {
     "name": "戦いの果てに フェイト",
@@ -219,7 +229,8 @@
         "id": "ND/W67-011",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-012": {
     "name": "海上の攻防 シグナム",
@@ -237,7 +248,8 @@
         "id": "ND/W67-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-013": {
     "name": "状況の把握 シグナム",
@@ -255,7 +267,8 @@
         "id": "ND/W67-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-014": {
     "name": "思いやりの心",
@@ -273,7 +286,8 @@
         "id": "ND/W67-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-015": {
     "name": "頼もしい味方",
@@ -295,7 +309,8 @@
         "id": "ND/W67-015R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-016": {
     "name": "大切な人",
@@ -313,7 +328,8 @@
         "id": "ND/W67-016",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "ND/W67-017": {
     "name": "手負いのクロノ",
@@ -331,7 +347,8 @@
         "id": "ND/W67-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-018": {
     "name": "ふり絞る力 アミタ",
@@ -353,7 +370,8 @@
         "id": "ND/W67-018SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-019": {
     "name": "戦いの行方 アミタ",
@@ -375,7 +393,8 @@
         "id": "ND/W67-019SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-020": {
     "name": "明日への一歩 なのは",
@@ -397,7 +416,8 @@
         "id": "ND/W67-020SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-021": {
     "name": "守るべき大切なもの なのは",
@@ -419,7 +439,8 @@
         "id": "ND/W67-021SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-022": {
     "name": "戦いの行方 なのは",
@@ -441,7 +462,8 @@
         "id": "ND/W67-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-023": {
     "name": "助けるための力ずく なのは",
@@ -463,7 +485,8 @@
         "id": "ND/W67-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-024": {
     "name": "バニーガール なのは",
@@ -485,7 +508,8 @@
         "id": "ND/W67-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-025": {
     "name": "警告の呼びかけ なのは",
@@ -503,7 +527,8 @@
         "id": "ND/W67-025",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-026": {
     "name": "時空管理局嘱託 なのは",
@@ -525,7 +550,8 @@
         "id": "ND/W67-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-027": {
     "name": "励ましの言葉 アミタ",
@@ -547,7 +573,8 @@
         "id": "ND/W67-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-028": {
     "name": "それぞれの戦い なのは",
@@ -569,7 +596,8 @@
         "id": "ND/W67-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-029": {
     "name": "それぞれの戦い アミタ",
@@ -591,7 +619,8 @@
         "id": "ND/W67-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-030": {
     "name": "一撃に込めて なのは",
@@ -609,7 +638,8 @@
         "id": "ND/W67-030",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-031": {
     "name": "首謀者との対峙 アミタ",
@@ -627,7 +657,8 @@
         "id": "ND/W67-031",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-032": {
     "name": "海上の攻防 アミタ",
@@ -645,7 +676,8 @@
         "id": "ND/W67-032",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-033": {
     "name": "限界を超えた力 なのは",
@@ -663,7 +695,8 @@
         "id": "ND/W67-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-034": {
     "name": "事態収束 ヴィータ",
@@ -681,7 +714,8 @@
         "id": "ND/W67-034",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-035": {
     "name": "緑豊かな星で アミタ",
@@ -699,7 +733,8 @@
         "id": "ND/W67-035",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-036": {
     "name": "海上の攻防 なのは",
@@ -717,7 +752,8 @@
         "id": "ND/W67-036",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-037": {
     "name": "魔法の先生 ユーノ",
@@ -735,7 +771,8 @@
         "id": "ND/W67-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-038": {
     "name": "結界防衛戦 ヴィータ",
@@ -753,7 +790,8 @@
         "id": "ND/W67-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-039": {
     "name": "ヴァリアントザッパー",
@@ -771,7 +809,8 @@
         "id": "ND/W67-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-040": {
     "name": "魔法の使い道",
@@ -793,7 +832,8 @@
         "id": "ND/W67-040R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-041": {
     "name": "戦う理由",
@@ -811,7 +851,8 @@
         "id": "ND/W67-041",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-042": {
     "name": "ダブルシュートッ！",
@@ -833,7 +874,8 @@
         "id": "ND/W67-042R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-043": {
     "name": "フォーミュラとの融合",
@@ -851,7 +893,8 @@
         "id": "ND/W67-043",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-044": {
     "name": "戦いの行方 キリエ",
@@ -873,7 +916,8 @@
         "id": "ND/W67-044SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-045": {
     "name": "殲滅の白い光 はやて",
@@ -895,7 +939,8 @@
         "id": "ND/W67-045SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-046": {
     "name": "明日を切り拓く一撃 ディアーチェ",
@@ -917,7 +962,8 @@
         "id": "ND/W67-046SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-047": {
     "name": "宝物の時間 キリエ",
@@ -939,7 +985,8 @@
         "id": "ND/W67-047SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-048": {
     "name": "“エルトリアの猫”レヴィ",
@@ -957,7 +1004,8 @@
         "id": "ND/W67-048",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-049": {
     "name": "それぞれの戦い キリエ",
@@ -979,7 +1027,8 @@
         "id": "ND/W67-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-050": {
     "name": "平穏な日常 イリス",
@@ -1001,7 +1050,8 @@
         "id": "ND/W67-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-051": {
     "name": "平穏な日常 シュテル",
@@ -1023,7 +1073,8 @@
         "id": "ND/W67-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-052": {
     "name": "“エルトリアの猫”シュテル",
@@ -1041,7 +1092,8 @@
         "id": "ND/W67-052",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-053": {
     "name": "平穏な日常 レヴィ",
@@ -1063,7 +1115,8 @@
         "id": "ND/W67-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-054": {
     "name": "共同戦線 はやて",
@@ -1085,7 +1138,8 @@
         "id": "ND/W67-054SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-055": {
     "name": "戦いの行方 はやて",
@@ -1103,7 +1157,8 @@
         "id": "ND/W67-055",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-056": {
     "name": "時空管理局本局所属 はやて",
@@ -1125,7 +1180,8 @@
         "id": "ND/W67-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-057": {
     "name": "戦いの行方 ディアーチェ",
@@ -1147,7 +1203,8 @@
         "id": "ND/W67-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-058": {
     "name": "それぞれの戦い はやて",
@@ -1165,7 +1222,8 @@
         "id": "ND/W67-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-059": {
     "name": "秘められた過去 ユーリ",
@@ -1183,7 +1241,8 @@
         "id": "ND/W67-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-060": {
     "name": "止められない計画 イリス",
@@ -1201,7 +1260,8 @@
         "id": "ND/W67-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-061": {
     "name": "平穏な日常 ユーリ",
@@ -1219,7 +1279,8 @@
         "id": "ND/W67-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-062": {
     "name": "平穏な日常 ディアーチェ",
@@ -1237,7 +1298,8 @@
         "id": "ND/W67-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-063": {
     "name": "結界防衛戦 シャマル",
@@ -1255,7 +1317,8 @@
         "id": "ND/W67-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-064": {
     "name": "忘れ得ぬ出来事 ユーリ",
@@ -1273,7 +1336,8 @@
         "id": "ND/W67-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-065": {
     "name": "幼少期のイリス",
@@ -1291,7 +1355,8 @@
         "id": "ND/W67-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-066": {
     "name": "“嘘の友達”イリス",
@@ -1309,7 +1374,8 @@
         "id": "ND/W67-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-067": {
     "name": "お別れの挨拶 レヴィ",
@@ -1327,7 +1393,8 @@
         "id": "ND/W67-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-068": {
     "name": "素直でまっすぐ レヴィ",
@@ -1345,7 +1412,8 @@
         "id": "ND/W67-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-069": {
     "name": "ウロボロス発動準備 リイン",
@@ -1363,7 +1431,8 @@
         "id": "ND/W67-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-070": {
     "name": "お別れの挨拶 シュテル",
@@ -1381,7 +1450,8 @@
         "id": "ND/W67-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-071": {
     "name": "冷酷な復讐 イリス",
@@ -1399,7 +1469,8 @@
         "id": "ND/W67-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-072": {
     "name": "励ましの言葉 キリエ",
@@ -1417,7 +1488,8 @@
         "id": "ND/W67-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-073": {
     "name": "衛星砲型イリス",
@@ -1435,7 +1507,8 @@
         "id": "ND/W67-073",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-074": {
     "name": "想いと共に ディアーチェ",
@@ -1453,7 +1526,8 @@
         "id": "ND/W67-074",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-075": {
     "name": "歪んだ理想 フィル",
@@ -1471,7 +1545,8 @@
         "id": "ND/W67-075",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-076": {
     "name": "生体型テラフォーミングユニット イリス",
@@ -1489,7 +1564,8 @@
         "id": "ND/W67-076",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-077": {
     "name": "余裕と自信 フィル",
@@ -1507,7 +1583,8 @@
         "id": "ND/W67-077",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-078": {
     "name": "“戦況を動かす力”はやて",
@@ -1525,7 +1602,8 @@
         "id": "ND/W67-078",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-079": {
     "name": "結界防衛戦 ザフィーラ",
@@ -1543,7 +1621,8 @@
         "id": "ND/W67-079",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-080": {
     "name": "バニーガール はやて",
@@ -1561,7 +1640,8 @@
         "id": "ND/W67-080",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-081": {
     "name": "“エルトリアの猫”ディアーチェ",
@@ -1579,7 +1659,8 @@
         "id": "ND/W67-081",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-082": {
     "name": "予期せぬ出会い はやて",
@@ -1597,7 +1678,8 @@
         "id": "ND/W67-082",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-083": {
     "name": "量産型イリス",
@@ -1615,7 +1697,8 @@
         "id": "ND/W67-083",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-084": {
     "name": "戦い終わって ユーリ",
@@ -1633,7 +1716,8 @@
         "id": "ND/W67-084",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-085": {
     "name": "緑豊かな星で キリエ",
@@ -1651,7 +1735,8 @@
         "id": "ND/W67-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-086": {
     "name": "“どう思われていても”キリエ",
@@ -1669,7 +1754,8 @@
         "id": "ND/W67-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-087": {
     "name": "エルトリアの希望 ユーリ",
@@ -1687,7 +1773,8 @@
         "id": "ND/W67-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-088": {
     "name": "エクスカベータ",
@@ -1705,7 +1792,8 @@
         "id": "ND/W67-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-089": {
     "name": "冷静な分析 シュテル",
@@ -1723,7 +1811,8 @@
         "id": "ND/W67-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-090": {
     "name": "暖かな日々 ユーリ",
@@ -1741,7 +1830,8 @@
         "id": "ND/W67-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-091": {
     "name": "決意の眼差し キリエ",
@@ -1759,7 +1849,8 @@
         "id": "ND/W67-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-092": {
     "name": "過去を探る鍵 レヴィ",
@@ -1777,7 +1868,8 @@
         "id": "ND/W67-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-093": {
     "name": "主人への恩返し シュテル",
@@ -1795,7 +1887,8 @@
         "id": "ND/W67-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-094": {
     "name": "操られた意思 ユーリ",
@@ -1813,7 +1906,8 @@
         "id": "ND/W67-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-095": {
     "name": "我等が渾身の恩返し",
@@ -1835,7 +1929,8 @@
         "id": "ND/W67-095R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-096": {
     "name": "一瞬の制圧",
@@ -1857,7 +1952,8 @@
         "id": "ND/W67-096R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-097": {
     "name": "2人の想い出",
@@ -1879,7 +1975,8 @@
         "id": "ND/W67-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ND/W67-098": {
     "name": "エルトリアの再生",
@@ -1901,7 +1998,8 @@
         "id": "ND/W67-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ND/W67-099": {
     "name": "惨劇の記憶",
@@ -1919,7 +2017,8 @@
         "id": "ND/W67-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "ND/W67-100": {
     "name": "フィルの切り札",
@@ -1937,6 +2036,7 @@
         "id": "ND/W67-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

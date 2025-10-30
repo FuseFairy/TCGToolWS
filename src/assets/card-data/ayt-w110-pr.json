@@ -15,7 +15,8 @@
         "id": "AYT/W110-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-102": {
     "name": "ちびルーシー",
@@ -33,7 +34,8 @@
         "id": "AYT/W110-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AYT/W110-103": {
     "name": "ちび恋緒",
@@ -51,7 +53,8 @@
         "id": "AYT/W110-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-104": {
     "name": "ちびすず",
@@ -69,7 +72,8 @@
         "id": "AYT/W110-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-105": {
     "name": "ちび弥生",
@@ -87,7 +91,8 @@
         "id": "AYT/W110-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-P01": {
     "name": "幼馴染みの二人 祭里＆すず",
@@ -109,7 +114,8 @@
         "id": "AYT/W110-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AYT/W110-P02": {
     "name": "ひとまずの日常 祭里",
@@ -127,6 +133,7 @@
         "id": "AYT/W110-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

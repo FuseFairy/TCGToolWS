@@ -19,7 +19,8 @@
         "id": "Gtd/WS02-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gtd/WS02-T08": {
     "name": "それぞれの想い 実乃梨＆大河＆亜美",
@@ -41,7 +42,8 @@
         "id": "Gtd/WS02-T08SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gtd/WS02-T11": {
     "name": "トラの休息",
@@ -63,6 +65,7 @@
         "id": "Gtd/WS02-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

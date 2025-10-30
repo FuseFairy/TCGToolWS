@@ -15,7 +15,8 @@
         "id": "DC3/WE20-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE20-08": {
     "name": "夏の思い出 姫乃",
@@ -37,7 +38,8 @@
         "id": "DC3/WE20-08SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE20-09": {
     "name": "新入生歓迎！ 立夏",
@@ -59,7 +61,8 @@
         "id": "DC3/WE20-09SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WE20-10": {
     "name": "新入部員 さら",
@@ -81,7 +84,8 @@
         "id": "DC3/WE20-10SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE20-20": {
     "name": "食欲の秋 シャルル",
@@ -99,7 +103,8 @@
         "id": "DC3/WE20-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE20-22": {
     "name": "水着の四季",
@@ -117,7 +122,8 @@
         "id": "DC3/WE20-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE20-23": {
     "name": "水着の美琴",
@@ -135,7 +141,8 @@
         "id": "DC3/WE20-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE20-26": {
     "name": "謎多きの少女 葵",
@@ -153,7 +160,8 @@
         "id": "DC3/WE20-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE20-27": {
     "name": "ほんわかお姉さん さくら",
@@ -171,7 +179,8 @@
         "id": "DC3/WE20-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE20-28": {
     "name": "可愛い部長 陽子",
@@ -189,7 +198,8 @@
         "id": "DC3/WE20-28",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WE20-29": {
     "name": "笑顔のために すもも",
@@ -207,6 +217,7 @@
         "id": "DC3/WE20-29",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

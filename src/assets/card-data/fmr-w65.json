@@ -19,7 +19,8 @@
         "id": "Fmr/W65-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fmr/W65-027": {
     "name": "剣術の達人 凜",
@@ -41,7 +42,8 @@
         "id": "Fmr/W65-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fmr/W65-033": {
     "name": "気高き令嬢 玖里子",
@@ -59,7 +61,8 @@
         "id": "Fmr/W65-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fmr/W65-038": {
     "name": "秘めたる素質 和樹",
@@ -77,7 +80,8 @@
         "id": "Fmr/W65-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fmr/W65-039": {
     "name": "母子相伝の極意",
@@ -99,6 +103,7 @@
         "id": "Fmr/W65-039R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

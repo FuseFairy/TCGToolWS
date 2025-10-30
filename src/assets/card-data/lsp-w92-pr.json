@@ -15,7 +15,8 @@
         "id": "LSP/W92-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSP/W92-P02": {
     "name": "みんなを元気に 澁谷 かのん",
@@ -33,7 +34,8 @@
         "id": "LSP/W92-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSP/W92-P03": {
     "name": "新メンバー加入 かのん",
@@ -51,7 +53,8 @@
         "id": "LSP/W92-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSP/W92-P04": {
     "name": "新メンバー加入 可可",
@@ -69,7 +72,8 @@
         "id": "LSP/W92-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSP/W92-P05": {
     "name": "私たちの名は Liella!",
@@ -87,7 +91,8 @@
         "id": "LSP/W92-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSP/W92-P06": {
     "name": "スクールアイドル Liella!",
@@ -105,7 +110,8 @@
         "id": "LSP/W92-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSP/W92-P07": {
     "name": "結ヶ丘女子スクールアイドル部 Liella!",
@@ -123,7 +129,8 @@
         "id": "LSP/W92-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSP/W92-101": {
     "name": "幼少期 かのん",
@@ -141,7 +148,8 @@
         "id": "LSP/W92-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSP/W92-102": {
     "name": "グソクムシ役 すみれ",
@@ -159,7 +167,8 @@
         "id": "LSP/W92-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSP/W92-103": {
     "name": "幼少期 千砂都",
@@ -177,7 +186,8 @@
         "id": "LSP/W92-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSP/W92-104": {
     "name": "歌を届ける 可可",
@@ -195,7 +205,8 @@
         "id": "LSP/W92-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSP/W92-105": {
     "name": "幼少期 恋",
@@ -213,6 +224,7 @@
         "id": "LSP/W92-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

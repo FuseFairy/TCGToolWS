@@ -15,7 +15,8 @@
         "id": "MH/WE03-002",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MH/WE03-005": {
     "name": "アリカ・ユメミヤ",
@@ -33,7 +34,8 @@
         "id": "MH/WE03-005",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MH/WE03-006": {
     "name": "アリカ＆マシロ",
@@ -51,7 +53,8 @@
         "id": "MH/WE03-006",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MH/WE03-008": {
     "name": "元気っ子 命",
@@ -69,7 +72,8 @@
         "id": "MH/WE03-008",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MH/WE03-010": {
     "name": "舞衣＆アリカ",
@@ -87,7 +91,8 @@
         "id": "MH/WE03-010",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MH/WE03-011": {
     "name": "決意の舞衣",
@@ -105,7 +110,8 @@
         "id": "MH/WE03-011",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MH/WE03-012": {
     "name": "ミドリ",
@@ -123,7 +129,8 @@
         "id": "MH/WE03-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MH/WE03-014": {
     "name": "アリカ＆ニナ",
@@ -141,7 +148,8 @@
         "id": "MH/WE03-014",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MH/WE03-015": {
     "name": "ナツキ＆シズル",
@@ -159,7 +167,8 @@
         "id": "MH/WE03-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MH/WE03-016": {
     "name": "ニナ＆エルスティン",
@@ -177,7 +186,8 @@
         "id": "MH/WE03-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MH/WE03-017": {
     "name": "ニナ・ウォン",
@@ -195,7 +205,8 @@
         "id": "MH/WE03-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MH/WE03-018": {
     "name": "空を舞う乙女",
@@ -213,7 +224,8 @@
         "id": "MH/WE03-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MH/WE03-019": {
     "name": "封印された鬼神",
@@ -231,6 +243,7 @@
         "id": "MH/WE03-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

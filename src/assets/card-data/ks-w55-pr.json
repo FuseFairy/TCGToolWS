@@ -15,7 +15,8 @@
         "id": "KS/W55-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W55-P02": {
     "name": "“ダブルピース”アクア",
@@ -37,7 +38,8 @@
         "id": "KS/W55-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W55-P03": {
     "name": "“さらなる高みへ”めぐみん",
@@ -55,7 +57,8 @@
         "id": "KS/W55-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W55-P04": {
     "name": "“おうちに帰ろう”アクア＆めぐみん",
@@ -77,7 +80,8 @@
         "id": "KS/W55-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W55-101": {
     "name": "ぷちバニル",
@@ -95,7 +99,8 @@
         "id": "KS/W55-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W55-102": {
     "name": "ぷちウィズ",
@@ -113,7 +118,8 @@
         "id": "KS/W55-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W55-103": {
     "name": "ぷちゆんゆん",
@@ -131,7 +137,8 @@
         "id": "KS/W55-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W55-104": {
     "name": "ぷちエリス",
@@ -149,6 +156,7 @@
         "id": "KS/W55-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

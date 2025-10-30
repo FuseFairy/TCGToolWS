@@ -15,7 +15,8 @@
         "id": "RZ/SE35-01",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-02": {
     "name": "運命への抵抗 パック",
@@ -37,7 +38,8 @@
         "id": "RZ/SE35-02SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-03": {
     "name": "“氷結の絆”パック＆エミリア",
@@ -55,7 +57,8 @@
         "id": "RZ/SE35-03",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-04": {
     "name": "契約者と精霊 エミリア＆パック",
@@ -77,7 +80,8 @@
         "id": "RZ/SE35-04SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/SE35-05": {
     "name": "その時を信じて パック",
@@ -95,7 +99,8 @@
         "id": "RZ/SE35-05",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/SE35-06": {
     "name": "微精霊との契約 エミリア",
@@ -113,7 +118,8 @@
         "id": "RZ/SE35-06",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-07": {
     "name": "滑走アクション！ エミリア",
@@ -131,7 +137,8 @@
         "id": "RZ/SE35-07",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-08": {
     "name": "おちゃらけパック",
@@ -149,7 +156,8 @@
         "id": "RZ/SE35-08",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-09": {
     "name": "森の探検 エミリア",
@@ -167,7 +175,8 @@
         "id": "RZ/SE35-09",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-10": {
     "name": "“君のお父さん”パック",
@@ -185,7 +194,8 @@
         "id": "RZ/SE35-10",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-11": {
     "name": "独りぼっちのエミリア",
@@ -203,7 +213,8 @@
         "id": "RZ/SE35-11",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/SE35-12": {
     "name": "マナの放出 エミリア",
@@ -221,7 +232,8 @@
         "id": "RZ/SE35-12",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/SE35-13": {
     "name": "ほっとけない性分 エミリア",
@@ -239,7 +251,8 @@
         "id": "RZ/SE35-13",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/SE35-14": {
     "name": "“ただの”エミリア",
@@ -257,7 +270,8 @@
         "id": "RZ/SE35-14",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/SE35-15": {
     "name": "必死の抵抗 エミリア",
@@ -275,7 +289,8 @@
         "id": "RZ/SE35-15",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/SE35-16": {
     "name": "“星獣化”パック",
@@ -293,7 +308,8 @@
         "id": "RZ/SE35-16",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/SE35-17": {
     "name": "深まった絆 エミリア",
@@ -311,7 +327,8 @@
         "id": "RZ/SE35-17",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-18": {
     "name": "キラキラ採掘 エミリア",
@@ -329,7 +346,8 @@
         "id": "RZ/SE35-18",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-19": {
     "name": "二人の出会い エミリア",
@@ -347,7 +365,8 @@
         "id": "RZ/SE35-19",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-20": {
     "name": "実力者 パック",
@@ -365,7 +384,8 @@
         "id": "RZ/SE35-20",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-21": {
     "name": "“ボクの名前を呼んで”パック",
@@ -383,7 +403,8 @@
         "id": "RZ/SE35-21",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/SE35-22": {
     "name": "お仕置きの時間 パック",
@@ -401,7 +422,8 @@
         "id": "RZ/SE35-22",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/SE35-23": {
     "name": "外への誘い パック",
@@ -419,7 +441,8 @@
         "id": "RZ/SE35-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-24": {
     "name": "森の探検 パック",
@@ -437,7 +460,8 @@
         "id": "RZ/SE35-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-25": {
     "name": "昔を偲ぶエミリア",
@@ -455,7 +479,8 @@
         "id": "RZ/SE35-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-26": {
     "name": "村への訪問 エミリア",
@@ -473,7 +498,8 @@
         "id": "RZ/SE35-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-27": {
     "name": "不穏な予感 パック",
@@ -491,7 +517,8 @@
         "id": "RZ/SE35-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-28": {
     "name": "みんながいる今 エミリア",
@@ -509,7 +536,8 @@
         "id": "RZ/SE35-28",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-29": {
     "name": "理不尽な弾劾 エミリア",
@@ -527,7 +555,8 @@
         "id": "RZ/SE35-29",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-30": {
     "name": "“ずっとそばにいる”パック",
@@ -545,7 +574,8 @@
         "id": "RZ/SE35-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-31": {
     "name": "誓約と契約の両天秤 パック",
@@ -563,7 +593,8 @@
         "id": "RZ/SE35-31",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-32": {
     "name": "森の暮らし エミリア",
@@ -581,7 +612,8 @@
         "id": "RZ/SE35-32",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-33": {
     "name": "親切心からの忠告 エミリア",
@@ -599,7 +631,8 @@
         "id": "RZ/SE35-33",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-34": {
     "name": "迸る怒り パック",
@@ -617,7 +650,8 @@
         "id": "RZ/SE35-34",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-35": {
     "name": "夕陽に染まるエミリア",
@@ -635,7 +669,8 @@
         "id": "RZ/SE35-35",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/SE35-36": {
     "name": "エミリアへの想い パック",
@@ -653,7 +688,8 @@
         "id": "RZ/SE35-36",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/SE35-37": {
     "name": "氷の花",
@@ -671,7 +707,8 @@
         "id": "RZ/SE35-37",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-38": {
     "name": "キラキラ石",
@@ -689,7 +726,8 @@
         "id": "RZ/SE35-38",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-39": {
     "name": "神聖な問答",
@@ -707,7 +745,8 @@
         "id": "RZ/SE35-39",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-40": {
     "name": "二人のこれから",
@@ -725,7 +764,8 @@
         "id": "RZ/SE35-40",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-41": {
     "name": "二人の出会い",
@@ -743,7 +783,8 @@
         "id": "RZ/SE35-41",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-42": {
     "name": "大精霊の激突",
@@ -761,7 +802,8 @@
         "id": "RZ/SE35-42",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-43": {
     "name": "袴姿のラム",
@@ -783,7 +825,8 @@
         "id": "RZ/SE35-43SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-44": {
     "name": "森に現れた賊 チャップ",
@@ -801,7 +844,8 @@
         "id": "RZ/SE35-44",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-45": {
     "name": "“調停者”メラクェラ",
@@ -819,7 +863,8 @@
         "id": "RZ/SE35-45",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/SE35-46": {
     "name": "黒水",
@@ -837,7 +882,8 @@
         "id": "RZ/SE35-46",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-47": {
     "name": "“四大”メラクェラ",
@@ -855,7 +901,8 @@
         "id": "RZ/SE35-47",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/SE35-48": {
     "name": "復讐者 チャップ",
@@ -873,7 +920,8 @@
         "id": "RZ/SE35-48",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RZ/SE35-49": {
     "name": "焼き尽くす劫火",
@@ -891,7 +939,8 @@
         "id": "RZ/SE35-49",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RZ/SE35-50": {
     "name": "袴姿のレム",
@@ -913,6 +962,7 @@
         "id": "RZ/SE35-50SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

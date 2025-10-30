@@ -15,7 +15,8 @@
         "id": "P3/S01-21T",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/S01-101": {
     "name": "“死神”タナトス",
@@ -37,7 +38,8 @@
         "id": "P3/S01-101P",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P3/S01-102": {
     "name": "雪に戯れる慎と洵",
@@ -55,7 +57,8 @@
         "id": "P3/S01-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/S01-103": {
     "name": "兄弟の絆",
@@ -73,7 +76,8 @@
         "id": "P3/S01-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P3/S01-104": {
     "name": "主人公＆ゆかり",
@@ -91,7 +95,8 @@
         "id": "P3/S01-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/S01-105": {
     "name": "機械の姉妹",
@@ -109,7 +114,8 @@
         "id": "P3/S01-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/S01-106": {
     "name": "慎＆真田",
@@ -127,7 +133,8 @@
         "id": "P3/S01-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/S01-107": {
     "name": "諒＆真田",
@@ -145,7 +152,8 @@
         "id": "P3/S01-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/S01-108": {
     "name": "守本 叶鳴",
@@ -163,7 +171,8 @@
         "id": "P3/S01-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/S01-109": {
     "name": "洵＆結祈",
@@ -181,7 +190,8 @@
         "id": "P3/S01-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/S01-110": {
     "name": "決意の美鶴",
@@ -199,7 +209,8 @@
         "id": "P3/S01-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/S01-111": {
     "name": "“無限の可能性”主人公",
@@ -217,7 +228,8 @@
         "id": "P3/S01-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/S01-112": {
     "name": "乙女な機械 アイギス",
@@ -235,6 +247,7 @@
         "id": "P3/S01-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

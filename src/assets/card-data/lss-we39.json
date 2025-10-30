@@ -23,7 +23,8 @@
         "id": "LSS/WE39-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE39-005": {
     "name": "堕天使の雨 津島 善子",
@@ -49,7 +50,8 @@
         "id": "LSS/WE39-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE39-007": {
     "name": "願いが届くといいな♪ 国木田 花丸",
@@ -75,7 +77,8 @@
         "id": "LSS/WE39-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE39-009": {
     "name": "“ルビィのお墨付き”黒澤 ルビィ",
@@ -101,7 +104,8 @@
         "id": "LSS/WE39-009SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE39-012": {
     "name": "あなたのひざまくらがいいなぁ 黒澤 ルビィ",
@@ -127,7 +131,8 @@
         "id": "LSS/WE39-012SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE39-014": {
     "name": "“眷属を創造せし力”津島 善子",
@@ -153,7 +158,8 @@
         "id": "LSS/WE39-014SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE39-026": {
     "name": "全速前進っ!! 渡辺 曜",
@@ -179,7 +185,8 @@
         "id": "LSS/WE39-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE39-029": {
     "name": "“ぴよぴよメロディ♪”桜内 梨子",
@@ -205,7 +212,8 @@
         "id": "LSS/WE39-029SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE39-035": {
     "name": "あなたのハートを狙い撃ち♪ 高海 千歌",
@@ -231,7 +239,8 @@
         "id": "LSS/WE39-035SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE39-036": {
     "name": "“エネルギーをわけよう”渡辺 曜",
@@ -257,7 +266,8 @@
         "id": "LSS/WE39-036SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE39-039": {
     "name": "“生きてるんだ！”高海 千歌",
@@ -283,7 +293,8 @@
         "id": "LSS/WE39-039SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE39-040": {
     "name": "Waiting for You 桜内 梨子",
@@ -309,7 +320,8 @@
         "id": "LSS/WE39-040SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LSS/WE39-044": {
     "name": "“思いを新たに”黒澤 ダイヤ",
@@ -335,7 +347,8 @@
         "id": "LSS/WE39-044SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE39-046": {
     "name": "Shall We Dance? 小原 鞠莉",
@@ -361,7 +374,8 @@
         "id": "LSS/WE39-046SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE39-051": {
     "name": "二人だけの秘密ね 松浦 果南",
@@ -387,7 +401,8 @@
         "id": "LSS/WE39-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE39-053": {
     "name": "“おしゃべりしましょう”小原 鞠莉",
@@ -413,7 +428,8 @@
         "id": "LSS/WE39-053SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE39-056": {
     "name": "ルージュにくちづけ 黒澤 ダイヤ",
@@ -439,7 +455,8 @@
         "id": "LSS/WE39-056SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LSS/WE39-058": {
     "name": "“春の潮風”松浦 果南",
@@ -465,6 +482,7 @@
         "id": "LSS/WE39-058SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

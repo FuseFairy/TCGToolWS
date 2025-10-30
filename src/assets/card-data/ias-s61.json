@@ -19,7 +19,8 @@
         "id": "IAS/S61-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S61-005": {
     "name": "ばっちりお姉ちゃん 高槻やよい",
@@ -41,7 +42,8 @@
         "id": "IAS/S61-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S61-011": {
     "name": "マジョっ子変身！ 双海亜美",
@@ -63,7 +65,8 @@
         "id": "IAS/S61-011SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S61-016": {
     "name": "デキるウェイトレス？ 双海真美",
@@ -85,7 +88,8 @@
         "id": "IAS/S61-016SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IAS/S61-018": {
     "name": "魅惑のプロポーション 三浦あずさ",
@@ -107,7 +111,8 @@
         "id": "IAS/S61-018SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IAS/S61-021": {
     "name": "いたずら双子・妹☆ 双海亜美",
@@ -129,7 +134,8 @@
         "id": "IAS/S61-021BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S61-022": {
     "name": "あふれる才能 星井美希",
@@ -151,7 +157,8 @@
         "id": "IAS/S61-022BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S61-027": {
     "name": "いたずら双子・姉☆ 双海真美",
@@ -173,7 +180,8 @@
         "id": "IAS/S61-027BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S61-029": {
     "name": "おっとり癒し系 三浦あずさ",
@@ -195,7 +203,8 @@
         "id": "IAS/S61-029BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S61-033": {
     "name": "全力元気！ 高槻やよい",
@@ -217,7 +226,8 @@
         "id": "IAS/S61-033BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S61-039": {
     "name": "星屑のシンフォニア",
@@ -239,7 +249,8 @@
         "id": "IAS/S61-039R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IAS/S61-044": {
     "name": "Good-Sleep，Baby♡",
@@ -261,7 +272,8 @@
         "id": "IAS/S61-044R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IAS/S61-045": {
     "name": "スイートプリンセス 天海春香",
@@ -283,7 +295,8 @@
         "id": "IAS/S61-045SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S61-050": {
     "name": "魔法の時間 菊地 真",
@@ -305,7 +318,8 @@
         "id": "IAS/S61-050SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S61-055": {
     "name": "余裕のお仕事♪ 我那覇 響",
@@ -327,7 +341,8 @@
         "id": "IAS/S61-055SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S61-061": {
     "name": "確かな信頼 萩原雪歩",
@@ -349,7 +364,8 @@
         "id": "IAS/S61-061SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IAS/S61-069": {
     "name": "一歩ずつの成長 萩原雪歩",
@@ -371,7 +387,8 @@
         "id": "IAS/S61-069BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S61-071": {
     "name": "カンペキ南国少女 我那覇 響",
@@ -393,7 +410,8 @@
         "id": "IAS/S61-071BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S61-075": {
     "name": "明るく前向き！ 天海春香",
@@ -415,7 +433,8 @@
         "id": "IAS/S61-075BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IAS/S61-077": {
     "name": "ハンサムガール 菊地 真",
@@ -437,7 +456,8 @@
         "id": "IAS/S61-077BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IAS/S61-081": {
     "name": "HOME, SWEET FRIENDSHIP",
@@ -459,7 +479,8 @@
         "id": "IAS/S61-081R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IAS/S61-083": {
     "name": "合言葉はスタートアップ！",
@@ -481,7 +502,8 @@
         "id": "IAS/S61-083R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IAS/S61-087": {
     "name": "Birth of Color",
@@ -503,7 +525,8 @@
         "id": "IAS/S61-087R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "IAS/S61-091": {
     "name": "夕映えに歌声を 如月千早",
@@ -525,7 +548,8 @@
         "id": "IAS/S61-091SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IAS/S61-096": {
     "name": "旅路でのひととき 四条貴音",
@@ -547,7 +571,8 @@
         "id": "IAS/S61-096SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S61-098": {
     "name": "夢の世界で 秋月律子",
@@ -569,7 +594,8 @@
         "id": "IAS/S61-098SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S61-101": {
     "name": "強気な女神 水瀬伊織",
@@ -591,7 +617,8 @@
         "id": "IAS/S61-101SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IAS/S61-105": {
     "name": "きっちりサポート 秋月律子",
@@ -613,7 +640,8 @@
         "id": "IAS/S61-105BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S61-106": {
     "name": "高飛車お嬢様 水瀬伊織",
@@ -635,7 +663,8 @@
         "id": "IAS/S61-106BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S61-108": {
     "name": "孤高の歌姫 如月千早",
@@ -657,7 +686,8 @@
         "id": "IAS/S61-108BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IAS/S61-111": {
     "name": "気高き王女 四条貴音",
@@ -679,7 +709,8 @@
         "id": "IAS/S61-111BNP",
         "rarity": "BNP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IAS/S61-124": {
     "name": "Eternal Harmony",
@@ -701,6 +732,7 @@
         "id": "IAS/S61-124R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

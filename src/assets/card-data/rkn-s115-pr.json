@@ -19,7 +19,8 @@
         "id": "RKN/S115-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RKN/S115-P02": {
     "name": "明治剣客浪漫譚",
@@ -37,6 +38,7 @@
         "id": "RKN/S115-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

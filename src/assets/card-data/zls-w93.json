@@ -19,7 +19,8 @@
         "id": "ZLS/W93-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-002": {
     "name": "二階堂 サキ",
@@ -41,7 +42,8 @@
         "id": "ZLS/W93-002SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-003": {
     "name": "星川 リリィ",
@@ -63,7 +65,8 @@
         "id": "ZLS/W93-003SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-004": {
     "name": "伝説の特攻隊長 二階堂サキ",
@@ -85,7 +88,8 @@
         "id": "ZLS/W93-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-005": {
     "name": "オーディション リリィ",
@@ -107,7 +111,8 @@
         "id": "ZLS/W93-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-006": {
     "name": "最高のライブ サキ",
@@ -129,7 +134,8 @@
         "id": "ZLS/W93-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-007": {
     "name": "最高のライブ 純子",
@@ -151,7 +157,8 @@
         "id": "ZLS/W93-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-008": {
     "name": "煌めくステージ サキ",
@@ -169,7 +176,8 @@
         "id": "ZLS/W93-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-009": {
     "name": "アンコールの前に サキ",
@@ -187,7 +195,8 @@
         "id": "ZLS/W93-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-010": {
     "name": "フランシュシュのリーダー サキ",
@@ -205,7 +214,8 @@
         "id": "ZLS/W93-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-011": {
     "name": "叶えてみせてよ、その夢を リリィ",
@@ -223,7 +233,8 @@
         "id": "ZLS/W93-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-012": {
     "name": "お手伝い リリィ",
@@ -241,7 +252,8 @@
         "id": "ZLS/W93-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-013": {
     "name": "私たちに出来る事 純子",
@@ -259,7 +271,8 @@
         "id": "ZLS/W93-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-014": {
     "name": "“リトルパラッポ”リリィ",
@@ -277,7 +290,8 @@
         "id": "ZLS/W93-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-015": {
     "name": "思い出話 純子",
@@ -295,7 +309,8 @@
         "id": "ZLS/W93-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-016": {
     "name": "諦めない強さ リリィ",
@@ -313,7 +328,8 @@
         "id": "ZLS/W93-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-017": {
     "name": "私たちに出来る事 リリィ",
@@ -331,7 +347,8 @@
         "id": "ZLS/W93-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-018": {
     "name": "大人になったら サキ",
@@ -349,7 +366,8 @@
         "id": "ZLS/W93-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-019": {
     "name": "ライブグッズ",
@@ -367,7 +385,8 @@
         "id": "ZLS/W93-019",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-020": {
     "name": "ロメロ",
@@ -385,7 +404,8 @@
         "id": "ZLS/W93-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-021": {
     "name": "風の強い日は嫌いか？",
@@ -407,7 +427,8 @@
         "id": "ZLS/W93-021R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-022": {
     "name": "なんこれ…",
@@ -425,7 +446,8 @@
         "id": "ZLS/W93-022",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-023": {
     "name": "満点の笑顔",
@@ -447,7 +469,8 @@
         "id": "ZLS/W93-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-024": {
     "name": "スーパートゥインクルスター",
@@ -465,7 +488,8 @@
         "id": "ZLS/W93-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-025": {
     "name": "水野 愛",
@@ -487,7 +511,8 @@
         "id": "ZLS/W93-025SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-026": {
     "name": "伝説の昭和のアイドル 紺野純子",
@@ -509,7 +534,8 @@
         "id": "ZLS/W93-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-027": {
     "name": "最高のライブ 愛",
@@ -531,7 +557,8 @@
         "id": "ZLS/W93-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-028": {
     "name": "“フランシュシュ”純子",
@@ -553,7 +580,8 @@
         "id": "ZLS/W93-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-029": {
     "name": "“フランシュシュ”ゆうぎり",
@@ -575,7 +603,8 @@
         "id": "ZLS/W93-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-030": {
     "name": "突然のゾンビばれ 純子",
@@ -593,7 +622,8 @@
         "id": "ZLS/W93-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-031": {
     "name": "楪 舞々",
@@ -611,7 +641,8 @@
         "id": "ZLS/W93-031",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-032": {
     "name": "突然の慰め 純子",
@@ -629,7 +660,8 @@
         "id": "ZLS/W93-032",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-033": {
     "name": "アンコールの前に 純子",
@@ -647,7 +679,8 @@
         "id": "ZLS/W93-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-034": {
     "name": "私たちに出来る事 愛",
@@ -665,7 +698,8 @@
         "id": "ZLS/W93-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-035": {
     "name": "アンコールの前に ゆうぎり",
@@ -683,7 +717,8 @@
         "id": "ZLS/W93-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-036": {
     "name": "夕食の準備 ゆうぎり",
@@ -701,7 +736,8 @@
         "id": "ZLS/W93-036",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-037": {
     "name": "元気になりたい時に 純子",
@@ -719,7 +755,8 @@
         "id": "ZLS/W93-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-038": {
     "name": "パジャマ姿 純子",
@@ -737,7 +774,8 @@
         "id": "ZLS/W93-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-039": {
     "name": "ライブ前のドタバタ ゆうぎり",
@@ -755,7 +793,8 @@
         "id": "ZLS/W93-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-040": {
     "name": "1日だけのアイドル 舞々",
@@ -773,7 +812,8 @@
         "id": "ZLS/W93-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-041": {
     "name": "大事なもの 愛",
@@ -791,7 +831,8 @@
         "id": "ZLS/W93-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-042": {
     "name": "修復中",
@@ -809,7 +850,8 @@
         "id": "ZLS/W93-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-043": {
     "name": "アイドルブームの火付け役",
@@ -831,7 +873,8 @@
         "id": "ZLS/W93-043R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-044": {
     "name": "50と4つの忘れ物",
@@ -849,7 +892,8 @@
         "id": "ZLS/W93-044",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-045": {
     "name": "ゆうぎり",
@@ -871,7 +915,8 @@
         "id": "ZLS/W93-045SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-046": {
     "name": "山田 たえ",
@@ -893,7 +938,8 @@
         "id": "ZLS/W93-046SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-047": {
     "name": "源 さくら",
@@ -915,7 +961,8 @@
         "id": "ZLS/W93-047SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-048": {
     "name": "帰り道 さくら",
@@ -937,7 +984,8 @@
         "id": "ZLS/W93-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-049": {
     "name": "最高のライブ たえ",
@@ -959,7 +1007,8 @@
         "id": "ZLS/W93-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-050": {
     "name": "“フランシュシュ”たえ",
@@ -981,7 +1030,8 @@
         "id": "ZLS/W93-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-051": {
     "name": "“フランシュシュ”さくら",
@@ -1003,7 +1053,8 @@
         "id": "ZLS/W93-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-052": {
     "name": "最高のライブ さくら",
@@ -1021,7 +1072,8 @@
         "id": "ZLS/W93-052",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-053": {
     "name": "最高のライブ ゆうぎり",
@@ -1043,7 +1095,8 @@
         "id": "ZLS/W93-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-054": {
     "name": "“フランシュシュ”サキ",
@@ -1065,7 +1118,8 @@
         "id": "ZLS/W93-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-055": {
     "name": "伝説の花魁 ゆうぎり",
@@ -1087,7 +1141,8 @@
         "id": "ZLS/W93-055SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-056": {
     "name": "あきらめん さくら",
@@ -1105,7 +1160,8 @@
         "id": "ZLS/W93-056",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-057": {
     "name": "煌めくステージ ゆうぎり",
@@ -1123,7 +1179,8 @@
         "id": "ZLS/W93-057",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-058": {
     "name": "巽 幸太郎",
@@ -1141,7 +1198,8 @@
         "id": "ZLS/W93-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-059": {
     "name": "外の世界 ゆうぎり",
@@ -1159,7 +1217,8 @@
         "id": "ZLS/W93-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-060": {
     "name": "飛び入り参加 たえ",
@@ -1177,7 +1236,8 @@
         "id": "ZLS/W93-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-061": {
     "name": "アンコールの前に さくら",
@@ -1195,7 +1255,8 @@
         "id": "ZLS/W93-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-062": {
     "name": "突然のゾンビばれ サキ",
@@ -1213,7 +1274,8 @@
         "id": "ZLS/W93-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-063": {
     "name": "想いをぶつける相手 サキ",
@@ -1231,7 +1293,8 @@
         "id": "ZLS/W93-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-064": {
     "name": "門出の日 ゆうぎり",
@@ -1249,7 +1312,8 @@
         "id": "ZLS/W93-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-065": {
     "name": "余生を送る ゆうぎり",
@@ -1267,7 +1331,8 @@
         "id": "ZLS/W93-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-066": {
     "name": "私たちに出来る事 さくら",
@@ -1285,7 +1350,8 @@
         "id": "ZLS/W93-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-067": {
     "name": "ファイナルリベンジ サキ",
@@ -1303,7 +1369,8 @@
         "id": "ZLS/W93-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-068": {
     "name": "運命へのリベンジ",
@@ -1325,7 +1392,8 @@
         "id": "ZLS/W93-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-069": {
     "name": "部屋着でリラックス",
@@ -1347,7 +1415,8 @@
         "id": "ZLS/W93-069R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-070": {
     "name": "輝いて",
@@ -1365,7 +1434,8 @@
         "id": "ZLS/W93-070",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-071": {
     "name": "水着でバカンス",
@@ -1387,7 +1457,8 @@
         "id": "ZLS/W93-071R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-072": {
     "name": "導かれた出会い",
@@ -1405,7 +1476,8 @@
         "id": "ZLS/W93-072",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-073": {
     "name": "フランシュシュ１号 源さくら",
@@ -1427,7 +1499,8 @@
         "id": "ZLS/W93-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-074": {
     "name": "伝説の平成のアイドル 水野愛",
@@ -1449,7 +1522,8 @@
         "id": "ZLS/W93-074SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-075": {
     "name": "伝説の天才子役 星川リリィ",
@@ -1471,7 +1545,8 @@
         "id": "ZLS/W93-075SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-076": {
     "name": "“フランシュシュ”愛",
@@ -1493,7 +1568,8 @@
         "id": "ZLS/W93-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-077": {
     "name": "温かい声援 愛",
@@ -1511,7 +1587,8 @@
         "id": "ZLS/W93-077",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-078": {
     "name": "“フランシュシュ”リリィ",
@@ -1533,7 +1610,8 @@
         "id": "ZLS/W93-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-079": {
     "name": "伝説の山田たえ",
@@ -1555,7 +1633,8 @@
         "id": "ZLS/W93-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-080": {
     "name": "心からの感謝 さくら",
@@ -1573,7 +1652,8 @@
         "id": "ZLS/W93-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-081": {
     "name": "アンコールの前に 愛",
@@ -1591,7 +1671,8 @@
         "id": "ZLS/W93-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-082": {
     "name": "煌めくステージ たえ",
@@ -1609,7 +1690,8 @@
         "id": "ZLS/W93-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-083": {
     "name": "コンサート失敗の代償 愛",
@@ -1627,7 +1709,8 @@
         "id": "ZLS/W93-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-084": {
     "name": "コール＆レスポンス たえ",
@@ -1645,7 +1728,8 @@
         "id": "ZLS/W93-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-085": {
     "name": "アンコールの前に リリィ",
@@ -1663,7 +1747,8 @@
         "id": "ZLS/W93-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-086": {
     "name": "リベンジし続けてやる!!! さくら",
@@ -1681,7 +1766,8 @@
         "id": "ZLS/W93-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-087": {
     "name": "心を動かす言葉 愛",
@@ -1699,7 +1785,8 @@
         "id": "ZLS/W93-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-088": {
     "name": "強運 たえ",
@@ -1717,7 +1804,8 @@
         "id": "ZLS/W93-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-089": {
     "name": "私にはないもの リリィ",
@@ -1735,7 +1823,8 @@
         "id": "ZLS/W93-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-090": {
     "name": "自分でお化粧 たえ",
@@ -1753,7 +1842,8 @@
         "id": "ZLS/W93-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-091": {
     "name": "パジャマ姿 愛",
@@ -1771,7 +1861,8 @@
         "id": "ZLS/W93-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-092": {
     "name": "ムシャムシャ たえ",
@@ -1789,7 +1880,8 @@
         "id": "ZLS/W93-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-093": {
     "name": "命ばかけてやります さくら",
@@ -1807,7 +1899,8 @@
         "id": "ZLS/W93-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-094": {
     "name": "お使い中 たえ",
@@ -1825,7 +1918,8 @@
         "id": "ZLS/W93-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-095": {
     "name": "幸太郎の貯金箱",
@@ -1843,7 +1937,8 @@
         "id": "ZLS/W93-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-096": {
     "name": "思い出の赤い櫛",
@@ -1861,7 +1956,8 @@
         "id": "ZLS/W93-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-097": {
     "name": "可憐な花嫁",
@@ -1883,7 +1979,8 @@
         "id": "ZLS/W93-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-098": {
     "name": "目覚めRETURNER",
@@ -1901,7 +1998,8 @@
         "id": "ZLS/W93-098",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZLS/W93-099": {
     "name": "とんでもないお使い",
@@ -1923,7 +2021,8 @@
         "id": "ZLS/W93-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZLS/W93-100": {
     "name": "大切なのはやる気",
@@ -1941,6 +2040,7 @@
         "id": "ZLS/W93-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

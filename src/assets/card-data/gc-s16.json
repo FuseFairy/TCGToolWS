@@ -19,7 +19,8 @@
         "id": "GC/S16-001R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-002": {
     "name": "重要な選択 涯",
@@ -41,7 +42,8 @@
         "id": "GC/S16-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-003": {
     "name": "“第一感染者”真名",
@@ -59,7 +61,8 @@
         "id": "GC/S16-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-004": {
     "name": "桜満 真名",
@@ -77,7 +80,8 @@
         "id": "GC/S16-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-005": {
     "name": "運命を受け入れる涯",
@@ -95,7 +99,8 @@
         "id": "GC/S16-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-006": {
     "name": "共闘を誓う涯",
@@ -117,7 +122,8 @@
         "id": "GC/S16-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-007": {
     "name": "恙神 涯",
@@ -139,7 +145,8 @@
         "id": "GC/S16-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-008": {
     "name": "城戸 研二",
@@ -157,7 +164,8 @@
         "id": "GC/S16-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-009": {
     "name": "潜入捜査 涯",
@@ -175,7 +183,8 @@
         "id": "GC/S16-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-010": {
     "name": "失った痛み 集",
@@ -193,7 +202,8 @@
         "id": "GC/S16-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-011": {
     "name": "月島 アルゴ",
@@ -211,7 +221,8 @@
         "id": "GC/S16-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-012": {
     "name": "新たなる決意 集",
@@ -229,7 +240,8 @@
         "id": "GC/S16-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-013": {
     "name": "大雲",
@@ -247,7 +259,8 @@
         "id": "GC/S16-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-014": {
     "name": "“葬儀社”四分儀",
@@ -265,7 +278,8 @@
         "id": "GC/S16-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-015": {
     "name": "“葬儀社”アルゴ",
@@ -283,7 +297,8 @@
         "id": "GC/S16-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-016": {
     "name": "葬儀社の司令塔 涯",
@@ -301,7 +316,8 @@
         "id": "GC/S16-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-017": {
     "name": "若き首領 涯",
@@ -319,7 +335,8 @@
         "id": "GC/S16-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-018": {
     "name": "秘めたる能力 集",
@@ -337,7 +354,8 @@
         "id": "GC/S16-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-019": {
     "name": "“葬儀社”大雲",
@@ -355,7 +373,8 @@
         "id": "GC/S16-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-020": {
     "name": "“葬儀社”涯",
@@ -373,7 +392,8 @@
         "id": "GC/S16-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-021": {
     "name": "ロストクリスマス",
@@ -391,7 +411,8 @@
         "id": "GC/S16-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-022": {
     "name": "崩壊の危機",
@@ -409,7 +430,8 @@
         "id": "GC/S16-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-023": {
     "name": "攻撃開始",
@@ -427,7 +449,8 @@
         "id": "GC/S16-023",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GC/S16-024": {
     "name": "再会の抱擁",
@@ -445,7 +468,8 @@
         "id": "GC/S16-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-025": {
     "name": "覚醒する“王の能力”",
@@ -463,7 +487,8 @@
         "id": "GC/S16-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-026": {
     "name": "魅惑のビーチ 祭",
@@ -485,7 +510,8 @@
         "id": "GC/S16-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-027": {
     "name": "桜満 集",
@@ -507,7 +533,8 @@
         "id": "GC/S16-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-028": {
     "name": "うつむく集",
@@ -525,7 +552,8 @@
         "id": "GC/S16-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-029": {
     "name": "学園の花音",
@@ -543,7 +571,8 @@
         "id": "GC/S16-029",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-030": {
     "name": "遠くを見据えるいのり",
@@ -565,7 +594,8 @@
         "id": "GC/S16-030R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-031": {
     "name": "空を見上げる集",
@@ -587,7 +617,8 @@
         "id": "GC/S16-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-032": {
     "name": "優しい言葉 祭",
@@ -605,7 +636,8 @@
         "id": "GC/S16-032",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-033": {
     "name": "校条 祭",
@@ -623,7 +655,8 @@
         "id": "GC/S16-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-034": {
     "name": "寒川 潤",
@@ -641,7 +674,8 @@
         "id": "GC/S16-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-035": {
     "name": "草間 花音",
@@ -659,7 +693,8 @@
         "id": "GC/S16-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-036": {
     "name": "守るべき存在 集",
@@ -677,7 +712,8 @@
         "id": "GC/S16-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-037": {
     "name": "制服のいのり",
@@ -695,7 +731,8 @@
         "id": "GC/S16-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-038": {
     "name": "見守る祭",
@@ -713,7 +750,8 @@
         "id": "GC/S16-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-039": {
     "name": "魂館 颯汰",
@@ -731,7 +769,8 @@
         "id": "GC/S16-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-040": {
     "name": "学園の集",
@@ -749,7 +788,8 @@
         "id": "GC/S16-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-041": {
     "name": "突然の居候 いのり",
@@ -767,7 +807,8 @@
         "id": "GC/S16-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-042": {
     "name": "寒川 谷尋",
@@ -785,7 +826,8 @@
         "id": "GC/S16-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-043": {
     "name": "供奉院 亞里沙",
@@ -803,7 +845,8 @@
         "id": "GC/S16-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-044": {
     "name": "魅惑のビーチ 亞里沙",
@@ -821,7 +864,8 @@
         "id": "GC/S16-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-045": {
     "name": "私服のいのり",
@@ -839,7 +883,8 @@
         "id": "GC/S16-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-046": {
     "name": "後夜祭のステージ",
@@ -857,7 +902,8 @@
         "id": "GC/S16-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-047": {
     "name": "ゲノムレゾナンスゲージ",
@@ -875,7 +921,8 @@
         "id": "GC/S16-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-048": {
     "name": "王の素質",
@@ -893,7 +940,8 @@
         "id": "GC/S16-048",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-049": {
     "name": "女神の微笑み",
@@ -911,7 +959,8 @@
         "id": "GC/S16-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GC/S16-050": {
     "name": "私の大好きな王様",
@@ -929,7 +978,8 @@
         "id": "GC/S16-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-051": {
     "name": "優しい気持ち いのり",
@@ -951,7 +1001,8 @@
         "id": "GC/S16-051R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-052": {
     "name": "集のパートナー いのり",
@@ -969,7 +1020,8 @@
         "id": "GC/S16-052",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-053": {
     "name": "添い寝するいのり",
@@ -991,7 +1043,8 @@
         "id": "GC/S16-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-054": {
     "name": "迷いを見抜くいのり",
@@ -1009,7 +1062,8 @@
         "id": "GC/S16-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-055": {
     "name": "悲痛な叫び いのり",
@@ -1031,7 +1085,8 @@
         "id": "GC/S16-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-056": {
     "name": "幼少の真名",
@@ -1049,7 +1104,8 @@
         "id": "GC/S16-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-057": {
     "name": "楪 いのり",
@@ -1071,7 +1127,8 @@
         "id": "GC/S16-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-058": {
     "name": "オートインセクト ふゅーねる",
@@ -1089,7 +1146,8 @@
         "id": "GC/S16-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-059": {
     "name": "桜満 春夏",
@@ -1107,7 +1165,8 @@
         "id": "GC/S16-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-060": {
     "name": "嘘界＝ヴァルツ・誠",
@@ -1125,7 +1184,8 @@
         "id": "GC/S16-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-061": {
     "name": "傲慢な態度 ダリル",
@@ -1143,7 +1203,8 @@
         "id": "GC/S16-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-062": {
     "name": "EGOIST いのり",
@@ -1161,7 +1222,8 @@
         "id": "GC/S16-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-063": {
     "name": "幼少の集",
@@ -1179,7 +1241,8 @@
         "id": "GC/S16-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-064": {
     "name": "魂の歌声 いのり",
@@ -1197,7 +1260,8 @@
         "id": "GC/S16-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-065": {
     "name": "ふゅーねる",
@@ -1215,7 +1279,8 @@
         "id": "GC/S16-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-066": {
     "name": "別れの言葉 いのり",
@@ -1233,7 +1298,8 @@
         "id": "GC/S16-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-067": {
     "name": "平凡な高校生 集",
@@ -1251,7 +1317,8 @@
         "id": "GC/S16-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-068": {
     "name": "幼少の涯",
@@ -1269,7 +1336,8 @@
         "id": "GC/S16-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-069": {
     "name": "ダリル・ヤン",
@@ -1287,7 +1355,8 @@
         "id": "GC/S16-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-070": {
     "name": "純粋な気持ち いのり",
@@ -1305,7 +1374,8 @@
         "id": "GC/S16-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-071": {
     "name": "ウェブアーティスト いのり",
@@ -1323,7 +1393,8 @@
         "id": "GC/S16-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-072": {
     "name": "ヴォイドゲノムの真実",
@@ -1341,7 +1412,8 @@
         "id": "GC/S16-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-073": {
     "name": "エウテルペ",
@@ -1359,7 +1431,8 @@
         "id": "GC/S16-073",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GC/S16-074": {
     "name": "あの夏の思い出",
@@ -1377,7 +1450,8 @@
         "id": "GC/S16-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GC/S16-075": {
     "name": "勇気の試練",
@@ -1395,7 +1469,8 @@
         "id": "GC/S16-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-076": {
     "name": "水着のツグミ",
@@ -1413,7 +1488,8 @@
         "id": "GC/S16-076",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-077": {
     "name": "篠宮 綾瀬",
@@ -1435,7 +1511,8 @@
         "id": "GC/S16-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-078": {
     "name": "ポジティブ思考 ツグミ",
@@ -1453,7 +1530,8 @@
         "id": "GC/S16-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-079": {
     "name": "振袖姿のツグミ",
@@ -1475,7 +1553,8 @@
         "id": "GC/S16-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-080": {
     "name": "恋する乙女 綾瀬",
@@ -1497,7 +1576,8 @@
         "id": "GC/S16-080R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-081": {
     "name": "オペレーター ツグミ",
@@ -1519,7 +1599,8 @@
         "id": "GC/S16-081SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-082": {
     "name": "勝気な綾瀬",
@@ -1541,7 +1622,8 @@
         "id": "GC/S16-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-083": {
     "name": "車椅子の少女 綾瀬",
@@ -1559,7 +1641,8 @@
         "id": "GC/S16-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-084": {
     "name": "ムードメーカー ツグミ",
@@ -1577,7 +1660,8 @@
         "id": "GC/S16-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-085": {
     "name": "姉御肌 綾瀬",
@@ -1595,7 +1679,8 @@
         "id": "GC/S16-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-086": {
     "name": "しっかり者 綾瀬",
@@ -1613,7 +1698,8 @@
         "id": "GC/S16-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-087": {
     "name": "“葬儀社”ツグミ",
@@ -1631,7 +1717,8 @@
         "id": "GC/S16-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-088": {
     "name": "不意打ち 集",
@@ -1649,7 +1736,8 @@
         "id": "GC/S16-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-089": {
     "name": "呆れ顔 綾瀬",
@@ -1667,7 +1755,8 @@
         "id": "GC/S16-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-090": {
     "name": "フランクな性格 ツグミ",
@@ -1685,7 +1774,8 @@
         "id": "GC/S16-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-091": {
     "name": "“葬儀社”綾瀬",
@@ -1703,7 +1793,8 @@
         "id": "GC/S16-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-092": {
     "name": "有能なパイロット 綾瀬",
@@ -1721,7 +1812,8 @@
         "id": "GC/S16-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-093": {
     "name": "強い心 ツグミ",
@@ -1739,7 +1831,8 @@
         "id": "GC/S16-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-094": {
     "name": "風変わりな子 ツグミ",
@@ -1757,7 +1850,8 @@
         "id": "GC/S16-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-095": {
     "name": "ふっきれた思い 集",
@@ -1775,7 +1869,8 @@
         "id": "GC/S16-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GC/S16-096": {
     "name": "綾瀬機シュタイナー",
@@ -1793,7 +1888,8 @@
         "id": "GC/S16-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-097": {
     "name": "渾身の一撃",
@@ -1811,7 +1907,8 @@
         "id": "GC/S16-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GC/S16-098": {
     "name": "取り戻した自信",
@@ -1829,7 +1926,8 @@
         "id": "GC/S16-098",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GC/S16-099": {
     "name": "出撃",
@@ -1847,7 +1945,8 @@
         "id": "GC/S16-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GC/S16-100": {
     "name": "情報戦の要",
@@ -1865,6 +1964,7 @@
         "id": "GC/S16-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

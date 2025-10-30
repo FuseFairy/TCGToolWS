@@ -19,7 +19,8 @@
         "id": "AW/S18-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-002": {
     "name": "黒雪姫",
@@ -41,7 +42,8 @@
         "id": "AW/S18-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-003": {
     "name": "“チュラカーギー”黒雪姫",
@@ -63,7 +65,8 @@
         "id": "AW/S18-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-004": {
     "name": "親密な関係 黒雪姫",
@@ -85,7 +88,8 @@
         "id": "AW/S18-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-005": {
     "name": "追い求める果て 黒雪姫",
@@ -107,7 +111,8 @@
         "id": "AW/S18-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-006": {
     "name": "恋する乙女 黒雪姫",
@@ -129,7 +134,8 @@
         "id": "AW/S18-006R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-007": {
     "name": "強敵へ挑むシルバー・クロウ",
@@ -147,7 +153,8 @@
         "id": "AW/S18-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-008": {
     "name": "純粋な独占欲 黒雪姫",
@@ -169,7 +176,8 @@
         "id": "AW/S18-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-009": {
     "name": "ブラック・ロータス",
@@ -191,7 +199,8 @@
         "id": "AW/S18-009R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-010": {
     "name": "辻デュエルに臨むブラック・ロータス",
@@ -209,7 +218,8 @@
         "id": "AW/S18-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-011": {
     "name": "新米バーストリンカー シルバー・クロウ",
@@ -227,7 +237,8 @@
         "id": "AW/S18-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-012": {
     "name": "《黒の王》ブラック・ロータス",
@@ -245,7 +256,8 @@
         "id": "AW/S18-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-013": {
     "name": "黄昏時の約束 黒雪姫",
@@ -263,7 +275,8 @@
         "id": "AW/S18-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-014": {
     "name": "本当の強さ 黒雪姫",
@@ -281,7 +294,8 @@
         "id": "AW/S18-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-015": {
     "name": "人跡未踏の高みへ ハルユキ",
@@ -299,7 +313,8 @@
         "id": "AW/S18-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-016": {
     "name": "翼を求めた少年 ハルユキ",
@@ -317,7 +332,8 @@
         "id": "AW/S18-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-017": {
     "name": "ピンクのブタ ハルユキ",
@@ -335,7 +351,8 @@
         "id": "AW/S18-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-018": {
     "name": "王の帰還 ブラック・ロータス",
@@ -353,7 +370,8 @@
         "id": "AW/S18-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-019": {
     "name": "学園のマドンナ 黒雪姫",
@@ -371,7 +389,8 @@
         "id": "AW/S18-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-020": {
     "name": "いじめられっ子 ハルユキ",
@@ -389,7 +408,8 @@
         "id": "AW/S18-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-021": {
     "name": "おっちょこちょいなハルユキ",
@@ -407,7 +427,8 @@
         "id": "AW/S18-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-022": {
     "name": "銀色の翼 シルバー・クロウ",
@@ -425,7 +446,8 @@
         "id": "AW/S18-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-023": {
     "name": "ポニーテールの黒雪姫",
@@ -443,7 +465,8 @@
         "id": "AW/S18-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-024": {
     "name": "立ちはだかる壁 ハルユキ",
@@ -461,7 +484,8 @@
         "id": "AW/S18-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-025": {
     "name": "裏切り",
@@ -479,7 +503,8 @@
         "id": "AW/S18-025",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-026": {
     "name": "ゲイルスラスター",
@@ -497,7 +522,8 @@
         "id": "AW/S18-026",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-027": {
     "name": "空を願う心",
@@ -515,7 +541,8 @@
         "id": "AW/S18-027",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AW/S18-028": {
     "name": "生まれて初めての感情",
@@ -533,7 +560,8 @@
         "id": "AW/S18-028",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AW/S18-029": {
     "name": "宣告・貫通による死",
@@ -551,7 +579,8 @@
         "id": "AW/S18-029",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-030": {
     "name": "《黒の王》の騎士",
@@ -569,7 +598,8 @@
         "id": "AW/S18-030",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-031": {
     "name": "クッションの海 チユリ",
@@ -591,7 +621,8 @@
         "id": "AW/S18-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-032": {
     "name": "《治癒師》ライム・ベル",
@@ -609,7 +640,8 @@
         "id": "AW/S18-032",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-033": {
     "name": "屈託ないお喋り チユリ",
@@ -631,7 +663,8 @@
         "id": "AW/S18-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-034": {
     "name": "謝罪のアイス チユリ",
@@ -649,7 +682,8 @@
         "id": "AW/S18-034",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-035": {
     "name": "楽観的なライム・ベル",
@@ -667,7 +701,8 @@
         "id": "AW/S18-035",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-036": {
     "name": "友達想いなチユリ",
@@ -685,7 +720,8 @@
         "id": "AW/S18-036",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-037": {
     "name": "倉嶋 千百合",
@@ -707,7 +743,8 @@
         "id": "AW/S18-037SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-038": {
     "name": "ライム・ベル",
@@ -725,7 +762,8 @@
         "id": "AW/S18-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-039": {
     "name": "能美 征二",
@@ -743,7 +781,8 @@
         "id": "AW/S18-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-040": {
     "name": "アッシュ・ローラー",
@@ -761,7 +800,8 @@
         "id": "AW/S18-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-041": {
     "name": "ダスク・テイカー",
@@ -779,7 +819,8 @@
         "id": "AW/S18-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-042": {
     "name": "裏切りのライム・ベル",
@@ -797,7 +838,8 @@
         "id": "AW/S18-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-043": {
     "name": "幼き日のチユリ",
@@ -815,7 +857,8 @@
         "id": "AW/S18-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-044": {
     "name": "訝しげな眼差し チユリ",
@@ -833,7 +876,8 @@
         "id": "AW/S18-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-045": {
     "name": "銀色の猫 チユリ",
@@ -851,7 +895,8 @@
         "id": "AW/S18-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-046": {
     "name": "明るくて元気 チユリ",
@@ -869,7 +914,8 @@
         "id": "AW/S18-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-047": {
     "name": "侠気の髑髏マスク アッシュ・ローラー",
@@ -887,7 +933,8 @@
         "id": "AW/S18-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-048": {
     "name": "太陽の笑顔 チユリ",
@@ -905,7 +952,8 @@
         "id": "AW/S18-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-049": {
     "name": "愛らしい魅力 チユリ",
@@ -923,7 +971,8 @@
         "id": "AW/S18-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-050": {
     "name": "良きライバル アッシュ・ローラー",
@@ -941,7 +990,8 @@
         "id": "AW/S18-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-051": {
     "name": "パイロディーラー",
@@ -959,7 +1009,8 @@
         "id": "AW/S18-051",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-052": {
     "name": "クワイアー・チャイム",
@@ -977,7 +1028,8 @@
         "id": "AW/S18-052",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-053": {
     "name": "チユリの涙",
@@ -995,7 +1047,8 @@
         "id": "AW/S18-053",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AW/S18-054": {
     "name": "シトロン・コール",
@@ -1013,7 +1066,8 @@
         "id": "AW/S18-054",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-055": {
     "name": "魔王徴発令",
@@ -1031,7 +1085,8 @@
         "id": "AW/S18-055",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AW/S18-056": {
     "name": "料理が得意 ニコ",
@@ -1053,7 +1108,8 @@
         "id": "AW/S18-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-057": {
     "name": "上月 由仁子",
@@ -1075,7 +1131,8 @@
         "id": "AW/S18-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-058": {
     "name": "激情のスカーレット・レイン",
@@ -1093,7 +1150,8 @@
         "id": "AW/S18-058",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-059": {
     "name": "可愛いハトコ！？ ニコ",
@@ -1115,7 +1173,8 @@
         "id": "AW/S18-059R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-060": {
     "name": "レイン＆レパード",
@@ -1133,7 +1192,8 @@
         "id": "AW/S18-060",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-061": {
     "name": "《不動要塞》スカーレット・レイン",
@@ -1151,7 +1211,8 @@
         "id": "AW/S18-061",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-062": {
     "name": "《赤の王》スカーレット・レイン",
@@ -1169,7 +1230,8 @@
         "id": "AW/S18-062",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-063": {
     "name": "お泊りニコ",
@@ -1187,7 +1249,8 @@
         "id": "AW/S18-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-064": {
     "name": "お風呂でドキドキ ニコ",
@@ -1205,7 +1268,8 @@
         "id": "AW/S18-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-065": {
     "name": "天使モード ニコ",
@@ -1223,7 +1287,8 @@
         "id": "AW/S18-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-066": {
     "name": "心の闇 シルバー・クロウ",
@@ -1241,7 +1306,8 @@
         "id": "AW/S18-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-067": {
     "name": "史上最強の名前を持つ男 クリキン",
@@ -1259,7 +1325,8 @@
         "id": "AW/S18-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-068": {
     "name": "クリムゾン・キングボルト",
@@ -1277,7 +1344,8 @@
         "id": "AW/S18-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-069": {
     "name": "練馬のメイドさん パド",
@@ -1295,7 +1363,8 @@
         "id": "AW/S18-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-070": {
     "name": "若宮 恵",
@@ -1313,7 +1382,8 @@
         "id": "AW/S18-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-071": {
     "name": "《鮮血の暴風雨》スカーレット・レイン",
@@ -1331,7 +1401,8 @@
         "id": "AW/S18-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-072": {
     "name": "親友の暴走 スカーレット・レイン",
@@ -1349,7 +1420,8 @@
         "id": "AW/S18-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-073": {
     "name": "五代目 クロム・ディザスター",
@@ -1367,7 +1439,8 @@
         "id": "AW/S18-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-074": {
     "name": "《プロミネンス》のトップ ニコ＆パド",
@@ -1385,7 +1458,8 @@
         "id": "AW/S18-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-075": {
     "name": "生意気盛り ニコ",
@@ -1403,7 +1477,8 @@
         "id": "AW/S18-075",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-076": {
     "name": "インビンシブル",
@@ -1421,7 +1496,8 @@
         "id": "AW/S18-076",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-077": {
     "name": "災禍の鎧",
@@ -1439,7 +1515,8 @@
         "id": "AW/S18-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-078": {
     "name": "ヘイルストーム・ドミネーション",
@@ -1457,7 +1534,8 @@
         "id": "AW/S18-078",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AW/S18-079": {
     "name": "黒い波動",
@@ -1475,7 +1553,8 @@
         "id": "AW/S18-079",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AW/S18-080": {
     "name": "断罪の一撃",
@@ -1493,7 +1572,8 @@
         "id": "AW/S18-080",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-081": {
     "name": "隠棲中のスカイ・レイカー",
@@ -1511,7 +1591,8 @@
         "id": "AW/S18-081",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-082": {
     "name": "剣道部 タクム",
@@ -1529,7 +1610,8 @@
         "id": "AW/S18-082",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-083": {
     "name": "穏やかな微笑 フーコ",
@@ -1551,7 +1633,8 @@
         "id": "AW/S18-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-084": {
     "name": "シアン・パイル",
@@ -1569,7 +1652,8 @@
         "id": "AW/S18-084",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-085": {
     "name": "倉崎 楓子",
@@ -1591,7 +1675,8 @@
         "id": "AW/S18-085SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-086": {
     "name": "かつての仲間 スカイ・レイカー",
@@ -1609,7 +1694,8 @@
         "id": "AW/S18-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-087": {
     "name": "頼れる相棒 シアン・パイル",
@@ -1627,7 +1713,8 @@
         "id": "AW/S18-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-088": {
     "name": "清楚で可憐 フーコ",
@@ -1645,7 +1732,8 @@
         "id": "AW/S18-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-089": {
     "name": "アッシュの師匠 スカイ・レイカー",
@@ -1663,7 +1751,8 @@
         "id": "AW/S18-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-090": {
     "name": "糸洲 真魚",
@@ -1681,7 +1770,8 @@
         "id": "AW/S18-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-091": {
     "name": "新たな仲間 タクム",
@@ -1699,7 +1789,8 @@
         "id": "AW/S18-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-092": {
     "name": "《用心棒》アクア・カレント",
@@ -1717,7 +1808,8 @@
         "id": "AW/S18-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-093": {
     "name": "安里 琉花",
@@ -1735,7 +1827,8 @@
         "id": "AW/S18-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-094": {
     "name": "メガネ君キャラ タクム",
@@ -1753,7 +1846,8 @@
         "id": "AW/S18-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-095": {
     "name": "無制限中立フィールド シアン・パイル",
@@ -1771,7 +1865,8 @@
         "id": "AW/S18-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-096": {
     "name": "無口な美女 アクア・カレント",
@@ -1789,7 +1884,8 @@
         "id": "AW/S18-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-097": {
     "name": "杭打ち機",
@@ -1807,7 +1903,8 @@
         "id": "AW/S18-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-098": {
     "name": "強制変遷",
@@ -1825,7 +1922,8 @@
         "id": "AW/S18-098",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-099": {
     "name": "心意の力",
@@ -1843,7 +1941,8 @@
         "id": "AW/S18-099",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-100": {
     "name": "ライトニング・シアン・スパイク",
@@ -1861,6 +1960,7 @@
         "id": "AW/S18-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

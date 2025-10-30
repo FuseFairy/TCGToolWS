@@ -19,7 +19,8 @@
         "id": "RG/W13-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W13-027": {
     "name": "水辺の佐天",
@@ -41,7 +42,8 @@
         "id": "RG/W13-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W13-028": {
     "name": "佐天のクラスメイト 初春",
@@ -63,7 +65,8 @@
         "id": "RG/W13-028SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-029": {
     "name": "春上 衿衣",
@@ -81,7 +84,8 @@
         "id": "RG/W13-029",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-030": {
     "name": "水辺の初春",
@@ -103,7 +107,8 @@
         "id": "RG/W13-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-031": {
     "name": "“透視能力”固法",
@@ -121,7 +126,8 @@
         "id": "RG/W13-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W13-032": {
     "name": "初春のクラスメイト 佐天",
@@ -139,7 +145,8 @@
         "id": "RG/W13-032",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W13-033": {
     "name": "浴衣の初春",
@@ -157,7 +164,8 @@
         "id": "RG/W13-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-034": {
     "name": "“異能力者”春上",
@@ -175,7 +183,8 @@
         "id": "RG/W13-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-035": {
     "name": "普通の女の子 佐天",
@@ -193,7 +202,8 @@
         "id": "RG/W13-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-036": {
     "name": "“定温保存”初春",
@@ -211,7 +221,8 @@
         "id": "RG/W13-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W13-037": {
     "name": "子ども達の先生 木山",
@@ -229,7 +240,8 @@
         "id": "RG/W13-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W13-038": {
     "name": "浴衣の佐天",
@@ -247,7 +259,8 @@
         "id": "RG/W13-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-039": {
     "name": "浴衣の春上",
@@ -265,7 +278,8 @@
         "id": "RG/W13-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-040": {
     "name": "大脳生理学者 木山",
@@ -283,7 +297,8 @@
         "id": "RG/W13-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-041": {
     "name": "鉄装 綴里",
@@ -301,7 +316,8 @@
         "id": "RG/W13-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-042": {
     "name": "意外とミーハー 佐天",
@@ -319,7 +335,8 @@
         "id": "RG/W13-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-043": {
     "name": "バックアップ担当 初春",
@@ -337,7 +354,8 @@
         "id": "RG/W13-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W13-044": {
     "name": "仲良しクラスメイト 初春＆佐天",
@@ -355,7 +373,8 @@
         "id": "RG/W13-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-045": {
     "name": "思い出の革ジャン 固法",
@@ -373,7 +392,8 @@
         "id": "RG/W13-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W13-046": {
     "name": "誰かが見てる",
@@ -391,7 +411,8 @@
         "id": "RG/W13-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-047": {
     "name": "ビッグスパイダー",
@@ -409,7 +430,8 @@
         "id": "RG/W13-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-048": {
     "name": "ようこそ！",
@@ -427,7 +449,8 @@
         "id": "RG/W13-048",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RG/W13-049": {
     "name": "衿衣との再会",
@@ -445,7 +468,8 @@
         "id": "RG/W13-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-050": {
     "name": "私にできること",
@@ -463,7 +487,8 @@
         "id": "RG/W13-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RG/W13-051": {
     "name": "裏打ちされた自信 美琴",
@@ -485,7 +510,8 @@
         "id": "RG/W13-051R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W13-052": {
     "name": "一つ屋根の下 美琴＆黒子",
@@ -507,7 +533,8 @@
         "id": "RG/W13-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W13-053": {
     "name": "学園生活 美琴",
@@ -525,7 +552,8 @@
         "id": "RG/W13-053",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-054": {
     "name": "正義の体現 美琴",
@@ -543,7 +571,8 @@
         "id": "RG/W13-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-055": {
     "name": "勝気な女の子 美琴",
@@ -565,7 +594,8 @@
         "id": "RG/W13-055SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-056": {
     "name": "常盤台のお嬢様 黒子",
@@ -587,7 +617,8 @@
         "id": "RG/W13-056R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-057": {
     "name": "モダンガール 黒子",
@@ -605,7 +636,8 @@
         "id": "RG/W13-057",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W13-058": {
     "name": "常盤台のお嬢様 美琴",
@@ -623,7 +655,8 @@
         "id": "RG/W13-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-059": {
     "name": "お姉さまへの憧れ 黒子",
@@ -641,7 +674,8 @@
         "id": "RG/W13-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-060": {
     "name": "“空力使い”婚后",
@@ -659,7 +693,8 @@
         "id": "RG/W13-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-061": {
     "name": "第一七七支部所属 黒子",
@@ -677,7 +712,8 @@
         "id": "RG/W13-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-062": {
     "name": "パジャマの美琴",
@@ -695,7 +731,8 @@
         "id": "RG/W13-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W13-063": {
     "name": "浴衣の美琴",
@@ -713,7 +750,8 @@
         "id": "RG/W13-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-064": {
     "name": "水辺の黒子",
@@ -731,7 +769,8 @@
         "id": "RG/W13-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-065": {
     "name": "記録係 黒子",
@@ -749,7 +788,8 @@
         "id": "RG/W13-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-066": {
     "name": "ドレス姿の美琴",
@@ -767,7 +807,8 @@
         "id": "RG/W13-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-067": {
     "name": "“メイド・オブ・メイド”婚后",
@@ -785,7 +826,8 @@
         "id": "RG/W13-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W13-068": {
     "name": "寮監",
@@ -803,7 +845,8 @@
         "id": "RG/W13-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W13-069": {
     "name": "テレスティーナ・木原・ライフライン",
@@ -821,7 +864,8 @@
         "id": "RG/W13-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W13-070": {
     "name": "浴衣の黒子",
@@ -839,7 +883,8 @@
         "id": "RG/W13-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W13-071": {
     "name": "手掛かり",
@@ -857,7 +902,8 @@
         "id": "RG/W13-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-072": {
     "name": "執念",
@@ -875,7 +921,8 @@
         "id": "RG/W13-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-073": {
     "name": "高速道路の戦い",
@@ -893,7 +940,8 @@
         "id": "RG/W13-073",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RG/W13-074": {
     "name": "超電磁砲",
@@ -911,7 +959,8 @@
         "id": "RG/W13-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W13-075": {
     "name": "まさかの共闘",
@@ -929,6 +978,7 @@
         "id": "RG/W13-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

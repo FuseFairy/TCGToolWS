@@ -19,7 +19,8 @@
         "id": "Fsi/W65-T11SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fsi/W65-T12": {
     "name": "我は、『残響死滅』",
@@ -37,7 +38,8 @@
         "id": "Fsi/W65-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsi/W65-T14": {
     "name": "生徒会の一存",
@@ -55,6 +57,7 @@
         "id": "Fsi/W65-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

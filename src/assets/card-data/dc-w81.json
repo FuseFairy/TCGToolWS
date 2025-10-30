@@ -19,7 +19,8 @@
         "id": "DC/W81-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-002": {
     "name": "新しい毎日 美春",
@@ -41,7 +42,8 @@
         "id": "DC/W81-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W81-003": {
     "name": "期待の眼差し 美春＆さくら",
@@ -59,7 +61,8 @@
         "id": "DC/W81-003",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W81-004": {
     "name": "美春の気持ち",
@@ -81,7 +84,8 @@
         "id": "DC/W81-004R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-005": {
     "name": "恋するクリスマス ことり＆由夢",
@@ -99,7 +103,8 @@
         "id": "DC/W81-005",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W81-006": {
     "name": "“トリック・オア・トラブル”杉並",
@@ -133,7 +138,8 @@
         "id": "DC/W81-006Xd",
         "rarity": "SGNM"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W81-007": {
     "name": "風見学園“征服”計画",
@@ -151,7 +157,8 @@
         "id": "DC/W81-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-008": {
     "name": "“Perfect affection”音姫",
@@ -173,7 +180,8 @@
         "id": "DC/W81-008SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W81-009": {
     "name": "桜路に輝く宝物 さくら",
@@ -195,7 +203,8 @@
         "id": "DC/W81-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-010": {
     "name": "聖なる夜の奇跡 アイシア",
@@ -217,7 +226,8 @@
         "id": "DC/W81-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W81-011": {
     "name": "付属制服の桜姫",
@@ -239,7 +249,8 @@
         "id": "DC/W81-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W81-012": {
     "name": "音姫とおはなし 桜姫",
@@ -257,7 +268,8 @@
         "id": "DC/W81-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-013": {
     "name": "桜内 音姫",
@@ -275,7 +287,8 @@
         "id": "DC/W81-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W81-014": {
     "name": "最後のお見舞い",
@@ -297,7 +310,8 @@
         "id": "DC/W81-014R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-015": {
     "name": "わたしが見た夢 由夢",
@@ -319,7 +333,8 @@
         "id": "DC/W81-015SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W81-016": {
     "name": "夕暮れにたたずむ由夢",
@@ -341,7 +356,8 @@
         "id": "DC/W81-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-017": {
     "name": "家族への祝福 由夢",
@@ -359,7 +375,8 @@
         "id": "DC/W81-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-018": {
     "name": "久しぶりのセッション ななか",
@@ -377,7 +394,8 @@
         "id": "DC/W81-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-019": {
     "name": "新しい景色 茜",
@@ -399,7 +417,8 @@
         "id": "DC/W81-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W81-020": {
     "name": "桜姫ちゃんラブ 由夢",
@@ -417,7 +436,8 @@
         "id": "DC/W81-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-021": {
     "name": "いつもの笑顔 まひる",
@@ -435,7 +455,8 @@
         "id": "DC/W81-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W81-022": {
     "name": "おかえりなさい",
@@ -457,7 +478,8 @@
         "id": "DC/W81-022R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-023": {
     "name": "“キセキの足跡”音姫",
@@ -479,7 +501,8 @@
         "id": "DC/W81-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-024": {
     "name": "憧れの生徒会長 音姫",
@@ -501,7 +524,8 @@
         "id": "DC/W81-024SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-025": {
     "name": "“正義の魔法使い”音姫",
@@ -523,7 +547,8 @@
         "id": "DC/W81-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W81-026": {
     "name": "幸せな感じ 音姫",
@@ -541,7 +566,8 @@
         "id": "DC/W81-026",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-027": {
     "name": "気の置けない先生 舞佳",
@@ -559,7 +585,8 @@
         "id": "DC/W81-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-028": {
     "name": "触れ合う心 エリカ",
@@ -577,7 +604,8 @@
         "id": "DC/W81-028",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W81-029": {
     "name": "無邪気な笑顔 美夏",
@@ -595,7 +623,8 @@
         "id": "DC/W81-029",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W81-030": {
     "name": "甘酒パーティー",
@@ -617,7 +646,8 @@
         "id": "DC/W81-030b",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-031": {
     "name": "幸せの予感",
@@ -639,7 +669,8 @@
         "id": "DC/W81-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-032": {
     "name": "この日を忘れない",
@@ -661,7 +692,8 @@
         "id": "DC/W81-032R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/W81-033": {
     "name": "奇跡のようなできごと さくら",
@@ -683,7 +715,8 @@
         "id": "DC/W81-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-034": {
     "name": "ともに駆ける想い まゆき",
@@ -705,7 +738,8 @@
         "id": "DC/W81-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W81-035": {
     "name": "月明かりの告白 小恋",
@@ -727,7 +761,8 @@
         "id": "DC/W81-035SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W81-036": {
     "name": "一緒に歩く道 麻耶",
@@ -749,7 +784,8 @@
         "id": "DC/W81-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W81-037": {
     "name": "風見学園の思い出 小恋",
@@ -767,7 +803,8 @@
         "id": "DC/W81-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-038": {
     "name": "エターナル委員長 麻耶",
@@ -785,7 +822,8 @@
         "id": "DC/W81-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-039": {
     "name": "煩悩攻撃 杏",
@@ -803,7 +841,8 @@
         "id": "DC/W81-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/W81-040": {
     "name": "伝わる温もり",
@@ -825,7 +864,8 @@
         "id": "DC/W81-040SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/W81-041": {
     "name": "枯れない桜",
@@ -847,6 +887,7 @@
         "id": "DC/W81-041R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

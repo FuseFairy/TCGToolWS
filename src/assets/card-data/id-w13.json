@@ -15,7 +15,8 @@
         "id": "ID/W13-001",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W13-002": {
     "name": "“お姉さま”美琴",
@@ -37,7 +38,8 @@
         "id": "ID/W13-002R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W13-003": {
     "name": "チア衣装の小萌",
@@ -59,7 +61,8 @@
         "id": "ID/W13-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-004": {
     "name": "お姉さまの露払い 黒子",
@@ -81,7 +84,8 @@
         "id": "ID/W13-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-005": {
     "name": "美琴の妹 ミサカ",
@@ -99,7 +103,8 @@
         "id": "ID/W13-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-006": {
     "name": "インデックスの保護者 当麻",
@@ -117,7 +122,8 @@
         "id": "ID/W13-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W13-007": {
     "name": "異能の右手を持つ男 当麻",
@@ -139,7 +145,8 @@
         "id": "ID/W13-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W13-008": {
     "name": "メイド候補生 舞夏",
@@ -157,7 +164,8 @@
         "id": "ID/W13-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-009": {
     "name": "いたずらっ子 打ち止め",
@@ -175,7 +183,8 @@
         "id": "ID/W13-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-010": {
     "name": "変化する日常 一方通行",
@@ -193,7 +202,8 @@
         "id": "ID/W13-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-011": {
     "name": "負けられない戦い 美琴",
@@ -211,7 +221,8 @@
         "id": "ID/W13-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-012": {
     "name": "“多角スパイ”土御門",
@@ -229,7 +240,8 @@
         "id": "ID/W13-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W13-013": {
     "name": "“電極解放”一方通行",
@@ -247,7 +259,8 @@
         "id": "ID/W13-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W13-014": {
     "name": "御坂 美鈴",
@@ -265,7 +278,8 @@
         "id": "ID/W13-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-015": {
     "name": "最強の能力者 一方通行",
@@ -283,7 +297,8 @@
         "id": "ID/W13-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-016": {
     "name": "吹寄 制理",
@@ -301,7 +316,8 @@
         "id": "ID/W13-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-017": {
     "name": "不幸体質 当麻",
@@ -319,7 +335,8 @@
         "id": "ID/W13-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-018": {
     "name": "妹達の上位個体 打ち止め",
@@ -337,7 +354,8 @@
         "id": "ID/W13-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-019": {
     "name": "結標 淡希",
@@ -355,7 +373,8 @@
         "id": "ID/W13-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-020": {
     "name": "学園都市の高校生 当麻",
@@ -373,7 +392,8 @@
         "id": "ID/W13-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-021": {
     "name": "役者な中学一年生 黒子",
@@ -391,7 +411,8 @@
         "id": "ID/W13-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W13-022": {
     "name": "劇画ショック",
@@ -409,7 +430,8 @@
         "id": "ID/W13-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-023": {
     "name": "幻想殺し",
@@ -427,7 +449,8 @@
         "id": "ID/W13-023",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W13-024": {
     "name": "学園都市最強の男",
@@ -445,7 +468,8 @@
         "id": "ID/W13-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "ID/W13-025": {
     "name": "借り物競走",
@@ -463,7 +487,8 @@
         "id": "ID/W13-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W13-076": {
     "name": "“Dedicatus545”インデックス",
@@ -485,7 +510,8 @@
         "id": "ID/W13-076R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-077": {
     "name": "銀髪碧眼のシスターさん",
@@ -507,7 +533,8 @@
         "id": "ID/W13-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W13-078": {
     "name": "チア衣装のインデックス",
@@ -525,7 +552,8 @@
         "id": "ID/W13-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-079": {
     "name": "オルソラ＝アクィナス",
@@ -543,7 +571,8 @@
         "id": "ID/W13-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-080": {
     "name": "“追跡封じ”オリアナ＝トムソン",
@@ -561,7 +590,8 @@
         "id": "ID/W13-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-081": {
     "name": "いつも賑やか 当麻&インデックス",
@@ -583,7 +613,8 @@
         "id": "ID/W13-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-082": {
     "name": "不思議シスター インデックス",
@@ -605,7 +636,8 @@
         "id": "ID/W13-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W13-083": {
     "name": "歩く教会 インデックス",
@@ -623,7 +655,8 @@
         "id": "ID/W13-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-084": {
     "name": "アニェーゼ＝サンクティス",
@@ -641,7 +674,8 @@
         "id": "ID/W13-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-085": {
     "name": "蓮の杖の使い手 アニェーゼ",
@@ -659,7 +693,8 @@
         "id": "ID/W13-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-086": {
     "name": "建宮 斎字",
@@ -677,7 +712,8 @@
         "id": "ID/W13-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W13-087": {
     "name": "元天草式十字凄教 神裂",
@@ -695,7 +731,8 @@
         "id": "ID/W13-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W13-088": {
     "name": "異教地への伝道者 オルソラ",
@@ -713,7 +750,8 @@
         "id": "ID/W13-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-089": {
     "name": "“Fortis931”ステイル",
@@ -731,7 +769,8 @@
         "id": "ID/W13-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-090": {
     "name": "上条家の居候 インデックス",
@@ -749,7 +788,8 @@
         "id": "ID/W13-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-091": {
     "name": "水着のインデックス",
@@ -767,7 +807,8 @@
         "id": "ID/W13-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-092": {
     "name": "ローラ＝スチュアート",
@@ -785,7 +826,8 @@
         "id": "ID/W13-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-093": {
     "name": "天草式十字凄教 五和",
@@ -803,7 +845,8 @@
         "id": "ID/W13-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W13-094": {
     "name": "ルーンの魔術師 ステイル",
@@ -821,7 +864,8 @@
         "id": "ID/W13-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W13-095": {
     "name": "闇咲 逢魔",
@@ -839,7 +883,8 @@
         "id": "ID/W13-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W13-096": {
     "name": "屋台の誘惑",
@@ -857,7 +902,8 @@
         "id": "ID/W13-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-097": {
     "name": "十字架の意味",
@@ -875,7 +921,8 @@
         "id": "ID/W13-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-098": {
     "name": "大した事ない？",
@@ -893,7 +940,8 @@
         "id": "ID/W13-098",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "ID/W13-099": {
     "name": "魔滅の声",
@@ -911,7 +959,8 @@
         "id": "ID/W13-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W13-100": {
     "name": "食いしん坊少女",
@@ -929,6 +978,7 @@
         "id": "ID/W13-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

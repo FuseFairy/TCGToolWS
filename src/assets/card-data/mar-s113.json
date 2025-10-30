@@ -23,7 +23,8 @@
         "id": "MAR/S113-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-002": {
     "name": "“THE MASSACRE AT GALILEE Ⅳ”ガーディアンズ・オブ・ギャラクシー",
@@ -45,7 +46,8 @@
         "id": "MAR/S113-002MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-003": {
     "name": "“THE LIAR”ロキ",
@@ -71,7 +73,8 @@
         "id": "MAR/S113-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-004": {
     "name": "ノヴァ",
@@ -97,7 +100,8 @@
         "id": "MAR/S113-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-005": {
     "name": "“THE Magnificent”ミズ・マーベル",
@@ -123,7 +127,8 @@
         "id": "MAR/S113-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-006": {
     "name": "“宇宙一の凸凹チーム”ガーディアンズ・オブ・ギャラクシー",
@@ -149,7 +154,8 @@
         "id": "MAR/S113-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-007": {
     "name": "“GOD OF THUNDER REBORN”ソー",
@@ -171,7 +177,8 @@
         "id": "MAR/S113-007MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-008": {
     "name": "アベンジャーズ・アッセンブル アルファ",
@@ -193,7 +200,8 @@
         "id": "MAR/S113-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-009": {
     "name": "“Annihilation - Scourge”ノヴァ",
@@ -215,7 +223,8 @@
         "id": "MAR/S113-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-010": {
     "name": "“カマラ・カーン”ミズ・マーベル",
@@ -237,7 +246,8 @@
         "id": "MAR/S113-010MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-011": {
     "name": "THE HEROIC AGE アベンジャーズ",
@@ -259,7 +269,8 @@
         "id": "MAR/S113-011MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-012": {
     "name": "ノヴァ（サム・アレクサンダー）",
@@ -281,7 +292,8 @@
         "id": "MAR/S113-012MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-013": {
     "name": "ノリノリな賞金稼ぎ スター・ロード",
@@ -303,7 +315,8 @@
         "id": "MAR/S113-013MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-014": {
     "name": "“WHO IS… MYTHOS?”ソー",
@@ -325,7 +338,8 @@
         "id": "MAR/S113-014MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-015": {
     "name": "“THE FINAL GAUNTLET”ガーディアンズ・オブ・ギャラクシー",
@@ -347,7 +361,8 @@
         "id": "MAR/S113-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-016": {
     "name": "“EARTH'S MIGHTIEST HERO!”ロキ",
@@ -369,7 +384,8 @@
         "id": "MAR/S113-016MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-017": {
     "name": "ジェーン・フォスター",
@@ -391,7 +407,8 @@
         "id": "MAR/S113-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-018": {
     "name": "“The New Mutant”ミズ・マーベル",
@@ -413,7 +430,8 @@
         "id": "MAR/S113-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-019": {
     "name": "THE FINAL HOST アベンジャーズ",
@@ -435,7 +453,8 @@
         "id": "MAR/S113-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-020": {
     "name": "“The Saga Of The Mighty Thor”ジェーン・フォスター",
@@ -457,7 +476,8 @@
         "id": "MAR/S113-020MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-021": {
     "name": "“HERO AT LAST”ロキ",
@@ -479,7 +499,8 @@
         "id": "MAR/S113-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-022": {
     "name": "COSMIC REWIND",
@@ -501,7 +522,8 @@
         "id": "MAR/S113-022MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-023": {
     "name": "THE STAR-SHERIFF",
@@ -523,7 +545,8 @@
         "id": "MAR/S113-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-024": {
     "name": "GROUNDED",
@@ -545,7 +568,8 @@
         "id": "MAR/S113-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-025": {
     "name": "THE WAR OF THE REALMS",
@@ -571,7 +595,8 @@
         "id": "MAR/S113-025SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-026": {
     "name": "“クソ無責任ヒーロー”デッドプール",
@@ -597,7 +622,8 @@
         "id": "MAR/S113-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-027": {
     "name": "ウルヴァリン",
@@ -623,7 +649,8 @@
         "id": "MAR/S113-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-028": {
     "name": "“UNCONTROLLABLE”ハルク",
@@ -649,7 +676,8 @@
         "id": "MAR/S113-028SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-029": {
     "name": "“ハルクの力”シー・ハルク",
@@ -675,7 +703,8 @@
         "id": "MAR/S113-029SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-030": {
     "name": "“CONTROLLED DEMOLITION”X-MEN",
@@ -697,7 +726,8 @@
         "id": "MAR/S113-030MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-031": {
     "name": "“IN THREES”X-MEN",
@@ -719,7 +749,8 @@
         "id": "MAR/S113-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-032": {
     "name": "“4人のヒーロー”ファンタスティック・フォー",
@@ -745,7 +776,8 @@
         "id": "MAR/S113-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-033": {
     "name": "“ダーク・ヒーロー”ムーンナイト",
@@ -771,7 +803,8 @@
         "id": "MAR/S113-033SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-034": {
     "name": "X-Treme X-MEN",
@@ -793,7 +826,8 @@
         "id": "MAR/S113-034MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-035": {
     "name": "X-MEN",
@@ -819,7 +853,8 @@
         "id": "MAR/S113-035SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-036": {
     "name": "“Vengeance”ムーンナイト",
@@ -841,7 +876,8 @@
         "id": "MAR/S113-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-037": {
     "name": "“Silent Knight”ムーンナイト",
@@ -863,7 +899,8 @@
         "id": "MAR/S113-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-038": {
     "name": "天下無双のマーベル・ヒーロー シー・ハルク",
@@ -885,7 +922,8 @@
         "id": "MAR/S113-038MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-039": {
     "name": "TO CAPTAIN KRAKOA? X-MEN",
@@ -907,7 +945,8 @@
         "id": "MAR/S113-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-040": {
     "name": "“Free Chimichangas”デッドプール",
@@ -929,7 +968,8 @@
         "id": "MAR/S113-040MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-041": {
     "name": "“THE NIGHT OF DOOM”ファンタスティック・フォー",
@@ -951,7 +991,8 @@
         "id": "MAR/S113-041MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-042": {
     "name": "“THE LAST TOWN ON THE LEFT”ファンタスティック・フォー",
@@ -973,7 +1014,8 @@
         "id": "MAR/S113-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-043": {
     "name": "キャプテン・マーベル＆シー・ハルク",
@@ -995,7 +1037,8 @@
         "id": "MAR/S113-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-044": {
     "name": "“THE IMMORTAL”ハルク",
@@ -1017,7 +1060,8 @@
         "id": "MAR/S113-044MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-045": {
     "name": "CURSE OF THE MUTANTS X-MEN",
@@ -1039,7 +1083,8 @@
         "id": "MAR/S113-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-046": {
     "name": "“THE VIRIDIAN PROJECT”ハルク",
@@ -1061,7 +1106,8 @@
         "id": "MAR/S113-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-047": {
     "name": "“PROBLEMATIC FAN”X-MEN",
@@ -1083,7 +1129,8 @@
         "id": "MAR/S113-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-048": {
     "name": "“THE STUFF OF NIGHTMARES”ファンタスティック・フォー",
@@ -1105,7 +1152,8 @@
         "id": "MAR/S113-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-049": {
     "name": "BLACK, WHITE & BLOOD デッドプール",
@@ -1127,7 +1175,8 @@
         "id": "MAR/S113-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-050": {
     "name": "“THE FLOWER CARTEL”ウルヴァリン",
@@ -1149,7 +1198,8 @@
         "id": "MAR/S113-050MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-051": {
     "name": "X-MEN GO!",
@@ -1175,7 +1225,8 @@
         "id": "MAR/S113-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-052": {
     "name": "SMASHTRONAUT!",
@@ -1197,7 +1248,8 @@
         "id": "MAR/S113-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-053": {
     "name": "HULK PLANET",
@@ -1223,7 +1275,8 @@
         "id": "MAR/S113-053SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-054": {
     "name": "自分以外の誰か",
@@ -1245,7 +1298,8 @@
         "id": "MAR/S113-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MAR/S113-055": {
     "name": "FEARLESS",
@@ -1267,7 +1321,8 @@
         "id": "MAR/S113-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-056": {
     "name": "“Ultimate”スパイダーマン",
@@ -1289,7 +1344,8 @@
         "id": "MAR/S113-056MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-057": {
     "name": "“マイルス・モラレス”スパイダーマン",
@@ -1315,7 +1371,8 @@
         "id": "MAR/S113-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-058": {
     "name": "THE INVINCIBLE アイアンマン",
@@ -1341,7 +1398,8 @@
         "id": "MAR/S113-058SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-059": {
     "name": "“The Amazing”スパイダーマン",
@@ -1367,7 +1425,8 @@
         "id": "MAR/S113-059SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-060": {
     "name": "“魔術の力”ドクター・ストレンジ",
@@ -1393,7 +1452,8 @@
         "id": "MAR/S113-060SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-061": {
     "name": "アイアンマン＆アイアンハート",
@@ -1415,7 +1475,8 @@
         "id": "MAR/S113-061MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-062": {
     "name": "“THE LONG SHADOW”ブラックパンサー",
@@ -1441,7 +1502,8 @@
         "id": "MAR/S113-062SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-063": {
     "name": "“THE MAD TITAN”サノス",
@@ -1467,7 +1529,8 @@
         "id": "MAR/S113-063SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-064": {
     "name": "“FALLING STAR”キャプテン・マーベル",
@@ -1489,7 +1552,8 @@
         "id": "MAR/S113-064MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-065": {
     "name": "ARMAGEDDON DAYS アイアンマン",
@@ -1511,7 +1575,8 @@
         "id": "MAR/S113-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-066": {
     "name": "“Ghost-Spider”スパイダーグウェン",
@@ -1533,7 +1598,8 @@
         "id": "MAR/S113-066MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-067": {
     "name": "FEAR ITSELF ブラック・ウィドウ",
@@ -1555,7 +1621,8 @@
         "id": "MAR/S113-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-068": {
     "name": "“ORIGIN”キャプテン・マーベル",
@@ -1577,7 +1644,8 @@
         "id": "MAR/S113-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-069": {
     "name": "“END OF THE SPIDER-VERSE”スパイダーマン",
@@ -1599,7 +1667,8 @@
         "id": "MAR/S113-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-070": {
     "name": "“Shadow Clones”スパイダーグウェン",
@@ -1621,7 +1690,8 @@
         "id": "MAR/S113-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-071": {
     "name": "“ナターシャ・ロマノフ”ブラック・ウィドウ",
@@ -1643,7 +1713,8 @@
         "id": "MAR/S113-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-072": {
     "name": "アイアンハート",
@@ -1669,7 +1740,8 @@
         "id": "MAR/S113-072SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-073": {
     "name": "“The Way of the Weird”ドクター・ストレンジ",
@@ -1691,7 +1763,8 @@
         "id": "MAR/S113-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-074": {
     "name": "“REGIN AT DUSK”ブラックパンサー",
@@ -1713,7 +1786,8 @@
         "id": "MAR/S113-074MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-075": {
     "name": "“HIGHEST, FURTHEST, FASTEST!”キャプテン・マーベル",
@@ -1739,7 +1813,8 @@
         "id": "MAR/S113-075SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-076": {
     "name": "“WEB OF”ブラック・ウィドウ",
@@ -1761,7 +1836,8 @@
         "id": "MAR/S113-076MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-077": {
     "name": "THE LIFE OF DOCTOR STRANGE",
@@ -1783,7 +1859,8 @@
         "id": "MAR/S113-077MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-078": {
     "name": "GANG WAR",
@@ -1809,7 +1886,8 @@
         "id": "MAR/S113-078SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-079": {
     "name": "The HOBGOBLINS'S LAST STAND!",
@@ -1831,7 +1909,8 @@
         "id": "MAR/S113-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-080": {
     "name": "超文明国ワカンダ",
@@ -1857,7 +1936,8 @@
         "id": "MAR/S113-080SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-081": {
     "name": "シンビオート ヴェノム",
@@ -1883,7 +1963,8 @@
         "id": "MAR/S113-081SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-082": {
     "name": "“Sentinel of Liberty”キャプテン・アメリカ",
@@ -1909,7 +1990,8 @@
         "id": "MAR/S113-082SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-083": {
     "name": "神出鬼没のヒーロー アントマン",
@@ -1935,7 +2017,8 @@
         "id": "MAR/S113-083SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-084": {
     "name": "“TAKE FLIGHT”ファルコン",
@@ -1961,7 +2044,8 @@
         "id": "MAR/S113-084SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-085": {
     "name": "“ワンダ・マキシモフ”スカーレット・ウィッチ",
@@ -1987,7 +2071,8 @@
         "id": "MAR/S113-085SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-086": {
     "name": "“ヴィブラニウムのシールド”キャプテン・アメリカ",
@@ -2009,7 +2094,8 @@
         "id": "MAR/S113-086MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-087": {
     "name": "“Freefall”ホークアイ",
@@ -2035,7 +2121,8 @@
         "id": "MAR/S113-087SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-088": {
     "name": "WE'RE BACK！ヴェノム",
@@ -2057,7 +2144,8 @@
         "id": "MAR/S113-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-089": {
     "name": "“クリント・バートン”ホークアイ",
@@ -2079,7 +2167,8 @@
         "id": "MAR/S113-089MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-090": {
     "name": "THE IRREDEEMABLE アントマン",
@@ -2101,7 +2190,8 @@
         "id": "MAR/S113-090MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-091": {
     "name": "“CONTEST OF CHAOS”スカーレット・ウィッチ",
@@ -2123,7 +2213,8 @@
         "id": "MAR/S113-091MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-092": {
     "name": "“バッキー・バーンズ”ウィンター・ソルジャー",
@@ -2145,7 +2236,8 @@
         "id": "MAR/S113-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-093": {
     "name": "“スティーブ・ロジャース”キャプテン・アメリカ",
@@ -2171,7 +2263,8 @@
         "id": "MAR/S113-093SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-094": {
     "name": "THE WICKED WEB-SLINGER ヴェノム",
@@ -2193,7 +2286,8 @@
         "id": "MAR/S113-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-095": {
     "name": "“サム・ウィルソン”キャプテン・アメリカ",
@@ -2219,7 +2313,8 @@
         "id": "MAR/S113-095SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-096": {
     "name": "ROMANCING SPACE ウィンター・ソルジャー",
@@ -2241,7 +2336,8 @@
         "id": "MAR/S113-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-097": {
     "name": "シンビオート",
@@ -2263,7 +2359,8 @@
         "id": "MAR/S113-097MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S113-098": {
     "name": "We are Venom！",
@@ -2289,7 +2386,8 @@
         "id": "MAR/S113-098SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-099": {
     "name": "NEED IS GREAT AND HOPE IS GONE",
@@ -2311,7 +2409,8 @@
         "id": "MAR/S113-099S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S113-100": {
     "name": "トリックアロー",
@@ -2333,6 +2432,7 @@
         "id": "MAR/S113-100S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

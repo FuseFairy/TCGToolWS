@@ -19,7 +19,8 @@
         "id": "SAO/S26-001R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-002": {
     "name": "希望の光 アスナ",
@@ -41,7 +42,8 @@
         "id": "SAO/S26-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-003": {
     "name": "大切な時間 アスナ",
@@ -59,7 +61,8 @@
         "id": "SAO/S26-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-004": {
     "name": "手料理の披露 アスナ",
@@ -81,7 +84,8 @@
         "id": "SAO/S26-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-005": {
     "name": "鳥かごの中 アスナ",
@@ -99,7 +103,8 @@
         "id": "SAO/S26-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-006": {
     "name": "結城 明日奈",
@@ -121,7 +126,8 @@
         "id": "SAO/S26-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-007": {
     "name": "妖精王の妃 アスナ",
@@ -139,7 +145,8 @@
         "id": "SAO/S26-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-008": {
     "name": "“生ける伝説”ヒースクリフ",
@@ -157,7 +164,8 @@
         "id": "SAO/S26-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-009": {
     "name": "家庭的な一面 明日奈",
@@ -175,7 +183,8 @@
         "id": "SAO/S26-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-010": {
     "name": "優しい佇まい アスナ",
@@ -193,7 +202,8 @@
         "id": "SAO/S26-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-011": {
     "name": "はにかんだ微笑 アスナ",
@@ -211,7 +221,8 @@
         "id": "SAO/S26-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-012": {
     "name": "《ウンディーネ》の少女 アスナ",
@@ -229,7 +240,8 @@
         "id": "SAO/S26-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-013": {
     "name": "《攻略組》の休日 アスナ",
@@ -247,7 +259,8 @@
         "id": "SAO/S26-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-014": {
     "name": "茅場 晶彦",
@@ -265,7 +278,8 @@
         "id": "SAO/S26-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-015": {
     "name": "休暇の過ごし方 アスナ",
@@ -283,7 +297,8 @@
         "id": "SAO/S26-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-016": {
     "name": "前線に身を置くアスナ",
@@ -301,7 +316,8 @@
         "id": "SAO/S26-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-017": {
     "name": "《ケットシー》の領主 アリシャ・ルー",
@@ -319,7 +335,8 @@
         "id": "SAO/S26-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-018": {
     "name": "アスナの贈り物",
@@ -337,7 +354,8 @@
         "id": "SAO/S26-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-019": {
     "name": "《世界樹》の上で",
@@ -355,7 +373,8 @@
         "id": "SAO/S26-019",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-020": {
     "name": "“奥さん”の正体",
@@ -373,7 +392,8 @@
         "id": "SAO/S26-020",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SAO/S26-021": {
     "name": "《シルフ》の手練れ リーファ",
@@ -391,7 +411,8 @@
         "id": "SAO/S26-021",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-022": {
     "name": "仮想と現実 リーファ＆直葉",
@@ -413,7 +434,8 @@
         "id": "SAO/S26-022SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-023": {
     "name": "勝気な少女 リーファ",
@@ -431,7 +453,8 @@
         "id": "SAO/S26-023",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-024": {
     "name": "兄を応援する直葉",
@@ -453,7 +476,8 @@
         "id": "SAO/S26-024R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-025": {
     "name": "仮想世界の少女 リーファ",
@@ -475,7 +499,8 @@
         "id": "SAO/S26-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-026": {
     "name": "着替え中の直葉",
@@ -497,7 +522,8 @@
         "id": "SAO/S26-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-027": {
     "name": "“スピードホリック”リーファ",
@@ -515,7 +541,8 @@
         "id": "SAO/S26-027",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-028": {
     "name": "“古参プレイヤー”リーファ",
@@ -533,7 +560,8 @@
         "id": "SAO/S26-028",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-029": {
     "name": "キリトの妹 直葉",
@@ -551,7 +579,8 @@
         "id": "SAO/S26-029",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-030": {
     "name": "悩める乙女 リーファ",
@@ -569,7 +598,8 @@
         "id": "SAO/S26-030",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-031": {
     "name": "家庭教師 直葉",
@@ -587,7 +617,8 @@
         "id": "SAO/S26-031",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-032": {
     "name": "気がかりなレコン",
@@ -605,7 +636,8 @@
         "id": "SAO/S26-032",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-033": {
     "name": "領地からの旅立ち リーファ",
@@ -623,7 +655,8 @@
         "id": "SAO/S26-033",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-034": {
     "name": "料理中の直葉",
@@ -641,7 +674,8 @@
         "id": "SAO/S26-034",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-035": {
     "name": "ゲームマスター オベイロン",
@@ -659,7 +693,8 @@
         "id": "SAO/S26-035",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-036": {
     "name": "幼い頃の直葉",
@@ -677,7 +712,8 @@
         "id": "SAO/S26-036",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-037": {
     "name": "《シルフ》の領主 サクヤ",
@@ -695,7 +731,8 @@
         "id": "SAO/S26-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-038": {
     "name": "スイルベーンの特産品",
@@ -713,7 +750,8 @@
         "id": "SAO/S26-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-039": {
     "name": "フェアリィ・ダンス",
@@ -731,7 +769,8 @@
         "id": "SAO/S26-039",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SAO/S26-040": {
     "name": "昨夜の記憶",
@@ -749,7 +788,8 @@
         "id": "SAO/S26-040",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-041": {
     "name": "《ケットシー》の少女 シリカ",
@@ -771,7 +811,8 @@
         "id": "SAO/S26-041SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-042": {
     "name": "安堵の笑顔 シリカ",
@@ -789,7 +830,8 @@
         "id": "SAO/S26-042",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-043": {
     "name": "空を見上げるシリカ",
@@ -807,7 +849,8 @@
         "id": "SAO/S26-043",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-044": {
     "name": "《レプラコーン》の少女 リズベット",
@@ -829,7 +872,8 @@
         "id": "SAO/S26-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-045": {
     "name": "恥らいの困り顔 シリカ",
@@ -851,7 +895,8 @@
         "id": "SAO/S26-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-046": {
     "name": "輝く笑顔 リズベット",
@@ -873,7 +918,8 @@
         "id": "SAO/S26-046SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-047": {
     "name": "篠崎 里香",
@@ -891,7 +937,8 @@
         "id": "SAO/S26-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-048": {
     "name": "自覚した恋心 リズベット",
@@ -909,7 +956,8 @@
         "id": "SAO/S26-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-049": {
     "name": "休戦協定 珪子",
@@ -927,7 +975,8 @@
         "id": "SAO/S26-049",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-050": {
     "name": "綾野 珪子",
@@ -945,7 +994,8 @@
         "id": "SAO/S26-050",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-051": {
     "name": "休戦協定 里香",
@@ -967,7 +1017,8 @@
         "id": "SAO/S26-051R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-052": {
     "name": "制服の珪子",
@@ -985,7 +1036,8 @@
         "id": "SAO/S26-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-053": {
     "name": "素材採集の冒険 リズベット",
@@ -1003,7 +1055,8 @@
         "id": "SAO/S26-053",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-054": {
     "name": "親切への警戒 シリカ",
@@ -1021,7 +1074,8 @@
         "id": "SAO/S26-054",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-055": {
     "name": "意地になったリズベット",
@@ -1039,7 +1093,8 @@
         "id": "SAO/S26-055",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-056": {
     "name": "優しい温もり リズベット",
@@ -1057,7 +1112,8 @@
         "id": "SAO/S26-056",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-057": {
     "name": "指揮官 ユージーン",
@@ -1075,7 +1131,8 @@
         "id": "SAO/S26-057",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-058": {
     "name": "《魔剣グラム》",
@@ -1093,7 +1150,8 @@
         "id": "SAO/S26-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-059": {
     "name": "戦闘中のハプニング",
@@ -1111,7 +1169,8 @@
         "id": "SAO/S26-059",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-060": {
     "name": "笑顔に戻るまで",
@@ -1129,7 +1188,8 @@
         "id": "SAO/S26-060",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SAO/S26-061": {
     "name": "ママを探す冒険 ユイ",
@@ -1151,7 +1211,8 @@
         "id": "SAO/S26-061SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-062": {
     "name": "《二刀流》の悪魔 キリト",
@@ -1173,7 +1234,8 @@
         "id": "SAO/S26-062SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-063": {
     "name": "雨宿り キリト",
@@ -1191,7 +1253,8 @@
         "id": "SAO/S26-063",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-064": {
     "name": "《ALO》への挑戦 和人",
@@ -1213,7 +1276,8 @@
         "id": "SAO/S26-064R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-065": {
     "name": "《スプリガン》の少年 キリト",
@@ -1235,7 +1299,8 @@
         "id": "SAO/S26-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-066": {
     "name": "揺るがぬ信念 キリト",
@@ -1253,7 +1318,8 @@
         "id": "SAO/S26-066",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-067": {
     "name": "新婚生活 キリト",
@@ -1271,7 +1337,8 @@
         "id": "SAO/S26-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-068": {
     "name": "取り戻した記憶 ユイ",
@@ -1289,7 +1356,8 @@
         "id": "SAO/S26-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-069": {
     "name": "二つの世界 キリト",
@@ -1307,7 +1375,8 @@
         "id": "SAO/S26-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-070": {
     "name": "MMOとの出会い 和人",
@@ -1325,7 +1394,8 @@
         "id": "SAO/S26-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-071": {
     "name": "《ナビゲーション・ピクシー》 ユイ",
@@ -1347,7 +1417,8 @@
         "id": "SAO/S26-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-072": {
     "name": "晴れ着のユイ",
@@ -1365,7 +1436,8 @@
         "id": "SAO/S26-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-073": {
     "name": "《フラワーガーデン》のキリト",
@@ -1383,7 +1455,8 @@
         "id": "SAO/S26-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-074": {
     "name": "シンプルな答え ユイ",
@@ -1401,7 +1474,8 @@
         "id": "SAO/S26-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-075": {
     "name": "故買商 エギル",
@@ -1419,7 +1493,8 @@
         "id": "SAO/S26-075",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-076": {
     "name": "最前線の戦い キリト",
@@ -1437,7 +1512,8 @@
         "id": "SAO/S26-076",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-077": {
     "name": "気さくな青年 クライン",
@@ -1455,7 +1531,8 @@
         "id": "SAO/S26-077",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-078": {
     "name": "《世界の種子》",
@@ -1473,7 +1550,8 @@
         "id": "SAO/S26-078",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S26-079": {
     "name": "最強プレイヤーとの対峙",
@@ -1491,7 +1569,8 @@
         "id": "SAO/S26-079",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S26-080": {
     "name": "ユイとの再会",
@@ -1509,6 +1588,7 @@
         "id": "SAO/S26-080",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

@@ -15,7 +15,8 @@
         "id": "PI/SE31-01",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-02": {
     "name": "“運命の鎖”美遊",
@@ -37,7 +38,8 @@
         "id": "PI/SE31-02SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE31-03": {
     "name": "“兄としての務め”士郎",
@@ -55,7 +57,8 @@
         "id": "PI/SE31-03",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE31-04": {
     "name": "“夢幻召喚”アンジェリカ",
@@ -73,7 +76,8 @@
         "id": "PI/SE31-04",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE31-05": {
     "name": "“着ぐるみパジャマ”美遊",
@@ -91,7 +95,8 @@
         "id": "PI/SE31-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-06": {
     "name": "“寝起きの様子”イリヤ＆田中",
@@ -113,7 +118,8 @@
         "id": "PI/SE31-06SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-07": {
     "name": "“人形”アンジェリカ",
@@ -131,7 +137,8 @@
         "id": "PI/SE31-07",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE31-08": {
     "name": "“悉く打ち砕く雷神の鎚”ベアトリス",
@@ -149,7 +156,8 @@
         "id": "PI/SE31-08",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE31-09": {
     "name": "“ジュリアン大好き”ベアトリス",
@@ -167,7 +175,8 @@
         "id": "PI/SE31-09",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-10": {
     "name": "“準備運動”美遊",
@@ -185,7 +194,8 @@
         "id": "PI/SE31-10",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-11": {
     "name": "間桐桜？",
@@ -203,7 +213,8 @@
         "id": "PI/SE31-11",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE31-12": {
     "name": "“遊び半分”ベアトリス",
@@ -221,7 +232,8 @@
         "id": "PI/SE31-12",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE31-13": {
     "name": "“仮面の下の素顔”ジュリアン",
@@ -239,7 +251,8 @@
         "id": "PI/SE31-13",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE31-14": {
     "name": "“歪な少女”エリカ",
@@ -257,7 +270,8 @@
         "id": "PI/SE31-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-15": {
     "name": "泥の英霊",
@@ -275,7 +289,8 @@
         "id": "PI/SE31-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-16": {
     "name": "田中",
@@ -293,7 +308,8 @@
         "id": "PI/SE31-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-17": {
     "name": "“薄着で外出”ダリウス",
@@ -311,7 +327,8 @@
         "id": "PI/SE31-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-18": {
     "name": "“世界の救済”アンジェリカ",
@@ -329,7 +346,8 @@
         "id": "PI/SE31-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE31-19": {
     "name": "“和風美人”美遊",
@@ -347,7 +365,8 @@
         "id": "PI/SE31-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE31-20": {
     "name": "“偽物”士郎",
@@ -365,7 +384,8 @@
         "id": "PI/SE31-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE31-21": {
     "name": "笑い合える友達",
@@ -383,7 +403,8 @@
         "id": "PI/SE31-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PI/SE31-22": {
     "name": "振り絞る力",
@@ -401,7 +422,8 @@
         "id": "PI/SE31-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-23": {
     "name": "王の財宝",
@@ -419,7 +441,8 @@
         "id": "PI/SE31-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PI/SE31-24": {
     "name": "超絶美少女ドールズ",
@@ -437,7 +460,8 @@
         "id": "PI/SE31-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PI/SE31-25": {
     "name": "“銀色に沈む街”クロ",
@@ -459,7 +483,8 @@
         "id": "PI/SE31-25SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE31-26": {
     "name": "“人形”ルヴィア",
@@ -477,7 +502,8 @@
         "id": "PI/SE31-26",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-27": {
     "name": "“人形”凛",
@@ -495,7 +521,8 @@
         "id": "PI/SE31-27",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-28": {
     "name": "“祭りの準備”イリヤ＆クロ",
@@ -513,7 +540,8 @@
         "id": "PI/SE31-28",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-29": {
     "name": "“お泊まり会”クロ",
@@ -531,7 +559,8 @@
         "id": "PI/SE31-29",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-30": {
     "name": "“本気の威嚇”クロ",
@@ -549,7 +578,8 @@
         "id": "PI/SE31-30",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-31": {
     "name": "“銀色に沈む街”ギルガメッシュ",
@@ -567,7 +597,8 @@
         "id": "PI/SE31-31",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE31-32": {
     "name": "“着ぐるみパジャマ”クロ",
@@ -585,7 +616,8 @@
         "id": "PI/SE31-32",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE31-33": {
     "name": "“使いっ走り”ギルガメッシュ",
@@ -603,7 +635,8 @@
         "id": "PI/SE31-33",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-34": {
     "name": "“銀色に沈む街”バゼット",
@@ -621,7 +654,8 @@
         "id": "PI/SE31-34",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-35": {
     "name": "“薄すぎる防御”ルヴィア",
@@ -639,7 +673,8 @@
         "id": "PI/SE31-35",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-36": {
     "name": "“宝石魔術の奇跡”凛",
@@ -657,7 +692,8 @@
         "id": "PI/SE31-36",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE31-37": {
     "name": "ハデスの隠れ兜",
@@ -675,7 +711,8 @@
         "id": "PI/SE31-37",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-38": {
     "name": "息の合った連携",
@@ -693,7 +730,8 @@
         "id": "PI/SE31-38",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE31-39": {
     "name": "“平行世界の冒険”イリヤ",
@@ -715,7 +753,8 @@
         "id": "PI/SE31-39SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE31-40": {
     "name": "“愚痴タイム”ルビー",
@@ -733,7 +772,8 @@
         "id": "PI/SE31-40",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-41": {
     "name": "“精神置換”イリヤ",
@@ -751,7 +791,8 @@
         "id": "PI/SE31-41",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-42": {
     "name": "“サファイアVer”イリヤ",
@@ -769,7 +810,8 @@
         "id": "PI/SE31-42",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-43": {
     "name": "“お泊まり会”イリヤ",
@@ -787,7 +829,8 @@
         "id": "PI/SE31-43",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-44": {
     "name": "“潜伏中”サファイア",
@@ -805,7 +848,8 @@
         "id": "PI/SE31-44",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-45": {
     "name": "“クラスカード セイバー”イリヤ",
@@ -823,7 +867,8 @@
         "id": "PI/SE31-45",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE31-46": {
     "name": "“銀色に沈む街”イリヤ",
@@ -841,7 +886,8 @@
         "id": "PI/SE31-46",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE31-47": {
     "name": "“着ぐるみパジャマ”イリヤ",
@@ -859,7 +905,8 @@
         "id": "PI/SE31-47",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-48": {
     "name": "“夢幻召喚”イリヤ",
@@ -877,7 +924,8 @@
         "id": "PI/SE31-48",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE31-49": {
     "name": "“クラスカード ランサー”イリヤ",
@@ -895,7 +943,8 @@
         "id": "PI/SE31-49",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PI/SE31-50": {
     "name": "最後の希望",
@@ -913,6 +962,7 @@
         "id": "PI/SE31-50",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

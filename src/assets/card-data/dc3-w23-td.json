@@ -15,7 +15,8 @@
         "id": "DC3/W23-102",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W23-T04": {
     "name": "懐かしい感じ リッカ",
@@ -33,7 +34,8 @@
         "id": "DC3/W23-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W23-T05": {
     "name": "お茶目なエリザベス",
@@ -51,7 +53,8 @@
         "id": "DC3/W23-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W23-T06": {
     "name": "いつかの記憶 シャルル",
@@ -69,7 +72,8 @@
         "id": "DC3/W23-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W23-T09": {
     "name": "熱弁をふるう巴",
@@ -87,6 +91,7 @@
         "id": "DC3/W23-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

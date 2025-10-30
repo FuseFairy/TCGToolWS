@@ -15,7 +15,8 @@
         "id": "P3/SC01-001",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-002": {
     "name": "主人公＆オルフェウス",
@@ -33,7 +34,8 @@
         "id": "P3/SC01-002",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-003": {
     "name": "ファルロス",
@@ -51,7 +53,8 @@
         "id": "P3/SC01-003",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-004": {
     "name": "望月 綾時",
@@ -73,7 +76,8 @@
         "id": "P3/SC01-004R",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-005": {
     "name": "天田＆カーラ・ネミ",
@@ -91,7 +95,8 @@
         "id": "P3/SC01-005",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-006": {
     "name": "主人公＆メサイア",
@@ -109,7 +114,8 @@
         "id": "P3/SC01-006",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-007": {
     "name": "友近 健二",
@@ -127,7 +133,8 @@
         "id": "P3/SC01-007",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-008": {
     "name": "主人公",
@@ -145,7 +152,8 @@
         "id": "P3/SC01-008",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-009": {
     "name": "コロマル＆ケルベロス",
@@ -163,7 +171,8 @@
         "id": "P3/SC01-009",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-010": {
     "name": "たなか社長",
@@ -181,7 +190,8 @@
         "id": "P3/SC01-010",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-012": {
     "name": "コロマル",
@@ -199,7 +209,8 @@
         "id": "P3/SC01-012",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-013": {
     "name": "ベベ",
@@ -217,7 +228,8 @@
         "id": "P3/SC01-013",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-014": {
     "name": "神木 秋成",
@@ -235,7 +247,8 @@
         "id": "P3/SC01-014",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-015": {
     "name": "舞子",
@@ -253,7 +266,8 @@
         "id": "P3/SC01-015",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-016": {
     "name": "天田＆ネメシス",
@@ -271,7 +285,8 @@
         "id": "P3/SC01-016",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-017": {
     "name": "主人公＆タナトス",
@@ -289,7 +304,8 @@
         "id": "P3/SC01-017",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-018": {
     "name": "タルタロス",
@@ -307,7 +323,8 @@
         "id": "P3/SC01-018",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-019": {
     "name": "影時間",
@@ -325,7 +342,8 @@
         "id": "P3/SC01-019",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-01": {
     "name": "天田＆カーラ・ネミ",
@@ -343,7 +361,8 @@
         "id": "P3/SC01-01T",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-020": {
     "name": "不死鳥戦隊フェザーマンR",
@@ -361,7 +380,8 @@
         "id": "P3/SC01-020",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-021": {
     "name": "真夏の夜の夢",
@@ -379,7 +399,8 @@
         "id": "P3/SC01-021",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-022": {
     "name": "真宵堂",
@@ -397,7 +418,8 @@
         "id": "P3/SC01-022",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-023": {
     "name": "露天風呂",
@@ -419,7 +441,8 @@
         "id": "P3/SC01-023S",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-024": {
     "name": "復讐の終わり",
@@ -437,7 +460,8 @@
         "id": "P3/SC01-024",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P3/SC01-025": {
     "name": "最後の選択",
@@ -455,7 +479,8 @@
         "id": "P3/SC01-025",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P3/SC01-026": {
     "name": "水着の風花",
@@ -473,7 +498,8 @@
         "id": "P3/SC01-026",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-027": {
     "name": "アイギス＆パラディオン",
@@ -491,7 +517,8 @@
         "id": "P3/SC01-027",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-029": {
     "name": "アイギス",
@@ -509,7 +536,8 @@
         "id": "P3/SC01-029",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-02": {
     "name": "友近 健二",
@@ -527,7 +555,8 @@
         "id": "P3/SC01-02T",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-030": {
     "name": "風花＆ユノ",
@@ -545,7 +574,8 @@
         "id": "P3/SC01-030",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-031": {
     "name": "メティス＆プシュケイ",
@@ -567,7 +597,8 @@
         "id": "P3/SC01-031R",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-032": {
     "name": "森山 夏紀",
@@ -585,7 +616,8 @@
         "id": "P3/SC01-032",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-033": {
     "name": "風花＆ルキア",
@@ -603,7 +635,8 @@
         "id": "P3/SC01-033",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-034": {
     "name": "メティス",
@@ -621,7 +654,8 @@
         "id": "P3/SC01-034",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-035": {
     "name": "ワンピースのアイギス",
@@ -639,7 +673,8 @@
         "id": "P3/SC01-035",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-036": {
     "name": "アイギス＆アテナ",
@@ -657,7 +692,8 @@
         "id": "P3/SC01-036",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-037": {
     "name": "文吉＆光子",
@@ -675,7 +711,8 @@
         "id": "P3/SC01-037",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-038": {
     "name": "山岸 風花",
@@ -693,7 +730,8 @@
         "id": "P3/SC01-038",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-039": {
     "name": "宮本 一志",
@@ -711,7 +749,8 @@
         "id": "P3/SC01-039",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-03": {
     "name": "コロマル＆ケルベロス",
@@ -729,7 +768,8 @@
         "id": "P3/SC01-03T",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-040": {
     "name": "西脇 結子",
@@ -747,7 +787,8 @@
         "id": "P3/SC01-040",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-041": {
     "name": "鳥海先生",
@@ -765,7 +806,8 @@
         "id": "P3/SC01-041",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-042": {
     "name": "早瀬 護",
@@ -783,7 +825,8 @@
         "id": "P3/SC01-042",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-043": {
     "name": "総攻撃チャンス！",
@@ -801,7 +844,8 @@
         "id": "P3/SC01-043",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-044": {
     "name": "アナライズ",
@@ -819,7 +863,8 @@
         "id": "P3/SC01-044",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-045": {
     "name": "保健室",
@@ -837,7 +882,8 @@
         "id": "P3/SC01-045",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-046": {
     "name": "レベルアップ",
@@ -855,7 +901,8 @@
         "id": "P3/SC01-046",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-047": {
     "name": "アイギスの見る夢",
@@ -873,7 +920,8 @@
         "id": "P3/SC01-047",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-048": {
     "name": "機械の乙女",
@@ -891,7 +939,8 @@
         "id": "P3/SC01-048",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P3/SC01-049": {
     "name": "切れない絆",
@@ -913,7 +962,8 @@
         "id": "P3/SC01-049S",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-04": {
     "name": "たなか社長",
@@ -931,7 +981,8 @@
         "id": "P3/SC01-04T",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-050": {
     "name": "命ある者",
@@ -949,7 +1000,8 @@
         "id": "P3/SC01-050",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P3/SC01-051": {
     "name": "チドリ",
@@ -967,7 +1019,8 @@
         "id": "P3/SC01-051",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-052": {
     "name": "真田 明彦",
@@ -985,7 +1038,8 @@
         "id": "P3/SC01-052",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-053": {
     "name": "真次郎＆カストール",
@@ -1003,7 +1057,8 @@
         "id": "P3/SC01-053",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-055": {
     "name": "順平＆トリスメギストス",
@@ -1021,7 +1076,8 @@
         "id": "P3/SC01-055",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-056": {
     "name": "明彦＆カエサル",
@@ -1043,7 +1099,8 @@
         "id": "P3/SC01-056R",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-057": {
     "name": "荒垣 真次郎",
@@ -1061,7 +1118,8 @@
         "id": "P3/SC01-057",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-058": {
     "name": "無達",
@@ -1079,7 +1137,8 @@
         "id": "P3/SC01-058",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-059": {
     "name": "順平＆ヘルメス",
@@ -1097,7 +1156,8 @@
         "id": "P3/SC01-059",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-060": {
     "name": "ジン＆モロス",
@@ -1115,7 +1175,8 @@
         "id": "P3/SC01-060",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-061": {
     "name": "タカヤ＆ヒュプノス",
@@ -1133,7 +1194,8 @@
         "id": "P3/SC01-061",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-062": {
     "name": "タカヤ",
@@ -1151,7 +1213,8 @@
         "id": "P3/SC01-062",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-063": {
     "name": "末光 望美",
@@ -1169,7 +1232,8 @@
         "id": "P3/SC01-063",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-064": {
     "name": "伊織 順平",
@@ -1187,7 +1251,8 @@
         "id": "P3/SC01-064",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-065": {
     "name": "チドリ＆メーディア",
@@ -1205,7 +1270,8 @@
         "id": "P3/SC01-065",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-066": {
     "name": "ジン",
@@ -1223,7 +1289,8 @@
         "id": "P3/SC01-066",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-067": {
     "name": "明彦＆ポリデュークス",
@@ -1241,7 +1308,8 @@
         "id": "P3/SC01-067",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-068": {
     "name": "辰巳東交番",
@@ -1259,7 +1327,8 @@
         "id": "P3/SC01-068",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-069": {
     "name": "DEATH/死神",
@@ -1277,7 +1346,8 @@
         "id": "P3/SC01-069",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-06": {
     "name": "影時間",
@@ -1295,7 +1365,8 @@
         "id": "P3/SC01-06T",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-070": {
     "name": "ハルマゲドン",
@@ -1313,7 +1384,8 @@
         "id": "P3/SC01-070",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-071": {
     "name": "象徴化",
@@ -1331,7 +1403,8 @@
         "id": "P3/SC01-071",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-072": {
     "name": "刈り取る者",
@@ -1349,7 +1422,8 @@
         "id": "P3/SC01-072",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-073": {
     "name": "ありがとう",
@@ -1371,7 +1445,8 @@
         "id": "P3/SC01-073S",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P3/SC01-074": {
     "name": "ニュクス・アバター",
@@ -1389,7 +1464,8 @@
         "id": "P3/SC01-074",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-075": {
     "name": "友への誓い",
@@ -1407,7 +1483,8 @@
         "id": "P3/SC01-075",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P3/SC01-076": {
     "name": "水着の美鶴",
@@ -1425,7 +1502,8 @@
         "id": "P3/SC01-076",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-077": {
     "name": "エリザベス",
@@ -1443,7 +1521,8 @@
         "id": "P3/SC01-077",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-078": {
     "name": "美鶴＆ペンテシレア",
@@ -1461,7 +1540,8 @@
         "id": "P3/SC01-078",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-079": {
     "name": "水着のゆかり",
@@ -1479,7 +1559,8 @@
         "id": "P3/SC01-079",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-07": {
     "name": "コロマル",
@@ -1497,7 +1578,8 @@
         "id": "P3/SC01-07T",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-080": {
     "name": "イゴール",
@@ -1515,7 +1597,8 @@
         "id": "P3/SC01-080",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-081": {
     "name": "ゆかり＆イシス",
@@ -1537,7 +1620,8 @@
         "id": "P3/SC01-081R",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-082": {
     "name": "岳羽 詠一朗",
@@ -1555,7 +1639,8 @@
         "id": "P3/SC01-082",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-083": {
     "name": "幾月 修司",
@@ -1573,7 +1658,8 @@
         "id": "P3/SC01-083",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-084": {
     "name": "桐条 美鶴",
@@ -1591,7 +1677,8 @@
         "id": "P3/SC01-084",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-085": {
     "name": "ゆかり＆イオ",
@@ -1609,7 +1696,8 @@
         "id": "P3/SC01-085",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-087": {
     "name": "伏見 千尋",
@@ -1627,7 +1715,8 @@
         "id": "P3/SC01-087",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-088": {
     "name": "平賀 慶介",
@@ -1645,7 +1734,8 @@
         "id": "P3/SC01-088",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-089": {
     "name": "小田桐 秀利",
@@ -1663,7 +1753,8 @@
         "id": "P3/SC01-089",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-08": {
     "name": "ベベ",
@@ -1681,7 +1772,8 @@
         "id": "P3/SC01-08T",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-090": {
     "name": "桐条 武治",
@@ -1699,7 +1791,8 @@
         "id": "P3/SC01-090",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-091": {
     "name": "岳羽 ゆかり",
@@ -1717,7 +1810,8 @@
         "id": "P3/SC01-091",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-092": {
     "name": "美鶴＆アルテミシア",
@@ -1735,7 +1829,8 @@
         "id": "P3/SC01-092",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-093": {
     "name": "ベルベットルーム",
@@ -1753,7 +1848,8 @@
         "id": "P3/SC01-093",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-094": {
     "name": "ジャックブラザーズ",
@@ -1771,7 +1867,8 @@
         "id": "P3/SC01-094",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-095": {
     "name": "処刑",
@@ -1789,7 +1886,8 @@
         "id": "P3/SC01-095",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-096": {
     "name": "青ひげファーマシー",
@@ -1807,7 +1905,8 @@
         "id": "P3/SC01-096",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-097": {
     "name": "シャッフルタイム",
@@ -1825,7 +1924,8 @@
         "id": "P3/SC01-097",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-098": {
     "name": "最強なる者",
@@ -1847,7 +1947,8 @@
         "id": "P3/SC01-098S",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-099": {
     "name": "誓い合った約束",
@@ -1865,7 +1966,8 @@
         "id": "P3/SC01-099",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P3/SC01-09": {
     "name": "舞子",
@@ -1883,7 +1985,8 @@
         "id": "P3/SC01-09T",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-100": {
     "name": "父の遺志",
@@ -1901,7 +2004,8 @@
         "id": "P3/SC01-100",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P3/SC01-101": {
     "name": "“死神”タナトス",
@@ -1919,7 +2023,8 @@
         "id": "P3/SC01-101",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P3/SC01-104": {
     "name": "主人公＆ゆかり",
@@ -1937,7 +2042,8 @@
         "id": "P3/SC01-104",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-105": {
     "name": "機械の姉妹",
@@ -1955,7 +2061,8 @@
         "id": "P3/SC01-105",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-10": {
     "name": "天田＆ネメシス",
@@ -1973,7 +2080,8 @@
         "id": "P3/SC01-10T",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P3/SC01-110": {
     "name": "決意の美鶴",
@@ -1991,7 +2099,8 @@
         "id": "P3/SC01-110",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-111": {
     "name": "“無限の可能性”主人公",
@@ -2009,7 +2118,8 @@
         "id": "P3/SC01-111",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-112": {
     "name": "乙女な機械 アイギス",
@@ -2027,7 +2137,8 @@
         "id": "P3/SC01-112",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-113": {
     "name": "育む絆 -Community-",
@@ -2045,7 +2156,8 @@
         "id": "P3/SC01-113S",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-11": {
     "name": "主人公＆タナトス",
@@ -2063,7 +2175,8 @@
         "id": "P3/SC01-11T",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-12": {
     "name": "真宵堂",
@@ -2081,7 +2194,8 @@
         "id": "P3/SC01-12T",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-13": {
     "name": "復讐の終わり",
@@ -2099,7 +2213,8 @@
         "id": "P3/SC01-13T",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P3/SC01-14": {
     "name": "最後の選択",
@@ -2117,7 +2232,8 @@
         "id": "P3/SC01-14T",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "P3/SC01-15": {
     "name": "美鶴＆ペンテシレア",
@@ -2135,7 +2251,8 @@
         "id": "P3/SC01-15T",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-16": {
     "name": "伏見 千尋",
@@ -2153,7 +2270,8 @@
         "id": "P3/SC01-16T",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-17": {
     "name": "小田桐 秀利",
@@ -2171,7 +2289,8 @@
         "id": "P3/SC01-17T",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-18": {
     "name": "桐条 武治",
@@ -2189,7 +2308,8 @@
         "id": "P3/SC01-18T",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "P3/SC01-19": {
     "name": "美鶴＆アルテミシア",
@@ -2207,7 +2327,8 @@
         "id": "P3/SC01-19T",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "P3/SC01-20": {
     "name": "誓い合った約束",
@@ -2225,6 +2346,7 @@
         "id": "P3/SC01-20T",
         "rarity": "RE"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

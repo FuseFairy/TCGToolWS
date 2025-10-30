@@ -15,7 +15,8 @@
         "id": "Shh/W62-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Shh/W62-T16": {
     "name": "接続改装 愛音＆傷無",
@@ -33,6 +34,7 @@
         "id": "Shh/W62-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

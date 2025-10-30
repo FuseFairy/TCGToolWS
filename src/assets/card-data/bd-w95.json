@@ -19,7 +19,8 @@
         "id": "BD/W95-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-002": {
     "name": "“私の勇気”松原花音",
@@ -41,7 +42,8 @@
         "id": "BD/W95-002SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-003": {
     "name": "“世界を繋ぐ笑顔”弦巻こころ",
@@ -63,7 +65,8 @@
         "id": "BD/W95-003SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-004": {
     "name": "“飛び出す絵本”弦巻こころ",
@@ -85,7 +88,8 @@
         "id": "BD/W95-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-005": {
     "name": "“決意の一歩”松原花音",
@@ -107,7 +111,8 @@
         "id": "BD/W95-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-006": {
     "name": "“おまけコレクション”広町七深",
@@ -129,7 +134,8 @@
         "id": "BD/W95-006SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-007": {
     "name": "“千年に一度の夜”奥沢美咲",
@@ -151,7 +157,8 @@
         "id": "BD/W95-007SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-008": {
     "name": "“心のままに”瀬田薫",
@@ -173,7 +180,8 @@
         "id": "BD/W95-008SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-009": {
     "name": "“その手を通じ”若宮イヴ",
@@ -195,7 +203,8 @@
         "id": "BD/W95-009SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-010": {
     "name": "“新しいお友達”北沢はぐみ",
@@ -217,7 +226,8 @@
         "id": "BD/W95-010SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-011": {
     "name": "“来たよー！！”北沢はぐみ",
@@ -239,7 +249,8 @@
         "id": "BD/W95-011SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-012": {
     "name": "“掘り出し物”若宮イヴ",
@@ -261,7 +272,8 @@
         "id": "BD/W95-012SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-013": {
     "name": "“堅実プレーヤー”奥沢美咲",
@@ -283,7 +295,8 @@
         "id": "BD/W95-013SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-014": {
     "name": "“駄菓子屋初訪問！”広町七深",
@@ -305,7 +318,8 @@
         "id": "BD/W95-014SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-015": {
     "name": "“儚い名演技”瀬田薫",
@@ -327,7 +341,8 @@
         "id": "BD/W95-015SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-016": {
     "name": "“みんなでポーズ☆”桐ヶ谷透子",
@@ -349,7 +364,8 @@
         "id": "BD/W95-016SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-017": {
     "name": "“夜語り”奥沢美咲",
@@ -371,7 +387,8 @@
         "id": "BD/W95-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-018": {
     "name": "“悔しさの先に”桐ヶ谷透子",
@@ -393,7 +410,8 @@
         "id": "BD/W95-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-019": {
     "name": "“主演”瀬田薫",
@@ -415,7 +433,8 @@
         "id": "BD/W95-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-020": {
     "name": "“ひまりコーデ”北沢はぐみ",
@@ -437,7 +456,8 @@
         "id": "BD/W95-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-021": {
     "name": "“雨でも晴ればれ”弦巻こころ",
@@ -459,7 +479,8 @@
         "id": "BD/W95-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-022": {
     "name": "“隠しきれない秘密”広町七深",
@@ -481,7 +502,8 @@
         "id": "BD/W95-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-023": {
     "name": "“心、満開”松原花音",
@@ -503,7 +525,8 @@
         "id": "BD/W95-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-024": {
     "name": "“舞台監督補”丸山彩",
@@ -525,7 +548,8 @@
         "id": "BD/W95-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-025": {
     "name": "みんな、行くわよー！",
@@ -547,7 +571,8 @@
         "id": "BD/W95-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-026": {
     "name": "SNS映え？",
@@ -569,7 +594,8 @@
         "id": "BD/W95-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-027": {
     "name": "笑顔が集まる場所へ！",
@@ -591,7 +617,8 @@
         "id": "BD/W95-027R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-028": {
     "name": "変身の術？",
@@ -613,7 +640,8 @@
         "id": "BD/W95-028R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-029": {
     "name": "“答え探し”青葉モカ",
@@ -635,7 +663,8 @@
         "id": "BD/W95-029SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-030": {
     "name": "“やっぱりバンドって”ロック",
@@ -657,7 +686,8 @@
         "id": "BD/W95-030SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-031": {
     "name": "“輝き始めた星”レイヤ",
@@ -679,7 +709,8 @@
         "id": "BD/W95-031SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-032": {
     "name": "“反骨精神”美竹蘭",
@@ -701,7 +732,8 @@
         "id": "BD/W95-032SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-033": {
     "name": "“これで完璧！”丸山彩",
@@ -723,7 +755,8 @@
         "id": "BD/W95-033SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-034": {
     "name": "“夜闇を裂く風”マスキング",
@@ -745,7 +778,8 @@
         "id": "BD/W95-034SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-035": {
     "name": "“仲間はアタシが守る”宇田川巴",
@@ -767,7 +801,8 @@
         "id": "BD/W95-035SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-036": {
     "name": "“いつもの「アレ」”上原ひまり",
@@ -789,7 +824,8 @@
         "id": "BD/W95-036SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-037": {
     "name": "“等身大の夜空”美竹蘭",
@@ -811,7 +847,8 @@
         "id": "BD/W95-037SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-038": {
     "name": "“冥界の導き手”青葉モカ",
@@ -833,7 +870,8 @@
         "id": "BD/W95-038SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-039": {
     "name": "“諦めたくない”羽沢つぐみ",
@@ -855,7 +893,8 @@
         "id": "BD/W95-039SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-040": {
     "name": "“12月の天体観測”羽沢つぐみ",
@@ -877,7 +916,8 @@
         "id": "BD/W95-040SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-041": {
     "name": "“お嬢のまかない”マスキング",
@@ -899,7 +939,8 @@
         "id": "BD/W95-041SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-042": {
     "name": "“やっぱり、ブラック”レイヤ",
@@ -921,7 +962,8 @@
         "id": "BD/W95-042SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-043": {
     "name": "“ハイテンション！”上原ひまり",
@@ -943,7 +985,8 @@
         "id": "BD/W95-043SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-044": {
     "name": "“和太鼓の魅力”宇田川巴",
@@ -965,7 +1008,8 @@
         "id": "BD/W95-044SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-045": {
     "name": "“六花の全力”ロック",
@@ -987,7 +1031,8 @@
         "id": "BD/W95-045SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-046": {
     "name": "“のんびりお花見”美竹蘭",
@@ -1009,7 +1054,8 @@
         "id": "BD/W95-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-047": {
     "name": "“ブースに吹き荒れる嵐”レイヤ",
@@ -1031,7 +1077,8 @@
         "id": "BD/W95-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-048": {
     "name": "“二人仲良く”上原ひまり",
@@ -1053,7 +1100,8 @@
         "id": "BD/W95-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-049": {
     "name": "“謎の美少女”青葉モカ",
@@ -1075,7 +1123,8 @@
         "id": "BD/W95-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-050": {
     "name": "“模範的アイドル”白鷺千聖",
@@ -1097,7 +1146,8 @@
         "id": "BD/W95-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-051": {
     "name": "“トキメキ展開！？”羽沢つぐみ",
@@ -1119,7 +1169,8 @@
         "id": "BD/W95-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-052": {
     "name": "“姉のプライド”宇田川巴",
@@ -1141,7 +1192,8 @@
         "id": "BD/W95-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-053": {
     "name": "“繋がる時の中で”マスキング",
@@ -1163,7 +1215,8 @@
         "id": "BD/W95-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-054": {
     "name": "“天文部へようこそ！”氷川日菜",
@@ -1185,7 +1238,8 @@
         "id": "BD/W95-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-055": {
     "name": "“Lock on！”ロック",
@@ -1207,7 +1261,8 @@
         "id": "BD/W95-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-056": {
     "name": "“お宝発見！”大和麻弥",
@@ -1229,7 +1284,8 @@
         "id": "BD/W95-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-057": {
     "name": "初めて記念",
@@ -1251,7 +1307,8 @@
         "id": "BD/W95-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-058": {
     "name": "みんなで探そう",
@@ -1273,7 +1330,8 @@
         "id": "BD/W95-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-059": {
     "name": "ありのままでいること",
@@ -1295,7 +1353,8 @@
         "id": "BD/W95-059R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-060": {
     "name": "言葉にできないもの",
@@ -1317,7 +1376,8 @@
         "id": "BD/W95-060R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BD/W95-061": {
     "name": "おいしい時間",
@@ -1339,7 +1399,8 @@
         "id": "BD/W95-061R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-062": {
     "name": "“ポピパのいいところ”山吹沙綾",
@@ -1361,7 +1422,8 @@
         "id": "BD/W95-062SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-063": {
     "name": "“こらえきれない感情”白鷺千聖",
@@ -1383,7 +1445,8 @@
         "id": "BD/W95-063SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-064": {
     "name": "“STAR☆”戸山香澄",
@@ -1405,7 +1468,8 @@
         "id": "BD/W95-064SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-065": {
     "name": "“朝焼けに包まれて”丸山彩",
@@ -1427,7 +1491,8 @@
         "id": "BD/W95-065SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-066": {
     "name": "“商店街の呼び声”戸山香澄",
@@ -1449,7 +1514,8 @@
         "id": "BD/W95-066SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-067": {
     "name": "“素敵なおそろい”白鷺千聖",
@@ -1471,7 +1537,8 @@
         "id": "BD/W95-067SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-068": {
     "name": "“TRY！”牛込りみ",
@@ -1493,7 +1560,8 @@
         "id": "BD/W95-068SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-069": {
     "name": "“夕暮れ、おめかし準備”山吹沙綾",
@@ -1515,7 +1583,8 @@
         "id": "BD/W95-069SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-070": {
     "name": "“だいたい分量通り”氷川日菜",
@@ -1537,7 +1606,8 @@
         "id": "BD/W95-070SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-071": {
     "name": "“離れても心は”牛込りみ",
@@ -1559,7 +1629,8 @@
         "id": "BD/W95-071SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-072": {
     "name": "“希望のメロディ”戸山香澄",
@@ -1581,7 +1652,8 @@
         "id": "BD/W95-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-073": {
     "name": "“誰かを守るということ”牛込りみ",
@@ -1603,7 +1675,8 @@
         "id": "BD/W95-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-074": {
     "name": "“安らぎを友へ”山吹沙綾",
@@ -1625,7 +1698,8 @@
         "id": "BD/W95-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-075": {
     "name": "“一刀両断！”若宮イヴ",
@@ -1647,7 +1721,8 @@
         "id": "BD/W95-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-076": {
     "name": "リビングでデッド",
@@ -1669,7 +1744,8 @@
         "id": "BD/W95-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-077": {
     "name": "ついに来ちゃったね！",
@@ -1691,7 +1767,8 @@
         "id": "BD/W95-077R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-078": {
     "name": "イベント前のワクワク",
@@ -1713,7 +1790,8 @@
         "id": "BD/W95-078R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-079": {
     "name": "最高のおもてなし",
@@ -1735,7 +1813,8 @@
         "id": "BD/W95-079R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-080": {
     "name": "“信じていいの？”今井リサ",
@@ -1757,7 +1836,8 @@
         "id": "BD/W95-080SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-081": {
     "name": "“ドキドキのお嬢様学校”倉田ましろ",
@@ -1779,7 +1859,8 @@
         "id": "BD/W95-081SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-082": {
     "name": "“青薔薇の道”湊友希那",
@@ -1801,7 +1882,8 @@
         "id": "BD/W95-082SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-083": {
     "name": "“今ここにいる私達”市ヶ谷有咲",
@@ -1823,7 +1905,8 @@
         "id": "BD/W95-083SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-084": {
     "name": "“VERSUS”湊友希那",
@@ -1845,7 +1928,8 @@
         "id": "BD/W95-084SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-085": {
     "name": "“理想の場所へ”氷川紗夜",
@@ -1867,7 +1951,8 @@
         "id": "BD/W95-085SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-086": {
     "name": "“ギリギリのお花見”今井リサ",
@@ -1889,7 +1974,8 @@
         "id": "BD/W95-086SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-087": {
     "name": "“おっきなステージ”宇田川あこ",
@@ -1911,7 +1997,8 @@
         "id": "BD/W95-087SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-088": {
     "name": "“心、震える音”花園たえ",
@@ -1933,7 +2020,8 @@
         "id": "BD/W95-088SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-089": {
     "name": "“すべての人へ”大和麻弥",
@@ -1955,7 +2043,8 @@
         "id": "BD/W95-089SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-090": {
     "name": "“ピピッとよろしく！”氷川日菜",
@@ -1977,7 +2066,8 @@
         "id": "BD/W95-090SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-091": {
     "name": "“新しい世界に”白金燐子",
@@ -1999,7 +2089,8 @@
         "id": "BD/W95-091SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-092": {
     "name": "“お姉ちゃんだから”二葉つくし",
@@ -2021,7 +2112,8 @@
         "id": "BD/W95-092SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-093": {
     "name": "“知識の海へ”八潮瑠唯",
@@ -2043,7 +2135,8 @@
         "id": "BD/W95-093SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-094": {
     "name": "“あなたがいたから”パレオ",
@@ -2065,7 +2158,8 @@
         "id": "BD/W95-094SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-095": {
     "name": "“クローゼットの涙”チュチュ",
@@ -2087,7 +2181,8 @@
         "id": "BD/W95-095SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-096": {
     "name": "“花丸リーダーシップ”二葉つくし",
@@ -2109,7 +2204,8 @@
         "id": "BD/W95-096SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-097": {
     "name": "“舞台監督”大和麻弥",
@@ -2131,7 +2227,8 @@
         "id": "BD/W95-097SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-098": {
     "name": "“追いかけていたい”宇田川あこ",
@@ -2153,7 +2250,8 @@
         "id": "BD/W95-098SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-099": {
     "name": "“ようこそパーティへ！”倉田ましろ",
@@ -2175,7 +2273,8 @@
         "id": "BD/W95-099SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-100": {
     "name": "“未知との遭遇”八潮瑠唯",
@@ -2197,7 +2296,8 @@
         "id": "BD/W95-100SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-101": {
     "name": "“勧誘、ギタリスト！”パレオ",
@@ -2219,7 +2319,8 @@
         "id": "BD/W95-101SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-102": {
     "name": "“孤高のウィザード”白金燐子",
@@ -2241,7 +2342,8 @@
         "id": "BD/W95-102SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-103": {
     "name": "“２人で見た星空”氷川紗夜",
@@ -2263,7 +2365,8 @@
         "id": "BD/W95-103SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-104": {
     "name": "“世界を変える力”チュチュ",
@@ -2285,7 +2388,8 @@
         "id": "BD/W95-104SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-105": {
     "name": "“頼れる書記に”市ヶ谷有咲",
@@ -2307,7 +2411,8 @@
         "id": "BD/W95-105SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-106": {
     "name": "“大切なメモワール”花園たえ",
@@ -2329,7 +2434,8 @@
         "id": "BD/W95-106SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-107": {
     "name": "“慈愛のまなざし”パレオ",
@@ -2351,7 +2457,8 @@
         "id": "BD/W95-107S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-108": {
     "name": "“使い込まれた楽譜”八潮瑠唯",
@@ -2373,7 +2480,8 @@
         "id": "BD/W95-108S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-109": {
     "name": "“雨とともに”氷川紗夜",
@@ -2395,7 +2503,8 @@
         "id": "BD/W95-109S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-110": {
     "name": "“立派な生徒会長に”白金燐子",
@@ -2417,7 +2526,8 @@
         "id": "BD/W95-110S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-111": {
     "name": "“World is ours！”チュチュ",
@@ -2439,7 +2549,8 @@
         "id": "BD/W95-111S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-112": {
     "name": "“傑作の予感”花園たえ",
@@ -2461,7 +2572,8 @@
         "id": "BD/W95-112S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-113": {
     "name": "“思い出の短冊”市ヶ谷有咲",
@@ -2483,7 +2595,8 @@
         "id": "BD/W95-113S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-114": {
     "name": "“友へ贈る花束”湊友希那",
@@ -2505,7 +2618,8 @@
         "id": "BD/W95-114S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-115": {
     "name": "“宣戦布告”今井リサ",
@@ -2527,7 +2641,8 @@
         "id": "BD/W95-115S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-116": {
     "name": "“言わなくちゃ……！”倉田ましろ",
@@ -2549,7 +2664,8 @@
         "id": "BD/W95-116S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-117": {
     "name": "“モーニングコール”二葉つくし",
@@ -2571,7 +2687,8 @@
         "id": "BD/W95-117S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-118": {
     "name": "“気づかいの空回り”宇田川あこ",
@@ -2593,7 +2710,8 @@
         "id": "BD/W95-118S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-119": {
     "name": "想いの懸け橋",
@@ -2615,7 +2733,8 @@
         "id": "BD/W95-119S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-120": {
     "name": "外国語の訳し方",
@@ -2637,7 +2756,8 @@
         "id": "BD/W95-120S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W95-121": {
     "name": "いつか至る場所",
@@ -2659,7 +2779,8 @@
         "id": "BD/W95-121R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-122": {
     "name": "パン食い競走！",
@@ -2681,7 +2802,8 @@
         "id": "BD/W95-122R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-123": {
     "name": "深淵のネクロマンサー",
@@ -2703,7 +2825,8 @@
         "id": "BD/W95-123R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BD/W95-124": {
     "name": "憧れの光を浴びて",
@@ -2725,7 +2848,8 @@
         "id": "BD/W95-124R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-125": {
     "name": "できた！実力の証明",
@@ -2747,7 +2871,8 @@
         "id": "BD/W95-125R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W95-126": {
     "name": "セッションは全員で",
@@ -2769,6 +2894,7 @@
         "id": "BD/W95-126R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

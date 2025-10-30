@@ -19,7 +19,8 @@
         "id": "RG/W26-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-002": {
     "name": "絶対能力進化計画 一方通行",
@@ -41,7 +42,8 @@
         "id": "RG/W26-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-003": {
     "name": "“アイテム”麦野",
@@ -63,7 +65,8 @@
         "id": "RG/W26-003R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-004": {
     "name": "妨害活動 フレンダ",
@@ -81,7 +84,8 @@
         "id": "RG/W26-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-005": {
     "name": "天才科学者 布束",
@@ -103,7 +107,8 @@
         "id": "RG/W26-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-006": {
     "name": "絶対的な力 一方通行",
@@ -121,7 +126,8 @@
         "id": "RG/W26-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-007": {
     "name": "“アイテム”絹旗",
@@ -139,7 +145,8 @@
         "id": "RG/W26-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-008": {
     "name": "量産能力者計画 御坂妹",
@@ -161,7 +168,8 @@
         "id": "RG/W26-008SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-009": {
     "name": "“超能力者”麦野",
@@ -179,7 +187,8 @@
         "id": "RG/W26-009",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-010": {
     "name": "“アイテム”フレンダ",
@@ -201,7 +210,8 @@
         "id": "RG/W26-010R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-011": {
     "name": "第一次実験 一方通行",
@@ -219,7 +229,8 @@
         "id": "RG/W26-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-012": {
     "name": "不思議な力 当麻",
@@ -237,7 +248,8 @@
         "id": "RG/W26-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-013": {
     "name": "実験候補者 一方通行",
@@ -255,7 +267,8 @@
         "id": "RG/W26-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-014": {
     "name": "“アイテム”滝壺",
@@ -273,7 +286,8 @@
         "id": "RG/W26-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-015": {
     "name": "九九八二番目の量産型 ミサカ",
@@ -291,7 +305,8 @@
         "id": "RG/W26-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-016": {
     "name": "フレンダ＝セイヴェルン",
@@ -309,7 +324,8 @@
         "id": "RG/W26-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-017": {
     "name": "容赦無い性格 一方通行",
@@ -327,7 +343,8 @@
         "id": "RG/W26-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-018": {
     "name": "“原子崩し”麦野",
@@ -345,7 +362,8 @@
         "id": "RG/W26-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-019": {
     "name": "“最弱”当麻",
@@ -363,7 +381,8 @@
         "id": "RG/W26-019",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-020": {
     "name": "長点上機学園の生徒 布束",
@@ -381,7 +400,8 @@
         "id": "RG/W26-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-021": {
     "name": "学園都市の第四位 麦野",
@@ -399,7 +419,8 @@
         "id": "RG/W26-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-022": {
     "name": "動物好き 御坂妹",
@@ -417,7 +438,8 @@
         "id": "RG/W26-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-023": {
     "name": "妹達",
@@ -435,7 +457,8 @@
         "id": "RG/W26-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-024": {
     "name": "暗部組織のリーダー 麦野",
@@ -453,7 +476,8 @@
         "id": "RG/W26-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-025": {
     "name": "とある高校の学生 当麻",
@@ -471,7 +495,8 @@
         "id": "RG/W26-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-026": {
     "name": "無敵への道 一方通行",
@@ -489,7 +514,8 @@
         "id": "RG/W26-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-027": {
     "name": "“欠陥電気”御坂妹",
@@ -507,7 +533,8 @@
         "id": "RG/W26-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-028": {
     "name": "爆弾の使い手 フレンダ",
@@ -525,7 +552,8 @@
         "id": "RG/W26-028",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-029": {
     "name": "“学園都市”御坂妹",
@@ -543,7 +571,8 @@
         "id": "RG/W26-029",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-030": {
     "name": "人形爆弾",
@@ -561,7 +590,8 @@
         "id": "RG/W26-030",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-031": {
     "name": "テスタメント",
@@ -579,7 +609,8 @@
         "id": "RG/W26-031",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-032": {
     "name": "姉妹",
@@ -597,7 +628,8 @@
         "id": "RG/W26-032",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-033": {
     "name": "原子崩し",
@@ -615,7 +647,8 @@
         "id": "RG/W26-033",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-034": {
     "name": "最強と最弱",
@@ -633,7 +666,8 @@
         "id": "RG/W26-034",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RG/W26-035": {
     "name": "爆弾使い",
@@ -651,7 +685,8 @@
         "id": "RG/W26-035",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RG/W26-036": {
     "name": "“学園都市”佐天",
@@ -673,7 +708,8 @@
         "id": "RG/W26-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-037": {
     "name": "“パッショングリーン”佐天",
@@ -691,7 +727,8 @@
         "id": "RG/W26-037",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-038": {
     "name": "“パッションピンク”初春",
@@ -709,7 +746,8 @@
         "id": "RG/W26-038",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-039": {
     "name": "情報収集担当 初春",
@@ -727,7 +765,8 @@
         "id": "RG/W26-039",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-040": {
     "name": "“学園都市”初春",
@@ -749,7 +788,8 @@
         "id": "RG/W26-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-041": {
     "name": "“低能力者”初春",
@@ -767,7 +807,8 @@
         "id": "RG/W26-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-042": {
     "name": "仲良し 佐天＆初春",
@@ -785,7 +826,8 @@
         "id": "RG/W26-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-043": {
     "name": "妄想中 初春",
@@ -803,7 +845,8 @@
         "id": "RG/W26-043",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-044": {
     "name": "部屋着の佐天",
@@ -821,7 +864,8 @@
         "id": "RG/W26-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-045": {
     "name": "うわさ話 佐天",
@@ -839,7 +883,8 @@
         "id": "RG/W26-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-046": {
     "name": "鼻が利く 佐天",
@@ -857,7 +902,8 @@
         "id": "RG/W26-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-047": {
     "name": "心配する初春",
@@ -875,7 +921,8 @@
         "id": "RG/W26-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-048": {
     "name": "“ムサシノ牛乳”固法",
@@ -893,7 +940,8 @@
         "id": "RG/W26-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-049": {
     "name": "“いちごおでん”初春",
@@ -911,7 +959,8 @@
         "id": "RG/W26-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-050": {
     "name": "もぐもぐ春上",
@@ -929,7 +978,8 @@
         "id": "RG/W26-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-051": {
     "name": "助けを求める佐天",
@@ -947,7 +997,8 @@
         "id": "RG/W26-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-052": {
     "name": "病院の佐天",
@@ -965,7 +1016,8 @@
         "id": "RG/W26-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-053": {
     "name": "マネーカード探し",
@@ -983,7 +1035,8 @@
         "id": "RG/W26-053",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-054": {
     "name": "路地裏の脱出",
@@ -1001,7 +1054,8 @@
         "id": "RG/W26-054",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-055": {
     "name": "位置特定",
@@ -1019,7 +1073,8 @@
         "id": "RG/W26-055",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RG/W26-056": {
     "name": "コインの行方 美琴",
@@ -1041,7 +1096,8 @@
         "id": "RG/W26-056SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-057": {
     "name": "散歩中 美琴",
@@ -1063,7 +1119,8 @@
         "id": "RG/W26-057R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-058": {
     "name": "“学園都市”黒子",
@@ -1085,7 +1142,8 @@
         "id": "RG/W26-058SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-059": {
     "name": "“パッションオレンジ”美琴",
@@ -1107,7 +1165,8 @@
         "id": "RG/W26-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-060": {
     "name": "平和を守る者 黒子",
@@ -1129,7 +1188,8 @@
         "id": "RG/W26-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-061": {
     "name": "“心理掌握”食蜂",
@@ -1151,7 +1211,8 @@
         "id": "RG/W26-061SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-062": {
     "name": "ある日の休日 美琴",
@@ -1173,7 +1234,8 @@
         "id": "RG/W26-062R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-063": {
     "name": "“パッションパープル”黒子",
@@ -1195,7 +1257,8 @@
         "id": "RG/W26-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-064": {
     "name": "成績優秀 美琴",
@@ -1213,7 +1276,8 @@
         "id": "RG/W26-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-065": {
     "name": "運動神経抜群 美琴",
@@ -1231,7 +1295,8 @@
         "id": "RG/W26-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-066": {
     "name": "強い正義感 黒子",
@@ -1249,7 +1314,8 @@
         "id": "RG/W26-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-067": {
     "name": "仕事は真面目 黒子",
@@ -1267,7 +1333,8 @@
         "id": "RG/W26-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-068": {
     "name": "橋上の決意 美琴",
@@ -1285,7 +1352,8 @@
         "id": "RG/W26-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-069": {
     "name": "病院の美琴",
@@ -1303,7 +1371,8 @@
         "id": "RG/W26-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-070": {
     "name": "“学園都市”美琴",
@@ -1321,7 +1390,8 @@
         "id": "RG/W26-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-071": {
     "name": "お仕事中 黒子",
@@ -1339,7 +1409,8 @@
         "id": "RG/W26-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-072": {
     "name": "図書館の美琴",
@@ -1357,7 +1428,8 @@
         "id": "RG/W26-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-073": {
     "name": "慕われる存在 美琴",
@@ -1375,7 +1447,8 @@
         "id": "RG/W26-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-074": {
     "name": "“女王”食蜂 操祈",
@@ -1393,7 +1466,8 @@
         "id": "RG/W26-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-075": {
     "name": "“ツインテール”黒子",
@@ -1411,7 +1485,8 @@
         "id": "RG/W26-075",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-076": {
     "name": "通学中 美琴",
@@ -1429,7 +1504,8 @@
         "id": "RG/W26-076",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W26-077": {
     "name": "鬼の居ぬ間に",
@@ -1447,7 +1523,8 @@
         "id": "RG/W26-077",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-078": {
     "name": "目撃者",
@@ -1465,7 +1542,8 @@
         "id": "RG/W26-078",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RG/W26-079": {
     "name": "超電磁砲",
@@ -1483,7 +1561,8 @@
         "id": "RG/W26-079",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RG/W26-080": {
     "name": "変えれない過去",
@@ -1501,6 +1580,7 @@
         "id": "RG/W26-080",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

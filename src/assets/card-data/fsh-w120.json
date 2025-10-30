@@ -23,7 +23,8 @@
         "id": "Fsh/W120-039SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fsh/W120-041": {
     "name": "差し出した手 恵",
@@ -45,7 +46,8 @@
         "id": "Fsh/W120-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsh/W120-042": {
     "name": "運命のやり直し 恵",
@@ -67,7 +69,8 @@
         "id": "Fsh/W120-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsh/W120-048": {
     "name": "夜通しの通話 恵",
@@ -89,7 +92,8 @@
         "id": "Fsh/W120-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsh/W120-055": {
     "name": "生まれたときからの幼なじみ 美智留",
@@ -111,7 +115,8 @@
         "id": "Fsh/W120-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fsh/W120-067": {
     "name": "触れられたくない過去 英梨々",
@@ -133,7 +138,8 @@
         "id": "Fsh/W120-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsh/W120-071": {
     "name": "新生『blessing software』",
@@ -155,7 +161,8 @@
         "id": "Fsh/W120-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsh/W120-073": {
     "name": "運命と出逢った日",
@@ -181,7 +188,8 @@
         "id": "Fsh/W120-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsh/W120-079": {
     "name": "あなただけのメインヒロイン 恵",
@@ -207,7 +215,8 @@
         "id": "Fsh/W120-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fsh/W120-084": {
     "name": "覚醒のきっかけ 詩羽",
@@ -229,7 +238,8 @@
         "id": "Fsh/W120-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsh/W120-091": {
     "name": "クリエイターの原石 出海",
@@ -251,7 +261,8 @@
         "id": "Fsh/W120-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsh/W120-105": {
     "name": "フラットな振る舞い 恵",
@@ -273,7 +284,8 @@
         "id": "Fsh/W120-105S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fsh/W120-109": {
     "name": "運命に導かれた坂道",
@@ -299,6 +311,7 @@
         "id": "Fsh/W120-109SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

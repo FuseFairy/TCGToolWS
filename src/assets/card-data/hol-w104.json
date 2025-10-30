@@ -23,7 +23,8 @@
         "id": "HOL/W104-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-002": {
     "name": "未来へと踏み出す一歩 森カリオペ",
@@ -49,7 +50,8 @@
         "id": "HOL/W104-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-003": {
     "name": "夏の思い出 大空スバル",
@@ -75,7 +77,8 @@
         "id": "HOL/W104-003SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-004": {
     "name": "未来へと踏み出す一歩 ラプラス・ダークネス",
@@ -101,7 +104,8 @@
         "id": "HOL/W104-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-005": {
     "name": "かぷっとNight☆Sky 夜空メル",
@@ -127,7 +131,8 @@
         "id": "HOL/W104-005SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-006": {
     "name": "手作りのお守り 風真いろは",
@@ -153,7 +158,8 @@
         "id": "HOL/W104-006SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-007": {
     "name": "お姫様のお茶会 夏色まつり",
@@ -179,7 +185,8 @@
         "id": "HOL/W104-007SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-008": {
     "name": "名探偵 ワトソン・アメリア",
@@ -205,7 +212,8 @@
         "id": "HOL/W104-008SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-009": {
     "name": "キミとの温かい時間 角巻わため",
@@ -231,7 +239,8 @@
         "id": "HOL/W104-009SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-010": {
     "name": "不死鳥の矜持 小鳥遊キアラ",
@@ -257,7 +266,8 @@
         "id": "HOL/W104-010SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-011": {
     "name": "朝の挨拶 戌神ころね",
@@ -283,7 +293,8 @@
         "id": "HOL/W104-011SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-012": {
     "name": "いつもそばに 博衣こより",
@@ -309,7 +320,8 @@
         "id": "HOL/W104-012SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-013": {
     "name": "エルフのお茶会 不知火フレア",
@@ -335,7 +347,8 @@
         "id": "HOL/W104-013SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-014": {
     "name": "未来へと踏み出す一歩 戌神ころね",
@@ -361,7 +374,8 @@
         "id": "HOL/W104-014SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-015": {
     "name": "未来へと踏み出す一歩 不知火フレア",
@@ -387,7 +401,8 @@
         "id": "HOL/W104-015SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-016": {
     "name": "未来へと踏み出す一歩 天音かなた",
@@ -413,7 +428,8 @@
         "id": "HOL/W104-016SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-017": {
     "name": "未来へと踏み出す一歩 角巻わため",
@@ -439,7 +455,8 @@
         "id": "HOL/W104-017SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-018": {
     "name": "未来へと踏み出す一歩 大空スバル",
@@ -465,7 +482,8 @@
         "id": "HOL/W104-018SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-019": {
     "name": "未来へと踏み出す一歩 夏色まつり",
@@ -491,7 +509,8 @@
         "id": "HOL/W104-019SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-020": {
     "name": "唐揚げ狩りをするラプラス・ダークネス",
@@ -513,7 +532,8 @@
         "id": "HOL/W104-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-021": {
     "name": "未来へと踏み出す一歩 夜空メル",
@@ -539,7 +559,8 @@
         "id": "HOL/W104-021SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-022": {
     "name": "未来へと踏み出す一歩 博衣こより",
@@ -565,7 +586,8 @@
         "id": "HOL/W104-022SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-023": {
     "name": "未来へと踏み出す一歩 風真いろは",
@@ -591,7 +613,8 @@
         "id": "HOL/W104-023SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-024": {
     "name": "未来へと踏み出す一歩 ワトソン・アメリア",
@@ -617,7 +640,8 @@
         "id": "HOL/W104-024SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-025": {
     "name": "唐揚げの木 ラプラス・ダークネス",
@@ -639,7 +663,8 @@
         "id": "HOL/W104-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-026": {
     "name": "未来へと踏み出す一歩 小鳥遊キアラ",
@@ -665,7 +690,8 @@
         "id": "HOL/W104-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-027": {
     "name": "名プロデューサー？ 角巻わため",
@@ -687,7 +713,8 @@
         "id": "HOL/W104-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-028": {
     "name": "物件探し 夜空メル",
@@ -709,7 +736,8 @@
         "id": "HOL/W104-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-029": {
     "name": "反撃 不知火フレア",
@@ -731,7 +759,8 @@
         "id": "HOL/W104-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-030": {
     "name": "一騎打ち 風真いろは",
@@ -753,7 +782,8 @@
         "id": "HOL/W104-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-031": {
     "name": "玉手箱を探しに 戌神ころね",
@@ -775,7 +805,8 @@
         "id": "HOL/W104-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-032": {
     "name": "元気ですかー！ 夏色まつり",
@@ -797,7 +828,8 @@
         "id": "HOL/W104-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-033": {
     "name": "研究の成果 博衣こより",
@@ -819,7 +851,8 @@
         "id": "HOL/W104-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-034": {
     "name": "宇宙の彼方へ 大空スバル",
@@ -841,7 +874,8 @@
         "id": "HOL/W104-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-035": {
     "name": "この世のものは脆すぎる 天音かなた",
@@ -863,7 +897,8 @@
         "id": "HOL/W104-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-036": {
     "name": "#秘密結社holoX",
@@ -885,7 +920,8 @@
         "id": "HOL/W104-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-037": {
     "name": "Your Mori.",
@@ -911,7 +947,8 @@
         "id": "HOL/W104-037SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-038": {
     "name": "太陽、きらめいて",
@@ -933,7 +970,8 @@
         "id": "HOL/W104-038R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-039": {
     "name": "両手いっぱいの幸せ",
@@ -959,7 +997,8 @@
         "id": "HOL/W104-039SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-040": {
     "name": "プールでまったり 大神ミオ",
@@ -985,7 +1024,8 @@
         "id": "HOL/W104-040SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-041": {
     "name": "ゆったりひととき IRyS",
@@ -1011,7 +1051,8 @@
         "id": "HOL/W104-041SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-042": {
     "name": "純白を纏う 常闇トワ",
@@ -1037,7 +1078,8 @@
         "id": "HOL/W104-042SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-043": {
     "name": "春の空、舞う桜 ときのそら",
@@ -1063,7 +1105,8 @@
         "id": "HOL/W104-043SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-044": {
     "name": "未来へと踏み出す一歩 セレス・ファウナ",
@@ -1089,7 +1132,8 @@
         "id": "HOL/W104-044SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-045": {
     "name": "お家にお邪魔します…！ 猫又おかゆ",
@@ -1115,7 +1159,8 @@
         "id": "HOL/W104-045SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-046": {
     "name": "未来へと踏み出す一歩 ハコス・ベールズ",
@@ -1141,7 +1186,8 @@
         "id": "HOL/W104-046SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-047": {
     "name": "花畑と踊り子 アキロゼ",
@@ -1167,7 +1213,8 @@
         "id": "HOL/W104-047SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-048": {
     "name": "茜さす地でキミと 白上フブキ",
@@ -1193,7 +1240,8 @@
         "id": "HOL/W104-048SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-049": {
     "name": "恥じらうお姫様 姫森ルーナ",
@@ -1219,7 +1267,8 @@
         "id": "HOL/W104-049SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-050": {
     "name": "未来へと踏み出す一歩 姫森ルーナ",
@@ -1245,7 +1294,8 @@
         "id": "HOL/W104-050SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-051": {
     "name": "未来へと踏み出す一歩 猫又おかゆ",
@@ -1271,7 +1321,8 @@
         "id": "HOL/W104-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-052": {
     "name": "未来へと踏み出す一歩 ときのそら",
@@ -1297,7 +1348,8 @@
         "id": "HOL/W104-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-053": {
     "name": "未来へと踏み出す一歩 大神ミオ",
@@ -1323,7 +1375,8 @@
         "id": "HOL/W104-053SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-054": {
     "name": "未来へと踏み出す一歩 常闇トワ",
@@ -1349,7 +1402,8 @@
         "id": "HOL/W104-054SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-055": {
     "name": "未来へと踏み出す一歩 白上フブキ",
@@ -1375,7 +1429,8 @@
         "id": "HOL/W104-055SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-056": {
     "name": "未来へと踏み出す一歩 アキロゼ",
@@ -1401,7 +1456,8 @@
         "id": "HOL/W104-056SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-057": {
     "name": "マナー講師 常闇トワ",
@@ -1423,7 +1479,8 @@
         "id": "HOL/W104-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-058": {
     "name": "ヴァンパイアハンター 白上フブキ",
@@ -1445,7 +1502,8 @@
         "id": "HOL/W104-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-059": {
     "name": "資産運用 アキロゼ",
@@ -1467,7 +1525,8 @@
         "id": "HOL/W104-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-060": {
     "name": "池でぬし釣り 大神ミオ",
@@ -1489,7 +1548,8 @@
         "id": "HOL/W104-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-061": {
     "name": "かくれんぼ 姫森ルーナ",
@@ -1511,7 +1571,8 @@
         "id": "HOL/W104-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-062": {
     "name": "先輩の圧 ときのそら",
@@ -1533,7 +1594,8 @@
         "id": "HOL/W104-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-063": {
     "name": "おにぎりバーテンダー 猫又おかゆ",
@@ -1555,7 +1617,8 @@
         "id": "HOL/W104-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-064": {
     "name": "未来へと踏み出す一歩 IRyS",
@@ -1581,7 +1644,8 @@
         "id": "HOL/W104-064SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-065": {
     "name": "目覚めは一緒に",
@@ -1603,7 +1667,8 @@
         "id": "HOL/W104-065R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-066": {
     "name": "自然の番人",
@@ -1629,7 +1694,8 @@
         "id": "HOL/W104-066SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-067": {
     "name": "ありがチュー！",
@@ -1655,7 +1721,8 @@
         "id": "HOL/W104-067SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-068": {
     "name": "白上の秘密基地",
@@ -1677,7 +1744,8 @@
         "id": "HOL/W104-068R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-069": {
     "name": "二人きりのアンコール 尾丸ポルカ",
@@ -1703,7 +1771,8 @@
         "id": "HOL/W104-069SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-070": {
     "name": "未来へと踏み出す一歩 沙花叉クロヱ",
@@ -1729,7 +1798,8 @@
         "id": "HOL/W104-070SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-071": {
     "name": "鬼ポップ 百鬼あやめ",
@@ -1755,7 +1825,8 @@
         "id": "HOL/W104-071SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-072": {
     "name": "未来へと踏み出す一歩 クレイジー・オリー",
@@ -1781,7 +1852,8 @@
         "id": "HOL/W104-072SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-073": {
     "name": "甘い彼女 ロボ子さん",
@@ -1807,7 +1879,8 @@
         "id": "HOL/W104-073SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-074": {
     "name": "二人きりの時間… パヴォリア・レイネ",
@@ -1833,7 +1906,8 @@
         "id": "HOL/W104-074SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-075": {
     "name": "いただきバレンタイン 癒月ちょこ",
@@ -1859,7 +1933,8 @@
         "id": "HOL/W104-075SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-076": {
     "name": "桃色天使 赤井はあと",
@@ -1885,7 +1960,8 @@
         "id": "HOL/W104-076SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-077": {
     "name": "雨宿りと相合い傘 鷹嶺ルイ",
@@ -1911,7 +1987,8 @@
         "id": "HOL/W104-077SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-078": {
     "name": "Reminiscence アーニャ・メルフィッサ",
@@ -1937,7 +2014,8 @@
         "id": "HOL/W104-078SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-079": {
     "name": "自宅でハプニング？ 桃鈴ねね",
@@ -1963,7 +2041,8 @@
         "id": "HOL/W104-079SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-080": {
     "name": "寝惚け眼で さくらみこ",
@@ -1989,7 +2068,8 @@
         "id": "HOL/W104-080SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-081": {
     "name": "海で遊んだ後は… 宝鐘マリン",
@@ -2015,7 +2095,8 @@
         "id": "HOL/W104-081SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-082": {
     "name": "海辺の街でキミと AZKi",
@@ -2041,7 +2122,8 @@
         "id": "HOL/W104-082SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-083": {
     "name": "未来へと踏み出す一歩 百鬼あやめ",
@@ -2067,7 +2149,8 @@
         "id": "HOL/W104-083SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-084": {
     "name": "未来へと踏み出す一歩 癒月ちょこ",
@@ -2093,7 +2176,8 @@
         "id": "HOL/W104-084SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-085": {
     "name": "布教活動 沙花叉クロヱ",
@@ -2115,7 +2199,8 @@
         "id": "HOL/W104-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-086": {
     "name": "未来へと踏み出す一歩 AZKi",
@@ -2141,7 +2226,8 @@
         "id": "HOL/W104-086SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-087": {
     "name": "未来へと踏み出す一歩 赤井はあと",
@@ -2167,7 +2253,8 @@
         "id": "HOL/W104-087SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-088": {
     "name": "未来へと踏み出す一歩 パヴォリア・レイネ",
@@ -2193,7 +2280,8 @@
         "id": "HOL/W104-088SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-089": {
     "name": "未来へと踏み出す一歩 さくらみこ",
@@ -2219,7 +2307,8 @@
         "id": "HOL/W104-089SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-090": {
     "name": "未来へと踏み出す一歩 宝鐘マリン",
@@ -2245,7 +2334,8 @@
         "id": "HOL/W104-090SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-091": {
     "name": "未来へと踏み出す一歩 尾丸ポルカ",
@@ -2271,7 +2361,8 @@
         "id": "HOL/W104-091SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-092": {
     "name": "未来へと踏み出す一歩 鷹嶺ルイ",
@@ -2297,7 +2388,8 @@
         "id": "HOL/W104-092SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-093": {
     "name": "未来へと踏み出す一歩 ロボ子さん",
@@ -2323,7 +2415,8 @@
         "id": "HOL/W104-093SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-094": {
     "name": "未来へと踏み出す一歩 桃鈴ねね",
@@ -2349,7 +2442,8 @@
         "id": "HOL/W104-094SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-095": {
     "name": "蜘蛛使い 赤井はあと",
@@ -2371,7 +2465,8 @@
         "id": "HOL/W104-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-096": {
     "name": "ねねロゼ 桃鈴ねね",
@@ -2393,7 +2488,8 @@
         "id": "HOL/W104-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-097": {
     "name": "人類みなお寿司 尾丸ポルカ",
@@ -2415,7 +2511,8 @@
         "id": "HOL/W104-097S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-098": {
     "name": "池でぬし釣り さくらみこ",
@@ -2437,7 +2534,8 @@
         "id": "HOL/W104-098S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-099": {
     "name": "アニキ 百鬼あやめ",
@@ -2459,7 +2557,8 @@
         "id": "HOL/W104-099S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-100": {
     "name": "相手になるよ！ ロボ子さん",
@@ -2481,7 +2580,8 @@
         "id": "HOL/W104-100S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-101": {
     "name": "成功へのメソッド 鷹嶺ルイ",
@@ -2503,7 +2603,8 @@
         "id": "HOL/W104-101S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-102": {
     "name": "無敵の保健医 癒月ちょこ",
@@ -2525,7 +2626,8 @@
         "id": "HOL/W104-102S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-103": {
     "name": "謝罪会見 沙花叉クロヱ",
@@ -2547,7 +2649,8 @@
         "id": "HOL/W104-103S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-104": {
     "name": "謝罪会見 宝鐘マリン",
@@ -2569,7 +2672,8 @@
         "id": "HOL/W104-104S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-105": {
     "name": "未来へと踏み出す一歩 アーニャ・メルフィッサ",
@@ -2595,7 +2699,8 @@
         "id": "HOL/W104-105SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-106": {
     "name": "ふたりじめビーチ",
@@ -2621,7 +2726,8 @@
         "id": "HOL/W104-106SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-107": {
     "name": "一方、別の世界で…",
@@ -2647,7 +2753,8 @@
         "id": "HOL/W104-107SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-108": {
     "name": "REPEAT THiS LiFE WiTH U",
@@ -2669,7 +2776,8 @@
         "id": "HOL/W104-108R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-109": {
     "name": "ジェラートをおひとつ",
@@ -2691,7 +2799,8 @@
         "id": "HOL/W104-109R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-110": {
     "name": "街明かりと冬の街 雪花ラミィ",
@@ -2717,7 +2826,8 @@
         "id": "HOL/W104-110SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-111": {
     "name": "誕生日にデート ムーナ・ホシノヴァ",
@@ -2743,7 +2853,8 @@
         "id": "HOL/W104-111SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-112": {
     "name": "ネコミミモード 紫咲シオン",
@@ -2769,7 +2880,8 @@
         "id": "HOL/W104-112SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-113": {
     "name": "未来へと踏み出す一歩 がうる・ぐら",
@@ -2795,7 +2907,8 @@
         "id": "HOL/W104-113SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-114": {
     "name": "未来へと踏み出す一歩 アユンダ・リス",
@@ -2821,7 +2934,8 @@
         "id": "HOL/W104-114SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-115": {
     "name": "野うさぎの休日 兎田ぺこら",
@@ -2847,7 +2961,8 @@
         "id": "HOL/W104-115SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-116": {
     "name": "いなとタコグラム 一伊那尓栖",
@@ -2873,7 +2988,8 @@
         "id": "HOL/W104-116SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-117": {
     "name": "キミと混浴 白銀ノエル",
@@ -2899,7 +3015,8 @@
         "id": "HOL/W104-117SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-118": {
     "name": "枕を並べ合って オーロ・クロニー",
@@ -2925,7 +3042,8 @@
         "id": "HOL/W104-118SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-119": {
     "name": "パステルラッパー 湊あくあ",
@@ -2951,7 +3069,8 @@
         "id": "HOL/W104-119SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-120": {
     "name": "未来へと踏み出す一歩 七詩ムメイ",
@@ -2977,7 +3096,8 @@
         "id": "HOL/W104-120SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-121": {
     "name": "路地裏のライオン 獅白ぼたん",
@@ -3003,7 +3123,8 @@
         "id": "HOL/W104-121SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-122": {
     "name": "私の家で…♡ アイラニ・イオフィフティーン",
@@ -3029,7 +3150,8 @@
         "id": "HOL/W104-122SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-123": {
     "name": "STELLAR into the GALAXY 星街すいせい",
@@ -3055,7 +3177,8 @@
         "id": "HOL/W104-123SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-124": {
     "name": "未来へと踏み出す一歩 雪花ラミィ",
@@ -3081,7 +3204,8 @@
         "id": "HOL/W104-124SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-125": {
     "name": "未来へと踏み出す一歩 オーロ・クロニー",
@@ -3107,7 +3231,8 @@
         "id": "HOL/W104-125SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-126": {
     "name": "未来へと踏み出す一歩 白銀ノエル",
@@ -3133,7 +3258,8 @@
         "id": "HOL/W104-126SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-127": {
     "name": "未来へと踏み出す一歩 ムーナ・ホシノヴァ",
@@ -3159,7 +3285,8 @@
         "id": "HOL/W104-127SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-128": {
     "name": "未来へと踏み出す一歩 紫咲シオン",
@@ -3185,7 +3312,8 @@
         "id": "HOL/W104-128SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-129": {
     "name": "未来へと踏み出す一歩 獅白ぼたん",
@@ -3211,7 +3339,8 @@
         "id": "HOL/W104-129SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-130": {
     "name": "未来へと踏み出す一歩 兎田ぺこら",
@@ -3237,7 +3366,8 @@
         "id": "HOL/W104-130SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-131": {
     "name": "未来へと踏み出す一歩 星街すいせい",
@@ -3263,7 +3393,8 @@
         "id": "HOL/W104-131SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-132": {
     "name": "未来へと踏み出す一歩 湊あくあ",
@@ -3289,7 +3420,8 @@
         "id": "HOL/W104-132SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-133": {
     "name": "ここほれワンワン 湊あくあ",
@@ -3311,7 +3443,8 @@
         "id": "HOL/W104-133S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-134": {
     "name": "未来へと踏み出す一歩 アイラニ・イオフィフティーン",
@@ -3337,7 +3470,8 @@
         "id": "HOL/W104-134SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-135": {
     "name": "寡黙な寿司職人 星街すいせい",
@@ -3359,7 +3493,8 @@
         "id": "HOL/W104-135S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-136": {
     "name": "ルールの向こう側へ 獅白ぼたん",
@@ -3381,7 +3516,8 @@
         "id": "HOL/W104-136S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-137": {
     "name": "チョコレートの魔力 兎田ぺこら",
@@ -3403,7 +3539,8 @@
         "id": "HOL/W104-137S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-138": {
     "name": "最後の晩餐 紫咲シオン",
@@ -3425,7 +3562,8 @@
         "id": "HOL/W104-138S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-139": {
     "name": "未来へと踏み出す一歩 一伊那尓栖",
@@ -3451,7 +3589,8 @@
         "id": "HOL/W104-139SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-140": {
     "name": "些細な変化 雪花ラミィ",
@@ -3473,7 +3612,8 @@
         "id": "HOL/W104-140S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HOL/W104-141": {
     "name": "脳筋体操 白銀ノエル",
@@ -3495,7 +3635,8 @@
         "id": "HOL/W104-141S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-142": {
     "name": "真夏の太陽",
@@ -3521,7 +3662,8 @@
         "id": "HOL/W104-142SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-143": {
     "name": "魔法のレッスン",
@@ -3547,7 +3689,8 @@
         "id": "HOL/W104-143SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-144": {
     "name": "黄昏の丘で",
@@ -3573,7 +3716,8 @@
         "id": "HOL/W104-144SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HOL/W104-145": {
     "name": "COMET",
@@ -3595,6 +3739,7 @@
         "id": "HOL/W104-145R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

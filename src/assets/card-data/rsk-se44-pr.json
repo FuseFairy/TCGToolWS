@@ -15,7 +15,8 @@
         "id": "RSK/SE44-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-P02": {
     "name": "水着姿 綾瀬 雅 & 天ケ瀬 光璃",
@@ -37,7 +38,8 @@
         "id": "RSK/SE44-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSK/SE44-P03": {
     "name": "私の冒険譚",
@@ -55,6 +57,7 @@
         "id": "RSK/SE44-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "LL/W34-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-P02": {
     "name": "皆で勉強会 海未＆穂乃果＆真姫",
@@ -33,7 +34,8 @@
         "id": "LL/W34-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-P03": {
     "name": "“Happy maker!”",
@@ -51,7 +53,8 @@
         "id": "LL/W34-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-P04": {
     "name": "“叶え！みんなの夢―。”μ's",
@@ -69,7 +72,8 @@
         "id": "LL/W34-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-101": {
     "name": "“Dancing stars on me!”絢瀬 絵里",
@@ -87,7 +91,8 @@
         "id": "LL/W34-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-102": {
     "name": "“Dancing stars on me!”東條 希",
@@ -105,7 +110,8 @@
         "id": "LL/W34-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-103": {
     "name": "“Dancing stars on me!”矢澤 にこ",
@@ -123,7 +129,8 @@
         "id": "LL/W34-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-104": {
     "name": "“Dancing stars on me!”高坂 穂乃果",
@@ -141,7 +148,8 @@
         "id": "LL/W34-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-105": {
     "name": "“Dancing stars on me!”南 ことり",
@@ -159,7 +167,8 @@
         "id": "LL/W34-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-106": {
     "name": "“Dancing stars on me!”園田 海未",
@@ -177,7 +186,8 @@
         "id": "LL/W34-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-107": {
     "name": "“Dancing stars on me!”星空 凛",
@@ -195,7 +205,8 @@
         "id": "LL/W34-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/W34-108": {
     "name": "“Dancing stars on me!”西木野 真姫",
@@ -213,7 +224,8 @@
         "id": "LL/W34-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/W34-109": {
     "name": "“Dancing stars on me!”小泉 花陽",
@@ -231,6 +243,7 @@
         "id": "LL/W34-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

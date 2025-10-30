@@ -19,7 +19,8 @@
         "id": "Gso/WS02-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gso/WS02-006": {
     "name": "仮想世界の旅人たち アスナ",
@@ -41,7 +42,8 @@
         "id": "Gso/WS02-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gso/WS02-016": {
     "name": "せせらぎに身をゆだね アリス",
@@ -63,7 +65,8 @@
         "id": "Gso/WS02-016SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gso/WS02-028": {
     "name": "創世神ステイシア アスナ",
@@ -85,7 +88,8 @@
         "id": "Gso/WS02-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gso/WS02-037": {
     "name": "第五層《カルルイン》にて",
@@ -107,7 +111,8 @@
         "id": "Gso/WS02-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gso/WS02-124": {
     "name": "巡り合う二人 キリト＆アスナ",
@@ -129,7 +134,8 @@
         "id": "Gso/WS02-124SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gso/WS02-128": {
     "name": "仮想世界の旅人たち キリト",
@@ -151,7 +157,8 @@
         "id": "Gso/WS02-128S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gso/WS02-138": {
     "name": "親睦会 ユージオ＆ティーゼ",
@@ -173,7 +180,8 @@
         "id": "Gso/WS02-138S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gso/WS02-144": {
     "name": "ゴンドラの旅 アスナ＆キリト",
@@ -195,6 +203,7 @@
         "id": "Gso/WS02-144S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

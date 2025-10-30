@@ -15,7 +15,8 @@
         "id": "IMS/S61-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IMS/S61-128": {
     "name": "エミリー&箱崎星梨花&宮尾美也",
@@ -33,7 +34,8 @@
         "id": "IMS/S61-128",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IMS/S61-130": {
     "name": "高坂海美&永吉 昴&横山奈緒",
@@ -51,6 +53,7 @@
         "id": "IMS/S61-130",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

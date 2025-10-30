@@ -15,7 +15,8 @@
         "id": "NA/W12-001",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-002": {
     "name": "“雷光”フェイト",
@@ -37,7 +38,8 @@
         "id": "NA/W12-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-003": {
     "name": "“ヴォルケンリッター”シグナム",
@@ -59,7 +61,8 @@
         "id": "NA/W12-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-004": {
     "name": "使い魔 リニス",
@@ -77,7 +80,8 @@
         "id": "NA/W12-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-005": {
     "name": "“強敵”シグナム",
@@ -95,7 +99,8 @@
         "id": "NA/W12-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-006": {
     "name": "武人 シグナム",
@@ -117,7 +122,8 @@
         "id": "NA/W12-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-007": {
     "name": "フェイト with バルディッシュ・アサルト",
@@ -135,7 +141,8 @@
         "id": "NA/W12-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-008": {
     "name": "剣の騎士 シグナム",
@@ -153,7 +160,8 @@
         "id": "NA/W12-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-009": {
     "name": "中学三年生のフェイト",
@@ -171,7 +179,8 @@
         "id": "NA/W12-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-010": {
     "name": "“友達”フェイト",
@@ -189,7 +198,8 @@
         "id": "NA/W12-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-011": {
     "name": "ソニックフォーム フェイト",
@@ -207,7 +217,8 @@
         "id": "NA/W12-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-012": {
     "name": "“突貫”アルフ",
@@ -225,7 +236,8 @@
         "id": "NA/W12-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-013": {
     "name": "“フェイト・T”リーゼロッテ",
@@ -243,7 +255,8 @@
         "id": "NA/W12-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-014": {
     "name": "超アバウト アルフ",
@@ -261,7 +274,8 @@
         "id": "NA/W12-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-015": {
     "name": "戸惑うフェイト",
@@ -279,7 +293,8 @@
         "id": "NA/W12-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-016": {
     "name": "フェイトVSシグナム",
@@ -297,7 +312,8 @@
         "id": "NA/W12-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-017": {
     "name": "戯れるフェイト＆アルフ",
@@ -315,7 +331,8 @@
         "id": "NA/W12-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-018": {
     "name": "優しい母親 プレシア",
@@ -333,7 +350,8 @@
         "id": "NA/W12-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-019": {
     "name": "“八神家”シグナム",
@@ -351,7 +369,8 @@
         "id": "NA/W12-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-020": {
     "name": "CVK792導入",
@@ -369,7 +388,8 @@
         "id": "NA/W12-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-021": {
     "name": "主への想い",
@@ -387,7 +407,8 @@
         "id": "NA/W12-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-022": {
     "name": "怒涛の質問攻め",
@@ -405,7 +426,8 @@
         "id": "NA/W12-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-023": {
     "name": "雷光一閃",
@@ -427,7 +449,8 @@
         "id": "NA/W12-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-024": {
     "name": "理想との決別",
@@ -445,7 +468,8 @@
         "id": "NA/W12-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NA/W12-025": {
     "name": "シュツルムファルケン",
@@ -463,7 +487,8 @@
         "id": "NA/W12-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-026": {
     "name": "アースラのNo.3 エイミィ",
@@ -481,7 +506,8 @@
         "id": "NA/W12-026",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-027": {
     "name": "名コンビ クロノ＆エイミィ",
@@ -499,7 +525,8 @@
         "id": "NA/W12-027",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-028": {
     "name": "はやて＆すずか",
@@ -517,7 +544,8 @@
         "id": "NA/W12-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-029": {
     "name": "アリサ＆ちびアルフ",
@@ -539,7 +567,8 @@
         "id": "NA/W12-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-030": {
     "name": "“友達”すずか",
@@ -561,7 +590,8 @@
         "id": "NA/W12-030SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-031": {
     "name": "執務官 クロノ",
@@ -583,7 +613,8 @@
         "id": "NA/W12-031SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-032": {
     "name": "“友達”アリサ",
@@ -601,7 +632,8 @@
         "id": "NA/W12-032",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-033": {
     "name": "初めての学校 フェイト",
@@ -619,7 +651,8 @@
         "id": "NA/W12-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-034": {
     "name": "仕切り屋 アリサ",
@@ -637,7 +670,8 @@
         "id": "NA/W12-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-035": {
     "name": "マリエル・アテンザ",
@@ -655,7 +689,8 @@
         "id": "NA/W12-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-036": {
     "name": "仲良し四人組",
@@ -673,7 +708,8 @@
         "id": "NA/W12-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-037": {
     "name": "未来を変える力 クロノ",
@@ -691,7 +727,8 @@
         "id": "NA/W12-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-038": {
     "name": "エイミィ・リミエッタ",
@@ -709,7 +746,8 @@
         "id": "NA/W12-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-039": {
     "name": "中学三年生のアリサ＆すずか",
@@ -727,7 +765,8 @@
         "id": "NA/W12-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-040": {
     "name": "“お兄ちゃん”クロノ",
@@ -745,7 +784,8 @@
         "id": "NA/W12-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-041": {
     "name": "優しい母親 リンディ",
@@ -763,7 +803,8 @@
         "id": "NA/W12-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-042": {
     "name": "アリサ＆すずか",
@@ -781,7 +822,8 @@
         "id": "NA/W12-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-043": {
     "name": "無類の甘党 リンディ",
@@ -799,7 +841,8 @@
         "id": "NA/W12-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-044": {
     "name": "読書好き すずか",
@@ -817,7 +860,8 @@
         "id": "NA/W12-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-045": {
     "name": "お宅訪問",
@@ -835,7 +879,8 @@
         "id": "NA/W12-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-046": {
     "name": "遠い日の思い出",
@@ -853,7 +898,8 @@
         "id": "NA/W12-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-047": {
     "name": "育んだ友情",
@@ -871,7 +917,8 @@
         "id": "NA/W12-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-048": {
     "name": "アルカンシェル",
@@ -893,7 +940,8 @@
         "id": "NA/W12-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-049": {
     "name": "エターナルコフィン",
@@ -911,7 +959,8 @@
         "id": "NA/W12-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NA/W12-050": {
     "name": "早く良くなってね♡",
@@ -929,7 +978,8 @@
         "id": "NA/W12-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-051": {
     "name": "紅の鉄騎 ヴィータ",
@@ -951,7 +1001,8 @@
         "id": "NA/W12-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-052": {
     "name": "“揺るぎ無い意志”なのは",
@@ -973,7 +1024,8 @@
         "id": "NA/W12-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-053": {
     "name": "中学三年生のなのは",
@@ -991,7 +1043,8 @@
         "id": "NA/W12-053",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-054": {
     "name": "“再会”なのは＆フェイト",
@@ -1009,7 +1062,8 @@
         "id": "NA/W12-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-055": {
     "name": "傷ついたなのは",
@@ -1027,7 +1081,8 @@
         "id": "NA/W12-055",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-056": {
     "name": "闇の書の騎士 ヴィータ",
@@ -1045,7 +1100,8 @@
         "id": "NA/W12-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-057": {
     "name": "なのは with レイジングハート・エクセリオン",
@@ -1067,7 +1123,8 @@
         "id": "NA/W12-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-058": {
     "name": "なのはVSヴィータ",
@@ -1085,7 +1142,8 @@
         "id": "NA/W12-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-059": {
     "name": "ヴィータ＆ザフィーラ",
@@ -1103,7 +1161,8 @@
         "id": "NA/W12-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-060": {
     "name": "ユーノ・スクライア",
@@ -1121,7 +1180,8 @@
         "id": "NA/W12-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-061": {
     "name": "後方支援 ユーノ",
@@ -1139,7 +1199,8 @@
         "id": "NA/W12-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-062": {
     "name": "“八神家”ヴィータ",
@@ -1157,7 +1218,8 @@
         "id": "NA/W12-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-063": {
     "name": "なのは＆ユーノ",
@@ -1175,7 +1237,8 @@
         "id": "NA/W12-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-064": {
     "name": "“ヴォルケンリッター”ヴィータ",
@@ -1193,7 +1256,8 @@
         "id": "NA/W12-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-065": {
     "name": "ちびっこ ヴィータ",
@@ -1211,7 +1275,8 @@
         "id": "NA/W12-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-066": {
     "name": "“高町なのは”リーゼアリア",
@@ -1229,7 +1294,8 @@
         "id": "NA/W12-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-067": {
     "name": "祝福するなのは",
@@ -1247,7 +1313,8 @@
         "id": "NA/W12-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-068": {
     "name": "古代史学者 ユーノ",
@@ -1265,7 +1332,8 @@
         "id": "NA/W12-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-069": {
     "name": "手加減なし！ なのは",
@@ -1283,7 +1351,8 @@
         "id": "NA/W12-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-070": {
     "name": "魔法訓練",
@@ -1301,7 +1370,8 @@
         "id": "NA/W12-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-071": {
     "name": "はやてからの贈り物",
@@ -1319,7 +1389,8 @@
         "id": "NA/W12-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-072": {
     "name": "超長距離砲撃",
@@ -1337,7 +1408,8 @@
         "id": "NA/W12-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-073": {
     "name": "エクセリオンバスター",
@@ -1359,7 +1431,8 @@
         "id": "NA/W12-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-074": {
     "name": "I can be shot",
@@ -1377,7 +1450,8 @@
         "id": "NA/W12-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NA/W12-075": {
     "name": "轟天爆砕",
@@ -1395,7 +1469,8 @@
         "id": "NA/W12-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NA/W12-076": {
     "name": "“管制人格”闇の書の意志",
@@ -1417,7 +1492,8 @@
         "id": "NA/W12-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-077": {
     "name": "マスター はやて",
@@ -1439,7 +1515,8 @@
         "id": "NA/W12-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-078": {
     "name": "病室のはやて",
@@ -1457,7 +1534,8 @@
         "id": "NA/W12-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-079": {
     "name": "レティ・ロウラン",
@@ -1475,7 +1553,8 @@
         "id": "NA/W12-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-080": {
     "name": "湖の騎士 シャマル",
@@ -1497,7 +1576,8 @@
         "id": "NA/W12-080SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-081": {
     "name": "夜天の王 はやて",
@@ -1515,7 +1595,8 @@
         "id": "NA/W12-081",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-082": {
     "name": "“ヴォルケンリッター”シャマル",
@@ -1533,7 +1614,8 @@
         "id": "NA/W12-082",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-083": {
     "name": "はやての主治医 石田 幸恵",
@@ -1551,7 +1633,8 @@
         "id": "NA/W12-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-084": {
     "name": "“ヴォルケンリッター”ザフィーラ",
@@ -1569,7 +1652,8 @@
         "id": "NA/W12-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-085": {
     "name": "盾の守護獣 ザフィーラ",
@@ -1587,7 +1671,8 @@
         "id": "NA/W12-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-086": {
     "name": "中学三年生のはやて",
@@ -1605,7 +1690,8 @@
         "id": "NA/W12-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-087": {
     "name": "“強く支えるもの”リインフォース",
@@ -1623,7 +1709,8 @@
         "id": "NA/W12-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-088": {
     "name": "歴戦の勇士 ギル・グレアム",
@@ -1641,7 +1728,8 @@
         "id": "NA/W12-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-089": {
     "name": "世界で一番幸福な魔導書 リインフォース",
@@ -1659,7 +1747,8 @@
         "id": "NA/W12-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-090": {
     "name": "“八神家”シャマル",
@@ -1677,7 +1766,8 @@
         "id": "NA/W12-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-091": {
     "name": "リーゼアリア＆リーゼロッテ",
@@ -1695,7 +1785,8 @@
         "id": "NA/W12-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-092": {
     "name": "“八神家”はやて",
@@ -1713,7 +1804,8 @@
         "id": "NA/W12-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-093": {
     "name": "“八神家”ザフィーラ",
@@ -1731,7 +1823,8 @@
         "id": "NA/W12-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-094": {
     "name": "仮面の戦士",
@@ -1749,7 +1842,8 @@
         "id": "NA/W12-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-095": {
     "name": "闇の書の呪い",
@@ -1767,7 +1861,8 @@
         "id": "NA/W12-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-096": {
     "name": "旅の鏡",
@@ -1785,7 +1880,8 @@
         "id": "NA/W12-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-097": {
     "name": "守護騎士プログラム",
@@ -1803,7 +1899,8 @@
         "id": "NA/W12-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-098": {
     "name": "癒しの力",
@@ -1821,7 +1918,8 @@
         "id": "NA/W12-098",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-099": {
     "name": "覚醒の時",
@@ -1843,7 +1941,8 @@
         "id": "NA/W12-099S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NA/W12-100": {
     "name": "愛する者の為に",
@@ -1861,6 +1960,7 @@
         "id": "NA/W12-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

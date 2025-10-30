@@ -19,7 +19,8 @@
         "id": "NR/W58-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-002": {
     "name": "“ホーネットジャベリン”フェイト",
@@ -45,7 +46,8 @@
         "id": "NR/W58-002SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-003": {
     "name": "真っ直ぐな瞳 フェイト",
@@ -67,7 +69,8 @@
         "id": "NR/W58-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-004": {
     "name": "月夜のお出かけ フェイト",
@@ -89,7 +92,8 @@
         "id": "NR/W58-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-005": {
     "name": "新たなる物語 フェイト",
@@ -107,7 +111,8 @@
         "id": "NR/W58-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-006": {
     "name": "時空管理局航空隊 シグナム",
@@ -125,7 +130,8 @@
         "id": "NR/W58-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-007": {
     "name": "物語のゆくえ シグナム",
@@ -143,7 +149,8 @@
         "id": "NR/W58-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-008": {
     "name": "それぞれの意志 フェイト",
@@ -161,7 +168,8 @@
         "id": "NR/W58-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-009": {
     "name": "“戦闘の中で”フェイト",
@@ -179,7 +187,8 @@
         "id": "NR/W58-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-010": {
     "name": "水辺の撃ち合い フェイト",
@@ -197,7 +206,8 @@
         "id": "NR/W58-010",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-011": {
     "name": "やわらかな光と風 フェイト＆なのは",
@@ -215,7 +225,8 @@
         "id": "NR/W58-011",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-012": {
     "name": "頼れるコンビ アルフ＆ザフィーラ",
@@ -233,7 +244,8 @@
         "id": "NR/W58-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-013": {
     "name": "お花見ティータイム フェイト",
@@ -251,7 +263,8 @@
         "id": "NR/W58-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-014": {
     "name": "真夏のレジャー シグナム",
@@ -269,7 +282,8 @@
         "id": "NR/W58-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-015": {
     "name": "ワクワク空中散歩",
@@ -287,7 +301,8 @@
         "id": "NR/W58-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-016": {
     "name": "ホーネットジャベリン",
@@ -309,7 +324,8 @@
         "id": "NR/W58-016R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-017": {
     "name": "紫電一閃",
@@ -327,7 +343,8 @@
         "id": "NR/W58-017",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NR/W58-018": {
     "name": "親子の愛",
@@ -345,7 +362,8 @@
         "id": "NR/W58-018",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NR/W58-019": {
     "name": "母親として リンディ",
@@ -363,7 +381,8 @@
         "id": "NR/W58-019",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-020": {
     "name": "時空管理局支局長 クロノ",
@@ -381,7 +400,8 @@
         "id": "NR/W58-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-021": {
     "name": "平穏な日々 アリサ",
@@ -399,7 +419,8 @@
         "id": "NR/W58-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-022": {
     "name": "平穏な日々 すずか",
@@ -417,7 +438,8 @@
         "id": "NR/W58-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-023": {
     "name": "新たなる力 なのは",
@@ -439,7 +461,8 @@
         "id": "NR/W58-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-024": {
     "name": "“フォートレスモード”なのは",
@@ -461,7 +484,8 @@
         "id": "NR/W58-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-025": {
     "name": "“フォーミュラモード”なのは",
@@ -487,7 +511,8 @@
         "id": "NR/W58-025SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-026": {
     "name": "ヴァリアントザッパー アミタ",
@@ -513,7 +538,8 @@
         "id": "NR/W58-026SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-027": {
     "name": "新たなる物語 なのは",
@@ -531,7 +557,8 @@
         "id": "NR/W58-027",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-028": {
     "name": "すれ違う姉妹 アミタ",
@@ -549,7 +576,8 @@
         "id": "NR/W58-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-029": {
     "name": "仲良くお風呂 ヴィータ",
@@ -567,7 +595,8 @@
         "id": "NR/W58-029",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-030": {
     "name": "月夜のお出かけ なのは",
@@ -589,7 +618,8 @@
         "id": "NR/W58-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-031": {
     "name": "“フォーミュラスーツ Type-A”アミタ",
@@ -611,7 +641,8 @@
         "id": "NR/W58-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-032": {
     "name": "“ストライクカノン”なのは",
@@ -629,7 +660,8 @@
         "id": "NR/W58-032",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-033": {
     "name": "家族のため アミタ",
@@ -647,7 +679,8 @@
         "id": "NR/W58-033",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-034": {
     "name": "時空管理局武装隊 ヴィータ",
@@ -665,7 +698,8 @@
         "id": "NR/W58-034",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-035": {
     "name": "授ける新たな力 アミタ",
@@ -683,7 +717,8 @@
         "id": "NR/W58-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-036": {
     "name": "物語のゆくえ ヴィータ",
@@ -701,7 +736,8 @@
         "id": "NR/W58-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-037": {
     "name": "お花見ティータイム なのは",
@@ -719,7 +755,8 @@
         "id": "NR/W58-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-038": {
     "name": "仲良し姉妹 アミタ＆キリエ",
@@ -737,7 +774,8 @@
         "id": "NR/W58-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-039": {
     "name": "妹の救済 アミタ",
@@ -755,7 +793,8 @@
         "id": "NR/W58-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-040": {
     "name": "エルトリアの少女 アミタ",
@@ -773,7 +812,8 @@
         "id": "NR/W58-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-041": {
     "name": "真夏のレジャー ヴィータ",
@@ -791,7 +831,8 @@
         "id": "NR/W58-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-042": {
     "name": "サポート役 ユーノ",
@@ -809,7 +850,8 @@
         "id": "NR/W58-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-043": {
     "name": "幼き頃のアミタ",
@@ -827,7 +869,8 @@
         "id": "NR/W58-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-044": {
     "name": "激戦の果てに なのは",
@@ -845,7 +888,8 @@
         "id": "NR/W58-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-045": {
     "name": "水辺の撃ち合い なのは",
@@ -863,7 +907,8 @@
         "id": "NR/W58-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-046": {
     "name": "疾走する救済者 アミタ",
@@ -881,7 +926,8 @@
         "id": "NR/W58-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-047": {
     "name": "仲良くポーズ フェイト＆なのは",
@@ -899,7 +945,8 @@
         "id": "NR/W58-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-048": {
     "name": "ドキドキ空中散歩",
@@ -917,7 +964,8 @@
         "id": "NR/W58-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-049": {
     "name": "希望に向かう力",
@@ -939,7 +987,8 @@
         "id": "NR/W58-049R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-050": {
     "name": "救済の魔法使い",
@@ -961,7 +1010,8 @@
         "id": "NR/W58-050R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-051": {
     "name": "ツインブレイカー",
@@ -979,7 +1029,8 @@
         "id": "NR/W58-051",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NR/W58-052": {
     "name": "都市の防衛",
@@ -997,7 +1048,8 @@
         "id": "NR/W58-052",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-053": {
     "name": "“騎士甲冑・改”はやて",
@@ -1019,7 +1071,8 @@
         "id": "NR/W58-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-054": {
     "name": "貫く意志 キリエ",
@@ -1045,7 +1098,8 @@
         "id": "NR/W58-054SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-055": {
     "name": "ツインカノン はやて",
@@ -1071,7 +1125,8 @@
         "id": "NR/W58-055SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-056": {
     "name": "運動着 リイン",
@@ -1093,7 +1148,8 @@
         "id": "NR/W58-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-057": {
     "name": "雷の魔力 レヴィ",
@@ -1111,7 +1167,8 @@
         "id": "NR/W58-057",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-058": {
     "name": "“フォーミュラスーツ Type-K”キリエ",
@@ -1133,7 +1190,8 @@
         "id": "NR/W58-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-059": {
     "name": "真っ直ぐな瞳 はやて",
@@ -1155,7 +1213,8 @@
         "id": "NR/W58-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-060": {
     "name": "故郷のため キリエ",
@@ -1173,7 +1232,8 @@
         "id": "NR/W58-060",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-061": {
     "name": "人工知能 イリス",
@@ -1191,7 +1251,8 @@
         "id": "NR/W58-061",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-062": {
     "name": "新たなる物語 はやて",
@@ -1209,7 +1270,8 @@
         "id": "NR/W58-062",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-063": {
     "name": "それぞれの意志 キリエ",
@@ -1231,7 +1293,8 @@
         "id": "NR/W58-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-064": {
     "name": "すれ違う姉妹 キリエ",
@@ -1249,7 +1312,8 @@
         "id": "NR/W58-064",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-065": {
     "name": "闇の魔力 ディアーチェ",
@@ -1267,7 +1331,8 @@
         "id": "NR/W58-065",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-066": {
     "name": "月夜のお出かけ はやて",
@@ -1285,7 +1350,8 @@
         "id": "NR/W58-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-067": {
     "name": "遺跡板で眠っていた少女 イリス",
@@ -1303,7 +1369,8 @@
         "id": "NR/W58-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-068": {
     "name": "時空管理局医務部 シャマル",
@@ -1321,7 +1388,8 @@
         "id": "NR/W58-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-069": {
     "name": "旅立ちの日 キリエ",
@@ -1339,7 +1407,8 @@
         "id": "NR/W58-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-070": {
     "name": "覚悟の問い シュテル",
@@ -1357,7 +1426,8 @@
         "id": "NR/W58-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-071": {
     "name": "怒りと悲しみ キリエ",
@@ -1375,7 +1445,8 @@
         "id": "NR/W58-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-072": {
     "name": "八神家の母親役 シャマル",
@@ -1393,7 +1464,8 @@
         "id": "NR/W58-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-073": {
     "name": "炎の魔力 シュテル",
@@ -1411,7 +1483,8 @@
         "id": "NR/W58-073",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-074": {
     "name": "本気の構え レヴィ",
@@ -1429,7 +1502,8 @@
         "id": "NR/W58-074",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-075": {
     "name": "不意の襲撃 はやて",
@@ -1447,7 +1521,8 @@
         "id": "NR/W58-075",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-076": {
     "name": "“融合騎”リインフォースⅡ",
@@ -1465,7 +1540,8 @@
         "id": "NR/W58-076",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-077": {
     "name": "大いなる望み ディアーチェ",
@@ -1483,7 +1559,8 @@
         "id": "NR/W58-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-078": {
     "name": "ヴァリアントフェンサー キリエ",
@@ -1501,7 +1578,8 @@
         "id": "NR/W58-078",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-079": {
     "name": "王の魂 ディアーチェ",
@@ -1519,7 +1597,8 @@
         "id": "NR/W58-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-080": {
     "name": "震えるほどに暗黒 ディアーチェ",
@@ -1537,7 +1616,8 @@
         "id": "NR/W58-080",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-081": {
     "name": "幼き頃のキリエ",
@@ -1555,7 +1635,8 @@
         "id": "NR/W58-081",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-082": {
     "name": "小さな守護者 リイン",
@@ -1573,7 +1654,8 @@
         "id": "NR/W58-082",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-083": {
     "name": "キリエの友達 イリス",
@@ -1591,7 +1673,8 @@
         "id": "NR/W58-083",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-084": {
     "name": "王への信頼 レヴィ",
@@ -1609,7 +1692,8 @@
         "id": "NR/W58-084",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-085": {
     "name": "物語のゆくえ ザフィーラ",
@@ -1627,7 +1711,8 @@
         "id": "NR/W58-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-086": {
     "name": "漆黒の翼 はやて",
@@ -1645,7 +1730,8 @@
         "id": "NR/W58-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-087": {
     "name": "子供っぽいレヴィ",
@@ -1663,7 +1749,8 @@
         "id": "NR/W58-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-088": {
     "name": "真面目で忠実 シュテル",
@@ -1681,7 +1768,8 @@
         "id": "NR/W58-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-089": {
     "name": "王の右腕 シュテル",
@@ -1699,7 +1787,8 @@
         "id": "NR/W58-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-090": {
     "name": "お花見ティータイム はやて",
@@ -1717,7 +1806,8 @@
         "id": "NR/W58-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-091": {
     "name": "物語のゆくえ シャマル",
@@ -1735,7 +1825,8 @@
         "id": "NR/W58-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-092": {
     "name": "謎の少女 ユーリ",
@@ -1753,7 +1844,8 @@
         "id": "NR/W58-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-093": {
     "name": "エルトリアの少女 イリス",
@@ -1771,7 +1863,8 @@
         "id": "NR/W58-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-094": {
     "name": "エルトリアの少女 キリエ",
@@ -1789,7 +1882,8 @@
         "id": "NR/W58-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-095": {
     "name": "終わりの始まり",
@@ -1807,7 +1901,8 @@
         "id": "NR/W58-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-096": {
     "name": "見事な連携",
@@ -1829,7 +1924,8 @@
         "id": "NR/W58-096R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-097": {
     "name": "世界を救う企み",
@@ -1851,7 +1947,8 @@
         "id": "NR/W58-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NR/W58-098": {
     "name": "王と臣下",
@@ -1869,7 +1966,8 @@
         "id": "NR/W58-098",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NR/W58-099": {
     "name": "残酷な言葉",
@@ -1887,7 +1985,8 @@
         "id": "NR/W58-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NR/W58-100": {
     "name": "星を殺す悪魔",
@@ -1905,6 +2004,7 @@
         "id": "NR/W58-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

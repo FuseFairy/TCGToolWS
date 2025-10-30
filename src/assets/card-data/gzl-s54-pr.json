@@ -15,7 +15,8 @@
         "id": "GZL/S54-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GZL/S54-P02": {
     "name": "“不屈の闘志”ハルオ",
@@ -33,6 +34,7 @@
         "id": "GZL/S54-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -19,7 +19,8 @@
         "id": "LRC/W105-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-002": {
     "name": "ウォールナットの正体 クルミ",
@@ -41,7 +42,8 @@
         "id": "LRC/W105-002SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-003": {
     "name": "営業開始♪ 千束＆たきな",
@@ -63,7 +65,8 @@
         "id": "LRC/W105-003LRR",
         "rarity": "LRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-004": {
     "name": "私服のたきな",
@@ -85,7 +88,8 @@
         "id": "LRC/W105-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-005": {
     "name": "私服の千束",
@@ -107,7 +111,8 @@
         "id": "LRC/W105-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-006": {
     "name": "喫茶リコリコ 千束",
@@ -129,7 +134,8 @@
         "id": "LRC/W105-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-007": {
     "name": "敏腕経理 たきな",
@@ -151,7 +157,8 @@
         "id": "LRC/W105-007OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-008": {
     "name": "名スタント ミズキ",
@@ -169,7 +176,8 @@
         "id": "LRC/W105-008",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-009": {
     "name": "喫茶リコリコ たきな",
@@ -191,7 +199,8 @@
         "id": "LRC/W105-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-010": {
     "name": "看板娘 千束",
@@ -213,7 +222,8 @@
         "id": "LRC/W105-010OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-011": {
     "name": "レッツゲーム！ クルミ＆千束",
@@ -235,7 +245,8 @@
         "id": "LRC/W105-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-012": {
     "name": "喫茶リコリコ クルミ",
@@ -257,7 +268,8 @@
         "id": "LRC/W105-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-013": {
     "name": "譲れない意地 ミズキ",
@@ -275,7 +287,8 @@
         "id": "LRC/W105-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-014": {
     "name": "にんまり クルミ",
@@ -293,7 +306,8 @@
         "id": "LRC/W105-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-015": {
     "name": "喫茶リコリコ ミカ",
@@ -311,7 +325,8 @@
         "id": "LRC/W105-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-016": {
     "name": "しょんぼり たきな",
@@ -329,7 +344,8 @@
         "id": "LRC/W105-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-017": {
     "name": "新メニューの感想 千束",
@@ -347,7 +363,8 @@
         "id": "LRC/W105-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-018": {
     "name": "天才ハッカー クルミ",
@@ -365,7 +382,8 @@
         "id": "LRC/W105-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-019": {
     "name": "仕事終わりの一杯 ミズキ",
@@ -383,7 +401,8 @@
         "id": "LRC/W105-019",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-020": {
     "name": "言葉の綾 千束＆たきな",
@@ -401,7 +420,8 @@
         "id": "LRC/W105-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-021": {
     "name": "喫茶リコリコ ミズキ",
@@ -419,7 +439,8 @@
         "id": "LRC/W105-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-022": {
     "name": "ハッピーハロウィン たきな",
@@ -437,7 +458,8 @@
         "id": "LRC/W105-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-023": {
     "name": "トリックオアトリート 千束",
@@ -455,7 +477,8 @@
         "id": "LRC/W105-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-024": {
     "name": "不意の一撃 たきな",
@@ -473,7 +496,8 @@
         "id": "LRC/W105-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-025": {
     "name": "ドローン援護 クルミ",
@@ -491,7 +515,8 @@
         "id": "LRC/W105-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-026": {
     "name": "メールの真相を追え 千束",
@@ -509,7 +534,8 @@
         "id": "LRC/W105-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-027": {
     "name": "元DA ミズキ",
@@ -527,7 +553,8 @@
         "id": "LRC/W105-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-028": {
     "name": "話題沸騰の新メニュー",
@@ -545,7 +572,8 @@
         "id": "LRC/W105-028",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-029": {
     "name": "どんなご注文も、おまかせあれ♪",
@@ -567,7 +595,8 @@
         "id": "LRC/W105-029R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-030": {
     "name": "喫茶リコリコ経営の危機",
@@ -589,7 +618,8 @@
         "id": "LRC/W105-030R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-031": {
     "name": "堂々の詐称",
@@ -607,7 +637,8 @@
         "id": "LRC/W105-031",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-032": {
     "name": "大手柄",
@@ -625,7 +656,8 @@
         "id": "LRC/W105-032",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-033": {
     "name": "俺なりの正義 真島",
@@ -647,7 +679,8 @@
         "id": "LRC/W105-033SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-034": {
     "name": "日常を守る存在 たきな＆千束",
@@ -669,7 +702,8 @@
         "id": "LRC/W105-034LRR",
         "rarity": "LRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-035": {
     "name": "帰る居場所 千束",
@@ -691,7 +725,8 @@
         "id": "LRC/W105-035LRR",
         "rarity": "LRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-036": {
     "name": "これからも続く日々 千束",
@@ -713,7 +748,8 @@
         "id": "LRC/W105-036SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-037": {
     "name": "危機一髪 ミズキ",
@@ -731,7 +767,8 @@
         "id": "LRC/W105-037",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-038": {
     "name": "天性の才能 千束",
@@ -753,7 +790,8 @@
         "id": "LRC/W105-038OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-039": {
     "name": "捕獲された千束",
@@ -771,7 +809,8 @@
         "id": "LRC/W105-039",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-040": {
     "name": "いのち大事に 千束",
@@ -793,7 +832,8 @@
         "id": "LRC/W105-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-041": {
     "name": "最期の前に 千束",
@@ -815,7 +855,8 @@
         "id": "LRC/W105-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-042": {
     "name": "選んだ道 千束",
@@ -837,7 +878,8 @@
         "id": "LRC/W105-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-043": {
     "name": "先輩として 千束",
@@ -855,7 +897,8 @@
         "id": "LRC/W105-043",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-044": {
     "name": "東京観光 千束",
@@ -873,7 +916,8 @@
         "id": "LRC/W105-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-045": {
     "name": "\"お出かけ\"のお誘い 千束",
@@ -895,7 +939,8 @@
         "id": "LRC/W105-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-046": {
     "name": "娘？との再会 ミズキ",
@@ -913,7 +958,8 @@
         "id": "LRC/W105-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-047": {
     "name": "アランチルドレン 真島",
@@ -931,7 +977,8 @@
         "id": "LRC/W105-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-048": {
     "name": "予期せぬ襲撃 千束",
@@ -949,7 +996,8 @@
         "id": "LRC/W105-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-049": {
     "name": "まだ見ぬ土地へ 千束",
@@ -971,7 +1019,8 @@
         "id": "LRC/W105-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-050": {
     "name": "出会いの場 ミズキ",
@@ -989,7 +1038,8 @@
         "id": "LRC/W105-050",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-051": {
     "name": "激励の言葉 千束",
@@ -1007,7 +1057,8 @@
         "id": "LRC/W105-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-052": {
     "name": "父親代わり シンジ",
@@ -1025,7 +1076,8 @@
         "id": "LRC/W105-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-053": {
     "name": "きゅうせいしゅさんとの出会い 千束",
@@ -1043,7 +1095,8 @@
         "id": "LRC/W105-053",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-054": {
     "name": "旧電波塔、再び 千束",
@@ -1061,7 +1114,8 @@
         "id": "LRC/W105-054",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-055": {
     "name": "父親代わり ミカ",
@@ -1079,7 +1133,8 @@
         "id": "LRC/W105-055",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-056": {
     "name": "楽しい時間 千束",
@@ -1097,7 +1152,8 @@
         "id": "LRC/W105-056",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-057": {
     "name": "休暇プログラム 千束",
@@ -1115,7 +1171,8 @@
         "id": "LRC/W105-057",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-058": {
     "name": "余命宣告 千束",
@@ -1133,7 +1190,8 @@
         "id": "LRC/W105-058",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-059": {
     "name": "パンツチェック 千束",
@@ -1151,7 +1209,8 @@
         "id": "LRC/W105-059",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-060": {
     "name": "潜入ミッション 千束",
@@ -1169,7 +1228,8 @@
         "id": "LRC/W105-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-061": {
     "name": "互角の戦い",
@@ -1191,7 +1251,8 @@
         "id": "LRC/W105-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-062": {
     "name": "リコリコへようこそ",
@@ -1213,7 +1274,8 @@
         "id": "LRC/W105-062R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-063": {
     "name": "2人で過ごす日々",
@@ -1251,7 +1313,8 @@
         "id": "LRC/W105-063Rd",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-064": {
     "name": "貫く想い",
@@ -1269,7 +1332,8 @@
         "id": "LRC/W105-064",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-065": {
     "name": "必死の抵抗",
@@ -1287,7 +1351,8 @@
         "id": "LRC/W105-065",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-066": {
     "name": "選んだ居場所 たきな",
@@ -1309,7 +1374,8 @@
         "id": "LRC/W105-066LRR",
         "rarity": "LRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-067": {
     "name": "相棒 千束＆たきな",
@@ -1331,7 +1397,8 @@
         "id": "LRC/W105-067LRR",
         "rarity": "LRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-068": {
     "name": "これからも続く日々 たきな",
@@ -1353,7 +1420,8 @@
         "id": "LRC/W105-068SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-069": {
     "name": "機銃掃射 たきな",
@@ -1375,7 +1443,8 @@
         "id": "LRC/W105-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-070": {
     "name": "励ますたきな",
@@ -1397,7 +1466,8 @@
         "id": "LRC/W105-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-071": {
     "name": "ふたり一緒なら 千束＆たきな",
@@ -1419,7 +1489,8 @@
         "id": "LRC/W105-071OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-072": {
     "name": "射撃の達人 たきな",
@@ -1441,7 +1512,8 @@
         "id": "LRC/W105-072OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-073": {
     "name": "私の決意 たきな",
@@ -1463,7 +1535,8 @@
         "id": "LRC/W105-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-074": {
     "name": "几帳面な性格 たきな",
@@ -1485,7 +1558,8 @@
         "id": "LRC/W105-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-075": {
     "name": "どこにいようと たきな",
@@ -1507,7 +1581,8 @@
         "id": "LRC/W105-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-076": {
     "name": "\"お出かけ\"のお誘い たきな",
@@ -1525,7 +1600,8 @@
         "id": "LRC/W105-076",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-077": {
     "name": "喫茶リコリコinハワイ たきな",
@@ -1543,7 +1619,8 @@
         "id": "LRC/W105-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-078": {
     "name": "3コール たきな",
@@ -1561,7 +1638,8 @@
         "id": "LRC/W105-078",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-079": {
     "name": "この世界の真実 真島",
@@ -1579,7 +1657,8 @@
         "id": "LRC/W105-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-080": {
     "name": "不本意な転属 たきな",
@@ -1601,7 +1680,8 @@
         "id": "LRC/W105-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-081": {
     "name": "家事分担 たきな",
@@ -1619,7 +1699,8 @@
         "id": "LRC/W105-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-082": {
     "name": "滲み出る殺意 たきな",
@@ -1637,7 +1718,8 @@
         "id": "LRC/W105-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-083": {
     "name": "休暇プログラム たきな",
@@ -1655,7 +1737,8 @@
         "id": "LRC/W105-083",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-084": {
     "name": "メニュー係 クルミ",
@@ -1673,7 +1756,8 @@
         "id": "LRC/W105-084",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-085": {
     "name": "ファーストリコリス フキ",
@@ -1691,7 +1775,8 @@
         "id": "LRC/W105-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-086": {
     "name": "パンツチェック たきな",
@@ -1709,7 +1794,8 @@
         "id": "LRC/W105-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-087": {
     "name": "クラッシュ 真島",
@@ -1727,7 +1813,8 @@
         "id": "LRC/W105-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-088": {
     "name": "一発勝負 たきな",
@@ -1745,7 +1832,8 @@
         "id": "LRC/W105-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-089": {
     "name": "潜入ミッション クルミ",
@@ -1763,7 +1851,8 @@
         "id": "LRC/W105-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-090": {
     "name": "過去との決別 たきな",
@@ -1781,7 +1870,8 @@
         "id": "LRC/W105-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-091": {
     "name": "初めての私服 たきな",
@@ -1799,7 +1889,8 @@
         "id": "LRC/W105-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-092": {
     "name": "最後の時間 たきな",
@@ -1817,7 +1908,8 @@
         "id": "LRC/W105-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-093": {
     "name": "着替え中のたきな",
@@ -1835,7 +1927,8 @@
         "id": "LRC/W105-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-094": {
     "name": "救援の手 クルミ",
@@ -1853,7 +1946,8 @@
         "id": "LRC/W105-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-095": {
     "name": "未知への興味",
@@ -1871,7 +1965,8 @@
         "id": "LRC/W105-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-096": {
     "name": "ふたりの時間、選びとる未来",
@@ -1889,7 +1984,8 @@
         "id": "LRC/W105-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LRC/W105-097": {
     "name": "凸凹な名コンビ",
@@ -1911,7 +2007,8 @@
         "id": "LRC/W105-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-098": {
     "name": "それぞれの道",
@@ -1933,7 +2030,8 @@
         "id": "LRC/W105-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-099": {
     "name": "因縁の決着",
@@ -1951,7 +2049,8 @@
         "id": "LRC/W105-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LRC/W105-100": {
     "name": "彼女を救うために",
@@ -1969,6 +2068,7 @@
         "id": "LRC/W105-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

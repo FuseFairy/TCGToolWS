@@ -19,7 +19,8 @@
         "id": "DS/W46-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-002": {
     "name": "ふたりの抱負 ひまり",
@@ -37,7 +38,8 @@
         "id": "DS/W46-002",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-003": {
     "name": "白い帽子の少女 ひまり",
@@ -55,7 +57,8 @@
         "id": "DS/W46-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W46-004": {
     "name": "漂泊の天使 ひまり",
@@ -77,7 +80,8 @@
         "id": "DS/W46-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W46-005": {
     "name": "不思議な帽子の親友 めです",
@@ -95,7 +99,8 @@
         "id": "DS/W46-005",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-006": {
     "name": "求め合う心 ひまり",
@@ -113,7 +118,8 @@
         "id": "DS/W46-006",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-007": {
     "name": "常夏の楽園 ひまり",
@@ -131,7 +137,8 @@
         "id": "DS/W46-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W46-008": {
     "name": "水着のひまり",
@@ -149,7 +156,8 @@
         "id": "DS/W46-008",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-009": {
     "name": "ＴＡＢデビュー ひまり",
@@ -167,7 +175,8 @@
         "id": "DS/W46-009",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-010": {
     "name": "温泉で一息 ひまり",
@@ -185,7 +194,8 @@
         "id": "DS/W46-010",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-011": {
     "name": "無邪気な水しぶき ひまり",
@@ -203,7 +213,8 @@
         "id": "DS/W46-011",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-012": {
     "name": "穏やかな目覚め ひまり",
@@ -221,7 +232,8 @@
         "id": "DS/W46-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-013": {
     "name": "楽園システム",
@@ -239,7 +251,8 @@
         "id": "DS/W46-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-014": {
     "name": "風のいたずら",
@@ -261,7 +274,8 @@
         "id": "DS/W46-014R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W46-015": {
     "name": "始まりと始まり",
@@ -283,7 +297,8 @@
         "id": "DS/W46-015a",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DS/W46-016": {
     "name": "完全無欠なお嬢様 遥月",
@@ -305,7 +320,8 @@
         "id": "DS/W46-016SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W46-017": {
     "name": "風南学園の生徒会長 遥月",
@@ -323,7 +339,8 @@
         "id": "DS/W46-017",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-018": {
     "name": "つながるこころ 遥月",
@@ -345,7 +362,8 @@
         "id": "DS/W46-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-019": {
     "name": "ディフェンディングチャンピオン 遥月",
@@ -363,7 +381,8 @@
         "id": "DS/W46-019",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-020": {
     "name": "一緒に衣装選び 遥月",
@@ -381,7 +400,8 @@
         "id": "DS/W46-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-021": {
     "name": "常夏の楽園 遥月",
@@ -399,7 +419,8 @@
         "id": "DS/W46-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W46-022": {
     "name": "一時の休息 遥月",
@@ -417,7 +438,8 @@
         "id": "DS/W46-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W46-023": {
     "name": "ドキドキハプニング 遥月",
@@ -435,7 +457,8 @@
         "id": "DS/W46-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-024": {
     "name": "言葉にならない気持ち 遥月",
@@ -453,7 +476,8 @@
         "id": "DS/W46-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-025": {
     "name": "水着の遥月",
@@ -471,7 +495,8 @@
         "id": "DS/W46-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-026": {
     "name": "10年目の真実 遥月",
@@ -489,7 +514,8 @@
         "id": "DS/W46-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-027": {
     "name": "会長の演説 遥月",
@@ -507,7 +533,8 @@
         "id": "DS/W46-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W46-028": {
     "name": "賑やかな歓迎会",
@@ -525,7 +552,8 @@
         "id": "DS/W46-028",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-029": {
     "name": "春陽……",
@@ -547,7 +575,8 @@
         "id": "DS/W46-029R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-030": {
     "name": "一緒にフォトクラ",
@@ -569,7 +598,8 @@
         "id": "DS/W46-030a",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DS/W46-031": {
     "name": "世話焼き系妹キャラ 乃絵里",
@@ -591,7 +621,8 @@
         "id": "DS/W46-031SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-032": {
     "name": "水着の乃絵里",
@@ -613,7 +644,8 @@
         "id": "DS/W46-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-033": {
     "name": "料理中の乃絵里",
@@ -631,7 +663,8 @@
         "id": "DS/W46-033",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-034": {
     "name": "背伸びしたいお年頃 乃絵里",
@@ -649,7 +682,8 @@
         "id": "DS/W46-034",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W46-035": {
     "name": "気持ちに向き合って 乃絵里",
@@ -667,7 +701,8 @@
         "id": "DS/W46-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-036": {
     "name": "水族館デート 乃絵里",
@@ -685,7 +720,8 @@
         "id": "DS/W46-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W46-037": {
     "name": "緊張しすぎな乃絵里",
@@ -703,7 +739,8 @@
         "id": "DS/W46-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-038": {
     "name": "最愛の妹 鳴",
@@ -721,7 +758,8 @@
         "id": "DS/W46-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-039": {
     "name": "二人で迎える朝 乃絵里",
@@ -739,7 +777,8 @@
         "id": "DS/W46-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-040": {
     "name": "お風呂場で 乃絵里",
@@ -757,7 +796,8 @@
         "id": "DS/W46-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-041": {
     "name": "お兄さん想いの鳴",
@@ -775,7 +815,8 @@
         "id": "DS/W46-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-042": {
     "name": "従妹の乃絵里",
@@ -793,7 +834,8 @@
         "id": "DS/W46-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W46-043": {
     "name": "初めてのデート 乃絵里",
@@ -811,7 +853,8 @@
         "id": "DS/W46-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W46-044": {
     "name": "常夏の楽園 乃絵里",
@@ -829,7 +872,8 @@
         "id": "DS/W46-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W46-045": {
     "name": "あたしのお兄ちゃん…",
@@ -847,7 +891,8 @@
         "id": "DS/W46-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-046": {
     "name": "絶対に幸せになるための第一歩",
@@ -869,7 +914,8 @@
         "id": "DS/W46-046R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-047": {
     "name": "本当の家族に",
@@ -891,7 +937,8 @@
         "id": "DS/W46-047a",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DS/W46-048": {
     "name": "朝のハプニング 依愛",
@@ -913,7 +960,8 @@
         "id": "DS/W46-048SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W46-049": {
     "name": "楽園へようこそ 天",
@@ -935,7 +983,8 @@
         "id": "DS/W46-049SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W46-050": {
     "name": "少女型人工知能 天",
@@ -953,7 +1002,8 @@
         "id": "DS/W46-050",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-051": {
     "name": "水着の天",
@@ -975,7 +1025,8 @@
         "id": "DS/W46-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-052": {
     "name": "夢見がちな少女 依愛",
@@ -997,7 +1048,8 @@
         "id": "DS/W46-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-053": {
     "name": "違和感の正体 依愛",
@@ -1015,7 +1067,8 @@
         "id": "DS/W46-053",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-054": {
     "name": "主従関係 依愛",
@@ -1033,7 +1086,8 @@
         "id": "DS/W46-054",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-055": {
     "name": "お姫様の願い 依愛",
@@ -1051,7 +1105,8 @@
         "id": "DS/W46-055",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-056": {
     "name": "魔王の娘 依愛",
@@ -1069,7 +1124,8 @@
         "id": "DS/W46-056",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-057": {
     "name": "本当の幸せ 天",
@@ -1087,7 +1143,8 @@
         "id": "DS/W46-057",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-058": {
     "name": "爛々とした笑顔 天",
@@ -1105,7 +1162,8 @@
         "id": "DS/W46-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W46-059": {
     "name": "告白の返事 天",
@@ -1123,7 +1181,8 @@
         "id": "DS/W46-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W46-060": {
     "name": "着替え中の依愛",
@@ -1141,7 +1200,8 @@
         "id": "DS/W46-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-061": {
     "name": "水族館デート 天",
@@ -1159,7 +1219,8 @@
         "id": "DS/W46-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-062": {
     "name": "ふたりの放課後 天",
@@ -1177,7 +1238,8 @@
         "id": "DS/W46-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-063": {
     "name": "心地良き施術 依愛",
@@ -1195,7 +1257,8 @@
         "id": "DS/W46-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-064": {
     "name": "ありのままで… 依愛",
@@ -1213,7 +1276,8 @@
         "id": "DS/W46-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-065": {
     "name": "水着の依愛",
@@ -1231,7 +1295,8 @@
         "id": "DS/W46-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-066": {
     "name": "ミスコン出場 天",
@@ -1249,7 +1314,8 @@
         "id": "DS/W46-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-067": {
     "name": "はじめてのキス 天",
@@ -1267,7 +1333,8 @@
         "id": "DS/W46-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-068": {
     "name": "常夏の楽園 天",
@@ -1285,7 +1352,8 @@
         "id": "DS/W46-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-069": {
     "name": "天の後任者 奏",
@@ -1303,7 +1371,8 @@
         "id": "DS/W46-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-070": {
     "name": "常夏の楽園 依愛",
@@ -1321,7 +1390,8 @@
         "id": "DS/W46-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W46-071": {
     "name": "装束の錬金術師 依愛",
@@ -1339,7 +1409,8 @@
         "id": "DS/W46-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W46-072": {
     "name": "親友というもの 大和",
@@ -1357,7 +1428,8 @@
         "id": "DS/W46-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W46-073": {
     "name": "楽園システム",
@@ -1375,7 +1447,8 @@
         "id": "DS/W46-073",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-074": {
     "name": "魔王の娘、立つ",
@@ -1397,7 +1470,8 @@
         "id": "DS/W46-074R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DS/W46-075": {
     "name": "これからの二人を",
@@ -1419,7 +1493,8 @@
         "id": "DS/W46-075a",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DS/W46-076": {
     "name": "願いを流れ星に…",
@@ -1441,7 +1516,8 @@
         "id": "DS/W46-076R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DS/W46-077": {
     "name": "喪われた楽園の管理者",
@@ -1463,6 +1539,7 @@
         "id": "DS/W46-077a",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

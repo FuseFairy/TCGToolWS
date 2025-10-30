@@ -15,7 +15,8 @@
         "id": "PI/SE24-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-P02": {
     "name": "待ち焦がれる夏休み",
@@ -33,7 +34,8 @@
         "id": "PI/SE24-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PI/SE24-P03": {
     "name": "一緒にお風呂 イリヤ＆クロ",
@@ -51,6 +53,7 @@
         "id": "PI/SE24-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

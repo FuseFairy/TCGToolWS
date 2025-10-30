@@ -23,7 +23,8 @@
         "id": "LL/WE39-013SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE39-016": {
     "name": "“会場案内の極意”絢瀬 絵里",
@@ -49,7 +50,8 @@
         "id": "LL/WE39-016SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE39-017": {
     "name": "“花の女神”東條 希",
@@ -75,7 +77,8 @@
         "id": "LL/WE39-017SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE39-018": {
     "name": "ホワイト・スワン 絢瀬 絵里",
@@ -101,7 +104,8 @@
         "id": "LL/WE39-018SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE39-019": {
     "name": "みんなを虜にしちゃうにこ♪ 矢澤 にこ",
@@ -127,7 +131,8 @@
         "id": "LL/WE39-019SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE39-020": {
     "name": "“花よりたおやかに♪”矢澤 にこ",
@@ -153,7 +158,8 @@
         "id": "LL/WE39-020SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE39-022": {
     "name": "月夜の祈り 園田 海未",
@@ -179,7 +185,8 @@
         "id": "LL/WE39-022SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE39-024": {
     "name": "“司会進行の妙技”高坂 穂乃果",
@@ -205,7 +212,8 @@
         "id": "LL/WE39-024SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE39-025": {
     "name": "みんなには内緒だよ 南 ことり",
@@ -231,7 +239,8 @@
         "id": "LL/WE39-025SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE39-031": {
     "name": "行先はヒミツだよ！ 高坂 穂乃果",
@@ -257,7 +266,8 @@
         "id": "LL/WE39-031SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE39-037": {
     "name": "“道案内もお手のもの”園田 海未",
@@ -283,7 +293,8 @@
         "id": "LL/WE39-037SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE39-038": {
     "name": "“かわいさ満開♪”南 ことり",
@@ -309,7 +320,8 @@
         "id": "LL/WE39-038SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE39-045": {
     "name": "“花照らす陽光”星空 凛",
@@ -335,7 +347,8 @@
         "id": "LL/WE39-045SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE39-048": {
     "name": "紅の魅力 西木野 真姫",
@@ -361,7 +374,8 @@
         "id": "LL/WE39-048SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE39-050": {
     "name": "“心に春咲き”小泉 花陽",
@@ -387,7 +401,8 @@
         "id": "LL/WE39-050SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE39-055": {
     "name": "“つぼみ開き、大輪の花”西木野 真姫",
@@ -413,7 +428,8 @@
         "id": "LL/WE39-055SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LL/WE39-059": {
     "name": "ここは私の夢の世界 小泉 花陽",
@@ -439,7 +455,8 @@
         "id": "LL/WE39-059SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LL/WE39-060": {
     "name": "にくきゅうタッチ♪ 星空 凛",
@@ -465,6 +482,7 @@
         "id": "LL/WE39-060SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

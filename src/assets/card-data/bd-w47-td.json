@@ -15,7 +15,8 @@
         "id": "BD/W47-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W47-T02": {
     "name": "“Poppin’Party”山吹沙綾",
@@ -41,7 +42,8 @@
         "id": "BD/W47-T02X",
         "rarity": "XR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W47-T03": {
     "name": "自己紹介 香澄",
@@ -59,7 +61,8 @@
         "id": "BD/W47-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W47-T04": {
     "name": "“STAR BEAT!～ホシノコドウ～”牛込りみ",
@@ -77,7 +80,8 @@
         "id": "BD/W47-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W47-T05": {
     "name": "“Poppin’Party”牛込りみ",
@@ -103,7 +107,8 @@
         "id": "BD/W47-T05X",
         "rarity": "XR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W47-T06": {
     "name": "始まりの予感 戸山香澄",
@@ -121,7 +126,8 @@
         "id": "BD/W47-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W47-T07": {
     "name": "緊張の自己紹介 りみ",
@@ -139,7 +145,8 @@
         "id": "BD/W47-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W47-T08": {
     "name": "“STAR BEAT!～ホシノコドウ～”戸山香澄",
@@ -157,7 +164,8 @@
         "id": "BD/W47-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W47-T09": {
     "name": "“STAR BEAT!～ホシノコドウ～”山吹沙綾",
@@ -175,7 +183,8 @@
         "id": "BD/W47-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W47-T10": {
     "name": "“Poppin’Party”戸山香澄",
@@ -205,7 +214,8 @@
         "id": "BD/W47-T10X",
         "rarity": "XR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W47-T11": {
     "name": "My Favorite item",
@@ -239,7 +249,8 @@
         "id": "BD/W47-T11e",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W47-T12": {
     "name": "高まるドキドキ！ 胸のトキメキ！",
@@ -257,7 +268,8 @@
         "id": "BD/W47-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "BD/W47-T13": {
     "name": "Let's! Poppin’Party",
@@ -275,7 +287,8 @@
         "id": "BD/W47-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W47-T14": {
     "name": "“STAR BEAT!～ホシノコドウ～”花園たえ",
@@ -293,7 +306,8 @@
         "id": "BD/W47-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W47-T15": {
     "name": "両手を上げろ！ 有咲",
@@ -311,7 +325,8 @@
         "id": "BD/W47-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W47-T16": {
     "name": "“STAR BEAT!～ホシノコドウ～”市ヶ谷有咲",
@@ -329,7 +344,8 @@
         "id": "BD/W47-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W47-T17": {
     "name": "興味なさげなたえ",
@@ -347,7 +363,8 @@
         "id": "BD/W47-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/W47-T18": {
     "name": "“Poppin’Party”市ヶ谷有咲",
@@ -373,7 +390,8 @@
         "id": "BD/W47-T18X",
         "rarity": "XR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W47-T19": {
     "name": "“Poppin’Party”花園たえ",
@@ -399,7 +417,8 @@
         "id": "BD/W47-T19X",
         "rarity": "XR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/W47-T20": {
     "name": "STAR BEAT!～ホシノコドウ～",
@@ -417,6 +436,7 @@
         "id": "BD/W47-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

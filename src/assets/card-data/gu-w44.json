@@ -19,7 +19,8 @@
         "id": "GU/W44-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-002": {
     "name": "“バレーボール”シャロ",
@@ -37,7 +38,8 @@
         "id": "GU/W44-002",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-003": {
     "name": "つつましやかな少女 シャロ",
@@ -59,7 +61,8 @@
         "id": "GU/W44-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-004": {
     "name": "お嬢様気質 シャロ",
@@ -81,7 +84,8 @@
         "id": "GU/W44-004R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-005": {
     "name": "幸せそうなシャロ",
@@ -99,7 +103,8 @@
         "id": "GU/W44-005",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-006": {
     "name": "お掃除完了！ シャロ",
@@ -117,7 +122,8 @@
         "id": "GU/W44-006",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-007": {
     "name": "“フルール・ド・ラパンのウェイトレス”シャロ",
@@ -135,7 +141,8 @@
         "id": "GU/W44-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-008": {
     "name": "木組みの街で シャロ",
@@ -153,7 +160,8 @@
         "id": "GU/W44-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-009": {
     "name": "“秘密にしてたこと”シャロ",
@@ -171,7 +179,8 @@
         "id": "GU/W44-009",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-010": {
     "name": "最高の愛想笑い シャロ",
@@ -189,7 +198,8 @@
         "id": "GU/W44-010",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-011": {
     "name": "“冬服”シャロ",
@@ -207,7 +217,8 @@
         "id": "GU/W44-011",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-012": {
     "name": "“お人形さん”シャロ",
@@ -225,7 +236,8 @@
         "id": "GU/W44-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-013": {
     "name": "“アドバイス”シャロ",
@@ -243,7 +255,8 @@
         "id": "GU/W44-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-014": {
     "name": "ドーピング",
@@ -261,7 +274,8 @@
         "id": "GU/W44-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-015": {
     "name": "バリボ～ダイスキ～",
@@ -279,7 +293,8 @@
         "id": "GU/W44-015",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-016": {
     "name": "私の秘密",
@@ -297,7 +312,8 @@
         "id": "GU/W44-016",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GU/W44-017": {
     "name": "“うさみみパーカー”千夜",
@@ -319,7 +335,8 @@
         "id": "GU/W44-017SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-018": {
     "name": "木組みの街で 千夜",
@@ -341,7 +358,8 @@
         "id": "GU/W44-018R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-019": {
     "name": "はんなり 千夜",
@@ -359,7 +377,8 @@
         "id": "GU/W44-019",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-020": {
     "name": "“マイペース”千夜",
@@ -381,7 +400,8 @@
         "id": "GU/W44-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-021": {
     "name": "千夜と並ぶ甘兎庵の顔 あんこ",
@@ -399,7 +419,8 @@
         "id": "GU/W44-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-022": {
     "name": "“甘兎庵の看板娘”千夜",
@@ -429,7 +450,8 @@
         "id": "GU/W44-022d",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-023": {
     "name": "名言？千夜",
@@ -447,7 +469,8 @@
         "id": "GU/W44-023",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-024": {
     "name": "“未来の女社長”千夜",
@@ -465,7 +488,8 @@
         "id": "GU/W44-024",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-025": {
     "name": "“頭いいお姉ちゃんアピール”千夜",
@@ -483,7 +507,8 @@
         "id": "GU/W44-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-026": {
     "name": "“フルールの制服”千夜",
@@ -501,7 +526,8 @@
         "id": "GU/W44-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-027": {
     "name": "なりきり千夜",
@@ -519,7 +545,8 @@
         "id": "GU/W44-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-028": {
     "name": "“サッカー”千夜",
@@ -537,7 +564,8 @@
         "id": "GU/W44-028",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-029": {
     "name": "フルールのチラシ",
@@ -555,7 +583,8 @@
         "id": "GU/W44-029",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-030": {
     "name": "幼馴染の二人",
@@ -577,7 +606,8 @@
         "id": "GU/W44-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-031": {
     "name": "大いなる野望",
@@ -595,7 +625,8 @@
         "id": "GU/W44-031",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-032": {
     "name": "“うさみみパーカー”ココア",
@@ -617,7 +648,8 @@
         "id": "GU/W44-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-033": {
     "name": "“うさみみパーカー”リゼ",
@@ -639,7 +671,8 @@
         "id": "GU/W44-033SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-034": {
     "name": "“凛々しく”リゼ",
@@ -657,7 +690,8 @@
         "id": "GU/W44-034",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-035": {
     "name": "木組みの街で リゼ",
@@ -679,7 +713,8 @@
         "id": "GU/W44-035R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-036": {
     "name": "“笑顔になれる報告”ココア",
@@ -701,7 +736,8 @@
         "id": "GU/W44-036R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-037": {
     "name": "酔っ払いココア",
@@ -719,7 +755,8 @@
         "id": "GU/W44-037",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-038": {
     "name": "“容姿端麗”リゼ",
@@ -741,7 +778,8 @@
         "id": "GU/W44-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-039": {
     "name": "“妹のために”ココア",
@@ -763,7 +801,8 @@
         "id": "GU/W44-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-040": {
     "name": "“姉オーラ？”ココア",
@@ -781,7 +820,8 @@
         "id": "GU/W44-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-041": {
     "name": "“変装”モカ",
@@ -799,7 +839,8 @@
         "id": "GU/W44-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-042": {
     "name": "“ラテアートの名人”リゼ",
@@ -817,7 +858,8 @@
         "id": "GU/W44-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-043": {
     "name": "“お誘い”リゼ",
@@ -835,7 +877,8 @@
         "id": "GU/W44-043",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-044": {
     "name": "わんわんココア",
@@ -853,7 +896,8 @@
         "id": "GU/W44-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-045": {
     "name": "“バラと爆薬の番人”リゼ",
@@ -871,7 +915,8 @@
         "id": "GU/W44-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-046": {
     "name": "新しい街で新しい生活 ココア",
@@ -889,7 +934,8 @@
         "id": "GU/W44-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-047": {
     "name": "“あやしい人”リゼ",
@@ -907,7 +953,8 @@
         "id": "GU/W44-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-048": {
     "name": "“ココア風呂”リゼ",
@@ -925,7 +972,8 @@
         "id": "GU/W44-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-049": {
     "name": "感激！ ココア",
@@ -943,7 +991,8 @@
         "id": "GU/W44-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-050": {
     "name": "“姉オーラ”モカ",
@@ -961,7 +1010,8 @@
         "id": "GU/W44-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-051": {
     "name": "“懐かしい風景”モカ",
@@ -979,7 +1029,8 @@
         "id": "GU/W44-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-052": {
     "name": "ココア画伯",
@@ -997,7 +1048,8 @@
         "id": "GU/W44-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-053": {
     "name": "ピッチャー リゼ",
@@ -1015,7 +1067,8 @@
         "id": "GU/W44-053",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-054": {
     "name": "ビキニ姿のココア",
@@ -1033,7 +1086,8 @@
         "id": "GU/W44-054",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-055": {
     "name": "“ミニスカフリル”リゼ",
@@ -1051,7 +1105,8 @@
         "id": "GU/W44-055",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-056": {
     "name": "今日から一つ屋根の下 ココア",
@@ -1069,7 +1124,8 @@
         "id": "GU/W44-056",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-057": {
     "name": "レオタード姿のリゼ",
@@ -1087,7 +1143,8 @@
         "id": "GU/W44-057",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-058": {
     "name": "“ラビットハウスのウェイトレス”ココア",
@@ -1105,7 +1162,8 @@
         "id": "GU/W44-058",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-059": {
     "name": "ココアからの手紙 モカ",
@@ -1123,7 +1181,8 @@
         "id": "GU/W44-059",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-060": {
     "name": "“父の日”リゼ",
@@ -1141,7 +1200,8 @@
         "id": "GU/W44-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-061": {
     "name": "“チャイナドレス”ココア",
@@ -1159,7 +1219,8 @@
         "id": "GU/W44-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-062": {
     "name": "人違い？",
@@ -1177,7 +1238,8 @@
         "id": "GU/W44-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-063": {
     "name": "もーう！もーう!!",
@@ -1195,7 +1257,8 @@
         "id": "GU/W44-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-064": {
     "name": "憧れのお姉ちゃんに",
@@ -1217,7 +1280,8 @@
         "id": "GU/W44-064S",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GU/W44-065": {
     "name": "もふもふハンター",
@@ -1235,7 +1299,8 @@
         "id": "GU/W44-065",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GU/W44-066": {
     "name": "いつも ありがとな",
@@ -1257,7 +1322,8 @@
         "id": "GU/W44-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-067": {
     "name": "助っ人、荒れ狂う黒馬",
@@ -1275,7 +1341,8 @@
         "id": "GU/W44-067",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GU/W44-068": {
     "name": "“ラビットハウスの制服”メグ",
@@ -1297,7 +1364,8 @@
         "id": "GU/W44-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-069": {
     "name": "“ラビットハウスの制服”マヤ",
@@ -1319,7 +1387,8 @@
         "id": "GU/W44-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-070": {
     "name": "“対お姉ちゃん用決戦部隊”チマメ隊",
@@ -1341,7 +1410,8 @@
         "id": "GU/W44-070R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-071": {
     "name": "“うさみみパーカー”チノ",
@@ -1363,7 +1433,8 @@
         "id": "GU/W44-071SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-072": {
     "name": "“応援”チノ",
@@ -1381,7 +1452,8 @@
         "id": "GU/W44-072",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-073": {
     "name": "“いいセンス”マヤ",
@@ -1399,7 +1471,8 @@
         "id": "GU/W44-073",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-074": {
     "name": "中学生 チノ",
@@ -1421,7 +1494,8 @@
         "id": "GU/W44-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-075": {
     "name": "“ホントの気持ち”マヤ",
@@ -1439,7 +1513,8 @@
         "id": "GU/W44-075",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-076": {
     "name": "巫女さん チノ",
@@ -1457,7 +1532,8 @@
         "id": "GU/W44-076",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-077": {
     "name": "“からだが勝手に～”メグ",
@@ -1475,7 +1551,8 @@
         "id": "GU/W44-077",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-078": {
     "name": "ラビットハウスに転職!? 青山ブルーマウンテン",
@@ -1493,7 +1570,8 @@
         "id": "GU/W44-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-079": {
     "name": "“一歩ずつ”チノ",
@@ -1515,7 +1593,8 @@
         "id": "GU/W44-079R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-080": {
     "name": "“絵の練習”メグ",
@@ -1533,7 +1612,8 @@
         "id": "GU/W44-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-081": {
     "name": "“バレエが得意”メグ",
@@ -1551,7 +1631,8 @@
         "id": "GU/W44-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-082": {
     "name": "文房具選び チノ",
@@ -1569,7 +1650,8 @@
         "id": "GU/W44-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-083": {
     "name": "チノに乗るティッピー",
@@ -1587,7 +1669,8 @@
         "id": "GU/W44-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-084": {
     "name": "“うさぎの被り物”メグ",
@@ -1605,7 +1688,8 @@
         "id": "GU/W44-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-085": {
     "name": "メイド服姿のチノ",
@@ -1623,7 +1707,8 @@
         "id": "GU/W44-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-086": {
     "name": "お使い チノ",
@@ -1641,7 +1726,8 @@
         "id": "GU/W44-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-087": {
     "name": "“怒りの叫び”マヤ",
@@ -1659,7 +1745,8 @@
         "id": "GU/W44-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-088": {
     "name": "クリスマスの朝 チノ",
@@ -1677,7 +1764,8 @@
         "id": "GU/W44-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-089": {
     "name": "“苦手克服”チノ",
@@ -1695,7 +1783,8 @@
         "id": "GU/W44-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-090": {
     "name": "甘兎庵でアルバイト!? チノ",
@@ -1713,7 +1802,8 @@
         "id": "GU/W44-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-091": {
     "name": "木組みの街の小説家 青山ブルーマウンテン",
@@ -1731,7 +1821,8 @@
         "id": "GU/W44-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-092": {
     "name": "意気込むマヤ",
@@ -1749,7 +1840,8 @@
         "id": "GU/W44-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-093": {
     "name": "“ラビットハウスの日常”チノ",
@@ -1767,7 +1859,8 @@
         "id": "GU/W44-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-094": {
     "name": "“ゴーストバスター”チノ",
@@ -1785,7 +1878,8 @@
         "id": "GU/W44-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-095": {
     "name": "カメラにハマったチノ",
@@ -1803,7 +1897,8 @@
         "id": "GU/W44-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-096": {
     "name": "怖い話",
@@ -1821,7 +1916,8 @@
         "id": "GU/W44-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GU/W44-097": {
     "name": "仲良し3人組",
@@ -1843,7 +1939,8 @@
         "id": "GU/W44-097S",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GU/W44-098": {
     "name": "雪の夜のお使い",
@@ -1861,7 +1958,8 @@
         "id": "GU/W44-098",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GU/W44-099": {
     "name": "寝坊助サンタクロース",
@@ -1879,7 +1977,8 @@
         "id": "GU/W44-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GU/W44-100": {
     "name": "ラビットハウスへようこそ",
@@ -1897,6 +1996,7 @@
         "id": "GU/W44-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

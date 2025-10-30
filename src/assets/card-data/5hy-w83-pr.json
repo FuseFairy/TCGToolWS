@@ -15,7 +15,8 @@
         "id": "5HY/W83-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W83-P02": {
     "name": "純潔無垢 中野 二乃",
@@ -33,7 +34,8 @@
         "id": "5HY/W83-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W83-P03": {
     "name": "純潔無垢 中野 三玖",
@@ -51,7 +53,8 @@
         "id": "5HY/W83-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W83-P04": {
     "name": "純潔無垢 中野 四葉",
@@ -69,7 +72,8 @@
         "id": "5HY/W83-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W83-P05": {
     "name": "純潔無垢 中野 五月",
@@ -87,7 +91,8 @@
         "id": "5HY/W83-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W83-P06": {
     "name": "五つ子の夏 一花＆二乃＆三玖＆四葉＆五月",
@@ -109,7 +114,8 @@
         "id": "5HY/W83-P06S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W83-P07": {
     "name": "いつも一緒 一花＆二乃＆三玖＆四葉＆五月",
@@ -127,7 +133,8 @@
         "id": "5HY/W83-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "5HY/W83-P08": {
     "name": "エレガント 一花&二乃&三玖&四葉&五月",
@@ -145,7 +152,8 @@
         "id": "5HY/W83-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W83-P09": {
     "name": "重なる想い 一花&二乃&三玖&四葉&五月",
@@ -167,7 +175,8 @@
         "id": "5HY/W83-P09S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W83-136": {
     "name": "初対面 中野 一花",
@@ -185,7 +194,8 @@
         "id": "5HY/W83-136",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W83-137": {
     "name": "ご褒美のために 中野 四葉",
@@ -203,7 +213,8 @@
         "id": "5HY/W83-137",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "5HY/W83-138": {
     "name": "甘い罠 中野 二乃",
@@ -221,7 +232,8 @@
         "id": "5HY/W83-138",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "5HY/W83-139": {
     "name": "寝惚け眼 中野 五月",
@@ -239,7 +251,8 @@
         "id": "5HY/W83-139",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "5HY/W83-140": {
     "name": "お風呂タイム 中野 三玖",
@@ -257,6 +270,7 @@
         "id": "5HY/W83-140",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

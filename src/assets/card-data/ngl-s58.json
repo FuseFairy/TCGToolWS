@@ -19,7 +19,8 @@
         "id": "NGL/S58-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-002": {
     "name": "『 』の勝利条件 空",
@@ -41,7 +42,8 @@
         "id": "NGL/S58-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-003": {
     "name": "人類種全権代理者 空",
@@ -63,7 +65,8 @@
         "id": "NGL/S58-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-004": {
     "name": "生まれ直した世界 空",
@@ -85,7 +88,8 @@
         "id": "NGL/S58-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-005": {
     "name": "目にしたイカサマ 空",
@@ -103,7 +107,8 @@
         "id": "NGL/S58-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-006": {
     "name": "存在を奪い合うゲーム 空",
@@ -121,7 +126,8 @@
         "id": "NGL/S58-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-007": {
     "name": "コールドリーディング 空",
@@ -139,7 +145,8 @@
         "id": "NGL/S58-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-008": {
     "name": "初めの一手 空",
@@ -157,7 +164,8 @@
         "id": "NGL/S58-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-009": {
     "name": "国王選定戦の勝者 空",
@@ -175,7 +183,8 @@
         "id": "NGL/S58-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-010": {
     "name": "幼い頃の空",
@@ -193,7 +202,8 @@
         "id": "NGL/S58-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-011": {
     "name": "宣戦布告 空",
@@ -211,7 +221,8 @@
         "id": "NGL/S58-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-012": {
     "name": "コミュニケーションエラー 空",
@@ -229,7 +240,8 @@
         "id": "NGL/S58-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-013": {
     "name": "ゲームの種明かし 空",
@@ -247,7 +259,8 @@
         "id": "NGL/S58-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-014": {
     "name": "盤上の世界の創世者 テト",
@@ -265,7 +278,8 @@
         "id": "NGL/S58-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-015": {
     "name": "異議あり！ 空",
@@ -283,7 +297,8 @@
         "id": "NGL/S58-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-016": {
     "name": "記憶の共有 空",
@@ -301,7 +316,8 @@
         "id": "NGL/S58-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-017": {
     "name": "ジャンケン",
@@ -319,7 +335,8 @@
         "id": "NGL/S58-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-018": {
     "name": "『 』に敗北はない",
@@ -337,7 +354,8 @@
         "id": "NGL/S58-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-019": {
     "name": "打倒唯一神",
@@ -359,7 +377,8 @@
         "id": "NGL/S58-019R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-020": {
     "name": "チェック・メイト",
@@ -377,7 +396,8 @@
         "id": "NGL/S58-020",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-021": {
     "name": "超健全空間",
@@ -399,7 +419,8 @@
         "id": "NGL/S58-021R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-022": {
     "name": "フィール・ニルヴァレン",
@@ -421,7 +442,8 @@
         "id": "NGL/S58-022SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-023": {
     "name": "ギャップ萌え いづな",
@@ -443,7 +465,8 @@
         "id": "NGL/S58-023SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-024": {
     "name": "クラミー・ツェル",
@@ -465,7 +488,8 @@
         "id": "NGL/S58-024SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-025": {
     "name": "天真爛漫 いづな",
@@ -483,7 +507,8 @@
         "id": "NGL/S58-025",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-026": {
     "name": "ムキになるクラミー",
@@ -505,7 +530,8 @@
         "id": "NGL/S58-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-027": {
     "name": "初瀬 いの",
@@ -523,7 +549,8 @@
         "id": "NGL/S58-027",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-028": {
     "name": "クールキャラ クラミー",
@@ -541,7 +568,8 @@
         "id": "NGL/S58-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-029": {
     "name": "東部連合在エルキア大使 いづな",
@@ -563,7 +591,8 @@
         "id": "NGL/S58-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-030": {
     "name": "大切な存在 フィール",
@@ -585,7 +614,8 @@
         "id": "NGL/S58-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-031": {
     "name": "我慢の限界 クラミー",
@@ -603,7 +633,8 @@
         "id": "NGL/S58-031",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-032": {
     "name": "過去の遺恨 フィール",
@@ -621,7 +652,8 @@
         "id": "NGL/S58-032",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-033": {
     "name": "獣人種全権代理者 巫女",
@@ -639,7 +671,8 @@
         "id": "NGL/S58-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-034": {
     "name": "獣人種の幼女 いづな",
@@ -657,7 +690,8 @@
         "id": "NGL/S58-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-035": {
     "name": "水浴び クラミー",
@@ -675,7 +709,8 @@
         "id": "NGL/S58-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-036": {
     "name": "物理限界をも超える力 いづな",
@@ -693,7 +728,8 @@
         "id": "NGL/S58-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-037": {
     "name": "お風呂嫌い いづな",
@@ -711,7 +747,8 @@
         "id": "NGL/S58-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-038": {
     "name": "勝利への執念 いづな",
@@ -729,7 +766,8 @@
         "id": "NGL/S58-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-039": {
     "name": "怒涛の猛攻 いづな",
@@ -747,7 +785,8 @@
         "id": "NGL/S58-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-040": {
     "name": "人類の可能性 フィール",
@@ -765,7 +804,8 @@
         "id": "NGL/S58-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-041": {
     "name": "卓越した魔法の使い手 フィール",
@@ -783,7 +823,8 @@
         "id": "NGL/S58-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-042": {
     "name": "記憶の共有 クラミー",
@@ -801,7 +842,8 @@
         "id": "NGL/S58-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-043": {
     "name": "森精種の協力者 フィール",
@@ -819,7 +861,8 @@
         "id": "NGL/S58-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-044": {
     "name": "幼い頃のクラミー",
@@ -837,7 +880,8 @@
         "id": "NGL/S58-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-045": {
     "name": "人類の可能性 クラミー",
@@ -855,7 +899,8 @@
         "id": "NGL/S58-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-046": {
     "name": "似たもの同士",
@@ -873,7 +918,8 @@
         "id": "NGL/S58-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-047": {
     "name": "遠き約束の日",
@@ -895,7 +941,8 @@
         "id": "NGL/S58-047R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NGL/S58-048": {
     "name": "最後の駒",
@@ -913,7 +960,8 @@
         "id": "NGL/S58-048",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-049": {
     "name": "イヤイヤお風呂タイム",
@@ -931,7 +979,8 @@
         "id": "NGL/S58-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-050": {
     "name": "血壊",
@@ -949,7 +998,8 @@
         "id": "NGL/S58-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NGL/S58-051": {
     "name": "思いを継ぐもの ステフ",
@@ -971,7 +1021,8 @@
         "id": "NGL/S58-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-052": {
     "name": "『 』の従属者 ジブリール",
@@ -993,7 +1044,8 @@
         "id": "NGL/S58-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-053": {
     "name": "苦労する常識人 ステフ",
@@ -1015,7 +1067,8 @@
         "id": "NGL/S58-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-054": {
     "name": "知識を尊ぶ種族 ジブリール",
@@ -1037,7 +1090,8 @@
         "id": "NGL/S58-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-055": {
     "name": "たった一つのゲーム ジブリール",
@@ -1055,7 +1109,8 @@
         "id": "NGL/S58-055",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-056": {
     "name": "実力者の矜持 ジブリール",
@@ -1077,7 +1132,8 @@
         "id": "NGL/S58-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-057": {
     "name": "先王からの贈り物 ステフ",
@@ -1095,7 +1151,8 @@
         "id": "NGL/S58-057",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-058": {
     "name": "エルキアの内政担当 ステフ",
@@ -1113,7 +1170,8 @@
         "id": "NGL/S58-058",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-059": {
     "name": "ゲームの正体 ジブリール",
@@ -1131,7 +1189,8 @@
         "id": "NGL/S58-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-060": {
     "name": "ぴこーん！ ステフ",
@@ -1149,7 +1208,8 @@
         "id": "NGL/S58-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-061": {
     "name": "先王の孫娘 ステフ",
@@ -1167,7 +1227,8 @@
         "id": "NGL/S58-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-062": {
     "name": "元十八翼議会 ジブリール",
@@ -1185,7 +1246,8 @@
         "id": "NGL/S58-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-063": {
     "name": "ルンルン気分 ステフ",
@@ -1203,7 +1265,8 @@
         "id": "NGL/S58-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-064": {
     "name": "あふれる自信 ジブリール",
@@ -1221,7 +1284,8 @@
         "id": "NGL/S58-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-065": {
     "name": "破裂したステフ",
@@ -1239,7 +1303,8 @@
         "id": "NGL/S58-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-066": {
     "name": "愛が止まらない ステフ",
@@ -1257,7 +1322,8 @@
         "id": "NGL/S58-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-067": {
     "name": "興味津々 ジブリール",
@@ -1275,7 +1341,8 @@
         "id": "NGL/S58-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-068": {
     "name": "お風呂タイム ジブリール",
@@ -1293,7 +1360,8 @@
         "id": "NGL/S58-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-069": {
     "name": "存在感のないステフ",
@@ -1311,7 +1379,8 @@
         "id": "NGL/S58-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-070": {
     "name": "図書館の天翼種 ジブリール",
@@ -1329,7 +1398,8 @@
         "id": "NGL/S58-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-071": {
     "name": "忠誠と献身 ジブリール",
@@ -1347,7 +1417,8 @@
         "id": "NGL/S58-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-072": {
     "name": "敗者の姿 ステフ",
@@ -1365,7 +1436,8 @@
         "id": "NGL/S58-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-073": {
     "name": "具象化しりとり",
@@ -1383,7 +1455,8 @@
         "id": "NGL/S58-073",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-074": {
     "name": "希望の鍵",
@@ -1401,7 +1474,8 @@
         "id": "NGL/S58-074",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-075": {
     "name": "愚王と呼ばれた男",
@@ -1419,7 +1493,8 @@
         "id": "NGL/S58-075",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-076": {
     "name": "巻き添え担当",
@@ -1441,7 +1516,8 @@
         "id": "NGL/S58-076R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-077": {
     "name": "人類への信頼の全て",
@@ -1459,7 +1535,8 @@
         "id": "NGL/S58-077",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "NGL/S58-078": {
     "name": "天翼種の実力",
@@ -1481,7 +1558,8 @@
         "id": "NGL/S58-078R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-079": {
     "name": "“死”そのもの",
@@ -1499,7 +1577,8 @@
         "id": "NGL/S58-079",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-080": {
     "name": "人類種全権代理者 白",
@@ -1521,7 +1600,8 @@
         "id": "NGL/S58-080SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-081": {
     "name": "二人で一人 白",
@@ -1543,7 +1623,8 @@
         "id": "NGL/S58-081SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-082": {
     "name": "知略の申し子 白",
@@ -1565,7 +1646,8 @@
         "id": "NGL/S58-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-083": {
     "name": "二人にしか分からない道 白",
@@ -1587,7 +1669,8 @@
         "id": "NGL/S58-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-084": {
     "name": "十の盟約 テト",
@@ -1609,7 +1692,8 @@
         "id": "NGL/S58-084SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-085": {
     "name": "幼き軍神 白",
@@ -1627,7 +1711,8 @@
         "id": "NGL/S58-085",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-086": {
     "name": "生まれ直した世界 白",
@@ -1649,7 +1734,8 @@
         "id": "NGL/S58-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-087": {
     "name": "消失の訪れ 白",
@@ -1667,7 +1753,8 @@
         "id": "NGL/S58-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-088": {
     "name": "一人の朝 白",
@@ -1685,7 +1772,8 @@
         "id": "NGL/S58-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-089": {
     "name": "突然の奇襲 白",
@@ -1703,7 +1791,8 @@
         "id": "NGL/S58-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-090": {
     "name": "あれれぇ？ 白",
@@ -1721,7 +1810,8 @@
         "id": "NGL/S58-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-091": {
     "name": "にぃとの再会 白",
@@ -1739,7 +1829,8 @@
         "id": "NGL/S58-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-092": {
     "name": "人格崩壊 白",
@@ -1757,7 +1848,8 @@
         "id": "NGL/S58-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-093": {
     "name": "つまらない勝負 白",
@@ -1775,7 +1867,8 @@
         "id": "NGL/S58-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-094": {
     "name": "幼い頃の白",
@@ -1793,7 +1886,8 @@
         "id": "NGL/S58-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-095": {
     "name": "めろめろ 白",
@@ -1811,7 +1905,8 @@
         "id": "NGL/S58-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-096": {
     "name": "生まれながらの天才",
@@ -1829,7 +1924,8 @@
         "id": "NGL/S58-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-097": {
     "name": "思考の加速",
@@ -1847,7 +1943,8 @@
         "id": "NGL/S58-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-098": {
     "name": "ようこそ、ゲーマー",
@@ -1869,7 +1966,8 @@
         "id": "NGL/S58-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NGL/S58-099": {
     "name": "石に込めた想い",
@@ -1887,7 +1985,8 @@
         "id": "NGL/S58-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NGL/S58-100": {
     "name": "二人の約束",
@@ -1905,6 +2004,7 @@
         "id": "NGL/S58-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

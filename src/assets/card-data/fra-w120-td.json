@@ -19,7 +19,8 @@
         "id": "Fra/W120-T14R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fra/W120-T15": {
     "name": "本当の願い ルミア",
@@ -41,7 +42,8 @@
         "id": "Fra/W120-T15SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fra/W120-T17": {
     "name": "姦しいバスタイム システィーナ",
@@ -63,6 +65,7 @@
         "id": "Fra/W120-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

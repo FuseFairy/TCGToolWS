@@ -19,7 +19,8 @@
         "id": "Goi/WS02-T13SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Goi/WS02-T20": {
     "name": "最後の人生相談 桐乃",
@@ -41,7 +42,8 @@
         "id": "Goi/WS02-T20R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Goi/WS02-T21": {
     "name": "もしもの物語 あやせ",
@@ -63,6 +65,7 @@
         "id": "Goi/WS02-T21R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

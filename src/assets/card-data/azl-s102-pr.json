@@ -19,7 +19,8 @@
         "id": "AZL/S102-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S102-P02": {
     "name": "赤城&加賀",
@@ -41,7 +42,8 @@
         "id": "AZL/S102-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S102-P03": {
     "name": "迎春 翔鶴",
@@ -59,7 +61,8 @@
         "id": "AZL/S102-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S102-141": {
     "name": "メイド隊のご奉仕",
@@ -77,7 +80,8 @@
         "id": "AZL/S102-141",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S102-142": {
     "name": "ダンナさまのお気に入り？",
@@ -95,7 +99,8 @@
         "id": "AZL/S102-142",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S102-143": {
     "name": "アフタヌーンティー",
@@ -113,7 +118,8 @@
         "id": "AZL/S102-143",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S102-144": {
     "name": "騎士姫の空想",
@@ -131,7 +137,8 @@
         "id": "AZL/S102-144",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S102-145": {
     "name": "頼れすぎる一面",
@@ -149,7 +156,8 @@
         "id": "AZL/S102-145",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S102-146": {
     "name": "泡沫の夢",
@@ -167,7 +175,8 @@
         "id": "AZL/S102-146",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S102-147": {
     "name": "碧海の吹く風",
@@ -185,7 +194,8 @@
         "id": "AZL/S102-147",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S102-148": {
     "name": "春の暁に鳳歌う",
@@ -203,7 +213,8 @@
         "id": "AZL/S102-148",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S102-149": {
     "name": "素直の皮肉屋",
@@ -221,7 +232,8 @@
         "id": "AZL/S102-149",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S102-150": {
     "name": "魔女の宴？",
@@ -239,7 +251,8 @@
         "id": "AZL/S102-150",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S102-151": {
     "name": "闇黒のRhapsodie",
@@ -257,7 +270,8 @@
         "id": "AZL/S102-151",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S102-152": {
     "name": "威光溢れる日常",
@@ -275,7 +289,8 @@
         "id": "AZL/S102-152",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S102-153": {
     "name": "今度は最後まで",
@@ -293,7 +308,8 @@
         "id": "AZL/S102-153",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S102-154": {
     "name": "鉄血の翼",
@@ -311,7 +327,8 @@
         "id": "AZL/S102-154",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AZL/S102-155": {
     "name": "エースの放課後",
@@ -329,7 +346,8 @@
         "id": "AZL/S102-155",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S102-156": {
     "name": "こういうの好きなんでしょ？",
@@ -347,7 +365,8 @@
         "id": "AZL/S102-156",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S102-157": {
     "name": "空と海の観測者",
@@ -365,7 +384,8 @@
         "id": "AZL/S102-157",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AZL/S102-158": {
     "name": "甘えん坊ね……",
@@ -383,6 +403,7 @@
         "id": "AZL/S102-158",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

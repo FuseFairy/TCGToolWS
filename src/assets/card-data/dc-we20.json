@@ -15,7 +15,8 @@
         "id": "DC/WE20-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE20-03": {
     "name": "巡り会う世界 さくら",
@@ -33,7 +34,8 @@
         "id": "DC/WE20-03",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE20-04": {
     "name": "恋する魔法 アイシア",
@@ -51,7 +53,8 @@
         "id": "DC/WE20-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE20-05": {
     "name": "おめかし 小恋",
@@ -69,7 +72,8 @@
         "id": "DC/WE20-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE20-06": {
     "name": "正直な気持ち 由夢",
@@ -87,7 +91,8 @@
         "id": "DC/WE20-06",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE20-07": {
     "name": "いつも一緒に 音夢",
@@ -105,7 +110,8 @@
         "id": "DC/WE20-07",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE20-11": {
     "name": "帰ってきた学園長 さくら",
@@ -123,7 +129,8 @@
         "id": "DC/WE20-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE20-12": {
     "name": "夢物語の閉幕 “さくら”",
@@ -141,7 +148,8 @@
         "id": "DC/WE20-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE20-13": {
     "name": "クリスマスの思い出 まひる",
@@ -159,7 +167,8 @@
         "id": "DC/WE20-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE20-14": {
     "name": "“ひとりぼっち”のアイシア",
@@ -177,7 +186,8 @@
         "id": "DC/WE20-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE20-15": {
     "name": "枯れない桜",
@@ -195,7 +205,8 @@
         "id": "DC/WE20-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE20-16": {
     "name": "忘れないから。",
@@ -213,7 +224,8 @@
         "id": "DC/WE20-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE20-17": {
     "name": "夢のような景色",
@@ -231,7 +243,8 @@
         "id": "DC/WE20-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC/WE20-18": {
     "name": "あなたの隣に ことり",
@@ -249,7 +262,8 @@
         "id": "DC/WE20-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE20-19": {
     "name": "お寝坊 ななか",
@@ -267,7 +281,8 @@
         "id": "DC/WE20-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE20-21": {
     "name": "水着の美夏",
@@ -285,7 +300,8 @@
         "id": "DC/WE20-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC/WE20-24": {
     "name": "いつもの騒動 エリカ",
@@ -303,7 +319,8 @@
         "id": "DC/WE20-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE20-25": {
     "name": "大切な願い事 美春",
@@ -321,7 +338,8 @@
         "id": "DC/WE20-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC/WE20-30": {
     "name": "言い忘れたこと 杏",
@@ -339,6 +357,7 @@
         "id": "DC/WE20-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

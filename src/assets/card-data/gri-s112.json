@@ -19,7 +19,8 @@
         "id": "GRI/S112-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-002": {
     "name": "一番大切なこと レナ",
@@ -41,7 +42,8 @@
         "id": "GRI/S112-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-003": {
     "name": "少女達の日常 レナ",
@@ -67,7 +69,8 @@
         "id": "GRI/S112-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-004": {
     "name": "グルメビーチ トーカ＆レナ",
@@ -89,7 +92,8 @@
         "id": "GRI/S112-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-005": {
     "name": "少女達の日常 マキ",
@@ -111,7 +115,8 @@
         "id": "GRI/S112-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-006": {
     "name": "シューター レナ",
@@ -133,7 +138,8 @@
         "id": "GRI/S112-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-007": {
     "name": "不透明な護衛任務 バニラ",
@@ -155,7 +161,8 @@
         "id": "GRI/S112-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-008": {
     "name": "不透明な護衛任務 チョコ",
@@ -177,7 +184,8 @@
         "id": "GRI/S112-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-009": {
     "name": "朝の風景 レナ＆ムラサキ",
@@ -199,7 +207,8 @@
         "id": "GRI/S112-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-010": {
     "name": "戦場の姉妹 マキ＆レナ",
@@ -221,7 +230,8 @@
         "id": "GRI/S112-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-011": {
     "name": "食いしん坊ガンマン レナ",
@@ -243,7 +253,8 @@
         "id": "GRI/S112-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-012": {
     "name": "“ジャーゴン１２” マキ",
@@ -265,7 +276,8 @@
         "id": "GRI/S112-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-013": {
     "name": "乖離した世界 有坂",
@@ -287,7 +299,8 @@
         "id": "GRI/S112-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-014": {
     "name": "飢えた獣 レナ",
@@ -309,7 +322,8 @@
         "id": "GRI/S112-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-015": {
     "name": "朝の挨拶 ハルト",
@@ -331,7 +345,8 @@
         "id": "GRI/S112-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-016": {
     "name": "自分の幸福 レナ",
@@ -353,7 +368,8 @@
         "id": "GRI/S112-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-017": {
     "name": "挑戦者 マキ",
@@ -375,7 +391,8 @@
         "id": "GRI/S112-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-018": {
     "name": "河原でフィッシング！",
@@ -397,7 +414,8 @@
         "id": "GRI/S112-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-019": {
     "name": "夏と水着とバイクと洗車",
@@ -419,7 +437,8 @@
         "id": "GRI/S112-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-020": {
     "name": "再会、そして死闘",
@@ -441,7 +460,8 @@
         "id": "GRI/S112-020R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-021": {
     "name": "食べ物の味",
@@ -463,7 +483,8 @@
         "id": "GRI/S112-021R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-022": {
     "name": "魔眼使い グミ",
@@ -485,7 +506,8 @@
         "id": "GRI/S112-022SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-023": {
     "name": "黎明の蝶 有坂",
@@ -507,7 +529,8 @@
         "id": "GRI/S112-023SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-024": {
     "name": "大人になるということ トーカ",
@@ -529,7 +552,8 @@
         "id": "GRI/S112-024SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-025": {
     "name": "命は廻りて ハルト",
@@ -551,7 +575,8 @@
         "id": "GRI/S112-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-026": {
     "name": "夏到来！ トーカ＆ムラサキ",
@@ -573,7 +598,8 @@
         "id": "GRI/S112-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-027": {
     "name": "少女達の日常 トーカ",
@@ -599,7 +625,8 @@
         "id": "GRI/S112-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-028": {
     "name": "スターゲイザー グミ＆トーカ",
@@ -621,7 +648,8 @@
         "id": "GRI/S112-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-029": {
     "name": "マークスマン トーカ",
@@ -643,7 +671,8 @@
         "id": "GRI/S112-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-030": {
     "name": "夜戦強襲 シルヴィア",
@@ -665,7 +694,8 @@
         "id": "GRI/S112-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-031": {
     "name": "Tsun-Dere トーカ",
@@ -687,7 +717,8 @@
         "id": "GRI/S112-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-032": {
     "name": "平和の味 グミ",
@@ -709,7 +740,8 @@
         "id": "GRI/S112-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-033": {
     "name": "夜戦強襲 ベルベット",
@@ -731,7 +763,8 @@
         "id": "GRI/S112-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-034": {
     "name": "愛されスナイパー トーカ",
@@ -753,7 +786,8 @@
         "id": "GRI/S112-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-035": {
     "name": "師弟関係 トーカ＆グミ",
@@ -775,7 +809,8 @@
         "id": "GRI/S112-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-036": {
     "name": "長距離射撃訓練 トーカ",
@@ -797,7 +832,8 @@
         "id": "GRI/S112-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-037": {
     "name": "“違うのよ事件” トーカ",
@@ -819,7 +855,8 @@
         "id": "GRI/S112-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-038": {
     "name": "温かな食事 グミ",
@@ -841,7 +878,8 @@
         "id": "GRI/S112-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-039": {
     "name": "遠い日の約束",
@@ -863,7 +901,8 @@
         "id": "GRI/S112-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-040": {
     "name": "選んだ未来",
@@ -885,7 +924,8 @@
         "id": "GRI/S112-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-041": {
     "name": "ツープラトン式・変則クリードマンスタイル",
@@ -907,7 +947,8 @@
         "id": "GRI/S112-041R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-042": {
     "name": "後悔のない選択",
@@ -929,7 +970,8 @@
         "id": "GRI/S112-042R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-043": {
     "name": "私は、ニンジャなのだから ムラサキ",
@@ -951,7 +993,8 @@
         "id": "GRI/S112-043SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-044": {
     "name": "アサルト・ニンジャ ユーキ",
@@ -973,7 +1016,8 @@
         "id": "GRI/S112-044SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-045": {
     "name": "アネ、カエル ユーキ",
@@ -995,7 +1039,8 @@
         "id": "GRI/S112-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-046": {
     "name": "森林サバイバル ムラサキ＆トーカ",
@@ -1017,7 +1062,8 @@
         "id": "GRI/S112-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-047": {
     "name": "殺し屋の流儀 アオイ",
@@ -1039,7 +1085,8 @@
         "id": "GRI/S112-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-048": {
     "name": "少女達の日常 ムラサキ",
@@ -1065,7 +1112,8 @@
         "id": "GRI/S112-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-049": {
     "name": "ステルス・ニンジャ ムラサキ",
@@ -1087,7 +1135,8 @@
         "id": "GRI/S112-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-050": {
     "name": "戦場の洗礼 有坂",
@@ -1109,7 +1158,8 @@
         "id": "GRI/S112-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-051": {
     "name": "敏腕ガンスミス 山本",
@@ -1131,7 +1181,8 @@
         "id": "GRI/S112-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-052": {
     "name": "海中散歩 ムラサキ＆レナ",
@@ -1153,7 +1204,8 @@
         "id": "GRI/S112-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-053": {
     "name": "優しさの裏返し ユーキ",
@@ -1175,7 +1227,8 @@
         "id": "GRI/S112-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-054": {
     "name": "勇気の代償 ユーキ",
@@ -1197,7 +1250,8 @@
         "id": "GRI/S112-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-055": {
     "name": "鬼の影 ハルト",
@@ -1219,7 +1273,8 @@
         "id": "GRI/S112-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-056": {
     "name": "ニンジャ・マスター ムラサキ",
@@ -1241,7 +1296,8 @@
         "id": "GRI/S112-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-057": {
     "name": "懸垂降下 ムラサキ",
@@ -1263,7 +1319,8 @@
         "id": "GRI/S112-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-058": {
     "name": "情報収集 ムラサキ",
@@ -1285,7 +1342,8 @@
         "id": "GRI/S112-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-059": {
     "name": "真相の行方 野上",
@@ -1307,7 +1365,8 @@
         "id": "GRI/S112-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-060": {
     "name": "私もニンジャだから ユーキ",
@@ -1329,7 +1388,8 @@
         "id": "GRI/S112-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-061": {
     "name": "後悔と罰 イチル",
@@ -1351,7 +1411,8 @@
         "id": "GRI/S112-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-062": {
     "name": "“美浜学園” ハルト",
@@ -1373,7 +1434,8 @@
         "id": "GRI/S112-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-063": {
     "name": "“美浜学園” 仙石一縷",
@@ -1395,7 +1457,8 @@
         "id": "GRI/S112-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-064": {
     "name": "“美浜学園” 有坂",
@@ -1417,7 +1480,8 @@
         "id": "GRI/S112-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-065": {
     "name": "“美浜学園” 野上",
@@ -1439,7 +1503,8 @@
         "id": "GRI/S112-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-066": {
     "name": "“美浜学園” ユーキ",
@@ -1461,7 +1526,8 @@
         "id": "GRI/S112-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-067": {
     "name": "少女達は戦場へ",
@@ -1483,7 +1549,8 @@
         "id": "GRI/S112-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-068": {
     "name": "名もなき一振りの刀",
@@ -1505,7 +1572,8 @@
         "id": "GRI/S112-068R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-069": {
     "name": "大浴場の女子会",
@@ -1527,7 +1595,8 @@
         "id": "GRI/S112-069R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-070": {
     "name": "甘い覚悟",
@@ -1549,7 +1618,8 @@
         "id": "GRI/S112-070R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-071": {
     "name": "美浜学園・A組",
@@ -1571,7 +1641,8 @@
         "id": "GRI/S112-071R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-072": {
     "name": "命を背負って クリス",
@@ -1593,7 +1664,8 @@
         "id": "GRI/S112-072SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-073": {
     "name": "救護の虎 タイガ",
@@ -1615,7 +1687,8 @@
         "id": "GRI/S112-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-074": {
     "name": "伝習員 ハルト",
@@ -1637,7 +1710,8 @@
         "id": "GRI/S112-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-075": {
     "name": "少女達の日常 クリス",
@@ -1663,7 +1737,8 @@
         "id": "GRI/S112-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-076": {
     "name": "タナトス・システム",
@@ -1685,7 +1760,8 @@
         "id": "GRI/S112-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-077": {
     "name": "情報担当 クリス",
@@ -1707,7 +1783,8 @@
         "id": "GRI/S112-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-078": {
     "name": "甘い香りに誘われて ムラサキ＆クリス＆タイガ",
@@ -1729,7 +1806,8 @@
         "id": "GRI/S112-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-079": {
     "name": "今自分にできること タイガ",
@@ -1751,7 +1829,8 @@
         "id": "GRI/S112-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-080": {
     "name": "鉗子の監視 有坂",
@@ -1773,7 +1852,8 @@
         "id": "GRI/S112-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-081": {
     "name": "訓練の後は クリス＆レナ＆ムラサキ",
@@ -1795,7 +1875,8 @@
         "id": "GRI/S112-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-082": {
     "name": "初めての味 タイガ",
@@ -1817,7 +1898,8 @@
         "id": "GRI/S112-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-083": {
     "name": "余計な仕事 タイガ",
@@ -1839,7 +1921,8 @@
         "id": "GRI/S112-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-084": {
     "name": "クラスのオカン クリス",
@@ -1861,7 +1944,8 @@
         "id": "GRI/S112-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-085": {
     "name": "“美浜学園” ムラサキ",
@@ -1883,7 +1967,8 @@
         "id": "GRI/S112-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-086": {
     "name": "“美浜学園” レナ",
@@ -1905,7 +1990,8 @@
         "id": "GRI/S112-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-087": {
     "name": "“美浜学園” タイガ",
@@ -1927,7 +2013,8 @@
         "id": "GRI/S112-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-088": {
     "name": "誰かを背負う番 タイガ",
@@ -1949,7 +2036,8 @@
         "id": "GRI/S112-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-089": {
     "name": "“美浜学園” トーカ",
@@ -1971,7 +2059,8 @@
         "id": "GRI/S112-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-090": {
     "name": "“美浜学園” グミ",
@@ -1993,7 +2082,8 @@
         "id": "GRI/S112-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-091": {
     "name": "懸垂降下 クリス",
@@ -2015,7 +2105,8 @@
         "id": "GRI/S112-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-092": {
     "name": "“美浜学園” マキ",
@@ -2037,7 +2128,8 @@
         "id": "GRI/S112-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-093": {
     "name": "独断専行 クリス",
@@ -2059,7 +2151,8 @@
         "id": "GRI/S112-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-094": {
     "name": "“美浜学園” クリス",
@@ -2081,7 +2174,8 @@
         "id": "GRI/S112-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-095": {
     "name": "SORD",
@@ -2103,7 +2197,8 @@
         "id": "GRI/S112-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-096": {
     "name": "祈り",
@@ -2125,7 +2220,8 @@
         "id": "GRI/S112-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-097": {
     "name": "返歌",
@@ -2147,7 +2243,8 @@
         "id": "GRI/S112-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-098": {
     "name": "命の価値",
@@ -2169,7 +2266,8 @@
         "id": "GRI/S112-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S112-099": {
     "name": "バラと少女",
@@ -2191,7 +2289,8 @@
         "id": "GRI/S112-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S112-100": {
     "name": "タイヤキと猫",
@@ -2213,6 +2312,7 @@
         "id": "GRI/S112-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

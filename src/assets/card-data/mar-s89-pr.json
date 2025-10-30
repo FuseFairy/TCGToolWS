@@ -15,7 +15,8 @@
         "id": "MAR/S89-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-101": {
     "name": "オーディンの息子 ソー",
@@ -33,7 +34,8 @@
         "id": "MAR/S89-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-102": {
     "name": "やんちゃな高校生ヒーロー スパイダーマン",
@@ -51,7 +53,8 @@
         "id": "MAR/S89-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-103": {
     "name": "アーマード・アベンジャー アイアンマン",
@@ -69,7 +72,8 @@
         "id": "MAR/S89-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-104": {
     "name": "抜群のリーダーシップ キャプテン・アメリカ",
@@ -87,6 +91,7 @@
         "id": "MAR/S89-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

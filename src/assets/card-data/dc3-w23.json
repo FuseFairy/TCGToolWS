@@ -15,7 +15,8 @@
         "id": "DC3/W23-102SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W23-004": {
     "name": "優しい温もり シャルル",
@@ -37,7 +38,8 @@
         "id": "DC3/W23-004R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W23-005": {
     "name": "新しい魔法 リッカ",
@@ -59,7 +61,8 @@
         "id": "DC3/W23-005R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W23-008": {
     "name": "懐かしい感じ リッカ",
@@ -77,7 +80,8 @@
         "id": "DC3/W23-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W23-010": {
     "name": "お茶目なエリザベス",
@@ -95,7 +99,8 @@
         "id": "DC3/W23-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W23-020": {
     "name": "いつかの記憶 シャルル",
@@ -113,7 +118,8 @@
         "id": "DC3/W23-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W23-022": {
     "name": "熱弁をふるう巴",
@@ -131,7 +137,8 @@
         "id": "DC3/W23-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W23-027": {
     "name": "こそばゆい未来 姫乃",
@@ -153,7 +160,8 @@
         "id": "DC3/W23-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W23-031": {
     "name": "恋愛実践中！ サラ",
@@ -175,7 +183,8 @@
         "id": "DC3/W23-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W23-037": {
     "name": "真面目でひたむき サラ",
@@ -193,7 +202,8 @@
         "id": "DC3/W23-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W23-042": {
     "name": "海でのんびり 姫乃",
@@ -211,7 +221,8 @@
         "id": "DC3/W23-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W23-048": {
     "name": "姫乃の覚悟",
@@ -229,7 +240,8 @@
         "id": "DC3/W23-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W23-049": {
     "name": "かけがえのない家族",
@@ -251,7 +263,8 @@
         "id": "DC3/W23-049R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC3/W23-069": {
     "name": "普段着はバニー！？ 美琴",
@@ -269,7 +282,8 @@
         "id": "DC3/W23-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W23-077": {
     "name": "夢のような夜 葵",
@@ -291,7 +305,8 @@
         "id": "DC3/W23-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W23-082": {
     "name": "ニコニコ笑顔 葵",
@@ -313,7 +328,8 @@
         "id": "DC3/W23-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W23-091": {
     "name": "浜辺で水遊び 葵",
@@ -331,7 +347,8 @@
         "id": "DC3/W23-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W23-099": {
     "name": "“お兄ちゃん”へ",
@@ -353,6 +370,7 @@
         "id": "DC3/W23-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

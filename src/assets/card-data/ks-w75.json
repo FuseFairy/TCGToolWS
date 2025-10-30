@@ -19,7 +19,8 @@
         "id": "KS/W75-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-002": {
     "name": "ダクネス",
@@ -41,7 +42,8 @@
         "id": "KS/W75-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-003": {
     "name": "“スティール成功…？”クリス",
@@ -63,7 +65,8 @@
         "id": "KS/W75-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-004": {
     "name": "“ソゲキッ”カズマ",
@@ -85,7 +88,8 @@
         "id": "KS/W75-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-005": {
     "name": "“見送る”クリス",
@@ -103,7 +107,8 @@
         "id": "KS/W75-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-006": {
     "name": "“露払い役”ダクネス",
@@ -121,7 +126,8 @@
         "id": "KS/W75-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-007": {
     "name": "“地獄の公爵”バニル",
@@ -143,7 +149,8 @@
         "id": "KS/W75-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-008": {
     "name": "“走り出せ”ダクネス",
@@ -161,7 +168,8 @@
         "id": "KS/W75-008",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-009": {
     "name": "“仮面の力”ダクネス",
@@ -179,7 +187,8 @@
         "id": "KS/W75-009",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-010": {
     "name": "盗賊クリス",
@@ -197,7 +206,8 @@
         "id": "KS/W75-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-011": {
     "name": "カズマ",
@@ -215,7 +225,8 @@
         "id": "KS/W75-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-012": {
     "name": "“羞恥責め”ダクネス",
@@ -237,7 +248,8 @@
         "id": "KS/W75-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-013": {
     "name": "“筋金入りのド変態”ダクネス",
@@ -255,7 +267,8 @@
         "id": "KS/W75-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-014": {
     "name": "“特技は妄想”ダクネス",
@@ -273,7 +286,8 @@
         "id": "KS/W75-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-015": {
     "name": "“アルカンレティア観光”ダクネス",
@@ -291,7 +305,8 @@
         "id": "KS/W75-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-016": {
     "name": "水着のダクネス",
@@ -309,7 +324,8 @@
         "id": "KS/W75-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-017": {
     "name": "ダスティネス家の令嬢 ダクネス",
@@ -327,7 +343,8 @@
         "id": "KS/W75-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-018": {
     "name": "“両手を広げて仁王立ち”ダクネス",
@@ -345,7 +362,8 @@
         "id": "KS/W75-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-019": {
     "name": "“クリエイトウォーター”カズマ",
@@ -363,7 +381,8 @@
         "id": "KS/W75-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-020": {
     "name": "“騎士のカガミ？”ダクネス",
@@ -381,7 +400,8 @@
         "id": "KS/W75-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-021": {
     "name": "“不安でいっぱい”カズマ",
@@ -399,7 +419,8 @@
         "id": "KS/W75-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-022": {
     "name": "“仮面の悪魔”バニル",
@@ -417,7 +438,8 @@
         "id": "KS/W75-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-023": {
     "name": "“名家のお嬢様”ダクネス",
@@ -435,7 +457,8 @@
         "id": "KS/W75-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-024": {
     "name": "“冒険者”カズマ",
@@ -453,7 +476,8 @@
         "id": "KS/W75-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-025": {
     "name": "“フリーズ”カズマ",
@@ -471,7 +495,8 @@
         "id": "KS/W75-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-026": {
     "name": "“百発百中”ダクネス",
@@ -489,7 +514,8 @@
         "id": "KS/W75-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-027": {
     "name": "“固い意志”ダクネス",
@@ -507,7 +533,8 @@
         "id": "KS/W75-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-028": {
     "name": "フリーズ",
@@ -525,7 +552,8 @@
         "id": "KS/W75-028",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-029": {
     "name": "私の心までは屈し……",
@@ -547,7 +575,8 @@
         "id": "KS/W75-029R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-030": {
     "name": "初めての高揚感",
@@ -565,7 +594,8 @@
         "id": "KS/W75-030",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KS/W75-031": {
     "name": "魔力充電中",
@@ -583,7 +613,8 @@
         "id": "KS/W75-031",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KS/W75-032": {
     "name": "紅魔族一の天才 めぐみん",
@@ -605,7 +636,8 @@
         "id": "KS/W75-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-033": {
     "name": "水着のめぐみん",
@@ -627,7 +659,8 @@
         "id": "KS/W75-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-034": {
     "name": "“バニーガール”ゆんゆん",
@@ -649,7 +682,8 @@
         "id": "KS/W75-034SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-035": {
     "name": "めぐみん",
@@ -671,7 +705,8 @@
         "id": "KS/W75-035SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-036": {
     "name": "“うなされる”ウィズ",
@@ -693,7 +728,8 @@
         "id": "KS/W75-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-037": {
     "name": "“ボードゲーム”めぐみん",
@@ -715,7 +751,8 @@
         "id": "KS/W75-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-038": {
     "name": "“待ち伏せ”ゆんゆん",
@@ -737,7 +774,8 @@
         "id": "KS/W75-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-039": {
     "name": "“迷惑行為”めぐみん",
@@ -759,7 +797,8 @@
         "id": "KS/W75-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-040": {
     "name": "“お茶汲み”ウィズ",
@@ -777,7 +816,8 @@
         "id": "KS/W75-040",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-041": {
     "name": "“おうちに帰ろう”アクア＆めぐみん",
@@ -799,7 +839,8 @@
         "id": "KS/W75-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-042": {
     "name": "“さらなる高みへ”めぐみん",
@@ -821,7 +862,8 @@
         "id": "KS/W75-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-043": {
     "name": "“永遠のライバル”ゆんゆん",
@@ -839,7 +881,8 @@
         "id": "KS/W75-043",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-044": {
     "name": "“爆裂娘”めぐみん",
@@ -861,7 +904,8 @@
         "id": "KS/W75-044SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-045": {
     "name": "“パワーアップする爆裂魔法”めぐみん",
@@ -879,7 +923,8 @@
         "id": "KS/W75-045",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-046": {
     "name": "“氷の魔女”ウィズ",
@@ -901,7 +946,8 @@
         "id": "KS/W75-046SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-047": {
     "name": "“もぐもぐ”めぐみん",
@@ -919,7 +965,8 @@
         "id": "KS/W75-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-048": {
     "name": "“スキル習得の心得”めぐみん",
@@ -937,7 +984,8 @@
         "id": "KS/W75-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-049": {
     "name": "紅魔族族長の娘 ゆんゆん",
@@ -955,7 +1003,8 @@
         "id": "KS/W75-049",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-050": {
     "name": "“ちょっと恥ずかしい”ゆんゆん",
@@ -977,7 +1026,8 @@
         "id": "KS/W75-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-051": {
     "name": "“私たちがプレゼント♥”めぐみん＆アクア",
@@ -995,7 +1045,8 @@
         "id": "KS/W75-051",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-052": {
     "name": "めぐみん&ゆんゆん",
@@ -1013,7 +1064,8 @@
         "id": "KS/W75-052",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-053": {
     "name": "“同時発射!!”ウィズ",
@@ -1031,7 +1083,8 @@
         "id": "KS/W75-053",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-054": {
     "name": "“先生のお呼び出し”めぐみん",
@@ -1049,7 +1102,8 @@
         "id": "KS/W75-054",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-055": {
     "name": "“走り出せ”めぐみん",
@@ -1067,7 +1121,8 @@
         "id": "KS/W75-055",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-056": {
     "name": "“紅魔族”めぐみん",
@@ -1085,7 +1140,8 @@
         "id": "KS/W75-056",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-057": {
     "name": "“リッチー”ウィズ",
@@ -1103,7 +1159,8 @@
         "id": "KS/W75-057",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-058": {
     "name": "“ハッとする”ゆんゆん",
@@ -1121,7 +1178,8 @@
         "id": "KS/W75-058",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-059": {
     "name": "“動揺”めぐみん",
@@ -1139,7 +1197,8 @@
         "id": "KS/W75-059",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-060": {
     "name": "“もだえる”めぐみん",
@@ -1157,7 +1216,8 @@
         "id": "KS/W75-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-061": {
     "name": "“ナイスアシスト”ウィズ",
@@ -1175,7 +1235,8 @@
         "id": "KS/W75-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-062": {
     "name": "貧乏店主 ウィズ",
@@ -1193,7 +1254,8 @@
         "id": "KS/W75-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-063": {
     "name": "“異議あり！”めぐみん",
@@ -1211,7 +1273,8 @@
         "id": "KS/W75-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-064": {
     "name": "ライバル関係 めぐみん＆ゆんゆん",
@@ -1229,7 +1292,8 @@
         "id": "KS/W75-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-065": {
     "name": "仲良くなる水晶",
@@ -1247,7 +1311,8 @@
         "id": "KS/W75-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-066": {
     "name": "本物の爆裂魔法",
@@ -1269,7 +1334,8 @@
         "id": "KS/W75-066R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KS/W75-067": {
     "name": "ライト・オブ・セイバー！",
@@ -1291,7 +1357,8 @@
         "id": "KS/W75-067R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-068": {
     "name": "爆裂魔法",
@@ -1309,7 +1376,8 @@
         "id": "KS/W75-068",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-069": {
     "name": "新・爆裂魔法",
@@ -1331,7 +1399,8 @@
         "id": "KS/W75-069R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-070": {
     "name": "カースド・クリスタルプリズン！",
@@ -1349,7 +1418,8 @@
         "id": "KS/W75-070",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KS/W75-071": {
     "name": "“麗しき水の女神”アクア",
@@ -1371,7 +1441,8 @@
         "id": "KS/W75-071SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-072": {
     "name": "“良き出会いのあらんことを”エリス",
@@ -1393,7 +1464,8 @@
         "id": "KS/W75-072SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-073": {
     "name": "アクア",
@@ -1415,7 +1487,8 @@
         "id": "KS/W75-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-074": {
     "name": "“トラブルメーカー”アクア",
@@ -1437,7 +1510,8 @@
         "id": "KS/W75-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-075": {
     "name": "“魂の救済”アクア",
@@ -1459,7 +1533,8 @@
         "id": "KS/W75-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-076": {
     "name": "“日本担当のエリートな女神…？”アクア",
@@ -1481,7 +1556,8 @@
         "id": "KS/W75-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-077": {
     "name": "“雪精討伐の意味とは？”アクア",
@@ -1499,7 +1575,8 @@
         "id": "KS/W75-077",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-078": {
     "name": "“走り出せ”アクア",
@@ -1517,7 +1594,8 @@
         "id": "KS/W75-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-079": {
     "name": "水着のエリス",
@@ -1535,7 +1613,8 @@
         "id": "KS/W75-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-080": {
     "name": "水着のアクア",
@@ -1553,7 +1632,8 @@
         "id": "KS/W75-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-081": {
     "name": "“優しい微笑み”エリス",
@@ -1571,7 +1651,8 @@
         "id": "KS/W75-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-082": {
     "name": "“セイクリッド・クリエイトウォーター”アクア",
@@ -1589,7 +1670,8 @@
         "id": "KS/W75-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-083": {
     "name": "“恥ずかしがる”エリス",
@@ -1607,7 +1689,8 @@
         "id": "KS/W75-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-084": {
     "name": "“怒れる拳”アクア",
@@ -1625,7 +1708,8 @@
         "id": "KS/W75-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-085": {
     "name": "“魔法の実力も運の内”アクア",
@@ -1643,7 +1727,8 @@
         "id": "KS/W75-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-086": {
     "name": "“街を歩けば”アクシズ教徒",
@@ -1673,7 +1758,8 @@
         "id": "KS/W75-086d",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-087": {
     "name": "“土木工事の作業員”アクア",
@@ -1691,7 +1777,8 @@
         "id": "KS/W75-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-088": {
     "name": "“ピュリフィケーション”アクア",
@@ -1709,7 +1796,8 @@
         "id": "KS/W75-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-089": {
     "name": "“拍手喝采の新スキル”アクア",
@@ -1727,7 +1815,8 @@
         "id": "KS/W75-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-090": {
     "name": "“にっこり笑顔”アクシズ教徒",
@@ -1745,7 +1834,8 @@
         "id": "KS/W75-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-091": {
     "name": "本物の女神 エリス",
@@ -1763,7 +1853,8 @@
         "id": "KS/W75-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-092": {
     "name": "“煽っていくスタイル”アクア",
@@ -1781,7 +1872,8 @@
         "id": "KS/W75-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-093": {
     "name": "“魔力提供”アクア",
@@ -1799,7 +1891,8 @@
         "id": "KS/W75-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-094": {
     "name": "“ほろ酔い”アクア",
@@ -1817,7 +1910,8 @@
         "id": "KS/W75-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-095": {
     "name": "私財差し押さえ",
@@ -1839,7 +1933,8 @@
         "id": "KS/W75-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-096": {
     "name": "アクシズ教義",
@@ -1857,7 +1952,8 @@
         "id": "KS/W75-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-097": {
     "name": "女神の名において",
@@ -1879,7 +1975,8 @@
         "id": "KS/W75-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KS/W75-098": {
     "name": "リザレクション",
@@ -1901,7 +1998,8 @@
         "id": "KS/W75-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KS/W75-099": {
     "name": "蘇生",
@@ -1919,7 +2017,8 @@
         "id": "KS/W75-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KS/W75-100": {
     "name": "女神の怒り",
@@ -1937,6 +2036,7 @@
         "id": "KS/W75-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

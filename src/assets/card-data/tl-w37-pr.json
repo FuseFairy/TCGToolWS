@@ -15,7 +15,8 @@
         "id": "TL/W37-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-102": {
     "name": "ぷちヤミ",
@@ -33,7 +34,8 @@
         "id": "TL/W37-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-103": {
     "name": "ぷち美柑",
@@ -51,7 +53,8 @@
         "id": "TL/W37-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-104": {
     "name": "ぷち唯",
@@ -69,7 +72,8 @@
         "id": "TL/W37-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-105": {
     "name": "ぷちララ",
@@ -87,7 +91,8 @@
         "id": "TL/W37-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-106": {
     "name": "ぷちナナ",
@@ -105,7 +110,8 @@
         "id": "TL/W37-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-107": {
     "name": "ぷちモモ",
@@ -123,7 +129,8 @@
         "id": "TL/W37-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-108": {
     "name": "ぷち春菜",
@@ -141,7 +148,8 @@
         "id": "TL/W37-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-P01": {
     "name": "“トラブルな日常”モモ＆ヤミ",
@@ -159,7 +167,8 @@
         "id": "TL/W37-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-P02": {
     "name": "“真夏のビーチサイド”ヤミ＆モモ",
@@ -177,7 +186,8 @@
         "id": "TL/W37-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "TL/W37-P03": {
     "name": "“二人は仲良し？”ヤミ＆モモ",
@@ -195,7 +205,8 @@
         "id": "TL/W37-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-P04": {
     "name": "“プリンセスドレス”美柑＆ララ",
@@ -213,7 +224,8 @@
         "id": "TL/W37-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-P05": {
     "name": "“プリンセスドレス”モモ＆ナナ",
@@ -231,7 +243,8 @@
         "id": "TL/W37-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-P06": {
     "name": "“プリンセスドレス”ヤミ＆芽亜",
@@ -249,7 +262,8 @@
         "id": "TL/W37-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "TL/W37-P07": {
     "name": "“プリンセスドレス”唯＆春菜",
@@ -267,6 +281,7 @@
         "id": "TL/W37-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

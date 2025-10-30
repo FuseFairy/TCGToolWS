@@ -19,7 +19,8 @@
         "id": "Gmr/WS02-T32S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gmr/WS02-T33": {
     "name": "Anniversary 深雪",
@@ -41,7 +42,8 @@
         "id": "Gmr/WS02-T33R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gmr/WS02-T38": {
     "name": "戦略級魔法師 達也",
@@ -63,7 +65,8 @@
         "id": "Gmr/WS02-T38SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gmr/WS02-T41": {
     "name": "来訪者との衝突",
@@ -85,6 +88,7 @@
         "id": "Gmr/WS02-T41R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

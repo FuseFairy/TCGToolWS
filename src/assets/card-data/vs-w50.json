@@ -19,7 +19,8 @@
         "id": "VS/W50-001R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-002": {
     "name": "U15チャンピオン アインハルト",
@@ -41,7 +42,8 @@
         "id": "VS/W50-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-003": {
     "name": "“撃ち抜く一撃”フーカ",
@@ -63,7 +65,8 @@
         "id": "VS/W50-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-004": {
     "name": "ばつの悪いアインハルト",
@@ -81,7 +84,8 @@
         "id": "VS/W50-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-005": {
     "name": "大きな背中 フーカ",
@@ -103,7 +107,8 @@
         "id": "VS/W50-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-006": {
     "name": "一緒にお風呂 アインハルト＆フーカ",
@@ -125,7 +130,8 @@
         "id": "VS/W50-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-007": {
     "name": "基本の構え アインハルト",
@@ -147,7 +153,8 @@
         "id": "VS/W50-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-008": {
     "name": "朝のロードワーク フーカ",
@@ -165,7 +172,8 @@
         "id": "VS/W50-008",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-009": {
     "name": "堂々たるリングイン アインハルト",
@@ -187,7 +195,8 @@
         "id": "VS/W50-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-010": {
     "name": "“覇王流の師弟”アインハルト&フーカ",
@@ -209,7 +218,8 @@
         "id": "VS/W50-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-011": {
     "name": "いつも不機嫌 フーカ",
@@ -227,7 +237,8 @@
         "id": "VS/W50-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-012": {
     "name": "上達の実感 フーカ",
@@ -245,7 +256,8 @@
         "id": "VS/W50-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-013": {
     "name": "差し入れでほっこり フーカ",
@@ -263,7 +275,8 @@
         "id": "VS/W50-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-014": {
     "name": "自慢の後輩たち アインハルト",
@@ -281,7 +294,8 @@
         "id": "VS/W50-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-015": {
     "name": "ハリー・トライベッカ",
@@ -299,7 +313,8 @@
         "id": "VS/W50-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-016": {
     "name": "エルス・タスミン",
@@ -317,7 +332,8 @@
         "id": "VS/W50-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-017": {
     "name": "先輩たちの教え フーカ",
@@ -335,7 +351,8 @@
         "id": "VS/W50-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-018": {
     "name": "セットアップ！ アインハルト",
@@ -353,7 +370,8 @@
         "id": "VS/W50-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-019": {
     "name": "ご先祖つながり ファビア",
@@ -371,7 +389,8 @@
         "id": "VS/W50-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-020": {
     "name": "アインハルト・ストラトス",
@@ -389,7 +408,8 @@
         "id": "VS/W50-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-021": {
     "name": "ファビア・クロゼルグ",
@@ -407,7 +427,8 @@
         "id": "VS/W50-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-022": {
     "name": "どこか嬉し気 アインハルト",
@@ -425,7 +446,8 @@
         "id": "VS/W50-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-023": {
     "name": "やんちゃな性格 ハリー",
@@ -443,7 +465,8 @@
         "id": "VS/W50-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-024": {
     "name": "見出された原石 フーカ",
@@ -461,7 +484,8 @@
         "id": "VS/W50-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-025": {
     "name": "ハリーと仲良し？エルス",
@@ -479,7 +503,8 @@
         "id": "VS/W50-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-026": {
     "name": "礼儀正しいフーカ",
@@ -497,7 +522,8 @@
         "id": "VS/W50-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-027": {
     "name": "リンネとの対峙 フーカ",
@@ -515,7 +541,8 @@
         "id": "VS/W50-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-028": {
     "name": "ウラカン",
@@ -533,7 +560,8 @@
         "id": "VS/W50-028",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-029": {
     "name": "アスティオン",
@@ -551,7 +579,8 @@
         "id": "VS/W50-029",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-030": {
     "name": "歴史に残るチャンピオン",
@@ -573,7 +602,8 @@
         "id": "VS/W50-030R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-031": {
     "name": "雨上がりの決着",
@@ -595,7 +625,8 @@
         "id": "VS/W50-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-032": {
     "name": "大切な幼馴染",
@@ -613,7 +644,8 @@
         "id": "VS/W50-032",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "VS/W50-033": {
     "name": "行きますよ、ティオ",
@@ -631,7 +663,8 @@
         "id": "VS/W50-033",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "VS/W50-034": {
     "name": "それでも前向き ヴィヴィオ",
@@ -653,7 +686,8 @@
         "id": "VS/W50-034R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-035": {
     "name": "誰より優秀な目 ヴィヴィオ",
@@ -675,7 +709,8 @@
         "id": "VS/W50-035SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-036": {
     "name": "必殺の打撃 ミウラ",
@@ -697,7 +732,8 @@
         "id": "VS/W50-036R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-037": {
     "name": "託された約束 ヴィヴィオ",
@@ -719,7 +755,8 @@
         "id": "VS/W50-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-038": {
     "name": "ミウラ・リナルディ",
@@ -737,7 +774,8 @@
         "id": "VS/W50-038",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-039": {
     "name": "打撃トレーニング コロナ",
@@ -759,7 +797,8 @@
         "id": "VS/W50-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-040": {
     "name": "料理が得意 ミウラ",
@@ -777,7 +816,8 @@
         "id": "VS/W50-040",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-041": {
     "name": "紙一重の攻防 ヴィヴィオ",
@@ -795,7 +835,8 @@
         "id": "VS/W50-041",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-042": {
     "name": "ノーヴェ・ナカジマ",
@@ -813,7 +854,8 @@
         "id": "VS/W50-042",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-043": {
     "name": "電光石火 ヴィヴィオ",
@@ -831,7 +873,8 @@
         "id": "VS/W50-043",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-044": {
     "name": "シスターセイン",
@@ -849,7 +892,8 @@
         "id": "VS/W50-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-045": {
     "name": "明るく元気 リオ",
@@ -867,7 +911,8 @@
         "id": "VS/W50-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-046": {
     "name": "思い出す昔 ノーヴェ",
@@ -885,7 +930,8 @@
         "id": "VS/W50-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-047": {
     "name": "スポーツドクター志望 ユミナ",
@@ -903,7 +949,8 @@
         "id": "VS/W50-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-048": {
     "name": "“スーパー変身タイム”リオ",
@@ -921,7 +968,8 @@
         "id": "VS/W50-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-049": {
     "name": "ミカヤ・シェベル",
@@ -939,7 +987,8 @@
         "id": "VS/W50-049",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-050": {
     "name": "居合道の師範 ミカヤ",
@@ -957,7 +1006,8 @@
         "id": "VS/W50-050",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-051": {
     "name": "天真爛漫 ヴィヴィオ",
@@ -975,7 +1025,8 @@
         "id": "VS/W50-051",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-052": {
     "name": "コロナ・ティミル",
@@ -993,7 +1044,8 @@
         "id": "VS/W50-052",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-053": {
     "name": "ユミナ・アンクレイヴ",
@@ -1011,7 +1063,8 @@
         "id": "VS/W50-053",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-054": {
     "name": "イクスヴェリア",
@@ -1029,7 +1082,8 @@
         "id": "VS/W50-054",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-055": {
     "name": "ナカジマジム集合！",
@@ -1047,7 +1101,8 @@
         "id": "VS/W50-055",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-056": {
     "name": "教会の治療士 イクスヴェリア",
@@ -1065,7 +1120,8 @@
         "id": "VS/W50-056",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-057": {
     "name": "シャンテ・アピニオン",
@@ -1083,7 +1139,8 @@
         "id": "VS/W50-057",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-058": {
     "name": "スーツ姿 ノーヴェ",
@@ -1101,7 +1158,8 @@
         "id": "VS/W50-058",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-059": {
     "name": "強打者 ミウラ",
@@ -1119,7 +1177,8 @@
         "id": "VS/W50-059",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-060": {
     "name": "ルーテシア・アルピーノ",
@@ -1137,7 +1196,8 @@
         "id": "VS/W50-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-061": {
     "name": "リオ･ウェズリー",
@@ -1155,7 +1215,8 @@
         "id": "VS/W50-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-062": {
     "name": "スターセイバー",
@@ -1173,7 +1234,8 @@
         "id": "VS/W50-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-063": {
     "name": "セイクリッド・ハート",
@@ -1191,7 +1253,8 @@
         "id": "VS/W50-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-064": {
     "name": "アクセルスマッシュ・インフィニティ",
@@ -1213,7 +1276,8 @@
         "id": "VS/W50-064R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-065": {
     "name": "二人きりの練習",
@@ -1231,7 +1295,8 @@
         "id": "VS/W50-065",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "VS/W50-066": {
     "name": "抜剣",
@@ -1249,7 +1314,8 @@
         "id": "VS/W50-066",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "VS/W50-067": {
     "name": "選手との絆",
@@ -1267,7 +1333,8 @@
         "id": "VS/W50-067",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "VS/W50-068": {
     "name": "常夏の解放感 リンネ",
@@ -1289,7 +1356,8 @@
         "id": "VS/W50-068R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-069": {
     "name": "“桎梏となる過去”リンネ",
@@ -1311,7 +1379,8 @@
         "id": "VS/W50-069SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-070": {
     "name": "差し入れでほっこり リンネ",
@@ -1329,7 +1398,8 @@
         "id": "VS/W50-070",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-071": {
     "name": "冷たい瞳 リンネ",
@@ -1351,7 +1421,8 @@
         "id": "VS/W50-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-072": {
     "name": "確固たる育成方針 ジル",
@@ -1369,7 +1440,8 @@
         "id": "VS/W50-072",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-073": {
     "name": "セットアップ！ リンネ",
@@ -1391,7 +1463,8 @@
         "id": "VS/W50-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-074": {
     "name": "強引な攻勢 リンネ",
@@ -1409,7 +1482,8 @@
         "id": "VS/W50-074",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-075": {
     "name": "強さを求めるリンネ",
@@ -1431,7 +1505,8 @@
         "id": "VS/W50-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-076": {
     "name": "雨に煙る構え リンネ",
@@ -1449,7 +1524,8 @@
         "id": "VS/W50-076",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-077": {
     "name": "ロイ・ベルリネッタ",
@@ -1467,7 +1543,8 @@
         "id": "VS/W50-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-078": {
     "name": "クラスメイトのいじめっ子",
@@ -1485,7 +1562,8 @@
         "id": "VS/W50-078",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-079": {
     "name": "“全部終わりでいい”リンネ",
@@ -1503,7 +1581,8 @@
         "id": "VS/W50-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-080": {
     "name": "フーカとの対峙 リンネ",
@@ -1521,7 +1600,8 @@
         "id": "VS/W50-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-081": {
     "name": "リングイン！リンネ",
@@ -1539,7 +1619,8 @@
         "id": "VS/W50-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-082": {
     "name": "改まった雰囲気 ジル",
@@ -1557,7 +1638,8 @@
         "id": "VS/W50-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-083": {
     "name": "仲良くお泊り フーカ＆リンネ",
@@ -1575,7 +1657,8 @@
         "id": "VS/W50-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-084": {
     "name": "ヴィクトーリア・ダールグリュン",
@@ -1593,7 +1676,8 @@
         "id": "VS/W50-084",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-085": {
     "name": "ダン・ベルリネッタ",
@@ -1611,7 +1695,8 @@
         "id": "VS/W50-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-086": {
     "name": "ローリー・ベルリネッタ",
@@ -1629,7 +1714,8 @@
         "id": "VS/W50-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-087": {
     "name": "指導者の苦悩 ジル",
@@ -1647,7 +1733,8 @@
         "id": "VS/W50-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-088": {
     "name": "“敗者”リンネ",
@@ -1665,7 +1752,8 @@
         "id": "VS/W50-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-089": {
     "name": "小さな楽しいこと リンネ",
@@ -1683,7 +1771,8 @@
         "id": "VS/W50-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-090": {
     "name": "思案顔のヴィクトーリア",
@@ -1701,7 +1790,8 @@
         "id": "VS/W50-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-091": {
     "name": "大好きなおじいちゃん ロイ",
@@ -1719,7 +1809,8 @@
         "id": "VS/W50-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-092": {
     "name": "リンネとの出会い ジル",
@@ -1737,7 +1828,8 @@
         "id": "VS/W50-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-093": {
     "name": "ジークリンデ・エレミア",
@@ -1755,7 +1847,8 @@
         "id": "VS/W50-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-094": {
     "name": "かつての肖像",
@@ -1773,7 +1866,8 @@
         "id": "VS/W50-094",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-095": {
     "name": "スクーデリア",
@@ -1791,7 +1885,8 @@
         "id": "VS/W50-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-096": {
     "name": "挑戦の申し出",
@@ -1809,7 +1904,8 @@
         "id": "VS/W50-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-097": {
     "name": "スクーデリア セットアップ",
@@ -1831,7 +1927,8 @@
         "id": "VS/W50-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-098": {
     "name": "雑念無き一撃",
@@ -1849,7 +1946,8 @@
         "id": "VS/W50-098",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "VS/W50-099": {
     "name": "変えられない過去",
@@ -1867,7 +1965,8 @@
         "id": "VS/W50-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "VS/W50-100": {
     "name": "過酷な練習",
@@ -1885,6 +1984,7 @@
         "id": "VS/W50-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

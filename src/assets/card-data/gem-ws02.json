@@ -19,7 +19,8 @@
         "id": "Gem/WS02-040SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gem/WS02-044": {
     "name": "恋のライバル 紗霧＆エルフ",
@@ -41,7 +42,8 @@
         "id": "Gem/WS02-044SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gem/WS02-069": {
     "name": "素敵な出逢い ムラマサ",
@@ -63,7 +65,8 @@
         "id": "Gem/WS02-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gem/WS02-072": {
     "name": "創作と恋の物語",
@@ -85,6 +88,7 @@
         "id": "Gem/WS02-072SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

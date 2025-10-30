@@ -23,7 +23,8 @@
         "id": "Scn/W123-101SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Scn/W123-110": {
     "name": "クラスNo.1美少女 夕",
@@ -49,7 +50,8 @@
         "id": "Scn/W123-110SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Scn/W123-125": {
     "name": "恋人旅行",
@@ -75,7 +77,8 @@
         "id": "Scn/W123-125SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Scn/W123-128": {
     "name": "誕生日プレゼント",
@@ -97,6 +100,7 @@
         "id": "Scn/W123-128R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

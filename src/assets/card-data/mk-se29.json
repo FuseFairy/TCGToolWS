@@ -19,7 +19,8 @@
         "id": "MK/SE29-01SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE29-02": {
     "name": "逆襲のネロ",
@@ -37,7 +38,8 @@
         "id": "MK/SE29-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-03": {
     "name": "“可憐にドレスアップ！”ネロ",
@@ -55,7 +57,8 @@
         "id": "MK/SE29-03",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-04": {
     "name": "ラ……？",
@@ -73,7 +76,8 @@
         "id": "MK/SE29-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-05": {
     "name": "真の変態 ストーンリバー",
@@ -91,7 +95,8 @@
         "id": "MK/SE29-05",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-06": {
     "name": "のんきで悠々 ネロ",
@@ -109,7 +114,8 @@
         "id": "MK/SE29-06",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-07": {
     "name": "モリアーティ教授",
@@ -127,7 +133,8 @@
         "id": "MK/SE29-07",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE29-08": {
     "name": "ポーロック",
@@ -145,7 +152,8 @@
         "id": "MK/SE29-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-09": {
     "name": "モラン大佐",
@@ -163,7 +171,8 @@
         "id": "MK/SE29-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-10": {
     "name": "フェルダー",
@@ -181,7 +190,8 @@
         "id": "MK/SE29-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-11": {
     "name": "自分に素直ネロ",
@@ -199,7 +209,8 @@
         "id": "MK/SE29-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-12": {
     "name": "“篠突くTKB”トゥエンティ",
@@ -217,7 +228,8 @@
         "id": "MK/SE29-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE29-13": {
     "name": "敗者復活の宝石",
@@ -235,7 +247,8 @@
         "id": "MK/SE29-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-14": {
     "name": "ダイレクトハック",
@@ -253,7 +266,8 @@
         "id": "MK/SE29-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE29-15": {
     "name": "“憧れの舞台”エリー",
@@ -275,7 +289,8 @@
         "id": "MK/SE29-15SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-16": {
     "name": "バスタオル姿のエリー",
@@ -293,7 +308,8 @@
         "id": "MK/SE29-16",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-17": {
     "name": "抜群の連携 アリス＆カズミ",
@@ -311,7 +327,8 @@
         "id": "MK/SE29-17",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-18": {
     "name": "逆襲のエリー",
@@ -329,7 +346,8 @@
         "id": "MK/SE29-18",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE29-19": {
     "name": "頼れるサポート 平乃",
@@ -347,7 +365,8 @@
         "id": "MK/SE29-19",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-20": {
     "name": "“可憐にドレスアップ！”エリー",
@@ -365,7 +384,8 @@
         "id": "MK/SE29-20",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE29-21": {
     "name": "もぐもぐエリー",
@@ -383,7 +403,8 @@
         "id": "MK/SE29-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-22": {
     "name": "捜査中 次子",
@@ -401,7 +422,8 @@
         "id": "MK/SE29-22",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE29-23": {
     "name": "ナウい装備 咲",
@@ -419,7 +441,8 @@
         "id": "MK/SE29-23",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE29-24": {
     "name": "消えた探偵服",
@@ -437,7 +460,8 @@
         "id": "MK/SE29-24",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-25": {
     "name": "トライアセンド",
@@ -455,7 +479,8 @@
         "id": "MK/SE29-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-26": {
     "name": "おねだり小衣",
@@ -477,7 +502,8 @@
         "id": "MK/SE29-26SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-27": {
     "name": "“憧れの舞台”シャロ",
@@ -499,7 +525,8 @@
         "id": "MK/SE29-27SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE29-28": {
     "name": "“可憐にドレスアップ！”シャロ",
@@ -517,7 +544,8 @@
         "id": "MK/SE29-28",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-29": {
     "name": "逆襲のシャロ",
@@ -535,7 +563,8 @@
         "id": "MK/SE29-29",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-30": {
     "name": "警察官の底力 小衣",
@@ -553,7 +582,8 @@
         "id": "MK/SE29-30",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-31": {
     "name": "駄々っ子 小衣",
@@ -571,7 +601,8 @@
         "id": "MK/SE29-31",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-32": {
     "name": "どん底からの再起 小衣",
@@ -589,7 +620,8 @@
         "id": "MK/SE29-32",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE29-33": {
     "name": "ゲスの小衣",
@@ -607,7 +639,8 @@
         "id": "MK/SE29-33",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-34": {
     "name": "ゆけむりシャロ",
@@ -625,7 +658,8 @@
         "id": "MK/SE29-34",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-35": {
     "name": "めげずに前進！シャロ",
@@ -643,7 +677,8 @@
         "id": "MK/SE29-35",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-36": {
     "name": "ドジっ子探偵 シャロ",
@@ -661,7 +696,8 @@
         "id": "MK/SE29-36",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE29-37": {
     "name": "シンクロニシティ",
@@ -679,7 +715,8 @@
         "id": "MK/SE29-37",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-38": {
     "name": "サイコキネシス",
@@ -697,7 +734,8 @@
         "id": "MK/SE29-38",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK/SE29-39": {
     "name": "IQ爆上げ",
@@ -715,7 +753,8 @@
         "id": "MK/SE29-39",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MK/SE29-40": {
     "name": "“憧れの舞台”コーデリア",
@@ -737,7 +776,8 @@
         "id": "MK/SE29-40SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE29-41": {
     "name": "審美の時間 アルセーヌ",
@@ -759,7 +799,8 @@
         "id": "MK/SE29-41SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE29-42": {
     "name": "“可憐にドレスアップ！”コーデリア",
@@ -777,7 +818,8 @@
         "id": "MK/SE29-42",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-43": {
     "name": "慈愛の後光 アルセーヌ",
@@ -795,7 +837,8 @@
         "id": "MK/SE29-43",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-44": {
     "name": "逆襲のコーデリア",
@@ -813,7 +856,8 @@
         "id": "MK/SE29-44",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE29-45": {
     "name": "優しく見守るアンリエット",
@@ -831,7 +875,8 @@
         "id": "MK/SE29-45",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-46": {
     "name": "怪盗の矜持 アルセーヌ",
@@ -849,7 +894,8 @@
         "id": "MK/SE29-46",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MK/SE29-47": {
     "name": "冴える推理 コーデリア",
@@ -867,7 +913,8 @@
         "id": "MK/SE29-47",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-48": {
     "name": "演出過剰 コーデリア",
@@ -885,7 +932,8 @@
         "id": "MK/SE29-48",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-49": {
     "name": "決戦！怪盗VS探偵",
@@ -903,7 +951,8 @@
         "id": "MK/SE29-49",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MK/SE29-50": {
     "name": "ハイパーセンシティブ",
@@ -921,6 +970,7 @@
         "id": "MK/SE29-50",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -15,7 +15,8 @@
         "id": "FT/S09-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-107": {
     "name": "感情の炎 ナツ",
@@ -33,7 +34,8 @@
         "id": "FT/S09-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-108": {
     "name": "愛玩星霊 プルー",
@@ -51,7 +53,8 @@
         "id": "FT/S09-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-109": {
     "name": "化猫の宿の魔導師 ウェンディ",
@@ -69,7 +72,8 @@
         "id": "FT/S09-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-110": {
     "name": "ナツ＆ルーシィ＆ハッピー",
@@ -87,7 +91,8 @@
         "id": "FT/S09-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FT/S09-111": {
     "name": "“ギャングスター”ナツ",
@@ -105,7 +110,8 @@
         "id": "FT/S09-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "FT/S09-112": {
     "name": "“ギャングスター”ルーシィ",
@@ -123,6 +129,7 @@
         "id": "FT/S09-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

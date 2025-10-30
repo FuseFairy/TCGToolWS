@@ -15,7 +15,8 @@
         "id": "PD/S29-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-P02": {
     "name": "初音ミク with PD-001“フルフレーム”",
@@ -33,7 +34,8 @@
         "id": "PD/S29-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-P03": {
     "name": "初音ミク with PD-002“アンダーリム”",
@@ -51,7 +53,8 @@
         "id": "PD/S29-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-P04": {
     "name": "“スキキライ”レン&リン",
@@ -69,7 +72,8 @@
         "id": "PD/S29-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-P05": {
     "name": "“カンタレラ”ミク＆ＫＡＩＴＯ",
@@ -87,7 +91,8 @@
         "id": "PD/S29-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-001": {
     "name": "鏡音リン“オリジナル”（F 2nd）",
@@ -113,7 +118,8 @@
         "id": "PD/S29-001X",
         "rarity": "XR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-002": {
     "name": "鏡音リン“リアクター”",
@@ -131,7 +137,8 @@
         "id": "PD/S29-002",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-003": {
     "name": "鏡音レン“オリジナル”（F 2nd）",
@@ -157,7 +164,8 @@
         "id": "PD/S29-003X",
         "rarity": "XR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-004": {
     "name": "鏡音リン“陽炎”",
@@ -175,7 +183,8 @@
         "id": "PD/S29-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-005": {
     "name": "鏡音レン“パンキッシュ”",
@@ -193,7 +202,8 @@
         "id": "PD/S29-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-006": {
     "name": "鏡音レン“ストレンジダーク”",
@@ -211,7 +221,8 @@
         "id": "PD/S29-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-007": {
     "name": "鏡音リン“夢みるパンダ”",
@@ -229,7 +240,8 @@
         "id": "PD/S29-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-008": {
     "name": "鏡音レン“恋するシロクマ”",
@@ -247,7 +259,8 @@
         "id": "PD/S29-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-009": {
     "name": "鏡音リン“フェアリーワンピース”",
@@ -265,7 +278,8 @@
         "id": "PD/S29-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-010": {
     "name": "鏡音リン“フェイカー”",
@@ -283,7 +297,8 @@
         "id": "PD/S29-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-011": {
     "name": "初音ミク“ライアー”",
@@ -301,7 +316,8 @@
         "id": "PD/S29-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-012": {
     "name": "鏡音レン“ホワイトエッジ”",
@@ -319,7 +335,8 @@
         "id": "PD/S29-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-013": {
     "name": "初音ミク“シャノワール”",
@@ -341,7 +358,8 @@
         "id": "PD/S29-013b",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-014": {
     "name": "鏡音レン“スクールジャージ”",
@@ -359,7 +377,8 @@
         "id": "PD/S29-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-015": {
     "name": "初音ミク“ストリートポップ”",
@@ -377,7 +396,8 @@
         "id": "PD/S29-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-016": {
     "name": "鏡音リン“ソレイユ”",
@@ -395,7 +415,8 @@
         "id": "PD/S29-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-017": {
     "name": "鏡音レン“シエル”",
@@ -413,7 +434,8 @@
         "id": "PD/S29-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-018": {
     "name": "鏡音リン“チアフルキャンディ”",
@@ -431,7 +453,8 @@
         "id": "PD/S29-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-019": {
     "name": "初音ミク“カラフルドロップ”",
@@ -449,7 +472,8 @@
         "id": "PD/S29-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-020": {
     "name": "カラフル×メロディ",
@@ -471,7 +495,8 @@
         "id": "PD/S29-020b",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-021": {
     "name": "エンヴィキャットウォーク",
@@ -489,7 +514,8 @@
         "id": "PD/S29-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-022": {
     "name": "ココロ",
@@ -511,7 +537,8 @@
         "id": "PD/S29-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-023": {
     "name": "soundless voice",
@@ -533,7 +560,8 @@
         "id": "PD/S29-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-024": {
     "name": "炉心融解",
@@ -555,7 +583,8 @@
         "id": "PD/S29-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PD/S29-025": {
     "name": "パラジクロロベンゼン",
@@ -577,7 +606,8 @@
         "id": "PD/S29-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PD/S29-026": {
     "name": "共鳴する“DIVA” 初音ミク",
@@ -603,7 +633,8 @@
         "id": "PD/S29-026X",
         "rarity": "XR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-027": {
     "name": "“いつまでも響け”初音ミク",
@@ -625,7 +656,8 @@
         "id": "PD/S29-027R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-028": {
     "name": "初音ミク“マジシャン”",
@@ -647,7 +679,8 @@
         "id": "PD/S29-028R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-029": {
     "name": "初音ミク“V3”",
@@ -669,7 +702,8 @@
         "id": "PD/S29-029R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-030": {
     "name": "初音ミク“ホワイトドレス”",
@@ -687,7 +721,8 @@
         "id": "PD/S29-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-031": {
     "name": "初音ミク“スクール”",
@@ -705,7 +740,8 @@
         "id": "PD/S29-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-032": {
     "name": "初音ミク“オレンジブロッサム”",
@@ -727,7 +763,8 @@
         "id": "PD/S29-032R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-033": {
     "name": "初音ミク“オービット”",
@@ -745,7 +782,8 @@
         "id": "PD/S29-033",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-034": {
     "name": "初音ミク“サイレン”",
@@ -767,7 +805,8 @@
         "id": "PD/S29-034R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-035": {
     "name": "初音ミク“ナナイロライン”",
@@ -789,7 +828,8 @@
         "id": "PD/S29-035R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-036": {
     "name": "初音ミク“ゆるふわパステル”",
@@ -807,7 +847,8 @@
         "id": "PD/S29-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-037": {
     "name": "初音ミク“∞”",
@@ -825,7 +866,8 @@
         "id": "PD/S29-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-038": {
     "name": "初音ミク“メテオライト”",
@@ -847,7 +889,8 @@
         "id": "PD/S29-038R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-039": {
     "name": "みくみくにしてあげる♪【してやんよ】",
@@ -865,7 +908,8 @@
         "id": "PD/S29-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-040": {
     "name": "初音ミク“にゃんこ”",
@@ -883,7 +927,8 @@
         "id": "PD/S29-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-041": {
     "name": "初音ミク“ノーブル”",
@@ -901,7 +946,8 @@
         "id": "PD/S29-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-042": {
     "name": "初音ミク“ディメンション”",
@@ -919,7 +965,8 @@
         "id": "PD/S29-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-043": {
     "name": "初音ミク“ゴシック”",
@@ -937,7 +984,8 @@
         "id": "PD/S29-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-044": {
     "name": "初音ミク“ナチュラル”",
@@ -955,7 +1003,8 @@
         "id": "PD/S29-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-045": {
     "name": "初音ミク“ハートハンター”",
@@ -973,7 +1022,8 @@
         "id": "PD/S29-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-046": {
     "name": "初音ミク“コンフリクト”",
@@ -991,7 +1041,8 @@
         "id": "PD/S29-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-047": {
     "name": "初音ミク“おさんぽスタイル”",
@@ -1009,7 +1060,8 @@
         "id": "PD/S29-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-048": {
     "name": "初音ミクの激唱",
@@ -1027,7 +1079,8 @@
         "id": "PD/S29-048",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-049": {
     "name": "二次元ドリームフィーバー",
@@ -1045,7 +1098,8 @@
         "id": "PD/S29-049",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-050": {
     "name": "メルト",
@@ -1063,7 +1117,8 @@
         "id": "PD/S29-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-051": {
     "name": "ミラクルペイント",
@@ -1081,7 +1136,8 @@
         "id": "PD/S29-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-052": {
     "name": "Packaged",
@@ -1103,7 +1159,8 @@
         "id": "PD/S29-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PD/S29-053": {
     "name": "裏表ラバーズ",
@@ -1125,7 +1182,8 @@
         "id": "PD/S29-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-054": {
     "name": "SPiCa -39's Giving Day Edition-",
@@ -1147,7 +1205,8 @@
         "id": "PD/S29-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PD/S29-055": {
     "name": "DECORATOR",
@@ -1169,7 +1228,8 @@
         "id": "PD/S29-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PD/S29-056": {
     "name": "Glory 3usi9",
@@ -1191,7 +1251,8 @@
         "id": "PD/S29-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PD/S29-057": {
     "name": "巡音ルカ“オリジナル”（F 2nd）",
@@ -1217,7 +1278,8 @@
         "id": "PD/S29-057X",
         "rarity": "XR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-058": {
     "name": "巡音ルカ“サイバーネイション”",
@@ -1239,7 +1301,8 @@
         "id": "PD/S29-058R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-059": {
     "name": "ＭＥＩＫＯ“オリジナル”（F 2nd）",
@@ -1261,7 +1324,8 @@
         "id": "PD/S29-059R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-060": {
     "name": "巡音ルカ“魔女っ娘Style”",
@@ -1279,7 +1343,8 @@
         "id": "PD/S29-060",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-061": {
     "name": "初音ミク“ブレス・ユー”",
@@ -1301,7 +1366,8 @@
         "id": "PD/S29-061R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-062": {
     "name": "咲音メイコ“オリジナル”",
@@ -1319,7 +1385,8 @@
         "id": "PD/S29-062",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-063": {
     "name": "ＭＥＩＫＯ“紅葉”",
@@ -1337,7 +1404,8 @@
         "id": "PD/S29-063",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-064": {
     "name": "巡音ルカ“テンプテーション”",
@@ -1363,7 +1431,8 @@
         "id": "PD/S29-064R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-065": {
     "name": "巡音ルカ“フローラル”",
@@ -1381,7 +1450,8 @@
         "id": "PD/S29-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-066": {
     "name": "巡音ルカ“フロイライン”",
@@ -1399,7 +1469,8 @@
         "id": "PD/S29-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-067": {
     "name": "ＭＥＩＫＯ“スカーレット”",
@@ -1417,7 +1488,8 @@
         "id": "PD/S29-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-068": {
     "name": "初音ミク“シュープリーム”",
@@ -1435,7 +1507,8 @@
         "id": "PD/S29-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-069": {
     "name": "ＭＥＩＫＯ“大正浪漫”",
@@ -1453,7 +1526,8 @@
         "id": "PD/S29-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-070": {
     "name": "ＭＥＩＫＯ“ブレイジング”",
@@ -1471,7 +1545,8 @@
         "id": "PD/S29-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-071": {
     "name": "巡音ルカ“ハードロック”",
@@ -1489,7 +1564,8 @@
         "id": "PD/S29-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-072": {
     "name": "ＭＥＩＫＯ“マリーン・リボン”",
@@ -1507,7 +1583,8 @@
         "id": "PD/S29-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-073": {
     "name": "初音ミク“蝶”",
@@ -1525,7 +1602,8 @@
         "id": "PD/S29-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-074": {
     "name": "巡音ルカ“華”",
@@ -1543,7 +1621,8 @@
         "id": "PD/S29-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-075": {
     "name": "初音ミク“みくずきん”",
@@ -1561,7 +1640,8 @@
         "id": "PD/S29-075",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-076": {
     "name": "ＭＥＩＫＯ“ふわふわコート”",
@@ -1579,7 +1659,8 @@
         "id": "PD/S29-076",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-077": {
     "name": "巡音ルカ“VFスーツ”",
@@ -1597,7 +1678,8 @@
         "id": "PD/S29-077",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-078": {
     "name": "巡音ルカ“リクルーター”",
@@ -1615,7 +1697,8 @@
         "id": "PD/S29-078",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-079": {
     "name": "ＭＥＩＫＯ“ローレライ”",
@@ -1633,7 +1716,8 @@
         "id": "PD/S29-079",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-080": {
     "name": "初音ミク“アバンガード”",
@@ -1651,7 +1735,8 @@
         "id": "PD/S29-080",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-081": {
     "name": "巡音ルカ“サクセサー”",
@@ -1669,7 +1754,8 @@
         "id": "PD/S29-081",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-082": {
     "name": "Blackjack",
@@ -1687,7 +1773,8 @@
         "id": "PD/S29-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-083": {
     "name": "ワールドイズマイン",
@@ -1705,7 +1792,8 @@
         "id": "PD/S29-083",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-084": {
     "name": "ダブルラリアット",
@@ -1727,7 +1815,8 @@
         "id": "PD/S29-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-085": {
     "name": "壊セ壊セ",
@@ -1749,7 +1838,8 @@
         "id": "PD/S29-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-086": {
     "name": "ルカルカ★ナイトフィーバー",
@@ -1771,7 +1861,8 @@
         "id": "PD/S29-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PD/S29-087": {
     "name": "アカツキアライヴァル",
@@ -1797,7 +1888,8 @@
         "id": "PD/S29-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PD/S29-088": {
     "name": "“どこまでも届け”初音ミク",
@@ -1819,7 +1911,8 @@
         "id": "PD/S29-088R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-089": {
     "name": "ＫＡＩＴＯ“V3”",
@@ -1841,7 +1934,8 @@
         "id": "PD/S29-089R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-090": {
     "name": "初音ミク“ローザ・ビアンカ”",
@@ -1863,7 +1957,8 @@
         "id": "PD/S29-090b",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-091": {
     "name": "ＫＡＩＴＯ“ローザ・ブルー”",
@@ -1885,7 +1980,8 @@
         "id": "PD/S29-091b",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-092": {
     "name": "ＫＡＩＴＯ“オリジナル”（F 2nd）",
@@ -1907,7 +2003,8 @@
         "id": "PD/S29-092R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-093": {
     "name": "ＫＡＩＴＯ“時雨”",
@@ -1925,7 +2022,8 @@
         "id": "PD/S29-093",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-094": {
     "name": "ＫＡＩＴＯ“ホリディ”",
@@ -1943,7 +2041,8 @@
         "id": "PD/S29-094",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-095": {
     "name": "鏡音リン“蘇芳”",
@@ -1965,7 +2064,8 @@
         "id": "PD/S29-095b",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-096": {
     "name": "鏡音レン“藍鉄”",
@@ -1987,7 +2087,8 @@
         "id": "PD/S29-096b",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-097": {
     "name": "初音ミク“ヴィンテージドレス”",
@@ -2005,7 +2106,8 @@
         "id": "PD/S29-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-098": {
     "name": "ＫＡＩＴＯ“オリジネイター”",
@@ -2023,7 +2125,8 @@
         "id": "PD/S29-098",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-099": {
     "name": "鏡音レン“イレイザー”",
@@ -2041,7 +2144,8 @@
         "id": "PD/S29-099",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-100": {
     "name": "ＫＡＩＴＯ“スミレ”",
@@ -2059,7 +2163,8 @@
         "id": "PD/S29-100",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-101": {
     "name": "初音ミク“ラセツトムクロ”",
@@ -2077,7 +2182,8 @@
         "id": "PD/S29-101",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-102": {
     "name": "ＫＡＩＴＯ“ホワイトブレザー”",
@@ -2095,7 +2201,8 @@
         "id": "PD/S29-102",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-103": {
     "name": "初音ミク“花詞”",
@@ -2113,7 +2220,8 @@
         "id": "PD/S29-103",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-104": {
     "name": "初音ミク“華車”",
@@ -2131,7 +2239,8 @@
         "id": "PD/S29-104",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-105": {
     "name": "初音ミク“リグレット”",
@@ -2149,7 +2258,8 @@
         "id": "PD/S29-105",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-106": {
     "name": "初音ミク“マリオネット”",
@@ -2171,7 +2281,8 @@
         "id": "PD/S29-106b",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-107": {
     "name": "初音ミク“月光アゲハ”",
@@ -2189,7 +2300,8 @@
         "id": "PD/S29-107",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-108": {
     "name": "鏡音リン“ヒマワリ”",
@@ -2207,7 +2319,8 @@
         "id": "PD/S29-108",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-109": {
     "name": "鏡音レン“アヤサキ”",
@@ -2225,7 +2338,8 @@
         "id": "PD/S29-109",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-110": {
     "name": "ＫＡＩＴＯ“ネコサイバー”",
@@ -2243,7 +2357,8 @@
         "id": "PD/S29-110",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-111": {
     "name": "番凩",
@@ -2261,7 +2376,8 @@
         "id": "PD/S29-111",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-112": {
     "name": "Knife",
@@ -2279,7 +2395,8 @@
         "id": "PD/S29-112",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-113": {
     "name": "カンタレラ ～grace edition～",
@@ -2301,7 +2418,8 @@
         "id": "PD/S29-113S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-114": {
     "name": "ロミオとシンデレラ",
@@ -2323,7 +2441,8 @@
         "id": "PD/S29-114S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-115": {
     "name": "千年の独奏歌 (DIVA edit)",
@@ -2345,7 +2464,8 @@
         "id": "PD/S29-115S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PD/S29-116": {
     "name": "erase or zero",
@@ -2367,7 +2487,8 @@
         "id": "PD/S29-116S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PD/S29-117": {
     "name": "スキキライ",
@@ -2385,7 +2506,8 @@
         "id": "PD/S29-117",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PD/S29-118": {
     "name": "なりすましゲンガー",
@@ -2403,7 +2525,8 @@
         "id": "PD/S29-118",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PD/S29-119": {
     "name": "こちら、幸福安心委員会です。",
@@ -2421,7 +2544,8 @@
         "id": "PD/S29-119",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PD/S29-120": {
     "name": "こちら、幸福安心委員会です。",
@@ -2439,7 +2563,8 @@
         "id": "PD/S29-120",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PD/S29-121": {
     "name": "メテオ",
@@ -2457,7 +2582,8 @@
         "id": "PD/S29-121",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S29-122": {
     "name": "桜ノ雨",
@@ -2475,7 +2601,8 @@
         "id": "PD/S29-122",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PD/S29-123": {
     "name": "Hello, Worker",
@@ -2493,7 +2620,8 @@
         "id": "PD/S29-123",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PD/S29-124": {
     "name": "二息歩行",
@@ -2511,7 +2639,8 @@
         "id": "PD/S29-124",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PD/S29-125": {
     "name": "クローバー♣クラブ",
@@ -2529,7 +2658,8 @@
         "id": "PD/S29-125",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PD/S29-126": {
     "name": "結んで開いて羅刹と骸",
@@ -2547,7 +2677,8 @@
         "id": "PD/S29-126",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S29-127": {
     "name": "からくりピエロ",
@@ -2565,7 +2696,8 @@
         "id": "PD/S29-127",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PD/S29-128": {
     "name": "指切り",
@@ -2583,6 +2715,7 @@
         "id": "PD/S29-128",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

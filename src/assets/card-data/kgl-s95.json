@@ -19,7 +19,8 @@
         "id": "KGL/S95-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-002": {
     "name": "生徒会最後の日 千花",
@@ -41,7 +42,8 @@
         "id": "KGL/S95-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-003": {
     "name": "アルバム作り 千花",
@@ -63,7 +65,8 @@
         "id": "KGL/S95-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-004": {
     "name": "過去との決別 優",
@@ -81,7 +84,8 @@
         "id": "KGL/S95-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-005": {
     "name": "応援団 つばめ",
@@ -103,7 +107,8 @@
         "id": "KGL/S95-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-006": {
     "name": "フォーチュンテラー 千花",
@@ -125,7 +130,8 @@
         "id": "KGL/S95-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-007": {
     "name": "ブリーフ愛好家 優",
@@ -147,7 +153,8 @@
         "id": "KGL/S95-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-008": {
     "name": "鳥葬なう 千花",
@@ -165,7 +172,8 @@
         "id": "KGL/S95-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-009": {
     "name": "アルバム作り 優",
@@ -187,7 +195,8 @@
         "id": "KGL/S95-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-010": {
     "name": "手作りTG 千花",
@@ -209,7 +218,8 @@
         "id": "KGL/S95-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-011": {
     "name": "応援団 麗",
@@ -227,7 +237,8 @@
         "id": "KGL/S95-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-012": {
     "name": "隠れた才能 千花",
@@ -245,7 +256,8 @@
         "id": "KGL/S95-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-013": {
     "name": "抜け目ない 優",
@@ -263,7 +275,8 @@
         "id": "KGL/S95-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-014": {
     "name": "独占欲 千花",
@@ -281,7 +294,8 @@
         "id": "KGL/S95-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-015": {
     "name": "泣きっ面 つばめ",
@@ -299,7 +313,8 @@
         "id": "KGL/S95-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-016": {
     "name": "体育祭当日 麗",
@@ -317,7 +332,8 @@
         "id": "KGL/S95-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-017": {
     "name": "本物の愛を語る優",
@@ -335,7 +351,8 @@
         "id": "KGL/S95-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-018": {
     "name": "駄々をこねる千花",
@@ -353,7 +370,8 @@
         "id": "KGL/S95-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-019": {
     "name": "体育祭で疾走 優",
@@ -371,7 +389,8 @@
         "id": "KGL/S95-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-020": {
     "name": "ハッピーライフゲーム",
@@ -389,7 +408,8 @@
         "id": "KGL/S95-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-021": {
     "name": "決別の言葉",
@@ -411,7 +431,8 @@
         "id": "KGL/S95-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-022": {
     "name": "繰り返される過ち",
@@ -433,7 +454,8 @@
         "id": "KGL/S95-022R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-023": {
     "name": "広がっていた景色",
@@ -455,7 +477,8 @@
         "id": "KGL/S95-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-024": {
     "name": "ブリーフ党の主張",
@@ -473,7 +496,8 @@
         "id": "KGL/S95-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-025": {
     "name": "マーチングバンド 千花",
@@ -495,7 +519,8 @@
         "id": "KGL/S95-025SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-026": {
     "name": "マーチングバンド 圭",
@@ -517,7 +542,8 @@
         "id": "KGL/S95-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-027": {
     "name": "風紀委員として ミコ",
@@ -539,7 +565,8 @@
         "id": "KGL/S95-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-028": {
     "name": "生徒会長の特権 御行",
@@ -557,7 +584,8 @@
         "id": "KGL/S95-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-029": {
     "name": "愛読書 千花",
@@ -579,7 +607,8 @@
         "id": "KGL/S95-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-030": {
     "name": "反抗期 圭",
@@ -601,7 +630,8 @@
         "id": "KGL/S95-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-031": {
     "name": "会計監査 ミコ",
@@ -623,7 +653,8 @@
         "id": "KGL/S95-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-032": {
     "name": "ドキドキシチュエーション 御行",
@@ -645,7 +676,8 @@
         "id": "KGL/S95-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-033": {
     "name": "ママに任せて 千花",
@@ -667,7 +699,8 @@
         "id": "KGL/S95-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-034": {
     "name": "おにの一面 千花",
@@ -685,7 +718,8 @@
         "id": "KGL/S95-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-035": {
     "name": "必死の抵抗 ミコ",
@@ -707,7 +741,8 @@
         "id": "KGL/S95-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-036": {
     "name": "恋したくなった圭",
@@ -729,7 +764,8 @@
         "id": "KGL/S95-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-037": {
     "name": "品行方正な優等生 ミコ",
@@ -747,7 +783,8 @@
         "id": "KGL/S95-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-038": {
     "name": "恋愛頭脳戦？ 御行",
@@ -765,7 +802,8 @@
         "id": "KGL/S95-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-039": {
     "name": "特訓の成果 御行",
@@ -783,7 +821,8 @@
         "id": "KGL/S95-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-040": {
     "name": "兄の面影 圭",
@@ -801,7 +840,8 @@
         "id": "KGL/S95-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-041": {
     "name": "メリハリの“メリ” 千花",
@@ -819,7 +859,8 @@
         "id": "KGL/S95-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-042": {
     "name": "正々堂々 御行",
@@ -837,7 +878,8 @@
         "id": "KGL/S95-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-043": {
     "name": "次期生徒会長？ 千花",
@@ -855,7 +897,8 @@
         "id": "KGL/S95-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-044": {
     "name": "限界に達した人が負けっていうゲーム",
@@ -873,7 +916,8 @@
         "id": "KGL/S95-044",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-045": {
     "name": "おに特訓",
@@ -895,7 +939,8 @@
         "id": "KGL/S95-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-046": {
     "name": "無意識の悪意",
@@ -917,7 +962,8 @@
         "id": "KGL/S95-046R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-047": {
     "name": "皆の見本として",
@@ -935,7 +981,8 @@
         "id": "KGL/S95-047",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-048": {
     "name": "体育倉庫の一幕",
@@ -957,7 +1004,8 @@
         "id": "KGL/S95-048R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-049": {
     "name": "副会長の誇り かぐや",
@@ -979,7 +1027,8 @@
         "id": "KGL/S95-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-050": {
     "name": "マーチングバンド ミコ",
@@ -1001,7 +1050,8 @@
         "id": "KGL/S95-050SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-051": {
     "name": "マーチングバンド 御行",
@@ -1023,7 +1073,8 @@
         "id": "KGL/S95-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-052": {
     "name": "ルーティーン かぐや",
@@ -1045,7 +1096,8 @@
         "id": "KGL/S95-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-053": {
     "name": "職業不定 御行父",
@@ -1067,7 +1119,8 @@
         "id": "KGL/S95-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-054": {
     "name": "勘違いしたゲーム ミコ",
@@ -1085,7 +1138,8 @@
         "id": "KGL/S95-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-055": {
     "name": "中秋の名月 御行",
@@ -1107,7 +1161,8 @@
         "id": "KGL/S95-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-056": {
     "name": "手を伸ばす御行",
@@ -1125,7 +1180,8 @@
         "id": "KGL/S95-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-057": {
     "name": "深読み かぐや",
@@ -1147,7 +1203,8 @@
         "id": "KGL/S95-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-058": {
     "name": "お似合いかも？ かぐや",
@@ -1169,7 +1226,8 @@
         "id": "KGL/S95-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-059": {
     "name": "正義のために 御行",
@@ -1191,7 +1249,8 @@
         "id": "KGL/S95-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-060": {
     "name": "健康優良児 御行",
@@ -1213,7 +1272,8 @@
         "id": "KGL/S95-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-061": {
     "name": "アルバム作り ミコ",
@@ -1231,7 +1291,8 @@
         "id": "KGL/S95-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-062": {
     "name": "独特のフェチ ミコ",
@@ -1249,7 +1310,8 @@
         "id": "KGL/S95-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-063": {
     "name": "規律のために ミコ",
@@ -1267,7 +1329,8 @@
         "id": "KGL/S95-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-064": {
     "name": "親友 こばち",
@@ -1285,7 +1348,8 @@
         "id": "KGL/S95-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-065": {
     "name": "“磨穿鉄硯” 御行",
@@ -1303,7 +1367,8 @@
         "id": "KGL/S95-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-066": {
     "name": "メリハリの“メリ” ミコ",
@@ -1321,7 +1386,8 @@
         "id": "KGL/S95-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-067": {
     "name": "幼少期の思い出 ミコ",
@@ -1339,7 +1405,8 @@
         "id": "KGL/S95-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-068": {
     "name": "真実の愛 かぐや",
@@ -1361,7 +1428,8 @@
         "id": "KGL/S95-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-069": {
     "name": "演説中 ミコ",
@@ -1379,7 +1447,8 @@
         "id": "KGL/S95-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-070": {
     "name": "生徒会選挙",
@@ -1401,7 +1470,8 @@
         "id": "KGL/S95-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-071": {
     "name": "写真撮影",
@@ -1423,7 +1493,8 @@
         "id": "KGL/S95-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-072": {
     "name": "認められた想い",
@@ -1445,7 +1516,8 @@
         "id": "KGL/S95-072R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-073": {
     "name": "月明かりに照らされて",
@@ -1467,7 +1539,8 @@
         "id": "KGL/S95-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-074": {
     "name": "妄想大爆発",
@@ -1489,7 +1562,8 @@
         "id": "KGL/S95-074R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-075": {
     "name": "マーチングバンド 愛",
@@ -1511,7 +1585,8 @@
         "id": "KGL/S95-075SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-076": {
     "name": "色褪せぬ思い出 かぐや",
@@ -1533,7 +1608,8 @@
         "id": "KGL/S95-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-077": {
     "name": "マーチングバンド かぐや",
@@ -1555,7 +1631,8 @@
         "id": "KGL/S95-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-078": {
     "name": "エンゼルスマイル かぐや",
@@ -1577,7 +1654,8 @@
         "id": "KGL/S95-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-079": {
     "name": "神ってる？ 渚",
@@ -1599,7 +1677,8 @@
         "id": "KGL/S95-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-080": {
     "name": "脱がせたいかぐや",
@@ -1621,7 +1700,8 @@
         "id": "KGL/S95-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-081": {
     "name": "最新機種に興奮 愛",
@@ -1643,7 +1723,8 @@
         "id": "KGL/S95-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-082": {
     "name": "擬態モード 愛",
@@ -1661,7 +1742,8 @@
         "id": "KGL/S95-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-083": {
     "name": "積み重ねた強さ かぐや",
@@ -1683,7 +1765,8 @@
         "id": "KGL/S95-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-084": {
     "name": "欠かさぬ努力 ハーサカ",
@@ -1705,7 +1788,8 @@
         "id": "KGL/S95-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-085": {
     "name": "恋愛頭脳戦？ かぐや",
@@ -1723,7 +1807,8 @@
         "id": "KGL/S95-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-086": {
     "name": "対白銀ファッション ハーサカVer.2",
@@ -1745,7 +1830,8 @@
         "id": "KGL/S95-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-087": {
     "name": "痛恨の失策 かぐや",
@@ -1767,7 +1853,8 @@
         "id": "KGL/S95-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-088": {
     "name": "大胆なプレゼント かぐや",
@@ -1785,7 +1872,8 @@
         "id": "KGL/S95-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-089": {
     "name": "主の為に 愛",
@@ -1803,7 +1891,8 @@
         "id": "KGL/S95-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-090": {
     "name": "さりげない問いかけ かぐや",
@@ -1821,7 +1910,8 @@
         "id": "KGL/S95-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-091": {
     "name": "真実の愛 渚",
@@ -1839,7 +1929,8 @@
         "id": "KGL/S95-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-092": {
     "name": "見舞いに来て欲しいかぐや",
@@ -1857,7 +1948,8 @@
         "id": "KGL/S95-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-093": {
     "name": "主人への恐怖 愛",
@@ -1875,7 +1967,8 @@
         "id": "KGL/S95-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-094": {
     "name": "メイドの逆襲 愛",
@@ -1893,7 +1986,8 @@
         "id": "KGL/S95-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-095": {
     "name": "作戦失敗 愛",
@@ -1911,7 +2005,8 @@
         "id": "KGL/S95-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-096": {
     "name": "満月の日に",
@@ -1933,7 +2028,8 @@
         "id": "KGL/S95-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-097": {
     "name": "体育倉庫イベント!!",
@@ -1951,7 +2047,8 @@
         "id": "KGL/S95-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S95-098": {
     "name": "突然の結婚イベント",
@@ -1973,7 +2070,8 @@
         "id": "KGL/S95-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-099": {
     "name": "生徒会の思い出",
@@ -1991,7 +2089,8 @@
         "id": "KGL/S95-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S95-100": {
     "name": "ミッション開始",
@@ -2009,6 +2108,7 @@
         "id": "KGL/S95-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

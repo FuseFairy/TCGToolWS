@@ -15,7 +15,8 @@
         "id": "STG/S60-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "STG/S60-P02": {
     "name": "“浴衣の涼み”牧瀬 紅莉栖",
@@ -33,7 +34,8 @@
         "id": "STG/S60-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "STG/S60-P03": {
     "name": "“真夏の幻想”牧瀬 紅莉栖＆椎名 まゆり",
@@ -51,7 +53,8 @@
         "id": "STG/S60-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "STG/S60-101": {
     "name": "“３人の水着美女”フェイリス・ニャンニャン＆牧瀬 紅莉栖＆椎名 まゆり",
@@ -69,7 +72,8 @@
         "id": "STG/S60-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "STG/S60-102": {
     "name": "“ラボメンガールズ”牧瀬 紅莉栖",
@@ -87,7 +91,8 @@
         "id": "STG/S60-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "STG/S60-103": {
     "name": "“ラボメンガールズ”フェイリス・ニャンニャン",
@@ -105,7 +110,8 @@
         "id": "STG/S60-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "STG/S60-104": {
     "name": "“ラボメンガールズ”漆原 るか",
@@ -123,7 +129,8 @@
         "id": "STG/S60-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "STG/S60-105": {
     "name": "“ラボメンガールズ”椎名 まゆり",
@@ -141,6 +148,7 @@
         "id": "STG/S60-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

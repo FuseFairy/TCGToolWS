@@ -19,7 +19,8 @@
         "id": "IM/SP01-01S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SP01-02": {
     "name": "M@STERS OF IDOL WORLD!! 双海真美",
@@ -41,7 +42,8 @@
         "id": "IM/SP01-02S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SP01-03": {
     "name": "M@STERS OF IDOL WORLD!! 水瀬伊織",
@@ -63,7 +65,8 @@
         "id": "IM/SP01-03S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SP01-04": {
     "name": "M@STERS OF IDOL WORLD!! 秋月律子",
@@ -85,7 +88,8 @@
         "id": "IM/SP01-04S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SP01-05": {
     "name": "M@STERS OF IDOL WORLD!! 三浦あずさ",
@@ -107,7 +111,8 @@
         "id": "IM/SP01-05S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SP01-06": {
     "name": "M@STERS OF IDOL WORLD!! 双海亜美",
@@ -129,7 +134,8 @@
         "id": "IM/SP01-06S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SP01-07": {
     "name": "M@STERS OF IDOL WORLD!! 星井美希",
@@ -151,7 +157,8 @@
         "id": "IM/SP01-07S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SP01-08": {
     "name": "M@STERS OF IDOL WORLD!! 我那覇響",
@@ -173,7 +180,8 @@
         "id": "IM/SP01-08S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SP01-09": {
     "name": "M@STERS OF IDOL WORLD!! 天海春香",
@@ -195,7 +203,8 @@
         "id": "IM/SP01-09S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SP01-10": {
     "name": "M@STERS OF IDOL WORLD!! 高槻やよい",
@@ -217,7 +226,8 @@
         "id": "IM/SP01-10S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SP01-11": {
     "name": "M@STERS OF IDOL WORLD!!2015",
@@ -239,7 +249,8 @@
         "id": "IM/SP01-11S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SP01-12": {
     "name": "M@STERS OF IDOL WORLD!! 音無小鳥",
@@ -261,7 +272,8 @@
         "id": "IM/SP01-12S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SP01-13": {
     "name": "M@STERS OF IDOL WORLD!! 四条貴音",
@@ -283,7 +295,8 @@
         "id": "IM/SP01-13S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "IM/SP01-14": {
     "name": "M@STERS OF IDOL WORLD!! 如月千早",
@@ -305,7 +318,8 @@
         "id": "IM/SP01-14S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SP01-15": {
     "name": "M@STERS OF IDOL WORLD!! 菊地真",
@@ -327,7 +341,8 @@
         "id": "IM/SP01-15S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "IM/SP01-16": {
     "name": "M@STERS OF IDOL WORLD!!2015",
@@ -349,6 +364,7 @@
         "id": "IM/SP01-16S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

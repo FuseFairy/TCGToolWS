@@ -15,7 +15,8 @@
         "id": "PRD/W84-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PRD/W84-P02": {
     "name": "戻ってきた日常 コッコロ",
@@ -33,7 +34,8 @@
         "id": "PRD/W84-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W84-P03": {
     "name": "激戦の後は キャル",
@@ -55,7 +57,8 @@
         "id": "PRD/W84-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W84-111": {
     "name": "仲間への信頼 ペコリーヌ",
@@ -73,7 +76,8 @@
         "id": "PRD/W84-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W84-112": {
     "name": "海中散歩 コッコロ",
@@ -91,7 +95,8 @@
         "id": "PRD/W84-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W84-113": {
     "name": "素人の発想 キャル",
@@ -109,7 +114,8 @@
         "id": "PRD/W84-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PRD/W84-114": {
     "name": "海中散歩 ユウキ",
@@ -127,6 +133,7 @@
         "id": "PRD/W84-114",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

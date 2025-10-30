@@ -15,7 +15,8 @@
         "id": "KK/SPR-001",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KK/SPR-002": {
     "name": "“直死の魔眼”両儀 式",
@@ -33,7 +34,8 @@
         "id": "KK/SPR-002",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KK/SPR-003": {
     "name": "“人形使い”蒼崎 橙子",
@@ -51,7 +53,8 @@
         "id": "KK/SPR-003",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KK/SPR-004": {
     "name": "“お人好し”黒桐 幹也",
@@ -69,7 +72,8 @@
         "id": "KK/SPR-004",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KK/SPR-005": {
     "name": "“痛覚残留”浅上 藤乃",
@@ -87,7 +91,8 @@
         "id": "KK/SPR-005",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KK/SPR-006": {
     "name": "“俯瞰風景”巫条 霧絵",
@@ -105,7 +110,8 @@
         "id": "KK/SPR-006",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KK/SPR-007": {
     "name": "“魔術師”荒耶 宗蓮",
@@ -123,6 +129,7 @@
         "id": "KK/SPR-007",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

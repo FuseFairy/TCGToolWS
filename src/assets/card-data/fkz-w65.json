@@ -19,7 +19,8 @@
         "id": "Fkz/W65-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fkz/W65-003": {
     "name": "銀髪のネクロマンサー ユー",
@@ -41,7 +42,8 @@
         "id": "Fkz/W65-003FBR",
         "rarity": "FBR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fkz/W65-005": {
     "name": "それぞれの祭 ユー",
@@ -59,7 +61,8 @@
         "id": "Fkz/W65-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fkz/W65-006": {
     "name": "吸血忍者 セラ",
@@ -81,7 +84,8 @@
         "id": "Fkz/W65-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fkz/W65-007": {
     "name": "健康系アウトドア少女 トモノリ",
@@ -103,7 +107,8 @@
         "id": "Fkz/W65-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fkz/W65-008": {
     "name": "ブロークンハートマグナム ハルナ",
@@ -121,7 +126,8 @@
         "id": "Fkz/W65-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fkz/W65-011": {
     "name": "理想の目覚め セラ",
@@ -139,7 +145,8 @@
         "id": "Fkz/W65-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fkz/W65-012": {
     "name": "はだけたワイシャツ ユー",
@@ -157,7 +164,8 @@
         "id": "Fkz/W65-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fkz/W65-014": {
     "name": "学年トップの優等生 妙子",
@@ -175,7 +183,8 @@
         "id": "Fkz/W65-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fkz/W65-016": {
     "name": "カワ気持ち悪い 歩",
@@ -193,7 +202,8 @@
         "id": "Fkz/W65-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fkz/W65-018": {
     "name": "２つの顔を持つ吸血忍者 サラス",
@@ -211,7 +221,8 @@
         "id": "Fkz/W65-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fkz/W65-019": {
     "name": "踏み込めない間合い",
@@ -229,7 +240,8 @@
         "id": "Fkz/W65-019",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fkz/W65-020": {
     "name": "ハチャメチャな日常",
@@ -251,7 +263,8 @@
         "id": "Fkz/W65-020R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fkz/W65-021": {
     "name": "ソリッドシチュエーションパニック",
@@ -269,6 +282,7 @@
         "id": "Fkz/W65-021",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

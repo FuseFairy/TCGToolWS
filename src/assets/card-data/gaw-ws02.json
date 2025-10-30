@@ -19,7 +19,8 @@
         "id": "Gaw/WS02-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gaw/WS02-007": {
     "name": "《プロミネンス》 ニコ",
@@ -41,7 +42,8 @@
         "id": "Gaw/WS02-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gaw/WS02-011": {
     "name": "初めての《加速》 シルバー・クロウ",
@@ -63,7 +65,8 @@
         "id": "Gaw/WS02-011SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gaw/WS02-014": {
     "name": "アニマル・ファースーツS チユリ＆黒雪姫",
@@ -85,7 +88,8 @@
         "id": "Gaw/WS02-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gaw/WS02-019": {
     "name": "水着の親友 黒雪姫＆フーコ",
@@ -107,7 +111,8 @@
         "id": "Gaw/WS02-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gaw/WS02-027": {
     "name": "《親子》の絆 パド",
@@ -129,7 +134,8 @@
         "id": "Gaw/WS02-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gaw/WS02-029": {
     "name": "一時的な同胞 リン＆ウタイ",
@@ -151,7 +157,8 @@
         "id": "Gaw/WS02-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gaw/WS02-031": {
     "name": "大天使メタトロン",
@@ -173,7 +180,8 @@
         "id": "Gaw/WS02-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gaw/WS02-035": {
     "name": "激動のレクリエーション",
@@ -195,6 +203,7 @@
         "id": "Gaw/WS02-035SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

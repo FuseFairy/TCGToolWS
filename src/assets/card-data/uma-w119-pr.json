@@ -19,7 +19,8 @@
         "id": "UMA/W119-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W119-P02": {
     "name": "トレセン学園 アグネスタキオン",
@@ -37,6 +38,7 @@
         "id": "UMA/W119-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -23,7 +23,8 @@
         "id": "Shg/W123-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Shg/W123-041": {
     "name": "祭りの誘い 沙優",
@@ -49,7 +50,8 @@
         "id": "Shg/W123-041SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Shg/W123-052": {
     "name": "気持ちの終着点 三島",
@@ -71,7 +73,8 @@
         "id": "Shg/W123-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Shg/W123-054": {
     "name": "“求められる自分” 後藤",
@@ -93,7 +96,8 @@
         "id": "Shg/W123-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Shg/W123-057": {
     "name": "一緒の時間",
@@ -119,6 +123,7 @@
         "id": "Shg/W123-057SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

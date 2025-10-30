@@ -27,7 +27,8 @@
         "id": "Ftt/W120-115SPb",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ftt/W120-122": {
     "name": "抑えきれなかった告白 レイニ＆イリア",
@@ -49,7 +50,8 @@
         "id": "Ftt/W120-122S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ftt/W120-124": {
     "name": "一緒に追いかける夢 アニスフィア＆ユフィリア",
@@ -75,7 +77,8 @@
         "id": "Ftt/W120-124SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ftt/W120-127": {
     "name": "小悪魔な可愛さ ユフィリア",
@@ -97,7 +100,8 @@
         "id": "Ftt/W120-127S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ftt/W120-129": {
     "name": "未来を切り開く2人 アニスフィア＆ユフィリア",
@@ -119,7 +123,8 @@
         "id": "Ftt/W120-129S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ftt/W120-137": {
     "name": "惚れた弱み アニスフィア",
@@ -141,7 +146,8 @@
         "id": "Ftt/W120-137S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ftt/W120-142": {
     "name": "悪友の侯爵令嬢 ティルティ",
@@ -163,7 +169,8 @@
         "id": "Ftt/W120-142S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ftt/W120-150": {
     "name": "祝福を贈る虹",
@@ -189,6 +196,7 @@
         "id": "Ftt/W120-150SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

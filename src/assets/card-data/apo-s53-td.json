@@ -15,7 +15,8 @@
         "id": "APO/S53-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "APO/S53-T02": {
     "name": "“暗躍”シロウ・コトミネ＆赤のアサシン",
@@ -33,7 +34,8 @@
         "id": "APO/S53-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "APO/S53-T03": {
     "name": "“宣戦布告”赤のランサー",
@@ -55,7 +57,8 @@
         "id": "APO/S53-T03S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "APO/S53-T04": {
     "name": "“召喚”赤のセイバー",
@@ -73,7 +76,8 @@
         "id": "APO/S53-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "APO/S53-T05": {
     "name": "“進撃”赤のバーサーカー",
@@ -91,7 +95,8 @@
         "id": "APO/S53-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "APO/S53-T06": {
     "name": "“援護”赤のアーチャー",
@@ -109,7 +114,8 @@
         "id": "APO/S53-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "APO/S53-T07": {
     "name": "“挑発”赤のライダー",
@@ -127,7 +133,8 @@
         "id": "APO/S53-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "APO/S53-T08": {
     "name": "“聖杯大戦”赤のセイバー",
@@ -149,7 +156,8 @@
         "id": "APO/S53-T08S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "APO/S53-T09": {
     "name": "召喚の儀",
@@ -167,7 +175,8 @@
         "id": "APO/S53-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "APO/S53-T10": {
     "name": "激突する槍と剣",
@@ -185,7 +194,8 @@
         "id": "APO/S53-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "APO/S53-T11": {
     "name": "“領王”黒のランサー",
@@ -203,7 +213,8 @@
         "id": "APO/S53-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "APO/S53-T12": {
     "name": "“鋳造”黒のキャスター",
@@ -221,7 +232,8 @@
         "id": "APO/S53-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "APO/S53-T13": {
     "name": "“真名”黒のライダー",
@@ -243,7 +255,8 @@
         "id": "APO/S53-T13R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "APO/S53-T14": {
     "name": "“歩き出す運命”ルーラー",
@@ -265,7 +278,8 @@
         "id": "APO/S53-T14SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "APO/S53-T15": {
     "name": "“歩き出す運命”ジーク",
@@ -283,7 +297,8 @@
         "id": "APO/S53-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "APO/S53-T16": {
     "name": "“狂化”黒のバーサーカー",
@@ -305,7 +320,8 @@
         "id": "APO/S53-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "APO/S53-T17": {
     "name": "“迎撃”黒のアーチャー",
@@ -323,7 +339,8 @@
         "id": "APO/S53-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "APO/S53-T18": {
     "name": "“意志”黒のセイバー",
@@ -345,7 +362,8 @@
         "id": "APO/S53-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "APO/S53-T19": {
     "name": "聖なる微笑",
@@ -363,7 +381,8 @@
         "id": "APO/S53-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "APO/S53-T20": {
     "name": "シュトラセ・ゲーエン",
@@ -381,6 +400,7 @@
         "id": "APO/S53-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

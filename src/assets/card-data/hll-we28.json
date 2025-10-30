@@ -23,7 +23,8 @@
         "id": "HLL/WE28-01SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-02": {
     "name": "異世界への興味 万博",
@@ -49,7 +50,8 @@
         "id": "HLL/WE28-02PR",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-03": {
     "name": "笑顔いっぱい リオン",
@@ -75,7 +77,8 @@
         "id": "HLL/WE28-03SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE28-04": {
     "name": "我が道を行く発明家 万博",
@@ -93,7 +96,8 @@
         "id": "HLL/WE28-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-05": {
     "name": "少女を見守る使者 ローザ",
@@ -111,7 +115,8 @@
         "id": "HLL/WE28-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-06": {
     "name": "自信満々の生徒会長 瑞希",
@@ -129,7 +134,8 @@
         "id": "HLL/WE28-06",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-07": {
     "name": "やすらぎの時間 夕子",
@@ -147,7 +153,8 @@
         "id": "HLL/WE28-07",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-08": {
     "name": "かわいらしい日々 リオン",
@@ -165,7 +172,8 @@
         "id": "HLL/WE28-08",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE28-09": {
     "name": "初めての合体 リオン",
@@ -183,7 +191,8 @@
         "id": "HLL/WE28-09",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE28-10": {
     "name": "面倒見の良い使者 ウェスタ",
@@ -201,7 +210,8 @@
         "id": "HLL/WE28-10",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-11": {
     "name": "編入組の定理者 葵",
@@ -219,7 +229,8 @@
         "id": "HLL/WE28-11",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-12": {
     "name": "かわいらしい日々 万博",
@@ -237,7 +248,8 @@
         "id": "HLL/WE28-12",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-13": {
     "name": "天真爛漫なお姫様 リオン",
@@ -255,7 +267,8 @@
         "id": "HLL/WE28-13",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE28-14": {
     "name": "優しいお姉さん 夕子",
@@ -273,7 +286,8 @@
         "id": "HLL/WE28-14",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE28-15": {
     "name": "かわいらしい日々 夕子",
@@ -291,7 +305,8 @@
         "id": "HLL/WE28-15",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE28-16": {
     "name": "やすらぎの時間 リオン",
@@ -309,7 +324,8 @@
         "id": "HLL/WE28-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-17": {
     "name": "やすらぎの時間 万博",
@@ -327,7 +343,8 @@
         "id": "HLL/WE28-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-18": {
     "name": "いつも一緒 ベル",
@@ -345,7 +362,8 @@
         "id": "HLL/WE28-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-19": {
     "name": "冷静沈着な使者 セレン",
@@ -363,7 +381,8 @@
         "id": "HLL/WE28-19",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-20": {
     "name": "編入組の定理者 アシュリー",
@@ -381,7 +400,8 @@
         "id": "HLL/WE28-20",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-21": {
     "name": "お花見 万博",
@@ -399,7 +419,8 @@
         "id": "HLL/WE28-21",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE28-22": {
     "name": "万博の発明品",
@@ -417,7 +438,8 @@
         "id": "HLL/WE28-22",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-23": {
     "name": "リオンへの愛",
@@ -435,7 +457,8 @@
         "id": "HLL/WE28-23",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-24": {
     "name": "“ゲートアクセス!!トリトミー!”",
@@ -453,7 +476,8 @@
         "id": "HLL/WE28-24",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "HLL/WE28-25": {
     "name": "“ゲートアクセス!!モノリウム!”",
@@ -471,7 +495,8 @@
         "id": "HLL/WE28-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-26": {
     "name": "変わり始めた少女 ニーナ",
@@ -497,7 +522,8 @@
         "id": "HLL/WE28-26SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-27": {
     "name": "高みを目指して 弥生",
@@ -523,7 +549,8 @@
         "id": "HLL/WE28-27SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE28-28": {
     "name": "やすらぎの時間 弥生",
@@ -541,7 +568,8 @@
         "id": "HLL/WE28-28",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-29": {
     "name": "セクシーな使者 七宝",
@@ -559,7 +587,8 @@
         "id": "HLL/WE28-29",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-30": {
     "name": "やすらぎの時間 ニーナ",
@@ -577,7 +606,8 @@
         "id": "HLL/WE28-30",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-31": {
     "name": "精密射撃 学",
@@ -595,7 +625,8 @@
         "id": "HLL/WE28-31",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-32": {
     "name": "かわいらしい日々 弥生",
@@ -613,7 +644,8 @@
         "id": "HLL/WE28-32",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE28-33": {
     "name": "緊急参戦 ニーナ",
@@ -631,7 +663,8 @@
         "id": "HLL/WE28-33",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE28-34": {
     "name": "かわいらしい日々 華凛",
@@ -649,7 +682,8 @@
         "id": "HLL/WE28-34",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-35": {
     "name": "意外な一面 ニーナ",
@@ -667,7 +701,8 @@
         "id": "HLL/WE28-35",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-36": {
     "name": "学をサポート 縁",
@@ -685,7 +720,8 @@
         "id": "HLL/WE28-36",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-37": {
     "name": "大はしゃぎの妹 華恋",
@@ -703,7 +739,8 @@
         "id": "HLL/WE28-37",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-38": {
     "name": "真っ向勝負 クロエ",
@@ -721,7 +758,8 @@
         "id": "HLL/WE28-38",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-39": {
     "name": "しっかりもの 弥生",
@@ -739,7 +777,8 @@
         "id": "HLL/WE28-39",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-40": {
     "name": "先手必勝 華凛",
@@ -757,7 +796,8 @@
         "id": "HLL/WE28-40",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-41": {
     "name": "内気な使者 アモル",
@@ -775,7 +815,8 @@
         "id": "HLL/WE28-41",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-42": {
     "name": "崖登り 華恋",
@@ -793,7 +834,8 @@
         "id": "HLL/WE28-42",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-43": {
     "name": "落ち着きのある姉 華凛",
@@ -811,7 +853,8 @@
         "id": "HLL/WE28-43",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-44": {
     "name": "かわいらしい日々 華恋",
@@ -829,7 +872,8 @@
         "id": "HLL/WE28-44",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-45": {
     "name": "1年Sクラス副担任 梨乃",
@@ -847,7 +891,8 @@
         "id": "HLL/WE28-45",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-46": {
     "name": "一番を目指して 弥生",
@@ -865,7 +910,8 @@
         "id": "HLL/WE28-46",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-47": {
     "name": "1年Sクラス担任 静葉",
@@ -883,7 +929,8 @@
         "id": "HLL/WE28-47",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "HLL/WE28-48": {
     "name": "かわいらしい日々 ニーナ",
@@ -901,7 +948,8 @@
         "id": "HLL/WE28-48",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE28-49": {
     "name": "“ゲートアクセス!!テトラヘヴン!”",
@@ -919,7 +967,8 @@
         "id": "HLL/WE28-49",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "HLL/WE28-50": {
     "name": "“ゲートアクセス!!ジスフィア!”",
@@ -937,6 +986,7 @@
         "id": "HLL/WE28-50",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

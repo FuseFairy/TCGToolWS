@@ -19,7 +19,8 @@
         "id": "Kcl/W102-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kcl/W102-004": {
     "name": "奇跡のカタチ 渚＆朋也",
@@ -41,7 +42,8 @@
         "id": "Kcl/W102-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kcl/W102-007": {
     "name": "本当の気持ち 杏",
@@ -63,7 +65,8 @@
         "id": "Kcl/W102-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kcl/W102-008": {
     "name": "海産性の違い 風子",
@@ -85,7 +88,8 @@
         "id": "Kcl/W102-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kcl/W102-010": {
     "name": "グラビアポーズ ことみ",
@@ -107,7 +111,8 @@
         "id": "Kcl/W102-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kcl/W102-011": {
     "name": "憎悪のこもった一球 椋",
@@ -125,7 +130,8 @@
         "id": "Kcl/W102-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kcl/W102-014": {
     "name": "違うだんご 渚",
@@ -143,7 +149,8 @@
         "id": "Kcl/W102-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kcl/W102-019": {
     "name": "唯一無二の眼鏡ヒロイン 智代",
@@ -165,7 +172,8 @@
         "id": "Kcl/W102-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kcl/W102-021": {
     "name": "幸せな未来 汐＆渚",
@@ -187,7 +195,8 @@
         "id": "Kcl/W102-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kcl/W102-022": {
     "name": "双子ビーチバレー 杏",
@@ -205,7 +214,8 @@
         "id": "Kcl/W102-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kcl/W102-023": {
     "name": "アフター智代",
@@ -223,7 +233,8 @@
         "id": "Kcl/W102-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Kcl/W102-027": {
     "name": "サンマパン",
@@ -241,7 +252,8 @@
         "id": "Kcl/W102-027",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kcl/W102-029": {
     "name": "願いの叶う場所",
@@ -267,7 +279,8 @@
         "id": "Kcl/W102-029R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Kcl/W102-031": {
     "name": "負けヒロイン団",
@@ -289,6 +302,7 @@
         "id": "Kcl/W102-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

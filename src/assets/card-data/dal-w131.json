@@ -23,7 +23,8 @@
         "id": "DAL/W131-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-002": {
     "name": "デコレーションタイム 狂三",
@@ -45,7 +46,8 @@
         "id": "DAL/W131-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-003": {
     "name": "お祭り満喫中！ 琴里",
@@ -67,7 +69,8 @@
         "id": "DAL/W131-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-004": {
     "name": "仲良し姉妹 耶倶矢",
@@ -93,7 +96,8 @@
         "id": "DAL/W131-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-005": {
     "name": "仲良し姉妹 夕弦",
@@ -119,7 +123,8 @@
         "id": "DAL/W131-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-006": {
     "name": "意気揚々 耶倶矢",
@@ -141,7 +146,8 @@
         "id": "DAL/W131-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-007": {
     "name": "冷静沈着 夕弦",
@@ -163,7 +169,8 @@
         "id": "DAL/W131-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-008": {
     "name": "やすらぎのひと時 狂三",
@@ -185,7 +192,8 @@
         "id": "DAL/W131-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-009": {
     "name": "甘く危険な二重奏 耶倶矢&夕弦",
@@ -207,7 +215,8 @@
         "id": "DAL/W131-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-010": {
     "name": "星海に立つ 琴里",
@@ -229,7 +238,8 @@
         "id": "DAL/W131-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-011": {
     "name": "明日をつかむための采配 琴里",
@@ -251,7 +261,8 @@
         "id": "DAL/W131-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-012": {
     "name": "最終決戦 琴里",
@@ -273,7 +284,8 @@
         "id": "DAL/W131-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-013": {
     "name": "空に揺れる影 狂三",
@@ -295,7 +307,8 @@
         "id": "DAL/W131-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-014": {
     "name": "〈フラクシナス〉の切り札",
@@ -317,7 +330,8 @@
         "id": "DAL/W131-014R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-015": {
     "name": "最大の一撃",
@@ -339,7 +353,8 @@
         "id": "DAL/W131-015R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-016": {
     "name": "皆の心のオアシス 四糸乃",
@@ -365,7 +380,8 @@
         "id": "DAL/W131-016SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-017": {
     "name": "ご奉仕モード 七罪",
@@ -387,7 +403,8 @@
         "id": "DAL/W131-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-018": {
     "name": "力になりたい 七罪",
@@ -413,7 +430,8 @@
         "id": "DAL/W131-018SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-019": {
     "name": "純白の契り 折紙",
@@ -439,7 +457,8 @@
         "id": "DAL/W131-019SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-020": {
     "name": "月夜に寄り添う 四糸乃",
@@ -461,7 +480,8 @@
         "id": "DAL/W131-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-021": {
     "name": "空に咲く優しさ 四糸乃",
@@ -483,7 +503,8 @@
         "id": "DAL/W131-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-022": {
     "name": "真士の妹 真那",
@@ -505,7 +526,8 @@
         "id": "DAL/W131-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-023": {
     "name": "最終決戦 折紙",
@@ -527,7 +549,8 @@
         "id": "DAL/W131-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-024": {
     "name": "マイナススパイラル 七罪",
@@ -549,7 +572,8 @@
         "id": "DAL/W131-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-025": {
     "name": "空へ響く誓い 折紙",
@@ -571,7 +595,8 @@
         "id": "DAL/W131-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-026": {
     "name": "私でいいの？ 七罪",
@@ -593,7 +618,8 @@
         "id": "DAL/W131-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-027": {
     "name": "まだ小さな魔術師 エレン",
@@ -615,7 +641,8 @@
         "id": "DAL/W131-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-028": {
     "name": "赤ずきん 四糸乃",
@@ -637,7 +664,8 @@
         "id": "DAL/W131-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-029": {
     "name": "シンデレラ 七罪",
@@ -659,7 +687,8 @@
         "id": "DAL/W131-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-030": {
     "name": "頑張り屋 四糸乃",
@@ -681,7 +710,8 @@
         "id": "DAL/W131-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-031": {
     "name": "〈神蝕篇帙〉",
@@ -703,7 +733,8 @@
         "id": "DAL/W131-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-032": {
     "name": "原稿に込める想い",
@@ -725,7 +756,8 @@
         "id": "DAL/W131-032R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-033": {
     "name": "渾身のチョコレート作り",
@@ -747,7 +779,8 @@
         "id": "DAL/W131-033R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-034": {
     "name": "誓いを胸に 十香",
@@ -773,7 +806,8 @@
         "id": "DAL/W131-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-035": {
     "name": "“〈封解主〉”六喰",
@@ -799,7 +833,8 @@
         "id": "DAL/W131-035SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-036": {
     "name": "引き金に指を掛けたのは 狂三",
@@ -825,7 +860,8 @@
         "id": "DAL/W131-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-037": {
     "name": "身も心も捧げて 狂三",
@@ -851,7 +887,8 @@
         "id": "DAL/W131-037SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-038": {
     "name": "短冊に願いを 狂三",
@@ -873,7 +910,8 @@
         "id": "DAL/W131-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-039": {
     "name": "甘美なる挑発 狂三",
@@ -895,7 +933,8 @@
         "id": "DAL/W131-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-040": {
     "name": "チャイナドレス 六喰",
@@ -917,7 +956,8 @@
         "id": "DAL/W131-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-041": {
     "name": "月下の献身 狂三",
@@ -939,7 +979,8 @@
         "id": "DAL/W131-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-042": {
     "name": "桜花爛漫 十香",
@@ -961,7 +1002,8 @@
         "id": "DAL/W131-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-043": {
     "name": "迎春の装い 六喰",
@@ -983,7 +1025,8 @@
         "id": "DAL/W131-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-044": {
     "name": "純真無垢の煌き 十香",
@@ -1005,7 +1048,8 @@
         "id": "DAL/W131-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-045": {
     "name": "最終決戦 狂三",
@@ -1027,7 +1071,8 @@
         "id": "DAL/W131-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-046": {
     "name": "星海に煌めく 十香",
@@ -1049,7 +1094,8 @@
         "id": "DAL/W131-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-047": {
     "name": "過日の罪業 狂三",
@@ -1071,7 +1117,8 @@
         "id": "DAL/W131-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-048": {
     "name": "華麗なる舞踏 狂三",
@@ -1093,7 +1140,8 @@
         "id": "DAL/W131-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-049": {
     "name": "自慢の長い髪 六喰",
@@ -1115,7 +1163,8 @@
         "id": "DAL/W131-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-050": {
     "name": "ふたりでひとつ 十香",
@@ -1137,7 +1186,8 @@
         "id": "DAL/W131-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-051": {
     "name": "星海に漂う 六喰",
@@ -1159,7 +1209,8 @@
         "id": "DAL/W131-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-052": {
     "name": "星海に舞う 狂三",
@@ -1181,7 +1232,8 @@
         "id": "DAL/W131-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-053": {
     "name": "夕映えに微笑む 六喰",
@@ -1203,7 +1255,8 @@
         "id": "DAL/W131-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-054": {
     "name": "投げキッス 士道",
@@ -1225,7 +1278,8 @@
         "id": "DAL/W131-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-055": {
     "name": "輝く笑顔 十香",
@@ -1247,7 +1301,8 @@
         "id": "DAL/W131-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-056": {
     "name": "託された未来 狂三",
@@ -1269,7 +1324,8 @@
         "id": "DAL/W131-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-057": {
     "name": "姉との思い出 六喰",
@@ -1291,7 +1347,8 @@
         "id": "DAL/W131-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-058": {
     "name": "花魁スタイル 六喰",
@@ -1313,7 +1370,8 @@
         "id": "DAL/W131-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-059": {
     "name": "封印されていた【六の弾】",
@@ -1335,7 +1393,8 @@
         "id": "DAL/W131-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-060": {
     "name": "〈封解主〉――【放】",
@@ -1357,7 +1416,8 @@
         "id": "DAL/W131-060R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-061": {
     "name": "不敵な笑み",
@@ -1383,7 +1443,8 @@
         "id": "DAL/W131-061R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-062": {
     "name": "救済の輪廻",
@@ -1405,7 +1466,8 @@
         "id": "DAL/W131-062R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-063": {
     "name": "家族になった瞬間",
@@ -1427,7 +1489,8 @@
         "id": "DAL/W131-063R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-064": {
     "name": "“〈囁告篇帙〉”二亜",
@@ -1453,7 +1516,8 @@
         "id": "DAL/W131-064SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-065": {
     "name": "『好き』という気持ち 澪",
@@ -1479,7 +1543,8 @@
         "id": "DAL/W131-065SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-066": {
     "name": "溢れる愛情 十香",
@@ -1505,7 +1570,8 @@
         "id": "DAL/W131-066SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-067": {
     "name": "“〈神威霊装・零番〉”澪",
@@ -1531,7 +1597,8 @@
         "id": "DAL/W131-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-068": {
     "name": "プールサイドの休息 折紙",
@@ -1553,7 +1620,8 @@
         "id": "DAL/W131-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-069": {
     "name": "コスプレメイド 二亜",
@@ -1575,7 +1643,8 @@
         "id": "DAL/W131-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-070": {
     "name": "泡沫の夢 澪",
@@ -1597,7 +1666,8 @@
         "id": "DAL/W131-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-071": {
     "name": "夏の陽射し 美九",
@@ -1619,7 +1689,8 @@
         "id": "DAL/W131-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-072": {
     "name": "海辺の少女 澪",
@@ -1641,7 +1712,8 @@
         "id": "DAL/W131-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-073": {
     "name": "桜舞い散る坂道で 十香",
@@ -1663,7 +1735,8 @@
         "id": "DAL/W131-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-074": {
     "name": "光射す旋律 美九",
@@ -1689,7 +1762,8 @@
         "id": "DAL/W131-074SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-075": {
     "name": "読書の秋 二亜",
@@ -1711,7 +1785,8 @@
         "id": "DAL/W131-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-076": {
     "name": "優しく添い寝 二亜",
@@ -1733,7 +1808,8 @@
         "id": "DAL/W131-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-077": {
     "name": "“人類史における最大最悪の厄災”澪",
@@ -1755,7 +1831,8 @@
         "id": "DAL/W131-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-078": {
     "name": "最終決戦 十香",
@@ -1777,7 +1854,8 @@
         "id": "DAL/W131-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-079": {
     "name": "多忙なアイドル 美九",
@@ -1799,7 +1877,8 @@
         "id": "DAL/W131-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-080": {
     "name": "一途な想い 折紙",
@@ -1821,7 +1900,8 @@
         "id": "DAL/W131-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-081": {
     "name": "終わりの始まり 澪",
@@ -1843,7 +1923,8 @@
         "id": "DAL/W131-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-082": {
     "name": "星海に願う 二亜",
@@ -1865,7 +1946,8 @@
         "id": "DAL/W131-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-083": {
     "name": "夢のように美しい砂浜で 澪",
@@ -1887,7 +1969,8 @@
         "id": "DAL/W131-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-084": {
     "name": "『二度目』のデート 令音",
@@ -1909,7 +1992,8 @@
         "id": "DAL/W131-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-085": {
     "name": "デートのお誘い 真士",
@@ -1931,7 +2015,8 @@
         "id": "DAL/W131-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-086": {
     "name": "空を駆ける力 十香",
@@ -1953,7 +2038,8 @@
         "id": "DAL/W131-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-087": {
     "name": "与えられた名前 澪",
@@ -1975,7 +2061,8 @@
         "id": "DAL/W131-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-088": {
     "name": "無限の〈ニベルコル〉",
@@ -1997,7 +2084,8 @@
         "id": "DAL/W131-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-089": {
     "name": "オン・ステージ 美九",
@@ -2019,7 +2107,8 @@
         "id": "DAL/W131-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-090": {
     "name": "この手を取って 十香",
@@ -2041,7 +2130,8 @@
         "id": "DAL/W131-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-091": {
     "name": "夜闇に浮かぶ青い瞳 二亜",
@@ -2063,7 +2153,8 @@
         "id": "DAL/W131-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-092": {
     "name": "待望のリアルボディ マリア",
@@ -2085,7 +2176,8 @@
         "id": "DAL/W131-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-093": {
     "name": "“原初の零”澪",
@@ -2107,7 +2199,8 @@
         "id": "DAL/W131-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-094": {
     "name": "プロとしての矜持 二亜",
@@ -2129,7 +2222,8 @@
         "id": "DAL/W131-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-095": {
     "name": "人魚姫 美九",
@@ -2151,7 +2245,8 @@
         "id": "DAL/W131-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-096": {
     "name": "“二番目の精霊”二亜",
@@ -2173,7 +2268,8 @@
         "id": "DAL/W131-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-097": {
     "name": "もう絶対に離さない",
@@ -2195,7 +2291,8 @@
         "id": "DAL/W131-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-098": {
     "name": "母なる零",
@@ -2217,7 +2314,8 @@
         "id": "DAL/W131-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DAL/W131-099": {
     "name": "受け入れた力",
@@ -2239,7 +2337,8 @@
         "id": "DAL/W131-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-100": {
     "name": "霊結晶の反転",
@@ -2261,7 +2360,8 @@
         "id": "DAL/W131-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DAL/W131-101": {
     "name": "戦いの行方",
@@ -2279,6 +2379,7 @@
         "id": "DAL/W131-101A",
         "rarity": "AGR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

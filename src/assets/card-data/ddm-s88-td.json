@@ -15,7 +15,8 @@
         "id": "DDM/S88-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDM/S88-T02": {
     "name": "第一級冒険者 アイズ",
@@ -37,7 +38,8 @@
         "id": "DDM/S88-T02SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDM/S88-T03": {
     "name": "鍛冶師 ヴェルフ",
@@ -55,7 +57,8 @@
         "id": "DDM/S88-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDM/S88-T04": {
     "name": "恥じらいの乙女 リリ",
@@ -77,7 +80,8 @@
         "id": "DDM/S88-T04R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDM/S88-T05": {
     "name": "ダンジョンでの出会い アイズ",
@@ -99,7 +103,8 @@
         "id": "DDM/S88-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDM/S88-T06": {
     "name": "怪物祭 アイズ",
@@ -117,7 +122,8 @@
         "id": "DDM/S88-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDM/S88-T07": {
     "name": "贖罪の誓い リリ",
@@ -135,7 +141,8 @@
         "id": "DDM/S88-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDM/S88-T08": {
     "name": "【ヘスティア・ファミリア】",
@@ -153,7 +160,8 @@
         "id": "DDM/S88-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DDM/S88-T09": {
     "name": "1日の始まり ヘスティア",
@@ -171,7 +179,8 @@
         "id": "DDM/S88-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDM/S88-T10": {
     "name": "迷宮都市でのひととき ヘスティア",
@@ -193,7 +202,8 @@
         "id": "DDM/S88-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDM/S88-T11": {
     "name": "憧れに向かって ベル",
@@ -211,7 +221,8 @@
         "id": "DDM/S88-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDM/S88-T12": {
     "name": "たった二人のファミリア ヘスティア",
@@ -233,7 +244,8 @@
         "id": "DDM/S88-T12S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDM/S88-T13": {
     "name": "出会いを求めて ベル",
@@ -251,7 +263,8 @@
         "id": "DDM/S88-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDM/S88-T14": {
     "name": "兎もおだてりゃ木に登る ベル",
@@ -269,7 +282,8 @@
         "id": "DDM/S88-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDM/S88-T15": {
     "name": "迷宮都市でのひととき ベル",
@@ -291,7 +305,8 @@
         "id": "DDM/S88-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDM/S88-T16": {
     "name": "女神 ヘスティア",
@@ -313,7 +328,8 @@
         "id": "DDM/S88-T16SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DDM/S88-T17": {
     "name": "ステイタス更新",
@@ -331,7 +347,8 @@
         "id": "DDM/S88-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DDM/S88-T18": {
     "name": "ネクストステージ",
@@ -349,7 +366,8 @@
         "id": "DDM/S88-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DDM/S88-T19": {
     "name": "神様の役目",
@@ -371,6 +389,7 @@
         "id": "DDM/S88-T19S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

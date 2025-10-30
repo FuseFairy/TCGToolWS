@@ -19,7 +19,8 @@
         "id": "MF/S13-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-002": {
     "name": "幼い日の決意 シェリル",
@@ -37,7 +38,8 @@
         "id": "MF/S13-002",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-003": {
     "name": "最期の願い グレイス",
@@ -55,7 +57,8 @@
         "id": "MF/S13-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-004": {
     "name": "“ピンキーナース”シェリル",
@@ -77,7 +80,8 @@
         "id": "MF/S13-004R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-005": {
     "name": "“白うさぎ”シェリル",
@@ -99,7 +103,8 @@
         "id": "MF/S13-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-006": {
     "name": "美しき小悪魔 シェリル",
@@ -121,7 +126,8 @@
         "id": "MF/S13-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-007": {
     "name": "“歌は祈命”シェリル",
@@ -143,7 +149,8 @@
         "id": "MF/S13-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-008": {
     "name": "グレイス・オコナー",
@@ -161,7 +168,8 @@
         "id": "MF/S13-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-009": {
     "name": "真夏のビーチ シェリル＆ランカ",
@@ -179,7 +187,8 @@
         "id": "MF/S13-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-010": {
     "name": "VF-27ルシファー（ブレラ機）",
@@ -197,7 +206,8 @@
         "id": "MF/S13-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-011": {
     "name": "銀河の妖精 シェリル・ノーム",
@@ -215,7 +225,8 @@
         "id": "MF/S13-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-012": {
     "name": "“ダイアモンド クレバス”シェリル",
@@ -233,7 +244,8 @@
         "id": "MF/S13-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-013": {
     "name": "ミッションコード“銀河の妖精”シェリル",
@@ -251,7 +263,8 @@
         "id": "MF/S13-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-014": {
     "name": "アルトのお見舞い シェリル",
@@ -269,7 +282,8 @@
         "id": "MF/S13-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-015": {
     "name": "ブレラ・スターン",
@@ -287,7 +301,8 @@
         "id": "MF/S13-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-016": {
     "name": "湖畔のシェリル",
@@ -305,7 +320,8 @@
         "id": "MF/S13-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-017": {
     "name": "ジャイロバイクデート シェリル＆アルト",
@@ -323,7 +339,8 @@
         "id": "MF/S13-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-018": {
     "name": "“ライバルの予感”シェリル",
@@ -341,7 +358,8 @@
         "id": "MF/S13-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-019": {
     "name": "ラブスリンガー シェリル",
@@ -359,7 +377,8 @@
         "id": "MF/S13-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-020": {
     "name": "ランカの実兄 ブレラ",
@@ -377,7 +396,8 @@
         "id": "MF/S13-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-021": {
     "name": "燃え尽くした命",
@@ -395,7 +415,8 @@
         "id": "MF/S13-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-022": {
     "name": "SHERYL ARREST",
@@ -413,7 +434,8 @@
         "id": "MF/S13-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-023": {
     "name": "ユニバーサル・バニー",
@@ -431,7 +453,8 @@
         "id": "MF/S13-023",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-024": {
     "name": "ノーザンクロス",
@@ -449,7 +472,8 @@
         "id": "MF/S13-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-025": {
     "name": "オベリスク",
@@ -467,7 +491,8 @@
         "id": "MF/S13-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MF/S13-026": {
     "name": "天真爛漫 ランカ",
@@ -489,7 +514,8 @@
         "id": "MF/S13-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-027": {
     "name": "“歌は魔法”ランカ",
@@ -511,7 +537,8 @@
         "id": "MF/S13-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-028": {
     "name": "“恋はドッグファイト”ランカ",
@@ -533,7 +560,8 @@
         "id": "MF/S13-028R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-029": {
     "name": "恋のライバル ランカ＆シェリル",
@@ -555,7 +583,8 @@
         "id": "MF/S13-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-030": {
     "name": "無事を祈るランカ＆アルト",
@@ -573,7 +602,8 @@
         "id": "MF/S13-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-031": {
     "name": "アルトの背中を押すランカ",
@@ -591,7 +621,8 @@
         "id": "MF/S13-031",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-032": {
     "name": "清純派セーラー服 ランカ",
@@ -613,7 +644,8 @@
         "id": "MF/S13-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-033": {
     "name": "松浦 ナナセ",
@@ -631,7 +663,8 @@
         "id": "MF/S13-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-034": {
     "name": "バジュラ（大）",
@@ -649,7 +682,8 @@
         "id": "MF/S13-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-035": {
     "name": "歌姫に憧れる少女 ランカ",
@@ -667,7 +701,8 @@
         "id": "MF/S13-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-036": {
     "name": "バジュラ・クィーン",
@@ -685,7 +720,8 @@
         "id": "MF/S13-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-037": {
     "name": "開拓重機 ランカ",
@@ -703,7 +739,8 @@
         "id": "MF/S13-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-038": {
     "name": "マヤン島のランカ",
@@ -721,7 +758,8 @@
         "id": "MF/S13-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-039": {
     "name": "アイ君",
@@ -739,7 +777,8 @@
         "id": "MF/S13-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-040": {
     "name": "バジュラ（小）",
@@ -757,7 +796,8 @@
         "id": "MF/S13-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-041": {
     "name": "スターライト納豆 ランカ",
@@ -775,7 +815,8 @@
         "id": "MF/S13-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-042": {
     "name": "“星間飛行”ランカ",
@@ -793,7 +834,8 @@
         "id": "MF/S13-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-043": {
     "name": "はじめてのCMソング ランカ",
@@ -811,7 +853,8 @@
         "id": "MF/S13-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-044": {
     "name": "超時空シンデレラ ランカ・リー",
@@ -829,7 +872,8 @@
         "id": "MF/S13-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-045": {
     "name": "独りのランカ",
@@ -847,7 +891,8 @@
         "id": "MF/S13-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-046": {
     "name": "救出されるランカ",
@@ -865,7 +910,8 @@
         "id": "MF/S13-046",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-047": {
     "name": "謎のスカウトマン",
@@ -883,7 +929,8 @@
         "id": "MF/S13-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-048": {
     "name": "放課後オーバーフロウ",
@@ -901,7 +948,8 @@
         "id": "MF/S13-048",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MF/S13-049": {
     "name": "アイモ",
@@ -919,7 +967,8 @@
         "id": "MF/S13-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-050": {
     "name": "虹いろクマクマ",
@@ -937,7 +986,8 @@
         "id": "MF/S13-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-051": {
     "name": "本物の空を求めるアルト",
@@ -959,7 +1009,8 @@
         "id": "MF/S13-051R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-052": {
     "name": "歌を届ける使命 アルト",
@@ -977,7 +1028,8 @@
         "id": "MF/S13-052",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-053": {
     "name": "至近距離 アルト＆ランカ",
@@ -995,7 +1047,8 @@
         "id": "MF/S13-053",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-054": {
     "name": "バジュラから逃げるアルト＆シェリル",
@@ -1013,7 +1066,8 @@
         "id": "MF/S13-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-055": {
     "name": "パイロットのプライド アルト",
@@ -1035,7 +1089,8 @@
         "id": "MF/S13-055SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-056": {
     "name": "マクロス・クォーター強攻型",
@@ -1057,7 +1112,8 @@
         "id": "MF/S13-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-057": {
     "name": "三角関係 アルト",
@@ -1079,7 +1135,8 @@
         "id": "MF/S13-057s",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-058": {
     "name": "ゴスロリ女装 アルト",
@@ -1097,7 +1154,8 @@
         "id": "MF/S13-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-059": {
     "name": "カナリア・ベルシュタイン",
@@ -1115,7 +1173,8 @@
         "id": "MF/S13-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-060": {
     "name": "ジェフリー・ワイルダー",
@@ -1133,7 +1192,8 @@
         "id": "MF/S13-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-061": {
     "name": "VB-6ケーニッヒモンスター（カナリア機）",
@@ -1151,7 +1211,8 @@
         "id": "MF/S13-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-062": {
     "name": "トライアングラーの結末 アルト",
@@ -1169,7 +1230,8 @@
         "id": "MF/S13-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-063": {
     "name": "早乙女 アルト",
@@ -1187,7 +1249,8 @@
         "id": "MF/S13-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-064": {
     "name": "マヤン島のアルト",
@@ -1205,7 +1268,8 @@
         "id": "MF/S13-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-065": {
     "name": "リンゴのバルキリー アルト",
@@ -1223,7 +1287,8 @@
         "id": "MF/S13-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-066": {
     "name": "想いを寄せるモニカ",
@@ -1241,7 +1306,8 @@
         "id": "MF/S13-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-067": {
     "name": "シェリルに翻弄されるアルト",
@@ -1259,7 +1325,8 @@
         "id": "MF/S13-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-068": {
     "name": "幼い女形 アルト",
@@ -1277,7 +1344,8 @@
         "id": "MF/S13-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-069": {
     "name": "ボビー・マルゴ",
@@ -1295,7 +1363,8 @@
         "id": "MF/S13-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-070": {
     "name": "YF-29デュランダル（アルト機）",
@@ -1313,7 +1382,8 @@
         "id": "MF/S13-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-071": {
     "name": "アルカトラズからの脱獄",
@@ -1331,7 +1401,8 @@
         "id": "MF/S13-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-072": {
     "name": "バジュラとの共生へ",
@@ -1349,7 +1420,8 @@
         "id": "MF/S13-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-073": {
     "name": "サヨナラノツバサ",
@@ -1367,7 +1439,8 @@
         "id": "MF/S13-073",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-074": {
     "name": "マクロス・アタック",
@@ -1385,7 +1458,8 @@
         "id": "MF/S13-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MF/S13-075": {
     "name": "ライオン",
@@ -1403,7 +1477,8 @@
         "id": "MF/S13-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MF/S13-076": {
     "name": "LOVELY BOMBER クラン",
@@ -1425,7 +1500,8 @@
         "id": "MF/S13-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-077": {
     "name": "マイクローン化 クラン",
@@ -1447,7 +1523,8 @@
         "id": "MF/S13-077R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-078": {
     "name": "優しく見守るクラン",
@@ -1465,7 +1542,8 @@
         "id": "MF/S13-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-079": {
     "name": "ルカ・アンジェローニ",
@@ -1483,7 +1561,8 @@
         "id": "MF/S13-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-080": {
     "name": "悲しみに暮れるクラン",
@@ -1501,7 +1580,8 @@
         "id": "MF/S13-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-081": {
     "name": "命懸けで守りたいもの オズマ",
@@ -1519,7 +1599,8 @@
         "id": "MF/S13-081",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-082": {
     "name": "いつもの笑顔 クラン",
@@ -1541,7 +1622,8 @@
         "id": "MF/S13-082SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-083": {
     "name": "ミハエル・ブラン",
@@ -1559,7 +1641,8 @@
         "id": "MF/S13-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-084": {
     "name": "チャーシュー横どり クラン",
@@ -1577,7 +1660,8 @@
         "id": "MF/S13-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-085": {
     "name": "マヤン島のクラン",
@@ -1595,7 +1679,8 @@
         "id": "MF/S13-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-086": {
     "name": "VF-25Gメサイア（ミハエル機）",
@@ -1613,7 +1698,8 @@
         "id": "MF/S13-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-087": {
     "name": "コックピットのルカ",
@@ -1631,7 +1717,8 @@
         "id": "MF/S13-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-088": {
     "name": "キャサリン・グラス",
@@ -1649,7 +1736,8 @@
         "id": "MF/S13-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-089": {
     "name": "オズマ・リー",
@@ -1667,7 +1755,8 @@
         "id": "MF/S13-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-090": {
     "name": "ランカの義兄 オズマ",
@@ -1685,7 +1774,8 @@
         "id": "MF/S13-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-091": {
     "name": "出前の娘娘ラーメン ルカ",
@@ -1703,7 +1793,8 @@
         "id": "MF/S13-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-092": {
     "name": "レオン・三島",
@@ -1721,7 +1812,8 @@
         "id": "MF/S13-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-093": {
     "name": "LOVELY BOMBER ミシェル",
@@ -1739,7 +1831,8 @@
         "id": "MF/S13-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-094": {
     "name": "S.M.Sのアイドル小隊!? クラン",
@@ -1757,7 +1850,8 @@
         "id": "MF/S13-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-095": {
     "name": "VF-25Sメサイア（オズマ機）",
@@ -1775,7 +1869,8 @@
         "id": "MF/S13-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MF/S13-096": {
     "name": "娘娘ラーメン",
@@ -1793,7 +1888,8 @@
         "id": "MF/S13-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-097": {
     "name": "三島の陰謀",
@@ -1811,7 +1907,8 @@
         "id": "MF/S13-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MF/S13-098": {
     "name": "ギター狙撃",
@@ -1829,7 +1926,8 @@
         "id": "MF/S13-098",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MF/S13-099": {
     "name": "奇跡の生還",
@@ -1847,7 +1945,8 @@
         "id": "MF/S13-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MF/S13-100": {
     "name": "アルカトラズ慰問ライブ",
@@ -1865,6 +1964,7 @@
         "id": "MF/S13-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

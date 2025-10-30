@@ -15,7 +15,8 @@
         "id": "MAR/S89-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-T02": {
     "name": "驚異的な破壊力 ハルク",
@@ -33,7 +34,8 @@
         "id": "MAR/S89-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-T03": {
     "name": "神話最強のヒーロー ソー",
@@ -55,7 +57,8 @@
         "id": "MAR/S89-T03SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-T04": {
     "name": "ピュアなモンスター ハルク",
@@ -73,7 +76,8 @@
         "id": "MAR/S89-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-T05": {
     "name": "雷のパワー ソー",
@@ -91,7 +95,8 @@
         "id": "MAR/S89-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-T06": {
     "name": "ハルクスマッシュ！",
@@ -113,7 +118,8 @@
         "id": "MAR/S89-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-T07": {
     "name": "玉座を継ぐもの ソー",
@@ -131,7 +137,8 @@
         "id": "MAR/S89-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-T08": {
     "name": "最新鋭の技術 ブラック・ウィドウ",
@@ -149,7 +156,8 @@
         "id": "MAR/S89-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-T09": {
     "name": "ハイテク・ウェポン アイアンマン",
@@ -167,7 +175,8 @@
         "id": "MAR/S89-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-T10": {
     "name": "スーパー・スパイ ブラック・ウィドウ",
@@ -189,7 +198,8 @@
         "id": "MAR/S89-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-T11": {
     "name": "恐るべき才能 ブラック・ウィドウ",
@@ -207,7 +217,8 @@
         "id": "MAR/S89-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-T12": {
     "name": "全身ヒーロー アイアンマン",
@@ -225,7 +236,8 @@
         "id": "MAR/S89-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-T13": {
     "name": "世界最高の戦闘兵器 アイアンマン",
@@ -251,7 +263,8 @@
         "id": "MAR/S89-T13SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-T14": {
     "name": "無敵のアイアンマン",
@@ -273,7 +286,8 @@
         "id": "MAR/S89-T14S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-T15": {
     "name": "世界で最も偉大な射手 ホークアイ",
@@ -295,7 +309,8 @@
         "id": "MAR/S89-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-T16": {
     "name": "冷静沈着 ホークアイ",
@@ -313,7 +328,8 @@
         "id": "MAR/S89-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-T17": {
     "name": "国家究極の武器 キャプテン・アメリカ",
@@ -335,7 +351,8 @@
         "id": "MAR/S89-T17SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-T18": {
     "name": "アベンジャーズ キャプテン・アメリカ",
@@ -353,7 +370,8 @@
         "id": "MAR/S89-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-T19": {
     "name": "弓の名手 ホークアイ",
@@ -371,7 +389,8 @@
         "id": "MAR/S89-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-T20": {
     "name": "超人血清 キャプテン・アメリカ",
@@ -389,7 +408,8 @@
         "id": "MAR/S89-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-T21": {
     "name": "正義に生きる キャプテン・アメリカ",
@@ -407,6 +427,7 @@
         "id": "MAR/S89-T21",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

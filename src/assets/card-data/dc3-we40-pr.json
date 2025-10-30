@@ -19,7 +19,8 @@
         "id": "DC3/WE40-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE40-P02": {
     "name": "\"ミライへの伝言\"シャルル",
@@ -41,7 +42,8 @@
         "id": "DC3/WE40-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE40-P03": {
     "name": "\"ミライへの伝言\"姫乃",
@@ -63,7 +65,8 @@
         "id": "DC3/WE40-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WE40-P04": {
     "name": "\"ミライへの伝言\"サラ",
@@ -85,7 +88,8 @@
         "id": "DC3/WE40-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WE40-P05": {
     "name": "\"ミライへの伝言\"葵",
@@ -107,7 +111,8 @@
         "id": "DC3/WE40-P05S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WE40-P06": {
     "name": "\"プラスストーリー\"サラ＆葵＆姫乃",
@@ -125,7 +130,8 @@
         "id": "DC3/WE40-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE40-P07": {
     "name": "両手に花の海水浴 シャルル＆リッカ",
@@ -143,6 +149,7 @@
         "id": "DC3/WE40-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -15,7 +15,8 @@
         "id": "MTI/S83-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-P02": {
     "name": "“ブエナ村の美しい景色”ロキシー＆ルーデウス",
@@ -33,7 +34,8 @@
         "id": "MTI/S83-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-101": {
     "name": "ルーデウス・グレイラット",
@@ -51,7 +53,8 @@
         "id": "MTI/S83-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-102": {
     "name": "シルフィエット",
@@ -69,7 +72,8 @@
         "id": "MTI/S83-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-103": {
     "name": "ギレーヌ・デドルディア",
@@ -87,7 +91,8 @@
         "id": "MTI/S83-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MTI/S83-104": {
     "name": "エリス・ボレアス・グレイラット",
@@ -105,7 +110,8 @@
         "id": "MTI/S83-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MTI/S83-105": {
     "name": "ロキシー・ミグルディア",
@@ -123,6 +129,7 @@
         "id": "MTI/S83-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

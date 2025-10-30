@@ -19,7 +19,8 @@
         "id": "MAR/S89-001MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-002": {
     "name": "超人 ハルク",
@@ -41,7 +42,8 @@
         "id": "MAR/S89-002A",
         "rarity": "AVGR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-003": {
     "name": "“アスガルド”の王子 ソー",
@@ -63,7 +65,8 @@
         "id": "MAR/S89-003A",
         "rarity": "AVGR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-004": {
     "name": "心が読める不思議ちゃん マンティス",
@@ -85,7 +88,8 @@
         "id": "MAR/S89-004MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-005": {
     "name": "樹木型ヒューマノイド グルート",
@@ -107,7 +111,8 @@
         "id": "MAR/S89-005MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-006": {
     "name": "ハルク",
@@ -129,7 +134,8 @@
         "id": "MAR/S89-006MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-007": {
     "name": "武器製造のエキスパート ロケット・ラクーン",
@@ -151,7 +157,8 @@
         "id": "MAR/S89-007MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-008": {
     "name": "ソー・オーディンソン",
@@ -173,7 +180,8 @@
         "id": "MAR/S89-008MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-009": {
     "name": "マッチョな破壊王 ドラックス",
@@ -195,7 +203,8 @@
         "id": "MAR/S89-009MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-010": {
     "name": "宇宙一危険な女性 ガモーラ",
@@ -217,7 +226,8 @@
         "id": "MAR/S89-010MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-011": {
     "name": "雷神 ソー・オーディンソン",
@@ -239,7 +249,8 @@
         "id": "MAR/S89-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-012": {
     "name": "ロキ",
@@ -261,7 +272,8 @@
         "id": "MAR/S89-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-013": {
     "name": "ベビー・グルート",
@@ -283,7 +295,8 @@
         "id": "MAR/S89-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-014": {
     "name": "ドラックス",
@@ -305,7 +318,8 @@
         "id": "MAR/S89-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-015": {
     "name": "マンティス",
@@ -327,7 +341,8 @@
         "id": "MAR/S89-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-016": {
     "name": "ガモーラ",
@@ -349,7 +364,8 @@
         "id": "MAR/S89-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-017": {
     "name": "超アドレナリンのヒーロー ハルク",
@@ -371,7 +387,8 @@
         "id": "MAR/S89-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-018": {
     "name": "ロケット・ラクーン",
@@ -393,7 +410,8 @@
         "id": "MAR/S89-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-019": {
     "name": "スター・ロード",
@@ -415,7 +433,8 @@
         "id": "MAR/S89-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-020": {
     "name": "ネビュラ",
@@ -433,7 +452,8 @@
         "id": "MAR/S89-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-021": {
     "name": "破天荒な神様 ソー",
@@ -451,7 +471,8 @@
         "id": "MAR/S89-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-022": {
     "name": "ヨンドゥ",
@@ -469,7 +490,8 @@
         "id": "MAR/S89-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-023": {
     "name": "悪戯の神 ロキ",
@@ -487,7 +509,8 @@
         "id": "MAR/S89-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-024": {
     "name": "最強のヒーロー ハルク",
@@ -505,7 +528,8 @@
         "id": "MAR/S89-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-025": {
     "name": "ムジョルニア",
@@ -523,7 +547,8 @@
         "id": "MAR/S89-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-026": {
     "name": "北欧の伝説 ソー",
@@ -545,7 +570,8 @@
         "id": "MAR/S89-026R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-027": {
     "name": "苦悩の天才科学者 ハルク",
@@ -567,7 +593,8 @@
         "id": "MAR/S89-027R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-028": {
     "name": "Guardians of the Galaxy",
@@ -585,7 +612,8 @@
         "id": "MAR/S89-028",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-029": {
     "name": "トレジャー・ハンター スター・ロード",
@@ -603,7 +631,8 @@
         "id": "MAR/S89-029",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-030": {
     "name": "世界最高のエージェント ブラック・ウィドウ",
@@ -625,7 +654,8 @@
         "id": "MAR/S89-030A",
         "rarity": "AVGR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-031": {
     "name": "あなたの親愛なる隣人 スパイダーマン",
@@ -647,7 +677,8 @@
         "id": "MAR/S89-031MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-032": {
     "name": "セレブヒーロー アイアンマン",
@@ -669,7 +700,8 @@
         "id": "MAR/S89-032A",
         "rarity": "AVGR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-033": {
     "name": "不屈のヒーロー キャプテン・マーベル",
@@ -691,7 +723,8 @@
         "id": "MAR/S89-033MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-034": {
     "name": "最凶最悪のラスボス サノス",
@@ -713,7 +746,8 @@
         "id": "MAR/S89-034MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-035": {
     "name": "ワカンダの王 ブラックパンサー",
@@ -735,7 +769,8 @@
         "id": "MAR/S89-035MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-036": {
     "name": "アイアンマン",
@@ -757,7 +792,8 @@
         "id": "MAR/S89-036MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-037": {
     "name": "ウォーマシン最高！",
@@ -779,7 +815,8 @@
         "id": "MAR/S89-037MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-038": {
     "name": "ソーサラー・スプリーム ドクター・ストレンジ",
@@ -801,7 +838,8 @@
         "id": "MAR/S89-038MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-039": {
     "name": "究極の人造人間 ヴィジョン",
@@ -823,7 +861,8 @@
         "id": "MAR/S89-039MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-040": {
     "name": "サノス",
@@ -845,7 +884,8 @@
         "id": "MAR/S89-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-041": {
     "name": "スパイダーマン",
@@ -867,7 +907,8 @@
         "id": "MAR/S89-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-042": {
     "name": "ブラック・ウィドウ",
@@ -889,7 +930,8 @@
         "id": "MAR/S89-042MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-043": {
     "name": "ヴィジョン",
@@ -911,7 +953,8 @@
         "id": "MAR/S89-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-044": {
     "name": "ゴースト・スパイダー",
@@ -933,7 +976,8 @@
         "id": "MAR/S89-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-045": {
     "name": "驚異的なパワー サノス",
@@ -951,7 +995,8 @@
         "id": "MAR/S89-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-046": {
     "name": "最重要エージェント ブラック・ウィドウ",
@@ -973,7 +1018,8 @@
         "id": "MAR/S89-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-047": {
     "name": "ドクター・ストレンジ",
@@ -995,7 +1041,8 @@
         "id": "MAR/S89-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-048": {
     "name": "キャプテン・マーベル",
@@ -1017,7 +1064,8 @@
         "id": "MAR/S89-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-049": {
     "name": "ブラックパンサー",
@@ -1039,7 +1087,8 @@
         "id": "MAR/S89-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-050": {
     "name": "ウォーマシン",
@@ -1061,7 +1110,8 @@
         "id": "MAR/S89-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-051": {
     "name": "ウェブスリンガー スパイダーマン",
@@ -1079,7 +1129,8 @@
         "id": "MAR/S89-051",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-052": {
     "name": "最新鋭のパワードスーツ アイアンマン",
@@ -1101,7 +1152,8 @@
         "id": "MAR/S89-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-053": {
     "name": "気高き精神 ヴィジョン",
@@ -1119,7 +1171,8 @@
         "id": "MAR/S89-053",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-054": {
     "name": "ワンマン・アーミー ウォーマシン",
@@ -1137,7 +1190,8 @@
         "id": "MAR/S89-054",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-055": {
     "name": "スパイダー感覚 スパイダーマン",
@@ -1155,7 +1209,8 @@
         "id": "MAR/S89-055",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-056": {
     "name": "ウルトロン",
@@ -1173,7 +1228,8 @@
         "id": "MAR/S89-056",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-057": {
     "name": "シュリ",
@@ -1191,7 +1247,8 @@
         "id": "MAR/S89-057",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-058": {
     "name": "レッドスカル",
@@ -1209,7 +1266,8 @@
         "id": "MAR/S89-058",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-059": {
     "name": "オコエ",
@@ -1227,7 +1285,8 @@
         "id": "MAR/S89-059",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-060": {
     "name": "ゴーストスパイダー",
@@ -1245,7 +1304,8 @@
         "id": "MAR/S89-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-061": {
     "name": "漆黒のヒーロー ブラックパンサー",
@@ -1263,7 +1323,8 @@
         "id": "MAR/S89-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-062": {
     "name": "億万長者の起業家 アイアンマン",
@@ -1281,7 +1342,8 @@
         "id": "MAR/S89-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-063": {
     "name": "美しきエージェント ブラック・ウィドウ",
@@ -1299,7 +1361,8 @@
         "id": "MAR/S89-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-064": {
     "name": "最強魔術師 ドクター・ストレンジ",
@@ -1317,7 +1380,8 @@
         "id": "MAR/S89-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-065": {
     "name": "若き科学の天才 スパイダーマン",
@@ -1335,7 +1399,8 @@
         "id": "MAR/S89-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-066": {
     "name": "Iron Man Armor",
@@ -1353,7 +1418,8 @@
         "id": "MAR/S89-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-067": {
     "name": "インフィニティ・ガントレット",
@@ -1371,7 +1437,8 @@
         "id": "MAR/S89-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-068": {
     "name": "音速飛行 アイアンマン",
@@ -1393,7 +1460,8 @@
         "id": "MAR/S89-068R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-069": {
     "name": "超一流のエージェント ブラック・ウィドウ",
@@ -1415,7 +1483,8 @@
         "id": "MAR/S89-069R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-070": {
     "name": "宇宙のバランス サノス",
@@ -1437,7 +1506,8 @@
         "id": "MAR/S89-070R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "MAR/S89-071": {
     "name": "フォトンブラスト",
@@ -1455,7 +1525,8 @@
         "id": "MAR/S89-071",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-072": {
     "name": "スーパーヒーロー スパイダーマン",
@@ -1477,7 +1548,8 @@
         "id": "MAR/S89-072R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-073": {
     "name": "史上最高のアーチャー ホークアイ",
@@ -1499,7 +1571,8 @@
         "id": "MAR/S89-073A",
         "rarity": "AVGR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-074": {
     "name": "生ける伝説 キャプテン・アメリカ",
@@ -1521,7 +1594,8 @@
         "id": "MAR/S89-074A",
         "rarity": "AVGR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-075": {
     "name": "ホークアイ",
@@ -1543,7 +1617,8 @@
         "id": "MAR/S89-075MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-076": {
     "name": "サイドキック ファルコン",
@@ -1565,7 +1640,8 @@
         "id": "MAR/S89-076MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-077": {
     "name": "パワフルな超能力者 スカーレット・ウィッチ",
@@ -1587,7 +1663,8 @@
         "id": "MAR/S89-077MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-078": {
     "name": "最小最強のヒロイン ワスプ",
@@ -1609,7 +1686,8 @@
         "id": "MAR/S89-078MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-079": {
     "name": "最小最強のヒーロー アントマン",
@@ -1631,7 +1709,8 @@
         "id": "MAR/S89-079MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-080": {
     "name": "ヴィブラニウム製左腕 ウィンター・ソルジャー",
@@ -1653,7 +1732,8 @@
         "id": "MAR/S89-080MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-081": {
     "name": "キャプテン・アメリカ",
@@ -1675,7 +1755,8 @@
         "id": "MAR/S89-081MR",
         "rarity": "MR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-082": {
     "name": "ニコラス・ジョセフ・“ニック”・フューリー",
@@ -1693,7 +1774,8 @@
         "id": "MAR/S89-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-083": {
     "name": "アントマン",
@@ -1715,7 +1797,8 @@
         "id": "MAR/S89-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-084": {
     "name": "史上最強の兵士 キャプテン・アメリカ",
@@ -1737,7 +1820,8 @@
         "id": "MAR/S89-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-085": {
     "name": "ワスプ",
@@ -1759,7 +1843,8 @@
         "id": "MAR/S89-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-086": {
     "name": "スカーレット・ウィッチ",
@@ -1781,7 +1866,8 @@
         "id": "MAR/S89-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-087": {
     "name": "ダークヒーロー ヴェノム",
@@ -1803,7 +1889,8 @@
         "id": "MAR/S89-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-088": {
     "name": "ファルコン",
@@ -1825,7 +1912,8 @@
         "id": "MAR/S89-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-089": {
     "name": "ウィンター・ソルジャー",
@@ -1847,7 +1935,8 @@
         "id": "MAR/S89-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-090": {
     "name": "神級の弓の使い手 ホークアイ",
@@ -1869,7 +1958,8 @@
         "id": "MAR/S89-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-091": {
     "name": "ヴァルチャー",
@@ -1887,7 +1977,8 @@
         "id": "MAR/S89-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-092": {
     "name": "プロの戦略家 ニック・フューリー",
@@ -1905,7 +1996,8 @@
         "id": "MAR/S89-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-093": {
     "name": "ヴェノム",
@@ -1923,7 +2015,8 @@
         "id": "MAR/S89-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-094": {
     "name": "強い愛国心 キャプテン・アメリカ",
@@ -1941,7 +2034,8 @@
         "id": "MAR/S89-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-095": {
     "name": "カーネイジ",
@@ -1959,7 +2053,8 @@
         "id": "MAR/S89-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-096": {
     "name": "トリックアロー ホークアイ",
@@ -1977,7 +2072,8 @@
         "id": "MAR/S89-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-097": {
     "name": "Avengers assemble.",
@@ -1995,7 +2091,8 @@
         "id": "MAR/S89-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MAR/S89-098": {
     "name": "弓矢の達人 ホークアイ",
@@ -2017,7 +2114,8 @@
         "id": "MAR/S89-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-099": {
     "name": "伝説のソルジャー キャプテン・アメリカ",
@@ -2039,7 +2137,8 @@
         "id": "MAR/S89-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MAR/S89-100": {
     "name": "Avengers",
@@ -2057,6 +2156,7 @@
         "id": "MAR/S89-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

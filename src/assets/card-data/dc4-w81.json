@@ -19,7 +19,8 @@
         "id": "DC4/W81-058SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/W81-059": {
     "name": "一日だけのウエディング 有里咲",
@@ -37,7 +38,8 @@
         "id": "DC4/W81-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/W81-060": {
     "name": "新たに始まる物語 さくら",
@@ -55,7 +57,8 @@
         "id": "DC4/W81-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/W81-061": {
     "name": "ふたりの特別な時間 有里咲",
@@ -73,7 +76,8 @@
         "id": "DC4/W81-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC4/W81-062": {
     "name": "恋がはじまる瞬間",
@@ -95,7 +99,8 @@
         "id": "DC4/W81-062R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/W81-063": {
     "name": "枯れない桜",
@@ -117,7 +122,8 @@
         "id": "DC4/W81-063R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/W81-064": {
     "name": "思い出を重ねて 諳子",
@@ -139,7 +145,8 @@
         "id": "DC4/W81-064SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/W81-065": {
     "name": "たった一つの約束 二乃",
@@ -161,7 +168,8 @@
         "id": "DC4/W81-065SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/W81-066": {
     "name": "お料理上手 諳子",
@@ -183,7 +191,8 @@
         "id": "DC4/W81-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/W81-067": {
     "name": "あたしの特等席 ちよ子",
@@ -205,7 +214,8 @@
         "id": "DC4/W81-067SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC4/W81-068": {
     "name": "朝のハプニング 二乃",
@@ -227,7 +237,8 @@
         "id": "DC4/W81-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC4/W81-069": {
     "name": "小悪魔モード 二乃",
@@ -245,7 +256,8 @@
         "id": "DC4/W81-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/W81-070": {
     "name": "突撃！インタビュー ちよ子",
@@ -263,7 +275,8 @@
         "id": "DC4/W81-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC4/W81-071": {
     "name": "眩い満月 諳子",
@@ -281,7 +294,8 @@
         "id": "DC4/W81-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC4/W81-072": {
     "name": "いたずらな風 ちよ子",
@@ -299,7 +313,8 @@
         "id": "DC4/W81-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/W81-073": {
     "name": "不思議の国のアイドル アリス",
@@ -317,7 +332,8 @@
         "id": "DC4/W81-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/W81-074": {
     "name": "一緒にお料理 二乃",
@@ -335,7 +351,8 @@
         "id": "DC4/W81-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC4/W81-075": {
     "name": "ワンダーランドのうさぎさん 諳子",
@@ -353,7 +370,8 @@
         "id": "DC4/W81-075",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC4/W81-076": {
     "name": "妹から妹に",
@@ -375,7 +393,8 @@
         "id": "DC4/W81-076SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/W81-077": {
     "name": "あたしらしさ",
@@ -397,7 +416,8 @@
         "id": "DC4/W81-077R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/W81-078": {
     "name": "目覚めのキス",
@@ -419,7 +439,8 @@
         "id": "DC4/W81-078R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/W81-079": {
     "name": "0から生まれる恋のフラグ ひより",
@@ -441,7 +462,8 @@
         "id": "DC4/W81-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/W81-080": {
     "name": "夕陽の中の告白 未羽",
@@ -463,7 +485,8 @@
         "id": "DC4/W81-080SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC4/W81-081": {
     "name": "破天荒な恋愛請負人 ひより",
@@ -481,7 +504,8 @@
         "id": "DC4/W81-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/W81-082": {
     "name": "きまじめな風紀委員 未羽",
@@ -499,7 +523,8 @@
         "id": "DC4/W81-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/W81-083": {
     "name": "デートバトル延長決定！ ひより",
@@ -517,7 +542,8 @@
         "id": "DC4/W81-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC4/W81-084": {
     "name": "静かな決意 未羽",
@@ -535,7 +561,8 @@
         "id": "DC4/W81-084",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/W81-085": {
     "name": "やさしいひと時 KotoRI",
@@ -553,7 +580,8 @@
         "id": "DC4/W81-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC4/W81-086": {
     "name": "ナイスキャッチ！",
@@ -575,7 +603,8 @@
         "id": "DC4/W81-086R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/W81-087": {
     "name": "鏡の迷路",
@@ -597,7 +626,8 @@
         "id": "DC4/W81-087R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/W81-088": {
     "name": "淡い気持ち 詩名",
@@ -619,7 +649,8 @@
         "id": "DC4/W81-088SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/W81-089": {
     "name": "恋のはじまり 有里栖",
@@ -641,7 +672,8 @@
         "id": "DC4/W81-089SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC4/W81-090": {
     "name": "一緒におでかけ  有里栖",
@@ -659,7 +691,8 @@
         "id": "DC4/W81-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/W81-091": {
     "name": "満月の夜の魔法 詩名",
@@ -677,7 +710,8 @@
         "id": "DC4/W81-091",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/W81-092": {
     "name": "胸に響く音色 詩名",
@@ -695,7 +729,8 @@
         "id": "DC4/W81-092",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC4/W81-093": {
     "name": "息の合った親友 叶方",
@@ -713,7 +748,8 @@
         "id": "DC4/W81-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC4/W81-094": {
     "name": "君と過ごした時間 有里栖",
@@ -731,7 +767,8 @@
         "id": "DC4/W81-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC4/W81-095": {
     "name": "この恋は、世界を変える",
@@ -753,7 +790,8 @@
         "id": "DC4/W81-095SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC4/W81-096": {
     "name": "別れの瞬間",
@@ -775,6 +813,7 @@
         "id": "DC4/W81-096R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

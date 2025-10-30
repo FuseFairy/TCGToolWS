@@ -19,7 +19,8 @@
         "id": "SIL/W109-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIL/W109-036": {
     "name": "夕暮れの生徒会室 絢瀬 絵里",
@@ -41,7 +42,8 @@
         "id": "SIL/W109-036SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIL/W109-037": {
     "name": "降り注ぐ光 東條 希",
@@ -63,7 +65,8 @@
         "id": "SIL/W109-037SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIL/W109-038": {
     "name": "ありがた～い講義 矢澤 にこ",
@@ -85,7 +88,8 @@
         "id": "SIL/W109-038SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIL/W109-042": {
     "name": "みんなのニコニー 矢澤 にこ",
@@ -107,7 +111,8 @@
         "id": "SIL/W109-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIL/W109-043": {
     "name": "アタックしちゃうぞ 東條 希",
@@ -129,7 +134,8 @@
         "id": "SIL/W109-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIL/W109-044": {
     "name": "生徒会長 絢瀬 絵里",
@@ -151,7 +157,8 @@
         "id": "SIL/W109-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIL/W109-045": {
     "name": "応援しましょ♪ 絢瀬 絵里",
@@ -173,7 +180,8 @@
         "id": "SIL/W109-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIL/W109-046": {
     "name": "占いの力 東條 希",
@@ -195,7 +203,8 @@
         "id": "SIL/W109-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIL/W109-047": {
     "name": "心身の鍛錬をして 矢澤 にこ",
@@ -217,7 +226,8 @@
         "id": "SIL/W109-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIL/W109-049": {
     "name": "気がつけば夕暮れ",
@@ -239,7 +249,8 @@
         "id": "SIL/W109-049R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIL/W109-053": {
     "name": "満開の桜 高坂 穂乃果",
@@ -265,7 +276,8 @@
         "id": "SIL/W109-053SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIL/W109-061": {
     "name": "無心へと 園田 海未",
@@ -287,7 +299,8 @@
         "id": "SIL/W109-061SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIL/W109-067": {
     "name": "いらっしゃいませ♪ 南 ことり",
@@ -309,7 +322,8 @@
         "id": "SIL/W109-067SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIL/W109-068": {
     "name": "ミラクルライブ！ 高坂 穂乃果",
@@ -331,7 +345,8 @@
         "id": "SIL/W109-068OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIL/W109-071": {
     "name": "♡のサイン 南 ことり",
@@ -353,7 +368,8 @@
         "id": "SIL/W109-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIL/W109-074": {
     "name": "撫子の微笑 園田 海未",
@@ -375,7 +391,8 @@
         "id": "SIL/W109-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIL/W109-084": {
     "name": "白衣でキリッと 園田 海未",
@@ -397,7 +414,8 @@
         "id": "SIL/W109-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIL/W109-085": {
     "name": "スマッシュするよ 高坂 穂乃果",
@@ -419,7 +437,8 @@
         "id": "SIL/W109-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIL/W109-090": {
     "name": "コートを駆け抜けて 南 ことり",
@@ -441,7 +460,8 @@
         "id": "SIL/W109-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIL/W109-095": {
     "name": "春、輝いて",
@@ -463,7 +483,8 @@
         "id": "SIL/W109-095R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIL/W109-097": {
     "name": "スマホ越しのはにかみ 西木野 真姫",
@@ -485,7 +506,8 @@
         "id": "SIL/W109-097SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIL/W109-103": {
     "name": "μ'sへの想い 小泉 花陽",
@@ -507,7 +529,8 @@
         "id": "SIL/W109-103SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIL/W109-107": {
     "name": "きらめく屋上 星空 凛",
@@ -529,7 +552,8 @@
         "id": "SIL/W109-107SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIL/W109-110": {
     "name": "人見知り 小泉 花陽",
@@ -551,7 +575,8 @@
         "id": "SIL/W109-110S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIL/W109-112": {
     "name": "タイムを競う 星空 凛",
@@ -573,7 +598,8 @@
         "id": "SIL/W109-112S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIL/W109-118": {
     "name": "果敢に意見 西木野 真姫",
@@ -595,7 +621,8 @@
         "id": "SIL/W109-118S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIL/W109-123": {
     "name": "まるごとみかん 小泉 花陽",
@@ -617,7 +644,8 @@
         "id": "SIL/W109-123S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIL/W109-124": {
     "name": "スパイラルを決めて 西木野 真姫",
@@ -639,7 +667,8 @@
         "id": "SIL/W109-124S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SIL/W109-133": {
     "name": "よろしくにゃ♪ 星空 凛",
@@ -661,7 +690,8 @@
         "id": "SIL/W109-133S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SIL/W109-134": {
     "name": "心の準備が……！",
@@ -683,6 +713,7 @@
         "id": "SIL/W109-134R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

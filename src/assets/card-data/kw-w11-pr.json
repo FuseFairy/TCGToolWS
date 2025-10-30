@@ -15,7 +15,8 @@
         "id": "KW/W11-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KW/W11-109": {
     "name": "夏服のクド",
@@ -33,7 +34,8 @@
         "id": "KW/W11-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KW/W11-112": {
     "name": "衣装変更！？ クド",
@@ -51,7 +53,8 @@
         "id": "KW/W11-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KW/W11-114": {
     "name": "楽しい予感 クド＆ゆり",
@@ -69,7 +72,8 @@
         "id": "KW/W11-114",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KW/W11-124": {
     "name": "クド＆かなで",
@@ -87,6 +91,7 @@
         "id": "KW/W11-124",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

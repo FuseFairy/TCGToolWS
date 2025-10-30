@@ -15,7 +15,8 @@
         "id": "ID/W10-001",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W10-002": {
     "name": "“超能力者”一方通行",
@@ -37,7 +38,8 @@
         "id": "ID/W10-002R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W10-003": {
     "name": "御坂妹",
@@ -59,7 +61,8 @@
         "id": "ID/W10-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-004": {
     "name": "クラスの三バカ 当麻",
@@ -77,7 +80,8 @@
         "id": "ID/W10-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-005": {
     "name": "月詠 小萌",
@@ -95,7 +99,8 @@
         "id": "ID/W10-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-006": {
     "name": "“幻想殺し”当麻",
@@ -117,7 +122,8 @@
         "id": "ID/W10-006SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-007": {
     "name": "ミサカネットワークの管理者 打ち止め",
@@ -139,7 +145,8 @@
         "id": "ID/W10-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W10-008": {
     "name": "“無能力者”当麻",
@@ -157,7 +164,8 @@
         "id": "ID/W10-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-009": {
     "name": "オリジナル 美琴",
@@ -175,7 +183,8 @@
         "id": "ID/W10-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-010": {
     "name": "学園都市最強 一方通行",
@@ -193,7 +202,8 @@
         "id": "ID/W10-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-011": {
     "name": "上条 当麻",
@@ -211,7 +221,8 @@
         "id": "ID/W10-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W10-012": {
     "name": "一方通行",
@@ -229,7 +240,8 @@
         "id": "ID/W10-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W10-013": {
     "name": "美琴のルームメイト 黒子",
@@ -247,7 +259,8 @@
         "id": "ID/W10-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-014": {
     "name": "妹達",
@@ -265,7 +278,8 @@
         "id": "ID/W10-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-015": {
     "name": "土御門 舞夏",
@@ -283,7 +297,8 @@
         "id": "ID/W10-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-016": {
     "name": "ビリビリ中学生 美琴",
@@ -301,7 +316,8 @@
         "id": "ID/W10-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-017": {
     "name": "検体番号二〇〇〇一号 打ち止め",
@@ -319,7 +335,8 @@
         "id": "ID/W10-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W10-018": {
     "name": "完全幼女な成人教師 小萌",
@@ -337,7 +354,8 @@
         "id": "ID/W10-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W10-019": {
     "name": "土御門 元春",
@@ -355,7 +373,8 @@
         "id": "ID/W10-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W10-020": {
     "name": "一〇〇三二番目の量産型 ミサカ",
@@ -373,7 +392,8 @@
         "id": "ID/W10-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W10-021": {
     "name": "竜王の顎",
@@ -391,7 +411,8 @@
         "id": "ID/W10-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-022": {
     "name": "待ち合わせ",
@@ -409,7 +430,8 @@
         "id": "ID/W10-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-023": {
     "name": "ミサカネットワーク",
@@ -427,7 +449,8 @@
         "id": "ID/W10-023",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W10-024": {
     "name": "すべてを打ち消す力",
@@ -445,7 +468,8 @@
         "id": "ID/W10-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "ID/W10-025": {
     "name": "学園都市最強の敵",
@@ -463,7 +487,8 @@
         "id": "ID/W10-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W10-076": {
     "name": "謎の純白少女 インデックス",
@@ -485,7 +510,8 @@
         "id": "ID/W10-076SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-077": {
     "name": "Index-Librorum-PRohibitorum",
@@ -507,7 +533,8 @@
         "id": "ID/W10-077R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-078": {
     "name": "“吸血殺し”姫神",
@@ -525,7 +552,8 @@
         "id": "ID/W10-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-079": {
     "name": "魔道書図書館 インデックス",
@@ -547,7 +575,8 @@
         "id": "ID/W10-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-080": {
     "name": "氷華＆インデックス",
@@ -565,7 +594,8 @@
         "id": "ID/W10-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-081": {
     "name": "天才魔術師 ステイル",
@@ -583,7 +613,8 @@
         "id": "ID/W10-081",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W10-082": {
     "name": "“聖人”神裂",
@@ -605,7 +636,8 @@
         "id": "ID/W10-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W10-083": {
     "name": "修道女 インデックス",
@@ -623,7 +655,8 @@
         "id": "ID/W10-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-084": {
     "name": "“冥土帰し”",
@@ -641,7 +674,8 @@
         "id": "ID/W10-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-085": {
     "name": "“女教皇”神裂",
@@ -659,7 +693,8 @@
         "id": "ID/W10-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W10-086": {
     "name": "禁書目録を司るインデックス",
@@ -677,7 +712,8 @@
         "id": "ID/W10-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W10-087": {
     "name": "完全記憶能力 インデックス",
@@ -695,7 +731,8 @@
         "id": "ID/W10-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W10-088": {
     "name": "猛獣少女 インデックス",
@@ -713,7 +750,8 @@
         "id": "ID/W10-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-089": {
     "name": "サーシャ＝クロイツェフ",
@@ -731,7 +769,8 @@
         "id": "ID/W10-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-090": {
     "name": "神裂 火織",
@@ -749,7 +788,8 @@
         "id": "ID/W10-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-091": {
     "name": "シェリー＝クロムウェル",
@@ -767,7 +807,8 @@
         "id": "ID/W10-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-092": {
     "name": "はらぺこシスター インデックス",
@@ -785,7 +826,8 @@
         "id": "ID/W10-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W10-093": {
     "name": "ステイル＝マグヌス",
@@ -803,7 +845,8 @@
         "id": "ID/W10-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W10-094": {
     "name": "姫神 秋沙",
@@ -821,7 +864,8 @@
         "id": "ID/W10-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W10-095": {
     "name": "禁断の魔術師 アウレオルス＝イザード",
@@ -839,7 +883,8 @@
         "id": "ID/W10-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ID/W10-096": {
     "name": "強制詠唱",
@@ -857,7 +902,8 @@
         "id": "ID/W10-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-097": {
     "name": "回復魔術",
@@ -875,7 +921,8 @@
         "id": "ID/W10-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-098": {
     "name": "インデックスの得意技",
@@ -893,7 +940,8 @@
         "id": "ID/W10-098",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ID/W10-099": {
     "name": "聖ジョージの聖域",
@@ -911,7 +959,8 @@
         "id": "ID/W10-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "ID/W10-100": {
     "name": "必要悪の教会の魔術師",
@@ -929,6 +978,7 @@
         "id": "ID/W10-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

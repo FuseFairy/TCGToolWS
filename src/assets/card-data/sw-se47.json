@@ -19,7 +19,8 @@
         "id": "SW/SE47-01FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE47-02": {
     "name": "“ナイト・アウルの指導者”ボ=カターン・クライズ",
@@ -41,7 +42,8 @@
         "id": "SW/SE47-02FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE47-03": {
     "name": "パズ・ヴィズラ",
@@ -63,7 +65,8 @@
         "id": "SW/SE47-03FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE47-04": {
     "name": "“銃撃戦”マンダロリアン",
@@ -85,7 +88,8 @@
         "id": "SW/SE47-04FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE47-05": {
     "name": "“反乱の宣誓”キャシアン・アンドー",
@@ -111,7 +115,8 @@
         "id": "SW/SE47-05SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE47-06": {
     "name": "ディン・ジャリン＆ボ=カターン・クライズ",
@@ -133,7 +138,8 @@
         "id": "SW/SE47-06FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE47-07": {
     "name": "“ランコアを駆る統治者”ボバ・フェット",
@@ -155,7 +161,8 @@
         "id": "SW/SE47-07FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE47-08": {
     "name": "“ベスカーの鎧”マンダロリアン",
@@ -177,7 +184,8 @@
         "id": "SW/SE47-08FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE47-09": {
     "name": "“玉座の支配者”ボバ・フェット",
@@ -199,7 +207,8 @@
         "id": "SW/SE47-09FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE47-10": {
     "name": "“マンダロアを取り戻すために”ボ=カターン・クライズ",
@@ -221,7 +230,8 @@
         "id": "SW/SE47-10FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE47-11": {
     "name": "“取り戻したアーマー”ボバ・フェット",
@@ -243,7 +253,8 @@
         "id": "SW/SE47-11FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE47-12": {
     "name": "“新たな使命の旅”マンダロリアン＆グローグー",
@@ -265,7 +276,8 @@
         "id": "SW/SE47-12FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE47-13": {
     "name": "シンドゥーラ将軍",
@@ -287,7 +299,8 @@
         "id": "SW/SE47-13FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE47-14": {
     "name": "“工作員”キャシアン・アンドー",
@@ -309,7 +322,8 @@
         "id": "SW/SE47-14FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE47-15": {
     "name": "“二人になった旅”マンダロリアン＆グローグー",
@@ -331,7 +345,8 @@
         "id": "SW/SE47-15FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE47-16": {
     "name": "フェネック・シャンド",
@@ -353,7 +368,8 @@
         "id": "SW/SE47-16FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE47-17": {
     "name": "“決別の戦い”ボバ・フェット",
@@ -379,7 +395,8 @@
         "id": "SW/SE47-17SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE47-18": {
     "name": "“ダークセーバーを賭けた決闘”マンダロリアン",
@@ -405,7 +422,8 @@
         "id": "SW/SE47-18SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE47-19": {
     "name": "“教義への誓い”マンダロリアン",
@@ -427,7 +445,8 @@
         "id": "SW/SE47-19FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE47-20": {
     "name": "Great Warriors",
@@ -449,7 +468,8 @@
         "id": "SW/SE47-20FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE47-21": {
     "name": "Their Bond",
@@ -471,7 +491,8 @@
         "id": "SW/SE47-21FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE47-22": {
     "name": "“膨れた憎しみ”ダース・ベイダー",
@@ -493,7 +514,8 @@
         "id": "SW/SE47-22FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE47-23": {
     "name": "“恐怖をもたらす存在”ダース・ベイダー",
@@ -515,7 +537,8 @@
         "id": "SW/SE47-23FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE47-24": {
     "name": "“伝説のジェダイ”ルーク",
@@ -537,7 +560,8 @@
         "id": "SW/SE47-24FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE47-25": {
     "name": "“食べざかり”グローグー",
@@ -579,7 +603,8 @@
         "id": "SW/SE47-25SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE47-26": {
     "name": "“瞑想”グローグー",
@@ -601,7 +626,8 @@
         "id": "SW/SE47-26FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE47-27": {
     "name": "“小さな歩幅”グローグー",
@@ -623,7 +649,8 @@
         "id": "SW/SE47-27FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE47-28": {
     "name": "R2-D2",
@@ -645,7 +672,8 @@
         "id": "SW/SE47-28FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE47-29": {
     "name": "“隠遁するジェダイ”オビ=ワン",
@@ -667,7 +695,8 @@
         "id": "SW/SE47-29FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE47-30": {
     "name": "“生き残るために”オビ=ワン",
@@ -689,7 +718,8 @@
         "id": "SW/SE47-30FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE47-31": {
     "name": "“二刀のセーバー”アソーカ・タノ",
@@ -711,7 +741,8 @@
         "id": "SW/SE47-31FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE47-32": {
     "name": "“ライトサイド”アソーカ・タノ",
@@ -733,7 +764,8 @@
         "id": "SW/SE47-32FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE47-33": {
     "name": "“元ジェダイの生き残り”アソーカ・タノ",
@@ -755,7 +787,8 @@
         "id": "SW/SE47-33FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE47-34": {
     "name": "“使命を果たす覚悟”オビ=ワン",
@@ -781,7 +814,8 @@
         "id": "SW/SE47-34SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE47-35": {
     "name": "サビーヌ・レン",
@@ -803,7 +837,8 @@
         "id": "SW/SE47-35FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SW/SE47-36": {
     "name": "“ジェダイを探す旅”グローグー",
@@ -825,7 +860,8 @@
         "id": "SW/SE47-36FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE47-37": {
     "name": "“もらった鎧”グローグー",
@@ -847,7 +883,8 @@
         "id": "SW/SE47-37FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE47-38": {
     "name": "“フォースの修行”グローグー",
@@ -869,7 +906,8 @@
         "id": "SW/SE47-38FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE47-39": {
     "name": "“師として”ルーク",
@@ -891,7 +929,8 @@
         "id": "SW/SE47-39FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE47-40": {
     "name": "“再び戦いへ”オビ=ワン",
@@ -913,7 +952,8 @@
         "id": "SW/SE47-40FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE47-41": {
     "name": "“別の銀河での戦い”アソーカ・タノ",
@@ -939,7 +979,8 @@
         "id": "SW/SE47-41SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE47-42": {
     "name": "“トグルータの戦士”アソーカ・タノ",
@@ -961,7 +1002,8 @@
         "id": "SW/SE47-42FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE47-43": {
     "name": "“操縦はばっちり！”グローグー",
@@ -983,7 +1025,8 @@
         "id": "SW/SE47-43FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE47-44": {
     "name": "Fate of the Duel",
@@ -1005,7 +1048,8 @@
         "id": "SW/SE47-44FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SW/SE47-45": {
     "name": "Meeting of Force wielder",
@@ -1027,6 +1071,7 @@
         "id": "SW/SE47-45FOP",
         "rarity": "FOP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -15,7 +15,8 @@
         "id": "SF/S04-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SF/S04-105": {
     "name": "ジン",
@@ -33,7 +34,8 @@
         "id": "SF/S04-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SF/S04-109": {
     "name": "きいろちゃん",
@@ -51,7 +53,8 @@
         "id": "SF/S04-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SF/S04-110": {
     "name": "空マナの守護者 リリス",
@@ -69,7 +72,8 @@
         "id": "SF/S04-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SF/S04-111": {
     "name": "闇に生きる貴公子 ダークレイス",
@@ -87,7 +91,8 @@
         "id": "SF/S04-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SF/S04-112": {
     "name": "愛くるしい闇 ダークレイス",
@@ -105,7 +110,8 @@
         "id": "SF/S04-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SF/S04-113": {
     "name": "クロスエリュシオン",
@@ -123,6 +129,7 @@
         "id": "SF/S04-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

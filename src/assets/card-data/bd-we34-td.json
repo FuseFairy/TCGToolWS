@@ -19,7 +19,8 @@
         "id": "BD/WE34-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE34-T02": {
     "name": "“頼れる委員長”桐ヶ谷透子",
@@ -37,7 +38,8 @@
         "id": "BD/WE34-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE34-T03": {
     "name": "“普通が一番”広町七深",
@@ -55,7 +57,8 @@
         "id": "BD/WE34-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE34-T04": {
     "name": "“学園の人気者”桐ヶ谷透子",
@@ -73,7 +76,8 @@
         "id": "BD/WE34-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE34-T05": {
     "name": "“傑作完成！”広町七深",
@@ -91,7 +95,8 @@
         "id": "BD/WE34-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE34-T06": {
     "name": "“みんなにお披露目！”桐ヶ谷透子",
@@ -113,7 +118,8 @@
         "id": "BD/WE34-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE34-T07": {
     "name": "傑作完成！",
@@ -131,7 +137,8 @@
         "id": "BD/WE34-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE34-T08": {
     "name": "“頼れる委員長”二葉つくし",
@@ -149,7 +156,8 @@
         "id": "BD/WE34-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE34-T09": {
     "name": "“一目置かれる存在”八潮瑠唯",
@@ -167,7 +175,8 @@
         "id": "BD/WE34-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE34-T10": {
     "name": "“ふふん、任せて！”二葉つくし",
@@ -189,7 +198,8 @@
         "id": "BD/WE34-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE34-T11": {
     "name": "“選ばなかった道”八潮瑠唯",
@@ -211,7 +221,8 @@
         "id": "BD/WE34-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE34-T12": {
     "name": "“いつも自信満々”二葉つくし",
@@ -229,7 +240,8 @@
         "id": "BD/WE34-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE34-T13": {
     "name": "“ネガティブガール”倉田ましろ",
@@ -251,7 +263,8 @@
         "id": "BD/WE34-T13S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE34-T14": {
     "name": "“頼れる委員長”倉田ましろ",
@@ -269,7 +282,8 @@
         "id": "BD/WE34-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE34-T15": {
     "name": "“才能と見切り”八潮瑠唯",
@@ -287,7 +301,8 @@
         "id": "BD/WE34-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE34-T16": {
     "name": "“才能と見切り”倉田ましろ",
@@ -305,7 +320,8 @@
         "id": "BD/WE34-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE34-T17": {
     "name": "“青空に見えた星”倉田ましろ",
@@ -327,7 +343,8 @@
         "id": "BD/WE34-T17SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BD/WE34-T18": {
     "name": "普通カモフラージュ",
@@ -345,7 +362,8 @@
         "id": "BD/WE34-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE34-T19": {
     "name": "輝き、ふたたび",
@@ -367,7 +385,8 @@
         "id": "BD/WE34-T19S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "BD/WE34-T20": {
     "name": "Morfonica",
@@ -385,6 +404,7 @@
         "id": "BD/WE34-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

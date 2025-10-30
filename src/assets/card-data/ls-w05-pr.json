@@ -15,7 +15,8 @@
         "id": "LS/W05-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-104": {
     "name": "妹を守るかがみ",
@@ -33,7 +34,8 @@
         "id": "LS/W05-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-105": {
     "name": "姉を頼るつかさ",
@@ -51,7 +53,8 @@
         "id": "LS/W05-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-106": {
     "name": "うっかりなみゆき",
@@ -69,7 +72,8 @@
         "id": "LS/W05-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-107": {
     "name": "お出かけこなた",
@@ -87,7 +91,8 @@
         "id": "LS/W05-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-108": {
     "name": "ノリノリなこなた",
@@ -105,7 +110,8 @@
         "id": "LS/W05-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-109": {
     "name": "照れ照れなかがみ",
@@ -123,7 +129,8 @@
         "id": "LS/W05-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-110": {
     "name": "こなたんセイバー＆かがみん凛",
@@ -141,7 +148,8 @@
         "id": "LS/W05-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-111": {
     "name": "にゃもー",
@@ -159,7 +167,8 @@
         "id": "LS/W05-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-112": {
     "name": "恥ずかしがるかがみ",
@@ -177,7 +186,8 @@
         "id": "LS/W05-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-113": {
     "name": "コロネ奏者 こなた",
@@ -195,7 +205,8 @@
         "id": "LS/W05-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-114": {
     "name": "大好物 こなた",
@@ -213,7 +224,8 @@
         "id": "LS/W05-114",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-115": {
     "name": "夏の日のこなた",
@@ -231,7 +243,8 @@
         "id": "LS/W05-115",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-116": {
     "name": "趣味の道 こなた",
@@ -249,7 +262,8 @@
         "id": "LS/W05-116",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-117": {
     "name": "ツッコミ役 かがみ",
@@ -267,7 +281,8 @@
         "id": "LS/W05-117",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-118": {
     "name": "癒し系 つかさ",
@@ -285,7 +300,8 @@
         "id": "LS/W05-118",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-119": {
     "name": "おっとりタイプ みゆき",
@@ -303,7 +319,8 @@
         "id": "LS/W05-119",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-120": {
     "name": "双子の姉妹 かがみ＆つかさ",
@@ -321,7 +338,8 @@
         "id": "LS/W05-120",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-121": {
     "name": "晴れ着のかがみ",
@@ -339,7 +357,8 @@
         "id": "LS/W05-121",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-122": {
     "name": "晴れ着のこなた",
@@ -357,7 +376,8 @@
         "id": "LS/W05-122",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LS/W05-123": {
     "name": "スタンドアップ！ こなた",
@@ -375,7 +395,8 @@
         "id": "LS/W05-123",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LS/W05-124": {
     "name": "始まる今年",
@@ -393,7 +414,8 @@
         "id": "LS/W05-124",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LS/W05-125": {
     "name": "カンフーマスター こなた",
@@ -411,6 +433,7 @@
         "id": "LS/W05-125",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

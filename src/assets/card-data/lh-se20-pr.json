@@ -15,7 +15,8 @@
         "id": "LH/SE20-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SE20-P02": {
     "name": "手をとりあって シロエ",
@@ -33,7 +34,8 @@
         "id": "LH/SE20-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-P03": {
     "name": "濡羽",
@@ -51,7 +53,8 @@
         "id": "LH/SE20-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LH/SE20-P04": {
     "name": "魔法使いの弟子 ミノリ",
@@ -69,7 +72,8 @@
         "id": "LH/SE20-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LH/SE20-P05": {
     "name": "絶妙なコンビネーション 五十鈴",
@@ -87,6 +91,7 @@
         "id": "LH/SE20-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

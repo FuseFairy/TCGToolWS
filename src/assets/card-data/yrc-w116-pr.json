@@ -23,7 +23,8 @@
         "id": "YRC/W116-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-P02": {
     "name": "キャンプが楽しみ！ なでしこ",
@@ -45,6 +46,7 @@
         "id": "YRC/W116-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

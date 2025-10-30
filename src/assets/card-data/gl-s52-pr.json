@@ -15,7 +15,8 @@
         "id": "GL/S52-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-P02": {
     "name": "これからも一緒に シモン&ニア",
@@ -33,7 +34,8 @@
         "id": "GL/S52-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-P03": {
     "name": "ヨーコ＆ニア",
@@ -55,7 +57,8 @@
         "id": "GL/S52-P03S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GL/S52-101": {
     "name": "狙いすました一撃 ヨーコ",
@@ -73,7 +76,8 @@
         "id": "GL/S52-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-102": {
     "name": "永遠の誓い ニア",
@@ -91,7 +95,8 @@
         "id": "GL/S52-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-103": {
     "name": "兜の因縁 ヴィラル",
@@ -109,7 +114,8 @@
         "id": "GL/S52-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GL/S52-104": {
     "name": "荒野を駆ける！ グレン団",
@@ -127,6 +133,7 @@
         "id": "GL/S52-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

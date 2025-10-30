@@ -19,7 +19,8 @@
         "id": "DJ/S97-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-002": {
     "name": "SNS映え 水島茉莉花",
@@ -41,7 +42,8 @@
         "id": "DJ/S97-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-003": {
     "name": "今日の佳き日に 瀬戸リカ",
@@ -63,7 +65,8 @@
         "id": "DJ/S97-003SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-004": {
     "name": "太陽のような明るさ 愛本りんく",
@@ -85,7 +88,8 @@
         "id": "DJ/S97-004SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-005": {
     "name": "新米教師 日高さおり",
@@ -107,7 +111,8 @@
         "id": "DJ/S97-005SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-006": {
     "name": "雪降る聖夜の街角にて 水島茉莉花",
@@ -129,7 +134,8 @@
         "id": "DJ/S97-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-007": {
     "name": "みんなでひとつの夢を 松山ダリア",
@@ -151,7 +157,8 @@
         "id": "DJ/S97-007SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-008": {
     "name": "どっちが欲しい？ 明石真秀",
@@ -173,7 +180,8 @@
         "id": "DJ/S97-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-009": {
     "name": "一等星がきらめいて 愛本りんく",
@@ -195,7 +203,8 @@
         "id": "DJ/S97-009SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-010": {
     "name": "そっくりなワタシ＆わたし 瀬戸リカ",
@@ -217,7 +226,8 @@
         "id": "DJ/S97-010SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-011": {
     "name": "揺らめく潭月の傍らに 嘉瀬茉奈",
@@ -239,7 +249,8 @@
         "id": "DJ/S97-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-012": {
     "name": "贈りものは窓の外から 松山ダリア",
@@ -261,7 +272,8 @@
         "id": "DJ/S97-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-013": {
     "name": "うっかりさんの届け物 日高さおり",
@@ -283,7 +295,8 @@
         "id": "DJ/S97-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-014": {
     "name": "ゆらゆら☆Jellyfish 水島茉莉花",
@@ -305,7 +318,8 @@
         "id": "DJ/S97-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-015": {
     "name": "Swaying◎Windmill 明石真秀",
@@ -327,7 +341,8 @@
         "id": "DJ/S97-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-016": {
     "name": "いつもは言えないけど 瀬戸リカ",
@@ -349,7 +364,8 @@
         "id": "DJ/S97-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-017": {
     "name": "特別な貝殻 愛本りんく",
@@ -371,7 +387,8 @@
         "id": "DJ/S97-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-018": {
     "name": "甘い香りで惹きつけて 大鳴門むに",
@@ -393,7 +410,8 @@
         "id": "DJ/S97-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-019": {
     "name": "イ千ゲキJACKPOT 日高さおり",
@@ -415,7 +433,8 @@
         "id": "DJ/S97-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-020": {
     "name": "テンアヶ〃７７７ 瀬戸リカ",
@@ -437,7 +456,8 @@
         "id": "DJ/S97-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-021": {
     "name": "奥義！銀花一閃 明石真秀",
@@ -459,7 +479,8 @@
         "id": "DJ/S97-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-022": {
     "name": "魅惑の酒呑童子 松山ダリア",
@@ -481,7 +502,8 @@
         "id": "DJ/S97-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-023": {
     "name": "ミツケテHiddeи Peta1 水島茉莉花",
@@ -503,7 +525,8 @@
         "id": "DJ/S97-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-024": {
     "name": "カガヤイテPαrade w!th Us 日高さおり",
@@ -525,7 +548,8 @@
         "id": "DJ/S97-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-025": {
     "name": "ダキヨセテCut!e Masc0t 松山ダリア",
@@ -547,7 +571,8 @@
         "id": "DJ/S97-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-026": {
     "name": "稲荷の迷い子",
@@ -569,7 +594,8 @@
         "id": "DJ/S97-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-027": {
     "name": "ゆめかわ◎Over Night",
@@ -591,7 +617,8 @@
         "id": "DJ/S97-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-028": {
     "name": "斉射！巨大にょちお砲！",
@@ -613,7 +640,8 @@
         "id": "DJ/S97-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-029": {
     "name": "全開◎Break through！",
@@ -635,7 +663,8 @@
         "id": "DJ/S97-029R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-030": {
     "name": "燦然ネオンと陰の旗袍",
@@ -657,7 +686,8 @@
         "id": "DJ/S97-030R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-031": {
     "name": "花舞う赤絨毯",
@@ -679,7 +709,8 @@
         "id": "DJ/S97-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-032": {
     "name": "White Rose-純真- 桜田美夢",
@@ -701,7 +732,8 @@
         "id": "DJ/S97-032SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-033": {
     "name": "久しぶりのご褒美 新島衣舞紀",
@@ -723,7 +755,8 @@
         "id": "DJ/S97-033SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-034": {
     "name": "ずっと傍にいてね 大鳴門むに",
@@ -745,7 +778,8 @@
         "id": "DJ/S97-034SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-035": {
     "name": "変わらぬ眼差し 渡月 麗",
@@ -767,7 +801,8 @@
         "id": "DJ/S97-035SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-036": {
     "name": "やめられないんだよね～♪ 白鳥胡桃",
@@ -789,7 +824,8 @@
         "id": "DJ/S97-036SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-037": {
     "name": "カワイイ思い出をください 福島ノア",
@@ -811,7 +847,8 @@
         "id": "DJ/S97-037SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-038": {
     "name": "憧れのお姉ちゃん 竹下みいこ",
@@ -833,7 +870,8 @@
         "id": "DJ/S97-038SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-039": {
     "name": "眩い月の霜を纏って 天野愛莉",
@@ -855,7 +893,8 @@
         "id": "DJ/S97-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-040": {
     "name": "パドルで波をかき分けて 竹下みいこ",
@@ -877,7 +916,8 @@
         "id": "DJ/S97-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-041": {
     "name": "Happiest◎Moment 大鳴門むに",
@@ -899,7 +939,8 @@
         "id": "DJ/S97-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-042": {
     "name": "ふたりで進む道の先-Player- 新島衣舞紀",
@@ -921,7 +962,8 @@
         "id": "DJ/S97-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-043": {
     "name": "必殺！豪雪ガトリング 竹下みいこ",
@@ -943,7 +985,8 @@
         "id": "DJ/S97-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-044": {
     "name": "秘めた想いを唇に 渡月 麗",
@@ -965,7 +1008,8 @@
         "id": "DJ/S97-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-045": {
     "name": "イタズラはお手の物☆ 白鳥胡桃",
@@ -987,7 +1031,8 @@
         "id": "DJ/S97-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-046": {
     "name": "Angelic♡Intravenous 出雲咲姫",
@@ -1009,7 +1054,8 @@
         "id": "DJ/S97-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-047": {
     "name": "Dokidoki♡Heartbeat 新島衣舞紀",
@@ -1031,7 +1077,8 @@
         "id": "DJ/S97-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-048": {
     "name": "鎖繋ぎの病みカワ天使-博愛- 愛本りんく",
@@ -1053,7 +1100,8 @@
         "id": "DJ/S97-048S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-049": {
     "name": "鎖繋ぎの病みカワ天使-偏愛- 大鳴門むに",
@@ -1075,7 +1123,8 @@
         "id": "DJ/S97-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-050": {
     "name": "カワイイに捧ぐ三宝 福島ノア",
@@ -1097,7 +1146,8 @@
         "id": "DJ/S97-050S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-051": {
     "name": "悪戯な微笑みを添えて 白鳥胡桃",
@@ -1119,7 +1169,8 @@
         "id": "DJ/S97-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-052": {
     "name": "幸せ満ちる小瓶の中で 竹下みいこ",
@@ -1141,7 +1192,8 @@
         "id": "DJ/S97-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-053": {
     "name": "Smile◎Politely 渡月 麗",
@@ -1163,7 +1215,8 @@
         "id": "DJ/S97-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-054": {
     "name": "淡彩で芳香なる比翼 花巻乙和",
@@ -1185,7 +1238,8 @@
         "id": "DJ/S97-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-055": {
     "name": "淡彩で可憐なる比翼 福島ノア",
@@ -1207,7 +1261,8 @@
         "id": "DJ/S97-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-056": {
     "name": "きらきら☆Clownfish 渡月 麗",
@@ -1229,7 +1284,8 @@
         "id": "DJ/S97-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-057": {
     "name": "ぷかぷか☆Sea turtle",
@@ -1251,7 +1307,8 @@
         "id": "DJ/S97-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-058": {
     "name": "溢れる激流を制して",
@@ -1273,7 +1330,8 @@
         "id": "DJ/S97-058R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-059": {
     "name": "天使の悪ふざけ",
@@ -1295,7 +1353,8 @@
         "id": "DJ/S97-059R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-060": {
     "name": "常に心にカワイイを！",
@@ -1317,7 +1376,8 @@
         "id": "DJ/S97-060R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-061": {
     "name": "わたしのたいせつなともだち",
@@ -1339,7 +1399,8 @@
         "id": "DJ/S97-061R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-062": {
     "name": "勇往邁進 山手響子",
@@ -1361,7 +1422,8 @@
         "id": "DJ/S97-062SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-063": {
     "name": "たまには素直になるかな 犬寄しのぶ",
@@ -1383,7 +1445,8 @@
         "id": "DJ/S97-063SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-064": {
     "name": "不意打ちのプレゼント 春日春奈",
@@ -1405,7 +1468,8 @@
         "id": "DJ/S97-064SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-065": {
     "name": "おねえさまと一緒に 桜田美夢",
@@ -1427,7 +1491,8 @@
         "id": "DJ/S97-065SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-066": {
     "name": "思い出のピアノ 清水絵空",
@@ -1449,7 +1514,8 @@
         "id": "DJ/S97-066SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-067": {
     "name": "向かう所敵なし！ 犬寄しのぶ",
@@ -1471,7 +1537,8 @@
         "id": "DJ/S97-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-068": {
     "name": "木春菊に込めた想いは 春日春奈",
@@ -1493,7 +1560,8 @@
         "id": "DJ/S97-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-069": {
     "name": "花開く、その一瞬 笹子・ジェニファー・由香",
@@ -1515,7 +1583,8 @@
         "id": "DJ/S97-069SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-070": {
     "name": "繋がる想いの二重奏 山手響子",
@@ -1537,7 +1606,8 @@
         "id": "DJ/S97-070SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-071": {
     "name": "これも相棒の特権？ 山手響子",
@@ -1559,7 +1629,8 @@
         "id": "DJ/S97-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-072": {
     "name": "盈月の光明が示す路は 高尾灯佳",
@@ -1581,7 +1652,8 @@
         "id": "DJ/S97-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-073": {
     "name": "木漏れ日にサンゴをかざして 桜田美夢",
@@ -1603,7 +1675,8 @@
         "id": "DJ/S97-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-074": {
     "name": "日々の鍛錬は実を結ぶ 笹子・ジェニファー・由香",
@@ -1625,7 +1698,8 @@
         "id": "DJ/S97-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-075": {
     "name": "ご褒美にキャンディーを 春日春奈",
@@ -1647,7 +1721,8 @@
         "id": "DJ/S97-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-076": {
     "name": "Relaxing Beachside 犬寄しのぶ",
@@ -1669,7 +1744,8 @@
         "id": "DJ/S97-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-077": {
     "name": "黒猫は心を押し込めて 清水絵空",
@@ -1691,7 +1767,8 @@
         "id": "DJ/S97-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-078": {
     "name": "シーサーさんとガオガオポーズ 白鳥胡桃",
@@ -1713,7 +1790,8 @@
         "id": "DJ/S97-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-079": {
     "name": "Sunset Beauty 清水絵空",
@@ -1735,7 +1813,8 @@
         "id": "DJ/S97-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-080": {
     "name": "入り江に響くホイッスル 春日春奈",
@@ -1757,7 +1836,8 @@
         "id": "DJ/S97-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-081": {
     "name": "白猫は心を見透かして 犬寄しのぶ",
@@ -1779,7 +1859,8 @@
         "id": "DJ/S97-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-082": {
     "name": "Radiant Sunlight 笹子・ジェニファー・由香",
@@ -1801,7 +1882,8 @@
         "id": "DJ/S97-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-083": {
     "name": "Sparkling Wave 山手響子",
@@ -1823,7 +1905,8 @@
         "id": "DJ/S97-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-084": {
     "name": "ふたりで進む道の先-Trainer- 笹子・ジェニファー・由香",
@@ -1845,7 +1928,8 @@
         "id": "DJ/S97-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-085": {
     "name": "隠密行動もお手の物♡ 清水絵空",
@@ -1867,7 +1951,8 @@
         "id": "DJ/S97-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-086": {
     "name": "大きなケーキの誕生パーティー 桜田美夢",
@@ -1889,7 +1974,8 @@
         "id": "DJ/S97-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-087": {
     "name": "幽幻-FOXY LADY",
@@ -1911,7 +1997,8 @@
         "id": "DJ/S97-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-088": {
     "name": "Journey of the Lily",
@@ -1933,7 +2020,8 @@
         "id": "DJ/S97-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-089": {
     "name": "紅雨-BREATHTAKING",
@@ -1955,7 +2043,8 @@
         "id": "DJ/S97-089R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-090": {
     "name": "山吹色の魔法DJ",
@@ -1977,7 +2066,8 @@
         "id": "DJ/S97-090R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-091": {
     "name": "Lyrical Illusion!!",
@@ -1999,7 +2089,8 @@
         "id": "DJ/S97-091R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-092": {
     "name": "思い出の曲 月見山 渚",
@@ -2021,7 +2112,8 @@
         "id": "DJ/S97-092SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-093": {
     "name": "熱情的な傍輩 青柳 椿",
@@ -2043,7 +2135,8 @@
         "id": "DJ/S97-093SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-094": {
     "name": "Starry Sky 出雲咲姫",
@@ -2065,7 +2158,8 @@
         "id": "DJ/S97-094SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-095": {
     "name": "観察ロックオン！ 出雲咲姫",
@@ -2087,7 +2181,8 @@
         "id": "DJ/S97-095SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-096": {
     "name": "山ほどのおくりもの 三宅葵依",
@@ -2109,7 +2204,8 @@
         "id": "DJ/S97-096SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-097": {
     "name": "いいねがもらえる写真講座 花巻乙和",
@@ -2131,7 +2227,8 @@
         "id": "DJ/S97-097SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-098": {
     "name": "怪盗ナギ馳せ参じる！ 月見山 渚",
@@ -2153,7 +2250,8 @@
         "id": "DJ/S97-098S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-099": {
     "name": "密かな憧れ 青柳 椿",
@@ -2175,7 +2273,8 @@
         "id": "DJ/S97-099SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-100": {
     "name": "凛と澄ました神楽鈴 新島衣舞紀",
@@ -2197,7 +2296,8 @@
         "id": "DJ/S97-100S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-101": {
     "name": "おもてなしサプライズ 矢野緋彩",
@@ -2219,7 +2319,8 @@
         "id": "DJ/S97-101SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-102": {
     "name": "咲き誇る天満月の華 姫神紗乃",
@@ -2241,7 +2342,8 @@
         "id": "DJ/S97-102S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-103": {
     "name": "Love♡Injection 福島ノア",
@@ -2263,7 +2365,8 @@
         "id": "DJ/S97-103S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-104": {
     "name": "キャンドルライトで照らして 月見山 渚",
@@ -2285,7 +2388,8 @@
         "id": "DJ/S97-104S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-105": {
     "name": "この星のように、ずっと 出雲咲姫",
@@ -2307,7 +2411,8 @@
         "id": "DJ/S97-105S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-106": {
     "name": "予告状をあなたに♡ 矢野緋彩",
@@ -2329,7 +2434,8 @@
         "id": "DJ/S97-106S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-107": {
     "name": "薄紅の魔法DJ 矢野緋彩",
@@ -2351,7 +2457,8 @@
         "id": "DJ/S97-107S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-108": {
     "name": "キミの心を頂きに 三宅葵依",
@@ -2373,7 +2480,8 @@
         "id": "DJ/S97-108S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-109": {
     "name": "水面に佇む番傘 花巻乙和",
@@ -2395,7 +2503,8 @@
         "id": "DJ/S97-109S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-110": {
     "name": "至高の一杯をあなたに 矢野緋彩",
@@ -2417,7 +2526,8 @@
         "id": "DJ/S97-110S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-111": {
     "name": "春宵の歌姫 青柳 椿",
@@ -2439,7 +2549,8 @@
         "id": "DJ/S97-111S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-112": {
     "name": "Waterside Sage 三宅葵依",
@@ -2461,7 +2572,8 @@
         "id": "DJ/S97-112S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-113": {
     "name": "Powerful♡Bandage 花巻乙和",
@@ -2483,7 +2595,8 @@
         "id": "DJ/S97-113S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-114": {
     "name": "紺碧の魔法DJ 月見山 渚",
@@ -2505,7 +2618,8 @@
         "id": "DJ/S97-114S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-115": {
     "name": "ご用命は何なりと 三宅葵依",
@@ -2527,7 +2641,8 @@
         "id": "DJ/S97-115S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-116": {
     "name": "歌の部屋の誕生日 青柳 椿",
@@ -2549,7 +2664,8 @@
         "id": "DJ/S97-116S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-117": {
     "name": "小悪魔の甘い誘惑",
@@ -2571,7 +2687,8 @@
         "id": "DJ/S97-117S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DJ/S97-118": {
     "name": "Moonlight Dance",
@@ -2593,7 +2710,8 @@
         "id": "DJ/S97-118R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-119": {
     "name": "揺蕩う独奏の金盞花",
@@ -2615,7 +2733,8 @@
         "id": "DJ/S97-119R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DJ/S97-120": {
     "name": "蠱惑の諜報員",
@@ -2637,6 +2756,7 @@
         "id": "DJ/S97-120R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

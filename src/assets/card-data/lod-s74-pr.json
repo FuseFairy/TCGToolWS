@@ -15,7 +15,8 @@
         "id": "LOD/S74-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-P02": {
     "name": "種を超えた友情  サンドラ＆フェル",
@@ -33,7 +34,8 @@
         "id": "LOD/S74-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-P03": {
     "name": "双生の天使 サリエル＆ミカエル",
@@ -51,7 +53,8 @@
         "id": "LOD/S74-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-P04": {
     "name": "水辺の戯れ エレーナ",
@@ -69,7 +72,8 @@
         "id": "LOD/S74-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-101": {
     "name": "さあメルキオールへ！ 団長",
@@ -87,7 +91,8 @@
         "id": "LOD/S74-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-102": {
     "name": "さあメルキオールへ！ ユア",
@@ -105,7 +110,8 @@
         "id": "LOD/S74-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LOD/S74-103": {
     "name": "さあメルキオールへ！ キャロライン",
@@ -123,7 +129,8 @@
         "id": "LOD/S74-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LOD/S74-104": {
     "name": "さあメルキオールへ！ エレーナ",
@@ -141,6 +148,7 @@
         "id": "LOD/S74-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

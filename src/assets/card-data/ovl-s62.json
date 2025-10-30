@@ -19,7 +19,8 @@
         "id": "OVL/S62-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-002": {
     "name": "英雄の中の英雄 モモン",
@@ -41,7 +42,8 @@
         "id": "OVL/S62-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-003": {
     "name": "蟲使い エントマ",
@@ -59,7 +61,8 @@
         "id": "OVL/S62-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-004": {
     "name": "ナザリックの仮メイド ツアレ",
@@ -81,7 +84,8 @@
         "id": "OVL/S62-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-005": {
     "name": "人間への称賛 モモン",
@@ -99,7 +103,8 @@
         "id": "OVL/S62-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-006": {
     "name": "ツアレ救出作戦 セバス",
@@ -121,7 +126,8 @@
         "id": "OVL/S62-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-007": {
     "name": "ナザリックの価値観 ナーベ",
@@ -143,7 +149,8 @@
         "id": "OVL/S62-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-008": {
     "name": "魔王 ヤルダバオト",
@@ -165,7 +172,8 @@
         "id": "OVL/S62-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-009": {
     "name": "王都侵入 シャルティア",
@@ -183,7 +191,8 @@
         "id": "OVL/S62-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-010": {
     "name": "不敗の戦士 モモン",
@@ -201,7 +210,8 @@
         "id": "OVL/S62-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-011": {
     "name": "智謀の悪魔 デミウルゴス",
@@ -219,7 +229,8 @@
         "id": "OVL/S62-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-012": {
     "name": "冷酷な反応 ナーベ",
@@ -237,7 +248,8 @@
         "id": "OVL/S62-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-013": {
     "name": "ゲヘナの全容 デミウルゴス",
@@ -255,7 +267,8 @@
         "id": "OVL/S62-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-014": {
     "name": "幸せの在処 ツアレ",
@@ -273,7 +286,8 @@
         "id": "OVL/S62-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-015": {
     "name": "溶解の檻 ソリュシャン",
@@ -291,7 +305,8 @@
         "id": "OVL/S62-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-016": {
     "name": "ジャンガリアンハムスター？ ハムスケ",
@@ -309,7 +324,8 @@
         "id": "OVL/S62-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-017": {
     "name": "蟲愛でるメイド エントマ",
@@ -327,7 +343,8 @@
         "id": "OVL/S62-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-018": {
     "name": "正義の体現者 セバス",
@@ -345,7 +362,8 @@
         "id": "OVL/S62-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-019": {
     "name": "茫然自失 ナーベ",
@@ -363,7 +381,8 @@
         "id": "OVL/S62-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-020": {
     "name": "森の賢王討伐 モモン",
@@ -381,7 +400,8 @@
         "id": "OVL/S62-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-021": {
     "name": "幸せなキス",
@@ -399,7 +419,8 @@
         "id": "OVL/S62-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-022": {
     "name": "森の賢王",
@@ -417,7 +438,8 @@
         "id": "OVL/S62-022",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-023": {
     "name": "伝説の幕開け",
@@ -439,7 +461,8 @@
         "id": "OVL/S62-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-024": {
     "name": "ゲヘナ",
@@ -461,7 +484,8 @@
         "id": "OVL/S62-024R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-025": {
     "name": "鋼の執事",
@@ -483,7 +507,8 @@
         "id": "OVL/S62-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-026": {
     "name": "ナザリック地下大墳墓の主人 アインズ",
@@ -505,7 +530,8 @@
         "id": "OVL/S62-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-027": {
     "name": "頼りない大自然の使者 マーレ",
@@ -527,7 +553,8 @@
         "id": "OVL/S62-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-028": {
     "name": "惜しみない狂愛 アルベド",
@@ -549,7 +576,8 @@
         "id": "OVL/S62-028SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-029": {
     "name": "負けん気溢れる名調教師 アウラ",
@@ -571,7 +599,8 @@
         "id": "OVL/S62-029SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-030": {
     "name": "感情の抑制 アインズ",
@@ -589,7 +618,8 @@
         "id": "OVL/S62-030",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-031": {
     "name": "宝物殿の守護者 パンドラズ・アクター",
@@ -611,7 +641,8 @@
         "id": "OVL/S62-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-032": {
     "name": "デス・ナイト",
@@ -633,7 +664,8 @@
         "id": "OVL/S62-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-033": {
     "name": "女の闘い アルベド",
@@ -655,7 +687,8 @@
         "id": "OVL/S62-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-034": {
     "name": "黒歴史の発露 パンドラズ・アクター",
@@ -673,7 +706,8 @@
         "id": "OVL/S62-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-035": {
     "name": "大切な時計 アウラ",
@@ -691,7 +725,8 @@
         "id": "OVL/S62-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-036": {
     "name": "ご褒美の指輪 マーレ",
@@ -709,7 +744,8 @@
         "id": "OVL/S62-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-037": {
     "name": "魅惑の爺やポジション コキュートス",
@@ -727,7 +763,8 @@
         "id": "OVL/S62-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-038": {
     "name": "敬愛と恍惚 アルベド",
@@ -745,7 +782,8 @@
         "id": "OVL/S62-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-039": {
     "name": "絶対の忠誠 デミウルゴス",
@@ -763,7 +801,8 @@
         "id": "OVL/S62-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-040": {
     "name": "戦闘メイドたちのお姉さん ユリ",
@@ -781,7 +820,8 @@
         "id": "OVL/S62-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-041": {
     "name": "急襲突撃メイド シズ",
@@ -799,7 +839,8 @@
         "id": "OVL/S62-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-042": {
     "name": "支配の呪言 デミウルゴス",
@@ -817,7 +858,8 @@
         "id": "OVL/S62-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-043": {
     "name": "笑顔仮面のサディスト ルプスレギナ",
@@ -835,7 +877,8 @@
         "id": "OVL/S62-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-044": {
     "name": "資産運用 アインズ",
@@ -853,7 +896,8 @@
         "id": "OVL/S62-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-045": {
     "name": "まん丸卵の戦闘メイド ナーベラル",
@@ -871,7 +915,8 @@
         "id": "OVL/S62-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-046": {
     "name": "武人として コキュートス",
@@ -889,7 +934,8 @@
         "id": "OVL/S62-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-047": {
     "name": "凍りつく時",
@@ -907,7 +953,8 @@
         "id": "OVL/S62-047",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-048": {
     "name": "慈悲深き純白の悪魔",
@@ -929,7 +976,8 @@
         "id": "OVL/S62-048R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-049": {
     "name": "女の本性",
@@ -951,7 +999,8 @@
         "id": "OVL/S62-049R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-050": {
     "name": "双子の守護者",
@@ -973,7 +1022,8 @@
         "id": "OVL/S62-050R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "OVL/S62-051": {
     "name": "鮮血の戦乙女 シャルティア",
@@ -995,7 +1045,8 @@
         "id": "OVL/S62-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-052": {
     "name": "果てなき忠誠 アルベド",
@@ -1017,7 +1068,8 @@
         "id": "OVL/S62-052S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-053": {
     "name": "超越者 アインズ",
@@ -1039,7 +1091,8 @@
         "id": "OVL/S62-053SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-054": {
     "name": "最強の魔法詠唱者 アインズ",
@@ -1061,7 +1114,8 @@
         "id": "OVL/S62-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-055": {
     "name": "玉座を守るもの アルベド",
@@ -1083,7 +1137,8 @@
         "id": "OVL/S62-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-056": {
     "name": "可愛らしい失態 アルベド",
@@ -1101,7 +1156,8 @@
         "id": "OVL/S62-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-057": {
     "name": "守護者の本領 シャルティア",
@@ -1123,7 +1179,8 @@
         "id": "OVL/S62-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-058": {
     "name": "第8階層の守護者 ヴィクティム",
@@ -1141,7 +1198,8 @@
         "id": "OVL/S62-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-059": {
     "name": "ヴァンパイア・ブライド",
@@ -1159,7 +1217,8 @@
         "id": "OVL/S62-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-060": {
     "name": "手加減の正体 アインズ",
@@ -1177,7 +1236,8 @@
         "id": "OVL/S62-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-061": {
     "name": "女の闘い シャルティア",
@@ -1195,7 +1255,8 @@
         "id": "OVL/S62-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-062": {
     "name": "吸血鬼の真祖 シャルティア",
@@ -1213,7 +1274,8 @@
         "id": "OVL/S62-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-063": {
     "name": "第4階層の守護者 ガルガンチュア",
@@ -1231,7 +1293,8 @@
         "id": "OVL/S62-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-064": {
     "name": "プレアデスのリーダー セバス",
@@ -1249,7 +1312,8 @@
         "id": "OVL/S62-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-065": {
     "name": "執事助手 エクレア",
@@ -1267,7 +1331,8 @@
         "id": "OVL/S62-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-066": {
     "name": "守護者の本質 アルベド",
@@ -1285,7 +1350,8 @@
         "id": "OVL/S62-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-067": {
     "name": "まことの実力 アインズ",
@@ -1303,7 +1369,8 @@
         "id": "OVL/S62-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-068": {
     "name": "血の狂乱 シャルティア",
@@ -1321,7 +1388,8 @@
         "id": "OVL/S62-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-069": {
     "name": "復活の儀式 アインズ",
@@ -1339,7 +1407,8 @@
         "id": "OVL/S62-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-070": {
     "name": "偽装工作 セバス",
@@ -1357,7 +1426,8 @@
         "id": "OVL/S62-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-071": {
     "name": "流れ星の指輪",
@@ -1375,7 +1445,8 @@
         "id": "OVL/S62-071",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-072": {
     "name": "<失墜する天空>",
@@ -1393,7 +1464,8 @@
         "id": "OVL/S62-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-073": {
     "name": "<心臓掌握>",
@@ -1415,7 +1487,8 @@
         "id": "OVL/S62-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-074": {
     "name": "シャルティア復活",
@@ -1437,7 +1510,8 @@
         "id": "OVL/S62-074R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-075": {
     "name": "スポイトランス",
@@ -1459,7 +1533,8 @@
         "id": "OVL/S62-075R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-076": {
     "name": "“蒼の薔薇” イビルアイ",
@@ -1481,7 +1556,8 @@
         "id": "OVL/S62-076SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-077": {
     "name": "黄金の姫 ラナー",
@@ -1503,7 +1579,8 @@
         "id": "OVL/S62-077SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-078": {
     "name": "乙女なココロ イビルアイ",
@@ -1521,7 +1598,8 @@
         "id": "OVL/S62-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-079": {
     "name": "白鱗の美女 クルシュ",
@@ -1543,7 +1621,8 @@
         "id": "OVL/S62-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-080": {
     "name": "“蒼の薔薇” ラキュース",
@@ -1565,7 +1644,8 @@
         "id": "OVL/S62-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-081": {
     "name": "誇り高き武人 コキュートス",
@@ -1587,7 +1667,8 @@
         "id": "OVL/S62-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-082": {
     "name": "新たな伝説 モモン",
@@ -1609,7 +1690,8 @@
         "id": "OVL/S62-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-083": {
     "name": "護国の戦い モモン",
@@ -1627,7 +1709,8 @@
         "id": "OVL/S62-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-084": {
     "name": "異形の多頭水蛇 ロロロ",
@@ -1645,7 +1728,8 @@
         "id": "OVL/S62-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-085": {
     "name": "蜥蜴人最強の戦士 ザリュース",
@@ -1663,7 +1747,8 @@
         "id": "OVL/S62-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-086": {
     "name": "不可視化の魔法 イビルアイ",
@@ -1681,7 +1766,8 @@
         "id": "OVL/S62-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-087": {
     "name": "王国戦士長 ガゼフ",
@@ -1699,7 +1785,8 @@
         "id": "OVL/S62-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-088": {
     "name": "“蒼の薔薇” ティナ",
@@ -1717,7 +1804,8 @@
         "id": "OVL/S62-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-089": {
     "name": "偏愛の果て ラナー",
@@ -1735,7 +1823,8 @@
         "id": "OVL/S62-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-090": {
     "name": "“蒼の薔薇” ティア",
@@ -1753,7 +1842,8 @@
         "id": "OVL/S62-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-091": {
     "name": "“緑爪”族長 シャースーリュー",
@@ -1771,7 +1861,8 @@
         "id": "OVL/S62-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-092": {
     "name": "才なき者の抗い クライム",
@@ -1789,7 +1880,8 @@
         "id": "OVL/S62-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-093": {
     "name": "ブレイン",
@@ -1807,7 +1899,8 @@
         "id": "OVL/S62-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-094": {
     "name": "“蒼の薔薇” ガガーラン",
@@ -1825,7 +1918,8 @@
         "id": "OVL/S62-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-095": {
     "name": "巨腕の暴れん坊 ゼンベル",
@@ -1843,7 +1937,8 @@
         "id": "OVL/S62-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-096": {
     "name": "凍牙の苦痛",
@@ -1861,7 +1956,8 @@
         "id": "OVL/S62-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-097": {
     "name": "アダマンタイト級冒険者",
@@ -1879,7 +1975,8 @@
         "id": "OVL/S62-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S62-098": {
     "name": "極大級魔法詠唱者",
@@ -1901,7 +1998,8 @@
         "id": "OVL/S62-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-099": {
     "name": "漆黒の英雄",
@@ -1923,7 +2021,8 @@
         "id": "OVL/S62-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S62-100": {
     "name": "凍河の支配者",
@@ -1945,6 +2044,7 @@
         "id": "OVL/S62-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

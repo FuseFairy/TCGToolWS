@@ -19,7 +19,8 @@
         "id": "SHS/W56-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-002": {
     "name": "倫也の愛弟子 出海",
@@ -41,7 +42,8 @@
         "id": "SHS/W56-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-003": {
     "name": "ツンデレ系幼なじみ 英梨々",
@@ -63,7 +65,8 @@
         "id": "SHS/W56-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-004": {
     "name": "懐かしい記憶 英梨々",
@@ -81,7 +84,8 @@
         "id": "SHS/W56-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-005": {
     "name": "意外な贈り物 出海",
@@ -103,7 +107,8 @@
         "id": "SHS/W56-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-006": {
     "name": "二人を引き離すもの 英梨々",
@@ -125,7 +130,8 @@
         "id": "SHS/W56-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-007": {
     "name": "blessing software 英梨々",
@@ -143,7 +149,8 @@
         "id": "SHS/W56-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-008": {
     "name": "過去との対峙 英梨々",
@@ -161,7 +168,8 @@
         "id": "SHS/W56-008",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-009": {
     "name": "戦いの朝 出海",
@@ -179,7 +187,8 @@
         "id": "SHS/W56-009",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-010": {
     "name": "ファンシーウェーブ 出海",
@@ -197,7 +206,8 @@
         "id": "SHS/W56-010",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-011": {
     "name": "うろたえる 英梨々",
@@ -215,7 +225,8 @@
         "id": "SHS/W56-011",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-012": {
     "name": "企画へのダメ出し 英梨々",
@@ -233,7 +244,8 @@
         "id": "SHS/W56-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-013": {
     "name": "ほとばしる才能 出海",
@@ -251,7 +263,8 @@
         "id": "SHS/W56-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-014": {
     "name": "みんなで合宿 英梨々",
@@ -269,7 +282,8 @@
         "id": "SHS/W56-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-015": {
     "name": "オタクの王子様 倫也",
@@ -287,7 +301,8 @@
         "id": "SHS/W56-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-016": {
     "name": "強いこだわり 出海",
@@ -305,7 +320,8 @@
         "id": "SHS/W56-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-017": {
     "name": "憧れの存在 出海",
@@ -323,7 +339,8 @@
         "id": "SHS/W56-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-018": {
     "name": "ジャージでメガネ 英梨々",
@@ -341,7 +358,8 @@
         "id": "SHS/W56-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-019": {
     "name": "妹系後輩 出海",
@@ -359,7 +377,8 @@
         "id": "SHS/W56-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-020": {
     "name": "イベントで変装 英梨々",
@@ -377,7 +396,8 @@
         "id": "SHS/W56-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-021": {
     "name": "はじめての完売 出海",
@@ -395,7 +415,8 @@
         "id": "SHS/W56-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-022": {
     "name": "凝視する 英梨々",
@@ -413,7 +434,8 @@
         "id": "SHS/W56-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-023": {
     "name": "逸脱した中学生 出海",
@@ -431,7 +453,8 @@
         "id": "SHS/W56-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-024": {
     "name": "倫也の企画書",
@@ -449,7 +472,8 @@
         "id": "SHS/W56-024",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-025": {
     "name": "リトル・ラブ・ラプソディ",
@@ -467,7 +491,8 @@
         "id": "SHS/W56-025",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-026": {
     "name": "柏木エリのリトラブ色紙",
@@ -485,7 +510,8 @@
         "id": "SHS/W56-026",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-027": {
     "name": "八年ぶりの個別ルート",
@@ -507,7 +533,8 @@
         "id": "SHS/W56-027R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-028": {
     "name": "パチモン幼なじみ",
@@ -525,7 +552,8 @@
         "id": "SHS/W56-028",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SHS/W56-029": {
     "name": "敵か味方か新キャラか",
@@ -547,7 +575,8 @@
         "id": "SHS/W56-029R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-030": {
     "name": "頼もしい助っ人",
@@ -565,7 +594,8 @@
         "id": "SHS/W56-030",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SHS/W56-031": {
     "name": "頼れる先輩 詩羽",
@@ -587,7 +617,8 @@
         "id": "SHS/W56-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-032": {
     "name": "理想の女の子 恵",
@@ -609,7 +640,8 @@
         "id": "SHS/W56-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-033": {
     "name": "修羅場突入 英梨々",
@@ -627,7 +659,8 @@
         "id": "SHS/W56-033",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-034": {
     "name": "無用の気遣い 恵",
@@ -645,7 +678,8 @@
         "id": "SHS/W56-034",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-035": {
     "name": "フラグの立たない彼女 恵",
@@ -667,7 +701,8 @@
         "id": "SHS/W56-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-036": {
     "name": "クリエイターの闇 詩羽",
@@ -685,7 +720,8 @@
         "id": "SHS/W56-036",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-037": {
     "name": "blessing software 恵",
@@ -703,7 +739,8 @@
         "id": "SHS/W56-037",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-038": {
     "name": "あまりに薄い存在感 恵",
@@ -725,7 +762,8 @@
         "id": "SHS/W56-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-039": {
     "name": "むなしい抵抗 英梨々",
@@ -743,7 +781,8 @@
         "id": "SHS/W56-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-040": {
     "name": "イメージチェンジ 恵",
@@ -761,7 +800,8 @@
         "id": "SHS/W56-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-041": {
     "name": "謎の威圧感 恵",
@@ -779,7 +819,8 @@
         "id": "SHS/W56-041",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-042": {
     "name": "怒りのボルテージ 英梨々",
@@ -797,7 +838,8 @@
         "id": "SHS/W56-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-043": {
     "name": "表情パターン不足 恵",
@@ -815,7 +857,8 @@
         "id": "SHS/W56-043",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-044": {
     "name": "先輩からのアドバイス 詩羽",
@@ -833,7 +876,8 @@
         "id": "SHS/W56-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-045": {
     "name": "ひらめく天啓 倫也",
@@ -851,7 +895,8 @@
         "id": "SHS/W56-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-046": {
     "name": "衣装デザイン 英梨々",
@@ -869,7 +914,8 @@
         "id": "SHS/W56-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-047": {
     "name": "演技指導 詩羽",
@@ -887,7 +933,8 @@
         "id": "SHS/W56-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-048": {
     "name": "ムッとした時の表情 恵",
@@ -905,7 +952,8 @@
         "id": "SHS/W56-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-049": {
     "name": "予想外の言葉 恵",
@@ -923,7 +971,8 @@
         "id": "SHS/W56-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-050": {
     "name": "みんなでライブ鑑賞 恵",
@@ -941,7 +990,8 @@
         "id": "SHS/W56-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-051": {
     "name": "対抗意識 英梨々",
@@ -959,7 +1009,8 @@
         "id": "SHS/W56-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-052": {
     "name": "徹夜でゲーム",
@@ -977,7 +1028,8 @@
         "id": "SHS/W56-052",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-053": {
     "name": "冴えない彼女の育てかた",
@@ -999,7 +1051,8 @@
         "id": "SHS/W56-053R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-054": {
     "name": "徹夜の代償",
@@ -1017,7 +1070,8 @@
         "id": "SHS/W56-054",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-055": {
     "name": "本気でゲーム作り",
@@ -1035,7 +1089,8 @@
         "id": "SHS/W56-055",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SHS/W56-056": {
     "name": "二人の夜 詩羽",
@@ -1057,7 +1112,8 @@
         "id": "SHS/W56-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-057": {
     "name": "夢を叶えるまでの物語 恵",
@@ -1079,7 +1135,8 @@
         "id": "SHS/W56-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-058": {
     "name": "多彩な衣装 恵",
@@ -1101,7 +1158,8 @@
         "id": "SHS/W56-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-059": {
     "name": "クリエイターの矜持 詩羽",
@@ -1123,7 +1181,8 @@
         "id": "SHS/W56-059SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-060": {
     "name": "執念の勝利 詩羽",
@@ -1141,7 +1200,8 @@
         "id": "SHS/W56-060",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-061": {
     "name": "下品な煽り 詩羽",
@@ -1159,7 +1219,8 @@
         "id": "SHS/W56-061",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-062": {
     "name": "長い夜のはじまり 詩羽",
@@ -1177,7 +1238,8 @@
         "id": "SHS/W56-062",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-063": {
     "name": "六天馬モールの戦い 恵",
@@ -1195,7 +1257,8 @@
         "id": "SHS/W56-063",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-064": {
     "name": "blessing software 詩羽",
@@ -1217,7 +1280,8 @@
         "id": "SHS/W56-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-065": {
     "name": "はじめてのサイン会 詩羽",
@@ -1235,7 +1299,8 @@
         "id": "SHS/W56-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-066": {
     "name": "毒舌系先輩 詩羽",
@@ -1253,7 +1318,8 @@
         "id": "SHS/W56-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-067": {
     "name": "企画へのダメ出し 詩羽",
@@ -1271,7 +1337,8 @@
         "id": "SHS/W56-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-068": {
     "name": "ドヤ顔で決める 倫也",
@@ -1289,7 +1356,8 @@
         "id": "SHS/W56-068",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-069": {
     "name": "霞詩子の担当編集 苑子",
@@ -1307,7 +1375,8 @@
         "id": "SHS/W56-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-070": {
     "name": "隠しきれない敵愾心 詩羽",
@@ -1325,7 +1394,8 @@
         "id": "SHS/W56-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-071": {
     "name": "羞恥心の発露 恵",
@@ -1343,7 +1413,8 @@
         "id": "SHS/W56-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-072": {
     "name": "混乱の極み 詩羽",
@@ -1361,7 +1432,8 @@
         "id": "SHS/W56-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-073": {
     "name": "二人の朝 詩羽",
@@ -1379,7 +1451,8 @@
         "id": "SHS/W56-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-074": {
     "name": "みんなで合宿 詩羽",
@@ -1397,7 +1470,8 @@
         "id": "SHS/W56-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-075": {
     "name": "縮まる距離 恵",
@@ -1415,7 +1489,8 @@
         "id": "SHS/W56-075",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-076": {
     "name": "消えていくハイライト",
@@ -1433,7 +1508,8 @@
         "id": "SHS/W56-076",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-077": {
     "name": "倫也の企画書",
@@ -1451,7 +1527,8 @@
         "id": "SHS/W56-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-078": {
     "name": "二人の夜の選択肢",
@@ -1473,7 +1550,8 @@
         "id": "SHS/W56-078R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SHS/W56-079": {
     "name": "恋するメトロノーム",
@@ -1491,7 +1569,8 @@
         "id": "SHS/W56-079",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-080": {
     "name": "すれ違いのデートイベント",
@@ -1513,7 +1592,8 @@
         "id": "SHS/W56-080R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-081": {
     "name": "icy tail 美智留",
@@ -1535,7 +1615,8 @@
         "id": "SHS/W56-081SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-082": {
     "name": "譲れない夢 美智留",
@@ -1553,7 +1634,8 @@
         "id": "SHS/W56-082",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-083": {
     "name": "原始の幼なじみ 美智留",
@@ -1575,7 +1657,8 @@
         "id": "SHS/W56-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-084": {
     "name": "ライブ衣装 美智留",
@@ -1597,7 +1680,8 @@
         "id": "SHS/W56-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-085": {
     "name": "ライブ衣装 時乃",
@@ -1615,7 +1699,8 @@
         "id": "SHS/W56-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-086": {
     "name": "みんなで合宿 美智留",
@@ -1633,7 +1718,8 @@
         "id": "SHS/W56-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-087": {
     "name": "カッコいい男の子 倫也",
@@ -1651,7 +1737,8 @@
         "id": "SHS/W56-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-088": {
     "name": "icy tail 藍子",
@@ -1669,7 +1756,8 @@
         "id": "SHS/W56-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-089": {
     "name": "icy tail 叡智佳",
@@ -1687,7 +1775,8 @@
         "id": "SHS/W56-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-090": {
     "name": "blessing software 美智留",
@@ -1705,7 +1794,8 @@
         "id": "SHS/W56-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-091": {
     "name": "嬉しい驚き 美智留",
@@ -1723,7 +1813,8 @@
         "id": "SHS/W56-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-092": {
     "name": "衝撃の事実 美智留",
@@ -1741,7 +1832,8 @@
         "id": "SHS/W56-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-093": {
     "name": "icy tail 時乃",
@@ -1759,7 +1851,8 @@
         "id": "SHS/W56-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-094": {
     "name": "懐かしい記憶 美智留",
@@ -1777,7 +1870,8 @@
         "id": "SHS/W56-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-095": {
     "name": "ライブ衣装 叡智佳",
@@ -1795,7 +1889,8 @@
         "id": "SHS/W56-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-096": {
     "name": "水辺でのお約束 美智留",
@@ -1813,7 +1908,8 @@
         "id": "SHS/W56-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-097": {
     "name": "ライブ衣装 藍子",
@@ -1831,7 +1927,8 @@
         "id": "SHS/W56-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-098": {
     "name": "icy tailの真実",
@@ -1849,7 +1946,8 @@
         "id": "SHS/W56-098",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SHS/W56-099": {
     "name": "icy tail",
@@ -1871,7 +1969,8 @@
         "id": "SHS/W56-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SHS/W56-100": {
     "name": "淡い恋の記憶",
@@ -1889,6 +1988,7 @@
         "id": "SHS/W56-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

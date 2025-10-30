@@ -15,7 +15,8 @@
         "id": "OMS/S41-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-P02": {
     "name": "“愛すべきニート達”カラ松",
@@ -33,7 +34,8 @@
         "id": "OMS/S41-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-P03": {
     "name": "“愛すべきニート達”チョロ松",
@@ -51,7 +53,8 @@
         "id": "OMS/S41-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-P04": {
     "name": "“愛すべきニート達”一松",
@@ -69,7 +72,8 @@
         "id": "OMS/S41-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-P05": {
     "name": "“愛すべきニート達”十四松",
@@ -87,7 +91,8 @@
         "id": "OMS/S41-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-P06": {
     "name": "“愛すべきニート達”トド松",
@@ -105,7 +110,8 @@
         "id": "OMS/S41-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-P09": {
     "name": "“ナース”トト子",
@@ -123,7 +129,8 @@
         "id": "OMS/S41-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-P10": {
     "name": "弱井 トト子",
@@ -141,7 +148,8 @@
         "id": "OMS/S41-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-101": {
     "name": "SDおそ松",
@@ -159,7 +167,8 @@
         "id": "OMS/S41-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-102": {
     "name": "SDカラ松",
@@ -177,7 +186,8 @@
         "id": "OMS/S41-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-103": {
     "name": "SDチョロ松",
@@ -195,7 +205,8 @@
         "id": "OMS/S41-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-104": {
     "name": "SD一松",
@@ -213,7 +224,8 @@
         "id": "OMS/S41-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-105": {
     "name": "SD十四松",
@@ -231,7 +243,8 @@
         "id": "OMS/S41-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OMS/S41-106": {
     "name": "SDトド松",
@@ -249,7 +262,8 @@
         "id": "OMS/S41-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-107": {
     "name": "SDイヤミ",
@@ -267,7 +281,8 @@
         "id": "OMS/S41-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OMS/S41-108": {
     "name": "おそ松落とし",
@@ -285,6 +300,7 @@
         "id": "OMS/S41-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

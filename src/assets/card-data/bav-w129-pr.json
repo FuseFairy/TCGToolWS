@@ -15,7 +15,8 @@
         "id": "BAV/W129-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-P02": {
     "name": "安らぎのひととき シロコ",
@@ -37,7 +38,8 @@
         "id": "BAV/W129-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-P03": {
     "name": "青春の一枚",
@@ -55,7 +57,8 @@
         "id": "BAV/W129-P03EX",
         "rarity": "PR+"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "BAV/W129-P04": {
     "name": "ハードボイルドなアウトロー集団",
@@ -77,6 +80,7 @@
         "id": "BAV/W129-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

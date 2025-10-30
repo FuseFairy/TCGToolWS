@@ -15,7 +15,8 @@
         "id": "AW/S18-101",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-102": {
     "name": "奇跡の生還 黒雪姫",
@@ -33,7 +34,8 @@
         "id": "AW/S18-102",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-103": {
     "name": "漆黒の揚羽蝶 黒雪姫",
@@ -51,7 +53,8 @@
         "id": "AW/S18-103",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-104": {
     "name": "シルバー・クロウ",
@@ -69,7 +72,8 @@
         "id": "AW/S18-104",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-105": {
     "name": "寝間着姿の黒雪姫",
@@ -87,7 +91,8 @@
         "id": "AW/S18-105",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-T01": {
     "name": "ピンクのブタ ハルユキ",
@@ -105,7 +110,8 @@
         "id": "AW/S18-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-T02": {
     "name": "新米バーストリンカー シルバー・クロウ",
@@ -123,7 +129,8 @@
         "id": "AW/S18-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-T03": {
     "name": "王の帰還 ブラック・ロータス",
@@ -141,7 +148,8 @@
         "id": "AW/S18-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-T04": {
     "name": "学園のマドンナ 黒雪姫",
@@ -159,7 +167,8 @@
         "id": "AW/S18-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-T05": {
     "name": "いじめられっ子 ハルユキ",
@@ -177,7 +186,8 @@
         "id": "AW/S18-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-T06": {
     "name": "黄昏時の約束 黒雪姫",
@@ -195,7 +205,8 @@
         "id": "AW/S18-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-T07": {
     "name": "銀色の翼 シルバー・クロウ",
@@ -213,7 +224,8 @@
         "id": "AW/S18-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-T08": {
     "name": "立ちはだかる壁 ハルユキ",
@@ -231,7 +243,8 @@
         "id": "AW/S18-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-T09": {
     "name": "生まれて初めての感情",
@@ -249,7 +262,8 @@
         "id": "AW/S18-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AW/S18-T10": {
     "name": "《黒の王》の騎士",
@@ -267,7 +281,8 @@
         "id": "AW/S18-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-T11": {
     "name": "銀色の猫 チユリ",
@@ -285,7 +300,8 @@
         "id": "AW/S18-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-T12": {
     "name": "明るくて元気 チユリ",
@@ -303,7 +319,8 @@
         "id": "AW/S18-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AW/S18-T13": {
     "name": "愛らしい魅力 チユリ",
@@ -321,7 +338,8 @@
         "id": "AW/S18-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AW/S18-T14": {
     "name": "シトロン・コール",
@@ -339,6 +357,7 @@
         "id": "AW/S18-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

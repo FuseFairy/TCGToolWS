@@ -23,7 +23,8 @@
         "id": "Srd/W123-T11SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Srd/W123-T12": {
     "name": "35th Anniversary アーリャ",
@@ -49,7 +50,8 @@
         "id": "Srd/W123-T12SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Srd/W123-T17": {
     "name": "コスプレ喫茶",
@@ -71,6 +73,7 @@
         "id": "Srd/W123-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

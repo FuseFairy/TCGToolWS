@@ -19,7 +19,8 @@
         "id": "OVL/S99-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-002": {
     "name": "本当の力 ナーベラル",
@@ -41,7 +42,8 @@
         "id": "OVL/S99-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-003": {
     "name": "魔導国建国 デミウルゴス",
@@ -63,7 +65,8 @@
         "id": "OVL/S99-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-004": {
     "name": "人間との交流 ルプスレギナ",
@@ -85,7 +88,8 @@
         "id": "OVL/S99-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-005": {
     "name": "美しき冒険者 ナーベ",
@@ -107,7 +111,8 @@
         "id": "OVL/S99-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-006": {
     "name": "魔導国建国 シャルティア",
@@ -129,7 +134,8 @@
         "id": "OVL/S99-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-007": {
     "name": "対峙する絶望 シャルティア",
@@ -151,7 +157,8 @@
         "id": "OVL/S99-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-008": {
     "name": "侵入者へ向ける視線 シズ",
@@ -169,7 +176,8 @@
         "id": "OVL/S99-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-009": {
     "name": "作戦の確認 シャルティア",
@@ -187,7 +195,8 @@
         "id": "OVL/S99-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-010": {
     "name": "来訪者への洗礼 デミウルゴス",
@@ -205,7 +214,8 @@
         "id": "OVL/S99-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-011": {
     "name": "余裕の勝利 ルプスレギナ",
@@ -223,7 +233,8 @@
         "id": "OVL/S99-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-012": {
     "name": "裸の付き合い デミウルゴス",
@@ -241,7 +252,8 @@
         "id": "OVL/S99-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-013": {
     "name": "代価の要求 モモン",
@@ -259,7 +271,8 @@
         "id": "OVL/S99-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-014": {
     "name": "事後の報告 エントマ",
@@ -277,7 +290,8 @@
         "id": "OVL/S99-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-015": {
     "name": "妖艶なる戦闘メイド ソリュシャン",
@@ -295,7 +309,8 @@
         "id": "OVL/S99-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-016": {
     "name": "退屈な襲撃 シャルティア",
@@ -313,7 +328,8 @@
         "id": "OVL/S99-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-017": {
     "name": "悪へ振るう拳 セバス",
@@ -331,7 +347,8 @@
         "id": "OVL/S99-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-018": {
     "name": "武技の習得 ハムスケ",
@@ -349,7 +366,8 @@
         "id": "OVL/S99-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-019": {
     "name": "新たな生活 ツアレ",
@@ -367,7 +385,8 @@
         "id": "OVL/S99-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-020": {
     "name": "咄嗟の謝罪 ナーベラル",
@@ -385,7 +404,8 @@
         "id": "OVL/S99-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-021": {
     "name": "ご褒美の百科事典",
@@ -403,7 +423,8 @@
         "id": "OVL/S99-021",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-022": {
     "name": "作戦の真意",
@@ -425,7 +446,8 @@
         "id": "OVL/S99-022R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-023": {
     "name": "残忍な素顔",
@@ -447,7 +469,8 @@
         "id": "OVL/S99-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-024": {
     "name": "逃走の果て",
@@ -469,7 +492,8 @@
         "id": "OVL/S99-024R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-025": {
     "name": "建国宣言の玉座 アルベド",
@@ -491,7 +515,8 @@
         "id": "OVL/S99-025SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-026": {
     "name": "ダークエルフの魔獣使い アウラ",
@@ -513,7 +538,8 @@
         "id": "OVL/S99-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-027": {
     "name": "気弱な階層守護者 マーレ",
@@ -535,7 +561,8 @@
         "id": "OVL/S99-027SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-028": {
     "name": "魔導王 アインズ",
@@ -557,7 +584,8 @@
         "id": "OVL/S99-028SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-029": {
     "name": "建国宣言の玉座 マーレ",
@@ -579,7 +607,8 @@
         "id": "OVL/S99-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-030": {
     "name": "方針会議 デミウルゴス",
@@ -601,7 +630,8 @@
         "id": "OVL/S99-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-031": {
     "name": "嬉しい言葉 アルベド",
@@ -623,7 +653,8 @@
         "id": "OVL/S99-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-032": {
     "name": "豊穣の母神からの返礼 アインズ",
@@ -645,7 +676,8 @@
         "id": "OVL/S99-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-033": {
     "name": "魔導国建国 アウラ",
@@ -667,7 +699,8 @@
         "id": "OVL/S99-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-034": {
     "name": "予想外の効果 アインズ",
@@ -685,7 +718,8 @@
         "id": "OVL/S99-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-035": {
     "name": "休暇のひと時 マーレ",
@@ -703,7 +737,8 @@
         "id": "OVL/S99-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-036": {
     "name": "反逆者へ振るう刃 アルベド",
@@ -721,7 +756,8 @@
         "id": "OVL/S99-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-037": {
     "name": "漏れ出た笑い アルベド",
@@ -739,7 +775,8 @@
         "id": "OVL/S99-037",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-038": {
     "name": "我が儘な支配者 アインズ",
@@ -757,7 +794,8 @@
         "id": "OVL/S99-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-039": {
     "name": "プレアデスの副リーダー ユリ",
@@ -775,7 +813,8 @@
         "id": "OVL/S99-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-040": {
     "name": "懸命なごまかし アインズ",
@@ -793,7 +832,8 @@
         "id": "OVL/S99-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-041": {
     "name": "主への喝采 マーレ",
@@ -811,7 +851,8 @@
         "id": "OVL/S99-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-042": {
     "name": "地形操作 マーレ",
@@ -829,7 +870,8 @@
         "id": "OVL/S99-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-043": {
     "name": "頷けない話 アウラ",
@@ -847,7 +889,8 @@
         "id": "OVL/S99-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-044": {
     "name": "入場コール アウラ",
@@ -865,7 +908,8 @@
         "id": "OVL/S99-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-045": {
     "name": "遅かった気付き コキュートス",
@@ -883,7 +927,8 @@
         "id": "OVL/S99-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-046": {
     "name": "皇帝への呼びかけ アウラ",
@@ -901,7 +946,8 @@
         "id": "OVL/S99-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-047": {
     "name": "黒い仔山羊",
@@ -923,7 +969,8 @@
         "id": "OVL/S99-047S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-048": {
     "name": "ウォーバイコーンロード",
@@ -941,7 +988,8 @@
         "id": "OVL/S99-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-049": {
     "name": "黒き豊穣への貢",
@@ -963,7 +1011,8 @@
         "id": "OVL/S99-049R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-050": {
     "name": "帝国への使者",
@@ -985,7 +1034,8 @@
         "id": "OVL/S99-050R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-051": {
     "name": "王を守護するもの",
@@ -1007,7 +1057,8 @@
         "id": "OVL/S99-051R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-052": {
     "name": "配下への思い アインズ",
@@ -1029,7 +1080,8 @@
         "id": "OVL/S99-052SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-053": {
     "name": "可憐な吸血鬼 シャルティア",
@@ -1051,7 +1103,8 @@
         "id": "OVL/S99-053SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-054": {
     "name": "主へと捧ぐ愛 アルベド",
@@ -1073,7 +1126,8 @@
         "id": "OVL/S99-054SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-055": {
     "name": "死を運ぶ者 アインズ",
@@ -1095,7 +1149,8 @@
         "id": "OVL/S99-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-056": {
     "name": "セコンド アルベド",
@@ -1117,7 +1172,8 @@
         "id": "OVL/S99-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-057": {
     "name": "魔導国建国 セバス",
@@ -1139,7 +1195,8 @@
         "id": "OVL/S99-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-058": {
     "name": "騎獣召喚 アルベド",
@@ -1161,7 +1218,8 @@
         "id": "OVL/S99-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-059": {
     "name": "魔導国建国 アインズ",
@@ -1183,7 +1241,8 @@
         "id": "OVL/S99-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-060": {
     "name": "驚きの事実 シャルティア",
@@ -1205,7 +1264,8 @@
         "id": "OVL/S99-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-061": {
     "name": "支配者へ向ける賛美 シャルティア",
@@ -1223,7 +1283,8 @@
         "id": "OVL/S99-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-062": {
     "name": "新妻ごっこ アルベド",
@@ -1241,7 +1302,8 @@
         "id": "OVL/S99-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-063": {
     "name": "作戦の意図 アルベド",
@@ -1259,7 +1321,8 @@
         "id": "OVL/S99-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-064": {
     "name": "侵入者へのもてなし アインズ",
@@ -1277,7 +1340,8 @@
         "id": "OVL/S99-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-065": {
     "name": "方針会議 アインズ",
@@ -1295,7 +1359,8 @@
         "id": "OVL/S99-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-066": {
     "name": "たゆまぬ努力 アインズ",
@@ -1313,7 +1378,8 @@
         "id": "OVL/S99-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-067": {
     "name": "冷酷なる追跡者 シャルティア",
@@ -1331,7 +1397,8 @@
         "id": "OVL/S99-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-068": {
     "name": "喧騒のスパ アインズ",
@@ -1349,7 +1416,8 @@
         "id": "OVL/S99-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-069": {
     "name": "立ちはだかる セバス",
@@ -1367,7 +1435,8 @@
         "id": "OVL/S99-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-070": {
     "name": "謁見中の軽口 シャルティア",
@@ -1385,7 +1454,8 @@
         "id": "OVL/S99-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-071": {
     "name": "暴走する思い",
@@ -1403,7 +1473,8 @@
         "id": "OVL/S99-071",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-072": {
     "name": "真なる死",
@@ -1421,7 +1492,8 @@
         "id": "OVL/S99-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-073": {
     "name": "抑えきれない感情",
@@ -1443,7 +1515,8 @@
         "id": "OVL/S99-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-074": {
     "name": "屈辱の罰",
@@ -1465,7 +1538,8 @@
         "id": "OVL/S99-074R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-075": {
     "name": "アインズ・ウール・ゴウン魔導国",
@@ -1487,7 +1561,8 @@
         "id": "OVL/S99-075R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-076": {
     "name": "四腕の武人 コキュートス",
@@ -1509,7 +1584,8 @@
         "id": "OVL/S99-076SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-077": {
     "name": "魔導国建国 コキュートス",
@@ -1531,7 +1607,8 @@
         "id": "OVL/S99-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-078": {
     "name": "小柄な魔法詠唱者 イビルアイ",
@@ -1553,7 +1630,8 @@
         "id": "OVL/S99-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-079": {
     "name": "やさしさの顔 ラナー",
@@ -1571,7 +1649,8 @@
         "id": "OVL/S99-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-080": {
     "name": "指導者としての決断 エンリ",
@@ -1593,7 +1672,8 @@
         "id": "OVL/S99-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-081": {
     "name": "名残惜しい別れ イビルアイ",
@@ -1611,7 +1691,8 @@
         "id": "OVL/S99-081",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-082": {
     "name": "手を取り進む エンリ",
@@ -1629,7 +1710,8 @@
         "id": "OVL/S99-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-083": {
     "name": "苦しい戦い イビルアイ",
@@ -1647,7 +1729,8 @@
         "id": "OVL/S99-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-084": {
     "name": "ねぎらいの言葉 コキュートス",
@@ -1665,7 +1748,8 @@
         "id": "OVL/S99-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-085": {
     "name": "村人への気持ち ジュゲム",
@@ -1683,7 +1767,8 @@
         "id": "OVL/S99-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-086": {
     "name": "ゴブリン近衛隊",
@@ -1701,7 +1786,8 @@
         "id": "OVL/S99-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-087": {
     "name": "鮮血帝 ジルクニフ",
@@ -1719,7 +1805,8 @@
         "id": "OVL/S99-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-088": {
     "name": "家族との会話 ラナー",
@@ -1737,7 +1824,8 @@
         "id": "OVL/S99-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-089": {
     "name": "純白の鎧 クライム",
@@ -1755,7 +1843,8 @@
         "id": "OVL/S99-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-090": {
     "name": "ゴブリン軍楽隊",
@@ -1773,7 +1862,8 @@
         "id": "OVL/S99-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-091": {
     "name": "一人での町 エンリ",
@@ -1791,7 +1881,8 @@
         "id": "OVL/S99-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-092": {
     "name": "アピールチャンス ンフィーレア",
@@ -1809,7 +1900,8 @@
         "id": "OVL/S99-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-093": {
     "name": "ゴブリン重装甲歩兵団",
@@ -1827,7 +1919,8 @@
         "id": "OVL/S99-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-094": {
     "name": "戦士長の決意 ガゼフ",
@@ -1845,7 +1938,8 @@
         "id": "OVL/S99-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-095": {
     "name": "騒がしい休息 コキュートス",
@@ -1863,7 +1957,8 @@
         "id": "OVL/S99-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-096": {
     "name": "月下の約束 ブレイン",
@@ -1881,7 +1976,8 @@
         "id": "OVL/S99-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-097": {
     "name": "小鬼将軍の角笛",
@@ -1899,7 +1995,8 @@
         "id": "OVL/S99-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "OVL/S99-098": {
     "name": "忘れていた感情",
@@ -1921,7 +2018,8 @@
         "id": "OVL/S99-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-099": {
     "name": "最後の手段",
@@ -1943,7 +2041,8 @@
         "id": "OVL/S99-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "OVL/S99-100": {
     "name": "男性守護者の休息",
@@ -1965,6 +2064,7 @@
         "id": "OVL/S99-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

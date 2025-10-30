@@ -19,7 +19,8 @@
         "id": "Klb/W102-032SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W102-033": {
     "name": "二人の絆 鈴＆小毬",
@@ -41,7 +42,8 @@
         "id": "Klb/W102-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W102-034": {
     "name": "最高潮な想い 佐々美＆佳奈多＆沙耶",
@@ -63,7 +65,8 @@
         "id": "Klb/W102-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W102-035": {
     "name": "あたしの青春 沙耶",
@@ -85,7 +88,8 @@
         "id": "Klb/W102-035SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W102-038": {
     "name": "人気投票第１位 恭介",
@@ -103,7 +107,8 @@
         "id": "Klb/W102-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Klb/W102-039": {
     "name": "リトルバスターズ！(バンド) 鈴",
@@ -121,7 +126,8 @@
         "id": "Klb/W102-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Klb/W102-040": {
     "name": "真ヒロイン 理樹",
@@ -139,7 +145,8 @@
         "id": "Klb/W102-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Klb/W102-041": {
     "name": "ホワイトアウト クド",
@@ -161,7 +168,8 @@
         "id": "Klb/W102-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W102-042": {
     "name": "一番フリーダム 美魚",
@@ -183,7 +191,8 @@
         "id": "Klb/W102-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W102-043": {
     "name": "般若 唯湖",
@@ -205,7 +214,8 @@
         "id": "Klb/W102-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W102-044": {
     "name": "双子ビーチバレー 葉留佳",
@@ -227,7 +237,8 @@
         "id": "Klb/W102-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Klb/W102-048": {
     "name": "夕焼けの決意",
@@ -253,7 +264,8 @@
         "id": "Klb/W102-048R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W102-049": {
     "name": "ベストフレンド",
@@ -275,7 +287,8 @@
         "id": "Klb/W102-049R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Klb/W102-050": {
     "name": "温かな光に包まれて",
@@ -297,6 +310,7 @@
         "id": "Klb/W102-050R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

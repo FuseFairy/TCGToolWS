@@ -15,7 +15,8 @@
         "id": "NA/W12-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-107": {
     "name": "確かな想い なのは＆フェイト",
@@ -33,7 +34,8 @@
         "id": "NA/W12-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-108": {
     "name": "仲良し？ なのは＆ヴィータ",
@@ -51,7 +53,8 @@
         "id": "NA/W12-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-109": {
     "name": "狭間の夢 フェイト＆アリシア",
@@ -69,7 +72,8 @@
         "id": "NA/W12-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-110": {
     "name": "まっすぐな心 なのは",
@@ -87,7 +91,8 @@
         "id": "NA/W12-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NA/W12-111": {
     "name": "ヴィヴィオ＆アインハルト＆キリエ",
@@ -105,7 +110,8 @@
         "id": "NA/W12-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-112": {
     "name": "トーマ＆リリィ＆アミティエ",
@@ -123,7 +129,8 @@
         "id": "NA/W12-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NA/W12-113": {
     "name": "-THE GEARS OF DESTINY-",
@@ -141,6 +148,7 @@
         "id": "NA/W12-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

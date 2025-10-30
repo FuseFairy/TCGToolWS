@@ -19,7 +19,8 @@
         "id": "Fsp/W120-T13R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fsp/W120-T16": {
     "name": "少女休息中 エルナ",
@@ -41,6 +42,7 @@
         "id": "Fsp/W120-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

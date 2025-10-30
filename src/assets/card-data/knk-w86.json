@@ -19,7 +19,8 @@
         "id": "KNK/W86-001SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-002": {
     "name": "七海 麻美",
@@ -41,7 +42,8 @@
         "id": "KNK/W86-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-003": {
     "name": "２人の思い出 麻美",
@@ -63,7 +65,8 @@
         "id": "KNK/W86-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-004": {
     "name": "センチメートル 麻美",
@@ -85,7 +88,8 @@
         "id": "KNK/W86-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-005": {
     "name": "ヘタ同士 麻美",
@@ -107,7 +111,8 @@
         "id": "KNK/W86-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-006": {
     "name": "もう恋なんて 麻美",
@@ -129,7 +134,8 @@
         "id": "KNK/W86-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-007": {
     "name": "ファインダー越し 麻美",
@@ -147,7 +153,8 @@
         "id": "KNK/W86-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-008": {
     "name": "“うざ…”麻美",
@@ -165,7 +172,8 @@
         "id": "KNK/W86-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-009": {
     "name": "元カノとして 麻美",
@@ -183,7 +191,8 @@
         "id": "KNK/W86-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-010": {
     "name": "初めての“彼女” 麻美",
@@ -201,7 +210,8 @@
         "id": "KNK/W86-010",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-011": {
     "name": "告白バンジージャンプ 麻美",
@@ -219,7 +229,8 @@
         "id": "KNK/W86-011",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-012": {
     "name": "“運命の人”麻美",
@@ -237,7 +248,8 @@
         "id": "KNK/W86-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-013": {
     "name": "いつものノリ 麻美",
@@ -255,7 +267,8 @@
         "id": "KNK/W86-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-014": {
     "name": "気軽な挨拶 麻美",
@@ -273,7 +286,8 @@
         "id": "KNK/W86-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-015": {
     "name": "すっぽかされた約束 麻美",
@@ -291,7 +305,8 @@
         "id": "KNK/W86-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-016": {
     "name": "もうやめて？",
@@ -309,7 +324,8 @@
         "id": "KNK/W86-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-017": {
     "name": "付き合ってる時よりも",
@@ -331,7 +347,8 @@
         "id": "KNK/W86-017R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-018": {
     "name": "付き合おっか",
@@ -349,7 +366,8 @@
         "id": "KNK/W86-018",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-019": {
     "name": "更科 瑠夏",
@@ -371,7 +389,8 @@
         "id": "KNK/W86-019SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-020": {
     "name": "桜沢 墨",
@@ -393,7 +412,8 @@
         "id": "KNK/W86-020SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-021": {
     "name": "宝石のような一時を 千鶴",
@@ -415,7 +435,8 @@
         "id": "KNK/W86-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-022": {
     "name": "妄想デート 千鶴",
@@ -437,7 +458,8 @@
         "id": "KNK/W86-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-023": {
     "name": "センチメートル 墨",
@@ -459,7 +481,8 @@
         "id": "KNK/W86-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-024": {
     "name": "初めての挑戦 墨",
@@ -481,7 +504,8 @@
         "id": "KNK/W86-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-025": {
     "name": "“彼女”でいる間 千鶴",
@@ -503,7 +527,8 @@
         "id": "KNK/W86-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-026": {
     "name": "和くんのこと 麻美",
@@ -525,7 +550,8 @@
         "id": "KNK/W86-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-027": {
     "name": "待ち焦がれる 墨",
@@ -547,7 +573,8 @@
         "id": "KNK/W86-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-028": {
     "name": "秘密のデート 瑠夏",
@@ -565,7 +592,8 @@
         "id": "KNK/W86-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-029": {
     "name": "本気の眼差し 千鶴",
@@ -583,7 +611,8 @@
         "id": "KNK/W86-029",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-030": {
     "name": "笑顔の練習 墨",
@@ -601,7 +630,8 @@
         "id": "KNK/W86-030",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-031": {
     "name": "運動でリラックス 墨",
@@ -619,7 +649,8 @@
         "id": "KNK/W86-031",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-032": {
     "name": "“やだなーっ”麻美",
@@ -637,7 +668,8 @@
         "id": "KNK/W86-032",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-033": {
     "name": "一口どうぞ 墨",
@@ -655,7 +687,8 @@
         "id": "KNK/W86-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-034": {
     "name": "キスじゃないから 千鶴",
@@ -673,7 +706,8 @@
         "id": "KNK/W86-034",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-035": {
     "name": "告白バンジージャンプ 墨",
@@ -691,7 +725,8 @@
         "id": "KNK/W86-035",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-036": {
     "name": "大事な話 瑠夏",
@@ -709,7 +744,8 @@
         "id": "KNK/W86-036",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-037": {
     "name": "夜９時のベランダ  ちづる",
@@ -727,7 +763,8 @@
         "id": "KNK/W86-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-038": {
     "name": "知ってしまった真実 麻美",
@@ -745,7 +782,8 @@
         "id": "KNK/W86-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-039": {
     "name": "何が何やら 墨",
@@ -763,7 +801,8 @@
         "id": "KNK/W86-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-040": {
     "name": "的確な指摘 瑠夏",
@@ -781,7 +820,8 @@
         "id": "KNK/W86-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-041": {
     "name": "麦わら帽子 ちづる",
@@ -799,7 +839,8 @@
         "id": "KNK/W86-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-042": {
     "name": "“馬鹿じゃないの!?”千鶴",
@@ -817,7 +858,8 @@
         "id": "KNK/W86-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-043": {
     "name": "恥ずかし乙女",
@@ -835,7 +877,8 @@
         "id": "KNK/W86-043",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-044": {
     "name": "恋人の証明",
@@ -853,7 +896,8 @@
         "id": "KNK/W86-044",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KNK/W86-045": {
     "name": "２人の問題",
@@ -875,7 +919,8 @@
         "id": "KNK/W86-045R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-046": {
     "name": "見て見て和也くん",
@@ -893,7 +938,8 @@
         "id": "KNK/W86-046",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-047": {
     "name": "“目標”に向けて",
@@ -915,7 +961,8 @@
         "id": "KNK/W86-047R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-048": {
     "name": "意外とガンコ？",
@@ -933,7 +980,8 @@
         "id": "KNK/W86-048",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-049": {
     "name": "人見知りの“彼女” 墨",
@@ -955,7 +1003,8 @@
         "id": "KNK/W86-049SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-050": {
     "name": "水原 千鶴",
@@ -977,7 +1026,8 @@
         "id": "KNK/W86-050SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-051": {
     "name": "皆の“彼女” 千鶴",
@@ -999,7 +1049,8 @@
         "id": "KNK/W86-051SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-052": {
     "name": "返却不可な想い 千鶴",
@@ -1017,7 +1068,8 @@
         "id": "KNK/W86-052",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-053": {
     "name": "心の穴埋め 千鶴",
@@ -1039,7 +1091,8 @@
         "id": "KNK/W86-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-054": {
     "name": "ハッキリさせたいこと 千鶴",
@@ -1057,7 +1110,8 @@
         "id": "KNK/W86-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-055": {
     "name": "朝の日課 墨",
@@ -1079,7 +1133,8 @@
         "id": "KNK/W86-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-056": {
     "name": "“君がいい” 千鶴",
@@ -1101,7 +1156,8 @@
         "id": "KNK/W86-056S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-057": {
     "name": "超ハイスペック 墨",
@@ -1123,7 +1179,8 @@
         "id": "KNK/W86-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-058": {
     "name": "告白バンジージャンプ 千鶴",
@@ -1141,7 +1198,8 @@
         "id": "KNK/W86-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-059": {
     "name": "メリークリスマス 千鶴",
@@ -1159,7 +1217,8 @@
         "id": "KNK/W86-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-060": {
     "name": "“一つ聞かせて”ちづる",
@@ -1177,7 +1236,8 @@
         "id": "KNK/W86-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-061": {
     "name": "初めてのデート 千鶴",
@@ -1195,7 +1255,8 @@
         "id": "KNK/W86-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-062": {
     "name": "突然の訪問者 ちづる",
@@ -1213,7 +1274,8 @@
         "id": "KNK/W86-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-063": {
     "name": "鉄の心臓 千鶴",
@@ -1231,7 +1293,8 @@
         "id": "KNK/W86-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-064": {
     "name": "一歩一歩 墨",
@@ -1249,7 +1312,8 @@
         "id": "KNK/W86-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-065": {
     "name": "人見知りを超えている墨",
@@ -1267,7 +1331,8 @@
         "id": "KNK/W86-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-066": {
     "name": "ラッキースケベ 千鶴",
@@ -1285,7 +1350,8 @@
         "id": "KNK/W86-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-067": {
     "name": "ボーリング 墨",
@@ -1303,7 +1369,8 @@
         "id": "KNK/W86-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-068": {
     "name": "ハッピーニューイヤー 千鶴",
@@ -1321,7 +1388,8 @@
         "id": "KNK/W86-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-069": {
     "name": "駅前で待ち合わせ 千鶴",
@@ -1339,7 +1407,8 @@
         "id": "KNK/W86-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-070": {
     "name": "これを機に 千鶴",
@@ -1357,7 +1426,8 @@
         "id": "KNK/W86-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-071": {
     "name": "海と彼女 千鶴",
@@ -1375,7 +1445,8 @@
         "id": "KNK/W86-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-072": {
     "name": "あのー… いいかな？",
@@ -1393,7 +1464,8 @@
         "id": "KNK/W86-072",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-073": {
     "name": "今月のNo.１",
@@ -1411,7 +1483,8 @@
         "id": "KNK/W86-073",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-074": {
     "name": "お詫びだからっ",
@@ -1433,7 +1506,8 @@
         "id": "KNK/W86-074R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-075": {
     "name": "日課の散歩",
@@ -1455,7 +1529,8 @@
         "id": "KNK/W86-075R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-076": {
     "name": "互いの気持ち",
@@ -1477,7 +1552,8 @@
         "id": "KNK/W86-076R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-077": {
     "name": "ボルダリングデート 瑠夏",
@@ -1499,7 +1575,8 @@
         "id": "KNK/W86-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-078": {
     "name": "“大人なんです” 瑠夏",
@@ -1521,7 +1598,8 @@
         "id": "KNK/W86-078SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-079": {
     "name": "“お試し”でも 瑠夏",
@@ -1543,7 +1621,8 @@
         "id": "KNK/W86-079S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-080": {
     "name": "“浮気だーっ!!”瑠夏",
@@ -1561,7 +1640,8 @@
         "id": "KNK/W86-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-081": {
     "name": "“どうかな…？”瑠夏",
@@ -1583,7 +1663,8 @@
         "id": "KNK/W86-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-082": {
     "name": "“あーん♡”瑠夏",
@@ -1605,7 +1686,8 @@
         "id": "KNK/W86-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-083": {
     "name": "“彼女”は私 瑠夏",
@@ -1627,7 +1709,8 @@
         "id": "KNK/W86-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-084": {
     "name": "“むぎゅ――♥”瑠夏",
@@ -1645,7 +1728,8 @@
         "id": "KNK/W86-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-085": {
     "name": "やっと出会えた 瑠夏",
@@ -1663,7 +1747,8 @@
         "id": "KNK/W86-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-086": {
     "name": "彼女と彼女 瑠夏",
@@ -1681,7 +1766,8 @@
         "id": "KNK/W86-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-087": {
     "name": "どうしてここに!? 瑠夏",
@@ -1699,7 +1785,8 @@
         "id": "KNK/W86-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-088": {
     "name": "友達の“彼女” 瑠夏",
@@ -1717,7 +1804,8 @@
         "id": "KNK/W86-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-089": {
     "name": "“ここの部屋が何か？” 瑠夏",
@@ -1735,7 +1823,8 @@
         "id": "KNK/W86-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-090": {
     "name": "“目隠しはそのままです” 瑠夏",
@@ -1753,7 +1842,8 @@
         "id": "KNK/W86-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-091": {
     "name": "告白バンジージャンプ 瑠夏",
@@ -1771,7 +1861,8 @@
         "id": "KNK/W86-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-092": {
     "name": "ハッピーニューイヤー 瑠夏",
@@ -1789,7 +1880,8 @@
         "id": "KNK/W86-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-093": {
     "name": "“そんなの耐えれませんっ!!”瑠夏",
@@ -1807,7 +1899,8 @@
         "id": "KNK/W86-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-094": {
     "name": "本当の私を 瑠夏",
@@ -1825,7 +1918,8 @@
         "id": "KNK/W86-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-095": {
     "name": "私の立場 瑠夏",
@@ -1843,7 +1937,8 @@
         "id": "KNK/W86-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-096": {
     "name": "“持久戦”の一手 瑠夏",
@@ -1861,7 +1956,8 @@
         "id": "KNK/W86-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-097": {
     "name": "もう少しなんです",
@@ -1879,7 +1975,8 @@
         "id": "KNK/W86-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-098": {
     "name": "黙って付いて来てください！",
@@ -1897,7 +1994,8 @@
         "id": "KNK/W86-098",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KNK/W86-099": {
     "name": "私は覚悟できてますから!!!",
@@ -1919,7 +2017,8 @@
         "id": "KNK/W86-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KNK/W86-100": {
     "name": "高鳴る鼓動",
@@ -1941,6 +2040,7 @@
         "id": "KNK/W86-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

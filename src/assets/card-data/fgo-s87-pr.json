@@ -15,7 +15,8 @@
         "id": "FGO/S87-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-101": {
     "name": "死の裁定 獅子王",
@@ -33,7 +34,8 @@
         "id": "FGO/S87-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-102": {
     "name": "ファラオの水浴び ニトクリス",
@@ -51,7 +53,8 @@
         "id": "FGO/S87-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-103": {
     "name": "報われた想い 静謐のハサン",
@@ -69,7 +72,8 @@
         "id": "FGO/S87-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "FGO/S87-104": {
     "name": "思わぬ光景 マシュ・キリエライト",
@@ -87,6 +91,7 @@
         "id": "FGO/S87-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

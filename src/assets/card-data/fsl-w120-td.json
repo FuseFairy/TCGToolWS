@@ -19,7 +19,8 @@
         "id": "Fsl/W120-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fsl/W120-T11": {
     "name": "豪快な戦闘スタイル",
@@ -41,6 +42,7 @@
         "id": "Fsl/W120-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

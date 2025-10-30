@@ -19,7 +19,8 @@
         "id": "KLK/S27-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-002": {
     "name": "どうにもとまらないマコ",
@@ -41,7 +42,8 @@
         "id": "KLK/S27-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-003": {
     "name": "心配するマコ",
@@ -63,7 +65,8 @@
         "id": "KLK/S27-003R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-004": {
     "name": "喧嘩部部長 マコ",
@@ -81,7 +84,8 @@
         "id": "KLK/S27-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-005": {
     "name": "大阪観光 マコ",
@@ -99,7 +103,8 @@
         "id": "KLK/S27-005",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-006": {
     "name": "2年甲組 流子",
@@ -121,7 +126,8 @@
         "id": "KLK/S27-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-007": {
     "name": "喧嘩部所属 流子",
@@ -139,7 +145,8 @@
         "id": "KLK/S27-007",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-008": {
     "name": "パジャマの流子",
@@ -157,7 +164,8 @@
         "id": "KLK/S27-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-009": {
     "name": "不動のマコ",
@@ -175,7 +183,8 @@
         "id": "KLK/S27-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-010": {
     "name": "コロッケを食べるマコ",
@@ -193,7 +202,8 @@
         "id": "KLK/S27-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-011": {
     "name": "“超”マイペースお母さん 好代",
@@ -211,7 +221,8 @@
         "id": "KLK/S27-011",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-012": {
     "name": "がっついてるからガッツ",
@@ -229,7 +240,8 @@
         "id": "KLK/S27-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-013": {
     "name": "メガネのマコ",
@@ -247,7 +259,8 @@
         "id": "KLK/S27-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-014": {
     "name": "時代錯誤の悪ガキ 又郎",
@@ -265,7 +278,8 @@
         "id": "KLK/S27-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-015": {
     "name": "満艦飾家に居候 流子",
@@ -283,7 +297,8 @@
         "id": "KLK/S27-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-016": {
     "name": "町の闇医者 薔薇蔵",
@@ -301,7 +316,8 @@
         "id": "KLK/S27-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-017": {
     "name": "怪しいコロッケ",
@@ -319,7 +335,8 @@
         "id": "KLK/S27-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-018": {
     "name": "古典的な罠",
@@ -337,7 +354,8 @@
         "id": "KLK/S27-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-019": {
     "name": "だから、今度は私の番！",
@@ -359,7 +377,8 @@
         "id": "KLK/S27-019R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-020": {
     "name": "いただきまーす！",
@@ -377,7 +396,8 @@
         "id": "KLK/S27-020",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KLK/S27-021": {
     "name": "繭星降誕を謀る羅暁",
@@ -395,7 +415,8 @@
         "id": "KLK/S27-021",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-022": {
     "name": "運命の糸車 縫",
@@ -417,7 +438,8 @@
         "id": "KLK/S27-022SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-023": {
     "name": "糸引く縫",
@@ -435,7 +457,8 @@
         "id": "KLK/S27-023",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-024": {
     "name": "ハサミの持ち主 縫",
@@ -457,7 +480,8 @@
         "id": "KLK/S27-024R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-025": {
     "name": "身をかわす縫",
@@ -479,7 +503,8 @@
         "id": "KLK/S27-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-026": {
     "name": "REVOCS社CEO 羅暁",
@@ -497,7 +522,8 @@
         "id": "KLK/S27-026",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-027": {
     "name": "高次縫製師 縫",
@@ -515,7 +541,8 @@
         "id": "KLK/S27-027",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-028": {
     "name": "鬼龍院家筆頭執事 黒井戸",
@@ -533,7 +560,8 @@
         "id": "KLK/S27-028",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-029": {
     "name": "“精神仮縫い”羅暁",
@@ -551,7 +579,8 @@
         "id": "KLK/S27-029",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-030": {
     "name": "既製服 縫",
@@ -569,7 +598,8 @@
         "id": "KLK/S27-030",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-031": {
     "name": "羅暁の秘書 鳳凰丸",
@@ -587,7 +617,8 @@
         "id": "KLK/S27-031",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-032": {
     "name": "気まぐれな縫",
@@ -605,7 +636,8 @@
         "id": "KLK/S27-032",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-033": {
     "name": "風紀部トラップ開発員 大暮",
@@ -623,7 +655,8 @@
         "id": "KLK/S27-033",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-034": {
     "name": "皐月の母 羅暁",
@@ -641,7 +674,8 @@
         "id": "KLK/S27-034",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-035": {
     "name": "テニス部部長 函館",
@@ -659,7 +693,8 @@
         "id": "KLK/S27-035",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-036": {
     "name": "ボクシング部部長 袋田",
@@ -677,7 +712,8 @@
         "id": "KLK/S27-036",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-037": {
     "name": "謎の少女 縫",
@@ -695,7 +731,8 @@
         "id": "KLK/S27-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-038": {
     "name": "変装",
@@ -713,7 +750,8 @@
         "id": "KLK/S27-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-039": {
     "name": "不意打ちの告白",
@@ -735,7 +773,8 @@
         "id": "KLK/S27-039R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-040": {
     "name": "神羅纐纈、絶対服従！",
@@ -753,7 +792,8 @@
         "id": "KLK/S27-040",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KLK/S27-041": {
     "name": "新しい自分へ 流子",
@@ -775,7 +815,8 @@
         "id": "KLK/S27-041R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-042": {
     "name": "決めて着るから決着！ 流子",
@@ -797,7 +838,8 @@
         "id": "KLK/S27-042SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-043": {
     "name": "深まる絆 流子",
@@ -815,7 +857,8 @@
         "id": "KLK/S27-043",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-044": {
     "name": "鮮血奪還！ 流子",
@@ -833,7 +876,8 @@
         "id": "KLK/S27-044",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-045": {
     "name": "流子の一張羅 鮮血",
@@ -855,7 +899,8 @@
         "id": "KLK/S27-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-046": {
     "name": "鮮血との出会い 流子",
@@ -877,7 +922,8 @@
         "id": "KLK/S27-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-047": {
     "name": "“暴走”流子",
@@ -895,7 +941,8 @@
         "id": "KLK/S27-047",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-048": {
     "name": "宣戦布告！ 流子",
@@ -913,7 +960,8 @@
         "id": "KLK/S27-048",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-049": {
     "name": "流子の父 一身",
@@ -931,7 +979,8 @@
         "id": "KLK/S27-049",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-050": {
     "name": "鮮血と共に 皐月",
@@ -949,7 +998,8 @@
         "id": "KLK/S27-050",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-051": {
     "name": "純潔を身に纏う流子",
@@ -967,7 +1017,8 @@
         "id": "KLK/S27-051",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-052": {
     "name": "ヌーディスト・ビーチの一員 黄長瀬",
@@ -985,7 +1036,8 @@
         "id": "KLK/S27-052",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-053": {
     "name": "届いた声 鮮血",
@@ -1003,7 +1055,8 @@
         "id": "KLK/S27-053",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-054": {
     "name": "気持ちは一緒！ マコ",
@@ -1021,7 +1074,8 @@
         "id": "KLK/S27-054",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-055": {
     "name": "鮮血を身に纏う皐月",
@@ -1039,7 +1093,8 @@
         "id": "KLK/S27-055",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-056": {
     "name": "“片太刀バサミの女”を捜す流子",
@@ -1057,7 +1112,8 @@
         "id": "KLK/S27-056",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-057": {
     "name": "隣の席 マコ",
@@ -1075,7 +1131,8 @@
         "id": "KLK/S27-057",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-058": {
     "name": "転校生 流子",
@@ -1093,7 +1150,8 @@
         "id": "KLK/S27-058",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-059": {
     "name": "しゃべるセーラー服 鮮血",
@@ -1111,7 +1169,8 @@
         "id": "KLK/S27-059",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-060": {
     "name": "難波金満高校 宝多",
@@ -1129,7 +1188,8 @@
         "id": "KLK/S27-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-061": {
     "name": "鮮血との力 流子",
@@ -1147,7 +1207,8 @@
         "id": "KLK/S27-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-062": {
     "name": "空を見上げる皐月",
@@ -1165,7 +1226,8 @@
         "id": "KLK/S27-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-063": {
     "name": "裸のヌーディスト 美木杉",
@@ -1183,7 +1245,8 @@
         "id": "KLK/S27-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-064": {
     "name": "つながる血 流子",
@@ -1201,7 +1264,8 @@
         "id": "KLK/S27-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-065": {
     "name": "謎の男 美木杉",
@@ -1219,7 +1283,8 @@
         "id": "KLK/S27-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-066": {
     "name": "純潔",
@@ -1241,7 +1306,8 @@
         "id": "KLK/S27-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-067": {
     "name": "赤手甲",
@@ -1259,7 +1325,8 @@
         "id": "KLK/S27-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-068": {
     "name": "セーラー服とは卒業するものだ",
@@ -1281,7 +1348,8 @@
         "id": "KLK/S27-068R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-069": {
     "name": "因縁の戦い",
@@ -1299,7 +1367,8 @@
         "id": "KLK/S27-069",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KLK/S27-070": {
     "name": "人衣一体、神衣鮮血！",
@@ -1317,7 +1386,8 @@
         "id": "KLK/S27-070",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KLK/S27-071": {
     "name": "野望を抱く皐月",
@@ -1339,7 +1409,8 @@
         "id": "KLK/S27-071R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-072": {
     "name": "守りたい世界のために 皐月",
@@ -1361,7 +1432,8 @@
         "id": "KLK/S27-072SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-073": {
     "name": "決戦を前に 皐月",
@@ -1383,7 +1455,8 @@
         "id": "KLK/S27-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-074": {
     "name": "大望の第一歩 皐月",
@@ -1401,7 +1474,8 @@
         "id": "KLK/S27-074",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-075": {
     "name": "天才ハッカー  犬牟田",
@@ -1419,7 +1493,8 @@
         "id": "KLK/S27-075",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-076": {
     "name": "凄まじい気迫 皐月",
@@ -1437,7 +1512,8 @@
         "id": "KLK/S27-076",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-077": {
     "name": "志高く 皐月",
@@ -1455,7 +1531,8 @@
         "id": "KLK/S27-077",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-078": {
     "name": "皐月の幼なじみ 蛇崩",
@@ -1473,7 +1550,8 @@
         "id": "KLK/S27-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-079": {
     "name": "裁縫部部長 伊織",
@@ -1491,7 +1569,8 @@
         "id": "KLK/S27-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-080": {
     "name": "風紀を取り締まる蟇郡",
@@ -1509,7 +1588,8 @@
         "id": "KLK/S27-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-081": {
     "name": "実家はコンニャク製造業 猿投山",
@@ -1527,7 +1607,8 @@
         "id": "KLK/S27-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-082": {
     "name": "曲の冒頭へ 蛇崩",
@@ -1545,7 +1626,8 @@
         "id": "KLK/S27-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-083": {
     "name": "勝機を見いだす皐月",
@@ -1563,7 +1645,8 @@
         "id": "KLK/S27-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-084": {
     "name": "天眼通を超える心眼通 猿投山",
@@ -1581,7 +1664,8 @@
         "id": "KLK/S27-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-085": {
     "name": "皐月の執事 揃",
@@ -1599,7 +1683,8 @@
         "id": "KLK/S27-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-086": {
     "name": "摩天楼の最上階で 皐月",
@@ -1617,7 +1702,8 @@
         "id": "KLK/S27-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-087": {
     "name": "生徒会四天王 犬牟田",
@@ -1635,7 +1721,8 @@
         "id": "KLK/S27-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-088": {
     "name": "生徒会四天王 蛇崩",
@@ -1653,7 +1740,8 @@
         "id": "KLK/S27-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-089": {
     "name": "絶対的な恐怖 皐月",
@@ -1671,7 +1759,8 @@
         "id": "KLK/S27-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-090": {
     "name": "変身するたび変態 蟇郡",
@@ -1689,7 +1778,8 @@
         "id": "KLK/S27-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-091": {
     "name": "生徒会四天王 猿投山",
@@ -1707,7 +1797,8 @@
         "id": "KLK/S27-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-092": {
     "name": "生徒会四天王 蟇郡",
@@ -1725,7 +1816,8 @@
         "id": "KLK/S27-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-093": {
     "name": "データ主義 犬牟田",
@@ -1743,7 +1835,8 @@
         "id": "KLK/S27-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-094": {
     "name": "微笑む皐月",
@@ -1761,7 +1854,8 @@
         "id": "KLK/S27-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KLK/S27-095": {
     "name": "純潔",
@@ -1783,7 +1877,8 @@
         "id": "KLK/S27-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-096": {
     "name": "揃の紅茶",
@@ -1801,7 +1896,8 @@
         "id": "KLK/S27-096",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-097": {
     "name": "本能字学園へ",
@@ -1823,7 +1919,8 @@
         "id": "KLK/S27-097R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KLK/S27-098": {
     "name": "我が行動に一点の曇り無し！",
@@ -1841,7 +1938,8 @@
         "id": "KLK/S27-098",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "KLK/S27-099": {
     "name": "人衣圧倒、神衣純潔！",
@@ -1859,7 +1957,8 @@
         "id": "KLK/S27-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KLK/S27-100": {
     "name": "本能字四天王、極戦装束！",
@@ -1877,6 +1976,7 @@
         "id": "KLK/S27-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

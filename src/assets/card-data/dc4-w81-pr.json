@@ -15,7 +15,8 @@
         "id": "DC4/W81-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/W81-P07": {
     "name": "天空に浮かぶ桜",
@@ -33,7 +34,8 @@
         "id": "DC4/W81-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC4/W81-P05": {
     "name": "とろける笑顔 有里栖",
@@ -51,6 +53,7 @@
         "id": "DC4/W81-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

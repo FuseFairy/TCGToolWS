@@ -15,7 +15,8 @@
         "id": "MR/W59-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W59-P02": {
     "name": "“稽古は続く”かりん＆杏子＆フェリシア",
@@ -33,7 +34,8 @@
         "id": "MR/W59-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W59-P03": {
     "name": "“あたたかいクリスマス”まどか",
@@ -51,7 +53,8 @@
         "id": "MR/W59-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W59-101": {
     "name": "ちび鶴乃",
@@ -69,7 +72,8 @@
         "id": "MR/W59-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W59-102": {
     "name": "ちびフェリシア",
@@ -87,7 +91,8 @@
         "id": "MR/W59-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W59-103": {
     "name": "ちびさな",
@@ -105,7 +110,8 @@
         "id": "MR/W59-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MR/W59-104": {
     "name": "ちびいろは",
@@ -123,7 +129,8 @@
         "id": "MR/W59-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MR/W59-105": {
     "name": "ちびやちよ",
@@ -141,6 +148,7 @@
         "id": "MR/W59-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

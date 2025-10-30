@@ -15,7 +15,8 @@
         "id": "AB/WE14-01",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/WE14-02": {
     "name": "天使の翼 かなで",
@@ -33,7 +34,8 @@
         "id": "AB/WE14-02",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/WE14-03": {
     "name": "心配するかなで",
@@ -51,7 +53,8 @@
         "id": "AB/WE14-03",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/WE14-04": {
     "name": "クールビューティー 岩沢",
@@ -69,7 +72,8 @@
         "id": "AB/WE14-04",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/WE14-05": {
     "name": "憧れの実現 ユイ",
@@ -87,7 +91,8 @@
         "id": "AB/WE14-05",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/WE14-06": {
     "name": "青空の下のかなで",
@@ -105,7 +110,8 @@
         "id": "AB/WE14-06",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/WE14-07": {
     "name": "いつでも一緒 関根＆入江",
@@ -123,7 +129,8 @@
         "id": "AB/WE14-07",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/WE14-08": {
     "name": "ユイ＆日向",
@@ -141,7 +148,8 @@
         "id": "AB/WE14-08",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/WE14-09": {
     "name": "あどけない瞳 かなで",
@@ -159,7 +167,8 @@
         "id": "AB/WE14-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/WE14-10": {
     "name": "催眠術師 直井",
@@ -177,7 +186,8 @@
         "id": "AB/WE14-10",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/WE14-11": {
     "name": "静かな佇まい かなで",
@@ -195,7 +205,8 @@
         "id": "AB/WE14-11",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/WE14-12": {
     "name": "かなで＆音無",
@@ -213,7 +224,8 @@
         "id": "AB/WE14-12",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/WE14-13": {
     "name": "野球少女 ユイ",
@@ -231,7 +243,8 @@
         "id": "AB/WE14-13",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/WE14-14": {
     "name": "何気ない仕草 かなで",
@@ -249,7 +262,8 @@
         "id": "AB/WE14-14",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/WE14-15": {
     "name": "入江＆ひさ子",
@@ -267,7 +281,8 @@
         "id": "AB/WE14-15",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/WE14-16": {
     "name": "ピンクのケープ かなで",
@@ -285,7 +300,8 @@
         "id": "AB/WE14-16",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/WE14-17": {
     "name": "ガルデモの思い出",
@@ -303,7 +319,8 @@
         "id": "AB/WE14-17",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "AB/WE14-18": {
     "name": "別れの時",
@@ -321,7 +338,8 @@
         "id": "AB/WE14-18",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/WE14-19": {
     "name": "冬の日のゆり",
@@ -339,7 +357,8 @@
         "id": "AB/WE14-19",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/WE14-20": {
     "name": "戦線への勧誘 ゆり",
@@ -357,7 +376,8 @@
         "id": "AB/WE14-20",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/WE14-21": {
     "name": "不敵な視線 ゆり",
@@ -375,7 +395,8 @@
         "id": "AB/WE14-21",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/WE14-22": {
     "name": "武芸達者 椎名",
@@ -393,7 +414,8 @@
         "id": "AB/WE14-22",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/WE14-23": {
     "name": "伝令役 遊佐",
@@ -411,7 +433,8 @@
         "id": "AB/WE14-23",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/WE14-24": {
     "name": "単独行動 ゆり",
@@ -429,7 +452,8 @@
         "id": "AB/WE14-24",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/WE14-25": {
     "name": "英語は苦手 TK",
@@ -447,7 +471,8 @@
         "id": "AB/WE14-25",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/WE14-26": {
     "name": "野田＆大山",
@@ -465,7 +490,8 @@
         "id": "AB/WE14-26",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/WE14-27": {
     "name": "みんなの大黒柱 ゆり",
@@ -483,7 +509,8 @@
         "id": "AB/WE14-27",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/WE14-28": {
     "name": "天才ハッカー 竹山",
@@ -501,7 +528,8 @@
         "id": "AB/WE14-28",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/WE14-29": {
     "name": "水着のゆり",
@@ -519,7 +547,8 @@
         "id": "AB/WE14-29",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/WE14-30": {
     "name": "噛ませ犬 藤巻",
@@ -537,7 +566,8 @@
         "id": "AB/WE14-30",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/WE14-31": {
     "name": "理不尽な要求 ゆり",
@@ -555,7 +585,8 @@
         "id": "AB/WE14-31",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/WE14-32": {
     "name": "脱ぎ足りない高松",
@@ -573,7 +604,8 @@
         "id": "AB/WE14-32",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "AB/WE14-33": {
     "name": "それぞれの道 ゆり",
@@ -591,7 +623,8 @@
         "id": "AB/WE14-33",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/WE14-34": {
     "name": "戦線の名コンビ 日向＆音無",
@@ -609,7 +642,8 @@
         "id": "AB/WE14-34",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/WE14-35": {
     "name": "姉妹のような二人 かなで＆ゆり",
@@ -627,7 +661,8 @@
         "id": "AB/WE14-35",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "AB/WE14-36": {
     "name": "戦いの後",
@@ -645,6 +680,7 @@
         "id": "AB/WE14-36",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

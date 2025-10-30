@@ -15,7 +15,8 @@
         "id": "DC3/W18-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-P02": {
     "name": "メイド服の姫乃",
@@ -33,7 +34,8 @@
         "id": "DC3/W18-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-P03": {
     "name": "桜に佇む姫乃",
@@ -51,7 +53,8 @@
         "id": "DC3/W18-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-P04": {
     "name": "新聞部 シャルル＆さら",
@@ -69,7 +72,8 @@
         "id": "DC3/W18-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-P05": {
     "name": "いつでも笑顔 葵",
@@ -87,7 +91,8 @@
         "id": "DC3/W18-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-P06": {
     "name": "真面目で頑張り屋さん さら",
@@ -105,7 +110,8 @@
         "id": "DC3/W18-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-P07": {
     "name": "学園のアイドル 立夏",
@@ -123,7 +129,8 @@
         "id": "DC3/W18-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-P08": {
     "name": "甘やかしお姉さん シャルル",
@@ -141,7 +148,8 @@
         "id": "DC3/W18-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-P09": {
     "name": "素直になれない幼なじみ 姫乃",
@@ -159,7 +167,8 @@
         "id": "DC3/W18-P09",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-P10": {
     "name": "水着の立夏",
@@ -177,7 +186,8 @@
         "id": "DC3/W18-P10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-P11": {
     "name": "寄り道 葵＆さら",
@@ -195,7 +205,8 @@
         "id": "DC3/W18-P11",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-P12": {
     "name": "お昼寝 さら",
@@ -213,7 +224,8 @@
         "id": "DC3/W18-P12",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-106": {
     "name": "ちび葵",
@@ -231,7 +243,8 @@
         "id": "DC3/W18-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-107": {
     "name": "ちびシャルル",
@@ -249,7 +262,8 @@
         "id": "DC3/W18-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/W18-108": {
     "name": "ちびさら",
@@ -267,7 +281,8 @@
         "id": "DC3/W18-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-109": {
     "name": "ちび姫乃",
@@ -285,7 +300,8 @@
         "id": "DC3/W18-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/W18-110": {
     "name": "ちび立夏",
@@ -303,6 +319,7 @@
         "id": "DC3/W18-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

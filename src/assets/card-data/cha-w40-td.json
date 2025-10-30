@@ -15,7 +15,8 @@
         "id": "CHA/W40-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-T02": {
     "name": "“導き”友利 奈緒",
@@ -33,7 +34,8 @@
         "id": "CHA/W40-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-T03": {
     "name": "“青春の行方”西森 柚咲",
@@ -51,7 +53,8 @@
         "id": "CHA/W40-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-T04": {
     "name": "西森 柚咲",
@@ -69,7 +72,8 @@
         "id": "CHA/W40-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-T05": {
     "name": "“柚咲の亡き姉”美砂",
@@ -87,7 +91,8 @@
         "id": "CHA/W40-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-T06": {
     "name": "“身辺調査”友利 奈緒",
@@ -105,7 +110,8 @@
         "id": "CHA/W40-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-T07": {
     "name": "友利 奈緒",
@@ -123,7 +129,8 @@
         "id": "CHA/W40-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-T08": {
     "name": "“青春の行方”友利 奈緒",
@@ -141,7 +148,8 @@
         "id": "CHA/W40-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-T09": {
     "name": "絶望の旋律",
@@ -159,7 +167,8 @@
         "id": "CHA/W40-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-T10": {
     "name": "“手作り料理の毎日”乙坂 歩未",
@@ -177,7 +186,8 @@
         "id": "CHA/W40-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-T11": {
     "name": "“巧妙な策略”乙坂 有宇",
@@ -195,7 +205,8 @@
         "id": "CHA/W40-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-T12": {
     "name": "“テンションMAX”乙坂 歩未",
@@ -213,7 +224,8 @@
         "id": "CHA/W40-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-T13": {
     "name": "“乙坂家の食卓”乙坂 歩未",
@@ -231,7 +243,8 @@
         "id": "CHA/W40-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-T14": {
     "name": "“乙坂家の食卓”乙坂 有宇",
@@ -249,7 +262,8 @@
         "id": "CHA/W40-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-T15": {
     "name": "“青春の行方”乙坂 有宇",
@@ -267,7 +281,8 @@
         "id": "CHA/W40-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-T16": {
     "name": "“陽野森高校のマドンナ”白柳 弓",
@@ -285,7 +300,8 @@
         "id": "CHA/W40-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-T17": {
     "name": "高城 丈士朗",
@@ -303,7 +319,8 @@
         "id": "CHA/W40-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CHA/W40-T18": {
     "name": "乙坂家ひでん！ピザソース",
@@ -321,7 +338,8 @@
         "id": "CHA/W40-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CHA/W40-T19": {
     "name": "特殊能力",
@@ -339,7 +357,8 @@
         "id": "CHA/W40-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CHA/W40-T20": {
     "name": "我他人を思う",
@@ -357,6 +376,7 @@
         "id": "CHA/W40-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

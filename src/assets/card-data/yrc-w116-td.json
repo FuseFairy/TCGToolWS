@@ -19,7 +19,8 @@
         "id": "YRC/W116-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-T02": {
     "name": "帰り道 恵那",
@@ -41,7 +42,8 @@
         "id": "YRC/W116-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-T03": {
     "name": "「おはよう」な格好 恵那",
@@ -63,7 +65,8 @@
         "id": "YRC/W116-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-T04": {
     "name": "志摩リン",
@@ -89,7 +92,8 @@
         "id": "YRC/W116-T04SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-T05": {
     "name": "野クル顧問 鳥羽先生",
@@ -111,7 +115,8 @@
         "id": "YRC/W116-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-T06": {
     "name": "キャンプが楽しみ！ なでしこ",
@@ -133,7 +138,8 @@
         "id": "YRC/W116-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-T07": {
     "name": "大きな伸び リン",
@@ -155,7 +161,8 @@
         "id": "YRC/W116-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-T08": {
     "name": "斉藤恵那",
@@ -177,7 +184,8 @@
         "id": "YRC/W116-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-T09": {
     "name": "火起こし リン",
@@ -199,7 +207,8 @@
         "id": "YRC/W116-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-T10": {
     "name": "たのしい、更新中。",
@@ -221,7 +230,8 @@
         "id": "YRC/W116-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-T11": {
     "name": "ソロキャン",
@@ -243,7 +253,8 @@
         "id": "YRC/W116-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-T12": {
     "name": "アルストをつくろう 千明",
@@ -265,7 +276,8 @@
         "id": "YRC/W116-T12R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-T13": {
     "name": "アルストをつくろう あおい",
@@ -287,7 +299,8 @@
         "id": "YRC/W116-T13R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-T14": {
     "name": "各務原なでしこ",
@@ -313,7 +326,8 @@
         "id": "YRC/W116-T14SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-T15": {
     "name": "犬山あおい",
@@ -335,7 +349,8 @@
         "id": "YRC/W116-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-T16": {
     "name": "大垣千明",
@@ -357,7 +372,8 @@
         "id": "YRC/W116-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-T17": {
     "name": "庭デイキャン あおい",
@@ -379,7 +395,8 @@
         "id": "YRC/W116-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-T18": {
     "name": "スッキリカット 千明",
@@ -401,7 +418,8 @@
         "id": "YRC/W116-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "YRC/W116-T19": {
     "name": "ちくわ",
@@ -423,7 +441,8 @@
         "id": "YRC/W116-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "YRC/W116-T20": {
     "name": "ちくわとたわむれ",
@@ -445,6 +464,7 @@
         "id": "YRC/W116-T20R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

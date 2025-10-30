@@ -19,7 +19,8 @@
         "id": "LNJ/W85-T01r",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-T02": {
     "name": "叶える力 桜坂 しずく",
@@ -41,7 +42,8 @@
         "id": "LNJ/W85-T02r",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-T03": {
     "name": "大ピンチ発生 天王寺 璃奈",
@@ -59,7 +61,8 @@
         "id": "LNJ/W85-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-T04": {
     "name": "キモチシンパシー 天王寺 璃奈",
@@ -81,7 +84,8 @@
         "id": "LNJ/W85-T04r",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-T05": {
     "name": "苦手克服？ 桜坂 しずく",
@@ -99,7 +103,8 @@
         "id": "LNJ/W85-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-T06": {
     "name": "愛されかすかす 中須 かすみ",
@@ -117,7 +122,8 @@
         "id": "LNJ/W85-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-T07": {
     "name": "お馴染みの味 上原 歩夢",
@@ -135,7 +141,8 @@
         "id": "LNJ/W85-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-T08": {
     "name": "自慢のお弁当！ 宮下 愛",
@@ -153,7 +160,8 @@
         "id": "LNJ/W85-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-T09": {
     "name": "仲間だから！ 優木 せつ菜",
@@ -171,7 +179,8 @@
         "id": "LNJ/W85-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-T10": {
     "name": "夢への階段 上原 歩夢",
@@ -197,7 +206,8 @@
         "id": "LNJ/W85-T10sp",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-T11": {
     "name": "ダジャレアタック 宮下 愛",
@@ -219,7 +229,8 @@
         "id": "LNJ/W85-T11r",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-T12": {
     "name": "LOVE＆PEACE 優木 せつ菜",
@@ -241,7 +252,8 @@
         "id": "LNJ/W85-T12r",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-T13": {
     "name": "もう一度、スタート！",
@@ -259,7 +271,8 @@
         "id": "LNJ/W85-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-T14": {
     "name": "TOKIMEKI Runners",
@@ -281,7 +294,8 @@
         "id": "LNJ/W85-T14s",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-T15": {
     "name": "みんなを想って",
@@ -299,7 +313,8 @@
         "id": "LNJ/W85-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "LNJ/W85-T16": {
     "name": "頂を目指して 朝香 果林",
@@ -321,7 +336,8 @@
         "id": "LNJ/W85-T16r",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-T17": {
     "name": "大自然の息吹き エマ・ヴェルデ",
@@ -343,7 +359,8 @@
         "id": "LNJ/W85-T17r",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-T18": {
     "name": "彼方の事情 近江 彼方",
@@ -361,7 +378,8 @@
         "id": "LNJ/W85-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "LNJ/W85-T19": {
     "name": "夢物語 近江 彼方",
@@ -383,7 +401,8 @@
         "id": "LNJ/W85-T19r",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-T20": {
     "name": "お部屋訪問！ エマ・ヴェルデ",
@@ -401,7 +420,8 @@
         "id": "LNJ/W85-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "LNJ/W85-T21": {
     "name": "たまにはこんな休日もね♪ 朝香 果林",
@@ -419,6 +439,7 @@
         "id": "LNJ/W85-T21",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

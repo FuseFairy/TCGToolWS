@@ -15,7 +15,8 @@
         "id": "CL/WP01-09",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CL/WP01-10": {
     "name": "あたたかな奇跡 渚",
@@ -33,6 +34,7 @@
         "id": "CL/WP01-10",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

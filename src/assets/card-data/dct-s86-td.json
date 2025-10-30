@@ -19,7 +19,8 @@
         "id": "DCT/S86-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-T02": {
     "name": "三浦 無弦",
@@ -37,7 +38,8 @@
         "id": "DCT/S86-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-T03": {
     "name": "見た目は子供 ジェシカ",
@@ -55,7 +57,8 @@
         "id": "DCT/S86-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-T04": {
     "name": "大寝屋 周一",
@@ -73,7 +76,8 @@
         "id": "DCT/S86-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-T05": {
     "name": "愛されし聖母 茉莉亜",
@@ -91,7 +95,8 @@
         "id": "DCT/S86-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-T06": {
     "name": "毛利 玲菜",
@@ -109,7 +114,8 @@
         "id": "DCT/S86-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-T07": {
     "name": "橙田 ありや",
@@ -131,7 +137,8 @@
         "id": "DCT/S86-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-T08": {
     "name": "織田 龍平",
@@ -149,7 +156,8 @@
         "id": "DCT/S86-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-T09": {
     "name": "登校の約束 ありや",
@@ -171,7 +179,8 @@
         "id": "DCT/S86-T09SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-T10": {
     "name": "道はただ延々と",
@@ -193,7 +202,8 @@
         "id": "DCT/S86-T10S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-T11": {
     "name": "戦いの決意",
@@ -211,7 +221,8 @@
         "id": "DCT/S86-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DCT/S86-T12": {
     "name": "照らされた鮮血 える",
@@ -233,7 +244,8 @@
         "id": "DCT/S86-T12SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-T13": {
     "name": "伏辺 或斗",
@@ -251,7 +263,8 @@
         "id": "DCT/S86-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-T14": {
     "name": "イケイケお嬢様 愛莉",
@@ -273,7 +286,8 @@
         "id": "DCT/S86-T14R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-T15": {
     "name": "古堅 蘭堂",
@@ -295,7 +309,8 @@
         "id": "DCT/S86-T15S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-T16": {
     "name": "伊吹咲 愛莉",
@@ -313,7 +328,8 @@
         "id": "DCT/S86-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-T17": {
     "name": "天海 える",
@@ -335,7 +351,8 @@
         "id": "DCT/S86-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DCT/S86-T18": {
     "name": "カフェで自撮り",
@@ -353,7 +370,8 @@
         "id": "DCT/S86-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DCT/S86-T19": {
     "name": "踊る絵心",
@@ -371,6 +389,7 @@
         "id": "DCT/S86-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

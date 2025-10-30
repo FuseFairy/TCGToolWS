@@ -19,7 +19,8 @@
         "id": "RSL/S98-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-P02": {
     "name": "運命の舞台へのチケット 神楽 ひかり",
@@ -41,7 +42,8 @@
         "id": "RSL/S98-P02S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-P03": {
     "name": "二人のひととき 華恋＆ひかり",
@@ -59,7 +61,8 @@
         "id": "RSL/S98-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-P04": {
     "name": "大好きなみんなと 愛城 華恋",
@@ -81,7 +84,8 @@
         "id": "RSL/S98-P04S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-P05": {
     "name": "大好きなみんなと 神楽 ひかり",
@@ -103,7 +107,8 @@
         "id": "RSL/S98-P05S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-P06": {
     "name": "大好きなみんなと 天堂 真矢",
@@ -125,7 +130,8 @@
         "id": "RSL/S98-P06S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-P07": {
     "name": "大好きなみんなと 星見 純那",
@@ -147,7 +153,8 @@
         "id": "RSL/S98-P07S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-P08": {
     "name": "大好きなみんなと 露崎 まひる",
@@ -169,7 +176,8 @@
         "id": "RSL/S98-P08S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-P09": {
     "name": "大好きなみんなと 大場 なな",
@@ -191,7 +199,8 @@
         "id": "RSL/S98-P09S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-P10": {
     "name": "大好きなみんなと 西條 クロディーヌ",
@@ -213,7 +222,8 @@
         "id": "RSL/S98-P10S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-P11": {
     "name": "大好きなみんなと 石動 双葉",
@@ -235,7 +245,8 @@
         "id": "RSL/S98-P11S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-P12": {
     "name": "大好きなみんなと 花柳 香子",
@@ -257,7 +268,8 @@
         "id": "RSL/S98-P12S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-P13": {
     "name": "舞台奏像劇 遙かなるエルドラド",
@@ -275,7 +287,8 @@
         "id": "RSL/S98-P13",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-101": {
     "name": "飛び出し舞台少女 愛城 華恋",
@@ -293,7 +306,8 @@
         "id": "RSL/S98-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-102": {
     "name": "飛び出し舞台少女 神楽 ひかり",
@@ -311,7 +325,8 @@
         "id": "RSL/S98-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-103": {
     "name": "飛び出し舞台少女 露崎 まひる",
@@ -329,7 +344,8 @@
         "id": "RSL/S98-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-104": {
     "name": "飛び出し舞台少女 西條 クロディーヌ",
@@ -347,7 +363,8 @@
         "id": "RSL/S98-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-105": {
     "name": "飛び出し舞台少女 天堂 真矢",
@@ -365,7 +382,8 @@
         "id": "RSL/S98-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-106": {
     "name": "飛び出し舞台少女 星見 純那",
@@ -383,7 +401,8 @@
         "id": "RSL/S98-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-107": {
     "name": "飛び出し舞台少女 大場 なな",
@@ -401,7 +420,8 @@
         "id": "RSL/S98-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S98-108": {
     "name": "飛び出し舞台少女 花柳 香子",
@@ -419,7 +439,8 @@
         "id": "RSL/S98-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S98-109": {
     "name": "飛び出し舞台少女 石動 双葉",
@@ -437,6 +458,7 @@
         "id": "RSL/S98-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

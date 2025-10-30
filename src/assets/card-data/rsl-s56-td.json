@@ -19,7 +19,8 @@
         "id": "RSL/S56-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-T02": {
     "name": "運命の舞台 花柳 香子",
@@ -41,7 +42,8 @@
         "id": "RSL/S56-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-T03": {
     "name": "殺陣に挑む 石動 双葉",
@@ -59,7 +61,8 @@
         "id": "RSL/S56-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-T04": {
     "name": "生粋のお嬢様 花柳 香子",
@@ -77,7 +80,8 @@
         "id": "RSL/S56-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-T05": {
     "name": "私たちだけの舞台 大場 なな",
@@ -95,7 +99,8 @@
         "id": "RSL/S56-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-T06": {
     "name": "運命の舞台 大場 なな",
@@ -117,7 +122,8 @@
         "id": "RSL/S56-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-T07": {
     "name": "俳優育成科の授業",
@@ -135,7 +141,8 @@
         "id": "RSL/S56-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-T08": {
     "name": "運命の舞台 神楽 ひかり",
@@ -157,7 +164,8 @@
         "id": "RSL/S56-T08SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-T09": {
     "name": "運命の舞台 露崎 まひる",
@@ -179,7 +187,8 @@
         "id": "RSL/S56-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-T10": {
     "name": "天性の舞台少女 神楽 ひかり",
@@ -197,7 +206,8 @@
         "id": "RSL/S56-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-T11": {
     "name": "『運命』の交換 ひかり＆華恋",
@@ -219,7 +229,8 @@
         "id": "RSL/S56-T11S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-T12": {
     "name": "分かりやすい反応 露崎 まひる",
@@ -237,7 +248,8 @@
         "id": "RSL/S56-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-T13": {
     "name": "運命の舞台 愛城 華恋",
@@ -259,7 +271,8 @@
         "id": "RSL/S56-T13SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-T14": {
     "name": "約束の髪留め",
@@ -277,7 +290,8 @@
         "id": "RSL/S56-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-T15": {
     "name": "『トップスタァ』への道",
@@ -299,7 +313,8 @@
         "id": "RSL/S56-T15S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-T16": {
     "name": "転校生への興味 西條 クロディーヌ",
@@ -317,7 +332,8 @@
         "id": "RSL/S56-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-T17": {
     "name": "運命の舞台 天堂 真矢",
@@ -339,7 +355,8 @@
         "id": "RSL/S56-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-T18": {
     "name": "『スタァライト』への思い 星見 純那",
@@ -357,7 +374,8 @@
         "id": "RSL/S56-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "RSL/S56-T19": {
     "name": "運命の舞台 星見 純那",
@@ -379,7 +397,8 @@
         "id": "RSL/S56-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-T20": {
     "name": "運命の舞台 西條 クロディーヌ",
@@ -401,7 +420,8 @@
         "id": "RSL/S56-T20R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-T21": {
     "name": "転校生とのエチュード 天堂 真矢",
@@ -419,7 +439,8 @@
         "id": "RSL/S56-T21",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RSL/S56-T22": {
     "name": "強烈な輝き",
@@ -437,6 +458,7 @@
         "id": "RSL/S56-T22",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

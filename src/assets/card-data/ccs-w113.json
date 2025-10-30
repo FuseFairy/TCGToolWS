@@ -19,7 +19,8 @@
         "id": "CCS/W113-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-002": {
     "name": "“守護者”ケロちゃん",
@@ -41,7 +42,8 @@
         "id": "CCS/W113-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-003": {
     "name": "“歩んだ軌跡” 木之本桜",
@@ -63,7 +65,8 @@
         "id": "CCS/W113-003SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-004": {
     "name": "“妹想い”木之本桃矢",
@@ -85,7 +88,8 @@
         "id": "CCS/W113-004SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-005": {
     "name": "“カードキャプター誕生”木之本桜",
@@ -107,7 +111,8 @@
         "id": "CCS/W113-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-006": {
     "name": "“扉をあけて”木之本桜",
@@ -129,7 +134,8 @@
         "id": "CCS/W113-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-007": {
     "name": "“自由な翼”木之本桜",
@@ -151,7 +157,8 @@
         "id": "CCS/W113-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-008": {
     "name": "“風に吹かれて”木之本桜",
@@ -173,7 +180,8 @@
         "id": "CCS/W113-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-009": {
     "name": "“すてきなクリスマス”木之本桜",
@@ -195,7 +203,8 @@
         "id": "CCS/W113-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-010": {
     "name": "“キラキラ”木之本桜",
@@ -217,7 +226,8 @@
         "id": "CCS/W113-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-011": {
     "name": "“空高く”木之本桜",
@@ -239,7 +249,8 @@
         "id": "CCS/W113-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-012": {
     "name": "“ぬいぐるみ?”ケロちゃん",
@@ -261,7 +272,8 @@
         "id": "CCS/W113-012S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-013": {
     "name": "“最後のさくらカード”木之本桜",
@@ -283,7 +295,8 @@
         "id": "CCS/W113-013S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-014": {
     "name": "“お兄ちゃん”木之本桃矢",
@@ -305,7 +318,8 @@
         "id": "CCS/W113-014S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-015": {
     "name": "“強まる力”木之本桜",
@@ -327,7 +341,8 @@
         "id": "CCS/W113-015S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-016": {
     "name": "“星の杖とともに”木之本桜",
@@ -349,7 +364,8 @@
         "id": "CCS/W113-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-017": {
     "name": "“太陽を司りし者”ケロちゃん",
@@ -371,7 +387,8 @@
         "id": "CCS/W113-017S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-018": {
     "name": "“見つめる先に”木之本桜",
@@ -393,7 +410,8 @@
         "id": "CCS/W113-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-019": {
     "name": "“見習いカメラマン”ケロちゃん",
@@ -415,7 +433,8 @@
         "id": "CCS/W113-019S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-020": {
     "name": "木之本藤隆＆木之本桃矢＆木之本桜",
@@ -437,7 +456,8 @@
         "id": "CCS/W113-020S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-021": {
     "name": "さくらカード",
@@ -459,7 +479,8 @@
         "id": "CCS/W113-021S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-022": {
     "name": "クロウカード",
@@ -481,7 +502,8 @@
         "id": "CCS/W113-022S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-023": {
     "name": "ロケットビート",
@@ -503,7 +525,8 @@
         "id": "CCS/W113-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-024": {
     "name": "大いなる力",
@@ -525,7 +548,8 @@
         "id": "CCS/W113-024R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-025": {
     "name": "星の力",
@@ -547,7 +571,8 @@
         "id": "CCS/W113-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "CCS/W113-026": {
     "name": "“臨戦態勢”李小狼",
@@ -569,7 +594,8 @@
         "id": "CCS/W113-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-027": {
     "name": "“内緒話”木之本桜",
@@ -591,7 +617,8 @@
         "id": "CCS/W113-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-028": {
     "name": "“通じ合う気持ち”李小狼＆木之本桜",
@@ -613,7 +640,8 @@
         "id": "CCS/W113-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-029": {
     "name": "“嵐の前兆”木之本桜",
@@ -635,7 +663,8 @@
         "id": "CCS/W113-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-030": {
     "name": "“プラチナ”木之本桜",
@@ -657,7 +686,8 @@
         "id": "CCS/W113-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-031": {
     "name": "“きれいな空”木之本桜",
@@ -679,7 +709,8 @@
         "id": "CCS/W113-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-032": {
     "name": "“与えられた使命”木之本桜",
@@ -701,7 +732,8 @@
         "id": "CCS/W113-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-033": {
     "name": "“新たな主”木之本桜",
@@ -723,7 +755,8 @@
         "id": "CCS/W113-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-034": {
     "name": "“大切なくまさん”李小狼",
@@ -745,7 +778,8 @@
         "id": "CCS/W113-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-035": {
     "name": "“あなたへの想い”木之本桜",
@@ -767,7 +801,8 @@
         "id": "CCS/W113-035S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-036": {
     "name": "“あふれる幸せ”李小狼",
@@ -789,7 +824,8 @@
         "id": "CCS/W113-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-037": {
     "name": "“クロウカードを集めし者”李小狼＆木之本桜",
@@ -811,7 +847,8 @@
         "id": "CCS/W113-037S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-038": {
     "name": "“家族のような存在”ユナ・D・海渡＆詩之本秋穂",
@@ -833,7 +870,8 @@
         "id": "CCS/W113-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-039": {
     "name": "“その手を伸ばして”李小狼",
@@ -855,7 +893,8 @@
         "id": "CCS/W113-039S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-040": {
     "name": "“高鳴るハート”木之本桜",
@@ -877,7 +916,8 @@
         "id": "CCS/W113-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-041": {
     "name": "“蝶々のように”木之本桜",
@@ -899,7 +939,8 @@
         "id": "CCS/W113-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-042": {
     "name": "“優しい表情”李小狼",
@@ -921,7 +962,8 @@
         "id": "CCS/W113-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-043": {
     "name": "“元気が取り柄の女の子”木之本桜",
@@ -943,7 +985,8 @@
         "id": "CCS/W113-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-044": {
     "name": "“鋭いまなざし”李小狼",
@@ -965,7 +1008,8 @@
         "id": "CCS/W113-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-045": {
     "name": "さくらカード",
@@ -987,7 +1031,8 @@
         "id": "CCS/W113-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-046": {
     "name": "学芸会の一幕",
@@ -1009,7 +1054,8 @@
         "id": "CCS/W113-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-047": {
     "name": "みんなと一緒なら",
@@ -1031,7 +1077,8 @@
         "id": "CCS/W113-047R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-048": {
     "name": "翼を広げて",
@@ -1053,7 +1100,8 @@
         "id": "CCS/W113-048R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-049": {
     "name": "やくそく",
@@ -1075,7 +1123,8 @@
         "id": "CCS/W113-049R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-050": {
     "name": "“桜舞う空で”木之本桜",
@@ -1097,7 +1146,8 @@
         "id": "CCS/W113-050SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-051": {
     "name": "“ベストショットですわ！”大道寺知世",
@@ -1119,7 +1169,8 @@
         "id": "CCS/W113-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-052": {
     "name": "“始まりの一歩”木之本桜",
@@ -1141,7 +1192,8 @@
         "id": "CCS/W113-052SSP",
         "rarity": "SSP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-053": {
     "name": "“空の彼方へ”木之本桜＆大道寺知世",
@@ -1163,7 +1215,8 @@
         "id": "CCS/W113-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-054": {
     "name": "“ハート柄コスチューム”木之本桜",
@@ -1185,7 +1238,8 @@
         "id": "CCS/W113-054S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-055": {
     "name": "“炎柄コスチューム”木之本桜",
@@ -1207,7 +1261,8 @@
         "id": "CCS/W113-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-056": {
     "name": "“小狼の幼馴染”李苺鈴",
@@ -1229,7 +1284,8 @@
         "id": "CCS/W113-056SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-057": {
     "name": "“Catch You Catch Me”木之本桜",
@@ -1251,7 +1307,8 @@
         "id": "CCS/W113-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-058": {
     "name": "“影を照らす魔法”木之本桜",
@@ -1273,7 +1330,8 @@
         "id": "CCS/W113-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-059": {
     "name": "“あふれる幸せ”木之本桜",
@@ -1295,7 +1353,8 @@
         "id": "CCS/W113-059S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-060": {
     "name": "“親友のために”大道寺知世",
@@ -1317,7 +1376,8 @@
         "id": "CCS/W113-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-061": {
     "name": "“なかよし”大道寺知世",
@@ -1339,7 +1399,8 @@
         "id": "CCS/W113-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-062": {
     "name": "“これまでも”木之本桜＆大道寺知世",
@@ -1361,7 +1422,8 @@
         "id": "CCS/W113-062S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-063": {
     "name": "“撮影への情熱”大道寺知世",
@@ -1383,7 +1445,8 @@
         "id": "CCS/W113-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-064": {
     "name": "“たたかう転校生”李苺鈴",
@@ -1405,7 +1468,8 @@
         "id": "CCS/W113-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-065": {
     "name": "“これからも”木之本桜＆大道寺知世",
@@ -1427,7 +1491,8 @@
         "id": "CCS/W113-065S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-066": {
     "name": "“見上げた空”木之本桜",
@@ -1449,7 +1514,8 @@
         "id": "CCS/W113-066S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-067": {
     "name": "“小狼の婚約者”李苺鈴",
@@ -1471,7 +1537,8 @@
         "id": "CCS/W113-067S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-068": {
     "name": "“ウォータースライダー”木之本桜",
@@ -1493,7 +1560,8 @@
         "id": "CCS/W113-068S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-069": {
     "name": "固着",
@@ -1515,7 +1583,8 @@
         "id": "CCS/W113-069S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-070": {
     "name": "クロウカード",
@@ -1537,7 +1606,8 @@
         "id": "CCS/W113-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-071": {
     "name": "友枝町のみんなと",
@@ -1559,7 +1629,8 @@
         "id": "CCS/W113-071R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-072": {
     "name": "カードキャプター始動！",
@@ -1581,7 +1652,8 @@
         "id": "CCS/W113-072R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-073": {
     "name": "かけがえのないお友達",
@@ -1603,7 +1675,8 @@
         "id": "CCS/W113-073R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-074": {
     "name": "“満月の夜空”木之本桜",
@@ -1625,7 +1698,8 @@
         "id": "CCS/W113-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-075": {
     "name": "“チア活動”木之本桜",
@@ -1647,7 +1721,8 @@
         "id": "CCS/W113-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-076": {
     "name": "“似たもの同士”木之本桜",
@@ -1669,7 +1744,8 @@
         "id": "CCS/W113-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-077": {
     "name": "“大雨注意報”木之本桜",
@@ -1691,7 +1767,8 @@
         "id": "CCS/W113-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-078": {
     "name": "“似たもの同士”詩之本秋穂",
@@ -1713,7 +1790,8 @@
         "id": "CCS/W113-078SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-079": {
     "name": "“すてきな先生”観月歌帆",
@@ -1735,7 +1813,8 @@
         "id": "CCS/W113-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-080": {
     "name": "ルビー=ムーン＆スピネル・サン＆柊沢エリオル",
@@ -1757,7 +1836,8 @@
         "id": "CCS/W113-080SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-081": {
     "name": "“黒猫風コスチューム”木之本桜",
@@ -1779,7 +1859,8 @@
         "id": "CCS/W113-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-082": {
     "name": "“託した想い”クロウ・リード",
@@ -1801,7 +1882,8 @@
         "id": "CCS/W113-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-083": {
     "name": "“ひつじ注意報”木之本桜",
@@ -1823,7 +1905,8 @@
         "id": "CCS/W113-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-084": {
     "name": "“審判者”月",
@@ -1845,7 +1928,8 @@
         "id": "CCS/W113-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-085": {
     "name": "“感じる気配”木之本桜",
@@ -1867,7 +1951,8 @@
         "id": "CCS/W113-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-086": {
     "name": "“なかよし”木之本桜",
@@ -1889,7 +1974,8 @@
         "id": "CCS/W113-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-087": {
     "name": "“エールをお届け！”木之本桜",
@@ -1911,7 +1997,8 @@
         "id": "CCS/W113-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-088": {
     "name": "“『なかよし』を目指して”木之本桜",
@@ -1933,7 +2020,8 @@
         "id": "CCS/W113-088S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-089": {
     "name": "“柔らかな笑顔”月城雪兎",
@@ -1955,7 +2043,8 @@
         "id": "CCS/W113-089S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-090": {
     "name": "“友枝中学校”木之本桜",
@@ -1977,7 +2066,8 @@
         "id": "CCS/W113-090S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-091": {
     "name": "“クリアな想い”木之本桜",
@@ -1999,7 +2089,8 @@
         "id": "CCS/W113-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-092": {
     "name": "“大切な人”月城雪兎",
@@ -2021,7 +2112,8 @@
         "id": "CCS/W113-092S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-093": {
     "name": "“楽し気な笑顔”木之本桜",
@@ -2043,7 +2135,8 @@
         "id": "CCS/W113-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-094": {
     "name": "“ウキウキ気分”木之本桜",
@@ -2065,7 +2158,8 @@
         "id": "CCS/W113-094S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-095": {
     "name": "“月を司りし者”月",
@@ -2087,7 +2181,8 @@
         "id": "CCS/W113-095S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-096": {
     "name": "“想いを抱きしめて”木之本桜",
@@ -2109,7 +2204,8 @@
         "id": "CCS/W113-096S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-097": {
     "name": "固着",
@@ -2131,7 +2227,8 @@
         "id": "CCS/W113-097S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "CCS/W113-098": {
     "name": "新作衣装撮影会",
@@ -2153,7 +2250,8 @@
         "id": "CCS/W113-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-099": {
     "name": "あまーいクッキング",
@@ -2175,7 +2273,8 @@
         "id": "CCS/W113-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "CCS/W113-100": {
     "name": "始まりの本",
@@ -2197,6 +2296,7 @@
         "id": "CCS/W113-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

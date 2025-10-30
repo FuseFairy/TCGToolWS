@@ -15,7 +15,8 @@
         "id": "Woo/SE19-J01",
         "rarity": "WR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Woo/SE19-J02": {
     "name": "旅に出ます うーさー",
@@ -33,7 +34,8 @@
         "id": "Woo/SE19-J02",
         "rarity": "WR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Woo/SE19-J03": {
     "name": "渾身の土下座 うーさー",
@@ -51,7 +53,8 @@
         "id": "Woo/SE19-J03",
         "rarity": "WR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Woo/SE19-J04": {
     "name": "お買いもの うーさー",
@@ -69,7 +72,8 @@
         "id": "Woo/SE19-J04",
         "rarity": "WR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Woo/SE19-J05": {
     "name": "ホワイトデーの贈り物 うーさー",
@@ -87,6 +91,7 @@
         "id": "Woo/SE19-J05",
         "rarity": "WR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -19,7 +19,8 @@
         "id": "KGL/S79-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-002": {
     "name": "天才たちの真剣勝負 千花",
@@ -41,7 +42,8 @@
         "id": "KGL/S79-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-003": {
     "name": "会心の一撃 千花",
@@ -63,7 +65,8 @@
         "id": "KGL/S79-003S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-004": {
     "name": "赤っ恥 千花",
@@ -81,7 +84,8 @@
         "id": "KGL/S79-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-005": {
     "name": "花火大会 優",
@@ -103,7 +107,8 @@
         "id": "KGL/S79-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-006": {
     "name": "喰う側 千花",
@@ -125,7 +130,8 @@
         "id": "KGL/S79-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-007": {
     "name": "現実からの逃避 優",
@@ -143,7 +149,8 @@
         "id": "KGL/S79-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-008": {
     "name": "戦車級 千花",
@@ -161,7 +168,8 @@
         "id": "KGL/S79-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-009": {
     "name": "カミナリ様 千花",
@@ -179,7 +187,8 @@
         "id": "KGL/S79-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-010": {
     "name": "追い打ち 優",
@@ -197,7 +206,8 @@
         "id": "KGL/S79-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-011": {
     "name": "衣替え 千花",
@@ -215,7 +225,8 @@
         "id": "KGL/S79-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-012": {
     "name": "あたふた 千花",
@@ -233,7 +244,8 @@
         "id": "KGL/S79-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-013": {
     "name": "幸せ税 優",
@@ -251,7 +263,8 @@
         "id": "KGL/S79-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-014": {
     "name": "おせっかい 千花",
@@ -269,7 +282,8 @@
         "id": "KGL/S79-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-015": {
     "name": "想いを馳せる千花",
@@ -287,7 +301,8 @@
         "id": "KGL/S79-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-016": {
     "name": "アクセル全開！ 優",
@@ -305,7 +320,8 @@
         "id": "KGL/S79-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-017": {
     "name": "とまらない優",
@@ -323,7 +339,8 @@
         "id": "KGL/S79-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-018": {
     "name": "ラブ探偵",
@@ -345,7 +362,8 @@
         "id": "KGL/S79-018KR",
         "rarity": "KR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-019": {
     "name": "うるせぇバーカ!!",
@@ -363,7 +381,8 @@
         "id": "KGL/S79-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-020": {
     "name": "イカサマトランプ",
@@ -381,7 +400,8 @@
         "id": "KGL/S79-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-021": {
     "name": "ヨー！メーン♪",
@@ -403,7 +423,8 @@
         "id": "KGL/S79-021KR",
         "rarity": "KR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-022": {
     "name": "ラーメン喰い",
@@ -425,7 +446,8 @@
         "id": "KGL/S79-022R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-023": {
     "name": "壊れたブレーキ",
@@ -447,7 +469,8 @@
         "id": "KGL/S79-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-024": {
     "name": "天才たちの真剣勝負 圭",
@@ -469,7 +492,8 @@
         "id": "KGL/S79-024SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-025": {
     "name": "ラブ探偵 千花",
@@ -491,7 +515,8 @@
         "id": "KGL/S79-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-026": {
     "name": "貫く信条 御行",
@@ -513,7 +538,8 @@
         "id": "KGL/S79-026SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-027": {
     "name": "フラグ？ 千花",
@@ -531,7 +557,8 @@
         "id": "KGL/S79-027",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-028": {
     "name": "主席のプレッシャー 御行",
@@ -553,7 +580,8 @@
         "id": "KGL/S79-028S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-029": {
     "name": "心理テスト 千花",
@@ -575,7 +603,8 @@
         "id": "KGL/S79-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-030": {
     "name": "ある夏の日 圭",
@@ -597,7 +626,8 @@
         "id": "KGL/S79-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-031": {
     "name": "溢れる笑顔 圭",
@@ -615,7 +645,8 @@
         "id": "KGL/S79-031",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-032": {
     "name": "花火大会 千花",
@@ -637,7 +668,8 @@
         "id": "KGL/S79-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-033": {
     "name": "現代が生んだ歪み 御行",
@@ -655,7 +687,8 @@
         "id": "KGL/S79-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-034": {
     "name": "育ての母!? 千花",
@@ -673,7 +706,8 @@
         "id": "KGL/S79-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-035": {
     "name": "ハワイ旅行 千花",
@@ -691,7 +725,8 @@
         "id": "KGL/S79-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-036": {
     "name": "男の矜持 御行",
@@ -709,7 +744,8 @@
         "id": "KGL/S79-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-037": {
     "name": "こんにち殺法 千花",
@@ -727,7 +763,8 @@
         "id": "KGL/S79-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-038": {
     "name": "イカサマトランプ 千花",
@@ -745,7 +782,8 @@
         "id": "KGL/S79-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-039": {
     "name": "賄賂 千花",
@@ -763,7 +801,8 @@
         "id": "KGL/S79-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-040": {
     "name": "あっけにとられる御行",
@@ -781,7 +820,8 @@
         "id": "KGL/S79-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-041": {
     "name": "見守る御行",
@@ -799,7 +839,8 @@
         "id": "KGL/S79-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-042": {
     "name": "首をかしげる圭",
@@ -817,7 +858,8 @@
         "id": "KGL/S79-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-043": {
     "name": "こんにち殺法返し 圭",
@@ -835,7 +877,8 @@
         "id": "KGL/S79-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-044": {
     "name": "それな！",
@@ -857,7 +900,8 @@
         "id": "KGL/S79-044KR",
         "rarity": "KR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-045": {
     "name": "おに特訓",
@@ -875,7 +919,8 @@
         "id": "KGL/S79-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-046": {
     "name": "社会への叛逆",
@@ -897,7 +942,8 @@
         "id": "KGL/S79-046R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-047": {
     "name": "会長のプライド",
@@ -919,7 +965,8 @@
         "id": "KGL/S79-047R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-048": {
     "name": "もっと上手に…",
@@ -941,7 +988,8 @@
         "id": "KGL/S79-048R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-049": {
     "name": "スキル『純真無垢』 かぐや",
@@ -963,7 +1011,8 @@
         "id": "KGL/S79-049S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-050": {
     "name": "天才たちの真剣勝負 かぐや",
@@ -985,7 +1034,8 @@
         "id": "KGL/S79-050SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-051": {
     "name": "動揺 かぐや",
@@ -1007,7 +1057,8 @@
         "id": "KGL/S79-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-052": {
     "name": "大慌て かぐや",
@@ -1025,7 +1076,8 @@
         "id": "KGL/S79-052",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-053": {
     "name": "黄昏の廊下 かぐや",
@@ -1047,7 +1099,8 @@
         "id": "KGL/S79-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-054": {
     "name": "ITオンチ かぐや",
@@ -1065,7 +1118,8 @@
         "id": "KGL/S79-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-055": {
     "name": "花火大会 御行",
@@ -1087,7 +1141,8 @@
         "id": "KGL/S79-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-056": {
     "name": "“20の質問”かぐや",
@@ -1105,7 +1160,8 @@
         "id": "KGL/S79-056",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-057": {
     "name": "ブラフ かぐや",
@@ -1123,7 +1179,8 @@
         "id": "KGL/S79-057",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-058": {
     "name": "凛とした佇まい かぐや",
@@ -1141,7 +1198,8 @@
         "id": "KGL/S79-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-059": {
     "name": "ドギマギ 御行",
@@ -1159,7 +1217,8 @@
         "id": "KGL/S79-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-060": {
     "name": "スキル『乙女の涙』 かぐや",
@@ -1177,7 +1236,8 @@
         "id": "KGL/S79-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-061": {
     "name": "ミッション遂行 かぐや",
@@ -1195,7 +1255,8 @@
         "id": "KGL/S79-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-062": {
     "name": "兄として 御行",
@@ -1213,7 +1274,8 @@
         "id": "KGL/S79-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-063": {
     "name": "壁ダァン 御行",
@@ -1231,7 +1293,8 @@
         "id": "KGL/S79-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-064": {
     "name": "恋愛相談 渚",
@@ -1249,7 +1312,8 @@
         "id": "KGL/S79-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-065": {
     "name": "スマホデビュー 御行",
@@ -1267,7 +1331,8 @@
         "id": "KGL/S79-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-066": {
     "name": "告られ!! かぐや",
@@ -1285,7 +1350,8 @@
         "id": "KGL/S79-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-067": {
     "name": "弱気 かぐや",
@@ -1303,7 +1369,8 @@
         "id": "KGL/S79-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-068": {
     "name": "恋愛頭脳戦",
@@ -1325,7 +1392,8 @@
         "id": "KGL/S79-068KR",
         "rarity": "KR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-069": {
     "name": "絶交です",
@@ -1343,7 +1411,8 @@
         "id": "KGL/S79-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-070": {
     "name": "交流会の後で",
@@ -1369,7 +1438,8 @@
         "id": "KGL/S79-070SECb",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-071": {
     "name": "お返し",
@@ -1391,7 +1461,8 @@
         "id": "KGL/S79-071KR",
         "rarity": "KR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-072": {
     "name": "花火の音は聞こえない",
@@ -1413,7 +1484,8 @@
         "id": "KGL/S79-072R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-073": {
     "name": "奇跡的相性 かぐや",
@@ -1435,7 +1507,8 @@
         "id": "KGL/S79-073SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-074": {
     "name": "主従関係 愛",
@@ -1457,7 +1530,8 @@
         "id": "KGL/S79-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-075": {
     "name": "天才たちの真剣勝負 愛",
@@ -1479,7 +1553,8 @@
         "id": "KGL/S79-075SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-076": {
     "name": "初めての電話 かぐや",
@@ -1501,7 +1576,8 @@
         "id": "KGL/S79-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-077": {
     "name": "勇気を与える愛",
@@ -1523,7 +1599,8 @@
         "id": "KGL/S79-077S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-078": {
     "name": "悩殺ポーズ♪ かぐや",
@@ -1545,7 +1622,8 @@
         "id": "KGL/S79-078S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-079": {
     "name": "校門前で 愛",
@@ -1563,7 +1641,8 @@
         "id": "KGL/S79-079",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-080": {
     "name": "賢い提案 かぐや",
@@ -1581,7 +1660,8 @@
         "id": "KGL/S79-080",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-081": {
     "name": "念押し ハーサカ",
@@ -1599,7 +1679,8 @@
         "id": "KGL/S79-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-082": {
     "name": "不敵な笑み かぐや",
@@ -1617,7 +1698,8 @@
         "id": "KGL/S79-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-083": {
     "name": "サムズアップ！ 愛",
@@ -1635,7 +1717,8 @@
         "id": "KGL/S79-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-084": {
     "name": "出し抜かれ マキ",
@@ -1653,7 +1736,8 @@
         "id": "KGL/S79-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-085": {
     "name": "羨望の眼差し かれん&エリカ",
@@ -1671,7 +1755,8 @@
         "id": "KGL/S79-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-086": {
     "name": "友達の話 かぐや",
@@ -1689,7 +1774,8 @@
         "id": "KGL/S79-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-087": {
     "name": "心理テスト かぐや",
@@ -1707,7 +1793,8 @@
         "id": "KGL/S79-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-088": {
     "name": "スミシー・A・ハーサカ",
@@ -1725,7 +1812,8 @@
         "id": "KGL/S79-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-089": {
     "name": "浴衣のかぐや",
@@ -1743,7 +1831,8 @@
         "id": "KGL/S79-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-090": {
     "name": "いつもと違う朝 愛",
@@ -1761,7 +1850,8 @@
         "id": "KGL/S79-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-091": {
     "name": "撃墜王 かぐや",
@@ -1779,7 +1869,8 @@
         "id": "KGL/S79-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-092": {
     "name": "いつもと違う朝 かぐや",
@@ -1797,7 +1888,8 @@
         "id": "KGL/S79-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-093": {
     "name": "回答を濁す愛",
@@ -1815,7 +1907,8 @@
         "id": "KGL/S79-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-094": {
     "name": "放課後 愛",
@@ -1833,7 +1926,8 @@
         "id": "KGL/S79-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-095": {
     "name": "不本意な呼び出し 愛",
@@ -1851,7 +1945,8 @@
         "id": "KGL/S79-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-096": {
     "name": "いたずら心 かぐや",
@@ -1869,7 +1964,8 @@
         "id": "KGL/S79-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-097": {
     "name": "世紀の大事件",
@@ -1891,7 +1987,8 @@
         "id": "KGL/S79-097KR",
         "rarity": "KR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-098": {
     "name": "束の間の休息",
@@ -1913,7 +2010,8 @@
         "id": "KGL/S79-098KR",
         "rarity": "KR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KGL/S79-099": {
     "name": "雨の日",
@@ -1935,7 +2033,8 @@
         "id": "KGL/S79-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KGL/S79-100": {
     "name": "うれし恥ずかし初メール",
@@ -1957,6 +2056,7 @@
         "id": "KGL/S79-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -19,7 +19,8 @@
         "id": "DC5/WE40-05DCP",
         "rarity": "DCP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC5/WE40-06": {
     "name": "知的美人さん 瑞花",
@@ -41,7 +42,8 @@
         "id": "DC5/WE40-06DCP",
         "rarity": "DCP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC5/WE40-08": {
     "name": "約束したから 愛乃亜",
@@ -67,7 +69,8 @@
         "id": "DC5/WE40-08SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC5/WE40-13": {
     "name": "\"恋\"した魔法使い 瑞花",
@@ -93,7 +96,8 @@
         "id": "DC5/WE40-13SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC5/WE40-14": {
     "name": "未来へつなげた道の先に",
@@ -115,7 +119,8 @@
         "id": "DC5/WE40-14DCP",
         "rarity": "DCP"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "DC5/WE40-17": {
     "name": "未来への別れ",
@@ -137,7 +142,8 @@
         "id": "DC5/WE40-17DCP",
         "rarity": "DCP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC5/WE40-22": {
     "name": "今にも星が降ってきそうな夜に 可子",
@@ -163,7 +169,8 @@
         "id": "DC5/WE40-22SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC5/WE40-27": {
     "name": "アクセサリー教室 可子",
@@ -185,7 +192,8 @@
         "id": "DC5/WE40-27DCP",
         "rarity": "DCP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC5/WE40-28": {
     "name": "家族と恋人",
@@ -207,7 +215,8 @@
         "id": "DC5/WE40-28DCP",
         "rarity": "DCP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC5/WE40-31": {
     "name": "看板娘の予感 あいか",
@@ -229,7 +238,8 @@
         "id": "DC5/WE40-31DCP",
         "rarity": "DCP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC5/WE40-33": {
     "name": "二人の大晦日 あいか",
@@ -255,7 +265,8 @@
         "id": "DC5/WE40-33SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC5/WE40-37": {
     "name": "遠回りした結果",
@@ -277,7 +288,8 @@
         "id": "DC5/WE40-37DCP",
         "rarity": "DCP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC5/WE40-42": {
     "name": "一人の女の子として 雪那",
@@ -299,7 +311,8 @@
         "id": "DC5/WE40-42DCP",
         "rarity": "DCP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC5/WE40-43": {
     "name": "明日の自分へ、明日の君へ 雪那",
@@ -325,7 +338,8 @@
         "id": "DC5/WE40-43SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC5/WE40-45": {
     "name": "命を賭けた純愛",
@@ -347,6 +361,7 @@
         "id": "DC5/WE40-45DCP",
         "rarity": "DCP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

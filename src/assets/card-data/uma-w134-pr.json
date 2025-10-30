@@ -15,7 +15,8 @@
         "id": "UMA/W134-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W134-P02": {
     "name": "ヴィルシーナ",
@@ -33,7 +34,8 @@
         "id": "UMA/W134-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W134-P03": {
     "name": "ヴィブロス",
@@ -51,7 +53,8 @@
         "id": "UMA/W134-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W134-P04": {
     "name": "ラインクラフト",
@@ -69,7 +72,8 @@
         "id": "UMA/W134-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W134-P05": {
     "name": "シーザリオ",
@@ -87,7 +91,8 @@
         "id": "UMA/W134-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "UMA/W134-P06": {
     "name": "フサイチパンドラ",
@@ -105,7 +110,8 @@
         "id": "UMA/W134-P06",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W134-P07": {
     "name": "オルフェーヴル",
@@ -123,7 +129,8 @@
         "id": "UMA/W134-P07",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "UMA/W134-P08": {
     "name": "ジェンティルドンナ",
@@ -141,6 +148,7 @@
         "id": "UMA/W134-P08",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -15,7 +15,8 @@
         "id": "PD/S22-101",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S22-102": {
     "name": "“最高のステージへ”初音ミク",
@@ -33,7 +34,8 @@
         "id": "PD/S22-102",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S22-103": {
     "name": "“ブラック★ロックシューター”初音ミク",
@@ -51,7 +53,8 @@
         "id": "PD/S22-103",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S22-104": {
     "name": "初音ミク“ハートビート”",
@@ -73,7 +76,8 @@
         "id": "PD/S22-104b",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S22-105": {
     "name": "初音ミク“オリジナル”",
@@ -91,7 +95,8 @@
         "id": "PD/S22-105",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S22-106": {
     "name": "ブラック★ロックシューター",
@@ -109,7 +114,8 @@
         "id": "PD/S22-106",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PD/S22-107": {
     "name": "ODDS＆ENDS",
@@ -127,7 +133,8 @@
         "id": "PD/S22-107",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S22-T01": {
     "name": "鏡音レン“アペンド”",
@@ -145,7 +152,8 @@
         "id": "PD/S22-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S22-T02": {
     "name": "鏡音レン“トリッカー”",
@@ -163,7 +171,8 @@
         "id": "PD/S22-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S22-T03": {
     "name": "鏡音リン“Future Style”",
@@ -181,7 +190,8 @@
         "id": "PD/S22-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S22-T04": {
     "name": "“夢の続き”鏡音リン",
@@ -199,7 +209,8 @@
         "id": "PD/S22-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S22-T05": {
     "name": "“夢の続き”鏡音レン",
@@ -217,7 +228,8 @@
         "id": "PD/S22-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PD/S22-T06": {
     "name": "メランコリック",
@@ -235,7 +247,8 @@
         "id": "PD/S22-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S22-T07": {
     "name": "天樂",
@@ -253,7 +266,8 @@
         "id": "PD/S22-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "PD/S22-T08": {
     "name": "初音ミク“パンジー”",
@@ -271,7 +285,8 @@
         "id": "PD/S22-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S22-T09": {
     "name": "初音ミク“ディープスカイ”",
@@ -289,7 +304,8 @@
         "id": "PD/S22-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S22-T10": {
     "name": "初音ミク“ハニーウィップ”",
@@ -307,7 +323,8 @@
         "id": "PD/S22-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S22-T11": {
     "name": "初音ミク“フォニュエールスタイル”",
@@ -325,7 +342,8 @@
         "id": "PD/S22-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PD/S22-T12": {
     "name": "“フルパワーでみっくみく”初音ミク",
@@ -343,6 +361,7 @@
         "id": "PD/S22-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

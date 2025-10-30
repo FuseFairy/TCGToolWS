@@ -15,7 +15,8 @@
         "id": "NM/S24-081",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-082": {
     "name": "正義の味方ごっこ 阿良々木火憐＆阿良々木月火",
@@ -33,7 +34,8 @@
         "id": "NM/S24-082",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-083": {
     "name": "“正義の味方”阿良々木火憐",
@@ -51,7 +53,8 @@
         "id": "NM/S24-083",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-084": {
     "name": "“正義そのもの”阿良々木月火",
@@ -69,7 +72,8 @@
         "id": "NM/S24-084",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-P01": {
     "name": "仲良し姉妹 阿良々木月火＆阿良々木火憐",
@@ -87,7 +91,8 @@
         "id": "NM/S24-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-P02": {
     "name": "騒がしい朝 阿良々木火憐＆阿良々木月火",
@@ -105,7 +110,8 @@
         "id": "NM/S24-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-P03": {
     "name": "燃える女 阿良々木火憐",
@@ -123,7 +129,8 @@
         "id": "NM/S24-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "NM/S24-P04": {
     "name": "自慢の妹 阿良々木火憐",
@@ -141,7 +148,8 @@
         "id": "NM/S24-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "NM/S24-P05": {
     "name": "阿良々木月火＆阿良々木火憐＆千石撫子",
@@ -159,6 +167,7 @@
         "id": "NM/S24-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

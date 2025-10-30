@@ -23,7 +23,8 @@
         "id": "Sks/W123-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Sks/W123-010": {
     "name": "冒険者（最弱職） カズマ",
@@ -45,7 +46,8 @@
         "id": "Sks/W123-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Sks/W123-011": {
     "name": "クルセイダー（ドM） ダクネス",
@@ -67,7 +69,8 @@
         "id": "Sks/W123-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sks/W123-016": {
     "name": "平和への願い クリス",
@@ -89,7 +92,8 @@
         "id": "Sks/W123-016S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sks/W123-018": {
     "name": "サマーバケーション ダクネス",
@@ -111,7 +115,8 @@
         "id": "Sks/W123-018S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sks/W123-023": {
     "name": "爆裂魔法",
@@ -137,7 +142,8 @@
         "id": "Sks/W123-023R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sks/W123-061": {
     "name": "アークウィザード（爆裂魔） めぐみん",
@@ -167,7 +173,8 @@
         "id": "Sks/W123-061SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sks/W123-080": {
     "name": "アークウィザード（友達募集） ゆんゆん",
@@ -189,7 +196,8 @@
         "id": "Sks/W123-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sks/W123-081": {
     "name": "平和主義者 ウィズ",
@@ -211,7 +219,8 @@
         "id": "Sks/W123-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sks/W123-093": {
     "name": "サマーバケーション めぐみん",
@@ -233,7 +242,8 @@
         "id": "Sks/W123-093S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Sks/W123-102": {
     "name": "アークプリースト（駄女神） アクア",
@@ -259,7 +269,8 @@
         "id": "Sks/W123-102SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Sks/W123-105": {
     "name": "アクセルの街の問題児 アクア＆めぐみん＆ダクネス",
@@ -285,7 +296,8 @@
         "id": "Sks/W123-105SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sks/W123-116": {
     "name": "平和への願い エリス",
@@ -307,7 +319,8 @@
         "id": "Sks/W123-116S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Sks/W123-123": {
     "name": "サマーバケーション アクア",
@@ -329,7 +342,8 @@
         "id": "Sks/W123-123S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Sks/W123-126": {
     "name": "乾杯！",
@@ -359,6 +373,7 @@
         "id": "Sks/W123-126R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

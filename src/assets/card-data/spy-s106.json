@@ -19,7 +19,8 @@
         "id": "SPY/S106-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-002": {
     "name": "おそろいのキーホルダー ベッキー",
@@ -41,7 +42,8 @@
         "id": "SPY/S106-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-003": {
     "name": "おそろいのキーホルダー アーニャ",
@@ -63,7 +65,8 @@
         "id": "SPY/S106-003SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-004": {
     "name": "ブラックベル家の娘 ベッキー・ブラックベル",
@@ -85,7 +88,8 @@
         "id": "SPY/S106-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-005": {
     "name": "上機嫌 アーニャ",
@@ -107,7 +111,8 @@
         "id": "SPY/S106-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-006": {
     "name": "ショック アーニャ",
@@ -129,7 +134,8 @@
         "id": "SPY/S106-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-007": {
     "name": "はじめての星 アーニャ",
@@ -151,7 +157,8 @@
         "id": "SPY/S106-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-008": {
     "name": "イーデン校の生徒 アーニャ・フォージャー",
@@ -173,7 +180,8 @@
         "id": "SPY/S106-008SPY",
         "rarity": "SPYR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-009": {
     "name": "同級生 アーニャ＆ダミアン",
@@ -195,7 +203,8 @@
         "id": "SPY/S106-009SPY",
         "rarity": "SPYR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-010": {
     "name": "自信満々 アーニャ",
@@ -213,7 +222,8 @@
         "id": "SPY/S106-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-011": {
     "name": "デズモンド家の次男 ダミアン・デズモンド",
@@ -235,7 +245,8 @@
         "id": "SPY/S106-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-012": {
     "name": "特訓のおねがい アーニャ",
@@ -253,7 +264,8 @@
         "id": "SPY/S106-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-013": {
     "name": "イラつくダミアン",
@@ -271,7 +283,8 @@
         "id": "SPY/S106-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-014": {
     "name": "ちょっとおませなお嬢さま ベッキー",
@@ -289,7 +302,8 @@
         "id": "SPY/S106-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-015": {
     "name": "補習決定 アーニャ",
@@ -307,7 +321,8 @@
         "id": "SPY/S106-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-016": {
     "name": "寮長 ヘンリー・ヘンダーソン",
@@ -325,7 +340,8 @@
         "id": "SPY/S106-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-017": {
     "name": "同級生ダミアン",
@@ -343,7 +359,8 @@
         "id": "SPY/S106-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-018": {
     "name": "ローリングスイィープッ!! ダミアン",
@@ -361,7 +378,8 @@
         "id": "SPY/S106-018",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-019": {
     "name": "得意気 アーニャ",
@@ -379,7 +397,8 @@
         "id": "SPY/S106-019",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-020": {
     "name": "イーデン校の生徒 ダミアン",
@@ -397,7 +416,8 @@
         "id": "SPY/S106-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-021": {
     "name": "走るアーニャ",
@@ -415,7 +435,8 @@
         "id": "SPY/S106-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-022": {
     "name": "はは仕込みの必殺パンチ",
@@ -437,7 +458,8 @@
         "id": "SPY/S106-022SPY",
         "rarity": "SPYR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-023": {
     "name": "星獲得",
@@ -455,7 +477,8 @@
         "id": "SPY/S106-023",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-024": {
     "name": "仲良しの友達",
@@ -473,7 +496,8 @@
         "id": "SPY/S106-024",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-025": {
     "name": "一緒にお出かけ",
@@ -495,7 +519,8 @@
         "id": "SPY/S106-025R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-026": {
     "name": "涙の謝罪",
@@ -517,7 +542,8 @@
         "id": "SPY/S106-026SPY",
         "rarity": "SPYR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-027": {
     "name": "突然のときめき",
@@ -539,7 +565,8 @@
         "id": "SPY/S106-027R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-028": {
     "name": "優しい微笑み ロイド",
@@ -561,7 +588,8 @@
         "id": "SPY/S106-028SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-029": {
     "name": "笑顔 ヨル",
@@ -583,7 +611,8 @@
         "id": "SPY/S106-029SEC",
         "rarity": "SEC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-030": {
     "name": "秘密だらけの家族 ロイド＆アーニャ＆ヨル",
@@ -605,7 +634,8 @@
         "id": "SPY/S106-030SPY",
         "rarity": "SPYR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-031": {
     "name": "お出かけ中 ヨル",
@@ -627,7 +657,8 @@
         "id": "SPY/S106-031S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-032": {
     "name": "ボンド・フォージャー",
@@ -649,7 +680,8 @@
         "id": "SPY/S106-032S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-033": {
     "name": "笑顔のアーニャ",
@@ -671,7 +703,8 @@
         "id": "SPY/S106-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-034": {
     "name": "完璧な父親 ロイド",
@@ -693,7 +726,8 @@
         "id": "SPY/S106-034S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-035": {
     "name": "元気な娘 アーニャ",
@@ -715,7 +749,8 @@
         "id": "SPY/S106-035SPY",
         "rarity": "SPYR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-036": {
     "name": "心優しい母 ヨル",
@@ -737,7 +772,8 @@
         "id": "SPY/S106-036S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-037": {
     "name": "ちちとむすめ ロイド＆アーニャ",
@@ -759,7 +795,8 @@
         "id": "SPY/S106-037SPY",
         "rarity": "SPYR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-038": {
     "name": "私服姿 ヨル",
@@ -777,7 +814,8 @@
         "id": "SPY/S106-038",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-039": {
     "name": "いざ面接試験へ！ ロイド",
@@ -795,7 +833,8 @@
         "id": "SPY/S106-039",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-040": {
     "name": "鮮やかな着地 ボンド",
@@ -813,7 +852,8 @@
         "id": "SPY/S106-040",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-041": {
     "name": "母子の絆 アーニャ＆ヨル",
@@ -835,7 +875,8 @@
         "id": "SPY/S106-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-042": {
     "name": "お姫様気分 アーニャ",
@@ -853,7 +894,8 @@
         "id": "SPY/S106-042",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-043": {
     "name": "わくわく気分 アーニャ",
@@ -875,7 +917,8 @@
         "id": "SPY/S106-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-044": {
     "name": "大切な家族 アーニャ＆ボンド",
@@ -897,7 +940,8 @@
         "id": "SPY/S106-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-045": {
     "name": "ヨルの個性的な手料理",
@@ -915,7 +959,8 @@
         "id": "SPY/S106-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-046": {
     "name": "ロイドに紛する〈黄昏〉",
@@ -933,7 +978,8 @@
         "id": "SPY/S106-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-047": {
     "name": "祝入学！ アーニャ",
@@ -951,7 +997,8 @@
         "id": "SPY/S106-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-048": {
     "name": "さみしい？ アーニャ",
@@ -969,7 +1016,8 @@
         "id": "SPY/S106-048",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-049": {
     "name": "コート姿のアーニャ",
@@ -987,7 +1035,8 @@
         "id": "SPY/S106-049",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-050": {
     "name": "微笑み ヨル",
@@ -1005,7 +1054,8 @@
         "id": "SPY/S106-050",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-051": {
     "name": "不思議な少女 アーニャ",
@@ -1023,7 +1073,8 @@
         "id": "SPY/S106-051",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-052": {
     "name": "バーでのできごと ロイド＆ヨル",
@@ -1045,7 +1096,8 @@
         "id": "SPY/S106-052SPY",
         "rarity": "SPYR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-053": {
     "name": "導きだした答え ロイド",
@@ -1063,7 +1115,8 @@
         "id": "SPY/S106-053",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-054": {
     "name": "受け入れてくれた瞬間",
@@ -1085,7 +1138,8 @@
         "id": "SPY/S106-054SPY",
         "rarity": "SPYR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-055": {
     "name": "誓いは爆発と共に",
@@ -1107,7 +1161,8 @@
         "id": "SPY/S106-055SPY",
         "rarity": "SPYR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-056": {
     "name": "花びら舞う中で",
@@ -1129,7 +1184,8 @@
         "id": "SPY/S106-056R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-057": {
     "name": "家族でお祝い",
@@ -1151,7 +1207,8 @@
         "id": "SPY/S106-057R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-058": {
     "name": "凄腕の殺し屋 ヨル",
@@ -1173,7 +1230,8 @@
         "id": "SPY/S106-058SPY",
         "rarity": "SPYR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-059": {
     "name": "〈いばら姫〉 ヨル",
@@ -1195,7 +1253,8 @@
         "id": "SPY/S106-059SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-060": {
     "name": "〈ガーデン〉の殺し屋 ヨル・フォージャー",
@@ -1217,7 +1276,8 @@
         "id": "SPY/S106-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-061": {
     "name": "国家保安局少尉 ユーリ・ブライア",
@@ -1239,7 +1299,8 @@
         "id": "SPY/S106-061S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-062": {
     "name": "漆黒のドレス ヨル",
@@ -1261,7 +1322,8 @@
         "id": "SPY/S106-062SPY",
         "rarity": "SPYR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-063": {
     "name": "花びらに横たわる ヨル",
@@ -1283,7 +1345,8 @@
         "id": "SPY/S106-063S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-064": {
     "name": "殺人術の使い手 ヨル",
@@ -1305,7 +1368,8 @@
         "id": "SPY/S106-064S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-065": {
     "name": "お仕事完了 ヨル",
@@ -1323,7 +1387,8 @@
         "id": "SPY/S106-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-066": {
     "name": "月光に照らされる ヨル",
@@ -1341,7 +1406,8 @@
         "id": "SPY/S106-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-067": {
     "name": "衝撃の事実 ユーリ",
@@ -1359,7 +1425,8 @@
         "id": "SPY/S106-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-068": {
     "name": "〈いばら姫〉のお仕事 ヨル",
@@ -1377,7 +1444,8 @@
         "id": "SPY/S106-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-069": {
     "name": "戦闘中 ヨル",
@@ -1395,7 +1463,8 @@
         "id": "SPY/S106-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-070": {
     "name": "妄想中 ヨル",
@@ -1413,7 +1482,8 @@
         "id": "SPY/S106-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-071": {
     "name": "無茶振り ユーリ",
@@ -1431,7 +1501,8 @@
         "id": "SPY/S106-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-072": {
     "name": "真剣な眼差し ヨル",
@@ -1449,7 +1520,8 @@
         "id": "SPY/S106-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-073": {
     "name": "朝焼けの街並み ヨル",
@@ -1467,7 +1539,8 @@
         "id": "SPY/S106-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-074": {
     "name": "鋭い視線 ユーリ",
@@ -1485,7 +1558,8 @@
         "id": "SPY/S106-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-075": {
     "name": "お仕事の電話",
@@ -1503,7 +1577,8 @@
         "id": "SPY/S106-075",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-076": {
     "name": "フォージャー家の妻",
@@ -1525,7 +1600,8 @@
         "id": "SPY/S106-076R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-077": {
     "name": "殺しの時間",
@@ -1547,7 +1623,8 @@
         "id": "SPY/S106-077R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-078": {
     "name": "〈いばら姫〉",
@@ -1569,7 +1646,8 @@
         "id": "SPY/S106-078R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-079": {
     "name": "〈夜帷〉 フィオナ・フロスト",
@@ -1591,7 +1669,8 @@
         "id": "SPY/S106-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-080": {
     "name": "諜報員〈黄昏〉",
@@ -1613,7 +1692,8 @@
         "id": "SPY/S106-080SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-081": {
     "name": "管理者 シルヴィア・シャーウッド",
@@ -1635,7 +1715,8 @@
         "id": "SPY/S106-081SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-082": {
     "name": "医療事務員 フィオナ",
@@ -1657,7 +1738,8 @@
         "id": "SPY/S106-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-083": {
     "name": "標的との接触 ロイド・フォージャー",
@@ -1679,7 +1761,8 @@
         "id": "SPY/S106-083S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-084": {
     "name": "〈WISE〉所属の凄腕スパイ 〈黄昏〉",
@@ -1701,7 +1784,8 @@
         "id": "SPY/S106-084SPY",
         "rarity": "SPYR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-085": {
     "name": "スマートな諜報員 〈黄昏〉",
@@ -1723,7 +1807,8 @@
         "id": "SPY/S106-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-086": {
     "name": "終わりを告げる銃弾 〈黄昏〉",
@@ -1745,7 +1830,8 @@
         "id": "SPY/S106-086SPY",
         "rarity": "SPYR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-087": {
     "name": "想定外の帰宅 フィオナ",
@@ -1763,7 +1849,8 @@
         "id": "SPY/S106-087",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-088": {
     "name": "地下テニス大会 ロイド",
@@ -1781,7 +1868,8 @@
         "id": "SPY/S106-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-089": {
     "name": "情報屋 フランキー・フランクリン",
@@ -1799,7 +1887,8 @@
         "id": "SPY/S106-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-090": {
     "name": "突然の来訪 フィオナ",
@@ -1817,7 +1906,8 @@
         "id": "SPY/S106-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-091": {
     "name": "鋼鉄の淑女 シルヴィア",
@@ -1835,7 +1925,8 @@
         "id": "SPY/S106-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-092": {
     "name": "次なる任務 〈黄昏〉",
@@ -1853,7 +1944,8 @@
         "id": "SPY/S106-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-093": {
     "name": "次なる一手 〈黄昏〉",
@@ -1871,7 +1963,8 @@
         "id": "SPY/S106-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-094": {
     "name": "任務中 〈黄昏〉",
@@ -1889,7 +1982,8 @@
         "id": "SPY/S106-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-095": {
     "name": "任務後 フィオナ",
@@ -1907,7 +2001,8 @@
         "id": "SPY/S106-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-096": {
     "name": "暗闇に照らされる銃口 〈黄昏〉",
@@ -1925,7 +2020,8 @@
         "id": "SPY/S106-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-097": {
     "name": "冷たい戦争の第一戦線",
@@ -1943,7 +2039,8 @@
         "id": "SPY/S106-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SPY/S106-098": {
     "name": "任務は潜んでスマートに",
@@ -1965,7 +2062,8 @@
         "id": "SPY/S106-098SPY",
         "rarity": "SPYR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-099": {
     "name": "心に秘めた情熱",
@@ -1987,7 +2085,8 @@
         "id": "SPY/S106-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SPY/S106-100": {
     "name": "すべてはよりよき世界のために",
@@ -2009,6 +2108,7 @@
         "id": "SPY/S106-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

@@ -15,7 +15,8 @@
         "id": "PJS/S109-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-113": {
     "name": "仲間達からの祝福 花里みのり",
@@ -33,7 +34,8 @@
         "id": "PJS/S109-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "PJS/S109-114": {
     "name": "えむ流？ダンスの極意！ 小豆沢こはね",
@@ -51,7 +53,8 @@
         "id": "PJS/S109-114",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-115": {
     "name": "音楽が見せてくれる世界 宵崎奏",
@@ -69,7 +72,8 @@
         "id": "PJS/S109-115",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-116": {
     "name": "かつて見た星空 星乃一歌",
@@ -87,7 +91,8 @@
         "id": "PJS/S109-116",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "PJS/S109-P01": {
     "name": "友情キューピッド 鏡音リン",
@@ -113,6 +118,7 @@
         "id": "PJS/S109-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

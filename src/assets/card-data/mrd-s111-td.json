@@ -19,7 +19,8 @@
         "id": "MRd/S111-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-T02": {
     "name": "“ミラー・ウォリアーズ”ベル",
@@ -41,7 +42,8 @@
         "id": "MRd/S111-T02R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-T04": {
     "name": "“ミラー・ウォリアーズ”ミッキーマウス",
@@ -67,7 +69,8 @@
         "id": "MRd/S111-T04SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-T05": {
     "name": "“ミラー・ウォリアーズ”グーフィー",
@@ -89,7 +92,8 @@
         "id": "MRd/S111-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-T06": {
     "name": "“ミラー・ウォリアーズ”ドナルドダック",
@@ -111,7 +115,8 @@
         "id": "MRd/S111-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-T07": {
     "name": "“ミラー・ウォリアーズ”ミニーマウス",
@@ -133,7 +138,8 @@
         "id": "MRd/S111-T07SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-T08": {
     "name": "“ミラー・ウォリアーズ”ヘラクレス",
@@ -155,7 +161,8 @@
         "id": "MRd/S111-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-T09": {
     "name": "Stellar Mirror",
@@ -177,7 +184,8 @@
         "id": "MRd/S111-T09R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-T10": {
     "name": "Mirror Master",
@@ -199,7 +207,8 @@
         "id": "MRd/S111-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-T11": {
     "name": "“ミラー・ウォリアーズ”ティアナ",
@@ -221,7 +230,8 @@
         "id": "MRd/S111-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-T13": {
     "name": "“ミラー・ウォリアーズ”アリエル",
@@ -243,7 +253,8 @@
         "id": "MRd/S111-T13R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-T14": {
     "name": "“ミラー・ウォリアーズ”マレフィセント",
@@ -265,7 +276,8 @@
         "id": "MRd/S111-T14SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-T15": {
     "name": "“ミラー・ウォリアーズ”マウイ",
@@ -287,7 +299,8 @@
         "id": "MRd/S111-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "MRd/S111-T17": {
     "name": "“ミラー・ウォリアーズ”エルサ",
@@ -309,7 +322,8 @@
         "id": "MRd/S111-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-T18": {
     "name": "“ミラー・ウォリアーズ”アナ",
@@ -331,7 +345,8 @@
         "id": "MRd/S111-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-T19": {
     "name": "ミニーの虚像",
@@ -353,7 +368,8 @@
         "id": "MRd/S111-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "MRd/S111-T20": {
     "name": "エルサの虚像",
@@ -375,6 +391,7 @@
         "id": "MRd/S111-T20R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

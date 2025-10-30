@@ -15,7 +15,8 @@
         "id": "RG/W13-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "RG/W13-108": {
     "name": "放課後の美琴",
@@ -33,7 +34,8 @@
         "id": "RG/W13-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W13-112": {
     "name": "気になる存在 美琴",
@@ -51,7 +53,8 @@
         "id": "RG/W13-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "RG/W13-114": {
     "name": "電撃を司る能力者 美琴",
@@ -69,6 +72,7 @@
         "id": "RG/W13-114",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

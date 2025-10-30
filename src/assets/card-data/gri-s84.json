@@ -23,7 +23,8 @@
         "id": "GRI/S84-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-002": {
     "name": "迷宮に咲く花 蒔菜",
@@ -49,7 +50,8 @@
         "id": "GRI/S84-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-003": {
     "name": "迷宮に咲く花 みちる",
@@ -75,7 +77,8 @@
         "id": "GRI/S84-003SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-004": {
     "name": "南国ビーチ 蒔菜",
@@ -97,7 +100,8 @@
         "id": "GRI/S84-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-005": {
     "name": "夏の日差し みちる",
@@ -119,7 +123,8 @@
         "id": "GRI/S84-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-006": {
     "name": "高嶺の花 一姫",
@@ -141,7 +146,8 @@
         "id": "GRI/S84-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-007": {
     "name": "終わりよければ全てよし みちる",
@@ -163,7 +169,8 @@
         "id": "GRI/S84-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-008": {
     "name": "パパの為に 蒔菜",
@@ -185,7 +192,8 @@
         "id": "GRI/S84-008S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-009": {
     "name": "歪な絆 雄二＆一姫",
@@ -207,7 +215,8 @@
         "id": "GRI/S84-009S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-010": {
     "name": "朝日が昇る窓辺 一姫",
@@ -229,7 +238,8 @@
         "id": "GRI/S84-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-011": {
     "name": "モッサリ担当官 JB",
@@ -251,7 +261,8 @@
         "id": "GRI/S84-011S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-012": {
     "name": "真夏の奇跡 みちる",
@@ -269,7 +280,8 @@
         "id": "GRI/S84-012",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-013": {
     "name": "弟の為に 一姫",
@@ -287,7 +299,8 @@
         "id": "GRI/S84-013",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-014": {
     "name": "居心地のいい世界 蒔菜",
@@ -305,7 +318,8 @@
         "id": "GRI/S84-014",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-015": {
     "name": "信頼の証明 雄二",
@@ -323,7 +337,8 @@
         "id": "GRI/S84-015",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-016": {
     "name": "魅惑のボディライン JB",
@@ -341,7 +356,8 @@
         "id": "GRI/S84-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-017": {
     "name": "帰って来た狂犬 蒔菜",
@@ -359,7 +375,8 @@
         "id": "GRI/S84-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-018": {
     "name": "早すぎた待ち合わせ みちる",
@@ -377,7 +394,8 @@
         "id": "GRI/S84-018",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-019": {
     "name": "多彩な才能 一姫",
@@ -395,7 +413,8 @@
         "id": "GRI/S84-019",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-020": {
     "name": "過去の記憶 一姫",
@@ -413,7 +432,8 @@
         "id": "GRI/S84-020",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-021": {
     "name": "復讐の意味 JB",
@@ -431,7 +451,8 @@
         "id": "GRI/S84-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-022": {
     "name": "長い付き合い JB",
@@ -449,7 +470,8 @@
         "id": "GRI/S84-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-023": {
     "name": "いつも通りの朝 みちる",
@@ -467,7 +489,8 @@
         "id": "GRI/S84-023",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-024": {
     "name": "学園祭メイド 蒔菜",
@@ -485,7 +508,8 @@
         "id": "GRI/S84-024",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-025": {
     "name": "ゲームセンターデート 雄二",
@@ -503,7 +527,8 @@
         "id": "GRI/S84-025",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-026": {
     "name": "JBの部下 キアラ",
@@ -521,7 +546,8 @@
         "id": "GRI/S84-026",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-027": {
     "name": "戦う理由 雄二",
@@ -539,7 +565,8 @@
         "id": "GRI/S84-027",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-028": {
     "name": "これからのこと JB",
@@ -557,7 +584,8 @@
         "id": "GRI/S84-028",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-029": {
     "name": "心に空いた穴 雄二＆JB",
@@ -575,7 +603,8 @@
         "id": "GRI/S84-029",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-030": {
     "name": "浜辺のアイドル 一姫",
@@ -593,7 +622,8 @@
         "id": "GRI/S84-030",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-031": {
     "name": "ネタバラシ",
@@ -611,7 +641,8 @@
         "id": "GRI/S84-031",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-032": {
     "name": "切り取られた世界",
@@ -633,7 +664,8 @@
         "id": "GRI/S84-032R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-033": {
     "name": "思い出になる苗",
@@ -655,7 +687,8 @@
         "id": "GRI/S84-033R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-034": {
     "name": "天才の休日",
@@ -677,7 +710,8 @@
         "id": "GRI/S84-034R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-035": {
     "name": "たどり着いた楽園",
@@ -699,7 +733,8 @@
         "id": "GRI/S84-035R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-036": {
     "name": "楽園を目指す少女 蒔菜",
@@ -721,7 +756,8 @@
         "id": "GRI/S84-036OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-037": {
     "name": "迷宮に咲く花 天音",
@@ -747,7 +783,8 @@
         "id": "GRI/S84-037SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-038": {
     "name": "帰るべき場所 雄二",
@@ -769,7 +806,8 @@
         "id": "GRI/S84-038S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-039": {
     "name": "楽園を目指す少女 由美子",
@@ -791,7 +829,8 @@
         "id": "GRI/S84-039OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-040": {
     "name": "新年の朝 由美子",
@@ -813,7 +852,8 @@
         "id": "GRI/S84-040S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-041": {
     "name": "願った未来 天音",
@@ -835,7 +875,8 @@
         "id": "GRI/S84-041S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-042": {
     "name": "変わらぬ決意 蒔菜",
@@ -857,7 +898,8 @@
         "id": "GRI/S84-042S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-043": {
     "name": "鳥篭の反逆 由美子",
@@ -879,7 +921,8 @@
         "id": "GRI/S84-043S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-044": {
     "name": "“9029” 雄二",
@@ -901,7 +944,8 @@
         "id": "GRI/S84-044S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-045": {
     "name": "イルカと水着 蒔菜",
@@ -923,7 +967,8 @@
         "id": "GRI/S84-045S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-046": {
     "name": "振袖姿 天音",
@@ -945,7 +990,8 @@
         "id": "GRI/S84-046S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-047": {
     "name": "伝える役目 雄二",
@@ -963,7 +1009,8 @@
         "id": "GRI/S84-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-048": {
     "name": "籠の中の鳥 由美子",
@@ -981,7 +1028,8 @@
         "id": "GRI/S84-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-049": {
     "name": "お別れの校門 蒔菜",
@@ -999,7 +1047,8 @@
         "id": "GRI/S84-049",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-050": {
     "name": "薄暮の誓い 蒔菜",
@@ -1017,7 +1066,8 @@
         "id": "GRI/S84-050",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-051": {
     "name": "愛されボンテ 天音",
@@ -1035,7 +1085,8 @@
         "id": "GRI/S84-051",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-052": {
     "name": "手がかりを求め 由美子",
@@ -1053,7 +1104,8 @@
         "id": "GRI/S84-052",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-053": {
     "name": "クリスマスガール 天音",
@@ -1071,7 +1123,8 @@
         "id": "GRI/S84-053",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-054": {
     "name": "男の約束 雄二",
@@ -1089,7 +1142,8 @@
         "id": "GRI/S84-054",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-055": {
     "name": "“ヤブイヌ小隊” 雄二",
@@ -1107,7 +1161,8 @@
         "id": "GRI/S84-055",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-056": {
     "name": "総指揮官 由美子",
@@ -1125,7 +1180,8 @@
         "id": "GRI/S84-056",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-057": {
     "name": "射撃訓練？ 天音",
@@ -1143,7 +1199,8 @@
         "id": "GRI/S84-057",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-058": {
     "name": "怯える転入生 蒔菜",
@@ -1161,7 +1218,8 @@
         "id": "GRI/S84-058",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-059": {
     "name": "動物園の片隅で 天音",
@@ -1179,7 +1237,8 @@
         "id": "GRI/S84-059",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-060": {
     "name": "狙撃班 蒔菜",
@@ -1197,7 +1256,8 @@
         "id": "GRI/S84-060",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-061": {
     "name": "激励の言葉 由美子",
@@ -1215,7 +1275,8 @@
         "id": "GRI/S84-061",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-062": {
     "name": "腹ペコ少女",
@@ -1233,7 +1294,8 @@
         "id": "GRI/S84-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-063": {
     "name": "経験の差",
@@ -1255,7 +1317,8 @@
         "id": "GRI/S84-063R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-064": {
     "name": "抜錨の時ぞ来る",
@@ -1277,7 +1340,8 @@
         "id": "GRI/S84-064R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-065": {
     "name": "思い出語り",
@@ -1299,7 +1363,8 @@
         "id": "GRI/S84-065R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "GRI/S84-066": {
     "name": "悲しみの狙撃手",
@@ -1321,7 +1386,8 @@
         "id": "GRI/S84-066R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-067": {
     "name": "楽園を目指す少女 幸",
@@ -1343,7 +1409,8 @@
         "id": "GRI/S84-067OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-068": {
     "name": "楽園を目指す少女 天音",
@@ -1365,7 +1432,8 @@
         "id": "GRI/S84-068OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-069": {
     "name": "楽園を目指す少女 みちる",
@@ -1387,7 +1455,8 @@
         "id": "GRI/S84-069OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-070": {
     "name": "夏へまっしぐら！ みちる",
@@ -1409,7 +1478,8 @@
         "id": "GRI/S84-070S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-071": {
     "name": "決意を胸に 幸",
@@ -1431,7 +1501,8 @@
         "id": "GRI/S84-071S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-072": {
     "name": "私の意志で 天音",
@@ -1453,7 +1524,8 @@
         "id": "GRI/S84-072S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-073": {
     "name": "薄暮の誓い 幸",
@@ -1475,7 +1547,8 @@
         "id": "GRI/S84-073S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-074": {
     "name": "追憶の桜 天音",
@@ -1497,7 +1570,8 @@
         "id": "GRI/S84-074S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-075": {
     "name": "葛藤の答え みちる",
@@ -1519,7 +1593,8 @@
         "id": "GRI/S84-075S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-076": {
     "name": "桜咲き乱れて 麻子",
@@ -1541,7 +1616,8 @@
         "id": "GRI/S84-076S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-077": {
     "name": "普通？の転入生 幸",
@@ -1559,7 +1635,8 @@
         "id": "GRI/S84-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-078": {
     "name": "ツンデレ転入生 みちる",
@@ -1577,7 +1654,8 @@
         "id": "GRI/S84-078",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-079": {
     "name": "陽動回収班 みちる",
@@ -1595,7 +1673,8 @@
         "id": "GRI/S84-079",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-080": {
     "name": "後悔のない選択 天音",
@@ -1613,7 +1692,8 @@
         "id": "GRI/S84-080",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-081": {
     "name": "伝説の“9029” 麻子",
@@ -1631,7 +1711,8 @@
         "id": "GRI/S84-081",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-082": {
     "name": "お節介焼きな転入生 天音",
@@ -1649,7 +1730,8 @@
         "id": "GRI/S84-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-083": {
     "name": "最後のご奉公 幸",
@@ -1667,7 +1749,8 @@
         "id": "GRI/S84-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-084": {
     "name": "“ヤブイヌ小隊” エディ",
@@ -1685,7 +1768,8 @@
         "id": "GRI/S84-084",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-085": {
     "name": "海底任務 みちる",
@@ -1703,7 +1787,8 @@
         "id": "GRI/S84-085",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-086": {
     "name": "物騒なメイド 幸",
@@ -1721,7 +1806,8 @@
         "id": "GRI/S84-086",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-087": {
     "name": "“ヤブイヌ小隊” ロビー",
@@ -1739,7 +1825,8 @@
         "id": "GRI/S84-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-088": {
     "name": "別れの時 麻子",
@@ -1757,7 +1844,8 @@
         "id": "GRI/S84-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-089": {
     "name": "移動車両班 天音",
@@ -1775,7 +1863,8 @@
         "id": "GRI/S84-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-090": {
     "name": "雄二の保護者 麻子",
@@ -1793,7 +1882,8 @@
         "id": "GRI/S84-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-091": {
     "name": "“ヤブイヌ小隊” ミリー",
@@ -1811,7 +1901,8 @@
         "id": "GRI/S84-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-092": {
     "name": "臆病な自分 みちる",
@@ -1829,7 +1920,8 @@
         "id": "GRI/S84-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-093": {
     "name": "強襲班 幸",
@@ -1847,7 +1939,8 @@
         "id": "GRI/S84-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-094": {
     "name": "“ヤブイヌ小隊” ダニー",
@@ -1865,7 +1958,8 @@
         "id": "GRI/S84-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-095": {
     "name": "過去の傷 麻子",
@@ -1883,7 +1977,8 @@
         "id": "GRI/S84-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-096": {
     "name": "“ヤブイヌ小隊” J少尉",
@@ -1901,7 +1996,8 @@
         "id": "GRI/S84-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-097": {
     "name": "追撃",
@@ -1919,7 +2015,8 @@
         "id": "GRI/S84-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-098": {
     "name": "涙の再会",
@@ -1941,7 +2038,8 @@
         "id": "GRI/S84-098R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-099": {
     "name": "抜け駆けのお守り",
@@ -1963,7 +2061,8 @@
         "id": "GRI/S84-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-100": {
     "name": "メイド強襲",
@@ -1985,7 +2084,8 @@
         "id": "GRI/S84-100R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-101": {
     "name": "迷宮に咲く花 由美子",
@@ -2011,7 +2111,8 @@
         "id": "GRI/S84-101SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-102": {
     "name": "迷宮に咲く花 幸",
@@ -2037,7 +2138,8 @@
         "id": "GRI/S84-102SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-103": {
     "name": "楽園を目指す少女 一姫",
@@ -2059,7 +2161,8 @@
         "id": "GRI/S84-103OFR",
         "rarity": "OFR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-104": {
     "name": "伸ばした手 由美子",
@@ -2081,7 +2184,8 @@
         "id": "GRI/S84-104S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-105": {
     "name": "天才も人 一姫",
@@ -2103,7 +2207,8 @@
         "id": "GRI/S84-105S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-106": {
     "name": "サンセットビーチ 一姫",
@@ -2125,7 +2230,8 @@
         "id": "GRI/S84-106S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-107": {
     "name": "学園祭でもメイド 幸",
@@ -2147,7 +2253,8 @@
         "id": "GRI/S84-107S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-108": {
     "name": "追憶の桜 一姫",
@@ -2169,7 +2276,8 @@
         "id": "GRI/S84-108S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-109": {
     "name": "優等生にして頑固者 幸",
@@ -2191,7 +2299,8 @@
         "id": "GRI/S84-109S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-110": {
     "name": "掴んだ平穏 由美子",
@@ -2213,7 +2322,8 @@
         "id": "GRI/S84-110S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-111": {
     "name": "恥じ入る季節 千鶴",
@@ -2235,7 +2345,8 @@
         "id": "GRI/S84-111S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-112": {
     "name": "バイオレンスな出会い 千鶴",
@@ -2253,7 +2364,8 @@
         "id": "GRI/S84-112",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-113": {
     "name": "内緒の旅行 由美子",
@@ -2271,7 +2383,8 @@
         "id": "GRI/S84-113",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-114": {
     "name": "公園遊びの達人 幸",
@@ -2289,7 +2402,8 @@
         "id": "GRI/S84-114",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-115": {
     "name": "帰ってきた天才 一姫",
@@ -2307,7 +2421,8 @@
         "id": "GRI/S84-115",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-116": {
     "name": "国防装置としての役目 一姫",
@@ -2325,7 +2440,8 @@
         "id": "GRI/S84-116",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-117": {
     "name": "二人の時間 幸",
@@ -2343,7 +2459,8 @@
         "id": "GRI/S84-117",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-118": {
     "name": "真心の講義 由美子",
@@ -2361,7 +2478,8 @@
         "id": "GRI/S84-118",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-119": {
     "name": "良い子の涙 幸",
@@ -2379,7 +2497,8 @@
         "id": "GRI/S84-119",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-120": {
     "name": "大人のプライド 千鶴",
@@ -2397,7 +2516,8 @@
         "id": "GRI/S84-120",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-121": {
     "name": "誰が為の楽園 一姫",
@@ -2415,7 +2535,8 @@
         "id": "GRI/S84-121",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-122": {
     "name": "鈴蘭の花 千鶴",
@@ -2433,7 +2554,8 @@
         "id": "GRI/S84-122",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-123": {
     "name": "約束の遊園地 由美子",
@@ -2451,7 +2573,8 @@
         "id": "GRI/S84-123",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-124": {
     "name": "天才の遺伝子 テュポーン",
@@ -2469,7 +2592,8 @@
         "id": "GRI/S84-124",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-125": {
     "name": "子供達の未来 千鶴",
@@ -2487,7 +2611,8 @@
         "id": "GRI/S84-125",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-126": {
     "name": "ヒース・オスロ",
@@ -2505,7 +2630,8 @@
         "id": "GRI/S84-126",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-127": {
     "name": "ブラクラ",
@@ -2523,7 +2649,8 @@
         "id": "GRI/S84-127",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GRI/S84-128": {
     "name": "再会、そして…",
@@ -2545,7 +2672,8 @@
         "id": "GRI/S84-128R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-129": {
     "name": "気がついた幸せ",
@@ -2567,7 +2695,8 @@
         "id": "GRI/S84-129R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GRI/S84-130": {
     "name": "幸せのカタチ",
@@ -2589,6 +2718,7 @@
         "id": "GRI/S84-130R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

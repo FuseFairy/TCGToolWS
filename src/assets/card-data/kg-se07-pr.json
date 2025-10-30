@@ -15,7 +15,8 @@
         "id": "KG/SE07-46",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "KG/SE07-47": {
     "name": "旅立ち とがめ＆七花",
@@ -33,7 +34,8 @@
         "id": "KG/SE07-47",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "KG/SE07-48": {
     "name": "“肯定する強さ”とがめ",
@@ -51,6 +53,7 @@
         "id": "KG/SE07-48",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

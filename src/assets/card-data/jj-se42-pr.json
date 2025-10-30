@@ -19,7 +19,8 @@
         "id": "JJ/SE42-P01S",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "JJ/SE42-P02": {
     "name": "尽きない闘志 徐倫",
@@ -37,6 +38,7 @@
         "id": "JJ/SE42-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

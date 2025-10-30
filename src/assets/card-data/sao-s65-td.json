@@ -15,7 +15,8 @@
         "id": "SAO/S65-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-T02": {
     "name": "まばゆい金色 アリス",
@@ -37,7 +38,8 @@
         "id": "SAO/S65-T02S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-T03": {
     "name": "氷を求めて アリス",
@@ -55,7 +57,8 @@
         "id": "SAO/S65-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-T04": {
     "name": "頑張り屋のセルカ",
@@ -73,7 +76,8 @@
         "id": "SAO/S65-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-T05": {
     "name": "“金木犀の騎士”アリス・シンセシス・サーティ",
@@ -95,7 +99,8 @@
         "id": "SAO/S65-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-T06": {
     "name": "“幼馴染の少女”アリス",
@@ -117,7 +122,8 @@
         "id": "SAO/S65-T06SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-T07": {
     "name": "指先の罪",
@@ -135,7 +141,8 @@
         "id": "SAO/S65-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-T08": {
     "name": "ライト・アンド・セルフ・トゥ・レフト",
@@ -153,7 +160,8 @@
         "id": "SAO/S65-T08",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SAO/S65-T09": {
     "name": "物憂げな表情 ユージオ",
@@ -171,7 +179,8 @@
         "id": "SAO/S65-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-T10": {
     "name": "氷を求めて キリト",
@@ -189,7 +198,8 @@
         "id": "SAO/S65-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-T11": {
     "name": "“初等練士”ユージオ＆キリト",
@@ -211,7 +221,8 @@
         "id": "SAO/S65-T11S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-T12": {
     "name": "“巨樹の刻み手”キリト",
@@ -229,7 +240,8 @@
         "id": "SAO/S65-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-T13": {
     "name": "ランチタイム ユージオ",
@@ -247,7 +259,8 @@
         "id": "SAO/S65-T13",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-T14": {
     "name": "動き出す運命 ユージオ",
@@ -269,7 +282,8 @@
         "id": "SAO/S65-T14SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-T15": {
     "name": "“あるはずのない記憶”ユージオ",
@@ -287,7 +301,8 @@
         "id": "SAO/S65-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-T16": {
     "name": "“巨樹の刻み手”ユージオ",
@@ -305,7 +320,8 @@
         "id": "SAO/S65-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-T17": {
     "name": "“ベクタの迷子”キリト",
@@ -327,7 +343,8 @@
         "id": "SAO/S65-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SAO/S65-T18": {
     "name": "ステイシアの窓",
@@ -345,7 +362,8 @@
         "id": "SAO/S65-T18",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SAO/S65-T19": {
     "name": "昔日の冒険",
@@ -367,6 +385,7 @@
         "id": "SAO/S65-T19R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

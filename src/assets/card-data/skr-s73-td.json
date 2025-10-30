@@ -19,7 +19,8 @@
         "id": "SKR/S73-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-T02": {
     "name": "物語の世界へ クラリス",
@@ -37,7 +38,8 @@
         "id": "SKR/S73-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-T03": {
     "name": "戦う意思 アナスタシア",
@@ -55,7 +57,8 @@
         "id": "SKR/S73-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-T04": {
     "name": "微かな疑念 クラリス",
@@ -73,7 +76,8 @@
         "id": "SKR/S73-T04",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-T05": {
     "name": "頼れる仲間 アナスタシア",
@@ -95,7 +99,8 @@
         "id": "SKR/S73-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-T06": {
     "name": "一途な想い あざみ",
@@ -113,7 +118,8 @@
         "id": "SKR/S73-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-T07": {
     "name": "ブリーフィング あざみ",
@@ -131,7 +137,8 @@
         "id": "SKR/S73-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-T08": {
     "name": "女心と秋の空 クラリス",
@@ -153,7 +160,8 @@
         "id": "SKR/S73-T08SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-T09": {
     "name": "憧れの大スタァ",
@@ -171,7 +179,8 @@
         "id": "SKR/S73-T09",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-T10": {
     "name": "勝利のポーズ",
@@ -189,7 +198,8 @@
         "id": "SKR/S73-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-T11": {
     "name": "新生・帝国華撃団",
@@ -207,7 +217,8 @@
         "id": "SKR/S73-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SKR/S73-T12": {
     "name": "新たな任務 神山",
@@ -225,7 +236,8 @@
         "id": "SKR/S73-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-T13": {
     "name": "帝劇を案内 さくら",
@@ -247,7 +259,8 @@
         "id": "SKR/S73-T13SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-T14": {
     "name": "頼れる戦巫女 初穂",
@@ -265,7 +278,8 @@
         "id": "SKR/S73-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-T15": {
     "name": "何でもおまかせ 初穂",
@@ -287,7 +301,8 @@
         "id": "SKR/S73-T15R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-T16": {
     "name": "突然の再会 さくら",
@@ -305,7 +320,8 @@
         "id": "SKR/S73-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SKR/S73-T17": {
     "name": "帝劇のスタァ 初穂＆さくら",
@@ -323,7 +339,8 @@
         "id": "SKR/S73-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-T18": {
     "name": "“太正浪漫”さくら",
@@ -345,7 +362,8 @@
         "id": "SKR/S73-T18S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SKR/S73-T19": {
     "name": "一世一代の大ゲンカ",
@@ -367,6 +385,7 @@
         "id": "SKR/S73-T19S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

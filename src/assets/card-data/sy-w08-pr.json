@@ -15,7 +15,8 @@
         "id": "SY/W08-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-104": {
     "name": "好奇心ハルヒ",
@@ -33,7 +34,8 @@
         "id": "SY/W08-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-105": {
     "name": "“Merry Xmas”ハルヒ",
@@ -51,7 +53,8 @@
         "id": "SY/W08-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-106": {
     "name": "ウェディングドレスの長門",
@@ -69,7 +72,8 @@
         "id": "SY/W08-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-107": {
     "name": "ウェディングドレスのみくる",
@@ -87,7 +91,8 @@
         "id": "SY/W08-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-108": {
     "name": "ウェディングドレスのハルヒ",
@@ -105,7 +110,8 @@
         "id": "SY/W08-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-109": {
     "name": "団員ボシュウ中！",
@@ -123,7 +129,8 @@
         "id": "SY/W08-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SY/W08-110": {
     "name": "長門＆ハルヒ＆みくる",
@@ -141,7 +148,8 @@
         "id": "SY/W08-110",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-111": {
     "name": "宇宙に思いをはせるハルヒ",
@@ -159,7 +167,8 @@
         "id": "SY/W08-111",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SY/W08-112": {
     "name": "お正月 ハルヒ＆長門＆みくる",
@@ -177,7 +186,8 @@
         "id": "SY/W08-112",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-113": {
     "name": "超編集長ハルヒとその助手",
@@ -195,7 +205,8 @@
         "id": "SY/W08-113",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SY/W08-114": {
     "name": "平穏な日常 有希",
@@ -213,6 +224,7 @@
         "id": "SY/W08-114",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

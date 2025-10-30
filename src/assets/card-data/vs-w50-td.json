@@ -15,7 +15,8 @@
         "id": "VS/W50-T01",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-T02": {
     "name": "苦笑い ミウラ",
@@ -33,7 +34,8 @@
         "id": "VS/W50-T02",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-T03": {
     "name": "おちびさん ヴィヴィオ",
@@ -51,7 +53,8 @@
         "id": "VS/W50-T03",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-T04": {
     "name": "フーカ・レヴェントン",
@@ -77,7 +80,8 @@
         "id": "VS/W50-T04S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-T05": {
     "name": "選手兼アルバイト フーカ",
@@ -95,7 +99,8 @@
         "id": "VS/W50-T05",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-T06": {
     "name": "セットアップ！ フーカ",
@@ -113,7 +118,8 @@
         "id": "VS/W50-T06",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-T07": {
     "name": "出会いの朝 アインハルト",
@@ -131,7 +137,8 @@
         "id": "VS/W50-T07",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-T08": {
     "name": "“ギフトの宿る拳”フーカ",
@@ -153,7 +160,8 @@
         "id": "VS/W50-T08SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-T09": {
     "name": "始まりの一撃",
@@ -175,7 +183,8 @@
         "id": "VS/W50-T09S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "VS/W50-T10": {
     "name": "才能の萌芽",
@@ -193,7 +202,8 @@
         "id": "VS/W50-T10",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "VS/W50-T11": {
     "name": "才能の信奉者 ジル",
@@ -211,7 +221,8 @@
         "id": "VS/W50-T11",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-T12": {
     "name": "通りすがりの元格闘家 ジル",
@@ -229,7 +240,8 @@
         "id": "VS/W50-T12",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-T13": {
     "name": "リンネ・ベルリネッタ",
@@ -251,7 +263,8 @@
         "id": "VS/W50-T13SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-T14": {
     "name": "初めての制服 リンネ",
@@ -269,7 +282,8 @@
         "id": "VS/W50-T14",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-T15": {
     "name": "U19選手会長 ヴィクトーリア",
@@ -287,7 +301,8 @@
         "id": "VS/W50-T15",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-T16": {
     "name": "ディフェンスとタフネス リンネ",
@@ -305,7 +320,8 @@
         "id": "VS/W50-T16",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-T17": {
     "name": "リンネの専属コーチ ジル",
@@ -323,7 +339,8 @@
         "id": "VS/W50-T17",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-T18": {
     "name": "“純白のトータルファイター”リンネ",
@@ -345,7 +362,8 @@
         "id": "VS/W50-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "VS/W50-T19": {
     "name": "朝の修練",
@@ -363,7 +381,8 @@
         "id": "VS/W50-T19",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "VS/W50-T20": {
     "name": "リンネVSミウラ",
@@ -381,6 +400,7 @@
         "id": "VS/W50-T20",
         "rarity": "TD"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

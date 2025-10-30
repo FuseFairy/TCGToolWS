@@ -23,7 +23,8 @@
         "id": "DC3/WE36-01SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WE36-02": {
     "name": "潤んだ瞳 立夏",
@@ -45,7 +46,8 @@
         "id": "DC3/WE36-02S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE36-03": {
     "name": "ふたつの世界の物語 立夏",
@@ -67,7 +69,8 @@
         "id": "DC3/WE36-03S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE36-04": {
     "name": "ふたつの世界の物語 リッカ",
@@ -89,7 +92,8 @@
         "id": "DC3/WE36-04S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WE36-05": {
     "name": "桜の研究 リッカ",
@@ -111,7 +115,8 @@
         "id": "DC3/WE36-05S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE36-06": {
     "name": "With You",
@@ -133,7 +138,8 @@
         "id": "DC3/WE36-06S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE36-07": {
     "name": "“君と旅する時の魔法”シャルル",
@@ -159,7 +165,8 @@
         "id": "DC3/WE36-07SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WE36-08": {
     "name": "食欲の秋 シャルル",
@@ -181,7 +188,8 @@
         "id": "DC3/WE36-08S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE36-09": {
     "name": "雪の日の登校 シャルル",
@@ -203,7 +211,8 @@
         "id": "DC3/WE36-09S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE36-10": {
     "name": "しあわせな時間 シャルル",
@@ -225,7 +234,8 @@
         "id": "DC3/WE36-10S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE36-11": {
     "name": "大はしゃぎ！ シャルル",
@@ -247,7 +257,8 @@
         "id": "DC3/WE36-11S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE36-12": {
     "name": "浜辺のお願い シャルル",
@@ -269,7 +280,8 @@
         "id": "DC3/WE36-12S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE36-13": {
     "name": "“君と旅する時の魔法”姫乃",
@@ -295,7 +307,8 @@
         "id": "DC3/WE36-13SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE36-14": {
     "name": "初夏の夢 姫乃",
@@ -317,7 +330,8 @@
         "id": "DC3/WE36-14S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE36-15": {
     "name": "ガチガチ 姫乃",
@@ -339,7 +353,8 @@
         "id": "DC3/WE36-15S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WE36-16": {
     "name": "共に歩む未来 姫乃",
@@ -361,7 +376,8 @@
         "id": "DC3/WE36-16S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WE36-17": {
     "name": "表彰式 姫乃",
@@ -383,7 +399,8 @@
         "id": "DC3/WE36-17S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE36-18": {
     "name": "まるでハネムーンのように 姫乃",
@@ -405,7 +422,8 @@
         "id": "DC3/WE36-18S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE36-19": {
     "name": "“君と旅する時の魔法”さら",
@@ -431,7 +449,8 @@
         "id": "DC3/WE36-19SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE36-20": {
     "name": "聖夜の輝き さら",
@@ -453,7 +472,8 @@
         "id": "DC3/WE36-20S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WE36-21": {
     "name": "大切な人の隣に さら",
@@ -475,7 +495,8 @@
         "id": "DC3/WE36-21S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WE36-22": {
     "name": "涙尽きるまで… サラ",
@@ -497,7 +518,8 @@
         "id": "DC3/WE36-22S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE36-23": {
     "name": "とびっきりの笑顔 サラ",
@@ -519,7 +541,8 @@
         "id": "DC3/WE36-23S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WE36-24": {
     "name": "未来の花嫁さん サラ",
@@ -541,7 +564,8 @@
         "id": "DC3/WE36-24S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE36-25": {
     "name": "“君と旅する時の魔法”葵",
@@ -567,7 +591,8 @@
         "id": "DC3/WE36-25SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE36-26": {
     "name": "とっても幸せ 葵",
@@ -589,7 +614,8 @@
         "id": "DC3/WE36-26S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "DC3/WE36-27": {
     "name": "グニルックの練習 葵",
@@ -611,7 +637,8 @@
         "id": "DC3/WE36-27S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE36-28": {
     "name": "新しい一年の始まり 葵",
@@ -633,7 +660,8 @@
         "id": "DC3/WE36-28S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE36-29": {
     "name": "ホラーは苦手",
@@ -655,7 +683,8 @@
         "id": "DC3/WE36-29S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "DC3/WE36-30": {
     "name": "“お兄ちゃん”へ",
@@ -677,6 +706,7 @@
         "id": "DC3/WE36-30S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

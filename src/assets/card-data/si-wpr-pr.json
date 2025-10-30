@@ -15,7 +15,8 @@
         "id": "SI/WPR-001",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SI/WPR-002": {
     "name": "応援しよ子",
@@ -33,7 +34,8 @@
         "id": "SI/WPR-002",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SI/WPR-003": {
     "name": "放課後のしよ子",
@@ -51,7 +53,8 @@
         "id": "SI/WPR-003",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SI/WPR-004": {
     "name": "しろくろフェス しよ子",
@@ -69,7 +72,8 @@
         "id": "SI/WPR-004",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SI/WPR-005": {
     "name": "しろくろフェス しよ子 2014",
@@ -87,7 +91,8 @@
         "id": "SI/WPR-005",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SI/WPR-006": {
     "name": "しろくろフェス しよ子 2015",
@@ -105,7 +110,8 @@
         "id": "SI/WPR-006",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SI/WPR-007": {
     "name": "カードゲーム大好きマンの娘 しよ子",
@@ -123,7 +129,8 @@
         "id": "SI/WPR-007",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SI/WPR-008": {
     "name": "熊狩りしよ子",
@@ -141,7 +148,8 @@
         "id": "SI/WPR-008",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SI/WPR-009": {
     "name": "謹賀新春 2023癸卯",
@@ -159,6 +167,7 @@
         "id": "SI/WPR-009",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

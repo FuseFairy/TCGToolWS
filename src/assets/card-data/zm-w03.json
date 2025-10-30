@@ -19,7 +19,8 @@
         "id": "ZM/W03-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-002": {
     "name": "メイド服のルイズ",
@@ -41,7 +42,8 @@
         "id": "ZM/W03-002S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-003": {
     "name": "“平民の使い魔”サイト",
@@ -59,7 +61,8 @@
         "id": "ZM/W03-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-004": {
     "name": "ジュリオ・チェザーレ",
@@ -77,7 +80,8 @@
         "id": "ZM/W03-004",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-005": {
     "name": "ルイズ＆シエスタ",
@@ -103,7 +107,8 @@
         "id": "ZM/W03-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-006": {
     "name": "サイト＆シエスタ",
@@ -121,7 +126,8 @@
         "id": "ZM/W03-006",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-007": {
     "name": "シルフィード",
@@ -139,7 +145,8 @@
         "id": "ZM/W03-007",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-008": {
     "name": "ヴァリエール公爵夫人",
@@ -157,7 +164,8 @@
         "id": "ZM/W03-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-009": {
     "name": "シャルロット・エレーヌ・オルレアン",
@@ -175,7 +183,8 @@
         "id": "ZM/W03-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-010": {
     "name": "黒ネコのルイズ",
@@ -193,7 +202,8 @@
         "id": "ZM/W03-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-011": {
     "name": "竜使い タバサ",
@@ -211,7 +221,8 @@
         "id": "ZM/W03-011",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-012": {
     "name": "“ゼロの使い魔”サイト",
@@ -229,7 +240,8 @@
         "id": "ZM/W03-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-013": {
     "name": "ゼロのルイズ",
@@ -247,7 +259,8 @@
         "id": "ZM/W03-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-014": {
     "name": "無口なタバサ",
@@ -265,7 +278,8 @@
         "id": "ZM/W03-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-015": {
     "name": "タバサ＆イルククゥ",
@@ -283,7 +297,8 @@
         "id": "ZM/W03-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-016": {
     "name": "ウェールズ・テューダー",
@@ -301,7 +316,8 @@
         "id": "ZM/W03-016",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-017": {
     "name": "閃光のワルド",
@@ -319,7 +335,8 @@
         "id": "ZM/W03-017",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-018": {
     "name": "ディスペル・マジック",
@@ -337,7 +354,8 @@
         "id": "ZM/W03-018",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-019": {
     "name": "軍事教練",
@@ -355,7 +373,8 @@
         "id": "ZM/W03-019",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-020": {
     "name": "竜の羽衣",
@@ -373,7 +392,8 @@
         "id": "ZM/W03-020",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-021": {
     "name": "使い魔品評会",
@@ -391,7 +411,8 @@
         "id": "ZM/W03-021",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-022": {
     "name": "ヘキサゴン・マジック",
@@ -409,7 +430,8 @@
         "id": "ZM/W03-022",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-023": {
     "name": "契約",
@@ -427,7 +449,8 @@
         "id": "ZM/W03-023",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "ZM/W03-024": {
     "name": "タバサの秘密",
@@ -445,7 +468,8 @@
         "id": "ZM/W03-024",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-025": {
     "name": "手合わせ",
@@ -463,7 +487,8 @@
         "id": "ZM/W03-025",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "ZM/W03-026": {
     "name": "ハーフエルフ ティファニア",
@@ -485,7 +510,8 @@
         "id": "ZM/W03-026R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-027": {
     "name": "カトレア・イヴェット・ラ・ボーム・ル・ブラン・ド・ラ・フォンティーヌ",
@@ -503,7 +529,8 @@
         "id": "ZM/W03-027",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-028": {
     "name": "スカロン",
@@ -521,7 +548,8 @@
         "id": "ZM/W03-028",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-029": {
     "name": "次女 カトレア",
@@ -543,7 +571,8 @@
         "id": "ZM/W03-029S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-030": {
     "name": "水着のシエスタ",
@@ -565,7 +594,8 @@
         "id": "ZM/W03-030S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-031": {
     "name": "エレオノール＆カトレア",
@@ -587,7 +617,8 @@
         "id": "ZM/W03-031R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-032": {
     "name": "ティファニア・ウエストウッド",
@@ -605,7 +636,8 @@
         "id": "ZM/W03-032",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-033": {
     "name": "“ちい姉さま”カトレア",
@@ -623,7 +655,8 @@
         "id": "ZM/W03-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-034": {
     "name": "オールド・オスマン",
@@ -641,7 +674,8 @@
         "id": "ZM/W03-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-035": {
     "name": "ルイズ＆カトレア",
@@ -659,7 +693,8 @@
         "id": "ZM/W03-035",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-036": {
     "name": "シエスタ",
@@ -677,7 +712,8 @@
         "id": "ZM/W03-036",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-037": {
     "name": "ヴェルダンデ",
@@ -695,7 +731,8 @@
         "id": "ZM/W03-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-038": {
     "name": "ジェシカ",
@@ -713,7 +750,8 @@
         "id": "ZM/W03-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-039": {
     "name": "ルイズ＆ティファニア",
@@ -731,7 +769,8 @@
         "id": "ZM/W03-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-040": {
     "name": "青銅のギーシュ",
@@ -749,7 +788,8 @@
         "id": "ZM/W03-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-041": {
     "name": "ミシェル",
@@ -767,7 +807,8 @@
         "id": "ZM/W03-041",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-042": {
     "name": "土くれのフーケ",
@@ -785,7 +826,8 @@
         "id": "ZM/W03-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-043": {
     "name": "ルイズのアルバイト",
@@ -803,7 +845,8 @@
         "id": "ZM/W03-043",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-044": {
     "name": "お仕置き",
@@ -821,7 +864,8 @@
         "id": "ZM/W03-044",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-045": {
     "name": "魅惑の妖精のビスチェ",
@@ -839,7 +883,8 @@
         "id": "ZM/W03-045",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-046": {
     "name": "メドゥーサの眼鏡",
@@ -857,7 +902,8 @@
         "id": "ZM/W03-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-047": {
     "name": "サイトの意地",
@@ -875,7 +921,8 @@
         "id": "ZM/W03-047",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-048": {
     "name": "動物合唱隊",
@@ -893,7 +940,8 @@
         "id": "ZM/W03-048",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "ZM/W03-049": {
     "name": "二人でお風呂",
@@ -911,7 +959,8 @@
         "id": "ZM/W03-049",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-050": {
     "name": "ゴーレム",
@@ -929,7 +978,8 @@
         "id": "ZM/W03-050",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "ZM/W03-051": {
     "name": "微熱のキュルケ",
@@ -951,7 +1001,8 @@
         "id": "ZM/W03-051SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-052": {
     "name": "“ガンダールヴ”サイト",
@@ -969,7 +1020,8 @@
         "id": "ZM/W03-052",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-053": {
     "name": "虚無のルイズ",
@@ -995,7 +1047,8 @@
         "id": "ZM/W03-053SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-054": {
     "name": "サイト＆デルフリンガー",
@@ -1013,7 +1066,8 @@
         "id": "ZM/W03-054",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-055": {
     "name": "キュルケ＆タバサ",
@@ -1035,7 +1089,8 @@
         "id": "ZM/W03-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-056": {
     "name": "犬猿の仲 ルイズ＆キュルケ",
@@ -1053,7 +1108,8 @@
         "id": "ZM/W03-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-057": {
     "name": "キュルケ・アウグスタ・フレデリカ・フォン・アンハルツ・ツェルプストー",
@@ -1071,7 +1127,8 @@
         "id": "ZM/W03-057",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-058": {
     "name": "燠火のケティ",
@@ -1089,7 +1146,8 @@
         "id": "ZM/W03-058",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-059": {
     "name": "伝説の剣 デルフリンガー",
@@ -1107,7 +1165,8 @@
         "id": "ZM/W03-059",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-060": {
     "name": "ルイズ＆サイト",
@@ -1125,7 +1184,8 @@
         "id": "ZM/W03-060",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-061": {
     "name": "水着のルイズ",
@@ -1143,7 +1203,8 @@
         "id": "ZM/W03-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-062": {
     "name": "平賀 才人",
@@ -1161,7 +1222,8 @@
         "id": "ZM/W03-062",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-063": {
     "name": "乙女モードのサイト",
@@ -1179,7 +1241,8 @@
         "id": "ZM/W03-063",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-064": {
     "name": "セーラー服のルイズ",
@@ -1197,7 +1260,8 @@
         "id": "ZM/W03-064",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-065": {
     "name": "ウェディングドレスのルイズ",
@@ -1215,7 +1279,8 @@
         "id": "ZM/W03-065",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-066": {
     "name": "炎蛇のコルベール",
@@ -1233,7 +1298,8 @@
         "id": "ZM/W03-066",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-067": {
     "name": "恋多き女 キュルケ",
@@ -1251,7 +1317,8 @@
         "id": "ZM/W03-067",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-068": {
     "name": "虚無の力",
@@ -1269,7 +1336,8 @@
         "id": "ZM/W03-068",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-069": {
     "name": "再契約の証",
@@ -1287,7 +1355,8 @@
         "id": "ZM/W03-069",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-070": {
     "name": "人質救出作戦",
@@ -1305,7 +1374,8 @@
         "id": "ZM/W03-070",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-071": {
     "name": "ワルドの裏切り",
@@ -1323,7 +1393,8 @@
         "id": "ZM/W03-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-072": {
     "name": "ダングルテールの虐殺",
@@ -1341,7 +1412,8 @@
         "id": "ZM/W03-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-073": {
     "name": "伝説の使い魔",
@@ -1359,7 +1431,8 @@
         "id": "ZM/W03-073",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "ZM/W03-074": {
     "name": "ご褒美",
@@ -1377,7 +1450,8 @@
         "id": "ZM/W03-074",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-075": {
     "name": "微熱の誘惑",
@@ -1395,7 +1469,8 @@
         "id": "ZM/W03-075",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "ZM/W03-076": {
     "name": "長女 エレオノール",
@@ -1413,7 +1488,8 @@
         "id": "ZM/W03-076",
         "rarity": "RR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-077": {
     "name": "ルイズ＆アンリエッタ",
@@ -1435,7 +1511,8 @@
         "id": "ZM/W03-077R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-078": {
     "name": "ルイズ＆エレオノール",
@@ -1453,7 +1530,8 @@
         "id": "ZM/W03-078",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-079": {
     "name": "トリステインの王女 アンリエッタ",
@@ -1475,7 +1553,8 @@
         "id": "ZM/W03-079SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-080": {
     "name": "特別講師 エレオノール",
@@ -1497,7 +1576,8 @@
         "id": "ZM/W03-080S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-081": {
     "name": "バニーガールのシエスタ",
@@ -1519,7 +1599,8 @@
         "id": "ZM/W03-081S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-082": {
     "name": "銃士隊隊長 アニエス",
@@ -1537,7 +1618,8 @@
         "id": "ZM/W03-082",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-083": {
     "name": "セーラー服のシエスタ",
@@ -1555,7 +1637,8 @@
         "id": "ZM/W03-083",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-084": {
     "name": "シェフィールド",
@@ -1573,7 +1656,8 @@
         "id": "ZM/W03-084",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-085": {
     "name": "アンリエッタ＆ウェールズ",
@@ -1591,7 +1675,8 @@
         "id": "ZM/W03-085",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-086": {
     "name": "アンリエッタ・ド・トリステイン",
@@ -1609,7 +1694,8 @@
         "id": "ZM/W03-086",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-087": {
     "name": "香水のモンモランシー",
@@ -1627,7 +1713,8 @@
         "id": "ZM/W03-087",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-088": {
     "name": "幼なじみ アンリエッタ姫",
@@ -1645,7 +1732,8 @@
         "id": "ZM/W03-088",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-089": {
     "name": "アニエス・シュヴァリエ・ド・ミラン",
@@ -1663,7 +1751,8 @@
         "id": "ZM/W03-089",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-090": {
     "name": "オリヴァー・クロムウェル",
@@ -1681,7 +1770,8 @@
         "id": "ZM/W03-090",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-091": {
     "name": "エレオノール・アルベルティーヌ・ル・ブラン・ド・ラ・ブロワ・ド・ラ・ヴァリエール",
@@ -1699,7 +1789,8 @@
         "id": "ZM/W03-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-092": {
     "name": "犯人を追うアニエス",
@@ -1717,7 +1808,8 @@
         "id": "ZM/W03-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "ZM/W03-093": {
     "name": "惚れ薬の力",
@@ -1735,7 +1827,8 @@
         "id": "ZM/W03-093",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-094": {
     "name": "水の精霊",
@@ -1753,7 +1846,8 @@
         "id": "ZM/W03-094",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-095": {
     "name": "エクレールダムールの花",
@@ -1771,7 +1865,8 @@
         "id": "ZM/W03-095",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-096": {
     "name": "王家に架かる虹",
@@ -1789,7 +1884,8 @@
         "id": "ZM/W03-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-097": {
     "name": "ちびルイズつねられる",
@@ -1807,7 +1903,8 @@
         "id": "ZM/W03-097",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-098": {
     "name": "刻印を探せ！",
@@ -1825,7 +1922,8 @@
         "id": "ZM/W03-098",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "ZM/W03-099": {
     "name": "風と水の誓い",
@@ -1843,7 +1941,8 @@
         "id": "ZM/W03-099",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "ZM/W03-100": {
     "name": "復讐の刃",
@@ -1861,6 +1960,7 @@
         "id": "ZM/W03-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

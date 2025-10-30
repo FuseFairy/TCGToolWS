@@ -27,7 +27,8 @@
         "id": "Ssk/W123-028SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssk/W123-042": {
     "name": "背中を追いかけて ティアット",
@@ -53,7 +54,8 @@
         "id": "Ssk/W123-042SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Ssk/W123-051": {
     "name": "正規勇者 リーリァ",
@@ -75,7 +77,8 @@
         "id": "Ssk/W123-051S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssk/W123-058": {
     "name": "願いを紡ぐ少女たち",
@@ -101,7 +104,8 @@
         "id": "Ssk/W123-058SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Ssk/W123-060": {
     "name": "終末に向かう物語",
@@ -123,6 +127,7 @@
         "id": "Ssk/W123-060R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

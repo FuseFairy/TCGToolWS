@@ -19,7 +19,8 @@
         "id": "Grk/WS02-078SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Grk/WS02-082": {
     "name": "\"無垢なる魔性\" ひなた",
@@ -41,7 +42,8 @@
         "id": "Grk/WS02-082S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Grk/WS02-085": {
     "name": "\"氷の絶対女王政\" 紗季",
@@ -63,7 +65,8 @@
         "id": "Grk/WS02-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Grk/WS02-091": {
     "name": "夜の訪れ 真帆",
@@ -85,7 +88,8 @@
         "id": "Grk/WS02-091S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Grk/WS02-101": {
     "name": "\"打ち上げ花火\" 真帆",
@@ -107,7 +111,8 @@
         "id": "Grk/WS02-101S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Grk/WS02-109": {
     "name": "\"七色彩蕾\" 愛莉",
@@ -129,7 +134,8 @@
         "id": "Grk/WS02-109S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Grk/WS02-110": {
     "name": "ワンダーキュート ひなた",
@@ -151,7 +157,8 @@
         "id": "Grk/WS02-110SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Grk/WS02-113": {
     "name": "慧心学園女子バスケットボール部",
@@ -173,7 +180,8 @@
         "id": "Grk/WS02-113SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Grk/WS02-114": {
     "name": "眠れない夜",
@@ -195,6 +203,7 @@
         "id": "Grk/WS02-114S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

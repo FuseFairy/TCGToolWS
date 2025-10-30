@@ -15,7 +15,8 @@
         "id": "GT/W29-106",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GT/W29-107": {
     "name": "エレメンタル・タロット 『月』",
@@ -33,7 +34,8 @@
         "id": "GT/W29-107",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GT/W29-108": {
     "name": "エレメンタル・タロット 『太陽』",
@@ -51,7 +53,8 @@
         "id": "GT/W29-108",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GT/W29-109": {
     "name": "エレメンタル・タロット 『星』",
@@ -69,7 +72,8 @@
         "id": "GT/W29-109",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GT/W29-P01": {
     "name": "切り裂く剣 あかり",
@@ -87,7 +91,8 @@
         "id": "GT/W29-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GT/W29-P02": {
     "name": "クールダウン せいら",
@@ -105,7 +110,8 @@
         "id": "GT/W29-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GT/W29-P03": {
     "name": "闘いの地へ あかり＆るな",
@@ -123,7 +129,8 @@
         "id": "GT/W29-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GT/W29-P04": {
     "name": "じゃれあう あかり＆天道三姉妹",
@@ -141,7 +148,8 @@
         "id": "GT/W29-P04",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GT/W29-P05": {
     "name": "空を見上げて ぎんか",
@@ -159,6 +167,7 @@
         "id": "GT/W29-P05",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

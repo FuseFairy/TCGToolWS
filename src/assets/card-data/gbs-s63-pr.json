@@ -15,7 +15,8 @@
         "id": "GBS/S63-P01",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-P02": {
     "name": "敵襲！ 妖精弓手",
@@ -33,7 +34,8 @@
         "id": "GBS/S63-P02",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-P03": {
     "name": "神聖なる白き舞 女神官",
@@ -51,7 +53,8 @@
         "id": "GBS/S63-P03",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-101": {
     "name": "An Ordinary Piece 妖精弓手",
@@ -69,7 +72,8 @@
         "id": "GBS/S63-101",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GBS/S63-102": {
     "name": "An Ordinary Piece 牛飼娘",
@@ -87,7 +91,8 @@
         "id": "GBS/S63-102",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-103": {
     "name": "An Ordinary Piece ゴブリンスレイヤー",
@@ -105,7 +110,8 @@
         "id": "GBS/S63-103",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-104": {
     "name": "An Ordinary Piece 女神官",
@@ -123,7 +129,8 @@
         "id": "GBS/S63-104",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GBS/S63-105": {
     "name": "An Ordinary Piece 受付嬢",
@@ -141,6 +148,7 @@
         "id": "GBS/S63-105",
         "rarity": "PR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }

@@ -19,7 +19,8 @@
         "id": "Fab/W65-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fab/W65-026": {
     "name": "メープルランド第一王女 ラティファ",
@@ -41,7 +42,8 @@
         "id": "Fab/W65-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fab/W65-029": {
     "name": "水の妖精 ミュース",
@@ -59,7 +61,8 @@
         "id": "Fab/W65-029",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fab/W65-032": {
     "name": "初めての文化祭 いすず＆ラティファ",
@@ -77,7 +80,8 @@
         "id": "Fab/W65-032",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Fab/W65-036": {
     "name": "『エレメンタリオ』の四人娘 ミュース・サーラマ・シルフィー・コボリー",
@@ -95,7 +99,8 @@
         "id": "Fab/W65-036",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Fab/W65-040": {
     "name": "ようこそ 甘城ブリリアントパークへ！",
@@ -117,6 +122,7 @@
         "id": "Fab/W65-040R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   }
 }

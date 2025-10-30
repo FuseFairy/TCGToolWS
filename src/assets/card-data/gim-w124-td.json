@@ -19,7 +19,8 @@
         "id": "GIM/W124-T01R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-T02": {
     "name": "カワイイ♡はじめました 藤田ことね",
@@ -45,7 +46,8 @@
         "id": "GIM/W124-T02SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-T03": {
     "name": "一番星 十王星南",
@@ -67,7 +69,8 @@
         "id": "GIM/W124-T03R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-T04": {
     "name": "夢へのリスタート 紫雲清夏",
@@ -89,7 +92,8 @@
         "id": "GIM/W124-T04R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-T05": {
     "name": "学園生活 藤田ことね",
@@ -111,7 +115,8 @@
         "id": "GIM/W124-T05R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-T06": {
     "name": "こいつらめんどくさー",
@@ -133,7 +138,8 @@
         "id": "GIM/W124-T06R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-T07": {
     "name": "きみは、自慢の生徒です",
@@ -155,7 +161,8 @@
         "id": "GIM/W124-T07R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-T08": {
     "name": "アイドル、はじめっ！ 花海佑芽",
@@ -177,7 +184,8 @@
         "id": "GIM/W124-T08R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-T09": {
     "name": "わたしが一番！ 花海咲季",
@@ -203,7 +211,8 @@
         "id": "GIM/W124-T09SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-T10": {
     "name": "『私らしさ』のはじまり 姫崎莉波",
@@ -225,7 +234,8 @@
         "id": "GIM/W124-T10R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-T11": {
     "name": "はじまりはカッコよく 有村麻央",
@@ -247,7 +257,8 @@
         "id": "GIM/W124-T11R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-T12": {
     "name": "学園生活 花海咲季",
@@ -269,7 +280,8 @@
         "id": "GIM/W124-T12R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-T13": {
     "name": "あなたにも作ってあげる！",
@@ -291,7 +303,8 @@
         "id": "GIM/W124-T13R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-T14": {
     "name": "一番向いてないこと 篠澤 広",
@@ -313,7 +326,8 @@
         "id": "GIM/W124-T14R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-T15": {
     "name": "一匹狼 月村手毬",
@@ -339,7 +353,8 @@
         "id": "GIM/W124-T15SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-T16": {
     "name": "一つ踏み出した先に 葛城リーリヤ",
@@ -361,7 +376,8 @@
         "id": "GIM/W124-T16R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "GIM/W124-T17": {
     "name": "ゆっくり、一歩ずつ 秦谷美鈴",
@@ -383,7 +399,8 @@
         "id": "GIM/W124-T17R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "GIM/W124-T18": {
     "name": "学園生活 月村手毬",
@@ -405,6 +422,7 @@
         "id": "GIM/W124-T18R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

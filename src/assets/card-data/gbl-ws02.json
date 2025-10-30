@@ -19,7 +19,8 @@
         "id": "Gbl/WS02-001SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "Gbl/WS02-010": {
     "name": "想定外の再会 豚＆セレス＆黒豚",
@@ -41,7 +42,8 @@
         "id": "Gbl/WS02-010S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gbl/WS02-033": {
     "name": "憧れた日常 ジェス＆豚",
@@ -63,7 +65,8 @@
         "id": "Gbl/WS02-033S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "Gbl/WS02-036": {
     "name": "美しい夕景",
@@ -85,6 +88,7 @@
         "id": "Gbl/WS02-036SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   }
 }

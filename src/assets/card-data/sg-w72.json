@@ -19,7 +19,8 @@
         "id": "SG/W72-001S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-002": {
     "name": "“ガングニール”響",
@@ -41,7 +42,8 @@
         "id": "SG/W72-002SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-003": {
     "name": "リディアンの制服 未来",
@@ -59,7 +61,8 @@
         "id": "SG/W72-003",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-004": {
     "name": "【我流・星流撃槍：心】響",
@@ -81,7 +84,8 @@
         "id": "SG/W72-004S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-005": {
     "name": "【我流・撃槍烈破：体】響",
@@ -103,7 +107,8 @@
         "id": "SG/W72-005S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-006": {
     "name": "【夏のお出かけ】響＆翼",
@@ -125,7 +130,8 @@
         "id": "SG/W72-006S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-007": {
     "name": "守るべき場所 未来",
@@ -147,7 +153,8 @@
         "id": "SG/W72-007S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-008": {
     "name": "【我流・猛虎翔脚：力】響",
@@ -165,7 +172,8 @@
         "id": "SG/W72-008",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-009": {
     "name": "【狂装咆哮：怒】響",
@@ -183,7 +191,8 @@
         "id": "SG/W72-009",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-010": {
     "name": "【我流・鳳凰双燕衝：力】響",
@@ -201,7 +210,8 @@
         "id": "SG/W72-010",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-011": {
     "name": "私服の響",
@@ -219,7 +229,8 @@
         "id": "SG/W72-011",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-012": {
     "name": "【雨の日の帰り道】切歌＆響",
@@ -237,7 +248,8 @@
         "id": "SG/W72-012",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-013": {
     "name": "【我流・撃槍衝打：力】響",
@@ -255,7 +267,8 @@
         "id": "SG/W72-013",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-014": {
     "name": "私服の未来",
@@ -273,7 +286,8 @@
         "id": "SG/W72-014",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-015": {
     "name": "【我流・大地浸透勁：知】響",
@@ -291,7 +305,8 @@
         "id": "SG/W72-015",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-016": {
     "name": "ドキドキの急接近",
@@ -309,7 +324,8 @@
         "id": "SG/W72-016",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-017": {
     "name": "手料理の味は？",
@@ -327,7 +343,8 @@
         "id": "SG/W72-017",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-018": {
     "name": "我流・大地浸透勁",
@@ -345,7 +362,8 @@
         "id": "SG/W72-018",
         "rarity": "CR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-019": {
     "name": "我流・猛虎翔脚",
@@ -363,7 +381,8 @@
         "id": "SG/W72-019",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W72-020": {
     "name": "閃光",
@@ -381,7 +400,8 @@
         "id": "SG/W72-020",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-021": {
     "name": "【裂空・亜リiす：心】切歌",
@@ -403,7 +423,8 @@
         "id": "SG/W72-021SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-022": {
     "name": "【γ式・卍火車：技】調",
@@ -425,7 +446,8 @@
         "id": "SG/W72-022SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-023": {
     "name": "【非常Σ式・禁月輪：巧】調",
@@ -447,7 +469,8 @@
         "id": "SG/W72-023S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-024": {
     "name": "【対鎌・螺Pぅn痛ェる：巧】切歌",
@@ -469,7 +492,8 @@
         "id": "SG/W72-024S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-025": {
     "name": "“シュルシャガナ”調",
@@ -491,7 +515,8 @@
         "id": "SG/W72-025S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-026": {
     "name": "四大元素を操る者 キャロル",
@@ -513,7 +538,8 @@
         "id": "SG/W72-026S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-027": {
     "name": "“イガリマ”切歌",
@@ -535,7 +561,8 @@
         "id": "SG/W72-027S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-028": {
     "name": "私服の調",
@@ -553,7 +580,8 @@
         "id": "SG/W72-028",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-029": {
     "name": "私服の切歌",
@@ -571,7 +599,8 @@
         "id": "SG/W72-029",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-030": {
     "name": "【β式・廻旋波：巧】調",
@@ -589,7 +618,8 @@
         "id": "SG/W72-030",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-031": {
     "name": "【白衣の診察】調＆切歌",
@@ -607,7 +637,8 @@
         "id": "SG/W72-031",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-032": {
     "name": "ファラ・スユーフ",
@@ -625,7 +656,8 @@
         "id": "SG/W72-032",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-033": {
     "name": "【切・呪りeッTぉ：力】切歌",
@@ -643,7 +675,8 @@
         "id": "SG/W72-033",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-034": {
     "name": "“ネフシュタンの鎧”フィーネ",
@@ -661,7 +694,8 @@
         "id": "SG/W72-034",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-035": {
     "name": "万象黙示録のために キャロル",
@@ -679,7 +713,8 @@
         "id": "SG/W72-035",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-036": {
     "name": "【α式・百輪廻：知】調",
@@ -697,7 +732,8 @@
         "id": "SG/W72-036",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-037": {
     "name": "ナスターシャ",
@@ -715,7 +751,8 @@
         "id": "SG/W72-037",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-038": {
     "name": "櫻井理論解析の研究者 ウェル",
@@ -733,7 +770,8 @@
         "id": "SG/W72-038",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-039": {
     "name": "【幻姿・阿rアJぃん：巧】切歌",
@@ -751,7 +789,8 @@
         "id": "SG/W72-039",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-040": {
     "name": "【初めてのカラオケ】エルフナイン＆キャロル",
@@ -769,7 +808,8 @@
         "id": "SG/W72-040",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-041": {
     "name": "ノイズ",
@@ -795,7 +835,8 @@
         "id": "SG/W72-041c",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-042": {
     "name": "レイア・ダラーヒム",
@@ -813,7 +854,8 @@
         "id": "SG/W72-042",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-043": {
     "name": "ガリィ・トゥーマーン",
@@ -831,7 +873,8 @@
         "id": "SG/W72-043",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-044": {
     "name": "【非常Σ式・禁月輪 IGNITE：技】調",
@@ -849,7 +892,8 @@
         "id": "SG/W72-044",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-045": {
     "name": "ミカ・ジャウカーン",
@@ -867,7 +911,8 @@
         "id": "SG/W72-045",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-046": {
     "name": "【封伐・PィNo奇ぉ：心】切歌",
@@ -885,7 +930,8 @@
         "id": "SG/W72-046",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-047": {
     "name": "供養デス",
@@ -903,7 +949,8 @@
         "id": "SG/W72-047",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-048": {
     "name": "マスターをお出迎え",
@@ -921,7 +968,8 @@
         "id": "SG/W72-048",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-049": {
     "name": "γ式・卍火車",
@@ -943,7 +991,8 @@
         "id": "SG/W72-049R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W72-050": {
     "name": "裂空・亜リiす",
@@ -965,7 +1014,8 @@
         "id": "SG/W72-050R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-051": {
     "name": "未曾有の危機",
@@ -983,7 +1033,8 @@
         "id": "SG/W72-051",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-052": {
     "name": "【BILLION MAIDEN：巧】クリス",
@@ -1005,7 +1056,8 @@
         "id": "SG/W72-052SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-053": {
     "name": "【ULTIMATE∞COMET：技】奏",
@@ -1027,7 +1079,8 @@
         "id": "SG/W72-053S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-054": {
     "name": "【EMPRESS†REBELLION：力】マリア",
@@ -1049,7 +1102,8 @@
         "id": "SG/W72-054SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-055": {
     "name": "【TORTURE†DAGGER：体】マリア",
@@ -1071,7 +1125,8 @@
         "id": "SG/W72-055S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-056": {
     "name": "【PAINS†THRUST：技】マリア",
@@ -1089,7 +1144,8 @@
         "id": "SG/W72-056",
         "rarity": "R"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-057": {
     "name": "私服のクリス",
@@ -1111,7 +1167,8 @@
         "id": "SG/W72-057S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-058": {
     "name": "“アガートラーム”マリア",
@@ -1133,7 +1190,8 @@
         "id": "SG/W72-058S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-059": {
     "name": "“アガートラーム”セレナ",
@@ -1155,7 +1213,8 @@
         "id": "SG/W72-059SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-060": {
     "name": "“イチイバル”クリス",
@@ -1177,7 +1236,8 @@
         "id": "SG/W72-060S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-061": {
     "name": "【MEGA DETH PARTY：力】クリス",
@@ -1195,7 +1255,8 @@
         "id": "SG/W72-061",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-062": {
     "name": "【INFINITE†CRIME：心】マリア",
@@ -1213,7 +1274,8 @@
         "id": "SG/W72-062",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-063": {
     "name": "“ガングニール”奏",
@@ -1231,7 +1293,8 @@
         "id": "SG/W72-063",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-064": {
     "name": "シンフォギアの正式適合者 セレナ",
@@ -1249,7 +1312,8 @@
         "id": "SG/W72-064",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-065": {
     "name": "片翼の装者 奏",
@@ -1267,7 +1331,8 @@
         "id": "SG/W72-065",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-066": {
     "name": "【MEGA DETH FUGA：巧】クリス",
@@ -1285,7 +1350,8 @@
         "id": "SG/W72-066",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-067": {
     "name": "【SERE†NADE：体】マリア",
@@ -1303,7 +1369,8 @@
         "id": "SG/W72-067",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-068": {
     "name": "私服の奏",
@@ -1321,7 +1388,8 @@
         "id": "SG/W72-068",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-069": {
     "name": "【NIRVANA GEDON：怒】クリス",
@@ -1339,7 +1407,8 @@
         "id": "SG/W72-069",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-070": {
     "name": "【HORIZON†SPEAR：知】マリア",
@@ -1357,7 +1426,8 @@
         "id": "SG/W72-070",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-071": {
     "name": "【最高で最強のステージ！】奏＆翼＆マリア",
@@ -1375,7 +1445,8 @@
         "id": "SG/W72-071",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-072": {
     "name": "【GIGA ZEPPELIN：技】クリス",
@@ -1393,7 +1464,8 @@
         "id": "SG/W72-072",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-073": {
     "name": "私服のマリア",
@@ -1411,7 +1483,8 @@
         "id": "SG/W72-073",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-074": {
     "name": "【QUEEN's INFERNO：心】クリス",
@@ -1429,7 +1502,8 @@
         "id": "SG/W72-074",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-075": {
     "name": "【STARDUST∞FOTON：知】奏",
@@ -1447,7 +1521,8 @@
         "id": "SG/W72-075",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-076": {
     "name": "【FIERCE MAIDEN：知】クリス",
@@ -1465,7 +1540,8 @@
         "id": "SG/W72-076",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-077": {
     "name": "ヨガ初体験",
@@ -1483,7 +1559,8 @@
         "id": "SG/W72-077",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-078": {
     "name": "究極のパフェ",
@@ -1501,7 +1578,8 @@
         "id": "SG/W72-078",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-079": {
     "name": "GIGA ZEPPELIN",
@@ -1523,7 +1601,8 @@
         "id": "SG/W72-079R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-080": {
     "name": "EMPRESS†REBELLION",
@@ -1545,7 +1624,8 @@
         "id": "SG/W72-080R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-081": {
     "name": "BILLION MAIDEN",
@@ -1563,7 +1643,8 @@
         "id": "SG/W72-081",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W72-082": {
     "name": "ULTIMATE∞COMET",
@@ -1585,7 +1666,8 @@
         "id": "SG/W72-082R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-083": {
     "name": "【蒼ノ一閃 滅破：心】翼",
@@ -1607,7 +1689,8 @@
         "id": "SG/W72-083SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-084": {
     "name": "“天羽々斬”翼",
@@ -1629,7 +1712,8 @@
         "id": "SG/W72-084S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-085": {
     "name": "【息抜きデート】調＆エルフナイン",
@@ -1651,7 +1735,8 @@
         "id": "SG/W72-085S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-086": {
     "name": "【翼を休める場所】奏＆翼",
@@ -1673,7 +1758,8 @@
         "id": "SG/W72-086S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-087": {
     "name": "【天ノ逆鱗：力】翼",
@@ -1695,7 +1781,8 @@
         "id": "SG/W72-087S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-088": {
     "name": "【風輪火斬：力】翼",
@@ -1713,7 +1800,8 @@
         "id": "SG/W72-088",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-089": {
     "name": "【颯ノ一閃：技】翼",
@@ -1731,7 +1819,8 @@
         "id": "SG/W72-089",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-090": {
     "name": "【羅刹零ノ型：知】翼",
@@ -1749,7 +1838,8 @@
         "id": "SG/W72-090",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-091": {
     "name": "【バトルプレリュード】翼＆クリス",
@@ -1767,7 +1857,8 @@
         "id": "SG/W72-091",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-092": {
     "name": "【影縫い：知】翼",
@@ -1785,7 +1876,8 @@
         "id": "SG/W72-092",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-093": {
     "name": "【蒼ノ一閃：巧】翼",
@@ -1803,7 +1895,8 @@
         "id": "SG/W72-093",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-094": {
     "name": "【小さな家庭教師】切歌＆エルフナイン",
@@ -1821,7 +1914,8 @@
         "id": "SG/W72-094",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-095": {
     "name": "翼の叔父 弦十郎",
@@ -1839,7 +1933,8 @@
         "id": "SG/W72-095",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-096": {
     "name": "キャロルと瓜二つの少女 エルフナイン",
@@ -1857,7 +1952,8 @@
         "id": "SG/W72-096",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-097": {
     "name": "両翼は再び歌を奏でる",
@@ -1875,7 +1971,8 @@
         "id": "SG/W72-097",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-098": {
     "name": "淑女のたしなみ",
@@ -1893,7 +1990,8 @@
         "id": "SG/W72-098",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-099": {
     "name": "天ノ逆鱗",
@@ -1915,7 +2013,8 @@
         "id": "SG/W72-099R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-100": {
     "name": "風輪火斬",
@@ -1933,7 +2032,8 @@
         "id": "SG/W72-100",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W72-101": {
     "name": "【我流・超級撃槍烈破：技】響",
@@ -1955,7 +2055,8 @@
         "id": "SG/W72-101S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-102": {
     "name": "【我流・打々炎爆拳：技】響",
@@ -1977,7 +2078,8 @@
         "id": "SG/W72-102S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-103": {
     "name": "【秘伝・未来焼き】響＆未来",
@@ -1999,7 +2101,8 @@
         "id": "SG/W72-103S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-104": {
     "name": "我流・超級撃槍烈破",
@@ -2021,7 +2124,8 @@
         "id": "SG/W72-104R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-105": {
     "name": "我流・打々炎爆拳",
@@ -2043,7 +2147,8 @@
         "id": "SG/W72-105R",
         "rarity": "RRR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-106": {
     "name": "【終β式・縛戒斬鋼：心】調",
@@ -2065,7 +2170,8 @@
         "id": "SG/W72-106S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-107": {
     "name": "【暴殺・魔ッ怒Haっター：知】切歌",
@@ -2087,7 +2193,8 @@
         "id": "SG/W72-107S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-108": {
     "name": "満月の下で",
@@ -2105,7 +2212,8 @@
         "id": "SG/W72-108",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W72-109": {
     "name": "【SUPERGIANT∞FLARE：巧】奏",
@@ -2127,7 +2235,8 @@
         "id": "SG/W72-109SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-110": {
     "name": "【暁光：怒】未来",
@@ -2149,7 +2258,8 @@
         "id": "SG/W72-110SP",
         "rarity": "SP"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-111": {
     "name": "【VOIVOD RUSH：体】クリス",
@@ -2171,7 +2281,8 @@
         "id": "SG/W72-111S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-112": {
     "name": "【DESTRUCTION SABBATH：力】クリス",
@@ -2193,7 +2304,8 @@
         "id": "SG/W72-112S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-113": {
     "name": "【GLITTER†FLOOD：心】マリア",
@@ -2215,7 +2327,8 @@
         "id": "SG/W72-113S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-114": {
     "name": "【慟哭：体】未来",
@@ -2233,7 +2346,8 @@
         "id": "SG/W72-114",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-115": {
     "name": "【SURFING PRIEST：力】クリス",
@@ -2251,7 +2365,8 @@
         "id": "SG/W72-115",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-116": {
     "name": "【DEADLY†PILAR：体】マリア",
@@ -2269,7 +2384,8 @@
         "id": "SG/W72-116",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-117": {
     "name": "DESTRUCTION SABBATH",
@@ -2287,7 +2403,8 @@
         "id": "SG/W72-117",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 2
   },
   "SG/W72-118": {
     "name": "DEADLY†PILAR",
@@ -2305,7 +2422,8 @@
         "id": "SG/W72-118",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-119": {
     "name": "【重皇ノ鋭断：技】翼",
@@ -2327,7 +2445,8 @@
         "id": "SG/W72-119S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-120": {
     "name": "【騎刃ノ一閃-終雷：体】翼",
@@ -2349,7 +2468,8 @@
         "id": "SG/W72-120S",
         "rarity": "SR"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-121": {
     "name": "【千ノ落涙：知】翼",
@@ -2367,7 +2487,8 @@
         "id": "SG/W72-121",
         "rarity": "U"
       }
-    ]
+    ],
+    "trigger_soul_count": 1
   },
   "SG/W72-122": {
     "name": "【蒼ノ一閃：技】翼",
@@ -2385,7 +2506,8 @@
         "id": "SG/W72-122",
         "rarity": "C"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   },
   "SG/W72-123": {
     "name": "蒼ノ一閃",
@@ -2403,6 +2525,7 @@
         "id": "SG/W72-123",
         "rarity": "CC"
       }
-    ]
+    ],
+    "trigger_soul_count": 0
   }
 }
