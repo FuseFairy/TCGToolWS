@@ -1,4 +1,5 @@
 import { createVuetify } from 'vuetify'
+import { VPie } from 'vuetify/labs/VPie'
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
 import App from './App.vue'
@@ -32,6 +33,9 @@ const bootstrap = async () => {
   const vuetify = createVuetify({
     theme: {
       defaultTheme: 'system',
+    },
+    components: {
+      VPie,
     },
   })
 

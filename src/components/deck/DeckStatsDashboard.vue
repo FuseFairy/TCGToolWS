@@ -1,0 +1,150 @@
+<template>
+  <div v-if="allCards.length > 0" class="py-4">
+    <v-card rounded="lg" elevation="2" :class="{ 'glass-sheet': hasBackgroundImage }">
+      <div class="d-flex flex-wrap align-center justify-center pa-4 pa-sm-6">
+        <v-pie
+          :items="pieChartItems"
+          :legend="{ position: smAndUp ? 'right' : 'bottom' }"
+          class="pa-2"
+          gap="2"
+          inner-cut="70"
+          item-key="id"
+          rounded="2"
+          :size="smAndUp ? 200 : 250"
+          :animation="{ duration: 1000, easing: 'easeInOutCubic' }"
+          :tooltip="{ subtitleFormat: '[value]张' }"
+          hide-slice
+          reveal
+        >
+          <template #center>
+            <div class="text-center">
+              <div :class="smAndUp ? 'text-h3' : 'text-h4'" class="font-weight-bold">
+                {{ totalCardCount }}
+              </div>
+              <div class="text-disabled text-body-2 mt-1">張卡</div>
+            </div>
+          </template>
+
+          <template #legend="{ items, toggle, isActive }">
+            <div>
+              <v-list class="bg-transparent" density="compact">
+                <v-list-item
+                  v-for="item in items"
+                  :key="item.key"
+                  :class="['px-2 my-1', { 'opacity-40': !isActive(item) }]"
+                  class="ga-6 h-100"
+                  :title="item.title"
+                  rounded="lg"
+                  link
+                  @click="toggle(item)"
+                >
+                  <template #prepend>
+                    <v-avatar
+                      :color="item.color"
+                      :size="20"
+                      class="mr-3"
+                      rounded="circle"
+                    ></v-avatar>
+                  </template>
+                  <template #append>
+                    <div class="font-weight-bold">{{ item.value }}</div>
+                  </template>
+                </v-list-item>
+              </v-list>
+            </div>
+          </template>
+        </v-pie>
+      </div>
+
+      <v-divider></v-divider>
+      <v-card-text class="d-flex text-center py-4">
+        <div class="flex-1 px-2 w-100">
+          <div class="text-h5 font-weight-bold mb-1">{{ eventCardCount }}</div>
+          <div class="text-body-2 text-disabled">事件卡</div>
+        </div>
+        <v-divider vertical></v-divider>
+        <div class="flex-1 px-2 w-100">
+          <div class="text-h5 font-weight-bold mb-1">{{ climaxCardCount }}</div>
+          <div class="text-body-2 text-disabled">高潮卡</div>
+        </div>
+        <v-divider vertical></v-divider>
+        <div class="flex-1 px-2 w-100">
+          <div class="text-h5 font-weight-bold mb-1">{{ totalSoulCount }}</div>
+          <div class="text-body-2 text-disabled">触发魂标</div>
+        </div>
+      </v-card-text>
+    </v-card>
+  </div>
+</template>
+
+<script setup>
+import { computed } from 'vue'
+import { useDisplay } from 'vuetify'
+import { useUIStore } from '@/stores/ui'
+
+const props = defineProps({
+  groupedCards: { type: Map, required: true },
+  groupBy: { type: String, required: true },
+})
+
+const { smAndUp } = useDisplay()
+const uiStore = useUIStore()
+const hasBackgroundImage = computed(() => !!uiStore.backgroundImage)
+
+const allCards = computed(() => Array.from(props.groupedCards.values()).flat())
+
+const totalCardCount = computed(() => allCards.value.reduce((sum, card) => sum + card.quantity, 0))
+const eventCardCount = computed(() =>
+  allCards.value.filter((c) => c.type === '事件卡').reduce((s, c) => s + c.quantity, 0)
+)
+const climaxCardCount = computed(() =>
+  allCards.value.filter((c) => c.type === '高潮卡').reduce((s, c) => s + c.quantity, 0)
+)
+const totalSoulCount = computed(() =>
+  allCards.value.reduce((s, c) => s + c.quantity * (c.trigger_soul_count || 0), 0)
+)
+
+const pieChartItems = computed(() => {
+  const items = []
+  let index = 0
+  const colorMapping = { 红色: '#DE1119', 绿色: '#00a13a', 蓝色: '#0270B4', 黄色: '#f8e902' }
+  const hueRanges = [270, 290, 30, 190, 330, 280, 25, 185, 310, 275]
+
+  for (const [groupKey, groupCards] of props.groupedCards.entries()) {
+    const totalQuantity = groupCards.reduce((sum, card) => sum + card.quantity, 0)
+
+    let title = groupKey
+    switch (props.groupBy) {
+      case 'level':
+        title = groupKey === 'CX' ? '高潮卡' : `等级 ${groupKey}`
+        break
+      case 'color':
+        break
+      case 'cost':
+        title = `费用 ${groupKey}`
+        break
+    }
+
+    let sliceColor
+    if (props.groupBy === 'color') {
+      sliceColor = colorMapping[groupKey] || '#BDBDBD'
+    } else {
+      const baseHue = hueRanges[index % hueRanges.length]
+      const hueOffset = Math.floor(index / hueRanges.length) * 5
+      const saturation = 65 + (index % 3) * 5
+      const lightness = 50 + (index % 2) * 5
+      sliceColor = `hsl(${baseHue + hueOffset}, ${saturation}%, ${lightness}%)`
+    }
+
+    sliceColor = hasBackgroundImage.value
+      ? sliceColor.startsWith('hsl')
+        ? sliceColor.replace('hsl', 'hsla').replace(')', ', 0.7)')
+        : sliceColor + 'B3'
+      : sliceColor
+
+    items.push({ id: index, title, value: totalQuantity, color: sliceColor })
+    index++
+  }
+  return items
+})
+</script>

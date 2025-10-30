@@ -56,87 +56,23 @@
           :style="{ paddingTop: `${headerOffsetHeight}px` }"
           style="position: relative"
         >
-          <div class="px-4 pb-4 w-100 h-100 centered-content">
-            <div v-for="([groupName, group], index) in groupedCards" :key="groupName">
-              <div
-                class="d-flex align-center text-subtitle-2 text-disabled mb-1"
-                :class="{ 'mt-3': index > 0 }"
-              >
-                <span class="mr-2">{{ getGroupName(groupName) }}</span>
-                <v-chip size="small" variant="tonal" color="secondary" label>
-                  {{ group.reduce((sum, item) => sum + item.quantity, 0) }}
-                </v-chip>
-              </div>
-              <v-row dense class="ma-0">
-                <v-col v-for="item in group" :key="item.id" cols="4" sm="3" md="2">
-                  <v-tooltip :text="item.id" location="top center">
-                    <template v-slot:activator="{ props }">
-                      <div v-bind="props" class="card-container" @click="handleCardClick(item)">
-                        <v-img
-                          :src="useCardImage(item.cardIdPrefix, item.id).value"
-                          :aspect-ratio="400 / 559"
-                          cover
-                          lazy-src="/empty-placehold.webp"
-                        >
-                          <template #placeholder>
-                            <div class="d-flex align-center justify-center fill-height">
-                              <v-progress-circular
-                                color="grey-lighten-4"
-                                indeterminate
-                              ></v-progress-circular>
-                            </div>
-                          </template>
-                          <template #error>
-                            <v-img src="/placehold.webp" :aspect-ratio="400 / 559" cover />
-                          </template>
-                        </v-img>
-                        <div class="quantity-badge">{{ item.quantity }}</div>
-                      </div>
-                    </template>
-                  </v-tooltip>
-                </v-col>
-              </v-row>
-            </div>
-          </div>
+          <DeckCardList
+            :grouped-cards="groupedCards"
+            :group-by="groupBy"
+            :selected-card="selectedCardData"
+            :is-modal-visible="isModalVisible"
+            :linked-cards="linkedCardsDetails"
+            :selected-card-index="selectedCardIndex"
+            :total-cards="deckCards.length"
+            @card-click="handleCardClick"
+            @update:isModalVisible="isModalVisible = $event"
+            @show-new-card="handleShowNewCard"
+            @prev-card="onPrevCard"
+            @next-card="onNextCard"
+          />
         </div>
       </div>
     </v-container>
-
-    <v-dialog
-      v-if="selectedCardData"
-      v-model="isModalVisible"
-      :max-width="smAndDown ? '100%' : '60%'"
-      :max-height="smAndDown ? '80%' : '95%'"
-      :min-height="smAndDown ? null : '60%'"
-    >
-      <CardDetailModal
-        :card="selectedCardData"
-        :imgUrl="modalCardImageUrl"
-        :linkedCards="linkedCardsDetails"
-        :showActions="false"
-        :card-index="selectedCardIndex"
-        :total-cards="deckCards.length"
-        @close="isModalVisible = false"
-        @show-new-card="handleShowNewCard"
-        @prev-card="onPrevCard"
-        @next-card="onNextCard"
-      />
-    </v-dialog>
-
-    <v-bottom-sheet v-model="showBottomSheet">
-      <v-list>
-        <v-list-subheader>分类</v-list-subheader>
-        <v-list-item
-          v-for="option in groupByOptions"
-          :key="option.value"
-          :value="option.value"
-          :active="groupBy === option.value"
-          @click="selectGroupBy(option.value)"
-        >
-          <v-list-item-title>{{ option.title }}</v-list-item-title>
-        </v-list-item>
-      </v-list>
-    </v-bottom-sheet>
 
     <!-- Auth Alert Dialog -->
     <v-dialog v-model="isAuthAlertOpen" max-width="400px">
@@ -229,18 +165,17 @@ import { useDeckEncoder } from '@/composables/useDeckEncoder'
 import { useDisplay } from 'vuetify'
 import { useDeckGrouping } from '@/composables/useDeckGrouping'
 import { fetchCardByIdAndPrefix, fetchCardsByBaseIdAndPrefix } from '@/utils/card'
-import CardDetailModal from '@/components/card/CardDetailModal.vue'
 import { useAuthStore } from '@/stores/auth'
 import { useUIStore } from '@/stores/ui'
 import { useSnackbar } from '@/composables/useSnackbar'
 import { useCardNavigation } from '@/composables/useCardNavigation.js'
 import collator from '@/utils/collator.js'
+import DeckCardList from '@/components/deck/DeckCardList.vue'
 
-const { smAndUp, smAndDown } = useDisplay()
+const { smAndUp } = useDisplay()
 const resize = computed(() => {
   return smAndUp.value ? 'default' : 'small'
 })
-
 const route = useRoute()
 const router = useRouter()
 const { decodeDeck, encodeDeck } = useDeckEncoder()
@@ -311,9 +246,25 @@ onMounted(async () => {
   uiStore.setLoading(true)
 
   try {
+    let initialCards = {}
     const decoded = await decodeDeck(deckKey, true)
     deck.value = decoded
-    cards.value = decoded.cards
+    initialCards = decoded.cards
+
+    // ---獲取所有卡片的完整資料 ---
+    const cardPromises = Object.values(initialCards).map(async (card) => {
+      const fullCardData = await fetchCardByIdAndPrefix(card.id, card.cardIdPrefix)
+      if (fullCardData) {
+        return { ...fullCardData, quantity: card.quantity }
+      }
+      return null
+    })
+
+    const fullCardsData = (await Promise.all(cardPromises)).filter(Boolean)
+    cards.value = fullCardsData.reduce((acc, card) => {
+      acc[card.id] = card
+      return acc
+    }, {})
   } catch (error) {
     triggerSnackbar(error.message, 'error')
   } finally {
@@ -332,26 +283,6 @@ const groupByOptions = [
 
 const deckCards = computed(() => Object.values(cards.value))
 const { groupedCards } = useDeckGrouping(deckCards, groupBy)
-
-const colorMap = {
-  red: '红色',
-  blue: '蓝色',
-  yellow: '黄色',
-  green: '绿色',
-}
-
-const getGroupName = (groupName) => {
-  switch (groupBy.value) {
-    case 'level':
-      return groupName === 'CX' ? '高潮卡' : `等级 ${groupName}`
-    case 'color':
-      return colorMap[groupName.toLowerCase()] || groupName
-    case 'cost':
-      return `费用 ${groupName}`
-    default:
-      return groupName
-  }
-}
 
 const headerRef = ref(null)
 const headerOffsetHeight = ref(0)
@@ -397,25 +328,15 @@ const onNextCard = () => {
   }
 }
 
-const modalCardImageUrl = computed(() => {
-  if (selectedCardData.value) {
-    return useCardImage(selectedCardData.value.cardIdPrefix, selectedCardData.value.id).value
-  }
-  return ''
-})
-
 const handleShowNewCard = async (cardPayload) => {
   try {
-    const cardToDisplay = cardPayload.card || cardPayload
-    const card = await fetchCardByIdAndPrefix(cardToDisplay.id, cardToDisplay.cardIdPrefix)
+    const card = cardPayload.card || cardPayload
     if (!card) return
 
     if (card.link && Array.isArray(card.link) && card.link.length > 0) {
       const baseIds = [...new Set(card.link.map((linkId) => linkId.replace(/[a-zA-Z]+$/, '')))]
       const fetchedLinks = await Promise.all(
-        baseIds.map(
-          async (baseId) => await fetchCardsByBaseIdAndPrefix(baseId, cardToDisplay.cardIdPrefix)
-        )
+        baseIds.map(async (baseId) => await fetchCardsByBaseIdAndPrefix(baseId, card.cardIdPrefix))
       )
       linkedCardsDetails.value = fetchedLinks
         .flat()
@@ -436,10 +357,6 @@ const handleCardClick = async (item) => {
 }
 
 const showBottomSheet = ref(false)
-const selectGroupBy = (value) => {
-  groupBy.value = value
-  showBottomSheet.value = false
-}
 </script>
 
 <style scoped>
