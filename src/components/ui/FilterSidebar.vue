@@ -31,6 +31,7 @@
                     variant="text"
                     class="mr-2"
                     @click="toggleSearchMode"
+                    @mousedown.stop
                     :color="
                       filterStore.searchMode === 'fuzzy'
                         ? 'orange-lighten-2'
