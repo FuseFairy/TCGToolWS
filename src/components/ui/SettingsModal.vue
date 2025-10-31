@@ -31,7 +31,7 @@
           <v-list-item>
             <v-list-item-title class="d-flex align-center">
               性能模式启动门槛
-              <v-tooltip text="越低的门槛越容易进入效能模式，简化动画以保证流畅运行" location="top">
+              <v-tooltip text="越低的门槛越容易进入性能模式，简化动画以保证流畅运行" location="top">
                 <template #activator="{ props: tooltipProps }">
                   <v-icon
                     v-bind="tooltipProps"
