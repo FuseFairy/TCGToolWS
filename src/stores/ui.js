@@ -44,13 +44,6 @@ export const useUIStore = defineStore(
       }
     }
 
-    const resetPerformanceMode = () => {
-      isPerformanceMode.value = {
-        sideBarAnimSimp: false,
-        infScrollResetOpti: false,
-      }
-    }
-
     const setBackgroundImage = ({ canvas }) => {
       if (!canvas) return
       const newImage = {
@@ -88,7 +81,6 @@ export const useUIStore = defineStore(
       performanceThreshold,
       isPerformanceMode,
       setPerformanceMode,
-      resetPerformanceMode,
       backgroundImage,
       setBackgroundImage,
       updateBackgroundImage,

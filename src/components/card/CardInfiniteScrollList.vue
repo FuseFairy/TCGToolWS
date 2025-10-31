@@ -349,8 +349,6 @@ onUnmounted(() => {
   if (freezeTimeout) {
     clearTimeout(freezeTimeout)
   }
-  // Reset performance mode when leaving the view
-  uiStore.resetPerformanceMode()
 })
 </script>
 
