@@ -12,7 +12,6 @@
           rounded="2"
           :size="smAndUp ? 200 : 250"
           :animation="{ duration: 1000, easing: 'easeInOutCubic' }"
-          :tooltip="{ subtitleFormat: '[value]张' }"
           hide-slice
           reveal
         >
