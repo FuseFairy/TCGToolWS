@@ -10,6 +10,7 @@
           inner-cut="70"
           item-key="id"
           rounded="2"
+          :hover-scale="0"
           :size="smAndUp ? 200 : 250"
           :animation="{ duration: 1000, easing: 'easeInOutCubic' }"
           hide-slice
