@@ -21,7 +21,7 @@
               <div :class="smAndUp ? 'text-h3' : 'text-h4'" class="font-weight-bold">
                 {{ totalCardCount }}
               </div>
-              <div class="text-disabled text-body-2 mt-1">張卡</div>
+              <div class="text-disabled text-body-2 mt-1">张卡</div>
             </div>
           </template>
 
