@@ -17,7 +17,7 @@ export const useUIStore = defineStore(
     const isCardDeckOpen = ref(false)
     const isLoading = ref(false)
     const isTableModeActive = ref(false)
-    const performanceThreshold = ref(1000)
+    const performanceThreshold = ref(600)
     const isPerformanceMode = ref({
       sideBarAnimSimp: false,
       infScrollResetOpti: false,
