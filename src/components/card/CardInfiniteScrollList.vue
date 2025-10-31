@@ -105,10 +105,6 @@ const props = defineProps({
     type: Boolean,
     default: false,
   },
-  performanceThreshold: {
-    type: Number,
-    default: 1000,
-  },
 })
 
 const { smAndDown, smAndUp, xs } = useDisplay()
@@ -291,9 +287,17 @@ const freezeLayout = () => {
 }
 
 const shouldBePerformanceMode = computed(() => {
+  // A threshold of 0 means performance mode is always on.
+  if (uiStore.performanceThreshold === 0) {
+    return {
+      sideBarAnimSimp: true,
+      infScrollResetOpti: true,
+    }
+  }
+
   return {
-    sideBarAnimSimp: displayedCards.value.length > props.performanceThreshold,
-    infScrollResetOpti: displayedCards.value.length > parseInt(props.performanceThreshold / 3),
+    sideBarAnimSimp: displayedCards.value.length > uiStore.performanceThreshold,
+    infScrollResetOpti: displayedCards.value.length > parseInt(uiStore.performanceThreshold / 3),
   }
 })
 

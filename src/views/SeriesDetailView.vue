@@ -86,7 +86,6 @@
           :cards="filterStore.filteredCards"
           :header-offset-height="headerOffsetHeight"
           :is-table-mode-active="isTableModeActive"
-          :performance-threshold="performanceThreshold"
           margin=" 300"
           class="flex-grow-1 themed-scrollbar pl-4 pr-4"
         />
@@ -210,8 +209,6 @@ const filterIcon = computed(() => (isFilterOpen.value ? 'mdi-filter-off' : 'mdi-
 const headerOffsetHeight = computed(() => rawHeaderHeight.value)
 const listRef = ref(null)
 const hasBackgroundImage = computed(() => !!uiStore.backgroundImage)
-
-const performanceThreshold = 1000
 
 const { sheetContent, isSheetOpen, sheetHeight, startDrag } = useBottomSheet()
 

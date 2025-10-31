@@ -17,6 +17,7 @@ export const useUIStore = defineStore(
     const isCardDeckOpen = ref(false)
     const isLoading = ref(false)
     const isTableModeActive = ref(false)
+    const performanceThreshold = ref(1000)
     const isPerformanceMode = ref({
       sideBarAnimSimp: false,
       infScrollResetOpti: false,
@@ -84,6 +85,7 @@ export const useUIStore = defineStore(
       isLoading,
       setLoading,
       isTableModeActive,
+      performanceThreshold,
       isPerformanceMode,
       setPerformanceMode,
       resetPerformanceMode,
@@ -97,7 +99,7 @@ export const useUIStore = defineStore(
   {
     persist: {
       storage: localStorage,
-      paths: ['theme', 'isFilterOpen', 'isCardDeckOpen'],
+      paths: ['theme', 'isFilterOpen', 'isCardDeckOpen', 'performanceThreshold'],
     },
   }
 )

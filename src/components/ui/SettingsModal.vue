@@ -29,6 +29,28 @@
           <v-divider />
 
           <v-list-item>
+            <v-list-item-title>性能模式启动门槛</v-list-item-title>
+          </v-list-item>
+          <div class="px-4 pb-2">
+            <v-btn-toggle
+              v-model="uiStore.performanceThreshold"
+              color="primary"
+              group
+              mandatory
+              variant="text"
+              class="w-100 overflow-hidden"
+            >
+              <v-btn :value="0" class="flex-grow-1"><span class="text-caption">永久开启</span><v-icon end icon="mdi-lightning-bolt"></v-icon></v-btn>
+              <v-btn :value="300" class="flex-grow-1"><span class="text-caption">低</span><v-icon end icon="mdi-speedometer-slow"></v-icon></v-btn>
+              <v-btn :value="600" class="flex-grow-1"><span class="text-caption">中</span><v-icon end icon="mdi-speedometer-medium"></v-icon></v-btn>
+              <v-btn :value="1000" class="flex-grow-1"><span class="text-caption">高</span><v-icon end icon="mdi-speedometer"></v-icon></v-btn>
+              
+            </v-btn-toggle>
+          </div>
+
+          <v-divider />
+
+          <v-list-item>
             <v-list-item-title class="mt-4 pb-1">背景图片</v-list-item-title>
             <v-img
               v-if="uiStore.backgroundImage"
