@@ -248,7 +248,7 @@
 </template>
 
 <script setup>
-import { ref, computed } from 'vue'
+import { ref, computed, toRaw } from 'vue'
 import { useDeckStore } from '@/stores/deck'
 import { useCardImage } from '@/composables/useCardImage'
 import { fetchCardByIdAndPrefix, fetchCardsByBaseIdAndPrefix } from '@/utils/card'
@@ -332,11 +332,11 @@ const handleCreateDeck = async () => {
   uiStore.setLoading(true)
   try {
     const deckData = {
-      name: deckName.value,
-      version: deckStore.version,
-      cards: deckStore.cardsInDeck,
-      seriesId: deckStore.seriesId,
-      coverCardId: selectedCoverCardId.value,
+      name: toRaw(deckName.value),
+      version: toRaw(deckStore.version),
+      cards: toRaw(deckStore.cardsInDeck),
+      seriesId: toRaw(deckStore.seriesId),
+      coverCardId: toRaw(selectedCoverCardId.value),
     }
 
     const { key } = await encodeDeck(deckData, { isSharedDeck: false })
@@ -348,6 +348,7 @@ const handleCreateDeck = async () => {
     deckStore.clearDeck()
   } catch (error) {
     triggerSnackbar(error.message, 'error')
+    console.error('❌ 創建失敗:', error)
   } finally {
     uiStore.setLoading(false)
   }

@@ -172,7 +172,7 @@
 </template>
 
 <script setup>
-import { computed, ref, onUnmounted, onMounted } from 'vue'
+import { computed, ref, onUnmounted, onMounted, toRaw } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { useCardImage } from '@/composables/useCardImage.js'
 import { useDeckEncoder } from '@/composables/useDeckEncoder'
@@ -240,11 +240,11 @@ const handleSaveDeck = async () => {
 
   try {
     const deckData = {
-      name: deckName.value,
-      version: deck.value.version,
-      cards: cards.value,
-      seriesId: deck.value.seriesId,
-      coverCardId: selectedCoverCardId.value,
+      name: toRaw(deckName.value),
+      version: toRaw(deck.value.version),
+      cards: toRaw(cards.value),
+      seriesId: toRaw(deck.value.seriesId),
+      coverCardId: toRaw(selectedCoverCardId.value),
     }
 
     const { key } = await encodeDeck(deckData, { isSharedDeck: true })
@@ -253,6 +253,7 @@ const handleSaveDeck = async () => {
     await router.push(`/decks/${key}`)
   } catch (error) {
     triggerSnackbar(error.message, 'error')
+    console.error('❌ 創建失敗:', error)
   } finally {
     uiStore.setLoading(false)
   }
