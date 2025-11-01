@@ -49,7 +49,6 @@
     :max-width="smAndDown ? undefined : '60%'"
     :max-height="smAndDown ? undefined : '95%'"
     :min-height="smAndDown ? undefined : '60%'"
-    transition="dialog-bottom-transition"
   >
     <CardDetailModal
       :card="selectedCardData.card"
