@@ -2,7 +2,7 @@ import { ref, watchEffect } from 'vue'
 import { Vibrant, WorkerPipeline } from 'node-vibrant/worker'
 import PipelineWorker from 'node-vibrant/worker.worker?worker'
 
-FALLBACK_COLORS = ['#8CA0A0', '#A7B8B8', '#C1C9C9', '#DADFE0', '#ECEFF0', '#F5F7F7']
+const FALLBACK_COLORS = ['#8CA0A0', '#A7B8B8', '#C1C9C9', '#DADFE0', '#ECEFF0', '#F5F7F7']
 
 Vibrant.use(new WorkerPipeline(PipelineWorker))
 
