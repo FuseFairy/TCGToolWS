@@ -176,15 +176,18 @@ const CardFilterService = {
       filters.selectedLevels.length > 0 ? new Set(filters.selectedLevels.map(toLevel)) : null
 
     if (filters.showUniqueCards) {
-      const seenBaseIds = new Set()
-      const uniqueResults = []
+      const bestCards = new Map()
       for (const card of results) {
-        if (!seenBaseIds.has(card.baseId)) {
-          seenBaseIds.add(card.baseId)
-          uniqueResults.push(card)
+        if (!bestCards.has(card.baseId)) {
+          bestCards.set(card.baseId, card)
+        } else {
+          const existingCard = bestCards.get(card.baseId)
+          if (card.id.length < existingCard.id.length) {
+            bestCards.set(card.baseId, card)
+          }
         }
       }
-      results = uniqueResults
+      results = Array.from(bestCards.values())
     }
 
     return results.filter((card) => {
