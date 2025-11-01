@@ -9,8 +9,8 @@
         />
       </v-fab-transition>
 
-      <v-fade-transition :duration="fadeDuration">
-        <div v-show="showCards">
+      <v-fade-transition>
+        <div v-show="showCards" :class="{'d-none': !showCards}">
           <div v-for="([groupName, group], index) in groupedCards" :key="groupName">
             <div
               class="d-flex align-center text-subtitle-2 text-disabled mb-1 ga-1"
@@ -172,15 +172,12 @@ const theme = useTheme()
 const uiStore = useUIStore()
 
 const showCards = ref(true)
-const fadeDuration = ref(300) // Default fade duration for card list
 
 watch(
   () => uiStore.showStatsDashboard,
-  (isShowing) => {
+  () => {
     showCards.value = false
-    fadeDuration.value = isShowing ? 0 : 300
     setTimeout(() => {
-      fadeDuration.value = 300
       showCards.value = true
     }, 300)
   }
