@@ -89,10 +89,9 @@ const props = defineProps({
 
 const { smAndUp } = useDisplay()
 const uiStore = useUIStore()
+
 const hasBackgroundImage = computed(() => !!uiStore.backgroundImage)
-
 const allCards = computed(() => Array.from(props.groupedCards.values()).flat())
-
 const totalCardCount = computed(() => allCards.value.reduce((sum, card) => sum + card.quantity, 0))
 const eventCardCount = computed(() =>
   allCards.value.filter((c) => c.type === '事件卡').reduce((s, c) => s + c.quantity, 0)
@@ -104,16 +103,57 @@ const totalSoulCount = computed(() =>
   allCards.value.reduce((s, c) => s + c.quantity * (c.trigger_soul_count || 0), 0)
 )
 
+const getPaletteForGroup = (groupName, count) => {
+  const baseHSL = {
+    blueGreen: { hStart: 170, hEnd: 190, sStart: 100, sEnd: 70, lStart: 25, lEnd: 75 },
+    tealOrange: { hStart: 15, hEnd: 35, sStart: 100, sEnd: 80, lStart: 30, lEnd: 70 },
+    purplePink: { hStart: 280, hEnd: 320, sStart: 50, sEnd: 65, lStart: 35, lEnd: 75 },
+    brownYellow: { hStart: 30, hEnd: 50, sStart: 65, sEnd: 95, lStart: 20, lEnd: 80 },
+  }
+
+  const getPaletteKey = (groupName) => {
+    switch (groupName) {
+      case 'level':
+        return 'blueGreen'
+      case 'cost':
+        return 'tealOrange'
+      case 'type':
+        return 'purplePink'
+      default:
+        return 'brownYellow'
+    }
+  }
+
+  const config = baseHSL[getPaletteKey(groupName)]
+  const colors = []
+
+  for (let i = 0; i < count; i++) {
+    const progress = count > 1 ? i / (count - 1) : 0
+    const h = config.hStart + (config.hEnd - config.hStart) * progress
+    const s = config.sStart + (config.sEnd - config.sStart) * progress
+    const l = config.lStart + (config.lEnd - config.lStart) * progress
+    colors.push(`hsl(${Math.round(h)}, ${s}%, ${l}%)`)
+  }
+
+  return colors
+}
 const pieChartItems = computed(() => {
+  const groupCount = props.groupedCards.size
+  const activePalette = getPaletteForGroup(props.groupBy, groupCount)
+
   const items = []
   let index = 0
-  const colorMapping = { 红色: '#DE1119', 绿色: '#00a13a', 蓝色: '#0270B4', 黄色: '#f8e902' }
-  const hueRanges = [270, 290, 30, 190, 330, 280, 25, 185, 310, 275]
+  const colorMapping = {
+    红色: '#E85D75',
+    绿色: '#52B788',
+    蓝色: '#4EA8DE',
+    黄色: '#FFB703',
+  }
 
   for (const [groupKey, groupCards] of props.groupedCards.entries()) {
     const totalQuantity = groupCards.reduce((sum, card) => sum + card.quantity, 0)
-
     let title = groupKey
+
     switch (props.groupBy) {
       case 'level':
         title = groupKey === 'CX' ? '高潮卡' : `等级 ${groupKey}`
@@ -129,13 +169,10 @@ const pieChartItems = computed(() => {
     if (props.groupBy === 'color') {
       sliceColor = colorMapping[groupKey] || '#BDBDBD'
     } else {
-      const baseHue = hueRanges[index % hueRanges.length]
-      const hueOffset = Math.floor(index / hueRanges.length) * 5
-      const saturation = 65 + (index % 3) * 5
-      const lightness = 50 + (index % 2) * 5
-      sliceColor = `hsl(${baseHue + hueOffset}, ${saturation}%, ${lightness}%)`
+      sliceColor = activePalette[index]
     }
 
+    // 背景透明度處理
     sliceColor = hasBackgroundImage.value
       ? sliceColor.startsWith('hsl')
         ? sliceColor.replace('hsl', 'hsla').replace(')', ', 0.7)')
@@ -145,6 +182,7 @@ const pieChartItems = computed(() => {
     items.push({ id: index, title, value: totalQuantity, color: sliceColor })
     index++
   }
+
   return items
 })
 </script>
