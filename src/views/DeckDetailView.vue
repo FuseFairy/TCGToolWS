@@ -169,6 +169,20 @@
       </v-list>
     </v-bottom-sheet>
 
+    <v-dialog v-model="isConfirmEditDialogVisible" max-width="420">
+      <v-card title="确认编辑" prepend-icon="mdi-alert-outline">
+        <v-card-text>
+          <p>检测到有尚未储存的卡组，若继续将会复盖。</p>
+          <p>是否要捨弃目前的卡组，开始编辑新的卡组？</p>
+        </v-card-text>
+        <v-card-actions>
+          <v-spacer></v-spacer>
+          <v-btn text="取消" @click="isConfirmEditDialogVisible = false"></v-btn>
+          <v-btn color="primary" variant="flat" text="确认" @click="EditDeck"></v-btn>
+        </v-card-actions>
+      </v-card>
+    </v-dialog>
+
     <DeckExportDialog
       v-model="exportDialog"
       :cards="cards"
@@ -215,6 +229,7 @@ const hasBackgroundImage = computed(() => !!uiStore.backgroundImage)
 const isLightWithBg = computed(() => {
   return hasBackgroundImage.value && theme.global.name.value === 'light'
 })
+const isConfirmEditDialogVisible = ref(false)
 
 const handleShareCard = async () => {
   if (!deckKey || isLocalDeck.value) {
@@ -250,6 +265,14 @@ const handleEditDeck = () => {
     triggerSnackbar('无法编辑卡组', 'error')
     return
   }
+  if (deckStore.totalCardCount > 0 && !isLocalDeck.value) {
+    isConfirmEditDialogVisible.value = true
+    return
+  }
+  EditDeck()
+}
+
+const EditDeck = () => {
   const keyForEditing = isLocalDeck.value ? null : deckKey
   deckStore.loadDeckForEditing(deck.value, keyForEditing)
   if (isLocalDeck.value) deckStore.updateDominantSeriesId()
