@@ -1,11 +1,13 @@
 <template>
   <div>
     <div class="px-4 pb-4 w-100 h-100 centered-content">
-      <DeckStatsDashboard
-        v-if="uiStore.showStatsDashboard"
-        :grouped-cards="groupedCards"
-        :group-by="groupBy"
-      />
+      <v-fab-transition>
+        <DeckStatsDashboard
+          v-if="uiStore.showStatsDashboard"
+          :grouped-cards="groupedCards"
+          :group-by="groupBy"
+        />
+      </v-fab-transition>
 
       <div v-for="([groupName, group], index) in groupedCards" :key="groupName">
         <div
