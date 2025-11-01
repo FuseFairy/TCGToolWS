@@ -6,13 +6,9 @@
           <div class="overlay-header-content">
             <!-- 左側 -->
             <div class="header-left">
-              <v-btn
-                :size="resize"
-                icon="mdi-content-save-outline"
-                variant="text"
-                @click="openSaveDialog"
-                :disabled="!deck"
-              ></v-btn>
+              <v-btn icon :size="resize" variant="text" @click="openSaveDialog" :disabled="!deck">
+                <v-icon size="24">mdi-content-save-outline</v-icon>
+              </v-btn>
             </div>
 
             <!-- 中間 -->
@@ -35,17 +31,14 @@
                     variant="outlined"
                     hide-details
                     :disabled="!deck"
+                    class="mt-2"
                   ></v-select>
                 </div>
               </template>
               <template v-else>
-                <v-btn
-                  :size="resize"
-                  icon="mdi-format-list-bulleted-type"
-                  variant="text"
-                  @click="showBottomSheet = true"
-                  :disabled="!deck"
-                ></v-btn>
+                <v-btn icon :size="resize" variant="text" @click="showBottomSheet = true">
+                  <v-icon size="24">mdi-format-list-bulleted-type</v-icon>
+                </v-btn>
               </template>
             </div>
           </div>
@@ -154,6 +147,21 @@
         </v-card-actions>
       </v-card>
     </v-dialog>
+
+    <v-bottom-sheet v-model="showBottomSheet">
+      <v-list :class="{ 'glass-sheet': hasBackgroundImage }" rounded="t-xl">
+        <v-list-subheader>分类</v-list-subheader>
+        <v-list-item
+          v-for="option in groupByOptions"
+          :key="option.value"
+          :value="option.value"
+          :active="groupBy === option.value"
+          @click="selectGroupBy(option.value)"
+        >
+          <v-list-item-title>{{ option.title }}</v-list-item-title>
+        </v-list-item>
+      </v-list>
+    </v-bottom-sheet>
   </div>
 </template>
 
@@ -176,6 +184,8 @@ const { smAndUp } = useDisplay()
 const resize = computed(() => {
   return smAndUp.value ? 'default' : 'small'
 })
+const hasBackgroundImage = computed(() => !!uiStore.backgroundImage)
+
 const route = useRoute()
 const router = useRouter()
 const { decodeDeck, encodeDeck } = useDeckEncoder()
@@ -240,6 +250,11 @@ const handleSaveDeck = async () => {
   } finally {
     uiStore.setLoading(false)
   }
+}
+
+const selectGroupBy = (value) => {
+  groupBy.value = value
+  showBottomSheet.value = false
 }
 
 onMounted(async () => {
