@@ -82,7 +82,11 @@ export const useCardFiltering = (
   }
 
   // Watch for keyword changes to perform a new search
-  watch([keyword, searchMode], () => {
+  watch(keyword, () => {
+    applyKeywordSearchAndFilter()
+  })
+
+  watch(searchMode, () => {
     if (keyword.value.length < 2) return // Do not trigger search when searchMode is changed and keyword is shorter than 2 characters
     applyKeywordSearchAndFilter()
   })
