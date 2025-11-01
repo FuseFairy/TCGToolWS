@@ -42,10 +42,7 @@ export function useColorExtractor(imageUrl) {
           }
         }
 
-        colors.value =
-          colorArray.length > 0
-            ? colorArray
-            : FALLBACK_COLORS
+        colors.value = colorArray.length > 0 ? colorArray : FALLBACK_COLORS
       })
       .catch((error) => {
         if (isCanceled) return

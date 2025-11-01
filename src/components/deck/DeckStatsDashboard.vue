@@ -191,6 +191,9 @@ const totalSoulCount = computed(() =>
 )
 
 const addAlpha = (color, alpha) => {
+  if (color.startsWith('rgba') || color.startsWith('hsla')) {
+    return color
+  }
   if (color.startsWith('rgb')) {
     return color.replace('rgb', 'rgba').replace(')', `, ${alpha})`)
   }
