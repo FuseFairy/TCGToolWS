@@ -167,19 +167,6 @@ export const useFilterStore = defineStore('filter', () => {
         }
       }
 
-      const baseIdToFullIdsMap = new Map()
-      for (const card of fetchedCards) {
-        if (!baseIdToFullIdsMap.has(card.baseId)) {
-          baseIdToFullIdsMap.set(card.baseId, [])
-        }
-        baseIdToFullIdsMap.get(card.baseId).push(card.id)
-      }
-      for (const card of fetchedCards) {
-        if (card.link && Array.isArray(card.link) && card.link.length > 0) {
-          card.link = card.link.flatMap((linkBaseId) => baseIdToFullIdsMap.get(linkBaseId) || [])
-        }
-      }
-
       const result = {
         allCards: fetchedCards,
         productNames: [...productNamesSet],
