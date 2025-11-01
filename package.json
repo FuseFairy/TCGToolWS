@@ -19,7 +19,6 @@
   },
   "dependencies": {
     "@zumer/snapdom": "^1.9.14",
-    "colorthief": "^2.6.0",
     "comlink": "^4.4.2",
     "dompurify": "^3.2.7",
     "es-toolkit": "^1.41.0",
