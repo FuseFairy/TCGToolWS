@@ -10,7 +10,7 @@
       </v-fab-transition>
 
       <v-fade-transition>
-        <div v-show="showCards" :class="{'d-none': !showCards}">
+        <div v-show="showCards" :class="{ 'd-none': !showCards }">
           <div v-for="([groupName, group], index) in groupedCards" :key="groupName">
             <div
               class="d-flex align-center text-subtitle-2 text-disabled mb-1 ga-1"
@@ -44,7 +44,10 @@
                   />
                 </template>
                 {{
-                  group.reduce((sum, item) => sum + item.quantity * (item.trigger_soul_count || 0), 0)
+                  group.reduce(
+                    (sum, item) => sum + item.quantity * (item.trigger_soul_count || 0),
+                    0
+                  )
                 }}
               </v-chip>
             </div>
