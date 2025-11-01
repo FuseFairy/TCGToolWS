@@ -190,6 +190,22 @@ const totalSoulCount = computed(() =>
   allCards.value.reduce((s, c) => s + c.quantity * (c.trigger_soul_count || 0), 0)
 )
 
+const addAlpha = (color, alpha) => {
+  if (color.startsWith('rgb')) {
+    return color.replace('rgb', 'rgba').replace(')', `, ${alpha})`)
+  }
+  if (color.startsWith('hsl')) {
+    return color.replace('hsl', 'hsla').replace(')', `, ${alpha})`)
+  }
+  if (color.startsWith('#')) {
+    const alphaHex = Math.round(alpha * 255)
+      .toString(16)
+      .padStart(2, '0')
+    return `${color}${alphaHex}`
+  }
+  return color
+}
+
 const getPaletteForGroup = (groupName, count) => {
   const baseHSL = {
     blueGreen: { hStart: 170, hEnd: 190, sStart: 100, sEnd: 70, lStart: 25, lEnd: 75 },
@@ -259,6 +275,10 @@ const pieChartItems = computed(() => {
       sliceColor = colorMapping[groupKey] || '#BDBDBD'
     } else {
       sliceColor = activePalette[index]
+    }
+
+    if (hasBackgroundImage.value) {
+      sliceColor = addAlpha(sliceColor, 0.85)
     }
     items.push({ id: index, title, value: totalQuantity, color: sliceColor })
     index++
