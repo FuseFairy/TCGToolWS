@@ -36,10 +36,7 @@
               />
             </template>
             {{
-              group.reduce(
-                (sum, item) => sum + item.quantity * (item.trigger_soul_count || 0),
-                0
-              )
+              group.reduce((sum, item) => sum + item.quantity * (item.trigger_soul_count || 0), 0)
             }}
           </v-chip>
         </div>
@@ -156,13 +153,7 @@ const props = defineProps({
   },
 })
 
-defineEmits([
-  'card-click',
-  'update:isModalVisible',
-  'show-new-card',
-  'prev-card',
-  'next-card',
-])
+defineEmits(['card-click', 'update:isModalVisible', 'show-new-card', 'prev-card', 'next-card'])
 
 const { smAndDown } = useDisplay()
 const theme = useTheme()

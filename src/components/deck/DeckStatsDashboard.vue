@@ -1,78 +1,161 @@
 <template>
-  <div v-if="allCards.length > 0" class="py-4">
-    <v-card rounded="lg" elevation="2" :class="{ 'glass-sheet': hasBackgroundImage }">
-      <div class="d-flex flex-wrap align-center justify-center pa-4 pa-sm-6">
-        <v-pie
-          :items="pieChartItems"
-          :legend="{ position: smAndUp ? 'right' : 'bottom' }"
-          class="pa-2"
-          gap="2"
-          inner-cut="70"
-          item-key="id"
-          rounded="2"
-          :hover-scale="0"
-          :size="smAndUp ? 200 : 250"
-          :animation="{ duration: 1000, easing: 'easeInOutCubic' }"
-          hide-slice
-          reveal
-        >
-          <template #center>
-            <div class="text-center">
-              <div :class="smAndUp ? 'text-h3' : 'text-h4'" class="font-weight-bold">
-                {{ totalCardCount }}
+  <div v-if="allCards.length > 0" class="d-flex py-4 align-center justify-center">
+    <v-card
+      rounded="lg"
+      elevation="2"
+      :class="{ 'glass-sheet': hasBackgroundImage, 'px-10': smAndUp, 'w-100': !smAndUp }"
+    >
+      <!-- 桌面版：左右佈局 -->
+      <div v-if="smAndUp" class="d-flex align-center justify-center">
+        <!-- 左側：圓餅圖和圖例 -->
+        <div class="flex-1 d-flex align-center justify-center pa-6">
+          <v-pie
+            :items="pieChartItems"
+            :legend="{ position: 'right' }"
+            class="pa-2"
+            gap="2"
+            inner-cut="70"
+            item-key="id"
+            rounded="2"
+            :hover-scale="0"
+            :size="250"
+            :animation="{ duration: 1000, easing: 'easeInOutCubic' }"
+            hide-slice
+            reveal
+          >
+            <template #center>
+              <div class="text-center">
+                <div class="text-h2 font-weight-bold">
+                  {{ totalCardCount }}
+                </div>
+                <div class="text-disabled text-body-2 mt-1">张卡</div>
               </div>
-              <div class="text-disabled text-body-2 mt-1">张卡</div>
-            </div>
-          </template>
+            </template>
+            <template #legend="{ items, toggle, isActive }">
+              <div>
+                <v-list class="bg-transparent" density="compact">
+                  <v-list-item
+                    v-for="item in items"
+                    :key="item.key"
+                    :class="['px-2 my-1', { 'opacity-40': !isActive(item) }]"
+                    class="ga-6 h-100"
+                    :title="item.title"
+                    rounded="lg"
+                    link
+                    @click="toggle(item)"
+                  >
+                    <template #prepend>
+                      <v-avatar
+                        :color="item.color"
+                        :size="20"
+                        class="mr-3"
+                        rounded="circle"
+                      ></v-avatar>
+                    </template>
+                    <template #append>
+                      <div class="font-weight-bold">{{ item.value }}</div>
+                    </template>
+                  </v-list-item>
+                </v-list>
+              </div>
+            </template>
+          </v-pie>
+        </div>
 
-          <template #legend="{ items, toggle, isActive }">
-            <div>
-              <v-list class="bg-transparent" density="compact">
-                <v-list-item
-                  v-for="item in items"
-                  :key="item.key"
-                  :class="['px-2 my-1', { 'opacity-40': !isActive(item) }]"
-                  class="ga-6 h-100"
-                  :title="item.title"
-                  rounded="lg"
-                  link
-                  @click="toggle(item)"
-                >
-                  <template #prepend>
-                    <v-avatar
-                      :color="item.color"
-                      :size="20"
-                      class="mr-3"
-                      rounded="circle"
-                    ></v-avatar>
-                  </template>
-                  <template #append>
-                    <div class="font-weight-bold">{{ item.value }}</div>
-                  </template>
-                </v-list-item>
-              </v-list>
-            </div>
-          </template>
-        </v-pie>
+        <v-divider vertical></v-divider>
+
+        <!-- 右側：統計數據 -->
+        <div class="d-flex flex-column justify-center pa-6" style="min-width: 180px">
+          <div class="text-center px-4 py-4">
+            <div class="text-h5 font-weight-bold mb-1">{{ eventCardCount }}</div>
+            <div class="text-body-2 text-disabled">事件卡</div>
+          </div>
+          <v-divider></v-divider>
+          <div class="text-center px-4 py-4">
+            <div class="text-h5 font-weight-bold mb-1">{{ climaxCardCount }}</div>
+            <div class="text-body-2 text-disabled">高潮卡</div>
+          </div>
+          <v-divider></v-divider>
+          <div class="text-center px-4 py-4">
+            <div class="text-h5 font-weight-bold mb-1">{{ totalSoulCount }}</div>
+            <div class="text-body-2 text-disabled">触发魂标</div>
+          </div>
+        </div>
       </div>
 
-      <v-divider></v-divider>
-      <v-card-text class="d-flex text-center py-4">
-        <div class="flex-1 px-2 w-100">
-          <div class="text-h5 font-weight-bold mb-1">{{ eventCardCount }}</div>
-          <div class="text-body-2 text-disabled">事件卡</div>
+      <!-- 移動端：上下佈局 -->
+      <div v-else>
+        <div class="d-flex flex-wrap align-center justify-center pa-4">
+          <v-pie
+            :items="pieChartItems"
+            :legend="{ position: 'bottom' }"
+            class="pa-2"
+            gap="2"
+            inner-cut="70"
+            item-key="id"
+            rounded="2"
+            :hover-scale="0"
+            :size="200"
+            :animation="{ duration: 1000, easing: 'easeInOutCubic' }"
+            hide-slice
+            reveal
+          >
+            <template #center>
+              <div class="text-center">
+                <div class="text-h4 font-weight-bold">
+                  {{ totalCardCount }}
+                </div>
+                <div class="text-disabled text-body-2 mt-1">张卡</div>
+              </div>
+            </template>
+            <template #legend="{ items, toggle, isActive }">
+              <div>
+                <v-list class="bg-transparent" density="compact">
+                  <v-list-item
+                    v-for="item in items"
+                    :key="item.key"
+                    :class="['px-2 my-1', { 'opacity-40': !isActive(item) }]"
+                    class="ga-6 h-100"
+                    :title="item.title"
+                    rounded="lg"
+                    link
+                    @click="toggle(item)"
+                  >
+                    <template #prepend>
+                      <v-avatar
+                        :color="item.color"
+                        :size="20"
+                        class="mr-3"
+                        rounded="circle"
+                      ></v-avatar>
+                    </template>
+                    <template #append>
+                      <div class="font-weight-bold">{{ item.value }}</div>
+                    </template>
+                  </v-list-item>
+                </v-list>
+              </div>
+            </template>
+          </v-pie>
         </div>
-        <v-divider vertical></v-divider>
-        <div class="flex-1 px-2 w-100">
-          <div class="text-h5 font-weight-bold mb-1">{{ climaxCardCount }}</div>
-          <div class="text-body-2 text-disabled">高潮卡</div>
-        </div>
-        <v-divider vertical></v-divider>
-        <div class="flex-1 px-2 w-100">
-          <div class="text-h5 font-weight-bold mb-1">{{ totalSoulCount }}</div>
-          <div class="text-body-2 text-disabled">触发魂标</div>
-        </div>
-      </v-card-text>
+        <v-divider></v-divider>
+        <v-card-text class="d-flex text-center py-4">
+          <div class="flex-1 px-2 w-100">
+            <div class="text-h5 font-weight-bold mb-1">{{ eventCardCount }}</div>
+            <div class="text-body-2 text-disabled">事件卡</div>
+          </div>
+          <v-divider vertical></v-divider>
+          <div class="flex-1 px-2 w-100">
+            <div class="text-h5 font-weight-bold mb-1">{{ climaxCardCount }}</div>
+            <div class="text-body-2 text-disabled">高潮卡</div>
+          </div>
+          <v-divider vertical></v-divider>
+          <div class="flex-1 px-2 w-100">
+            <div class="text-h5 font-weight-bold mb-1">{{ totalSoulCount }}</div>
+            <div class="text-body-2 text-disabled">触发魂标</div>
+          </div>
+        </v-card-text>
+      </div>
     </v-card>
   </div>
 </template>
