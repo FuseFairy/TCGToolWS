@@ -20,8 +20,15 @@
             </div>
 
             <!-- 右側 -->
-            <div class="header-right">
+            <div class="header-right mt-2 ga-2">
               <template v-if="smAndUp">
+                <v-btn
+                  v-if="!uiStore.isTableModeActive"
+                  :size="resize"
+                  :icon="uiStore.showStatsDashboard ? 'mdi-chart-pie' : 'mdi-chart-pie-outline'"
+                  variant="text"
+                  @click="uiStore.showStatsDashboard = !uiStore.showStatsDashboard"
+                ></v-btn>
                 <div style="width: 120px">
                   <v-select
                     v-model="groupBy"
@@ -31,7 +38,6 @@
                     variant="outlined"
                     hide-details
                     :disabled="!deck"
-                    class="mt-2"
                   ></v-select>
                 </div>
               </template>

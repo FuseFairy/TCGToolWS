@@ -55,7 +55,7 @@
             </div>
 
             <!-- 右側 -->
-            <div class="header-right">
+            <div class="header-right mt-2 ga-2">
               <template v-if="smAndUp">
                 <v-btn
                   v-if="!uiStore.isTableModeActive"
@@ -72,7 +72,6 @@
                     density="compact"
                     variant="outlined"
                     hide-details
-                    class="mt-2"
                   ></v-select>
                 </div>
               </template>
