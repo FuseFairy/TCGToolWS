@@ -1,7 +1,11 @@
 <template>
   <div>
     <div class="px-4 pb-4 w-100 h-100 centered-content">
-      <DeckStatsDashboard :grouped-cards="groupedCards" :group-by="groupBy" />
+      <DeckStatsDashboard
+        v-if="uiStore.showStatsDashboard"
+        :grouped-cards="groupedCards"
+        :group-by="groupBy"
+      />
 
       <div v-for="([groupName, group], index) in groupedCards" :key="groupName">
         <div
@@ -110,6 +114,7 @@ import { useCardImage } from '@/composables/useCardImage.js'
 import CardDetailModal from '@/components/card/CardDetailModal.vue'
 import DeckStatsDashboard from '@/components/deck/DeckStatsDashboard.vue'
 import WsIcon from '@/assets/ui/ws-icon.svg?url'
+import { useUIStore } from '@/stores/ui'
 
 const props = defineProps({
   groupedCards: {
@@ -158,6 +163,7 @@ defineEmits(['card-click', 'update:isModalVisible', 'show-new-card', 'prev-card'
 
 const { smAndDown } = useDisplay()
 const theme = useTheme()
+const uiStore = useUIStore()
 
 const iconFilterStyle = computed(() => {
   return theme.global.name.value === 'light' ? 'invert(1)' : 'none'

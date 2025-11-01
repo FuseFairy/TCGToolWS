@@ -57,6 +57,13 @@
             <!-- 右側 -->
             <div class="header-right">
               <template v-if="smAndUp">
+                <v-btn
+                  v-if="!uiStore.isTableModeActive"
+                  :size="resize"
+                  :icon="uiStore.showStatsDashboard ? 'mdi-chart-pie' : 'mdi-chart-pie-outline'"
+                  variant="text"
+                  @click="uiStore.showStatsDashboard = !uiStore.showStatsDashboard"
+                ></v-btn>
                 <div style="width: 120px">
                   <v-select
                     v-model="groupBy"
@@ -128,6 +135,14 @@
     <v-bottom-sheet v-model="showMoreActionsBottomSheet">
       <v-list :class="{ 'glass-sheet': hasBackgroundImage }" rounded="t-xl">
         <v-list-subheader>更多操作</v-list-subheader>
+        <v-list-item @click="handleStatsDashboardClick">
+          <template #prepend>
+            <v-icon v-if="!uiStore.showStatsDashboard">mdi-chart-pie-outline</v-icon>
+            <v-icon v-else>mdi-chart-pie</v-icon>
+          </template>
+          <v-list-item-title v-if="!uiStore.showStatsDashboard">显示统计</v-list-item-title>
+          <v-list-item-title v-else>隐藏统计</v-list-item-title>
+        </v-list-item>
         <v-list-item @click="handleEditDeck">
           <template #prepend>
             <v-icon>mdi-pencil</v-icon>
@@ -440,6 +455,10 @@ const selectGroupBy = (value) => {
 }
 
 const showMoreActionsBottomSheet = ref(false)
+const handleStatsDashboardClick = () => {
+  uiStore.showStatsDashboard = !uiStore.showStatsDashboard
+  showMoreActionsBottomSheet.value = false
+}
 const handleExportClick = () => {
   openExportDialog()
   showMoreActionsBottomSheet.value = false

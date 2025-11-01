@@ -24,6 +24,7 @@ export const useUIStore = defineStore(
     })
     const renderedCardsCount = ref(0)
     const useAdaptiveColor = ref(true)
+    const showStatsDashboard = ref(true)
 
     const backgroundImage = ref(null)
 
@@ -90,6 +91,7 @@ export const useUIStore = defineStore(
       renderedCardsCount,
       setRenderedCardsCount,
       useAdaptiveColor,
+      showStatsDashboard,
       backgroundImage,
       setBackgroundImage,
       updateBackgroundImage,
@@ -100,7 +102,13 @@ export const useUIStore = defineStore(
   {
     persist: {
       storage: localStorage,
-      paths: ['theme', 'isFilterOpen', 'isCardDeckOpen', 'performanceThreshold'],
+      paths: [
+        'theme',
+        'isFilterOpen',
+        'isCardDeckOpen',
+        'performanceThreshold',
+        'showStatsDashboard',
+      ],
     },
   }
 )

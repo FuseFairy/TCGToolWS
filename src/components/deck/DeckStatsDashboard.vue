@@ -271,7 +271,11 @@ const pieChartItems = computed(() => {
     let sliceColor
     if (hasBackgroundImage.value && uiStore.useAdaptiveColor && adaptiveColors.value.length === 0) {
       sliceColor = 'transparent'
-    } else if (hasBackgroundImage.value && uiStore.useAdaptiveColor && adaptiveColors.value.length > 0) {
+    } else if (
+      hasBackgroundImage.value &&
+      uiStore.useAdaptiveColor &&
+      adaptiveColors.value.length > 0
+    ) {
       sliceColor = adaptiveColors.value[index % adaptiveColors.value.length]
     } else if (props.groupBy === 'color') {
       sliceColor = colorMapping[groupKey] || '#BDBDBD'
