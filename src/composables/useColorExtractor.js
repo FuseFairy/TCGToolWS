@@ -1,5 +1,8 @@
 import { ref, watchEffect } from 'vue'
-import { Vibrant } from "node-vibrant/browser";
+import { Vibrant, WorkerPipeline } from 'node-vibrant/worker'
+import PipelineWorker from 'node-vibrant/worker.worker?worker'
+
+Vibrant.use(new WorkerPipeline(PipelineWorker))
 
 export function useColorExtractor(imageUrl) {
   const colors = ref([])
@@ -9,15 +12,17 @@ export function useColorExtractor(imageUrl) {
     if (!imageUrl.value) return
 
     let isCanceled = false
-    onCleanup(() => { isCanceled = true })
+    onCleanup(() => {
+      isCanceled = true
+    })
 
     Vibrant.from(imageUrl.value)
       .getPalette()
-      .then(palette => {
+      .then((palette) => {
         if (isCanceled) return
 
         const colorArray = []
-        
+
         // 按照特定順序提取色票
         const swatchOrder = [
           'Vibrant',
@@ -25,7 +30,7 @@ export function useColorExtractor(imageUrl) {
           'LightVibrant',
           'Muted',
           'DarkMuted',
-          'LightMuted'
+          'LightMuted',
         ]
 
         for (const name of swatchOrder) {
@@ -35,11 +40,12 @@ export function useColorExtractor(imageUrl) {
           }
         }
 
-        colors.value = colorArray.length > 0 
-          ? colorArray 
-          : ['#8CA0A0', '#A7B8B8', '#C1C9C9', '#DADFE0', '#ECEFF0', '#F5F7F7']
+        colors.value =
+          colorArray.length > 0
+            ? colorArray
+            : ['#8CA0A0', '#A7B8B8', '#C1C9C9', '#DADFE0', '#ECEFF0', '#F5F7F7']
       })
-      .catch(error => {
+      .catch((error) => {
         if (isCanceled) return
         console.error('Color extraction failed:', error)
         colors.value = ['#8CA0A0', '#A7B8B8', '#C1C9C9', '#DADFE0', '#ECEFF0', '#F5F7F7']

@@ -163,11 +163,7 @@
               <v-list-item class="px-0">
                 <v-list-item-title>图表自适应色彩</v-list-item-title>
                 <template #append>
-                  <v-switch
-                    v-model="uiStore.useAdaptiveColor"
-                    color="primary"
-                    hide-details
-                  />
+                  <v-switch v-model="uiStore.useAdaptiveColor" color="primary" hide-details />
                 </template>
               </v-list-item>
             </div>
