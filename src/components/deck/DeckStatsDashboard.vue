@@ -164,6 +164,7 @@
 import { computed } from 'vue'
 import { useDisplay } from 'vuetify'
 import { useUIStore } from '@/stores/ui'
+import { useColorExtractor } from '@/composables/useColorExtractor'
 
 const props = defineProps({
   groupedCards: { type: Map, required: true },
@@ -174,6 +175,9 @@ const { smAndUp } = useDisplay()
 const uiStore = useUIStore()
 
 const hasBackgroundImage = computed(() => !!uiStore.backgroundImage)
+const backgroundImageSrc = computed(() => uiStore.backgroundImage?.src)
+
+const { colors: adaptiveColors } = useColorExtractor(backgroundImageSrc)
 const allCards = computed(() => Array.from(props.groupedCards.values()).flat())
 const totalCardCount = computed(() => allCards.value.reduce((sum, card) => sum + card.quantity, 0))
 const eventCardCount = computed(() =>
@@ -249,19 +253,13 @@ const pieChartItems = computed(() => {
     }
 
     let sliceColor
-    if (props.groupBy === 'color') {
+    if (hasBackgroundImage.value && uiStore.useAdaptiveColor && adaptiveColors.value.length > 0) {
+      sliceColor = adaptiveColors.value[index % adaptiveColors.value.length]
+    } else if (props.groupBy === 'color') {
       sliceColor = colorMapping[groupKey] || '#BDBDBD'
     } else {
       sliceColor = activePalette[index]
     }
-
-    // 背景透明度處理
-    sliceColor = hasBackgroundImage.value
-      ? sliceColor.startsWith('hsl')
-        ? sliceColor.replace('hsl', 'hsla').replace(')', ', 0.7)')
-        : sliceColor + 'B3'
-      : sliceColor
-
     items.push({ id: index, title, value: totalQuantity, color: sliceColor })
     index++
   }

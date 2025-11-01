@@ -23,6 +23,7 @@ export const useUIStore = defineStore(
       infScrollResetOpti: false,
     })
     const renderedCardsCount = ref(0)
+    const useAdaptiveColor = ref(true)
 
     const backgroundImage = ref(null)
 
@@ -88,6 +89,7 @@ export const useUIStore = defineStore(
       setPerformanceMode,
       renderedCardsCount,
       setRenderedCardsCount,
+      useAdaptiveColor,
       backgroundImage,
       setBackgroundImage,
       updateBackgroundImage,
