@@ -2,6 +2,8 @@ import { ref, watchEffect } from 'vue'
 import { Vibrant, WorkerPipeline } from 'node-vibrant/worker'
 import PipelineWorker from 'node-vibrant/worker.worker?worker'
 
+FALLBACK_COLORS = ['#8CA0A0', '#A7B8B8', '#C1C9C9', '#DADFE0', '#ECEFF0', '#F5F7F7']
+
 Vibrant.use(new WorkerPipeline(PipelineWorker))
 
 export function useColorExtractor(imageUrl) {
@@ -43,12 +45,12 @@ export function useColorExtractor(imageUrl) {
         colors.value =
           colorArray.length > 0
             ? colorArray
-            : ['#8CA0A0', '#A7B8B8', '#C1C9C9', '#DADFE0', '#ECEFF0', '#F5F7F7']
+            : FALLBACK_COLORS
       })
       .catch((error) => {
         if (isCanceled) return
         console.error('Color extraction failed:', error)
-        colors.value = ['#8CA0A0', '#A7B8B8', '#C1C9C9', '#DADFE0', '#ECEFF0', '#F5F7F7']
+        colors.value = FALLBACK_COLORS
       })
   })
 
