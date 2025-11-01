@@ -22,6 +22,7 @@ export const useUIStore = defineStore(
       sideBarAnimSimp: false,
       infScrollResetOpti: false,
     })
+    const renderedCardsCount = ref(0)
 
     const backgroundImage = ref(null)
 
@@ -34,6 +35,10 @@ export const useUIStore = defineStore(
 
     const setLoading = (status) => {
       isLoading.value = status
+    }
+
+    const setRenderedCardsCount = (count) => {
+      renderedCardsCount.value = count
     }
 
     const setPerformanceMode = (updates) => {
@@ -81,6 +86,8 @@ export const useUIStore = defineStore(
       performanceThreshold,
       isPerformanceMode,
       setPerformanceMode,
+      renderedCardsCount,
+      setRenderedCardsCount,
       backgroundImage,
       setBackgroundImage,
       updateBackgroundImage,

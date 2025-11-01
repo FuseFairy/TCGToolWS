@@ -78,6 +78,7 @@ import { fetchCardsByBaseIdAndPrefix } from '@/utils/card'
 import { useCardImage } from '@/composables/useCardImage.js'
 import { useCardNavigation } from '@/composables/useCardNavigation.js'
 import { useUIStore } from '@/stores/ui'
+import { storeToRefs } from 'pinia'
 import collator from '@/utils/collator.js'
 
 const props = defineProps({
@@ -109,6 +110,7 @@ const props = defineProps({
 
 const { smAndDown, smAndUp, xs } = useDisplay()
 const uiStore = useUIStore()
+const { isPerformanceMode } = storeToRefs(uiStore)
 
 // Handle edge case: In xs layout, when the infinite scroll content is less than or equal to one row,
 // the load function won't be triggered automatically. Therefore, v-progress-circular must be manually hidden.
@@ -121,8 +123,17 @@ const isLoadingLinks = ref(false)
 const isTransitionDisabled = ref(false)
 const isListVisible = ref(true)
 
+const page = ref(1)
 const displayedCards = computed(() => props.cards.slice(0, page.value * props.itemsPerLoad))
 const selectedCard = computed(() => selectedCardData.value?.card)
+
+watch(
+  () => displayedCards.value.length,
+  (newLength) => {
+    uiStore.setRenderedCardsCount(newLength)
+  },
+  { immediate: true }
+)
 
 const { selectedCardIndex, getPrevCard, getNextCard } = useCardNavigation(
   displayedCards,
@@ -190,7 +201,6 @@ const onShowNewCard = async (payload) => {
   await fetchLinkedCards(payload.card)
 }
 
-const page = ref(1)
 const infiniteScrollRef = ref(null)
 
 const load = async ({ done }) => {
@@ -203,7 +213,7 @@ const load = async ({ done }) => {
 }
 
 const reset = async () => {
-  if (shouldBePerformanceMode.value.infScrollResetOpti && page.value > 1) {
+  if (isPerformanceMode.value.infScrollResetOpti && page.value > 1) {
     isListVisible.value = false // Unmount the list container
     await nextTick() // Wait for the DOM to be updated (container removed)
     page.value = 1 // Now that the DOM is clean, reset the page. This won't trigger a large DOM operation because the v-for is not in the DOM.
@@ -286,34 +296,9 @@ const freezeLayout = () => {
   }, 450)
 }
 
-const shouldBePerformanceMode = computed(() => {
-  // A threshold of 0 means performance mode is always on.
-  if (uiStore.performanceThreshold === 0) {
-    return {
-      sideBarAnimSimp: true,
-      infScrollResetOpti: true,
-    }
-  }
-
-  return {
-    sideBarAnimSimp: displayedCards.value.length > uiStore.performanceThreshold,
-    infScrollResetOpti: displayedCards.value.length > parseInt(uiStore.performanceThreshold / 3),
-  }
-})
-
-watch(shouldBePerformanceMode, (isPerformanceMode) => {
-  const currentMode = uiStore.isPerformanceMode
-  if (
-    currentMode.sideBarAnimSimp !== isPerformanceMode.sideBarAnimSimp ||
-    currentMode.infScrollResetOpti !== isPerformanceMode.infScrollResetOpti
-  ) {
-    uiStore.setPerformanceMode(isPerformanceMode)
-  }
-})
-
 // Watch sidebar states from UI store
 watch([() => uiStore.isFilterOpen, () => uiStore.isCardDeckOpen], () => {
-  if (!shouldBePerformanceMode.value.sideBarAnimSimp) freezeLayout()
+  if (!isPerformanceMode.value.sideBarAnimSimp) freezeLayout()
 })
 
 onMounted(() => {
@@ -346,6 +331,7 @@ watch(infiniteScrollRef, (newValue) => {
 })
 
 onUnmounted(() => {
+  uiStore.setRenderedCardsCount(0)
   if (freezeTimeout) {
     clearTimeout(freezeTimeout)
   }

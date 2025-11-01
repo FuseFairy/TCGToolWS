@@ -31,7 +31,11 @@
           <v-list-item>
             <v-list-item-title class="d-flex align-center">
               性能模式启动门槛
-              <v-tooltip text="越低的门槛越容易进入性能模式，简化动画以保证流畅运行" location="top" open-on-click>
+              <v-tooltip
+                text="越低的门槛越容易进入性能模式，简化动画以保证流畅运行"
+                location="top"
+                open-on-click
+              >
                 <template #activator="{ props: tooltipProps }">
                   <v-icon
                     v-bind="tooltipProps"
@@ -52,20 +56,20 @@
               variant="text"
               class="w-100"
             >
-              <v-btn :value="0" class="flex-grow-1" style="min-width: 0px;">
+              <v-btn :value="0" class="flex-grow-1" style="min-width: 0px">
                 <span v-if="!xs" class="text-caption">永久开启</span>
                 <span v-else class="text-caption">无</span>
                 <v-icon v-if="!xs" end icon="mdi-lightning-bolt"></v-icon>
               </v-btn>
-              <v-btn :value="300" class="flex-grow-1" style="min-width: 0px;">
+              <v-btn :value="300" class="flex-grow-1" style="min-width: 0px">
                 <span class="text-caption">低</span>
                 <v-icon v-if="!xs" end icon="mdi-speedometer-slow"></v-icon>
               </v-btn>
-              <v-btn :value="600" class="flex-grow-1" style="min-width: 0px;">
+              <v-btn :value="600" class="flex-grow-1" style="min-width: 0px">
                 <span class="text-caption">中</span>
                 <v-icon v-if="!xs" end icon="mdi-speedometer-medium"></v-icon>
               </v-btn>
-              <v-btn :value="1000" class="flex-grow-1" style="min-width: 0px;">
+              <v-btn :value="1000" class="flex-grow-1" style="min-width: 0px">
                 <span class="text-caption">高</span>
                 <v-icon v-if="!xs" end icon="mdi-speedometer"></v-icon>
               </v-btn>

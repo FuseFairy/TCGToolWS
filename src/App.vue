@@ -132,6 +132,7 @@ import { useRoute, useRouter } from 'vue-router'
 import { useUIStore } from '@/stores/ui'
 import { useAuthStore } from '@/stores/auth'
 import { useSnackbar } from '@/composables/useSnackbar'
+import { usePerformanceManager } from '@/composables/usePerformanceManager'
 import AuthDialog from '@/components/ui/AuthDialog.vue'
 import SettingsModal from '@/components/ui/SettingsModal.vue'
 
@@ -189,6 +190,8 @@ const navItems = [
 
 const vuetifyTheme = useTheme()
 const uiStore = useUIStore()
+
+usePerformanceManager()
 
 const { mdAndDown, smAndDown } = useDisplay()
 
