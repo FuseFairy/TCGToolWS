@@ -140,9 +140,10 @@
   <v-dialog
     v-if="selectedCardData"
     v-model="isModalVisible"
-    :max-width="smAndDown ? '100%' : '60%'"
-    :max-height="smAndDown ? '80%' : '95%'"
-    :min-height="smAndDown ? null : '60%'"
+    :fullscreen="smAndDown"
+    :max-width="smAndDown ? undefined : '60%'"
+    :max-height="smAndDown ? undefined : '95%'"
+    :min-height="smAndDown ? undefined : '60%'"
   >
     <CardDetailModal
       :card="selectedCardData"
