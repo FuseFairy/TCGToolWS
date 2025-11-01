@@ -1,5 +1,5 @@
 import { ref, computed, watch, shallowRef, toRaw, onUnmounted } from 'vue'
-import * as Comlink from 'comlink'
+import { wrap } from 'comlink'
 import FilterWorker from '@/workers/filter.worker.js?worker'
 
 export const useCardFiltering = (
@@ -34,7 +34,7 @@ export const useCardFiltering = (
     if (cards && cards.length > 0) {
       console.log('正在建立並初始化新的 Worker...')
       workerInstance = new FilterWorker()
-      workerApiInstance = Comlink.wrap(workerInstance)
+      workerApiInstance = wrap(workerInstance)
       await workerApiInstance.init(toRaw(cards), toRaw(options))
       await applyKeywordSearchAndFilter() // Trigger initial filtering after worker is ready
     } else {
