@@ -1,23 +1,30 @@
 .themed-scrollbar {
-  --sb-size: 14px;
+  --sb-size: 5px;
 }
 
-.themed-scrollbar::-webkit-scrollbar {
-  width: 6px;
+/* Chrome / Edge / Safari */
+.themed-scrollbar::-webkit-scrollbar,
+.themed-scrollbar textarea::-webkit-scrollbar {
+  width: var(--sb-size);
 }
 
-.themed-scrollbar::-webkit-scrollbar-track {
+.themed-scrollbar::-webkit-scrollbar-track,
+.themed-scrollbar textarea::-webkit-scrollbar-track {
   background: var(--sb-track-color);
   border-radius: 10px;
 }
 
-.themed-scrollbar::-webkit-scrollbar-thumb {
+.themed-scrollbar::-webkit-scrollbar-thumb,
+.themed-scrollbar textarea::-webkit-scrollbar-thumb {
   background: var(--sb-thumb-color);
   border-radius: 10px;
 }
 
+/* Firefox fallback */
 @supports not selector(::-webkit-scrollbar) {
-  .themed-scrollbar {
+  .themed-scrollbar,
+  .themed-scrollbar textarea {
+    scrollbar-width: thin;
     scrollbar-color: var(--sb-thumb-color) var(--sb-track-color);
   }
 }

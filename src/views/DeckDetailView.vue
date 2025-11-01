@@ -9,9 +9,9 @@
               <template v-if="smAndUp">
                 <v-btn
                   :size="resize"
-                  icon="mdi-download"
+                  icon="mdi-export-variant"
                   variant="text"
-                  @click="handleDownloadDeckImage"
+                  @click="openExportDialog"
                 ></v-btn>
                 <v-btn
                   :size="resize"
@@ -36,22 +36,18 @@
               </template>
               <template v-if="!smAndUp">
                 <v-btn
+                  icon
                   :size="resize"
-                  icon="mdi-dots-vertical"
                   variant="text"
                   @click="showMoreActionsBottomSheet = true"
-                ></v-btn>
+                >
+                  <v-icon size="24">mdi-dots-vertical</v-icon>
+                </v-btn>
               </template>
             </div>
 
             <!-- 中間 -->
             <div class="header-center d-flex align-center">
-              <v-btn
-                :size="resize"
-                icon="mdi-arrow-left"
-                variant="text"
-                @click="$router.back()"
-              ></v-btn>
               <h1 v-if="deck" class="text-h6 text-sm-h5 text-truncate">
                 {{ deck.name }}
               </h1>
@@ -69,16 +65,14 @@
                     density="compact"
                     variant="outlined"
                     hide-details
+                    class="mt-2"
                   ></v-select>
                 </div>
               </template>
               <template v-else>
-                <v-btn
-                  :size="resize"
-                  icon="mdi-format-list-bulleted-type"
-                  variant="text"
-                  @click="showBottomSheet = true"
-                ></v-btn>
+                <v-btn icon :size="resize" variant="text" @click="showBottomSheet = true">
+                  <v-icon size="24">mdi-format-list-bulleted-type</v-icon>
+                </v-btn>
               </template>
             </div>
           </div>
@@ -152,14 +146,20 @@
           </template>
           <v-list-item-title>复制卡组代码</v-list-item-title>
         </v-list-item>
-        <v-list-item @click="handleDownloadClick">
+        <v-list-item @click="handleExportClick">
           <template #prepend>
-            <v-icon>mdi-download</v-icon>
+            <v-icon>mdi-export-variant</v-icon>
           </template>
-          <v-list-item-title>下载图片</v-list-item-title>
+          <v-list-item-title>汇出卡组</v-list-item-title>
         </v-list-item>
       </v-list>
     </v-bottom-sheet>
+
+    <DeckExportDialog
+      v-model="exportDialog"
+      :cards="cards"
+      @download-image="handleDownloadDeckImage"
+    />
   </div>
 </template>
 
@@ -179,6 +179,7 @@ import collator from '@/utils/collator.js'
 import { convertElementToPng } from '@/utils/domToImage.js'
 import DeckShareImage from '@/components/deck/DeckShareImage.vue'
 import DeckCardList from '@/components/deck/DeckCardList.vue'
+import DeckExportDialog from '@/components/deck/DeckExportDialog.vue'
 
 const { smAndUp } = useDisplay()
 const resize = computed(() => {
@@ -378,6 +379,15 @@ const handleCardClick = async (item) => {
 
 const deckShareImageRef = ref(null)
 const isGenerationTriggered = ref(false)
+const exportDialog = ref(false)
+
+const openExportDialog = () => {
+  if (!deck.value) {
+    triggerSnackbar('无法导出，卡组数据缺失。', 'error')
+    return
+  }
+  exportDialog.value = true
+}
 
 const handleDownloadDeckImage = () => {
   if (!deck.value) {
@@ -430,8 +440,8 @@ const selectGroupBy = (value) => {
 }
 
 const showMoreActionsBottomSheet = ref(false)
-const handleDownloadClick = () => {
-  handleDownloadDeckImage()
+const handleExportClick = () => {
+  openExportDialog()
   showMoreActionsBottomSheet.value = false
 }
 const handleShareClick = () => {
