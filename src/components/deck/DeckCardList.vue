@@ -9,78 +9,82 @@
         />
       </v-fab-transition>
 
-      <div v-for="([groupName, group], index) in groupedCards" :key="groupName">
-        <div
-          class="d-flex align-center text-subtitle-2 text-disabled mb-1 ga-1"
-          :class="{ 'mt-3': index > 0 }"
-        >
-          <span :class="isLightWithBg ? 'text-grey-lighten-2' : 'text-grey'">
-            {{ getGroupName(groupName) }}</span
-          >
-          <v-chip
-            size="small"
-            variant="tonal"
-            :color="chipColor1"
-            rounded="circle"
-            style="aspect-ratio: 1"
-            class="mr-3 d-inline-flex align-center justify-center"
-          >
-            {{ group.reduce((sum, item) => sum + item.quantity, 0) }}
-          </v-chip>
+      <v-fade-transition :duration="fadeDuration">
+        <div v-show="showCards">
+          <div v-for="([groupName, group], index) in groupedCards" :key="groupName">
+            <div
+              class="d-flex align-center text-subtitle-2 text-disabled mb-1 ga-1"
+              :class="{ 'mt-3': index > 0 }"
+            >
+              <span :class="isLightWithBg ? 'text-grey-lighten-2' : 'text-grey'">
+                {{ getGroupName(groupName) }}</span
+              >
+              <v-chip
+                size="small"
+                variant="tonal"
+                :color="chipColor1"
+                rounded="circle"
+                style="aspect-ratio: 1"
+                class="mr-3 d-inline-flex align-center justify-center"
+              >
+                {{ group.reduce((sum, item) => sum + item.quantity, 0) }}
+              </v-chip>
 
-          <!-- 魂標數量 chip -->
-          <v-chip size="small" variant="tonal" :color="chipColor2" label>
-            <template #prepend>
-              <v-img
-                :src="WsIcon"
-                alt="Back to top"
-                width="14"
-                aspect-ratio="1"
-                draggable="false"
-                class="mr-1"
-                :style="{ filter: iconFilterStyle }"
-              />
-            </template>
-            {{
-              group.reduce((sum, item) => sum + item.quantity * (item.trigger_soul_count || 0), 0)
-            }}
-          </v-chip>
-        </div>
-        <v-row dense class="ma-0">
-          <v-col v-for="item in group" :key="item.id" cols="4" sm="3" md="2">
-            <v-tooltip :text="item.id" location="top center">
-              <template v-slot:activator="{ props }">
-                <div
-                  v-bind="props"
-                  class="card-container deck-detail-card"
-                  @click="$emit('card-click', item)"
-                >
+              <!-- 魂標數量 chip -->
+              <v-chip size="small" variant="tonal" :color="chipColor2" label>
+                <template #prepend>
                   <v-img
-                    :src="useCardImage(item.cardIdPrefix, item.id).value"
-                    :aspect-ratio="400 / 559"
-                    cover
-                    lazy-src="/empty-placehold.webp"
-                    rounded="3md"
-                  >
-                    <template #placeholder>
-                      <div class="d-flex align-center justify-center fill-height">
-                        <v-progress-circular
-                          color="grey-lighten-4"
-                          indeterminate
-                        ></v-progress-circular>
-                      </div>
-                    </template>
-                    <template #error>
-                      <v-img src="/placehold.webp" :aspect-ratio="400 / 559" cover />
-                    </template>
-                  </v-img>
-                  <div class="quantity-badge">{{ item.quantity }}</div>
-                </div>
-              </template>
-            </v-tooltip>
-          </v-col>
-        </v-row>
-      </div>
+                    :src="WsIcon"
+                    alt="Back to top"
+                    width="14"
+                    aspect-ratio="1"
+                    draggable="false"
+                    class="mr-1"
+                    :style="{ filter: iconFilterStyle }"
+                  />
+                </template>
+                {{
+                  group.reduce((sum, item) => sum + item.quantity * (item.trigger_soul_count || 0), 0)
+                }}
+              </v-chip>
+            </div>
+            <v-row dense class="ma-0">
+              <v-col v-for="item in group" :key="item.id" cols="4" sm="3" md="2">
+                <v-tooltip :text="item.id" location="top center">
+                  <template v-slot:activator="{ props }">
+                    <div
+                      v-bind="props"
+                      class="card-container deck-detail-card"
+                      @click="$emit('card-click', item)"
+                    >
+                      <v-img
+                        :src="useCardImage(item.cardIdPrefix, item.id).value"
+                        :aspect-ratio="400 / 559"
+                        cover
+                        lazy-src="/empty-placehold.webp"
+                        rounded="3md"
+                      >
+                        <template #placeholder>
+                          <div class="d-flex align-center justify-center fill-height">
+                            <v-progress-circular
+                              color="grey-lighten-4"
+                              indeterminate
+                            ></v-progress-circular>
+                          </div>
+                        </template>
+                        <template #error>
+                          <v-img src="/placehold.webp" :aspect-ratio="400 / 559" cover />
+                        </template>
+                      </v-img>
+                      <div class="quantity-badge">{{ item.quantity }}</div>
+                    </div>
+                  </template>
+                </v-tooltip>
+              </v-col>
+            </v-row>
+          </div>
+        </div>
+      </v-fade-transition>
     </div>
 
     <v-dialog
@@ -109,7 +113,7 @@
 </template>
 
 <script setup>
-import { computed } from 'vue'
+import { computed, ref, watch } from 'vue'
 import { useTheme } from 'vuetify'
 import { useDisplay } from 'vuetify'
 import { useCardImage } from '@/composables/useCardImage.js'
@@ -166,6 +170,21 @@ defineEmits(['card-click', 'update:isModalVisible', 'show-new-card', 'prev-card'
 const { smAndDown } = useDisplay()
 const theme = useTheme()
 const uiStore = useUIStore()
+
+const showCards = ref(true)
+const fadeDuration = ref(300) // Default fade duration for card list
+
+watch(
+  () => uiStore.showStatsDashboard,
+  (isShowing) => {
+    showCards.value = false
+    fadeDuration.value = isShowing ? 0 : 300
+    setTimeout(() => {
+      fadeDuration.value = 300
+      showCards.value = true
+    }, 300)
+  }
+)
 
 const iconFilterStyle = computed(() => {
   return theme.global.name.value === 'light' ? 'invert(1)' : 'none'
